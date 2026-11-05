@@ -67,6 +67,177 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 05 Nov 2026 08:30:45 +0200"
   },
+  "1mwkbd3": {
+    "id": "1mwkbd3",
+    "type": "news",
+    "headline": "Makers of Ranbir Kapoor and Yash's 'Ramayana' Discuss Retelling the Epic with A.R. Rahman and Hans Zimmer's Score",
+    "dek": "Producer Namit Malhotra and director Nitesh Tiwari open up about bringing the ancient Indian epic to the global screen with a first-time collaboration between music legends A.R. Rahman and Hans Zimmer, backed by Amazon Music and T-Series.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Rishabh Gupta",
+        "Bhushan Kumar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Dangal",
+        "Chhichhore",
+        "Dune: Part Two",
+        "Jai Jai Ram",
+        "Decoding Ramayana with A.R. Rahman"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 film",
+      "Ranbir Kapoor Ramayana",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "AR Rahman Hans Zimmer Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Ramayana-part-1.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Makers of Ranbir Kapoor and Yash's 'Ramayana' Discuss Retelling the Epic with A.R. Rahman and Hans Zimmer's Score",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 05:30:00 +0000"
+  },
+  "1tsk041": {
+    "id": "1tsk041",
+    "type": "news",
+    "headline": "Netflix Brings Compelling Small-Town Western Drama to Streaming Audiences",
+    "dek": "Explore the multi-layered romances, intense property feuds, and concealed secrets that drive the narrative of Netflix's gripping small-town Western series.",
+    "entities": {
+      "people": [
+        "Jennie Richardson",
+        "Jodi Thomas",
+        "Josh Duhamel",
+        "Hubert Smielecki",
+        "Eoin Macken",
+        "Minka Kelly",
+        "Jack Schumacher",
+        "James Brolin",
+        "Marianly Tejada",
+        "Andrew Liner",
+        "Lizzy Greene",
+        "Garrett Wareing",
+        "Clint Eastwood",
+        "Val Kilmer"
+      ],
+      "titles": [
+        "Ransom Canyon",
+        "Dallas",
+        "Yellowstone",
+        "Dollars Trilogy",
+        "Tombstone",
+        "True Grit"
+      ]
+    },
+    "keywords": [
+      "Ransom Canyon",
+      "Josh Duhamel Ransom Canyon",
+      "Jodi Thomas Ransom Canyon books",
+      "Netflix Western series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/ransom-canyon-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Brings Compelling Small-Town Western Drama to Streaming Audiences",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 05:06:12 GMT"
+  },
+  "1rqv9ib": {
+    "id": "1rqv9ib",
+    "type": "news",
+    "headline": "Jang Nara And Park Hae Jin Vie To Recruit Kim Hye Yoon In “Good Partner 2”",
+    "dek": "The upcoming season of the hit K-drama highlights an intense rivalry and a fierce recruitment battle between rival law firms.",
+    "entities": {
+      "people": [
+        "Jang Nara",
+        "Park Hae Jin",
+        "Kim Hye Yoon",
+        "Cha Eun Kyung",
+        "Kang Hye Sung",
+        "Park Tae Su",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Good Partner 2",
+        "Good Partner"
+      ]
+    },
+    "keywords": [
+      "Good Partner 2",
+      "Jang Nara",
+      "Park Hae Jin",
+      "Kim Hye Yoon"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/05111012/good-partner-2.jpg",
+        "caption": "Jang Nara And Park Hae Jin Vie To Recruit Kim Hye Yoon In “Good Partner 2”",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 04:52:20 +0000"
+  },
+  "1x4qhpr": {
+    "id": "1x4qhpr",
+    "type": "news",
+    "headline": "Ramayana Review: Ranbir Kapoor and Yash Lead Nitesh Tiwari's Breathtaking Mythological Spectacle",
+    "dek": "Nitesh Tiwari brings the timeless epic to the big screen with sweeping visuals, powerhouse performances, and Hans Zimmer's stirring score.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Vineeta Kumar",
+        "Anupam Kher",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Hans Zimmer",
+        "Ravie Dubey",
+        "Dashrath",
+        "Kaushalya",
+        "Kaikeyi",
+        "Janak",
+        "Lakshman",
+        "Ravana",
+        "Khar-Dushan",
+        "Kumbhkaran",
+        "Indra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "Yeh Jawaani Hai Deewani"
+      ]
+    },
+    "keywords": [
+      "Ramayana movie review",
+      "Ranbir Kapoor Rama",
+      "Yash Ravana",
+      "Nitesh Tiwari Ramayana",
+      "Sai Pallavi Sita"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-worldwide-044722335-16x9_1.png?VersionId=W00PKzSrqhG6A9scI058iXGtZ.yaahpx",
+        "caption": "Ramayana Review: Ranbir Kapoor and Yash Lead Nitesh Tiwari's Breathtaking Mythological Spectacle",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 10:16:04 +0530"
+  },
   "15jpvm9": {
     "id": "15jpvm9",
     "type": "news",
@@ -4720,187 +4891,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 03 Nov 2026 22:45:38 GMT"
-  },
-  "g4p5sg": {
-    "id": "g4p5sg",
-    "type": "news",
-    "headline": "DC Studios Officially Casts Mason Thames As Robin in Upcoming Animated Film",
-    "dek": "Peter Safran confirms Mason Thames will voice Dick Grayson in Dynamic Duo, sparking questions about potential live-action appearances.",
-    "entities": {
-      "people": [
-        "Mason Thames",
-        "Peter Safran",
-        "James Gunn",
-        "Dave Franco",
-        "O'Shea Jackson Jr.",
-        "Logan Kim",
-        "Curran Walters",
-        "Arthur Mintz",
-        "Theresa Andersson",
-        "Lee Pace",
-        "Steve Buscemi",
-        "Frank Grillo",
-        "Aaron Pierre",
-        "Jeff Sneider"
-      ],
-      "titles": [
-        "Dynamic Duo",
-        "The Black Phone",
-        "How to Train Your Dragon",
-        "Idiots",
-        "Titans",
-        "Superman",
-        "Peacemaker",
-        "Creature Commandos",
-        "The Authority",
-        "Lanterns",
-        "Man of Tomorrow"
-      ]
-    },
-    "keywords": [
-      "Mason Thames Robin",
-      "Dynamic Duo movie",
-      "Peter Safran DC Studios",
-      "Logan Kim Jason Todd"
-    ],
-    "images": [
-      {
-        "url": "https://www.slashfilm.com/img/gallery/dc-studios-officially-casts-mason-thames-as-robin-but-will-he-play-him-in-live-action/l-intro-1793745723.jpg",
-        "caption": "DC Studios Officially Casts Mason Thames As Robin in Upcoming Animated Film",
-        "source": "SlashFilm"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 22:43:35 +0000"
-  },
-  "fvyzjy": {
-    "id": "fvyzjy",
-    "type": "news",
-    "headline": "Five Memorable Films That Abandoned Studio Sets for Authentic Real-World Locations",
-    "dek": "Explore five acclaimed feature films, including Sumo Didi, Zindagi Na Milegi Dobara, and Piku, that utilized genuine physical settings to deepen their narrative authenticity.",
-    "entities": {
-      "people": [
-        "Hetal Dave",
-        "Jayant Rohatgi",
-        "Shriyam Bhagnani",
-        "Zoya Akhtar",
-        "Ritesh Batra",
-        "Alia Bhatt",
-        "Randeep Hooda",
-        "Shoojit Sircar",
-        "Deepika Padukone",
-        "Amitabh Bachchan",
-        "Irrfan Khan"
-      ],
-      "titles": [
-        "Sumo Didi",
-        "Zindagi Na Milegi Dobara",
-        "The Lunchbox",
-        "Highway",
-        "Piku"
-      ]
-    },
-    "keywords": [
-      "Sumo Didi film",
-      "Hetal Dave Sumo Didi",
-      "Zindagi Na Milegi Dobara locations",
-      "Piku film locations",
-      "Highway movie locations"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/somudidipikuzee5highway-81221793744959.jpg",
-        "caption": "Five Memorable Films That Abandoned Studio Sets for Authentic Real-World Locations",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 04:04:05 +0530"
-  },
-  "1let4na": {
-    "id": "1let4na",
-    "type": "news",
-    "headline": "Five Bollywood Actresses Known for Consistent and Powerful Performances",
-    "dek": "A look at five remarkable actresses in Indian cinema who have consistently redefined stardom through complex characters, versatility, and exceptional acting prowess.",
-    "entities": {
-      "people": [
-        "Vidya Balan",
-        "Divya Dutta",
-        "Tabu",
-        "Shefali Shah",
-        "Konkona Sen Sharma"
-      ],
-      "titles": [
-        "The Dirty Picture",
-        "Kahaani",
-        "Tumhari Sulu",
-        "Sherni",
-        "Jalsa",
-        "Veer Zaara",
-        "Bhaag Milkha Bhaag",
-        "Delhi 6",
-        "Chiraiya",
-        "Last Man in Tower",
-        "Gajab Raat",
-        "Maqbool",
-        "Haider",
-        "Andhadhun",
-        "Drishyam",
-        "Bhool Bhulaiyaa 2",
-        "Delhi Crime",
-        "Three of Us",
-        "Darlings",
-        "Mr. and Mrs. Iyer",
-        "Lipstick Under My Burkha",
-        "Dolly Kitty Aur Woh Chamakte Sitare"
-      ]
-    },
-    "keywords": [
-      "Vidya Balan powerful performances",
-      "Tabu versatile actress Bollywood",
-      "Divya Dutta characters",
-      "Shefali Shah complex roles",
-      "Konkona Sen Sharma cinema"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/tabudivyaduttavidyabalan-12191793744145.jpg",
-        "caption": "Five Bollywood Actresses Known for Consistent and Powerful Performances",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 03:48:53 +0530"
-  },
-  "1f1oimh": {
-    "id": "1f1oimh",
-    "type": "news",
-    "headline": "Jury Begins Deliberating in Russell Brand Trial as Judge Mandates Unanimous Verdict",
-    "dek": "After weeks of testimony at London's Southwark Crown Court, twelve jurors have started weighing evidence in the sexual assault trial of actor and comedian Russell Brand.",
-    "entities": {
-      "people": [
-        "Russell Brand",
-        "Laura Gallacher",
-        "Joel Bennathan",
-        "Ian Winter",
-        "Katy Perry"
-      ],
-      "titles": [
-        "Forgetting Sarah Marshall",
-        "Get Him to the Greek"
-      ]
-    },
-    "keywords": [
-      "Russell Brand trial",
-      "Russell Brand court verdict",
-      "Southwark Crown Court trial",
-      "Russell Brand sexual assault charges"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135513452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Jury Begins Deliberating in Russell Brand Trial as Judge Mandates Unanimous Verdict",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-04T03:16:56+05:30"
   },
   "zjcoxh": {
     "id": "zjcoxh",

@@ -61754,5 +61754,407 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 08:54:07 +0530"
+  },
+  "1mwkbd3": {
+    "id": "1mwkbd3",
+    "type": "news",
+    "headline": "Makers of Ranbir Kapoor and Yash's 'Ramayana' Discuss Retelling the Epic with A.R. Rahman and Hans Zimmer's Score",
+    "dek": "Producer Namit Malhotra and director Nitesh Tiwari open up about bringing the ancient Indian epic to the global screen with a first-time collaboration between music legends A.R. Rahman and Hans Zimmer, backed by Amazon Music and T-Series.",
+    "body": [
+      {
+        "h": "Bringing the Epic to Global Screens",
+        "p": [
+          "The cinematic adaptation of the ancient Indian epic titled 'Ramayana Part 1' arrives worldwide on November 5. Producer Namit Malhotra explained that this ambitious project only moved forward once the necessary filmmaking experience, talent, and visual effects capabilities were fully established.",
+          "The production is a collaborative effort between Malhotra's Prime Focus Studios and Yash's Monster Mind Creations, with visual effects handled by DNEG and its sister company ReDefine. Malhotra emphasized that telling this story carries immense responsibility given its cultural significance."
+        ]
+      },
+      {
+        "h": "Directing the Characters and Drama",
+        "p": [
+          "Helmed by director Nitesh Tiwari, known for 'Dangal' and 'Chhichhore', the first of the two planned films features Ranbir Kapoor as Rama, Sai Pallavi as Sita, and Yash as the king of Lanka, Ravana. Tiwari focused heavily on the intimate relationships, difficult choices, and raw emotions of the characters rather than relying solely on the grandeur of the setting.",
+          "Because the overarching plot points of the source material are familiar to millions of viewers, Tiwari noted that the dramatic weight relies on authentic human interactions. He aimed to make every scene feel immediate and truthful so that audiences experience the emotional journey rather than just recognizing familiar events."
+        ]
+      },
+      {
+        "h": "A Historic Musical Collaboration",
+        "p": [
+          "Music serves as a core pillar of the production, uniting acclaimed composers A.R. Rahman and Hans Zimmer on an Indian film project for the very first time. Malhotra stated that there was never a backup plan, desiring a fresh sound that merges familiar emotional resonance with contemporary melodies.",
+          "The orchestral score was recorded at AIR Studios in London, uniting Indian and Western musicians to craft a soundscape designed to travel across borders. T-Series acts as the music label, working alongside the filmmakers to curate the release strategy."
+        ]
+      },
+      {
+        "h": "Strategic Musical Rollout and Singles",
+        "p": [
+          "The filmmakers planned out distinct release windows for individual tracks to build early audience engagement before the film's theatrical debut. The first single, titled 'Jai Jai Ram', arrived on September 14 to coincide with the Ganesh Chaturthi festival celebrations.",
+          "Tiwari collaborated closely with the music and marketing teams to ensure that the visual framing of each song introduces viewers to the film's emotional core without spoiling the narrative surprises reserved for the cinema."
+        ]
+      },
+      {
+        "h": "Amazon Music's Streaming Partnership",
+        "p": [
+          "Amazon Music partnered with the production as the exclusive music streaming platform, aiming to make Indian film albums break on a global scale. Rishabh Gupta, general manager of Amazon Music India, noted that the streamer launched a dedicated destination for the album featuring four new playlists named after characters from the epic.",
+          "As part of the promotional push, the platform hosted a live celebration at the Chennai Trade Centre on October 21 where Rahman performed tracks live alongside Kapoor, Pallavi, and Yash. Additionally, a short-form video series titled 'Decoding Ramayana with A.R. Rahman' is being rolled out across Instagram and YouTube."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Part Two",
+        "p": [
+          "Looking toward the future of the franchise, Malhotra hopes the music will maintain the emotional connection with audiences during the interval leading up to the second installment. The strategy relies on listeners keeping the soundtrack in rotation so they return to theaters feeling deeply connected to the world.",
+          "Bhushan Kumar of T-Series echoed these sentiments, expressing hope that the collaborative soundtrack will transcend the cinematic release to become a lasting cultural and emotional experience for multiple generations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of 'Ramayana Part 1' discussed their vision for adapting the classic epic for global audiences ahead of its November 5 worldwide release. The production features star-length performances from Ranbir Kapoor, Sai Pallavi, and Yash under the direction of Nitesh Tiwari, complemented by a historic musical collaboration between A.R. Rahman and Hans Zimmer."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 opens worldwide on November 5",
+      "Namit Malhotra is the founder and CEO of DNEG and Prime Focus Studios",
+      "Nitesh Tiwari previously directed Dangal and Chhichhore",
+      "Ranbir Kapoor plays Rama, Sai Pallavi plays Sita, and Yash plays Ravana",
+      "A.R. Rahman and Hans Zimmer are collaborating on an Indian film for the first time",
+      "The first single Jai Jai Ram arrived on September 14 for Ganesh Chaturthi",
+      "Amazon Music hosted an event at the Chennai Trade Centre on October 21"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Rishabh Gupta",
+        "Bhushan Kumar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Dangal",
+        "Chhichhore",
+        "Dune: Part Two",
+        "Jai Jai Ram",
+        "Decoding Ramayana with A.R. Rahman"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 film",
+      "Ranbir Kapoor Ramayana",
+      "Namit Malhotra Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "AR Rahman Hans Zimmer Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Ramayana-part-1.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Makers of Ranbir Kapoor and Yash's 'Ramayana' Discuss Retelling the Epic with A.R. Rahman and Hans Zimmer's Score",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 05:30:00 +0000"
+  },
+  "1x4qhpr": {
+    "id": "1x4qhpr",
+    "type": "news",
+    "headline": "Ramayana Review: Ranbir Kapoor and Yash Lead Nitesh Tiwari's Breathtaking Mythological Spectacle",
+    "dek": "Nitesh Tiwari brings the timeless epic to the big screen with sweeping visuals, powerhouse performances, and Hans Zimmer's stirring score.",
+    "body": [
+      {
+        "h": "Reimagining an Enduring Epic",
+        "p": [
+          "Retelling a story deeply embedded in cultural memory is a mammoth undertaking, but director Nitesh Tiwari steps up to the challenge with his latest cinematic venture. Ramayana: Rise of a Legend attempts to bring India's most cherished tale to life on a scale larger than traditional cinema. Armed with a celebrated ensemble cast and extraordinary production values, the film strives to make audiences feel the weight and magic of the epic all over again.",
+          "While the narrative stays true to the core spirit of the classic saga, it is carefully adapted for modern viewers. The movie balances grand cinematic brilliance with heartfelt nostalgia, reminding audiences of the emotional resonance of watching the tale unfold surrounded by family."
+        ]
+      },
+      {
+        "h": "The Journey of Rama and the Burden of Duty",
+        "p": [
+          "The story follows Lord Rama, the human avatar of Lord Vishnu born to King Dashrath and Queen Kaushalya in Ayodhya. Rather than focusing solely on his martial prowess, the narrative highlights his unwavering commitment to righteousness, deep respect for others, and strong personal connections. After winning the hand of Sita, the daughter of King Janak, in a swayamvar, Rama prepares for his coronation.",
+          "Fate intervenes when his stepmother Kaikeyi invokes two promises from Dashrath, demanding a 14-year exile for Rama. Bound by duty and respect for his father's word, Rama accepts without protest, accompanied into the forest by Sita and his loyal brother Lakshman. Their journey takes a perilous turn when the demon king Ravana abducts Sita, setting the stage for a massive conflict."
+        ]
+      },
+      {
+        "h": "Visual Grandeur and Production Scale",
+        "p": [
+          "A story of this magnitude requires a visual language to match its grand ambitions, and the film delivers with breathtaking action sequences and sweeping landscapes. The much-discussed Rs 2,000 crore budget is visible in every corner of the production, from elaborate architecture and mythical creatures to distinct celestial realms. The film manages to keep several visual surprises hidden from the promotional trailers, rewarding theatergoers with vast, undiscovered worlds.",
+          "However, the movie is not without flaws. The use of artificial intelligence-generated imagery is occasionally distracting, with certain creatures like Khar-Dushan and Kumbhkaran appearing too caricature-like. These brief visual hiccups sometimes disrupt the otherwise immersive and authentic universe constructed by the filmmakers."
+        ]
+      },
+      {
+        "h": "Powerful Performances and Character Agency",
+        "p": [
+          "Ranbir Kapoor gradually settles into the stillness and restraint required to portray Lord Rama, shedding familiar mannerisms to deliver a grounded and convincing performance. Opposite him, Sai Pallavi brings immense strength and dignity to the role of Sita. Eschewing the traditional damsel-in-distress trope, Tiwari portrays Sita as a healer, warrior, and active participant who fights alongside Rama and retains her agency throughout the ordeal.",
+          "Ravie Dubey stands out as Lakshman, conveying deep emotional attachment and sharp dialogue delivery with remarkable clarity. Meanwhile, Yash commands the screen as Ravana, effortlessly balancing anger, pride, and an undeniable charm that makes him the ultimate lord of the three worlds."
+        ]
+      },
+      {
+        "h": "The Emotional Core and Musical Brilliance",
+        "p": [
+          "Beyond the grand battles and divine weaponry, the film finds its true heart in quiet human moments. The poignant separation between Rama and Dashrath, the helplessness of a grieving father, and the emotional fallout of the exile bring a heavy and affecting weight to the narrative.",
+          "Hans Zimmer's background score serves as one of the project's greatest creative assets. The music introduces a spiritual dimension and grand emotional sweep, elevating ordinary cinematic battles into divine spectacles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari has released the worldwide cinematic adaptation Ramayana: Rise of a Legend, starring Ranbir Kapoor as Rama, Sai Pallavi as Sita, and Yash as Ravana. The film blends massive visual scale and Hans Zimmer's score with emotional storytelling, despite some critiques regarding artificial imagery."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend released worldwide on November 5, 2026.",
+      "The film is directed by Nitesh Tiwari.",
+      "Ranbir Kapoor stars as Lord Rama.",
+      "Sai Pallavi stars as Goddess Sita.",
+      "Yash stars as the demon king Ravana.",
+      "Ravie Dubey plays the role of Lakshman."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Vineeta Kumar",
+        "Anupam Kher",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Hans Zimmer",
+        "Ravie Dubey",
+        "Dashrath",
+        "Kaushalya",
+        "Kaikeyi",
+        "Janak",
+        "Lakshman",
+        "Ravana",
+        "Khar-Dushan",
+        "Kumbhkaran",
+        "Indra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "Yeh Jawaani Hai Deewani"
+      ]
+    },
+    "keywords": [
+      "Ramayana movie review",
+      "Ranbir Kapoor Rama",
+      "Yash Ravana",
+      "Nitesh Tiwari Ramayana",
+      "Sai Pallavi Sita"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-worldwide-044722335-16x9_1.png?VersionId=W00PKzSrqhG6A9scI058iXGtZ.yaahpx",
+        "caption": "Ramayana Review: Ranbir Kapoor and Yash Lead Nitesh Tiwari's Breathtaking Mythological Spectacle",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 10:16:04 +0530"
+  },
+  "1rqv9ib": {
+    "id": "1rqv9ib",
+    "type": "news",
+    "headline": "Jang Nara And Park Hae Jin Vie To Recruit Kim Hye Yoon In “Good Partner 2”",
+    "dek": "The upcoming season of the hit K-drama highlights an intense rivalry and a fierce recruitment battle between rival law firms.",
+    "body": [
+      {
+        "h": "Introduction To Season 2",
+        "p": [
+          "Following the successful run of the first season, the popular television series returns to depict another engaging and cathartic divorce drama. The narrative centers on the professional and personal dynamics of star divorce lawyer Cha Eun Kyung and experienced attorney Kang Hye Sung as they navigate their partnership.",
+          "With new episodes on the horizon, the plot thickens as the legal professionals encounter fresh challenges, complex cases, and high-stakes competition within their specialized field of divorce law."
+        ]
+      },
+      {
+        "h": "The Neighboring Rival Firms",
+        "p": [
+          "A fierce rivalry takes center stage as two opposing legal practices find themselves sharing the same building situated right across from the local courthouse. The physical proximity of their offices amplifies the professional tension between the competing teams.",
+          "Cha Eun Kyung operates her practice from the seventh floor at Rebom, while the rival firm, Law Firm Taesu, is positioned directly above on the eighth floor, setting the stage for ongoing friction and neighborhood clashes."
+        ]
+      },
+      {
+        "h": "The Battle For Recruitment",
+        "p": [
+          "Beyond sharing office real estate, the two rival entities engage in a head-to-head competition to secure the talents of Kang Hye Sung. Both practices deploy distinct approaches to convince the seasoned attorney to join their ranks.",
+          "Cha Eun Kyung relies on her veteran expertise and deep industry standing, whereas rival leader Park Tae Su pushes aggressively to make his mark as the top divorce specialist by attempting to sway Kang Hye Sung to his side."
+        ]
+      },
+      {
+        "h": "Clues And Character Reactions",
+        "p": [
+          "Recent preview stills offer a glimpse into the ongoing recruitment struggle, capturing Kang Hye Sung as she curiously explores the Rebom office space. Her positive reaction to receiving a business card adds intrigue to the situation.",
+          "These interactions hint at the difficult choice facing Kang Hye Sung as she weighs the competing offers from the neighboring firms operating out of the very same building."
+        ]
+      },
+      {
+        "h": "Cast Insights On New Characters",
+        "p": [
+          "Lead actress Jang Nara spoke about the introduction of the fresh face, noting that the new attorney features a multi-faceted personality defined by strong professional beliefs alongside a naturally conflicted relationship with the main protagonist.",
+          "Actor Park Hae Jin further elaborated on the complex dynamic between their respective characters, explaining that his role involves a mix of genuine respect and underlying competitive tension toward Cha Eun Kyung."
+        ]
+      },
+      {
+        "h": "Release Schedule And Platform",
+        "p": [
+          "Fans eagerly anticipating the continuation of the legal drama will not have to wait much longer, as the premiere date has been officially scheduled for late November.",
+          "The upcoming season is set to broadcast at a prime evening timeslot, and global audiences will be able to stream the episodes directly through Viki."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Good Partner 2 features an intense recruitment battle between rival lawyers Jang Nara and Park Hae Jin as they attempt to secure Kim Hye Yoon. The series premieres on November 20 at 9:50 p.m. KST on Viki."
+        ]
+      }
+    ],
+    "facts": [
+      "Good Partner 2 premieres on November 20 at 9:50 p.m. KST",
+      "Jang Nara stars as Cha Eun Kyung",
+      "Park Hae Jin plays Park Tae Su",
+      "Kim Hye Yoon plays Kang Hye Sung",
+      "Rebom is located on the seventh floor",
+      "Law Firm Taesu is located on the eighth floor"
+    ],
+    "entities": {
+      "people": [
+        "Jang Nara",
+        "Park Hae Jin",
+        "Kim Hye Yoon",
+        "Cha Eun Kyung",
+        "Kang Hye Sung",
+        "Park Tae Su",
+        "R Suhaila"
+      ],
+      "titles": [
+        "Good Partner 2",
+        "Good Partner"
+      ]
+    },
+    "keywords": [
+      "Good Partner 2",
+      "Jang Nara",
+      "Park Hae Jin",
+      "Kim Hye Yoon"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/05111012/good-partner-2.jpg",
+        "caption": "Jang Nara And Park Hae Jin Vie To Recruit Kim Hye Yoon In “Good Partner 2”",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 04:52:20 +0000"
+  },
+  "1tsk041": {
+    "id": "1tsk041",
+    "type": "news",
+    "headline": "Netflix Brings Compelling Small-Town Western Drama to Streaming Audiences",
+    "dek": "Explore the multi-layered romances, intense property feuds, and concealed secrets that drive the narrative of Netflix's gripping small-town Western series.",
+    "body": [
+      {
+        "h": "The Appeal of Modern Television Westerns",
+        "p": [
+          "Soapy television Westerns have consistently provided viewers with deeply absorbing viewing experiences. Balancing turbulent personal conflicts with picturesque rural settings, these programs offer an immersive escape into dramatic storytelling.",
+          "Shows set against rustic backdrops effortlessly capture audience attention through high-stakes interpersonal relationships. The combination of intense property disputes and tangled romantic pursuits ensures that there is never a dull moment on screen."
+        ]
+      },
+      {
+        "h": "Discovering Ransom Canyon on Netflix",
+        "p": [
+          "Adapted from the popular literary works penned by Jodi Thomas, Ransom Canyon delivers a compelling blend of small-town drama and romantic tension. The narrative centers on deeply ingrained community ties and unexpected narrative twists.",
+          "Although the production concluded its run after two seasons, it remains a favorite for enthusiasts of lighthearted Western romances. Its multi-generational focus provides plenty of material for an engaging weekend binge-watch."
+        ]
+      },
+      {
+        "h": "Staten Kirkland and Personal Tragedy",
+        "p": [
+          "At the focal point of the narrative is Staten Kirkland, a prominent ranch owner in Ransom Canyon, Texas. He has spent his entire life in the region, enduring significant personal grief along the way.",
+          "Following the loss of his wife, Staten faced the devastating death of his teenage son, Randall, in a vehicular accident. Navigating these emotional scars forms a central pillar of his journey throughout the series."
+        ]
+      },
+      {
+        "h": "Land Disputes and Complex Romances",
+        "p": [
+          "As Staten attempts to rebuild his life, pressure mounts from his former brother-in-law, Davis Collins. Davis pushes for land acquisitions to facilitate a new pipeline project across the territory.",
+          "Simultaneously, Staten navigates a complicated romantic landscape as his long-standing feelings for his friend Quinn O'Grady resurface. This emotional connection is further complicated when Davis pursues a romance with Quinn as well."
+        ]
+      },
+      {
+        "h": "Mysterious Newcomers and Hidden Agendas",
+        "p": [
+          "The web of intrigue expands with the arrival of Yancy Grey, a newcomer who begins working for fellow rancher Cap Fuller. Cap's land is also a target for the proposed pipeline development.",
+          "While Yancy initially appears industrious and grows close to Quinn's friend Ellie Estevez, he carries substantial secrets. Ellie soon discovers that Yancy's presence in the town is far from accidental."
+        ]
+      },
+      {
+        "h": "High-Stakes Family Pressures",
+        "p": [
+          "Meanwhile, Davis's son Reid struggles to cope following the tragic death of his cousin Randall. Unbeknownst to Reid, his former partner Lauren engages in a secret relationship with his closest friend, Lucas.",
+          "Davis himself faces severe financial jeopardy tied to family debt, making the pipeline project an existential necessity for retaining his generational property. Every resident has significant stakes tied to the outcome of these negotiations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's two-season Western series adapts Jodi Thomas's books to showcase the dramatic lives of residents in Ransom Canyon, Texas. Anchored by characters like Staten Kirkland and Yancy Grey, the show intertwines romance, land disputes, and family secrets into an engaging streaming experience."
+        ]
+      }
+    ],
+    "facts": [
+      "Ransom Canyon is based on the book series by Jodi Thomas.",
+      "The show features characters such as Staten Kirkland played by Josh Duhamel.",
+      "Staten's son Randall died in a car accident two years after the death of Staten's wife.",
+      "Davis Collins is played by Eoin Macken.",
+      "Quinn O'Grady is played by Minka Kelly.",
+      "Yancy Grey is played by Jack Schumacher.",
+      "Cap Fuller is played by James Brolin.",
+      "Ellie Estevez is played by Marianly Tejada.",
+      "Reid is played by Andrew Liner.",
+      "Lauren is played by Lizzy Greene.",
+      "Lucas is played by Garrett Wareing."
+    ],
+    "entities": {
+      "people": [
+        "Jennie Richardson",
+        "Jodi Thomas",
+        "Josh Duhamel",
+        "Hubert Smielecki",
+        "Eoin Macken",
+        "Minka Kelly",
+        "Jack Schumacher",
+        "James Brolin",
+        "Marianly Tejada",
+        "Andrew Liner",
+        "Lizzy Greene",
+        "Garrett Wareing",
+        "Clint Eastwood",
+        "Val Kilmer"
+      ],
+      "titles": [
+        "Ransom Canyon",
+        "Dallas",
+        "Yellowstone",
+        "Dollars Trilogy",
+        "Tombstone",
+        "True Grit"
+      ]
+    },
+    "keywords": [
+      "Ransom Canyon",
+      "Josh Duhamel Ransom Canyon",
+      "Jodi Thomas Ransom Canyon books",
+      "Netflix Western series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/12/ransom-canyon-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Brings Compelling Small-Town Western Drama to Streaming Audiences",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 05:06:12 GMT"
   }
 };
