@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-04T07:51:51Z",
-    "run_id": "41795060951",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Ranveer Singh Outpaces Ranbir Kapoor in Advance Ticket Sales as Dhurandhar 2 Holds the Throne",
-      "Namit Malhotra Confirms Ramayana Part 2 Postponed to 2028 and Hints at Possible Trilogy",
-      "Sam Fender Covers The Rolling Stones for John Lewis Christmas Campaign",
-      "Ramayana Projected For Rs 160 Crore Opening Day As Global Pre-Sales Surge"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-04T08:52:13Z",
     "run_id": "41802603035",
     "status": "success",
@@ -1475,6 +1452,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-05T09:04:25Z",
+    "run_id": "41997583020",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1912,25 +1907,6 @@
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-04T09:52:52Z",
-    "run_id": "41810242859",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1tblyma"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2374,6 +2350,23 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-05T09:04:26Z",
+    "run_id": "41997583020",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -3056,29 +3049,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-04T09:52:51Z",
-    "run_id": "41810242859",
-    "status": "success",
-    "checked": {
-     "candidates": 588,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ha Yun Kyung Steps Into The Goryeo Era As A Guide For Ahn Bo Hyun In New JTBC Drama Sacred Jewel",
-      "'Mogging' Named Collins Dictionary's Word of the Year 2026",
-      "Ramayana Worldwide Advance Sales Cross 150 Crore Gross Following Strong Early Screenings",
-      "Ranbir Kapoor Shares That Daughter Raha Filmed Scenes With Sai Pallavi On Ramayana Set"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 588 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-04T10:54:30Z",
     "run_id": "41816859575",
     "status": "success",
@@ -3595,6 +3565,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-05T09:04:25Z",
+    "run_id": "41997583020",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8324,5 +8312,5 @@
    }
   ]
  },
- "updated_at": "2026-11-05T08:57:48Z"
+ "updated_at": "2026-11-05T09:04:26Z"
 }
