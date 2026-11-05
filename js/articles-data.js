@@ -64957,5 +64957,374 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 17:40:24 +0000"
+  },
+  "c8dwrt": {
+    "id": "c8dwrt",
+    "type": "news",
+    "headline": "Peace Will Never Go Out of Fashion: Agastya Nanda Reflects on Ikkis",
+    "dek": "Unfazed by box-office verdicts, the young actor defends Sriram Raghavan’s war drama and embraces the unvarnished commercial realities of showbiz.",
+    "body": [
+      {
+        "h": "Introduction to Ikkis and Commercial Realities",
+        "p": [
+          "In an industry obsessed with weekend opening numbers and box-office verdicts, actor Agastya Nanda is taking an admirably grounded view of cinema. Following his big-screen theatrical outing in Sriram Raghavan's biographical war drama Ikkis, the actor has opened up about navigating commercial headwinds with grace.",
+          "While the film may not have set cash registers ringing, its anti-war ethos and heartfelt storytelling remain an enduring badge of pride for its leading star."
+        ]
+      },
+      {
+        "h": "Honoring a Hero on the Big Screen",
+        "p": [
+          "Centred on Param Vir Chakra hero Second Lieutenant Arun Khetarpal, who was martyred at 21 during the 1971 Battle of Basantar, the film stood apart for its humanistic outlook.",
+          "Reflecting on the box-office outcome, Agastya told PTI that Ikkis may not have done well commercially, but none of them stand there like failures, adding that they have a lot of pride for the film they made."
+        ]
+      },
+      {
+        "h": "Gratitude for the Message of Peace",
+        "p": [
+          "The leading star expressed that they will be forever grateful for preaching peace and love, emphasizing that peace will never go out of fashion.",
+          "Displaying maturity beyond his years, The Archies breakout star acknowledged the harsh realities of film economics rather than romanticising box-office failure."
+        ]
+      },
+      {
+        "h": "Understanding the Business of Cinema",
+        "p": [
+          "Agastya spoke candidly about industry dynamics, noting that there is a practicality to films at the end of the day because many people earn daily wages on that film, and it is okay to be responsible for that.",
+          "He further explained that if you are a star and you are making money, you will get bigger films, and if you are not, you won't, pointing out that it is not a personal thing but commerce."
+        ]
+      },
+      {
+        "h": "The Creative Industry and Financial Laws",
+        "p": [
+          "The actor noted that people forget it is an industry because it is creative, yet it follows the laws of any industry, which is that people need to make money.",
+          "He observed that if you cannot guarantee their money, then they do not want to take a chance."
+        ]
+      },
+      {
+        "h": "Collaborations and Future Patience",
+        "p": [
+          "Co-starring the late Dharmendra and Jaideep Ahlawat, Ikkis proved that artistic conviction often outlasts theatrical runs.",
+          "Agastya remains patient, stating he is happy to earn his stripes rather than rush into big-ticket films."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Agastya Nanda has reflected on the commercial performance of Sriram Raghavan's biographical war drama Ikkis, which centres on Second Lieutenant Arun Khetarpal. While acknowledging the financial realities and practicalities of the film industry, the young star expressed immense pride in the project's anti-war message and remains patient about his career path."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 5, 2026, 18:10 IST",
+      "Written by Khushi Mundhwa",
+      "Second Lieutenant Arun Khetarpal was martyred at 21 during the 1971 Battle of Basantar",
+      "Agastya Nanda starred in The Archies"
+    ],
+    "entities": {
+      "people": [
+        "Agastya Nanda",
+        "Sriram Raghavan",
+        "Arun Khetarpal",
+        "Khushi Mundhwa",
+        "Dharmendra",
+        "Jaideep Ahlawat"
+      ],
+      "titles": [
+        "Ikkis",
+        "The Archies"
+      ]
+    },
+    "keywords": [
+      "Agastya Nanda Ikkis",
+      "Sriram Raghavan war drama",
+      "Second Lieutenant Arun Khetarpal film",
+      "Ikkis box office reaction"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/agastyanandasooo1793876957.jpg",
+        "caption": "Peace Will Never Go Out of Fashion: Agastya Nanda Reflects on Ikkis",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T18:10:16+05:30"
+  },
+  "1kdle89": {
+    "id": "1kdle89",
+    "type": "news",
+    "headline": "Matt Damon Reflects on When He Finally Knew The Odyssey Would Be a Massive Hit",
+    "dek": "Academy Award-winning actor Matt Damon opens up about the uncertainty surrounding Christopher Nolan's blockbuster adaptation of Homer's epic, sharing the exact moment he realized the risky project was a certified phenomenon.",
+    "body": [
+      {
+        "h": "The Illusion of a Guaranteed Success",
+        "p": [
+          "Given the remarkable track record of filmmaker Christopher Nolan, spectators and industry observers naturally assumed that his grand adaptation of Homer's ancient epic would immediately dominate the global box office. The anticipation reached a fever pitch once the sweeping, star-studded cast list was officially unveiled to the public, prompting many to treat the blockbuster's triumphant run as an absolute certainty from the very beginning.",
+          "However, veteran actor Matt Damon holds a much more grounded perspective on the volatile nature of the entertainment industry. When a reporter from GQ suggested to the star that the project was inherently destined to become an undeniable smash hit, Damon pushed back against the notion by reminding everyone that guarantees simply do not exist in modern cinema."
+        ]
+      },
+      {
+        "h": "When Reality Set In For the Cast",
+        "p": [
+          "Faced with the question of when he personally recognized that he was participating in a massive cultural sensation, the Oscar-winning performer offered a deeply reflective answer. Damon noted that actors frequently pour their hearts into making motion pictures that they genuinely believe in, only to watch those creative endeavors fail to connect with audiences due to factors entirely outside of anyone's control.",
+          "For this particular feature, reassurance arrived in stages as the project finally met the public eye. Damon explained that his initial confidence grew when he first watched the completed feature himself, a feeling that was subsequently reinforced when early audience feedback and overwhelmingly stellar critical reviews began pouring in from around the world."
+        ]
+      },
+      {
+        "h": "Christopher Nolan's Pre-Release Nerves",
+        "p": [
+          "Even with a stacked ensemble cast and a legendary director at the helm, the transition from production to theatrical release is always fraught with anxiety. Damon pulled back the curtain on the creative process by revealing that the visionary filmmaker is famously at his most nervous right on the eve of his movies premiering to the public.",
+          "According to the actor, the director openly acknowledges his intense pre-release jitters because that specific juncture represents the terrifying moment when art is handed over to the public. Ultimately, the final verdict always rests with the ticket-buying audience, forcing creators to live with the reception whether it brings triumph or disappointment."
+        ]
+      },
+      {
+        "h": "Navigating High-Stakes Financial Pressure",
+        "p": [
+          "Stepping into a production of this magnitude meant playing in an entirely different financial league than what the celebrated actor is typically accustomed to handling. Financial reports indicate that the cinematic adaptation carried a hefty production budget of $250 million, paired alongside an additional $125 million dedicated strictly to marketing efforts.",
+          "Industry estimates calculated that the feature needed to generate anywhere between $625 million and $750 million globally simply to break even on its massive investments. Damon admitted that reaching those towering financial milestones requires a scale of commercial success far beyond the typical dramas and thrillers that have defined much of his acclaimed career."
+        ]
+      },
+      {
+        "h": "Soaring Box Office and Global Reach",
+        "p": [
+          "Those high-stakes financial worries were ultimately put to rest as the cinematic event drew massive crowds to theaters worldwide. The epic feature ultimately pulled in an astonishing $1.7 billion globally alongside a domestic gross of $625 million, establishing itself firmly as a monumental cultural and financial triumph.",
+          "At the time of reporting, these staggering figures positioned the blockbuster as the second-highest-grossing film of the year, trailing only behind Spider-Man: Brand New Day. Once the theatrical numbers confirmed its historic run, the creative team could finally breathe a collective sigh of relief knowing their massive gamble had paid off."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Awards Season",
+        "p": [
+          "With the theatrical run firmly secured as a historic victory, attention naturally shifts toward the upcoming Hollywood awards season. Industry analysts fully expect both the blockbuster and its leading cast members to emerge as heavy favorites and major contenders in the upcoming Academy Awards race.",
+          "As the conversation pivots from box office dominance to critical accolades, audiences and critics alike are left wondering when the celebrated lead actor might fully realize his strong positioning for yet another prestigious Oscar nomination."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matt Damon revealed that he only knew Christopher Nolan's adaptation of The Odyssey would be a massive hit after seeing the finished film and watching glowing audience and critical reactions roll in. The blockbuster ultimately cleared its high break-even threshold to gross $1.7 billion worldwide, cementing its status as one of the year's biggest cinematic phenomenons."
+        ]
+      }
+    ],
+    "facts": [
+      "The Odyssey was directed by Christopher Nolan.",
+      "Matt Damon stars in The Odyssey.",
+      "The Odyssey had a reported production budget of $250 million.",
+      "The Odyssey had a reported marketing budget of $125 million.",
+      "The film needed to make between $625 million and $750 million to break even.",
+      "The Odyssey grossed $1.7 billion worldwide and $625 million domestically.",
+      "It is the second-highest-grossing movie of the year behind Spider-Man: Brand New Day."
+    ],
+    "entities": {
+      "people": [
+        "Matt Damon",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "The Odyssey film",
+      "Matt Damon The Odyssey",
+      "Christopher Nolan Odyssey budget",
+      "The Odyssey box office earnings"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/7Ns5AVveEByUwDhkKg2Z2A-2000-80.jpg",
+        "caption": "Matt Damon Reflects on When He Finally Knew The Odyssey Would Be a Massive Hit",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 19:33:13 +0000"
+  },
+  "1ncl8g9": {
+    "id": "1ncl8g9",
+    "type": "news",
+    "headline": "Ranbir Kapoor, Yash, and Sai Pallavi Explain Why Ramayana's English Version is Shorter",
+    "dek": "The lead cast of Ramayana addresses the trimming of thirty minutes from the global English cut, explaining how pacing and character familiarity shaped the editing decisions.",
+    "body": [
+      {
+        "h": "Global Release Strategy and Language Editions",
+        "p": [
+          "The cinematic adaptation of the epic tale Ramayana has arrived in theaters globally. To cater to international markets and assist Western viewers in connecting with the narrative, the producers prepared a dedicated English version alongside the primary Indian regional cuts.",
+          "However, early reports confirmed that the English language print is noticeably shorter than the original Hindi version. Rather than minor pacing adjustments, the international cut runs a full thirty minutes less than the domestic release."
+        ]
+      },
+      {
+        "h": "Cast Addresses the Thirty Minute Difference",
+        "p": [
+          "During a recent promotional interview, lead actors Ranbir Kapoor, Yash, and Sai Pallavi were questioned about the substantial runtime reduction. The conversation aimed to uncover what international audiences might miss out on by opting for the shortened global edition.",
+          "When asked about the missing segments, Ranbir Kapoor lightheartedly directed viewers to the longer cut, noting that the international edit leaves out a solid half-hour of footage. Sai Pallavi further clarified that while musical numbers were trimmed, dramatic scenes were also excised from the print."
+        ]
+      },
+      {
+        "h": "Balancing Complex Characters for Western Viewers",
+        "p": [
+          "Actor Yash elaborated on the collaborative reasoning behind the trimmed runtime. He pointed out that the epic features a massive ensemble of characters that international audiences might find overwhelming or difficult to process initially.",
+          "A collective decision was consequently reached regarding the optimal length and presentation for viewers outside India. The goal was to deliver a streamlined cinematic experience that remains accessible without diluting the core plot."
+        ]
+      },
+      {
+        "h": "Musical Sequences Remain Intact",
+        "p": [
+          "Despite the thirty-minute subtraction, the cast explicitly confirmed that the film's core dance sequences were preserved. When the interviewer specifically inquired about choreography cuts, the actors offered a unanimous denial.",
+          "This reassurance highlights that the trimming focused heavily on narrative exposition and character subplots rather than the high-energy musical set pieces integral to Indian cinematic storytelling."
+        ]
+      },
+      {
+        "h": "Encouraging Deeper Exploration of the Epic",
+        "p": [
+          "Yash suggested that if Western viewers enjoy the shorter English presentation and wish to explore the mythic universe further, they can subsequently experience the longer regional Indian cuts. He added that interested fans could even examine the script for even deeper lore.",
+          "This tiered approach allows the production to serve two distinct audiences simultaneously, offering a fast-paced version for global accessibility while preserving the comprehensive narrative for dedicated cinephiles."
+        ]
+      },
+      {
+        "h": "Comparing Runtimes Across Versions",
+        "p": [
+          "Industry disclosures indicate that the English version of Ramayana spans approximately two hours and forty-five minutes. In contrast, the Hindi language edition stands at a sprawling three hours and fifteen minutes.",
+          "This precise thirty-minute differential represents a significant portion of screen time, which typically houses critical character development and intricate storytelling layers."
+        ]
+      },
+      {
+        "h": "Early Public Response and Visuals",
+        "p": [
+          "Alongside runtime discussions, the film has drawn strong early public reviews. Viewers have directed high praise toward the grand visual effects utilized in bringing the epic to life on the big screen.",
+          "In addition to the CGI and production design, the central performances delivered by Ranbir Kapoor and Yash have earned substantial acclaim from early audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor, Yash, and Sai Pallavi discussed the thirty-minute difference between the English and Hindi versions of Ramayana during an interview. The cast explained that the shorter international cut was designed for global accessibility, though dance sequences remained untouched while scenes and songs were trimmed."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor, Yash, and Sai Pallavi starred in Ramayana.",
+      "The English version of Ramayana is 30 minutes shorter than the Hindi version.",
+      "The English version of Ramayana has a runtime of around 2 hours and 45 minutes.",
+      "The Hindi version of Ramayana has a runtime of 3 hours and 15 minutes."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Siddharth Thampi"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana English version",
+      "Ranbir Kapoor Ramayana",
+      "Yash Ramayana runtime",
+      "Sai Pallavi Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayanasooo1793879811.jpg",
+        "caption": "Ranbir Kapoor, Yash, and Sai Pallavi Explain Why Ramayana's English Version is Shorter",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T17:57:37+05:30"
+  },
+  "4398ng": {
+    "id": "4398ng",
+    "type": "news",
+    "headline": "Prime Video Offers Fans a Binge-Worthy Sci-Fi Miniseries Set in the Stargate Universe",
+    "dek": "Discover the forgotten Stargate prequel miniseries currently streaming on Prime Video, offering franchise fans a fresh sci-fi adventure.",
+    "body": [
+      {
+        "h": "Reviving Interest in a Beloved Franchise",
+        "p": [
+          "Sci-fi enthusiasts have spent years waiting for the expansive Stargate universe to expand further on screen. Following the cancellation of a planned revival project by Amazon earlier in the year, dedicated followers received encouraging updates regarding the property. Reports emerged indicating that WandaVision creator Jac Schaeffer is actively developing a brand-new television series for Amazon MGM Studios, which aims to bring additional adventures through the iconic gate directly to Prime Video.",
+          "While audiences look toward the future of the galaxy-spanning property, a hidden gem from the franchise's past remains readily available for viewing. Years ago, MGM celebrated a major franchise milestone by releasing a mythology-rich miniseries designed to honor the legacy of the television landscape. For viewers searching for a fast science-fiction marathon on streaming services, this hidden entry provides an ideal weekend option."
+        ]
+      },
+      {
+        "h": "Origins on a Defunct Platform and Transition to Prime Video",
+        "p": [
+          "The miniseries originally debuted on a dedicated streaming destination that focused exclusively on the expansive property. However, after that specific platform shut down and Amazon acquired MGM, the complete catalog of franchise titles was successfully integrated into Prime Video. This transition proved advantageous for audiences hoping to experience every corner of the universe in one convenient location.",
+          "As the most recent narrative entry produced within the franchise to date, the project serves as a prequel that predates the events of the original cinematic feature directed by Roland Emmerich. Its arrival on a mainstream platform ensures that both longtime veterans and curious newcomers can easily access the self-contained story without navigating obscure services."
+        ]
+      },
+      {
+        "h": "Plot and Historical Setting of the Prequel",
+        "p": [
+          "Set in the year 1938, the storyline unfolds several years after Professor Paul Langford and his research team originally uncovered the ancient Earth device in Giza. The narrative opens with a brief throwback connecting back to the opening scenes of the 1994 feature film before progressing to focus on the professor and his daughter, Catherine, as they attempt to decipher the mysterious symbols inscribed upon the alien artifact.",
+          "Although Catherine later appears in both the foundational feature film and the subsequent long-running television continuity, this specific prequel highlights her own perilous journey through the portal. The events place characters on the desert world of Abydos long before later heroes ever set foot on its sands."
+        ]
+      },
+      {
+        "h": "Format and Villainous Conflict",
+        "p": [
+          "Structured as a compact 10-part collection, the narrative unfolds through brief segments lasting roughly ten minutes each. Altogether, the runtime spans approximately one hour and forty minutes, making it an extremely swift and digestible viewing experience for weekend marathons.",
+          "The central conflict ignites when the professor is forcefully driven through the gate by a dangerous Nazi occultist. This antagonist seeks to exploit the divine power of the portal to grant the Third Reich a strategic advantage over the rest of the world, setting the stage for a tense battle across dimensions."
+        ]
+      },
+      {
+        "h": "Accessibility for New Viewers and Veterans Alike",
+        "p": [
+          "One of the strongest attributes of this narrative is its ability to welcome audiences regardless of their prior familiarity with the expansive lore. Whether an individual has watched every season of the television iterations or merely remembers the original theatrical film, the production provides sufficient context to jump straight into the action.",
+          "By maintaining a standalone nature while deeply connecting to established mythology, the production bridges gaps in the timeline. It functions both as an independent adventure and as a rewarding exploration for dedicated followers of the overarching universe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon MGM Studios features a forgotten 10-part sci-fi prequel miniseries on Prime Video that was originally released in 2018 for a defunct streaming platform. The narrative follows Catherine Langford in 1938 as she encounters Nazi occultists and journeys through the gate to Abydos long before the events of the original 1994 film."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on November 5, 2026",
+      "Jac Schaeffer is developing a new Stargate series for Amazon MGM Studios",
+      "Stargate SG-1 celebrated its 20th anniversary prior to 2018",
+      "Stargate Origins is a 10-part miniseries that aired in 2018",
+      "Stargate Origins is set in 1938",
+      "Connor Trinneer plays Professor Paul Langford",
+      "Ellie Gall plays Catherine Langford",
+      "James Spader and Michael Shanks played Daniel Jackson",
+      "Kurt Russell and Richard Dean Anderson played Jack O'Neill",
+      "Roland Emmerich directed the 1994 Stargate film",
+      "Aylam Orian plays Wilhelm Brücke"
+    ],
+    "entities": {
+      "people": [
+        "Michael John Petty",
+        "Jac Schaeffer",
+        "Roland Emmerich",
+        "Connor Trinneer",
+        "Ellie Gall",
+        "James Spader",
+        "Michael Shanks",
+        "Kurt Russell",
+        "Richard Dean Anderson",
+        "Aylam Orian"
+      ],
+      "titles": [
+        "Stargate",
+        "Stargate SG-1",
+        "Stargate Origins",
+        "WandaVision"
+      ]
+    },
+    "keywords": [
+      "Stargate Origins",
+      "Prime Video Stargate miniseries",
+      "Jac Schaeffer Stargate series",
+      "Catherine Langford Stargate Origins"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/stargate-origins-aset.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Prime Video Offers Fans a Binge-Worthy Sci-Fi Miniseries Set in the Stargate Universe",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 19:58:12 GMT"
   }
 };

@@ -1,57 +1,57 @@
 {
   "connected": true,
-  "generated": "2026-11-05T18:54:51Z",
+  "generated": "2026-11-05T20:22:36Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 5,
-    "pageviews": 14,
-    "sessions": 5,
-    "avg_session_seconds": 10.9
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 197,
-    "pageviews": 675,
-    "sessions": 270,
-    "avg_session_seconds": 158.5
+    "users": 188,
+    "pageviews": 581,
+    "sessions": 251,
+    "avg_session_seconds": 137.6
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 153,
-      "avg_time_seconds": 211.8
+      "views": 156,
+      "avg_time_seconds": 207.9
     },
     {
       "path": "/",
       "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 100,
-      "avg_time_seconds": 389.4
+      "views": 45,
+      "avg_time_seconds": 386.0
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 25,
-      "avg_time_seconds": 79.8
+      "views": 27,
+      "avg_time_seconds": 75.9
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 21,
-      "avg_time_seconds": 48.8
+      "views": 22,
+      "avg_time_seconds": 46.4
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 34.2
+      "views": 16,
+      "avg_time_seconds": 31.9
     },
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 18.7
+      "views": 16,
+      "avg_time_seconds": 17.6
     },
     {
       "path": "/movie",
@@ -68,28 +68,28 @@
     {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 6.5
+      "views": 11,
+      "avg_time_seconds": 6.2
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 10,
-      "avg_time_seconds": 33.8
+      "views": 11,
+      "avg_time_seconds": 30.8
     }
   ],
   "sources": [
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 132,
+      "sessions": 126,
       "users": 105
     },
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 130,
-      "users": 91
+      "sessions": 117,
+      "users": 81
     },
     {
       "source": "search.google.com",
@@ -113,11 +113,11 @@
   "countries": [
     {
       "country": "United States",
-      "users": 82
+      "users": 75
     },
     {
       "country": "India",
-      "users": 69
+      "users": 68
     },
     {
       "country": "Pakistan",
@@ -154,12 +154,12 @@
   ],
   "devices": [
     {
-      "device": "desktop",
-      "users": 97
+      "device": "mobile",
+      "users": 93
     },
     {
-      "device": "mobile",
-      "users": 96
+      "device": "desktop",
+      "users": 91
     },
     {
       "device": "tablet",

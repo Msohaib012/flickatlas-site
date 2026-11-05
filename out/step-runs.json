@@ -1885,23 +1885,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-04T20:19:16Z",
-    "run_id": "41900833563",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-04T21:01:54Z",
     "run_id": "41910410726",
     "status": "success",
@@ -2329,27 +2312,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-04T20:03:21Z",
-    "run_id": "41891085075",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-05T20:22:41Z",
+    "run_id": "42097726566",
     "status": "success",
     "checked": {
-     "candidates": 502,
-     "detail": "501 collected staging rows from readers; 185 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
-     "detail": "+0 new rows, 2 updated rows, 499 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2763,6 +2745,24 @@
      "detail": "+0 new rows, 3 updated rows, 521 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T20:22:40Z",
+    "run_id": "42097726566",
+    "status": "success",
+    "checked": {
+     "candidates": 552,
+     "detail": "550 collected staging rows from readers; 194 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 33,
+     "detail": "+26 new rows, 7 updated rows, 517 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -3008,29 +3008,6 @@
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-04T21:01:54Z",
-    "run_id": "41910410726",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
-      "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
-      "When I Meet The Moon Episodes 1-4 Release Timings, Platforms, and Streaming Details Revealed",
-      "Suraj Venjaramoodu Announces New Malayalam Film Directed By Jagan Shaji Kailas"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3526,6 +3503,29 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-05T20:22:40Z",
+    "run_id": "42097726566",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Matt Damon Reflects on When He Finally Knew The Odyssey Would Be a Massive Hit",
+      "Prime Video Offers Fans a Binge-Worthy Sci-Fi Miniseries Set in the Stargate Universe",
+      "Peace Will Never Go Out of Fashion: Agastya Nanda Reflects on Ikkis",
+      "Ranbir Kapoor, Yash, and Sai Pallavi Explain Why Ramayana's English Version is Shorter"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
@@ -8234,5 +8234,5 @@
    }
   ]
  },
- "updated_at": "2026-11-05T20:07:58Z"
+ "updated_at": "2026-11-05T20:22:41Z"
 }
