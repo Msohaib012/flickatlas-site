@@ -3,14 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "IN",
-      "date": "2026-11-05",
-      "date_kind": "digital",
-      "id": 1810711,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
       "date": "2026-11-06",
       "date_kind": "digital",
       "id": 1483525,
@@ -34,7 +26,7 @@ window.FA_OTT = {
   "now": [
     {
       "date": "2026-11-03",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1804941,
       "providers": [
         {
