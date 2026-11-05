@@ -65326,5 +65326,375 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 19:58:12 GMT"
+  },
+  "1vprjsd": {
+    "id": "1vprjsd",
+    "type": "news",
+    "headline": "The Personal Reason Why Sooraj Barjatya's Heroines Always Wear Yellow",
+    "dek": "Discover the touching personal inspiration behind the iconic yellow outfits worn by leading ladies across Sooraj Barjatya's celebrated cinematic journey.",
+    "body": [
+      {
+        "h": "The Signature Yellow Aesthetic",
+        "p": [
+          "Cinematic universes often build their identities through recurring visual cues, and followers of Sooraj Barjatya's movies can easily spot a specific palette that defines his romantic narratives. Whenever his leading ladies grace the screen amidst grand celebrations, melodies, and traditional backdrops, they frequently sport radiant shades of yellow. This deliberate visual choice has become a hallmark of his filmmaking style over several decades."
+        ]
+      },
+      {
+        "h": "A Personal Touch From Home",
+        "p": [
+          "While many viewers might assume this vibrant hue is purely an artistic preference or a tool for festive visual appeal, the motivation stems from a much more personal place. The director's wife holds a deep fondness for the color yellow, which naturally inspired the filmmaker to weave it into his cinematic projects. What started as an affectionate nod to his personal life gradually evolved into an unmistakable trademark of his directorial outings."
+        ]
+      },
+      {
+        "h": "Sharvari Joins the Tradition",
+        "p": [
+          "The latest chapter in this ongoing tradition features actress Sharvari stepping into the classic romantic space. In the newly released romantic track titled Saawan Aaya Hai from Yeh Prem Mol Liya, she sports a graceful yellow saree alongside co-star Ayushmann Khurrana. This appearance cements her entry into the lineage of Barjatya heroines while enhancing the monsoon romance of the movie."
+        ]
+      },
+      {
+        "h": "Early Roots With Bhagyashree and Madhuri Dixit",
+        "p": [
+          "Long before recent releases, this stylistic choice established its roots in foundational blockbusters. In Maine Pyar Kiya, Bhagyashree portrayed Suman in a memorable bright yellow suit that highlighted the innocence and purity of her character. Similarly, Madhuri Dixit brought immense energy and grace to the iconic song Maye Ni Maye from Hum Aapke Hain Koun..!, wearing a radiant ensemble as Nisha that captured the sheer joy of celebration."
+        ]
+      },
+      {
+        "h": "Multi-Heroine Celebrations in Hum Saath-Saath Hain",
+        "p": [
+          "The director's affection for the color was never restricted to a single female lead per project. In the family drama Hum Saath-Saath Hain, multiple leading actresses including Tabu, Sonali Bendre, and Karisma Kapoor embraced traditional outfits matching the vibrant aesthetic. Their presence during festive sequences amplified the themes of warmth and togetherness that defined the core of the narrative."
+        ]
+      },
+      {
+        "h": "Memorable Moments With Kareena, Amrita, and Sonam",
+        "p": [
+          "Other major stars have carried forward this distinctive visual legacy across different decades. Kareena Kapoor Khan donned a striking yellow saree for the song Kasam Ki Kasam in Main Prem Ki Diwani Hoon, while Amrita Rao appeared in understated yellow attire during the gentle romantic track Do Anjaane Ajnabi from Vivah. Additionally, Sonam Kapoor embraced traditional Indian styling with intricate detailing as Maithili in Prem Ratan Dhan Payo, maintaining the director's classic vision within a royal setting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sooraj Barjatya frequently dresses his leading ladies in yellow due to his wife's personal fondness for the color, turning a private preference into a recognizable cinematic tradition. From early classics featuring Bhagyashree and Madhuri Dixit to recent additions like Sharvari in Yeh Prem Mol Liya, this recurring aesthetic continues to define his romantic storytelling."
+        ]
+      }
+    ],
+    "facts": [
+      "Sooraj Barjatya's wife is fond of the color yellow.",
+      "Sharvari wears a yellow saree in the track Saawan Aaya Hai from Yeh Prem Mol Liya.",
+      "Ayushmann Khurrana stars alongside Sharvari in Yeh Prem Mol Liya.",
+      "Bhagyashree wore a bright yellow suit as Suman in Maine Pyar Kiya.",
+      "Madhuri Dixit wore a yellow ensemble in Maye Ni Maye from Hum Aapke Hain Koun..!",
+      "Tabu, Sonali Bendre, and Karisma Kapoor wore traditional outfits in Hum Saath-Saath Hain.",
+      "Kareena Kapoor Khan wore a yellow saree in Kasam Ki Kasam from Main Prem Ki Diwani Hoon.",
+      "Amrita Rao wore yellow in Do Anjaane Ajnabi from Vivah alongside Shahid Kapoor.",
+      "Sonam Kapoor played Maithili in Prem Ratan Dhan Payo."
+    ],
+    "entities": {
+      "people": [
+        "Sharvari",
+        "Madhuri Dixit",
+        "Amrita Rao",
+        "Sooraj Barjatya",
+        "Bhagyashree",
+        "Ayushmann Khurrana",
+        "Tabu",
+        "Sonali Bendre",
+        "Karisma Kapoor",
+        "Kareena Kapoor Khan",
+        "Shahid Kapoor",
+        "Sonam Kapoor"
+      ],
+      "titles": [
+        "Maine Pyar Kiya",
+        "Hum Aapke Hain Koun..!",
+        "Yeh Prem Mol Liya",
+        "Hum Saath-Saath Hain",
+        "Main Prem Ki Diwani Hoon",
+        "Vivah",
+        "Prem Ratan Dhan Payo"
+      ]
+    },
+    "keywords": [
+      "Sooraj Barjatya heroines yellow",
+      "Sharvari Yeh Prem Mol Liya",
+      "Saawan Aaya Hai song",
+      "Sooraj Barjatya movies aesthetics"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/soorajbarjatyasooo1793876526.jpg",
+        "caption": "The Personal Reason Why Sooraj Barjatya's Heroines Always Wear Yellow",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T18:13:52+05:30"
+  },
+  "lr81tu": {
+    "id": "lr81tu",
+    "type": "news",
+    "headline": "Takashi Yamazaki Discusses Potential Third Godzilla Film and Hollywood Future",
+    "dek": "Following the success of Godzilla Minus One, filmmaker Takashi Yamazaki weighs the possibility of a third installment while balancing major international projects.",
+    "body": [
+      {
+        "h": "Hollywood Calls After Oscar Triumph",
+        "p": [
+          "The historic Academy Award win for Best Visual Effects by Godzilla Minus One opened substantial doors in Hollywood for director Takashi Yamazaki. Having grown up watching American science fiction in movie theaters, the filmmaker found himself courted by creators of those very films. Despite receiving enticing offers that he would have normally jumped at under different circumstances, Yamazaki chose to stay focused on continuing his vision with the Japanese monster franchise."
+        ]
+      },
+      {
+        "h": "Setting Aside Offers for Godzilla Minus Zero",
+        "p": [
+          "Rather than immediately jumping into US productions, Yamazaki opted to dedicate another few years to the iconic creature. In a recent interview, he revealed that he had a specific story and theme he urgently wanted to explore in a follow-up film. This creative drive was strong enough to make him set aside Hollywood opportunities and pour his energy into Godzilla Minus Zero ahead of its North American theatrical release."
+        ]
+      },
+      {
+        "h": "Weighing the Odds of a Third Outing",
+        "p": [
+          "With Godzilla Minus Zero preparing for its North American debut, attention naturally turned toward whether Yamazaki would feel a similar pull toward a third movie. When asked about his chances of returning to direct another installment in the franchise, the filmmaker described the likelihood as about fifty-fifty. He admitted that he would feel a slight sense of sadness if Minus Zero ultimately proved to be his final cinematic outing with the monster, expressing a clear desire to revisit the world later in his career."
+        ]
+      },
+      {
+        "h": "Upcoming Projects and Grandgear",
+        "p": [
+          "Before any potential return to the monster franchise can materialize, Yamazaki has several other commitments on his slate. First in line is Grandgear, an upcoming English-language mecha movie that will be produced by J.J. Abrams. Additional film projects are also lined up behind it, ensuring a busy schedule for the acclaimed director in the near future."
+        ]
+      },
+      {
+        "h": "Plot Threads and the Shikishima Family",
+        "p": [
+          "Looking closely at Godzilla Minus Zero, the narrative advances to 1949, placing the Shikishima family directly into the path of King Ghidorah two years after the events of Minus One. For Yamazaki, a major creative challenge involved ensuring that the human characters did not feel incidental once two massive creatures clashed on screen. Having already rebuilt their lives once, the Shikishimas face the grueling question of how much more they can possibly lose when confronted by beings he described as raging gods."
+        ]
+      },
+      {
+        "h": "Expanding the Lore and Exploring Trauma",
+        "p": [
+          "To build out the narrative breadth of the sequel, Yamazaki incorporated flashbacks that peer beyond the boundaries of the original film. Some of the most terrifying concepts in the second movie emerged from imagining the untold experiences of other individuals during the disasters of the first installment. This approach suggests that future stories could look inward at human trauma and survival rather than merely escalating the size of the monster threat."
+        ]
+      },
+      {
+        "h": "Character Fates and Open Interpretations",
+        "p": [
+          "Stories involving ordinary people crossing paths with raging supernatural forces often carry tragic consequences, a grim fate Yamazaki hopes to spare the Shikishima family from. He has expressed contentment with leaving the conclusion of Minus Zero open for audiences to interpret. After seeing the family endure two harrowing films, a compelling narrative argument can be made for granting them peace, or alternatively, exploring whether they even know how to live normal lives afterward."
+        ]
+      }
+    ],
+    "facts": [
+      "Takashi Yamazaki directed Godzilla Minus One and Godzilla Minus Zero.",
+      "Godzilla Minus One won the Oscar for Best Visual Effects.",
+      "Godzilla Minus Zero picks up in 1949, two years after the events of Minus One.",
+      "Grandgear is an upcoming English-language mecha movie produced by J.J. Abrams."
+    ],
+    "entities": {
+      "people": [
+        "Takashi Yamazaki",
+        "J.J. Abrams"
+      ],
+      "titles": [
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "Grandgear"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Takashi Yamazaki",
+      "Grandgear J.J. Abrams",
+      "Godzilla Minus One sequel"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/godzilla-minus-zero-4.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Takashi Yamazaki Discusses Potential Third Godzilla Film and Hollywood Future",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 19:34:45 GMT"
+  },
+  "yc6utv": {
+    "id": "yc6utv",
+    "type": "news",
+    "headline": "Regina Cassandra Questions North-South Debate and Shares Dharma Experience",
+    "dek": "Regina Cassandra challenges regional cinematic divides while highlighting her promotion issues with Dharma Productions regarding Kesari Chapter 2.",
+    "body": [
+      {
+        "h": "Challenging Regional Narratives",
+        "p": [
+          "Regina Cassandra has recently stepped forward to voice her perspective on the ongoing discussions surrounding working conditions and the portrayal of women across different Indian film industries. She expressed concern that recent remarks from several Bollywood actors regarding southern cinema tend to foster an unnecessary regional divide.",
+          "Rather than viewing industry practices through a polarized geographic lens, Cassandra believes the discourse should remain unified. She argues that segmenting the conversation into distinct northern and southern categories is entirely counterproductive to the broader cinematic community."
+        ]
+      },
+      {
+        "h": "Raising Questions About Dharma Productions",
+        "p": [
+          "During her interview with India Today, the actress drew attention to her own professional experiences with prominent Bollywood banners. She brought up Janhvi Kapoor's previous comments on Karan Johar's chat show regarding objectification, contrasting it with her own treatment by Johar's Dharma Productions.",
+          "Cassandra specifically questioned why the studio chose not to promote her involvement in Kesari Chapter 2. She recounted a particular instance where a track from the film was shared on Instagram featuring her appearance, yet the studio omitted tagging her entirely."
+        ]
+      },
+      {
+        "h": "Highlighting Industry-Wide Representation",
+        "p": [
+          "The actress emphasized that issues concerning how performers are acknowledged and marketed should transcend geographical boundaries. Her personal experience with the banner prompted her to question whether regional bias played a role in her lack of promotional visibility.",
+          "By bringing her situation to light, Cassandra underscores that challenges in professional recognition and fair promotion can occur in any major film industry, regardless of an actor's primary regional background."
+        ]
+      },
+      {
+        "h": "Extensive Multilingual Career",
+        "p": [
+          "Regina Cassandra has built a diverse resume spanning the Tamil, Telugu, and Hindi entertainment sectors. Her entry into Tamil cinema began with Kanda Naal Mudhal, followed by notable acclaim in the urban thriller Maanagaram.",
+          "In the Telugu film sphere, she earned recognition through projects like Subramanyam for Sale and the suspenseful drama Evaru. Her Hindi film portfolio includes Ek Ladki Ko Dekha Toh Aisa Laga alongside her appearance in the action drama Jaat opposite Sunny Deol."
+        ]
+      },
+      {
+        "h": "Upcoming Projects and Releases",
+        "p": [
+          "Alongside her multilingual filmography, Cassandra continues to secure prominent roles in major regional productions. She is set to star in the upcoming Tamil sequel Mookuthi Amman 2, which has been slated for a festival release during Diwali.",
+          "Her continuous involvement in multi-industry ventures demonstrates her sustained presence across various regional markets as she navigates her career in acting."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Regina Cassandra has critiqued the framing of the north-south cinematic debate while questioning Dharma Productions over a lack of promotion for her work in Kesari Chapter 2. The actress emphasized that representation and recognition issues should be addressed universally rather than divided along regional lines."
+        ]
+      }
+    ],
+    "facts": [
+      "Regina Cassandra spoke to India Today about the north-south divide debate.",
+      "Janhvi Kapoor and Radhika Apte discussed representation and working conditions citing Peddi and Legend.",
+      "Regina Cassandra starred in Kesari Chapter 2, where Dharma Productions did not tag her in an Instagram song post.",
+      "Regina's film credits include Kanda Naal Mudhal, Maanagaram, Subramanyam for Sale, Evaru, Ek Ladki Ko Dekha Toh Aisa Laga, and Jaat.",
+      "Jaat features Sunny Deol opposite Regina Cassandra and was released in 2025.",
+      "Regina plays a prominent role in Mookuthi Amman 2, slated for a Diwali release."
+    ],
+    "entities": {
+      "people": [
+        "Regina Cassandra",
+        "Janhvi Kapoor",
+        "Radhika Apte",
+        "Ram Charan",
+        "Nandamuri Balakrishna",
+        "Karan Johar",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Kesari Chapter 2",
+        "Peddi",
+        "Legend",
+        "Kanda Naal Mudhal",
+        "Maanagaram",
+        "Subramanyam for Sale",
+        "Evaru",
+        "Ek Ladki Ko Dekha Toh Aisa Laga",
+        "Jaat",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Regina Cassandra",
+      "Regina Cassandra Kesari Chapter 2",
+      "Regina Cassandra Dharma Productions",
+      "Regina Cassandra north south divide"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/regenacassandra1793875337.jpg",
+        "caption": "Regina Cassandra Questions North-South Debate and Shares Dharma Experience",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T16:14:12+05:30"
+  },
+  "iqeelc": {
+    "id": "iqeelc",
+    "type": "news",
+    "headline": "CS Amudhan Begins Filming For Tamizh Padam 3 With Shiva As Intergalactic Superstar",
+    "dek": "Director CS Amudhan has officially started production on Tamizh Padam 3, bringing back actor Shiva for the third chapter of the popular Tamil spoof franchise.",
+    "body": [
+      {
+        "h": "The Return of the Parody Franchise",
+        "p": [
+          "Director CS Amudhan has commenced shooting for Tamizh Padam 3, the upcoming third instalment in the famous Tamil parody series. Fans of the franchise can look forward to another round of clever satire, with lead actor Shiva stepping back into the spotlight.",
+          "The project was announced on Thursday, November 5. The inaugural first-look poster signals a shift into uncharted cosmic territory, presenting Shiva under a fresh title rather than his previous moniker."
+        ]
+      },
+      {
+        "h": "First-Look Poster Teases Intergalactic Adventure",
+        "p": [
+          "In the newly released promotional visual, Shiva is introduced as the Intergalactic Superstar, replacing his famous Agila Ulaga Superstar tag from earlier films. The poster shows the actor dressed in a sharp suit while facing an alien spacecraft.",
+          "While plot specifics remain under wraps, the extraterrestrial imagery suggests that sci-fi tropes and space elements will feature prominently in the upcoming satirical universe. Producers are expected to share more updates regarding the supporting cast and crew in due course."
+        ]
+      },
+      {
+        "h": "Behind the Production and Studios",
+        "p": [
+          "The upcoming comedy is backed by AP International and YNOT Studios. Producers S Sashikanth and Chakravarthy Ramachandra are spearheading the production efforts for the venture.",
+          "YNOT Studios shares a long-standing relationship with the franchise, having successfully bankrolled both of the preceding films. Their continued involvement ensures that the distinct comedic tone of the series will remain intact."
+        ]
+      },
+      {
+        "h": "Looking Back at Tamizh Padam and Tamizh Padam 2",
+        "p": [
+          "CS Amudhan made his directorial debut with the original Tamizh Padam in 2010. At a time when commercial Tamil cinema leaned heavily on predictable storytelling, exaggerated hero intros, and formulaic romances, the film offered a refreshing counter-narrative through relentless parody.",
+          "The director followed up with Tamizh Padam 2 in 2018, which arrived eight years prior to the current third instalment. The sequel expanded its comedic scope to mock contemporary Tamil films, police tropes, and international pop culture references such as Game of Thrones."
+        ]
+      },
+      {
+        "h": "Recent Projects of the Director and Star",
+        "p": [
+          "Outside of his signature franchise, CS Amudhan directed the 2023 action thriller Raththam starring Vijay Antony, which followed a journalist investigating a web of murders.",
+          "Actor Shiva had two theatrical releases in 2025, appearing in the long-delayed Sumo—for which he also contributed to the screenplay and dialogues—and Ram's critically acclaimed Paranthu Po alongside an ensemble cast including Aju Varghese, Grace Antony, Mithul Ryan, and Anjali."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director CS Amudhan and actor Shiva are officially collaborating once again for Tamizh Padam 3, marking the return of the iconic Tamil spoof franchise eight years after its second instalment. The newly released first-look poster hints at a space-themed satirical adventure featuring Shiva as the Intergalactic Superstar, with production backed by YNOT Studios and AP International."
+        ]
+      }
+    ],
+    "facts": [
+      "Tamizh Padam 3 filming was announced on Thursday, November 5.",
+      "CS Amudhan directed the original Tamizh Padam in 2010.",
+      "Tamizh Padam 2 was released in 2018.",
+      "Shiva is returning to star in Tamizh Padam 3 as the Intergalactic Superstar.",
+      "AP International and YNOT Studios are backing the project with producers S Sashikanth and Chakravarthy Ramachandra.",
+      "CS Amudhan directed Raththam in 2023 starring Vijay Antony.",
+      "Shiva appeared in Sumo and Paranthu Po in 2025."
+    ],
+    "entities": {
+      "people": [
+        "CS Amudhan",
+        "Shiva",
+        "S Sashikanth",
+        "Chakravarthy Ramachandra",
+        "Vijay Antony",
+        "Aju Varghese",
+        "Grace Antony",
+        "Mithul Ryan",
+        "Anjali",
+        "Ram"
+      ],
+      "titles": [
+        "Tamizh Padam 3",
+        "Tamizh Padam",
+        "Tamizh Padam 2",
+        "Game of Thrones",
+        "Raththam",
+        "Sumo",
+        "Paranthu Po"
+      ]
+    },
+    "keywords": [
+      "Tamizh Padam 3",
+      "CS Amudhan",
+      "Shiva",
+      "YNOT Studios"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/csamudhanbeginsfilmingfortamizhpadam3shivareturnsasintergalacticsuperstarsoooo1793867997.jpg",
+        "caption": "CS Amudhan Begins Filming For Tamizh Padam 3 With Shiva As Intergalactic Superstar",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T16:10:36+05:30"
   }
 };

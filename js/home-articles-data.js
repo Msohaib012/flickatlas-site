@@ -40,6 +40,37 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 05 Nov 2026 19:58:12 GMT"
   },
+  "lr81tu": {
+    "id": "lr81tu",
+    "type": "news",
+    "headline": "Takashi Yamazaki Discusses Potential Third Godzilla Film and Hollywood Future",
+    "dek": "Following the success of Godzilla Minus One, filmmaker Takashi Yamazaki weighs the possibility of a third installment while balancing major international projects.",
+    "entities": {
+      "people": [
+        "Takashi Yamazaki",
+        "J.J. Abrams"
+      ],
+      "titles": [
+        "Godzilla Minus One",
+        "Godzilla Minus Zero",
+        "Grandgear"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Takashi Yamazaki",
+      "Grandgear J.J. Abrams",
+      "Godzilla Minus One sequel"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/godzilla-minus-zero-4.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Takashi Yamazaki Discusses Potential Third Godzilla Film and Hollywood Future",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 19:34:45 GMT"
+  },
   "1kdle89": {
     "id": "1kdle89",
     "type": "news",
@@ -565,6 +596,51 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 05 Nov 2026 15:52:46 +0200"
   },
+  "1vprjsd": {
+    "id": "1vprjsd",
+    "type": "news",
+    "headline": "The Personal Reason Why Sooraj Barjatya's Heroines Always Wear Yellow",
+    "dek": "Discover the touching personal inspiration behind the iconic yellow outfits worn by leading ladies across Sooraj Barjatya's celebrated cinematic journey.",
+    "entities": {
+      "people": [
+        "Sharvari",
+        "Madhuri Dixit",
+        "Amrita Rao",
+        "Sooraj Barjatya",
+        "Bhagyashree",
+        "Ayushmann Khurrana",
+        "Tabu",
+        "Sonali Bendre",
+        "Karisma Kapoor",
+        "Kareena Kapoor Khan",
+        "Shahid Kapoor",
+        "Sonam Kapoor"
+      ],
+      "titles": [
+        "Maine Pyar Kiya",
+        "Hum Aapke Hain Koun..!",
+        "Yeh Prem Mol Liya",
+        "Hum Saath-Saath Hain",
+        "Main Prem Ki Diwani Hoon",
+        "Vivah",
+        "Prem Ratan Dhan Payo"
+      ]
+    },
+    "keywords": [
+      "Sooraj Barjatya heroines yellow",
+      "Sharvari Yeh Prem Mol Liya",
+      "Saawan Aaya Hai song",
+      "Sooraj Barjatya movies aesthetics"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/soorajbarjatyasooo1793876526.jpg",
+        "caption": "The Personal Reason Why Sooraj Barjatya's Heroines Always Wear Yellow",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T18:13:52+05:30"
+  },
   "c8dwrt": {
     "id": "c8dwrt",
     "type": "news",
@@ -709,6 +785,92 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 10:50:20 +0000"
+  },
+  "yc6utv": {
+    "id": "yc6utv",
+    "type": "news",
+    "headline": "Regina Cassandra Questions North-South Debate and Shares Dharma Experience",
+    "dek": "Regina Cassandra challenges regional cinematic divides while highlighting her promotion issues with Dharma Productions regarding Kesari Chapter 2.",
+    "entities": {
+      "people": [
+        "Regina Cassandra",
+        "Janhvi Kapoor",
+        "Radhika Apte",
+        "Ram Charan",
+        "Nandamuri Balakrishna",
+        "Karan Johar",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Kesari Chapter 2",
+        "Peddi",
+        "Legend",
+        "Kanda Naal Mudhal",
+        "Maanagaram",
+        "Subramanyam for Sale",
+        "Evaru",
+        "Ek Ladki Ko Dekha Toh Aisa Laga",
+        "Jaat",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Regina Cassandra",
+      "Regina Cassandra Kesari Chapter 2",
+      "Regina Cassandra Dharma Productions",
+      "Regina Cassandra north south divide"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/regenacassandra1793875337.jpg",
+        "caption": "Regina Cassandra Questions North-South Debate and Shares Dharma Experience",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T16:14:12+05:30"
+  },
+  "iqeelc": {
+    "id": "iqeelc",
+    "type": "news",
+    "headline": "CS Amudhan Begins Filming For Tamizh Padam 3 With Shiva As Intergalactic Superstar",
+    "dek": "Director CS Amudhan has officially started production on Tamizh Padam 3, bringing back actor Shiva for the third chapter of the popular Tamil spoof franchise.",
+    "entities": {
+      "people": [
+        "CS Amudhan",
+        "Shiva",
+        "S Sashikanth",
+        "Chakravarthy Ramachandra",
+        "Vijay Antony",
+        "Aju Varghese",
+        "Grace Antony",
+        "Mithul Ryan",
+        "Anjali",
+        "Ram"
+      ],
+      "titles": [
+        "Tamizh Padam 3",
+        "Tamizh Padam",
+        "Tamizh Padam 2",
+        "Game of Thrones",
+        "Raththam",
+        "Sumo",
+        "Paranthu Po"
+      ]
+    },
+    "keywords": [
+      "Tamizh Padam 3",
+      "CS Amudhan",
+      "Shiva",
+      "YNOT Studios"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/csamudhanbeginsfilmingfortamizhpadam3shivareturnsasintergalacticsuperstarsoooo1793867997.jpg",
+        "caption": "CS Amudhan Begins Filming For Tamizh Padam 3 With Shiva As Intergalactic Superstar",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-05T16:10:36+05:30"
   },
   "mcskkx": {
     "id": "mcskkx",
@@ -4567,150 +4729,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-04T14:22:01+05:30"
-  },
-  "5ojxhn": {
-    "id": "5ojxhn",
-    "type": "news",
-    "headline": "Tamil Film Producers Thank CM Vijay As 6 AM Shows Open For Diwali Releases",
-    "dek": "The Tamil Nadu government permits six shows daily with early morning screenings for new releases, drawing appreciation from major production banners ahead of Diwali.",
-    "entities": {
-      "people": [
-        "C. Joseph Vijay",
-        "Rajmohan",
-        "Nayanthara",
-        "Nitesh Tiwari",
-        "Suriya",
-        "Ranbir Kapoor",
-        "Ishari K Ganesh",
-        "Venkat Prabhu"
-      ],
-      "titles": [
-        "Mookuthi Amman 2",
-        "Mookuthi Amman 2 - Mahasakthi",
-        "Scene",
-        "Ramayana",
-        "GOAT"
-      ]
-    },
-    "keywords": [
-      "Tamil film producers CM Vijay",
-      "Mookuthi Amman 2 Diwali releases",
-      "Tamil Nadu 6 am show rules",
-      "C. Joseph Vijay theatre screening order"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/tamilfilmproducersthankcmvijayas6amshowsopenfordiwalireleasessoooo1793781081.jpg",
-        "caption": "Tamil Film Producers Thank CM Vijay As 6 AM Shows Open For Diwali Releases",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-04T14:20:12+05:30"
-  },
-  "1x6bycj": {
-    "id": "1x6bycj",
-    "type": "news",
-    "headline": "Ranbir Kapoor Shares That Daughter Raha Filmed Scenes With Sai Pallavi On Ramayana Set",
-    "dek": "Ranbir Kapoor revealed that his daughter Raha visited the sets of Ramayana and even filmed a shot alongside Sai Pallavi and Ravie Dubey.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Raha",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Alia Bhatt",
-        "Nitesh Tiwari"
-      ],
-      "titles": [
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ranbir Kapoor Ramayana",
-      "Raha Kapoor Ramayana",
-      "Sai Pallavi Ramayana",
-      "Nitesh Tiwari Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/ranbirrahathuuu1793781548.jpg",
-        "caption": "Ranbir Kapoor Shares That Daughter Raha Filmed Scenes With Sai Pallavi On Ramayana Set",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-04T14:17:49+05:30"
-  },
-  "t62xe6": {
-    "id": "t62xe6",
-    "type": "news",
-    "headline": "Rise And Fall 2 November 4 Episode Sees Shocking Triple Eviction And Intense Confrontations",
-    "dek": "Virender Sehwag hosts a dramatic Judgement Day on Rise And Fall 2, featuring fierce clashes between contestants and a historic triple exit from the Tower.",
-    "entities": {
-      "people": [
-        "Virender Sehwag",
-        "Shehzad Poonawalla",
-        "Priyanka Chahar Choudhary",
-        "Karan Patel",
-        "Swara Bhasker",
-        "Niharika Tiwari",
-        "Jashwanth Bopanna",
-        "Rishabh",
-        "Gautam",
-        "Manish Kashyap",
-        "Sonam Malik",
-        "Rishabh Jaiswal"
-      ],
-      "titles": [
-        "Rise And Fall 2"
-      ]
-    },
-    "keywords": [
-      "Rise And Fall 2",
-      "Virender Sehwag",
-      "Shehzad Poonawalla Swara Bhasker",
-      "Rise And Fall 2 triple eviction"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/riseandfall2ep40nov4d1-90031793778556.jpg",
-        "caption": "Rise And Fall 2 November 4 Episode Sees Shocking Triple Eviction And Intense Confrontations",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 13:37:16 +0530"
-  },
-  "1s8lg52": {
-    "id": "1s8lg52",
-    "type": "news",
-    "headline": "Ahn Hyo Seop's New Series 'Final Table' Dominates Streaming Charts Domestically and Internationally",
-    "dek": "JTBC's weekend culinary drama featuring Ahn Hyo Seop and Hong Hwa Yeon claims the top spot on Disney+ Korea and enters regional Prime Video rankings.",
-    "entities": {
-      "people": [
-        "Ahn Hyo Seop",
-        "Hong Hwa Yeon",
-        "Jang Yool",
-        "Jung Eugene"
-      ],
-      "titles": [
-        "Final Table",
-        "The Table: K-Chef 2026",
-        "Dr. Romantic 3"
-      ]
-    },
-    "keywords": [
-      "Final Table drama",
-      "Ahn Hyo Seop Final Table",
-      "Final Table Disney plus Korea",
-      "JTBC Final Table release"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/Dykq5p_2f.jpg",
-        "caption": "Ahn Hyo Seop's New Series 'Final Table' Dominates Streaming Charts Domestically and Internationally",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 08:07:14 +0000"
   },
   "zjcoxh": {
     "id": "zjcoxh",
