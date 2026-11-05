@@ -63156,5 +63156,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-05T09:30:41+00:00"
+  },
+  "mcskkx": {
+    "id": "mcskkx",
+    "type": "news",
+    "headline": "Dulquer Salmaan Starrer I'm Game Locks OTT Release Date On JioHotstar",
+    "dek": "The fantasy action thriller directed by Nahas Hidhayath and starring Dulquer Salmaan is officially heading to digital platforms following its theatrical run.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "The Malayalam fantasy action thriller I'm Game is officially transitioning from the big screen to the digital space. Following its theatrical debut earlier in the year, the movie is all set to reach home audiences through a major streaming service.",
+          "Fans who missed the theatrical run or wish to rewatch the action drama can stream the project starting November 6, 2026. The platform hosting the digital premiere is JioHotstar."
+        ]
+      },
+      {
+        "h": "Multilingual Streaming Availability",
+        "p": [
+          "To cater to a wider regional and national audience, the digital release will not be restricted to a single tongue. Viewers will have the option to stream the feature in multiple languages.",
+          "The supported audio tracks for the streaming release include Malayalam, Hindi, Tamil, Telugu, and Kannada, allowing fans across different states to experience the project in their preferred language."
+        ]
+      },
+      {
+        "h": "Plot And Character Arc",
+        "p": [
+          "The narrative follows Dan John, a prosperous businessman residing in Hyderabad portrayed by Dulquer Salmaan. Despite his considerable wealth, Dan struggles with a severe gambling addiction that begins to tear apart his personal and professional life.",
+          "A fateful sequence of events triggered by sports betting leads to a tense confrontation and a subsequent road accident. This incident leaves the protagonist with a grave physical injury, setting the stage for an unusual mix of fantasy and action."
+        ]
+      },
+      {
+        "h": "Cast And Ensemble Performance",
+        "p": [
+          "Dulquer Salmaan anchors the project as the lead protagonist while also sharing the screen with a diverse ensemble of prominent actors from various industries.",
+          "The supporting cast features Antony Varghese, Kayadu Lohar, Samyuktha Viswanathan, Kathir, Vinay Forrt, and Parth Tiwari. Additionally, the feature marks the Malayalam cinema debut of veteran actor Mysskin."
+        ]
+      },
+      {
+        "h": "Direction And Creative Crew",
+        "p": [
+          "The film is directed by Nahas Hidhayath, who also conceptualized the original story for the feature. The screenplay was collaboratively written by Sajeer Baba, Ismail Aboobacker, and Bilal Moidu.",
+          "Behind the camera, Jimshi Khalid managed the cinematography, while Chaman Chakko handled the editing. The technical departments also benefited from the contributions of production designer Ajayan Chalissery and sound mixer Kannan Ganpat."
+        ]
+      },
+      {
+        "h": "Music And Production Background",
+        "p": [
+          "The audio landscape of the action thriller was crafted by Jakes Bejoy, who composed both the songs and the original background score. Sports choreographer Robert Miller and the visual effects team at Egg White VFX further enhanced the high-octane sequences.",
+          "On the production front, the venture was backed by Dulquer Salmaan alongside Jom Varghese under their production banner, Wayfarer Films."
+        ]
+      },
+      {
+        "h": "Theatrical Background And Journey",
+        "p": [
+          "Before making its way to digital screens, the fantasy thriller arrived in cinemas on September 3, 2026. The theatrical run introduced audiences to its unique blend of sports betting drama and fantasy action elements.",
+          "With the completion of its box office run, the transition to streaming marks the next major chapter in the commercial journey of the project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dulquer Salmaan's Malayalam fantasy action thriller I'm Game is scheduled to stream on JioHotstar starting November 6, 2026, in five different languages. Directed by Nahas Hidhayath, the film features an ensemble cast including Antony Varghese and Mysskin following its theatrical release in September."
+        ]
+      }
+    ],
+    "facts": [
+      "I'm Game released in theatres on September 3, 2026.",
+      "The film is scheduled to release on JioHotstar on November 6, 2026.",
+      "The film will be available in Malayalam, Hindi, Tamil, Telugu, and Kannada.",
+      "Nahas Hidhayath directed the film.",
+      "Dulquer Salmaan plays the lead role of Dan John and co-produced the film under Wayfarer Films alongside Jom Varghese."
+    ],
+    "entities": {
+      "people": [
+        "Dulquer Salmaan",
+        "Nahas Hidhayath",
+        "Antony Varghese",
+        "Mysskin",
+        "Kayadu Lohar",
+        "Samyuktha Viswanathan",
+        "Kathir",
+        "Vinay Forrt",
+        "Parth Tiwari",
+        "Sajeer Baba",
+        "Ismail Aboobacker",
+        "Bilal Moidu",
+        "Jimshi Khalid",
+        "Chaman Chakko",
+        "Jakes Bejoy",
+        "Ajayan Chalissery",
+        "Robert Miller",
+        "Kannan Ganpat",
+        "Jom Varghese"
+      ],
+      "titles": [
+        "I'm Game"
+      ]
+    },
+    "keywords": [
+      "I'm Game OTT release",
+      "Dulquer Salmaan I'm Game",
+      "I'm Game JioHotstar date",
+      "Nahas Hidhayath movie",
+      "I'm Game Malayalam film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/imgame-22841793874118.jpg",
+        "caption": "Dulquer Salmaan Starrer I'm Game Locks OTT Release Date On JioHotstar",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 15:52:50 +0530"
+  },
+  "qyhmar": {
+    "id": "qyhmar",
+    "type": "news",
+    "headline": "Pamela Anderson to Receive Lifetime Achievement Award at Torino Film Festival",
+    "dek": "The acclaimed actor will be honored with the Stella della Mole Award at Italy's upcoming Torino Film Festival and introduce a special screening of The Last Showgirl.",
+    "body": [
+      {
+        "h": "The Major Festival Honor",
+        "p": [
+          "Pamela Anderson is set to receive a prestigious lifetime achievement award at Italy's upcoming Torino Film Festival. As part of the tribute, the actor will present a special screening of Gia Coppola's critically acclaimed film The Last Showgirl.",
+          "The festival, which places a heavy emphasis on young directors and independent cinema, is operated by Italy's National Film Museum. The event serves as a prominent platform for international talent and cinematic achievement."
+        ]
+      },
+      {
+        "h": "Festival Leadership Praise",
+        "p": [
+          "Torino Film Festival artistic director Giulio Base expressed immense admiration for the actor's recent work in a public statement. He noted that cinema possesses a unique ability to help audiences truly connect with performers they thought they knew entirely.",
+          "Base further remarked that Anderson's performance in The Last Showgirl revealed a surprising and deeply moving sensitivity. Her work on screen has completely reframed how critics and fans view her range as a dramatic artist."
+        ]
+      },
+      {
+        "h": "Distinguished Company for the Stella della Mole Award",
+        "p": [
+          "The accolade being presented to Anderson is known as the Stella della Mole Award. This particular honor places her in an elite group of past recipients who have left an indelible mark on the global film industry.",
+          "Previous luminaries who have received this distinguished recognition include acclaimed director Spike Lee as well as prominent actors Antonio Banderas, Angelina Jolie, and Sharon Stone."
+        ]
+      },
+      {
+        "h": "Career Resurgence and Recent Projects",
+        "p": [
+          "Anderson's starring role in The Last Showgirl marked a monumental career comeback for the former Baywatch star. The acclaimed performance even earned her a 2025 Golden Globes nomination.",
+          "Capitalizing on this career momentum, she has taken on numerous high-profile film projects. She starred alongside Liam Neeson in Paramount's reboot of The Naked Gun and appeared in Karim Aïnouz's family satire Rosebush Pruning."
+        ]
+      },
+      {
+        "h": "Extensive Film Festival Circuit",
+        "p": [
+          "The actor's busy schedule recently brought her to the Venice Film Festival in September. There, she co-starred in Kornél Mundruczó’s road movie Place to Be alongside legendary company including Ellen Burstyn, Taika Waititi, and Murray Bartlett.",
+          "Additionally, her role in Rosebush Pruning connected her with a stellar ensemble cast featuring Riley Keough, Callum Turner, Elle Fanning, Jamie Bell, Lucas Gage, and Tracy Letts."
+        ]
+      },
+      {
+        "h": "Upcoming Screen Appearances",
+        "p": [
+          "Beyond her current releases, Anderson has successfully wrapped filming on several highly anticipated features. These include Brian Klugman’s Somedays, where she acts alongside Billy Bob Thornton.",
+          "She also finished work on Michael Cera’s directorial debut Love Is Not the Answer, an absurdist comedy co-starring Steve Coogan and Jamie Dornan, as well as Sally Potter’s Alma alongside Richard E. Grant."
+        ]
+      },
+      {
+        "h": "Festival Schedule and Dates",
+        "p": [
+          "The upcoming celebration marks the 44th edition of the northern Italian event. Film enthusiasts and industry professionals will gather in the city of Turin for the festivities.",
+          "The festival schedule is officially slated to run from November 24 through December 2, culminating in the spotlight event for Anderson."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pamela Anderson will be honored with the Stella della Mole lifetime achievement award at the 44th Torino Film Festival in Turin, running from November 24 to December 2. Alongside the tribute, she will host an onstage conversation and introduce a special screening of her critically acclaimed film The Last Showgirl."
+        ]
+      }
+    ],
+    "facts": [
+      "Pamela Anderson will receive a lifetime achievement award at the Torino Film Festival.",
+      "She will introduce a special screening of Gia Coppola's film The Last Showgirl.",
+      "The Torino Film Festival is run by Italy's National Film Museum.",
+      "The Last Showgirl earned Anderson a 2025 Golden Globes nomination.",
+      "Festival artistic director Giulio Base praised her performance.",
+      "She will receive the Stella della Mole Award.",
+      "Previous recipients of the award include Spike Lee, Antonio Banderas, Angelina Jolie, and Sharon Stone.",
+      "She starred with Liam Neeson in Paramount's reboot of The Naked Gun.",
+      "She appeared in Karim Aïnouz's Rosebush Pruning with Riley Keough, Callum Turner, Elle Fanning, Jamie Bell, Lucas Gage, and Tracy Letts.",
+      "She attended the Venice Film Festival in September for Kornél Mundruczó’s Place to Be with Ellen Burstyn, Taika Waititi, and Murray Bartlett.",
+      "She wrapped filming on Brian Klugman’s Somedays with Billy Bob Thornton.",
+      "She wrapped filming on Michael Cera’s Love Is Not the Answer with Steve Coogan and Jamie Dornan.",
+      "She wrapped filming on Sally Potter’s Alma with Richard E. Grant.",
+      "The 44th edition of the Torino Film Festival runs from Nov. 24-Dec. 2 in Turin."
+    ],
+    "entities": {
+      "people": [
+        "Pamela Anderson",
+        "Gia Coppola",
+        "Nick Vivarelli",
+        "Tristan Thompson",
+        "Jason Zada",
+        "Giulio Base",
+        "Spike Lee",
+        "Antonio Banderas",
+        "Angelina Jolie",
+        "Sharon Stone",
+        "Liam Neeson",
+        "Karim Aïnouz",
+        "Riley Keough",
+        "Callum Turner",
+        "Elle Fanning",
+        "Jamie Bell",
+        "Lucas Gage",
+        "Tracy Letts",
+        "Kornél Mundruczó",
+        "Ellen Burstyn",
+        "Taika Waititi",
+        "Murray Bartlett",
+        "Brian Klugman",
+        "Billy Bob Thornton",
+        "Michael Cera",
+        "Steve Coogan",
+        "Jamie Dornan",
+        "Sally Potter",
+        "Richard E. Grant",
+        "Abdul El-Sayed",
+        "Bill Maher",
+        "Kid Rock",
+        "Bruce Springsteen",
+        "Trump",
+        "Dafne Keen",
+        "Hugh Jackman",
+        "Adam Driver",
+        "Kylo Ren",
+        "Pierce Brosnan",
+        "James Bond",
+        "Crichton",
+        "Rajinikanth",
+        "Mahesh Babu",
+        "Jason Statham",
+        "Guy Ritchie",
+        "Nathan Johnson",
+        "Nicki Minaj",
+        "Andrew Garfield",
+        "Sam Altman",
+        "Andrew Wallenstein",
+        "Ben Affleck",
+        "Pete Davidson",
+        "Hillary Clinton",
+        "Jennifer Hudson",
+        "Tom Cruise",
+        "Chris Rock"
+      ],
+      "titles": [
+        "The Last Showgirl",
+        "Baywatch",
+        "The Naked Gun",
+        "Rosebush Pruning",
+        "Place to Be",
+        "Somedays",
+        "Love Is Not the Answer",
+        "Alma",
+        "Thirteen in Gaza",
+        "Satoshi",
+        "Married at First Sight",
+        "Logan",
+        "The Hunt for Ben Solo",
+        "The Pitt",
+        "ER",
+        "Jailer 2",
+        "Dogfight",
+        "Dragon Ball Z",
+        "Artificial",
+        "La Bola Negra",
+        "Misty Green"
+      ]
+    },
+    "keywords": [
+      "Pamela Anderson Torino Film Festival",
+      "The Last Showgirl Gia Coppola",
+      "Stella della Mole Award",
+      "Pamela Anderson lifetime achievement award"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-1-4.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Pamela Anderson to Receive Lifetime Achievement Award at Torino Film Festival",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 10:05:13 +0000"
+  },
+  "1te878e": {
+    "id": "1te878e",
+    "type": "news",
+    "headline": "Scene Box Office Day 1: Eyeing Suriya’s Career-Best Opening In India!",
+    "dek": "After strong pre-sales, Suriya's latest film Scene is poised for a massive opening day at the Indian box office, potentially surpassing his past records.",
+    "body": [
+      {
+        "h": "Introduction to the Release",
+        "p": [
+          "Suriya returns to the silver screen with his highly anticipated feature Scene, slated to hit theaters tomorrow, November 6. Following consecutive commercial successes with Karuppu and Vishwanath Sons, the Kollywood star enters this release with substantial momentum and widespread anticipation across theatrical markets.",
+          "Ground-level sentiment suggests that audience enthusiasm is running extremely high. The combination of star power and positive pre-release indicators has positioned the film for what could easily become a milestone opening for the actor within domestic territories."
+        ]
+      },
+      {
+        "h": "Pre-Release Buzz and Creative Team",
+        "p": [
+          "A major catalyst behind the strong pre-release perception is the involvement of director Jithu Madhavan, who makes his Kollywood directorial debut with this project. Following the massive success of his previous venture Aavesham, Jithu's association has naturally heightened industry and fan expectations.",
+          "Furthermore, seeing Suriya portray a police officer once again has generated significant excitement among his loyal fan base. The promotional assets released leading up to the premiere successfully renewed interest following earlier dry spells in the actor's career."
+        ]
+      },
+      {
+        "h": "Advance Booking Momentum",
+        "p": [
+          "The prevailing positive sentiment is clearly reflected in the advance booking figures reported ahead of the premiere. Pre-sales figures have already crossed the 9 crore mark in India, excluding blocked seats, showcasing a high level of urgency among regular moviegoers.",
+          "With several hours still remaining before the official opening show, final pre-sale tallies are projected to cross the 10 crore threshold comfortably, providing a stable foundation for the opening day total."
+        ]
+      },
+      {
+        "h": "Targeting Record Opening Figures",
+        "p": [
+          "Trade analysts expect Scene to capitalize on heavy walk-in audiences alongside its robust advance bookings. Current projections point toward a net opening day collection of 20 crore or higher across India.",
+          "Achieving this target would place the film comfortably ahead of Retro, which previously pulled in 19.25 crore net as the actor's second-biggest opener. It would also position the film favorably against other recent high-profile releases."
+        ]
+      },
+      {
+        "h": "Challenging Past Benchmarks",
+        "p": [
+          "The primary target for the new release is Kanguva, which currently stands as Suriya's biggest opening ever in India with a 24 crore net collection. Unlike that previous project, which faced heavy initial negativity, Scene enters the market with a clean slate of goodwill.",
+          "Industry observers believe that favorable over-the-counter ticket sales will give the entertainer the exact push needed to surpass Kanguva and secure a new career high for the leading man."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's upcoming film Scene is heading toward a massive opening day in India, driven by strong advance bookings exceeding 9 crore and favorable pre-release hype. Directed by Jithu Madhavan, the project aims to surpass previous milestones like Retro and Kanguva to become the star's biggest domestic opener yet."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene releases in theaters on November 6.",
+      "The film has grossed close to 9 crore in advance bookings in India excluding blocked seats.",
+      "Scene is targeting a start of 20 crore net or more.",
+      "Retro earned 19.25 crore net as Suriya's second-biggest opener.",
+      "Kanguva holds the record for Suriya's biggest opener ever with 24 crore net."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nayanthara",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath Sons",
+        "Aavesham",
+        "Mookuthi Amman 2",
+        "Jailer 2",
+        "Retro",
+        "Kanguva",
+        "Nayyi Navelli",
+        "Godzilla Minus Zero",
+        "Pokémon",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Suriya Scene box office",
+      "Scene day 1 collection",
+      "Jithu Madhavan Scene"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/scene-box-office-day-1-eyeing-suriyas-career-best-opening-in-india-01.jpg",
+        "caption": "Scene Box Office Day 1: Eyeing Suriya’s Career-Best Opening In India!",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 10:50:20 +0000"
   }
 };
