@@ -65696,5 +65696,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-05T16:10:36+05:30"
+  },
+  "1e5l2x2": {
+    "id": "1e5l2x2",
+    "type": "news",
+    "headline": "Russell Brand Found Guilty of Historic Sexual Assault and Rape Charges in London Court",
+    "dek": "The actor and comedian was taken into custody following a jury verdict at Southwark Crown Court and faces a prison sentence next week.",
+    "body": [
+      {
+        "h": "The Verdict at Southwark Crown Court",
+        "p": [
+          "British actor and comedian Russell Brand has been found guilty on multiple charges of rape and sexual assault following a legal proceeding at Southwark Crown Court in London. The jury, comprising eight men and four women, delivered their decision after deliberating for more than eight hours across two days. The allegations against the entertainer stemmed from incidents dating back over two decades.",
+          "Judge Joel Bennathan announced that the defendant would be handed his prison term during a sentencing hearing scheduled for Monday. Immediately following the reading of the verdict, Brand was taken into custody by authorities."
+        ]
+      },
+      {
+        "h": "Specific Charges and Acquittals",
+        "p": [
+          "The legal panel convicted the 51-year-old media personality of one count of rape and three counts of sexual assault, which collectively involved four distinct women. Throughout the trial, the prosecution characterized him as a manipulative and calculating sexual predator who used his position ruthlessly.",
+          "Conversely, the jury cleared the entertainer of two additional counts of rape and one count of attempted indecent assault. Brand had consistently denied all accusations brought against him during his testimony."
+        ]
+      },
+      {
+        "h": "Defense Testimony and Claims",
+        "p": [
+          "Taking the stand in his own defense, Brand acknowledged that he had lived a promiscuous lifestyle and was intensely focused on sex during his younger years. However, he maintained that he had never forced anyone to participate in any sexual act against their will. His legal representation argued that the credibility of the complainants was weakened because they waited years before going to the police, noting that reports only materialized following the broadcast of a 2023 documentary featuring anonymous claims.",
+          "During the proceedings, his wife Laura Brand accompanied him to court and testified as a character witness on his behalf. Brand stated that the criminal proceedings severely disrupted his life and family, leaving him abandoned by many former friends and colleagues while his entire existence became consumed by the allegations."
+        ]
+      },
+      {
+        "h": "Law Enforcement and Victim Support",
+        "p": [
+          "Following the conclusion of the trial, the Metropolitan Police released recorded interviews with the defendant conducted between 2023 and 2025. In an official statement outside the courthouse, representatives from the Met Police expressed gratitude to the complainants.",
+          "Authorities emphasized that the successful outcome of the case relied entirely on the courage of the victims who came forward to share their experiences with investigators."
+        ]
+      },
+      {
+        "h": "Rise to Fame and Career Shift",
+        "p": [
+          "The convicted personality first gained prominence in the early 2000s through provocative stand-up comedy routines, television hosting gigs, and his own BBC radio program. His career eventually expanded into Hollywood cinema, where he secured roles in well-known features such as Forgetting Sarah Marshall and Get Him to the Greek. During that period, he was also briefly married to pop star Katy Perry.",
+          "In more recent years, Brand stepped away from mainstream entertainment channels and relocated to Florida. There, he cultivated a substantial online audience by producing digital content that blended wellness topics, conspiracy theories, and discussions surrounding his newfound religious devotion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Russell Brand was convicted of multiple counts of rape and sexual assault involving four women following a trial at Southwark Crown Court. Taken into custody immediately after the verdict, the 51-year-old comedian will receive his prison sentence on Monday as announced by Judge Joel Bennathan."
+        ]
+      }
+    ],
+    "facts": [
+      "Russell Brand was convicted of one count of rape and three counts of sexual assault on Thursday, November 5, 2026.",
+      "The jury deliberated for more than eight hours over two days at Southwark Crown Court.",
+      "Judge Joel Bennathan stated that Brand will be sentenced on Monday.",
+      "The comedian is 51 years old.",
+      "The jury consisted of eight men and four women."
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Laura Brand",
+        "Joel Bennathan",
+        "Katy Perry"
+      ],
+      "titles": [
+        "Forgetting Sarah Marshall",
+        "Get Him to the Greek"
+      ]
+    },
+    "keywords": [
+      "Russell Brand",
+      "Russell Brand convicted",
+      "Russell Brand court",
+      "Southwark Crown Court"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135586443,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Russell Brand Found Guilty of Historic Sexual Assault and Rape Charges in London Court",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T03:04:41+05:30"
+  },
+  "13kv3pl": {
+    "id": "13kv3pl",
+    "type": "news",
+    "headline": "Prime Video Unveils First Look Teaser for Adaptations of Graphic Novels in Criminal",
+    "dek": "An interlocking universe of crime stories arrives on Prime Video in January 2027, featuring an ensemble cast led by Charlie Hunnam, Adria Arjona, and Emilia Clarke.",
+    "body": [
+      {
+        "h": "Teaser Trailer Debut",
+        "p": [
+          "Prime Video has officially shared a first look teaser trailer for its upcoming television adaptation titled Criminal. The preview gives audiences a glimpse into a gritty crime world slated to release early next year.",
+          "The newly revealed footage highlights the tense tone and atmospheric setup of the project, generating early excitement across streaming platforms."
+        ]
+      },
+      {
+        "h": "Release Schedule and Structure",
+        "p": [
+          "The streaming platform has scheduled the project to air in two distinct parts throughout January 2027. This rollout structure is designed to divide the narrative arcs cleanly for viewers.",
+          "Part One, titled Coward, will premiere all four of its episodes on January 13th. Shortly after, Part Two, titled Lawless, will debut its four episodes on January 27th."
+        ]
+      },
+      {
+        "h": "Source Material and Creators",
+        "p": [
+          "The project is based on the multi-Eisner Award-winning graphic novel series of the same name created by Ed Brubaker and Sean Phillips. Their bestselling publications provide the foundational lore for the interlocking universe.",
+          "Ed Brubaker serves as co-showrunner and writer, bringing prior experience from his work on projects like Too Old to Die Young and Batman: Caped Crusader. Jordan Harper joins him as co-showrunner, with additional writing contributions from Sarah Carbiener, Minhal Baig, John Covarrubias, and Cortney Norris."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The narrative follows multiple generations of criminal families, examining the murders that intertwine their pasts. The story initiates with two friends, Leo Patterson and Ricky Lawless, who navigate vastly different paths regarding their upbringing in crime.",
+          "Leo attempts to fight his way out of the underworld, while Ricky desires to emulate his legendary outlaw father. Complications escalate when Ricky's older brother Tracy returns home from the Army, bringing old family tragedies along with him."
+        ]
+      },
+      {
+        "h": "Extended Cast and Orbiting Figures",
+        "p": [
+          "Several characters are drawn into the central conflict, including Greta, a sharp-tongued car thief from Leo's past, and Mallory, Ricky's girlfriend who worries about his dangerous methods. The production features a massive ensemble cast bringing these interconnected roles to life.",
+          "The main lineup features Charlie Hunnam, Adria Arjona, Luke Evans, Emilia Clarke, Richard Jenkins, Kadeem Hardison, Gus Halper, John Hawkes, and Logan Browning."
+        ]
+      },
+      {
+        "h": "Guest Stars and Production Team",
+        "p": [
+          "A substantial recurring and guest cast rounds out the world, featuring actors such as Michael Mando, Garrett Hedlund, and Patrick J. Adams. Additional appearances include Pat Healy, Taylor Selé, Aliyah Camacho, Marvin Jones III, and Michael Xavier.",
+          "Directing duties for the episodes are split between Anna Boden, Ryan Fleck, and Dee Rees. Executive producers on the series include Brubaker, Phillips, Philipp A. Barnett, Boden, Fleck, Harper, Carbiener, Rees, and Halley Gross."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has released a first look teaser trailer for the upcoming series Criminal, based on the graphic novels by Ed Brubaker and Sean Phillips. The eight-episode project will air in two parts in January 2027, featuring an extensive ensemble cast led by Charlie Hunnam, Adria Arjona, and Emilia Clarke."
+        ]
+      }
+    ],
+    "facts": [
+      "Criminal is a series coming up in January 2027 on Prime Video.",
+      "The series is based on the graphic novels created by Ed Brubaker and Sean Phillips.",
+      "Part One is titled Coward and debuts its four episodes on January 13th.",
+      "Part Two is titled Lawless and debuts its four episodes on January 27th.",
+      "The ensemble cast includes Charlie Hunnam, Adria Arjona, Luke Evans, Emilia Clarke, Richard Jenkins, Kadeem Hardison, Gus Halper, John Hawkes, and Logan Browning."
+    ],
+    "entities": {
+      "people": [
+        "Adria Arjona",
+        "Emilia Clarke",
+        "Ed Brubaker",
+        "Sean Phillips",
+        "Charlie Hunnam",
+        "Luke Evans",
+        "Richard Jenkins",
+        "Kadeem Hardison",
+        "Gus Halper",
+        "John Hawkes",
+        "Logan Browning",
+        "Michael Mando",
+        "Garrett Hedlund",
+        "Patrick J. Adams",
+        "Pat Healy",
+        "Taylor Selé",
+        "Aliyah Camacho",
+        "Marvin Jones III",
+        "Michael Xavier",
+        "Dominic Burgess",
+        "Chris Diamantopoulos",
+        "Lawrence Kao",
+        "Katie Stevens",
+        "John Pyper-Ferguson",
+        "Robert Lee Hart",
+        "Aina Brei'yon",
+        "Kyle Davis",
+        "Jordan Harper",
+        "Sarah Carbiener",
+        "Minhal Baig",
+        "John Covarrubias",
+        "Cortney Norris",
+        "Anna Boden",
+        "Ryan Fleck",
+        "Dee Rees",
+        "Philipp A. Barnett",
+        "Halley Gross"
+      ],
+      "titles": [
+        "Criminal",
+        "Criminal Minds",
+        "Too Old to Die Young",
+        "Batman: Caped Crusader"
+      ]
+    },
+    "keywords": [
+      "Criminal series Prime Video",
+      "Ed Brubaker Sean Phillips Criminal",
+      "Charlie Hunnam Adria Arjona Criminal",
+      "Criminal release date January 2027"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/criminalseriesmainimagesbigtw1.jpg",
+        "caption": "Prime Video Unveils First Look Teaser for Adaptations of Graphic Novels in Criminal",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 21:47:49 +0000"
+  },
+  "1jlse7o": {
+    "id": "1jlse7o",
+    "type": "news",
+    "headline": "Joel Coen and Frances McDormand Back Netflix Documentary The Bend in the River",
+    "dek": "A new documentary capturing five friends across nearly fifty years has released its official trailer ahead of an upcoming Netflix release, drawing early Oscar buzz with backing from Joel Coen and Frances McDormand.",
+    "body": [
+      {
+        "h": "First Look at The Bend in the River Trailer",
+        "p": [
+          "The official promotional video for the upcoming documentary project has officially debuted online, giving audiences a comprehensive preview of a feature that spans nearly five decades of real life. Backed by prominent industry figures, the film is capturing early attention from critics and industry watchers as it approaches its upcoming streaming debut.",
+          "The newly released footage sets up a narrative centered on the passage of time, tracking a close-knit circle of individuals from their younger, carefree years into their later decades. This initial preview has heightened anticipation across digital platforms, particularly due to the high-profile names attached to the project's executive production team."
+        ]
+      },
+      {
+        "h": "Decades of Archival Footage and Grand Canyon Beginnings",
+        "p": [
+          "Director Robb Moss originally began filming his subjects back in 1978 during a distinctive clothing-optional rafting excursion through the Grand Canyon. At that time, the group embraced a rent-free outdoor lifestyle defined by personal freedom, long before the heavy obligations of middle age entered their everyday reality.",
+          "The production utilizes these vintage recordings to establish the foundation of the narrative, showcasing the participants' youthful outlooks before shifting forward to document how their priorities, living situations, and individual perspectives evolved through subsequent chapters of their lives."
+        ]
+      },
+      {
+        "h": "Tracking Adulthood and Later Years",
+        "p": [
+          "Director Moss returned to document the group again in 2003, capturing a crucial midpoint where the friends had transitioned out of their early lifestyle and were actively confronting the demands and structural shifts of adulthood. This middle chapter illustrates the tangible ways their circumstances transformed over time.",
+          "The most recent archival recordings incorporated into the feature date back to 2025, showing the participants in their seventies. In these segments, they reflect candidly on the paths they chose and the lives they ultimately constructed, including one notable remark about aging and letting go of conventional measures of success."
+        ]
+      },
+      {
+        "h": "Non-Linear Narrative Structure",
+        "p": [
+          "Rather than adhering to a straightforward chronological timeline, the documentary employs a non-linear format that weaves back and forth between historical archival recordings and present-day reflections. This structural choice emphasizes the striking contrasts between the subjects' past expectations and their current wisdom.",
+          "By juxtaposing different eras of the same lives, the film creates a dialogue about the universal human experience of aging and self-discovery, allowing viewers to witness the continuous, unscripted evolution of friendship over a span of nearly fifty years."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "Robb Moss serves as the primary director and producer of the project, working alongside fellow producers Lisa Remington and Kristin Feeley, while Liz Gilbert Cohen contributes to the production as a co-producer.",
+          "The creative weight of the project is further bolstered by a large team of executive producers. Alongside Joel Coen and Frances McDormand, the roster includes Tot Long, David Lewis, Shane Boris, Jeff Reichert, Geralyn White Dreyfous, Regina K. Scully, James Costa, and Trevor Burgess."
+        ]
+      },
+      {
+        "h": "Oscar Buzz and Streaming Debut",
+        "p": [
+          "Even prior to its formal release on the platform, the documentary has sparked significant speculation regarding potential Academy Award recognition. The combination of its decades-spanning scope and high-profile backing has positioned it as a notable contender in the documentary space.",
+          "Audiences won't have to wait much longer to see the final feature, as the documentary is scheduled to premiere globally on Netflix on December 4, 2026, bringing this multi-decade storytelling project to a wide streaming audience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming documentary The Bend in the River, directed by Robb Moss and executive produced by Joel Coen and Frances McDormand, follows five friends across nearly 50 years using footage from 1978, 2003, and 2025. The film has generated early Oscar buzz and is scheduled to premiere on Netflix on December 4, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The documentary is titled The Bend in the River.",
+      "The film is directed by Robb Moss.",
+      "Joel Coen and Frances McDormand are executive producers.",
+      "The documentary follows five friends over nearly 50 years.",
+      "Initial footage was filmed in 1978 during a Grand Canyon rafting trip.",
+      "Subsequent footage was recorded in 2003 and 2025.",
+      "The documentary runtime is 82 minutes.",
+      "The film premieres on Netflix on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Joel Coen",
+        "Frances McDormand",
+        "Robb Moss",
+        "Lisa Remington",
+        "Kristin Feeley",
+        "Liz Gilbert Cohen",
+        "Tot Long",
+        "David Lewis",
+        "Shane Boris",
+        "Jeff Reichert",
+        "Geralyn White Dreyfous",
+        "Regina K. Scully",
+        "James Costa",
+        "Trevor Burgess",
+        "Isha Sharma"
+      ],
+      "titles": [
+        "The Bend in the River"
+      ]
+    },
+    "keywords": [
+      "The Bend in the River",
+      "Joel Coen Netflix movie",
+      "Frances McDormand documentary",
+      "Robb Moss The Bend in the River"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-2026-11-06T020816.437.png?resize=1200,630",
+        "caption": "Joel Coen and Frances McDormand Back Netflix Documentary The Bend in the River",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 20:49:08 +0000"
+  },
+  "1fv4ddu": {
+    "id": "1fv4ddu",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Day 2 Box Office Collection: Early Estimates and Occupancy Tracking",
+    "dek": "Ankur Baruah reports on the theatrical performance of Ramayana: Part 1, tracking initial earnings, occupancy trends, and total collections across regions.",
+    "body": [
+      {
+        "h": "Opening Day Collections and Earnings",
+        "p": [
+          "The theatrical journey for Ramayana: Part 1 began with substantial figures, pulling in an estimated sixty-four crore net across all languages on its opening day. This initial launch established a solid foundation for the cinematic release.",
+          "In addition to the domestic net earnings, the gross figures for the country reached approximately seventy-five point five crore. Industry analysts continue to monitor these early numbers as further data comes in."
+        ]
+      },
+      {
+        "h": "Occupancy Rates on Day One",
+        "p": [
+          "The Hindi version of the film experienced varied theater attendance throughout the opening day, starting with a morning occupancy range of eighteen to twenty percent. Viewer turnout picked up during the afternoon sessions, recording twenty-three to twenty-five percent.",
+          "The highest concentration of moviegoers arrived during the night shows, driving night occupancy up to forty-five to fifty percent. This trajectory brought the overall first-day occupancy average to thirty point one seven percent."
+        ]
+      },
+      {
+        "h": "Tracking Day Two Projections",
+        "p": [
+          "Following the opening success, tracking for the second day began with early estimates and occupancy updates. Observers anticipated further figures to understand how viewer interest sustained itself through the first weekend.",
+          "Reports noted that detailed breakdowns for the second day would be updated continuously as fresh box office tracking and theater occupancy reports became available from various reporting sources."
+        ]
+      },
+      {
+        "h": "Regional and Worldwide Breakdown",
+        "p": [
+          "Current total earnings for the feature stand at sixty-four crore net within the domestic region. Gross collections within the country reflect the strong opening momentum at seventy-five point five crore.",
+          "At the time of reporting, specific figures for overseas markets and total worldwide tallies had not yet been finalized. These international metrics are expected to be integrated into future reports."
+        ]
+      },
+      {
+        "h": "Contextualizing Against Recent Grossers",
+        "p": [
+          "The theatrical circuit features several notable high-earning titles from previous runs for comparative context. Notable past performers include Pushpa 2 at eight hundred eleven point two five crore nett and Stree 2 at six hundred twenty-six crore.",
+          "Other prominent films referenced in box office tracking lists include Kalki 2898 AD for its Hindi version at two hundred ninety-two crore, Bhool Bhulaiyaa 3 at two hundred fifty-six point five crore, and Singham Again at two hundred fifty-three crore."
+        ]
+      },
+      {
+        "h": "Data Reliability and Disclaimers",
+        "p": [
+          "Box office statistics and theatrical metrics are compiled from a combination of industry reports, estimates, and external tracking sources. These figures serve as early indicators and may vary from official producer statements.",
+          "Review platforms emphasize that data authenticity is based on available estimates, prompting followers to check regular updates for revised numbers as final tallies are consolidated."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 launched with an estimated sixty-four crore net across all languages on its first day, accompanied by a thirty point one seven percent overall occupancy rate for its Hindi version. Ongoing tracking by Ankur Baruah continues to provide early estimates and regional figures for the release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 earned an estimated 64 crore net on Day 1 across all languages.",
+      "India gross collection on Day 1 was estimated at 75.5 crore.",
+      "Hindi version Day 1 morning occupancy was 18-20%.",
+      "Hindi version Day 1 afternoon occupancy was 23-25%.",
+      "Hindi version Day 1 night occupancy was 45-50%.",
+      "Hindi version Day 1 overall occupancy was 30.17%.",
+      "Pushpa 2 nett collection is 811.25 crore.",
+      "Stree 2 nett collection is 626 crore.",
+      "Kalki 2898 AD Hindi only nett collection is 292 crore.",
+      "Bhool Bhulaiyaa 3 nett collection is 256.5 crore.",
+      "Singham Again nett collection is 253 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ankur Baruah"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Pushpa 2",
+        "Stree 2",
+        "Kalki 2898 AD",
+        "Bhool Bhulaiyaa 3",
+        "Singham Again"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office collection",
+      "Ramayana Part 1 Day 2 occupancy",
+      "Ankur Baruah Ramayana box office",
+      "Ramayana Part 1 earnings"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9gpJXA8twuhh4ny9i07x0ndubFu8A_M_khnOCvQu4NvW7_EyIcYdzrI4IU9XT6HCS7qqtJJMH0YhD6ySc-UcgmY0qwVWfh3hpHfdV9VIH6qFbaMUxxweeprwUdhWpR-p7ur12At34SduNeDBipxWw1F3o9VArWVaLAswGwoOG0CVYYVT8984GXuPS4VY/w1600/ramayana-part-1-day-2-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Day 2 Box Office Collection: Early Estimates and Occupancy Tracking",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-06T00:08:32.952+05:30"
   }
 };
