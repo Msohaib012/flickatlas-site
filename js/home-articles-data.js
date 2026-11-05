@@ -37,6 +37,44 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 05 Nov 2026 15:52:46 +0200"
   },
+  "d7kzjj": {
+    "id": "d7kzjj",
+    "type": "news",
+    "headline": "Abubakar Unreal Hai Sparks Fan Praise For Pakistani Drama Dar-e-Nijaat",
+    "dek": "ARY Digital highlights the unforgettable character of Abu Bakar in the hit television series Dar-e-Nijaat, starring Sheheryar Munawar and Dur-e-Fishan Saleem.",
+    "entities": {
+      "people": [
+        "Sheheryar Munawar",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Romaisa Khan",
+        "Sahar Hashmi",
+        "Sania Saeed",
+        "Saba Hamid",
+        "Nadia Afgan",
+        "Mahmood Aslam",
+        "Faran Tahir",
+        "Adnan Shah Tipu",
+        "Adnan Jaffar",
+        "Dania Enwer",
+        "Nooray Zeeshan",
+        "Umera Ahmed",
+        "Saqib Khan"
+      ],
+      "titles": [
+        "Dar-e-Nijaat"
+      ]
+    },
+    "keywords": [
+      "Dar e Nijaat",
+      "Sheheryar Munawar",
+      "Dur e Fishan Saleem",
+      "ARY Digital drama",
+      "Abu Bakar Dar e Nijaat"
+    ],
+    "images": [],
+    "published": "2026-11-05T12:20:13+00:00"
+  },
   "1te878e": {
     "id": "1te878e",
     "type": "news",
@@ -4828,39 +4866,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 03:31:41 +0000"
-  },
-  "rnc55j": {
-    "id": "rnc55j",
-    "type": "news",
-    "headline": "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
-    "dek": "The upcoming third instalment of the popular franchise faces fresh uncertainty following creative disagreements and leadership departures.",
-    "entities": {
-      "people": [
-        "Akshay Kumar",
-        "Amit Rai",
-        "Rani Mukerji",
-        "Paresh Rawal"
-      ],
-      "titles": [
-        "Oh My Goddess",
-        "OMG 2",
-        "OMG - Oh My God!"
-      ]
-    },
-    "keywords": [
-      "Oh My Goddess film",
-      "Akshay Kumar Oh My Goddess",
-      "Amit Rai OMG",
-      "Rani Mukerji Oh My Goddess"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/akshaykumaromg-35291793762146.jpg",
-        "caption": "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 08:47:38 +0530"
   },
   "zjcoxh": {
     "id": "zjcoxh",

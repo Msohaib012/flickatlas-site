@@ -63739,5 +63739,102 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 10:04:12 GMT"
+  },
+  "d7kzjj": {
+    "id": "d7kzjj",
+    "type": "news",
+    "headline": "Abubakar Unreal Hai Sparks Fan Praise For Pakistani Drama Dar-e-Nijaat",
+    "dek": "ARY Digital highlights the unforgettable character of Abu Bakar in the hit television series Dar-e-Nijaat, starring Sheheryar Munawar and Dur-e-Fishan Saleem.",
+    "body": [
+      {
+        "h": "The Rise of Dar-e-Nijaat",
+        "p": [
+          "The Pakistani television landscape has been gripped by the compelling narrative of Dar-e-Nijaat, a serial broadcasted on ARY Digital that has continuously drawn major attention from viewers. Promoted heavily through digital platforms, the drama features high production values and a complex web of familial relationships.",
+          "Audiences have followed the unfolding twists across multiple episodes, with fans eagerly tracking every new development in the lives of the core characters as secrets and betrayals come to light."
+        ]
+      },
+      {
+        "h": "Spotlight on Abu Bakar",
+        "p": [
+          "Fans and promotional channels alike have taken to social media to praise the character of Abu Bakar, with reactions describing him as unreal and comparable to a fictional character due to his unique traits.",
+          "This strong viewer engagement highlights how deeply the audience has connected with his journey, viewing him as a standout figure within the broader television drama landscape."
+        ]
+      },
+      {
+        "h": "Starring Cast and Performances",
+        "p": [
+          "The series features prominent actors Sheheryar Munawar in the role of Abu Bakar alongside Dur-e-Fishan Saleem portraying Zaryab, anchoring the emotional core of the show.",
+          "Additional key performances are delivered by Nameer Nawaz Khan as Zamil, rounding out a talented ensemble that brings the intricate script to life on screen."
+        ]
+      },
+      {
+        "h": "Creative Minds Behind the Screen",
+        "p": [
+          "Dar-e-Nijaat benefits from the creative vision of writer Umera Ahmed, whose storytelling is known for exploring deep emotional and psychological layers.",
+          "Director Saqib Khan translates these written words into a visually gripping television experience that successfully holds viewer attention through every frame."
+        ]
+      },
+      {
+        "h": "Themes of Betrayal and Redemption",
+        "p": [
+          "The narrative structure of the drama revolves around bonds written by blood and torn apart by betrayal, forcing characters to navigate profound moral dilemmas.",
+          "As spirituality, love, sacrifice, and revenge collide, the storyline challenges its protagonists to find their path to redemption amidst overwhelming obstacles."
+        ]
+      },
+      {
+        "h": "Extended Ensemble and Production",
+        "p": [
+          "Alongside the main leads, the serial features a vast supporting cast including Romaisa Khan, Sahar Hashmi, Sania Saeed, Saba Hamid, and Nadia Afgan.",
+          "Further rounding out the roster are actors Mahmood Aslam, Faran Tahir, Adnan Shah Tipu, Adnan Jaffar, Dania Enwer, and Nooray Zeeshan, adding depth to the show's universe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ARY Digital has spotlighted the character Abu Bakar from the television drama Dar-e-Nijaat, drawing widespread fan praise for his unreal, fictional-like qualities.",
+          "The series stars Sheheryar Munawar and Dur-e-Fishan Saleem under the creative direction of Saqib Khan and writing of Umera Ahmed."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-e-Nijaat is broadcast on ARY Digital.",
+      "Sheheryar Munawar plays Abu Bakar.",
+      "Dur-e-Fishan Saleem plays Zaryab.",
+      "Nameer Nawaz Khan plays Zamil.",
+      "The writer of the drama is Umera Ahmed.",
+      "The director of the drama is Saqib Khan."
+    ],
+    "entities": {
+      "people": [
+        "Sheheryar Munawar",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Romaisa Khan",
+        "Sahar Hashmi",
+        "Sania Saeed",
+        "Saba Hamid",
+        "Nadia Afgan",
+        "Mahmood Aslam",
+        "Faran Tahir",
+        "Adnan Shah Tipu",
+        "Adnan Jaffar",
+        "Dania Enwer",
+        "Nooray Zeeshan",
+        "Umera Ahmed",
+        "Saqib Khan"
+      ],
+      "titles": [
+        "Dar-e-Nijaat"
+      ]
+    },
+    "keywords": [
+      "Dar e Nijaat",
+      "Sheheryar Munawar",
+      "Dur e Fishan Saleem",
+      "ARY Digital drama",
+      "Abu Bakar Dar e Nijaat"
+    ],
+    "images": [],
+    "published": "2026-11-05T12:20:13+00:00"
   }
 };
