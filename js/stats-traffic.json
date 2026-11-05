@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-05T06:03:59Z",
+  "generated": "2026-11-05T08:57:48Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 2,
-    "pageviews": 2,
-    "sessions": 2,
-    "avg_session_seconds": 3.1
+    "users": 4,
+    "pageviews": 13,
+    "sessions": 4,
+    "avg_session_seconds": 13.6
   },
   "last7": {
-    "users": 195,
-    "pageviews": 663,
-    "sessions": 267,
-    "avg_session_seconds": 160.1
+    "users": 196,
+    "pageviews": 674,
+    "sessions": 269,
+    "avg_session_seconds": 159.1
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 151,
-      "avg_time_seconds": 217.6
+      "views": 152,
+      "avg_time_seconds": 214.7
     },
     {
       "path": "/",
@@ -32,26 +32,26 @@
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 23,
-      "avg_time_seconds": 86.2
+      "views": 25,
+      "avg_time_seconds": 79.8
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 20,
-      "avg_time_seconds": 51.4
+      "views": 21,
+      "avg_time_seconds": 48.8
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 36.8
+      "views": 15,
+      "avg_time_seconds": 34.2
     },
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 19.1
+      "views": 15,
+      "avg_time_seconds": 18.7
     },
     {
       "path": "/movie",
@@ -66,16 +66,16 @@
       "avg_time_seconds": 44.8
     },
     {
-      "path": "/movie",
-      "title": "Enemy Of The Smuggler (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 9,
-      "avg_time_seconds": 11.0
+      "path": "/tv",
+      "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
+      "views": 10,
+      "avg_time_seconds": 6.5
     },
     {
-      "path": "/movie",
-      "title": "Tum Mere Ho (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
-      "views": 9,
-      "avg_time_seconds": 117.9
+      "path": "/upcoming",
+      "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
+      "views": 10,
+      "avg_time_seconds": 33.8
     }
   ],
   "sources": [
@@ -88,8 +88,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 127,
-      "users": 89
+      "sessions": 129,
+      "users": 90
     },
     {
       "source": "search.google.com",
@@ -100,8 +100,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 1,
-      "users": 1
+      "sessions": 2,
+      "users": 2
     },
     {
       "source": "gemini.google.com",
@@ -136,6 +136,10 @@
       "users": 3
     },
     {
+      "country": "Singapore",
+      "users": 3
+    },
+    {
       "country": "Taiwan",
       "users": 3
     },
@@ -146,20 +150,16 @@
     {
       "country": "Brazil",
       "users": 2
-    },
-    {
-      "country": "Germany",
-      "users": 2
     }
   ],
   "devices": [
     {
-      "device": "mobile",
+      "device": "desktop",
       "users": 96
     },
     {
-      "device": "desktop",
-      "users": 95
+      "device": "mobile",
+      "users": 96
     },
     {
       "device": "tablet",

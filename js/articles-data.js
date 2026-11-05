@@ -32889,10 +32889,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Batman Part II",
-      "Brian Tyree Henry Two-Face",
-      "Sebastian Stan Victor Zsasz",
-      "The Batman 2 Court of Owls"
+      "The Batman Part II villains",
+      "The Batman Part II leaks",
+      "Matt Reeves The Batman sequel",
+      "Steven Soderbergh The Batman Part II"
     ],
     "images": [
       {
@@ -32999,10 +32999,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Prahaar The Ujjwal Nikam Story",
-      "Rajkummar Rao Prahaar box office",
-      "Prahaar Day 17 collection",
-      "Prahaar movie worldwide collection",
-      "Avinash Arun film Prahaar"
+      "Rajkummar Rao Prahaar collection",
+      "Prahaar Ujjwal Nikam 30 crore",
+      "Rajkummar Rao biographical film"
     ],
     "images": [
       {
@@ -33211,10 +33210,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Dave Bautista God of War",
-      "God of War Kratos actor",
-      "Dave Bautista 250 pounds muscle",
-      "Ryan Hurst God of War injury"
+      "Dave Bautista God of War Kratos",
+      "Dave Bautista muscle transformation",
+      "Dave Bautista God of War series",
+      "Dave Bautista Kratos role Prime Video"
     ],
     "images": [
       {
@@ -33311,10 +33310,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film advance booking",
-      "Ranbir Kapoor Yash Ramayana release",
-      "Ramayana collection ₹75 crore",
-      "Nitesh Tiwari Ramayana Part One"
+      "Ramayana advance bookings 75 crore",
+      "Nitesh Tiwari Ramayana global premiere",
+      "Ranbir Kapoor Yash Ramayana sales",
+      "Ramayana advance sales"
     ],
     "images": [
       {
@@ -33406,10 +33405,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Kiss For Tomorrow film",
       "Son Suk Ku Park Bo Young",
+      "Kiss For Tomorrow romantic comedy",
       "Kang Hyung Chul Kiss For Tomorrow",
-      "Kiss For Tomorrow release"
+      "Son Suk Ku Park Bo Young K-drama"
     ],
     "images": [
       {
@@ -33526,10 +33525,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office",
-      "Rajinikanth Jailer 2",
-      "Jailer 2 collection",
-      "Nelson Dilipkumar film"
+      "Rajinikanth Jailer 2 800 crore",
+      "Jailer 2 Tamil cinema blockbuster",
+      "Rajinikanth 75 years old Jailer 2",
+      "Rajinikanth Jailer 2 box office"
     ],
     "images": [
       {
@@ -33617,10 +33616,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Shah Rukh Khan 61st birthday",
-      "Shah Rukh Khan Mannat",
-      "King movie Tu Mil Jaaye",
-      "Shah Rukh Khan Deepika Padukone",
-      "King release date December 2026"
+      "Shah Rukh Khan Taj Hotel Mumbai",
+      "Shah Rukh Khan Tu Mil Jaaye",
+      "Shah Rukh Khan midnight appearance"
     ],
     "images": [
       {
@@ -33729,10 +33727,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office",
-      "Rajinikanth Jailer 2",
-      "Jailer 2 Day 18 collection",
-      "Jailer 2 worldwide collection"
+      "Jailer 2 box office day 18",
+      "Rajinikanth Jailer 2 800 crore",
+      "Jailer 2 global box office",
+      "Rajinikanth Jailer 2 collection"
     ],
     "images": [
       {
@@ -33831,10 +33829,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part 1",
-      "Ramayana Mumbai premiere",
-      "Namit Malhotra Ramayana",
-      "Ranbir Kapoor Ramayana"
+      "Ramayana Part 1 Mumbai premiere",
+      "Namit Malhotra Ramayana Los Angeles",
+      "Ramayana Part One London screening",
+      "Ranbir Kapoor Ramayana premiere"
     ],
     "images": [
       {
@@ -33952,10 +33950,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shraddha Kapoor Eetha",
-      "Eetha theatrical deal",
-      "Laxman Utekar Eetha movie",
-      "Eetha PVR INOX 90 crore"
+      "Shraddha Kapoor Eetha distribution deal",
+      "Eetha 90 crore deal PVR INOX",
+      "Laxman Utekar Eetha December release",
+      "Shraddha Kapoor Eetha movie"
     ],
     "images": [
       {
@@ -34044,10 +34042,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ben Whishaw Q Bond reboot",
-      "James Bond casting screen tests",
-      "Ben Whishaw No Time to Die",
-      "Amazon MGM Studios Bond franchise"
+      "Ben Whishaw James Bond Q",
+      "Ben Whishaw leaves 007 reboot",
+      "Ben Whishaw No Time to Die Q",
+      "Ben Whishaw James Bond franchise"
     ],
     "images": [],
     "published": "2026-11-02T06:52:17Z"
@@ -34145,10 +34143,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office",
-      "Rajinikanth Jailer 2 collection",
-      "highest grossing Tamil film",
-      "Jailer 2 worldwide gross"
+      "Jailer 2 Rajinikanth worldwide collection",
+      "Jailer 2 crosses 800 crore",
+      "Nelson Dilipkumar Jailer 2 box office",
+      "Rajinikanth Jailer 2 Tamil box office"
     ],
     "images": [
       {
@@ -34455,11 +34453,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part One film",
-      "Yash Ravana Ramayana",
-      "Ranbir Kapoor Rama Ramayana",
-      "Nitesh Tiwari Ramayana movie",
-      "Ramayana release date 2026"
+      "Yash Ramayana Part One Ravana",
+      "Nitesh Tiwari Ramayana Part One",
+      "Ranbir Kapoor Yash Ramayana",
+      "Yash Rama and Ravana perspective"
     ],
     "images": [
       {
@@ -34560,10 +34557,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part One",
-      "Ramayana advance booking",
-      "Namit Malhotra Ramayana",
-      "Nitesh Tiwari Ramayana"
+      "Ramayana Part One advance bookings",
+      "Namit Malhotra Ramayana 50 crore",
+      "Ranbir Kapoor Ramayana release date",
+      "Ramayana Part One Diwali release"
     ],
     "images": [
       {
@@ -34667,9 +34664,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "General Hospital Daytime Emmys",
-      "The Kelly Clarkson Show Daytime Emmys",
-      "Genie Francis Life Achievement Award",
-      "Beyond the Gates Daytime Emmys"
+      "The Kelly Clarkson Show wins",
+      "Daytime Emmy Awards Hollywood Palladium",
+      "Frank Valentini General Hospital"
     ],
     "images": [
       {
@@ -62549,5 +62546,355 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-05T06:52:32Z"
+  },
+  "1fk6cdl": {
+    "id": "1fk6cdl",
+    "type": "news",
+    "headline": "Bigg Boss 20 Family Task: Kushal Tanwar Aka Gullu Receives Emotional Audio Message From Mother",
+    "dek": "Kushal Tanwar, popularly known as Gullu, experienced an emotional and heartwarming moment inside the Bigg Boss 20 house during the family task.",
+    "body": [
+      {
+        "h": "An Emotional Family Task in Bigg Boss 20",
+        "p": [
+          "The popular reality television show Bigg Boss 20 recently witnessed a deeply emotional turning point during its latest family task. Contestants were given a chance to reconnect with their loved ones, bringing forth raw and touching moments inside the house.",
+          "Among the various emotional highlights, the experience of Kushal Tanwar, widely known by his nickname Gullu, stood out as one of the most heartwarming highlights of the season so far."
+        ]
+      },
+      {
+        "h": "A Heartfelt Audio Cassette From Mother",
+        "p": [
+          "During the special family task, Gullu was given an audio cassette containing a personal message from his mother. Listening to her voice brought an immediate wave of intense emotions for the contestant.",
+          "His mother expressed profound happiness and immense pride regarding his gameplay and overall journey inside the high-pressure television house, making the experience deeply personal and meaningful for him."
+        ]
+      },
+      {
+        "h": "Words of Encouragement and Pride",
+        "p": [
+          "Sharing her unfiltered thoughts, Gullu's mother showered him with love and immense motivation. She remarked that she feels extremely happy watching him play so well and noted that he has made her head held high with pride.",
+          "She encouraged him to continue on the same path, affirming that his performance in the house has been exceptionally good and that her supportive words reflect the joy his journey brings to the family."
+        ]
+      },
+      {
+        "h": "Gullu's Journey and Composure Inside the House",
+        "p": [
+          "Throughout his stint on Bigg Boss 20, Gullu has navigated various challenging situations while maintaining his unique individuality. He has consistently managed to leave a distinct impression on viewers.",
+          "Whether tackling conflicts with a humorous approach or keeping his composure during difficult moments, his steady demeanor has been a notable aspect of his time on the show."
+        ]
+      },
+      {
+        "h": "Validation Outside the House",
+        "p": [
+          "The surprise audio message served as a comforting reminder to Gullu that his continuous efforts and gameplay are being appreciated far beyond the confines of the television house.",
+          "Knowing that his mother is watching and supporting him outside provides crucial validation, reinforcing the reality that his actions resonate with the audience and his loved ones."
+        ]
+      },
+      {
+        "h": "Boosting Morale for the Days Ahead",
+        "p": [
+          "The audio cassette segment successfully highlighted the vulnerable and emotional side of the contestants, allowing them to draw strength from familiar voices.",
+          "For Gullu, hearing his mother's encouraging words acts as a significant morale boost, adding another emotional layer to his ongoing game and motivating him to keep making his family proud."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kushal Tanwar, known as Gullu, experienced an emotional moment on Bigg Boss 20 when he received an audio cassette message from his mother during the family task. His mother expressed immense pride and love for his gameplay, boosting his morale for the rest of his journey."
+        ]
+      }
+    ],
+    "facts": [
+      "Kushal Tanwar is also known as Gullu.",
+      "The event took place inside the Bigg Boss 20 house.",
+      "The message was delivered via an audio cassette during the family task.",
+      "The story was first published on Thursday, November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Kushal Tanwar",
+        "Gullu"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Kushal Tanwar",
+      "Gullu Bigg Boss 20",
+      "Bigg Boss 20 family task"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/gullumotherbiggboss20kushaltanwar-31651793863962.jpg",
+        "caption": "Bigg Boss 20 Family Task: Kushal Tanwar Aka Gullu Receives Emotional Audio Message From Mother",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 13:04:36 +0530"
+  },
+  "1tnrm3n": {
+    "id": "1tnrm3n",
+    "type": "news",
+    "headline": "Dafne Keen Reflects on Child Stardom and Being Offered Drugs at Wrap Parties",
+    "dek": "The Logan and X-23 actor opens up about experiencing Hollywood adult culture at a young age, avoiding substance use, and the protective presence of Hugh Jackman.",
+    "body": [
+      {
+        "h": "Early Exposure to Adult Hollywood Culture",
+        "p": [
+          "Child star Dafne Keen recently shared striking revelations about her early years in the entertainment industry during a podcast discussion. Best known for her breakout roles in major cinematic projects, the young performer recalled encountering heavy adult environments while still a child actor working on various sets."
+        ]
+      },
+      {
+        "h": "Encountering Substances at Wrap Parties",
+        "p": [
+          "During her appearance on Inside of You with Michael Rosenbaum, Keen revealed that she was around eleven to thirteen years old when she was first offered cocaine at industry wrap parties. Host Michael Rosenbaum expressed immediate shock at how early a child encountered such dangerous substances.",
+          "Rather than being tempted by the illicit offers, the young actor firmly turned them down. She explained that observing the behavior of adults consuming alcohol and drugs effectively scared her away from ever wanting to experiment with them herself."
+        ]
+      },
+      {
+        "h": "Maintaining Sobriety and Managing Peer Pressure",
+        "p": [
+          "Now twenty-one years old, Keen maintains a strict boundary regarding alcohol and controlled substances. She described herself as a control freak concerning drinking, noting that she has never even experienced a hangover or been drunk.",
+          "Despite avoiding substances entirely, she remains an enthusiastic attendee at social gatherings. She explained that she can easily stay out until six in the morning dancing and enjoying music while simply drinking soda, occasionally pretending to be high during her teenage years to easily deter persistent peer pressure from others."
+        ]
+      },
+      {
+        "h": "Support from Costar Hugh Jackman",
+        "p": [
+          "Navigating a demanding film schedule as a minor required strong guidance, which Keen found in her Logan costar Hugh Jackman. She fondly praised Jackman as the ultimate on-screen father figure who continually provided encouragement and valuable advice.",
+          "According to the actor, Jackman actively looked out for her well-being on set, ensuring that no one abused her working hours. He also shielded her from behind-the-scenes tensions and helped her genuinely enjoy the filmmaking process."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dafne Keen shared that she was offered cocaine and witnessed heavy drinking at wrap parties when she was eleven to thirteen years old, but she consistently turned down substances. She credited her sobriety and caution to seeing adult behavior early on, while also praising her Logan costar Hugh Jackman for protecting her on set."
+        ]
+      }
+    ],
+    "facts": [
+      "Dafne Keen was offered cocaine at wrap parties when she was around 11 to 13 years old.",
+      "Dafne Keen is now 21 years old.",
+      "Dafne Keen appeared on Michael Rosenbaum's Inside of You podcast.",
+      "Hugh Jackman played Laura's on-screen father and costar in Logan."
+    ],
+    "entities": {
+      "people": [
+        "Dafne Keen",
+        "Michael Rosenbaum",
+        "Hugh Jackman",
+        "Rishabh Shandilya"
+      ],
+      "titles": [
+        "Logan",
+        "Inside of You",
+        "Godzilla Minus Zero",
+        "The Cat in the Hat",
+        "Whistle",
+        "Percy Jackson and the Olympians"
+      ]
+    },
+    "keywords": [
+      "Dafne Keen Logan",
+      "Dafne Keen cocaine",
+      "Michael Rosenbaum Inside of You podcast",
+      "Hugh Jackman Logan"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-05T121822.821.webp?resize=1200,630",
+        "caption": "Dafne Keen Reflects on Child Stardom and Being Offered Drugs at Wrap Parties",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 07:06:48 +0000"
+  },
+  "1us3lm8": {
+    "id": "1us3lm8",
+    "type": "news",
+    "headline": "Sheena Chohan Praises Nitesh Tiwari's Ramayana and Empowering Vision of Sita",
+    "dek": "Actress Sheena Chohan shares her exclusive thoughts on Nitesh Tiwari's grand cinematic adaptation of Ramayana, lauding the powerful reimagining of its female characters.",
+    "body": [
+      {
+        "h": "Exclusive Premiere Insights",
+        "p": [
+          "Actress Sheena Chohan recently attended the exclusive premiere of the highly anticipated film Ramayana. The star-studded event brought together various prominent figures from the film industry, including notable names like Alia Bhatt and Rakulpreet.",
+          "Experiencing the project firsthand left Chohan with a profound sense of pride regarding how Indian storytelling, history, and timeless truths are successfully reaching audiences across the globe."
+        ]
+      },
+      {
+        "h": "Reimagining Sita's Character",
+        "p": [
+          "In a detailed interview following the screening, Chohan highlighted the distinct approach taken toward the epic's female figures. Traditionally viewed purely through the lens of sacrifice, devotion, and endurance, Sita receives a refreshing update under the direction of Nitesh Tiwari.",
+          "Chohan noted that this adaptation reimagines Sita as a warrior princess. By bringing out her courage, power, and distinct agency, the film provides an empowering dimension to a character who has historically inspired countless generations."
+        ]
+      },
+      {
+        "h": "Grand Cinematic Canvas",
+        "p": [
+          "Discussing the scale of the production, Chohan recalled that her own personal introduction to Indian storytelling began with the Ramayan. Witnessing this epic brought to life on such a magnificent cinematic scale proved to be a deeply special experience.",
+          "She expressed great admiration for Nitesh Tiwari's vision and his specific approach to honoring cultural roots while utilizing massive cinematic ambition."
+        ]
+      },
+      {
+        "h": "A Renewed Wave of Mythological Cinema",
+        "p": [
+          "The actress observed a broader trend in Indian cinema characterized by a renewed interest in spiritual and mythological storytelling. According to Chohan, contemporary audiences increasingly seek out narratives that offer depth beyond standard entertainment.",
+          "This shift reflects a growing cultural appreciation for movies that directly connect viewers back to their heritage, faith, and overall identity."
+        ]
+      },
+      {
+        "h": "Empowering Women in Recent Projects",
+        "p": [
+          "An exciting element of this current wave is the prominent placement of strong female characters at the forefront of such narratives. Chohan pointed to several examples across different projects, including Sita in Ramayana, Parvati in Hanuman Ansh, and Mahasakthi in Mookuthi Amman 2.",
+          "These portrayals showcase women demonstrating incredible courage, strong conviction, and deep spiritual strength on screen."
+        ]
+      },
+      {
+        "h": "Personal Connection to Spiritual Cinema",
+        "p": [
+          "Having recently portrayed Avali in the spiritual devotional film Sant Tukaram, which is set for a theatrical release, Chohan relates closely to this artistic wave. She has personally experienced how stories inspired by spiritual heritage resonate across diverse generations.",
+          "In addition to Sant Tukaram, her varied career features challenging roles like Lilith, a she-devil in an upcoming biopic, highlighting her ongoing commitment to emotionally intense characters."
+        ]
+      },
+      {
+        "h": "Raising the Bar for Indian Cinema",
+        "p": [
+          "Concluding her thoughts on the monumental project, Chohan described Ramayan as much more than just a standard movie. She views it as a vital representation of culture, heritage, and civilization.",
+          "She urged audiences to support the ambitious endeavor, wishing the entire team success as they attempt to elevate the standard of Indian cinema and share domestic cultural stories with the world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Sheena Chohan attended the exclusive premiere of Nitesh Tiwari's upcoming film Ramayana alongside other industry stars like Alia Bhatt and Rakulpreet. In an interview, Chohan praised the project for reimagining Sita as an empowered warrior princess and highlighted a growing cinematic trend celebrating spiritual heritage and strong female characters."
+        ]
+      }
+    ],
+    "facts": [
+      "Sheena Chohan attended the exclusive premiere of Ramayana on November 5, 2026.",
+      "Alia Bhatt and Rakulpreet also attended the premiere.",
+      "Nitesh Tiwari is the director of Ramayana.",
+      "Sheena Chohan portrayed Avali in Sant Tukaram."
+    ],
+    "entities": {
+      "people": [
+        "Sheena Chohan",
+        "Nitesh Tiwari",
+        "Alia Bhatt",
+        "Rakulpreet",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayan",
+        "Hanuman Ansh",
+        "Mookuthi Amman 2",
+        "Sant Tukaram"
+      ]
+    },
+    "keywords": [
+      "Sheena Chohan Ramayana",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana premiere Alia Bhatt",
+      "Sheena Chohan Sant Tukaram"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-05t130201-620-35771793863928.jpg",
+        "caption": "Sheena Chohan Praises Nitesh Tiwari's Ramayana and Empowering Vision of Sita",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 13:03:21 +0530"
+  },
+  "19fkrnj": {
+    "id": "19fkrnj",
+    "type": "news",
+    "headline": "Sydney Sweeney Unveils New Cindy Lou Who Holiday Video for SYRN Lingerie",
+    "dek": "Sydney Sweeney is back in the spotlight with a fresh holiday campaign for her brand SYRN, once again channeling Cindy Lou Who amid ongoing online discourse.",
+    "body": [
+      {
+        "h": "Holiday Campaign Launch",
+        "p": [
+          "Sydney Sweeney has released a brand-new promotional video for her lingerie brand, SYRN, offering fans an early holiday surprise. The fresh content arrived to promote the brand's new collection, titled All I Want Is Plaid.",
+          "The latest promotional material continues the holiday-themed campaign inspired by How the Grinch Stole Christmas, keeping the festive spirit alive ahead of the winter season."
+        ]
+      },
+      {
+        "h": "Visuals and Festive Aesthetics",
+        "p": [
+          "In the newly shared Instagram post, Sweeney appears wearing red-and-black plaid lingerie pieces accompanied by oversized bows. She completes the ensemble with a white fur-trimmed cape and matching thigh-high stockings.",
+          "The surrounding set design features decorated Christmas trees, brightly wrapped gifts, and glowing Christmas lights to establish a thoroughly festive atmosphere."
+        ]
+      },
+      {
+        "h": "Origins of the Campaign",
+        "p": [
+          "Sweeney first introduced this specific Cindy Lou Who-inspired look on October 21. That initial advertisement showcased her wearing plaid pajamas and a cape while carrying wrapped presents.",
+          "An additional scene from the rollout previously featured her decorating a Christmas tree while donning a Corpse Bride-inspired outfit, expanding the creative scope of the promotional run."
+        ]
+      },
+      {
+        "h": "Backlash and Controversy",
+        "p": [
+          "The campaign drew noticeable online criticism following its initial launch. Numerous social media commenters pointed out that the character of Cindy Lou Who is traditionally portrayed as a young child in source material.",
+          "Despite the resulting backlash, the brand chose to move forward, releasing five additional photos and videos for the collection to maintain momentum."
+        ]
+      },
+      {
+        "h": "Past Promotional Controversies",
+        "p": [
+          "This rollout marks another instance where a promotional campaign featuring Sweeney has generated considerable online debate. Her 2025 American Eagle campaign previously faced significant social media pushback.",
+          "Additionally, her Novig advertisements attracted criticism, which notably included public commentary from her Euphoria co-star Sharon Stone regarding women participating in gambling advertising."
+        ]
+      },
+      {
+        "h": "Fan Engagement and Response",
+        "p": [
+          "Despite the surrounding discourse, SYRN's latest post quickly gained traction on Instagram, racking up over 9,600 likes and 78 comments within its first 14 hours online.",
+          "Audience reactions varied widely, ranging from straightforward compliments on the aesthetic to creative suggestions for future products, with one commenter even pitching a Grinch remake starring Sweeney alongside Jim Carrey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sydney Sweeney released a new holiday promotional video for her lingerie brand SYRN, continuing her Cindy Lou Who-inspired campaign despite previous online criticism. The brand's latest social media post has drawn thousands of likes alongside mixed fan reactions and ongoing public discussion."
+        ]
+      }
+    ],
+    "facts": [
+      "Sydney Sweeney released a new video for her lingerie brand SYRN on November 4, 2026.",
+      "The collection is titled All I Want Is Plaid.",
+      "The Cindy Lou Who-inspired look was first unveiled on October 21.",
+      "The latest Instagram post garnered over 9,600 likes and 78 comments in 14 hours."
+    ],
+    "entities": {
+      "people": [
+        "Sydney Sweeney",
+        "Sharon Stone",
+        "Jim Carrey",
+        "Vritti Johar"
+      ],
+      "titles": [
+        "How the Grinch Stole Christmas",
+        "Corpse Bride",
+        "Euphoria"
+      ]
+    },
+    "keywords": [
+      "Sydney Sweeney Cindy Lou Who",
+      "SYRN lingerie holiday collection",
+      "Sydney Sweeney Instagram video",
+      "All I Want Is Plaid"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-05-Nov-2026-05-21-PM-881.jpg?resize=1200,630",
+        "caption": "Sydney Sweeney Unveils New Cindy Lou Who Holiday Video for SYRN Lingerie",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 06:21:59 +0000"
   }
 };

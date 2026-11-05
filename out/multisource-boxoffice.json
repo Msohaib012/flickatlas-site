@@ -701,6 +701,7 @@
         },
         "india": true,
         "sources": {
+          "bollywoodhungama": 0.03,
           "sacnilk": 0.03
         }
       }
@@ -1418,9 +1419,9 @@
       },
       "22": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.188,
+        "collection_inr_cr": 0.247,
         "collection_scope": "india_net",
-        "collection_usd": 19863,
+        "collection_usd": 26096,
         "date": "2026-11-05",
         "date_disagreed": false,
         "extras": {
@@ -1447,7 +1448,7 @@
         "india": true,
         "sources": {
           "bollybourse": 0.17,
-          "bollywoodhungama": 0.17,
+          "bollywoodhungama": 0.41,
           "filmynewsnetwork": 0.2,
           "sacnilk": 0.21
         }
@@ -4642,9 +4643,9 @@
       },
       "6": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.2,
+        "collection_inr_cr": 0.185,
         "collection_scope": "india_net",
-        "collection_usd": 21130,
+        "collection_usd": 19546,
         "date": "2026-11-04",
         "date_disagreed": false,
         "extras": {
@@ -4663,6 +4664,7 @@
         },
         "india": true,
         "sources": {
+          "bollywoodhungama": 0.17,
           "sacnilk": 0.2
         }
       }
@@ -4911,9 +4913,9 @@
       },
       "14": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.01,
+        "collection_inr_cr": 0.02,
         "collection_scope": "india_net",
-        "collection_usd": 1057,
+        "collection_usd": 2113,
         "date": "2026-11-05",
         "date_disagreed": false,
         "extras": {
@@ -4938,7 +4940,7 @@
         },
         "india": true,
         "sources": {
-          "bollywoodhungama": 0.01,
+          "bollywoodhungama": 0.03,
           "filmynewsnetwork": 0.01
         }
       },
@@ -15982,9 +15984,9 @@
       },
       "6": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.02,
+        "collection_inr_cr": 0.013,
         "collection_scope": "india_net",
-        "collection_usd": 2113,
+        "collection_usd": 1373,
         "date": "2026-11-04",
         "date_disagreed": false,
         "extras": {
@@ -16003,6 +16005,7 @@
         },
         "india": true,
         "sources": {
+          "bollywoodhungama": 0.005,
           "sacnilk": 0.02
         }
       }
