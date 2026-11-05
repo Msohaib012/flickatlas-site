@@ -59740,5 +59740,461 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 21:04:10 GMT"
+  },
+  "53d73i": {
+    "id": "53d73i",
+    "type": "news",
+    "headline": "'Ramayana' Anticipated to Net Rs 75-100 Crore on Opening Day as Experts Forecast Massive Lifetime Earnings",
+    "dek": "The grand cinematic adaptation starring Ranbir Kapoor, Sai Pallavi, and Yash eyes a strong box office start across multiple languages, with industry projections pointing to phenomenal figures.",
+    "body": [
+      {
+        "h": "Grand Opening Projections and Scale",
+        "p": [
+          "The highly anticipated cinematic adaptation of Ramayana is gearing up for its theatrical debut on Thursday. Industry experts project that the large-scale mythological venture will pull in between Rs 75 crore and Rs 100 crore across various languages on its opening day alone.",
+          "With a story deeply rooted in India's cultural consciousness, insiders believe the movie possesses the raw potential to scale lifetime collections anywhere from Rs 1,000 crore to an astonishing Rs 3,000 crore, provided it deeply resonates with the viewing public."
+        ]
+      },
+      {
+        "h": "A Star-Studded Cast and Crew",
+        "p": [
+          "The film features a prominent principal cast, starring Ranbir Kapoor as Lord Rama, Sai Pallavi portraying Goddess Sita, and Yash stepping into the role of Ravana. Behind the camera, the project is directed by Nitesh Tiwari, widely known for his work on Dangal and Chhichhore.",
+          "Additionally, the film boasts high-profile technical backing, including music composition by A R Rahman and Hans Zimmer, visual effects crafted by the Oscar-winning company DNEG, and production handled jointly by Namit Malhotra and Yash."
+        ]
+      },
+      {
+        "h": "Faith-Based Cinema and Critical Proofing",
+        "p": [
+          "Exhibitors have pointed out that Ramayana transcends conventional critical standards because a vast segment of the audience will experience it through devotion and reverence. Prominent exhibitor Vishek Chauhan emphasized that this release belongs to a distinct genre of faith-based cinema centered on Lord Rama.",
+          "Because it taps directly into religious sentiment and the country's biggest deity, industry insiders suggest the feature is largely critic-proof. If the spiritual connection hits home with the Hindu devotee base, exhibitors believe its theatrical run could shatter numerous records."
+        ]
+      },
+      {
+        "h": "Multiplex Chains and Advance Bookings",
+        "p": [
+          "Major cinema operators are preparing for a massive turnout, with Cinepolis India reporting advance sales of over one lakh tickets and scheduling more than 1,600 shows for the opening day. Miraj Entertainment has designated 225 screens with 960 daily shows across Hindi, Kannada, Telugu, and Tamil languages.",
+          "Demand is particularly robust in Delhi-NCR, Maharashtra, Tamil Nadu, and Karnataka, while Tier-2 markets are outperforming early expectations. Furthermore, ticketing trends indicate strong traction for premium formats like IMAX and 3D, with entry-level prices starting around Rs 200."
+        ]
+      },
+      {
+        "h": "Navigating the Festive Holiday Calendar",
+        "p": [
+          "The release window coincides directly with major festive celebrations, presenting a unique calendar challenge. Friday marks Dhanteras, followed by Choti Diwali on Saturday and Diwali on Sunday, which may temporarily pull families toward home pujas or evening celebrations.",
+          "Exhibitors note that while the opening weekend might see slight fluctuations due to holiday festivities, the true test of momentum will arrive when the proper work week begins on Monday, supported by word of mouth and repeat family viewings."
+        ]
+      },
+      {
+        "h": "Regional Dynamics in Southern Markets",
+        "p": [
+          "While the buzz in Karnataka is particularly elevated due to Yash's massive popularity, the overall sentiment in southern markets remains measured. Trade experts attribute this moderate excitement to simultaneous regional releases, such as Suriya's Scene and Nayanthara's Mookuthi Amman 2.",
+          "Analysts estimate that Ramayana will pull in approximately Rs 30 crore to Rs 40 crore from the southern circuit, noting that mythological storytelling operates differently in comparison to high-octane pan-Indian mass action entertainers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana is set to debut in theatres on Thursday with expected opening day collections between Rs 75 crore and Rs 100 crore, while experts project lifetime earnings could reach up to Rs 3,000 crore. The film stars Ranbir Kapoor, Sai Pallavi, and Yash, and its box office trajectory will heavily depend on audience resonance and faith-based turnout during the festive Diwali weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana releases on Thursday",
+      "The film stars Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana",
+      "Expected opening day collections are Rs 75-100 crore",
+      "Experts project potential lifetime collections of Rs 2,500 to 3,000 crore",
+      "Nitesh Tiwari is the director",
+      "Namit Malhotra and Yash are the producers",
+      "A R Rahman and Hans Zimmer composed the music",
+      "DNEG handled the visual effects",
+      "Cinepolis sold more than one lakh tickets and planned over 1,600 opening day shows",
+      "Miraj Entertainment screened the film across 225 screens with 960 shows a day"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Vishek Chauhan",
+        "Raj Bansal",
+        "Akshaye Rathi",
+        "Sameer Munshi",
+        "Ashish Misra",
+        "Ramesh Bala",
+        "Rakesh Gothwaman",
+        "A R Rahman",
+        "Hans Zimmer",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Suriya",
+        "Nayanthara"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar",
+        "Border",
+        "Baahubali",
+        "Hanuman Ansh",
+        "Karuppu",
+        "Irumudi",
+        "Scene",
+        "Mookuthi Amman 2",
+        "Pushpa 2",
+        "KGF 2",
+        "RRR",
+        "Dangal",
+        "Chhichhore"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana opening",
+      "Yash Ramayana movie",
+      "Ramayana collection projection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135554657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Ramayana' Anticipated to Net Rs 75-100 Crore on Opening Day as Experts Forecast Massive Lifetime Earnings",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T04:57:05+05:30"
+  },
+  "13c82dj": {
+    "id": "13c82dj",
+    "type": "news",
+    "headline": "The Legal Battle Between 'The Pitt' Producers And The Michael Crichton Estate Is Heading To Trial",
+    "dek": "An appeals court has affirmed a lower court ruling, setting the stage for a jury trial in L.A. Superior Court concerning copyright and breach of contract claims over the HBO Max medical drama.",
+    "body": [
+      {
+        "h": "The Appeals Court Decision",
+        "p": [
+          "The legal dispute surrounding the hit HBO Max medical drama The Pitt is officially moving forward to a jury trial in Los Angeles Superior Court. This procedural milestone comes after a panel of appeal court judges affirmed a previous lower court ruling, two years after the litigation first commenced.",
+          "With discovery still remaining ahead in the high-profile court battle, legal proceedings could potentially reach a courtroom by as early as next summer. However, this timeline remains subject to change unless both opposing sides manage to reach an out-of-court agreement beforehand."
+        ]
+      },
+      {
+        "h": "Origins Of The Lawsuit",
+        "p": [
+          "The bitter legal feud began in August 2024 when the estate of renowned creator and author Michael Crichton initiated a breach of contract action. Widow Sherri Crichton took legal action on behalf of the John Michael Crichton Trust's Roadrunner JMTC, targeting the Pittsburgh-set medical series before it even premiered.",
+          "According to the plaintiff's claims, the medical drama was allegedly born out of John Wells, Warner Bros, and their associates after negotiations to reboot the classic 15-season NBC medical blockbuster ER completely fell apart."
+        ]
+      },
+      {
+        "h": "Defense And Anti-SLAPP Motions",
+        "p": [
+          "Defendants and producers strongly pushed back against the litigation from the very beginning, dismissing the claims as mere sour grapes and a financial cash grab by the estate. Once the series launched on HBO Max in early 2025, it quickly achieved both critical acclaim and commercial success.",
+          "Legal representatives for the show aggressively defended their position following a previous denial of Warner Bros' anti-SLAPP motion by LASC Judge Wendy Chang. Appellants maintained that no evidence existed showing the series was copied from ER or that it constituted a derivative work."
+        ]
+      },
+      {
+        "h": "Key Figures And Appeal Filings",
+        "p": [
+          "The formal appeal brief filed on October 28 included arguments from prominent figures associated with the production. Among the appellants listed on the legal documents were Warner Bros Television, star Noah Wyle, executive producer John Wells, and R. Scott Gemmill.",
+          "Despite the ongoing courtroom drama, representatives for Warner Bros Television and the show's core producers opted not to issue any public comments regarding the recent appellate court ruling."
+        ]
+      },
+      {
+        "h": "Settlement Outlook",
+        "p": [
+          "While a formal legal settlement remains a theoretical possibility in any civil suit, legal observers consider it highly unlikely in this specific case. The proceedings have been marked by significant bitterness and bad blood between the principal parties involved.",
+          "Because the emotional and financial stakes remain extraordinarily high for both the estate and the corporate entities, a resolution outside of a jury trial appears improbable as the court date approaches."
+        ]
+      },
+      {
+        "h": "Production And Season Schedules",
+        "p": [
+          "Even as the legal teams prepare for intense discovery and courtroom arguments next year, production on the series continues at a rapid pace. The show is currently deep into the active production schedule for its upcoming third season.",
+          "For viewers eagerly awaiting more episodes, the third season of the Emmy-winning medical drama is officially scheduled to drop on the streaming platform in January 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An appeals court has upheld a lower court ruling, sending the legal battle between The Pitt producers and the Michael Crichton Estate toward a jury trial in Los Angeles Superior Court. The lawsuit, initiated in August 2024 by widow Sherri Crichton, alleges breach of contract and claims the medical drama derives from ER after reboot talks failed."
+        ]
+      }
+    ],
+    "facts": [
+      "The lawsuit was filed in August 2024 by Sherri Crichton on behalf of the John Michael Crichton Trust's Roadrunner JMTC.",
+      "The appeal brief was filed on October 28.",
+      "LASC Judge Wendy Chang previously denied the anti-SLAPP motion.",
+      "Season 3 of The Pitt is set to release in January 2027."
+    ],
+    "entities": {
+      "people": [
+        "Noah Wyle",
+        "Shawn Hatosy",
+        "Michael Crichton",
+        "Sherri Crichton",
+        "John Wells",
+        "Wendy Chang",
+        "R. Scott Gemmill",
+        "Ray Hopkins",
+        "J.K. Rowling",
+        "Whitney Leavitt",
+        "Nicolas Cage",
+        "Alexander Ludwig",
+        "Gabriel Basso",
+        "Maria Bakalova",
+        "Maya Hawke",
+        "Jean-Claude Van Damme",
+        "Jeremy Zag",
+        "Timothée Chalamet",
+        "Abdul El-Sayed",
+        "Kate Mara",
+        "Leslie Mann",
+        "Ashton Kutcher",
+        "Billy Eichner",
+        "Orlando von Einsiedel",
+        "Jeremy Renner",
+        "Josh Brolin",
+        "David Grann",
+        "Chanel Pysnik",
+        "Prince Harry",
+        "Meghan Markle",
+        "Scarlett Johansson"
+      ],
+      "titles": [
+        "The Pitt",
+        "ER",
+        "Jurassic Park",
+        "Harry Potter",
+        "The Secret Lives Of Mormon Wives",
+        "Magic: The Gathering",
+        "Katana",
+        "Dune: Part Three",
+        "Home Shopper",
+        "A Speck In The Sea",
+        "The Brand",
+        "The Batman: Part II"
+      ]
+    },
+    "keywords": [
+      "The Pitt lawsuit",
+      "Michael Crichton Estate",
+      "Noah Wyle The Pitt",
+      "Warner Bros ER court case"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/05/noah-wyle-shawn-hatosy-1.jpg?w=1024",
+        "caption": "The Legal Battle Between 'The Pitt' Producers And The Michael Crichton Estate Is Heading To Trial",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 23:43:17 +0000"
+  },
+  "jfjee5": {
+    "id": "jfjee5",
+    "type": "news",
+    "headline": "BBC Confirms Release Window for Strike Season 7",
+    "dek": "The acclaimed detective series based on J.K. Rowling's novels will return for its seventh season in December 2026.",
+    "body": [
+      {
+        "h": "The Return of Cormoran Strike",
+        "p": [
+          "Fans of gritty crime dramas have reason to celebrate as the BBC officially announces the return of its hit television series Strike. The upcoming seventh season has been scheduled for a December 2026 release window, bringing back the beloved investigative partnership that has captured audiences for years. Unlike the fantastical wizarding worlds that cemented the creator's global fame, this television adaptation offers a grounded, gritty exploration of modern detective work.",
+          "The upcoming installment promises to maintain the high stakes and complex mysteries that fans have come to expect. Viewers will once again be plunged into the shadowy underworld of crime and deception alongside television's most resilient private investigator."
+        ]
+      },
+      {
+        "h": "Familiar Faces and Core Cast",
+        "p": [
+          "Tom Burke will reprise his role as the hardened, grizzled private detective Cormoran Strike, bringing his trademark rugged determination back to the screen. Alongside him, Holliday Grainger returns to portray Robin Ellacott, the brilliant and capable partner whose sharp instincts match the titular detective's own.",
+          "The dynamic between Burke and Grainger remains the beating heart of the adaptation. Their on-screen chemistry and professional evolution have driven the narrative forward across previous seasons, earning critical praise and a dedicated following."
+        ]
+      },
+      {
+        "h": "Adapting The Running Grave",
+        "p": [
+          "The seventh outing will adapt The Running Grave, serving as a five-part mystery spanning the length of the new television block. This narrative takes the detectives into dark, psychological territory as they tackle one of their most dangerous cases yet.",
+          "The storyline kicks off when Sir Colin and Sally Edensor approach the private investigators out of sheer desperation. They enlist Cormoran Strike and Robin Ellacott to help reconnect with their estranged son, Will, who has fallen under the sway of a dangerous group."
+        ]
+      },
+      {
+        "h": "Infiltrating a Controversial Cult",
+        "p": [
+          "At the center of the new season's mystery is the Universal Humanitarian Church, a secretive religious cult that has successfully indoctrinated the young Will Edensor. The parents discover that the organization has also systematically siphoned off their son's trust fund.",
+          "The detectives must gather concrete evidence to discredit the church and rescue Will from its grip. This investigation promises high tension, moral dilemmas, and intense confrontations as the duo goes up against a powerful, manipulative organization."
+        ]
+      },
+      {
+        "h": "The Robert Galbraith Pseudonym",
+        "p": [
+          "The source material for the television series is part of a bestselling crime fiction collection published under the pseudonym Robert Galbraith. The author originally adopted the pen name to establish a fresh writing career completely free from the impossibly high expectations and intense spotlight of her previous colossal literary success.",
+          "Media investigations swiftly uncovered the true identity of the author just months after the publication of the very first novel, The Cuckoo's Calling. Despite the secret coming to light early on, the pseudonym has remained attached to the publication of the crime series ever since."
+        ]
+      },
+      {
+        "h": "Franchise Growth and Legacy",
+        "p": [
+          "The exposure of the author's identity did nothing to stall the momentum of the crime novels, which have blossomed into a massive multimedia success story. To date, eight distinct novels have been published in the collection, with a ninth book currently actively in development.",
+          "The television adaptation has mirrored this literary triumph, steadily pulling in viewers and building a robust legacy across multiple seasons. With the seventh season arriving in December 2026, the franchise continues to cement its place as a cornerstone of contemporary British television drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The BBC has officially confirmed that the television series Strike will return for its seventh season, titled Strike: The Running Grave, in December 2026. The upcoming five-part mystery adapts the seventh novel in the bestselling crime series, starring Tom Burke and Holliday Grainger as private investigators hired to rescue a young man from a religious cult."
+        ]
+      }
+    ],
+    "facts": [
+      "Strike will return for its seventh series titled Strike: The Running Grave in December 2026.",
+      "The new season will be a five-part mystery.",
+      "Tom Burke stars as Cormoran Strike and Holliday Grainger stars as Robin Ellacott.",
+      "Sir Colin and Sally Edensor hire the detectives to rescue their estranged son Will from the Universal Humanitarian Church.",
+      "The novels are written under the pseudonym Robert Galbraith, which started with The Cuckoo's Calling.",
+      "There are eight novels published to date with a ninth in development."
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "J.K. Rowling",
+        "Tom Burke",
+        "Holliday Grainger",
+        "Sir Colin",
+        "Sally Edensor",
+        "Will",
+        "Robert Galbraith",
+        "Taylor Sheridan",
+        "Hermione Granger",
+        "Albus Dumbledore",
+        "Minerva McGonagall",
+        "Severus Snape",
+        "Merlin",
+        "Regulus Black",
+        "Horace Slughorn",
+        "Luna Lovegood",
+        "Filius Flitwick",
+        "Garrick Ollivander",
+        "Cho Chang"
+      ],
+      "titles": [
+        "Strike",
+        "Strike: The Running Grave",
+        "Harry Potter",
+        "Bosch",
+        "Mission: Impossible",
+        "Yellowstone",
+        "Gilmore Girls",
+        "Silo",
+        "The Cuckoo's Calling"
+      ]
+    },
+    "keywords": [
+      "Strike season 7",
+      "Strike The Running Grave",
+      "Tom Burke Robin Ellacott",
+      "J.K. Rowling Robert Galbraith"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/09/jk-rowling.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "BBC Confirms Release Window for Strike Season 7",
+        "source": "Collider"
+      }
+    ],
+    "published": "Wed, 04 Nov 2026 22:57:17 GMT"
+  },
+  "jatrko": {
+    "id": "jatrko",
+    "type": "news",
+    "headline": "Salman Khan residence firing: Accused shooter denied physical bail but permitted virtual wedding attendance",
+    "dek": "A special court in a hearing turned down regular temporary bail for Vickykumar Gupta, an accused shooter in the 2024 attack outside Salman Khan's apartment, allowing him instead to join his brother's wedding via video link.",
+    "body": [
+      {
+        "h": "Special Court Rejects Temporary Bail Plea",
+        "p": [
+          "A special court in proceedings on Wednesday officially denied temporary freedom to Vickykumar Gupta. Gupta stands as an accused shooter linked directly to the high-profile 2024 firearms incident outside the residence of prominent Bollywood actor Salman Khan.",
+          "The legal petition requested temporary release so that the applicant could travel and participate in family wedding festivities in his home state. Specifically, the plea aimed for release on designated dates at the beginning of December 2026."
+        ]
+      },
+      {
+        "h": "Virtual Attendance via Video Conferencing",
+        "p": [
+          "Although physical release was firmly rejected by the judiciary, the presiding judge offered an alternative solution for the family event. Prison officials received instructions to set up appropriate video conferencing facilities so the accused could watch and take part digitally.",
+          "This virtual participation remains strictly contingent upon technical feasibility and prison security standards. Authorities will supervise the digital link closely to ensure adherence to standard jail regulations without granting actual custody freedom."
+        ]
+      },
+      {
+        "h": "Family Wedding Location and Requirements",
+        "p": [
+          "The wedding celebration intended for remote attendance belongs to the applicant's biological brother. The ceremony is scheduled to take place within the West Champaran district located in the state of Bihar.",
+          "To make the virtual link operational, the presiding judge mandated that the applicant supply a working email identification. This technical requirement ensures that prison administrators can successfully establish the remote connection for the scheduled dates."
+        ]
+      },
+      {
+        "h": "Background of the 2024 Galaxy Apartment Incident",
+        "p": [
+          "The legal proceedings stem from a shocking early morning attack that occurred on April 14, 2024. Gunfire was discharged right outside the Galaxy Apartment residence where Bollywood star Salman Khan lives in Mumbai.",
+          "Investigative authorities identified Vickykumar Gupta alongside co-accused Sagar Pal as the individuals who executed the shooting. Both men, alongside three other co-accused individuals, currently face ongoing criminal prosecution."
+        ]
+      },
+      {
+        "h": "Charges Under MCOCA and Penal Code",
+        "p": [
+          "The ongoing trial involves severe legal charges brought against the group of accused participants. The formal accusations include provisions outlined in the Indian Penal Code concerning criminal conspiracy and attempt to murder.",
+          "Furthermore, prosecutors have invoked stringent clauses connected to the Maharashtra Control of Organised Crime Act. These heavy charges reflect the organized nature and seriousness of the security breach at the actor's home."
+        ]
+      },
+      {
+        "h": "Broader Security Concerns Across Bollywood",
+        "p": [
+          "The judicial decision arrives amid a wider wave of security threats targeting major figures within the Hindi film industry. Over preceding months, numerous prominent actors have approached legal authorities regarding extortion demands and intimidation.",
+          "Reports indicate that these threatening communications frequently originate from individuals claiming affiliation with the Lawrence Bishnoi gang. Cyber cell units have been actively tracing digital footprints and phone locations tied to these menacing messages."
+        ]
+      },
+      {
+        "h": "Recent Incidents and Gang Threats",
+        "p": [
+          "The security climate in the film fraternity worsened following an October attack involving actor Tiger Shroff. A representative of the Bishnoi syndicate publicly claimed responsibility for that assault through social media channels.",
+          "Additionally, actor Ayushmann Khurrana reportedly received a threatening audio message demanding substantial financial sums. Representatives of the syndicate have openly targeted anyone working in close association with Salman Khan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A special court denied temporary physical bail to Vickykumar Gupta, an accused shooter in the 2024 Salman Khan residence firing case, for his brother's wedding in Bihar. Instead, the court permitted him to attend the ceremony virtually through supervised video conferencing from jail.",
+          "The case forms part of ongoing MCOCA proceedings against multiple accused individuals, coinciding with a broader pattern of recent threats and attacks directed at Bollywood actors by the Lawrence Bishnoi gang."
+        ]
+      }
+    ],
+    "facts": [
+      "The court hearing took place on Wednesday, November 05, 2026.",
+      "The firing outside Salman Khan's Galaxy Apartment occurred on April 14, 2024.",
+      "Vickykumar Gupta sought temporary release for December 1 and 2, 2026.",
+      "The wedding of Gupta's brother is located in Bihar's West Champaran district.",
+      "The attack on Tiger Shroff took place on October 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Vickykumar Gupta",
+        "Sagar Pal",
+        "S Navander",
+        "Tiger Shroff",
+        "Ayushmann Khurrana",
+        "Anil Pandit",
+        "Lawrence Bishnoi"
+      ],
+      "titles": [
+        "Galaxy Apartment"
+      ]
+    },
+    "keywords": [
+      "Salman Khan house firing shooter bail",
+      "Vickykumar Gupta brother wedding jail",
+      "Salman Khan Galaxy Apartment shooting case",
+      "Lawrence Bishnoi gang Bollywood threats"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135554475,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan residence firing: Accused shooter denied physical bail but permitted virtual wedding attendance",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T04:32:45+05:30"
   }
 };

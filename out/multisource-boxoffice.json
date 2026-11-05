@@ -1413,6 +1413,38 @@
           "sacnilk": 3.0
         }
       },
+      "22": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 0.03,
+        "collection_scope": "india_net",
+        "collection_usd": 3170,
+        "date": "2026-11-05",
+        "date_disagreed": false,
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "filmynewsnetwork": 11.9
+            },
+            "value": 11.9
+          },
+          "shows": {
+            "sources": {
+              "filmynewsnetwork": 65
+            },
+            "value": 65
+          },
+          "tickets": {
+            "sources": {
+              "filmynewsnetwork": 2836
+            },
+            "value": 2836
+          }
+        },
+        "india": true,
+        "sources": {
+          "filmynewsnetwork": 0.03
+        }
+      },
       "3": {
         "collection_currency": "USD",
         "collection_inr_cr": 39.974,
@@ -3218,6 +3250,30 @@
           "sacnilk": 0.55
         }
       },
+      "35": {
+        "date": "2026-11-05",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "filmynewsnetwork": 7.7
+            },
+            "value": 7.7
+          },
+          "shows": {
+            "sources": {
+              "filmynewsnetwork": 3
+            },
+            "value": 3
+          },
+          "tickets": {
+            "sources": {
+              "filmynewsnetwork": 11
+            },
+            "value": 11
+          }
+        },
+        "india": false
+      },
       "4": {
         "collection_currency": "USD",
         "collection_inr_cr": 21.116,
@@ -4831,6 +4887,30 @@
           "moviemint": 0.59,
           "sacnilk": 1.2
         }
+      },
+      "14": {
+        "date": "2026-11-05",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "filmynewsnetwork": 8.9
+            },
+            "value": 8.9
+          },
+          "shows": {
+            "sources": {
+              "filmynewsnetwork": 1
+            },
+            "value": 1
+          },
+          "tickets": {
+            "sources": {
+              "filmynewsnetwork": 9
+            },
+            "value": 9
+          }
+        },
+        "india": false
       },
       "2": {
         "collection_currency": "USD",
@@ -6768,9 +6848,9 @@
       },
       "20": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.177,
+        "collection_inr_cr": 0.182,
         "collection_scope": "india_net",
-        "collection_usd": 18700,
+        "collection_usd": 19229,
         "date": "2026-11-04",
         "date_disagreed": false,
         "extras": {
@@ -6811,7 +6891,7 @@
         },
         "india": true,
         "sources": {
-          "bollybourse": 0.19,
+          "bollybourse": 0.21,
           "filmynewsnetwork": 0.2,
           "moviemint": 0.11,
           "sacnilk": 0.21
@@ -12560,9 +12640,9 @@
       },
       "20": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.117,
+        "collection_inr_cr": 0.12,
         "collection_scope": "india_net",
-        "collection_usd": 12361,
+        "collection_usd": 12678,
         "date": "2026-11-04",
         "date_disagreed": false,
         "extras": {
@@ -12603,7 +12683,7 @@
         },
         "india": true,
         "sources": {
-          "bollybourse": 0.11,
+          "bollybourse": 0.12,
           "filmynewsnetwork": 0.16,
           "moviemint": 0.08,
           "sacnilk": 0.12
@@ -13810,9 +13890,9 @@
       },
       "13": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.085,
+        "collection_inr_cr": 0.09,
         "collection_scope": "india_net",
-        "collection_usd": 8980,
+        "collection_usd": 9509,
         "date": "2026-11-04",
         "date_disagreed": false,
         "extras": {
@@ -13831,7 +13911,7 @@
         },
         "india": true,
         "sources": {
-          "bollybourse": 0.08,
+          "bollybourse": 0.09,
           "sacnilk": 0.09
         }
       },
