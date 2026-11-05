@@ -60944,5 +60944,431 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-05T06:34:21+05:30"
+  },
+  "v60bgg": {
+    "id": "v60bgg",
+    "type": "news",
+    "headline": "Ramayana Part 1 Arrives in Theaters Worldwide as India's Most Expensive Cinematic Spectacle",
+    "dek": "Nitesh Tiwari's mythological epic featuring Ranbir Kapoor, Sai Pallavi, and Yash has officially launched globally on a staggering 70,000 screens with massive advance sales.",
+    "body": [
+      {
+        "h": "The Grand Arrival of an Epic",
+        "p": [
+          "The most expensive film in Indian cinematic history has officially made its way to theaters worldwide. Directed by Nitesh Tiwari, Ramayana Part 1 brings the timeless mythological narrative to the big screen with unprecedented production scale and financial backing. Produced by Namit Malhotra's Prime Focus Studios alongside Yash, the project marks a massive milestone for Indian cinema, capturing widespread attention from global audiences, critics, and industry insiders alike.",
+          "Based on Valmiki's epic text while also drawing elements from Tulsidas' Ramcharitmanas, the feature film has generated immense anticipation over the years. With paid preview screenings already held in the United States and Canada ahead of the wide theatrical launch on November 5, 2026, the ambitious adaptation is poised to establish new box office benchmarks both domestically and internationally."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The mythological project features a prominent ensemble cast headlined by Ranbir Kapoor portraying Lord Rama, Sai Pallavi stepping into the role of Sita, and Yash taking on the mantle of the antagonist Ravana. The expansive roster also includes notable performances by Ravie Dubey, Rakul Preet Singh, Arun Govil, Lara Dutta, Vivek Oberoi, Kunal Kapoor, Adinath Kothare, Kajal Aggarwal, and Anupam Kher. Meanwhile, Sunny Deol is cast as Lord Hanuman, though his character is reportedly reserved for the second installment.",
+          "Behind the camera, the film unites top-tier talent from across the globe. Director Nitesh Tiwari co-wrote the screenplay alongside Shridhar Raghavan. In a historic collaboration, legendary composers A.R. Rahman and Hans Zimmer joined forces to create the musical score, while visual effects were handled by DNEG, an eight-time Oscar-winning studio managed by Namit Malhotra."
+        ]
+      },
+      {
+        "h": "Unprecedented Budget and Global Scale",
+        "p": [
+          "Ramayana Part 1 has been mounted on a reported staggering budget of 1600 crore rupees, comfortably surpassing any prior financial investment in an Indian motion picture. To match this colossal investment, the production has secured a massive global distribution footprint across 70,000 screens. Sony Pictures is managing international distribution outside of India, whereas Dharma Productions is overseeing theatrical distribution within the Hindi-speaking market.",
+          "To cater to diverse audiences, the movie has been released in multiple formats. The international cut, titled Ramayana: Rise of a Legend, is presented in English and runs roughly 30 minutes shorter than the primary Hindi version. Prior to its commercial rollout, the film held a high-profile world premiere in Los Angeles, drawing international media attention and industry praise."
+        ]
+      },
+      {
+        "h": "Record-Breaking Advance Bookings",
+        "p": [
+          "Pre-release commercial indicators pointed toward a monumental box office opening for the mythological drama. Advance bookings in India alone crossed the 100 crore gross threshold prior to release, while international markets added another 6 million dollars in pre-sales, culminating in total pre-release earnings exceeding 160 crore rupees.",
+          "Trade analysts projected a opening day collection of 80 crore net in India and approximately 160 crore gross worldwide, with optimistic forecasts stretching toward a 200 crore global opening day. The opening day alone accounted for over 80 crore of the total pre-sales milestone."
+        ]
+      },
+      {
+        "h": "Vision and Cinematic Relevance",
+        "p": [
+          "Addressing questions surrounding the frequent adaptations of the legendary text, producer Namit Malhotra emphasized that the project aims to deliver a level of visual grandeur never before witnessed in any previous television series, street play, or Ram Leela. He likened the cinematic ambition to major Hollywood franchises like Avatar, Avengers, Spider-Man, and The Odyssey.",
+          "Malhotra noted that the goal was to present audiences with an unprecedented spectacle that elevates the epic tale to global standards. The production reflects an intentional effort to package ancient storytelling with cutting-edge technology and international technical expertise."
+        ]
+      },
+      {
+        "h": "Future Plans and Part 2 Timeline",
+        "p": [
+          "Structured as a duology, Ramayana Part 1 sets the stage for a continuation that will further expand the narrative arc. Producer Namit Malhotra officially confirmed that the second installment will arrive in 2028, adjusting the original plan for a Diwali 2027 window.",
+          "The updated release timeline for the sequel was also formally communicated through the end credits of the first film, giving eager fans a clear target date for the conclusion of this cinematic journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana Part 1 has debuted globally on 70,000 screens as the most expensive Indian film in history with a 1600 crore rupee budget. Starring Ranbir Kapoor, Yash, and Sai Pallavi, the mythological epic achieved massive pre-release figures exceeding 160 crore rupees in global advance bookings. Following its worldwide release on November 5, 2026, the second part of the duology has been confirmed for a 2028 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 released worldwide on November 5, 2026.",
+      "The film is directed by Nitesh Tiwari.",
+      "Ranbir Kapoor plays Lord Rama, Sai Pallavi plays Sita, and Yash plays Ravana.",
+      "The film's budget is reported to be 1600 crore rupees.",
+      "Ramayana Part 1 released across 70,000 screens worldwide.",
+      "Advance bookings crossed 150 crore rupees before release, with India generating over 100 crore gross.",
+      "Ramayana Part 2 is slated for release in 2028."
+    ],
+    "entities": {
+      "people": [
+        "Abhimanyu Mathur",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Shridhar Raghavan",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Kajal Aggarwal",
+        "Anupam Kher",
+        "Sunny Deol",
+        "Hans Zimmer",
+        "AR Rahman",
+        "Rick Segall",
+        "Alia Bhatt"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Ramayana Part 2",
+        "Ramayana: Rise of a Legend",
+        "Avatar",
+        "Avengers",
+        "Spider-Man",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana Part 1 box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/05/1600x900/logo/RAMA_05_1775114615230_1775114628023_1793847926595_1blK_214ec18b-7797-4aa8-8399-cb483b7c72bd_fR9Q.png",
+        "caption": "Ramayana Part 1 Arrives in Theaters Worldwide as India's Most Expensive Cinematic Spectacle",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 08:37:16 +0530"
+  },
+  "1yqvpfc": {
+    "id": "1yqvpfc",
+    "type": "news",
+    "headline": "Sylvester Stallone's 1993 Action Thriller Cliffhanger Arrives on Netflix Ahead of 2027 Reboot",
+    "dek": "Sylvester Stallone's classic 1993 action thriller Cliffhanger makes its way to Netflix in the United States this week, arriving just ahead of the upcoming 2027 reboot starring Lily James and Pierce Brosnan.",
+    "body": [
+      {
+        "h": "Stallone's Action Legacy",
+        "p": [
+          "Sylvester Stallone remains one of the most prominent and recognizable action film stars in cinema history, having anchored multiple legendary franchises over several decades. Throughout his prolific career, the actor has delivered numerous genre-defining projects, perhaps most famously embodying the brooding Vietnam veteran in the Rambo series, which concluded its theatrical run with an installment released in 2019.",
+          "In addition to heavy-hitting action, Stallone cemented his cultural footprint through sports drama with his beloved Rocky films. The enduring legacy of that cinematic universe continues to inspire new works, such as the highly anticipated film I Play Rocky, which details the turbulent behind-the-scenes creation of the original boxing masterpiece."
+        ]
+      },
+      {
+        "h": "The Plot of Cliffhanger",
+        "p": [
+          "Released in the golden era of 1990s action cinema, specifically in 1993, Cliffhanger was directed by Renny Harlin and features a tense narrative set against brutal mountain terrain. The story follows Ranger Gabe Walker, a skilled mountain climber who becomes reluctantly entangled in a high-stakes Treasury aircraft heist.",
+          "Walker faces off against Eric Qualen, a rogue former British intelligence officer leading the criminal operation. When the stolen plane crashes in the wilderness, scattering stolen cash across the freezing peaks, it sets off a dangerous cat-and-mouse game between Walker and Qualen."
+        ]
+      },
+      {
+        "h": "Cast and Production Highlights",
+        "p": [
+          "Alongside Sylvester Stallone in the lead role as Gabe Walker, the 1993 production featured an impressive supporting ensemble. John Lithgow stepped into the shoes of the villainous Eric Qualen, flanked by co-stars Michael Rooker and Janine Turner.",
+          "Interestingly, production history notes reveal that the role of Gabe Walker was originally set to feature David Bowie before Stallone took on the part. Director Renny Harlin guided the project to critical approval, creating a gritty visual landscape that still resonates with genre enthusiasts today."
+        ]
+      },
+      {
+        "h": "Enduring Appeal and Streaming Debut",
+        "p": [
+          "Despite living in the shadow of Stallone's other massive box office behemoths like Rocky and Rambo, Cliffhanger has steadily maintained a dedicated following. Over thirty years since its original theatrical run, many fans and critics view the 113-minute feature as one of the star's most underrated cinematic efforts.",
+          "The film's timeless appeal stems from its commitment to practical stunts and tangible, realistic physical danger that immerses viewers directly into the harsh environment. This week, the classic title expands its reach as it officially debuts on Netflix in the United States."
+        ]
+      },
+      {
+        "h": "Details on the 2027 Reboot",
+        "p": [
+          "The arrival of the original film on streaming precedes a major upcoming franchise expansion with a brand-new reboot scheduled to release in the spring of 2027. Although Sylvester Stallone was initially attached to the new project at one point, he eventually stepped away from the production.",
+          "The 2027 reboot shifts its focus away from Ranger Gabe Walker, introducing a fresh protagonist named Naomi Cooper. In this upcoming iteration, Cooper is a mountaineer who crosses paths with a dangerous faction of kidnappers while traversing treacherous terrain."
+        ]
+      },
+      {
+        "h": "Fresh Faces in the Upcoming Reboot",
+        "p": [
+          "The upcoming 2027 version boasts a high-profile, star-studded cast to carry the survival thriller forward. Lily James takes center stage as Naomi Cooper, bringing her experience from prominent projects such as Downton Abbey, Disney's live-action Cinderella, and Baby Driver.",
+          "Joining James in the rebooted cast is former James Bond actor Pierce Brosnan, alongside Nell Tiger Free. Free is set to portray Cooper's sister, who also finds herself directly caught up in the unfolding danger and suspense of the story."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sylvester Stallone's 1993 action thriller Cliffhanger is now streaming on Netflix in the U.S. ahead of a completely fresh reboot scheduled for spring 2027. The original film, directed by Renny Harlin and co-starring John Lithgow, remains a celebrated classic, while the upcoming reimagining will feature Lily James and Pierce Brosnan in new survival roles."
+        ]
+      }
+    ],
+    "facts": [
+      "Sylvester Stallone starred in Cliffhanger, released in May 1993 with a runtime of 112 minutes.",
+      "Cliffhanger was directed by Renny Harlin.",
+      "The 1993 film co-starred John Lithgow, Michael Rooker, and Janine Turner.",
+      "The original film follows Ranger Gabe Walker confronting former British intelligence officer Eric Qualen.",
+      "Cliffhanger debuts on Netflix in the U.S. this week ahead of a reboot set for spring 2027.",
+      "The 2027 reboot stars Lily James as Naomi Cooper, alongside Pierce Brosnan and Nell Tiger Free."
+    ],
+    "entities": {
+      "people": [
+        "Sylvester Stallone",
+        "Josh Bate",
+        "Renny Harlin",
+        "John Lithgow",
+        "Michael Rooker",
+        "Janine Turner",
+        "David Bowie",
+        "Lily James",
+        "Pierce Brosnan",
+        "Nell Tiger Free"
+      ],
+      "titles": [
+        "Rambo",
+        "Rocky",
+        "I Play Rocky",
+        "Tulsa King",
+        "Cliffhanger",
+        "Downton Abbey",
+        "Cinderella",
+        "Baby Driver"
+      ]
+    },
+    "keywords": [
+      "Cliffhanger movie Netflix",
+      "Sylvester Stallone Cliffhanger",
+      "Cliffhanger 2027 reboot",
+      "Lily James Cliffhanger"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/07/reboot-of-sylvester-stallone-s-255m-action-movie-teased-by-new-star-36-it-s-feral-it-s-raw.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Sylvester Stallone's 1993 Action Thriller Cliffhanger Arrives on Netflix Ahead of 2027 Reboot",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 03:01:21 GMT"
+  },
+  "15jpvm9": {
+    "id": "15jpvm9",
+    "type": "news",
+    "headline": "Ramayana Advance Bookings Surpass Rs 150 Crore Worldwide Ahead of Global Release",
+    "dek": "Namit Malhotra's mythological epic Ramayana: Rise of a Legend achieves monumental pre-sales figures globally, setting the stage for a historic theatrical opening.",
+    "body": [
+      {
+        "h": "Massive Global Pre-Sales Milestone",
+        "p": [
+          "The highly anticipated mythological epic Ramayana: Rise of a Legend has achieved a monumental milestone by crossing Rs 150 crore in gross worldwide advance bookings prior to its November 5 theatrical release. This robust surge in ticket sales firmly cements the ambitious production among the absolute biggest cinematic events of the year.",
+          "The pre-release momentum has been fueled by intense interest across both domestic and international territories, pointing toward unprecedented audience engagement for a multi-language Indian release."
+        ]
+      },
+      {
+        "h": "Overcoming Early Distribution Hurdles",
+        "p": [
+          "The path to these record-breaking pre-sales faced initial challenges due to a revenue-sharing disagreement between film distributors and theater exhibitors. This dispute briefly delayed the opening of ticket windows across several cinemas.",
+          "Once negotiations successfully resolved the impasse, an increased number of screens became available to the public. This resolution immediately triggered a massive wave of ticket purchases that propelled the film past the Rs 150-crore threshold."
+        ]
+      },
+      {
+        "h": "Domestic Dominance Led by Hindi Version",
+        "p": [
+          "According to data from trade tracker Sacnilk, the domestic market contributed more than Rs 100 crore gross to the overall advance tally. The Hindi version emerged as the primary driver, accounting for nearly three-fourths of all domestic pre-sales.",
+          "At the same time, the Kannada and Telugu versions registered highly encouraging demand. This regional enthusiasm was largely attributed to Yash taking on the role of Ravana, widening the demographic appeal of the multi-language release."
+        ]
+      },
+      {
+        "h": "Strong International and North American Demand",
+        "p": [
+          "International markets played an indispensable role in driving the global advance booking figures past Rs 150 crore, with overseas pre-sales touching approximately $5.6 million. North America emerged as a particularly strong contributor to these international figures.",
+          "Paid previews scheduled ahead of the official India release further bolstered the overseas business. The broad international response underscores the global ambitions of producer Namit Malhotra and the cross-border appeal of the main cast."
+        ]
+      },
+      {
+        "h": "Multiplex Chains Set New Records",
+        "p": [
+          "India's leading multiplex chains—PVR, INOX, and Cinepolis—reported extraordinary figures, combining for Rs 45.76 crore gross in opening-weekend advance bookings including blocked seats. Without blocked seats, the combined total stood at Rs 36.38 crore across 7.89 lakh sold tickets.",
+          "PVR contributed Rs 25.36 crore, INOX added Rs 14.91 crore, and Cinepolis brought in Rs 5.49 crore. Kamal Gianchandani of PVR INOX noted that this performance could mark the largest pre-Diwali advance booking record in the company's multi-decade history."
+        ]
+      },
+      {
+        "h": "Lofty Opening Day Projections",
+        "p": [
+          "With advance sales crossing Rs 150 crore globally, trade analysts have offered optimistic projections for the film's opening day. Industry estimates suggest a domestic India opening between Rs 75 crore and Rs 100 crore nett.",
+          "Worldwide opening projections range from Rs 160 crore to Rs 175 crore, with analyst Ramesh Bala noting the potential to challenge the Rs 200-crore mark. Despite these massive figures, Dhurandhar 2: The Revenge still holds a higher benchmark with its Rs 236.63 crore global Day 1."
+        ]
+      },
+      {
+        "h": "A Two-Part Cinematic Journey",
+        "p": [
+          "Directed by Nitesh Tiwari and produced by Namit Malhotra alongside Yash's Monster Mind Creations, the film features Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana. The ensemble cast also includes Sunny Deol, Ravi Dubey, Arun Govil, Lara Dutta, Shobana, and Vivek Oberoi, with music composed by AR Rahman and Hans Zimmer.",
+          "As the first installment of a planned two-part epic backed by a reported Rs 4,000 crore combined production budget, Ramayana faces immense long-term commercial expectations that extend far beyond its opening weekend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend crossed Rs 150 crore in gross worldwide advance bookings ahead of its November 5 release, driven by strong domestic and international demand. Despite early distribution hurdles, the film secured massive pre-sales across major multiplex chains and earned lofty opening day projections from trade analysts."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide advance bookings crossed Rs 150 crore gross before release",
+      "Release date is November 5, 2026",
+      "Domestic advance bookings crossed Rs 100 crore in India",
+      "Overseas pre-sales reached approximately $5.6 million or Rs 52 crore",
+      "PVR, INOX and Cinepolis recorded Rs 45.76 crore gross in opening-weekend advance bookings including blocked seats",
+      "PVR contributed Rs 25.36 crore, INOX recorded Rs 14.91 crore and Cinepolis recorded Rs 5.49 crore",
+      "Combined multiplex chains sold 7.89 lakh tickets including blocked seats",
+      "Dhurandhar 2 recorded approximately Rs 236.63 crore worldwide on Day 1",
+      "Combined production budget is reported at Rs 4,000 crore"
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Kamal Gianchandani",
+        "Ramesh Bala",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Shobana",
+        "Vivek Oberoi",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dhurandhar 2: The Revenge",
+        "Pathaan",
+        "Jawan",
+        "Animal",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking",
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office collection",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-05481956-16x9_0.jpg?VersionId=1VVvMH8_aR1Di2sVdPsUkIYNU_ZRjxvy",
+        "caption": "Ramayana Advance Bookings Surpass Rs 150 Crore Worldwide Ahead of Global Release",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 09:22:13 +0530"
+  },
+  "z2vc9p": {
+    "id": "z2vc9p",
+    "type": "news",
+    "headline": "Ramayana Sequel Locked for Diwali 2028 Release Alongside Major Cliffhanger Reveal",
+    "dek": "The makers of the massive cinematic project Ramayana have officially confirmed a Diwali 2028 launch window for Part 2 while treating audiences to an unexpected finale twist.",
+    "body": [
+      {
+        "h": "Unveiling the Cinematic Project",
+        "p": [
+          "The creative team behind the highly anticipated cinematic project Ramayana initially generated immense excitement across the entertainment industry when they revealed the production's very first promotional asset. This early glimpse significantly elevated audience expectations for the ambitious mythological magnum opus, establishing a strong foundation for its future theatrical rollout.",
+          "Initial schedules indicated that the first chapter would greet viewers during the festive season of Diwali 2026. At that time, industry timelines pointed toward a subsequent theatrical arrival for the second chapter during Diwali 2027, creating a brisk momentum for the overarching narrative arc."
+        ]
+      },
+      {
+        "h": "Schedule Revision and Sequel Delay",
+        "p": [
+          "Plans underwent a notable shift when reports emerged indicating that the follow-up film would require additional time in development. Trade circles and eager followers engaged in widespread discussions following the revelation that the continuation had been shifted forward by a full calendar year.",
+          "This adjustment pushed the intended premiere window to a later festive frame. The adjustment ensured that the production crew and creative leads would have adequate opportunity to refine every single frame of the massive undertaking before presenting it to the public."
+        ]
+      },
+      {
+        "h": "Confirmation of the 2028 Launch",
+        "p": [
+          "Recent developments have verified that the revised scheduling is completely accurate. The concluding moments of the opening chapter explicitly display the official slate, confirming that the second part will greet moviegoers during the festive period of Diwali 2028.",
+          "This official revelation matches prior exclusive disclosures regarding the altered timeline, ending months of speculation within trade networks and solidifying the long-term roadmap for the multi-part epic."
+        ]
+      },
+      {
+        "h": "A Grand Finale and Secret Appearance",
+        "p": [
+          "Beyond the scheduling details, the opening installment wraps up with an extraordinary sequence designed to leave viewers spellbound. Observers previously disclosed that a major cinematic surprise was being kept under wraps specifically for the final segments of the first film.",
+          "True to those early reports, superstar Sunny Deol makes a breathtaking entrance as Lord Hanuman just as the end credits begin to roll. This dramatic sequence serves as a rousing grand finale that immediately establishes high stakes for the forthcoming continuation."
+        ]
+      },
+      {
+        "h": "Drawing Inspiration From Past Blockbusters",
+        "p": [
+          "The creative strategy behind this cliffhanger mirrors historic precedents set by other monumental cinematic successes. Industry insiders noted that the primary objective is to cultivate an overwhelming sense of curiosity reminiscent of the famous cliffhanger in the acclaimed blockbuster Baahubali.",
+          "By employing a similar narrative tactic—specifically asking a major unanswered question or presenting a striking visual hook—the creators hope to replicate the massive public frenzy that compelled audiences to flood theaters for the subsequent chapter."
+        ]
+      },
+      {
+        "h": "Building Anticipation Early",
+        "p": [
+          "By integrating a high-impact character introduction alongside a firm long-term release date, the production team has successfully cemented continuous engagement. Public discussions and fan theories continue to thrive well in advance of the initial film's theatrical debut.",
+          "Such strategic maneuvers ensure that the excitement surrounding the brand remains at an absolute peak, transforming the upcoming cinematic journey into a major talking point across the entire entertainment landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of Ramayana have officially confirmed a Diwali 2028 release date for the second installment after adjusting their initial timeline. Furthermore, the first part concludes with a surprise appearance by Sunny Deol as Lord Hanuman, designed to build massive anticipation for the sequel."
+        ]
+      }
+    ],
+    "facts": [
+      "On July 3, 2025, the makers of Ramayana unveiled the film's first asset.",
+      "The first part is scheduled to arrive in cinemas on Diwali 2026.",
+      "Ramayana 2 was postponed to a Diwali 2028 release.",
+      "Sunny Deol makes an entry as Lord Hanuman while the end credits roll in Part 1."
+    ],
+    "entities": {
+      "people": [
+        "Sunny Deol",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Yash",
+        "Amitabh Bachchan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana - Part II",
+        "Ramayana Part: I",
+        "Baahubali",
+        "Mard"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 2 release date",
+      "Sunny Deol Lord Hanuman Ramayana",
+      "Ramayana Diwali 2028",
+      "Ramayana Part 1 ending"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Ramayana-ends-with-a-BIG-SURPRISE-Makers-CONFIRM-Diwali-2028-release-for-Part-2.jpeg",
+        "caption": "Ramayana Sequel Locked for Diwali 2028 Release Alongside Major Cliffhanger Reveal",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 08:30:45 +0200"
   }
 };

@@ -1910,27 +1910,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-04T04:54:18Z",
-    "run_id": "41775610975",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "vfq7c9",
-      "1t377g9",
-      "19klbo7"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-04T06:01:46Z",
     "run_id": "41781704283",
     "status": "success",
@@ -2368,27 +2347,26 @@
      "count": 3
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-04T04:54:15Z",
-    "run_id": "41775610975",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-05T04:24:22Z",
+    "run_id": "41964083159",
     "status": "success",
     "checked": {
-     "candidates": 470,
-     "detail": "468 collected staging rows from readers; 178 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 8,
-     "detail": "+2 new rows, 6 updated rows, 460 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2802,6 +2780,24 @@
      "detail": "+3 new rows, 9 updated rows, 510 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T04:24:22Z",
+    "run_id": "41964083159",
+    "status": "success",
+    "checked": {
+     "candidates": 526,
+     "detail": "524 collected staging rows from readers; 189 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+2 new rows, 2 updated rows, 520 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -3047,29 +3043,6 @@
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-04T06:01:46Z",
-    "run_id": "41781704283",
-    "status": "success",
-    "checked": {
-     "candidates": 572,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Cha Ye Ryun's Agency Denies Bullying Allegations and Plans Legal Action",
-      "Salman Khan Surprises Fans with 5 AM Release of Teri Sexy Beauty from Maatrubhumi",
-      "Shah Rukh Khan's Upcoming Movie 'King' Pulls In Massive Pre-Release Business Totaling Rs 665 Crore",
-      "Sai Pallavi Shines as Sita in First Ramayana Character Promo"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 572 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3584,6 +3557,29 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-05T04:24:22Z",
+    "run_id": "41964083159",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Part 1 Arrives in Theaters Worldwide as India's Most Expensive Cinematic Spectacle",
+      "Sylvester Stallone's 1993 Action Thriller Cliffhanger Arrives on Netflix Ahead of 2027 Reboot",
+      "Ramayana Advance Bookings Surpass Rs 150 Crore Worldwide Ahead of Global Release",
+      "Ramayana Sequel Locked for Diwali 2028 Release Alongside Major Cliffhanger Reveal"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
@@ -8229,5 +8225,5 @@
    }
   ]
  },
- "updated_at": "2026-11-05T04:08:56Z"
+ "updated_at": "2026-11-05T04:24:22Z"
 }
