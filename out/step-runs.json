@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-04T06:51:35Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": {
-     "candidates": 258,
-     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ram Kamal Mukherjee wins Best Director at the 11th International Indian Film Festival of Toronto for Lokkhikantopur Local",
-      "Ramayana Vs Dhurandhar: Ranveer Singh Holds The Throne, Beats Ranir Kapoor In Advance Booking - Update",
-      "Ranabaali Box Office Collection Day 19: Vijay Deverakonda's Film Crosses ₹80 Crore Worldwide",
-      "Could ‘Avengers: Doomsday’ Take Inspiration From the Marvel Theory That Made Doctor Doom Iron Man?",
-      "Ebenezer: Johnny Depp Brings Ebenezer Scrooge To Life In New York Ahead Of The Film’s Special Screening",
-      "Scene Box Office Advance Booking (2 Days To Go): Suriya’s Film Crosses 4 Crore In Under 24 Hours",
-      "Vignesh Shivan Plans Naanum Rowdy Dhaan Style Rom Com Featuring Bharath and Arvind Swamy in Key Roles",
-      "Munna Bhai 3 Moves Closer to Production as Rajkumar Hirani Brings Farhad Samji on Board for 2027 Shoot",
-      "'Ramayana': Can Ranbir and Yash's Rs 4,000 crore epic become a landmark in Indian cinema?",
-      "Actor Sangeeth Prathap welcomes first child with wife Ancy",
-      "Kanika announces separation from husband Gautam after four years of marriage",
-      "Ramayana early reviews: Yash wows as audience hails VFX",
-      "Regina Cassandra says female stars deserve grand cutouts like male superstars",
-      "Ramayana box office prediction: With  ₹160 crore projected start, Ranbir Kapoor-Yash film dwarfs Jawan and Animal, but no match for Dhurandhar 2, RRR",
-      "Aneet Padda wraps her arms around Ahaan Panday in new glimpse from her 24th birthday bash; gives ‘sister vibes’ in pic with Alia Bhatt",
-      "Namit Malhotra confirms Ramayana Part 2 has been postponed to 2028, hints at a trilogy",
-      "New CBFC Guidelines: Filmmakers opine on how they will impact the filmmaking process",
-      "Why Nancy Fuller Isn’t in Holiday Baking Championship: Replacement Rumors Explained",
-      "Corvus Glaive’s Weapon, Lisa’s Comics Form, & More VisionQuest Easter Eggs in Episode 7",
-      "No Dark Fantasy Show Does Lovecraft Better Than Netflix's 8-Part Miniseries"
-     ],
-     "updated": [],
-     "count": 248,
-     "detail": "248 stories, 0 duplicates removed, 10 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-04T07:50:56Z",
     "run_id": "41795060951",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "294 stories, 0 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-04T10:51:34Z",
-    "run_id": "41816859575",
+    "run_at": "2026-11-05T11:25:02Z",
+    "run_id": "42018704154",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 286,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Rajinikanth's Jailer 2 Nears Milestone As Box Office Approaches Week Three Totals",
-      "Milcho Manchevski’s 'Sister Brother Manhole Cover' Claims Top Honor at Tokyo Film Festival",
-      "Ayushmann Khurrana Targeted With Extortion Audio Clip Demanding Crores",
-      "Inside Sunny Deol's Luxurious Properties and Grand Lifestyle"
+      "Shiv Aroor and Rahul Singh end association with Salman Khan-starrer Maatrubhumi; say film has moved beyond their book’s account",
+      "Nayyi Navelli Box Office (Closing Collection): Yami Gautam Starrer Concludes Its Run With A Deficit Of 21%",
+      "Regina on not being included 'Kesari 2' promotions, Janhvi's comments on Peddi",
+      "In 2015, Taylor Swift pledged all proceeds of ‘Wildest Dreams’ to an African conservation",
+      "Ibrahim Ali praises Kareena Kapoor and calls her a great stepmother",
+      "Sunny revisits Dharmendra’s farmhouse; shares moment with son",
+      "Rise & Fall season 2 finalists: Priyanka Chahar Choudhary, Shehzad Poonawalla and Gautam Gulati among top 6 contestants vying for trophy",
+      "Ramayana: Ravana's 10 heads are at war with each other and Yash makes it fascinating",
+      "Keerthy Suresh reveals challenges at home over interfaith relationship with Antony",
+      "Gunmaaster G9 New Poster OUT! Emraan Hashmi Is Locked, Loaded And Ready For Action",
+      "Guy Ritchie’s Henry Cavill-Led Thriller Officially Hits Major Milestone",
+      "Steven Spielberg’s Overlooked Sci-Fi Thriller Officially Hits Major Streaming Milestone",
+      "Netflix’s New Global Sensation Officially Makes Box Office History",
+      "’Saving Private Ryan’s Final Quote Still Officially Defines WWII Movies 28 Years Later",
+      "Florence Pugh’s Netflix Western Is Officially One of the Streamer’s Biggest Miniseries Ever",
+      "Hogwarts Legacy Official Remaster Released And Available Right Now",
+      "Zelda: Ocarina of Time Remake - Everything To Do In Castle Town",
+      "South International Series Festival Prizes: ’Blindspot Berlin,’ ‘The Oligarch and the Art Dealer’ Win Big",
+      "Griffin Dunne on Renewed Interest in ‘Practical Magic’ and ‘An American Werewolf in London’: ‘I Seem to Be the King of Lapsed Love’",
+      "Awkwafina’s ‘Kate Might Die,’ ‘Outside of Cleveland’ With Alex Wolff Among Projects Selected for U.S. in Progress"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 270,
+     "detail": "286 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1468,27 +1445,30 @@
      "detail": "+3 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-05T11:27:35Z",
+    "run_id": "42018704154",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Authors Shiv Aroor and Rahul Singh Discontinue Association with Salman Khan's Maatrubhumi",
+      "How Saving Private Ryan Continues to Define War Cinema Decades After Release"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-04T08:52:13Z",
-    "run_id": "41802603035",
-    "status": "success",
-    "checked": {
-     "candidates": 190,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 187, coming 3"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1902,26 +1882,27 @@
      "detail": "now 197, coming 2"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-04T12:53:53Z",
-    "run_id": "41832768300",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-05T11:27:35Z",
+    "run_id": "42018704154",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 199,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 197, coming 2"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2361,27 +2342,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-04T12:07:02Z",
-    "run_id": "41824198406",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-05T11:27:38Z",
+    "run_id": "42018704154",
     "status": "success",
     "checked": {
-     "candidates": 474,
-     "detail": "473 collected staging rows from readers; 185 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 160,
-     "detail": "+0 new rows, 160 updated rows, 313 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2795,19 +2775,27 @@
      "detail": "+0 new rows, 165 updated rows, 359 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T11:27:35Z",
+    "run_id": "42018704154",
+    "status": "success",
+    "checked": {
+     "candidates": 526,
+     "detail": "524 collected staging rows from readers; 192 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 521 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3037,32 +3025,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-04T12:53:53Z",
-    "run_id": "41832768300",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Stunt Coordinator Geeta Tandon Alleges Disrespect On Set",
-      "Ramayana Part 2 Release Pushed to 2028 as Producer Namit Malhotra Discusses Trilogy Possibilities",
-      "Godzilla Minus One Climbs Digital Charts Ahead of Upcoming Sequel",
-      "Tharun Bhascker Opens Up About Real-Life Inspiration Behind Ee Nagaraniki Emaindi Ahead of Sequel"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3575,19 +3550,30 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-05T11:27:37Z",
+    "run_id": "42018704154",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Authors Shiv Aroor and Rahul Singh Discontinue Association with Salman Khan's Maatrubhumi",
+      "How Saving Private Ryan Continues to Define War Cinema Decades After Release"
+     ],
+     "updated": [],
+     "count": 2,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3843,65 +3829,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T06:51:58Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": {
-     "candidates": 514,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 35,
-      "pk_movies": 19
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "France-Cambodge : Si loin, si proche (1815984)",
-      "Club Kid (1585239)",
-      "Joe and Mike's Wine Bar - Opening Night! (1815716)",
-      "A Dog's Perfect Christmas (1570488)",
-      "Zaljubljeno srce moje (1814744)",
-      "The Last Temptation of Becky (1642568)",
-      "The 16th Goddesses of Stardom Tag League Tournament in KORAKUEN vol.1 (1814619)",
-      "Women on Trial (1003494)",
-      "Videotape (1814534)",
-      "Studio di una metamorfosi (1811856)",
-      "The Spark (1810689)",
-      "Ezzed'Jean (1810663)",
-      "Between the Herds (1810633)",
-      "Tomson Highway: Permanent Astonishment (1810143)",
-      "KICK (1810118)",
-      "Illuminations (1809832)",
-      "Dear Son (1809706)",
-      "The Moon Laid Bare (1809680)",
-      "Behind The Passion (1809643)",
-      "Tingatinga Between Two Homes (1809546)"
-     ],
-     "updated": [],
-     "count": 20
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4214,31 +4154,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-04T06:53:09Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 248 still unprocessed; today by category: movies 7/6, tv_dramas 2/4, episodes 0/2, box_office 7/6, celebrities_events 6/5, upcoming_releases 3/4, ott_streaming 1/4, trailers 0/3, awards 1/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ram Kamal Mukherjee Secures Best Director at International Indian Film Festival of Toronto",
-      "Unannounced Persona 1 Remake Leaks Online via Detailed Gameplay Footage",
-      "Ranabaali Box Office Collection Day 19: Vijay Deverakonda Starrer Crosses ₹80 Crore Worldwide",
-      "Netflix Animated Comedy Haunted Hotel Officially Confirmed for Season 3 Return in 2027"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4742,26 +4670,29 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-05T11:27:35Z",
+    "run_id": "42018704154",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "news queue items drafted this run; 270 still unprocessed; today by category: movies 8/6, tv_dramas 7/4, episodes 0/2, box_office 7/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 1/3, awards 1/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Authors Shiv Aroor and Rahul Singh Discontinue Association with Salman Khan's Maatrubhumi",
+      "How Saving Private Ryan Continues to Define War Cinema Decades After Release"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-04T06:54:03Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": {
-     "candidates": 34,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5068,24 +4999,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 419,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5430,24 +5356,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 204,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5762,24 +5688,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 74,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6029,24 +5950,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 2,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6281,62 +6197,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "metadata_refresh": [
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T06:52:26Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": {
-     "candidates": 50,
-     "valid": 50,
-     "failed": 0,
-     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "King (1145110)",
-      "Dune: Part Three (1170608)",
-      "Avengers: Doomsday (1003596)",
-      "Memoona and Sheralam (1652448)",
-      "Tsuri Komachi (1807529)",
-      "The Hunger Games: Sunrise on the Reaping (1300968)",
-      "Smoking in the Desert (1806668)",
-      "Ghost Soldier (1562642)",
-      "Retour gagnant pour la cuisine d'antan (1815145)",
-      "Memento Amoris (1814871)",
-      "Pianoman (1813767)",
-      "Nosce te ipsum (1813722)",
-      "A COLD SEASON (1813392)",
-      "Ways That I Have Died (1812555)",
-      "Extra-Terrestrial Haunting (1812547)",
-      "Shapes and Sizes (1811085)",
-      "Come To Me (1810771)",
-      "Life 2.0 (1810754)",
-      "La vente secrète des juifs de Roumanie (1815462)",
-      "The making of Vincent - Dreams, Monsters & Independent Film (1810715)",
-      "5000 Strokes (1809633)",
-      "Memory from the Sea (1804593)",
-      "School Girls; Or, The African Mean Girls Play (1803659)",
-      "GW:s mord - Sturebymordet (1802472)",
-      "Blind Date (1802137)",
-      "The Sweetest Christmas Date (1800250)",
-      "Thank You for Your Review (1798095)",
-      "The Taste of Democracy (1798047)",
-      "Next Stop Paneriai (1797895)",
-      "She Looks Like Latte (1797488)",
-      "A Gentle Apocalypse (1796080)",
-      "Dialling... (1794501)",
-      "Sonora (1790464)"
-     ],
-     "count": 33
-    },
-    "reason": null
-   },
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6609,19 +6482,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6847,6 +6720,16 @@
     "category": "OTT",
     "run_at": "2026-11-05T11:05:05Z",
     "run_id": "42014036357",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6857,16 +6740,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-04T08:47:04Z",
     "run_id": "41795060951",
     "status": "skipped",
@@ -7093,19 +6966,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7361,6 +7234,16 @@
     "category": "Trending News",
     "run_at": "2026-11-05T11:05:05Z",
     "run_id": "42014036357",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7781,21 +7664,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 232,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-04T08:47:04Z",
     "run_id": "41795060951",
     "status": "skipped",
@@ -8032,24 +7900,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-04T06:54:31Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4644,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8299,8 +8162,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-05T11:27:46Z",
+    "run_id": "42018704154",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-05T11:05:05Z"
+ "updated_at": "2026-11-05T11:27:46Z"
 }

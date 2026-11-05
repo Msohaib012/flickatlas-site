@@ -63535,5 +63535,209 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 10:50:20 +0000"
+  },
+  "1xaoury": {
+    "id": "1xaoury",
+    "type": "news",
+    "headline": "Authors Shiv Aroor and Rahul Singh Discontinue Association with Salman Khan's Maatrubhumi",
+    "dek": "The co-authors of India's Most Fearless have officially parted ways with the upcoming Bollywood project, citing that the narrative has grown beyond their original literary work.",
+    "body": [
+      {
+        "h": "The Departure of the Co-Authors",
+        "p": [
+          "Defence writers Shiv Aroor and Rahul Singh have formally announced the end of their collaboration with the upcoming feature film Maatrubhumi. The project, which was previously recognized under the title Battle of Galwan, features prominent actor Salman Khan in the lead role.",
+          "In an official joint statement issued on November 5, the literary figures clarified that their formal association with the production has concluded. They explained that the cinematic adaptation has evolved considerably beyond the scope of the original text."
+        ]
+      },
+      {
+        "h": "Evolving Beyond the Literary Source",
+        "p": [
+          "The creative foundation for the movie originally stemmed from a specific chapter featured in the third installment of the India's Most Fearless book series. Published in 2022, that volume detailed the tense military standoff between Indian and Chinese armed personnel in the Galwan Valley.",
+          "According to the co-authors, while their publication served as the initial catalyst for bringing them onto the cinematic journey, the script and visual storytelling have since taken on a broader scope that transcends their documented accounts."
+        ]
+      },
+      {
+        "h": "Gratitude and Well Wishes for the Team",
+        "p": [
+          "Despite stepping away from the ongoing production process, both journalists expressed deep appreciation for the individuals steering the project. They extended their thanks to lead star Salman Khan and filmmaker Apoorva Lakhia for their hospitality and professional collaboration.",
+          "The joint message emphasized high regard for the entire crew, with the writers offering sincere encouragement for the venture. They noted that their positive backing and hopes for the feature's ultimate reception remain unwavering."
+        ]
+      },
+      {
+        "h": "Origins in the Galwan Valley Confrontation",
+        "p": [
+          "The cinematic project draws its inspiration from the intense hand-to-hand combat that took place in June 2020. That deadly altercation resulted in the tragic loss of twenty Indian military personnel, including commanding officer Colonel Bikumalla Santosh Babu.",
+          "In the film adaptation, Salman Khan is cast to portray the heroic officer. Director Apoorva Lakhia secured the screen adaptation rights for the literary chapter back in 2023, with Shiv Aroor sharing writing credits for the story alongside Suresh Nair."
+        ]
+      },
+      {
+        "h": "Upcoming Promotional Milestones",
+        "p": [
+          "The separation of the authors coincides with a major promotional push for the high-profile feature. Industry reports indicate that the production is currently preparing for the official rollout of its marketing campaign.",
+          "The Central Board of Film Certification recently reviewed the promotional footage and granted it a U/A 16+ rating on November 4. The extensive preview runs for four minutes and forty-three seconds, generating considerable anticipation among fans."
+        ]
+      },
+      {
+        "h": "Theatrical Release Uncertainties",
+        "p": [
+          "While the promotional rollout is moving forward rapidly with a trailer launch scheduled for November 6, the final premiere date in cinemas has not been officially locked down by the studio.",
+          "Current industry discussions suggest that the production team is evaluating potential theatrical launch windows, with specific consideration being given to November 20 and December 11."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Writers Shiv Aroor and Rahul Singh have ended their association with the Salman Khan-starrer Maatrubhumi, stating the film has moved past their book's account of the Galwan Valley clash. The project, directed by Apoorva Lakhia, is preparing to unveil a trailer following its CBFC certification while eyeing a theatrical release in late 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Shiv Aroor and Rahul Singh announced the end of their association on November 5, 2026.",
+      "Maatrubhumi was previously titled Battle of Galwan.",
+      "The film is based on a chapter in India's Most Fearless 3, published in 2022.",
+      "Apoorva Lakhia acquired the rights to the chapter in 2023.",
+      "The Galwan Valley clash occurred in June 2020.",
+      "Colonel Bikumalla Santosh Babu and 19 other Indian soldiers lost their lives in the clash.",
+      "Salman Khan portrays Colonel Bikumalla Santosh Babu in the film.",
+      "Shiv Aroor is credited for the film's story alongside Suresh Nair.",
+      "The 4-minute-and-43-second trailer received a U/A 16+ certificate from the CBFC on November 4, 2026.",
+      "The trailer is expected to be unveiled on November 6, 2026.",
+      "November 20 and December 11 are under consideration for the film's theatrical release."
+    ],
+    "entities": {
+      "people": [
+        "Shiv Aroor",
+        "Rahul Singh",
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Bikumalla Santosh Babu",
+        "Suresh Nair"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle of Galwan",
+        "India's Most Fearless",
+        "India's Most Fearless 3"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi film",
+      "Salman Khan Maatrubhumi",
+      "Shiv Aroor Rahul Singh",
+      "Apoorva Lakhia",
+      "Battle of Galwan"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Maatrubhumi-update.jpeg",
+        "caption": "Authors Shiv Aroor and Rahul Singh Discontinue Association with Salman Khan's Maatrubhumi",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 15:52:46 +0200"
+  },
+  "b7cmn0": {
+    "id": "b7cmn0",
+    "type": "news",
+    "headline": "How Saving Private Ryan Continues to Define War Cinema Decades After Release",
+    "dek": "An exploration of Steven Spielberg's landmark World War II film, its iconic closing moments, and the lasting legacy of its emotional message.",
+    "body": [
+      {
+        "h": "The Enduring Visual Impact of a Cinematic Milestone",
+        "p": [
+          "Nearly three decades after its theatrical debut, Steven Spielberg's monumental war picture remains the definitive cinematic depiction of the global conflict of the 1940s. The film successfully shaped modern public perception of the military operations that took place on the beaches during the D-Day landings.",
+          "Through striking visuals and a gritty atmosphere, the production cemented the iconography associated with the Allies confronting the Axis Powers. It established a lasting benchmark for how Hollywood portrays historical combat on the silver screen."
+        ]
+      },
+      {
+        "h": "Deconstructing the Final Emotional Exchange",
+        "p": [
+          "At the conclusion of the narrative, an elderly protagonist stands at a gravesite and asks his wife a heavy, direct question regarding his moral character. This concluding moment has sparked various interpretations among viewers since the film first premiered.",
+          "Some audience members view the sequence as overly sentimental, contrasting sharply with the brutal violence displayed throughout the rest of the runtime. However, supporters argue it provides essential closure for the harrowing experiences endured by veterans."
+        ]
+      },
+      {
+        "h": "The True Identity Behind the Final Journey",
+        "p": [
+          "A notable narrative twist reveals that the older veteran reflecting on the past is not the commanding officer who led the rescue operation, but rather the surviving soldier retrieved from behind enemy lines. This particular character heard the final instruction to earn his survival.",
+          "The haunting last words delivered by the captain serve as a heavy burden for the rescued soldier throughout his life. They prompt deep reflection on the true meaning of duty and patriotism."
+        ]
+      },
+      {
+        "h": "Processing Trauma and Post-War Stress",
+        "p": [
+          "The story explores the psychological toll exacted on those who survived the horrors of the battlefield. The intense combat sequences leave characters grappling with profound trauma long after the fighting stops.",
+          "By focusing on these psychological wounds, the feature addresses the inner turmoil of soldiers who questioned their survival while others perished. It highlights the psychological necessity of reassurance after witnessing unimaginable chaos."
+        ]
+      },
+      {
+        "h": "Examining the Need for Personal Validation",
+        "p": [
+          "Beneath the surface of patriotism lies a deeper examination of human insecurity and the desire for reassurance. The aging veteran seeks confirmation from his loved ones that his life and actions held genuine value.",
+          "This longing for acceptance reflects a broader commentary on the psychological state of military personnel who return home from conflict. It suggests that external victory does not automatically erase internal doubt."
+        ]
+      },
+      {
+        "h": "Challenging Traditional Notions of Heroism",
+        "p": [
+          "Rather than presenting a purely triumphant view of historical events, the narrative exposes the vulnerabilities of the generation that fought the conflict. The distinction between right and wrong often blurs amidst the devastation.",
+          "This nuanced portrayal prevents the story from becoming a simple exercise in jingoism. Instead, it offers a complicated look at morality, sacrifice, and the heavy price paid by individuals caught in large-scale hostilities."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Steven Spielberg's 1998 war drama continues to define cinematic representations of World War II nearly three decades after its release. Its controversial final line and exploration of veteran trauma highlight the enduring human cost of combat and the ongoing search for personal validation."
+        ]
+      }
+    ],
+    "facts": [
+      "Saving Private Ryan was released on July 24, 1998.",
+      "The runtime of Saving Private Ryan is 169 minutes.",
+      "Steven Spielberg directed Saving Private Ryan.",
+      "Tom Hanks played Captain Miller in the film.",
+      "Matt Damon played Private James Ryan in the film.",
+      "Harrison Young played the elderly Private James Ryan.",
+      "Tom Sizemore played Sergeant Horvath."
+    ],
+    "entities": {
+      "people": [
+        "Thomas Butt",
+        "Steven Spielberg",
+        "Harrison Young",
+        "Tom Hanks",
+        "Matt Damon",
+        "Janusz Kamiński",
+        "John Williams",
+        "Tom Sizemore",
+        "Ryan Heffernan"
+      ],
+      "titles": [
+        "Saving Private Ryan",
+        "E.T. the Extra Terrestrial",
+        "A.I. Artificial Intelligence",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "Queen: Hungarian Rhapsody - Live in Budapest '86",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "Saving Private Ryan",
+      "Steven Spielberg film",
+      "Tom Hanks Saving Private Ryan",
+      "Private James Ryan ending"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/saving-private-ryan-jeremy-davies.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "How Saving Private Ryan Continues to Define War Cinema Decades After Release",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 10:04:12 GMT"
   }
 };
