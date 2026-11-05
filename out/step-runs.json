@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-04T04:50:55Z",
-    "run_id": "41775610975",
-    "status": "success",
-    "checked": {
-     "candidates": 250,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Kanika Kapoor Separation: Baby Doll Singer And Husband Gautam Hathiramani Part Ways After 4 Years Of Marriage",
-      "Akshay Kumar's Oh My Goddess In Trouble? Director Amit Rai Parts Ways With Makers After Rani Mukerji's Exit",
-      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 5: Venkatesh's Film Nears ₹60 Crore Worldwide",
-      "Aarti Ravi's proud mother moment as son Aarav graduates in London",
-      "Vijay praises Rashmika Mandanna's fierce avatar 'O Mysaa Re'",
-      "‘Dungeon Crawler Carl’s Most Terrifying Enemy Isn’t Inside the Dungeon",
-      "‘VisionQuest’s T’Nia Miller Breaks Down Jocasta’s “Godlike, Badass” Moment in Episode 7",
-      "‘Happy Godzilla Day’: Massive Lego Godzilla Sets Release Date After Minus Zero",
-      "Spain Delivers Its Biggest Box Office Hit of 2026, It Stands No. 3 in All Time List",
-      "‘Hot Mess’: M. Night Shyamalan Delivers Good & Bad News on Next Movie After Remain",
-      "Marvel Studios Brings Back Thanos' Black Order With A Shocking Twist",
-      "15-Year-Old MCU Easter Egg Officially Confirmed By Marvel Creator",
-      "Chris Pappas Becomes First Openly Gay Man Elected to Senate",
-      "Democrats Projected to Flip House in 2026 Midterms, Ending GOP Control",
-      "Bret Baier Warns Jesse Watters to ‘Be Careful’ After He Calls Darline Graham’s Senate Race Loss Early",
-      "Best Medicine - Can't Stop The Healing - Review : You Don't Have To Change",
-      "Best Medicine - Can't Stop the Healing (2.06) - Rate the Episode!",
-      "Govt unveils LPG policy as power costs set to rise",
-      "Opposition nominees sought for election reforms panel",
-      "UN body to review Pakistan’s progress on rights today"
-     ],
-     "updated": [],
-     "count": 244,
-     "detail": "250 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-04T05:51:50Z",
     "run_id": "41781704283",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "282 stories, 0 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-04T08:52:13Z",
-    "run_id": "41802603035",
+    "run_at": "2026-11-05T09:51:37Z",
+    "run_id": "42005708204",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 358,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ahn Hyo Seop's New Series 'Final Table' Dominates Streaming Charts Domestically and Internationally",
-      "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
-      "Netflix Drops New Trailer for Live-Action Manga Adaptation Quiztopia",
-      "Rise And Fall 2 November 4 Episode Sees Shocking Triple Eviction And Intense Confrontations"
+      "Khushi Kapoor Birthday Special: 6 Times The Diva Set Vacation Goals With Her Stunning Getaways",
+      "Pet Influencer Ipsita Chowdhury Wins Times Entertainment Power Creator Award 2026",
+      "Ramayana Audience Review: Ranbir Kapoor Or Yash; Who Won Hearts In Nitesh Tiwari Directorial?",
+      "Jailer 2 OTT Release Date Confirmed: When And Where To Watch Rajinikanth's Film Online",
+      "The Reason Behind Joan Crawford and Bette Davis’ Iconic Feud On The Baby Jane Set",
+      "Mookuthi Amman 2 Box Office Advance Collection: Nayanthara’s Film Beats Her Previous Release’s Opening Day",
+      "Jailer 2 Box Office: No 500 Crore Net Milestone For Rajinikanth’s Magnum Opus?",
+      "Ramayana Music Draws Divided Reactions but Has A.R. Rahman and Hans Zimmer's Collaboration Lived Up to Expectations?",
+      "Atlee praises ‘Ramayana’, calls it a timeless cinematic experience for generations",
+      "'Ramayana' box office collection day 1 (LIVE)",
+      "'Jailer 2' BO Day 22 [Live]: Rajinikanth starrer nears Rs 546 crore India gross",
+      "Regina Cassandra questions Karan Johar for ignoring her during Kesari 2 promotions, says Janhvi Kapoor, Radhika Apte comments fuel north-south divide",
+      "KL Rahul calls Athiya Shetty his ‘biggest blessing in life’ on her birthday; Suniel Shetty shares childhood pics",
+      "Sobhita Dhulipala says being an outsider in film industry was very intimidating, recalls having no godfather to save her",
+      "Lara Dutta humbled to be part of Nitesh Tiwari's Ramayana, calls Kaikeyi one of the ‘most misunderstood’ women in history",
+      "Peace will never go out of fashion: Agastya Nanda on ‘Ikkis’",
+      "Ramayana box office collection day 1 (updated live): Ranbir Kapoor, Yash film takes a smashing start, breezes past  ₹25 crore by afternoon",
+      "Amid Eetha Marathi accent controversy, Shraddha Kapoor says she doesn't ‘handle’ criticism, barely checks her phone",
+      "DJ Martin Garrix announces 10-city India tour for Holi 2027, to perform in Mumbai, Delhi, Bengaluru and more",
+      "Bhumi Pednekar enters horror space with Jaani Dushman, T-Series ropes in international stunt expert from Fast & Furious"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 339,
+     "detail": "344 stories, 3 duplicates removed, 14 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1470,27 +1447,31 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-05T09:56:17Z",
+    "run_id": "42005708204",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
+      "KENS 5 Sports Anchor Nate Ryan Announces Surprise Departure After Four Years",
+      "Sarah Khan Appears on Good Morning Pakistan Hosted by Nida Yasir"
+     ],
+     "updated": [],
+     "count": 3,
+     "detail": "+3 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-04T06:53:09Z",
-    "run_id": "41788204032",
-    "status": "success",
-    "checked": {
-     "candidates": 190,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 187, coming 3"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1904,29 +1885,27 @@
      "detail": "now 197, coming 2"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-05T09:56:17Z",
+    "run_id": "42005708204",
+    "status": "success",
+    "checked": {
+     "candidates": 199,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 197, coming 2"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-04T10:54:30Z",
-    "run_id": "41816859575",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1tblyma",
-      "xk9w6b"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2367,27 +2346,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-04T09:52:49Z",
-    "run_id": "41810242859",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-05T09:57:33Z",
+    "run_id": "42005708204",
     "status": "success",
     "checked": {
-     "candidates": 474,
-     "detail": "473 collected staging rows from readers; 185 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 470 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2801,19 +2779,27 @@
      "detail": "+0 new rows, 7 updated rows, 517 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T09:57:31Z",
+    "run_id": "42005708204",
+    "status": "success",
+    "checked": {
+     "candidates": 526,
+     "detail": "524 collected staging rows from readers; 192 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "+0 new rows, 7 updated rows, 517 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3043,32 +3029,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-04T10:54:30Z",
-    "run_id": "41816859575",
-    "status": "success",
-    "checked": {
-     "candidates": 592,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Milcho Manchevski’s 'Sister Brother Manhole Cover' Claims Top Honor at Tokyo Film Festival",
-      "Ayushmann Khurrana Targeted With Extortion Audio Clip Demanding Crores",
-      "Inside Sunny Deol's Luxurious Properties and Grand Lifestyle",
-      "Rajinikanth's Jailer 2 Nears Milestone As Box Office Approaches Week Three Totals"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 592 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3583,19 +3556,31 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-05T09:57:32Z",
+    "run_id": "42005708204",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
+      "KENS 5 Sports Anchor Nate Ryan Announces Surprise Departure After Four Years",
+      "Sarah Khan Appears on Good Morning Pakistan Hosted by Nida Yasir"
+     ],
+     "updated": [],
+     "count": 3,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3851,19 +3836,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4222,31 +4207,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-04T04:51:19Z",
-    "run_id": "41775610975",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 244 still unprocessed; today by category: movies 5/6, tv_dramas 2/4, episodes 0/2, box_office 6/6, celebrities_events 5/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 5: Venkatesh Daggubati Film Nears Rs 60 Crore Worldwide",
-      "Na Hong Jin's Hope Breaks French Opening Records for Korean Cinema in 2026",
-      "Creative Hurdles for Oh My Goddess as Director Amit Rai Exits Amid Casting Changes",
-      "Massive LEGO Godzilla Set Scheduled for November Release Following Crowdsourcing Triumph"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4752,26 +4725,30 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-05T09:56:16Z",
+    "run_id": "42005708204",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "news queue items drafted this run; 339 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 6/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
+      "KENS 5 Sports Anchor Nate Ryan Announces Surprise Departure After Four Years",
+      "Sarah Khan Appears on Good Morning Pakistan Hosted by Nida Yasir"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-04T04:52:24Z",
-    "run_id": "41775610975",
-    "status": "success",
-    "checked": {
-     "candidates": 34,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5078,24 +5055,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 388,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5440,24 +5412,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 22,
+     "count": 260,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5772,19 +5744,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6039,19 +6016,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6291,19 +6268,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6619,19 +6596,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6857,6 +6834,16 @@
     "category": "OTT",
     "run_at": "2026-11-05T08:57:48Z",
     "run_id": "41990058808",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6867,16 +6854,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-04T06:01:55Z",
     "run_id": "41781704283",
     "status": "skipped",
@@ -7103,19 +7080,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7375,6 +7352,16 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7791,16 +7778,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-04T06:01:55Z",
     "run_id": "41781704283",
     "status": "skipped",
@@ -8042,19 +8019,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-04T04:54:25Z",
-    "run_id": "41775610975",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8309,8 +8286,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-05T09:57:41Z",
+    "run_id": "42005708204",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-05T09:04:26Z"
+ "updated_at": "2026-11-05T09:57:41Z"
 }
