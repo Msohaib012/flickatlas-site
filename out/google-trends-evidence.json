@@ -1,8 +1,888 @@
 {
  "source": "google-rss",
- "checked_at": "2026-11-05T14:04:13.627469Z",
+ "checked_at": "2026-11-05T15:21:10.566978Z",
  "status": "ok",
  "items": [
+  {
+   "q": "nasdaq",
+   "traffic": "20000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+     "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html"
+    },
+    {
+     "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip as post-election relief rally fades, oil rises",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+    },
+    {
+     "title": "Stock Market Today: AI Stocks Under Pressure While Dow Futures Rise — Live Updates",
+     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+    }
+   ]
+  },
+  {
+   "q": "qqq",
+   "traffic": "5000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Invesco QQQ (QQQ) Buys $19.6 Million More NVIDIA on Tuesday",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-buys-19-110535090.html"
+    },
+    {
+     "title": "INVESCO QQQ (QQQ) Adds Apple and NVIDIA on Monday",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-adds-apple-110416560.html"
+    },
+    {
+     "title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Tuesday",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110516688.html"
+    }
+   ]
+  },
+  {
+   "q": "spy stock",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "The Year-End Rally Is In Full Swing (SPY)",
+     "url": "https://seekingalpha.com/article/4962946-year-end-rally-is-in-full-swing"
+    },
+    {
+     "title": "A Volatile Quarter, and Where We See It Heading",
+     "url": "https://www.etftrends.com/etf-strategist-content-hub/a-volatile-quarter-and-where-we-see-it-heading/"
+    },
+    {
+     "title": "Is It December 2000 Or April 2009?",
+     "url": "https://seekingalpha.com/article/4961604-is-it-december-2000-or-april-2009"
+    }
+   ]
+  },
+  {
+   "q": "sndk stock",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Is Sandisk's Incredible Run About to End?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/sandisks-incredible-run-end-191500150.html"
+    },
+    {
+     "title": "Sandisk: A PEG Of 0.12x Is Just Too Cheap (NASDAQ:SNDK)",
+     "url": "https://seekingalpha.com/article/4962591-sandisk-a-peg-of-0-12x-is-just-too-cheap"
+    },
+    {
+     "title": "What Did SanDisk’s Quarter Change For Its Stock?",
+     "url": "https://www.trefis.com/stock/sndk/articles/622611/what-did-sandisks-quarter-change-for-its-stock/2026-11-04"
+    }
+   ]
+  },
+  {
+   "q": "voo stock",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-5-000-voo-235000033.html"
+    },
+    {
+     "title": "Here's How Much $1000 Invested In Vanguard S&P 500 Growth ETF 15 Years Ago Would Be Worth Today",
+     "url": "https://www.benzinga.com/news/26/10/62703697/here-s-how-much-1000-invested-vanguard-s-p-500-growth-etf-15-years-ago-would-be-worth-today"
+    },
+    {
+     "title": "VOO vs. VTI: Which Vanguard Fund Is the Better Buy Right Now?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/voo-vs-vti-vanguard-fund-134400510.html"
+    }
+   ]
+  },
+  {
+   "q": "wow forever server status",
+   "traffic": "10000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Begin Again in Azeroth: World of Warcraft: Forever Is Here",
+     "url": "https://blog.twitch.tv/en/2026/11/04/world-of-warcraft-forever-is-here/"
+    },
+    {
+     "title": "World of Warcraft: Forever Now Live!",
+     "url": "https://news.blizzard.com/en-us/article/24315820/world-of-warcraft-forever-now-live"
+    },
+    {
+     "title": "World of Warcraft: Forever Review So Far - Beta Impressions",
+     "url": "https://www.ign.com/articles/world-of-warcraft-forever-review"
+    }
+   ]
+  },
+  {
+   "q": "iren stock",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "IREN is Only Fit for a Specific Investor Currently",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/iren-only-fit-specific-investor-121522507.html"
+    },
+    {
+     "title": "Why Are CoreWeave, IREN and Applied Digital Stocks Falling? AI Data Center Fears Grow",
+     "url": "https://stocksdownunder.com/coreweave-iren-apld-stocks-falling-data-center/"
+    },
+    {
+     "title": "IREN to Report Q1 Earnings: Should You Buy, Sell or Hold the Stock?",
+     "url": "https://www.zacks.com/stock/news/3023380/iren-to-report-q1-earnings-should-you-buy-sell-or-hold-the-stock"
+    }
+   ]
+  },
+  {
+   "q": "robinhood",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "This 1 Market Niche Is Growing at an Exponential Rate for Robinhood. That's Why I'm Bullish on HOOD Stock.",
+     "url": "https://www.fool.com/investing/2026/11/04/this-1-market-niche-is-growing-at-an-exponential-r/"
+    },
+    {
+     "title": "This 1 Market Niche Is Growing at an Exponential Rate for Robinhood. That's Why I'm Bullish on HOOD Stock.",
+     "url": "https://www.aol.com/articles/1-market-niche-growing-exponential-143500000.html"
+    },
+    {
+     "title": "Anthropic’s IPO Is Coming. These Brokerages Are Giving Everyday Investors a Chance to Participate.",
+     "url": "https://www.barrons.com/advisor/articles/anthropic-ant-ipo-brokerage-firms-afe39034"
+    }
+   ]
+  },
+  {
+   "q": "amd",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "AMD’s record quarter: Data center business doubles, while gaming craters",
+     "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/"
+    },
+    {
+     "title": "AMD is a 'data center first' company, says CEO Lisa Su",
+     "url": "https://finance.yahoo.com/video/amd-is-a-data-center-first-company-says-ceo-lisa-su-132618996.html"
+    },
+    {
+     "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+     "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+    }
+   ]
+  },
+  {
+   "q": "rockstar games",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
+     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+    },
+    {
+     "title": "Grand Theft Auto VI pre-download begins November 10",
+     "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/"
+    },
+    {
+     "title": "‘GTA 6’ Pre-Load Date And Time Revealed, Huge File Size Confirmed",
+     "url": "https://www.forbes.com/sites/paultassi/2026/11/03/gta-6-pre-load-date-and-time-revealed-huge-file-size-confirmed/"
+    }
+   ]
+  },
+  {
+   "q": "nvidia share price",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "5-star analyst resets Nvidia stock target after Intel crash",
+     "url": "https://sg.finance.yahoo.com/news/5-star-analyst-resets-nvidia-003700610.html"
+    },
+    {
+     "title": "Why Nvidia Stock Can Ride Out a Data-Center Crackdown",
+     "url": "https://www.barrons.com/articles/nvidia-stock-price-data-centers-5b4a74a1"
+    },
+    {
+     "title": "Why is NVIDIA stock rallying today? By Investing.com",
+     "url": "https://in.investing.com/news/stock-market-news/why-is-nvidia-stock-rallying-today-93CH-5675667"
+    }
+   ]
+  },
+  {
+   "q": "nasdaq index",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "What I Am Watching Today – NASDAQ 100, Platinum, EUR/CHF, and AUD/JPY",
+     "url": "https://www.fxempire.com/forecasts/article/premium-what-i-am-watching-today-nasdaq-100-platinum-eur-chf-aud-jpy-1642216"
+    },
+    {
+     "title": "Nasdaq 100 forecast: Index faces downward pressure as 27,527 support draws focus",
+     "url": "https://tradersunion.com/news/stocks/show/4112561-nasdaq-100-drops-2-54percent-to/"
+    },
+    {
+     "title": "NASDAQ 100 dips near 28,200 amid US-Iran talks;...",
+     "url": "https://pluang.com/en/news-feed/pantauan-pasar-nasdaq-100-platinum-eur-chf-aud-jpy-oktober"
+    }
+   ]
+  },
+  {
+   "q": "ക്രിസ്റ്റ്യാനോ റൊണാള്ഡോ",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "പറങ്കിപ്പടയെ നയിക്കാൻ ഇനി കപ്പിത്താൻ ഇല്ല, ലോകകിരീടമില്ലാതെ ‘രാജാവ്’ പടിയിറങ്ങുന്നു; ഒബ്രിഗാദോ, സിആർ7!",
+     "url": "https://www.manoramaonline.com/sports/football/2026/11/05/cristiano-ronaldo-international-retirement-without-a-single-fifa-world-cup.html"
+    },
+    {
+     "title": "ആ ചുവന്ന 7-ാം നമ്പർ ജേഴ്‌സിയണിയാൻ ഇനി അയാളില്ല; ഫുട്‌ബോളിലെ ഒരു യുഗം അവസാനിക്കുമ്പോൾ",
+     "url": "https://www.mathrubhumi.com/videos/sports/cristiano-ronaldo-portugal-farewell-analysis-gmxraie6"
+    },
+    {
+     "title": "ക്രിസ്റ്റ്യാനോ റൊണാൾഡോ അന്താരാഷ്ട്ര ഫുട്ബാളിൽ നിന്ന് വിരമിച്ചു | Madhyamam",
+     "url": "https://www.madhyamam.com/sports/football/news-1569477"
+    }
+   ]
+  },
+  {
+   "q": "ముహూరత్ ట్రేడింగ్",
+   "traffic": "5000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for...",
+     "url": "https://www.moneycontrol.com/news/business/markets/diwali-stock-picks-2026-reliance-industries-icici-bank-tata-steel-eternal-among-30-stocks-to-buy-for-samvat-2083-brokerages-see-up-to-38-upside-14071428.html"
+    },
+    {
+     "title": "HDFC SKY Diwali Stock Recommendations 2026: Stocks to Watch in Samvat 2083",
+     "url": "https://m.thewire.in/article/ptiprnews/hdfc-sky-diwali-stock-recommendations-2026-stocks-to-watch-in-samvat-2083"
+    },
+    {
+     "title": "AngelOne Top Diwali Picks: Apollo Micro, Shanti Gold, Ratnaveer and AGI Infra",
+     "url": "https://in.investing.com/analysis/angelone-top-diwali-picks-apollo-micro-shanti-gold-ratnaveer-and-agi-infra-200640922"
+    }
+   ]
+  },
+  {
+   "q": "lottery sambad",
+   "traffic": "50000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T14:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Nagaland State Lottery Sambad 5.11.2026 Today 6PM & 8PM; Dear Thursday Lottery Live; Winners List",
+     "url": "https://www.goodreturns.in/news/nagaland-state-lottery-sambad-5-11-2026-today-6pm-8pm-dear-thursday-lottery-live-winners-list-1545531.html"
+    },
+    {
+     "title": "Nagaland State Lottery Dear Fame Thursday Result Today 8 PM: Who Won Rs 1 Crore Jackpot? Full Winners List Here",
+     "url": "https://newsable.asianetnews.com/india/nagaland-state-lottery-dear-fame-thursday-result-today-8-pm-who-won-rs-1-crore-jackpot-full-winners-list-here-articleshow-ifs3wks"
+    },
+    {
+     "title": "Nagaland State Lottery Sambad Dear Clover Monday result for November 2, 2026",
+     "url": "https://www.easternmirrornagaland.com/nagaland-state-lottery-sambad-dear-clover-monday-result-for-november-2-2026"
+    }
+   ]
+  },
+  {
+   "q": "লটারি সংবাদ",
+   "traffic": "2000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T14:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "নারী নিয়োগে লটারির জট, এর মধ্যেই স্ট্যান্ড রিলিজ উপসহকারী প্রকৌশলী",
+     "url": "https://channels.com.bd/news/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C/b599-20261103"
+    },
+    {
+     "title": "পাকা সড়ক নেই, তাই নিয়োগও নেই- এলজিইডির প্রকল্পে বঞ্চিত চরাঞ্চলের দরিদ্র নারীরা",
+     "url": "https://channels.com.bd/news/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C/d279-20261031"
+    },
+    {
+     "title": "এক প্রকল্পে তিন নিয়ম, গঙ্গাচড়ায় নারী কর্মী নিয়োগের লটারি নিয়ে তোলপাড়",
+     "url": "https://channels.com.bd/news/district-news/ce4f-20261101"
+    }
+   ]
+  },
+  {
+   "q": "nasdaq 100",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T14:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "The Nasdaq 100’s Struggle Reveals a More Cautious Market View of AI",
+     "url": "https://www.investing.com/analysis/the-nasdaq-100s-struggle-reveals-a-more-cautious-market-view-of-ai-200690929"
+    },
+    {
+     "title": "Tech stocks enter November after a brutal October: Is it time to buy the dip?",
+     "url": "https://www.marketwatch.com/story/tech-stocks-enter-november-after-a-brutal-october-is-it-time-to-buy-the-dip-09d8aff8"
+    },
+    {
+     "title": "[Mou Weekly] Run for your life? Or buy the dip? (Week 44, 2026 | Issue #294)",
+     "url": "https://longbridge.com/topics/100000000967511"
+    }
+   ]
+  },
+  {
+   "q": "nasdaq composite",
+   "traffic": "500+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T14:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "MIRA Pharmaceuticals Reports Significant Weight and Fat Reduction With Oral SKNY-1 in Obese Mice, Showing Favorable Lean-Mass and Weight-Regain Outcomes Compared With Semaglutide",
+     "url": "https://finance.yahoo.com/healthcare/articles/mira-pharmaceuticals-reports-significant-weight-120000131.html"
+    },
+    {
+     "title": "The Nasdaq composite drops 3% as AI chip stocks tumble on worries Democrats in Congress will restrict the industry",
+     "url": "https://www.barchart.com/story/news/8662594/the-nasdaq-composite-drops-3-as-ai-chip-stocks-tumble-on-worries-democrats-in-congress-will-restrict-the-industry"
+    },
+    {
+     "title": "Mira Pharmaceuticals reports weight loss results for SKNY-1 in obese mice",
+     "url": "https://www.streetinsider.com/Corporate+News/Mira+Pharmaceuticals+reports+weight+loss+results+for+SKNY-1+in+obese+mice/27253314.html"
+    }
+   ]
+  },
+  {
+   "q": "lorenzo musetti",
+   "traffic": "2000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T14:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Zverev annoyed by reaction to becoming world number one",
+     "url": "https://www.bbc.com/sport/tennis/articles/ckpdg01pq55eo"
+    },
+    {
+     "title": "Musetti shocks Zverev in Paris; Halys saves 4 MPs to shake up Live Race",
+     "url": "https://www.atptour.com/en/news/zverev-musetti-paris-2026-wednesday"
+    },
+    {
+     "title": "Zverev falls in first match as world number one; Djokovic's ATP Finals hopes over",
+     "url": "https://www.reuters.com/sports/tennis/sublime-musetti-stuns-world-number-one-zverev-paris-masters-2026-11-04/"
+    }
+   ]
+  },
+  {
+   "q": "luca van assche",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-05T14:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "November 6, 2026: Ben Shelton vs Tommy Paul: Set 2 Winner Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/ben-shelton-vs-tommy-paul-set-2-winner-nov-06-2026/"
+    },
+    {
+     "title": "November 4, 2026: Tomas Martin Etcheverry vs Alex de Minaur: Total Games Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/tomas-martin-etcheverry-vs-alex-de-minaur-total-games-nov-04-2026/"
+    },
+    {
+     "title": "November 4, 2026: Tomas Martin Etcheverry vs Alex de Minaur: Game Spread Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/tomas-martin-etcheverry-vs-alex-de-minaur-game-spread-nov-04-2026/"
+    }
+   ]
+  },
+  {
+   "q": "nasdaq",
+   "traffic": "1000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Markets live: US tech stocks slide in wake of Democrats’ midterm win",
+     "url": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1"
+    },
+    {
+     "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip as post-election relief rally fades, oil rises",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+    },
+    {
+     "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+     "url": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets"
+    }
+   ]
+  },
+  {
+   "q": "rockstar games",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T15:00:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Grand Theft Auto VI Pre-Load Begins on November 10",
+     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+    },
+    {
+     "title": "Grand Theft Auto VI pre-download begins November 10",
+     "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/"
+    },
+    {
+     "title": "‘GTA 6’ Pre-Load Date And Time Revealed, Huge File Size Confirmed",
+     "url": "https://www.forbes.com/sites/paultassi/2026/11/03/gta-6-pre-load-date-and-time-revealed-huge-file-size-confirmed/"
+    }
+   ]
+  },
+  {
+   "q": "russell brand katy perry",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T14:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Russell Brand's drug addiction and ex-wife Katy Perry left out of rape trial",
+     "url": "https://www.lbc.co.uk/article/russell-brand-addiction-katy-perry-rape-5Hjdkzy_2/"
+    },
+    {
+     "title": "The Russell Brand I saw in court was not the flamboyant character most people will know",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo"
+    },
+    {
+     "title": "Russell Brand found guilty of rape and sexual assault",
+     "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault"
+    }
+   ]
+  },
+  {
+   "q": "ozzfest",
+   "traffic": "500+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T14:40:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "“Ozzy was the first to launch his own traveling metal festival, and Ozzfest will always remain an important part of Ozzy’s legacy.” Ozzfest confirms return with UK, US and Mexico editions for 2027",
+     "url": "https://www.loudersound.com/news/ozzfest-confirms-return-uk-milton-keynes-national-bowl-us-san-bernadino-mexico-city"
+    },
+    {
+     "title": "Ozzfest Launches Countdown Timer",
+     "url": "https://metalinjection.net/news/ozzfest-launches-countdown-timer"
+    },
+    {
+     "title": "Ozzfest 2027 announcement teased",
+     "url": "https://themusicuniverse.com/ozzfest-2027-announcement-teased/"
+    }
+   ]
+  },
+  {
+   "q": "katy perry",
+   "traffic": "500+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T14:20:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Katy Perry Shows Off Daughter Daisy’s Pink-Tinted Blonde Waves in Matching Halloween Costumes",
+     "url": "https://www.instyle.com/katy-perry-daughter-daisy-6-hello-kitty-halloween-costumes-12213858"
+    },
+    {
+     "title": "Russell Brand's drug addiction and ex-wife Katy Perry left out of rape trial",
+     "url": "https://www.lbc.co.uk/article/russell-brand-addiction-katy-perry-rape-5Hjdkzy_2/"
+    },
+    {
+     "title": "Petition Launches Against Katy Perry’s Proposed Youth Camp",
+     "url": "https://www.noozhawk.com/petition-against-goleta-katy-perry-youth-camp/"
+    }
+   ]
+  },
+  {
+   "q": "russell brand",
+   "traffic": "100000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T14:10:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "The Russell Brand I saw in court was not the flamboyant character most people will know",
+     "url": "https://www.bbc.co.uk/news/articles/cwvgdjyg6qrqo"
+    },
+    {
+     "title": "Russell Brand found guilty of rape and sexual assault",
+     "url": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault"
+    },
+    {
+     "title": "Russell Brand rape trial live: Comedian found guilty of rape and sexual assault",
+     "url": "https://news.sky.com/story/russell-brand-rape-trial-live-closing-arguments-begin-13592674"
+    }
+   ]
+  },
+  {
+   "q": "italian chef sacked",
+   "traffic": "2000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T14:10:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+     "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo"
+    },
+    {
+     "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
+     "url": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work"
+    },
+    {
+     "title": "Pineapple on pizza is just the start – the other food crimes against Italian cooking",
+     "url": "https://www.independent.co.uk/life-style/food-and-drink/pineapple-pizza-topping-italians-offensive-b3079600.html"
+    }
+   ]
+  },
+  {
+   "q": "didier deschamps",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T14:10:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Deschamps reaches decision on joining Man Utd to replace Carrick after INEOS 'contact in recent days'",
+     "url": "https://www.football365.com/news/man-utd-deschamps-reaches-decision-replacing-carrick-ineos-make-contact"
+    },
+    {
+     "title": "Contact made: Man United approach experienced manager as another target set to sign new deal",
+     "url": "https://www.caughtoffside.com/2026/11/05/man-united-make-contact-with-didier-deschamps/"
+    },
+    {
+     "title": "Man Utd contact World Cup-winning boss as mood on taking Red Devils hotseat comes to light",
+     "url": "https://www.teamtalk.com/manchester-united/red-devils-contact-didier-deschamps-michael-carrick-sack"
+    }
+   ]
+  },
+  {
+   "q": "marvel avengers doomsday",
+   "traffic": "2000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T13:30:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Channing Tatum Stars in New Dunkin’ Video as Gambit: ‘I Knew That It Was Going to Be Hilarious’ (Exclusive)",
+     "url": "https://people.com/channing-tatum-stars-in-new-dunkin-video-as-avengers-doomsday-character-exclusive-12208214"
+    },
+    {
+     "title": "KFC Is Releasing 8 New, Exclusive Menu Items",
+     "url": "https://www.allrecipes.com/kfc-avengers-doctor-doom-menu-12236467"
+    },
+    {
+     "title": "KFC comes to an agreement with Doctor Doom",
+     "url": "https://creative.salon/articles/work/dr-doom-marvel-kfc-doom-burger"
+    }
+   ]
+  },
+  {
+   "q": "pga tour",
+   "traffic": "1000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-05T13:30:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "EXCLUSIVE: Colonial Country Club likely losing PGA Tour event after 80-year run, per sources",
+     "url": "https://golfweek.usatoday.com/story/sports/golf/pga/2026/11/05/colonial-country-club-texas-likely-losing-pga-tour-event/92497287007/"
+    },
+    {
+     "title": "As Colonial faces PGA Tour exit, look back at 6 moments that made Hogan’s Alley legendary",
+     "url": "https://sports.yahoo.com/articles/colonial-faces-pga-tour-exit-133058859.html"
+    },
+    {
+     "title": "‘An Insult’: PGA Tour’s Longest-Running Venue Furious Over 2028 Snub",
+     "url": "https://www.essentiallysports.com/golf-news-an-insult-pga-tours-longest-running-venue-furious-over-2028-snub/"
+    }
+   ]
+  },
+  {
+   "q": "woolworths",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T14:40:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "‘May not be available’: Woolworths shoppers urged to redeem Fissler containers as stock runs low ahead of deadline",
+     "url": "https://www.nine.com.au/lifestyle/money/woolworths-fissler-stock-shortages-20261103-p61al4.html"
+    },
+    {
+     "title": "Coles and Woolworths quietly pull iconic Aussie dessert from shelves",
+     "url": "https://www.nine.com.au/lifestyle/food/sara-lee-ice-cream-delisted-coles-woolworths-20261105-p61bcd.html"
+    },
+    {
+     "title": "Sara Lee ice cream range quietly removed from Coles and Woolworths shelves",
+     "url": "https://7news.com.au/lifestyle/food/sara-lee-ice-cream-range-quietly-removed-from-coles-and-woolworths-shelves-c-23121796"
+    }
+   ]
+  },
+  {
+   "q": "lion city sailors fc vs adelaide united standings",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T14:40:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Reds focused on response as Andrioli backs Adelaide United to get a result in Singapore",
+     "url": "https://adelaideunited.com.au/news/reds-focused-on-response-as-andrioli-backs-adelaide-united-to-get-a-result-in-singapore/"
+    },
+    {
+     "title": "Aussie Asian woe continues as Lion City maul Adelaide",
+     "url": "https://www.canberratimes.com.au/story/9386808/aussie-asian-woe-continues-as-lion-city-maul-adelaide/"
+    },
+    {
+     "title": "Lion City vs Adelaide United AFC Champions League 2 Tips, Prediction & Live Stream - Lion City to ease past Adelaide at home",
+     "url": "https://www.bets.com.au/soccer/asian-champions-league/lion-city-vs-adelaide-united-afc-champions-league-2-tips-prediction-live-stream-20261104-0006/"
+    }
+   ]
+  },
+  {
+   "q": "nepal premier league",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T14:30:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Namibia beat Ireland, Namibia won by 5 wickets (with 172 balls remaining)",
+     "url": "https://www.cricinfo.com/series/ireland-in-namibia-2026-27-1558225/namibia-vs-ireland-5th-odi-1558235/live-cricket-score"
+    },
+    {
+     "title": "Cricket Coverage - TAS vs VIC, 11th Match Analysis",
+     "url": "https://www.cricinfo.com/series/one-day-cup-aus-2026-27-1544840/tasmania-vs-victoria-11th-match-1544852/match-news"
+    },
+    {
+     "title": "Pakistan players in doubt for Nepal Premier League",
+     "url": "https://www.cricinfo.com/story/pakistan-players-in-doubt-for-nepal-premier-league-1559988"
+    }
+   ]
+  },
+  {
+   "q": "russell brand",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T14:10:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Breaking: Russell Brand behind bars after being found guilty of rape",
+     "url": "https://www.abc.net.au/news/2026-11-06/russell-brand-jury-verdict/107353304"
+    },
+    {
+     "title": "Russell Brand trial: Jury expected to deliver verdict",
+     "url": "https://www.bbc.com/news/live/cmde8w42jpeyt"
+    },
+    {
+     "title": "Russell Brand found guilty of rape and sexual assault",
+     "url": "https://www.smh.com.au/world/europe/russell-brand-found-guilty-of-rape-and-sexual-assault-20261106-p61bv7.html"
+    }
+   ]
+  },
+  {
+   "q": "nathan cleary penrith panthers contract",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T13:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Cleary turns down tax-free PNG millions, set to re-commit to Panthers",
+     "url": "https://www.nine.com.au/sport/nrl/news-nathan-cleary-contract-playing-future-penrith-panthers-png-chiefs-20261104-p61bhx.html"
+    },
+    {
+     "title": "Nathan Cleary set to re-sign with Panthers after courtesy call to Chiefs",
+     "url": "https://www.smh.com.au/sport/nrl/nathan-cleary-set-to-re-sign-with-panthers-after-courtesy-call-to-chiefs-20261104-p61bi7.html"
+    },
+    {
+     "title": "Yeo & Cleary set to stay in Penrith",
+     "url": "https://www.theaustralian.com.au/sport/nrl/yeo-cleary-set-to-stay-in-penrith/video/eab33fcfebe0dd4c3872a91cf93f182b"
+    }
+   ]
+  },
+  {
+   "q": "white",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T13:50:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Trump brags about his White House ballroom and seeks to deflect blame for GOP midterm drubbing",
+     "url": "https://apnews.com/article/trump-midterms-blame-responsibility-republicans-losses-9593324649b5e8432fb34a95d4e4b2e1"
+    },
+    {
+     "title": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results"
+    },
+    {
+     "title": "Donald Trump’s Repudiation, America’s Revenge in the Midterms",
+     "url": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-repudiation-americas-revenge"
+    }
+   ]
+  },
+  {
+   "q": "bomb threats planes",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T13:40:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
+    },
+    {
+     "title": "Bomb threat diverts Aer Lingus plane flying from Dublin to Rome",
+     "url": "https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-airbus-a320-plane-flying-from-dublin-to-rome/107352984"
+    },
+    {
+     "title": "Flights across Europe impacted by bomb threats for second time this week",
+     "url": "https://www.bbc.com/news/live/cwjdmnrg94ezt"
+    }
+   ]
+  },
+  {
+   "q": "ben shelton",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T12:20:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Shelton on Coach Ferrero: Perfect Storm",
+     "url": "https://tennisnow.com/shelton-on-coach-ferrero-perfect-storm/"
+    },
+    {
+     "title": "Tennis Mailbag: Will Ben Shelton and Juan Carlos Ferrero Be a Perfect Match?",
+     "url": "https://www.si.com/tennis/tennis-mailbag-will-ben-shelton-juan-carlos-ferrero-perfect-match"
+    },
+    {
+     "title": "John Isner predicts how Carlos Alcaraz may react to Ben Shelton's new coach",
+     "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171177/john-isner-predicts-how-carlos-alcaraz-may-react-to-ben-shelton-s-new-coach/"
+    }
+   ]
+  },
+  {
+   "q": "ing",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T11:40:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Gold hits 2-week high as dollar, yields, oil fall after US midterms",
+     "url": "https://www.reuters.com/world/india/gold-hits-two-week-high-dollar-treasury-yields-ease-after-us-midterm-elections-2026-11-05/"
+    },
+    {
+     "title": "Gold Prices Are Above $4,000 After Democrats Win Big in Midterm Elections",
+     "url": "https://www.barrons.com/articles/gold-price-dollar-bond-yields-midterm-elections-25a81dad"
+    },
+    {
+     "title": "Gold breaks support at $4,000 and may be oversold",
+     "url": "https://www.cmcmarkets.com/en-sg/news-and-analysis/gold-breaks-support-at-4000-and-may-be-oversold"
+    }
+   ]
+  },
+  {
+   "q": "brendan taylor",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-05T11:40:00Z",
+   "observed_at": "2026-11-05T15:21:10.566978Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "AFG vs ZIM, 1st Test, Afghanistan vs Zimbabwe in UAE, 2026 - Commentary",
+     "url": "https://www.cricbuzz.com/live-cricket-scores/172727/afg-vs-zim-1st-test-afghanistan-vs-zimbabwe-in-uae-2026"
+    },
+    {
+     "title": "Bennett to lead Zimbabwe in Afghanistan Test series",
+     "url": "https://www.icc-cricket.com/news/bennett-to-lead-zimbabwe-in-afghanistan-test-series"
+    },
+    {
+     "title": "Brian Bennett relishes first Test cricket captaincy",
+     "url": "https://www.heraldonline.co.zw/brian-bennett-relishes-first-test-cricket-captaincy/"
+    }
+   ]
+  },
   {
    "q": "louisiana lottery",
    "traffic": "200+",
@@ -444,50 +1324,6 @@
    ]
   },
   {
-   "q": "marvel avengers doomsday",
-   "traffic": "2000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T13:30:00Z",
-   "observed_at": "2026-11-05T14:04:13.627469Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Channing Tatum Stars in New Dunkin’ Video as Gambit: ‘I Knew That It Was Going to Be Hilarious’ (Exclusive)",
-     "url": "https://people.com/channing-tatum-stars-in-new-dunkin-video-as-avengers-doomsday-character-exclusive-12208214"
-    },
-    {
-     "title": "KFC Is Releasing 8 New, Exclusive Menu Items",
-     "url": "https://www.allrecipes.com/kfc-avengers-doctor-doom-menu-12236467"
-    },
-    {
-     "title": "KFC comes to an agreement with Doctor Doom",
-     "url": "https://creative.salon/articles/work/dr-doom-marvel-kfc-doom-burger"
-    }
-   ]
-  },
-  {
-   "q": "pga tour",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T13:30:00Z",
-   "observed_at": "2026-11-05T14:04:13.627469Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Jon Rahm was not 'willing to follow' LIV 2.0 path",
-     "url": "https://www.bbc.co.uk/sport/golf/articles/cmqlnxp5e9lqo"
-    },
-    {
-     "title": "Jon Rahm uncertain about PGA Tour future after LIV Golf exit but would accept deal similar to Brooks Koepka to return",
-     "url": "https://www.skysports.com/golf/news/13607402/jon-rahm-uncertain-about-pga-tour-future-after-liv-golf-exit-but-would-accept-deal-similar-to-brooks-koepka-to-return"
-    },
-    {
-     "title": "Jon Rahm questions and great golf values: Tour Confidential",
-     "url": "https://golf.com/news/jon-rahm-questions-great-values-tour-confidential/"
-    }
-   ]
-  },
-  {
    "q": "philomena cunk",
    "traffic": "200+",
    "geo": "GB",
@@ -660,72 +1496,6 @@
     {
      "title": "‘The Pitt’s Battle With Michael Crichton Estate Heading To Trial As Warner Bros Rebuffed By Appeals Court",
      "url": "https://deadline.com/2026/11/the-pitt-michael-crichton-estate-lawsuit-trial-1237213710/"
-    }
-   ]
-  },
-  {
-   "q": "bomb threats planes",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T13:40:00Z",
-   "observed_at": "2026-11-05T14:04:13.627469Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "New wave of bomb threats hits passenger flights across Europe",
-     "url": "https://www.abc.net.au/news/2026-11-05/bomb-threat-diverts-planes-across-europe/107352984"
-    },
-    {
-     "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates"
-    },
-    {
-     "title": "Multiple European flights forced to divert due to bomb threats",
-     "url": "https://www.nine.com.au/world-news/uk-europe/europe-flights-bomb-threats-multiple-flights-forced-to-divert-20261105-p61buy.html"
-    }
-   ]
-  },
-  {
-   "q": "ben shelton",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T12:20:00Z",
-   "observed_at": "2026-11-05T14:04:13.627469Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Shelton on Coach Ferrero: Perfect Storm",
-     "url": "https://tennisnow.com/shelton-on-coach-ferrero-perfect-storm/"
-    },
-    {
-     "title": "Tennis Mailbag: Will Ben Shelton and Juan Carlos Ferrero Be a Perfect Match?",
-     "url": "https://www.si.com/tennis/tennis-mailbag-will-ben-shelton-juan-carlos-ferrero-perfect-match"
-    },
-    {
-     "title": "John Isner predicts how Carlos Alcaraz may react to Ben Shelton's new coach",
-     "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/171177/john-isner-predicts-how-carlos-alcaraz-may-react-to-ben-shelton-s-new-coach/"
-    }
-   ]
-  },
-  {
-   "q": "ing",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T11:40:00Z",
-   "observed_at": "2026-11-05T14:04:13.627469Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Gold heads for biggest daily gain since August as dollar weakens",
-     "url": "https://www.reuters.com/world/india/gold-firms-softer-oil-prices-us-midterm-results-awaited-2026-11-04/"
-    },
-    {
-     "title": "Gold Prices Are Above $4,000 After Democrats Win Big in Midterm Elections",
-     "url": "https://www.barrons.com/articles/gold-price-dollar-bond-yields-midterm-elections-25a81dad"
-    },
-    {
-     "title": "Gold breaks support at $4,000 and may be oversold",
-     "url": "https://www.cmcmarkets.com/en-sg/news-and-analysis/gold-breaks-support-at-4000-and-may-be-oversold"
     }
    ]
   },
@@ -1430,760 +2200,6 @@
     {
      "title": "Dublin to Rome flight diverted after bomb threat",
      "url": "https://www.bbc.com/news/articles/cmpqg08nz3pqo"
-    }
-   ]
-  },
-  {
-   "q": "avram glazer",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T10:20:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Avram Glazer says Manchester United not reliant on sporting success for commercial power - The Athletic",
-     "url": "https://www.nytimes.com/athletic/7753722/2026/11/05/avram-glazer-manchester-united-commercial-power/"
-    },
-    {
-     "title": "Man Utd takeover: Avram Glazer breaks cover to offer bleak take in bid to sell club",
-     "url": "https://www.football365.com/news/opinion-avram-glazer-breaks-cover-bleak-take-man-utd-future-fans-fully-endorse"
-    },
-    {
-     "title": "Avram Glazer makes rare Man United comment in public after making sale plans",
-     "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/avram-glazer-manchester-united-sale-34865205"
-    }
-   ]
-  },
-  {
-   "q": "u2 tickets",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T10:00:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "UK & Europe Dates for The Greatest Show On Earth World Tour",
-     "url": "https://www.u2.com/blogs/news/uk-europe-dates-for-the-greatest-show-on-earth-world-tour"
-    },
-    {
-     "title": "What do tickets cost to see U2 on their international tour in 2027?",
-     "url": "https://nypost.com/2026/10/30/ticket-sales/what-do-tickets-cost-to-see-u2-on-their-european-tour-in-2027/"
-    },
-    {
-     "title": "U2 announce UK stadium dates for 2027 world tour",
-     "url": "https://discover.ticketmaster.co.uk/music/u2-announce-uk-shows-for-2027-world-tour-81601/"
-    }
-   ]
-  },
-  {
-   "q": "kfc avengers doomsday",
-   "traffic": "1000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T09:30:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "KFC comes to an agreement with Doctor Doom",
-     "url": "https://creative.salon/articles/work/dr-doom-marvel-kfc-doom-burger"
-    },
-    {
-     "title": "KFC Is Releasing 8 New, Exclusive Menu Items",
-     "url": "https://www.allrecipes.com/kfc-avengers-doctor-doom-menu-12236467"
-    },
-    {
-     "title": "Channing Tatum's Gambit Seemingly Has a Slightly More Serious Accent in Avengers: Doomsday",
-     "url": "https://www.ign.com/articles/channing-tatum-shows-off-updated-gambit-accent-in-new-avengers-doomsday-ad"
-    }
-   ]
-  },
-  {
-   "q": "pound sterling",
-   "traffic": "5000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T09:20:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Pound rises to its highest level since the Brexit referendum",
-     "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo"
-    },
-    {
-     "title": "Interest rates live: Pound rises ahead of Bank of England decision",
-     "url": "https://www.telegraph.co.uk/business/2026/11/05/interest-rates-bank-of-england-pound-dollar-bailey-ftse-100/"
-    },
-    {
-     "title": "British pound hits seven-week high against wilting dollar",
-     "url": "https://www.reuters.com/world/uk/british-pound-hits-seven-week-high-against-wilting-dollar-2026-11-04/"
-    }
-   ]
-  },
-  {
-   "q": "la costa restaurant brisbane chef dismissal",
-   "traffic": "2000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T09:20:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Italian chef fired after refusing to put pineapple on pizza",
-     "url": "https://www.bbc.co.uk/news/articles/cx4g1qy6gq9mo"
-    },
-    {
-     "title": "‘An insult to his culture’: Italian chef sacked for not putting pineapple on pizza loses bid to get job back",
-     "url": "https://www.theguardian.com/food/2026/nov/05/italian-chef-sacked-refusing-pineapple-on-pizza-australia-fair-work"
-    },
-    {
-     "title": "Crustfallen Italian chef sacked after refusing to put pineapple on pizza",
-     "url": "https://www.thetimes.com/world/australasia/article/italian-chef-pineapple-pizza-battle-hh9b8khpt"
-    }
-   ]
-  },
-  {
-   "q": "joran van der sloot",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T09:40:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Where Is Joran Van Der Sloot In 2026? Everything We Know Following His Confession",
-     "url": "https://www.marieclaire.com.au/news/crime/where-is-joran-van-der-sloot-now-2026-taken-natalee-holloway/"
-    }
-   ]
-  },
-  {
-   "q": "sophie devine",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T09:40:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "New role, same Devine intervention for the Scorchers",
-     "url": "https://www.cricket.com.au/news/4603077/wbbl12-melbourne-stars-perth-scorchers-sophie-devine-big-bash-retirement-new-zealand-captaincy-mooney"
-    },
-    {
-     "title": "History of defending low totals gives Perth edge: Ainsworth",
-     "url": "https://thewest.com.au/sport/perth-scorchers/perth-scorchers-spearhead-chloe-ainsworth-says-teams-ability-to-defend-low-totals-gives-them-winning-edge-c-23110707"
-    },
-    {
-     "title": "Scorchers hold on to beat Stars",
-     "url": "https://www.theaustralian.com.au/sport/cricket/scorchers-hold-on-to-beat-stars/video/63609188c428c6d11800bbec7e801546"
-    }
-   ]
-  },
-  {
-   "q": "paraguay",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T09:40:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Protesters Take to Street as Anger Mounts Over Bank Crisis",
-     "url": "https://www.weeklytimesnow.com.au/news/national/protesters-take-to-street-as-anger-mounts-over-bank-crisis/video/9fec77499721442bf6c3f95821f4a00b"
-    },
-    {
-     "title": "Police Block Protesters Marching Toward Congress Over Bank Crisis",
-     "url": "https://www.weeklytimesnow.com.au/news/national/police-block-protesters-marching-toward-congress-over-bank-crisis/video/a7461fc82a887c93c6deb49f803accfa"
-    }
-   ]
-  },
-  {
-   "q": "jen and zac affleck",
-   "traffic": "2000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T09:30:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Pregnant Jen Affleck files for divorce from Zac Affleck",
-     "url": "https://www.perthnow.com.au/entertainment/tv/the-secret-lives-of-mormon-wives-star-jen-affleck-files-for-divorce-from-zac-affleck-c-23119533"
-    },
-    {
-     "title": "'Mormon Wives' Star Jen Affleck Files for Divorce From Zac Affleck",
-     "url": "https://www.tmz.com/2026/11/04/jen-affleck-files-for-divorce/"
-    },
-    {
-     "title": "Pregnant Mormon Wives Star Jen Affleck and Zac Affleck Break Up, Divorcing After 7 Years of Marriage",
-     "url": "https://www.eonline.com/news/1437660/pregnant-mormon-wives-jen-affleck-zac-affleck-break-up-divorcing"
-    }
-   ]
-  },
-  {
-   "q": "pakistan vs india",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T09:20:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Pakistan vs. India Lineups and Confirmed Team News for SAFF Championship",
-     "url": "https://sports.yahoo.com/articles/pakistan-vs-india-lineups-confirmed-062500526.html"
-    },
-    {
-     "title": "SAFF: India face Pak in opener with just 17 players",
-     "url": "https://timesofindia.indiatimes.com/city/goa/saff-india-face-pak-in-opener-with-just-17-players/articleshow/135550223.cms"
-    },
-    {
-     "title": "WHAT THEY SAID...",
-     "url": "https://www.newagebd.net/post/football/321023/what-they-said"
-    }
-   ]
-  },
-  {
-   "q": "paul gallen vs nelson",
-   "traffic": "2000+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T09:10:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "NAS weighs in more than 33kg heavier than Paul Gallen",
-     "url": "https://www.abc.net.au/news/2026-11-05/paul-gallen-nelson-asofa-solomona-fight-when-and-where/107351828"
-    },
-    {
-     "title": "‘You brought up my wife’: Fuming Gallen’s foul-mouthed tirade",
-     "url": "https://www.nine.com.au/sport/combat-sports/boxing-news-paul-gallen-nelson-asofa-solomonano-limit-fight-wife-comments-video-20261104-p61bbk.html"
-    },
-    {
-     "title": "‘Bro, please do a job on him’: NAS claims Gal’s teammates want him KO’d... it’s ‘to do with money’",
-     "url": "https://www.foxsports.com.au/boxing/boxing-news-paul-gallen-vs-nelson-asofasolomona-nas-claims-former-teammates-want-gallen-knocked-out/news-story/6384b94a9eb17ac9c0fd32a00791b9b6"
-    }
-   ]
-  },
-  {
-   "q": "home and away spoilers",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-05T09:10:00Z",
-   "observed_at": "2026-11-05T11:04:54.511877Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Home and Away viewers in tears for Alf Stewart as theories run wild over Roo's disappearance",
-     "url": "https://au.lifestyle.yahoo.com/home-and-away-viewers-in-tears-for-alf-stewart-as-theories-run-wild-over-roos-disappearance-211733677.html"
-    },
-    {
-     "title": "13 huge Home and Away spoilers for next week (9 to 13 November)",
-     "url": "https://www.digitalspy.com/soaps/home-and-away/a74306256/home-and-away-spoilers-eden-david-lacey/"
-    },
-    {
-     "title": "Home and Away spoilers: The search for Roo comes to a devastating end",
-     "url": "https://www.nowtolove.com.au/entertainment/home-and-away/home-and-away-spoilers-search-for-roo-ends/"
-    }
-   ]
-  },
-  {
-   "q": "la",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T08:40:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Live election results: Raman increases lead over Bass in LA mayoral race",
-     "url": "https://abc7.com/live-updates/california-election-day-2026-los-angeles-mayor-governor-propositions-top-mind-voters/20011511/"
-    },
-    {
-     "title": "Raman keeps widening her lead against Bass, closing in on becoming L.A.’s next mayor",
-     "url": "https://www.latimes.com/california/story/2026-11-04/raman-on-cusp-of-becoming-mayor-analysts-predict-citing-expected-results-from-late-votes"
-    },
-    {
-     "title": "‘An earthquake’: Nithya Raman’s rise jolts LA’s political establishment",
-     "url": "https://www.politico.com/news/2026/11/04/nithya-raman-rise-jolts-la-establishment-01151074"
-    }
-   ]
-  },
-  {
-   "q": "jeff bezos",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T08:30:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Fact Check: FAKE Image Shows Jeff Bezos After 'Hair Transplant' -- It Is AI-Altered",
-     "url": "https://www.yahoo.com/news/world/articles/fact-check-fake-image-shows-051409685.html"
-    },
-    {
-     "title": "Don’t be fooled by the fake hair on these famous baldies",
-     "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk"
-    },
-    {
-     "title": "Bezos advises retirees to buy the S&P 500 over AI stocks, but the index's tech concentration poses hidden risks.",
-     "url": "https://pluang.com/en/news-feed/jeff-bezos-pensiunan-sp500-risiko-saham-ai"
-    }
-   ]
-  },
-  {
-   "q": "suite life zack and cody residuals",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T08:20:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Dylan Sprouse Reveals Mind-Blowing Residual Paycheck From Suite Life of Zack & Cody",
-     "url": "https://www.eonline.com/news/1437783/dylan-sprouses-suite-life-of-zack-cody-residual-paycheck-revealed"
-    },
-    {
-     "title": "Dylan Sprouse Received One 'Suite Life' Residual Check for Five Cents",
-     "url": "https://variety.com/2026/tv/news/dylan-sprouse-residual-check-suite-life-of-zack-and-cody-1236939089/"
-    },
-    {
-     "title": "‘Suite Life’ star Phill Lewis claims show filmed extra episodes without having to pay cast",
-     "url": "https://ew.com/suite-life-star-phill-lewis-claims-show-filmed-extra-episodes-without-having-to-pay-cast-12224963"
-    }
-   ]
-  },
-  {
-   "q": "josh duhamel",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T08:10:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Eric Dane nearly fought ‘p---y-ass actor’ Josh Duhamel on ‘Las Vegas’ set",
-     "url": "https://ew.com/eric-dane-josh-duhamel-nearly-fought-las-vegas-set-12199083"
-    },
-    {
-     "title": "Late actor’s posthumous memoir reveals explosive on-set fight with co-star",
-     "url": "https://www.syracuse.com/entertainment/2026/11/late-actors-posthumous-memoir-reveals-explosive-on-set-fight-with-co-star.html"
-    },
-    {
-     "title": "Eric Dane’s Posthumous Memoir Reveals Actor’s Fight With Josh Duhamel on Set: ‘Let’s Go, You P—- Ass Actor!’",
-     "url": "https://variety.com/2026/tv/news/eric-dane-memoir-fight-josh-duhamel-set-1236938856/"
-    }
-   ]
-  },
-  {
-   "q": "pluto",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T08:00:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Scientists discover potentially massive dwarf planet candidate hiding beyond Pluto",
-     "url": "https://www.foxnews.com/travel/scientists-discover-potentially-massive-dwarf-planet-candidate-hiding-beyond-pluto"
-    },
-    {
-     "title": "Astronomers Just Discovered a New Hidden World Beyond Neptune",
-     "url": "https://www.nationalgeographic.com/science/article/new-dwarf-planet-rubin-pluto"
-    },
-    {
-     "title": "NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
-     "url": "https://rubinobservatory.org/news/rubin-first-dwarf-planet-candidate"
-    }
-   ]
-  },
-  {
-   "q": "jeffrey epstein",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T08:00:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Billionaire Leon Black sues Rep. Robert Garcia, alleging defamation over Epstein comments",
-     "url": "https://www.nbcnews.com/politics/congress/leon-black-sues-robert-garcia-alleging-defamation-epstein-comments-rcna607565"
-    },
-    {
-     "title": "Billionaire Leon Black sues U.S. Rep. Robert Garcia for defamation over Epstein comments",
-     "url": "https://apnews.com/article/leon-black-robert-garcia-jeffrey-epstein-lawsuit-5a4192fb838712bb651c2d941e3b45e6"
-    },
-    {
-     "title": "Leon Black sues Rep. Garcia over remarks about his relationship with Epstein",
-     "url": "https://www.politico.com/news/2026/11/04/leon-black-rep-garcia-epstein-01150786"
-    }
-   ]
-  },
-  {
-   "q": "midterm election results senate",
-   "traffic": "50000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T07:30:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Midterm Elections Live Updates: Democrats Project Power as G.O.P. Reels in a Reordered Washington",
-     "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats"
-    },
-    {
-     "title": "Democrats look to reshape America after historic midterm victories",
-     "url": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1"
-    },
-    {
-     "title": "Democrats continue to stack wins in House as Republicans start blame game after midterm rout",
-     "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
-    }
-   ]
-  },
-  {
-   "q": "lapd navy helicopter near miss",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T07:30:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "‘You guys gotta pay attention’: LAPD pilot blasts Navy helicopter after near miss",
-     "url": "https://ktla.com/news/local-news/lapd-navy-helicopter-close-call-echo-park/"
-    },
-    {
-     "title": "LAPD chopper pilot fumes after avoiding mid-air disaster with military helicopters: ‘You guys need to pay attention’",
-     "url": "https://www.yahoo.com/news/us/articles/lapd-chopper-pilot-fumes-avoiding-202502152.html"
-    },
-    {
-     "title": "LAPD helicopter makes last-minute move to avoid mid-air collision with military aircraft",
-     "url": "https://www.cbsnews.com/losangeles/video/lapd-helicopter-makes-last-minute-move-to-avoid-mid-air-collision-with-military-aircraft/"
-    }
-   ]
-  },
-  {
-   "q": "chipotle",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T07:20:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Should Investors Buy Into the Chipotle Turnaround?",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-chipotle-turnaround-072500920.html"
-    },
-    {
-     "title": "Chipotle overhauled its rewards program - and it looks like it’s working",
-     "url": "https://www.the-independent.com/us/money/chipotle-new-rewards-program-breaks-records-b3078350.html"
-    },
-    {
-     "title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
-     "url": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html"
-    }
-   ]
-  },
-  {
-   "q": "tennis club",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-05T07:10:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "New tennis holiday venue set to take on the established big-hitters in Europe",
-     "url": "https://www.tennis365.com/tennis-news/tennis-holiday-venue-turkiye-corendon"
-    },
-    {
-     "title": "New padel courts approved despite fears for neighbouring squash club",
-     "url": "https://uk.news.yahoo.com/padel-courts-approved-despite-fears-050000925.html"
-    }
-   ]
-  },
-  {
-   "q": "pakistan vs india",
-   "traffic": "5000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:30:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "India vs Pakistan in SAFF Cup; Maaya in Chennai Open QF, Tanvi in Youth Olympics SF, double header in ISL: Indian Sports LIVE, November 5",
-     "url": "https://www.espn.in/espn/story/_/id/50380240/india-vs-pakistan-saff-cup-maaya-chennai-open-tennis-tanvi-patri-youth-olympics-badminton-semifinal-double-header-isl-indian-sports-live-november-5"
-    },
-    {
-     "title": "SAFF: India face Pak in opener with just 17 players",
-     "url": "https://timesofindia.indiatimes.com/city/goa/saff-india-face-pak-in-opener-with-just-17-players/articleshow/135550223.cms"
-    },
-    {
-     "title": "SAFF Championship 2026 – Full schedule, teams, venue, kick-off timing, live streaming info",
-     "url": "https://sportstar.thehindu.com/football/saff-championship-2026-full-schedule-teams-venue-kick-off-timing-live-streaming-india-bangladesh-pakistan/article71668981.ece"
-    }
-   ]
-  },
-  {
-   "q": "jack edwards",
-   "traffic": "5000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:30:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "CSK and SRH agree to four-player trade",
-     "url": "https://www.iplt20.com/news/article/csk-and-srh-agree-to-four-player-trade"
-    },
-    {
-     "title": "Liam Livingstone trade loading but SRH undecided",
-     "url": "https://www.cricbuzz.com/cricket-news/140776/liam-livingstone-trade-loading-but-srh-undecided-cricbuzzcom"
-    },
-    {
-     "title": "CSK, SRH complete four-player trade ahead of IPL 2027; Liam Livingstone, Khaleel Ahmed switch teams",
-     "url": "https://timesofindia.indiatimes.com/sports/cricket/news/csk-srh-complete-four-player-trade-ahead-of-ipl-2027-liam-livingstone-khaleel-ahmed-switch-teams/articleshow/135565981.cms"
-    }
-   ]
-  },
-  {
-   "q": "bengal vs maharashtra",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:30:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Bengal vs MAH: Bengal vs Maharashtra, Match 60, 2 Nov 2026 | Ranji Trophy Elite 2026/27 | Match Centre",
-     "url": "https://www.bcci.tv/matches/2db985ab-f5df-497b-8d10-8d357ec30bd1/bengal-vs-maharashtra"
-    },
-    {
-     "title": "Ranji Trophy: Rain holds centrestage as Bengal scrambles to save the match against Maharashtra",
-     "url": "https://www.thehindu.com/sport/cricket/ranji-trophy-rain-holds-centrestage-as-bengal-scrambles-to-save-the-match-against-maharashtra/article71665453.ece"
-    },
-    {
-     "title": "Maharashtra lower order frustrates Bengal as visitors seize 64-run lead at Eden",
-     "url": "https://www.telegraphindia.com/sports/cricket/maharashtra-lower-order-frustrates-bengal-as-visitors-seize-64-run-lead-at-eden-prnt/cid/2187781"
-    }
-   ]
-  },
-  {
-   "q": "bajaj finance share price",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:20:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Bajaj Finance Share Price Highlights: Bajaj Finance Stock Price History",
-     "url": "https://m.economictimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-today-live-04-nov-2026/liveblog/135519755.cms"
-    },
-    {
-     "title": "Bajaj Finance Ltd Technical Momentum Shifts Signal Mildly Bullish Outlook",
-     "url": "https://www.marketsmojo.com/news/stocks-in-action/bajaj-finance-ltd-technical-momentum-shifts-signal-mildly-bullish-outlook-4249932"
-    },
-    {
-     "title": "Bajaj Finance Rebound Tests Its Descending Price Channel (NSE: BAJFINANCE)",
-     "url": "https://www.kalkine.co.in/article/technical/bajaj-finance-rebound-tests-its-descending-price-channel-nse-bajfinance"
-    }
-   ]
-  },
-  {
-   "q": "സബ് ഇന്സ്പെക്ടര്",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:20:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "കൈക്കൂലി വാങ്ങുന്നതിനിടെ വിജിലൻസ് എത്തി; കൂളത്തിലേക്ക് ചാടി പൊലീസുകാരന്‍; പുറകേ നീന്തി പിടിച്ചു",
-     "url": "https://www.manoramanews.com/india/latest/2026/11/05/police-sub-inspector-arrested-for-bribery.html"
-    },
-    {
-     "title": "Odisha Cop Jumps Into Pond To Evade Arrest After Taking Rs 10,000 Bribe",
-     "url": "https://www.ndtv.com/india-news/odisha-cop-jumps-into-pond-to-evade-arrest-after-taking-rs-10-000-bribe-12284564"
-    },
-    {
-     "title": "SI jumps into pond to escape graft trap, constable jumps in to catch him",
-     "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/si-jumps-into-pond-to-escape-graft-trap-constable-jumps-in-to-catch-him/articleshow/135548236.cms"
-    }
-   ]
-  },
-  {
-   "q": "sophie devine",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:20:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Women's Big Bash 2026-27 LIVE: Melbourne Stars vs Perth Scorchers - cricket score & commentary",
-     "url": "https://www.bbc.com/sport/cricket/live/cwn73d6rx8lpt"
-    },
-    {
-     "title": "WBBL SQUAD: Stars set for Junction Oval return",
-     "url": "https://www.melbournestars.com.au/news/4602309/wbbl-squad-stars-set-for-junction-oval-return"
-    },
-    {
-     "title": "Scorchers down Stars in a tight tussle",
-     "url": "https://www.perthscorchers.com.au/news/4603364/scorchers-down-stars-in-a-tight-tussle"
-    }
-   ]
-  },
-  {
-   "q": "ravi dubey",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:20:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "'Disappointed By Music': OG Lakshman Sunil Lahri On Nitesh Tiwari's Ramayana",
-     "url": "https://www.ndtv.com/entertainment/disappointed-by-music-og-lakshman-sunil-lahri-on-nitesh-tiwaris-ramayana-12285363"
-    },
-    {
-     "title": "‘Go sell ice cream’: A R Rahman responds to Ramayana critics",
-     "url": "https://gulfnews.com/entertainment/bollywood/a-r-rahman-responds-to-ramayana-music-backlash-go-sell-ice-cream-1.500732543"
-    },
-    {
-     "title": "'Ramayana': Armaan Malik responds to 'Mangal Rang' controversy, says lending voice for Ranbir Kapoor is ‘",
-     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-armaan-malik-responds-to-mangal-rang-controversy-says-lending-voice-for-ranbir-kapoor-is-personal-milestone/articleshow/135487419.cms"
-    }
-   ]
-  },
-  {
-   "q": "braces",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:20:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
-     "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html"
-    },
-    {
-     "title": "Protesters to join nationwide march as France braces for day of strike action",
-     "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
-    },
-    {
-     "title": "France faces new protests as Macron seeks to prevent repeat of October unrest",
-     "url": "https://www.reuters.com/world/europe/france-braces-fresh-protests-macron-seeks-prevent-repeat-october-unrest-2026-11-05/"
-    }
-   ]
-  },
-  {
-   "q": "rajasthan vs himachal pradesh",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:10:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "HP vs Raj: Himachal Pradesh vs Rajasthan, Match 62, 2 Nov 2026 | Ranji Trophy Elite 2026/27 | Match Centre",
-     "url": "https://www.bcci.tv/matches/f85af943-ea2a-4541-b493-ecf11ab0525c/himachal-pradesh-vs-rajasthan"
-    },
-    {
-     "title": "Cricket match player highlights | HP vs RAJ, Elite Group D, Ranji Trophy Elite 2026-27",
-     "url": "https://m.cricbuzz.com/player-match-highlights/164003/4/8190/bowling"
-    },
-    {
-     "title": "Ranji Trophy: Kunal Singh Rathore, Kartik Sharma, Vishal Harsh hit fifties to put Rajasthan on verge of s",
-     "url": "https://timesofindia.indiatimes.com/city/jaipur/ranji-trophy-kunal-singh-rathore-kartik-sharma-vishal-harsh-hit-fifties-to-put-rajasthan-on-verge-of-seasons-maiden-win-against-himachal/articleshow/135550498.cms"
-    }
-   ]
-  },
-  {
-   "q": "ಡಿ ಕೆ ಶಿವಕುಮಾರ್",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-05T08:10:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "ಸರ್ಕಾರಿ ಶಾಲೆಗಳ ಅಭಿವೃದ್ಧಿಗೆ ಖಾಸಗಿ ಶಾಲೆಗಳ ಸಹಕಾರ: ನಮ್ಮ ಶಾಲೆ-ನಮ್ಮ ಜವಾಬ್ದಾರಿ ಯೋಜನೆ, ಮಧು ಬಂಗಾರಪ್ಪ ಘೋಷಣೆ!",
-     "url": "https://kannada.asianetnews.com/state/karnataka-our-school-our-responsibility-scheme-private-schools-to-adopt-government-schools-minister-madhu-bangarappa-gdp/articleshow-08bz36n"
-    },
-    {
-     "title": "ಸರ್ಕಾರಿ ಶಾಲೆಗೆ ಖಾಸಗಿ ಹೆಸರು ಸೇರ್ಪಡೆ: ರಾಜ್ಯ ಸರ್ಕಾರದ ವಿನೂತನ ಕೊಡುಗೆ..!",
-     "url": "https://karnataka.thefederal.com/category/state/namma-shaale-namma-javabdari-shivakumar-csr-adopt-government-schools-261835"
-    },
-    {
-     "title": "Madhu Bangarappa: ಮಕ್ಕಳ ಮೇಲಿನ ಶೈಕ್ಷಣಿಕ ಒತ್ತಡವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಶಾಲಾ ಬ್ಯಾಗ್‌ಗಳ ಹೊರೆಯನ್ನು ಶೇ.50ರಷ್ಟು ತಗ್ಗಿಸಲು ಕ್ರ",
-     "url": "https://kannada.timesnownews.com/news/measures-to-be-taken-to-reduce-the-weight-of-school-bags-by-50-percent-on-childrens-says-minister-madhu-bangarappa-article-156464565"
-    }
-   ]
-  },
-  {
-   "q": "diageo share price",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T08:40:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Prediction: Diageo’s turnaround strategy could mean its shares drift for years",
-     "url": "https://uk.finance.yahoo.com/news/prediction-diageo-turnaround-strategy-could-125140146.html"
-    },
-    {
-     "title": "Diageo Sales Outperform in Boost for New CEO’s Overhaul Plan",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-05/diageo-sales-outperform-in-boost-for-new-ceo-s-overhaul-plan"
-    },
-    {
-     "title": "Guinness brewer Diageo keeps full year outlook",
-     "url": "https://www.rte.ie/news/business/2026/1105/1598065-diageo-quarterly-results/"
-    }
-   ]
-  },
-  {
-   "q": "garth brooks",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T08:10:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Garth Brooks announces 10 Irish concerts for 2027",
-     "url": "https://www.rte.ie/entertainment/2026/1105/1598059-garth-brooks-announces-10-irish-concerts-for-2027/"
-    },
-    {
-     "title": "Garth Brooks Announces Belfast Shows As Part Of Irish Tour 2027",
-     "url": "https://www.xsnoize.com/garth-brooks-belfast-irish-tour-2027/"
-    },
-    {
-     "title": "Is Garth Brooks About to Announce a 2027 Ireland Stadium Tour?",
-     "url": "https://holler.country/news/breaking/is-garth-brooks-about-to-announce-a-2027-ireland-stadium-tour/"
-    }
-   ]
-  },
-  {
-   "q": "joshua wong",
-   "traffic": "100+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-05T08:10:00Z",
-   "observed_at": "2026-11-05T08:57:39.312051Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-     "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
-    },
-    {
-     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail"
-    },
-    {
-     "title": "Hong Kong activist Joshua Wong sentenced to further 10 years in prison",
-     "url": "https://www.telegraph.co.uk/world-news/2026/11/05/hong-kong-activist-joshua-wong-imprisoned-another-10-years/"
     }
    ]
   }

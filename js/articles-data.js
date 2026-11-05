@@ -63836,5 +63836,47 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-05T12:20:13+00:00"
+  },
+  "13t43oo": {
+    "id": "13t43oo",
+    "type": "news",
+    "headline": "Dastoor Episode 76 — Watch Online on Green TV",
+    "dek": "Dastoor episode 76 aired on 2026-11-05 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 76 aired on 2026-11-05 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=MD4FYRZfY64"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Amara aur Aaliyan ek restaurant mein baithte hain, jahan Aaliyan Amara ke resignation aur uske HR se permanent job letter nikalwane ki baat karta hai. Amara, Aaliyan aur Salman ke rishte ke baare mein sochti hai. Phir Aaliyan aur Amara office aate hain, jahan Aaliyan Amara ki tareef karta hai aur kehta hai ke woh pehli ladki hai jiske dil ke raste tak pahunchne mein usey koi dar nahi laga. \n\nGhar lautne par Amara ki ammi aur baaki ghar wale pareshan hote hain kyunki Amara wapas aa gayi hai. Amara apni ammi se kehti hai ke usey lagta hai ke sab ne usey andhere mein rakha hai. Amara aur Aaliyan ke beech phir baatcheet hoti hai jahan Aaliyan kehta hai ke woh poori koshish karega ke Amara ko bura na lage, lekin woh koi vaada nahi kar sakta. \n\nEpisode ke aakhri hisse mein, Shaza ghar aati hai aur wahan Shagufta aur baaki ghar walon ke sath behas hoti hai. Shagufta kehti hai ke Amara ne ghar aur khandan ki izzat par daag lagaya hai aur sab par sawal uthaye hain. Shaza, Aaliyan aur Amara ke khilaf khadi hoti hai aur kehti hai ke woh apni bahan ke sath hai aur uski madad karegi. Episode is tension bhare mahol aur Shaza aur baaki ghar walon ki be-basi par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 76 aired on 2026-11-05.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=MD4FYRZfY64",
+      "YouTube views: 7,907.",
+      "Episode summary added 2026-11-05."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/MD4FYRZfY64/hqdefault.jpg",
+        "caption": "Dastoor Episode 76",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-05T14:45:02Z"
   }
 };
