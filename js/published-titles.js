@@ -26551,5 +26551,765 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 7,
     "providers": []
+  },
+  "1789541": {
+    "id": 1789541,
+    "type": "movie",
+    "title": "Poeksie Woeksie",
+    "poster_path": "/RF7nxiqm8CgW6X3myARj5yecPn.jpg",
+    "backdrop_path": null,
+    "vote_average": 2.0,
+    "vote_count": 1,
+    "overview": "A spin-off of the beloved comedy series, Orkney Snork Nie. Chaos ensues when Ouboet finds himself behind bars, despite being innocent. While Yollie deals with the family crisis, he must prove his innocence to make it home in time for his son’s wedding.",
+    "industry": "world",
+    "popularity": 4.5657,
+    "original_language": "af",
+    "origin_country": [
+      "ZA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ZA"
+    ],
+    "spoken_languages": [
+      "af"
+    ],
+    "certification": "16",
+    "release_date": "2026-10-31",
+    "date_kind": "release",
+    "runtime": 51,
+    "providers": []
+  },
+  "1817507": {
+    "id": 1817507,
+    "type": "movie",
+    "title": "The Tiger Wears Black",
+    "poster_path": "/5NFFUaI9SunPaf1vPAAPU5BKDYS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A giallo sequel to the 40-minute long web release of the same name from 2022.",
+    "industry": "world",
+    "popularity": 0,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1811684": {
+    "id": 1811684,
+    "type": "movie",
+    "title": "Crazy Love",
+    "poster_path": "/o4oNHInbgLsqlJ0owNWeIFH6iNs.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Khmer movie",
+    "industry": "world",
+    "popularity": 0.4401,
+    "original_language": "km",
+    "origin_country": [
+      "KH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "KH"
+    ],
+    "spoken_languages": [
+      "km"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 106,
+    "providers": []
+  },
+  "1811330": {
+    "id": 1811330,
+    "type": "movie",
+    "title": "Último día de sol",
+    "poster_path": "/wwfSggqXkGAwSNkgMeyaZ0ZX1xN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3162,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 10,
+    "revenue": 1,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1810466": {
+    "id": 1810466,
+    "type": "movie",
+    "title": "Salon Saphir",
+    "poster_path": "/p0JfUQ00gSrEE8GUR61GDyK1lBv.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.6397,
+    "original_language": "fr",
+    "origin_country": [
+      "BE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Family",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "BE"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1810128": {
+    "id": 1810128,
+    "type": "movie",
+    "title": "Let me Live",
+    "poster_path": "/q9NcfYBOJi5bCa1CMnOlKRb4aJW.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Upon learning that she has terminal cancer that will leave her bedridden for the rest of her life, young teenager Julia begs her mother, Andrea, to flee the hospital and discontinue treatment.",
+    "industry": "world",
+    "popularity": 1.2232,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "Who can't change their destiny, can they change the path to it?",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "NR",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1809672": {
+    "id": 1809672,
+    "type": "movie",
+    "title": "Two Peas in a pod",
+    "poster_path": "/lLw3vGqfHr7Nypo8ubinTDglwMa.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Victoria is caught between three wars. One is in Israel, where she lives. Another is in Ukraine, where she was born. The third is personal: a battle with her father whose devotion to his new wife, Lena, left no room for his daughter. When Victoria learns he is gravely ill, she has no choice but to return to her Ukrainian hometown ? once peaceful, now shattered by war.",
+    "industry": "world",
+    "popularity": 1.2241,
+    "original_language": "uk",
+    "origin_country": [
+      "DE",
+      "IL",
+      "PL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "PL",
+      "DE",
+      "IL"
+    ],
+    "spoken_languages": [
+      "uk"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": []
+  },
+  "1809624": {
+    "id": 1809624,
+    "type": "movie",
+    "title": "Chekhov in Rosario",
+    "poster_path": "/sRwCtDbcdguz0jAk13G0vy8sJpK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two actresses and a director meet in an old theater in Rosario to rehearse scenes from The Seagull and The Cherry Orchard by Anton Chekhov. As rehearsals unfold, the line between fiction and life begins to blur. Chekhov?s words merge with memories, frustrations, desires, and questions about time, loss, and the need to keep making art.",
+    "industry": "world",
+    "popularity": 1.5291,
+    "original_language": "es",
+    "origin_country": [
+      "AR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 66,
+    "providers": []
+  },
+  "1809525": {
+    "id": 1809525,
+    "type": "movie",
+    "title": "The War We Carry",
+    "poster_path": "/sk12tIEBjKcenlyFNTJ9JAxm8fn.jpg",
+    "backdrop_path": "/2v92BOnehaO73WL9DaOZfkAtlTG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Hninn is a diligent student who wants to become a nun. In February 2021, the military seizes power in Myanmar and everything she has strived for vanishes overnight. Civil war breaks out in the country and Hnin's family must learn to live with constant fear: moving house, going into hiding, deciding who to trust and where to go at all. For six years, the camera follows them as they search for a safe place in a country torn apart. And yet, amidst all this horror, there is still room for faith, courage and even joy.",
+    "industry": "world",
+    "popularity": 1.7733,
+    "original_language": "da",
+    "origin_country": [
+      "DK"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "In a land where time stands still hope is what keeps us moving",
+    "status": "Post Production",
+    "production_countries": [
+      "DK"
+    ],
+    "spoken_languages": [
+      "my"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 98,
+    "providers": []
+  },
+  "1803161": {
+    "id": 1803161,
+    "type": "movie",
+    "title": "Blue Man in Orange",
+    "poster_path": "/fUeHzeMDxUXihuDHZmIpevprPl9.jpg",
+    "backdrop_path": "/7aE5rTILBwgvsXrTzpTFVIDWX6t.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A middle-aged immigrant takes a swimming lesson on the last day of the year, aiming to join the crowd at the Dutch New Year's Plunge the following day.",
+    "industry": "world",
+    "popularity": 1.1304,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 7000,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "You won't be swimming in the dark tomorrow...",
+    "status": "In Production",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "en",
+      "nl",
+      "uk"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 17,
+    "providers": []
+  },
+  "1802581": {
+    "id": 1802581,
+    "type": "movie",
+    "title": "Rouler des mécaniques",
+    "poster_path": "/oErMUdfvZlkvYqCKe0cEFdx4ciC.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.361,
+    "original_language": "fr",
+    "origin_country": [
+      "FR",
+      "BE",
+      "LU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1801282": {
+    "id": 1801282,
+    "type": "movie",
+    "title": "Homeless",
+    "poster_path": "/5BHpmp007mkhSWrpgihLhojya5v.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The story of Pairoj Pichetmetakul, an artist who decided to leave his hometown of Bangkok and pursue his dreams in New York for nearly a decade.",
+    "industry": "world",
+    "popularity": 0.1785,
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": {
+      "key": "zuK1oRSTa-g",
+      "name": "Homeless ไร้บ้าน ไม่ไร้หวัง - Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "A Thai artist's journey across the world, discovering a new meaning of \"home\" through the lives of the homeless.",
+    "status": "Post Production",
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 98,
+    "providers": []
+  },
+  "1800853": {
+    "id": 1800853,
+    "type": "movie",
+    "title": "A Tropa de Goiânia!",
+    "poster_path": "/jtpSt1rgZYk5v5WgIiNbM1mJyCb.jpg",
+    "backdrop_path": "/nQ1yA0Liqpu8lQ6EUelF1xSuHra.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3896,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1797832": {
+    "id": 1797832,
+    "type": "movie",
+    "title": "Sonic the Hedgehog: Memories And Beyond",
+    "poster_path": "/khcW7DGn7AwsmnvLI4G9gI5JjKR.jpg",
+    "backdrop_path": "/j8EjRVbKtNbrHCkpWnzRvXyvpHE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dr. Eggman's evil scheme is to upgrade Metal Sonic to the ultimate fighting machine. By stealing Sonic's life data and harnessing the power of the Chaos Emeralds, Sonic and his friends realize that in order to defeat Metal Sonic, they must rely on the friendship they built through their adventures!",
+    "industry": "world",
+    "popularity": 0.7421,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "gg33XSAtdZM",
+      "name": "Sonic the Hedgehog: Memories And Beyond Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1796548": {
+    "id": 1796548,
+    "type": "movie",
+    "title": "White Tiger Column",
+    "poster_path": "/7ZDcurxLQ3ByeawMxUvf0p17UOq.jpg",
+    "backdrop_path": "/6ZWK7aV6bGWUfvO9h31qjDnU7Ns.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A training camp for Myanmar's resistance movement lasts 45 days. Up close, we follow a group of young people who have decided to fight for their freedom. A moving and visually striking portrait of a courageous generation.",
+    "industry": "world",
+    "popularity": 0.3647,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "my"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 95,
+    "providers": []
+  },
+  "1796462": {
+    "id": 1796462,
+    "type": "movie",
+    "title": "Plum Road Tea Dream",
+    "poster_path": "/kDzE9R76y4rc9NIs8JSJo0o2vEg.jpg",
+    "backdrop_path": "/mFSFtQMx3NIuLbFUzQw4HQa2HNq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On a deliberately paced walk through fragmented virtual spaces, a semi-autobiographical story unfolds about belonging and grief.",
+    "industry": "world",
+    "popularity": 0.339,
+    "original_language": "en",
+    "origin_country": [
+      "BE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "BE"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 150,
+    "providers": []
+  },
+  "1794586": {
+    "id": 1794586,
+    "type": "movie",
+    "title": "The Flesh and the Soul",
+    "poster_path": "/2tXDCSVRTNaSInYZ3NqIqWov7EI.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As if opening the pages of a personal and exclusive diary, David Cronenberg generously opens up, retracing his life and the works that have made him one of the greats of cinema. Through an honest and disarming narrative, the filmmaker reveals the deep roots of an imagination that has influenced and transformed entire generations of viewers and directors.",
+    "industry": "world",
+    "popularity": 0.8011,
+    "original_language": "en",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 90,
+    "providers": []
+  },
+  "1794488": {
+    "id": 1794488,
+    "type": "movie",
+    "title": "As Benzedeiras",
+    "poster_path": "/jobghKjpbXx7n7QmuB0JTT8Fyh8.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.3023,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1794108": {
+    "id": 1794108,
+    "type": "movie",
+    "title": "Be Still, My Soul.",
+    "poster_path": "/lSnzqzR5NGHpKMSKABV3t5D3uOR.jpg",
+    "backdrop_path": "/ff0dfD0njkihzMCNLgtTPUVT9BB.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kelly lives with heroin addiction in the South Bronx, where she also works at a harm reduction clinic - handing out clean needles, administering Narcan, cleaning blood spots from the floors. Shot over five years by a single filmmaker embedded within her world, Be Still, My Soul observes her daily life through a restrained, immersive form: no narration, no explanation, a score that moves alongside her inner world.",
+    "industry": "world",
+    "popularity": 0.2448,
+    "original_language": "en",
+    "origin_country": [
+      "CH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-05",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "Not a story about addiction. A story about Kelly.",
+    "status": "Planned",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-12",
+    "date_kind": "festival",
+    "runtime": 23,
+    "providers": []
   }
 };
