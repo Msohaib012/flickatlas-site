@@ -60561,5 +60561,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 22:45:13 +0000"
+  },
+  "16h48qo": {
+    "id": "16h48qo",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Opens Worldwide With Record-Breaking Numbers and Massive Scale",
+    "dek": "Nitesh Tiwari’s grand two-part adaptation of the Indian epic hits cinemas globally, backed by monumental advance bookings, a star-studded cast, and an unprecedented production budget.",
+    "body": [
+      {
+        "h": "Global Theatrical Launch and Scale",
+        "p": [
+          "Nitesh Tiwari’s highly anticipated cinematic adaptation, 'Ramayana: Rise of a Legend', has officially commenced its theatrical journey across India and international markets. Mounted as a massive two-part epic, the production has generated extraordinary pre-release anticipation, widely regarded as one of the most expensive cinematic ventures ever attempted in the country.",
+          "Produced by Namit Malhotra, the project has been brought to life with a reported overall budget of Rs 4,000 crore, with the first installment accounting for Rs 2,000 crore. The release strategy encompasses multiple languages, tailoring the runtime and distribution to appeal to both domestic and worldwide audiences."
+        ]
+      },
+      {
+        "h": "Stellar Cast and Character Interpretations",
+        "p": [
+          "The film features an ensemble cast led by Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash in the role of the antagonist Ravana. Producer Namit Malhotra praised Ranbir Kapoor’s dedication and talent, describing him as the finest actor of the current generation.",
+          "Supporting cast members have also shared insights into their preparations. Rakul Preet Singh portrays Ravana's sister Surpanakha, aiming to highlight the multi-layered and complex nature of the character. Meanwhile, Sunny Deol steps into the role of Lord Hanuman, noting that his screen time develops further in the second part of the epic."
+        ]
+      },
+      {
+        "h": "Advance Bookings and Box Office Projections",
+        "p": [
+          "The theatrical rollout is supported by robust pre-release sales. According to Sacnilk, the film secured Rs 49.75 crore gross in opening-day advance bookings within India, including block seats. Overseas advance ticket sales contributed approximately USD 5.6 million, pushing the total worldwide advance-booking collections beyond Rs 150 crore gross.",
+          "Trade analysts project an opening-day collection ranging between Rs 75 crore and Rs 100 crore across languages. Long-term industry forecasts suggest a potential lifetime box-office haul spanning from Rs 1,000 crore to Rs 3,000 crore, alongside ambitious international targets."
+        ]
+      },
+      {
+        "h": "Promotional Scale and International Targets",
+        "p": [
+          "According to reports from trade tracker Venky Box Office, Prime Focus Studios and Sony Pictures allocated a USD 10 million promotional and marketing budget, establishing a record for an Indian production. The distribution strategy sets its sights on achieving at least USD 65 million in international theatrical revenues.",
+          "North America serves as a primary overseas market, with targeted collections of USD 30 million. The production's global reach is further augmented by alternate language versions, such as a shortened English edit tailored for international viewing preferences."
+        ]
+      },
+      {
+        "h": "Yash's Approach and Industry Collaboration",
+        "p": [
+          "Actor Yash discussed his immersive preparation for playing Lankesh, explaining that he played loud Lord Shiva chants on set to maintain the character's intense emotional headspace. He also emphasized that an undertaking of this magnitude requires solidarity across every regional sector of the Indian film industry.",
+          "Yash joined the project not only as an actor portraying Ravana but also as a co-producer following discussions with Namit Malhotra regarding a unified vision to take Indian cultural stories to a worldwide audience."
+        ]
+      },
+      {
+        "h": "Industry Support and Critical Anticipation",
+        "p": [
+          "Renowned filmmaker SS Rajamouli expressed his public support for the production, commending the team for bringing the mythological narrative to life with significant depth and visual scale. Rajamouli noted that adapting the epic remains a lifelong aspiration for many Indian storytellers.",
+          "Early viewer reactions have focused on the scale of the visual effects, Yash's intense performance as Ravana, and the distinct interpretation of the timeless source material as the global theatrical run unfolds."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's 'Ramayana: Rise of a Legend' has launched globally with a massive budget and robust advance bookings exceeding Rs 150 crore worldwide. Featuring Ranbir Kapoor, Sai Pallavi, and Yash, the epic production has garnered strong industry support and high box-office expectations."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend released in cinemas worldwide on Thursday, November 5, 2026.",
+      "Ranbir Kapoor stars as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana.",
+      "The overall budget for the film is estimated at Rs 4,000 crore, with Part 1 costing Rs 2,000 crore.",
+      "Sacnilk reported Rs 49.75 crore gross in opening-day advance bookings in India.",
+      "Overseas advance sales reached approximately USD 5.6 million, taking worldwide advance bookings beyond Rs 150 crore gross.",
+      "Promotional and marketing budget was reported at USD 10 million.",
+      "Makers are targeting USD 65 million in overseas collections, including USD 30 million from North America."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Rakul Preet Singh",
+        "SS Rajamouli",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Runway 34",
+        "Baahubali",
+        "RRR"
+      ]
+    },
+    "keywords": [
+      "Ramayana movie",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office collection",
+      "Yash Ravana Ramayana",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135555214,width-1280,height-720,imgsize-127024,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Opens Worldwide With Record-Breaking Numbers and Massive Scale",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T05:44:42+05:30"
+  },
+  "za1dqy": {
+    "id": "za1dqy",
+    "type": "news",
+    "headline": "Bollywood Stars Gather for Filmmaker Sanjay Gupta's Memorial Prayer Meet",
+    "dek": "Prominent figures from the Hindi film industry, including Shah Rukh Khan, Abhishek Bachchan, and Aishwarya Rai Bachchan, assembled to pay their respects a week after the sudden passing of director Sanjay Gupta.",
+    "body": [
+      {
+        "h": "Industry Comes Together to Mourn",
+        "p": [
+          "A week following the sudden and tragic demise of filmmaker Sanjay Gupta, members of the Hindi film community gathered to honor his memory at a private prayer service. The solemn gathering drew numerous high-profile celebrities who arrived to offer their final respects to the late director and provide support to his grieving family members.",
+          "A video capturing moments from the sombre event quickly circulated online, offering fans a glimpse of the heartfelt tributes paid by industry insiders. The emotional atmosphere highlighted the deep connections the filmmaker forged throughout his long career in Bollywood."
+        ]
+      },
+      {
+        "h": "Prominent Faces Spotted at the Service",
+        "p": [
+          "Among the notable attendees were star couple Abhishek Bachchan and Aishwarya Rai Bachchan, who were seen dressed in white while conversing quietly with fellow cinema personalities. Aishwarya shares a professional history with Gupta, having previously collaborated with him on the 2015 action thriller project.",
+          "Shah Rukh Khan also made a brief appearance at the memorial service, passing through the venue alongside his manager. The actor, currently preparing for his upcoming film release, kept a low profile in a white t-shirt, jeans, and a beanie."
+        ]
+      },
+      {
+        "h": "Deep Ties and Past Collaborations",
+        "p": [
+          "While Shah Rukh Khan did not feature in any directorial ventures helmed by Sanjay Gupta, the two shared a professional and personal connection dating back to the earlier stages of their respective journeys in the entertainment industry.",
+          "In contrast, Aishwarya Rai Bachchan worked closely with the director on his action-packed feature film. Furthermore, Abhishek Bachchan had earlier participated in the final rites, joining other prominent industry figures at the crematorium to bid a final farewell."
+        ]
+      },
+      {
+        "h": "Visible Grief Among Colleagues",
+        "p": [
+          "The profound impact of the filmmaker's passing was visibly evident among his peers and collaborators. Filmmaker Milap Zaveri was captured on camera looking deeply overwhelmed and teary-eyed as he remembered his late colleague.",
+          "Such raw displays of grief underscored the heavy sense of loss felt across the film fraternity following the sudden and unexpected nature of Gupta's untimely death."
+        ]
+      },
+      {
+        "h": "Circumstances of the Tragic Incident",
+        "p": [
+          "Sanjay Gupta passed away at the age of fifty-nine following an unfortunate accident at his residence located in the Versova neighborhood of Mumbai. Preliminary findings from local police indicated that the director lost his balance inside his kitchen and suffered a severe head injury.",
+          "Because family members were asleep at the time, the incident was only discovered the following morning. He was promptly transported to a hospital, where medical personnel officially pronounced him dead upon arrival."
+        ]
+      },
+      {
+        "h": "Final Rites and Family Farewell",
+        "p": [
+          "The final rites for the late filmmaker were conducted at the Versova crematorium. His children, son Shivansh and daughter Dalai, performed the traditional duties by lighting the funeral pyre.",
+          "Close associates, family members, and industry colleagues gathered in numbers at the crematorium to pay their last respects and guide the family through the painful mourning process."
+        ]
+      },
+      {
+        "h": "Cinematic Legacy and Contributions",
+        "p": [
+          "During his career, Sanjay Gupta established himself as a distinct voice in Indian cinema by directing and producing several popular and commercially recognized feature films. His notable filmography includes titles such as 'Kaante', 'Musafir', 'Zinda', 'Shootout at Wadala', 'Kaabil', and 'Mumbai Saga'.",
+          "His distinct visual style and contributions to the action and drama genres earned him a lasting place among recognized Bollywood filmmakers, leaving behind a body of work that continues to be remembered by fans and peers alike."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood celebrities including Shah Rukh Khan, Abhishek Bachchan, and Aishwarya Rai Bachchan attended a prayer meet for the late filmmaker Sanjay Gupta. Gupta passed away at age fifty-nine following an accidental fall at his Mumbai home, leaving behind a notable cinematic legacy."
+        ]
+      }
+    ],
+    "facts": [
+      "Sanjay Gupta passed away on October 30, 2026",
+      "He died at the age of 59",
+      "The incident occurred at his Versova residence in Mumbai",
+      "His funeral took place at the Versova crematorium on October 31, 2026",
+      "Aishwarya Rai worked with him on the 2015 film Jazbaa",
+      "His notable films include Kaante, Musafir, Zinda, Shootout at Wadala, Kaabil, and Mumbai Saga"
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Gupta",
+        "Shah Rukh Khan",
+        "Abhishek Bachchan",
+        "Aishwarya Rai Bachchan",
+        "Milap Zaveri",
+        "Shivansh",
+        "Dalai"
+      ],
+      "titles": [
+        "King",
+        "Jazbaa",
+        "Kaante",
+        "Musafir",
+        "Zinda",
+        "Shootout at Wadala",
+        "Kaabil",
+        "Mumbai Saga"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gupta prayer meet",
+      "Shah Rukh Khan Sanjay Gupta",
+      "Abhishek Bachchan Aishwarya Rai",
+      "Sanjay Gupta filmmaker death"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135555596,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bollywood Stars Gather for Filmmaker Sanjay Gupta's Memorial Prayer Meet",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T07:02:24+05:30"
+  },
+  "brgk1z": {
+    "id": "brgk1z",
+    "type": "news",
+    "headline": "Maika Monroe Unleashes Terror As A Murderous Governess In The Final 'Victorian Psycho' Trailer",
+    "dek": "The Longlegs star trades victim status for villainy in Zachary Wigon’s darkly comic gothic horror period film arriving this November.",
+    "body": [
+      {
+        "h": "Stepping Into The Role Of The Threat",
+        "p": [
+          "Maika Monroe has built a formidable reputation across the horror genre by portraying characters who are hunted, terrified, and fighting for survival. However, her latest project represents a complete reversal of those familiar dynamics, casting her squarely in the role of the aggressor. In Victorian Psycho, the celebrated actor leaves behind her usual role of the final girl to become the source of pure terror.",
+          "Audiences accustomed to seeing Monroe evade serial killers and supernatural threats will watch her turn the tables entirely. The new promotional footage highlights a performance defined by poise, eccentricity, and chilling lethality, marking a thrilling shift in her career path."
+        ]
+      },
+      {
+        "h": "Behind The Camera And The Release Strategy",
+        "p": [
+          "The project is directed by Zachary Wigon, whose previous work includes the provocative feature Sanctuary. With Wigon at the helm, the film promises a sharp blend of tension and dark humor, filtered through a distinct period lens. Bleecker Street is handling the distribution of the movie.",
+          "Anticipation has steadily built for the gothic project, culminating in the release of the final trailer. Fans of intelligent, genre-bending horror have marked their calendars for the theatrical launch, eager to see how Wigon executes his unique vision."
+        ]
+      },
+      {
+        "h": "Setting The Scene In 1858 England",
+        "p": [
+          "The narrative transports viewers back to England in the year 1858, anchoring the suspense within a meticulously crafted historical setting. The story unfolds at Ensor House, a remote and imposing gothic manor that isolates its inhabitants from the outside world. Into this dreary, atmospheric estate steps Winifred Notty, portrayed by Monroe.",
+          "Winifred arrives at the isolated mansion to serve as a governess tasked with educating the children of a wealthy family. Her official duties encompass traditional lessons in table manners and family history, establishing a facade of Victorian propriety masking much darker intentions."
+        ]
+      },
+      {
+        "h": "A Governess With Unorthodox Hobbies",
+        "p": [
+          "While Winifred dutifully instructs her young charges during daylight hours, she maintains a set of far more dangerous extracurricular pursuits. Her fascination with unorthodox and illicit subjects quickly becomes apparent to anyone paying close attention, even if the family remains blissfully unaware.",
+          "The juxtaposition between the refined expectations of a nineteenth-century governess and Winifred's violent inclinations forms the core of the film's dark comedy. Her outwardly polite demeanor serves as the perfect camouflage for her predatory nature."
+        ]
+      },
+      {
+        "h": "Disappearances Shake The Isolated Estate",
+        "p": [
+          "Peace at Ensor House does not last long once the eccentric educator settles into her quarters. Members of the household staff begin to vanish under mysterious circumstances, plunging the isolated mansion into a state of rising paranoia and fear.",
+          "As the domestic help dwindles one by one, the wealthy family starts to realize that something is terribly wrong within their walls. The gothic estate transforms from a quiet sanctuary of wealth into a claustrophobic trap where everyone becomes a potential target."
+        ]
+      },
+      {
+        "h": "Theatrical Arrival And Audience Expectations",
+        "p": [
+          "The final promotional push sets the stage for the film's upcoming theatrical rollout. Scheduled to open on November 13, the picture positions itself as a must-see cinematic outing for enthusiasts of atmospheric thrillers and period pieces alike.",
+          "With a strong lead performance, a talented director, and a uniquely gruesome premise, the project stands out among the crowded autumn movie slate. Spectators won't have to wait much longer to witness the full extent of the governess's reign of terror."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bleecker Street has released the final trailer for the gothic horror film Victorian Psycho, directed by Zachary Wigon and starring Maika Monroe. Set in an isolated 1858 English manor, the movie follows an eccentric governess whose arrival coincides with the mysterious disappearances of household staff ahead of a November 13 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Maika Monroe stars in Victorian Psycho.",
+      "Zachary Wigon directed Victorian Psycho.",
+      "Bleecker Street is releasing the film.",
+      "The theatrical release date is November 13.",
+      "The film is set in England in 1858.",
+      "The story takes place at Ensor House.",
+      "Maika Monroe plays Winifred Notty."
+    ],
+    "entities": {
+      "people": [
+        "Maika Monroe",
+        "Zachary Wigon",
+        "Winifred Notty"
+      ],
+      "titles": [
+        "Victorian Psycho",
+        "Longlegs",
+        "Sanctuary"
+      ]
+    },
+    "keywords": [
+      "Victorian Psycho",
+      "Maika Monroe Victorian Psycho",
+      "Zachary Wigon film",
+      "Victorian Psycho trailer",
+      "Bleecker Street horror movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/04204022/t0z0r9gzick.jpg",
+        "caption": "Maika Monroe Unleashes Terror As A Murderous Governess In The Final 'Victorian Psycho' Trailer",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 01:50:54 +0000"
+  },
+  "1o2p5bg": {
+    "id": "1o2p5bg",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No: 47 Day 6 Box Office Collection",
+    "dek": "Venkatesh's Telugu film records a steady downward trend in domestic earnings during its first week.",
+    "body": [
+      {
+        "h": "First Week Box Office Performance",
+        "p": [
+          "Venkatesh's Telugu family drama has brought in a worldwide gross collection of Rs 61.80 cr over its first six days in theatres. On Wednesday, November 4, the movie accumulated Rs 2.10 cr net within the domestic market across 2,919 shows.",
+          "This latest single-day collection indicates a 19.2% drop compared to the earnings recorded on Tuesday. Following a strong opening weekend, the domestic box office numbers have experienced a continuous decline throughout the weekdays."
+        ]
+      },
+      {
+        "h": "Domestic And International Totals",
+        "p": [
+          "The recent figures push the total India net collection for the film to Rs 39.50 cr, while the domestic gross has advanced to Rs 46.30 cr. Ticket sales statistics indicate that roughly 1,81,040 admissions were recorded on Wednesday, bringing the cumulative ticket count to 2,77,718 since the premiere.",
+          "In international markets, the film collected an additional Rs 35 lakh on its sixth day, lifting its overseas gross to a total of Rs 15.50 cr and pushing worldwide earnings past the Rs 60 cr threshold."
+        ]
+      },
+      {
+        "h": "Day-By-Day Trajectory",
+        "p": [
+          "The theatrical run began on Friday, October 30, with an opening day net of Rs 9.75 cr in India. Collections saw a modest 6.7% rise on Saturday to reach Rs 10.40 cr, followed by a Sunday peak of Rs 11.25 cr.",
+          "However, weekday numbers dropped significantly, starting with a 69.8% fall on Monday to Rs 3.40 cr. Tuesday brought another 23.5% decrease with earnings of Rs 2.60 cr, leading into Wednesday's collection of Rs 2.10 cr."
+        ]
+      },
+      {
+        "h": "Comparison With Mana Shankara Vara Prasad Garu",
+        "p": [
+          "The six-day worldwide total for the film remains far behind the figures posted by Chiranjeevi's project, Mana Shankara Vara Prasad Garu, at the exact same point in its theatrical run.",
+          "Tracking data shows that Mana Shankara Vara Prasad Garu had already surpassed the Rs 200 cr worldwide gross milestone by its sixth day, with estimates placing its cumulative global earnings between Rs 204 cr and Rs 206 cr."
+        ]
+      },
+      {
+        "h": "Audience Occupancy Rates",
+        "p": [
+          "The Telugu 2D version of the feature registered an overall occupancy rate of 14.19% on Wednesday across all screenings. Morning shows started at 12.31%, while afternoon screenings improved slightly to 14.54%.",
+          "Evening occupancy settled at 13.85%, and night screenings recorded the highest turnout of the day at 16.08%, pointing to stronger audience engagement during late hours."
+        ]
+      },
+      {
+        "h": "Plot And Cast Overview",
+        "p": [
+          "The narrative centres on characters Chittibabu and Swarna alongside their relatives living together at House No. 47. Their routine domestic life undergoes significant turmoil as buried secrets come to light.",
+          "Headlined by Venkatesh, the movie focuses on domestic dynamics, hidden truths, and interpersonal conflicts. Notably, Venkatesh also appeared as Venky Gowda in Mana Shankara Vara Prasad Garu, adding an interesting link between the two star-led releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Venkatesh's film recorded a day 6 domestic net collection of Rs 2.10 cr, bringing its total India net to Rs 39.50 cr and worldwide gross to Rs 61.80 cr. The release continues to trail significantly behind Chiranjeevi's Mana Shankara Vara Prasad Garu during their respective theatrical runs."
+        ]
+      }
+    ],
+    "facts": [
+      "Aadarsha Kutumbam House No: 47 earned Rs 2.10 cr net in India on Wednesday, November 4.",
+      "The film's worldwide gross collection reached Rs 61.80 cr in its first six days.",
+      "The India net collection stands at Rs 39.50 cr and domestic gross at Rs 46.30 cr.",
+      "Overseas markets contributed Rs 15.50 cr to the worldwide total.",
+      "The movie opened on Friday, October 30, with an India net collection of Rs 9.75 cr."
+    ],
+    "entities": {
+      "people": [
+        "Venkatesh",
+        "Chiranjivee"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No: 47",
+        "Mana Shankara Vara Prasad Garu"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No: 47",
+      "Mana Shankara Vara Prasad Garu",
+      "Venkatesh",
+      "Chiranjeevi"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135555386,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Aadarsha Kutumbam House No: 47 Day 6 Box Office Collection",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T06:34:21+05:30"
   }
 };

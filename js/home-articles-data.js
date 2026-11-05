@@ -22,6 +22,110 @@ window.FA_HOME_ARTICLES = {
     "images": [],
     "published": "Wed, 04 Nov 2026 21:00:00 EST"
   },
+  "brgk1z": {
+    "id": "brgk1z",
+    "type": "news",
+    "headline": "Maika Monroe Unleashes Terror As A Murderous Governess In The Final 'Victorian Psycho' Trailer",
+    "dek": "The Longlegs star trades victim status for villainy in Zachary Wigon’s darkly comic gothic horror period film arriving this November.",
+    "entities": {
+      "people": [
+        "Maika Monroe",
+        "Zachary Wigon",
+        "Winifred Notty"
+      ],
+      "titles": [
+        "Victorian Psycho",
+        "Longlegs",
+        "Sanctuary"
+      ]
+    },
+    "keywords": [
+      "Victorian Psycho",
+      "Maika Monroe Victorian Psycho",
+      "Zachary Wigon film",
+      "Victorian Psycho trailer",
+      "Bleecker Street horror movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/04204022/t0z0r9gzick.jpg",
+        "caption": "Maika Monroe Unleashes Terror As A Murderous Governess In The Final 'Victorian Psycho' Trailer",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Thu, 05 Nov 2026 01:50:54 +0000"
+  },
+  "za1dqy": {
+    "id": "za1dqy",
+    "type": "news",
+    "headline": "Bollywood Stars Gather for Filmmaker Sanjay Gupta's Memorial Prayer Meet",
+    "dek": "Prominent figures from the Hindi film industry, including Shah Rukh Khan, Abhishek Bachchan, and Aishwarya Rai Bachchan, assembled to pay their respects a week after the sudden passing of director Sanjay Gupta.",
+    "entities": {
+      "people": [
+        "Sanjay Gupta",
+        "Shah Rukh Khan",
+        "Abhishek Bachchan",
+        "Aishwarya Rai Bachchan",
+        "Milap Zaveri",
+        "Shivansh",
+        "Dalai"
+      ],
+      "titles": [
+        "King",
+        "Jazbaa",
+        "Kaante",
+        "Musafir",
+        "Zinda",
+        "Shootout at Wadala",
+        "Kaabil",
+        "Mumbai Saga"
+      ]
+    },
+    "keywords": [
+      "Sanjay Gupta prayer meet",
+      "Shah Rukh Khan Sanjay Gupta",
+      "Abhishek Bachchan Aishwarya Rai",
+      "Sanjay Gupta filmmaker death"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135555596,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bollywood Stars Gather for Filmmaker Sanjay Gupta's Memorial Prayer Meet",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T07:02:24+05:30"
+  },
+  "1o2p5bg": {
+    "id": "1o2p5bg",
+    "type": "news",
+    "headline": "Aadarsha Kutumbam House No: 47 Day 6 Box Office Collection",
+    "dek": "Venkatesh's Telugu film records a steady downward trend in domestic earnings during its first week.",
+    "entities": {
+      "people": [
+        "Venkatesh",
+        "Chiranjivee"
+      ],
+      "titles": [
+        "Aadarsha Kutumbam House No: 47",
+        "Mana Shankara Vara Prasad Garu"
+      ]
+    },
+    "keywords": [
+      "Aadarsha Kutumbam House No: 47",
+      "Mana Shankara Vara Prasad Garu",
+      "Venkatesh",
+      "Chiranjeevi"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135555386,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Aadarsha Kutumbam House No: 47 Day 6 Box Office Collection",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T06:34:21+05:30"
+  },
   "k6oteg": {
     "id": "k6oteg",
     "type": "news",
@@ -64,6 +168,45 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-05T00:51:25Z"
+  },
+  "16h48qo": {
+    "id": "16h48qo",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Opens Worldwide With Record-Breaking Numbers and Massive Scale",
+    "dek": "Nitesh Tiwari’s grand two-part adaptation of the Indian epic hits cinemas globally, backed by monumental advance bookings, a star-studded cast, and an unprecedented production budget.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Rakul Preet Singh",
+        "SS Rajamouli",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Runway 34",
+        "Baahubali",
+        "RRR"
+      ]
+    },
+    "keywords": [
+      "Ramayana movie",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office collection",
+      "Yash Ravana Ramayana",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135555214,width-1280,height-720,imgsize-127024,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Opens Worldwide With Record-Breaking Numbers and Massive Scale",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-05T05:44:42+05:30"
   },
   "13c82dj": {
     "id": "13c82dj",
@@ -4782,166 +4925,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 01:17:49 +0530"
-  },
-  "sbe29a": {
-    "id": "sbe29a",
-    "type": "news",
-    "headline": "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
-    "dek": "A group of frustrated viewers recently gathered in Boston to demonstrate against Liberty Mutual's controversial mascot, shifting public ire away from older campaign figures.",
-    "entities": {
-      "people": [
-        "DimesAreTasty",
-        "Limu Emu",
-        "Doug"
-      ],
-      "titles": [
-        "Liberty Biberty"
-      ]
-    },
-    "keywords": [
-      "Liberty Biberty protest",
-      "Liberty Mutual mascot",
-      "DimesAreTasty Liberty Biberty",
-      "DimesAreTasty",
-      "Limu Emu"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.mos.cms.futurecdn.net/hAsMUjCozbyYwRWYYY7MZE-2000-80.jpg",
-        "caption": "Consumers Stage Real-Life Protest Outside Insurance Headquarters Over Annoying Ad Character",
-        "source": "CinemaBlend"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 19:47:18 +0000"
-  },
-  "cbwses": {
-    "id": "cbwses",
-    "type": "news",
-    "headline": "Tony Butala, Co-Founder of The Lettermen, Passes Away at 87",
-    "dek": "Tony Butala, the co-founder of the Grammy-nominated vocal group The Lettermen known for 'The Way You Look Tonight,' has died at the age of 87.",
-    "entities": {
-      "people": [
-        "Tony Butala",
-        "Tracy Clark",
-        "Fred Astaire",
-        "Jim Pike",
-        "Bob Engemann",
-        "Donovan Tea",
-        "Bobby Poynton",
-        "Rob Gulack"
-      ],
-      "titles": [
-        "The Way You Look Tonight",
-        "White Christmas",
-        "Peter Pan",
-        "War of the Worlds",
-        "On Moonlight Bay",
-        "When I Fall in Love",
-        "Goin’ Out of My Head/Can’t Take My Eyes off You",
-        "Everything is Good About You"
-      ]
-    },
-    "keywords": [
-      "Tony Butala",
-      "The Lettermen",
-      "The Way You Look Tonight",
-      "Jim Pike",
-      "Bob Engemann"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/music1_1753007917165_1753007947386.jpeg",
-        "caption": "Tony Butala, Co-Founder of The Lettermen, Passes Away at 87",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 01:04:17 +0530"
-  },
-  "hwio55": {
-    "id": "hwio55",
-    "type": "news",
-    "headline": "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Following Koffee With Karan Backlash",
-    "dek": "Bulgarian actor Vladimir Angelove weighs in on the recent online criticism faced by Vijay Deverakonda and Rashmika Mandanna after their chat show appearance, praising their grounded off-screen demeanour during film production.",
-    "entities": {
-      "people": [
-        "Vijay Deverakonda",
-        "Rashmika Mandanna",
-        "Vladimir Angelove",
-        "P Nishanth Kumar",
-        "Mimtaz"
-      ],
-      "titles": [
-        "Koffee With Karan",
-        "Ranabaali"
-      ]
-    },
-    "keywords": [
-      "Vijay Deverakonda Rashmika Mandanna Koffee With Karan",
-      "Vladimir Angelove Ranabaali co star",
-      "Vijay Deverakonda Rashmika Mandanna legal action",
-      "Ranabaali Telugu period action drama"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-03t211559-228-57961793720772.jpg",
-        "caption": "Ranabaali Co-Star Defends Vijay Deverakonda and Rashmika Mandanna Following Koffee With Karan Backlash",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 00:10:12 +0530"
-  },
-  "ynjag5": {
-    "id": "ynjag5",
-    "type": "news",
-    "headline": "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep",
-    "dek": "Netflix has officially ordered a straight-to-series adaptation of Curtis Sittenfeld's bestselling debut novel Prep, with Nicole Taylor serving as writer, showrunner, and executive producer.",
-    "entities": {
-      "people": [
-        "Curtis Sittenfeld",
-        "Nicole Taylor",
-        "Will Ferrell",
-        "Jessica Elbaum",
-        "Alix Taylor",
-        "Colleen McGuinness",
-        "Carolyn Strauss",
-        "Jessie Buckley"
-      ],
-      "titles": [
-        "Prep",
-        "One Day",
-        "Three Girls",
-        "The Nest",
-        "Wild Rose",
-        "Romantic Comedy",
-        "Rodham",
-        "The Man of My Dreams",
-        "American Wife",
-        "Sisterland",
-        "Eligible",
-        "The Sticks",
-        "The Body",
-        "Poser",
-        "Sid Zoey",
-        "Wednesday",
-        "Stranger Things",
-        "30 Rock",
-        "Game of Thrones"
-      ]
-    },
-    "keywords": [
-      "Prep novel Netflix series",
-      "Curtis Sittenfeld Prep adaptation",
-      "Nicole Taylor Prep showrunner",
-      "Netflix Prep YA series"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/Netflix-Curtis-Sittenfeld-Prep.jpg?w=1024",
-        "caption": "Netflix Greenlights Adaptation of Curtis Sittenfeld's Debut Novel Prep",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Tue, 03 Nov 2026 18:30:00 +0000"
   },
   "zjcoxh": {
     "id": "zjcoxh",
