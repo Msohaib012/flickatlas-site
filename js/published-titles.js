@@ -8054,8 +8054,8 @@ window.FA_PUBLISHED = {
     "created_by": [],
     "providers": [
       {
-        "name": "WeTV",
-        "logo_path": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
+        "name": "Tencent Video",
+        "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -18753,15 +18753,9 @@ window.FA_PUBLISHED = {
     "runtime": 30,
     "providers": [
       {
-        "name": "HBO Max Amazon Channel",
-        "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "HBO Max",
-        "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
-        "region": "US",
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ]
@@ -21943,7 +21937,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Alphatart"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1810715": {
     "id": 1810715,
@@ -22086,7 +22087,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "LeSean Thomas"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1809633": {
     "id": 1809633,

@@ -26,6 +26,30 @@ window.FA_OTT = {
   "now": [
     {
       "date": "2026-11-03",
+      "date_kind": "release",
+      "id": 279246,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-03",
+      "date_kind": "release",
+      "id": 314271,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-03",
       "date_kind": "digital",
       "id": 1804941,
       "providers": [
@@ -70,12 +94,8 @@ window.FA_OTT = {
       "id": 1813355,
       "providers": [
         {
-          "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
-          "name": "HBO Max Amazon Channel"
-        },
-        {
-          "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
-          "name": "HBO Max"
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"
@@ -414,8 +434,8 @@ window.FA_OTT = {
       "id": 286171,
       "providers": [
         {
-          "logo_path": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png",
-          "name": "WeTV"
+          "logo_path": "/oxcvMEkpFb1x4I2xQuRH1yxuJoA.png",
+          "name": "Tencent Video"
         }
       ],
       "type": "tv"

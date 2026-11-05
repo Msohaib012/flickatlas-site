@@ -175,7 +175,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 20",
-      "collection": 12678,
+      "collection": 12890,
       "shows": 730,
       "occupancy": 7.4,
       "tickets": 8422,
@@ -292,10 +292,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 13",
-      "collection": 118965,
+      "collection": 118542,
       "shows": 4320,
       "occupancy": 9.1,
       "tickets": 66644
+    },
+    {
+      "date": "2026-11-05",
+      "day": "Day 14",
+      "collection": 1057,
+      "shows": 1,
+      "occupancy": 8.9,
+      "tickets": 9
     }
   ],
   "1400940": [
@@ -952,6 +960,14 @@ window.FA_DAYWISE = {
       "shows": 29,
       "occupancy": 4.4,
       "tickets": 231
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Day 13",
+      "collection": 317,
+      "shows": 27,
+      "occupancy": 4.9,
+      "tickets": 216
     }
   ],
   "1606527": [
@@ -1435,7 +1451,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-05",
       "day": "Day 22",
-      "collection": 3170,
+      "collection": 10565,
       "shows": 65,
       "occupancy": 11.9,
       "tickets": 2836
@@ -1737,7 +1753,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 34",
-      "collection": 55996,
+      "collection": 57475,
       "shows": 2646,
       "occupancy": 8.4,
       "tickets": 34078
@@ -1922,7 +1938,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 13",
-      "collection": 1057,
+      "collection": 740,
       "shows": 26,
       "occupancy": 9.0
     }
@@ -2632,6 +2648,11 @@ window.FA_DAYWISE = {
       "date": "2026-11-03",
       "day": "Day 12",
       "collection": 106
+    },
+    {
+      "date": "2026-11-04",
+      "day": "Day 13",
+      "collection": 106
     }
   ],
   "1283515": [
@@ -3243,7 +3264,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-04",
       "day": "Day 13",
-      "collection": 1057,
+      "collection": 634,
       "shows": 14,
       "occupancy": 8.0
     }

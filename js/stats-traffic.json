@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-05T00:51:56Z",
+  "generated": "2026-11-05T04:08:49Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
     "users": 1,
@@ -14,7 +14,7 @@
     "users": 194,
     "pageviews": 662,
     "sessions": 266,
-    "avg_session_seconds": 160.5
+    "avg_session_seconds": 160.7
   },
   "top_pages": [
     {
@@ -63,7 +63,7 @@
       "path": "/show",
       "title": "Lagan Lagi (2026) — Episodes, Cast & Story | FlickAtlas",
       "views": 11,
-      "avg_time_seconds": 43.8
+      "avg_time_seconds": 44.8
     },
     {
       "path": "/movie",
@@ -100,8 +100,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 3,
-      "users": 3
+      "sessions": 1,
+      "users": 1
     },
     {
       "source": "gemini.google.com",
