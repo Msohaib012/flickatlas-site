@@ -69563,5 +69563,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-06T09:52:27Z"
+  },
+  "yo409m": {
+    "id": "yo409m",
+    "type": "news",
+    "headline": "Salman Khan's War Drama Maatrubhumi Eyes November 20 Release Date",
+    "dek": "Bollywood superstar Salman Khan's upcoming war drama Maatrubhumi: May War Rest in Peace is reportedly targeting a theatrical premiere on November 20, 2026, following trailer certification.",
+    "body": [
+      {
+        "h": "Targeting a November Theatrical Debut",
+        "p": [
+          "Bollywood superstar Salman Khan is reportedly preparing to bring his much-anticipated war drama to cinemas later this month. Industry reports indicate that the project is eyeing a theatrical release date of November 20, 2026, after experiencing multiple postponements over the previous months.",
+          "While preparations are actively underway for a late November arrival, the production team has yet to issue an official announcement. Observers expect that the formal release confirmation will accompany the debut of the project's promotional preview."
+        ]
+      },
+      {
+        "h": "Title Changes and Galwan Valley Inspiration",
+        "p": [
+          "The feature was previously known under the working title Battle of Galwan and had an initial schedule pointing toward an April 17 theatrical arrival. It draws direct creative inspiration from the tense 2020 military confrontation between Indian and Chinese forces in the Galwan Valley.",
+          "Throughout its development, the project underwent significant narrative revisions. These modifications led to a brand-new title and a deliberate shift in focus toward highlighting the deep human cost associated with armed conflict."
+        ]
+      },
+      {
+        "h": "Cast Members and Production Details",
+        "p": [
+          "In this cinematic account, Salman Khan portrays Colonel Bikkumalla Santosh Babu, the decorated military leader who commanded Indian troops during the high-stakes confrontation and posthumously received the Maha Vir Chakra.",
+          "Alongside the lead actor, the cast features Chitrangda Singh in a prominent role. The film is backed financially and produced under the banner of Salman Khan Films, with Jio Studios managing the domestic distribution responsibilities."
+        ]
+      },
+      {
+        "h": "Trailer Receives CBFC Certification",
+        "p": [
+          "A major milestone for the upcoming release occurred on November 4, when the Central Board of Film Certification officially cleared the promotional preview. The trailer secured a U/A 16+ classification from the censor board.",
+          "Notably, the promotional video comes with an extensive runtime of 4 minutes and 43 seconds. Such an extended duration for a theatrical trailer has drawn attention from industry trackers as the marketing campaign ramps up."
+        ]
+      },
+      {
+        "h": "Writers Part Ways Amid Narrative Shifts",
+        "p": [
+          "Defence journalists Shiv Aroor and Rahul Singh previously provided source material for the project through their published book, India's Most Fearless 3. However, the authors recently disclosed that their formal association with the cinematic adaptation has concluded.",
+          "According to the writers, the screenplay evolved well beyond the specific documented accounts of the Galwan incident found in their book. This creative expansion allowed the filmmakers to incorporate broader thematic elements such as family dynamics and personal sacrifice."
+        ]
+      },
+      {
+        "h": "Box Office Context and Release Window",
+        "p": [
+          "The planned November rollout provides Salman Khan with a fresh opportunity at the box office, serving as his follow-up appearance since Sikandar in March 2025. Interestingly, the makers opted for a standard Friday slot instead of a traditional festive holiday window.",
+          "Furthermore, the title is slated to enter cinemas just two weeks after Namit Malhotra's Ramayana: Part One. This close proximity means that screen availability and prevailing audience demand will play crucial roles in its commercial performance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood star Salman Khan's war drama Maatrubhumi is reportedly scheduled for a theatrical release on November 20, 2026, following censor clearance for its trailer on November 4. Originally titled Battle of Galwan under director Apoorva Lakhia, the film is inspired by the 2020 Galwan Valley clash and features Salman portraying Colonel Bikkumalla Santosh Babu."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan's war drama is titled Maatrubhumi: May War Rest in Peace",
+      "The film is reportedly eyeing a theatrical release on November 20, 2026",
+      "It was previously titled Battle of Galwan and originally scheduled for April 17",
+      "The project is directed by Apoorva Lakhia",
+      "It is inspired by the 2020 Galwan Valley clash between Indian and Chinese troops",
+      "Salman Khan portrays Colonel Bikkumalla Santosh Babu, who received the Maha Vir Chakra posthumously",
+      "The film also stars Chitrangda Singh",
+      "It is produced under Salman Khan Films",
+      "The trailer was cleared by the CBFC on November 4 with a U/A 16+ certificate and a runtime of 4 minutes and 43 seconds",
+      "Defence journalists Shiv Aroor and Rahul Singh wrote India's Most Fearless 3, which originally provided material for the project",
+      "Jio Studios is handling the domestic distribution",
+      "The film follows Salman Khan's appearance in Sikandar in March 2025"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Bikkumalla Santosh Babu",
+        "Chitrangda Singh",
+        "Shiv Aroor",
+        "Rahul Singh",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle of Galwan",
+        "India's Most Fearless 3",
+        "Sikandar",
+        "Ramayana: Part One"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Apoorva Lakhia Battle of Galwan",
+      "Salman Khan war drama"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028400.jpg",
+        "caption": "Salman Khan's War Drama Maatrubhumi Eyes November 20 Release Date",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 10:15:48 +0000"
+  },
+  "pfvzzv": {
+    "id": "pfvzzv",
+    "type": "news",
+    "headline": "Henry Cavill Announces New Retro Video Game Titled Mustache Protocol for Charity",
+    "dek": "Actor Henry Cavill is stepping into game development with a brand new 16-bit side-scroller created to support Movember initiatives.",
+    "body": [
+      {
+        "h": "Henry Cavill Expands Into Game Development",
+        "p": [
+          "Renowned actor Henry Cavill is adding game developer to his extensive list of creative talents through a brand new project. Known for his prominent roles in film and television, the star is now channeling his lifelong passion for gaming into building his own interactive title.",
+          "The upcoming project arrives as an unexpected yet fitting endeavor for an actor who is famously passionate about building personal computers and painting gaming miniatures."
+        ]
+      },
+      {
+        "h": "The Concept Behind Mustache Protocol",
+        "p": [
+          "Titled Mustache Protocol, the new creation is a colorful 2D retro side-scroller featuring the actor and a prominent facial hair motif. The humorous premise pokes fun at the controversial digital removal of his facial hair during past studio reshoots.",
+          "Gameplay centers around playful action mechanics, including wielding a trusty mustache comb imbued with lightning powers to defeat bald adversaries equipped with scissors for hands."
+        ]
+      },
+      {
+        "h": "Collaboration with Google and AI Tools",
+        "p": [
+          "The development process relies on a partnership with Google, utilizing a Googlebook device alongside an integrated suite of artificial intelligence tools. A brief demonstration video shared on YouTube highlights how easily the software allows users to build functional retro titles.",
+          "Despite ongoing industry debates regarding the integration of artificial intelligence in software creation, this specific initiative utilizes the technology for a charitable drive."
+        ]
+      },
+      {
+        "h": "Supporting Movember Charities",
+        "p": [
+          "The primary goal of Mustache Protocol is to raise funds and awareness for men's health causes throughout the month of November. Google has committed to donating eleven dollars for every individual playthrough of the 16-bit game.",
+          "Charitable beneficiaries include organizations focused on critical areas such as mental health support, suicide prevention initiatives, and ongoing cancer research efforts."
+        ]
+      },
+      {
+        "h": "Fundraising Caps and Canine Cameos",
+        "p": [
+          "Financial contributions generated through gameplay are capped at a substantial total of five hundred thousand dollars. This structure enables players to support meaningful causes simply by engaging with the digital arcade experience.",
+          "In addition to the main character, the title features appearances from the actor's two pet dogs, Cal and Baggins, who appear as muscle-bound anthropomorphic high-fiving brothers."
+        ]
+      },
+      {
+        "h": "Part of a Three-Part Video Series",
+        "p": [
+          "The announcement forms the first installment of a planned three-part short video series. Additional details and gameplay mechanics are expected to emerge as the subsequent episodes premiere online.",
+          "No specific release date has been confirmed other than a general launch window scheduled for the current month, giving supporters plenty of time to participate in the charitable campaign."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Henry Cavill is releasing a retro 2-bit side-scroller video game titled Mustache Protocol created with Google and AI tools. For every play of the game this month, Google will donate eleven dollars to men's health charities up to a cap of five hundred thousand dollars."
+        ]
+      }
+    ],
+    "facts": [
+      "Henry Cavill is releasing a video game titled Mustache Protocol",
+      "The game is a 2D retro side scroller",
+      "Google is collaborating on the project using a Googlebook and AI tools",
+      "Google will donate $11 for every play of the game",
+      "Funds raised will be capped at $500,000",
+      "Charities supported include men's health, mental health, suicide prevention, and cancer research",
+      "The game features the actor's dogs Cal and Baggins",
+      "It is part one of a three-part short video series",
+      "The release is scheduled for November"
+    ],
+    "entities": {
+      "people": [
+        "Henry Cavill",
+        "Connor MacLeod",
+        "Paul Farrelly",
+        "Cal",
+        "Baggins"
+      ],
+      "titles": [
+        "Mustache Protocol",
+        "Justice League",
+        "Grand Theft Auto VI",
+        "Man of Steel",
+        "Batman v Superman: Dawn of Justice",
+        "The Legend of Zelda: Ocarina of Time"
+      ]
+    },
+    "keywords": [
+      "Henry Cavill Mustache Protocol",
+      "Henry Cavill video game",
+      "Mustache Protocol game",
+      "Henry Cavill Movember Google"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/henry-cavill-smoking-a-cigar-as-wolverine-in-deadpool-wolverine.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Henry Cavill Announces New Retro Video Game Titled Mustache Protocol for Charity",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 10:45:38 GMT"
+  },
+  "1ly0pfa": {
+    "id": "1ly0pfa",
+    "type": "news",
+    "headline": "Ajay Devgn’s Devgn CineX Expands Multiplex Footprint to Gurugram and Rajkot",
+    "dek": "The cinema exhibition chain continues its national growth strategy by launching modern theater properties featuring advanced technology and luxury amenities in key Indian markets.",
+    "body": [
+      {
+        "h": "Expanding the Exhibition Network",
+        "p": [
+          "The cinema exhibition enterprise led by Bollywood star Ajay Devgn is widening its operational presence across India. The brand has officially announced the launch of brand-new multiplexes situated in Gurugram and Rajkot, marking a significant milestone in its aggressive rollout strategy.",
+          "This strategic growth initiative is designed to strengthen the company footprint within high-potential commercial hubs. By establishing these properties, the organization aims to deliver an elevated movie-watching environment to a broader segment of domestic audiences."
+        ]
+      },
+      {
+        "h": "Current Portfolio and Growth Goals",
+        "p": [
+          "Prior to these newest developments, the exhibition network maintained a strong footing with sixty active screens spread across twenty distinct properties in nineteen different cities. Management has set ambitious targets for the current calendar year, outlining plans to construct thirty additional screens.",
+          "The latest entries into Gurugram and Rajkot follow closely behind previous announcements regarding upcoming multiplexes scheduled for Hyderabad and Bengaluru. This steady chain of announcements highlights an ongoing mission to penetrate key regional territories across the country."
+        ]
+      },
+      {
+        "h": "Gurugram Property Specifications",
+        "p": [
+          "The newly established Gurugram venue is situated inside Vista Square Mall, a commercial development managed by SMARR Realty located in Sector 82A. This specific site boasts a total seating capacity accommodating 574 patrons.",
+          "Among its prime attractions is a massive 55-foot projection screen, which stands out as one of the largest available across the entire city. The facility pairs its visual scale with high-end hospitality services to ensure a luxurious guest outing."
+        ]
+      },
+      {
+        "h": "Rajkot Multiplex Highlights",
+        "p": [
+          "Meanwhile, the Rajkot location has found its home at Marvel Plus Mall within the Mavdi region. Mirroring its northern counterpart, this facility also features a total seating capacity of 574 individuals spread throughout its infrastructure.",
+          "The Rajkot property incorporates a five-screen layout, which notably includes a specialized Dolby Atmos auditorium designed to deliver immersive acoustic performance. Both regional locations share a common corporate vision centered on combining state-of-the-art cinema technology with elite dining choices."
+        ]
+      },
+      {
+        "h": "Luxury Seating and Hospitality",
+        "p": [
+          "Audience comfort remains a central pillar for the brand, reflected in the installation of recliner seating across every single auditorium in both new locations. Patrons can sink into luxury while taking in feature presentations.",
+          "Furthermore, the culinary experience matches the premium seating standards. Both multiplexes provide diverse food and beverage selections, offering multicuisine dishes alongside gourmet options to satisfy varied consumer tastes."
+        ]
+      },
+      {
+        "h": "Technology-Driven Convenience",
+        "p": [
+          "To streamline the visitor experience, the newly unveiled multiplexes integrate modern technological solutions for everyday theatergoing tasks. Guests can bypass traditional lobby lines by utilizing QR codes placed directly at their seats.",
+          "This in-seat digital ordering system enables moviegoers to browse services and request food and beverage items without needing to step away from their auditoriums, maximizing convenience throughout the screening."
+        ]
+      },
+      {
+        "h": "Leadership Perspective on Growth",
+        "p": [
+          "Ajay Agrawal, who serves as the Chief Executive Officer of the enterprise, shared insights regarding the ongoing rollout. He emphasized that the regional growth is deeply tied to establishing genuine connections with local communities.",
+          "According to leadership, the ultimate objective extends beyond merely claiming territory in new cities. Instead, the focus rests on giving residents compelling reasons to embrace the communal cinematic tradition through memorable, high-quality outings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajay Devgn's cinema chain has expanded its national presence by launching new multiplexes in Gurugram and Rajkot, each featuring a seating capacity of 574. The modern venues incorporate high-tech amenities such as recliner seats, a massive 55-foot screen in Gurugram, Dolby Atmos sound in Rajkot, and convenient in-seat QR code ordering."
+        ]
+      }
+    ],
+    "facts": [
+      "Devgn CineX currently operates 60 screens across 20 properties in 19 locations.",
+      "The brand plans to add 30 additional screens this year.",
+      "The Gurugram property is located at Vista Square Mall by SMARR Realty in Sector 82A.",
+      "The Gurugram multiplex has a seating capacity of 574 and features a 55-foot screen.",
+      "The Rajkot multiplex is located at Marvel Plus Mall in Mavdi.",
+      "The Rajkot property features 5 screens, including a Dolby Atmos auditorium, and a seating capacity of 574.",
+      "Ajay Agrawal is the CEO of Devgn CineX."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Ajay Agrawal"
+      ],
+      "titles": [
+        "Devgn CineX"
+      ]
+    },
+    "keywords": [
+      "Ajay Devgn",
+      "Devgn CineX",
+      "Gurugram multiplex",
+      "Rajkot multiplex"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Ajay-Devgns-Devgn-CineX-expands-footprint-with-new-multiplexes-news.jpeg",
+        "caption": "Ajay Devgn’s Devgn CineX Expands Multiplex Footprint to Gurugram and Rajkot",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:48:54 +0200"
+  },
+  "g8ewi4": {
+    "id": "g8ewi4",
+    "type": "news",
+    "headline": "Holly Willoughby steps out in a plunging black blazer dress at the Harper's Bazaar Women Of The Year Awards",
+    "dek": "The television presenter made a rare public appearance alongside her husband Dan Baldwin at Claridge's, putting on a glamorous display and posing with Cat Deeley.",
+    "body": [
+      {
+        "h": "A Rare Red Carpet Appearance",
+        "p": [
+          "Television presenter Holly Willoughby stepped away from her usual daytime aesthetic to make a striking impression at the annual Harper's Bazaar Women Of The Year Awards. Attending the star-studded ceremony on Thursday, the 45-year-old personality embraced a bold style shift, turning heads in a daring outfit.",
+          "She was joined for the glamorous evening by her husband, Dan Baldwin. The couple's rare public outing highlighted their strong bond, with the television producer keeping pace beside his wife in a sharp, classic black suit."
+        ]
+      },
+      {
+        "h": "Designer Details and Styling",
+        "p": [
+          "For the high-profile event held at Claridge's in London, Holly chose a racy, low-cut black blazer dress from the French-inspired fashion label L'AGENCE. The plunging neckline offered a distinct departure from her standard daytime television wardrobe.",
+          "To elevate the ensemble further, she paired the outfit with footwear from Italian designer Malone Souliers. She rounded off her evening look with a sleek black clutch bag and elegant gold jewellery."
+        ]
+      },
+      {
+        "h": "Getting Into the Party Mood",
+        "p": [
+          "Before hitting the red carpet and mingling with fellow industry stars, Holly shared a glimpse into her evening preparation routine with her social media followers. She revealed that she got herself energized by listening to music by George Michael.",
+          "Specifically, she tuned into the setlist ahead of the release of the George Michael Faith tour film. She expressed her excitement online, noting that it was the perfect way to start a night dedicated to celebrating remarkable women."
+        ]
+      },
+      {
+        "h": "Clearing the Air on the Red Carpet",
+        "p": [
+          "The evening also provided a moment to put any past speculation to rest. While inside the venue, Holly was seen happily posing for photographs alongside fellow presenter Cat Deeley.",
+          "The friendly interaction served as a clear display of camaraderie between the two broadcasters, effectively proving that there is no bad blood between them following Cat's transition into the This Morning hosting role."
+        ]
+      },
+      {
+        "h": "Celebrating Cultural Trailblazers",
+        "p": [
+          "The Harper's Bazaar Women Of The Year Awards gather notable figures to honor extraordinary women who have profoundly influenced fields such as fashion, film, art, literature, and culture over the preceding year. Under the leadership of Harper's Bazaar UK Editor-in-Chief Lydia Slater, the nineteenth edition of the event recognized a wide spectrum of talent.",
+          "Among the prominent honorees was veteran actress Glenn Close, who received the Icon Award for her five-decade career. Other notable winners included Mikey Madison for Film Actress, Claudia Winkleman as Television Icon, Cate Blanchett for Theatre Actress, and Sarah Burton for Designer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Holly Willoughby attended the Harper's Bazaar Women Of The Year Awards in a plunging black blazer dress alongside her husband Dan Baldwin. The presenter embraced a glamorous look, posed with Cat Deeley, and celebrated a night dedicated to honoring inspirational women in culture."
+        ]
+      }
+    ],
+    "facts": [
+      "Holly Willoughby is 45 years old.",
+      "Holly Willoughby has been married to Dan Baldwin for 19 years.",
+      "The Harper's Bazaar Women Of The Year Awards took place on Thursday, 5 November 2026.",
+      "The event was held at Claridge's in London.",
+      "Lydia Slater is the Editor-in-Chief of Harper's Bazaar UK.",
+      "Glenn Close received the Icon Award.",
+      "Mikey Madison was named Film Actress of the Year.",
+      "Claudia Winkleman was named Television Icon.",
+      "Cate Blanchett received the Theatre Actress Award.",
+      "Sarah Burton received the Designer Award."
+    ],
+    "entities": {
+      "people": [
+        "Holly Willoughby",
+        "Dan Baldwin",
+        "Cat Deeley",
+        "George Michael",
+        "Lydia Slater",
+        "Glenn Close",
+        "Mikey Madison",
+        "Bella Maclean",
+        "Stephanie Cavalli",
+        "Claudia Winkleman",
+        "Cate Blanchett",
+        "Amelia Dimoldenberg",
+        "Sarah Burton",
+        "Sam Taylor-Johnson",
+        "Indhu Rubasingham",
+        "Kate Varah",
+        "Dina Asher-Smith"
+      ],
+      "titles": [
+        "This Morning",
+        "The Traitors",
+        "Strictly Come Dancing",
+        "Anora",
+        "The Social Reckoning",
+        "Rivals",
+        "Electra/Persona",
+        "Chicken Shop Date"
+      ]
+    },
+    "keywords": [
+      "Holly Willoughby",
+      "Dan Baldwin",
+      "Harper's Bazaar Women Of The Year Awards",
+      "Cat Deeley",
+      "Claudia Winkleman"
+    ],
+    "images": [],
+    "published": "2026-11-06T10:52:27Z"
   }
 };

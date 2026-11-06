@@ -34,6 +34,35 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 09:14:28 -0500"
   },
+  "1ly0pfa": {
+    "id": "1ly0pfa",
+    "type": "news",
+    "headline": "Ajay Devgn’s Devgn CineX Expands Multiplex Footprint to Gurugram and Rajkot",
+    "dek": "The cinema exhibition chain continues its national growth strategy by launching modern theater properties featuring advanced technology and luxury amenities in key Indian markets.",
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Ajay Agrawal"
+      ],
+      "titles": [
+        "Devgn CineX"
+      ]
+    },
+    "keywords": [
+      "Ajay Devgn",
+      "Devgn CineX",
+      "Gurugram multiplex",
+      "Rajkot multiplex"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Ajay-Devgns-Devgn-CineX-expands-footprint-with-new-multiplexes-news.jpeg",
+        "caption": "Ajay Devgn’s Devgn CineX Expands Multiplex Footprint to Gurugram and Rajkot",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:48:54 +0200"
+  },
   "16wk6gw": {
     "id": "16wk6gw",
     "type": "news",
@@ -64,6 +93,127 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 14:23:08 +0200"
+  },
+  "g8ewi4": {
+    "id": "g8ewi4",
+    "type": "news",
+    "headline": "Holly Willoughby steps out in a plunging black blazer dress at the Harper's Bazaar Women Of The Year Awards",
+    "dek": "The television presenter made a rare public appearance alongside her husband Dan Baldwin at Claridge's, putting on a glamorous display and posing with Cat Deeley.",
+    "entities": {
+      "people": [
+        "Holly Willoughby",
+        "Dan Baldwin",
+        "Cat Deeley",
+        "George Michael",
+        "Lydia Slater",
+        "Glenn Close",
+        "Mikey Madison",
+        "Bella Maclean",
+        "Stephanie Cavalli",
+        "Claudia Winkleman",
+        "Cate Blanchett",
+        "Amelia Dimoldenberg",
+        "Sarah Burton",
+        "Sam Taylor-Johnson",
+        "Indhu Rubasingham",
+        "Kate Varah",
+        "Dina Asher-Smith"
+      ],
+      "titles": [
+        "This Morning",
+        "The Traitors",
+        "Strictly Come Dancing",
+        "Anora",
+        "The Social Reckoning",
+        "Rivals",
+        "Electra/Persona",
+        "Chicken Shop Date"
+      ]
+    },
+    "keywords": [
+      "Holly Willoughby",
+      "Dan Baldwin",
+      "Harper's Bazaar Women Of The Year Awards",
+      "Cat Deeley",
+      "Claudia Winkleman"
+    ],
+    "images": [],
+    "published": "2026-11-06T10:52:27Z"
+  },
+  "pfvzzv": {
+    "id": "pfvzzv",
+    "type": "news",
+    "headline": "Henry Cavill Announces New Retro Video Game Titled Mustache Protocol for Charity",
+    "dek": "Actor Henry Cavill is stepping into game development with a brand new 16-bit side-scroller created to support Movember initiatives.",
+    "entities": {
+      "people": [
+        "Henry Cavill",
+        "Connor MacLeod",
+        "Paul Farrelly",
+        "Cal",
+        "Baggins"
+      ],
+      "titles": [
+        "Mustache Protocol",
+        "Justice League",
+        "Grand Theft Auto VI",
+        "Man of Steel",
+        "Batman v Superman: Dawn of Justice",
+        "The Legend of Zelda: Ocarina of Time"
+      ]
+    },
+    "keywords": [
+      "Henry Cavill Mustache Protocol",
+      "Henry Cavill video game",
+      "Mustache Protocol game",
+      "Henry Cavill Movember Google"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/henry-cavill-smoking-a-cigar-as-wolverine-in-deadpool-wolverine.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Henry Cavill Announces New Retro Video Game Titled Mustache Protocol for Charity",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 10:45:38 GMT"
+  },
+  "yo409m": {
+    "id": "yo409m",
+    "type": "news",
+    "headline": "Salman Khan's War Drama Maatrubhumi Eyes November 20 Release Date",
+    "dek": "Bollywood superstar Salman Khan's upcoming war drama Maatrubhumi: May War Rest in Peace is reportedly targeting a theatrical premiere on November 20, 2026, following trailer certification.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Bikkumalla Santosh Babu",
+        "Chitrangda Singh",
+        "Shiv Aroor",
+        "Rahul Singh",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle of Galwan",
+        "India's Most Fearless 3",
+        "Sikandar",
+        "Ramayana: Part One"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Apoorva Lakhia Battle of Galwan",
+      "Salman Khan war drama"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028400.jpg",
+        "caption": "Salman Khan's War Drama Maatrubhumi Eyes November 20 Release Date",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 10:15:48 +0000"
   },
   "llanul": {
     "id": "llanul",
@@ -4622,106 +4772,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-04T17:00:21Z"
-  },
-  "19i6oj3": {
-    "id": "19i6oj3",
-    "type": "news",
-    "headline": "Batman: Knightfall Part 2: Knightquest Gets Official December Release Date",
-    "dek": "Warner Bros. has officially scheduled the home media release for DC Studios' upcoming animated feature, continuing the three-part adaptation of the legendary 1993 comic book arc.",
-    "entities": {
-      "people": [
-        "Rahul Majumdar",
-        "Jeff Wamester",
-        "Jeremy Adams",
-        "Sam Register",
-        "Michael E. Uslan",
-        "Rick Morales",
-        "Jim Krieg",
-        "Kimberly S. Moreau",
-        "Anson Mount",
-        "Michael Mando",
-        "Pablo Schreiber",
-        "James Gunn",
-        "Sydney Sweeney",
-        "Matt Reeves",
-        "Joaquin Phoenix",
-        "Neil Patrick Harris",
-        "Jason Sudeikis"
-      ],
-      "titles": [
-        "Batman: Knightfall Part 2: Knightquest",
-        "Batman: Knightfall",
-        "Absolute Batman",
-        "Dune: Part Three",
-        "The Batman Part II",
-        "It: Welcome to Derry",
-        "The Angry Birds Movie 3"
-      ]
-    },
-    "keywords": [
-      "Batman Knightfall Part 2",
-      "Batman Knightquest release date",
-      "Jeff Wamester Batman movie",
-      "Anson Mount Batman voice"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/batman_b50ae1.jpg?resize=1200,630",
-        "caption": "Batman: Knightfall Part 2: Knightquest Gets Official December Release Date",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 16:34:37 +0000"
-  },
-  "19ygygk": {
-    "id": "19ygygk",
-    "type": "news",
-    "headline": "Ramayana Social Media Reviews Pour In Following Grand Premiere and Ahead of November Release",
-    "dek": "Audiences and critics share polarized views on the massive mythological epic directed by Nitesh Tiwari, starring Ranbir Kapoor and Yash.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Arun Govil",
-        "Rakul Preet Singh",
-        "Lara Dutta",
-        "Vivek Oberoi",
-        "Anupam Kher",
-        "Namit Malhotra",
-        "Hans Zimmer",
-        "AR Rahman",
-        "Allu Arjun",
-        "Prabhas",
-        "SS Rajamouli"
-      ],
-      "titles": [
-        "Ramayana",
-        "Animal",
-        "Barfi",
-        "Dune Part 2",
-        "Adipurush",
-        "Varanasi"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Ranbir Kapoor Ramayana",
-      "Yash Ravana",
-      "Nitesh Tiwari Ramayana",
-      "Namit Malhotra"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaxreviewfeature-56361793809427.jpg",
-        "caption": "Ramayana Social Media Reviews Pour In Following Grand Premiere and Ahead of November Release",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 21:58:46 +0530"
   },
   "xpfszo": {
     "id": "xpfszo",
