@@ -1,6 +1,6 @@
 {
   "connected": true,
-  "generated": "2026-11-06T21:22:55Z",
+  "generated": "2026-11-06T21:53:18Z",
   "realtime": {
     "active_users": 0
   },
@@ -12,40 +12,58 @@
   },
   "last7": {
     "users": 142,
-    "pageviews": 498,
-    "sessions": 196,
-    "avg_session_seconds": 149.0
+    "pageviews": 518,
+    "sessions": 198,
+    "avg_session_seconds": 151.3
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 161,
-      "avg_time_seconds": 232.5
+      "views": 164,
+      "avg_time_seconds": 231.3
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 29,
-      "avg_time_seconds": 76.1
+      "views": 32,
+      "avg_time_seconds": 77.2
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 23,
-      "avg_time_seconds": 44.7
+      "views": 24,
+      "avg_time_seconds": 42.7
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 17,
-      "avg_time_seconds": 30.8
+      "views": 18,
+      "avg_time_seconds": 32.3
     },
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 17,
-      "avg_time_seconds": 17.2
+      "views": 18,
+      "avg_time_seconds": 18.2
+    },
+    {
+      "path": "/tv",
+      "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
+      "views": 13,
+      "avg_time_seconds": 5.4
+    },
+    {
+      "path": "/upcoming",
+      "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
+      "views": 13,
+      "avg_time_seconds": 25.9
+    },
+    {
+      "path": "/episode-guides",
+      "title": "Pakistani Drama Episode Guides | FlickAtlas",
+      "views": 12,
+      "avg_time_seconds": 13.4
     },
     {
       "path": "/movie",
@@ -54,28 +72,10 @@
       "avg_time_seconds": 20.9
     },
     {
-      "path": "/tv",
-      "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 5.7
-    },
-    {
-      "path": "/upcoming",
-      "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 28.0
-    },
-    {
-      "path": "/episode-guides",
-      "title": "Pakistani Drama Episode Guides | FlickAtlas",
+      "path": "/most-awaited",
+      "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
       "views": 11,
-      "avg_time_seconds": 12.9
-    },
-    {
-      "path": "/show",
-      "title": "Lagan Lagi (2026) — Episodes, Cast & Story | FlickAtlas",
-      "views": 11,
-      "avg_time_seconds": 44.8
+      "avg_time_seconds": 5.4
     }
   ],
   "sources": [
@@ -88,7 +88,7 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 67,
+      "sessions": 69,
       "users": 34
     },
     {

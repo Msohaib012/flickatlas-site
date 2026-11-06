@@ -73794,5 +73794,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 6 Nov 2026 19:16:09 +0000"
+  },
+  "cdspyl": {
+    "id": "cdspyl",
+    "type": "news",
+    "headline": "Ananya Panday faces social media backlash over viral smoking video",
+    "dek": "A newly surfaced video clip showing Bollywood actor Ananya Panday smoking has sparked an intense debate online, triggering mixed reactions and accusations of double standards from internet users.",
+    "body": [
+      {
+        "h": "The Viral Video Emerges",
+        "p": [
+          "A short video clip featuring actor Ananya Panday has recently surfaced across various social media platforms, quickly catching the attention of netizens. In the footage, she is seen smoking while standing in a corner.",
+          "The clip was reportedly captured during the mehendi ceremony of her cousin Alana Panday. Although the original recording was shared via an attendee's Instagram story and subsequently deleted, it managed to circulate widely online."
+        ]
+      },
+      {
+        "h": "Accusations of Double Standards",
+        "p": [
+          "The internet reaction quickly turned critical as users dug up past statements made by the actor regarding her comfort level with smoking. During promotions for her film Kho Gaye Hum Kahan, she had mentioned feeling nervous and having trembling hands while attempting to shoot a scene that involved lighting a cigarette.",
+          "This past interview led many commentators to accuse her of maintaining a double standard regarding smoking on screen versus in her personal life. The contradiction fueled immediate online trolling and extensive discussions across entertainment forums."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Public Divide",
+        "p": [
+          "While a significant portion of the online community criticized the actor, other fans came to her defense, arguing that personal habits are a private matter and should not be subject to public scrutiny. Some supporters jokingly remarked that her father, Chunky Panday, might disapprove, while others noted that celebrities often face different standards of judgment from their followers.",
+          "Conversely, health-conscious fans expressed concern, urging her to take care of her well-being. Other defenders suggested that smoking a single time does not necessarily make someone a regular smoker and pointed out that guest stories captured by attendees infringe upon personal privacy."
+        ]
+      },
+      {
+        "h": "Privacy Concerns and Celebrity Culture",
+        "p": [
+          "This incident has once again highlighted the ongoing debate surrounding celebrity privacy in the digital age. With guests and paparazzi constantly recording every movement, public figures find it increasingly difficult to maintain boundaries between their professional lives and personal celebrations.",
+          "The controversy underscores the intense public microscope under which Bollywood stars live, where private family gatherings can instantly transform into public spectacles due to social media sharing."
+        ]
+      },
+      {
+        "h": "Lack of Official Statement",
+        "p": [
+          "As the clip continued to trend and generate widespread commentary, Ananya Panday has not issued any formal response or clarification regarding the video. Representatives for the actor have remained silent on the matter.",
+          "With no official word from her team, public speculation and online debates continue to thrive without definitive confirmation about the exact context or timeline of when the video was recorded."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A video showing Ananya Panday smoking at a family celebration went viral on social media, leading to severe online trolling and accusations of double standards because of her past comments about smoking on screen. While critics and concerned fans debated her actions and personal choices, the incident reignited discussions about celebrity privacy and the constant digital surveillance faced by public figures."
+        ]
+      }
+    ],
+    "facts": [
+      "Ananya Panday was seen smoking in a viral video clip.",
+      "The video was reportedly from the mehendi ceremony of her cousin Alana Panday.",
+      "Users recalled her past statements about feeling uncomfortable and having trembling hands while shooting a cigarette-lighting scene for Kho Gaye Hum Kahan.",
+      "The clip was originally posted on an Instagram story by a guest and later deleted."
+    ],
+    "entities": {
+      "people": [
+        "Ananya Panday",
+        "Alana Panday",
+        "Chunky Panday"
+      ],
+      "titles": [
+        "Kho Gaye Hum Kahan"
+      ]
+    },
+    "keywords": [
+      "Ananya Panday smoking video",
+      "Ananya Panday viral controversy",
+      "Alana Panday mehendi ceremony",
+      "Kho Gaye Hum Kahan"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aed883cd51d0-ananya-pandey-065643550-16x9.jpg",
+        "caption": "Ananya Panday faces social media backlash over viral smoking video",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T21:52:05Z"
+  },
+  "10hb28o": {
+    "id": "10hb28o",
+    "type": "news",
+    "headline": "Shailesh Lodha Sparked Online Debate Over Stage Preachers and Hypocrisy",
+    "dek": "Television actor and poet Shailesh Lodha drew intense public attention and social media debate after questioning spiritual preachers who lecture on abandoning worldly attachments while sitting on grand thrones.",
+    "body": [
+      {
+        "h": "Controversial Remarks From the Stage",
+        "p": [
+          "Shailesh Lodha, widely known for his artistic background as both an actor and a poet, recently ignited a significant controversy during a public event. Addressing the audience from the stage, he openly criticized certain kathavachaks, or spiritual storytellers, for preaching detachment from material desires while simultaneously delivering their sermons from luxurious, elevated thrones.",
+          "His remarks drew a sharp contrast regarding how spiritual messages are conveyed. Lodha pointed out the irony of individuals organizing massive tents to teach people to renounce worldly pleasures, yet sitting comfortably on grand chairs to narrate the story of Lord Rama, who himself chose to renounce his throne."
+        ]
+      },
+      {
+        "h": "Connections to Dhirendra Shastri",
+        "p": [
+          "The timing of Lodha's comments coincided with a broader ongoing discourse surrounding popular spiritual figures. Recently, Dhirendra Shastri, widely recognized as Bageshwar Baba, made headlines and sparked controversies of his own with statements regarding Hindu deities.",
+          "Because of this concurrent climate, observers and social media users quickly linked Lodha's critique to figures like Shastri, amplifying the reach of the video clip across multiple digital platforms and driving intense discussions about the commercialization of faith."
+        ]
+      },
+      {
+        "h": "Mixed Public Reactions Online",
+        "p": [
+          "Following the circulation of the viral video clip, public opinion split sharply into contrasting camps. A segment of internet users expressed strong support for Lodha's perspective, praising him for voicing a critique against perceived hypocrisy in modern spiritual gatherings.",
+          "Conversely, a large number of users turned their attention toward Lodha himself, questioning his own positioning on stage as a paid performer and poet. Critics argued that delivering poetry and entertainment from microphones and stages makes him similarly dependent on the very platforms he critiques."
+        ]
+      },
+      {
+        "h": "Targeting Kumar Vishwas in Discussions",
+        "p": [
+          "As the comment sections filled with heated exchanges, several users speculated that Lodha's indirect criticism might actually be aimed at fellow poet and speaker Kumar Vishwas. The overlap between stage poetry, spiritual storytelling, and massive public gatherings fueled these assumptions.",
+          "Some commenters directly challenged Lodha to abandon his microphones, stages, and applause if he truly valued complete detachment, suggesting that practicing such ideals is far easier said than done when standing in the spotlight."
+        ]
+      },
+      {
+        "h": "Challenging the Critic's Stance",
+        "p": [
+          "Further intensifying the debate, certain users questioned where else people are expected to listen to discourses or cultural storytelling if stages are deemed inappropriate. One user rhetorically asked whether audiences should gather on the streets instead.",
+          "The pushback highlighted a growing fatigue among audiences regarding celebrities and public figures passing commentary on religious or spiritual practices while themselves participating in commercialized public events for financial gain."
+        ]
+      },
+      {
+        "h": "Background of Shailesh Lodha",
+        "p": [
+          "Shailesh Lodha earned massive household fame across India through his long-standing role as the titular character in the immensely popular television sitcom Tarak Mehta Ka Ooltah Chashmah. His character served as the moral anchor and friend to Jethalal.",
+          "Although Lodha officially departed from the long-running daily soap in 2022, his identity remains deeply intertwined with the show, ensuring that any public statement he makes instantly attracts widespread media coverage and fan engagement."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor and poet Shailesh Lodha sparked a viral social media debate by criticizing spiritual storytellers who preach detachment while sitting on elevated thrones. While some fans supported his views against hypocrisy, many internet users trolled him and drew comparisons to figures like Kumar Vishwas and Dhirendra Shastri."
+        ]
+      }
+    ],
+    "facts": [
+      "Shailesh Lodha criticized spiritual storytellers for preaching detachment while sitting on grand thrones.",
+      "The remarks triggered a viral debate on social media on November 6, 2026.",
+      "Shailesh Lodha played the character of Tarak Mehta in the television show Tarak Mehta Ka Ooltah Chashmah and left the show in 2022.",
+      "Users on social media linked the discussion to Dhirendra Shastri and Kumar Vishwas."
+    ],
+    "entities": {
+      "people": [
+        "Shailesh Lodha",
+        "Dhirendra Shastri",
+        "Kumar Vishwas",
+        "Jethalal"
+      ],
+      "titles": [
+        "Tarak Mehta Ka Ooltah Chashmah"
+      ]
+    },
+    "keywords": [
+      "Shailesh Lodha",
+      "Bageshwar Dham Dhirendra Shastri",
+      "Kumar Vishwas",
+      "Tarak Mehta Ka Ooltah Chashmah"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aedad7e5dbe5-shailesh-lodha-slams-kathavachak-bageshwar-dhirendra-shastri-063541173-16x9.jpg",
+        "caption": "Shailesh Lodha Sparked Online Debate Over Stage Preachers and Hypocrisy",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T21:52:05Z"
+  },
+  "1p2ef8k": {
+    "id": "1p2ef8k",
+    "type": "news",
+    "headline": "Paramount Network Picks Up 13 Original Episodes of Clip Show 'American Mayhem' Hosted by Larry the Cable Guy",
+    "dek": "The comedian is bringing his signature heartland humor to linear television in a new half-hour series produced by V10 Entertainment.",
+    "body": [
+      {
+        "h": "Paramount Network Orders New Series",
+        "p": [
+          "Paramount Network has officially expanded its programming lineup by securing a brand-new series led by a well-known comedian. The network has issued an order for a set of original episodes that will bring quick-witted commentary and everyday humor directly to linear cable viewers.",
+          "This television pickup highlights the network's ongoing strategy to feature entertaining content that appeals to a wide audience. The project will serve as a prominent addition to their weekly schedule."
+        ]
+      },
+      {
+        "h": "Format and Premiere Details",
+        "p": [
+          "The newly ordered program is a half-hour clip series designed to showcase amusing and relatable situations from across the country. Scheduled to debut on a Friday evening, the project represents a fresh venture for the platform.",
+          "The initial batch consists of thirteen brand-new instalments created exclusively for this specific television network. Viewers can expect fast-paced entertainment highlighting ordinary mishaps and lighthearted moments."
+        ]
+      },
+      {
+        "h": "Syndication and Separate Distribution",
+        "p": [
+          "While the cable network is receiving its own dedicated run, the property also exists in a broader syndicated version. A separate distribution agreement has been established to bring a larger collection of episodes to television stations across multiple major markets.",
+          "Major metropolitan areas including New York, Los Angeles, and Chicago are included in the syndication rollout. This multi-platform approach allows the production to reach viewers through both local broadcast stations and cable networks."
+        ]
+      },
+      {
+        "h": "Content and Logline",
+        "p": [
+          "The premise of the program focuses on everyday life, capturing funny and unexpected occurrences from small towns and family gatherings. Content ranges from weekend do-it-yourself disasters and backyard slip-ups to pets stealing the spotlight.",
+          "The host relies on his distinctive perspective and heartland humor to guide the audience through these unpredictable situations. The tone is meant to celebrate the rough-and-tumble side of Americana with warmth and amusement."
+        ]
+      },
+      {
+        "h": "Executive Perspectives",
+        "p": [
+          "Network executives have expressed enthusiasm about the collaboration, pointing out the host's natural ability to connect with viewers. Leadership noted that the format reflects the unpredictable nature of daily life in an entertaining way.",
+          "Representatives from the production company echoed these sentiments, emphasizing that the star understands his audience deeply. They also highlighted the value of maintaining a strong working relationship with their partners."
+        ]
+      },
+      {
+        "h": "Behind the Scenes",
+        "p": [
+          "The series is backed by a team of executive producers working alongside the main host. Key production figures contributing to the project include Maggie Houlehan, Carter Skeath, Rick De Oliveira, Josh Vodnoy, and John Stevens.",
+          "Production responsibilities are handled by V10 Entertainment, which coordinated the multi-tiered distribution strategy for both the cable and syndicated versions of the show."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount Network has ordered thirteen original episodes of the clip show 'American Mayhem' hosted by Larry the Cable Guy. Produced by V10 Entertainment, the half-hour series debuts on November 13, running alongside a separate syndicated version distributed by CBS Media Ventures."
+        ]
+      }
+    ],
+    "facts": [
+      "Paramount Network ordered 13 original episodes of 'American Mayhem'",
+      "The show is hosted by Larry the Cable Guy",
+      "The series premieres on Friday, Nov. 13, at 9 p.m. ET",
+      "The production company is V10 Entertainment",
+      "The syndicated version has 52 episodes and is distributed by CBS Media Ventures",
+      "Executive producers include Larry The Cable Guy, Maggie Houlehan, Carter Skeath, Rick De Oliveira, Josh Vodnoy, and John Stevens"
+    ],
+    "entities": {
+      "people": [
+        "Larry the Cable Guy",
+        "Michael Schneider",
+        "Tracy May",
+        "Curry Barker",
+        "Nathan Fielder",
+        "Robert Downey Jr.",
+        "Guillermo del Toro",
+        "Steven Spielberg",
+        "Laurel Weir",
+        "Maggie Houlehan",
+        "Carter Skeath",
+        "Rick De Oliveira",
+        "Josh Vodnoy",
+        "John Stevens",
+        "Russell Brand",
+        "Bear Grylls",
+        "Liam Neeson",
+        "Meryl Streep",
+        "Greta Gerwig",
+        "Adam Driver",
+        "Nicolas Cage",
+        "Bill Skarsgård",
+        "Katherine Ryan",
+        "Rajinikanth",
+        "Andrew Wallenstein",
+        "Ben Affleck",
+        "Pete Davidson",
+        "Jennifer Hudson",
+        "Tom Cruise",
+        "Chris Rock"
+      ],
+      "titles": [
+        "American Mayhem",
+        "Wheel of Fortune",
+        "Entertainment Tonight",
+        "Access Hollywood",
+        "Obsession",
+        "You Can See Everything",
+        "The Odyssey",
+        "Narnia",
+        "The Hunt for Ben Solo",
+        "Stranger Things",
+        "Other Worlds",
+        "Torino",
+        "Lords of War",
+        "Lord of War",
+        "Roku",
+        "Jailer 2",
+        "La Bola Negra",
+        "Misty Green"
+      ]
+    },
+    "keywords": [
+      "American Mayhem",
+      "Larry the Cable Guy",
+      "Paramount Network",
+      "V10 Entertainment"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/05/Larry-the-Cable-Guy-Headshot-e1777933809383.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Paramount Network Picks Up 13 Original Episodes of Clip Show 'American Mayhem' Hosted by Larry the Cable Guy",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 20:48:59 +0000"
+  },
+  "e0memz": {
+    "id": "e0memz",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Box Office Collection Shows Strong Early Earnings and Occupancy",
+    "dek": "An overview of the box office performance, occupancy rates, and language-wise earnings for Ramayana: Part 1 during its opening weekend.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The theatrical run of Ramayana: Part 1 has drawn significant attention from trade analysts and moviegoers alike. As the film progresses through its initial release window, early estimates provide a clear picture of its commercial trajectory.",
+          "Industry trackers continue to monitor the daily figures closely as the project establishes its footprint across domestic and international territories."
+        ]
+      },
+      {
+        "h": "Language-Wise Earnings Breakdown",
+        "p": [
+          "On its first day in theaters, the movie pulled in a massive total of 62.5 crore rupees net across multiple languages. The Hindi version led the charge with 45 crore rupees, followed by Kannada contributing 7.5 crore rupees.",
+          "Additionally, the Telugu version earned 6 crore rupees, Tamil brought in 2.5 crore rupees, and the Malayalam version secured 1.5 crore rupees on opening day."
+        ]
+      },
+      {
+        "h": "Second Day Collection Trajectory",
+        "p": [
+          "Entering the second day of its theatrical run, the multi-language feature registered 46.75 crore rupees net. The Hindi segment accounted for 34 crore rupees of that total.",
+          "Meanwhile, regional language contributions on day two included 5.25 crore rupees from Kannada, 4.75 crore rupees from Telugu, 1.5 crore rupees from Tamil, and 1.25 crore rupees from Malayalam."
+        ]
+      },
+      {
+        "h": "Audience Occupancy Trends",
+        "p": [
+          "Theater seat occupancy for the Hindi version of the production saw notable variations across different show timings during the opening days. On the first day, morning shows recorded 18 to 20 percent occupancy, which rose during afternoon screenings to 23 to 25 percent, and peaked during night shows at 45 to 50 percent for an overall 30.17 percent rate.",
+          "The second day experienced a shift in theater attendance, with morning occupancy standing at 13 to 14 percent, afternoon shows filling 15 to 20 percent of seats, and night screenings reaching 35 to 40 percent for an overall average of 22.83 percent."
+        ]
+      },
+      {
+        "h": "Total Earnings and Global Figures",
+        "p": [
+          "Based on early industry estimates, the combined net collection for Ramayana: Part 1 reached 109.25 crore rupees across the country. The corresponding gross collection within India stands at an estimated 128.9 crore rupees.",
+          "Beyond domestic borders, overseas markets contributed 4.75 million US dollars, translating to approximately 44.75 crore rupees, bringing the cumulative worldwide gross to an estimated 173.65 crore rupees."
+        ]
+      },
+      {
+        "h": "Data Sources and Verification",
+        "p": [
+          "Financial reporting for the film relies on early estimates, industry reports, and various tracking sources. These figures serve as preliminary indicators and may differ from official producer statements.",
+          "Observers note that verdicts and final tallies will be updated as verified box office data becomes available in the coming days."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has accumulated an estimated 109.25 crore rupees net across India during its early theatrical run, driven by strong language-wise earnings and notable occupancy rates. The film has further expanded its global reach with overseas collections pushing its total worldwide earnings to an estimated 173.65 crore rupees."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 earned 62.5 cr net on Day 1 across all languages.",
+      "Day 1 Hindi collection was 45 cr, Kannada was 7.5 cr, Telugu was 6 cr, Tamil was 2.5 cr, and Malayalam was 1.5 cr.",
+      "Ramayana: Part 1 earned 46.75 cr net on Day 2 across all languages.",
+      "Day 2 Hindi collection was 34 cr, Kannada was 5.25 cr, Telugu was 4.75 cr, Tamil was 1.5 cr, and Malayalam was 1.25 cr.",
+      "Total India net collection is estimated at 109.25 cr.",
+      "India gross collection is estimated at 128.9 cr.",
+      "Overseas collection is $4.75 million, which is 44.75 crore rupees.",
+      "Worldwide collection is estimated at 173.65 cr.",
+      "Day 1 Hindi occupancy was 30.17% overall.",
+      "Day 2 Hindi occupancy was 22.83% overall."
+    ],
+    "entities": {
+      "people": [
+        "Ankur Baruah"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office collection",
+      "Ramayana Part 1 day 1 earnings",
+      "Ramayana Part 1 day 2 collection",
+      "Ramayana Part 1 occupancy"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtycxy-IU7NltX0S3ZziabAdNg13RuJKEcEXg1BTeA8isc8frba-gdP_dXURki4XkHpzpTKNeRGgZDzxKN5h4MSNxy8bLBLRqSud2uaAcGbYYKmzi-Ct2BOruS-CHNPevwu-T6-iT8FXzEhyyVM9JmN92LTGuB4pZWJrIMErV_5WeTMV0aGEI55lpUvjo/w1600/ramayana-part-1-day-3-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Box Office Collection Shows Strong Early Earnings and Occupancy",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-07T00:32:32.443+05:30"
   }
 };
