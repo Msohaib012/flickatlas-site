@@ -173,9 +173,9 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Ramayana: Rise of a Legend",
     "poster_path": "/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
-    "backdrop_path": "/prbMZ3DPf8taS6JYQd6igPnm2mA.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "backdrop_path": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+    "vote_average": 6.6,
+    "vote_count": 8,
     "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
     "industry": "bollywood",
     "original_language": "hi",
@@ -211,9 +211,10 @@ window.FA_PUBLISHED = {
     ],
     "certification": "U",
     "release_date": "2026-11-05",
-    "runtime": 195,
+    "runtime": 208,
     "providers": [],
-    "date_kind": "release"
+    "date_kind": "release",
+    "popularity": 117.3475
   },
   "1389172": {
     "id": 1389172,
@@ -417,8 +418,8 @@ window.FA_PUBLISHED = {
     "title": "Wild Horse Nine",
     "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "vote_average": 8.8,
-    "vote_count": 8,
+    "vote_average": 8.6,
+    "vote_count": 30,
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
     "industry": "world",
     "original_language": "en",
@@ -456,7 +457,8 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-06",
     "runtime": 117,
     "providers": [],
-    "date_kind": "release"
+    "date_kind": "release",
+    "popularity": 46.9578
   },
   "1453407": {
     "id": 1453407,
@@ -1297,18 +1299,19 @@ window.FA_PUBLISHED = {
       "Action"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
     "spoken_languages": [
       "ml"
     ],
-    "certification": "NR",
+    "certification": "A",
     "release_date": "2026-11-06",
-    "runtime": 155,
+    "runtime": 145,
     "providers": [],
-    "date_kind": "release"
+    "date_kind": "release",
+    "popularity": 6.2034
   },
   "1451944": {
     "id": 1451944,
@@ -3767,8 +3770,8 @@ window.FA_PUBLISHED = {
     "title": "Scene",
     "poster_path": "/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg",
     "backdrop_path": "/zYiUafcGC7JqK01GYbkimBYNaUR.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 9.0,
+    "vote_count": 2,
     "overview": "Inbaraj, a police officer, is forced to reopen a case he left unfinished years ago. This time, he must solve it with a chaotic and troublesome team. As they struggle to work together and deal with the twists and turns of the case, the investigation takes them on a chaotic and unpredictable ride.",
     "industry": "bollywood",
     "original_language": "ta",
@@ -3786,22 +3789,22 @@ window.FA_PUBLISHED = {
     "genres": [
       "Action",
       "Comedy",
-      "Thriller"
+      "Crime"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
     "spoken_languages": [
-      "ta",
-      "ml"
+      "ta"
     ],
     "certification": "U/A 16+",
     "release_date": "2026-11-06",
     "date_kind": "release",
     "runtime": 149,
-    "providers": []
+    "providers": [],
+    "popularity": 7.9219
   },
   "1081010": {
     "id": 1081010,
@@ -4347,18 +4350,19 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
     "spoken_languages": [
       "ta"
     ],
-    "certification": "NR",
+    "certification": "U/A 16+",
     "release_date": "2026-11-06",
     "date_kind": "release",
-    "runtime": 145,
-    "providers": []
+    "runtime": 144,
+    "providers": [],
+    "popularity": 5.3855
   },
   "1355228": {
     "id": 1355228,
@@ -7697,16 +7701,20 @@ window.FA_PUBLISHED = {
     "title": "Dilwali Diwali",
     "poster_path": "/cV31QO65DA6mk4Hd6S7QncVq85T.jpg",
     "backdrop_path": "/jjq0mxPwmyYVGgpIze98WLRoODI.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
-    "overview": "",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "Ansh Sikkha returns to his Punjabi family home for Diwali after years working abroad. As the Sikkas gather for the festival, their clashing views on what constitutes a fulfilling life create friction and connection.",
     "industry": "bollywood",
-    "popularity": 0.2523,
+    "popularity": 6.0629,
     "original_language": "hi",
     "origin_country": [
       "IN"
     ],
-    "trailer": null,
+    "trailer": {
+      "key": "m4aJdzwSOZg",
+      "name": "Dilwali Diwali | Official Trailer | AfricaOnNetflix",
+      "site": "YouTube"
+    },
     "categories": [
       "movies"
     ],
@@ -7718,7 +7726,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
@@ -7728,7 +7736,7 @@ window.FA_PUBLISHED = {
     "certification": "PG",
     "release_date": "2026-11-05",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 61,
     "providers": []
   },
   "321221": {
@@ -7876,7 +7884,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Naomi calls Matteo and compares him to the sea: how can you ask the waves to be anything other than waves? To have known him is enough. His answer is less enthusiastic, and finding herself emptier than she had thought, she heads into a rocky valley to find inner connection: to hear what the rocks, trees, and wind have to say about it all.",
     "industry": "world",
-    "popularity": 0.1359,
+    "popularity": 0.957,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -7891,7 +7899,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "NL"
     ],
@@ -8063,7 +8071,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Fed up with her inability to orgasm, Fran seeks out a local porn star hoping he'll finally get her rocks off. The only problem...he's gay. However, his will to help leads Fran to finally discover pleasure in the most unexpected of places.",
     "industry": "world",
-    "popularity": 0.5566,
+    "popularity": 5.2448,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -8080,7 +8088,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "US"
     ],
@@ -8088,7 +8096,7 @@ window.FA_PUBLISHED = {
       "en"
     ],
     "certification": "",
-    "release_date": "2026-11-05",
+    "release_date": "2026-10-31",
     "date_kind": "festival",
     "runtime": 21,
     "providers": []
@@ -8103,7 +8111,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Meet the Filipino Mafia Family.  “Blood is thicker than water. We’re happy to spill yours.”  Marrying into this family? Good luck.",
     "industry": "world",
-    "popularity": 1.2527,
+    "popularity": 1.8912,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -8120,7 +8128,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "CA"
     ],
@@ -8141,7 +8149,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two years in the making, \"Life Sure Is Sweet\" is a independent coming-of-age snowboard documentary produced by the creative collective TDI (Technically Doing It). Featuring an all-Black and Brown crew of riders travelling and filming across the globe, the film moves beyond high-level action sports progression to explore deep themes of cultural identity, community, lifelong friendship, and charting your own path in the mountains.",
     "industry": "world",
-    "popularity": 0.5946,
+    "popularity": 0.2622,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -8158,7 +8166,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -8177,7 +8185,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The scene is the almost mythical landscape of Ben Loyal, one of Scotland's most remote mountains towering over the Arctic Ocean. The cliff is one of the finest sweeps of clean unclimbed rock to be found anywhere in the land. The climber is the thought-provoking controversial live-wire, who goes by the name of Franco Cookson. This is the epic story of the UK's most dangerous trad route and the 105 days of climbing it took to realise one man's dream; 'Nothing is Lost' E12 7a.",
     "industry": "world",
-    "popularity": 0.8143,
+    "popularity": 0.3253,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -8194,7 +8202,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "GB"
     ],
@@ -8215,7 +8223,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 1.7176,
+    "popularity": 1.5601,
     "original_language": "da",
     "origin_country": [
       "DK"
@@ -8232,7 +8240,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "DK"
     ],
@@ -8253,7 +8261,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The film is a silent invitation to contemplation: on the winding paths of preserving memory, on what slips through our fingers in the present, and on our own place in the face of the departure of those we love, the disappearance of places, and the subtle marks we leave along the way.",
     "industry": "world",
-    "popularity": 1.2633,
+    "popularity": 0.472,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -8270,7 +8278,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "BR"
     ],
@@ -8293,7 +8301,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The spiritual journey of a human being -an idealized model, a prophet of purity- on the path toward the Nietzschean Übermensch, reinterpreted through a contemporary lens. From the social darkness of the Camel, taking its steps through a desert of melancholy and solitude, to the verbal force of the Lion, reflected in its absolute moral freedom and freedom of thought, up to the birth of the Child, the very manifesto of innocence, ruled by instinct, physical ecstasy, a continuous search for the Self, and constant linguistic experimentation.",
     "industry": "world",
-    "popularity": 0.5538,
+    "popularity": 0.1539,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -8310,7 +8318,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "CAMEL, LION, CHILD.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "IT"
     ],
@@ -8334,7 +8342,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Filmed during a shared harvest dinner with organizers and collaborators, The Whores Feast brings together Ceyenne Doroshow of G.L.I.T.S., Victoria Von Blaque of Trans Equity Consulting, Lisa 张小华 of Red Canary Song, and Amalia Valentine of Decrim NY. Their conversation lingers over nourishment, labor, chosen family, honoring the collective practices of care that sustain communities through ongoing precarity.",
     "industry": "world",
-    "popularity": 1.172,
+    "popularity": 0.7854,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -8349,7 +8357,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -8363,12 +8371,12 @@ window.FA_PUBLISHED = {
     "type": "movie",
     "title": "Hit the Books, Harry!",
     "poster_path": "/fDL7CJQxQd4504xexfC4np6KvHd.jpg",
-    "backdrop_path": null,
+    "backdrop_path": "/bZppbOFUXRa2Wj4xmqgjJYoJbw.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A stressed, under-prepared college student spots a girl across the empty library as he crams for his exams.",
     "industry": "world",
-    "popularity": 0.8846,
+    "popularity": 0.3812,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -8386,7 +8394,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "NR",
@@ -8509,7 +8517,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Moonwalk is a family comedy entertainer starring Prabhudeva, Yogi Babu, Aju Varghese, and Arjun Ashokan. Featuring music by A. R. Rahman, the film marks the high-profile reunion of Rahman and Prabhudeva after 30 years. Moonwalk also serves as Rahman’s acting debut. Designed as a wholesome theatrical experience, the film combines high-energy dance, music, and humor for families, children and audiences of all ages.",
     "industry": "bollywood",
-    "popularity": 2.592,
+    "popularity": 1.0751,
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -8596,7 +8604,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5822,
+    "popularity": 0.894,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -8614,7 +8622,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -8712,7 +8720,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "bollywood",
-    "popularity": 2.2077,
+    "popularity": 1.4379,
     "original_language": "ta",
     "origin_country": [
       "IN"
@@ -8739,9 +8747,9 @@ window.FA_PUBLISHED = {
       "ta"
     ],
     "certification": "",
-    "release_date": "2026-11-06",
+    "release_date": "2026-11-20",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 134,
     "providers": []
   },
   "1809955": {
@@ -8754,7 +8762,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Can the sea wash everything away? Huellas reconstructs the circuit of state terrorism in Mar del Plata, 50 years after the civic-military coup. Through the testimonies of survivors, family members and specialists, the documentary probes the indelible marks left by repression and the resilience of a community that demands memory. Because history never ends, it is written.",
     "industry": "world",
-    "popularity": 0.4104,
+    "popularity": 1.3955,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -8771,7 +8779,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -8794,7 +8802,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Sequel to Lakadbaggha (2023). Plot TBA.",
     "industry": "bollywood",
-    "popularity": 0.9239,
+    "popularity": 0.6042,
     "original_language": "hi",
     "origin_country": [
       "IN"
@@ -8811,7 +8819,7 @@ window.FA_PUBLISHED = {
       "Action"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
@@ -8834,7 +8842,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3508,
+    "popularity": 0.5933,
     "original_language": "tr",
     "origin_country": [
       "TR"
@@ -8852,7 +8860,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "Genel İzleyici Kitlesi",
@@ -8871,7 +8879,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Bamakhyapa, an Indian saint living in the 18th century, is a great devotee of Goddess Tara. Though he is against the unconventional orthodox temple practices, he uses his divine powers to help the needy.",
     "industry": "bollywood",
-    "popularity": 0.7111,
+    "popularity": 0.4809,
     "original_language": "bn",
     "origin_country": [],
     "trailer": null,
@@ -8887,7 +8895,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "IN"
     ],
@@ -8908,7 +8916,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Andrés is a veteran of the Malvinas War. He works at the family transportation company. News arrives that the EAAF?the Argentine Forensic Anthropology Team?has identified the remains of his friend Damián, who fell in battle. He has started smoking again. A delegation is being organized to travel to the Islands and attend the ceremony. An old pang of guilt torments him: when Damián fell, he was a few meters behind him, firing his weapon. He always knew it wasn?t him, but the specter of friendly fire casts a shadow over his memory.",
     "industry": "world",
-    "popularity": 0.3443,
+    "popularity": 4.5308,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -8923,7 +8931,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -8946,7 +8954,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An intimate documentary about Diego Armando Maradona, told from a unique perspective: through the eyes of someone who quietly stood by his side, capturing moments the world had never seen. Through exclusive photos and private videos, the film reveals Diego beyond the stadium and the myth, showing his most human side. For years, Jorge Luengo witnessed defining and everyday moments of Maradona?s life.",
     "industry": "world",
-    "popularity": 0.3898,
+    "popularity": 1.3013,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -8963,7 +8971,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -8986,7 +8994,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Leonora is an overwhelmed mother of two young girls and an architect whose career has been put on hold. While her husband works all day, she carries the weight of raising their children and the quiet feeling that she has lost herself somewhere along the way. One afternoon, in the middle of her daughter?s birthday party, she drives away, leaving behind the noise and contradictions of motherhood.",
     "industry": "world",
-    "popularity": 0.5899,
+    "popularity": 1.4956,
     "original_language": "es",
     "origin_country": [
       "CO",
@@ -9002,7 +9010,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "CO",
       "MX"
@@ -9026,7 +9034,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Through interviews with its creators, footage of rehearsals, and scenes from performances in the main auditorium of the Teatro Nacional Cervantes, the film chronicles the development of a show that pays tribute to a century-old Argentine musical tradition: La Revista.",
     "industry": "world",
-    "popularity": 0.3183,
+    "popularity": 1.0059,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -9043,7 +9051,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -9066,7 +9074,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A disgruntled Big City detective hunts down his prime suspect in a city known for nothing good.",
     "industry": "world",
-    "popularity": 0.5215,
+    "popularity": 0.2496,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -9084,7 +9092,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "This dirty, rotten, feral city",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -9143,7 +9151,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.9086,
+    "popularity": 0.8516,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -9160,7 +9168,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "pt"
@@ -9175,13 +9183,13 @@ window.FA_PUBLISHED = {
     "id": 1802699,
     "type": "movie",
     "title": "Curb Appeal",
-    "poster_path": "/tJr4EHS5FEoHowWcwM8PmFApazq.jpg",
+    "poster_path": "/hZLILuPAnbzIdU35OwRlcdcGvjS.jpg",
     "backdrop_path": "/lJsN6IAuwjc5bJlTb57jDlhSRhz.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "From conception to construction, a dream home is built.",
     "industry": "world",
-    "popularity": 0.6456,
+    "popularity": 0.2718,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -9198,7 +9206,7 @@ window.FA_PUBLISHED = {
       "Animation"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -9219,7 +9227,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.7822,
+    "popularity": 0.5293,
     "original_language": "es",
     "origin_country": [
       "PE"
@@ -9237,7 +9245,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "PE"
     ],
@@ -9260,7 +9268,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two filmmakers propose to Cristián Sánchez, a cult Chilean director, to make a film. The condition is that he resurrects the characters of his classic works, but in the form of zombies. He fights to protect his artistic principles but ends up trapped in his own film.",
     "industry": "world",
-    "popularity": 4.2707,
+    "popularity": 1.8102,
     "original_language": "es",
     "origin_country": [
       "CL"
@@ -9277,7 +9285,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es"
@@ -10990,7 +10998,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?",
     "industry": "pakistani",
-    "popularity": 1.0926,
+    "popularity": 1.329,
     "original_language": "ur",
     "origin_country": [
       "PK"
@@ -11146,7 +11154,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0,
+    "popularity": 0.2091,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -11163,7 +11171,7 @@ window.FA_PUBLISHED = {
       "Science Fiction"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -11182,7 +11190,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A documentary reminiscing on the 70 years history of a beloved cinema in Padua.",
     "industry": "world",
-    "popularity": 0.4389,
+    "popularity": 0.3496,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -11197,7 +11205,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "Lo schermo più grande di Padova",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "IT"
     ],
@@ -11220,7 +11228,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "All but resigned to being trapped on the ground by an illness that makes orientation in flight impossible, a pigeon finds refuge in the home of Maruja, a lonely old woman determined to help the bird return to the sky.",
     "industry": "world",
-    "popularity": 1.5178,
+    "popularity": 0.8476,
     "original_language": "es",
     "origin_country": [
       "ES"
@@ -11237,7 +11245,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es"
@@ -11258,7 +11266,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Annapurna: Dreams and Nightmares is a 2026 documentary film by Thin Air Cinematics that challenges the traditional \"man-conquers-mountain\" story by exploring high-altitude mountaineering through failure, fear and human obsession  Filmed over 13 years, spanning 6 expeditions on 5 different climbing routes, this deeply personal documentary is an unflinching exploration into the life and mind of a high-altitude climber.  What begins with a dream becomes obsession, and ultimately a reckoning with why we climb in the first place.",
     "industry": "world",
-    "popularity": 1.8389,
+    "popularity": 1.5627,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -11276,7 +11284,7 @@ window.FA_PUBLISHED = {
       "Adventure"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -11295,7 +11303,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "As a strange red lichen spreads across the countryside, Geryon confronts the emergence of sexual desire and an animal metamorphosis that drives him to flee into the mountains.",
     "industry": "world",
-    "popularity": 1.8003,
+    "popularity": 0.4928,
     "original_language": "es",
     "origin_country": [
       "CO"
@@ -11313,7 +11321,7 @@ window.FA_PUBLISHED = {
       "Fantasy"
     ],
     "tagline": "A gothic fable of desire and erotic awakening",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es"
@@ -11334,7 +11342,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The project was developed in collaboration with scientists from CONICET and the National University of the Northeast, who have been conducting research in the area for over four decades. Together with them, we delved into the thresholds of other geological eras, exploring interspecies coexistence and dialogues.",
     "industry": "world",
-    "popularity": 0.7922,
+    "popularity": 0.2367,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -11349,7 +11357,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -11372,7 +11380,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Retired Lao Cao and Xiao Lai, two old men, sit on opposite sides of a drinking table under an arcade in Taipei. They toast and talk nonsense like this every day, and they have done it for more than thirty years. A young director who meant only to watch somehow ends up at the table too, spending many absurd and moving nights with them. Years pass. Someone leaves, someone falls ill, and some relationships are repaired and then break again. The two men are old, they are nearly done with drink, and they no longer see each other often.",
     "industry": "world",
-    "popularity": 1.0744,
+    "popularity": 0.6965,
     "original_language": "zh",
     "origin_country": [
       "TW"
@@ -11389,7 +11397,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "TW"
     ],
@@ -11412,7 +11420,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
     "industry": "world",
-    "popularity": 1.3947,
+    "popularity": 1.5987,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -11433,7 +11441,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "US",
       "GB"
@@ -11457,7 +11465,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Where does the Ukrainian road home begin and where does it end? The poetic journey follows a Ukrainian actress, Yelyzaveta, who emigrated to Lithuania, traveling back to her homeland country ravaged by war. Will we reach the final destination? How to reach home? Relatives? How to get back to the past which no longer exists? Can we wake up from the dream?",
     "industry": "world",
-    "popularity": 1.7878,
+    "popularity": 1.6501,
     "original_language": "lt",
     "origin_country": [
       "LT"
@@ -11474,7 +11482,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "LT"
     ],
@@ -28912,14 +28920,18 @@ window.FA_PUBLISHED = {
     "backdrop_path": "/oiFiQY14r8mcqCfNmnaPLBzdbnJ.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "",
+    "overview": "Vino and Fenny's lives intertwine in a poignant tale of love, hope, and heartbreak.",
     "industry": "bollywood",
-    "popularity": 1.029,
+    "popularity": 1.9727,
     "original_language": "ta",
     "origin_country": [
       "IN"
     ],
-    "trailer": null,
+    "trailer": {
+      "key": "QS16VwlYU5w",
+      "name": "Nooru Kodi Vaanavil - Official Trailer | Harish Kalyan | Siddhi Idnani | Sasi | Siddhu Kumar",
+      "site": "YouTube"
+    },
     "categories": [
       "movies"
     ],
@@ -28939,10 +28951,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [
       "ta"
     ],
-    "certification": "",
+    "certification": "U/A 13+",
     "release_date": "2026-11-06",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 63,
     "providers": []
   },
   "1817567": {
@@ -29116,7 +29128,7 @@ window.FA_PUBLISHED = {
     "poster_path": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
     "backdrop_path": null,
     "vote_average": 1.0,
-    "vote_count": 2,
+    "vote_count": 3,
     "overview": "From deep behind enemy lines, a hidden chapter of American military history is uncovered, prompting the question of whether reckoning with the past can bring peace to those who lived it. The Vietnam War’s first Black special operations team reunites to tell their story.",
     "industry": "world",
     "popularity": 3.0069,
