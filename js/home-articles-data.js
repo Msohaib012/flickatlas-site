@@ -107,6 +107,31 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 09:14:28 -0500"
   },
+  "1qdm3wn": {
+    "id": "1qdm3wn",
+    "type": "news",
+    "headline": "Helen Flanagan Stuns in Green Sequinned Gown at the This Is Manchester Awards",
+    "dek": "The former Coronation Street star turned heads at the Old Trafford Cricket Ground event, following a turbulent week involving a parking dispute.",
+    "entities": {
+      "people": [
+        "Helen Flanagan",
+        "Jenny Powell",
+        "Davinia Taylor",
+        "Robbie Talbot"
+      ],
+      "titles": [
+        "Coronation Street"
+      ]
+    },
+    "keywords": [
+      "Helen Flanagan This Is Manchester Awards",
+      "Helen Flanagan green sequinned gown",
+      "Helen Flanagan traffic warden parking ticket",
+      "Coronation Street star Helen Flanagan"
+    ],
+    "images": [],
+    "published": "2026-11-06T13:51:38Z"
+  },
   "1ly0pfa": {
     "id": "1ly0pfa",
     "type": "news",
@@ -260,6 +285,59 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 14:23:08 +0200"
   },
+  "1rnueby": {
+    "id": "1rnueby",
+    "type": "news",
+    "headline": "Why the Acclaimed Crime Drama Rectify Deserves Your Attention on Netflix",
+    "dek": "Discover the 30-episode Gothic drama Rectify, which has officially landed on Netflix and offers an authentic, gripping look at life after wrongful imprisonment.",
+    "entities": {
+      "people": [
+        "Giovana Gelhoren",
+        "Daniel Holden",
+        "Aden Young",
+        "Hanna Dean",
+        "Janet",
+        "Ted",
+        "Amantha",
+        "Allison Keene",
+        "Chris McPherson",
+        "Dyah Ayu Larasati",
+        "J. Smith-Cameron",
+        "Bruce McKinnon",
+        "Abigail Spencer",
+        "Luke Kirby",
+        "Adelaide Clemens"
+      ],
+      "titles": [
+        "Breaking Bad",
+        "Orange Is the New Black",
+        "Prison Break",
+        "Rectify",
+        "The Glory",
+        "Bosch",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "Rectify Netflix release",
+      "Rectify crime series",
+      "Daniel Holden Rectify",
+      "Aden Young Rectify"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/12/rectify-smith-cameron-4.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Why the Acclaimed Crime Drama Rectify Deserves Your Attention on Netflix",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 12:19:12 GMT"
+  },
   "ok6yry": {
     "id": "ok6yry",
     "type": "news",
@@ -298,6 +376,43 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 12:07:01 +0000"
   },
+  "1j3thjd": {
+    "id": "1j3thjd",
+    "type": "news",
+    "headline": "Ramayana Part 1 Budget And Box Office Target Revealed",
+    "dek": "Trade analyst Rohit Jaiswal shares an exclusive breakdown of the massive budget and collection milestones required for Ranbir Kapoor and Yash starrer Ramayana Part 1.",
+    "entities": {
+      "people": [
+        "Aakash Kumar",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Ranbir Kapoor",
+        "Ravie Dubey",
+        "Rohit Jaiswal",
+        "Sai Pallavi",
+        "Shiba Chaddha",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office target",
+      "Ramayana budget Rohit Jaiswal"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanapredictionexcltarotd-48271793966137.jpg",
+        "caption": "Ramayana Part 1 Budget And Box Office Target Revealed",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 17:31:17 +0530"
+  },
   "ahmz1r": {
     "id": "ahmz1r",
     "type": "news",
@@ -330,6 +445,37 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "Fri, 06 Nov 2026 06:40:00 EST"
+  },
+  "tsjjee": {
+    "id": "tsjjee",
+    "type": "news",
+    "headline": "Salman Khan Shuts Down Rumours Surrounding Maatrubhumi Release Delays",
+    "dek": "Salman Khan addresses the continuous postponements of his upcoming film Maatrubhumi: May War Rest In Peace, blaming VFX refinements and an unexpected injury while dismissing any notions of political interference.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Shraddha Kapoor"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest In Peace",
+        "Eetha"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Maatrubhumi December 4",
+      "Salman Khan Eetha clash"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135606068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Shuts Down Rumours Surrounding Maatrubhumi Release Delays",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T17:08:58+05:30"
   },
   "55bv1b": {
     "id": "55bv1b",
@@ -4521,185 +4667,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 03:06:05 +0530"
-  },
-  "1pr3qtu": {
-    "id": "1pr3qtu",
-    "type": "news",
-    "headline": "Godzilla Minus Zero Projected for Historic Domestic Debut",
-    "dek": "The latest Japanese kaiju entry is eyeing a record-breaking opening weekend in domestic theaters, outperforming previous milestones in the long-running franchise.",
-    "entities": {
-      "people": [
-        "Brennan Klein",
-        "Takashi Yamazaki",
-        "Ryunosuke Kamiki",
-        "Minami Hamabe",
-        "Kōichi Shikishima",
-        "Noriko Shikishima",
-        "Martin McDonagh",
-        "Steven Spielberg",
-        "Emerald Fennell",
-        "Colleen Hoover"
-      ],
-      "titles": [
-        "Godzilla Minus Zero",
-        "Godzilla Minus One",
-        "The Cat in the Hat",
-        "Wild Horse Nine",
-        "Godzilla 1985",
-        "Godzilla",
-        "Godzilla 2000",
-        "Shin Godzilla",
-        "Godzilla: King of the Monsters",
-        "Godzilla vs. Kong",
-        "Godzilla x Kong: The New Empire",
-        "Renaissance: A Film by Beyoncé",
-        "The Hunger Games: The Ballad of Songbirds Snakes",
-        "Disclosure Day",
-        "Wuthering Heights",
-        "Scream 7",
-        "Verity"
-      ]
-    },
-    "keywords": [
-      "Godzilla Minus Zero",
-      "Godzilla Minus Zero box office",
-      "Takashi Yamazaki",
-      "Godzilla Minus One sequel"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/godzilla-roaring-in-the-city-in-godzilla-minus-zero.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Godzilla Minus Zero Projected for Historic Domestic Debut",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 21:25:16 GMT"
-  },
-  "f5jtsd": {
-    "id": "f5jtsd",
-    "type": "news",
-    "headline": "Nintendo's Remade Classic Lands Among the Highest-Rated Games",
-    "dek": "The long-awaited remake of a legendary title arrives with overwhelming critical acclaim and modernization updates.",
-    "entities": {
-      "people": [
-        "Hannah Hunt",
-        "Anna Koselke",
-        "Link"
-      ],
-      "titles": [
-        "The Legend of Zelda: Ocarina of Time",
-        "Breath of the Wild",
-        "Tears of the Kingdom",
-        "The Legend of Zelda: Wind Waker HD",
-        "The Legend of Zelda: Majora's Mask",
-        "The Legend of Zelda: Skyward Sword",
-        "The Legend of Zelda: Spirit Tracks",
-        "The Rings of Power",
-        "One Piece",
-        "The Witcher",
-        "Percy Jackson"
-      ]
-    },
-    "keywords": [
-      "The Legend of Zelda Ocarina of Time remake",
-      "Nintendo Switch 2 Zelda",
-      "Ocarina of Time Metascore",
-      "Zelda Ocarina of Time reviews"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_08-1.jpg?w=1200&amp;h=675&amp;fit=crop",
-        "caption": "Nintendo's Remade Classic Lands Among the Highest-Rated Games",
-        "source": "Collider"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 21:04:10 GMT"
-  },
-  "158yn5e": {
-    "id": "158yn5e",
-    "type": "news",
-    "headline": "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
-    "dek": "Ranbir Kapoor and Sai Pallavi starrer Ramayana rakes in over Rs 100 crore in worldwide presales, making waves internationally and domestically.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Arun Govil",
-        "Rakul Preet Singh",
-        "Lara Dutta",
-        "Vivek Oberoi",
-        "Anupam Kher"
-      ],
-      "titles": [
-        "Ramayana",
-        "Animal",
-        "Dhurandhar 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana advance booking collection",
-      "Ramayana vs Dhurandhar 2 North America",
-      "Ranbir Kapoor Ramayana box office",
-      "Ramayana worldwide presales"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanapresalesfeature-58911793814355.jpg",
-        "caption": "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 05 Nov 2026 02:05:57 +0530"
-  },
-  "25i5xu": {
-    "id": "25i5xu",
-    "type": "news",
-    "headline": "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
-    "dek": "Marvel Japan has officially revealed that veteran voice actor Toshiyuki Morikawa will lend his voice to Robert Downey Jr's villainous character in the upcoming blockbuster.",
-    "entities": {
-      "people": [
-        "Robert Downey Jr",
-        "Toshiyuki Morikawa",
-        "Anthony Russo",
-        "Joe Russo",
-        "Stephen McFeely",
-        "Michael Waldron",
-        "Chris McKenna",
-        "Erik Sommers",
-        "Pedro Pascal",
-        "Chris Hemsworth",
-        "Vanessa Kirby"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Final Fantasy 7",
-        "Final Fantasy 7 Remake",
-        "Final Fantasy 7 Rebirth",
-        "Devil May Cry",
-        "JoJo's Bizarre Adventure",
-        "Demon Slayer",
-        "One Piece"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday Doctor Doom",
-      "Toshiyuki Morikawa Doctor Doom Japanese voice",
-      "Robert Downey Jr Doctor Doom",
-      "Avengers Doomsday Japanese dub"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/avengers-doomsday.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of Avengers: Doomsday",
-        "source": "Collider"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 19:57:49 GMT"
   },
   "1m3llbg": {
     "id": "1m3llbg",

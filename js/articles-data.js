@@ -70745,5 +70745,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 12:51:20 +0000"
+  },
+  "1j3thjd": {
+    "id": "1j3thjd",
+    "type": "news",
+    "headline": "Ramayana Part 1 Budget And Box Office Target Revealed",
+    "dek": "Trade analyst Rohit Jaiswal shares an exclusive breakdown of the massive budget and collection milestones required for Ranbir Kapoor and Yash starrer Ramayana Part 1.",
+    "body": [
+      {
+        "h": "Theatrical Arrival And Initial Buzz",
+        "p": [
+          "The theatrical release of Ramayana Part 1 has drawn immense attention from audiences and industry observers alike. As the film arrives in cinemas across multiple languages, attention has shifted entirely to its commercial viability and theatrical performance.",
+          "Carrying monumental expectations, the big-budget spectacle faces the critical task of translating pre-release hype into sustained box office footfalls. Stakeholders across the industry are closely monitoring the initial numbers to see how well the epic resonates with ticket buyers."
+        ]
+      },
+      {
+        "h": "Insights From Trade Analyst Rohit Jaiswal",
+        "p": [
+          "In an exclusive interaction with Filmibeat Assistant Editor Aakash Kumar, noted trade analyst Rohit Jaiswal provided a detailed assessment of the film's financial stakes. He outlined the core figures associated with the production and the exact benchmarks required for various levels of commercial success.",
+          "These projections offer a clear roadmap of how the multi-lingual release needs to perform across domestic circuits to justify its colossal financial scale."
+        ]
+      },
+      {
+        "h": "Massive Production Budget",
+        "p": [
+          "The financial scale of the project is among the largest in contemporary cinema. Trade expert Rohit Jaiswal confirmed during the exclusive conversation that the film has been made on an enormous budget of Rs 1,700 crore.",
+          "Such a high investment places unprecedented pressure on the theatrical run to recover costs through widespread box office collection across all targeted linguistic markets."
+        ]
+      },
+      {
+        "h": "Hit Status And Revenue Targets",
+        "p": [
+          "Achieving a clean hit verdict requires substantial domestic earnings. Jaiswal revealed that the feature must collect at least Rs 1,200 crore across all languages in India to be officially categorized as a hit.",
+          "Lower collection brackets carry starkly different verdicts, highlighting the steep financial mountain the production must climb to satisfy its investors."
+        ]
+      },
+      {
+        "h": "Failure And Average Thresholds",
+        "p": [
+          "According to the trade evaluation, figures hovering around Rs 600 crore would label the theatrical run a disaster. Meanwhile, bringing in Rs 700 crore would place the title in the flop category.",
+          "A slight improvement to Rs 850 crore would shift the status to above average, while touching Rs 1,000 crore would secure a successful verdict for the big-screen venture."
+        ]
+      },
+      {
+        "h": "Superhit And Blockbuster Benchmarks",
+        "p": [
+          "To climb higher up the commercial ladder, the multi-starrer needs even more impressive milestones. Reaching Rs 1,300 crore would earn the project a coveted superhit tag.",
+          "Ultimately, scaling up to approximately Rs 1,400 crore in domestic earnings across all languages would secure the rare and prestigious blockbuster status."
+        ]
+      },
+      {
+        "h": "Plot And Stellar Cast Overview",
+        "p": [
+          "The narrative chronicles Lord Rama's upbringing in Ayodhya, his journey to Mithila, and his marriage to Sita after breaking Lord Shiva's bow during her swayamvar. Complications arise when Queen Kaikeyi asks King Dashrath to fulfill promises sending Rama into a 14-year forest exile accompanied by Sita and Lakshman, eventually leading to pivotal events like Shurpanakha's encounter and Ravana's abduction of Sita.",
+          "The stellar ensemble features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana. Additional key cast members include Ravie Dubey as Lakshman, Rakul Preet Singh as Shurpanakha, alongside Lara Dutta, Arun Govil, and Shiba Chaddha."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade analyst Rohit Jaiswal revealed in an exclusive interview that Ramayana Part 1 was made on a massive budget of Rs 1,700 crore. The film needs a domestic collection of at least Rs 1,200 crore to achieve a hit verdict, with targets scaling up to Rs 1,400 crore for blockbuster status."
+        ]
+      }
+    ],
+    "facts": [
+      "The budget of Ramayana Part 1 is Rs 1,700 crore.",
+      "The film needs to collect at least Rs 1,200 crore across all languages in India to earn a hit verdict.",
+      "A collection of around Rs 600 crore would be considered a disaster.",
+      "A collection of Rs 700 crore would put the film in the flop category.",
+      "A collection of Rs 850 crore would be considered above average.",
+      "A collection of Rs 1,000 crore would give the film a successful verdict.",
+      "A collection of Rs 1,300 crore earns a superhit tag.",
+      "A collection of approximately Rs 1,400 crore achieves blockbuster status."
+    ],
+    "entities": {
+      "people": [
+        "Aakash Kumar",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Ranbir Kapoor",
+        "Ravie Dubey",
+        "Rohit Jaiswal",
+        "Sai Pallavi",
+        "Shiba Chaddha",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office target",
+      "Ramayana budget Rohit Jaiswal"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanapredictionexcltarotd-48271793966137.jpg",
+        "caption": "Ramayana Part 1 Budget And Box Office Target Revealed",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 17:31:17 +0530"
+  },
+  "1qdm3wn": {
+    "id": "1qdm3wn",
+    "type": "news",
+    "headline": "Helen Flanagan Stuns in Green Sequinned Gown at the This Is Manchester Awards",
+    "dek": "The former Coronation Street star turned heads at the Old Trafford Cricket Ground event, following a turbulent week involving a parking dispute.",
+    "body": [
+      {
+        "h": "A Glamorous Appearance in Manchester",
+        "p": [
+          "Helen Flanagan made a striking impression as she stepped out for the This Is Manchester Awards, hosted at the iconic Old Trafford Cricket Ground. Known for her bold fashion choices, the actress did not disappoint admirers as she arrived wearing an eye-catching green sequinned gown.",
+          "The prestigious annual ceremony is designed to celebrate and honor various remarkable individuals and organizations deeply rooted in the Manchester community. Flanagan was joined at the star-studded red carpet entrance by fellow well-known personalities Jenny Powell and Davinia Taylor."
+        ]
+      },
+      {
+        "h": "Fellow Stars Turn Out in Style",
+        "p": [
+          "The gathering brought together several notable figures from the entertainment and public sphere to champion local achievement. Among them, Jenny Powell complemented the evening's aesthetic by donning a dark green sequinned dress that harmonized with the event's vibrant atmosphere.",
+          "Meanwhile, Davinia Taylor arrived in high spirits, showcasing a distinctive black and yellow dress featuring an elegant lace trim. The trio added substantial star power to the evening as they headed into the venue to celebrate Manchester's finest talents."
+        ]
+      },
+      {
+        "h": "A Turbulent Week Leading Up to the Gala",
+        "p": [
+          "The glamorous evening provided a welcome distraction for Flanagan following a particularly frustrating and stressful week. Just days prior to the awards, the actress found herself embroiled in a furious street altercation with a local traffic warden.",
+          "The incident unfolded while she was out and about in Manchester with her daughter. Expressing her grievances openly on social media, Flanagan recounted how a parking enforcement officer issued her a fine despite an innocent typographical error on her parking ticket."
+        ]
+      },
+      {
+        "h": "The Parking Ticket Incident Explained",
+        "p": [
+          "Elaborating on the episode through a video filmed while walking with her child, Flanagan explained that she was currently driving a courtesy vehicle. When logging her parking details, she inadvertently typed a zero instead of the letter 'O'.",
+          "Despite pointing out her active payment to the warden who was in the process of issuing the penalty, the officer proceeded with the ticket. The confrontation grew heated, with Flanagan admitting she let her frustration get the better of her during a particularly vulnerable time of the month."
+        ]
+      },
+      {
+        "h": "A Child's Reaction and Dramatic Rant",
+        "p": [
+          "The roadside confrontation caused minor distress to Flanagan's young daughter, who humorously and tearfully worried that her mother might actually be taken away by the police. The actress tried to reassure her child while simultaneously hurling sharp rebukes at the enforcement officer.",
+          "Addressing her followers, Flanagan did not hold back her feelings about the encounter, describing the worker in colorful terms and declaring that karma would surely follow him. She firmly maintained that the warden recognized her simple typing mistake yet chose to penalize her anyway."
+        ]
+      },
+      {
+        "h": "Past Driving Troubles and Legal Context",
+        "p": [
+          "This minor parking penalty comes against the backdrop of previous driving hurdles for the former soap star. Flanagan only recently returned to the driver's seat in July of last year following a significant six-month driving disqualification.",
+          "Back in January 2025, she informed the court that her then-boyfriend, Robbie Talbot, had been driving her luxury £66,000 Audi Q7 when it incurred two separate speeding violations. Despite pleading financial strain and transport difficulties for her children, the driving ban was enforced at the time."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Helen Flanagan dazzled onlookers in a green sequinned gown at the This Is Manchester Awards held at the Old Trafford Cricket Ground alongside fellow stars Jenny Powell and Davinia Taylor. The glamorous outing followed a stressful week in which the actress clashed with a traffic warden over a parking ticket error made while driving a courtesy car.",
+          "Her past driving record includes a six-month ban issued in January 2025 after her Audi Q7 was caught speeding, adding context to her recent transit frustrations."
+        ]
+      }
+    ],
+    "facts": [
+      "Helen Flanagan attended the This Is Manchester Awards on Thursday, 5 November 2026.",
+      "The event took place at the Old Trafford Cricket Ground.",
+      "Jenny Powell and Davinia Taylor also attended the awards ceremony.",
+      "Helen Flanagan was previously banned from driving for six months following speeding offenses tied to her Audi Q7 in January 2025."
+    ],
+    "entities": {
+      "people": [
+        "Helen Flanagan",
+        "Jenny Powell",
+        "Davinia Taylor",
+        "Robbie Talbot"
+      ],
+      "titles": [
+        "Coronation Street"
+      ]
+    },
+    "keywords": [
+      "Helen Flanagan This Is Manchester Awards",
+      "Helen Flanagan green sequinned gown",
+      "Helen Flanagan traffic warden parking ticket",
+      "Coronation Street star Helen Flanagan"
+    ],
+    "images": [],
+    "published": "2026-11-06T13:51:38Z"
+  },
+  "tsjjee": {
+    "id": "tsjjee",
+    "type": "news",
+    "headline": "Salman Khan Shuts Down Rumours Surrounding Maatrubhumi Release Delays",
+    "dek": "Salman Khan addresses the continuous postponements of his upcoming film Maatrubhumi: May War Rest In Peace, blaming VFX refinements and an unexpected injury while dismissing any notions of political interference.",
+    "body": [
+      {
+        "h": "Addressing the Rumours",
+        "p": [
+          "Bollywood superstar Salman Khan has firmly rejected all speculation regarding official pressure and external interference affecting his upcoming project. Addressing the media at the trailer launch of Maatrubhumi: May War Rest In Peace, the actor clarified that allegations suggesting script alterations or conflicts with governmental bodies are entirely false.",
+          "Emphasizing that the project remains free from any malicious censorship or outside directives, he clarified the core theme of the venture. According to the leading star, the narrative focuses entirely on the personal realities faced by soldiers and their families on both sides, dealing with situational hardships rather than a villainous political narrative."
+        ]
+      },
+      {
+        "h": "The Reality Behind the Postponements",
+        "p": [
+          "The theatrical rollout of Maatrubhumi has experienced several alterations to its calendar schedule over recent months. The team initially considered launching around January or June before shifting the target to August, followed by subsequent rescheduling that led to multiple adjustments.",
+          "Providing clarity on why these postponements occurred, Khan explained that the production timeline was extended due to a combination of meticulous visual effects work and an unfortunate real-life setback on set involving his co-star, Chitrangda Singh, which required considerable time for physiotherapy recovery."
+        ]
+      },
+      {
+        "h": "Visual Effects and Modern Scrutiny",
+        "p": [
+          "A major portion of the extra production time was dedicated to perfecting the visual aesthetics of the project. Khan noted that contemporary audiences have become exceptionally vigilant about digital artistry, often zooming into shots to critique computer-generated elements regardless of their prominence.",
+          "Although the production was primarily filmed in the rugged terrains of Ladakh where digital augmentation needs are relatively minimal, the team opted to invest extra effort. The objective, as he explained, is to deliver a visually striking cinematic experience that leaves no room for digital nitpicking."
+        ]
+      },
+      {
+        "h": "Cast Member Injury and Schedule Setbacks",
+        "p": [
+          "Unforeseen medical hurdles significantly disrupted the original operational timeline mapped out by the production crew. The core principal photography was initially mapped out to wrap within a brisk forty-five to fifty-day window.",
+          "However, an accident involving actress Chitrangda Singh altered those projections entirely. The extensive medical treatment and subsequent physical therapy routines needed for her recovery forced the team to extend their schedule significantly, contributing directly to the shifting release calendar."
+        ]
+      },
+      {
+        "h": "Plot Direction and Thematic Focus",
+        "p": [
+          "Refuting claims of geopolitical controversy, Khan shed light on the emotional core driving the storyline of Maatrubhumi. He underscored that the cinematic piece functions primarily as an exploration of human resilience during wartime conditions.",
+          "The narrative examines how individuals caught on opposing sides navigate difficult circumstances. Ultimately, the plot highlights a scenario where national duty takes precedence when critical situations arise, maintaining an objective look at human emotions rather than pushing a negative agenda."
+        ]
+      },
+      {
+        "h": "Special Concessions for Senior Audiences",
+        "p": [
+          "Alongside updates regarding the theatrical rollout, the production team announced a thoughtful promotional gesture aimed at older moviegoers. In a special initiative, admission passes for individuals aged seventy-five and above have been priced at an accessible eleven rupees.",
+          "This unique pricing strategy intends to encourage elderly cinema lovers to experience the narrative on the big screen without financial constraints, reflecting a special outreach effort by the makers."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Clash",
+        "p": [
+          "With all production hurdles and timeline adjustments now successfully settled, the feature film has secured a definitive date for its arrival in cinemas. Maatrubhumi: May War Rest In Peace is locked to premiere on December 4.",
+          "The upcoming launch will witness a high-profile box office showdown as it arrives on the same day as Shraddha Kapoor's film Eetha, setting the stage for a competitive theatrical weekend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan clarified that delays for Maatrubhumi: May War Rest In Peace were due to VFX refinements and Chitrangda Singh's injury, dismissing government pressure rumors as false. The film is set for a December 4 release and a clash with Eetha, alongside an announcement of eleven-rupee tickets for senior citizens."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan addressed release date delays for Maatrubhumi: May War Rest In Peace at its trailer launch.",
+      "The film is set to release in theatres on December 4.",
+      "Maatrubhumi will clash with Shraddha Kapoor's film Eetha.",
+      "Chitrangda Singh suffered an accident that required physiotherapy and delayed production.",
+      "Tickets for senior citizens aged 75 and above are priced at Rs 11."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Shraddha Kapoor"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest In Peace",
+        "Eetha"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Maatrubhumi December 4",
+      "Salman Khan Eetha clash"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135606068,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Shuts Down Rumours Surrounding Maatrubhumi Release Delays",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T17:08:58+05:30"
+  },
+  "1rnueby": {
+    "id": "1rnueby",
+    "type": "news",
+    "headline": "Why the Acclaimed Crime Drama Rectify Deserves Your Attention on Netflix",
+    "dek": "Discover the 30-episode Gothic drama Rectify, which has officially landed on Netflix and offers an authentic, gripping look at life after wrongful imprisonment.",
+    "body": [
+      {
+        "h": "A Hidden Gem Arrives on Netflix",
+        "p": [
+          "While television history is filled with glamorous takes on prison life, few shows capture the stark and harrowing realities of incarceration and societal reentry quite like Rectify. Originally airing on SundanceTV, the acclaimed series made its official debut on Netflix on November 1, 2026.",
+          "Despite earning critical praise during its original run, the 30-episode drama largely stayed under the radar for years. Its arrival on the streaming platform offers audiences a fresh opportunity to discover a deeply psychological crime narrative that holds a 96 percent rating on Rotten Tomatoes."
+        ]
+      },
+      {
+        "h": "The Premise of Rectify",
+        "p": [
+          "The story centers on Daniel Holden, who was convicted at the age of 18 for the rape and murder of his teenage girlfriend, Hanna Dean. Maintaining his innocence throughout, he was sentenced to death and spent nearly two decades behind bars.",
+          "The narrative kicks off when new DNA evidence casts doubt on his original conviction, leading to his release after 19 years. Free at last, Daniel must navigate a world that has drastically changed while dealing with the psychological toll of prolonged isolation."
+        ]
+      },
+      {
+        "h": "Returning to Paulie, Georgia",
+        "p": [
+          "Upon his release, Daniel returns to his small hometown of Paulie, Georgia. There, he struggles to readjust to ordinary life while re-entering a community that remains sharply divided regarding his guilt or innocence.",
+          "His return triggers renewed tensions, particularly with Hanna's family. Her brother remains firmly convinced that Daniel is responsible for the tragic death, creating constant friction within the small town."
+        ]
+      },
+      {
+        "h": "Family Dynamics and Alliances",
+        "p": [
+          "Daniel's homecoming forces him to attempt reconnections with his family, including his mother Janet, stepfather Ted, and younger half-siblings. These relationships are strained by nearly two decades of absence and the heavy shadow of the past.",
+          "Amidst the uncertainty, his sister Amantha emerges as his strongest confidant and ally. Having spent years actively fighting for his freedom, she plays a vital role in helping him navigate a society that moved on without him."
+        ]
+      },
+      {
+        "h": "An Authentic and Introspective Character Study",
+        "p": [
+          "Spanning four seasons, the Gothic drama functions as an introspective exploration of trauma, faith, guilt, forgiveness, and the immense difficulty of starting over. The creators avoid sensationalism, opting instead for a grounded and realistic portrayal.",
+          "Through brilliant performances, excellent cinematography, and expert use of flashbacks, the series exposes the claustrophobic and traumatic experience of long-term imprisonment and the awkwardness of reintegration."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and Praise",
+        "p": [
+          "Critics have long praised the production for its natural feel, noting everything from the authentic cadence of Southern accents and dialogue to the genuine confusion and anxiety surrounding Daniel's return.",
+          "Reviewers have highlighted that this unwavering commitment to realism is what sets the show apart, transforming a standard crime premise into an absolute must-watch character study."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The critically acclaimed 30-episode SundanceTV drama Rectify has officially landed on Netflix as of November 1, 2026. Spanning four seasons from 2013 to 2016, the series follows Daniel Holden as he reintegrates into society after 19 years in prison following new DNA evidence."
+        ]
+      }
+    ],
+    "facts": [
+      "Rectify originally aired on SundanceTV from 2013 to 2016.",
+      "The series premiered on April 22, 2013.",
+      "Rectify landed on Netflix on November 1, 2026.",
+      "The show spans four seasons and 30 episodes.",
+      "It holds a 96% rating on Rotten Tomatoes.",
+      "Daniel Holden was imprisoned for 19 years after being convicted at age 18."
+    ],
+    "entities": {
+      "people": [
+        "Giovana Gelhoren",
+        "Daniel Holden",
+        "Aden Young",
+        "Hanna Dean",
+        "Janet",
+        "Ted",
+        "Amantha",
+        "Allison Keene",
+        "Chris McPherson",
+        "Dyah Ayu Larasati",
+        "J. Smith-Cameron",
+        "Bruce McKinnon",
+        "Abigail Spencer",
+        "Luke Kirby",
+        "Adelaide Clemens"
+      ],
+      "titles": [
+        "Breaking Bad",
+        "Orange Is the New Black",
+        "Prison Break",
+        "Rectify",
+        "The Glory",
+        "Bosch",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "Rectify Netflix release",
+      "Rectify crime series",
+      "Daniel Holden Rectify",
+      "Aden Young Rectify"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/12/rectify-smith-cameron-4.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Why the Acclaimed Crime Drama Rectify Deserves Your Attention on Netflix",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 12:19:12 GMT"
   }
 };
