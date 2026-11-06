@@ -68382,5 +68382,384 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-06T00:01:21.052Z"
+  },
+  "zm4vgg": {
+    "id": "zm4vgg",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 1: Ranbir Kapoor, Yash Film Opens At ₹127 Crore, Unable To Beat Adipurush Despite Wider Release",
+    "dek": "Ramayana, starring Ranbir Kapoor, Sai Pallavi, and Yash, opened at ₹ 127 crore globally, much below its initial projections of ₹ 160 crore.",
+    "body": [
+      {
+        "h": "Introduction and Opening Figures",
+        "p": [
+          "The highly anticipated cinematic venture Ramayana has officially commenced its box office journey worldwide, arriving on screens ahead of Diwali on November 5, 2026. Directed by Nitesh Tiwari and co-produced by Namit Malhotra, the feature carries the distinction of being the most expensive project in the history of Indian cinema. Despite boasting a massive budget, a Hollywood studio partnership, extensive Western promotions, and a historic international screen count, the opening numbers have fallen short of initial expectations.",
+          "On its first day of release, the film accumulated a global gross of ₹ 127.50 crore. While crossing the hundred-crore mark on opening day is a notable feat for any release, these returns do not align with the colossal scale, ambition, and financial investment behind the mounting of the feature. Projections had previously anticipated a global opening closer to ₹ 160 crore, making the actual global haul a sobering start for the makers."
+        ]
+      },
+      {
+        "h": "Domestic Performance and Regional Response",
+        "p": [
+          "Within the domestic market, Ramayana secured a solid initial foothold, pulling in ₹ 64.85 crore in net collections, which translates to ₹ 77.50 crore in gross earnings. Positive audience reactions and favorable reviews greeted the movie upon its Thursday debut. However, this critical reception failed to translate into overwhelming footfall momentum across all regions, particularly in specific regional markets.",
+          "A particularly striking underperformance was noted in the Kannada version of the film, which netted merely ₹ 7.50 crore. This figure represents just one-third of the opening day numbers achieved by actor Yash in his previous cinematic outings, namely KGF Chapter 2 and Toxic. Consequently, the reliance on strong word of mouth becomes crucial for sustaining ticket sales and driving growth over the extended four-day Diwali weekend."
+        ]
+      },
+      {
+        "h": "International Distribution and Overseas Earnings",
+        "p": [
+          "International distribution was handled by Sony Pictures, securing an unprecedented release across 70,000 screens globally. This footprint was roughly triple the screen count of any previous Indian film release. Yet, the overseas haul for the first day remained under $5.5 million, with North American paid previews contributing $1.5 million to that total.",
+          "While a sub-$10 million international start might ordinarily be considered respectable for standard Bollywood or regional releases, the sheer scale of Ramayana renders these figures underwhelming. The disparity between the unprecedented screen distribution and the actual ticket sales abroad has raised questions among trade analysts regarding international audience uptake."
+        ]
+      },
+      {
+        "h": "Leaderboard Comparison and Adipurush Benchmark",
+        "p": [
+          "On the broader Indian cinema leaderboard, Ramayana settled for the 16th biggest opening of all time. Its ₹ 127.50-crore start places it behind Jawan, which earned ₹ 129 crore, and surprisingly, even behind Adipurush. Failing to surpass Dhurandhar 2, which recorded a ₹ 202-crore start, further highlighted the film's shortfall against contemporary box-office titans.",
+          "The comparison with Adipurush has drawn considerable commentary, given that the earlier Prabhas-led adaptation faced severe criticism and derision upon its release. Despite that negative reception, Adipurush managed to secure higher gross earnings and superior footfalls on its opening day than the newly released Ramayana."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Background",
+        "p": [
+          "Ramayana has been conceptualized as a sweeping two-part epic. The production duties are spearheaded by Namit Malhotra’s Prime Focus Studios, working alongside DNEG and Yash’s banner, Monster Mind Creations. The narrative is brought to life by a prominent ensemble cast featuring Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash in the role of Ravana.",
+          "Supporting the principal cast are Ravie Dubey as Lakshman and Sunny Deol as Lord Hanuman. Following the worldwide premiere of the first installment on November 5, 2026, the second part of the epic is currently scheduled for release during the Diwali holiday season in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana opened worldwide with a day-one gross collection of ₹ 127.50 crore, falling short of its ₹ 160 crore projections and failing to beat Adipurush despite a massive international release across 70,000 screens. The film stars Ranbir Kapoor, Yash, and Sai Pallavi, and is produced as a two-part epic by Namit Malhotra.",
+          "With domestic net earnings at ₹ 64.85 crore and a lower-than-expected overseas and regional turnout, the movie now relies on positive word of mouth for its extended weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released worldwide on November 5, 2026.",
+      "The global opening day gross collection was ₹ 127.50 crore.",
+      "Initial projections for the opening day were ₹ 160 crore.",
+      "Domestic net collections on day one were ₹ 64.85 crore, with gross collections at ₹ 77.50 crore.",
+      "The Kannada version of the film netted ₹ 7.50 crore on its opening day.",
+      "Sony Pictures distributed the film internationally across 70,000 screens.",
+      "Day-one overseas haul was under $5.5 million, including $1.5 million from North American paid previews.",
+      "The film's opening ranks as the 16th best in Indian cinema history, behind Jawan at ₹ 129 crore and Adipurush.",
+      "Dhurandhar 2 previously recorded a ₹ 202 crore opening.",
+      "The film is produced by Namit Malhotra’s Prime Focus Studios, DNEG, and Yash’s Monster Mind Creations.",
+      "The cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman.",
+      "The second part of the film is set for release in Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Prabhas",
+        "Ravie Dubey",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush",
+        "KGF Chapter 2",
+        "Toxic",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana movie",
+      "Yash Ramayana opening day",
+      "Ramayana vs Adipurush collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/Ramayana_1792311615794__1793938304170_Wrq5_1793938304314_viai_ae3954be-5560-4bae-8ae7-85e76922f825_6gDn.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 1: Ranbir Kapoor, Yash Film Opens At ₹127 Crore, Unable To Beat Adipurush D",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 09:54:05 +0530"
+  },
+  "121hlmx": {
+    "id": "121hlmx",
+    "type": "news",
+    "headline": "David Boreanaz Steps Into Jim Rockford Shoes for The Rockford Files Teaser",
+    "dek": "NBC unveils a new teaser for the upcoming contemporary reboot of The Rockford Files, featuring David Boreanaz and an interactive private investigator hotline.",
+    "body": [
+      {
+        "h": "The Rockford Files Teaser Debuts",
+        "p": [
+          "NBC has released a promotional teaser for its upcoming series adaptation of The Rockford Files, placing actor David Boreanaz at the center of the project. The 57-year-old performer takes on the iconic role of Jim Rockford for this contemporary update of the classic television property.",
+          "The newly published video functions primarily as a commercial for the private investigator character, encouraging viewers to dial a dedicated phone number to engage with the promotional campaign."
+        ]
+      },
+      {
+        "h": "Interactive Hotline Feature",
+        "p": [
+          "As part of the promotional rollout for the show, NBC established a working telephone hotline at (760) JIM-ROCK. Fans who call the number receive exclusive updates directly from the main character and can opt into text message alerts concerning the programme.",
+          "This interactive touchpoint draws direct inspiration from the answering machine messaging system utilized in the original television series, offering dedicated followers a novel way to stay connected to the narrative universe."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative follows James Rockford, a man who has recently been paroled after serving time for an offense he did not commit. Upon his release, he resumes his occupation as a private investigator in Los Angeles, relying on his personal charm and cleverness to crack cases.",
+          "However, his pursuit of an honest and legitimate life quickly draws unwanted attention, placing him directly in the path of both local law enforcement agencies and organized crime syndicates."
+        ]
+      },
+      {
+        "h": "Cast Members",
+        "p": [
+          "Alongside David Boreanaz in the lead role, the television project features a strong supporting ensemble. The cast includes actors Michaela McManus, Ilfenesh Hadera, and Jacki Weaver.",
+          "Each performer brings additional talent to the contemporary reimagining of the classic detective series."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Schedule",
+        "p": [
+          "Network executives have scheduled a special preview of the premiere episode to air on Saturday, January 2nd at 8 pm ET and 5 pm PT, immediately following NBC's scheduled NFL telecast.",
+          "For viewers preferring digital platforms, the premiere episode will become accessible for streaming on Peacock the following day. Afterwards, the show assumes its regular broadcasting slot on Thursday, January 7th at 8 pm ET/PT on NBC."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "NBC has launched a promotional teaser for the upcoming series The Rockford Files, starring David Boreanaz as Jim Rockford and featuring an interactive hotline for fans. The contemporary update is scheduled to premiere in January with a special preview following an NFL broadcast before moving to its regular Thursday time slot and streaming on Peacock."
+        ]
+      }
+    ],
+    "facts": [
+      "David Boreanaz is 57 years old",
+      "The hotline number is (760) JIM-ROCK",
+      "The special preview airs on Saturday, January 2nd at 8pm ET, 5pm PT",
+      "The regular timeslot premiere is on Thursday, January 7th at 8pm ET/PT on NBC"
+    ],
+    "entities": {
+      "people": [
+        "David Boreanaz",
+        "Michaela McManus",
+        "Ilfenesh Hadera",
+        "Jacki Weaver",
+        "Jim Rockford",
+        "James Rockford"
+      ],
+      "titles": [
+        "The Rockford Files"
+      ]
+    },
+    "keywords": [
+      "The Rockford Files",
+      "David Boreanaz",
+      "Jim Rockford hotline",
+      "NBC The Rockford Files premiere"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/david-rockford.jpg",
+        "caption": "David Boreanaz Steps Into Jim Rockford Shoes for The Rockford Files Teaser",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 06:06:02 +0000"
+  },
+  "1maqhe9": {
+    "id": "1maqhe9",
+    "type": "news",
+    "headline": "Shehzad Poonawalla Wins Rise Fall Season 2, Donates Prize Money to Flood Relief",
+    "dek": "Shehzad Poonawalla has emerged victorious in the second season of Rise Fall, defeating runner-up Priyanka Chahar Choudhary and deciding to give away his cash prize.",
+    "body": [
+      {
+        "h": "The Grand Finale Outcome",
+        "p": [
+          "After six weeks of intense competition, the second season of the reality series Rise Fall has officially concluded with Shehzad Poonawalla clinching the winner's trophy. Making his debut in the reality television space, Shehzad managed to outperform a competitive field.",
+          "Priyanka Chahar Choudhary finished her journey as the first runner-up of the season, while Gautam Gulati secured the position of the second runner-up after a high-stakes final showdown."
+        ]
+      },
+      {
+        "h": "Journey to the Top Five",
+        "p": [
+          "The finale episode kicked off with energetic dance routines performed by the final six contestants to entertain the audience. Host Virender Sehwag then introduced a twist involving special gifts that eventually determined the top five remaining participants.",
+          "Following a voting session by fellow contestants Swara Bhasker, Shehzad, Gautam, and Karan Patel, Niharika Tiwari was eliminated in fifth place. Comedian Harsh Gujral also made an appearance to lighten the mood during the tense proceedings."
+        ]
+      },
+      {
+        "h": "Eliminations and Final Showdown",
+        "p": [
+          "As the competition progressed, the Tower lights turned red for Karan Patel and Swara Bhasker, resulting in their elimination due to insufficient votes from the group. This left Priyanka Chahar Choudhary, Gautam Gulati, and Shehzad Poonawalla to advance to the ultimate stage.",
+          "The remaining housemates stepped in one final time to cast their votes for the winner, culminating in Shehzad Poonawalla being crowned the ultimate Ruler of the season."
+        ]
+      },
+      {
+        "h": "Shehzad Poonawalla's Winning Reaction",
+        "p": [
+          "Reflecting on his journey, Shehzad expressed deep gratitude and noted how difficult the experience was, transitioning from the highs of the Tower to the uncertainty of the Basement. He emphasized that constant adaptation and resilience helped him push through moments of self-doubt.",
+          "He added that the memories formed and bonds created during the competition extended far beyond the physical set of the program, leaving him with immense satisfaction and pride in his conduct."
+        ]
+      },
+      {
+        "h": "Prize Money and Charitable Pledge",
+        "p": [
+          "Along with the shining golden trophy, Shehzad won a cash prize amounting to ₹35 lakh for his victory. Demonstrating immense generosity, he announced that the entire sum would be donated directly toward relief efforts for regions impacted by devastating floods in Assam and Bihar."
+        ]
+      },
+      {
+        "h": "Acknowledgements and Production Credits",
+        "p": [
+          "Shehzad took a moment to thank the creative minds behind the production, specifically acknowledging MX Player by Prime Video and Banijay Asia for successfully executing the show and providing a platform for his reality television debut.",
+          "He stated that the entire experience is something he will cherish for the rest of his life, praising the makers for pulling off the season so brilliantly."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shehzad Poonawalla won the second season of Rise Fall after six weeks of competition, defeating runner-up Priyanka Chahar Choudhary in the grand finale hosted by Virender Sehwag. Along with lifting the trophy, he secured ₹35 lakh in prize money, which he chose to donate entirely to flood relief efforts in Assam and Bihar."
+        ]
+      }
+    ],
+    "facts": [
+      "Shehzad Poonawalla won Rise Fall season 2.",
+      "Priyanka Chahar Choudhary finished as the runner-up.",
+      "The competition lasted for six weeks.",
+      "The prize money won was ₹35 lakh.",
+      "Virender Sehwag hosted the grand finale.",
+      "Niharika Tiwari finished in fifth place.",
+      "Gautam Gulati finished as the second runner-up.",
+      "The prize money is being donated to flood relief in Assam and Bihar."
+    ],
+    "entities": {
+      "people": [
+        "Shehzad Poonawalla",
+        "Priyanka Chahar Choudhary",
+        "Virender Sehwag",
+        "Niharika Tiwari",
+        "Swara Bhasker",
+        "Gautam Gulati",
+        "Karan Patel",
+        "Harsh Gujral"
+      ],
+      "titles": [
+        "Rise Fall"
+      ]
+    },
+    "keywords": [
+      "Rise Fall season 2 winner",
+      "Shehzad Poonawalla Rise Fall",
+      "Priyanka Chahar Choudhary Rise Fall",
+      "Rise Fall season 2 grand finale"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/SHEHSHS_1793945742611_Qenl_1793945748396_UpsJ_500dfd9e-c25d-436c-a58a-b601803b528f_zY1V.jpg",
+        "caption": "Shehzad Poonawalla Wins Rise Fall Season 2, Donates Prize Money to Flood Relief",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 11:52:47 +0530"
+  },
+  "1sd1886": {
+    "id": "1sd1886",
+    "type": "news",
+    "headline": "How Fringe Mastered The Monster-Of-The-Week Formula Across 100 Episodes",
+    "dek": "Exploring how the Fox sci-fi hit Fringe successfully adopted and expanded upon the procedural formula pioneered by The X-Files throughout its 100-episode run.",
+    "body": [
+      {
+        "h": "The Evolution Of Procedural Sci-Fi",
+        "p": [
+          "While David Lynch and Mark Frost’s groundbreaking ABC murder mystery Twin Peaks successfully married supernatural themes with a police procedural format, the show encountered severe structural hurdles when its central mystery was resolved early in the second season. Because the series was built around one overarching serialized narrative concerning the titular town, it struggled to maintain its momentum once the core secret came to light.",
+          "Learning valuable lessons from those early serialization challenges, the classic 1990s paranormal cop show The X-Files pivoted toward a case-of-the-week approach. By focusing on bizarre supernatural threats rather than ordinary criminal matters, the series established a reliable yet perpetually inventive template that would heavily influence television landscape for decades to come."
+        ]
+      },
+      {
+        "h": "Merging Consistency With Unpredictability",
+        "p": [
+          "The brilliance of The X-Files formula rested on its ability to fuse the predictable structural comfort of traditional police procedurals like JAG, NCIS, CSI, Law & Order, and FBI with entirely unpredictable paranormal phenomena. Viewers tuned in knowing that federal agents Mulder and Scully would tackle a fresh mystery in every installment, yet the specific monsters or entities they encountered remained delightfully surprising.",
+          "This balanced blend of routine procedural consistency and inventive sci-fi storytelling created a deeply satisfying viewing experience. Audiences felt grounded by the reliable dynamic between the central investigators, even as the narrative ventured into increasingly bizarre and uncharted supernatural territory week after week."
+        ]
+      },
+      {
+        "h": "Fringe As The Ultimate Successor",
+        "p": [
+          "Numerous television programs borrowed elements from this successful hybrid formula, ranging from Grimm and Lucifer to the long-running CW fantasy hit Supernatural and the teen drama Buffy the Vampire Slayer. However, it was the Fox series Fringe that truly emerged as the ultimate spiritual successor to The X-Files over the course of its impressive 100-episode run.",
+          "Like its legendary predecessor, Fringe featured a mismatched male and female duo of federal investigators navigating strange occurrences. Anna Torv portrayed Olivia Dunham, an agent who joined a Joint Federal Task Force called the Fringe Division to investigate pseudoscientific phenomena, while Joshua Jackson starred as her partner Peter Bishop."
+        ]
+      },
+      {
+        "h": "A Fresh Take On Bureaucratic Cover-Ups",
+        "p": [
+          "Although Olivia Dunham initially encountered perplexing theoretical science upon entering the Fringe Division, she did not remain rigidly skeptical in the vein of Dana Scully. Meanwhile, Peter Bishop approached strange phenomena with a different perspective, driven not by an obsessive quest for hidden truths like Mulder, but rather by his extensive prior knowledge of them.",
+          "In a distinct twist on the standard dynamic, Peter and his quirky scientific researcher father, John Noble’s character, were actively committed to containing and covering up bizarre scientific occurrences rather than exposing them to the public. This unique protective mission added a layer of complexity to the show's weekly investigations."
+        ]
+      },
+      {
+        "h": "Balancing Standalone Threats And Mytharc Lore",
+        "p": [
+          "Despite its unique premise, Fringe could have easily burned through its narrative potential quickly if not for its careful adherence to the proven X-Files structure. The series expertly mixed standalone, self-contained stories featuring one-off villains with occasional mytharc episodes designed to flesh out the broader lore of its fictional universe.",
+          "This structural approach allowed the series to introduce viewers to mind-bending concepts like the multiverse and parallel realities without losing its narrative footing. Much like SyFy’s Warehouse 13, individual episodes offered self-contained novelty value while contributing to a grander, overarching sci-fi tapestry."
+        ]
+      },
+      {
+        "h": "Paving The Way For Ambitious Small-Screen Storytelling",
+        "p": [
+          "In contemporary television, complex streaming narratives and binge-watching have completely transformed how writers pack information into individual episodes, making the concept of the traditional mytharc feel commonplace. However, during its broadcast run, the Fox network was a true pioneer in threading complex series-long storylines throughout weekly procedural outings.",
+          "Fringe took this foundational approach significantly further by exploring intricate concepts such as time travel and multiverses within the comforting, structured confines of a standard procedural format. By doing so, the series ultimately paved the way for bolder, more ambitious storytelling across the modern television landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Fox sci-fi series Fringe successfully utilized a monster-of-the-week formula across its 100-episode run, following in the footsteps of television predecessors like The X-Files. By combining standalone paranormal investigations with expansive mytharc storylines involving multiverses and parallel realities, the show established a legacy of ambitious storytelling within a procedural framework."
+        ]
+      }
+    ],
+    "facts": [
+      "Fringe ran for 100 episodes.",
+      "Twin Peaks aired on ABC.",
+      "The X-Files starred David Duchovny as Mulder and Gillian Anderson as Scully.",
+      "Fringe starred Anna Torv as Olivia Dunham, Joshua Jackson as Peter Bishop, and John Noble as John.",
+      "Fringe aired on the FOX network from 2008 to 2013."
+    ],
+    "entities": {
+      "people": [
+        "David Lynch",
+        "Mark Frost",
+        "David Duchovny",
+        "Gillian Anderson",
+        "Anna Torv",
+        "Joshua Jackson",
+        "John Noble"
+      ],
+      "titles": [
+        "Twin Peaks",
+        "The X-Files",
+        "JAG",
+        "NCIS",
+        "CSI",
+        "Law Order",
+        "FBI",
+        "Fringe",
+        "Grimm",
+        "Lucifer",
+        "Supernatural",
+        "Buffy the Vampire Slayer",
+        "Warehouse 13"
+      ]
+    },
+    "keywords": [
+      "Fringe sci-fi series",
+      "The X-Files formula",
+      "Fringe monster-of-the-week",
+      "Peter Bishop Olivia Dunham",
+      "Fox sci-fi procedural"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jasika-nicole-and-meghan-markle-in-fringe.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How Fringe Mastered The Monster-Of-The-Week Formula Across 100 Episodes",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 06:05:18 GMT"
   }
 };

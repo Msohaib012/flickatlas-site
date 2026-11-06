@@ -40,6 +40,41 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 09:13:35 +0200"
   },
+  "1maqhe9": {
+    "id": "1maqhe9",
+    "type": "news",
+    "headline": "Shehzad Poonawalla Wins Rise Fall Season 2, Donates Prize Money to Flood Relief",
+    "dek": "Shehzad Poonawalla has emerged victorious in the second season of Rise Fall, defeating runner-up Priyanka Chahar Choudhary and deciding to give away his cash prize.",
+    "entities": {
+      "people": [
+        "Shehzad Poonawalla",
+        "Priyanka Chahar Choudhary",
+        "Virender Sehwag",
+        "Niharika Tiwari",
+        "Swara Bhasker",
+        "Gautam Gulati",
+        "Karan Patel",
+        "Harsh Gujral"
+      ],
+      "titles": [
+        "Rise Fall"
+      ]
+    },
+    "keywords": [
+      "Rise Fall season 2 winner",
+      "Shehzad Poonawalla Rise Fall",
+      "Priyanka Chahar Choudhary Rise Fall",
+      "Rise Fall season 2 grand finale"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/SHEHSHS_1793945742611_Qenl_1793945748396_UpsJ_500dfd9e-c25d-436c-a58a-b601803b528f_zY1V.jpg",
+        "caption": "Shehzad Poonawalla Wins Rise Fall Season 2, Donates Prize Money to Flood Relief",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 11:52:47 +0530"
+  },
   "rzcswc": {
     "id": "rzcswc",
     "type": "news",
@@ -134,6 +169,86 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 11:44:40 +0530"
+  },
+  "121hlmx": {
+    "id": "121hlmx",
+    "type": "news",
+    "headline": "David Boreanaz Steps Into Jim Rockford Shoes for The Rockford Files Teaser",
+    "dek": "NBC unveils a new teaser for the upcoming contemporary reboot of The Rockford Files, featuring David Boreanaz and an interactive private investigator hotline.",
+    "entities": {
+      "people": [
+        "David Boreanaz",
+        "Michaela McManus",
+        "Ilfenesh Hadera",
+        "Jacki Weaver",
+        "Jim Rockford",
+        "James Rockford"
+      ],
+      "titles": [
+        "The Rockford Files"
+      ]
+    },
+    "keywords": [
+      "The Rockford Files",
+      "David Boreanaz",
+      "Jim Rockford hotline",
+      "NBC The Rockford Files premiere"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/david-rockford.jpg",
+        "caption": "David Boreanaz Steps Into Jim Rockford Shoes for The Rockford Files Teaser",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 06:06:02 +0000"
+  },
+  "1sd1886": {
+    "id": "1sd1886",
+    "type": "news",
+    "headline": "How Fringe Mastered The Monster-Of-The-Week Formula Across 100 Episodes",
+    "dek": "Exploring how the Fox sci-fi hit Fringe successfully adopted and expanded upon the procedural formula pioneered by The X-Files throughout its 100-episode run.",
+    "entities": {
+      "people": [
+        "David Lynch",
+        "Mark Frost",
+        "David Duchovny",
+        "Gillian Anderson",
+        "Anna Torv",
+        "Joshua Jackson",
+        "John Noble"
+      ],
+      "titles": [
+        "Twin Peaks",
+        "The X-Files",
+        "JAG",
+        "NCIS",
+        "CSI",
+        "Law Order",
+        "FBI",
+        "Fringe",
+        "Grimm",
+        "Lucifer",
+        "Supernatural",
+        "Buffy the Vampire Slayer",
+        "Warehouse 13"
+      ]
+    },
+    "keywords": [
+      "Fringe sci-fi series",
+      "The X-Files formula",
+      "Fringe monster-of-the-week",
+      "Peter Bishop Olivia Dunham",
+      "Fox sci-fi procedural"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/jasika-nicole-and-meghan-markle-in-fringe.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How Fringe Mastered The Monster-Of-The-Week Formula Across 100 Episodes",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 06:05:18 GMT"
   },
   "1g5qs26": {
     "id": "1g5qs26",
@@ -347,6 +462,47 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 04:42:29 +0000"
+  },
+  "zm4vgg": {
+    "id": "zm4vgg",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 1: Ranbir Kapoor, Yash Film Opens At ₹127 Crore, Unable To Beat Adipurush Despite Wider Release",
+    "dek": "Ramayana, starring Ranbir Kapoor, Sai Pallavi, and Yash, opened at ₹ 127 crore globally, much below its initial projections of ₹ 160 crore.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Prabhas",
+        "Ravie Dubey",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush",
+        "KGF Chapter 2",
+        "Toxic",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana movie",
+      "Yash Ramayana opening day",
+      "Ramayana vs Adipurush collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/Ramayana_1792311615794__1793938304170_Wrq5_1793938304314_viai_ae3954be-5560-4bae-8ae7-85e76922f825_6gDn.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 1: Ranbir Kapoor, Yash Film Opens At ₹127 Crore, Unable To Beat Adipurush D",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 09:54:05 +0530"
   },
   "1u055t3": {
     "id": "1u055t3",
@@ -4506,131 +4662,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 04 Nov 2026 15:00:00 +0000"
   },
-  "mvlc67": {
-    "id": "mvlc67",
-    "type": "news",
-    "headline": "Netflix Unveils Official Trailer for Jed Mercurio’s Political Conspiracy Thriller Series Trinity",
-    "dek": "Richard Madden and Gugu Mbatha-Raw lead a high-stakes nuclear conspiracy drama created by the mind behind Line of Duty and Bodyguard.",
-    "entities": {
-      "people": [
-        "Richard Madden",
-        "Gugu Mbatha-Raw",
-        "Jed Mercurio",
-        "Marcia Gay Harden",
-        "JD Pardo",
-        "Bruce Greenwood",
-        "Robert Wisdom",
-        "Kirk Acevedo",
-        "Ben Cotton",
-        "James Remar",
-        "Jason Ralph",
-        "Mark O’Brien",
-        "Jimmy Mulville",
-        "Wendy Mericle",
-        "Michael Cuesta",
-        "Charlie Higson",
-        "Shaun Dooley",
-        "Peter Capaldi",
-        "Alison O’Donnell",
-        "Sharon Horgan",
-        "Keeley Hawes",
-        "Izuka Hoyle",
-        "Jonathan Creek",
-        "Rick Riordan"
-      ],
-      "titles": [
-        "Trinity",
-        "Line of Duty",
-        "Bodyguard",
-        "Loki",
-        "Surface",
-        "Citadel",
-        "No Way Out",
-        "So Help Me Todd",
-        "Mayans M.C.",
-        "The Fall of the House of Usher",
-        "Barry",
-        "Lioness",
-        "The Night Agent",
-        "Dexter: Resurrection",
-        "The Magicians",
-        "City on a Hill",
-        "Homeland",
-        "Death in Paradise",
-        "Glee",
-        "Poison Ivy",
-        "Nocturne",
-        "Sherlock & Daughter",
-        "The Devil's Hour",
-        "Shetland",
-        "Youth",
-        "Percy Jackson and the Olympians",
-        "Prisoner",
-        "Jonathan Creek",
-        "Daredevil"
-      ]
-    },
-    "keywords": [
-      "Trinity Netflix series",
-      "Richard Madden Trinity",
-      "Gugu Mbatha Raw Trinity",
-      "Jed Mercurio Trinity"
-    ],
-    "images": [
-      {
-        "url": "http://www.geektown.co.uk/wp-content/uploads/2026/11/trinity.jpg",
-        "caption": "Netflix Unveils Official Trailer for Jed Mercurio’s Political Conspiracy Thriller Series Trinity",
-        "source": "Geektown"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 14:59:51 +0000"
-  },
-  "l1v2en": {
-    "id": "l1v2en",
-    "type": "news",
-    "headline": "Badshah Shares Glowing Review of 'Ramayana' Ahead of November Release",
-    "dek": "Singer and music composer Badshah praised the visuals, music, and performances in Nitesh Tiwari's upcoming mythological epic following a special screening in Mumbai.",
-    "entities": {
-      "people": [
-        "Badshah",
-        "Namit Malhotra",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Ravi Dubey",
-        "Yash",
-        "Lara Dutta",
-        "Arun Govil",
-        "Rakul",
-        "Nitesh Tiwari",
-        "Sunny Deol",
-        "Ravie Dubey",
-        "Anupam Kher",
-        "Kajal Aggarwal",
-        "Rakul Preet Singh",
-        "Vivek Oberoi",
-        "Kunal Kapoor",
-        "Adinath Kothare",
-        "Indira Krishnan"
-      ],
-      "titles": [
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Badshah Ramayana review",
-      "Ranbir Kapoor Sai Pallavi Ramayana",
-      "Ramayana release date"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135542933,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Badshah Shares Glowing Review of 'Ramayana' Ahead of November Release",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-04T20:18:48+05:30"
-  },
   "1num2n7": {
     "id": "1num2n7",
     "type": "news",
@@ -4656,43 +4687,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-04T14:45:23Z"
-  },
-  "v2k5lv": {
-    "id": "v2k5lv",
-    "type": "news",
-    "headline": "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer",
-    "dek": "Paramount Pictures debuts the trailer for The Angry Birds Movie 3, featuring the return of Jason Sudeikis as Red, who must balance the chaotic demands of raising three kids with protecting his world.",
-    "entities": {
-      "people": [
-        "Jason Sudeikis",
-        "Josh Gad",
-        "Danny McBride",
-        "Rachel Bloom",
-        "Walker Scobell",
-        "Emma Myers",
-        "Psalm West",
-        "James Austin Johnson",
-        "Edward Davis"
-      ],
-      "titles": [
-        "The Angry Birds Movie 3",
-        "The Angry Birds Movie 2"
-      ]
-    },
-    "keywords": [
-      "The Angry Birds Movie 3",
-      "Jason Sudeikis Angry Birds 3",
-      "The Angry Birds Movie 3 trailer",
-      "Paramount Pictures animated sequel"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/04092851/AB3_TRAILER_001.jpg",
-        "caption": "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer",
-        "source": "The Playlist"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 14:29:42 +0000"
   },
   "zjcoxh": {
     "id": "zjcoxh",
