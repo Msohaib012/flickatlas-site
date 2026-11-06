@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-04T23:52:37Z",
-    "run_id": "41936851539",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "'Ramayana' Anticipated to Net Rs 75-100 Crore on Opening Day as Experts Forecast Massive Lifetime Earnings",
-      "The Legal Battle Between 'The Pitt' Producers And The Michael Crichton Estate Is Heading To Trial",
-      "BBC Confirms Release Window for Strike Season 7",
-      "Salman Khan residence firing: Accused shooter denied physical bail but permitted virtual wedding attendance"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-05T00:51:25Z",
     "run_id": "41944298936",
     "status": "success",
@@ -1445,6 +1422,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-06T03:17:20Z",
+    "run_id": "42151717265",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1885,27 +1880,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-05T02:57:51Z",
-    "run_id": "41951220286",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "25i5xu",
-      "1vd267q",
-      "paul37"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-05T04:08:56Z",
     "run_id": "41956916959",
     "status": "success",
@@ -2334,6 +2308,23 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-06T03:17:21Z",
+    "run_id": "42151717265",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -3023,24 +3014,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-05T04:08:55Z",
-    "run_id": "41956916959",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-05T04:24:22Z",
     "run_id": "41964083159",
     "status": "success",
@@ -3533,6 +3506,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-06T03:17:20Z",
+    "run_id": "42151717265",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8217,5 +8208,5 @@
    }
   ]
  },
- "updated_at": "2026-11-06T03:11:39Z"
+ "updated_at": "2026-11-06T03:17:21Z"
 }
