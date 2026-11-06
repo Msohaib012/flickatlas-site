@@ -72346,5 +72346,678 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 15:00:18 GMT"
+  },
+  "ex0d4f": {
+    "id": "ex0d4f",
+    "type": "news",
+    "headline": "Bano Episode 24 — Watch Online on Geo TV",
+    "dek": "Bano episode 24 aired on 2026-11-06 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 24 aired on 2026-11-06 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=n1PsEZ5a77M"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Bano ke is episode ki shuruat mein Meharun pareshan hoti hai ke Shahryar phone nahi utha raha aur woh Bano ke ghar chali gayi hai yeh pata karne ke liye ke Shahryar wahan hai ya nahi. Meharun ke abba use samjhate hain ke woh apne jazbaat ko kabu mein rakhe kyunki Shahryar Bano se milne gaya hai aur Bano ke ghar walon ko is baat ki fikar hoti hai ke Shahryar ka phone band hai aur woh ghar nahi aaya. Bano apni saas, bhabhi aur ghar walon se kehti hai ke agar Shahryar nahi mila toh woh police mein FIR darj karwa degi kyunki woh pareshan hai. Dusri taraf, Shahryar ko kuch logon ne ek kamre mein band kar ke rakha hai jahan uske haath paath bandhe hue hain aur ek aadmi phone par kisi se baat karta hai. Bano jab apke ghar jaati hai toh wahan sab se behes hoti hai aur Bano ke ghar wale use wapas jane ko kehte hain kyunki uske wahan hone se unke ghar ka mahaul kharab ho raha hai. Episode ke aakhir mein Bano Shahryar ko phone karti hai aur us aadmi ke paas phone ki ghanti bajti hai jiske paas Shahryar qaid hai. Shahryar ka phone wahi aadmi uthata hai aur Bano ko pata chalta hai ke Shahryar kisi musibat mein hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 24 aired on 2026-11-06.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=n1PsEZ5a77M",
+      "YouTube views: 205,069.",
+      "Episode summary added 2026-11-06."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/n1PsEZ5a77M/hqdefault.jpg",
+        "caption": "Bano Episode 24",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-06T17:00:21Z"
+  },
+  "1ee7pub": {
+    "id": "1ee7pub",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 12 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 12 aired on 2026-11-06 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 12 aired on 2026-11-06 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=PNvaazSxJHw"
+        ]
+      },
+      {
+        "h": "About Lagan Lagi",
+        "p": [
+          "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zunaira aur uske ghar walon ka khana khane ke dauran gup-shup se shuruat hoti hai. Zunaira ki Bhabi uske kapron aur pehnave par tanqeed karti hain kyunki woh ek aisi party mein jane wali hoti hain jahan uske bhai ka business circle hota hai. Bhabi ne Zunaira ke liye ek mehangi designer saree bheji hoti hai, lekin Zunaira usme comfortable nahi mehsoos karti aur apna purana suit pehn kar jati hai.\n\nJab Zunaira Daniel ke ghar pahunchti hai, toh Daniel ki ma uske kapron ko dekh kar naraz hoti hain aur use bura-bhala kehti hain. Daniel bhi apni ma ki baaton mein aakar Zunaira se maafi maangne ko kehta hai, jisse Zunaira ko bura lagta hai aur woh wahan se gusse mein nikal aati hai. Daniel ki ma apni beti Saman se kehti hain ke woh Daniel ki shadi kisi aur behtar khandan mein karana chahti hain.\n\nIdhar Zunaira raste mein roktok ka shikar hoti hai jab uski gaadi ka tyre puncture ho jata hai. Daniel usko car se follow kar raha hota hai aur door se dekhta rehta hai. Jab Zunaira apne ghar wapas aati hai, woh bohot udaas aur akeli hoti hai. Episode ka ikhtitam Zunaira ke rone aur uske dardnaak lamhat par hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 12 aired on 2026-11-06.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=PNvaazSxJHw",
+      "YouTube views: 2,751.",
+      "TMDB: Lagan Lagi (id 337316).",
+      "Episode summary added 2026-11-06."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/PNvaazSxJHw/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 12",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-06T17:00:03Z"
+  },
+  "1kmjl4w": {
+    "id": "1kmjl4w",
+    "type": "news",
+    "headline": "Nashtar Episode 27 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 27 aired on 2026-11-06 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 27 aired on 2026-11-06 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=uhIhAlvBDaU"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Barira apnay ghar mein paudhon ko pani de rahi hai aur usay puranay din yaad aatay hain jab Daud usay apnay sath laya tha lekin phir chorh kar chala gaya tha. Kabir apnay baba se baat karta hai ke Manha aunty bohat pareshan hain kyun ke Rafe, Seerat se apni mangni tornay ka elan karnay wala hai. Baba kehte hain ke rishtay itni asani se nahi toray jatay, aur Kabir kehta hai ke Barira bhi to yehi sab kuch kar rahi hai aur uska faisla Rafe ke faislay ki buniyad ban raha hai. Baba aur Kabir, Barira ke paas jatay hain aur Barira kehti hai ke woh aur baba yahin apnay mulk aur ghar mein rehna chahtay hain. Kabir kehta hai ke woh baba ko sath le jana chahta tha lekin baba yahin rehna chahtay hain, aur baba kehte hain ke Barira ki shadi Shah Daud se ho chuki hai isliye usay uskay sath rehna chahiye. \n\nBarira phone par Daud se baat karti hai aur poochti hai ke kya woh apnay andar badla lenay ki dhun ko khatam kar sakta hai ya nahi. Daud kehta hai ke woh Barira ki khushi chahta hai aur usay apnay dil ki baat karnay ki ijazat deta hai. Baad mein Barira aur Seerat ki mulaqat hoti hai jahan Seerat kehti hai ke usnay suna tha ke Barira aur Rafe aik honay walay thay aur is baat par Seerat ka dil toot gaya tha lekin jab usnay Rafe ko khush dekha toh uska ghum kam ho gaya. Seerat kehti hai ke Rafe sach mein usse mohabbat karta hai aur usi ka muntazir hai. \n\nEpisode ke akhir mein Kabir aur baba, Barira ke ghar aatay hain aur baat cheet ke dauran wahan kuch log Barira ke liyeher qisam ke phoolon ke baray baray bouquets le kar atay hain jinhay dekh kar sab hairan ho jatay hain, aur episode yahin khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 27 aired on 2026-11-06.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=uhIhAlvBDaU",
+      "YouTube views: 745,813.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-06."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/uhIhAlvBDaU/hqdefault.jpg",
+        "caption": "Nashtar Episode 27",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-06T16:00:39Z"
+  },
+  "zs3arv": {
+    "id": "zs3arv",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 28 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 28 aired on 2026-11-06 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 28 aired on 2026-11-06 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=4-xbn7RQfDk"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Abubakar aur Humna apni doori aur bechaini mehsoos karte hain. Abubakar raat bhar jag kar Quran padhta hai aur Humna ke khayalon mein khoya rehta hai. Agle din, Humna Zaryab ke sath shopping ke liye jaati hai aur wahan Abubakar se chupke se call par baat karne ki koshish karti hai. Zaryab ko pehle pata nahi chalta, lekin baad mein use shaq hota hai aur woh Humna se naraz hota hai. Humna ki saas (ya ammi) use samjhati hain ke Zaryab ke sath naya rishta shuru hua hai, isliye purane rishtay ko bhul kar apni shadi ki zindagi par tawajjoh de. Episode ke aakhir mein Abubakar aur Humna ek doosre ke kareeb aane aur purane waqt ko yaad karne lagte hain, jahan woh phir se purani baatein aur apne jazbaat share karte hain, aur episode ek emotional note par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 28 aired on 2026-11-06.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=4-xbn7RQfDk",
+      "YouTube views: 657,586.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-06."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/4-xbn7RQfDk/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 28",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-06T16:00:31Z"
+  },
+  "1h2mrkk": {
+    "id": "1h2mrkk",
+    "type": "news",
+    "headline": "Aangan Episode 11 — Watch Online on HUM TV",
+    "dek": "Aangan episode 11 aired on 2026-11-06 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 11 aired on 2026-11-06 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=tRXKgiVuAgI"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Chammi baji ki shadi ki tyari kar rahi hai aur apne ghar walon se aur kapray mangti hai. Woh apnay chotay bhai Shakeel se kehti hai ke agar uski shadi par usay aur kapray nahi milay toh woh shadi mein shamil nahi hogi. Shakeel aur unki walida is baat par pareshaan hotay hain. Phir Badi Chachi aur Bade Chacha aate hain aur kehte hain ke Mazhar ki mout ho gayi hai aur uski body aa rahi hai, yeh sun kar ghar mein gham ka pahar toot parta hai aur sab rokar dua kartay hain. Iske baad Mazhar jail mein qaid hai aur Bade Chacha usse milne aate hain. Mazhar apne kisi gunah ki wajah se jail mein hai aur Badi Chachi aur unki beti ki halat bohat kharab hai. Ek din ek admi aakar batata hai ke Mehmood Sahab aur English officer ke jhagre mein Mazhar ne officer ka sar phaard diya tha, jiski wajah se usay saza mili hai. Episode ke aakhir mein Chammi aur baki sab aik nayi jagah par shift ho jatay hain jahan woh purani yaadon ko yaad karke thora muskurate hain aur aage ki zindagi ki ummeed karte hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 11 aired on 2026-11-06.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=tRXKgiVuAgI",
+      "YouTube views: 80,113.",
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-11-06."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/tRXKgiVuAgI/hqdefault.jpg",
+        "caption": "Aangan Episode 11",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-06T16:00:19Z"
+  },
+  "h0kef6": {
+    "id": "h0kef6",
+    "type": "news",
+    "headline": "Remembering Matthew Perry and His Inspiring Words on Turning Struggles into Strength",
+    "dek": "Reflecting on a powerful motivational quote by the late Friends star Matthew Perry, exploring how his personal battles with addiction shaped a legacy of empathy and support for others.",
+    "body": [
+      {
+        "h": "The Enduring Impact of a Memorable Quote",
+        "p": [
+          "Matthew Perry left an indelible mark on global audiences through his iconic portrayal of Chandler Bing in the beloved television sitcom Friends. Beyond the laughter and comedic brilliance he brought to millions of homes, the actor was notably candid about his personal adversities, particularly his extensive journey overcoming substance addiction.",
+          "Highlighting this transparent perspective, a motivational statement attributed to the late actor reads, 'The further down you go, the more people you can help.' This poignant reflection captures how difficult lived experiences can ultimately transform into valuable wisdom for supporting others."
+        ]
+      },
+      {
+        "h": "Finding Meaning in Painful Experiences",
+        "p": [
+          "Life frequently introduces unexpected detours, leaving individuals feeling stranded, overwhelmed, or entirely powerless. However, traversing through harsh seasons fosters a profound capacity to comprehend what fellow human beings might be enduring during their own crises.",
+          "This philosophy asserts that personal flaws and past hardships do not dictate a person's ultimate identity. Instead, the knowledge gathered from dark moments can be channeled into genuine kindness, patience, and guidance for anyone encountering comparable obstacles."
+        ]
+      },
+      {
+        "h": "Relevance in a Fast-Paced Modern World",
+        "p": [
+          "Contemporary society often places intense pressure on individuals to have their personal and professional futures completely figured out. People frequently grapple with deep uncertainty regarding careers, financial stability, emotional health, and interpersonal relationships.",
+          "In such a climate, Perry's perspective offers a healthy counter-narrative, reminding society that experiencing hardship does not equate to weakness. Suffering can cultivate greater compassion, encouraging individuals to measure their achievements beyond mere career milestones and societal recognition."
+        ]
+      },
+      {
+        "h": "Early Life and Roots",
+        "p": [
+          "Born Matthew Langford Perry on August 19, 1969, in Williamstown, Massachusetts, the future star experienced an upbringing split across borders after his parents separated during his infancy. Primarily raised by his mother Suzanne Morrison in Ottawa, Canada, his mother worked as a journalist and served as press secretary to former Canadian Prime Minister Pierre Trudeau, while his father John Bennett Perry was an actor.",
+          "During his youth, Matthew displayed exceptional athletic talent as a competitive junior tennis player in Canada. However, his ambitions shifted dramatically at age fifteen when he relocated to Los Angeles to reside with his father, igniting a serious passion for the performing arts."
+        ]
+      },
+      {
+        "h": "The Path to Stardom",
+        "p": [
+          "Embarking on his acting journey early on, Matthew secured television appearances before landing his first major sitcom role in 1987 within Second Chance, later retitled Boys Will Be Boys. Subsequent television and film projects paved the way for his monumental career turning point in 1994.",
+          "Cast as the sarcastic yet endearing Chandler Bing on NBC's Friends, he starred alongside Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, and David Schwimmer. The enormously popular sitcom ran for ten seasons from 1994 to 2004, cementing his status as one of the definitive television stars of his generation."
+        ]
+      },
+      {
+        "h": "Beyond the Sitcom and Advocacy",
+        "p": [
+          "Outside of his defining television role, Matthew expanded his cinematic footprint with feature films such as Fools Rush In, The Whole Nine Yards, and 17 Again. He also earned critical acclaim for notable dramatic guest appearances and performances in television projects like The West Wing and The Ron Clark Story.",
+          "Deeply committed to addressing his lifelong health challenges openly, he detailed his recovery path in his 2022 memoir, Friends, Lovers, and the Big Terrible Thing. He actively dedicated himself to supporting addiction recovery initiatives to aid others facing similar battles."
+        ]
+      },
+      {
+        "h": "A Lasting Legacy",
+        "p": [
+          "Matthew Perry passed away on October 28, 2023, at the age of 54, leaving behind a grieving global fanbase and entertainment community. His enduring legacy spans both his celebrated contributions to comedy and his courageous efforts to uplift individuals struggling with addiction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A featured motivational quote by the late Matthew Perry highlights how personal hardships can be transformed into empathy to support others facing similar struggles. The actor's journey encompasses his early life in Canada and the United States, his rise to global fame on Friends, his film and television career, and his open advocacy for addiction recovery prior to his passing in October 2023."
+        ]
+      }
+    ],
+    "facts": [
+      "Matthew Perry was born on August 19, 1969.",
+      "He was born in Williamstown, Massachusetts, USA.",
+      "His mother was Suzanne Morrison and his father was John Bennett Perry.",
+      "He moved to Los Angeles at age 15.",
+      "He starred as Chandler Bing in Friends, which aired from 1994 to 2004.",
+      "He published his memoir Friends, Lovers, and the Big Terrible Thing in 2022.",
+      "Matthew Perry passed away on October 28, 2023, aged 54."
+    ],
+    "entities": {
+      "people": [
+        "Matthew Perry",
+        "Pierre Trudeau",
+        "Suzanne Morrison",
+        "John Bennett Perry",
+        "Jennifer Aniston",
+        "Courteney Cox",
+        "Lisa Kudrow",
+        "Matt LeBlanc",
+        "David Schwimmer"
+      ],
+      "titles": [
+        "Friends",
+        "Second Chance",
+        "Boys Will Be Boys",
+        "Fools Rush In",
+        "The Whole Nine Yards",
+        "17 Again",
+        "The West Wing",
+        "The Ron Clark Story",
+        "Friends, Lovers, and the Big Terrible Thing"
+      ]
+    },
+    "keywords": [
+      "Matthew Perry quotes",
+      "Friends Chandler Bing actor",
+      "Matthew Perry memoir recovery",
+      "Matthew Perry life and career"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135601596,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Remembering Matthew Perry and His Inspiring Words on Turning Struggles into Strength",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T23:00:00+05:30"
+  },
+  "1ynit25": {
+    "id": "1ynit25",
+    "type": "news",
+    "headline": "Prabhas Fans React After Ramayana Fails To Beat Adipurush Opening",
+    "dek": "Ranbir Kapoor starrer Ramayana falls short of Adipurush opening day collection, prompting strong reactions from Prabhas fans on social media.",
+    "body": [
+      {
+        "h": "Introduction to Ramayana Release",
+        "p": [
+          "The Ranbir Kapoor starrer Ramayana emerged as one of the most prominent cinematic releases of the year. Directed by Nitesh Tiwari and co-produced by Yash and Namit Malhotra, the film generated massive anticipation among audiences before finally hitting the big screen.",
+          "The feature boasts a stellar ensemble cast featuring Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Raavana. Additional supporting performances come from notable actors including Arun Govil, Lara Dutta, Rakul Preet Singh, and Anupam Kher."
+        ]
+      },
+      {
+        "h": "Audience Reception and Box Office Figures",
+        "p": [
+          "Upon its arrival in theaters, Ramayana was met with a mixed reception from both general audiences and critics. While the production scale drew attention, viewers voiced mixed opinions regarding the screenplay and the visual effects utilized in the movie.",
+          "According to box office figures reported by Sacnilk, the multi-lingual release pulled in Rs 64.85 crore across India on its opening day. This performance secured the second highest opening of the year for any film."
+        ]
+      },
+      {
+        "h": "Comparison with Past Openings",
+        "p": [
+          "Despite achieving a strong start and surpassing the first-day earnings of major titles like Animal, Pathaan, and Stree 2, the film did not manage to outpace the opening day records set by Adipurush.",
+          "For context, the Prabhas and Kriti Sanon starrer Adipurush had previously raked in Rs 86.75 crore in India on its initial day of release. This disparity quickly became a major talking point across the entertainment sphere."
+        ]
+      },
+      {
+        "h": "Prabhas Fans Take to Social Media",
+        "p": [
+          "The box office outcome triggered enthusiastic reactions from the massive fan following of Prabhas. Supporters utilized micro-blogging platforms to highlight the enduring box office power and stardom of the actor.",
+          "One user expressed surprise at defending earlier milestones, stating they never thought they would be flexing Adipurush day one records, while praising Prabhas as an undisputed king of openings when paired with solid content and a good director."
+        ]
+      },
+      {
+        "h": "Budget Versus Collections Debate",
+        "p": [
+          "Social media discussions also drew comparisons between the financial investments of the two cinematic projects. Observers noted that Ramayana carried a vastly superior budget compared to Adipurush.",
+          "Fans pointed out that despite the massive difference in financial backing, opening day figures demonstrated that heavy spending alone does not guarantee a victory over audience sentiment and star power."
+        ]
+      },
+      {
+        "h": "Industry Reactions and Reviews",
+        "p": [
+          "Beyond audience chatter, prominent figures from the film industry also shared their thoughts on the release. Actor Mahesh Babu posted a review praising Nitesh Tiwari's Ramayana for bringing childhood stories to life with a magical cast.",
+          "Mahesh Babu commended the entire team, including Namit Malhotra and Nitesh Tiwari, for successfully pulling off a cinematic project of such an immense scale."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's Ramayana opened to mixed reviews and earned Rs 64.85 crore on its first day in India, securing the second highest opening of the year. However, it failed to surpass the Rs 86.75 crore opening day collection of Prabhas's Adipurush, prompting enthusiastic reactions from fans comparing the budgets and star power of both films."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari.",
+      "Ramayana is co-produced by Yash and Namit Malhotra.",
+      "Ranbir Kapoor plays Lord Ram, Sai Pallavi plays Sita, and Yash plays Raavana in Ramayana.",
+      "Ramayana collected Rs 64.85 crore in India on its day of release across all languages combined.",
+      "Adipurush raked in Rs 86.75 crore on its day of release.",
+      "Mahesh Babu reviewed Ramayana and praised the team."
+    ],
+    "entities": {
+      "people": [
+        "Prabhas",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Yash",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Anupam Kher",
+        "Kriti Sanon",
+        "Mahesh Babu"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush",
+        "Animal",
+        "Pathaan",
+        "Stree 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Prabhas fans Ramayana Adipurush",
+      "Ranbir Kapoor Ramayana opening day",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/prabhasfansreactionfeature-88991793984601.jpg",
+        "caption": "Prabhas Fans React After Ramayana Fails To Beat Adipurush Opening",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 22:45:08 +0530"
+  },
+  "chq596": {
+    "id": "chq596",
+    "type": "news",
+    "headline": "Ana Navarro Warns Donald Trump Will Soon Go Unhinged Following Midterm Losses",
+    "dek": "During a recent episode of The View, host Ana Navarro shared her strong prediction about Donald Trump after Republicans suffered major losses in the midterm elections.",
+    "body": [
+      {
+        "h": "Midterm Aftermath on The View",
+        "p": [
+          "The daytime talk show panel on The View gathered to dissect the political landscape following the recent midterm elections. Specifically, the hosts examined the widespread conservative losses often referred to as a Blue Tsunami.",
+          "As the conversation turned toward conservative reactions and party soul searching, Ana Navarro offered a blunt assessment of why the Republican party finds itself in this difficult position."
+        ]
+      },
+      {
+        "h": "Navarro Blames GOP Loyalty",
+        "p": [
+          "Navarro pulled no punches regarding the political strategy of the last two years, arguing that Republicans spent that entire time kissing Trump's behind.",
+          "In her view, the party surrendered its role as an institutional check on the former president, leading directly to the electoral setbacks they are now experiencing."
+        ]
+      },
+      {
+        "h": "Prediction of Mental Unraveling",
+        "p": [
+          "Building on her critique, Navarro issued a stark warning that Donald Trump is bound to fall completely off the cliff of sanity very soon.",
+          "She pointed out that his recent behavior already appears erratic and suggested that his current trajectory points toward an impending emotional and mental breakdown."
+        ]
+      },
+      {
+        "h": "Absence of Advisers",
+        "p": [
+          "A central concern raised by the ABC host is the complete lack of corrective voices within Trump's current inner circle.",
+          "Comparing the situation to the classic tale, she noted that there is nobody left around him to honestly tell the emperor he has no clothes on."
+        ]
+      },
+      {
+        "h": "Comparison to Past Administrations",
+        "p": [
+          "Navarro contrasted the current staff dynamic with the first term of the Trump presidency, recalling that figures like John Kelly and Jim Mattis occasionally stood up to him.",
+          "By contrast, she characterized the current group of aides as sycophants who enable bizarre behavior instead of exercising proper judgment."
+        ]
+      },
+      {
+        "h": "The Lincoln Memorial Message",
+        "p": [
+          "To illustrate her point, Navarro highlighted a peculiar final message delivered to voters by Trump while standing in front of the Lincoln Memorial Reflecting Pool.",
+          "She criticized the staff for printing out pictures of rebar, adding it to his schedule, and ultimately letting him carry out such a strange public appearance."
+        ]
+      },
+      {
+        "h": "Future of the MAGA Movement",
+        "p": [
+          "Despite the sweeping losses suffered by the party, Navarro offered a nuanced take that diverged from typical pundit commentary.",
+          "She expressed disagreement with the notion that the broader MAGA movement was completely wiped out by the midterm results."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "During a broadcast of The View, co-host Ana Navarro predicted that Donald Trump will soon go completely unhinged following sweeping Republican losses in the midterm elections. She argued that the party's troubles stem from uncritical loyalty and surrounded advisers who fail to check his erratic behavior."
+        ]
+      }
+    ],
+    "facts": [
+      "Ana Navarro is a host on The View.",
+      "The View airs weekdays at 11 a.m. ET on ABC.",
+      "Midterm elections took place on a Tuesday.",
+      "Former administration officials mentioned include John Kelly and Jim Mattis.",
+      "Donald Trump delivered a final message to voters in front of the Lincoln Memorial Reflecting Pool."
+    ],
+    "entities": {
+      "people": [
+        "Ana Navarro",
+        "Donald Trump",
+        "John Kelly",
+        "Jim Mattis"
+      ],
+      "titles": [
+        "The View"
+      ]
+    },
+    "keywords": [
+      "Ana Navarro The View",
+      "Donald Trump midterm elections",
+      "The View ABC",
+      "Republicans midterm losses"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/ana-navarro-the-view.jpg",
+        "caption": "Ana Navarro Warns Donald Trump Will Soon Go Unhinged Following Midterm Losses",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 17:36:28 +0000"
+  },
+  "1segdpi": {
+    "id": "1segdpi",
+    "type": "news",
+    "headline": "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief",
+    "dek": "Political commentator Shehzad Poonawalla claimed the trophy for Rise & Fall Season 2 after a six-week journey, defeating Priyanka Chahar Choudhary in the finale and pledging his winnings to Assam and Bihar flood relief.",
+    "body": [
+      {
+        "h": "The Grand Finale Outcome",
+        "p": [
+          "Shehzad Poonawalla emerged as the winner of Rise & Fall Season 2 after navigating a six-week competition defined by intense rivalries, strategic alliances, and shifting dynamics. The political commentator triumphed over runner-up Priyanka Chahar Choudhary in the final episode.",
+          "The concluding stages of the reality show also determined the remaining placements among the top contestants. Gautam Gulati secured the third spot, Swara Bhasker finished in fourth place, and Karan Patel rounded out the top five."
+        ]
+      },
+      {
+        "h": "Format and Host",
+        "p": [
+          "The MX Player by Prime Video reality series was hosted by Virender Sehzag and centered around a demanding structure of power and survival. Competitors were split into two distinct tiers: the Rulers residing in the Penthouse and the Workers relegated to the Basement.",
+          "Throughout the run of the program, participants moved between these contrasting living conditions based on performance in tasks, tactical alliances, and periodic eliminations."
+        ]
+      },
+      {
+        "h": "Turbulent Journey and Controversies",
+        "p": [
+          "Shehzad's path to the championship was far from tranquil, as he found himself at the center of several major arguments. His clashes involved sharp verbal exchanges with Swara Bhasker, Priyanka Chahar Choudhary, and Gautam Gulati.",
+          "One of the most notable flashpoints of the season involved Siwet Tomar, who grabbed Shehzad by the neck and tore his kurta during a heated confrontation. This physical altercation resulted in Siwet's immediate eviction for breaching the program's zero-tolerance policy against violence, though Shehzad later stated he had asked the producers not to remove him."
+        ]
+      },
+      {
+        "h": "Ideological Dynamics and Alliances",
+        "p": [
+          "The relationship between Shehzad and Swara served as a primary narrative arc for viewers. Entering the house with known ideological differences, the pair initially formed a warmer rapport before falling out again when Shehzad chose to save Gautam instead of Swara during a crucial game decision.",
+          "Their resulting argument turned deeply personal before both participants apologized and embraced following intervention from Gautam."
+        ]
+      },
+      {
+        "h": "Charitable Donation of Prize Money",
+        "p": [
+          "Upon winning the competition, Shehzad was awarded Rs 35 lakh in prize money. He promptly announced his intention to donate the entire sum to the Chief Minister's fund to support flood-affected states.",
+          "Reflecting on his experience, he described the format as a test of endurance moving between the highs of the Tower and the uncertainty of the Basement, noting that the victory stood as a testament to resilience and determination."
+        ]
+      },
+      {
+        "h": "Strategic Turning Points",
+        "p": [
+          "A critical turning point in Shehzad's campaign occurred during the Ticket to Finale challenge. Partnering with Rishabh Jaiswal, he successfully completed a circuit-board task in 23 minutes and 46 seconds.",
+          "The victory allowed them to defeat Karan Patel and Jashwanth Bopanna, securing Shehzad's status as the first finalist and earning him the Ultimate Ruler title for a second time."
+        ]
+      },
+      {
+        "h": "Legacy and Streaming Details",
+        "p": [
+          "With this win, Shehzad became the second champion in the history of the show, following Arjun Bijlani, who won the inaugural season. He also expressed gratitude toward the production teams at Banijay Asia and the platform.",
+          "The finale episode is currently available for audiences to stream on Prime Video."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shehzad Poonawalla won the second season of the reality series Rise & Fall after a six-week run hosted by Virender Sehwag. He defeated Priyanka Chahar Choudhary in the finale and announced that his Rs 35 lakh prize money would be donated to flood-affected states."
+        ]
+      }
+    ],
+    "facts": [
+      "Shehzad Poonawalla won Rise & Fall Season 2.",
+      "The season lasted for six weeks.",
+      "Priyanka Chahar Choudhary finished as the runner-up.",
+      "Gautam Gulati finished third, Swara Bhasker finished fourth, and Karan Patel finished fifth.",
+      "Virender Sehwag hosted the show.",
+      "Siwet Tomar was evicted for violating the no-violence rule.",
+      "Shehzad received Rs 35 lakh as prize money and donated it to flood relief.",
+      "Shehzad and Rishabh Jaiswal completed the circuit-board task in 23 minutes and 46 seconds.",
+      "Arjun Bijlani won the first season of the show.",
+      "The story was published on November 6, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shehzad Poonawalla",
+        "Priyanka Chahar Choudhary",
+        "Gautam Gulati",
+        "Swara Bhasker",
+        "Karan Patel",
+        "Virender Sehwag",
+        "Siwet Tomar",
+        "Rishabh Jaiswal",
+        "Jashwanth Bopanna",
+        "Arjun Bijlani"
+      ],
+      "titles": [
+        "Rise & Fall",
+        "Rise & Fall Season 2",
+        "Rise And Fall 2"
+      ]
+    },
+    "keywords": [
+      "Rise And Fall 2",
+      "Shehzad Poonawalla",
+      "Rise And Fall Season 2 winner",
+      "Shehzad Poonawalla prize money"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/shehzadprizemoneyfeature-93381793981505.jpg",
+        "caption": "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 21:47:29 +0530"
   }
 };

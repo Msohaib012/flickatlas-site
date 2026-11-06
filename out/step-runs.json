@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-05T10:51:36Z",
-    "run_id": "42014036357",
-    "status": "success",
-    "checked": {
-     "candidates": 305,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Shiv Aroor and Rahul Singh end association with Salman Khan-starrer Maatrubhumi; say film has moved beyond their book’s account",
-      "I'm Game OTT Release Date And Platform: When And Where To Watch Dulquer Salmaan's Film Online",
-      "Suryaa: Ravi Kishan Wraps Up Dubbing For Sunny Deol's NEXT; Film Set To Arrive In Cinemas On THIS Date",
-      "Scene Box Office Day 1: Aims To Become Suriya’s Biggest Opener Ever In India!",
-      "Nayyi Navelli Box Office (Closing Collection): Yami Gautam Starrer Concludes Its Run With A Deficit Of 21%",
-      "Ramayana USA Premiere Advance Trails Dhurandhar 2 by Just 5.6% but Can It Meet the $65 Million Overseas Target?",
-      "SS Rajamouli praises Ranbir Kapoor, Yash and Sai Pallavi’s performances in ‘Ramayana’",
-      "Regina on not being included 'Kesari 2' promotions, Janhvi's comments on Peddi",
-      "In 2015, Taylor Swift pledged all proceeds of ‘Wildest Dreams’ to an African conservation",
-      "Vijay Deverakonda wishes ‘Ramayana’ team, calls it a giant leap for Indian cinema",
-      "Ibrahim Ali praises Kareena Kapoor and calls her a great stepmother",
-      "Sunny revisits Dharmendra’s farmhouse; shares moment with son",
-      "SS Rajamouli reviews Ramayana, calls Ranbir Kapoor 'serene yet magnificent' as Rama, praises Yash and Sai Pallavi",
-      "Rise & Fall season 2 finalists: Priyanka Chahar Choudhary, Shehzad Poonawalla and Gautam Gulati among top 6 contestants vying for trophy",
-      "Ramayana: Ravana's 10 heads are at war with each other and Yash makes it fascinating",
-      "Keerthy Suresh reveals challenges at home over interfaith relationship with Antony",
-      "Maatrubhumi: Sajid Khan Reveals Salman Khan Nailed Teri Sexy Beauty In One Take; Shares, “He Knew It By Heart”",
-      "EXCLUSIVE: Manish Kasyap EXPOSES Reality Behind Narratives Around Priyanka Chahar Choudhary On Rise And Fall 2; Says, “Everyone Has Collectively Troubled…”",
-      "Ramayana: Sunny Deol Makes Dhamakedar Entry As Lord Hanuman; Post-Credit Scene Goes Viral – Watch",
-      "Gunmaaster G9 New Poster OUT! Emraan Hashmi Is Locked, Loaded And Ready For Action"
-     ],
-     "updated": [],
-     "count": 286,
-     "detail": "294 stories, 0 duplicates removed, 11 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-05T11:25:02Z",
     "run_id": "42018704154",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "552 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-06T17:51:35Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 655,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Ramayana | Prabhas' Fans React After Ranbir's Film Fails To Beat Adipurush: Never Thought I'd Be Flexing…",
+      "Rise & Fall Season 2 Winner: Shehzad Poonawalla Donates His Prize Money To Assam & Bihar Flood Relief",
+      "Maatrubhumi Trailer Launch: Salman Khan Talks About VFX In Ranbir's Ramayana; Says 'I Don't Think It's....'",
+      "Maatrubhumi Trailer Release Date EXCLUSIVE: Why Salman Didn't Officially Unveil Trailer? When Will It Drop?",
+      "'Unme Kitna Pressure Hain': Mihir Ahuja Speaks Out Against Starkids Trolling Amid Nepotism Debate | EXCL",
+      "I’m Game Movie Review: Dulquer Salmaan’s One-Hand Show Gets Tiring & Predictable Very Quickly",
+      "Why Does Doctor Doom In Avengers: Doomsday Have Tony Stark’s Face?",
+      "Who Is Jim Hammond? Meet Marvel’s Original Human Torch & The First Superhero With A Surprising Connection To Vision",
+      "Priyanka Chopra returns to Marathi cinema with 'Ventilator 2', set for a 2027 release",
+      "Dolly Parton's estate withdraws lawsuit against nephew Bryan Seaver",
+      "Nora Fatehi appears before court in Rs 200 crore extortion case",
+      "‘Inspector Rishi 2’: Dravid Selvam and Deepika Venkatachalam join cast",
+      "Vidyut reveals how Tiger is coping after Juhu firing incident: 'He is stressed'",
+      "Motivational Quote of the day by Matthew Perry",
+      "In 2009, Luke Bryan started his Farm Tour; 17 years later, it has awarded 97 college scholarships and helped provide over 11 million meals",
+      "Hanuman Ansh OTT release: After its  ₹342 crore box office run, devotional film based on the life of Neem Karoli Baba to arrive on SonyLIV",
+      "Salman Khan says fans' focus should be on Rama and Sita in Ramayana, not on ' ₹4000 crore budget or VFX'",
+      "Prabhas's fans react as Ranbir's Ramayana misses Adipurush's Day 1 box office record",
+      "Michael Che Pitched The Rock A Black Adam Sketch On SNL That’s Straight Up Filthy",
+      "Will Adam Driver Return For The Girls Reboot? We Had To Ask Him"
+     ],
+     "updated": [],
+     "count": 584,
+     "detail": "609 stories, 2 duplicates removed, 46 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-05T15:54:11Z",
-    "run_id": "42059058948",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1462,27 +1444,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-06T17:57:00Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Remembering Matthew Perry and His Inspiring Words on Turning Struggles into Strength",
+      "Prabhas Fans React After Ramayana Fails To Beat Adipurush Opening",
+      "Ana Navarro Warns Donald Trump Will Soon Go Unhinged Following Midterm Losses",
+      "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-05T12:59:20Z",
-    "run_id": "42030550942",
-    "status": "success",
-    "checked": {
-     "candidates": 199,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 197, coming 2"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1896,29 +1883,27 @@
      "detail": "now 237, coming 11"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-06T17:57:00Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 248,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 237, coming 11"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-05T16:55:54Z",
-    "run_id": "42068607679",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1f1oimh",
-      "g9harb"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2356,27 +2341,28 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-06T18:10:43Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1x5yt3l"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T14:27:43Z",
-    "run_id": "42039356000",
-    "status": "success",
-    "checked": {
-     "candidates": 526,
-     "detail": "524 collected staging rows from readers; 194 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 12,
-     "detail": "+0 new rows, 12 updated rows, 512 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2790,19 +2776,27 @@
      "detail": "+0 new rows, 172 updated rows, 389 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-06T18:10:40Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 567,
+     "detail": "564 collected staging rows from readers; 204 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 169,
+     "detail": "+0 new rows, 169 updated rows, 395 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3039,31 +3033,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-05T18:54:43Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sunshine Through The Rain Episodes 1-3 Premiere Today: Release Timings, Platforms, And Where To Watch",
-      "Ramayana Part 1 OTT Release Details: Where and When to Stream the Mythological Epic Online",
-      "Jack Black Wants 'Doomanji' To Join The Holiday Box Office Lineup"
-     ],
-     "updated": [],
-     "count": 3,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3572,19 +3554,37 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-06T18:10:42Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Prabhas Fans React After Ramayana Fails To Beat Adipurush Opening",
+      "Ana Navarro Warns Donald Trump Will Soon Go Unhinged Following Midterm Losses",
+      "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief",
+      "Remembering Matthew Perry and His Inspiring Words on Turning Struggles into Strength",
+      "Bano Episode 24 — Watch Online on Geo TV",
+      "Lagan Lagi Episode 12 — Watch Online on ARY Digital",
+      "Nashtar Episode 27 — Watch Online on Geo TV",
+      "Dar-E-Nijaat Episode 28 — Watch Online on ARY Digital",
+      "Aangan Episode 11 — Watch Online on HUM TV"
+     ],
+     "updated": [],
+     "count": 9,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3851,19 +3851,38 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-06T17:56:33Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 14 new detected"
+    },
+    "changed": {
+     "added": [
+      "Bano Ep 24",
+      "Lagan Lagi Ep 12",
+      "Nashtar Ep 27",
+      "Dar-E-Nijaat Ep 28",
+      "Aangan Ep 11"
+     ],
+     "updated": [
+      "Nashtar Ep 27",
+      "Dar-E-Nijaat Ep 28",
+      "Bano Ep 24",
+      "Aangan Ep 11",
+      "Lagan Lagi Ep 12"
+     ],
+     "count": 10
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T11:27:46Z",
-    "run_id": "42018704154",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4229,30 +4248,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-05T10:54:32Z",
-    "run_id": "42014036357",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "news queue items drafted this run; 286 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 7/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 1/3, awards 1/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Dulquer Salmaan Starrer I'm Game Locks OTT Release Date On JioHotstar",
-      "Pamela Anderson to Receive Lifetime Achievement Award at Torino Film Festival",
-      "Scene Box Office Day 1: Eyeing Suriya’s Career-Best Opening In India!"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4740,26 +4748,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-06T17:57:00Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 584 still unprocessed; today by category: movies 8/6, tv_dramas 10/4, episodes 1/2, box_office 12/6, celebrities_events 14/5, upcoming_releases 5/4, ott_streaming 9/4, trailers 4/3, awards 1/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Remembering Matthew Perry and His Inspiring Words on Turning Struggles into Strength",
+      "Prabhas Fans React After Ramayana Fails To Beat Adipurush Opening",
+      "Ana Navarro Warns Donald Trump Will Soon Go Unhinged Following Midterm Losses",
+      "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-05T10:55:27Z",
-    "run_id": "42014036357",
-    "status": "success",
-    "checked": {
-     "candidates": 35,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5059,24 +5072,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-06T17:58:16Z",
+    "run_id": "42265297857",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 38,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 379,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5416,24 +5431,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 673,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5713,19 +5728,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5975,19 +5995,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6222,19 +6242,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6509,19 +6529,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6762,19 +6782,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7004,19 +7024,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7269,26 +7289,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-04T02:54:22Z",
-    "run_id": "41763325654",
-    "status": "success",
-    "checked": {
-     "candidates": 354,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 0; attempt cooldown deferred: 354"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7679,19 +7692,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-06T17:57:21Z",
+    "run_id": "42265297857",
+    "status": "success",
+    "checked": {
+     "candidates": 464,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 16; attempt cooldown deferred: 448"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7931,19 +7955,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-05T11:05:05Z",
-    "run_id": "42014036357",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8193,8 +8217,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-06T18:10:52Z",
+    "run_id": "42265297857",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-06T16:25:57Z"
+ "updated_at": "2026-11-06T18:10:52Z"
 }
