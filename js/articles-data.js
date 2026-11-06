@@ -66100,5 +66100,367 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-06T00:08:32.952+05:30"
+  },
+  "17jioxt": {
+    "id": "17jioxt",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Crosses Rs 823 Crore Worldwide",
+    "dek": "Rajinikanth's action thriller Jailer 2 maintains a strong global standing, surpassing the Rs 823 crore mark worldwide by its twenty-second day in theatres.",
+    "body": [
+      {
+        "h": "Global Milestone and Worldwide Earnings",
+        "p": [
+          "The theatrical run of Jailer 2 has achieved notable commercial success on a global scale. Directed by Nelson Dilipkumar, the action-heavy venture has powered past the significant threshold of Rs 823 crore in gross worldwide collections after completing twenty-two days at the box office.",
+          "While international territories have provided substantial support to the overall tally, domestic earnings have experienced a gradual deceleration following a remarkably strong opening phase."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Earnings Breakdown",
+        "p": [
+          "Within the domestic market, the movie has accumulated a net total of Rs 467.65 crore across various regions. Total domestic gross figures currently stand at Rs 546.95 crore following twenty-two days of theatrical screenings.",
+          "Meanwhile, international markets have contributed an impressive Rs 276.50 crore, which pushes the combined worldwide gross earnings to a grand total of Rs 823.45 crore."
+        ]
+      },
+      {
+        "h": "Strong Opening Week Performance",
+        "p": [
+          "The theatrical journey began with a high-performing opening week that established a solid foundation for the feature film. During its first eight days at ticket windows across the country, the Rajinikanth vehicle secured Rs 334.35 crore in net domestic earnings.",
+          "Domestic gross figures reached Rs 391.55 crore during that initial stretch. This strong early momentum played a pivotal role in driving total global collections closer to the massive Rs 800 crore milestone."
+        ]
+      },
+      {
+        "h": "Subsequent Weekly Slowdown",
+        "p": [
+          "Following the initial surge, box office collections witnessed a noticeable downward correction in the weeks that followed. Between days nine and fifteen, the title brought in Rs 95.55 crore net domestically, which represented a 71.4 percent decline compared to the opening week.",
+          "The downward trajectory continued into the third week as the film added another Rs 37.75 crore to its domestic net total, marking a further 60.5 percent drop from the preceding weekly figures."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution and Regional Reach",
+        "p": [
+          "An examination of language-specific earnings highlights how the picture performed across different state boundaries. The original Tamil version dominates domestic collections with Rs 323.73 crore, accounting for 69.2 percent of the net total.",
+          "The Telugu market emerged as a vital secondary contributor by adding Rs 85.65 crore, representing 18.3 percent of domestic earnings. Hindi language screenings contributed Rs 50.15 crore, while the Kannada version added Rs 8.12 crore."
+        ]
+      },
+      {
+        "h": "Overseas Strength and Plot Background",
+        "p": [
+          "International markets accounted for roughly 33.6 percent of the total worldwide revenue, helping offset the slowdown observed in Indian theatres. The narrative itself centers on Tiger Muthuvel Pandian, a retired jailer played by Rajinikanth, whose peaceful routine is disrupted by a fresh criminal threat.",
+          "Across its first twenty-two days in cinemas, the production recorded a total of 2,47,034 screenings nationwide while maintaining its position as one of the major commercial performers of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 has crossed Rs 823 crore in worldwide gross collections by its twenty-second day in theatres. Directed by Nelson Dilipkumar, the film recorded strong domestic net earnings led primarily by the Tamil and Telugu language markets alongside a significant contribution from overseas territories."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 crossed Rs 823 crore worldwide gross after 22 days.",
+      "India net collections reached Rs 467.65 crore.",
+      "Domestic gross stands at Rs 546.95 crore after 22 days.",
+      "Overseas markets contributed Rs 276.50 crore.",
+      "First eight days India net earnings were Rs 334.35 crore.",
+      "Tamil version accounts for Rs 323.73 crore or 69.2 percent of India net.",
+      "Telugu version contributed Rs 85.65 crore or 18.3 percent.",
+      "Hindi version earned Rs 50.15 crore or 10.7 percent.",
+      "Kannada version added Rs 8.12 crore or 1.7 percent.",
+      "Total shows recorded across India during the first 22 days were 2,47,034."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar"
+      ],
+      "titles": [
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office collection",
+      "Rajinikanth Jailer 2 earnings",
+      "Jailer 2 worldwide collection",
+      "Jailer 2 Tamil Telugu collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135589406,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Crosses Rs 823 Crore Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T05:38:49+05:30"
+  },
+  "1u9942h": {
+    "id": "1u9942h",
+    "type": "news",
+    "headline": "The New York Times Reportedly Enters Exclusive Talks to Acquire Letterboxd",
+    "dek": "The publishing company is reportedly in exclusive negotiations to purchase the popular film-lover social network for a staggering $330 million.",
+    "body": [
+      {
+        "h": "Exclusive Negotiations Underway",
+        "p": [
+          "The New York Times Company has reportedly entered exclusive discussions to purchase the social movie platform Letterboxd. According to a report published by the media outlet itself, the proposed acquisition value sits at a massive $330 million.",
+          "While the media giant declined to formally comment on the transaction to its own reporters, industry observers treat the insider-sourced details with strong credibility."
+        ]
+      },
+      {
+        "h": "Explosive Growth of the Platform",
+        "p": [
+          "Often described as a cinematic equivalent to Goodreads, Letterboxd has experienced extraordinary expansion over recent years. The community-driven film tracking service has captured a massive audience of modern movie enthusiasts.",
+          "Statistical milestones highlight this rapid climb, showcasing how the platform transformed into a dominant digital destination for film culture and user reviews."
+        ]
+      },
+      {
+        "h": "User Base and Demographics",
+        "p": [
+          "Data indicates that Letterboxd held a user base of 3 million people in January 2021. That number ballooned dramatically to 28 million users by April of the acquisition year.",
+          "Significantly, younger audiences drive this engagement, with more than half of the entire platform user base falling under the age of 35."
+        ]
+      },
+      {
+        "h": "Competing Industry Suitors",
+        "p": [
+          "Before entering exclusive talks with the publishing company, Letterboxd actively sought out prospective new ownership. Major industry players evaluated potential bids during this exploratory phase.",
+          "Notable competitors for the purchase included prominent film studios such as Sony and A24, though A24 was ultimately priced out of the high-stakes bidding process."
+        ]
+      },
+      {
+        "h": "Revenue and Financials",
+        "p": [
+          "While the core Letterboxd service remains free to all users, the platform generates revenue through optional paid subscriptions that unlock advanced features.",
+          "Projected earnings for the current year are estimated at $15 million. This financial projection represents approximately 4.5% of the total $330 million acquisition figure reported by the Times."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The New York Times Company is reportedly in exclusive negotiations to buy the movie tracking platform Letterboxd for $330 million. The social network has surged to 28 million users, outperforming earlier contenders like A24 and Sony before reaching this reported milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "The New York Times Company entered exclusive negotiations to buy Letterboxd for $330 million.",
+      "Letterboxd had 3 million users in January 2021.",
+      "Letterboxd reached 28 million users by April of the acquisition year.",
+      "More than half of Letterboxd users are under 35.",
+      "Film studios A24 and Sony were interested in acquiring Letterboxd, but A24 was priced out.",
+      "Projected earnings for Letterboxd for the current year are estimated at $15 million."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Letterboxd",
+        "Goodreads"
+      ]
+    },
+    "keywords": [
+      "Letterboxd acquisition",
+      "The New York Times Letterboxd",
+      "Letterboxd $330 million",
+      "Letterboxd users"
+    ],
+    "images": [
+      {
+        "url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800",
+        "caption": "The New York Times Reportedly Enters Exclusive Talks to Acquire Letterboxd",
+        "source": "TechCrunch"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 00:07:18 +0000"
+  },
+  "156p1w6": {
+    "id": "156p1w6",
+    "type": "news",
+    "headline": "Sundar C Admits To Last-Minute Fine-Tuning And Sleepless Nights Ahead Of Mookuthi Amman 2 Release",
+    "dek": "As Mookuthi Amman 2 prepares for its theatrical launch on November 6, director Sundar C shares his pre-release anxiety, the Terminator-inspired premise behind the sequel, and his dedication to perfecting the final cut.",
+    "body": [
+      {
+        "h": "Director Faces Anxiety Ahead Of Theatrical Debut",
+        "p": [
+          "With the fantasy entertainer Mookuthi Amman 2 just hours away from reaching the big screen, filmmaker Sundar C has opened up about experiencing severe pre-release nerves. Despite boasting an illustrious career that includes directing superstar vehicles for icons like Kamal Haasan and Rajinikanth, the veteran filmmaker confessed to feeling immense pressure as the premiere approaches.",
+          "The anticipation surrounding the project has taken a toll on the director's sleep schedule. In recent media interactions, Sundar C revealed that he has spent days awake while worrying about how the audience will receive the highly anticipated sequel."
+        ]
+      },
+      {
+        "h": "Final-Hour Edits And Creative Perfectionism",
+        "p": [
+          "Even in the final moments before the film hits cinemas for Diwali, the creative team continues working on the project. Sundar C acknowledged that he is still fine-tuning the final version of the movie because he refuses to compromise on quality until he feels entirely satisfied with the output.",
+          "The director explained that the pressure to deliver a polished product drives him to keep tweaking the film right up until its theatrical rollout. He noted that the intense anxiety of release week remains a constant part of his filmmaking journey."
+        ]
+      },
+      {
+        "h": "A Sci-Fi Twist Inspires The Fantasy Sequel",
+        "p": [
+          "Discussing the conceptual origins of Mookuthi Amman 2 during an interview with Behindwoods TV, Sundar C detailed how a classic science fiction trope sparked the narrative. Producer Ishari Ganesh had approached him to develop a follow-up, which led the director to ponder a time-travel concept.",
+          "Drawing inspiration from the iconic robot journey in Terminator, the filmmaker wondered what might happen if a character traveled from the past into the present day. Merging this historical-temporal shift with the divine Amman theme provided the core foundation for the new story."
+        ]
+      },
+      {
+        "h": "Anticipating Fan Comparisons And Sequels",
+        "p": [
+          "Creating a follow-up inherently invites scrutiny, a reality Sundar C understands well from his past work. Reflecting on his experience helming four installments of the Aranmanai franchise, he noted that while his screenplay patterns remain distinct, audiences frequently draw comparisons between chapters.",
+          "The filmmaker pointed out that despite individual films in his previous series outperforming their predecessors commercially, viewers still debated whether the newer entries matched the original vibe. He expects similar discussions and comparison patterns to surround the theatrical run of Mookuthi Amman 2."
+        ]
+      },
+      {
+        "h": "Gratitude For Early Screenings And Government Support",
+        "p": [
+          "Amid the heavy workload and pre-release stress, the director took a moment to express appreciation for regional leadership. Sundar C extended his thanks to Tamil Nadu Chief Minister C Joseph Vijay for granting permission to hold special 6 am screenings for new theatrical releases.",
+          "This administrative decision allows fans to catch early morning shows of the festive release, helping accommodate the massive demand from moviegoers eager to experience the fantasy comedy on opening day."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Brings The Narrative To Life",
+        "p": [
+          "Mookuthi Amman 2 features a robust ensemble cast led by prominent actors from the South Indian film industry. Headlining the project is Nayanthara in the titular lead role, supported by notable performers including Regina Cassandra, Duniya Vijay, Urvashi, and Yogi Babu.",
+          "The combination of a popular lead star and a comedic, fantasy-driven supporting cast forms a key pillar of the film's appeal as it enters the competitive festive box office window."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Sundar C is experiencing sleepless nights and last-minute fine-tuning ahead of the November 6 Diwali release of Mookuthi Amman 2. Inspired by a time-travel concept akin to Terminator merged with divine elements, the Nayanthara-starrer also features Regina Cassandra, Duniya Vijay, Urvashi, and Yogi Babu, with special early morning shows permitted by Tamil Nadu Chief Minister C Joseph Vijay."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 releases on November 6, 2026.",
+      "Sundar C is the director of Mookuthi Amman 2.",
+      "Nayanthara stars in the lead role of Mookuthi Amman 2.",
+      "Ishari Ganesh is a producer associated with the project.",
+      "Tamil Nadu Chief Minister C Joseph Vijay permitted special 6 am shows for new releases.",
+      "The cast includes Regina Cassandra, Duniya Vijay, Urvashi, and Yogi Babu."
+    ],
+    "entities": {
+      "people": [
+        "Sundar C",
+        "Nayanthara",
+        "Kamal Haasan",
+        "Rajinikanth",
+        "Ishari Ganesh",
+        "C Joseph Vijay",
+        "Regina Cassandra",
+        "Duniya Vijay",
+        "Urvashi",
+        "Yogi Babu"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Terminator",
+        "Aranmanai"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2",
+      "Sundar C",
+      "Nayanthara",
+      "Ishari Ganesh",
+      "C Joseph Vijay"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156467632,thumbsize-956809,width-1280,height-720,resizemode-75/156467632.jpg",
+        "caption": "Sundar C Admits To Last-Minute Fine-Tuning And Sleepless Nights Ahead Of Mookuthi Amman 2 Release",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T00:32:42Z"
+  },
+  "1j0od9r": {
+    "id": "1j0od9r",
+    "type": "news",
+    "headline": "Chris Pratt Set to Return as James Reece in Prime Video Adaptation of Savage Son",
+    "dek": "Actor Chris Pratt is slated to reprise his role as James Reece for a new Prime Video series based on the novel Savage Son, continuing his journey in the popular franchise.",
+    "body": [
+      {
+        "h": "Continued Adventures on Prime Video",
+        "p": [
+          "Actor Chris Pratt is returning to one of his most notable television roles for Prime Video. Having already portrayed Lieutenant Commander James Reece across two seasons of The Terminal List and one season of the prequel series Dark Wolf, the actor is officially stepping back into character for another installment.",
+          "Reports indicate that Pratt will star in a screen adaptation of the novel Savage Son. While the project is definitely moving forward at the platform, studio details have yet to clarify whether the production will function officially as the third season of the main show or debut as a separate standalone series."
+        ]
+      },
+      {
+        "h": "Recent Franchise Timeline",
+        "p": [
+          "The announcement of this latest project comes hot on the heels of the platform's recent programming rollouts. Specifically, the second season of the parent series, which drew its narrative inspiration from the book True Believer, premiered on the streaming service only two weeks prior to the new adaptation announcement."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Direction",
+        "p": [
+          "The storyline for the upcoming series follows a treacherous CIA operative who has sought sanctuary among the Russian mafia with the ultimate goal of eliminating James Reece. At the start of the narrative, Reece is physically vulnerable and attempting to heal from brain surgery in the quiet landscapes of his Montana youth.",
+          "With the assistance of investigative journalist Katie Buranek and his loyal friend and former SEAL teammate Raife Hastings, Reece works to rebuild his life. However, when an unknown individual within the American government is discovered to be compromised by Russian intelligence, Reece must assemble a team of former commandos to track down the Russian mafia on their own territory."
+        ]
+      },
+      {
+        "h": "Literary Origins and Creative Team",
+        "p": [
+          "The entire television universe is adapted from the acclaimed book franchise created by author Jack Carr. The source material has consistently provided grounded, action-heavy plots that resonate strongly with viewers across multiple seasons and spin-offs."
+        ]
+      },
+      {
+        "h": "Studio Executive Commentary",
+        "p": [
+          "Amazon MGM Studios executive Peter Friedlander shared high praise for the continuing television universe. He noted that the source material connects deeply with audiences due to powerful storytelling and the immense dedication brought to the episodes by Chris Pratt and the wider production crew.",
+          "Furthermore, the executive emphasized that the overarching franchise continues to perform exceptionally well with viewers, noting that the new adaptation will push the narrative into its most intense chapter yet."
+        ]
+      },
+      {
+        "h": "Returning Cast and Characters",
+        "p": [
+          "Fans can expect to see several key figures returning to the screen alongside the lead protagonist. The narrative heavily involves characters such as investigative journalist Katie Buranek and long-time SEAL teammate Raife Hastings, rounding out the familiar dynamic that viewers have followed throughout previous releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chris Pratt is set to reprise his role as James Reece in a Prime Video adaptation of Savage Son, following the recent debut of The Terminal List season two. The new series will follow Reece as he recruits a team of former commandos to take on the Russian mafia after a security breach within the U.S. government."
+        ]
+      }
+    ],
+    "facts": [
+      "Chris Pratt plays Lieutenant Commander James Reece",
+      "Pratt has played the character in two seasons of The Terminal List and a season of prequel series Dark Wolf",
+      "Savage Son is an adaptation of the novel by Jack Carr",
+      "Season two of The Terminal List debuted two weeks ago on Prime Video",
+      "Season two was based on the book True Believer",
+      "Katie Buranek is played by Constance Wu",
+      "Raife Hastings is played by Tom Hopper",
+      "Peter Friedlander is an Amazon MGM Studios executive"
+    ],
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "James Reece",
+        "Katie Buranek",
+        "Raife Hastings",
+        "Jack Carr",
+        "Peter Friedlander",
+        "Constance Wu",
+        "Tom Hopper"
+      ],
+      "titles": [
+        "Savage Son",
+        "The Terminal List",
+        "Dark Wolf",
+        "True Believer"
+      ]
+    },
+    "keywords": [
+      "Chris Pratt Savage Son",
+      "James Reece Savage Son",
+      "The Terminal List season two",
+      "Jack Carr Savage Son"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/chris-pratt-returns-terminal.jpg",
+        "caption": "Chris Pratt Set to Return as James Reece in Prime Video Adaptation of Savage Son",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 00:07:16 +0000"
   }
 };

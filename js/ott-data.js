@@ -2,19 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "IN",
-      "date": "2026-11-06",
-      "date_kind": "digital",
-      "id": 1483525,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
       "country": "US",
       "date": "2026-12-01",
       "date_kind": "digital",
