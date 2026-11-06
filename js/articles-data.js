@@ -73019,5 +73019,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 21:47:29 +0530"
+  },
+  "ekd5ut": {
+    "id": "ekd5ut",
+    "type": "news",
+    "headline": "The Hunger Games: Sunrise On The Reaping Tracking For Massive North American Debut",
+    "dek": "The upcoming sixth installment in the popular franchise is eyeing a historic opening weekend that could outpace recent studio releases.",
+    "body": [
+      {
+        "h": "Strong Pre-Sales Signal Record Debut",
+        "p": [
+          "Anticipation is rapidly building across North America as advanced ticket sales for the upcoming film continue to soar. Industry trackers note that audience demand is increasing daily, pointing toward a formidable performance upon its theatrical arrival.",
+          "The momentum places the picture in a strong position to achieve milestone figures, outperforming initial projections and catching the attention of box office analysts monitoring upcoming studio releases."
+        ]
+      },
+      {
+        "h": "Challenging Recent Studio Benchmarks",
+        "p": [
+          "Current tracking indicators suggest the feature could surpass the domestic opening figures of Michael, which previously pulled in an impressive $97.2 million during its North American weekend launch earlier this year.",
+          "Surpassing that specific threshold would cement the title as a major commercial success for Lionsgate, positioning it as their most lucrative domestic opening weekend in over a decade."
+        ]
+      },
+      {
+        "h": "Chasing An Eleven-Year Franchise Record",
+        "p": [
+          "If pre-sales momentum translates into actual ticket sales exceeding $100 million, the movie will secure the studio's highest opening weekend since Mockingjay – Part 2 debuted to $102.7 million.",
+          "Achieving this feat would place the latest cinematic entry right alongside the historic numbers established by the original Jennifer Lawrence-led series during its peak popularity."
+        ]
+      },
+      {
+        "h": "Surpassing Other Competitors In Advance Sales",
+        "p": [
+          "Reports indicate that pre-release metrics are currently running higher than those recorded for The Odyssey. This sustained consumer interest highlights the enduring strength and appeal of the overarching intellectual property.",
+          "Even without the participation of its original lead star, the broader universe continues to draw massive audiences eager to return to the dystopian setting."
+        ]
+      },
+      {
+        "h": "Plot And Timeline Details",
+        "p": [
+          "The narrative shifts back in time to explore the events surrounding the 50th Hunger Games, taking place 24 years before the storyline featured in the first motion picture.",
+          "Audiences will follow a 16-year-old Haymitch Abernathy as he enters the Second Quarter Quell, where districts are mandated to send double the usual number of tributes to fight for survival."
+        ]
+      },
+      {
+        "h": "Release Schedule And Direction",
+        "p": [
+          "The project is directed by Francis Lawrence, who steers the visual and dramatic direction of this sixth chapter in the cinematic series.",
+          "Fans won't have to wait much longer to see how the theatrical run unfolds, as the official release date is scheduled for November 20."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hunger Games: Sunrise on the Reaping is tracking for a North American opening weekend of over $100 million, potentially making it Lionsgate's biggest domestic debut in 11 years by beating Michael. Directed by Francis Lawrence and releasing on November 20, the film follows a 16-year-old Haymitch Abernathy competing in the 50th Hunger Games."
+        ]
+      }
+    ],
+    "facts": [
+      "The Hunger Games: Sunrise on the Reaping is directed by Francis Lawrence.",
+      "The film is set 24 years before the events of the first movie.",
+      "The story follows 16-year-old Haymitch Abernathy in the 50th Hunger Games and Second Quarter Quell.",
+      "Michael collected $97.2 million in its opening weekend in North America.",
+      "The Hunger Games: Mockingjay – Part 2 collected $102.7 million in its opening weekend in North America.",
+      "The release date is November 20."
+    ],
+    "entities": {
+      "people": [
+        "Francis Lawrence",
+        "Jennifer Lawrence",
+        "Haymitch Abernathy"
+      ],
+      "titles": [
+        "The Hunger Games: Sunrise on the Reaping",
+        "Michael",
+        "Mockingjay – Part 2",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "The Hunger Games Sunrise on the Reaping",
+      "Sunrise on the Reaping box office",
+      "Francis Lawrence",
+      "Haymitch Abernathy"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-box-office-update-001.jpg",
+        "caption": "The Hunger Games: Sunrise On The Reaping Tracking For Massive North American Debut",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 18:34:35 +0000"
+  },
+  "1w87q08": {
+    "id": "1w87q08",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 2: Ranbir Kapoor Starrer Crosses Rs 100 Crore Club Despite A Dip",
+    "dek": "Ranbir Kapoor, Sai Pallavi and Yash starrer Ramayana enters the Rs 100 crore club on its second day at the box office, though it continues to lag behind Adipurush.",
+    "body": [
+      {
+        "h": "Introduction To The Grand Epic",
+        "p": [
+          "The mythological epic Ramayana has captured widespread attention ever since its initial announcement. Directed by Nitesh Tiwari, the movie stands out as one of the most expensive projects in Indian cinema history.",
+          "The film features a star-studded lead cast comprising Ranbir Kapoor, Sai Pallavi, and Yash. Furthermore, it marks the first time Ranbir collaborates professionally with both Yash and Sai Pallavi on the big screen."
+        ]
+      },
+      {
+        "h": "High Stakes And Co-Production Roles",
+        "p": [
+          "This cinematic venture serves as Ranbir Kapoor's return to theaters following a three-year hiatus. Consequently, expectations and stakes are exceptionally high for the lead actors involved.",
+          "Yash carries a particularly heavy burden of responsibility for the project. Aside from essaying the character of Raavan, Yash also acts as a co-producer for Ramayana."
+        ]
+      },
+      {
+        "h": "Advance Booking And Opening Day Figures",
+        "p": [
+          "Before its theatrical rollout, the feature successfully raked in Rs 50.08 crore purely through advance booking collections. Despite this promising start, the film opened to a mixed reception from both critics and general audiences.",
+          "Initial projections anticipated a domestic opening exceeding Rs 100 crore. However, the film experienced an underwhelming start on day one, pulling in Rs 64.85 crore at the box office."
+        ]
+      },
+      {
+        "h": "Beating Past Major Releases On Day One",
+        "p": [
+          "Even with a somewhat modest opening compared to early forecasts, the feature managed to outperform several notable industry hits. Specifically, its opening day figures surpassed those of big titles like Animal, Pathaan, Jailer 2, and Stree 2.",
+          "Despite beating those major box office contenders, the film fell short of matching the massive opening day collection set by the Prabhas starrer Adipurush."
+        ]
+      },
+      {
+        "h": "Day Two Performance And Language Breakdown",
+        "p": [
+          "According to reports published by Sacnilk, the mythological drama successfully entered the Rs 100 crore club on its second day. This milestone was achieved despite a 25.9 percent drop in earnings compared to the first day.",
+          "On day two, the movie collected Rs 48.05 crore across India. This total included Rs 35.5 crore from the Hindi version, Rs 5.15 crore from Kannada, Rs 4.75 crore from Telugu, Rs 1.5 crore from Tamil, and Rs 1.15 crore from Malayalam."
+        ]
+      },
+      {
+        "h": "Comparison With Adipurush On Day Two",
+        "p": [
+          "Even after crossing the major Rs 100 crore cumulative mark, Adipurush remained out of reach for this newer epic on the second day. To put it in perspective, the Prabhas starrer had previously earned Rs 65.25 crore on its own second day of release.",
+          "This ongoing performance gap has left fans of Prabhas delighted. Many took to the micro-blogging site Twitter to voice their thoughts and celebrate the comparison."
+        ]
+      },
+      {
+        "h": "Audience Reactions And Social Media Buzz",
+        "p": [
+          "Social media platforms quickly filled with contrasting viewer opinions regarding the massive budgets and box office returns. One Twitter user pointed out that a film worth Rs 4,000 crore outspent Adipurush, which was valued between Rs 500 and Rs 700 crore, yet the opening day figures completely altered the dynamic, noting that records require winning people's hearts rather than just investing money.",
+          "Another user shared a surprising sentiment on the micro-blogging platform, tweeting that after watching Ramayana, they never thought they would say Adipurush does not look that bad anymore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Nitesh Tiwari directorial Ramayana crossed the Rs 100 crore milestone on its second day with a collection of Rs 48.05 crore, despite experiencing a 25.9 percent dip from its opening day. Although it managed to beat films like Animal and Pathaan on day one, it continues to trail behind Adipurush in its overall box office trajectory."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana stars Ranbir Kapoor, Sai Pallavi, and Yash",
+      "Nitesh Tiwari is the director of Ramayana",
+      "Yash plays the role of Raavan and is a co-producer",
+      "Advance booking collection was Rs 50.08 crore",
+      "Opening day collection was Rs 64.85 crore",
+      "Day 2 collection dropped by 25.9%",
+      "Day 2 total collection was Rs 48.05 crore",
+      "Hindi version Day 2 collection was Rs 35.5 crore",
+      "Kannada version Day 2 collection was Rs 5.15 crore",
+      "Telugu version Day 2 collection was Rs 4.75 crore",
+      "Tamil version Day 2 collection was Rs 1.5 crore",
+      "Malayalam version Day 2 collection was Rs 1.15 crore",
+      "Adipurush Day 2 collection was Rs 65.25 crore",
+      "Ramayana budget is valued at Rs 4,000 crore",
+      "Adipurush budget is valued at Rs 500-700 crore",
+      "Date of report is November 6, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush",
+        "Animal",
+        "Pathaan",
+        "Jailer 2",
+        "Stree 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana day 2 collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana vs Adipurush"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday2feature-99491793987385.jpg",
+        "caption": "Ramayana Box Office Collection Day 2: Ranbir Kapoor Starrer Crosses Rs 100 Crore Club Despite A Dip",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 00:09:07 +0530"
+  },
+  "drp7qi": {
+    "id": "drp7qi",
+    "type": "news",
+    "headline": "Matt Damon Shares Details of Wife Lucy's Brain Aneurysm Surgery Prior to the Academy Awards",
+    "dek": "Actor Matt Damon recently opened up about a harrowing personal ordeal, revealing that his wife Lucy underwent surgery for a brain aneurysm just one week before the 2024 Academy Awards ceremony.",
+    "body": [
+      {
+        "h": "A Sudden Health Emergency Before Hollywood's Biggest Night",
+        "p": [
+          "In a recent interview with GQ, Hollywood actor Matt Damon opened up about a stressful period in his personal life surrounding the 2024 Academy Awards. While the global film community was gearing up for a major celebration of cinema, Damon and his family were navigating a severe health crisis involving his wife, Lucy.",
+          "Just seven days prior to the high-profile awards ceremony, Lucy experienced a sudden medical emergency and required surgical intervention to address a brain aneurysm. The unexpected health scare placed the family under immense emotional strain during a time when public engagements and professional obligations were at their peak."
+        ]
+      },
+      {
+        "h": "Recovery and a Surprise Appearance at the After-Party",
+        "p": [
+          "Despite the gravity of the surgery and the need for careful post-operative rest, Lucy showed remarkable resilience. As the recovery process progressed, she gradually began to regain her strength and typical daily energy levels.",
+          "Demonstrating her determination, she reached a point just in time where she felt well enough to venture out. Surprising her husband, she acquired a dress and joined him for celebrations at the post-Oscars after-party, ensuring they could share in the evening's festivities despite the preceding week's ordeal."
+        ]
+      },
+      {
+        "h": "Meaningful Commemoration of Oppenheimer",
+        "p": [
+          "The 2024 Academy Awards held immense professional significance for Matt Damon, primarily due to the heavy presence of Christopher Nolan's acclaimed biographical drama, Oppenheimer. The film secured numerous prestigious nominations and ultimately dominated the ceremony.",
+          "Damon later acknowledged that his wife's choice to make a public appearance despite her recent medical procedure meant a great deal to him. He commended her efforts as heroic, noting that her presence added a special personal touch to an already monumental night for his career."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Oscar Memories and Absences",
+        "p": [
+          "Alongside his recollections of the 2024 event, Damon took the opportunity to reflect on past Academy Award ceremonies, including a notable absence from the 2007 event. During that particular year, Martin Scorsese's crime drama The Departed triumphed by winning the award for Best Picture.",
+          "At the time, Damon was located in Miami, where he was occupied with filming second-unit sequences for The Bourne Ultimatum while also caring for an infant child. Alongside Lucy, he watched the broadcast from home while nervously cheering on Martin Scorsese."
+        ]
+      },
+      {
+        "h": "Realizing a Missed Opportunity From Home",
+        "p": [
+          "Watching the 2007 ceremony from the comfort of their bedroom brought a mixture of intense excitement and sudden realization for the actor. While they were thrilled when Scorsese secured his victory, they had not initially anticipated the film following up with a Best Picture win.",
+          "When The Departed was announced as the winner of the night's top honor, Damon turned to his wife in astonishment and remarked that they should have been in attendance. In the weeks that followed, he received numerous playful inquiries from studio executives and cast members questioning his whereabouts."
+        ]
+      },
+      {
+        "h": "Legacy of the Mentioned Films",
+        "p": [
+          "Both Oppenheimer and The Departed occupy significant places within cinematic history and the careers of the creative teams involved. The Departed notably claimed four Academy Awards during its successful Oscar run.",
+          "Meanwhile, Christopher Nolan's Oppenheimer achieved massive critical and commercial success at the 96th Academy Awards, sweeping multiple major categories including Best Picture, Best Director, and five additional awards."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matt Damon recently disclosed that his wife Lucy underwent brain aneurysm surgery just one week before attending the 2024 Academy Awards after-party with him. During the same interview, the actor also reflected on missing the 2007 ceremony where The Departed won Best Picture while he was filming in Miami."
+        ]
+      }
+    ],
+    "facts": [
+      "Lucy Damon underwent surgery for a brain aneurysm one week before the 2024 Academy Awards.",
+      "Matt Damon missed the 2007 Oscars because he was shooting second unit for The Bourne Ultimatum in Miami.",
+      "The Departed won 4 Academy Awards, including Best Picture.",
+      "Oppenheimer won Best Picture, Best Director, and five other categories at the 96th Academy Awards."
+    ],
+    "entities": {
+      "people": [
+        "Matt Damon",
+        "Lucy",
+        "Christopher Nolan",
+        "Martin Scorsese"
+      ],
+      "titles": [
+        "Oppenheimer",
+        "The Departed",
+        "The Bourne Ultimatum"
+      ]
+    },
+    "keywords": [
+      "Matt Damon wife brain surgery",
+      "Matt Damon Oscars 2024",
+      "The Departed Oscars win Matt Damon",
+      "Oppenheimer Academy Awards"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Matt-Damon-1-1.jpg?resize=1200,630",
+        "caption": "Matt Damon Shares Details of Wife Lucy's Brain Aneurysm Surgery Prior to the Academy Awards",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 18:50:11 +0000"
+  },
+  "rjo09u": {
+    "id": "rjo09u",
+    "type": "news",
+    "headline": "Wild Horse Nine Hits Theaters With Star-Studded Cast and Major Oscar Buzz",
+    "dek": "Searchlight Pictures brings Martin McDonagh’s dark comedy spy thriller Wild Horse Nine to theaters, starring John Malkovich, Sam Rockwell, Steve Buscemi, and Parker Posey.",
+    "body": [
+      {
+        "h": "Theatrical Release Arrives",
+        "p": [
+          "Distributed by Searchlight Pictures, the black comedy spy thriller Wild Horse Nine officially arrives in theaters today. The release marks a major cinematic event, bringing together an ensemble of celebrated performers under the direction of filmmaker Martin McDonagh.",
+          "The project has generated substantial anticipation among film enthusiasts following its prominent festival run and strong early acclaim. Audiences can now experience the picture on the big screen as it begins its theatrical rollout."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "Set in 1973 just before the military coup in Chile, the narrative unfolds across a backdrop of historical tension. The storyline centers on Chris, a dying CIA veteran, and his loyal protégé Lee as they undertake a journey from Santiago to Easter Island.",
+          "Dispatched by bureau chief MJ, the agents navigate complex conspiracies and personal demons. The operation takes an unexpected turn when Chris connects with two rebellious local students, forcing him to confront the ultimate moral implications of his intelligence career."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "John Malkovich leads the ensemble as Chris Carlisle, a terminally ill veteran CIA officer who mentors Lee. Sam Rockwell takes on the role of Lee Chesterfield, the brash and devoted CIA operative paired alongside Malkovich's character.",
+          "Steve Buscemi appears as MJ, the bureau chief stationed within Chile overseeing the mission, while Parker Posey portrays Marge, the wife of Lee. The supporting lineup features Tom Waits as Jim alongside Mariana di Girolamo and Ailín Salas."
+        ]
+      },
+      {
+        "h": "Production and Global Collaboration",
+        "p": [
+          "The feature is a collaborative international effort involving co-production teams across the United Kingdom, the United States, and Chile. Behind the camera, the film is guided by writer and director Martin McDonagh.",
+          "Production duties are shared among Graham Broadbent, Pete Czernin, Martin McDonagh, and Anita Overland. The creative team spent considerable effort shaping the narrative prior to its eventual 2026 debut."
+        ]
+      },
+      {
+        "h": "Festival Acclaimed Success",
+        "p": [
+          "Prior to its commercial release, Wild Horse Nine premiered within the main competition at the 83rd Venice International Film Festival in September 2026. The showing brought significant recognition for the project.",
+          "Most notably, John Malkovich earned the Volpi Cup for Best Actor for his compelling lead performance at the festival, further fueling early momentum and industry chatter."
+        ]
+      },
+      {
+        "h": "Critical Reception and Ratings",
+        "p": [
+          "The R-rated feature has garnered overwhelmingly favorable notices from reviewers since its initial exhibition. Critics have highlighted its unique blend of dark comedy and espionage thrills.",
+          "On Rotten Tomatoes, the film currently commands a certified fresh 95% Tomatometer score, reflecting widespread praise for its writing, direction, and acting performances."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Wild Horse Nine is now playing in theaters following its premiere at the 83rd Venice International Film Festival, where John Malkovich won the Volpi Cup for Best Actor. Written and directed by Martin McDonagh and distributed by Searchlight Pictures, the R-rated black comedy spy thriller features an ensemble cast including Sam Rockwell, Steve Buscemi, and Parker Posey, and holds a certified fresh 95% score on Rotten Tomatoes."
+        ]
+      }
+    ],
+    "facts": [
+      "Wild Horse Nine was released in theaters on November 6, 2026.",
+      "The film is distributed by Searchlight Pictures.",
+      "Martin McDonagh is the writer and director of Wild Horse Nine.",
+      "The story is set in 1973 shortly before Chile's military coup.",
+      "John Malkovich won the Volpi Cup for Best Actor at the 83rd Venice International Film Festival.",
+      "The film holds a certified fresh 95% Tomatometer score on Rotten Tomatoes."
+    ],
+    "entities": {
+      "people": [
+        "Steve Buscemi",
+        "Parker Posey",
+        "Martin McDonagh",
+        "John Malkovich",
+        "Sam Rockwell",
+        "Tom Waits",
+        "Mariana di Girolamo",
+        "Ailín Salas",
+        "Graham Broadbent",
+        "Pete Czernin",
+        "Anita Overland"
+      ],
+      "titles": [
+        "Wild Horse Nine"
+      ]
+    },
+    "keywords": [
+      "Wild Horse Nine",
+      "John Malkovich Wild Horse Nine",
+      "Martin McDonagh movie",
+      "Steve Buscemi Parker Posey"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Steve-Buscemi-Parker-Poseys-New-Movie-With-Huge-Oscar-Buzz-Is-Finally-in-Theaters-Today.jpg?resize=1200,630",
+        "caption": "Wild Horse Nine Hits Theaters With Star-Studded Cast and Major Oscar Buzz",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 18:21:12 +0000"
   }
 };

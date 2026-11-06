@@ -180,12 +180,36 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-05",
+      "date_kind": "release",
+      "id": 1654940,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "IN",
       "date": "2026-11-05",
       "date_kind": "digital",
       "id": 1810711,
       "providers": [],
       "type": "movie"
+    },
+    {
+      "date": "2026-11-04",
+      "date_kind": "release",
+      "id": 312006,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-11-04",

@@ -1,10 +1,10 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-06T12:51:47Z",
-   "last_run": "2026-11-06T12:51:47Z",
+   "last_attempt_at": "2026-11-06T18:52:01Z",
+   "last_run": "2026-11-06T18:52:01Z",
    "last_status": "success",
-   "last_success": "2026-11-06T12:51:47Z",
+   "last_success": "2026-11-06T18:52:01Z",
    "consecutive_failures": 0,
    "detail": "valid top 20 snapshot"
   },
@@ -73,5 +73,5 @@
    "detail": "validated 175 rows; 0 staging files changed"
   }
  },
- "updated_at": "2026-11-06T18:10:14Z"
+ "updated_at": "2026-11-06T18:52:01Z"
 }

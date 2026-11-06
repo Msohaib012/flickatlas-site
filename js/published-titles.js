@@ -29320,5 +29320,843 @@ window.FA_PUBLISHED = {
     "release_date": "2026-09-25",
     "date_kind": "release",
     "runtime": 138
+  },
+  "1811490": {
+    "id": 1811490,
+    "type": "movie",
+    "title": "Spring",
+    "poster_path": "/gsQ5ilPBvh9H7JT2dbWCV53N6ym.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young couple's peaceful getaway to a remote hilltop bungalow takes a terrifying turn as mysterious events unfold. As hidden secrets emerge, their seemingly perfect life is threatened by fear and suspense.",
+    "industry": "bollywood",
+    "popularity": 2.3628,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "A",
+    "release_date": "2026-10-30",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1600653": {
+    "id": 1600653,
+    "type": "movie",
+    "title": "The 12 Dates of Christmas",
+    "poster_path": "/eccnvOqoGmQHCjFcqANHWdPEWQJ.jpg",
+    "backdrop_path": "/3KD4BP960BmfN6wrBxfq4eDjrk7.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Christina Walker, a successful shop owner who has devoted her energy to her career at the expense of her dating life, goes on 12 dates in the 12 weeks leading up to Christmas hoping to find Mr. Right.",
+    "industry": "world",
+    "popularity": 3.3715,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "AGFqDK6CT0U",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "312006": {
+    "id": 312006,
+    "type": "tv",
+    "title": "Anaesthesia",
+    "poster_path": "/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
+    "backdrop_path": "/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+    "vote_average": 8.0,
+    "vote_count": 4,
+    "overview": "After a bold but unsuccessful surgery, a talented doctor swaps a prestigious clinic for a local hospital as he tries to get his life back on track.",
+    "industry": "world",
+    "popularity": 22.8351,
+    "original_language": "pl",
+    "origin_country": [
+      "PL"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "PL"
+    ],
+    "spoken_languages": [
+      "pl"
+    ],
+    "certification": "R21",
+    "first_air_date": "2026-11-04",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-11-04",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1654940": {
+    "id": 1654940,
+    "type": "movie",
+    "title": "One Year to Live, Buy a Man",
+    "poster_path": "/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
+    "backdrop_path": "/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+    "vote_average": 6.75,
+    "vote_count": 6,
+    "overview": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+    "industry": "world",
+    "popularity": 25.8021,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "WH-RRKQGdJ8",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja",
+      "pt"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 109,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "307853": {
+    "id": 307853,
+    "type": "tv",
+    "title": "Sunshine Through the Rain",
+    "poster_path": "/reDzSqynyCv734aXv9NflnpflMo.jpg",
+    "backdrop_path": "/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+    "industry": "world",
+    "popularity": 3.5216,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "PG13",
+    "first_air_date": "2026-11-06",
+    "networks": [
+      "Hunan Television",
+      "Mango TV"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 24,
+    "channel": "Hunan Television",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 24,
+        "air_date": "2026-11-06",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1445172": {
+    "id": 1445172,
+    "type": "movie",
+    "title": "Dark Chocolate",
+    "poster_path": "/gjBtTayPIEF52LFNODsGyEmkpOf.jpg",
+    "backdrop_path": "/aIXcdgeixGboexeao03FWslhqUG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After a string of failures, \"Fire Star\" Yagna faces downfall. Banned by the Film Industry for his attitude, can the \"one-hit wonder\" make a comeback?",
+    "industry": "bollywood",
+    "popularity": 0.7849,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en",
+      "te"
+    ],
+    "certification": "A",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": []
+  },
+  "1816354": {
+    "id": 1816354,
+    "type": "movie",
+    "title": "Eye Contact",
+    "poster_path": "/jen6cHUPWyF6WjjpAwsLsON3DKw.jpg",
+    "backdrop_path": "/7JMUE4YmkMkcSdLUNS5lq3dGwPA.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A criminology student requests to interview a man convicted of seven mysterious murders, but upon arrival, is given one strict rule. Whatever you do... don't look him in the eye.",
+    "industry": "world",
+    "popularity": 0.2551,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller",
+      "Mystery"
+    ],
+    "tagline": "Whatever you do, don't look him in the eye.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "15",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 11,
+    "providers": []
+  },
+  "1710024": {
+    "id": 1710024,
+    "type": "movie",
+    "title": "Remember",
+    "poster_path": "/ftLdiSFp7HXZ4wTkZpC5P5ZWVN2.jpg",
+    "backdrop_path": "/k9AZxSfzZsB9fi7S97vfHRmkrem.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An estranged couple who have forgotten what it means to love each other find themselves pretending to be together again for the sake of their daughter, whose memory is fading.",
+    "industry": "world",
+    "popularity": 3.181,
+    "original_language": "tl",
+    "origin_country": [
+      "PH"
+    ],
+    "trailer": {
+      "key": "zN2jvnH4yoQ",
+      "name": "'Remember' Official Trailer | Dingdong Dantes, Marian Rivera",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "A love worth remembering. A story worth keeping.",
+    "status": "Post Production",
+    "production_countries": [
+      "PH"
+    ],
+    "spoken_languages": [
+      "en",
+      "tl",
+      "fr"
+    ],
+    "certification": "M",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 111,
+    "providers": []
+  },
+  "1747153": {
+    "id": 1747153,
+    "type": "movie",
+    "title": "Begni Ronger Alo",
+    "poster_path": "/yoursvZxaflZ1sa6JnReVutGVKK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Manasi Sinha's third directorial feature.  This is a story of a mother and her daughter, a tale of love, memory, and the delicate bond of identity. This is a story of a relationship bathed in an indescribable light, Begni ronger alo.",
+    "industry": "bollywood",
+    "popularity": 0.7717,
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [],
+    "certification": "U/A 7+",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1815453": {
+    "id": 1815453,
+    "type": "movie",
+    "title": "Cat Cabaret",
+    "poster_path": "/QTd3uIfIUa8JNR7BaEpfIhBTWM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This film is dedicated to all the strippers I’ve ever worked with, none of this would’ve been possible without you.",
+    "industry": "world",
+    "popularity": 0.1786,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 7,
+    "providers": []
+  },
+  "1709585": {
+    "id": 1709585,
+    "type": "movie",
+    "title": "Djinn Wedding",
+    "poster_path": "/becPKaTF5Ie7sPULH1dOT5HXj5T.jpg",
+    "backdrop_path": "/fH9OLaT7XklOHNnWDVN3dRirbtX.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When four estranged siblings reunite in their remote Anatolian village for their sister’s wedding, long-buried memories begin to resurface. As the celebrations unfold, two of them are drawn back into the unbreakable bond they once shared. Family secrets slowly come to light, leading them on a journey through grief and the invisible ties between generations.",
+    "industry": "world",
+    "popularity": 3.1515,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": {
+      "key": "R07ae1wiPDU",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [
+      "tr"
+    ],
+    "certification": "16+",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 132,
+    "providers": []
+  },
+  "1531050": {
+    "id": 1531050,
+    "type": "movie",
+    "title": "Black Gold",
+    "poster_path": "/sVqYqwEK0abPUz7yC46HlrtHs71.jpg",
+    "backdrop_path": "/fammMIgzXw8OtG4Sv8SfFkyarqx.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The value of human hair is skyrocketing day by day.  dark color, length, and strength of Indian women's hair are highly prized in the global market. Millions of dollars circulate in this industry, which is controlled by commercial mafias. It is a well-known fact that wherever there is money, bloodshed, rivalry, and envy inevitably follow",
+    "industry": "bollywood",
+    "popularity": 0.718,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1815448": {
+    "id": 1815448,
+    "type": "movie",
+    "title": "Hyperborea",
+    "poster_path": "/3lXFBiPxg7h1H5YDXm3npdEvCc3.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "From the empty space, a world is generated, contained within the space of an old scroll. A goddess rules it: she is both good and evil. Beauty and violence intertwine within this microcosm, in a way that makes them almost indistinguishable between one another, until everything ends, in an infinite loop, parading into a \"Hellmouth\" where we are not allowed to follow.  Made of more than 1000 drawings on paper, hand drawn and hand colored with a straight ahead technique, in order to enhance its surreal quality, the animation references both folk-medieval and contemporary art.  By playing with the space of the paper, intertwining empty and ultra-crowded sequences, the scenes overwhelm the viewer, who is challenged to pick a character as their guide inside this chaotic world, where there is no truth: only what one chooses to see and what chooses to ignore.",
+    "industry": "world",
+    "popularity": 0.0988,
+    "original_language": "en",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 1,
+    "providers": []
+  },
+  "1241052": {
+    "id": 1241052,
+    "type": "movie",
+    "title": "Mouse",
+    "poster_path": "/iKBFfOCdeu21lxxLxWaSAXxkmJ5.jpg",
+    "backdrop_path": "/1pR6uu0e9h4tJiSuYLuiRm7id6x.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When her closest friendship is suddenly disrupted the summer before senior year, a teenager struggles to find her footing and develops an unexpected, complicated bond with her best friend’s mother.",
+    "industry": "world",
+    "popularity": 2.8677,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "sfvh4VZsFuY",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 3000000,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "13+",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 120,
+    "providers": []
+  },
+  "1814917": {
+    "id": 1814917,
+    "type": "movie",
+    "title": "Orgasmagoria",
+    "poster_path": "/4VZcEE3nJqoG893Ko6XKhfz1xu0.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An ongoing film about sexual pleasure in the digital age, created in collaboration with a group of international (cyber)sex workers, porn actors and their friends. In front of the camera, they close their eyes and imagine a future in which desire is inextricably linked to technology, money and power. Orgasmagoria unfolds as an endless series of personal stories, fables and dystopias. In a realm saturated with explicit imagery, imagination is brought back into play.",
+    "industry": "world",
+    "popularity": 0.2332,
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "es",
+      "pt",
+      "ru",
+      "ro",
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1757000": {
+    "id": 1757000,
+    "type": "movie",
+    "title": "Gorgeous Grandmother",
+    "poster_path": "/6vxgEzMxs3NJ0C9g3DHe0v3ySlX.jpg",
+    "backdrop_path": "/r31MhVadfPgXgKyM54t0VDVjq64.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An aged beautician longing for confidence joins a beauty pageant.",
+    "industry": "world",
+    "popularity": 2.8394,
+    "original_language": "tl",
+    "origin_country": [
+      "PH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "PH"
+    ],
+    "spoken_languages": [
+      "tl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1813714": {
+    "id": 1813714,
+    "type": "movie",
+    "title": "Little Weird Christmas Tales",
+    "poster_path": "/23Svl6MBYPBYLzstvN68r7JfMm3.jpg",
+    "backdrop_path": "/bFcUIm6d9zDKqdc0P40Ao1HSrw9.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.5863,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1570467": {
+    "id": 1570467,
+    "type": "movie",
+    "title": "Frequency of Fear",
+    "poster_path": "/zzxWBdkOWDzOhUD7BdpKKlylAMn.jpg",
+    "backdrop_path": "/uhPybdQtmsHmzU7Fc3R8zaW1jZF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In September 2024, a covert Israeli operation took aim at decimating Islamist militant group Hezbollah, in which thousands of pagers and walkie-talkies in the possession of its operatives exploded simultaneously in Lebanon.",
+    "industry": "world",
+    "popularity": 4.47,
+    "original_language": "en",
+    "origin_country": [
+      "IL"
+    ],
+    "trailer": {
+      "key": "7f-8kO-YY1A",
+      "name": "Frequency Of Fear (Official Trailer) | One notification. Total devastation. Are you tuned in? 📟⚠️",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IL"
+    ],
+    "spoken_languages": [
+      "ar",
+      "en"
+    ],
+    "certification": "16",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 72,
+    "providers": []
+  },
+  "1809918": {
+    "id": 1809918,
+    "type": "movie",
+    "title": "One or Two Ways To Die",
+    "poster_path": "/5B5VG07lvbaHZjpuWcw6AehubY4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two American friends travel down Mexico's Pacific coast in search of land to buy. As they move through a country increasingly shaped by foreign ownership, Joe falls victim to the myth of \"Moctezuma's Revenge\" and their search for paradise begins to turn against them.",
+    "industry": "world",
+    "popularity": 0.7226,
+    "original_language": "en",
+    "origin_country": [
+      "MX",
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "MX",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 10,
+    "providers": []
   }
 };
