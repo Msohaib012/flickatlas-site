@@ -1,6 +1,6 @@
 {
   "connected": true,
-  "generated": "2026-11-06T23:05:08Z",
+  "generated": "2026-11-06T23:52:29Z",
   "realtime": {
     "active_users": 0
   },
@@ -12,9 +12,9 @@
   },
   "last7": {
     "users": 143,
-    "pageviews": 519,
-    "sessions": 199,
-    "avg_session_seconds": 150.8
+    "pageviews": 520,
+    "sessions": 200,
+    "avg_session_seconds": 150.0
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 33,
-      "avg_time_seconds": 75.2
+      "views": 34,
+      "avg_time_seconds": 70.7
     },
     {
       "path": "/news",
@@ -88,7 +88,7 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 70,
+      "sessions": 71,
       "users": 35
     },
     {
