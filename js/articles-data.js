@@ -66462,5 +66462,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 00:07:16 +0000"
+  },
+  "46sj9n": {
+    "id": "46sj9n",
+    "type": "news",
+    "headline": "‘Ramayana: Rise of a Legend’ Opens at Rs 64.85 Crore Net on Day 1 in India",
+    "dek": "Nitesh Tiwari’s grand cinematic epic starring Ranbir Kapoor, Sai Pallavi, and Yash launched with a massive domestic opening, though early international earnings in North America fell short of initial trade expectations.",
+    "body": [
+      {
+        "h": "Strong Domestic Launch Across Multiple Languages",
+        "p": [
+          "The highly anticipated mythical drama ‘Ramayana: Rise of a Legend’ has officially commenced its theatrical journey across the country. Spearheaded by director Nitesh Tiwari, the multi-starrer feature pulled in an impressive Rs 64.85 crore net across domestic box-office channels at the conclusion of its opening day, according to reports from Sacnilk.",
+          "The theatrical rollout encompassed approximately 25,200 shows nationwide, translating to an overall India gross total of Rs 77.50 crore. The feature enjoyed a multi-language release, drawing audiences in five different linguistic formats to establish its wide footprint on day one."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown of India Collections",
+        "p": [
+          "A closer look at the domestic earnings reveals that the Hindi version served as the primary driver for the film, contributing a dominant Rs 47.50 crore to the net figures. Regional variations also added meaningful weight to the opening total.",
+          "The Kannada version secured the second-highest contribution with Rs 7.25 crore, closely followed by the Telugu edition at Rs 6 crore. Meanwhile, the Tamil and Malayalam versions brought in Rs 2.60 crore and Rs 1.50 crore respectively, rounding out the film's total net collections in India."
+        ]
+      },
+      {
+        "h": "Comparison Against Trade Projections",
+        "p": [
+          "Despite achieving substantial numbers, the opening day earnings proved to be more measured than what several industry observers had originally anticipated. Strong pre-release buzz and advance bookings valued at Rs 50.5 crore had fueled expectations for a monumental debut exceeding Rs 100 crore.",
+          "Given the massive production budget reported at Rs 4,000 crore for the expansive two-part narrative, trade analysts were hoping for higher walk-in numbers to match the heavy advance sales. However, the film now looks toward the upcoming extended Diwali holiday window to accelerate its growth trajectory."
+        ]
+      },
+      {
+        "h": "North American Box Office Performance",
+        "p": [
+          "International markets painted a more modest picture for the epic's initial overseas rollout. In North America, advance bookings for premieres had reached USD 1.65 million, with initial projections pointing toward a premiere total exceeding USD 2 million and overall opening day collections touching up to USD 4 million.",
+          "Instead, early tracking indicated that the feature gathered USD 940,000 from 1,009 locations by noon Pacific Standard Time. While initial forecasts pointed to a USD 1.5 million day, subsequent trade updates suggest the international daily tally could climb closer to approximately USD 3.5 million."
+        ]
+      },
+      {
+        "h": "Advance Bookings and Future Estimates",
+        "p": [
+          "Looking ahead to the second day of theatrical run, forward momentum appears encouraging. ‘Ramayana: Rise of a Legend’ successfully registered Rs 29.46 crore in gross advance bookings for Friday, November 6.",
+          "Current trade estimates suggest the feature could potentially breach the Rs 375 crore net mark over its opening weekend. Furthermore, optimistic long-range forecasts project lifetime domestic gross collections around Rs 900 crore, with worldwide estimates stretching between Rs 1,600 crore and Rs 1,800 crore depending heavily on audience word of mouth and overseas sustenance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's epic ‘Ramayana: Rise of a Legend’ launched in theaters with a domestic net opening of Rs 64.85 crore across multiple languages, falling short of lofty Rs 100 crore-plus trade expectations despite strong advance bookings.",
+          "While international earnings in North America also trailed behind initial projections, the multi-starrer enters its extended Diwali weekend with steady advance sales for its second day and significant projections for its upcoming theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Film title: Ramayana: Rise of a Legend",
+      "Director: Nitesh Tiwari",
+      "Lead cast: Ranbir Kapoor, Sai Pallavi, Yash",
+      "India net Day 1 collection: Rs 64.85 crore",
+      "India gross Day 1 collection: Rs 77.50 crore",
+      "Number of shows: 25,200",
+      "Hindi version collection: Rs 47.50 crore",
+      "Kannada version collection: Rs 7.25 crore",
+      "Telugu version collection: Rs 6 crore",
+      "Tamil version collection: Rs 2.60 crore",
+      "Malayalam version collection: Rs 1.50 crore",
+      "Advance bookings (India): Rs 50.5 crore",
+      "Production budget: Rs 4,000 crore for two parts",
+      "North America collections by noon PST: USD 940,000",
+      "North America locations: 1,009",
+      "North America premiere advance bookings: USD 1.65 million",
+      "Friday advance bookings gross: Rs 29.46 crore",
+      "Date: November 6, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash film",
+      "Ramayana Day 1 collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135589537,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "‘Ramayana: Rise of a Legend’ Opens at Rs 64.85 Crore Net on Day 1 in India",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T06:02:18+05:30"
+  },
+  "2nlsn3": {
+    "id": "2nlsn3",
+    "type": "news",
+    "headline": "Sandeep Reddy Vanga Applauds Ranbir Kapoor And Yash In Nitesh Tiwari's Ramayana",
+    "dek": "Filmmaker Sandeep Reddy Vanga joins the growing chorus of industry voices praising Nitesh Tiwari's Ramayana, specifically commending the powerful lead performances of Ranbir Kapoor and Yash.",
+    "body": [
+      {
+        "h": "Sandeep Reddy Vanga Shares His Review",
+        "p": [
+          "Filmmaker Sandeep Reddy Vanga has shared his enthusiastic review of Nitesh Tiwari's newly released mythological epic, Ramayana. Taking to social media, Vanga posted a direct message encouraging audiences to head to theaters to experience the grand scale of the project.",
+          "In his review, the director highlighted the commanding presence of the principal cast members, noting that the lead actors delivered intense portrayals that left a deep impression on him."
+        ]
+      },
+      {
+        "h": "Praise For Ranbir Kapoor And Yash",
+        "p": [
+          "Vanga specifically singled out Ranbir Kapoor and Yash for their work in the film, stating that both actors completely nailed their respective roles. According to the filmmaker, their performances provided an undeniable sense of magnitude to the characters of Ram and Raavana.",
+          "The director also acknowledged the dedication behind the production, offering special praise to the producer's commitment to bringing such a massive vision to life on the global stage."
+        ]
+      },
+      {
+        "h": "Industry Reactions And Support",
+        "p": [
+          "Ramayana has drawn widespread acclaim across the entertainment industry following its theatrical premiere. A number of prominent figures, including Karan Johar, Allu Arjun, Vijay Deverakonda, and Atlee, have shared appreciation posts celebrating the release of Nitesh Tiwari's directorial venture.",
+          "Social media platforms have been flooded with positive audience reactions and critical praise, marking the worldwide arrival of the mythological project as a major cultural event for cinema-goers."
+        ]
+      },
+      {
+        "h": "Rashmika Mandanna's Special Message",
+        "p": [
+          "Among the prominent voices wishing success to the team was Animal star Rashmika Mandanna, who posted a detailed note on Thursday. She expressed excitement to watch Ranbir Kapoor step into the role of Lord Rama and sent virtual warmth to Sai Pallavi for her portrayal of Sita.",
+          "Mandanna also shared her anticipation for Yash's performance as Ravana, while extending her best wishes to director Nitesh Tiwari, music composer A.R. Rahman, producer Namit Malhotra, and the rest of the cast and crew."
+        ]
+      },
+      {
+        "h": "Cast And Creative Team",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana features a sprawling ensemble cast. Alongside Ranbir Kapoor, Yash, and Sai Pallavi, the mythological epic includes pivotal performances by Ravie Dubey, Lara Dutta, Arun Govil, and Kunal Kapoor.",
+          "The ambitious production brings together noted creative forces, with A.R. Rahman handling the music and Namit Malhotra producing, aiming to translate a timeless narrative into a magnificent cinematic experience."
+        ]
+      },
+      {
+        "h": "Box Office Opening",
+        "p": [
+          "The mythological epic has generated immense buzz prior to and during its launch, translating into strong early commercial results. As anticipated by trade analysts, the feature secured a bumper opening at the box office upon its worldwide theatrical debut.",
+          "The high-profile release continues to draw massive crowds to theaters globally, aided by the steady stream of positive word-of-mouth from industry colleagues and fans alike."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sandeep Reddy Vanga reviewed Nitesh Tiwari's Ramayana, praising the performances of Ranbir Kapoor and Yash as bone-deep and commanding. His endorsement joins a wave of positive reactions from celebrities like Rashmika Mandanna, alongside a strong worldwide box office opening for the mythological epic."
+        ]
+      }
+    ],
+    "facts": [
+      "Sandeep Reddy Vanga reviewed Ramayana in an X post on Nov 6, 2026",
+      "Nitesh Tiwari is the director of Ramayana",
+      "Ranbir Kapoor and Yash star in lead roles in Ramayana",
+      "Rashmika Mandanna shared a supportive post on Thursday",
+      "Other notable cast members include Sai Pallavi, Ravie Dubey, Lara Dutta, Arun Govil, and Kunal Kapoor",
+      "Namit Malhotra is a producer and A.R. Rahman is the composer for the film",
+      "Other celebrities who shared appreciation posts include Karan Johar, Allu Arjun, Vijay Deverakonda, and Atlee"
+    ],
+    "entities": {
+      "people": [
+        "Sandeep Reddy Vanga",
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Karan Johar",
+        "Allu Arjun",
+        "Vijay Deverakonda",
+        "Atlee",
+        "Rashmika Mandanna",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "A.R. Rahman",
+        "Ravie Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Kunal Kapoor",
+        "Simran Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal",
+        "Dhurandhar The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Sandeep Reddy Vanga Ramayana review",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156472288,thumbsize-442639,width-1280,height-720,resizemode-75/156472288.jpg",
+        "caption": "Sandeep Reddy Vanga Applauds Ranbir Kapoor And Yash In Nitesh Tiwari's Ramayana",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T01:52:42Z"
+  },
+  "af18z0": {
+    "id": "af18z0",
+    "type": "news",
+    "headline": "How Entertainment Fans Can Save on T-Mobile 5G Home Internet Plans",
+    "dek": "With streaming premieres, awards contenders, and must-watch shows piling up, T-Mobile offers a limited-time home internet deal starting at $30 per month to help trim household expenses.",
+    "body": [
+      {
+        "h": "Keeping Up With Entertainment Without Breaking the Bank",
+        "p": [
+          "Between major streaming premieres, heavy awards season contenders, and the endless list of television series dominating everyday conversations, modern audiences have countless reasons to stay online. However, maintaining the high-speed connectivity required for seamless entertainment can quickly become a costly endeavor for households across the country.",
+          "While staying plugged into the latest Hollywood releases demands reliable bandwidth, monthly utility bills do not necessarily have to strain personal finances. A new promotion aims to bridge that gap by offering discounted home internet rates specifically designed to keep entertainment enthusiasts connected to their favorite media."
+        ]
+      },
+      {
+        "h": "Details of the T-Mobile 5G Home Internet Promotion",
+        "p": [
+          "For a limited time, T-Mobile 5G Home Internet is rolling out plans starting at $30 per month. This promotional rate requires pairing the service with a voice line and utilizing AutoPay, alongside standard applicable taxes and fees.",
+          "The discount translates to significant monthly savings for subscribers, potentially freeing up room in personal budgets to comfortably pay for multiple streaming service subscriptions without feeling financially pinched."
+        ]
+      },
+      {
+        "h": "Essential Connectivity for Streamers and Watchlists",
+        "p": [
+          "Whether a viewer is binge-watching an acclaimed television drama, catching a brand-new digital movie release, or clearing out a backlog of titles before the next major awards ceremony, a dependable home internet connection is an absolute necessity.",
+          "T-Mobile's specialized 5G home internet infrastructure is built to support everyday digital consumption, offering an alternative to traditional cable providers without locking consumers into burdensome annual service contracts or recurring monthly equipment fees."
+        ]
+      },
+      {
+        "h": "Equipment Setup and Plan Tier Options",
+        "p": [
+          "The setup process utilizes an included 5G Gateway device, which is engineered for straightforward installation and eliminates the need to schedule an inconvenient technician appointment for activation.",
+          "Customers looking to take advantage of the promotion can select from three distinct plan tiers: Rely, Amplified, and All-In. The baseline Rely plan features download speeds reaching up to 354 Mbps, whereas the Amplified and All-In tiers step up performance with download speeds of up to 498 Mbps."
+        ]
+      },
+      {
+        "h": "Rebates, Cash Back, and Promotional Perks",
+        "p": [
+          "Beyond the base monthly discount, the promotion introduces additional financial incentives for eligible subscribers. New customers can secure one month of service on T-Mobile through a dedicated bill credit, which covers the base service cost plus tax.",
+          "Furthermore, sign-ups yield cash-back rewards delivered via a virtual prepaid Mastercard. Customers choosing the Rely or Amplified plans receive $100 back, while those opting for the All-In plan receive a $200 rebate, with fulfillment taking approximately seven weeks following rebate submission."
+        ]
+      },
+      {
+        "h": "Long-Term Price Guarantees",
+        "p": [
+          "For those worried about future rate hikes, T-Mobile includes long-term pricing protections as part of the package. Subscribers choosing the Rely or Amplified rate plans benefit from a 5-Year Price Guarantee, which excludes specific variables like taxes and fees.",
+          "Meanwhile, customers who sign up for the premium All-In plan receive an extended price guarantee locked in for a full 10 years for a limited time."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "T-Mobile is offering a limited-time promotion for its 5G Home Internet service starting at $30 per month when bundled with a voice line and AutoPay. The offer features multiple plan tiers with varying download speeds, cash-back rebates via virtual prepaid Mastercard, and long-term price guarantees ranging from five to ten years.",
+          "The deal is designed to help consumers offset the rising costs of streaming subscriptions and entertainment connectivity without requiring annual contracts or equipment fees."
+        ]
+      }
+    ],
+    "facts": [
+      "November 5, 2026",
+      "$30 per month",
+      "354 Mbps",
+      "498 Mbps",
+      "$100",
+      "$200",
+      "7 weeks",
+      "5-Year Price Guarantee",
+      "10 years"
+    ],
+    "entities": {
+      "people": [],
+      "titles": []
+    },
+    "keywords": [
+      "T-Mobile 5G Home Internet",
+      "T-Mobile internet plans",
+      "T-Mobile home internet deals",
+      "T-Mobile streaming discount"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/t-mobile.jpg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "How Entertainment Fans Can Save on T-Mobile 5G Home Internet Plans",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 01:40:49 +0000"
+  },
+  "1fkuxjp": {
+    "id": "1fkuxjp",
+    "type": "news",
+    "headline": "Aishwarya Rai Bachchan and Abhishek Bachchan Steal the Show at Manish Malhotra's Diwali Celebration",
+    "dek": "Bollywood power couple Aishwarya Rai Bachchan and Abhishek Bachchan made a striking joint appearance at designer Manish Malhotra's star-studded Mumbai Diwali party, capturing public attention amidst a gathering of numerous film industry icons.",
+    "body": [
+      {
+        "h": "A Grand Festive Appearance",
+        "p": [
+          "Aishwarya Rai Bachchan and Abhishek Bachchan stepped out together to attend fashion designer Manish Malhotra's high-profile Diwali celebration in Mumbai on Thursday night. Their coordinated arrival instantly drew the attention of photographers and fans alike, becoming a major highlight of the glittering evening.",
+          "The star-studded gathering brought together a host of prominent Bollywood personalities, turning the venue into a vibrant hub of festive glamour and celebration."
+        ]
+      },
+      {
+        "h": "Decoding Their Festive Ensembles",
+        "p": [
+          "For the festive occasion, Aishwarya opted for a traditional red saree featuring an elaborate gold border. She completed her classic look with matching bangles, kundan jewellery, and vibrant red lipstick.",
+          "Abhishek complemented her appearance by wearing a textured black ethnic jacket paired with matching black trousers and glasses, creating a stylish and sophisticated duo."
+        ]
+      },
+      {
+        "h": "An Assembly of Bollywood Royalty",
+        "p": [
+          "The celebration was attended by several notable names from the film industry, including Kareena Kapoor Khan, Saif Ali Khan, Akshay Kumar, Twinkle Khanna, Madhuri Dixit, Kajol, and Karan Johar.",
+          "Other notable attendees included Kareena in a shimmering gold-and-silver saree, Saif in a black kurta, Akshay and Twinkle arriving with their son Aarav in matching ivory outfits, Madhuri with her husband Dr Shriram Nene in a pink saree, and Kajol attending alongside her daughter Nysa. Additional guests included Karisma Kapoor, Raveena Tandon, and Shalini Passi."
+        ]
+      },
+      {
+        "h": "A Lasting Marriage and Shared History",
+        "p": [
+          "Aishwarya and Abhishek have been married for 19 years, having tied the knot on April 20, 2007. They first met on the film sets of Dhaai Akshar Prem Ke in 2000.",
+          "Over the years, the couple has shared screen space in several movies, such as Kuch Naa Kaho, Umrao Jaan, Guru, and Dhoom 2, eventually welcoming their daughter Aaradhya in 2011."
+        ]
+      },
+      {
+        "h": "Memories of a Surprise Roka Ceremony",
+        "p": [
+          "Reflecting on their road to marriage, Aishwarya once shared in an old interview with Filmfare how she was entirely caught off guard by a sudden roka ceremony shortly after Abhishek proposed. Unfamiliar with the North Indian tradition due to her South Indian background, she recalled her confusion when Abhishek called to say his family was already on the way.",
+          "With her father Krishnaraj Rai out of town and participating only over a phone call, and her mother Brindya Rai equally surprised, the impromptu gathering ultimately formalised their engagement before the wedding celebrations."
+        ]
+      },
+      {
+        "h": "Current Professional Engagements",
+        "p": [
+          "On the professional front, Abhishek was recently seen in Raja Shivaji and is preparing for his upcoming role in Shah Rukh Khan's action thriller King, directed by Siddharth Anand and scheduled for release on December 24.",
+          "Meanwhile, Aishwarya's last theatrical release was Mani Ratnam's Ponniyin Selvan II, and she has not yet announced her next cinematic project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Aishwarya Rai Bachchan and Abhishek Bachchan attended Manish Malhotra's Diwali party in Mumbai, making a coordinated joint appearance in red and black attire. The event saw attendance from numerous Bollywood stars, highlighting the enduring presence of the couple who have been married since 2007."
+        ]
+      }
+    ],
+    "facts": [
+      "Aishwarya Rai Bachchan and Abhishek Bachchan attended Manish Malhotra's Diwali party in Mumbai on Thursday night, November 6, 2026.",
+      "Aishwarya wore a red saree with a gold border and kundan jewellery, while Abhishek wore a black ethnic jacket and trousers.",
+      "The couple has been married for 19 years, having married on April 20, 2007, after first meeting on the sets of Dhaai Akshar Prem Ke in 2000.",
+      "They have a daughter named Aaradhya, born in 2011.",
+      "Abhishek's upcoming film is King, directed by Siddharth Anand, scheduled for release on December 24."
+    ],
+    "entities": {
+      "people": [
+        "Aishwarya Rai Bachchan",
+        "Abhishek Bachchan",
+        "Manish Malhotra",
+        "Kareena Kapoor Khan",
+        "Saif Ali Khan",
+        "Akshay Kumar",
+        "Twinkle Khanna",
+        "Madhuri Dixit",
+        "Kajol",
+        "Karan Johar",
+        "Dr Shriram Nene",
+        "Nysa",
+        "Karisma Kapoor",
+        "Raveena Tandon",
+        "Shalini Passi",
+        "Aaradhya",
+        "Krishnaraj Rai",
+        "Brindya Rai",
+        "Amitabh Bachchan",
+        "Jaya Bachchan",
+        "Shah Rukh Khan",
+        "Siddharth Anand",
+        "Mani Ratnam",
+        "Aarav"
+      ],
+      "titles": [
+        "King",
+        "Dhaai Akshar Prem Ke",
+        "Kuch Naa Kaho",
+        "Umrao Jaan",
+        "Guru",
+        "Dhoom 2",
+        "Raja Shivaji",
+        "Ponniyin Selvan II"
+      ]
+    },
+    "keywords": [
+      "Aishwarya Rai Bachchan",
+      "Abhishek Bachchan",
+      "Manish Malhotra Diwali party",
+      "King movie"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/aishwarya-rai--abhishek-bachchan-064239684-16x9_0.jpeg?VersionId=YHx5J2Szmx4q7JeMqGNbmbLjVRo7ojch",
+        "caption": "Aishwarya Rai Bachchan and Abhishek Bachchan Steal the Show at Manish Malhotra's Diwali Celebration",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 07:13:07 +0530"
   }
 };

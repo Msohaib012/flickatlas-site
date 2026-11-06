@@ -1474,8 +1474,8 @@ window.FA_DAYWISE = {
       "date": "2026-11-05",
       "day": "Day 22",
       "collection": 126360,
-      "shows": 2721,
-      "occupancy": 13.8,
+      "shows": 2785,
+      "occupancy": 14.2,
       "tickets": 105316
     }
   ],
