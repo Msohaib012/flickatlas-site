@@ -1,34 +1,122 @@
 {
- "generated": "2026-11-06T10:54:58.329691Z",
+ "generated": "2026-11-06T12:06:14.706187Z",
  "items": [
   {
-   "q": "dow futures",
-   "traffic": "20000+",
+   "q": "weather nyc",
+   "traffic": "2000+",
    "geo": "US",
-   "trending_started_at": "2026-11-06T10:40:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
+   "trending_started_at": "2026-11-06T11:50:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
-     "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-     "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html"
+     "title": "Severe morning storms pound New Jersey with heavy rain, lightning and thousands without power",
+     "url": "https://newjersey.news12.com/severe-morning-storms-pound-new-jersey-with-heavy-rain-lightning-and-thousands-without-power"
     },
     {
-     "title": "Midterm Elections Yield a Dubious Surprise for the Trump Bull Market -- Is a Stock Market Crash Imminent?",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/midterm-elections-yield-dubious-surprise-092601945.html"
+     "title": "Our dry stretch is about to end. How much rain can the NYC area expect Thursday-Friday?",
+     "url": "https://www.nbcnewyork.com/weather/weather-stories/how-much-rain-nyc-expect-thursday-friday/6567761/"
     },
     {
-     "title": "What markets make of the midterms",
-     "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms"
+     "title": "Heavy Rain Returns To NJ With Flash Floods, Thunderstorms",
+     "url": "https://patch.com/new-jersey/across-nj/heavy-rain-returns-nj-flash-floods-thunderstorms"
     }
    ]
   },
   {
-   "q": "weather boston",
-   "traffic": "500+",
+   "q": "midterm elections democrats",
+   "traffic": "200+",
    "geo": "US",
-   "trending_started_at": "2026-11-06T10:40:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
+   "trending_started_at": "2026-11-06T11:50:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Midterms 2026 election results and latest updates: Mississippi votes still being counted in Senate nail-biter after Democrats take control of Congress",
+     "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+    },
+    {
+     "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
+    },
+    {
+     "title": "Five reasons why Republicans lost so badly",
+     "url": "https://www.bbc.com/news/articles/cqkgjvr00zmyo"
+    }
+   ]
+  },
+  {
+   "q": "travis scott gta 6 nike sneakers",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-06T11:50:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Travis Scott Reveals Limited-Edition Nike Air Force 1 Low \"GTA 6\"",
+     "url": "https://hypebeast.com/2026/11/travis-scott-reveals-limited-edition-nike-air-force-1-low-gta-6-friends-family-exclusive-first-look"
+    },
+    {
+     "title": "We got a GTA 6 sneaker before GTA 6",
+     "url": "https://www.gq-magazine.co.uk/article/travis-scott-gta-sneaker-6-11-26"
+    },
+    {
+     "title": "Travis Scott’s Cactus Jack x Rockstar Games x Nike Air Force 1 Low GTA 6 Pack Releases November 2026",
+     "url": "https://www.soleretriever.com/news/articles/travis-scott-cactus-jack-rockstar-games-nike-air-force-1-low-gta-6-pack-release-date-november-2026"
+    }
+   ]
+  },
+  {
+   "q": "estafa",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-06T11:40:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Detenido en Salamanca por estafa al denunciar cargos fraudulentos en su tarjeta que había realizado él mismo",
+     "url": "https://www.tribunasalamanca.com/noticias/465479/detenido-en-salamanca-por-estafa-al-denunciar-cargos-fraudulentos-en-su-tarjeta-que-habia-realizado-el-mismo"
+    },
+    {
+     "title": "Denuncia cargos en su tarjeta que hizo él mismo tras perder 1.300 euros en un salón de juegos",
+     "url": "https://lacronicadesalamanca.com/703187-denuncia-cargos-en-su-tarjeta-hizo-mismo-perder-1300-euros-en-salon-juegos/"
+    },
+    {
+     "title": "Detenido en Salamanca por denunciar como fraudulentos cuatro cargos bancarios de 1.300 euros que él mismo había realizado",
+     "url": "https://www.salamancahoy.es/salamanca/ciudad/detenido-salamanca-denunciar-fraudulentos-cuatro-cargos-bancarios-20261106100708-nt.html"
+    }
+   ]
+  },
+  {
+   "q": "elizabeth warren",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-06T11:40:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "The Midterms Delivered a Warning to the Democrats, Too",
+     "url": "https://www.politico.com/news/magazine/2026/11/05/democrats-midterms-affordability-congress-01150360"
+    },
+    {
+     "title": "Change Is Coming",
+     "url": "https://www.nytimes.com/2026/11/05/briefing/change-is-coming.html"
+    },
+    {
+     "title": "Readers Write: The midterms, Cedrick Frazier, Donald Trump, child care crisis",
+     "url": "https://www.startribune.com/readers-write-the-midterms-cedrick-frazier-donald-trump-child-care-crisis/601911294"
+    }
+   ]
+  },
+  {
+   "q": "weather",
+   "traffic": "100000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-06T11:30:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
@@ -36,232 +124,144 @@
      "url": "https://whdh.com/weather-blog/dry-streak-ends-soggy-stretch-ahead/"
     },
     {
-     "title": "Soggy stretch of weather arrives Friday. Up to 3 inches of rain, flash flooding expected.",
-     "url": "https://www.bostonglobe.com/2026/11/05/metro/forecast-rain-maps-new-england-boston-weather/"
+     "title": "Video: Friday rain, showers into the weekend",
+     "url": "https://www.wcvb.com/article/video-friday-rain-showers-into-the-weekend/74355869"
     },
     {
-     "title": "Weather Alert: Pockets of heavy for us Friday",
-     "url": "https://turnto10.com/weather/weather-blog/weather-alert-pockets-of-heavy-for-us-friday"
+     "title": "Weather Alert: Flood Watch…Rain, Heavy at Times Today",
+     "url": "https://www.wpri.com/weather-now/weather-alert-flood-watch-rain-heavy-at-times-today/"
     }
    ]
   },
   {
-   "q": "elise stefanik",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-06T10:40:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Blakeman rips ‘selfish’ Stefanik after losing New York governor’s race",
-     "url": "https://thehill.com/homenews/state-watch/6202067-blakeman-attacks-stefanik-ny-gov/"
-    },
-    {
-     "title": "Elise Stefanik tears into ‘low energy’ Bruce Blakeman, calls GOP midterm disaster a ‘reckoning’",
-     "url": "https://nypost.com/2026/11/04/us-news/rep-elise-stefanik-blasts-blue-wave-massacre-as-republican-reckoning/"
-    },
-    {
-     "title": "Bruce Blakeman lashes out at Stefanik, Constantino",
-     "url": "https://www.timesunion.com/capitol/article/bruce-blakeman-lashes-elise-stefanik-anthony-22514802.php"
-    }
-   ]
-  },
-  {
-   "q": "weather philadelphia",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-06T10:30:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Philly’s 18-day dry spell has ended, with rains and slick roads expected through Friday morning",
-     "url": "https://www.inquirer.com/weather/philadelphia-weather-forecast-rain-road-conditions-20261105.html"
-    },
-    {
-     "title": "Lingering showers & mild Thursday in south central Pennsylvania",
-     "url": "https://www.wgal.com/article/lingering-showers-mild-thursday-in-south-central-pennsylvania/74277408"
-    },
-    {
-     "title": "Rain to return to Philly region after 17 days",
-     "url": "https://www.nbcphiladelphia.com/weather/stories-weather/rain-returns-after-17-days/4491679/"
-    }
-   ]
-  },
-  {
-   "q": "theft",
+   "q": "today's weather",
    "traffic": "200+",
    "geo": "US",
-   "trending_started_at": "2026-11-06T10:30:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
+   "trending_started_at": "2026-11-06T11:30:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=US",
    "news": [
     {
-     "title": "Democrat, who clinched surprise House win, facing felony charge",
-     "url": "https://thehill.com/homenews/house/6202537-lakesha-womack-nc-felony/"
+     "title": "Good morning, Guelph! Here's today's weather!",
+     "url": "https://www.guelphtoday.com/good-morning/good-morning-guelph-heres-todays-weather-12968822"
     },
     {
-     "title": "US congressman from Charlotte area losing in Election Day surprise",
-     "url": "https://www.wbtv.com/2026/11/04/us-congressman-charlotte-area-loses-election-day-surprise/"
+     "title": "Good morning, Cambridge! Here's today's weather!",
+     "url": "https://www.cambridgetoday.ca/good-morning/good-morning-cambridge-heres-todays-weather-12966362"
     },
     {
-     "title": "How LaKesha Womack's $56,000 campaign (and President Trump) sunk powerful Republican Tim Moore",
-     "url": "https://www.wfae.org/politics/2026-11-04/how-lakesha-womacks-56-000-campaign-and-president-trump-sunk-powerful-republican-tim-moore"
+     "title": "Good morning, Elora & Fergus! Here's today's weather!",
+     "url": "https://www.elorafergustoday.com/good-morning/good-morning-elora-fergus-heres-todays-weather-12955082"
     }
    ]
   },
   {
-   "q": "s&p 500 futures",
+   "q": "chuck grassley",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-06T11:30:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Grassley denies rumors he’ll resign in the lame-duck session",
+     "url": "https://www.politico.com/live-updates/2026/11/05/congress/grassley-sticking-around-chief-says-01152433"
+    },
+    {
+     "title": "Chuck Grassley, 93, won’t step down early after Democrat Rob Sand wins Iowa governorship",
+     "url": "https://www.washingtonexaminer.com/news/senate/4792779/chuck-grassley-wont-retire-early-rob-sand-iowa-gubernatorial-win/"
+    },
+    {
+     "title": "Sen. Chuck Grassley dismisses retirement claims",
+     "url": "https://www.kcci.com/article/sen-chuck-grassley-dismisses-retirement-claims/74349513"
+    }
+   ]
+  },
+  {
+   "q": "premarket",
+   "traffic": "100+",
+   "geo": "US",
+   "trending_started_at": "2026-11-06T11:30:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "After-Hours Movers: NET, TEAM, FIVN, ABNB, DKNG, AFRM, LRCX, MCHP, AAOI, IREN, AXON",
+     "url": "https://www.investing.com/news/stock-market-news/afterhours-movers-net-team-fivn-abnb-dkng-afrm-lrcx-mchp-aaoi-iren-axon-432SI-5005795"
+    },
+    {
+     "title": "IREN Shares Rally Nearly 15% Premarket as Daniel Newman Highlights $40 Million Per MW AI Deals, Calls Sha",
+     "url": "https://www.benzinga.com/markets/tech/26/11/62968845/iren-shares-rally-nearly-15-premarket-as-daniel-newman-highlights-40-million-per-mw-ai-deals-calls-share-price-weakness-disconnected-from-fundamentals"
+    },
+    {
+     "title": "Why Are Data Center Stocks CoreWeave, Nebius, and IREN Surging in Premarket After Thursday’s Steep Selloff, November 6?",
+     "url": "https://www.tipranks.com/news/why-are-data-center-stocks-coreweave-nebius-and-iren-surging-in-premarket-after-thursdays-steep-selloff-november-6"
+    }
+   ]
+  },
+  {
+   "q": "clima",
+   "traffic": "20000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-06T11:20:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Clima en Buenos Aires hoy: pronóstico del tiempo en vivo de este Viernes, 6 de noviembre",
+     "url": "https://www.eldestapeweb.com/sociedad/clima-en-buenos-aires-hoy-pronostico-del-tiempo-en-vivo-de-este-viernes-6-de-noviembre-20261163026"
+    },
+    {
+     "title": "Clima en Capital Federal hoy: pronóstico del tiempo en vivo",
+     "url": "https://www.eldestapeweb.com/sociedad/clima-en-capital-federal-hoy-pronostico-del-tiempo-en-vivo-20261153029"
+    },
+    {
+     "title": "Clima en Buenos Aires hoy: inestable con lluvias hacía la noche",
+     "url": "https://www.eldestapeweb.com/sociedad/clima-en-buenos-aires-hoy-pronostico-del-tiempo-en-vivo-de-este-martes-3-de-noviembre-20261133022"
+    }
+   ]
+  },
+  {
+   "q": "chitwan rhinos vs pokhara avengers",
    "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-06T10:20:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Stock market today: Dow, S&P 500, Nasdaq futures wobble after brutal sell-off, with key jobs report on deck",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html"
-    },
-    {
-     "title": "3 things to look out for on Friday (SP500:)",
-     "url": "https://seekingalpha.com/news/4667207-3-things-to-look-out-for-on-friday"
-    },
-    {
-     "title": "Prediction: Nov. 6 Will Be a Huge Day for the Stock Market",
-     "url": "https://www.fool.com/investing/2026/11/04/prediction-nov-6-will-be-a-huge-day-for-the-stock/"
-    }
-   ]
-  },
-  {
-   "q": "weather new york",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-06T10:20:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "‘Winter on the Edge’: WMBF special on El Niño and winter prep airs Thursday night",
-     "url": "https://www.wmbfnews.com/2026/11/05/winter-edge-wmbf-special-el-nio-winter-prep-airs-thursday-night/"
-    },
-    {
-     "title": "WNY Winter Weather Outlook",
-     "url": "https://www.wgrz.com/article/weather/winter-weather-outlook-wny-2026-2027/71-8e04bcf8-51f0-493c-8978-09d9dd627443"
-    },
-    {
-     "title": "Brad's Winter Outlook 2026–27: Wet, mild and short on cold",
-     "url": "https://www.wcnc.com/article/weather/weather-iq/brads-winter-outlook-202627/275-983c94e6-1452-4209-8582-69a05ec19217"
-    }
-   ]
-  },
-  {
-   "q": "kt vs samsung",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-06T10:20:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "LIVE: KT Wiz vs. Samsung Lions in Korean Series Game 3",
-     "url": "https://www.koreajoongangdaily.com/sports/live-kt-wiz-vs-samsung-lions-in-korean-series-game-3/12960263"
-    },
-    {
-     "title": "Kim Jeong-woon's Seventh-Inning Struggle Leads to KT's 8-7 Victory",
-     "url": "https://www.chosun.com/english/sports-en/2026/11/04/YWR7HGDQ5RE2TFDT3VIV2RIVW4/"
-    },
-    {
-     "title": "Leading 8-0, could you have imagined the closer taking the mound? Four pitchers couldn't even hold out for two innings... Manager Lee Kang-cheol's concerns become reality",
-     "url": "https://www.starnewskorea.com/en/sports/2026/11/04/2026110323302742907"
-    }
-   ]
-  },
-  {
-   "q": "tiempo de hoy",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-06T10:20:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Clima en Syracuse, New York hoy: cuál es el pronóstico del tiempo para hoy 5 de noviembre",
-     "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/clima-en-syracuse-new-york-hoy-cual-es-el-pronostico-del-tiempo-para-hoy-5-de-noviembre-nid05112026/"
-    },
-    {
-     "title": "Clima en Syracuse, New York hoy: cuál es el pronóstico del tiempo para hoy 4 de noviembre",
-     "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/clima-en-syracuse-new-york-hoy-cual-es-el-pronostico-del-tiempo-para-hoy-4-de-noviembre-nid04112026/"
-    },
-    {
-     "title": "Previsión meteorológica para Nueva York: una fuerte tormenta pone fin a la racha de sequía",
-     "url": "https://secretnyc.co/es/tiempo-en-nueva-york-prevision-de-tormenta-con-lluvias-intensas/"
-    }
-   ]
-  },
-  {
-   "q": "emma stone",
-   "traffic": "100+",
-   "geo": "US",
-   "trending_started_at": "2026-11-06T10:20:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "5 Outstanding Emma Stone Performances That Didn't Win Her an Oscar, Including Her Only Horror Role",
-     "url": "https://comicbook.com/movies/list/5-outstanding-emma-stone-performances-that-didnt-win-her-an-oscar-including-her-only-horror-role/"
-    },
-    {
-     "title": "Today’s famous birthdays list for November 6, 2026 includes celebrities Sally Field, Emma Stone",
-     "url": "https://www.cleveland.com/entertainment/2026/11/todays-famous-birthdays-list-for-november-6-2026-includes-celebrities-sally-field-emma-stone.html"
-    },
-    {
-     "title": "Famous birthdays for Nov. 6: Sally Field, Rebecca Romijn",
-     "url": "https://www.yahoo.com/entertainment/articles/famous-birthdays-nov-6-sally-080007857.html"
-    }
-   ]
-  },
-  {
-   "q": "nisha bhagat",
-   "traffic": "500+",
    "geo": "IN",
-   "trending_started_at": "2026-11-06T10:30:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
+   "trending_started_at": "2026-11-06T11:50:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=IN",
    "news": [
     {
-     "title": "रांची में आदिवासी नेत्री निशा भगत ने की आत्महत्या: फेसबुक लाइव पर आकर लगाया सरकार, पुलिस और जमीन दलालों पर ...",
-     "url": "https://www.bhaskar.com/local/jharkhand/ranchi/news/ranchi-tribal-leader-nisha-bhagat-suicide-case-facebook-live-video-139610778.html"
+     "title": "November 8, 2026: Titans (SA) vs Dolphins Cricket Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/cricket/events/titans-sa-vs-dolphins-nov-08-2026/"
     },
     {
-     "title": "रांची में आदिवासी नेत्री निशा भगत की संदिग्ध मौत, आत्मघाती कदम उठाने से पहले फेसबुक पर 10 मिनट किया लाइव",
-     "url": "https://ndtv.in/jharkhand-news/jharkhand-tribal-leader-nisha-bhagat-dies-by-suicide-after-facebook-live-video-police-launch-probe-12292465"
+     "title": "November 7, 2026: Wellington Firebirds vs Auckland Aces Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/cricket/events/wellington-firebirds-vs-auckland-aces-nov-07-2026/"
     },
     {
-     "title": "आदिवासी नेत्री निशा भगत का वीडियो वायरल, फेसबुक लाइव में रोते हुए लगाए कई लोगों पर आरोप",
-     "url": "https://www.jagran.com/jharkhand/ranchi-adivasi-leader-nisha-bhagat-viral-video-accusations-suicide-threat-40429322.html"
+     "title": "November 6, 2026: Chitwan Rhinos vs Pokhara Avengers Cricket Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/cricket/events/chitwan-rhinos-vs-pokhara-avengers-nov-06-2026/"
     }
    ]
   },
   {
-   "q": "കീര്ത്തി സുരേഷ്",
+   "q": "harsh jain",
    "traffic": "100+",
    "geo": "IN",
-   "trending_started_at": "2026-11-06T10:30:00Z",
-   "observed_at": "2026-11-06T10:54:57.889682Z",
+   "trending_started_at": "2026-11-06T11:50:00Z",
+   "observed_at": "2026-11-06T12:06:14.051663Z",
    "feed_url": "https://trends.google.com/trending/rss?geo=IN",
    "news": [
     {
-     "title": "‘ആ പ്രണയ ഡയറി അമ്മ കത്തിച്ചു, മറ്റ് മതത്തില്‍പ്പെട്ട ആളായത് പ്രശ്നമായി’: പ്രതിസന്ധികൾ നിറഞ്ഞ പ്രണയകാലം ഓർത്ത് കീർത്തി",
-     "url": "https://www.manoramaonline.com/style/love-n-life/2026/11/06/keerthy-suresh-love-story-and-marriage-secrets.html"
+     "title": "CEO Harsh Jain Teases A Revamped Dream11 By 2026-End",
+     "url": "https://inc42.com/buzz/ceo-harsh-jain-teases-a-revamped-dream11-by-2026-end/"
     },
     {
-     "title": "'ആന്റണി ക്രിസ്ത്യാനിയായതിനാൽ വീട്ടിൽ ഒരുപാട് പ്രശ്നങ്ങളുണ്ടായിരുന്നു, സമ്മതിപ്പിക്കാൻ സമയമെടുത്തു’; കീർത്തി ..",
-     "url": "https://www.doolnews.com/actress-keerthy-suresh-opens-up-about-her-love-life-marriage-and-the-opposition-she-faced-at-home-64-175.html"
+     "title": "Dream11's Brand-New Version To Launch By Year-End, Says Co-Founder Harsh Jain",
+     "url": "https://www.ndtvprofit.com/sports/dream11s-brand-new-version-to-launch-by-year-end-says-co-founder-harsh-jain-12288157"
     },
     {
-     "title": "'വിവാഹത്തെ വീട്ടുകാർ എതിർത്തിരുന്നു, ഒളിച്ചോടുന്നതിനെക്കുറിച്ച് പേടിസ്വപ്‌നങ്ങൾ കണ്ടു'",
-     "url": "https://www.keralakaumudi.com/cinema/news/keerthy-suresh-reveals-family-opposition-to-her-relationship-with-husband-antony-thattil-1822885"
+     "title": "Dream11 Co-Founder Harsh Jain Hints At New Platform Introduction By December-End",
+     "url": "https://www.bwdisrupt.com/article/dream11-co-founder-harsh-jain-hints-at-new-platform-introduction-by-december-end-632368"
     }
    ]
   }

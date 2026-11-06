@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-05T04:50:57Z",
-    "run_id": "41970273975",
-    "status": "success",
-    "checked": {
-     "candidates": 327,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "SCOOP: 4.43 minute long Maatrubhumi trailer passed by CBFC; makers now eye November 20 or December 11 for release",
-      "Rajkumar Hirani plans to begin filming Munna Bhai 3 starring Sanjay Dutt and Arshad Warsi in 2027: Report",
-      "Ramayana Post-Credit Scene: Is Sunny Deol's Look As Lord Hanuman Revealed In Last Scene? Confirmed Update",
-      "Ramayana | OG Laxman Sunil Lahri Disappointed By Film's Music: Ayodhya Ka Local Flavour Hona Chahiye Tha",
-      "The Traitors Telugu Episode 10 Release Time Today: Who Will Win? Here’s When Last Episode Will Premiere Online",
-      "Aadarsha Kutumbam House No: 47 Box Office Collection Day 6: Venkatesh's Film Crosses ₹61 Crore Worldwide",
-      "Koffee With Karan 9 Ep 4: Kareena Kapoor Recalls Horrifying Night Of Saif's Stabbing, Says 'I Was Screaming…'",
-      "Meghana Raj praises Mamitha Baiju's performance",
-      "Sundar C says he is still fine-tuning the Nayanthara's 'Mookuthi Amman 2'",
-      "RJ Mahvash's podcast clip sparks Yuzvendra Chahal cheating rumours",
-      "Sachin Tendulkar uses Mohanlal's iconic 'Narasimham' dialogue",
-      "'Drishyam 3' day 34: Ajay Devgn's film sees 97% weekly collection drop",
-      "'Prahaar' day 20: Rajkummar Rao beats his own 'Maalik' worldwide record",
-      "'Udta Teer' box office collection day 13: Ayushmann Khurrana's film collects Rs 1.20 cr",
-      "'Bachelor Party D'eux' trailer review: 'No one has an aura'",
-      "Rohini Hattangady recalls Dharmendra asking her to wear more makeup as she looked too young to play his mother",
-      "Namit Malhotra feels like ‘Sachin Tendulkar getting picked for World Cup on debut' while taking Ramayana global",
-      "Kartik Aaryan turns producer with Kabir Khan's next titled Ladaku; Birla Studios announces release date",
-      "Keerthy Suresh admits facing problems at home due to interfaith marriage with Antony Thattil",
-      "Delhi HC refuses to entertain plea to stay release of Sunny Deol-starrer Suryaa"
-     ],
-     "updated": [],
-     "count": 296,
-     "detail": "327 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-05T05:51:28Z",
     "run_id": "41976532368",
     "status": "success",
@@ -936,31 +897,48 @@
      "detail": "314 stories, 0 duplicates removed, 14 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-05T09:56:17Z",
-    "run_id": "42005708204",
+    "run_at": "2026-11-06T11:51:51Z",
+    "run_id": "42213198089",
     "status": "success",
     "checked": {
-     "candidates": 7,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 334,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Pet Influencer Ipsita Chowdhury Honored at Times Entertainment Power Creator Awards 2026",
-      "KENS 5 Sports Anchor Nate Ryan Announces Surprise Departure After Four Years",
-      "Sarah Khan Appears on Good Morning Pakistan Hosted by Nida Yasir"
+      "Ajay Devgn purchases 2-acre agricultural land in Karjat for Rs 1.6 crores",
+      "Shehzad Poonawalla wins Rise & Fall Season 2, takes home Rs. 35 lakhs prize money; pledges to donate it to flood relief",
+      "Mahabharat: Ek Dharmayudh Season 2 to premiere on JioHotstar on November 24; new season to have 25 episodes",
+      "Actress Roshna Ann Roy Launches Paid Instagram Subscription: Monthly Fee And Other Details",
+      "Kumar Sanu Surprises Durgesh: 'I'll Send TV To Your Home So That Your Parents Can Watch Sa Re Ga Ma Pa'",
+      "Ramayana Box Office: Becomes Sai Pallavi’s 2nd Highest-Grossing Film In Just One Day!",
+      "Baththa: 5 Reasons To Watch Vijay Sethupathi’s Heartwarming Gangster Comedy On Netflix",
+      "Student of the Year: After Dark director Reema Maaya Interview: Shanaya Kapoor worked really hard and was very prepared",
+      "Top Opening Days of All Time at Indian Box Office: Pushpa 2 continues to rule, Where does Ramayana stand?",
+      "Who is Kiranmayi aka Kiran? Here’s all about Allu Arjun, Ram Charan's cousin Sai Durgha Tej’s fiancée",
+      "Six Moments That Make Ramayana a Must-Watch Big-Screen Spectacle",
+      "Renu Desai compares life after Pawan Kalyan divorce to Ram’s exile",
+      "Yash reveals why he chose to play Ravana in ‘Ramayana’ making video",
+      "In 2010, Barbra Streisand shared that she has created a private mall under her Malibu estate",
+      "Inside Manish Malhotra's lavish Diwali party: Kareena Kapoor serves glamour, Aishwarya Rai clicks pics with guests",
+      "Delhi HC asks Doosra makers to add disclaimer, give  ₹2 crore bank guarantee in Sourav Ganguly case",
+      "Student of the Year After Dark director Reema Maya on why Karan Johar wanted spinoff to be darker | Interview",
+      "Unaccustomed Earth trailer: Freida Pinto, Siddharth explore lost love and second chances in show based on Jhumpa Lahiri's book",
+      "I came out in tears: Mahesh Bhatt gets emotional after watching Ramayana",
+      "5 Fantasy Books Better Than 'Fourth Wing'"
      ],
      "updated": [],
-     "count": 3,
-     "detail": "+3 articles, +0 box-office rows, 0 rows updated"
+     "count": 316,
+     "detail": "322 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1450,27 +1428,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-06T11:52:38Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Unaccustomed Earth Trailer: Freida Pinto and Siddharth Headline Netflix's Adaptation of Jhumpa Lahiri's Book",
+      "K-Pop Boy Group idntt Finalizes 24-Member Lineup After Fan Voting Event",
+      "Mahabharat: Ek Dharmayudh Season 2 Confirmed for November 24 Release on JioHotstar",
+      "Tallinn Black Nights Film Festival Spotlights Children and Youth Cinema as Industry Saviors"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-05T05:52:18Z",
-    "run_id": "41976532368",
-    "status": "success",
-    "checked": {
-     "candidates": 198,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 196, coming 2"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1884,28 +1867,27 @@
      "detail": "now 202, coming 1"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-06T11:52:38Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": {
+     "candidates": 203,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 202, coming 1"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-05T11:04:55Z",
-    "run_id": "42014036357",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1d0b6qo"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2347,27 +2329,28 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-06T12:06:15Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "zafitn"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T08:57:32Z",
-    "run_id": "41990058808",
-    "status": "success",
-    "checked": {
-     "candidates": 526,
-     "detail": "524 collected staging rows from readers; 192 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 7,
-     "detail": "+0 new rows, 7 updated rows, 517 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2781,19 +2764,27 @@
      "detail": "+0 new rows, 3 updated rows, 557 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-06T12:06:12Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": {
+     "candidates": 563,
+     "detail": "561 collected staging rows from readers; 201 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 172,
+     "detail": "+1 new rows, 171 updated rows, 389 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3030,30 +3021,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-05T11:27:37Z",
-    "run_id": "42018704154",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Authors Shiv Aroor and Rahul Singh Discontinue Association with Salman Khan's Maatrubhumi",
-      "How Saving Private Ryan Continues to Define War Cinema Decades After Release"
-     ],
-     "updated": [],
-     "count": 2,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3553,19 +3533,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-06T12:06:14Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Unaccustomed Earth Trailer: Freida Pinto and Siddharth Headline Netflix's Adaptation of Jhumpa Lahiri's Book",
+      "K-Pop Boy Group idntt Finalizes 24-Member Lineup After Fan Voting Event",
+      "Mahabharat: Ek Dharmayudh Season 2 Confirmed for November 24 Release on JioHotstar",
+      "Tallinn Black Nights Film Festival Spotlights Children and Youth Cinema as Industry Saviors"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3825,19 +3818,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T06:03:59Z",
-    "run_id": "41976532368",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4248,31 +4241,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-05T04:52:00Z",
-    "run_id": "41970273975",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 296 still unprocessed; today by category: movies 3/6, tv_dramas 2/4, episodes 0/2, box_office 5/6, celebrities_events 1/5, upcoming_releases 2/4, ott_streaming 1/4, trailers 1/3, awards 0/2, music_ost 1/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Maatrubhumi Trailer Cleared By CBFC As Makers Consider November 20 Or December 11 Release Dates",
-      "DC Studios Taps Francis Galluppi to Write New John Constantine Movie",
-      "Aadarsha Kutumbam House No 47 Box Office Collection Day 6: Venkatesh Daggubati Starrer Crosses ₹61 Crore Worldwide",
-      "Kareena Kapoor And Saif Ali Khan Open Up About Bandra Home Intruder Attack On Koffee With Karan 9"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4758,19 +4739,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-06T11:52:38Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 316 still unprocessed; today by category: movies 5/6, tv_dramas 5/4, episodes 0/2, box_office 8/6, celebrities_events 9/5, upcoming_releases 4/4, ott_streaming 7/4, trailers 2/3, awards 0/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Unaccustomed Earth Trailer: Freida Pinto and Siddharth Headline Netflix's Adaptation of Jhumpa Lahiri's Book",
+      "K-Pop Boy Group idntt Finalizes 24-Member Lineup After Fan Voting Event",
+      "Mahabharat: Ek Dharmayudh Season 2 Confirmed for November 24 Release on JioHotstar",
+      "Tallinn Black Nights Film Festival Spotlights Children and Youth Cinema as Industry Saviors"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5084,24 +5077,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 384,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5441,19 +5429,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 393,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5738,19 +5731,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 28,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6000,19 +5998,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6252,19 +6250,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6582,19 +6580,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6835,19 +6833,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7077,19 +7075,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7368,6 +7366,16 @@
     "category": "Trending News",
     "run_at": "2026-11-06T10:55:05Z",
     "run_id": "42205721679",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7788,16 +7796,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-05T06:03:59Z",
     "run_id": "41976532368",
     "status": "skipped",
@@ -8039,19 +8037,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-05T04:52:11Z",
-    "run_id": "41970273975",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8301,8 +8299,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-06T12:06:23Z",
+    "run_id": "42213198089",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-06T10:55:05Z"
+ "updated_at": "2026-11-06T12:06:23Z"
 }

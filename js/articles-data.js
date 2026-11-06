@@ -69959,5 +69959,398 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-06T10:52:27Z"
+  },
+  "1nrqic0": {
+    "id": "1nrqic0",
+    "type": "news",
+    "headline": "Unaccustomed Earth Trailer: Freida Pinto and Siddharth Headline Netflix's Adaptation of Jhumpa Lahiri's Book",
+    "dek": "Netflix has released the trailer for Unaccustomed Earth, an eight-episode series based on Jhumpa Lahiri's acclaimed 2008 short story collection, starring Freida Pinto and Siddharth.",
+    "body": [
+      {
+        "h": "Introduction to the Series",
+        "p": [
+          "Audiences are preparing for a new screen adaptation of Jhumpa Lahiri's internationally acclaimed 2008 short story collection, Unaccustomed Earth. Netflix is bringing the literary work to life as an eight-episode television series that weaves characters and stories from the original book into a single continuous narrative.",
+          "The newly released trailer offers a glimpse into this emotional family drama, showcasing the journey of characters navigating complex relationships, cultural roots, and unexpected life turns."
+        ]
+      },
+      {
+        "h": "Plot and Character Arcs",
+        "p": [
+          "The narrative centres on Parul Chaudhary, a married Indian-American woman and mother portrayed by Freida Pinto. Following a cancer diagnosis, Parul feels she has been sleepwalking through life, prompting her to travel from Mumbai back to her former surroundings at Cambridge, United States.",
+          "This relocation confronts her with ghosts of the past, including an old romance with a former partner played by Siddharth. As the two characters reconnect, unresolved feelings emerge, throwing Parul's personal life and domestic relationships into turbulence."
+        ]
+      },
+      {
+        "h": "Freida Pinto on Cultural Representation",
+        "p": [
+          "Lead star Freida Pinto shared her thoughts on the series, highlighting its deep immersion in the traditions, cuisine, and culture of an Indian-American Bengali family. She noted that television has rarely showcased this specific tight-knit community with such detail and holistic perspective.",
+          "Pinto also remarked on the universal nature of the character struggles, pointing out that Parul's journey forces her to question the personal costs of pursuing her true desires and facing the consequences of her choices."
+        ]
+      },
+      {
+        "h": "Creative Team and Crew",
+        "p": [
+          "The eight-episode drama is created and written by Madhuri Shekar, whose previous writing credits include 3 Body Problem and The Nevers. John Wells Productions and Warner Bros. serve as the production houses for the project.",
+          "The executive producer roster features Madhuri Shekar, John Wells, Ritesh Batra, Jhumpa Lahiri, Nisha Ganatra, Erica Saleh, Erin Jontow, and Celia Costas. Additionally, Ritesh Batra—known for directing the critically praised film The Lunchbox—directs and executive produces the opening two episodes."
+        ]
+      },
+      {
+        "h": "Ensemble Cast Members",
+        "p": [
+          "Alongside Freida Pinto and Siddharth in the primary roles, the production boasts a diverse ensemble cast. The supporting actors contributing to the narrative include Sarayu Blue, Indraneil Sengupta, Adi Roy, and Iyla Sundarsingh McKaig."
+        ]
+      },
+      {
+        "h": "Literary Background and Legacy",
+        "p": [
+          "This project marks another high-profile screen adaptation of Jhumpa Lahiri's celebrated bibliography, following the cinematic release of The Namesake in 2006. Directed by Mira Nair, that earlier feature starred Irrfan Khan and Tabu to widespread critical acclaim.",
+          "Unaccustomed Earth is scheduled to premiere on Netflix on December 17, carrying forward the legacy of Lahiri's deeply human storytelling onto a global streaming platform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the trailer for Unaccustomed Earth, an eight-episode series based on Jhumpa Lahiri's 2008 short story collection. Created by Madhuri Shekar and directed in part by Ritesh Batra, the show stars Freida Pinto and Siddharth as characters exploring lost love and second chances against the backdrop of an Indian-American family."
+        ]
+      }
+    ],
+    "facts": [
+      "Unaccustomed Earth is based on Jhumpa Lahiri's 2008 short story collection.",
+      "The Netflix series consists of eight episodes.",
+      "Freida Pinto stars as Parul Chaudhary.",
+      "Siddharth plays Parul's old love.",
+      "Madhuri Shekar created and wrote the series.",
+      "Ritesh Batra directs and executive produces the first two episodes.",
+      "The ensemble cast includes Sarayu Blue, Indraneil Sengupta, Adi Roy, and Iyla Sundarsingh McKaig.",
+      "Unaccustomed Earth premieres on Netflix on December 17, 2026.",
+      "The Namesake was released as a film in 2006."
+    ],
+    "entities": {
+      "people": [
+        "Freida Pinto",
+        "Siddharth",
+        "Jhumpa Lahiri",
+        "Parul Chaudhary",
+        "Madhuri Shekar",
+        "John Wells",
+        "Ritesh Batra",
+        "Nisha Ganatra",
+        "Erica Saleh",
+        "Erin Jontow",
+        "Celia Costas",
+        "Sarayu Blue",
+        "Indraneil Sengupta",
+        "Adi Roy",
+        "Iyla Sundarsingh McKaig",
+        "Mira Nair",
+        "Irrfan Khan",
+        "Tabu"
+      ],
+      "titles": [
+        "Unaccustomed Earth",
+        "3 Body Problem",
+        "The Nevers",
+        "The Lunchbox",
+        "The Namesake"
+      ]
+    },
+    "keywords": [
+      "Unaccustomed Earth",
+      "Freida Pinto",
+      "Siddharth",
+      "Jhumpa Lahiri",
+      "Unaccustomed Earth trailer"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/Frieda_1793958285482_B2Ts_1793958285654_YCER_e4ea6cd6-673f-4118-97da-3684ae21d5b6_9ag5.jpg",
+        "caption": "Unaccustomed Earth Trailer: Freida Pinto and Siddharth Headline Netflix's Adaptation of Jhumpa Lahiri's Book",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 16:08:22 +0530"
+  },
+  "ahmz1r": {
+    "id": "ahmz1r",
+    "type": "news",
+    "headline": "K-Pop Boy Group idntt Finalizes 24-Member Lineup After Fan Voting Event",
+    "dek": "Modhaus reveals the final four members chosen by global supporters through a special COSMO app voting event, completing the group's full roster.",
+    "body": [
+      {
+        "h": "The Final Four Members Announced",
+        "p": [
+          "The agency Modhaus officially announced that Yun Sun Jae, Koo Do Hyung, Park Gyeong Ryul, and Kim Ji Hoo have been selected as the final members of the boy group idntt. This announcement brings the group's complete roster to a total of 24 members.",
+          "The selection concluded a specialized voting window that ran from October 19 to November 5, where supporters cast their ballots from a pool of nine candidates on the dedicated platform COSMO."
+        ]
+      },
+      {
+        "h": "Massive Fan Participation via Gravity",
+        "p": [
+          "The poll operated under Modhaus's distinct fan-engagement format known as a 'Gravity' event, allowing global followers to utilize their COMO directly for decision-making. The high level of engagement resulted in an impressive final tally of approximately 2,223,546 votes.",
+          "This massive turnout highlighted the dedication of the fanbase, who took active control in shaping the final composition and bringing the group's extensive concept to fruition."
+        ]
+      },
+      {
+        "h": "Album-by-Album Lineup Rollout",
+        "p": [
+          "Since their debut in August of last year, idntt has progressively revealed members across multiple releases rather than introducing them all at once. The first mini album, titled 'unevermet', introduced seven initial members to the public.",
+          "Subsequent expansions followed with the release of the second mini album 'yesweare' in January, which added eight members, and the third mini album 'itsnotover' in July, which incorporated another five members."
+        ]
+      },
+      {
+        "h": "Commercial Success and Chart Triumphs",
+        "p": [
+          "The group's steady rise in popularity culminated in major achievements for their third mini album, 'itsnotover', which recorded 568,000 copies sold during its first week on shelves.",
+          "This commercial milestone translated into prominent broadcast success, earning idntt coveted first-place trophy wins on major music programs including 'Show Champion', 'Music Bank', and 'The Show'."
+        ]
+      },
+      {
+        "h": "International Tours and Global Promotions",
+        "p": [
+          "Alongside their domestic achievements, the group embarked on their inaugural fan concert tour titled '20' running from August to September, meeting supporters across major cities like Seoul, Tokyo, Osaka, and Macau.",
+          "Continuing their international expansion, idntt has also been actively conducting local promotional activities in Mexico and Chile, further broadening their global footprint."
+        ]
+      },
+      {
+        "h": "Recent Musical Releases",
+        "p": [
+          "Adding to their diverse discography, the group recently dropped 'Linda Mia', marking their very first Latin original track. The song notably featured a collaborative performance involving 20 members.",
+          "With the final four positions now officially filled, the complete 24-member configuration stands ready to embark on unified group activities moving forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Boy group idntt has finalized its full 24-member lineup after agency Modhaus announced the addition of Yun Sun Jae, Koo Do Hyung, Park Gyeong Ryul, and Kim Ji Hoo. These final four members were chosen by global fans who cast over 2.2 million votes through a specialized 'Gravity' event on the COSMO platform between October and November."
+        ]
+      }
+    ],
+    "facts": [
+      "Modhaus announced the final four members on November 5",
+      "The final four members are Yun Sun Jae, Koo Do Hyung, Park Gyeong Ryul, and Kim Ji Hoo",
+      "The voting took place from October 19 to November 5",
+      "The final tally reached about 2,223,546 votes",
+      "idntt debuted in August of last year",
+      "The first mini album was titled unevermet",
+      "The second mini album yesweare was released in January",
+      "The third mini album itsnotover was released in July",
+      "The third mini album sold 568,000 copies in its first week",
+      "idntt earned first-place wins on Show Champion, Music Bank, and The Show",
+      "The first fan concert tour '20' ran from August to September",
+      "Concert tour stops included Seoul, Tokyo, Osaka, and Macau",
+      "The group released their first Latin original track titled Linda Mia featuring 20 members"
+    ],
+    "entities": {
+      "people": [
+        "Yun Sun Jae",
+        "Koo Do Hyung",
+        "Park Gyeong Ryul",
+        "Kim Ji Hoo"
+      ],
+      "titles": [
+        "idntt",
+        "unevermet",
+        "yesweare",
+        "itsnotover",
+        "Linda Mia",
+        "Show Champion",
+        "Music Bank",
+        "The Show"
+      ]
+    },
+    "keywords": [
+      "idntt 24-member lineup",
+      "Modhaus COSMO vote",
+      "idntt final four members",
+      "idntt itsnotover album",
+      "Linda Mia Latin track"
+    ],
+    "images": [],
+    "published": "Fri, 06 Nov 2026 06:40:00 EST"
+  },
+  "1strk90": {
+    "id": "1strk90",
+    "type": "news",
+    "headline": "Mahabharat: Ek Dharmayudh Season 2 Confirmed for November 24 Release on JioHotstar",
+    "dek": "The acclaimed mythological web series is set to return for its second season, featuring twenty-five episodes and advanced AI-powered visualisation.",
+    "body": [
+      {
+        "h": "Season 2 Premiere Date and Platform Announcement",
+        "p": [
+          "Viewers eagerly awaiting the continuation of the acclaimed mythological web series can mark their calendars for a late autumn release. The second season of Mahabharat: Ek Dharmayudh has been officially scheduled to premiere on November 24.",
+          "Fans of the digital platform can stream the upcoming episodes exclusively on JioHotstar. This release follows significant anticipation from audiences tracking the growth of high-profile mythological content in the streaming space."
+        ]
+      },
+      {
+        "h": "Expanded Episode Count for the New Run",
+        "p": [
+          "Audiences tuning into the latest chapter will find a substantial runtime dedicated to continuing the epic narrative. The new season has been confirmed to comprise a total of 25 episodes.",
+          "This extended episode count allows the creators ample room to explore intricate plotlines and character arcs without rushing through the dense source material. Viewers can expect a thorough unfolding of events across the multi-episode run."
+        ]
+      },
+      {
+        "h": "Teaser Insights and Iconic Story Elements",
+        "p": [
+          "The newly released promotional teaser offers a captivating look into some of the most dramatic conflicts within the overarching narrative. Prominent among these is the portrayal of Draupadi's cheer haran, a defining moment that ignites profound tensions.",
+          "Additionally, the preview highlights the appearance of Krishna, delivering his timeless message about manifesting whenever adharma takes over. This core philosophy establishes the dramatic stakes for kingdoms and individuals alike."
+        ]
+      },
+      {
+        "h": "Direction and Creative Leadership",
+        "p": [
+          "The second season remains under the steady guidance of accomplished filmmaking talent. National Award winner Rohit Jaising Vaid takes the director's chair, steering the artistic vision of the project.",
+          "Under his direction, the narrative specifically focuses on the Pandavas. The storyline tracks their ongoing struggles against grave threats to their survival, shifting alliances, and their arduous quest to establish their rightful place."
+        ]
+      },
+      {
+        "h": "Cutting-Edge AI Technology and Production",
+        "p": [
+          "A defining characteristic of this project is its innovative approach to visual storytelling. The series is a collaborative effort between JioStar and Collective Studios Historyverse, utilizing advanced AI-powered visualisation to build its massive universe.",
+          "The technical execution and production work are handled by Galleri5. Meanwhile, the series is produced under the stewardship of Vijay Subramaniam, merging traditional epic themes with modern technological capabilities."
+        ]
+      },
+      {
+        "h": "Legacy and Themes of the Epic",
+        "p": [
+          "The enduring appeal of the source material lies in its profound exploration of fundamental human questions. Themes of familial duty, personal ambition, strict loyalty, and the eternal clash between dharma and adharma continue to resonate across generations.",
+          "By translating these deep philosophical inquiries to a modern streaming format, the series provides fresh insights into human behavior and the pivotal decisions that alter destinies."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mahabharat: Ek Dharmayudh Season 2 is set to premiere on November 24 exclusively on JioHotstar with 25 episodes directed by Rohit Jaising Vaid. The AI-powered mythological series is produced by Vijay Subramaniam and continues the journey of the Pandavas."
+        ]
+      }
+    ],
+    "facts": [
+      "Mahabharat: Ek Dharmayudh Season 2 premieres on November 24.",
+      "The new season will have 25 episodes.",
+      "The series streams exclusively on JioHotstar.",
+      "Rohit Jaising Vaid is a National Award winner and the director of the show.",
+      "The production and AI tech are managed by Galleri5.",
+      "The series is produced by Vijay Subramaniam.",
+      "JioStar and Collective Studios Historyverse collaborated on the series."
+    ],
+    "entities": {
+      "people": [
+        "Rohit Jaising Vaid",
+        "Vijay Subramaniam",
+        "Draupadi",
+        "Krishna",
+        "Pandavas"
+      ],
+      "titles": [
+        "Mahabharat: Ek Dharmayudh",
+        "Mahabharat: Ek Dharmayudh Season 2"
+      ]
+    },
+    "keywords": [
+      "Mahabharat Ek Dharmayudh Season 2",
+      "JioHotstar",
+      "Rohit Jaising Vaid",
+      "Mahabharat Ek Dharmayudh 25 episodes"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Mahabharat-Ek-Dharmayudh-Season-2.jpeg",
+        "caption": "Mahabharat: Ek Dharmayudh Season 2 Confirmed for November 24 Release on JioHotstar",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 16:40:37 +0200"
+  },
+  "55bv1b": {
+    "id": "55bv1b",
+    "type": "news",
+    "headline": "Tallinn Black Nights Film Festival Spotlights Children and Youth Cinema as Industry Saviors",
+    "dek": "As Estonia's landmark film event marks its 30th edition, the festival's Just Film section and Industry Days are placing a major focus on the financial and cultural importance of youth-targeted content.",
+    "body": [
+      {
+        "h": "Milestone Anniversary and Youth Focus",
+        "p": [
+          "The Tallinn Black Nights Film Festival, widely known as PÖFF, is celebrating its 30th anniversary edition in Estonia. While the festival is renowned for showcasing cutting-edge art house discoveries, it maintains a strong tradition of highlighting films tailored for younger audiences through its dedicated Just Film program.",
+          "Launched in 2001, the Just Film Festival has grown into a major platform for children's and youth movies. The broader event runs from November 6 to November 22, providing a comprehensive showcase of international family-friendly and coming-of-age cinema."
+        ]
+      },
+      {
+        "h": "Expanding Industry Days and Mentorship",
+        "p": [
+          "Building upon the success of the youth film showcase, the event introduced Just Film Industry Days in 2023 to foster networking, education, and collaboration. Scheduled from November 18 to November 20 during the festival, this specialized initiative offers pitching opportunities for industry professionals.",
+          "The program actively involves the next generation of creators by bringing in aspiring filmmakers aged 12 to 19 for hands-on workshops, masterclasses, and mentoring sessions. Organizers emphasize film literacy and education, noting that modern technology puts filmmaking tools directly into the hands of young people."
+        ]
+      },
+      {
+        "h": "Featured Screenings and Projects",
+        "p": [
+          "This year's Just Film lineup features a diverse selection of notable international titles. Among the highlighted works screening at the festival are Rebekah Fortune's Learning to Breathe Under Water, Zane Borg's River, David Dietl's Emil and the Detectives, and Thomas Mendolia's Henry's Ebb.",
+          "The industry segment features two distinct pitching events integrated with the co-production market. These sessions are specifically tailored for Just Film projects currently in development, early production, or functioning as works in progress."
+        ]
+      },
+      {
+        "h": "Navigating Social Media Restrictions",
+        "p": [
+          "A prominent topic at this year's Industry Days is the impact of emerging social media bans on film discovery and marketing. Panels such as 'The New Underground: Film Discovery in the Age of Social Media Restrictions' address legislative changes affecting young audiences.",
+          "Discussions center around regulations such as Australia's restrictions for individuals under 16, upcoming rules in the U.K. set for March, and potential measures across Europe. Industry professionals are debating how these restrictions complicate reaching youth demographics who frequently discover cinema online."
+        ]
+      },
+      {
+        "h": "Market Dynamics and Mislabeling",
+        "p": [
+          "Additional panels tackle core industry challenges, including a session titled 'The Label Decides: Family, Youth or Coming-of-Age?' which examines how youth and children's films are often categorized and the subsequent effects on their reception.",
+          "Organizers are also hosting a science-meets-creativity session focused on research and market trends. These discussions aim to provide practical knowledge on what truly resonates with young viewers while exploring the ethical integration of artificial intelligence tools into creative workflows."
+        ]
+      },
+      {
+        "h": "The Financial Power of Family Cinema",
+        "p": [
+          "Leadership behind the event stresses that family and youth films serve as the financial backbone of the theatrical business. Because young children cannot attend cinemas alone, ticket purchases typically multiply to accommodate parents and guardians.",
+          "Described as a reliable money machine for the industry, children's and family cinema drives robust ticket sales that help sustain theatrical exhibition. Consequently, advocates are championing the narrative that youth audiences act as the true saviors of modern cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 30th edition of Estonia's Tallinn Black Nights Film Festival features its established Just Film program and Industry Days, highlighting the vital creative and financial role of children and youth cinema. Key discussions at the event focus on film education, AI integration, and the marketing challenges posed by upcoming social media restrictions for minors."
+        ]
+      }
+    ],
+    "facts": [
+      "Tallinn Black Nights Film Festival is celebrating its 30th anniversary edition.",
+      "The 2026 festival runs from November 6 to November 22.",
+      "Just Film Industry Days takes place from November 18 to November 20, 2026.",
+      "Just Film Festival for youth and children's movies was launched in 2001.",
+      "Just Film Industry Days was established in 2023.",
+      "Kärt Väinola is the head of Just Film Industry Days and has worked for the festival for 22 years."
+    ],
+    "entities": {
+      "people": [
+        "Zane Borg",
+        "Rebekah Fortune",
+        "David Dietl",
+        "Thomas Mendolia",
+        "Kärt Väinola"
+      ],
+      "titles": [
+        "River",
+        "Learning to Breathe Under Water",
+        "Emil and the Detectives",
+        "Henry's Ebb"
+      ]
+    },
+    "keywords": [
+      "Tallinn Just Film",
+      "Just Film Industry Days",
+      "Tallinn Black Nights Film Festival",
+      "Kärt Väinola"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/River-film-still-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Tallinn Black Nights Film Festival Spotlights Children and Youth Cinema as Industry Saviors",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 11:00:00 +0000"
   }
 };
