@@ -2,11 +2,111 @@
 window.FA_OTT = {
   "coming": [
     {
+      "country": "CA",
+      "date": "2026-11-07",
+      "date_kind": "digital",
+      "id": 1807791,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1376400,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "BR",
+      "date": "2026-11-11",
+      "date_kind": "digital",
+      "id": 1153576,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-12",
+      "date_kind": "digital",
+      "id": 1234139,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1050981,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-17",
+      "date_kind": "digital",
+      "id": 1368337,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "BR",
+      "date": "2026-11-19",
+      "date_kind": "digital",
+      "id": 1561834,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1496696,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-25",
+      "date_kind": "digital",
+      "id": 1458300,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-12-01",
       "date_kind": "digital",
       "id": 1195803,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-12-02",
+      "date_kind": "digital",
+      "id": 1422041,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     }
   ],
@@ -25,6 +125,40 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "IN",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1475799,
+      "providers": [
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 926867,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1798383,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "FR",
       "date": "2026-11-06",
       "date_kind": "digital",
@@ -35,6 +169,14 @@ window.FA_OTT = {
           "name": "CANAL+"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "PE",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1802157,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -60,6 +202,19 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-04",
+      "date_kind": "digital",
+      "id": 1816668,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-11-04",
@@ -100,6 +255,30 @@ window.FA_OTT = {
           "name": "Amazon Prime Video with Ads"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-03",
+      "date_kind": "digital",
+      "id": 1503762,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-03",
+      "date_kind": "digital",
+      "id": 1375441,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-03",
+      "date_kind": "digital",
+      "id": 1244523,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -151,6 +330,14 @@ window.FA_OTT = {
       "date": "2026-11-03",
       "date_kind": "digital",
       "id": 1423191,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-11-02",
+      "date_kind": "digital",
+      "id": 1532997,
       "providers": [],
       "type": "movie"
     },
@@ -294,6 +481,22 @@ window.FA_OTT = {
     {
       "date": "2026-10-30",
       "date_kind": "digital",
+      "id": 1507696,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "digital",
       "id": 1571955,
       "providers": [
         {
@@ -356,6 +559,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "BR",
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1801940,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-30",
       "date_kind": "release",
       "id": 336240,
@@ -376,6 +587,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1749825,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-30",
       "date_kind": "digital",
       "id": 1802464,
@@ -385,6 +604,26 @@ window.FA_OTT = {
           "name": "Netflix"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1290035,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-29",
+      "date_kind": "digital",
+      "id": 1792914,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -460,6 +699,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-10-29",
+      "date_kind": "digital",
+      "id": 1515692,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-28",
       "date_kind": "release",
       "id": 334700,
@@ -504,8 +755,60 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
       "date": "2026-10-27",
-      "date_kind": "release",
+      "date_kind": "digital",
+      "id": 1384216,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-27",
+      "date_kind": "digital",
+      "id": 1283515,
+      "providers": [
+        {
+          "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-27",
+      "date_kind": "digital",
+      "id": 1465063,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-27",
+      "date_kind": "digital",
+      "id": 1783268,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "ES",
+      "date": "2026-10-27",
+      "date_kind": "digital",
+      "id": 1804239,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-27",
+      "date_kind": "digital",
+      "id": 1635771,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-27",
+      "date_kind": "digital",
       "id": 1797392,
       "providers": [
         {
@@ -542,6 +845,26 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-23",
+      "date_kind": "digital",
+      "id": 1290418,
+      "providers": [
+        {
+          "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+          "name": "AMC Plus Apple TV channel"
+        },
+        {
+          "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+          "name": "AMC+ Amazon Channel"
+        },
+        {
+          "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+          "name": "Shudder"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-10-23",
@@ -625,6 +948,18 @@ window.FA_OTT = {
       "date_kind": "digital",
       "id": 1371730,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-22",
+      "date_kind": "digital",
+      "id": 1578079,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -734,6 +1069,22 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-16",
+      "date_kind": "digital",
+      "id": 1288069,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-16",
       "date_kind": "release",
       "id": 298550,
       "providers": [
@@ -747,6 +1098,19 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "country": "IN",
+      "date": "2026-10-16",
+      "date_kind": "digital",
+      "id": 1799967,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-10-15",
@@ -765,6 +1129,22 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-10-14",
+      "date_kind": "digital",
+      "id": 1381078,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-13",
       "date_kind": "release",
       "id": 213375,
@@ -775,6 +1155,42 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "date": "2026-10-13",
+      "date_kind": "digital",
+      "id": 1377237,
+      "providers": [
+        {
+          "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
+          "name": "Angel Studios"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-13",
+      "date_kind": "digital",
+      "id": 1058424,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-09",
+      "date_kind": "digital",
+      "id": 1148365,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        },
+        {
+          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+          "name": "Apple TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
     },
     {
       "date": "2026-10-09",
@@ -790,28 +1206,12 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-09",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1236045,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-10-09",
-      "date_kind": "release",
-      "id": 1288069,
-      "providers": [
-        {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
-          "name": "Apple TV"
-        },
-        {
-          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
-          "name": "Apple TV Amazon Channel"
         }
       ],
       "type": "movie"
@@ -830,23 +1230,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-10-09",
-      "date_kind": "release",
-      "id": 1507696,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        },
-        {
-          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-          "name": "Amazon Prime Video with Ads"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-10-09",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1389172,
       "providers": [
         {
@@ -873,45 +1257,29 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "date": "2026-10-07",
-      "date_kind": "release",
-      "id": 1381078,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        },
-        {
-          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-          "name": "Amazon Prime Video with Ads"
-        }
-      ],
+      "country": "US",
+      "date": "2026-10-06",
+      "date_kind": "digital",
+      "id": 969681,
+      "providers": [],
       "type": "movie"
     },
     {
-      "date": "2026-10-05",
-      "date_kind": "release",
-      "id": 1148365,
-      "providers": [
-        {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
-          "name": "Apple TV"
-        },
-        {
-          "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
-          "name": "Apple TV Amazon Channel"
-        }
-      ],
+      "country": "US",
+      "date": "2026-10-06",
+      "date_kind": "digital",
+      "id": 1101412,
+      "providers": [],
       "type": "movie"
     },
     {
       "date": "2026-10-02",
-      "date_kind": "release",
-      "id": 1283515,
+      "date_kind": "digital",
+      "id": 1508168,
       "providers": [
         {
-          "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
-          "name": "MGM Plus"
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"
@@ -929,54 +1297,6 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "date": "2026-10-02",
-      "date_kind": "release",
-      "id": 1290035,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-10-01",
-      "date_kind": "release",
-      "id": 1515692,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-09-25",
-      "date_kind": "release",
-      "id": 1377237,
-      "providers": [
-        {
-          "logo_path": "/pusUxS9dP5VK7HkN8SLf2wnP9gm.png",
-          "name": "Angel Studios"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-09-25",
-      "date_kind": "release",
-      "id": 1578079,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
       "date": "2026-09-25",
       "date_kind": "release",
       "id": 333483,
@@ -987,26 +1307,6 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
-    },
-    {
-      "date": "2026-09-24",
-      "date_kind": "release",
-      "id": 1290418,
-      "providers": [
-        {
-          "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
-          "name": "AMC Plus Apple TV channel"
-        },
-        {
-          "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
-          "name": "AMC+ Amazon Channel"
-        },
-        {
-          "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
-          "name": "Shudder"
-        }
-      ],
-      "type": "movie"
     },
     {
       "date": "2026-09-24",
@@ -1022,7 +1322,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-09-23",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1032863,
       "providers": [
         {
@@ -1038,8 +1338,32 @@ window.FA_OTT = {
     },
     {
       "date": "2026-09-18",
-      "date_kind": "release",
+      "date_kind": "digital",
+      "id": 1441228,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-18",
+      "date_kind": "digital",
       "id": 1451944,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-11",
+      "date_kind": "digital",
+      "id": 1408162,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
@@ -1066,7 +1390,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-09-09",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1440098,
       "providers": [
         {
@@ -1076,6 +1400,38 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-08",
+      "date_kind": "digital",
+      "id": 1108427,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-04",
+      "date_kind": "digital",
+      "id": 1479832,
+      "providers": [
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+          "name": "Sun Nxt"
+        },
+        {
+          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+          "name": "Sonyliv Amazon Channel"
         }
       ],
       "type": "movie"
@@ -1098,7 +1454,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-09-03",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1355228,
       "providers": [
         {
@@ -1110,7 +1466,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-08-26",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1516698,
       "providers": [
         {
@@ -1125,8 +1481,24 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-08-25",
+      "date_kind": "digital",
+      "id": 1232569,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-08-21",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1621552,
       "providers": [
         {
@@ -1138,24 +1510,12 @@ window.FA_OTT = {
     },
     {
       "date": "2026-08-21",
-      "date_kind": "release",
-      "id": 1508168,
+      "date_kind": "digital",
+      "id": 1235877,
       "providers": [
         {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-08-21",
-      "date_kind": "release",
-      "id": 1441228,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
         }
       ],
       "type": "movie"
@@ -1177,38 +1537,6 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "date": "2026-08-14",
-      "date_kind": "release",
-      "id": 1408162,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-08-07",
-      "date_kind": "release",
-      "id": 1479832,
-      "providers": [
-        {
-          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
-          "name": "Sony Liv"
-        },
-        {
-          "logo_path": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
-          "name": "Sun Nxt"
-        },
-        {
-          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
-          "name": "Sonyliv Amazon Channel"
-        }
-      ],
-      "type": "movie"
-    },
-    {
       "date": "2026-08-07",
       "date_kind": "release",
       "id": 284753,
@@ -1221,8 +1549,20 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "date": "2026-07-24",
-      "date_kind": "release",
+      "date": "2026-08-04",
+      "date_kind": "digital",
+      "id": 1212763,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-07-26",
+      "date_kind": "digital",
       "id": 980431,
       "providers": [
         {
@@ -1265,60 +1605,8 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "date": "2026-07-23",
-      "date_kind": "release",
-      "id": 1235877,
-      "providers": [
-        {
-          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-          "name": "Zee5"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-07-22",
-      "date_kind": "release",
-      "id": 1232569,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        },
-        {
-          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-          "name": "Amazon Prime Video with Ads"
-        }
-      ],
-      "type": "movie"
-    },
-    {
       "date": "2026-07-10",
-      "date_kind": "release",
-      "id": 1108427,
-      "providers": [
-        {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-07-10",
-      "date_kind": "release",
-      "id": 1212763,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-07-10",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1484913,
       "providers": [
         {

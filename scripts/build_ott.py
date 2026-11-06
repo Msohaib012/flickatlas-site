@@ -275,9 +275,15 @@ def _digital_fetch_order(movies, prior_digital, prior_checked, prior_stamp,
     upcoming_to = (today + timedelta(days=UPCOMING_DAYS)).isoformat()
 
     def checked_ts(tid):
+        # A never-checked title (e.g. one published since the last
+        # refresh) sorts FIRST in its group — "" precedes every ISO
+        # stamp. Falling back to prior_stamp here instead parked new
+        # titles behind the whole catalogue for a full 12h cycle or
+        # more, so a same-day OTT premiere was picked up a day late
+        # (Haiwaan, SonyLIV 6 Nov 2026, found 2026-11-06).
         return (prior_checked.get(tid)
                 or (prior_digital.get(tid) or {}).get("checked_at")
-                or prior_stamp)
+                or "")
 
     def sort_key(entry):
         tid = str(entry.get("id"))
