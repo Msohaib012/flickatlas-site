@@ -1477,6 +1477,14 @@ window.FA_DAYWISE = {
       "shows": 2785,
       "occupancy": 14.2,
       "tickets": 105316
+    },
+    {
+      "date": "2026-11-06",
+      "day": "Day 23",
+      "collection": 3170,
+      "shows": 53,
+      "occupancy": 8.8,
+      "tickets": 233
     }
   ],
   "1269325": [

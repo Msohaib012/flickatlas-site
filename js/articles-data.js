@@ -67268,5 +67268,352 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Fri, 06 Nov 2026 03:50:36 +0000"
+  },
+  "1c62z3w": {
+    "id": "1c62z3w",
+    "type": "news",
+    "headline": "Ramayana Ratings Spark Strong Blockbuster Hopes Across Major Platforms",
+    "dek": "Namit Malhotra's Ramayana: Part One has kicked off its box office journey with strong audience feedback and notable platform ratings, setting the stage for a potentially massive theatrical run.",
+    "body": [
+      {
+        "h": "Initial Theatrical Launch and Opening Figures",
+        "p": [
+          "Namit Malhotra's ambitious production, Ramayana: Part One, has officially begun its theatrical journey with impressive numbers. Directed by Nitesh Tiwari, the epic feature opened to an estimated sixty-five crore rupees in India net collections on its opening day.",
+          "This strong debut places the film firmly among the notable openers of the year, immediately drawing massive crowds to theatres and capturing significant attention from industry trackers and movie enthusiasts alike."
+        ]
+      },
+      {
+        "h": "Audience Reception Across Major Platforms",
+        "p": [
+          "Early viewer feedback has been overwhelmingly positive across multiple tracking and ticketing platforms. On BookMyShow, the film has secured an impressive nine point four out of ten rating from over forty-eight thousand two hundred votes.",
+          "Similarly, Sacnilk's audience metric stands at nine point five out of ten, while IMDb reflects an eight point seven out of ten based on nearly nine thousand ratings. Rotten Tomatoes further reinforces this trend with a ninety-three percent audience approval score."
+        ]
+      },
+      {
+        "h": "Critical Responses and Review Breakdown",
+        "p": [
+          "While general audiences have expressed immense satisfaction with the cinematic scale and emotional resonance, professional critics have shared a more measured perspective. Review aggregators note that technical execution and performances received praise, though some critiques addressed narrative pacing.",
+          "Sacnilk's critic score registers at seventy-six out of one hundred, and Rotten Tomatoes reports a seventy-five percent positive rating from critics, highlighting a generally favorable yet analytically nuanced critical landscape."
+        ]
+      },
+      {
+        "h": "Pre-Diwali Timing and Holiday Prospects",
+        "p": [
+          "The theatrical arrival of the film preceded the core Diwali celebrations, a period that typically experiences slower footfall due to family preparations and festive shopping. However, industry analysts anticipate that this timing could act as a launchpad for extended holiday earnings.",
+          "With favorable word of mouth spreading rapidly, the production is well-positioned to attract multi-generational family audiences to cinemas as the holiday festivities progress further."
+        ]
+      },
+      {
+        "h": "Box Office Trajectory and Future Tests",
+        "p": [
+          "Sustaining momentum past the initial festive days remains the crucial upcoming challenge for the epic. While advance bookings and opening day metrics have broken records, the true test lies in maintaining steady theatrical attendance during post-holiday working days.",
+          "If audience demand remains robust through the coming weeks, the feature could solidify its place as one of the most commercially successful cinematic runs of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana: Part One has opened to strong box office figures and high audience ratings across IMDb, BookMyShow, Rotten Tomatoes, and Sacnilk. Positive word of mouth and pre-holiday timing have fueled expectations for a sustained theatrical run through the Diwali season."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One released on Thursday, November 5, 2026.",
+      "The film opened to around 65 crore India net on Thursday.",
+      "BookMyShow rating is 9.4/10 with 48.2K+ votes.",
+      "Sacnilk audience rating is 9.5/10 with 238 ratings.",
+      "Sacnilk critics score is 76/100 with 15 reviews.",
+      "IMDb rating is 8.7/10 with 8.9K ratings.",
+      "Rotten Tomatoes audience score is 93% with 50+ verified ratings.",
+      "Rotten Tomatoes critics score is 75% with 32 reviews.",
+      "India net collection on release day was 64.85 Cr.",
+      "Worldwide gross collection on release day was 127.50 Cr."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana Part 1",
+        "Adipurush",
+        "Dhurandhar 2",
+        "Jawan",
+        "Alam Ara",
+        "Ladaku",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One box office",
+      "Ramayana ratings IMDb BookMyShow",
+      "Ramayana Sacnilk Rotten Tomatoes",
+      "Ramayana opening day collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028391.jpg",
+        "caption": "Ramayana Ratings Spark Strong Blockbuster Hopes Across Major Platforms",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 04:42:29 +0000"
+  },
+  "1u055t3": {
+    "id": "1u055t3",
+    "type": "news",
+    "headline": "Amazon Expands The Terminal List Universe With Savage Son Adaptation Featuring Chris Pratt",
+    "dek": "Amazon MGM Studios confirms the next installment in the hit action franchise, though whether it will air as Season 3 or a standalone entry remains under discussion.",
+    "body": [
+      {
+        "h": "Continuing the Mission",
+        "p": [
+          "Lieutenant Commander James Reece is officially returning to the screen. Amazon has announced that the popular military action franchise will continue its expansion, ensuring that star Chris Pratt will remain suited up and ready for tactical operations in the near future.",
+          "The announcement provides a solid roadmap for fans eager to see how the story progresses following the recent release of the second season last month. While the exact release timeline is still developing, the confirmation of the next project brings welcome stability to the expanding universe."
+        ]
+      },
+      {
+        "h": "Adapting Savage Son",
+        "p": [
+          "The upcoming project will adapt Savage Son, the third novel written by Jack Carr. The narrative follows Reece as he recovers from brain surgery in the Montana wilderness while facing a deeply personal plot orchestrated by a traitorous CIA officer and members of the Russian mafia.",
+          "To combat the threat, Reece teams up with investigative journalist Katie Buranek and former SEAL teammate Raife Hastings. Together, they gather a group of former commandos to take the fight directly to the adversary on foreign ground."
+        ]
+      },
+      {
+        "h": "Format and Structure Questions",
+        "p": [
+          "Although the source material is locked in, Amazon has not yet determined how the story will be presented on television. Executives are weighing whether Savage Son will serve as the third season of the main series or be treated as a standalone offshoot similar to the prequel project The Terminal List: Dark Wolf.",
+          "This structural ambiguity has left viewers speculating about the exact viewing format. Regardless of the chosen classification, the plot of the third book will serve as the narrative foundation for the upcoming episodes."
+        ]
+      },
+      {
+        "h": "Leadership Perspectives",
+        "p": [
+          "Peter Friedlander, head of global television at Amazon MGM Studios, emphasized the strong connection audiences have formed with the material. He praised the dedication brought by both the leading actor and the entire production crew.",
+          "According to studio leadership, the upcoming adaptation promises to elevate the tension and stakes to unprecedented levels. The creative team remains focused on delivering the most intense chapter of the narrative yet."
+        ]
+      },
+      {
+        "h": "Franchise Growth and Novel Origins",
+        "p": [
+          "The television universe has closely followed the chronology of Jack Carr's literary series since its inception. The inaugural season was derived directly from the first book, while the sophomore season adapted True Believer.",
+          "By moving on to the third novel, the production maintains its commitment to faithful adaptations of the source material. This steady progression allows the television narrative to mirror the unfolding arcs established in the novels."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon MGM Studios has officially greenlit an adaptation of Jack Carr's novel Savage Son with Chris Pratt returning as James Reece. Executives are still deciding whether the new project will premiere as the third season of the flagship series or as a standalone entry."
+        ]
+      }
+    ],
+    "facts": [
+      "Amazon announced the adaptation of Savage Son on November 5, 2026.",
+      "Chris Pratt stars as James Reece.",
+      "Savage Son is the third novel by Jack Carr.",
+      "Peter Friedlander is the head of global television at Amazon MGM Studios.",
+      "Constance Wu plays Katie Buranek and Tom Hopper plays Raife Hastings in the series universe."
+    ],
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "Jack Carr",
+        "Katie Buranek",
+        "Raife Hastings",
+        "Peter Friedlander",
+        "Devanshi Basu",
+        "Constance Wu",
+        "Tom Hopper"
+      ],
+      "titles": [
+        "The Terminal List",
+        "Savage Son",
+        "The Terminal List: Dark Wolf",
+        "True Believer"
+      ]
+    },
+    "keywords": [
+      "The Terminal List Savage Son",
+      "Chris Pratt James Reece",
+      "Amazon MGM Studios television",
+      "Jack Carr novel adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-06-Nov-2026-09-35-AM-1777.jpg?resize=1200,630",
+        "caption": "Amazon Expands The Terminal List Universe With Savage Son Adaptation Featuring Chris Pratt",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 04:10:09 +0000"
+  },
+  "1gl6w1p": {
+    "id": "1gl6w1p",
+    "type": "news",
+    "headline": "Matt Damon Shares That His Wife Suffered a Brain Aneurysm Weeks Before the 2024 Oscars",
+    "dek": "In a recent interview, actor Matt Damon revealed the terrifying health ordeal his wife Luciana faced just days prior to the 2024 Academy Awards.",
+    "body": [
+      {
+        "h": "A Shocking Medical Emergency",
+        "p": [
+          "In a recent interview reflecting on his career and past projects, actor Matt Damon shared a deeply personal and frightening experience involving his family. He revealed that his wife, Luciana Damon, suffered a brain aneurysm just weeks before the 2024 Academy Awards ceremony.",
+          "The timing of the medical crisis added immense stress to a period that was otherwise supposed to be celebratory. Fortunately, after undergoing brain surgery the week before the Oscars, she made a full recovery and is currently completely fine."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Missed Ceremonies",
+        "p": [
+          "The revelation came during a broader conversation discussing the 20th anniversary of the acclaimed film The Departed. Damon recounted how he had previously missed out on attending certain high-profile Academy Awards ceremonies due to filming conflicts.",
+          "For instance, while he wanted to support director Martin Scorsese at the 2007 Oscars, production schedules for The Bourne Ultimatum kept him away. When Christopher Nolan's Oppenheimer emerged as a major favorite for the 2024 Oscars, Damon was fully determined to join the cast and crew at the event."
+        ]
+      },
+      {
+        "h": "Attending the Vanity Fair After-Party",
+        "p": [
+          "Despite the harrowing brain surgery just a week prior, Luciana showed remarkable resilience. Remarkably, just a week after her medical procedure, the couple made a public appearance at a Vanity Fair post-Oscars celebration.",
+          "The star-studded after-party was held to commemorate the massive success of Oppenheimer, which secured seven Academy Awards, including the coveted Best Picture win. It was a momentous night for both the film industry and the Damon family."
+        ]
+      },
+      {
+        "h": "A Heroic Effort by Luciana Damon",
+        "p": [
+          "Matt Damon praised his wife's extraordinary strength during that unforgettable evening. He noted that it marked the very first night she felt well enough to get out of bed and regain her energy following the surgery.",
+          "To his complete surprise, she insisted on finding a dress and going out to celebrate. She reminded him that during a previous missed milestone, they had stayed home, and she was determined that this time they would experience the celebration together."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Future Awards",
+        "p": [
+          "The couple has been married since 2005 and shares three children together. Their appearance at the 2024 after-party remains a testament to their mutual support through challenging life events.",
+          "Looking toward the future, the Damons are expected to make a return to the Oscars red carpet next year. Matt Damon is widely anticipated to land a Best Actor nomination for his upcoming work in The Odyssey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matt Damon recently revealed that his wife, Luciana, underwent brain surgery after suffering a brain aneurysm just a week before the 2024 Oscars. Despite the frightening health scare, she recovered well and heroically surprised him by attending the Vanity Fair after-party to celebrate Oppenheimer's Best Picture win."
+        ]
+      }
+    ],
+    "facts": [
+      "Matt Damon revealed in a GQ interview that his wife Luciana suffered a brain aneurysm weeks before the 2024 Oscars.",
+      "Luciana Damon underwent brain surgery the week before the 2024 Academy Awards.",
+      "Matt and Luciana Damon have been married since 2005 and share three children.",
+      "Oppenheimer won seven Academy Awards at the 2024 ceremony, including Best Picture.",
+      "The couple attended the Vanity Fair post-Oscars party a week after the surgery."
+    ],
+    "entities": {
+      "people": [
+        "Matt Damon",
+        "Luciana Damon",
+        "Martin Scorsese",
+        "Christopher Nolan",
+        "Radhika Jones"
+      ],
+      "titles": [
+        "The Departed",
+        "The Bourne Ultimatum",
+        "Oppenheimer",
+        "The Odyssey",
+        "Vanity Fair"
+      ]
+    },
+    "keywords": [
+      "Matt Damon wife brain aneurysm",
+      "Luciana Damon brain surgery 2024",
+      "Matt Damon 2024 Oscars interview",
+      "Matt Damon Vanity Fair party Oppenheimer"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2075996510.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Matt Damon Shares That His Wife Suffered a Brain Aneurysm Weeks Before the 2024 Oscars",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-06T04:52:07Z"
+  },
+  "1ut627d": {
+    "id": "1ut627d",
+    "type": "news",
+    "headline": "The Truth Behind RJ Mahvash's Viral Podcast Clip And Yuzvendra Chahal Speculation",
+    "dek": "An old interview clip of RJ Mahvash discussing infidelity sparked wild internet rumors involving cricketer Yuzvendra Chahal, but a closer examination of the full conversation reveals a completely different reality.",
+    "body": [
+      {
+        "h": "The Resurfaced Interview Clip",
+        "p": [
+          "An archived interview featuring RJ Mahvash recently began circulating widely across digital platforms once again. Within this short snippet, she can be heard discussing an individual who allegedly committed adultery against his pregnant spouse. The segment triggered considerable online chatter, with numerous internet commentators hastily linking the statements to the well-known cricketer Yuzvendra Chahal.",
+          "However, viewers examining only the shortened version missed critical geographic and personal details. A more comprehensive review of the original interview proves that the remarks pertained entirely to a completely different set of individuals from the radio jockey's personal past, bearing zero connection to the sports star."
+        ]
+      },
+      {
+        "h": "Context From The Full Conversation",
+        "p": [
+          "In the extended segment of the Pinkvilla podcast, RJ Mahvash elaborates on her background with the man in question. She explains that she originally connected with him via Facebook back when she was nineteen years old while residing in Aligarh, and notes that he belonged to the same locality. This specific biographical detail fundamentally separates the story from Yuzvendra Chahal, who hails from the state of Haryana.",
+          "Observant social media commentators quickly stepped in to highlight these geographic disparities. Users pointed out that digital platforms frequently stitch together isolated quotes without verifying the broader narrative, thereby dragging unrelated public figures into entirely separate private histories."
+        ]
+      },
+      {
+        "h": "Yuzvendra Chahal And Dhanashree Verma's Marriage Timeline",
+        "p": [
+          "The public fascination with Yuzvendra Chahal and Dhanashree Verma stems from their high-profile relationship history. The pair initially crossed paths during the COVID-19 pandemic lockdown in 2020 through virtual dance sessions before formalizing their bond through a traditional wedding ceremony held in Gurgaon during December 2020.",
+          "Their marital journey concluded publicly in early 2025. During February of that year, they were observed outside the Bandra Family Court after submitting a joint application for a mutual consent divorce, requesting an exemption from the standard six-month cooling-off period. The Mumbai family court formally dissolved their union weeks later."
+        ]
+      },
+      {
+        "h": "Revelations On Rise And Fall Season 1",
+        "p": [
+          "Public curiosity regarding the separation intensified following Dhanashree Verma's appearance on Rise And Fall Season 1. During the program, host Kubbra Sait questioned her about the exact moment she realized the marriage was unsustainable, prompting Dhanashree to reveal she caught him during the second month of their first year.",
+          "While this television revelation fueled additional speculation surrounding the couple's split, fact-checkers emphasize that it still provides no valid basis to connect RJ Mahvash's resurfaced podcast statements to the cricketer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An archived podcast clip featuring RJ Mahvash discussing infidelity went viral, leading social media users to falsely speculate that her remarks targeted Yuzvendra Chahal. However, the extended interview confirms she was speaking about a former partner from Aligarh, disproving any connection to the cricketer's relationship history with Dhanashree Verma."
+        ]
+      }
+    ],
+    "facts": [
+      "RJ Mahvash spoke about a man she met through Facebook when she was 19 and living in Aligarh.",
+      "Yuzvendra Chahal is from Haryana.",
+      "Yuzvendra Chahal and Dhanashree Verma met during the COVID-19 lockdown in 2020 through online dance classes.",
+      "They got married in December 2020 in a traditional ceremony in Gurgaon.",
+      "In February 2025, they were spotted outside the Bandra Family Court after filing a joint petition for divorce by mutual consent.",
+      "The Mumbai family court granted their divorce weeks after their petition.",
+      "Dhanashree Verma appeared on Rise And Fall Season 1 where she was questioned by Kubbra Sait."
+    ],
+    "entities": {
+      "people": [
+        "RJ Mahvash",
+        "Yuzvendra Chahal",
+        "Dhanashree Verma",
+        "Asif Iqbal",
+        "Kubbra Sait"
+      ],
+      "titles": [
+        "Rise And Fall Season 1"
+      ]
+    },
+    "keywords": [
+      "RJ Mahvash viral cheating remark",
+      "Yuzvendra Chahal Dhanashree Verma divorce",
+      "RJ Mahvash Pinkvilla interview",
+      "Yuzvendra Chahal cheating rumours"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/05115818/image-22.jpeg",
+        "caption": "The Truth Behind RJ Mahvash's Viral Podcast Clip And Yuzvendra Chahal Speculation",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-06T04:52:07Z"
   }
 };

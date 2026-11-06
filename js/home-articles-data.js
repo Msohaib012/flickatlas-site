@@ -40,6 +40,153 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 09:13:35 +0200"
   },
+  "1gl6w1p": {
+    "id": "1gl6w1p",
+    "type": "news",
+    "headline": "Matt Damon Shares That His Wife Suffered a Brain Aneurysm Weeks Before the 2024 Oscars",
+    "dek": "In a recent interview, actor Matt Damon revealed the terrifying health ordeal his wife Luciana faced just days prior to the 2024 Academy Awards.",
+    "entities": {
+      "people": [
+        "Matt Damon",
+        "Luciana Damon",
+        "Martin Scorsese",
+        "Christopher Nolan",
+        "Radhika Jones"
+      ],
+      "titles": [
+        "The Departed",
+        "The Bourne Ultimatum",
+        "Oppenheimer",
+        "The Odyssey",
+        "Vanity Fair"
+      ]
+    },
+    "keywords": [
+      "Matt Damon wife brain aneurysm",
+      "Luciana Damon brain surgery 2024",
+      "Matt Damon 2024 Oscars interview",
+      "Matt Damon Vanity Fair party Oppenheimer"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2075996510.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Matt Damon Shares That His Wife Suffered a Brain Aneurysm Weeks Before the 2024 Oscars",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-06T04:52:07Z"
+  },
+  "1ut627d": {
+    "id": "1ut627d",
+    "type": "news",
+    "headline": "The Truth Behind RJ Mahvash's Viral Podcast Clip And Yuzvendra Chahal Speculation",
+    "dek": "An old interview clip of RJ Mahvash discussing infidelity sparked wild internet rumors involving cricketer Yuzvendra Chahal, but a closer examination of the full conversation reveals a completely different reality.",
+    "entities": {
+      "people": [
+        "RJ Mahvash",
+        "Yuzvendra Chahal",
+        "Dhanashree Verma",
+        "Asif Iqbal",
+        "Kubbra Sait"
+      ],
+      "titles": [
+        "Rise And Fall Season 1"
+      ]
+    },
+    "keywords": [
+      "RJ Mahvash viral cheating remark",
+      "Yuzvendra Chahal Dhanashree Verma divorce",
+      "RJ Mahvash Pinkvilla interview",
+      "Yuzvendra Chahal cheating rumours"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/05115818/image-22.jpeg",
+        "caption": "The Truth Behind RJ Mahvash's Viral Podcast Clip And Yuzvendra Chahal Speculation",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-06T04:52:07Z"
+  },
+  "1c62z3w": {
+    "id": "1c62z3w",
+    "type": "news",
+    "headline": "Ramayana Ratings Spark Strong Blockbuster Hopes Across Major Platforms",
+    "dek": "Namit Malhotra's Ramayana: Part One has kicked off its box office journey with strong audience feedback and notable platform ratings, setting the stage for a potentially massive theatrical run.",
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana Part 1",
+        "Adipurush",
+        "Dhurandhar 2",
+        "Jawan",
+        "Alam Ara",
+        "Ladaku",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One box office",
+      "Ramayana ratings IMDb BookMyShow",
+      "Ramayana Sacnilk Rotten Tomatoes",
+      "Ramayana opening day collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028391.jpg",
+        "caption": "Ramayana Ratings Spark Strong Blockbuster Hopes Across Major Platforms",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 04:42:29 +0000"
+  },
+  "1u055t3": {
+    "id": "1u055t3",
+    "type": "news",
+    "headline": "Amazon Expands The Terminal List Universe With Savage Son Adaptation Featuring Chris Pratt",
+    "dek": "Amazon MGM Studios confirms the next installment in the hit action franchise, though whether it will air as Season 3 or a standalone entry remains under discussion.",
+    "entities": {
+      "people": [
+        "Chris Pratt",
+        "Jack Carr",
+        "Katie Buranek",
+        "Raife Hastings",
+        "Peter Friedlander",
+        "Devanshi Basu",
+        "Constance Wu",
+        "Tom Hopper"
+      ],
+      "titles": [
+        "The Terminal List",
+        "Savage Son",
+        "The Terminal List: Dark Wolf",
+        "True Believer"
+      ]
+    },
+    "keywords": [
+      "The Terminal List Savage Son",
+      "Chris Pratt James Reece",
+      "Amazon MGM Studios television",
+      "Jack Carr novel adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-06-Nov-2026-09-35-AM-1777.jpg?resize=1200,630",
+        "caption": "Amazon Expands The Terminal List Universe With Savage Son Adaptation Featuring Chris Pratt",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 04:10:09 +0000"
+  },
   "paxhzp": {
     "id": "paxhzp",
     "type": "news",
@@ -4537,169 +4684,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 12:54:12 +0000"
-  },
-  "1y9a6zq": {
-    "id": "1y9a6zq",
-    "type": "news",
-    "headline": "Ayushmann Khurrana Targeted With Extortion Audio Clip Demanding Crores",
-    "dek": "Popular Bollywood actor Ayushmann Khurrana has reportedly become the latest target of extortion, receiving an audio recording demanding a massive monetary payout amidst escalating security concerns within the film industry.",
-    "entities": {
-      "people": [
-        "Ayushmann Khurrana",
-        "Lawrence Bishnoi",
-        "Tusshar Kapoor",
-        "Harry Boxer",
-        "Tiger Shroff",
-        "Sara Ali Khan",
-        "Karan Johar",
-        "Adar Poonawalla",
-        "Apoorva Mehta",
-        "Guneet Monga Kapoor",
-        "Achin Jain",
-        "Akash A Kaushik",
-        "Raghubir Yadav",
-        "Brijendra Kala",
-        "Gulshan Grover",
-        "Suhail Nayyar",
-        "Rahul Bose",
-        "Mukul Dev",
-        "Ram Kapoor",
-        "Supriya Pilgaonkar",
-        "Sooraj Barjatya",
-        "Sharvari"
-      ],
-      "titles": [
-        "Udta Teer",
-        "Saawan Aaya Hai",
-        "Yeh Prem Mol Liya"
-      ]
-    },
-    "keywords": [
-      "Ayushmann Khurrana",
-      "Udta Teer",
-      "Lawrence Bishnoi gang",
-      "Tusshar Kapoor",
-      "Bollywood threat report"
-    ],
-    "images": [
-      {
-        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-2.26.54-PM.jpeg",
-        "caption": "Ayushmann Khurrana Targeted With Extortion Audio Clip Demanding Crores",
-        "source": "Bollywood Hungama"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 14:44:00 +0200"
-  },
-  "q67a58": {
-    "id": "q67a58",
-    "type": "news",
-    "headline": "Stunt Coordinator Geeta Tandon Alleges Disrespect On Set",
-    "dek": "Bollywood stunt director and body double Geeta Tandon speaks out after enduring a nine-hour wait on the set of Anil Kapoor's reality show, prompting apologies from the host and guest Farah Khan.",
-    "entities": {
-      "people": [
-        "Geeta Tandon",
-        "Anil Kapoor",
-        "Farah Khan",
-        "Jaydeep"
-      ],
-      "titles": [
-        "India Ke Top 1%"
-      ]
-    },
-    "keywords": [
-      "Geeta Tandon",
-      "India Ke Top 1%",
-      "Anil Kapoor",
-      "Farah Khan"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-04t175950-195-84741793795397.jpg",
-        "caption": "Stunt Coordinator Geeta Tandon Alleges Disrespect On Set",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 18:06:52 +0530"
-  },
-  "31sqk4": {
-    "id": "31sqk4",
-    "type": "news",
-    "headline": "Tharun Bhascker Opens Up About Real-Life Inspiration Behind Ee Nagaraniki Emaindi Ahead of Sequel",
-    "dek": "Director Tharun Bhascker shares how four loyal friends inspired his cult hit Ee Nagaraniki Emaindi as he prepares for the upcoming theatrical release of the sequel ENE Repeat.",
-    "entities": {
-      "people": [
-        "Tharun Bhascker",
-        "Vishwak Sen",
-        "Abhinav Gomatam",
-        "Venkatesh Kakumanu",
-        "Srinath Maganti",
-        "Anisha Ambrose",
-        "Shivathmika Rajasekhar",
-        "Karunakumar",
-        "Priyadarshini Ram",
-        "Mahesh Bhascker",
-        "Srujan Yarabolu",
-        "Sandeep Nagireddy",
-        "Vivek Sagar",
-        "AJ Aaron",
-        "Raviteja Girijala"
-      ],
-      "titles": [
-        "Ee Nagaraniki Emaindi",
-        "ENE Repeat",
-        "Pelli Choopulu"
-      ]
-    },
-    "keywords": [
-      "Tharun Bhascker Ee Nagaraniki Emaindi",
-      "ENE Repeat release date",
-      "Vishwak Sen ENE Repeat",
-      "Ee Nagaraniki Emaindi sequel cast"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135539368,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Tharun Bhascker Opens Up About Real-Life Inspiration Behind Ee Nagaraniki Emaindi Ahead of Sequel",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-04T17:55:22+05:30"
-  },
-  "s11qgn": {
-    "id": "s11qgn",
-    "type": "news",
-    "headline": "Ramayana Part 2 Release Pushed to 2028 as Producer Namit Malhotra Discusses Trilogy Possibilities",
-    "dek": "Producer Namit Malhotra has announced that the sequel to the massive epic will now arrive in 2028, while also addressing whether the franchise might expand into a trilogy.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Ravie Dubey",
-        "Sunny Deol"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana Part 2",
-        "Ramayana: Rise of a Legend"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 2",
-      "Namit Malhotra Ramayana",
-      "Ramayana release date 2028",
-      "Ranbir Kapoor Yash Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Namit-Malhotra-Reveals-Ramayana-Part-2-Will-Now-Release-In-2028.webp",
-        "caption": "Ramayana Part 2 Release Pushed to 2028 as Producer Namit Malhotra Discusses Trilogy Possibilities",
-        "source": "Bollywood Bubble"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 12:11:29 +0000"
   },
   "zjcoxh": {
     "id": "zjcoxh",
