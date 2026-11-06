@@ -69175,5 +69175,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 08:32:27 +0000"
+  },
+  "16wk6gw": {
+    "id": "16wk6gw",
+    "type": "news",
+    "headline": "Salman Khan Starrer Maatrubhumi Gets Official Release Date",
+    "dek": "The highly anticipated action drama starring Salman Khan and Chitrangda Singh has locked its arrival in cinemas for November 20.",
+    "body": [
+      {
+        "h": "Official Arrival Confirmed",
+        "p": [
+          "The wait for Salman Khan fans is finally drawing to a close as the official release schedule for the upcoming feature has been locked. Industry followers have tracked the project through various phases, and the latest confirmation places the theatrical premiere squarely in the current month.",
+          "Cinemas across the nation will welcome the big-budget presentation in just two weeks on Friday, November 20. The final schedule dispels earlier industry chatter and gives eager audiences a definitive date to mark on their calendars."
+        ]
+      },
+      {
+        "h": "From Galwan To Maatrubhumi",
+        "p": [
+          "The cinematic project underwent significant changes during its developmental journey, most notably a title alteration. Originally announced under the working title Battle Of Galwan, the production was later rechristened as Maatrubhumi earlier this year.",
+          "The narrative itself draws direct inspiration from the tense 2020 border dispute between India and China. Because of sensitive political undertones and changing bilateral dynamics, the project faced hurdles regarding its script and references to the neighboring country."
+        ]
+      },
+      {
+        "h": "Censor Board Hurdles And Delays",
+        "p": [
+          "Getting the feature across the finish line proved challenging due to bureaucratic steps with regulatory authorities. Initial plans by producers pointed toward an earlier November 13 theatrical debut, but delays in securing a proper censor certificate pushed those targets back.",
+          "Following discussions and necessary reviews, the makers briefly evaluated potential dates in late November or mid-December. Fortunately, clearance from the government and finalization by the Central Board of Film Certification resolved the logjam."
+        ]
+      },
+      {
+        "h": "Trailer Launch And Censor Details",
+        "p": [
+          "The official confirmation of the theatrical calendar arrived during a promotional event held on the afternoon of November 6. Exhibited at a suburban Mumbai multiplex, the grand trailer launch proudly displayed the locked release date to assembled media and fans.",
+          "According to official board records, the promotional cut was cleared on Wednesday, November 4. It secured a U/A 16+ certification and runs for an extensive duration of four minutes and forty-three seconds."
+        ]
+      },
+      {
+        "h": "Cast And Musical Milestone",
+        "p": [
+          "Headlining the war-themed drama is superstar Salman Khan, supported by an ensemble that includes Chitrangda Singh in a prominent role. The theatrical venture also boasts major backing through Jio Studios, which has taken charge of nationwide distribution.",
+          "Beyond his acting duties, the leading man has achieved a personal milestone with this project. He returns to playback singing after an absence of eleven years, lending his voice to a track titled 'Teri Sexy Beauty'."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Salman Khan-starrer Maatrubhumi has officially locked its theatrical release date for November 20 following clearance from the Central Board of Film Certification and the government. The war drama, which was previously known as Battle Of Galwan, features Chitrangda Singh and is distributed nationwide by Jio Studios."
+        ]
+      }
+    ],
+    "facts": [
+      "Maatrubhumi releases on November 20",
+      "The film was initially announced as Battle Of Galwan",
+      "The story is based on the 2020 conflict between India and China",
+      "The trailer launch was held on the afternoon of November 6 at a multiplex in Mumbai",
+      "The trailer was passed on Wednesday, November 4",
+      "The trailer received a U/A 16+ certificate and has a runtime of 4 minutes and 43 seconds",
+      "Jio Studios will handle all India distribution",
+      "The film stars Salman Khan and Chitrangda Singh",
+      "Salman Khan returns to playback singing after 11 years with 'Teri Sexy Beauty'"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle Of Galwan",
+        "Teri Sexy Beauty"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi release date",
+      "Salman Khan Maatrubhumi",
+      "Battle Of Galwan film",
+      "Chitrangda Singh Maatrubhumi"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Maatrubhumi-release-date.jpg",
+        "caption": "Salman Khan Starrer Maatrubhumi Gets Official Release Date",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 14:23:08 +0200"
+  },
+  "oxbky4": {
+    "id": "oxbky4",
+    "type": "news",
+    "headline": "Allu Arjun and Ram Charan Unite with the Mega Family for Sai Durgha Tej and Kiran's Engagement in Hyderabad",
+    "dek": "Prominent Tollywood stars Allu Arjun and Ram Charan gathered alongside close family members and friends in Hyderabad to celebrate the engagement of Sai Durgha Tej and his childhood friend Kiran.",
+    "body": [
+      {
+        "h": "Engagement Ceremony Details",
+        "p": [
+          "Sai Durgha Tej and his longtime girlfriend and childhood friend, Kiran, have officially exchanged rings. The engagement ceremony took place at the Hilton Hyderabad Genome Valley Resort on November 5, surrounded by close family members and loved ones.",
+          "While Sai Durgha Tej is a well-known face belonging to the prominent Tollywood Mega family, his fiancée Kiran has maintained a private life away from the media spotlight, with the couple keeping her identity largely out of the public eye until this milestone event."
+        ]
+      },
+      {
+        "h": "Mega Family and Celebrity Gatherings",
+        "p": [
+          "The celebrations brought together a massive gathering of prominent film industry figures and family members, with Allu Arjun and Ram Charan uniting to join the festivities. The event featured Sai Durgha Tej's parents, Dr. Siva Prasad and Vijaya Durgha, alongside his brother, Vaishnav Tej.",
+          "Other notable attendees included Sneha Reddy, Allu Bobby, Neela Shah, Varun Tej, Lavanya Tripathi, their son Vaayuv Tej, Naga Babu, Padmaja, Niharika Konidela, Allu Aravind, Allu Nirmala, Allu Sirish, Nayanika Reddy, Akira Nandan, and Aadhya. Reports also indicated that Chiranjeevi and his wife were present."
+        ]
+      },
+      {
+        "h": "Friends and Industry Colleagues",
+        "p": [
+          "Beyond immediate family, several close friends, peers, and colleagues from the Telugu film industry traveled to Hyderabad to wish the couple well.",
+          "Among those spotted at the gathering were Manchu Manoj, Bhuma Mounika Reddy, Naveen Vijay Krishna, Harsha Chemudu, Venky Kudumula, Navdeep, and Harshith Reddy."
+        ]
+      },
+      {
+        "h": "Upcoming Wedding Plans",
+        "p": [
+          "Following the successful engagement ceremony, the couple is looking forward to their upcoming nuptials.",
+          "The wedding of Sai Durgha Tej and Kiran is officially expected to take place on December 10, 2026."
+        ]
+      },
+      {
+        "h": "Allu Arjun's Work Front",
+        "p": [
+          "Allu Arjun is currently preparing for his next major cinematic venture titled Raaka, which will be directed by Atlee. The project is reportedly being developed as a parallel-universe feature.",
+          "The film's first-look poster showcased the actor in a hybrid, beast-like appearance that drew comparisons to a werewolf-inspired character. Makers have confirmed Deepika Padukone as the female lead, with Rashmika Mandanna expected to play a key role and Sai Abhyankkar composing the music."
+        ]
+      },
+      {
+        "h": "Ram Charan's Upcoming Projects",
+        "p": [
+          "Ram Charan recently announced his next cinematic endeavor, tentatively titled RC17, which will be directed by Sukumar.",
+          "The official pooja ceremony for RC17 was marked by a striking silhouette of the actor accompanied by a distinct Krishna motif."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sai Durgha Tej and his childhood friend Kiran exchanged rings at a resort in Hyderabad on November 5, with their wedding planned for December 10, 2026. The engagement brought together notable members of the Mega family, including Allu Arjun and Ram Charan."
+        ]
+      }
+    ],
+    "facts": [
+      "Sai Durgha Tej and Kiran got engaged on November 5, 2026",
+      "The engagement ceremony took place at the Hilton Hyderabad Genome Valley Resort",
+      "The wedding is expected to take place on December 10, 2026",
+      "Allu Arjun is set to star in Raaka directed by Atlee",
+      "Ram Charan's next project is tentatively titled RC17 and directed by Sukumar"
+    ],
+    "entities": {
+      "people": [
+        "Allu Arjun",
+        "Ram Charan",
+        "Sai Durgha Tej",
+        "Kiran",
+        "Dr. Siva Prasad",
+        "Vijaya Durgha",
+        "Vaishnav Tej",
+        "Sneha Reddy",
+        "Allu Bobby",
+        "Neela Shah",
+        "Varun Tej",
+        "Lavanya Tripathi",
+        "Vaayuv Tej",
+        "Naga Babu",
+        "Padmaja",
+        "Niharika Konidela",
+        "Allu Aravind",
+        "Allu Nirmala",
+        "Allu Sirish",
+        "Nayanika Reddy",
+        "Akira Nandan",
+        "Aadhya",
+        "Chiranjeevi",
+        "Manchu Manoj",
+        "Bhuma Mounika Reddy",
+        "Naveen Vijay Krishna",
+        "Harsha Chemudu",
+        "Venky Kudumula",
+        "Navdeep",
+        "Harshith Reddy",
+        "Atlee",
+        "Deepika Padukone",
+        "Rashmika Mandanna",
+        "Sai Abhyankkar",
+        "Sukumar"
+      ],
+      "titles": [
+        "Raaka",
+        "RC17"
+      ]
+    },
+    "keywords": [
+      "Sai Durgha Tej engagement",
+      "Allu Arjun Ram Charan",
+      "Sai Durgha Tej Kiran wedding",
+      "Mega family Hyderabad"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/309635260_allu-arjun-ram-c-sai-durgha-webp.webp",
+        "caption": "Allu Arjun and Ram Charan Unite with the Mega Family for Sai Durgha Tej and Kiran's Engagement in Hyderabad",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 12:59:50 +0530"
+  },
+  "1itnljl": {
+    "id": "1itnljl",
+    "type": "news",
+    "headline": "Karoshi Unveils Its First Dystopian Action Trailer",
+    "dek": "An early look at the upcoming American dystopian action thriller Karoshi introduces its high-stakes premise and star-studded international cast.",
+    "body": [
+      {
+        "h": "First Trailer Release",
+        "p": [
+          "Audiences received their initial preview of the upcoming American dystopian action thriller Karoshi with the release of its debut promotional video. The promotional clip runs for one minute and forty-five seconds, offering viewers a condensed glimpse into the high-stakes narrative crafted for the silver screen. Released in late 2026, the footage sets the tone for a tense and dangerous cinematic experience.",
+          "The newly dropped preview immediately establishes the perilous environment central to the story. Quick cuts and high-octane sequences highlight the dangerous circumstances the main characters must navigate."
+        ]
+      },
+      {
+        "h": "Directorial Vision",
+        "p": [
+          "Filmmaker Takashi Doscher takes the helm for this project, serving as the creative force behind the dystopian feature. Known for guiding complex narratives, the director shapes a world defined by extreme power dynamics and constant risk.",
+          "Doscher's vision emphasizes a tense atmosphere where every choice carries severe consequences, establishing the thematic backbone of the entire production."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "The film boasts a notable ensemble cast featuring several acclaimed international performers. Leading the roster are actors Yoo Teo, Isabel May, and Cynthia Erivo, who bring considerable talent to the high-stakes production.",
+          "Additional depth comes from supporting performances by Takehiro Hira, Giancarlo Esposito, and Bill Camp. This diverse group of artists forms the core of the upcoming feature's on-screen presence."
+        ]
+      },
+      {
+        "h": "Setting the Dystopian Stage",
+        "p": [
+          "The narrative unfolds within a high-stakes setting focused heavily on power and risk. Society in the film appears governed by ruthless forces, creating an uphill battle for anyone attempting to survive.",
+          "This bleak background serves as the primary catalyst for the action sequences shown in the preview, grounding the physical conflicts in a desperate struggle for survival."
+        ]
+      },
+      {
+        "h": "Release Timeline",
+        "p": [
+          "The promotional video made its official debut on November 6, 2026. This arrival signals the official kickoff of the promotional campaign leading toward the feature's anticipated premiere.",
+          "Fans tracking the project now have a specific timeframe to anticipate, with the full feature slated for release in the year 2027."
+        ]
+      },
+      {
+        "h": "Production Identity",
+        "p": [
+          "Classified as an American production, the film blends high-concept dystopian themes with fast-paced action elements. The project represents a significant addition to the genre's upcoming slate.",
+          "Industry watchers have begun tracking its progress closely following the rollout of the debut video material."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The American dystopian action thriller Karoshi released a one minute and forty-five second trailer on November 6, 2026, ahead of its 2027 premiere. Directed by Takashi Doscher, the film features an ensemble cast including Yoo Teo, Isabel May, Cynthia Erivo, Takehiro Hira, Giancarlo Esposito, and Bill Camp."
+        ]
+      }
+    ],
+    "facts": [
+      "Karoshi is an upcoming American dystopian action thriller set for 2027.",
+      "The trailer was posted on November 06, 2026.",
+      "The trailer has a duration of 1 minute and 45 seconds.",
+      "Takashi Doscher is the director of Karoshi.",
+      "The cast includes Yoo Teo, Isabel May, Cynthia Erivo, Takehiro Hira, Giancarlo Esposito, and Bill Camp."
+    ],
+    "entities": {
+      "people": [
+        "Takashi Doscher",
+        "Yoo Teo",
+        "Isabel May",
+        "Cynthia Erivo",
+        "Takehiro Hira",
+        "Giancarlo Esposito",
+        "Bill Camp"
+      ],
+      "titles": [
+        "Karoshi"
+      ]
+    },
+    "keywords": [
+      "Karoshi trailer",
+      "Karoshi 2027 film",
+      "Takashi Doscher Karoshi",
+      "Yoo Teo Karoshi"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.traileraddict.com/vidog/lionsgate/karoshi-2027-poster/1.jpg",
+        "caption": "Karoshi Unveils Its First Dystopian Action Trailer",
+        "source": "Trailer Addict"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 09:14:28 -0500"
+  },
+  "llanul": {
+    "id": "llanul",
+    "type": "news",
+    "headline": "California Governor Gavin Newsom Commutes 548 Death Row Sentences",
+    "dek": "With two months left in office, Governor Gavin Newsom has commuted hundreds of death row sentences to life without parole, sparking both praise and impending legal challenges.",
+    "body": [
+      {
+        "h": "Commuting California's Death Row",
+        "p": [
+          "California Governor Gavin Newsom has taken dramatic action regarding the state's penal system by commuting the sentences of 548 prisoners currently on death row. The individuals will have their punishments reduced to life imprisonment without the possibility of parole.",
+          "The decision arrives just days after Democrats secured control of Congress. With Newsom set to depart from his gubernatorial seat in two months, the sweeping measure marks one of the most significant policy shifts of his tenure."
+        ]
+      },
+      {
+        "h": "Governor's Rationale and Moratorium Background",
+        "p": [
+          "Explaining his choice through an open letter, Newsom stated that state-sanctioned killing conflicts directly with fundamental California values, undermines legal frameworks, and diminishes human decency. He acknowledged that an imperfect judicial system cannot reliably execute people while remaining true to basic principles of justice.",
+          "Although Newsom instituted an execution moratorium after taking office in 2019, California has not carried out an execution in two decades. Even with this hiatus, the state maintains the largest death row population in the Western hemisphere, meaning this decision successfully reduces the United States death row population by roughly a quarter."
+        ]
+      },
+      {
+        "h": "Legal Hurdles and Anticipated Lawsuits",
+        "p": [
+          "Because state law limits blanket commutations to offenders holding only a single felony conviction, the California Supreme Court must review and approve commutations for prisoners with multiple felonies. This requirement creates a complex path forward for the governor's executive order.",
+          "Legal opposition is already organizing against the move. Anne Marie Schubert, a former Sacramento district attorney heading the victims rights group Criminal Justice Legal Foundation, announced plans to sue Newsom, arguing that the blanket action violates the law and that every single case requires separate consideration."
+        ]
+      },
+      {
+        "h": "Reactions From Victims' Families and Advocates",
+        "p": [
+          "The commutation has reignited difficult emotions for victims' relatives. Schubert noted that families who found a sense of finality through the justice system now face having those painful matters reopened and rehashed.",
+          "Conversely, some family members of victims have voiced support for systemic reform. Jess Nichol, whose sister Polly Klaas was killed in 1993 by Richard Allen Davis, expressed in a statement that execution has nothing to do with personal recovery or genuine public safety, describing it as a distraction from what survivors truly need."
+        ]
+      },
+      {
+        "h": "Spiritual Perspectives and National Context",
+        "p": [
+          "Reverend Jeff Hood, a spiritual advisor who has witnessed multiple executions, praised Newsom's action as the height of moral leadership. He expressed hope that governors in other states carrying out executions might eventually follow a similar path.",
+          "This state-level policy shift coincides with national debates surrounding capital punishment. President Donald Trump remains a vocal proponent of the death penalty, having previously advanced plans to reintroduce firing squads and coordinate federal executions."
+        ]
+      },
+      {
+        "h": "Broader Political Landscape",
+        "p": [
+          "The timing of Newsom's announcement mirrors active capital punishment measures elsewhere in the nation. Florida governor Ron DeSantis has maintained an aggressive execution schedule, signing numerous death warrants while eyeing potential presidential aspirations.",
+          "With Governor Newsom also rumored to be mounting a 2028 presidential campaign, capital punishment is increasingly positioned as a prominent debate on the broader national political stage heading into future elections."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "California Governor Gavin Newsom commuted the sentences of 548 death row inmates to life without parole, reducing the national death row population by about a quarter. While supporters and spiritual advisors praised the moral leadership of the decision, legal challenges led by opponents like Anne Marie Schubert are underway."
+        ]
+      }
+    ],
+    "facts": [
+      "California Governor Gavin Newsom commuted the sentences of 548 prisoners on death row to life without parole on November 5, 2026.",
+      "Governor Gavin Newsom is set to leave office in two months.",
+      "Polly Klaas was killed in 1993 by Richard Allen Davis.",
+      "California has not executed anyone in 20 years and has the largest death row in the Western hemisphere."
+    ],
+    "entities": {
+      "people": [
+        "Gavin Newsom",
+        "Anne Marie Schubert",
+        "Xavier Becerra",
+        "Jess Nichol",
+        "Polly Klaas",
+        "Richard Allen Davis",
+        "Donald Trump",
+        "Pete Hegseth",
+        "Nidal Hasan",
+        "Jeff Hood",
+        "Ron DeSantis"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Gavin Newsom death row",
+      "California death row commutations",
+      "Gavin Newsom life without parole",
+      "Anne Marie Schubert lawsuit"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/gavin-newsom-death-row-commutations.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "California Governor Gavin Newsom Commutes 548 Death Row Sentences",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-06T09:52:27Z"
   }
 };
