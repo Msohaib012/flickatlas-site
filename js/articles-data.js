@@ -68761,5 +68761,419 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 06:05:18 GMT"
+  },
+  "ljoumj": {
+    "id": "ljoumj",
+    "type": "news",
+    "headline": "Ramayana secures Rs 155 crore worldwide opening, setting pre-Diwali box office benchmark",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana earned Rs 155 crore globally on its opening day, marking the biggest pre-Diwali box office launch in Indian cinema.",
+    "body": [
+      {
+        "h": "Record-Breaking Opening Amid Pre-Diwali Challenge",
+        "p": [
+          "The mythological epic Ramayana has established a major box office benchmark by registering the highest worldwide opening for an Indian feature film released during the pre-Diwali window. Hitting theaters on November 5, the film achieved a massive global gross of Rs 155 crore on its first day of release, according to the makers.",
+          "The pre-Diwali period is historically viewed as a tough window for theatrical releases because families are usually occupied with home cleaning, festive shopping, and holiday travel, leaving less time for cinema visits. Despite these traditional hurdles, the film capitalized on strong advance bookings and considerable anticipation."
+        ]
+      },
+      {
+        "h": "Breakdown of Collections Across Regions and Languages",
+        "p": [
+          "According to trade-tracking portal Sacnilk, the film secured Rs 64.85 crore in net collections within India across 25,200 shows in multiple languages. The domestic gross reached Rs 77.50 crore, while overseas territories added roughly Rs 74 crore, bringing Sacnilk's recorded global total to Rs 127.50 crore before final international tallies elevated the worldwide gross to Rs 155 crore.",
+          "The Hindi version drove the largest share of viewership, bringing in Rs 47.50 crore net from 20,678 shows. Regional contributions included Rs 7.25 crore from the Kannada version across 1,197 shows, Rs 6 crore from the Telugu version across 1,776 shows, Rs 2.60 crore from the Tamil version, and Rs 1.50 crore from the Malayalam version across 557 shows."
+        ]
+      },
+      {
+        "h": "Standing Among 2026 Bollywood Openings",
+        "p": [
+          "In terms of 2026 Bollywood releases, the film secured the second-biggest opening day, standing behind Dhurandhar: The Revenge, which earned Rs 102.55 crore net on its first day and attained a worldwide opening of about Rs 236.63 crore including paid previews.",
+          "Other notable openers of the year included Drishyam 3: The Conclusion at Rs 62 crore, Border 2 at Rs 30 crore, and Mirzapur: The Movie at Rs 25.75 crore. Meanwhile, Ramayana's India net collection stayed lower than Prabhas's 2023 release Adipurush at Rs 86.75 crore, Shah Rukh Khan's Jawan at Rs 75 crore net, and Yash's Toxic, which collected over Rs 100 crore across languages before its performance slowed."
+        ]
+      },
+      {
+        "h": "Production Scale and Creative Team",
+        "p": [
+          "Ramayana: Part One is produced by Namit Malhotra's Prime Focus Studios alongside Yash's Monster Mind Creations. Helmed by director Nitesh Tiwari, the feature boasts a sprawling cast that includes Ranbir Kapoor, Sai Pallavi, Sunny Deol, Arun Govil, Lara Dutta, Shobana, and Vivek Oberoi.",
+          "The musical score for the production has been crafted by AR Rahman and Hans Zimmer. The ambitious two-part adaptation carries a combined reported production budget of Rs 4,000 crore, with the second installment slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "Audience Reception and Festive Momentum",
+        "p": [
+          "The release was met with positive reviews and favorable word of mouth, setting it apart from films like Adipurush and Toxic, which experienced sharp collection drops after their second day. Attention is now centered on whether the film can retain its box office momentum throughout the extended festive weekend.",
+          "With Diwali falling on a Sunday, evening collections might see an impact due to Laxmi Puja, though the overall holiday period and strong audience feedback could bolster business into Monday, even as viewers potentially distribute their cinema visits across the extended break."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana opened worldwide on November 5 with a gross collection of Rs 155 crore, marking the largest pre-Diwali opening for an Indian film. Directed by Nitesh Tiwari and produced by Prime Focus Studios and Monster Mind Creations, the mythological epic earned Rs 64.85 crore net in India and received encouraging audience reviews as it enters its extended festive weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released on November 5",
+      "Worldwide opening gross was Rs 155 crore",
+      "India net collection on Day 1 was Rs 64.85 crore",
+      "India gross collection on Day 1 was Rs 77.50 crore",
+      "Overseas collection was around Rs 74 crore",
+      "Sacnilk global collection estimate was Rs 127.50 crore",
+      "Hindi version earned Rs 47.50 crore from 20,678 shows",
+      "Kannada version collected Rs 7.25 crore from 1,197 shows",
+      "Telugu version made Rs 6 crore from 1,776 shows",
+      "Tamil version added Rs 2.60 crore",
+      "Malayalam version collected Rs 1.50 crore from 557 shows",
+      "Total shows screened were 25,200",
+      "Dhurandhar: The Revenge earned Rs 102.55 crore net on its opening day with a global opening of about Rs 236.63 crore",
+      "Drishyam 3: The Conclusion opened with Rs 62 crore",
+      "Border 2 opened at Rs 30 crore",
+      "Mirzapur: The Movie opened at Rs 25.75 crore",
+      "Adipurush earned Rs 86.75 crore on its opening day in 2023",
+      "Jawan opened at Rs 75 crore net",
+      "Toxic collected over Rs 100 crore across languages",
+      "Combined production budget for the two parts is Rs 4,000 crore",
+      "Second instalment is expected in Diwali 2028"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Yash",
+        "Sunny Deol",
+        "Arun Govil",
+        "Lara Dutta",
+        "Shobana",
+        "Vivek Oberoi",
+        "AR Rahman",
+        "Hans Zimmer",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Prabhas",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Tiger 3",
+        "Singham Again",
+        "Dhurandhar",
+        "Pathaan",
+        "Animal",
+        "Dhurandhar: The Revenge",
+        "Drishyam 3: The Conclusion",
+        "Border 2",
+        "Mirzapur: The Movie",
+        "Adipurush",
+        "Jawan",
+        "Toxic"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ramayana Day 1 collection",
+      "Nitesh Tiwari Ramayana",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana Rs 155 crore"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-062917949-16x9_0.jpg?VersionId=tQt4qrLoHqiG8YO_Welc6sOznD9dhQKD",
+        "caption": "Ramayana secures Rs 155 crore worldwide opening, setting pre-Diwali box office benchmark",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 13:22:52 +0530"
+  },
+  "149emoy": {
+    "id": "149emoy",
+    "type": "news",
+    "headline": "Russell Brand Faces Potential Prison Sentence Following Guilty Verdict",
+    "dek": "Legal experts outline the potential jail time Russell Brand could serve after being found guilty on multiple charges of sexual assault and rape.",
+    "body": [
+      {
+        "h": "The Guilty Verdict",
+        "p": [
+          "In a major legal development, Russell Brand has been convicted of three counts of sexual assault alongside one count of rape. Following the court's decision, he was immediately taken into custody and remanded without bail.",
+          "The legal proceedings centered around allegations involving incidents that transpired across a decade, from 1999 to 2009. Although the charges brought against him by prosecutors encompassed seven different counts involving six women, he was not convicted on every charge."
+        ]
+      },
+      {
+        "h": "Custody and Bail Denial",
+        "p": [
+          "Following the delivery of the verdict, the judge denied bail to the defendant. He is currently being held in custody where he will remain until his upcoming sentencing hearing scheduled for Monday, November 9.",
+          "Legal professionals have noted that this handling of post-conviction custody is standard procedure. Once a conviction is secured, the presumption of innocence shifts, and different statutory rules under the Bail Act apply."
+        ]
+      },
+      {
+        "h": "Expert Predictions on Prison Time",
+        "p": [
+          "Regarding the length of the upcoming prison term, prominent legal figures have offered their professional assessments. Kirsty Brimelow, who serves as the chair of the Bar Council, shared her insights during an interview with Sky News.",
+          "Based on the severity of the convictions, Brimelow estimated that the prison sentence will likely land between six and nine years. She noted that a substantial term of imprisonment is anticipated by the court."
+        ]
+      },
+      {
+        "h": "Understanding the Bail Rules",
+        "p": [
+          "Elaborating on why bail was refused, Brimelow explained the distinct legal standards that govern defendants after a verdict is reached. Unlike the period prior to a conviction, convicted individuals do not hold a right to bail under the Bail Act.",
+          "Furthermore, judges frequently determine that since a substantial prison sentence is practically guaranteed upon conviction, the defendant might as well begin serving their time immediately rather than remaining free prior to sentencing."
+        ]
+      },
+      {
+        "h": "Timeline of the Allegations",
+        "p": [
+          "The legal scrutiny and subsequent court battle involved events that took place over a ten-year window spanning from 1999 through 2009. The case involved multiple accusers and extensive investigation before culminating in the recent courtroom decision.",
+          "The multi-count indictment brought forward by the prosecution tested numerous allegations before the jury arrived at its final determinations on the specific charges of rape and sexual assault."
+        ]
+      },
+      {
+        "h": "Next Steps in the Legal Process",
+        "p": [
+          "With the verdict now finalized, all attention turns to the judiciary branch as preparations are made for the formal sentencing hearing. The proceedings are set to conclude this phase of the trial early next week.",
+          "The court will weigh the specifics of the convictions on Monday, November 9, to determine the exact duration of the prison term that the defendant will serve."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Russell Brand was found guilty of three counts of sexual assault and one count of rape concerning incidents from 1999 to 2009, resulting in his immediate detention without bail until his November 9 sentencing. Legal experts like Bar Council chair Kirsty Brimelow estimate he will face a prison term between six and nine years."
+        ]
+      }
+    ],
+    "facts": [
+      "Russell Brand was found guilty of three counts of sexual assault and one count of rape.",
+      "The allegations concerned incidents between 1999 and 2009.",
+      "He faced seven charges involving six women.",
+      "He was denied bail and will remain in custody until his sentencing on Monday, November 9.",
+      "Kirsty Brimelow, chair of the Bar Council, believes he will get between six and nine years in prison."
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Kirsty Brimelow"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Russell Brand",
+      "Russell Brand prison time",
+      "Russell Brand guilty verdict",
+      "Kirsty Brimelow"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/russell-brand-prison-time.jpg",
+        "caption": "Russell Brand Faces Potential Prison Sentence Following Guilty Verdict",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 07:18:38 +0000"
+  },
+  "1j9rn78": {
+    "id": "1j9rn78",
+    "type": "news",
+    "headline": "Suriya Starrer 'Scene' Surpasses Nayanthara's 'Mookuthi Amman 2' in Opening Day Numbers",
+    "dek": "A major Diwali box office clash sees Suriya's action drama 'Scene' take a strong lead over Sundar C and Nayanthara's fantasy comedy sequel 'Mookuthi Amman 2' on opening day.",
+    "body": [
+      {
+        "h": "Diwali Box Office Clash",
+        "p": [
+          "Two prominent Tamil releases arrived in cinemas on November 6, kicking off a high-profile box office battle during the festive Diwali weekend. Suriya's action entertainer went head-to-head with Nayanthara's fantasy comedy sequel, offering audiences a stark choice between gritty policing and divine humor.",
+          "Both projects targeted different segments of viewers in hopes of capitalizing on the lucrative holiday holiday crowds. While initial tallies show one competitor pulling ahead, both films aimed to establish their own identities during the busy festive frame."
+        ]
+      },
+      {
+        "h": "Strong Opening for 'Scene'",
+        "p": [
+          "Suriya's action vehicle secured a commanding early advantage at the box office on its first day in theaters. Tracking estimates indicated substantial ticket sales across multiple languages, pointing to robust audience turnout for the star-led feature.",
+          "The production's commercial momentum was supported by significant screening counts across various regions. Observers noted that the initial numbers placed the action movie firmly ahead in the opening-day race."
+        ]
+      },
+      {
+        "h": "Critical Reception and Audience Response",
+        "p": [
+          "Critics responded favorably to the Suriya vehicle, highlighting its action sequences and the lead actor's portrayal of a police officer. Viewers embraced the pacing and overall tone set by the director.",
+          "On the other side of the clash, the devotional fantasy sequel generated positive reactions for its lead actress. The performances within the supporting cast also drew notice from moviegoers seeking a blend of comedy and traditional motifs."
+        ]
+      },
+      {
+        "h": "Cast and Creative Teams",
+        "p": [
+          "The action drama features Suriya in the role of a cop named DSP Inbaraj. Helmed by director Jithu Madhavan, the cast includes Nazriya Nazim alongside Naslen, who marks his Tamil cinema debut playing the antagonist. The film's musical score was composed by Sushin Shyam.",
+          "Meanwhile, the competing fantasy venture is directed by Sundar C and anchors its narrative around Nayanthara in the title role. The ensemble cast features Regina Cassandra playing a negative character, alongside comedic and supporting talents like Yogi Babu, Urvashi, and Iniya."
+        ]
+      },
+      {
+        "h": "Breakdown of Early Figures",
+        "p": [
+          "Early estimates for the Suriya starrer showed strong domestic earnings generated across thousands of screenings. The Tamil language version accounted for the bulk of the returns, supplemented by earnings from the Telugu dubbed prints.",
+          "The competing fantasy sequel also registered initial earnings from its designated show counts. Although running estimates pointed to a definitive lead for the action feature, final tallies were anticipated to arrive later in the evening."
+        ]
+      },
+      {
+        "h": "Festival Season Dynamics",
+        "p": [
+          "The simultaneous arrival of contrasting cinematic styles gave audiences distinct entertainment options for the holidays. Action enthusiasts and family comedy crowds each had dedicated releases to explore.",
+          "Industry analysts watched closely to see how word-of-mouth would influence ticket sales throughout the remainder of the holiday period. The ultimate outcome of the festival box office remained open as the extended weekend progressed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's action film 'Scene' and Nayanthara's 'Mookuthi Amman 2' clashed at the box office on November 6. Early estimates show Suriya's starrer taking a clear opening day lead with positive reviews, while both films offer distinct entertainment options for the festive weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "The movies opened in cinemas on November 6.",
+      "Scene collected Rs 6.33 crore net in India from 2,573 shows.",
+      "The Tamil version of Scene contributed Rs 5.64 crore from 2,172 shows.",
+      "The Telugu version of Scene earned Rs 69 lakh from 401 shows.",
+      "Scene current India gross collection stands at Rs 7.47 crore.",
+      "Mookuthi Amman 2 collected Rs 41 lakh net from 640 shows.",
+      "Mookuthi Amman 2 India gross stands at Rs 48 lakh."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nayanthara",
+        "Sundar C",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Sushin Shyam",
+        "Regina Cassandra",
+        "Yogi Babu",
+        "Urvashi",
+        "Iniya"
+      ],
+      "titles": [
+        "Scene",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Mookuthi Amman 2 box office",
+      "Suriya Scene movie",
+      "Nayanthara Mookuthi Amman 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135598523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya Starrer 'Scene' Surpasses Nayanthara's 'Mookuthi Amman 2' in Opening Day Numbers",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T12:57:45+05:30"
+  },
+  "cs8y3z": {
+    "id": "cs8y3z",
+    "type": "news",
+    "headline": "Jennie Releases Anthemic New Single 'Someone to Hold' for Upcoming Netflix Film Steps",
+    "dek": "The Blackpink singer has teamed up with producer Justin Tranter for an upbeat track celebrating sibling love, featured on the soundtrack of the animated movie Steps.",
+    "body": [
+      {
+        "h": "A New Anthemic Single",
+        "p": [
+          "Blackpink member Jennie has expanded her musical catalog with an upbeat pop track titled 'Someone to Hold'. The song serves as an ode to sibling love and sisterhood, capturing deep emotional ties in its lyrics.",
+          "The track features poignant lines reflecting on enduring bonds and shared histories. Jennie sings about navigating the ups and downs of life with a loved one who remains a constant guiding light."
+        ]
+      },
+      {
+        "h": "Contribution to the Steps Soundtrack",
+        "p": [
+          "The newly released single forms part of the official soundtrack for the upcoming Netflix animated movie Steps. This project marks Jennie's very first contribution to an animated feature film.",
+          "Collaborating alongside producer Justin Tranter, the artist expressed her excitement about joining the film's creative family. She praised the animated characters for their distinct personality and heart."
+        ]
+      },
+      {
+        "h": "Inside the Animated Film Steps",
+        "p": [
+          "Directed by Alyce Tzue and John Ripa, Steps offers a unique and subversive reimagining of the classic Cinderella fairy tale. The story kicks off when Lilith, tired of living in Cinderella's shadow, takes the Fairy Godmother's magic wand.",
+          "Alongside her sister Margot, Lilith disrupts the traditional Royal Ball and shatters the conventional narrative. This action inadvertently plunges the kingdom into the tyrannical control of a villainous schemer named Priscilla."
+        ]
+      },
+      {
+        "h": "An Epic Quest to Save the Kingdom",
+        "p": [
+          "The plot follows Lilith as she forms an unexpected alliance with Cinderella to reclaim the land. Their journey requires them to battle biker trolls, outrun dangerous henchmen, and navigate the perilous Screaming Woods.",
+          "Beyond saving the kingdom from tyranny, the core of the adventure centers on repairing and strengthening the relationship between the sisters. Netflix has scheduled the film to become available for streaming on November 20."
+        ]
+      },
+      {
+        "h": "Soundtrack and Musical Collaborations",
+        "p": [
+          "Justin Tranter wrote and produced a total of four original songs for the movie. The soundtrack also incorporates additional vocal contributions from Amanda Seyfried, Rose Gray, and Emei.",
+          "Meanwhile, the film's musical score was composed by Kris Bowers, a notable alumnus of the television series Bridgerton, adding further prestige to the project's audio landscape."
+        ]
+      },
+      {
+        "h": "Jennie's Recent Musical Milestones",
+        "p": [
+          "The release of 'Someone to Hold' follows a series of significant solo and group milestones for Jennie. Last March, she introduced her 15-track debut solo EP titled Ruby through her independent record label, Odd Atelier.",
+          "That project included collaborations with prominent artists such as Childish Gambino, Doechii, Dominic Fike, Dua Lipa, FKJ, and Kali Uchis. She later reunited with Blackpink for a world tour and a new album titled Deadline, featuring the comeback single 'Jump'."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jennie has released a new pop single titled 'Someone to Hold' for the upcoming Netflix animated film Steps. The song, produced by Justin Tranter, celebrates sibling bonds and accompanies a reimagined Cinderella story premiering on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Jennie released the single 'Someone to Hold' on November 6, 2026.",
+      "The song is part of the soundtrack for the Netflix animated film Steps.",
+      "Steps is directed by Alyce Tzue and John Ripa and premieres on Netflix on Nov. 20.",
+      "Justin Tranter wrote and produced four original songs for the film.",
+      "Ali Wong voices Lilith, Stephanie Hsu voices Margot, Bette Midler voices the Fairy Godmother, Nikki Glaser voices Priscilla, and Amanda Seyfried voices Cinderella.",
+      "Kris Bowers composed the score for Steps.",
+      "Jennie released her debut solo EP Ruby in March through Odd Atelier.",
+      "Blackpink released the album Deadline featuring the single 'Jump' in February."
+    ],
+    "entities": {
+      "people": [
+        "Jennie",
+        "Justin Tranter",
+        "Alyce Tzue",
+        "John Ripa",
+        "Ali Wong",
+        "Bette Midler",
+        "Stephanie Hsu",
+        "Nikki Glaser",
+        "Amanda Seyfried",
+        "Rose Gray",
+        "Emei",
+        "Kris Bowers",
+        "Childish Gambino",
+        "Doechii",
+        "Dominic Fike",
+        "Dua Lipa",
+        "FKJ",
+        "Kali Uchis"
+      ],
+      "titles": [
+        "Someone to Hold",
+        "Steps",
+        "Bridgerton",
+        "Ruby",
+        "Deadline",
+        "Jump",
+        "Less Than a Lover"
+      ]
+    },
+    "keywords": [
+      "Jennie Someone to Hold",
+      "Steps Netflix film",
+      "Justin Tranter Steps soundtrack",
+      "Jennie Blackpink music"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2288671313-1.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Jennie Releases Anthemic New Single 'Someone to Hold' for Upcoming Netflix Film Steps",
+        "source": "Rolling Stone Music"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 08:32:27 +0000"
   }
 };

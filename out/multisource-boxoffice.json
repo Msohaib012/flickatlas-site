@@ -1462,9 +1462,9 @@
       },
       "23": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.07,
+        "collection_inr_cr": 0.103,
         "collection_scope": "india_net",
-        "collection_usd": 7396,
+        "collection_usd": 10882,
         "date": "2026-11-06",
         "date_disagreed": false,
         "extras": {
@@ -1477,9 +1477,9 @@
           "shows": {
             "sources": {
               "filmynewsnetwork": 224,
-              "sacnilk": 93
+              "sacnilk": 233
             },
-            "value": 158
+            "value": 228
           },
           "tickets": {
             "sources": {
@@ -1492,7 +1492,7 @@
         "sources": {
           "bollybourse": 0.07,
           "filmynewsnetwork": 0.11,
-          "sacnilk": 0.03
+          "sacnilk": 0.13
         }
       },
       "3": {
