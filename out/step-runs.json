@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-04T21:51:47Z",
-    "run_id": "41919810263",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Mohanlal Begins Filming for Anoop Sathyan Project as Set Video Emerges",
-      "Scorpions Biopic 'Wind of Change' Sets Theatrical Release Dates in Germany and North America",
-      "Sreeleela Boards Rajinikanth Starrer Dharman In Maiden Collaboration With Superstar",
-      "God of War Laufey PS5 Release Date Pushed Back to May 2027"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-04T22:06:38Z",
     "run_id": "41922036331",
     "status": "success",
@@ -1450,6 +1427,24 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-06T00:30:46Z",
+    "run_id": "42124859648",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1890,23 +1885,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-04T22:07:53Z",
-    "run_id": "41922036331",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-05T00:05:57Z",
     "run_id": "41936851539",
     "status": "success",
@@ -2334,6 +2312,26 @@
      ],
      "updated": [],
      "count": 3
+    },
+    "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-06T00:30:48Z",
+    "run_id": "42124859648",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "6pu0nq",
+      "fnxwe2"
+     ],
+     "updated": [],
+     "count": 2
     },
     "reason": null
    }
@@ -3025,29 +3023,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-05T00:05:57Z",
-    "run_id": "41936851539",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "The Legal Battle Between 'The Pitt' Producers And The Michael Crichton Estate Is Heading To Trial",
-      "BBC Confirms Release Window for Strike Season 7",
-      "'Ramayana' Anticipated to Net Rs 75-100 Crore on Opening Day as Experts Forecast Massive Lifetime Earnings",
-      "Salman Khan residence firing: Accused shooter denied physical bail but permitted virtual wedding attendance"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-05T00:51:50Z",
     "run_id": "41944298936",
     "status": "success",
@@ -3540,6 +3515,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-06T00:30:47Z",
+    "run_id": "42124859648",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8234,5 +8227,5 @@
    }
   ]
  },
- "updated_at": "2026-11-05T23:05:35Z"
+ "updated_at": "2026-11-06T00:30:48Z"
 }
