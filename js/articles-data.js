@@ -71939,5 +71939,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 15:20:52 +0000"
+  },
+  "ngkym7": {
+    "id": "ngkym7",
+    "type": "news",
+    "headline": "Amitabh Bachchan’s Juhu Residence Jalsa Included in Recent Bomb Threat Email Alert",
+    "dek": "Mumbai authorities received a security threat naming several high-profile locations, including legendary actor Amitabh Bachchan’s home, though subsequent investigations yielded no suspicious findings.",
+    "body": [
+      {
+        "h": "Bomb Threat Targets Major Mumbai Landmarks",
+        "p": [
+          "Authorities in Mumbai were recently alerted to a bomb threat sent via email, specifically targeting several prominent city locations. Among the named properties was Jalsa, the well-known Juhu residence of veteran Bollywood icon Amitabh Bachchan.",
+          "Apart from the legendary actor's bungalow, the threatening message also referenced the Bombay High Court, the Bombay Stock Exchange, and the Mahalaxmi Racecourse. The inclusion of these significant public and private sites immediately triggered a high-level response from law enforcement."
+        ]
+      },
+      {
+        "h": "Thorough Searches Conducted by Security Agencies",
+        "p": [
+          "Following the receipt of the electronic message, security personnel swiftly mobilized to inspect all the identified premises. Specialized units, including Bomb Detection and Disposal Squads, carried out comprehensive sweeps of the locations mentioned in the correspondence.",
+          "After exhaustive inspections across the properties, police officials confirmed that nothing suspicious was uncovered during the operations. The negative findings provided significant relief to the authorities and residents amidst heightened security alertness."
+        ]
+      },
+      {
+        "h": "Preceding Security Incidents and Historical Context",
+        "p": [
+          "This incident marks another instance where Bachchan's residential property has been referenced in security alerts. A similar threatening email was previously directed to the Mumbai mayor's office on Friday, October 23, explicitly mentioning Jalsa alongside the mayor's office and the Mahalaxmi Racecourse.",
+          "The Mahalaxmi Racecourse itself is slated to host a public performance by prominent singer-actor Diljit Dosanjh on November 27, adding further administrative attention to these venues. Security frameworks around major public figures have experienced continuous review in light of these recurring warnings."
+        ]
+      },
+      {
+        "h": "Enhanced Precautions for Fan Interactions",
+        "p": [
+          "In response to the earlier security warnings, protective measures outside the Juhu bungalow were noticeably upgraded on October 25. Despite the elevated precautions, Amitabh Bachchan chose to continue his long-standing tradition of greeting admirers outside his home on subsequent Sundays.",
+          "During these gatherings, the veteran star maintained customary appearances from behind a transparent bulletproof enclosure. He was accompanied by his son, Abhishek Bachchan, while trained security personnel closely monitored the surrounding crowds."
+        ]
+      },
+      {
+        "h": "Broader Security Concerns Across the Film Industry",
+        "p": [
+          "These repeated threat communications arrive during a period of intense public focus regarding the safety and security of Bollywood personalities. Anxiety within the entertainment community has been particularly high following a separate violent incident in the Juhu neighborhood earlier in the month.",
+          "That incident involved an armed attack near a football ground where two suspects opened fire at actor Tiger Shroff's vehicle. Although Shroff emerged unharmed, the assault resulted in injuries to his driver and another individual, drawing widespread law enforcement scrutiny."
+        ]
+      },
+      {
+        "h": "Actor Provides Personal Health Update",
+        "p": [
+          "Amidst the ongoing security developments, Amitabh Bachchan recently took to his personal Tumblr blog to share a brief update regarding his physical health. The actor communicated that he required additional rest to adjust and cope with daily demands.",
+          "In his online post, the renowned personality reflected on the complexities of physical endurance, noting the uniqueness and resilience of the human body while signaling a temporary focus on personal well-being."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mumbai authorities investigated a bomb threat email that named Amitabh Bachchan's Juhu bungalow alongside other prominent city landmarks, though searches revealed no dangerous objects. This security scare follows previous threats and an unrelated shooting incident in the same neighborhood, prompting heightened vigilance around Bollywood personalities."
+        ]
+      }
+    ],
+    "facts": [
+      "Amitabh Bachchan's Juhu bungalow Jalsa was named in a bomb threat email.",
+      "Other locations named included Bombay High Court, Bombay Stock Exchange, and Mahalaxmi Racecourse.",
+      "Bomb Detection and Disposal Squads found nothing suspicious during searches.",
+      "A similar threat email was received by the Mumbai mayor's office on Friday, October 23.",
+      "Diljit Dosanjh is scheduled to perform at Mahalaxmi Racecourse on November 27.",
+      "Security outside Jalsa was strengthened on October 25.",
+      "Abhishek Bachchan accompanied his father during a fan greeting behind a bulletproof enclosure on November 1.",
+      "Two men opened fire at Tiger Shroff's car near a football ground in Juhu on October 18.",
+      "Three suspects were arrested in Kota, Rajasthan, regarding the Tiger Shroff car firing incident."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Abhishek Bachchan",
+        "Diljit Dosanjh",
+        "Tiger Shroff"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Amitabh Bachchan Jalsa bomb threat",
+      "Mumbai bomb threat email Juhu",
+      "Tiger Shroff car firing Juhu",
+      "Diljit Dosanjh Mahalaxmi Racecourse November 27"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-6.59.02-PM-1.jpeg",
+        "caption": "Amitabh Bachchan’s Juhu Residence Jalsa Included in Recent Bomb Threat Email Alert",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 19:08:36 +0200"
+  },
+  "btk9vb": {
+    "id": "btk9vb",
+    "type": "news",
+    "headline": "Vin Diesel's 2002 Action Hit xXx Is Leaving Netflix Next Month",
+    "dek": "Fans have until December 2026 to stream the classic action thriller starring Vin Diesel before it exits the platform.",
+    "body": [
+      {
+        "h": "Final Chance to Stream on Netflix",
+        "p": [
+          "Subscribers of the popular streaming service Netflix have limited time remaining to view the iconic 2002 action thriller xXx featuring lead actor Vin Diesel. According to scheduling reports, the feature film is slated to depart from the digital catalog at the start of December 2026. Viewers wanting to experience the high-octane project again or discover it for the first time will need to tune in before the removal date takes effect next month."
+        ]
+      },
+      {
+        "h": "Creative Team and Cast",
+        "p": [
+          "The adrenaline-fueled production was directed by filmmaker Rob Cohen and penned by writer Rich Wilkes. Alongside the central performance by Vin Diesel, the motion picture boasts an ensemble supporting cast featuring notable names such as Asia Argento, Samuel L. Jackson, Danny Trejo, and Marton Csokas. Their combined efforts helped shape a memorable cinematic experience that has remained a fan favorite for over two decades."
+        ]
+      },
+      {
+        "h": "Franchise History and Sequels",
+        "p": [
+          "Following the tremendous popularity of the original installment, studio executives greenlit a follow-up project titled xXx: State of the Union, which premiered in 2005. However, Vin Diesel did not reprise his role as Xander Cage for that specific entry due to ongoing scripting complications and his commitment to starring in The Chronicles of Riddick instead. Consequently, performer Ice Cube stepped into the franchise as a fresh operative named Darius Stone. Diesel eventually returned to his signature role in the 2017 sequel, xXx: Return of Xander Cage, after expressing satisfaction with the screenplay and directorial vision."
+        ]
+      },
+      {
+        "h": "Box Office Performance",
+        "p": [
+          "The initial cinematic outing was mounted on a production budget estimated at $88.3 million. It achieved a strong commercial start during its 2002 theatrical bow, pulling in $44 million over its opening frame. Domestic ticket sales accumulated to approximately $142 million, while international markets added another $135 million, bringing the total worldwide box office gross to an impressive $277.4 million."
+        ]
+      },
+      {
+        "h": "Critical and Audience Reception",
+        "p": [
+          "Despite its massive commercial achievements, the title experienced mixed critical feedback upon release. On Rotten Tomatoes, it holds a 47 percent score on the Popcornmeter derived from critical reviews. Meanwhile, general viewers awarded the project a slightly more favorable rating, securing a 58 percent score on the Tomatometer based on audience responses."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vin Diesel's 2002 action movie xXx, directed by Rob Cohen, is scheduled to leave Netflix on December 1, 2026. The film generated a total worldwide box office collection of $277.4 million against an estimated budget of $88.3 million."
+        ]
+      }
+    ],
+    "facts": [
+      "xXx was released in 2002",
+      "Vin Diesel stars in xXx",
+      "The film leaves Netflix on December 1, 2026",
+      "Rob Cohen directed xXx",
+      "Rich Wilkes wrote xXx",
+      "The cast includes Asia Argento, Samuel L. Jackson, Danny Trejo, and Marton Csokas",
+      "xXx: State of the Union was released in 2005",
+      "Ice Cube starred in the second film as Darius Stone",
+      "Vin Diesel starred in The Chronicles of Riddick instead of the second xXx film",
+      "xXx: Return of Xander Cage was released in 2017",
+      "The production budget of xXx was estimated at $88.3 million",
+      "The opening box office collection was $44 million",
+      "Domestic collection reached close to $142 million",
+      "International collection amounted to $135 million",
+      "Total box office collection was $277.4 million",
+      "The Popcornmeter score is 47 percent",
+      "The Tomatometer audience score is 58 percent"
+    ],
+    "entities": {
+      "people": [
+        "Vin Diesel",
+        "Rob Cohen",
+        "Rich Wilkes",
+        "Asia Argento",
+        "Samuel L. Jackson",
+        "Danny Trejo",
+        "Marton Csokas",
+        "Ice Cube",
+        "Darius Stone"
+      ],
+      "titles": [
+        "xXx",
+        "xXx: State of the Union",
+        "The Chronicles of Riddick",
+        "xXx: Return of Xander Cage"
+      ]
+    },
+    "keywords": [
+      "Vin Diesel xXx",
+      "xXx leaving Netflix",
+      "xXx 2002 action film",
+      "Rob Cohen xXx movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Screenshot-2026-11-06-195052.png?resize=1200,630",
+        "caption": "Vin Diesel's 2002 Action Hit xXx Is Leaving Netflix Next Month",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 14:27:58 +0000"
+  },
+  "j4beqv": {
+    "id": "j4beqv",
+    "type": "news",
+    "headline": "Off Campus Season 2 Premieres on Prime Video in April 2027",
+    "dek": "The hit college romance series is officially returning for a second season, putting the spotlight on Allie and Dean's relationship.",
+    "body": [
+      {
+        "h": "Release Date Announced",
+        "p": [
+          "Fans of the popular college romance series can mark their calendars as the upcoming premiere date has been officially revealed. The second installment of the hit show is scheduled to arrive on Prime Video in the spring.",
+          "Viewers will be able to stream the new episodes starting April 28, 2027, continuing the romantic and dramatic narratives established in the first outing."
+        ]
+      },
+      {
+        "h": "Focus on Allie and Dean",
+        "p": [
+          "The upcoming season will shift its narrative focus toward the central romance between the characters Allie Hayes and Dean Di Laurentis.",
+          "Mika Abdalla will portray Allie Hayes, while Stephen Kalyn will step into the role of Dean Di Laurentis, bringing the popular literary couple to life on screen."
+        ]
+      },
+      {
+        "h": "Source Material and Background",
+        "p": [
+          "The television adaptation draws its inspiration from the bestselling book series written by author Elle Kennedy, capturing the emotional complexities of young adults.",
+          "The narrative centers around an elite ice hockey team and the women in their lives, exploring themes of love, heartbreak, personal growth, and enduring friendships during the transition into adulthood."
+        ]
+      },
+      {
+        "h": "Strong Viewership Legacy",
+        "p": [
+          "The television series achieved a robust debut following its initial launch on the streaming platform, resonating strongly with audiences worldwide.",
+          "During its first 12 days on Prime Video, the first season reportedly accumulated 36 million viewers globally, establishing a solid foundation for the second chapter."
+        ]
+      },
+      {
+        "h": "Expanding Ensemble Cast",
+        "p": [
+          "A diverse group of actors will return as series regulars alongside the main leads, including Ella Bright, Belmont Cameli, Antonio Cipriano, Jalen Thomas Brooks, and India Fowler.",
+          "The expanded cast also features recurring guest stars such as Julia Sarah-Stone, Khobe Clarke, Miles Gutierrez-Riley, Phillipa Soo, Charlie Evans, and Shay Rudolph."
+        ]
+      },
+      {
+        "h": "Creative Leadership",
+        "p": [
+          "The creative vision behind the adaptation is guided by creator Louisa Levy, who also serves as co-showrunner and executive producer alongside Gina Fattore.",
+          "Additional executive production duties are handled by Wyck Godfrey, Marty Bowen, James Seidman, Leanna Billings, and Neal Flaherty, with Annika Patton acting as co-executive producer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The streaming platform has officially scheduled the release of the second season of the college romance series for April 28, 2027. The upcoming episodes will spotlight the romance between Allie Hayes and Dean Di Laurentis, building upon the strong global viewership achieved by its predecessor."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 2 of Off Campus will premiere on April 28, 2027.",
+      "Season 1 reached 36 million viewers worldwide in its first 12 days.",
+      "Louisa Levy is the creator and co-showrunner.",
+      "Mika Abdalla plays Allie Hayes and Stephen Kalyn plays Dean Di Laurentis."
+    ],
+    "entities": {
+      "people": [
+        "Louisa Levy",
+        "Elle Kennedy",
+        "Mika Abdalla",
+        "Stephen Kalyn",
+        "Ella Bright",
+        "Belmont Cameli",
+        "Antonio Cipriano",
+        "Jalen Thomas Brooks",
+        "India Fowler",
+        "Julia Sarah-Stone",
+        "Khobe Clarke",
+        "Miles Gutierrez-Riley",
+        "Phillipa Soo",
+        "Charlie Evans",
+        "Shay Rudolph",
+        "Gina Fattore",
+        "Wyck Godfrey",
+        "Marty Bowen",
+        "James Seidman",
+        "Annika Patton",
+        "Leanna Billings",
+        "Neal Flaherty",
+        "Josh Heuston",
+        "Shanaya Kapoor"
+      ],
+      "titles": [
+        "Off Campus",
+        "Snack Shack",
+        "Sex Appeal",
+        "Gen V",
+        "Motorheads",
+        "The Crown",
+        "Malory Towers",
+        "Until Dawn",
+        "Saved by the Bell",
+        "Pretty Little Liars: Original Sin",
+        "National Treasure: Edge of History",
+        "The Pitt",
+        "Thanksgiving",
+        "Fear Street: Prom Queen",
+        "The Agency",
+        "The Killing",
+        "Come True",
+        "Cruel Intentions",
+        "Firefly Lane",
+        "Smile 2",
+        "The Wilds",
+        "Hamilton",
+        "Dopesick",
+        "Paradise",
+        "Leave the World Behind",
+        "Lethal Weapon",
+        "The Baby-Sitters Club",
+        "Student of the Year",
+        "After Dark"
+      ]
+    },
+    "keywords": [
+      "Off Campus Season 2",
+      "Off Campus Prime Video",
+      "Mika Abdalla Off Campus",
+      "Louisa Levy Off Campus"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/offcampussoooo1793959974.jpg",
+        "caption": "Off Campus Season 2 Premieres on Prime Video in April 2027",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-06T15:49:38+05:30"
+  },
+  "kt7xdz": {
+    "id": "kt7xdz",
+    "type": "news",
+    "headline": "Cupertino Episode 6 Exclusive Clip Previews Nichole Encountering A Major Proposition",
+    "dek": "An exclusive preview clip from the upcoming special Cupertino episode showcases Renée Elise Goldsberry alongside guest star Erich Bergen, revealing an intriguing offer directed at Nichole.",
+    "body": [
+      {
+        "h": "Exclusive Preview Of Cupertino Episode 6",
+        "p": [
+          "Viewers tracking the latest developments in the series can now access a brand-new exclusive clip ahead of the upcoming special episode. This particular installment marks the sixth episode of the current season and introduces exciting narrative twists.",
+          "The newly released footage highlights central figures navigating unexpected situations, giving audiences a direct glimpse into the dramatic developments unfolding on screen."
+        ]
+      },
+      {
+        "h": "Key Cast Members And Special Guest Stars",
+        "p": [
+          "The spotlight in this special episode shines brightly on acclaimed performer Renée Elise Goldsberry as she delivers another compelling dramatic turn.",
+          "Joining Goldsberry in the scene is notable guest star Erich Bergen, whose involvement adds a fresh layer of tension and intrigue to the ongoing plot progression."
+        ]
+      },
+      {
+        "h": "A Fascinating Offer For Nichole",
+        "p": [
+          "At the core of the newly debuted video clip is a striking proposition presented directly to the character Nichole. The interaction sets up critical choices that will likely influence subsequent events in the narrative.",
+          "Details surrounding the exact nature of the proposition remain a primary talking point for followers eager to see how this crucial turning point resolves."
+        ]
+      },
+      {
+        "h": "Release Timing And Availability",
+        "p": [
+          "The promotional clip made its public debut on November 6, 2026, courtesy of entertainment coverage, aligning with the rollout of weekly broadcast highlights.",
+          "Fans can review the available video content immediately to catch up on the visual cues and dialogue exchanges featured in the special installment."
+        ]
+      },
+      {
+        "h": "Broader Television Landscape",
+        "p": [
+          "As television schedules continue to evolve, special episodes of prominent series frequently draw heightened attention through exclusive first-look reveals and promotional features.",
+          "The timing of this release coincides with broader discussions across television fandoms regarding current casting polls, upcoming streaming debuts, and returning series."
+        ]
+      },
+      {
+        "h": "Anticipation Builds For The Full Episode",
+        "p": [
+          "With the premiere of the sixth episode imminent, viewer interest has intensified following the distribution of the preview scene involving Goldsberry and Bergen.",
+          "Audiences are preparing to witness how the teased interaction directly impacts the overarching storyline once the complete episode becomes available for viewing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An exclusive preview clip for the sixth episode of Cupertino introduces a fascinating offer for Nichole, featuring performances by Renée Elise Goldsberry and guest star Erich Bergen. The promotional footage was released on November 6, 2026, offering viewers an advance look at the dramatic events unfolding in the special installment."
+        ]
+      }
+    ],
+    "facts": [
+      "The exclusive clip was published on November 6, 2026.",
+      "The clip is for episode 6 of Cupertino.",
+      "Renée Elise Goldsberry and Erich Bergen appear in the clip.",
+      "The clip features Nichole receiving a fascinating offer."
+    ],
+    "entities": {
+      "people": [
+        "Renée Elise Goldsberry",
+        "Erich Bergen",
+        "Nichole"
+      ],
+      "titles": [
+        "Cupertino"
+      ]
+    },
+    "keywords": [
+      "Cupertino episode 6",
+      "Renée Elise Goldsberry Cupertino",
+      "Erich Bergen Cupertino clip",
+      "Cupertino Nichole offer"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/nichole-in-cupertino-106.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Cupertino Episode 6 Exclusive Clip Previews Nichole Encountering A Major Proposition",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:00:18 GMT"
   }
 };

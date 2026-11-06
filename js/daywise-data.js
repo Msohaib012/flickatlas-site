@@ -295,18 +295,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-05",
       "day": "Day 14",
-      "collection": 17644,
-      "shows": 202,
-      "occupancy": 22.5,
-      "tickets": 6027
+      "collection": 18700,
+      "shows": 217,
+      "occupancy": 23.1,
+      "tickets": 6977
     },
     {
       "date": "2026-11-06",
       "day": "Day 15",
-      "collection": 10565,
-      "shows": 145,
-      "occupancy": 16.9,
-      "tickets": 3528
+      "collection": 14263,
+      "shows": 170,
+      "occupancy": 19.1,
+      "tickets": 4620
     }
   ],
   "1400940": [
@@ -1277,18 +1277,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-05",
       "day": "Day 21",
-      "collection": 9826,
-      "shows": 177,
-      "occupancy": 15.1,
-      "tickets": 7970
+      "collection": 10565,
+      "shows": 192,
+      "occupancy": 15.0,
+      "tickets": 8984
     },
     {
       "date": "2026-11-06",
       "day": "Day 22",
       "collection": 1057,
-      "shows": 13,
-      "occupancy": 20.4,
-      "tickets": 1166
+      "shows": 22,
+      "occupancy": 14.9,
+      "tickets": 1259
     }
   ],
   "1234139": [
@@ -1482,18 +1482,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-05",
       "day": "Day 22",
-      "collection": 126572,
-      "shows": 2785,
-      "occupancy": 14.2,
-      "tickets": 105316
+      "collection": 135869,
+      "shows": 2968,
+      "occupancy": 14.3,
+      "tickets": 122682
     },
     {
       "date": "2026-11-06",
       "day": "Day 23",
-      "collection": 29583,
-      "shows": 416,
-      "occupancy": 21.0,
-      "tickets": 21921
+      "collection": 42472,
+      "shows": 550,
+      "occupancy": 23.0,
+      "tickets": 30034
     }
   ],
   "1269325": [
@@ -1800,18 +1800,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-05",
       "day": "Day 35",
-      "collection": 4860,
-      "shows": 69,
+      "collection": 5071,
+      "shows": 73,
       "occupancy": 17.7,
-      "tickets": 1671
+      "tickets": 1828
     },
     {
       "date": "2026-11-06",
       "day": "Day 36",
-      "collection": 3170,
-      "shows": 49,
-      "occupancy": 18.2,
-      "tickets": 1308
+      "collection": 4754,
+      "shows": 62,
+      "occupancy": 18.1,
+      "tickets": 1654
     }
   ],
   "1497970": [

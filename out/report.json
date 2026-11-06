@@ -2,22 +2,24 @@
  "today_pkt": "2026-11-06",
  "sources": 137,
  "status": {
-  "not_due": 137
+  "not_due": 132,
+  "unchanged": 3,
+  "ok": 2
  },
- "queue_total": 552,
- "stories_total": 578,
+ "queue_total": 532,
+ "stories_total": 552,
  "duplicates_removed": 0,
  "categories": {
-  "Box Office": 22,
-  "Awards": 7,
-  "Trailers": 19,
+  "Box Office": 20,
+  "Awards": 6,
+  "Trailers": 18,
   "Music / OST": 12,
-  "Episodes": 25,
+  "Episodes": 19,
   "Upcoming releases": 5,
   "OTT / Streaming": 23,
   "TV & Dramas": 7,
   "Celebrity news & events": 14,
-  "Movies": 412,
+  "Movies": 402,
   "Entertainment viral": 6
  },
  "dropped": {},
@@ -514,17 +516,17 @@
   },
   {
    "source": "DramaFlight",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "6h cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "DramaPur",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "6h cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Dramas.pk",
@@ -647,10 +649,10 @@
   },
   {
    "source": "HanCinema",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "6h cadence: check not due"
+   "total": 30,
+   "note": ""
   },
   {
    "source": "Kdrama Kisses",
@@ -885,10 +887,10 @@
   },
   {
    "source": "Oddity Central",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "6h cadence: check not due"
+   "total": 10,
+   "note": ""
   },
   {
    "source": "Interesting Engineering",
@@ -934,10 +936,10 @@
   },
   {
    "source": "Storypick",
-   "status": "not_due",
+   "status": "unchanged",
    "new": 0,
    "total": 0,
-   "note": "6h cadence: check not due"
+   "note": "304, feed badli nahi"
   },
   {
    "source": "Mangobaaz",
