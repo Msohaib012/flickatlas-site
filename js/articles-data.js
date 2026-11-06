@@ -73407,5 +73407,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 18:21:12 +0000"
+  },
+  "py0fk7": {
+    "id": "py0fk7",
+    "type": "news",
+    "headline": "Pete Davidson Details the Emotional and Physical Toll of Preparing for How to Rob a Bank",
+    "dek": "The comedian and actor shares insights into his intense preparation, physical transformation, and emotional challenges while starring in the upcoming heist thriller.",
+    "body": [
+      {
+        "h": "Embracing a New Kind of Role",
+        "p": [
+          "As the theatrical release of the heist thriller approaches this month, actor and comedian Pete Davidson has opened up regarding the demanding preparation required to portray his character. Known largely for comedic projects, Davidson described this new professional endeavor as a significant departure from his usual onscreen presence, testing both his emotional and physical limits.",
+          "The upcoming feature showcases a star-studded ensemble that includes prominent names like Nicholas Hoult and Zoë Kravitz. Within this dynamic cast, Davidson steps into the shoes of Vince, portraying a military veteran who puts his tactical expertise to use as part of a crew of tech-savvy and social-media-driven bank robbers."
+        ]
+      },
+      {
+        "h": "Confronting Painful Parallels",
+        "p": [
+          "Discussing the heavy emotional weight of the project, Davidson recounted a particularly moving experience on set while working alongside a young actress. He confessed that the moment left him genuinely choked up due to profound personal parallels between the narrative arc of his character and his own life experiences involving his father at a similar age.",
+          "Reflecting on the psychological intensity of the shoot, the performer admitted that he previously struggled to understand why dramatic actors often described their work as painful. However, experiencing it firsthand made him feel like a genuine dramatic actor for the first time, noting that he was finally stepping outside of his comfort zone rather than simply portraying a version of himself."
+        ]
+      },
+      {
+        "h": "A Rigorous Physical Transformation",
+        "p": [
+          "Beyond the psychological hurdles, the role demanded a major physical overhaul from the comedian. To accurately embody a battle-hardened military veteran, Davidson dedicated himself to a strict regimen that resulted in him gaining 15 pounds of pure muscle.",
+          "Achieving this muscular physique required heavy consumption of protein to support his intense training routine. Davidson expressed a desire for complete transparency regarding the lengths actors go to for physical changes, critiquing simplistic explanations often given by performers about their diets and emphasizing the grueling reality behind major body transformations."
+        ]
+      },
+      {
+        "h": "Inside the Plot of How to Rob a Bank",
+        "p": [
+          "The narrative of How to Rob a Bank centers on an unconventional gang of criminals who are motivated by factors far beyond simple financial gain. Instead of targeting traditional riches, the crew seeks the ultimate adrenaline rush and a platform to spread a public message, choosing to livestream their chaotic heists in real time for global audiences to witness.",
+          "As their high-profile exploits generate massive notoriety and draw intense public fascination, they inevitably catch the eye of a seasoned FBI agent on a relentless mission to hunt them down. Refusing to slow down, the thrill-seeking robbers raise the stakes even higher as they plan their most dangerous and massive heist to date."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Creative Team",
+        "p": [
+          "The creative vision behind the heist thriller is spearheaded by director David Leitch, who brings his signature kinetic style to the project. The screenplay was penned by writer Mark Bianculli, laying the narrative foundation for the high-stakes action and social media commentary.",
+          "On the production front, the film is backed by Amazon MGM Studios. The feature is scheduled to make its official debut in cinemas on November 20, drawing significant anticipation from action film enthusiasts and fans of the ensemble cast alike."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pete Davidson discussed the emotional demands and a 15-pound muscle transformation required for his role as Vince in the upcoming movie How to Rob a Bank. The heist thriller, directed by David Leitch and produced by Amazon MGM Studios, is scheduled to release in theatres on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Pete Davidson plays Vince in How to Rob a Bank.",
+      "Pete Davidson gained 15 pounds of muscle for the role.",
+      "How to Rob a Bank releases in theatres on November 20.",
+      "The film is directed by David Leitch and written by Mark Bianculli.",
+      "The film is produced by Amazon MGM Studios."
+    ],
+    "entities": {
+      "people": [
+        "Pete Davidson",
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "David Leitch",
+        "Mark Bianculli",
+        "Eddie Murphy"
+      ],
+      "titles": [
+        "How to Rob a Bank",
+        "Obsession",
+        "The Pickup"
+      ]
+    },
+    "keywords": [
+      "How to Rob a Bank film",
+      "Pete Davidson How to Rob a Bank",
+      "Pete Davidson Vince",
+      "David Leitch film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/petedavidsonsoooo1793958903.jpg",
+        "caption": "Pete Davidson Details the Emotional and Physical Toll of Preparing for How to Rob a Bank",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-06T18:47:44+05:30"
+  },
+  "abnbs8": {
+    "id": "abnbs8",
+    "type": "news",
+    "headline": "2027 Grammys Nominations Revealed: When, Where, and How to Watch",
+    "dek": "Discover everything you need to know about the upcoming 69th Grammy Awards nominations reveal, including the announcement schedule, participating artists, and viewing options.",
+    "body": [
+      {
+        "h": "Introduction to the 69th Grammy Awards Nominations",
+        "p": [
+          "The music industry is gearing up for the unveiling of the nominees for the 69th Grammy Awards, which celebrate outstanding achievements in music for the year. With excitement building across the community, fans and critics alike are wondering which artists will secure nods.",
+          "As anticipation reaches its peak, the Recording Academy has provided fresh details regarding the early morning nomination schedule, helping enthusiasts prepare for the big reveal."
+        ]
+      },
+      {
+        "h": "Announcement Schedule and Date",
+        "p": [
+          "The official nominations for the 69th Grammy Awards are scheduled to be unveiled on November 16. Festivities will kick off bright and early at 7:45 a.m. ET or 4:45 a.m. PT.",
+          "This early start is designed to accommodate partial coverage on Good Morning America, coinciding with the Grammys broadcast's move to ABC for 2027. Following the initial broadcast segments, the complete list of nominees will be made available online starting at 9 a.m. ET or 6 a.m. PT."
+        ]
+      },
+      {
+        "h": "Star-Studded Announcement Lineup",
+        "p": [
+          "Ten days prior to the nominations event, the Recording Academy disclosed the impressive roster of artists who will participate in announcing the nominees. Among them is Olivia Dean, who is also anticipated to be one of the major contenders for the awards this year.",
+          "Other notable names joining the announcement lineup include Alan Menken, Amy Allen, Carly Pearce, David Guetta, Fyütch Aura V, Herbie Hancock, Israel Houghton, Juanes, Kehlani, Linda Perry, Meghan Foley, Michelle Holme, Pharrell Williams, Renée Fleming, Yungblud, and Ziggy Marley."
+        ]
+      },
+      {
+        "h": "How to Watch the Reveal",
+        "p": [
+          "Audiences wanting to catch the nomination announcements live have a few designated platforms to tune into. The primary digital destinations for the reveal are Grammys.com and the official Grammys YouTube channel.",
+          "Additionally, viewers can look forward to special live coverage on Good Morning America, ensuring multiple ways to follow the morning's exciting announcements."
+        ]
+      },
+      {
+        "h": "Broader Awards Context and Ceremony Date",
+        "p": [
+          "The upcoming nominations serve as the major kickoff toward the final ceremony, which is officially set to take place on February 7. This timeline marks a busy season for entertainment awards as various bodies announce contenders across film and music.",
+          "Industry observers continue to track campaign trails and odds for various honors, making this period particularly crucial for nominated artists and their teams."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Recording Academy has announced that nominations for the 69th Grammy Awards will be revealed on November 16, beginning early at 7:45 a.m. ET with partial coverage on Good Morning America and a full online release at 9 a.m. ET. Artists such as Olivia Dean and Pharrell Williams are set to help announce the nominees ahead of the awards ceremony scheduled for February 7."
+        ]
+      }
+    ],
+    "facts": [
+      "The 69th Grammy Awards ceremony will take place on February 7.",
+      "Nominations will be announced on November 16.",
+      "The announcement event begins at 7:45 a.m. ET/4:45 a.m. PT.",
+      "The full list of nominees will be available online starting at 9 a.m. ET/6 a.m. PT.",
+      "Artists participating in the announcement include Olivia Dean, Pharrell Williams, Alan Menken, Amy Allen, Carly Pearce, David Guetta, Fyütch Aura V, Herbie Hancock, Israel Houghton, Juanes, Kehlani, Linda Perry, Meghan Foley, Michelle Holme, Renée Fleming, Yungblud, and Ziggy Marley."
+    ],
+    "entities": {
+      "people": [
+        "Olivia Dean",
+        "Pharrell Williams",
+        "Alan Menken",
+        "Amy Allen",
+        "Carly Pearce",
+        "David Guetta",
+        "Fyütch Aura V",
+        "Herbie Hancock",
+        "Israel Houghton",
+        "Juanes",
+        "Kehlani",
+        "Linda Perry",
+        "Meghan Foley",
+        "Michelle Holme",
+        "Renée Fleming",
+        "Yungblud",
+        "Ziggy Marley",
+        "Olivia Rodrigo"
+      ],
+      "titles": [
+        "Good Morning America"
+      ]
+    },
+    "keywords": [
+      "2027 Grammys nominations",
+      "69th Grammy Awards",
+      "Olivia Dean Grammys",
+      "Grammy nominations watch"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/02/GettyImages-2259486854.jpg?w=650",
+        "caption": "2027 Grammys Nominations Revealed: When, Where, and How to Watch",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 19:00:00 +0000"
+  },
+  "1by0cc0": {
+    "id": "1by0cc0",
+    "type": "news",
+    "headline": "Mahesh Bhatt Remembers Sanjeev Kumar and Their Deep Cinematic Bond",
+    "dek": "Filmmaker Mahesh Bhatt looks back at his profound friendship with the legendary Sanjeev Kumar, recalling mentorship, quiet kindness, and shared moments of cinema.",
+    "body": [
+      {
+        "h": "The Sad News of a Sudden Passing",
+        "p": [
+          "On the evening of November 6, 1985, filmmaker Mahesh Bhatt was working in the editing room at Dimple Theatre with David Dhawan on the film Naam. The quiet atmosphere of cutting film was suddenly interrupted when Rajendra Kumar walked into the room with devastating news.",
+          "He announced that Sanjeev Kumar had passed away. Work immediately came to a halt, trial shows were cancelled, and the preview theatre fell into a heavy, memorable silence before Bhatt went to pay his respects at the actor's home."
+        ]
+      },
+      {
+        "h": "First Encounters and Early Encouragement",
+        "p": [
+          "Their friendship began years earlier in the seventies through mutual acquaintances, specifically at the home of background dancer Kuldeep Talwar where Sanjeev Kumar enjoyed good food and conversation. Bhatt, who was struggling with an unreleased first film and very little money, spent hours talking about his fierce passion for cinema.",
+          "Recognizing this deep hunger for movies, Sanjeev Kumar offered quiet encouragement. Around the time Bhatt's debut film Manzilein Aur Bhi Hain was held up by censors, a bouquet of red roses arrived at Bhatt's house with a note from Sanjeev predicting that his flight as a filmmaker was certain."
+        ]
+      },
+      {
+        "h": "Unwavering Support During Dark Times",
+        "p": [
+          "Even after Bhatt's first film bombed at the box office, Sanjeev Kumar agreed to star in his next project, Vishwasghaat. Despite maintaining a grueling daytime schedule shooting for Sholay near Bangalore, the veteran actor would routinely show up late at night to shoot double roles at Bangalore Palace just to ensure Bhatt had ongoing work.",
+          "Later, when Bhatt faced immense personal turmoil involving Parveen Babi and the heartbreaking breakdown of his personal life, Sanjeev Kumar offered steady empathy and silent support during their overlapping time in the south."
+        ]
+      },
+      {
+        "h": "Lessons in Filmmaking and Generosity",
+        "p": [
+          "Sanjeev Kumar frequently took Bhatt under his wing, introducing him to rare cinema screenings at Shree Cinema and bringing him along as a guest to the USIS to watch a documentary on Frank Capra. It was there that hearing Capra's philosophy about people struggling and coming through their pain fundamentally altered Bhatt's approach to making movies.",
+          "On another occasion while shooting Trishul in Delhi, the actor handed over his film festival pass so that Bhatt could spend his days completely immersed in watching world cinema, including seeing Akira Kurosawa in person, while the actor stayed behind to work."
+        ]
+      },
+      {
+        "h": "Creative Shifts and Saaransh",
+        "p": [
+          "As Bhatt eventually found his footing and directed Arth—a project born entirely out of his own life experiences—his direct contact with Sanjeev Kumar grew a bit less frequent due to demanding work schedules, leaving the actor slightly hurt by the distance.",
+          "Later, during the planning of Saaransh, producers initially suggested casting Sanjeev Kumar in the main role instead of Anupam Kher. Although Bhatt ultimately pivoted to Anupam Kher after seeing his fiery intensity, Sanjeev graciously accepted being passed over without making the director carry any guilt."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Mahesh Bhatt reflects on his enduring and supportive friendship with the late Sanjeev Kumar on the actor's death anniversary. The retrospective highlights Sanjeev Kumar's generosity, mentorship in the film industry, and the personal kindness that shaped Bhatt's life and career."
+        ]
+      }
+    ],
+    "facts": [
+      "Sanjeev Kumar passed away on November 6, 1985.",
+      "Mahesh Bhatt was cutting the film Naam at Dimple Theatre with David Dhawan when he heard the news.",
+      "Rajendra Kumar brought the news of Sanjeev Kumar's death to the editing room.",
+      "Bhatt's first film was Manzilein Aur Bhi Hain.",
+      "Sanjeev Kumar starred in Bhatt's film Vishwasghaat, shooting at night while working on Sholay during the day.",
+      "Sanjeev Kumar lent his Asterix comics to Bhatt's daughter, Pooja."
+    ],
+    "entities": {
+      "people": [
+        "Mahesh Bhatt",
+        "Sanjeev Kumar",
+        "David Dhawan",
+        "Rajendra Kumar",
+        "Shammi Kapoor",
+        "Kuldeep Talwar",
+        "Johnny Bakshi",
+        "Shabana Azmi",
+        "Kabir Bedi",
+        "Frank Capra",
+        "Akira Kurosawa",
+        "Parveen Babi",
+        "U.G. Krishnamurti",
+        "Kiran",
+        "Pooja",
+        "Vinod Khanna",
+        "Anupam Kher",
+        "Suhas Bhalekar",
+        "Rajkumar Barjatya"
+      ],
+      "titles": [
+        "Naam",
+        "Manzilein Aur Bhi Hain",
+        "Sholay",
+        "Vishwasghaat",
+        "The Godfather",
+        "Trishul",
+        "Lahu Ke Do Rang",
+        "Arth",
+        "Saaransh"
+      ]
+    },
+    "keywords": [
+      "Mahesh Bhatt Sanjeev Kumar",
+      "Sanjeev Kumar death anniversary",
+      "Manzilein Aur Bhi Hain",
+      "Vishwasghaat film",
+      "Mahesh Bhatt memories"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/sanjeevkumarsoooo1793942346.jpg",
+        "caption": "Mahesh Bhatt Remembers Sanjeev Kumar and Their Deep Cinematic Bond",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-06T12:56:16+05:30"
+  },
+  "19r59ww": {
+    "id": "19r59ww",
+    "type": "news",
+    "headline": "Sebastián Lelio, Oscar-Winning Director of A Fantastic Woman, Dies at 52",
+    "dek": "The acclaimed Chilean filmmaker behind A Fantastic Woman, Disobedience, and The Wonder has passed away at his home in Santiago.",
+    "body": [
+      {
+        "h": "Tragic Passing of a Cinematic Visionary",
+        "p": [
+          "The global film community is mourning the sudden loss of Sebastián Lelio, the celebrated director who made history for his home country. Lelio passed away at the age of 52 at his residence in Las Condes, Santiago, as confirmed by local reporting and a family statement.",
+          "His relatives shared the news through an Instagram post on partner Amalia Kassai's account, noting that the filmmaker died due to undisclosed health reasons. The family has requested privacy and respect as they navigate this profound sorrow."
+        ]
+      },
+      {
+        "h": "Making Academy Awards History for Chile",
+        "p": [
+          "Lelio achieved a monumental milestone in 2018 when his acclaimed feature A Fantastic Woman secured the Academy Award for Best International Feature Film. This victory marked the first time a Chilean production claimed the prestigious category, putting his nation's cinema firmly on the global map.",
+          "The movie was widely praised for its deeply humanistic storytelling, following a transgender woman named Marina as she dealt with grief and societal prejudice following the unexpected death of her partner."
+        ]
+      },
+      {
+        "h": "A Master of Intimate Character Studies",
+        "p": [
+          "Throughout his life, Lelio established himself as a multi-talented force who worked as a director, writer, editor, and producer. His filmography consistently spotlighted resilient women and the multifaceted trials of womanhood with striking empathy.",
+          "His creative reach extended across various genres and cultural landscapes, capturing complex emotional landscapes with remarkable visual and narrative sensitivity."
+        ]
+      },
+      {
+        "h": "Exploration of Forbidden Love and Faith",
+        "p": [
+          "Following his Oscar triumph, Lelio directed Disobedience in 2018, which featured standout performances from Rachel McAdams and Rachel Weisz. The film explored the intense and heartbreaking dynamics of a forbidden romance within an Orthodox Jewish community.",
+          "He later helmed the 2022 psychological drama The Wonder, starring Florence Pugh. This darker project examined themes of religious fanaticism, faith, and familial bonds in a thought-provoking historical setting."
+        ]
+      },
+      {
+        "h": "A Rich and Diverse Filmography",
+        "p": [
+          "Lelio's impressive oeuvre spanned numerous celebrated titles from earlier in his career, including Navidad and The Year Of The Tiger. He also directed Gloria Bell, which featured a stellar lead performance by Julianne Moore.",
+          "Among his more recent projects was The Wave, a festival favorite musical focusing on women participating in protests within his native Chile."
+        ]
+      },
+      {
+        "h": "Unfinished Projects and Enduring Legacy",
+        "p": [
+          "At the time of his death, the director was actively developing his tenth feature film, an adaptation of Alejandro Zambra's novel Chilean Poet. The source material centers on a frustrated writer navigating the complexities of romance and separation.",
+          "While his sudden passing cuts short a brilliant career that held many more stories, Lelio leaves behind a profound cinematic legacy as a national trailblazer and a dedicated champion of artistic expression."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Oscar-winning Chilean filmmaker Sebastián Lelio has died at the age of 52 at his home in Santiago due to health reasons. Remembered for landmark films like A Fantastic Woman, Disobedience, and The Wonder, his sudden passing leaves behind a celebrated legacy of humanist storytelling."
+        ]
+      }
+    ],
+    "facts": [
+      "Sebastián Lelio died at the age of 52 on 6th November 2026.",
+      "He was found dead at his home in Las Condes, Santiago.",
+      "He won the Best International Feature Film Oscar in 2018 for A Fantastic Woman.",
+      "His partner is Amalia Kassai.",
+      "He directed Disobedience in 2018, starring Rachel McAdams and Rachel Weisz.",
+      "He directed The Wonder in 2022, starring Florence Pugh.",
+      "At the time of his passing, he was working on an adaptation of Alejandro Zambra's novel Chilean Poet."
+    ],
+    "entities": {
+      "people": [
+        "Sebastián Lelio",
+        "Amalia Kassai",
+        "Daniela Vega",
+        "Rachel McAdams",
+        "Rachel Weisz",
+        "Florence Pugh",
+        "Julianne Moore",
+        "Alejandro Zambra"
+      ],
+      "titles": [
+        "A Fantastic Woman",
+        "Disobedience",
+        "The Wonder",
+        "Navidad",
+        "The Year Of The Tiger",
+        "Gloria Bell",
+        "The Wave",
+        "Chilean Poet"
+      ]
+    },
+    "keywords": [
+      "Sebastián Lelio",
+      "A Fantastic Woman",
+      "The Wonder",
+      "Chilean Poet"
+    ],
+    "images": [
+      {
+        "url": "https://images.bauerhosting.com/celebrity/sites/42/2026/11/Sebastian-Lelio.jpg?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
+        "caption": "Sebastián Lelio, Oscar-Winning Director of A Fantastic Woman, Dies at 52",
+        "source": "Empire"
+      }
+    ],
+    "published": "Fri, 6 Nov 2026 19:16:09 +0000"
   }
 };

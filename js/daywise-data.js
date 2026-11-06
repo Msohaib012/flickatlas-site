@@ -4217,5 +4217,77 @@ window.FA_DAYWISE = {
       "shows": 2127,
       "occupancy": 23.2
     }
+  ],
+  "1475799": [
+    {
+      "date": "2026-09-11",
+      "day": "Day 1",
+      "collection": 294770
+    },
+    {
+      "date": "2026-09-12",
+      "day": "Day 2",
+      "collection": 225040
+    },
+    {
+      "date": "2026-09-13",
+      "day": "Day 3",
+      "collection": 166931
+    },
+    {
+      "date": "2026-09-14",
+      "day": "Day 4",
+      "collection": 67618
+    },
+    {
+      "date": "2026-09-15",
+      "day": "Day 5",
+      "collection": 62335
+    },
+    {
+      "date": "2026-09-16",
+      "day": "Day 6",
+      "collection": 49657
+    },
+    {
+      "date": "2026-09-17",
+      "day": "Day 7",
+      "collection": 50713
+    },
+    {
+      "date": "2026-09-18",
+      "day": "Day 8",
+      "collection": 634
+    },
+    {
+      "date": "2026-09-19",
+      "day": "Day 9",
+      "collection": 740
+    },
+    {
+      "date": "2026-09-20",
+      "day": "Day 10",
+      "collection": 951
+    },
+    {
+      "date": "2026-09-21",
+      "day": "Day 11",
+      "collection": 528
+    },
+    {
+      "date": "2026-09-22",
+      "day": "Day 12",
+      "collection": 317
+    },
+    {
+      "date": "2026-09-23",
+      "day": "Day 13",
+      "collection": 317
+    },
+    {
+      "date": "2026-09-24",
+      "day": "Day 14",
+      "collection": 106
+    }
   ]
 };

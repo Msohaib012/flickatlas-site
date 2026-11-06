@@ -1,33 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-06T18:10:52Z",
+  "generated": "2026-11-06T21:22:55Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 3,
-    "pageviews": 18,
-    "sessions": 3,
-    "avg_session_seconds": 411.1
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 190,
-    "pageviews": 606,
-    "sessions": 255,
-    "avg_session_seconds": 144.6
+    "users": 142,
+    "pageviews": 498,
+    "sessions": 196,
+    "avg_session_seconds": 149.0
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 166,
-      "avg_time_seconds": 218.6
-    },
-    {
-      "path": "/",
-      "title": "FlickAtlas — Movie & TV Guide: Cast, Box Office, Budgets & Upcoming Releases",
-      "views": 45,
-      "avg_time_seconds": 386.0
+      "views": 161,
+      "avg_time_seconds": 232.5
     },
     {
       "path": "/ott",
@@ -76,31 +70,31 @@
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
       "views": 11,
       "avg_time_seconds": 12.9
+    },
+    {
+      "path": "/show",
+      "title": "Lagan Lagi (2026) — Episodes, Cast & Story | FlickAtlas",
+      "views": 11,
+      "avg_time_seconds": 44.8
     }
   ],
   "sources": [
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 128,
+      "sessions": 121,
       "users": 107
     },
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 118,
-      "users": 81
+      "sessions": 67,
+      "users": 34
     },
     {
       "source": "search.google.com",
       "medium": "referral",
       "sessions": 7,
-      "users": 1
-    },
-    {
-      "source": "(not set)",
-      "medium": "(not set)",
-      "sessions": 1,
       "users": 1
     },
     {
@@ -112,12 +106,12 @@
   ],
   "countries": [
     {
-      "country": "United States",
-      "users": 76
+      "country": "India",
+      "users": 66
     },
     {
-      "country": "India",
-      "users": 68
+      "country": "United States",
+      "users": 32
     },
     {
       "country": "Pakistan",
@@ -126,10 +120,6 @@
     {
       "country": "Philippines",
       "users": 5
-    },
-    {
-      "country": "Canada",
-      "users": 3
     },
     {
       "country": "Egypt",
@@ -150,16 +140,20 @@
     {
       "country": "Brazil",
       "users": 2
+    },
+    {
+      "country": "Canada",
+      "users": 2
     }
   ],
   "devices": [
     {
       "device": "mobile",
-      "users": 95
+      "users": 94
     },
     {
       "device": "desktop",
-      "users": 91
+      "users": 44
     },
     {
       "device": "tablet",
