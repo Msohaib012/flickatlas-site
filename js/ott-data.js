@@ -12,6 +12,40 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "country": "IN",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1483525,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1811601,
+      "providers": [
+        {
+          "logo_path": "/w6Y6X8RIm2XolW7clhqf3VFsn5z.png",
+          "name": "CANAL+"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-05",
+      "date_kind": "digital",
+      "id": 1810711,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-04",
       "date_kind": "release",
       "id": 258989,
@@ -35,6 +69,19 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-04",
+      "date_kind": "digital",
+      "id": 1755818,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
         }
       ],
       "type": "movie"
@@ -92,6 +139,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
+      "date": "2026-11-03",
+      "date_kind": "digital",
+      "id": 1792170,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-03",
+      "date_kind": "digital",
+      "id": 1423191,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-02",
       "date_kind": "digital",
       "id": 1773368,
@@ -132,6 +195,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "NL",
+      "date": "2026-10-31",
+      "date_kind": "digital",
+      "id": 1796321,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-10-31",
       "date_kind": "release",
       "id": 1773374,
@@ -151,6 +222,27 @@ window.FA_OTT = {
         {
           "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
           "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-10-31",
+      "date_kind": "digital",
+      "id": 1803692,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-10-31",
+      "date_kind": "digital",
+      "id": 1416310,
+      "providers": [
+        {
+          "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
         }
       ],
       "type": "movie"
@@ -189,6 +281,14 @@ window.FA_OTT = {
           "name": "Netflix"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1796328,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -266,6 +366,14 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "country": "NL",
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1767284,
+      "providers": [],
+      "type": "movie"
     },
     {
       "date": "2026-10-30",
@@ -507,6 +615,27 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-10-23",
+      "date_kind": "digital",
+      "id": 1371730,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-10-22",
+      "date_kind": "digital",
+      "id": 1793054,
+      "providers": [
+        {
+          "logo_path": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+          "name": "aha"
         }
       ],
       "type": "movie"
@@ -1989,6 +2118,14 @@ window.FA_OTT = {
           "name": "Amazon Prime Video with Ads"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "CN",
+      "date": "2025-10-03",
+      "date_kind": "digital",
+      "id": 1497970,
+      "providers": [],
       "type": "movie"
     },
     {

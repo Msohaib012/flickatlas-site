@@ -40,6 +40,126 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 17:47:36 +0200"
   },
+  "25ghxk": {
+    "id": "25ghxk",
+    "type": "news",
+    "headline": "Comparing Day One Box Office Collections For Yash Films Including Ramayana KGF 2 And Toxic",
+    "dek": "An analysis of the opening day international and worldwide earnings for recent projects starring actor Yash.",
+    "entities": {
+      "people": [
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Akshay Kumar",
+        "Aamir Khan",
+        "Salman Khan",
+        "Arun Mandola",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Ramayana",
+        "KGF 2",
+        "Toxic",
+        "Ramayana Part 1",
+        "KGF Chapter 2"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana KGF 2 Toxic box office",
+      "Ramayana Part 1 box office collection",
+      "Yash highest opener career",
+      "KGF Chapter 2 opening day"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/yashramayanakgf2-30701793974613.jpg",
+        "caption": "Comparing Day One Box Office Collections For Yash Films Including Ramayana KGF 2 And Toxic",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 20:44:00 +0530"
+  },
+  "1953nwp": {
+    "id": "1953nwp",
+    "type": "news",
+    "headline": "Oh Season Trailer Highlights Star-Studded Cast in Festive Holiday Film",
+    "dek": "Samuel Goldwyn Films has launched the trailer for Oh Season, a holiday movie starring Joel McHale, Josh Holloway, and a prominent ensemble cast.",
+    "entities": {
+      "people": [
+        "Joel McHale",
+        "Josh Holloway",
+        "Mateo Messina",
+        "Paula Patton",
+        "Yonas Kibreab",
+        "Cress Williams",
+        "Kate Micucci",
+        "Scott Hoying",
+        "Disita Sikdar"
+      ],
+      "titles": [
+        "Oh Season",
+        "Community",
+        "The Soup",
+        "Animal Control",
+        "The 1% Club",
+        "Duster",
+        "Lost",
+        "Colony",
+        "Battle of the Year"
+      ]
+    },
+    "keywords": [
+      "Oh Season movie trailer",
+      "Joel McHale Oh Season",
+      "Josh Holloway holiday movie",
+      "Mateo Messina film release"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/8_05a90d.jpg?resize=1200,630",
+        "caption": "Oh Season Trailer Highlights Star-Studded Cast in Festive Holiday Film",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:00:00 +0000"
+  },
+  "1ymkt8q": {
+    "id": "1ymkt8q",
+    "type": "news",
+    "headline": "Chicago Fire Star Jake Lockett and Loki Cast Member Lead New Romantic Comedy Trailer",
+    "dek": "An exclusive first look at the romantic comedy Apples and Airplanes introduces a slow-burn romance between a talented interior designer and a famous foreign actor.",
+    "entities": {
+      "people": [
+        "Jake Lockett",
+        "Sarafina King",
+        "Dominic Burgess",
+        "Kelly Collins Lintz",
+        "Dani Deetté",
+        "Aaron Goldenberg",
+        "Mintu Kumar Tomar"
+      ],
+      "titles": [
+        "Apples and Airplanes",
+        "Chicago Fire",
+        "Loki",
+        "For All Mankind"
+      ]
+    },
+    "keywords": [
+      "Apples and Airplanes film",
+      "Jake Lockett Apples and Airplanes",
+      "Sarafina King movie",
+      "Apples and Airplanes trailer"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Chicago-Fires-Jake-Lockett-Loki-Star-Lead-New-Comedy-Movie-Apples-and-Airplanes-Trailer-_-Exclusive.jpg?resize=1200,630",
+        "caption": "Chicago Fire Star Jake Lockett and Loki Cast Member Lead New Romantic Comedy Trailer",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:00:00 +0000"
+  },
   "1strk90": {
     "id": "1strk90",
     "type": "news",
@@ -682,6 +802,49 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 10:15:48 +0000"
+  },
+  "esz9v6": {
+    "id": "esz9v6",
+    "type": "news",
+    "headline": "Salman Khan Starrer Maatrubhumi Eyes November Release Ahead of Shah Rukh Khan's King",
+    "dek": "Salman Khan's upcoming action drama Maatrubhumi: May War Rest In Peace has reportedly locked November 20 for its theatrical arrival, positioning itself ahead of Shah Rukh Khan's King.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shah Rukh Khan",
+        "Apoorva Lakhia",
+        "Chitrangda Singh",
+        "Ranbir Kapoor",
+        "Sunny Deol",
+        "Jiya Surana",
+        "Ed Sheeran",
+        "Suhana"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest In Peace",
+        "King",
+        "Ramayana",
+        "Suryaa",
+        "Teri Sexy Beauty",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Shah Rukh Khan King",
+      "Apoorva Lakhia film",
+      "Teri Sexy Beauty song"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/salmankhansoooo1793958535.jpg",
+        "caption": "Salman Khan Starrer Maatrubhumi Eyes November Release Ahead of Shah Rukh Khan's King",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-06T15:45:11+05:30"
   },
   "llanul": {
     "id": "llanul",
@@ -4493,180 +4656,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-05T04:57:05+05:30"
-  },
-  "jatrko": {
-    "id": "jatrko",
-    "type": "news",
-    "headline": "Salman Khan residence firing: Accused shooter denied physical bail but permitted virtual wedding attendance",
-    "dek": "A special court in a hearing turned down regular temporary bail for Vickykumar Gupta, an accused shooter in the 2024 attack outside Salman Khan's apartment, allowing him instead to join his brother's wedding via video link.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Vickykumar Gupta",
-        "Sagar Pal",
-        "S Navander",
-        "Tiger Shroff",
-        "Ayushmann Khurrana",
-        "Anil Pandit",
-        "Lawrence Bishnoi"
-      ],
-      "titles": [
-        "Galaxy Apartment"
-      ]
-    },
-    "keywords": [
-      "Salman Khan house firing shooter bail",
-      "Vickykumar Gupta brother wedding jail",
-      "Salman Khan Galaxy Apartment shooting case",
-      "Lawrence Bishnoi gang Bollywood threats"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135554475,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Salman Khan residence firing: Accused shooter denied physical bail but permitted virtual wedding attendance",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-05T04:32:45+05:30"
-  },
-  "jfjee5": {
-    "id": "jfjee5",
-    "type": "news",
-    "headline": "BBC Confirms Release Window for Strike Season 7",
-    "dek": "The acclaimed detective series based on J.K. Rowling's novels will return for its seventh season in December 2026.",
-    "entities": {
-      "people": [
-        "Chris McPherson",
-        "J.K. Rowling",
-        "Tom Burke",
-        "Holliday Grainger",
-        "Sir Colin",
-        "Sally Edensor",
-        "Will",
-        "Robert Galbraith",
-        "Taylor Sheridan",
-        "Hermione Granger",
-        "Albus Dumbledore",
-        "Minerva McGonagall",
-        "Severus Snape",
-        "Merlin",
-        "Regulus Black",
-        "Horace Slughorn",
-        "Luna Lovegood",
-        "Filius Flitwick",
-        "Garrick Ollivander",
-        "Cho Chang"
-      ],
-      "titles": [
-        "Strike",
-        "Strike: The Running Grave",
-        "Harry Potter",
-        "Bosch",
-        "Mission: Impossible",
-        "Yellowstone",
-        "Gilmore Girls",
-        "Silo",
-        "The Cuckoo's Calling"
-      ]
-    },
-    "keywords": [
-      "Strike season 7",
-      "Strike The Running Grave",
-      "Tom Burke Robin Ellacott",
-      "J.K. Rowling Robert Galbraith"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/09/jk-rowling.jpg?w=1200&amp;h=675&amp;fit=crop",
-        "caption": "BBC Confirms Release Window for Strike Season 7",
-        "source": "Collider"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 22:57:17 GMT"
-  },
-  "e0mpwl": {
-    "id": "e0mpwl",
-    "type": "news",
-    "headline": "Matthew McConaughey and Woody Harrelson Discuss Future of Apple TV Series Brothers After Season 1 Finale",
-    "dek": "The stars and co-creator of the comedy series Brothers share whether a second season is on the horizon following the recent finale.",
-    "entities": {
-      "people": [
-        "Matthew McConaughey",
-        "Woody Harrelson",
-        "Lee Eisenberg",
-        "Holland Taylor",
-        "Jen Affleck",
-        "Zac Affleck",
-        "Steve Kornacki",
-        "Blake Lively",
-        "Bret Baier",
-        "Ellen DeGeneres",
-        "Matthew Wright"
-      ],
-      "titles": [
-        "Brothers",
-        "The Secret Lives of Mormon Wives"
-      ]
-    },
-    "keywords": [
-      "Brothers Season 2",
-      "Matthew McConaughey Woody Harrelson",
-      "Brothers Apple TV",
-      "Lee Eisenberg Brothers finale"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/09/brothers-are-they-really-brothers.jpg",
-        "caption": "Matthew McConaughey and Woody Harrelson Discuss Future of Apple TV Series Brothers After Season 1 Finale",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 22:45:13 +0000"
-  },
-  "1b1rcal": {
-    "id": "1b1rcal",
-    "type": "news",
-    "headline": "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR, and KGF 2?",
-    "dek": "Trade analysts decode the monumental expectations surrounding Nitesh Tiwari's Ramayana, evaluating whether its advance bookings and massive budget can replicate historical blockbusters.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Rakul Preet Singh",
-        "Anupam Kher",
-        "Lara Dutta",
-        "Arun Govil",
-        "Vivek Oberoi",
-        "Sunny Deol",
-        "Rohit Jaiswal"
-      ],
-      "titles": [
-        "Ramayana",
-        "Pushpa 2",
-        "RRR",
-        "KGF 2",
-        "Baahubali",
-        "Pushpa 1",
-        "Baahubali The Conclusion"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office",
-      "Ramayana advance booking",
-      "Ranbir Kapoor Ramayana",
-      "Nitesh Tiwari Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanapresalesday1mainfeature-73361793827809.jpg",
-        "caption": "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR, and KGF 2?",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 05 Nov 2026 03:06:05 +0530"
   },
   "1m3llbg": {
     "id": "1m3llbg",

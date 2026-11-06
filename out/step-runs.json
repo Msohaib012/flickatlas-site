@@ -3037,24 +3037,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-05T15:56:31Z",
-    "run_id": "42059058948",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-05T16:55:54Z",
     "run_id": "42068607679",
     "status": "success",
@@ -3562,6 +3544,29 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-06T15:25:05Z",
+    "run_id": "42241602912",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Comparing Day One Box Office Collections For Yash Films Including Ramayana KGF 2 And Toxic",
+      "Oh Season Trailer Highlights Star-Studded Cast in Festive Holiday Film",
+      "Chicago Fire Star Jake Lockett and Loki Cast Member Lead New Romantic Comedy Trailer",
+      "Salman Khan Starrer Maatrubhumi Eyes November Release Ahead of Shah Rukh Khan's King"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
@@ -8220,5 +8225,5 @@
    }
   ]
  },
- "updated_at": "2026-11-06T15:20:11Z"
+ "updated_at": "2026-11-06T15:25:05Z"
 }

@@ -71137,5 +71137,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 12:19:12 GMT"
+  },
+  "25ghxk": {
+    "id": "25ghxk",
+    "type": "news",
+    "headline": "Comparing Day One Box Office Collections For Yash Films Including Ramayana KGF 2 And Toxic",
+    "dek": "An analysis of the opening day international and worldwide earnings for recent projects starring actor Yash.",
+    "body": [
+      {
+        "h": "Introduction To Yash And His Box Office Stardom",
+        "p": [
+          "Actor Yash has firmly established himself as a powerhouse of talent within Kannada cinema and across the broader entertainment landscape. His consistent ability to draw massive audiences has cemented his status as a bankable star whose projects generate immense anticipation. Following a string of massive successes, his capability to drive ticket sales remains a major talking point in the film industry.",
+          "As discussions swirl around his recent cinematic outings, attention has naturally turned to how his latest ventures compare on opening day. Observers often look at his career trajectory to understand what makes his projects such dominant forces at the ticket counters."
+        ]
+      },
+      {
+        "h": "Evaluating The Opening Day Performance Of Ramayana Part 1",
+        "p": [
+          "The theatrical arrival of Ramayana Part 1 brought significant excitement among moviegoers, particularly due to its grand scale and high-profile cast. Directed by Nitesh Tiwari, the epic drama featured an ensemble that drew praise from critics and audiences alike during early screenings.",
+          "According to official statements from the makers, Ramayana Part 1 pulled in a massive worldwide opening of around Rs 155 crore. This strong debut made it one of the most notable pre-Diwali openers of recent times, showcasing the actor's appeal well beyond regional boundaries."
+        ]
+      },
+      {
+        "h": "Dual Roles And Production Involvement",
+        "p": [
+          "Beyond his acting credentials, Yash took on additional responsibilities for the epic drama by serving as a co-producer alongside Namit Malhotra. This dual involvement added an extra layer of interest for followers tracking the commercial aspects of the venture.",
+          "His portrayal of Ravana in the much-awaited epic generated significant buzz and added to the overall appeal of the project. The strong initial numbers provided a rewarding outcome for everyone involved in bringing the large-scale production to life."
+        ]
+      },
+      {
+        "h": "Comparing International Box Office Figures For Toxic",
+        "p": [
+          "In addition to the epic drama, another major title in the actor's filmography is Toxic, which also managed to secure impressive international box office numbers on its opening day. Reports indicate that the film minted Rs 140.75 crore on day one.",
+          "This solid performance reinforced the star's widespread market pull, allowing him to maintain a consistent presence among the top earners of the contemporary film industry."
+        ]
+      },
+      {
+        "h": "The Reign Of KGF Chapter 2 At The Box Office",
+        "p": [
+          "While his recent releases have crossed the Rs 100-crore mark on opening day with ease, KGF Chapter 2 remains a towering benchmark in his career. According to reports from Sacnilk, that particular film earned Rs 164 crore worldwide on its opening day.",
+          "The extraordinary success of KGF Chapter 2 set a high standard that continues to dominate discussions about record-breaking openings in modern cinema."
+        ]
+      },
+      {
+        "h": "Achieving A Remarkable Hat-Trick Of Openers",
+        "p": [
+          "By securing opening figures of over Rs 100 crore for KGF 2, Toxic, and Ramayana 1, Yash achieved a notable hat-trick in his career. This feat stands out at a time when many prominent Bollywood superstars have faced challenges crossing the Rs 100-crore worldwide mark on day one.",
+          "The consistent performance of these three consecutive releases highlights the strong backing he enjoys from fans across various language markets."
+        ]
+      },
+      {
+        "h": "Determining The Highest Career Opener",
+        "p": [
+          "With multiple high-grossing films to his name, the question of which project holds the top spot for day-one collections naturally arises. While the new releases performed phenomenally, data points indicate that KGF Chapter 2 still maintains its position as the highest opening grosser of his career.",
+          "This enduring record demonstrates the unprecedented wave of excitement that the earlier franchise installment generated upon its initial release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Yash has secured a hat-trick of Rs 100 crore-plus openers with KGF 2, Toxic, and Ramayana Part 1. While his recent epic drama and Toxic pulled in massive international and worldwide day-one collections, KGF Chapter 2 continues to hold the record as the highest opening grosser of his career."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash starred in KGF 2, Toxic, and Ramayana Part 1.",
+      "Ramayana Part 1 registered a worldwide opening of around Rs 155 crore.",
+      "KGF Chapter 2 earned Rs 164 crore worldwide on its opening day.",
+      "Toxic minted Rs 140.75 crore on the opening day at the international box office.",
+      "Nitesh Tiwari directed Ramayana Part 1.",
+      "Namit Malhotra co-produced Ramayana Part 1 alongside Yash.",
+      "Yash plays the role of Ravana in Ramayana Part 1."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Akshay Kumar",
+        "Aamir Khan",
+        "Salman Khan",
+        "Arun Mandola",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Ramayana",
+        "KGF 2",
+        "Toxic",
+        "Ramayana Part 1",
+        "KGF Chapter 2"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana KGF 2 Toxic box office",
+      "Ramayana Part 1 box office collection",
+      "Yash highest opener career",
+      "KGF Chapter 2 opening day"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/yashramayanakgf2-30701793974613.jpg",
+        "caption": "Comparing Day One Box Office Collections For Yash Films Including Ramayana KGF 2 And Toxic",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 20:44:00 +0530"
+  },
+  "1953nwp": {
+    "id": "1953nwp",
+    "type": "news",
+    "headline": "Oh Season Trailer Highlights Star-Studded Cast in Festive Holiday Film",
+    "dek": "Samuel Goldwyn Films has launched the trailer for Oh Season, a holiday movie starring Joel McHale, Josh Holloway, and a prominent ensemble cast.",
+    "body": [
+      {
+        "h": "Introduction to the Holiday Release",
+        "p": [
+          "The holiday season brings a fresh cinematic preview as the official trailer for Oh Season debuts. Directed by Mateo Messina and distributed by Samuel Goldwyn Films, the project assembles a notable group of recognizable faces for a festive narrative.",
+          "With winter celebrations approaching, this upcoming project offers viewers a dramatic and comedic look at holiday traditions undergoing unexpected transformations."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Lineup",
+        "p": [
+          "The movie features Joel McHale, widely recognized for his work on Community, The Soup, Animal Control, and The 1% Club. Joining him in a prominent role is Josh Holloway, whose previous credits include Lost, Colony, Duster, and Battle of the Year.",
+          "The wider ensemble cast further rounds out with Paula Patton, Yonas Kibreab, Cress Williams, Kate Micucci, and Scott Hoying, bringing together television and film veterans."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centers around young Felix McCoy, portrayed by Yonas Kibreab, who navigates profound grief following the passing of his mother, Mary, played by Paula Patton. Mary was famously the creator of their town's cherished annual holiday pageant.",
+          "Complications arise when an overconfident director named Hamilton Lydell, played by Joel McHale, steps in to take over and completely rebrand the production into a shallow spectacle."
+        ]
+      },
+      {
+        "h": "Trailer Highlights and Conflict",
+        "p": [
+          "Opening with Felix reflecting on his mother's words about hearing something around every corner, the 1-minute 18-second preview showcases the town preparing for the reworked holiday festivities. Disenchanted by the drastic changes, Felix attempts a secret sabotage.",
+          "As the story unfolds, the young protagonist begins to understand that preserving his mother's genuine legacy requires a different approach than simply trying to derail the program entirely."
+        ]
+      },
+      {
+        "h": "Release Schedule",
+        "p": [
+          "Audiences looking forward to the feature will not have to wait long, as the movie is officially scheduled to premiere on November 20, 2026.",
+          "The recent rollout of the promotional trailer gives fans their first substantive look at the tone, characters, and festive conflicts driving the story forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Samuel Goldwyn Films has released the official trailer for the holiday movie Oh Season, directed by Mateo Messina and starring Joel McHale and Josh Holloway. The story follows a young boy attempting to protect his late mother's pageant legacy from a flamboyant director ahead of its November 20, 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Oh Season is directed by Mateo Messina.",
+      "The film stars Joel McHale, Josh Holloway, Paula Patton, Yonas Kibreab, Cress Williams, Kate Micucci, and Scott Hoying.",
+      "The trailer runs for 1 minute and 18 seconds.",
+      "Oh Season is scheduled to release on November 20, 2026.",
+      "Samuel Goldwyn Films released the trailer."
+    ],
+    "entities": {
+      "people": [
+        "Joel McHale",
+        "Josh Holloway",
+        "Mateo Messina",
+        "Paula Patton",
+        "Yonas Kibreab",
+        "Cress Williams",
+        "Kate Micucci",
+        "Scott Hoying",
+        "Disita Sikdar"
+      ],
+      "titles": [
+        "Oh Season",
+        "Community",
+        "The Soup",
+        "Animal Control",
+        "The 1% Club",
+        "Duster",
+        "Lost",
+        "Colony",
+        "Battle of the Year"
+      ]
+    },
+    "keywords": [
+      "Oh Season movie trailer",
+      "Joel McHale Oh Season",
+      "Josh Holloway holiday movie",
+      "Mateo Messina film release"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/8_05a90d.jpg?resize=1200,630",
+        "caption": "Oh Season Trailer Highlights Star-Studded Cast in Festive Holiday Film",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:00:00 +0000"
+  },
+  "esz9v6": {
+    "id": "esz9v6",
+    "type": "news",
+    "headline": "Salman Khan Starrer Maatrubhumi Eyes November Release Ahead of Shah Rukh Khan's King",
+    "dek": "Salman Khan's upcoming action drama Maatrubhumi: May War Rest In Peace has reportedly locked November 20 for its theatrical arrival, positioning itself ahead of Shah Rukh Khan's King.",
+    "body": [
+      {
+        "h": "The Reported Theatrical Release Date",
+        "p": [
+          "Reports indicate that Salman Khan's next cinematic venture, Maatrubhumi: May War Rest In Peace, has targeted November 20 for its official arrival on the big screen. While production banners and creators have kept official pronouncements pending, this targeted date has quickly become a major talking point across the industry.",
+          "Arriving ahead of several other high-profile projects, this scheduling places the movie in a prominent window within the late autumn theatrical calendar. Moviegoers and trade analysts alike are watching closely to see when the final formal declaration will be issued by the studio."
+        ]
+      },
+      {
+        "h": "Box-Office Landscape and Clash Dynamics",
+        "p": [
+          "The newly reported mid-November arrival date immediately thrusts the project into a competitive environment surrounded by major upcoming films. Notable titles slated for this broader theatrical period include Ranbir Kapoor's Ramayana and Sunny Deol's Suryaa.",
+          "Furthermore, positioning the film on November 20 places it directly ahead of Shah Rukh Khan's widely anticipated project, King, which is currently expected to hit cinemas the following month in December."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Creative Vision",
+        "p": [
+          "Directed by Apoorva Lakhia, the project is backed by the production banner Salman Khan Films. The leading cast features Salman Khan sharing screen space with Chitrangda Singh in roles that promise substantial dramatic weight.",
+          "Insiders suggest that the storyline focuses heavily on an emotionally driven narrative where family relationships take center stage. The subject matter is reported to hold deep personal significance for the lead actor, who has driven the effort to bring this specific story to audiences."
+        ]
+      },
+      {
+        "h": "Upcoming Trailer Launch in Mumbai",
+        "p": [
+          "Anticipation surrounding the project is set to peak with the unveiling of the official trailer. Scheduled for a release at approximately 6 pm today, the launch event is taking place in Mumbai.",
+          "The promotional rollout will give audiences their very first comprehensive look at the film's overarching universe, central conflict, and character dynamics, helping clarify what viewers can expect upon its theatrical debut."
+        ]
+      },
+      {
+        "h": "Debate Over the Promotional Track",
+        "p": [
+          "Ahead of the trailer debut, the film's promotional campaign has already sparked discussions regarding its musical choices. Earlier in the week, the lead actor lent his voice to a newly released track titled 'Teri Sexy Beauty' which dropped at 5 am.",
+          "Despite generating initial curiosity, the song has also raised questions among observers regarding its thematic relevance to the movie's serious dramatic narrative."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan's upcoming film Maatrubhumi: May War Rest In Peace has reportedly locked a November 20 theatrical release date, positioning it ahead of Shah Rukh Khan's King in December. Directed by Apoorva Lakhia and co-starring Chitrangda Singh, the movie is backed by Salman Khan Films and features a trailer launch event in Mumbai today.",
+          "The project has also drawn attention for its competitive box-office window alongside films like Ranbir Kapoor's Ramayana and Sunny Deol's Suryaa, as well as discussions surrounding its promotional song 'Teri Sexy Beauty'."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan's Maatrubhumi: May War Rest In Peace has reportedly locked November 20 as its theatrical release date.",
+      "Shah Rukh Khan's King is expected to arrive in theatres in December.",
+      "Apoorva Lakhia is the director of Maatrubhumi: May War Rest In Peace.",
+      "Salman Khan Films is backing the project.",
+      "Chitrangda Singh stars alongside Salman Khan in the film.",
+      "The trailer of Maatrubhumi: May War Rest In Peace is set to be unveiled at approximately 6 pm in Mumbai.",
+      "Salman Khan lent his voice to 'Teri Sexy Beauty', a song released at 5 am as part of the film's promotional campaign."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shah Rukh Khan",
+        "Apoorva Lakhia",
+        "Chitrangda Singh",
+        "Ranbir Kapoor",
+        "Sunny Deol",
+        "Jiya Surana",
+        "Ed Sheeran",
+        "Suhana"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest In Peace",
+        "King",
+        "Ramayana",
+        "Suryaa",
+        "Teri Sexy Beauty",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi release date",
+      "Shah Rukh Khan King",
+      "Apoorva Lakhia film",
+      "Teri Sexy Beauty song"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/salmankhansoooo1793958535.jpg",
+        "caption": "Salman Khan Starrer Maatrubhumi Eyes November Release Ahead of Shah Rukh Khan's King",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-06T15:45:11+05:30"
+  },
+  "1ymkt8q": {
+    "id": "1ymkt8q",
+    "type": "news",
+    "headline": "Chicago Fire Star Jake Lockett and Loki Cast Member Lead New Romantic Comedy Trailer",
+    "dek": "An exclusive first look at the romantic comedy Apples and Airplanes introduces a slow-burn romance between a talented interior designer and a famous foreign actor.",
+    "body": [
+      {
+        "h": "Exclusive Trailer Premiere",
+        "p": [
+          "A brand new romantic comedy titled Apples and Airplanes has officially debuted its first trailer, offering audiences an exclusive glimpse into a blossoming island romance. The upcoming feature film brings together notable television stars for a lighthearted story centered around unexpected connections.",
+          "The production is backed by Five16 Films and is scheduled to receive a wide theatrical release in the year 2027."
+        ]
+      },
+      {
+        "h": "Starring Cast and Crew",
+        "p": [
+          "The film is led by former Chicago Fire cast member Jake Lockett, who steps into the role of a famous foreign actor named Andre. He is joined by Sarafina King, recognized for her previous work in Loki and For All Mankind, who portrays a successful interior designer named Olivia.",
+          "In addition to the two main leads, the romantic comedy features a supporting cast that includes Dominic Burgess, Kelly Collins Lintz, Dani Deetté, and Aaron Goldenberg."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "According to the official synopsis provided for the film, the narrative follows Olivia and Andre after a chance encounter aboard an airplane sparks a slow-burn romance between them. As their paths continue to cross on the island, sharp banter and unmistakable chemistry begin to break through the emotional baggage both individuals carry from their previous relationships.",
+          "The trailer itself opens with a scenic view of Nevis in the Caribbean, where Olivia expresses surprise to her friend about meeting someone famous on her flight."
+        ]
+      },
+      {
+        "h": "Key Trailer Moments",
+        "p": [
+          "Footage from the preview highlights initial meetings, shared drinks, and moments where Andre attempts to make the most of his time away from filming schedules. When Andre suggests they hang out during their mutual break from work, Olivia receives encouragement from her friend to see what happens.",
+          "As the romance develops, Andre opens up about his growing feelings, noting that Olivia treats him like a real person. However, Olivia displays hesitation, remarking that the rapid pace and who he is make the situation feel overwhelming."
+        ]
+      },
+      {
+        "h": "Emotional Resolution in the Preview",
+        "p": [
+          "Towards the conclusion of the trailer, Andre finally voices his true emotions directly to Olivia, reflecting on the improbability of sitting next to her on that initial airplane ride.",
+          "The preview leaves viewers with a teaser of the emotional stakes involved as the two protagonists navigate their sudden connection."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Five16 Films has released an exclusive trailer for the upcoming romantic comedy Apples and Airplanes, starring Jake Lockett and Sarafina King. The film is scheduled for a wide release in 2027 and follows an interior designer and a famous actor whose chance airplane meeting leads to a Caribbean romance."
+        ]
+      }
+    ],
+    "facts": [
+      "Apples and Airplanes is a Five16 Films production.",
+      "The film will be released wide in 2027.",
+      "Jake Lockett is a former Chicago Fire star.",
+      "Sarafina King is known for her roles in Loki and For All Mankind.",
+      "Additional cast members include Dominic Burgess, Kelly Collins Lintz, Dani Deetté, and Aaron Goldenberg."
+    ],
+    "entities": {
+      "people": [
+        "Jake Lockett",
+        "Sarafina King",
+        "Dominic Burgess",
+        "Kelly Collins Lintz",
+        "Dani Deetté",
+        "Aaron Goldenberg",
+        "Mintu Kumar Tomar"
+      ],
+      "titles": [
+        "Apples and Airplanes",
+        "Chicago Fire",
+        "Loki",
+        "For All Mankind"
+      ]
+    },
+    "keywords": [
+      "Apples and Airplanes film",
+      "Jake Lockett Apples and Airplanes",
+      "Sarafina King movie",
+      "Apples and Airplanes trailer"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Chicago-Fires-Jake-Lockett-Loki-Star-Lead-New-Comedy-Movie-Apples-and-Airplanes-Trailer-_-Exclusive.jpg?resize=1200,630",
+        "caption": "Chicago Fire Star Jake Lockett and Loki Cast Member Lead New Romantic Comedy Trailer",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:00:00 +0000"
   }
 };
