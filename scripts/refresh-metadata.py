@@ -230,12 +230,29 @@ def main():
     published = pt.read_js_map(args.out, "FA_PUBLISHED")
     today = date.today()
 
-    # In scope, newest first (most likely to have changed).
+    # In scope, ALREADY-RELEASED titles first, newest release first
+    # (fix 2026-11-06): their popularity/votes are what actually move
+    # after release, and the homepage rails rank by popularity. The
+    # old release-date-DESC-only sort let the same ~50 far-future
+    # titles monopolise every daily run (184 future titles sit ahead
+    # of every released one), so a released hit never refreshed —
+    # Ramayana: Rise of a Legend kept a baked popularity of None
+    # while TMDB had 117, and ranked last on the homepage.
+    # Upcoming titles follow, soonest release first; dateless
+    # entries (in scope because they need a date) lead that group.
     scoped = [e for e in published.values()
               if e and in_scope(e, today)]
-    scoped.sort(key=lambda e: (e.get("release_date")
-                               or e.get("first_air_date") or ""),
-                reverse=True)
+
+    def refresh_order(e):
+        d = parse_date(e.get("release_date")
+                       or e.get("first_air_date"))
+        if d is not None and d <= today:
+            return (0, -d.toordinal())
+        if d is None:
+            return (1, 0)
+        return (1, d.toordinal())
+
+    scoped.sort(key=refresh_order)
     todo = scoped[:args.max]
     print(f"refresh-metadata: {len(published)} published, "
           f"{len(scoped)} in scope, refreshing {len(todo)} "

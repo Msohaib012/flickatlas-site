@@ -511,6 +511,23 @@ def classify(published, today, digital=None, registry=None, days=DIGITAL_DAYS):
         if not clean:
             if pending_coming:
                 coming.append(pending_coming)
+            elif digital_date and digital_date <= today:
+                # Confirmed digital date today or in the past, but no
+                # providers were baked in at publish time (they are
+                # frozen then and never re-fetched): the title HAS
+                # arrived on OTT, so it belongs in Now on its digital
+                # date — with the note's provider when it maps to one,
+                # else date-only (never a guessed platform). Mirrors
+                # the provider-carrying Now branch below. Without this,
+                # such titles fell out of Coming on premiere day and
+                # never landed in Now (Possible Love, 2026-11-06).
+                prov = note_to_provider(dig.get("note"), registry)
+                now.append({
+                    "id": entry.get("id"), "type": "movie",
+                    "providers": [prov] if prov else [],
+                    "date": digital_date, "date_kind": "digital",
+                    "country": dig.get("country") or "",
+                })
             continue
         if not title_date:
             dateless.append(entry.get("title") or str(tid))

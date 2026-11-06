@@ -615,6 +615,79 @@ def main():
           f"{len(daywise)} movie(s), "
           f"{sum(len(v) for v in daywise.values())} row(s)")
 
+    # Plausibility guard (fix 2026-11-06): an Indian film's single-day
+    # overseas gross cannot credibly exceed 10x its same-day India Net
+    # (even the biggest event films run near parity). The overseas-AI
+    # lane attached cumulative / other-film totals as day figures —
+    # Enemy Of The Smuggler Day 1 carried overseas $1,324,881 against
+    # India Net $8,452 (157x) — and merge preservation then kept the
+    # poisoned value forever, so the homepage worldwide pairing showed
+    # a $1.33M "total" for a film whose whole India run is ~$48K while
+    # /box-office (India Net only) showed entirely different figures.
+    # Clean the baseline here, every run: drop ONLY the overseas field
+    # of such a row; the India figure stands. World titles are exempt:
+    # India is a minor market for them, so a large ratio can be real.
+    indian_ids = set()
+    if published is not None:
+        # Mirror UI.industryOf()/isIndian() (js/ui.js) — the baked
+        # `industry` field alone misfiles Indian titles as "world"
+        # (e.g. Ranabaali, origin IN / Telugu, baked "world").
+        _INDIAN_LANGS = {"hi", "ta", "te", "ml", "kn", "pa", "bn", "mr",
+                         "gu", "or", "as", "sa", "ks", "sd", "kok", "mni",
+                         "mai", "sat", "doi", "brx", "bho", "awa", "mag",
+                         "mwr", "hne", "tcy"}
+
+        def _countries(v):
+            out = []
+            for c in v.get("origin_country") or []:
+                if c:
+                    out.append(str(c).upper())
+            for c in v.get("production_countries") or []:
+                x = c if isinstance(c, str) else (c or {}).get("iso_3166_1")
+                if x:
+                    out.append(str(x).upper())
+            return out
+
+        def _is_indian(v):
+            cs = _countries(v)
+            if "PK" in cs:
+                return False
+            if v.get("industry") == "pakistani" and "IN" not in cs:
+                return False
+            if (v.get("original_language") or "") == "ur" and "IN" not in cs:
+                return False
+            if "IN" in cs:
+                return True
+            if (v.get("original_language") or "") in _INDIAN_LANGS:
+                return True
+            if not cs:
+                spoken = [l if isinstance(l, str)
+                          else (l or {}).get("iso_639_1")
+                          for l in v.get("spoken_languages") or []]
+                return any(l in _INDIAN_LANGS for l in spoken if l)
+            return False
+
+        indian_ids = {str(k) for k, v in pub.items()
+                      if isinstance(v, dict) and _is_indian(v)}
+    n_cleaned = 0
+    for tid, rows in daywise.items():
+        if str(tid) not in indian_ids or not isinstance(rows, list):
+            continue
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            ov, col = row.get("overseas"), row.get("collection")
+            if (isinstance(ov, (int, float)) and isinstance(col, (int, float))
+                    and col > 0 and ov > 10 * col):
+                print(f"multisource: WARN {tid} {row.get('day')}: overseas "
+                      f"${ov} is {ov / col:.0f}x India Net ${col} — "
+                      f"dropping overseas field")
+                del row["overseas"]
+                n_cleaned += 1
+    if n_cleaned:
+        print(f"multisource: plausibility guard dropped {n_cleaned} "
+              f"implausible overseas field(s) from the baseline")
+
     collected, extras_collected, skipped_files, rejected = load_staging(
         staging_dir, today, published, args.primary)
     if not collected and not extras_collected:
@@ -634,6 +707,24 @@ def main():
         return 0
 
     finalized = finalize(collected, extras_collected, args.primary)
+    # Same plausibility guard for newly finalized figures, so a fresh
+    # implausible overseas extra never enters the baseline at all.
+    for tid, days in finalized.items():
+        if str(tid) not in indian_ids:
+            continue
+        for day, fig in days.items():
+            extras = fig.get("extras") or {}
+            ov = extras.get("overseas") or {}
+            india_cr, ov_cr = fig.get("collection_inr_cr"), ov.get("crore")
+            if (fig.get("india") and isinstance(india_cr, (int, float))
+                    and isinstance(ov_cr, (int, float))
+                    and india_cr > 0 and ov_cr > 10 * india_cr):
+                print(f"multisource: WARN {tid} Day {day}: overseas "
+                      f"Rs{ov_cr} Cr is {ov_cr / india_cr:.0f}x India Net "
+                      f"Rs{india_cr} Cr — dropping overseas extra")
+                del extras["overseas"]
+                if not extras:
+                    fig.pop("extras", None)
     n_figs = sum(len(v) for v in finalized.values())
     n_multi = sum(1 for days in finalized.values()
                   for f in days.values()
