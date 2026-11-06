@@ -40,6 +40,101 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 09:13:35 +0200"
   },
+  "rzcswc": {
+    "id": "rzcswc",
+    "type": "news",
+    "headline": "Prime Video Unveils First Trailer for Crime Series Criminal Starring Charlie Hunnam and Luke Evans",
+    "dek": "Based on the acclaimed graphic novels by Ed Brubaker and Sean Phillips, the new two-part series will premiere its first chapters in January 2027.",
+    "entities": {
+      "people": [
+        "Charlie Hunnam",
+        "Luke Evans",
+        "Ed Brubaker",
+        "Sean Phillips",
+        "Gus Halper",
+        "Adria Arjona",
+        "Emilia Clarke",
+        "Richard Jenkins",
+        "Kadeem Hardison",
+        "John Hawkes",
+        "Logan Browning",
+        "Michael Mando",
+        "Garrett Hedlund",
+        "Patrick J. Adams",
+        "Pat Healy",
+        "Taylor Selé",
+        "Aliyah Camacho",
+        "Marvin Jones III",
+        "Michael Xavier",
+        "Dominic Burgess",
+        "Chris Diamantopoulos",
+        "Lawrence Kao",
+        "Katie Stevens",
+        "John Pyper-Ferguson",
+        "Robert Lee Hart",
+        "Aina Brei’yon",
+        "Kyle Davis"
+      ],
+      "titles": [
+        "Criminal"
+      ]
+    },
+    "keywords": [
+      "Criminal TV show",
+      "Charlie Hunnam Criminal series",
+      "Luke Evans Prime Video",
+      "Ed Brubaker Criminal graphic novel"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/criminal-prime-video-series.jpg",
+        "caption": "Prime Video Unveils First Trailer for Crime Series Criminal Starring Charlie Hunnam and Luke Evans",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 06:17:05 +0000"
+  },
+  "kn9h7x": {
+    "id": "kn9h7x",
+    "type": "news",
+    "headline": "Scene Movie Review: Suriya embraces a flawed character in Jithu Madhavan's dark comedy",
+    "dek": "Suriya stars alongside Nazriya Nazim Fahadh and Naslen in the dark comedy action film Scene, directed by Jithu Madhavan.",
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim Fahadh",
+        "Naslen",
+        "Anandraj",
+        "Lal",
+        "Dravid Selvam",
+        "Sushin Shyam",
+        "Inbaraj",
+        "Maya",
+        "Eswaran"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath and Sons"
+      ]
+    },
+    "keywords": [
+      "Scene movie review",
+      "Suriya Scene film",
+      "Jithu Madhavan Scene",
+      "Nazriya Nazim Fahadh Naslen",
+      "Scene movie rating"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1151939232_scene-review-webp.webp",
+        "caption": "Scene Movie Review: Suriya embraces a flawed character in Jithu Madhavan's dark comedy",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 11:44:40 +0530"
+  },
   "1g5qs26": {
     "id": "1g5qs26",
     "type": "news",
@@ -101,6 +196,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-06T05:51:23Z"
+  },
+  "1m9ocxb": {
+    "id": "1m9ocxb",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Achieves Kollywood's Biggest Third Week In India",
+    "dek": "Jailer 2 continues its historic theatrical run, officially recording the highest third-week collection for a Kollywood film in India despite facing stiff competition from new releases.",
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "SJ Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Suriya"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer",
+        "Ramayana",
+        "Vikram",
+        "Amaran",
+        "Ponniyin Selvan 1",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Jailer 2",
+      "Rajinikanth",
+      "Jailer 2 box office",
+      "Jailer 2 collection day 22"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jailer-2-box-office-collection-day-22-scores-kollywoods-biggest-week-3-in-india-0001.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Achieves Kollywood's Biggest Third Week In India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 05:44:54 +0000"
   },
   "1gl6w1p": {
     "id": "1gl6w1p",
@@ -755,6 +892,37 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 00:07:16 +0000"
+  },
+  "1gthehc": {
+    "id": "1gthehc",
+    "type": "news",
+    "headline": "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Investigations",
+    "dek": "The long-running reality television program has been permanently axed by Channel 4 alongside its planned spinoffs following alarming reports brought to light by BBC Panorama.",
+    "entities": {
+      "people": [
+        "Matt Murray",
+        "Whitney Hughes",
+        "Priya Dogra"
+      ],
+      "titles": [
+        "Married at First Sight U.K.",
+        "Second Married at First Sight"
+      ]
+    },
+    "keywords": [
+      "Married at First Sight UK",
+      "Channel 4 Married at First Sight",
+      "Second Married at First Sight",
+      "Matt Murray Whitney Hughes"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/52c/a89/d174439a775540b895b363e70692804f07-marriedatfirstsight.1x.rsocial.w1200.jpg",
+        "caption": "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Investigations",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-06T00:01:21.052Z"
   },
   "13kv3pl": {
     "id": "13kv3pl",
@@ -4525,160 +4693,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 14:29:42 +0000"
-  },
-  "790206": {
-    "id": "790206",
-    "type": "news",
-    "headline": "Kartik Aaryan and Kabir Khan Team Up Again for Ladaku With June 2027 Release",
-    "dek": "The actor and director duo behind Chandu Champion are back for a new sports-themed biographical drama inspired by real-life events.",
-    "entities": {
-      "people": [
-        "Kartik Aaryan",
-        "Kabir Khan",
-        "Tajamul Islam",
-        "Murlikant Petkar",
-        "Ananya Birla",
-        "Anurag Basu",
-        "Sreeleela"
-      ],
-      "titles": [
-        "Ladaku",
-        "Chandu Champion",
-        "Bajrangi Bhaijaan",
-        "83",
-        "Naagzilla"
-      ]
-    },
-    "keywords": [
-      "Kartik Aaryan Ladaku",
-      "Kabir Khan Ladaku",
-      "Ladaku release date",
-      "Tajamul Islam film"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028366.jpg",
-        "caption": "Kartik Aaryan and Kabir Khan Team Up Again for Ladaku With June 2027 Release",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 14:28:23 +0000"
-  },
-  "hqcq8k": {
-    "id": "hqcq8k",
-    "type": "news",
-    "headline": "Ramayana Faces Massive $65 Million Overseas Box Office Target as $10 Million Marketing Budget Reported",
-    "dek": "Namit Malhotra's Ramayana: Part One is carrying enormous overseas box office expectations ahead of its worldwide theatrical release on November 5, with trade trackers reporting a $10 million international marketing budget and a $65 million foreign collection target.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Venky",
-        "Aditya Dhar",
-        "Ranveer Singh"
-      ],
-      "titles": [
-        "Ramayana: Part One",
-        "Dhurandhar 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana overseas box office target",
-      "Ramayana marketing budget",
-      "Namit Malhotra Ramayana Part One",
-      "Sony Pictures Ramayana distribution"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028365.jpg",
-        "caption": "Ramayana Faces Massive $65 Million Overseas Box Office Target as $10 Million Marketing Budget Reported",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 14:08:44 +0000"
-  },
-  "1apf8m9": {
-    "id": "1apf8m9",
-    "type": "news",
-    "headline": "Elon Musk Responds After Spending $474 Million on Defeated GOP Midterm Candidates",
-    "dek": "The billionaire Tesla and SpaceX leader reacted to a wave of Democratic wins after setting records with his political donations.",
-    "entities": {
-      "people": [
-        "Elon Musk",
-        "Donald Trump",
-        "James Talarico",
-        "Ken Paxton",
-        "Gina Hinojosa",
-        "Greg Abbott"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Elon Musk midterm donations",
-      "Elon Musk Texas election results",
-      "Tesla SpaceX stock premarket trading",
-      "Elon Musk 474 million spending"
-    ],
-    "images": [
-      {
-        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/MuskDOGE.jpg?w=1440&#038;h=810&#038;crop=1",
-        "caption": "Elon Musk Responds After Spending $474 Million on Defeated GOP Midterm Candidates",
-        "source": "The Hollywood Reporter"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 13:36:16 +0000"
-  },
-  "mqw4bl": {
-    "id": "mqw4bl",
-    "type": "news",
-    "headline": "Dune: Part Three Runtime Officially Confirmed as Shortest of the Trilogy",
-    "dek": "Denis Villeneuve's upcoming space opera will conclude Paul Atreides' story with a 150-minute runtime, making it shorter than its predecessors.",
-    "entities": {
-      "people": [
-        "Timothée Chalamet",
-        "Denis Villeneuve",
-        "Florence Pugh",
-        "Zendaya",
-        "Robert Pattinson",
-        "Anya Taylor-Joy",
-        "Paul Atreides",
-        "Irulan",
-        "Chani",
-        "Scytale",
-        "Stefania Sarrubba",
-        "Dolly Parton"
-      ],
-      "titles": [
-        "Dune: Part Three",
-        "Dune: Part One",
-        "Dune: Part Two",
-        "Legends",
-        "Scream",
-        "Netflix's \"trashy\" thriller",
-        "Traitors",
-        "Loki",
-        "Avengers: Doomsday",
-        "Corrie",
-        "I'm A Celeb",
-        "Line of Duty",
-        "Death in Paradise",
-        "EastEnders",
-        "Bake Off"
-      ]
-    },
-    "keywords": [
-      "Dune Part Three runtime",
-      "Denis Villeneuve Dune 3",
-      "Timothée Chalamet Dune Part Three",
-      "Dune 3 release date"
-    ],
-    "images": [
-      {
-        "url": "https://hips.hearstapps.com/hmg-prod/images/fb5c7bd8-8de4-471f-93ae-1d6ecad06eed.jpg?crop=0.880xw:1.00xh;0.0817xw,0&amp;resize=1200:*",
-        "caption": "Dune: Part Three Runtime Officially Confirmed as Shortest of the Trilogy",
-        "source": "Digital Spy"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 13:17:00 +0000"
   },
   "zjcoxh": {
     "id": "zjcoxh",

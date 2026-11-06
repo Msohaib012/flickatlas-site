@@ -1490,6 +1490,7 @@
         },
         "india": true,
         "sources": {
+          "bollybourse": 0.07,
           "filmynewsnetwork": 0.11,
           "sacnilk": 0.03
         }
@@ -5046,9 +5047,9 @@
       },
       "14": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.182,
+        "collection_inr_cr": 0.177,
         "collection_scope": "india_net",
-        "collection_usd": 19229,
+        "collection_usd": 18700,
         "date": "2026-11-05",
         "date_disagreed": false,
         "extras": {
@@ -5079,6 +5080,7 @@
         "india": true,
         "sources": {
           "bollybourse": 0.21,
+          "bollymoviereviewz": 0.15,
           "bollywoodhungama": 0.17,
           "filmynewsnetwork": 0.2,
           "moviemint": 0.12,

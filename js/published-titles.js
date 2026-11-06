@@ -5545,7 +5545,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
     "industry": "world",
-    "popularity": 33.4033,
+    "popularity": 29.9021,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -5948,7 +5948,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Set in a 1900s Pashtun village, this tragic short film follows the lives of Sher Alam and Memoona, whose marriage is rooted in a long-standing childhood promise. While their life begins with quiet affection, the peace is shattered by the poison of jealousy and local rumors.  When an innocent interaction is twisted into a scandal by a resentful friend, Sher Alam is consumed by suspicion and the crushing pressure of social \"honor\". His inability to trust leads to a final, devastating decision that destroys their lives and leaves a haunting legacy in the mountains",
     "industry": "pakistani",
-    "popularity": 0.1999,
+    "popularity": 0.162,
     "original_language": "ur",
     "origin_country": [
       "PK"
@@ -9103,7 +9103,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.9686,
+    "popularity": 0.96,
     "original_language": "ja",
     "origin_country": [
       "JP"
@@ -13857,7 +13857,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A young dictator awakens in purgatory, where he encounters a mysterious, nearly blind old man who also turns out to be a dictator. Trapped in a strange space with no apparent way out, the two begin to unravel their relationship, gradually turning their encounter into a confrontation that will force each of them to confront their own sense of superiority.",
     "industry": "world",
-    "popularity": 0.3731,
+    "popularity": 0.4129,
     "original_language": "en",
     "origin_country": [
       "RS"
@@ -23230,7 +23230,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "industry": "world",
-    "popularity": 38.7999,
+    "popularity": 37.7056,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -25879,7 +25879,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "bollywood",
-    "popularity": 1.917,
+    "popularity": 1.9578,
     "original_language": "ml",
     "origin_country": [
       "IN"
@@ -25939,7 +25939,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Our film Roots is a four minute short story about three close friends learning to grapple with the fleeting connection to their culture. Using morphs and experimenting with tactile media, this film will illuminate the dark psychological space of finding who one really is.",
     "industry": "world",
-    "popularity": 0.1759,
+    "popularity": 0.1938,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -26013,7 +26013,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "bollywood",
-    "popularity": 1.0761,
+    "popularity": 0.8534,
     "original_language": "te",
     "origin_country": [
       "IN"
@@ -26054,7 +26054,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Animated short film by Calgarian animator Daniel Volante.",
     "industry": "world",
-    "popularity": 0.1752,
+    "popularity": 0.181,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -26136,7 +26136,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "bollywood",
-    "popularity": 0.8934,
+    "popularity": 0.7695,
     "original_language": "te",
     "origin_country": [
       "IN"
@@ -26177,7 +26177,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Animated short film by Calgarian animator Mo Ramsay.",
     "industry": "world",
-    "popularity": 0.1492,
+    "popularity": 0.1681,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -26256,7 +26256,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Short animated film from Canada.",
     "industry": "world",
-    "popularity": 0.1756,
+    "popularity": 0.174,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -26338,7 +26338,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Alexis Walker tries to escape her violent past, but when her best friend is killed, she returns to the streets. Unknown to her, Sabrina hunts the vigilante who destroyed her family. Two women move toward a collision neither can avoid.",
     "industry": "world",
-    "popularity": 0.4095,
+    "popularity": 0.6625,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -26421,7 +26421,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "After an unexpected encounter, a young woman spends an afternoon wandering through the changing landscape of her hometown.",
     "industry": "world",
-    "popularity": 0.2297,
+    "popularity": 0.2998,
     "original_language": "tl",
     "origin_country": [
       "PH"
@@ -26458,7 +26458,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In 2024, two filmmakers set out to create the next hit reality show, but beneath all the over-the-top drama lurks something far more sinister.",
     "industry": "world",
-    "popularity": 0.5299,
+    "popularity": 0.658,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -26495,7 +26495,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A chance encounter brings Mer and Earth into each other’s lives, and before long, they find themselves becoming someone special to one another. Yet, what lies between them remains difficult to define.  But when Venus, a figure from Earth’s past, reappears, old feelings begin to resurface. Caught between the one standing by his side and the one he has never truly let go of, Earth finds himself shaken by his own uncertain heart.",
     "industry": "world",
-    "popularity": 0.5005,
+    "popularity": 0.3722,
     "original_language": "th",
     "origin_country": [
       "TH"
@@ -26535,7 +26535,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Over-enthusiastic and incapable personal assistant Wynn Santos must sell an apartment to a couple from hell.",
     "industry": "world",
-    "popularity": 0.3743,
+    "popularity": 0.4111,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -26614,7 +26614,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A giallo sequel to the 40-minute long web release of the same name from 2022.",
     "industry": "world",
-    "popularity": 0,
+    "popularity": 0.1941,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -26631,7 +26631,7 @@ window.FA_PUBLISHED = {
       "Horror"
     ],
     "tagline": "",
-    "status": "Released",
+    "status": "In Production",
     "production_countries": [
       "IT"
     ],
@@ -26696,7 +26696,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3162,
+    "popularity": 0.2403,
     "original_language": "es",
     "origin_country": [
       "ES"
@@ -26732,7 +26732,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 1.6397,
+    "popularity": 1.6747,
     "original_language": "fr",
     "origin_country": [
       "BE"
@@ -26773,7 +26773,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Upon learning that she has terminal cancer that will leave her bedridden for the rest of her life, young teenager Julia begs her mother, Andrea, to flee the hospital and discontinue treatment.",
     "industry": "world",
-    "popularity": 1.2232,
+    "popularity": 1.3867,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -26811,7 +26811,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Victoria is caught between three wars. One is in Israel, where she lives. Another is in Ukraine, where she was born. The third is personal: a battle with her father whose devotion to his new wife, Lena, left no room for his daughter. When Victoria learns he is gravely ill, she has no choice but to return to her Ukrainian hometown ? once peaceful, now shattered by war.",
     "industry": "world",
-    "popularity": 1.2241,
+    "popularity": 0.9214,
     "original_language": "uk",
     "origin_country": [
       "DE",
@@ -26853,7 +26853,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two actresses and a director meet in an old theater in Rosario to rehearse scenes from The Seagull and The Cherry Orchard by Anton Chekhov. As rehearsals unfold, the line between fiction and life begins to blur. Chekhov?s words merge with memories, frustrations, desires, and questions about time, loss, and the need to keep making art.",
     "industry": "world",
-    "popularity": 1.5291,
+    "popularity": 1.5901,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -26891,7 +26891,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Hninn is a diligent student who wants to become a nun. In February 2021, the military seizes power in Myanmar and everything she has strived for vanishes overnight. Civil war breaks out in the country and Hnin's family must learn to live with constant fear: moving house, going into hiding, deciding who to trust and where to go at all. For six years, the camera follows them as they search for a safe place in a country torn apart. And yet, amidst all this horror, there is still room for faith, courage and even joy.",
     "industry": "world",
-    "popularity": 1.7733,
+    "popularity": 1.4464,
     "original_language": "da",
     "origin_country": [
       "DK"
@@ -26931,7 +26931,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A middle-aged immigrant takes a swimming lesson on the last day of the year, aiming to join the crowd at the Dutch New Year's Plunge the following day.",
     "industry": "world",
-    "popularity": 1.1304,
+    "popularity": 1.1671,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -27013,7 +27013,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The story of Pairoj Pichetmetakul, an artist who decided to leave his hometown of Bangkok and pursue his dreams in New York for nearly a decade.",
     "industry": "world",
-    "popularity": 0.1785,
+    "popularity": 0.1714,
     "original_language": "th",
     "origin_country": [
       "TH"
@@ -27058,7 +27058,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3896,
+    "popularity": 0.3803,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -27098,7 +27098,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Dr. Eggman's evil scheme is to upgrade Metal Sonic to the ultimate fighting machine. By stealing Sonic's life data and harnessing the power of the Chaos Emeralds, Sonic and his friends realize that in order to defeat Metal Sonic, they must rely on the friendship they built through their adventures!",
     "industry": "world",
-    "popularity": 0.7421,
+    "popularity": 0.6877,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -27142,7 +27142,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A training camp for Myanmar's resistance movement lasts 45 days. Up close, we follow a group of young people who have decided to fight for their freedom. A moving and visually striking portrait of a courageous generation.",
     "industry": "world",
-    "popularity": 0.3647,
+    "popularity": 0.2998,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -27182,7 +27182,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On a deliberately paced walk through fragmented virtual spaces, a semi-autobiographical story unfolds about belonging and grief.",
     "industry": "world",
-    "popularity": 0.339,
+    "popularity": 0.3337,
     "original_language": "en",
     "origin_country": [
       "BE"
@@ -27258,7 +27258,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3023,
+    "popularity": 0.2422,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -27296,7 +27296,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Kelly lives with heroin addiction in the South Bronx, where she also works at a harm reduction clinic - handing out clean needles, administering Narcan, cleaning blood spots from the floors. Shot over five years by a single filmmaker embedded within her world, Be Still, My Soul observes her daily life through a restrained, immersive form: no narration, no explanation, a score that moves alongside her inner world.",
     "industry": "world",
-    "popularity": 0.2448,
+    "popularity": 0.1804,
     "original_language": "en",
     "origin_country": [
       "CH"
@@ -27392,7 +27392,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On New Year's Eve, three former punks toast their late bandmate at a distillery. When a strange sommelier invites them to a top-shelf tasting, the trio discover there's only one catch: every bottle requires a 'wish'. But as each of their desires twist into doom, these old friends discover that every pour at the Red Bat Distillery comes at a deadly price.",
     "industry": "world",
-    "popularity": 1.4285,
+    "popularity": 1.6636,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -27492,7 +27492,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A widowed father, encouraged by his nine-year-old daughter, returns to dating after years away from romance. Following multiple failed attempts with various suitors, he discovers that true love was closer than he imagined.",
     "industry": "world",
-    "popularity": 1.0246,
+    "popularity": 0.9538,
     "original_language": "es",
     "origin_country": [
       "MX"
@@ -27762,7 +27762,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
     "industry": "world",
-    "popularity": 19.5514,
+    "popularity": 18.1106,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -28380,6 +28380,852 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-15",
     "date_kind": "release",
     "runtime": 168,
+    "providers": []
+  },
+  "1795128": {
+    "id": 1795128,
+    "type": "movie",
+    "title": "The Torch",
+    "poster_path": "/zz2TgBlyYMT1xYoXQokZ1iJkFm8.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Meira foregrounds the historic and continuing resistance of the Meira Paibi, “women with torches” of Manipur. Emerging in response to the pervasive climate of fear produced by the enforcement of the Armed Forces (Special Powers) Act, 1958, the film traces how ordinary women transformed themselves into vigilant custodians of their communities. Meira situates the movement within a longer genealogy of women-led resistance in Manipur.",
+    "industry": "bollywood",
+    "popularity": 0.5652,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "341165": {
+    "id": 341165,
+    "type": "tv",
+    "title": "Kauriburi: The Cursed Temple",
+    "poster_path": "/7KTHqELZMK3Vl1uD607UFBdSEV4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An astrologer with psychic gifts ventures into a haunted forest to stop a secretive ancient order from sacrificing the woman he once loved.",
+    "industry": "bollywood",
+    "popularity": 0.3105,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "first_air_date": "2026-11-06",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-11-06",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1795121": {
+    "id": 1795121,
+    "type": "movie",
+    "title": "The Girl Beneath The Sun",
+    "poster_path": "/eZNOWwq21i3FhMOcSxCicQeO3me.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Teenage sugarcane harvester Shivkanya confronts the realities of early motherhood and marriage, unspoken duties, an eccentric  husband and an uncertain future that shapes and  constrains her dreams, identity and hopes for her child and herself.",
+    "industry": "bollywood",
+    "popularity": 0.1221,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "festival",
+    "runtime": 20,
+    "providers": []
+  },
+  "339052": {
+    "id": 339052,
+    "type": "tv",
+    "title": "RAMAYAN AN ATHARV SRIVASTAVA SERIES",
+    "poster_path": "/2BWubukon9DcA1ibSuKyccXitRN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An epic 4K animated retelling of the timeless legend of righteousness, devotion, and valor, produced by Bhakti Tales Productions.",
+    "industry": "bollywood",
+    "popularity": 0.4372,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Reality",
+      "Mystery"
+    ],
+    "tagline": "Our history our Ram",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U",
+    "first_air_date": "2026-11-06",
+    "networks": [],
+    "number_of_seasons": 1,
+    "number_of_episodes": 1,
+    "channel": "",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 1,
+        "air_date": "2026-11-06",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "BHAKTI TALES PRODUCTION"
+    ],
+    "providers": []
+  },
+  "1050981": {
+    "id": 1050981,
+    "type": "movie",
+    "title": "Being Heumann",
+    "poster_path": "/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
+    "backdrop_path": "/oBnXYbdvloYAHttptpASZYmztft.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken—not us.",
+    "industry": "world",
+    "popularity": 3.5606,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "CQp2pUXLvJk",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "tagline": "Based on a true revolution.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 127,
+    "providers": []
+  },
+  "1819101": {
+    "id": 1819101,
+    "type": "movie",
+    "title": "Vincent Niclo et le Choeur symphonique : Bel Canto Tour",
+    "poster_path": "/ieMAclQkt4Zy1A7mTseZrZPqtHH.jpg",
+    "backdrop_path": "/7Og4OEm34BaUU2fIGHWAGzIctjB.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.2135,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Music"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "it"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1286656": {
+    "id": 1286656,
+    "type": "movie",
+    "title": "I Play Rocky",
+    "poster_path": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+    "backdrop_path": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "vote_average": 8.714,
+    "vote_count": 7,
+    "overview": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+    "industry": "world",
+    "popularity": 13.4395,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "jq5oCjhQtIc",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "tagline": "The true underdog story.",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 128,
+    "providers": []
+  },
+  "1440539": {
+    "id": 1440539,
+    "type": "movie",
+    "title": "Itllu Arjuna",
+    "poster_path": "/305TOBJYCjuZriRu9FrbRHOprPX.jpg",
+    "backdrop_path": "/w2wlWZwPeQFGpSlkOv7RPFjNFPg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A mute man with exceptional skills falls in love, proving that true feelings do not always need words.",
+    "industry": "bollywood",
+    "popularity": 2.315,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 164,
+    "providers": []
+  },
+  "1780407": {
+    "id": 1780407,
+    "type": "movie",
+    "title": "Snoopy Presents: 12 Days of Snoopy",
+    "poster_path": "/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg",
+    "backdrop_path": "/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+    "industry": "world",
+    "popularity": 2.084,
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "trailer": {
+      "key": "xUQh-Yj__bA",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Family"
+    ],
+    "tagline": "Even good dogs have naughty days.",
+    "status": "In Production",
+    "production_countries": [
+      "US",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 33,
+    "providers": []
+  },
+  "1818821": {
+    "id": 1818821,
+    "type": "movie",
+    "title": "Les métamorphoses du crabe bleu",
+    "poster_path": "/weioAHbuTdVvmbtOFzgun5qRXvN.jpg",
+    "backdrop_path": "/a34fYub2x6GmOPyxkFy3vJTmzgk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1359,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1241478": {
+    "id": 1241478,
+    "type": "movie",
+    "title": "Jimmy",
+    "poster_path": "/c3fWnsg5VEP5EhYZ4oY2NpFrrU1.jpg",
+    "backdrop_path": "/2q3oieEIadF90wOtm9WGX5vrqUR.jpg",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "overview": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
+    "industry": "world",
+    "popularity": 7.9666,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "4nrB_T3F53Y",
+      "name": "Final Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 15000000,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "tagline": "A Hollywood icon. An American hero. A Wonderful Life.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 120,
+    "providers": []
+  },
+  "1641520": {
+    "id": 1641520,
+    "type": "movie",
+    "title": "Donga Naa Koduku",
+    "poster_path": "/ycduYExZfOc2baqjNT3pUf90sQu.jpg",
+    "backdrop_path": "/sdqt5U97QRDLMgKyn5dXfpQjrGp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young man with a compulsive stealing habit brings trouble upon his family, who must deal with the consequences of his actions.",
+    "industry": "bollywood",
+    "popularity": 1.9869,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "926867": {
+    "id": 926867,
+    "type": "movie",
+    "title": "Nooru Kodi Vaanavil",
+    "poster_path": "/gSJodOp12s5qFU3pO9Cz1sjQSYZ.jpg",
+    "backdrop_path": "/oiFiQY14r8mcqCfNmnaPLBzdbnJ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 1.029,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1817567": {
+    "id": 1817567,
+    "type": "movie",
+    "title": "Saara",
+    "poster_path": "/udNkODCmjOF2hEZX8LxULvY3QAY.jpg",
+    "backdrop_path": "/eUQZLjIqIT7MRge6G0LyaznKpjT.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Saara has packed her bags yet again, searching for a place where she can finally belong. But, just as she’s about to leave, she is enticed by mysterious visions and an unexpected yearning for intimacy.",
+    "industry": "world",
+    "popularity": 0.1747,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "et"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "festival",
+    "runtime": 14,
+    "providers": []
+  },
+  "1287365": {
+    "id": 1287365,
+    "type": "movie",
+    "title": "The Liberation",
+    "poster_path": "/cjbHYvJz9j5H3BSBfoaOiGMEHeZ.jpg",
+    "backdrop_path": "/9hrTg5I0cH4kCtlEfdtsb9krxtS.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Rita is entranced by the mesmeric Leader and renounces her family to embrace the world of the enigmatic Harmonia commune. Her daughters Ella and Jo put everything on the line to infiltrate the cult and bring their mother home. Yet, once immersed in the commune, they find themselves inexorably drawn into the Leader’s labyrinthine web of psycho-spiritual manipulation.",
+    "industry": "world",
+    "popularity": 4.0653,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "L3FUDA_I-BQ",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "AE",
+      "HK"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2027-01-06",
+    "date_kind": "release",
+    "runtime": 124,
+    "providers": []
+  },
+  "1805816": {
+    "id": 1805816,
+    "type": "movie",
+    "title": "Lambodhara 2.0",
+    "poster_path": "/9I5nQegMmMxWeY4agDXe1aa0B9v.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young man is drawn into a revolutionary AI-powered game that promises true happiness, only to discover it is a hidden system designed to study and control human emotion.",
+    "industry": "bollywood",
+    "popularity": 0.9616,
+    "original_language": "kn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "tagline": "HAPPINESS LOADING   92%",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "kn",
+      "hi"
+    ],
+    "certification": "UA",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1817301": {
+    "id": 1817301,
+    "type": "movie",
+    "title": "Spontaneous Human Combustion",
+    "poster_path": "/x7cHMuLoUWrBpi5n9wHeHK0aMr2.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "There's a disease going around, a disorder of inner liquids. Five separate instances are tied together through what is blue, rather than what is not - from which, a woman in distress that lurks around a subway station, and two girls sharing an intimate moment, whilst being watched.  Far from proving anything spiritual, it proves that the body is, alas, and all too much, just a body.",
+    "industry": "world",
+    "popularity": 0.2007,
+    "original_language": "en",
+    "origin_country": [
+      "RO"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "ro"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 15,
+    "providers": []
+  },
+  "1591604": {
+    "id": 1591604,
+    "type": "movie",
+    "title": "Soul Patrol",
+    "poster_path": "/sav8yadAjfykfFlZuFsclmrN9st.jpg",
+    "backdrop_path": null,
+    "vote_average": 1.0,
+    "vote_count": 2,
+    "overview": "From deep behind enemy lines, a hidden chapter of American military history is uncovered, prompting the question of whether reckoning with the past can bring peace to those who lived it. The Vietnam War’s first Black special operations team reunites to tell their story.",
+    "industry": "world",
+    "popularity": 3.0069,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": []
+  },
+  "1434462": {
+    "id": 1434462,
+    "type": "movie",
+    "title": "Melcow Pondicherry",
+    "poster_path": "/5B4w8xUlEaWTPmffQS4mMwdIg7l.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 1.0498,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1816385": {
+    "id": 1816385,
+    "type": "movie",
+    "title": "Township",
+    "poster_path": "/u1HuPf2b9zqgVXkbQZYBT7hFkJH.jpg",
+    "backdrop_path": "/dxgYwnBuy4H82CHBMvXaX6bK4Sk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Join Ronald, Joe, and Aadit on the town in Chicago.",
+    "industry": "world",
+    "popularity": 0.1244,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "On The Township.",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 7,
     "providers": []
   }
 };

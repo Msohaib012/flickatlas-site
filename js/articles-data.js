@@ -67985,5 +67985,402 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 04:03:12 GMT"
+  },
+  "1m9ocxb": {
+    "id": "1m9ocxb",
+    "type": "news",
+    "headline": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Achieves Kollywood's Biggest Third Week In India",
+    "dek": "Jailer 2 continues its historic theatrical run, officially recording the highest third-week collection for a Kollywood film in India despite facing stiff competition from new releases.",
+    "body": [
+      {
+        "h": "Historic Third Week Milestone",
+        "p": [
+          "Jailer 2 has officially etched its name in the record books by securing the biggest third week for any Kollywood film at the Indian box office. The action-comedy thriller pulled off an impressive performance during its third seven-day stretch, accumulating a notable sum of 37.4 crore net.",
+          "This stellar figure allowed the Rajinikanth-led feature to outperform its own predecessor, Jailer, which previously held the top spot with a third-week collection of 29.7 crore. Furthermore, this achievement makes Jailer 2 the first Tamil motion picture to cross the 30 crore net threshold during its third week in theaters."
+        ]
+      },
+      {
+        "h": "Day 22 Collections And The Impact Of New Releases",
+        "p": [
+          "On its fourth Thursday, which marked day 22 of its theatrical journey, the sequel brought in 1.6 crore net. This represented a substantial decrease of 52.24% compared to the previous day, when the film earned 3 crore net.",
+          "The sharp decline in daily earnings was primarily driven by the arrival of a major new competitor. The grand theatrical release of the epic magnum opus Ramayana on November 5 resulted in a severe reduction of screen allocations and show counts for the Rajinikanth starrer across various cinema halls."
+        ]
+      },
+      {
+        "h": "Overall Box Office Totals In India",
+        "p": [
+          "When examining the cumulative earnings up to its twenty-second day, Jailer 2 has amassed a massive total of 467.3 crore net at the domestic box office. When converted to gross figures, this incredible run amounts to approximately 551.43 crore.",
+          "The film's journey to these staggering numbers has been marked by strong weekly performances. It opened with a stellar 334.35 crore during its initial eight-day week, followed by a powerful second week grossing 95.55 crore before cooling down to 37.4 crore in its third week."
+        ]
+      },
+      {
+        "h": "Comparison With Other Kollywood Blockbusters",
+        "p": [
+          "The exceptional third-week performance of Jailer 2 places it at the absolute pinnacle of Tamil cinema box office history for that specific timeframe. It comfortably leads a competitive list of high-grossing Tamil titles.",
+          "Behind Jailer 2 and its predecessor Jailer in the third-week rankings are other notable hits. Vikram secured the third position with 27.15 crore, Amaran followed closely at fourth with 25.95 crore, and Ponniyin Selvan 1 rounded out the top tier with 23.5 crore."
+        ]
+      },
+      {
+        "h": "Cast, Crew, And Release Background",
+        "p": [
+          "Directed by Nelson Dilipkumar, the Tamil action-comedy thriller is backed by producer Kalanithi Maran under the banner of Sun Pictures. The project features a massive ensemble cast alongside the lead actor.",
+          "Alongside Rajinikanth, the film showcases performances from SJ Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Ramya Krishnan, and Vidya Balan in pivotal roles. The movie officially arrived in cinemas on October 15, 2026."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Challenges",
+        "p": [
+          "The historic box office run of the action sequel faces additional hurdles moving forward beyond its twenty-second day. The reduction in momentum is expected to continue as fresh cinematic offerings capture audience attention.",
+          "Alongside the ongoing dominance of Ramayana, the theatrical exhibition of Jailer 2 is set to face further impact from the release of Suriya's film Scene, which promises to tighten competition at the box office even further."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 has recorded Kollywood's biggest third week in India by earning 37.4 crore, bringing its total net collection to 467.3 crore by day 22. Despite facing a drop due to new releases like Ramayana, the Rajinikanth starrer has successfully surpassed its predecessor to set a historic milestone for Tamil cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 earned 1.6 crore on day 22.",
+      "Day 21 collection of Jailer 2 was 3 crore.",
+      "Jailer 2 earned 37.4 crore in its third week.",
+      "Jailer 2 earned 95.55 crore in its second week.",
+      "Total net collection of Jailer 2 in India is 467.3 crore.",
+      "Total gross collection of Jailer 2 in India is 551.43 crore.",
+      "Week 1 collection of Jailer 2 was 334.35 crore.",
+      "Jailer earned 29.7 crore in its third week.",
+      "Vikram earned 27.15 crore in its third week.",
+      "Amaran earned 25.95 crore in its third week.",
+      "Ponniyin Selvan 1 earned 23.5 crore in its third week.",
+      "The theatrical release date of Jailer 2 was October 15, 2026.",
+      "Ramayana was released on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "SJ Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Suriya"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer",
+        "Ramayana",
+        "Vikram",
+        "Amaran",
+        "Ponniyin Selvan 1",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Jailer 2",
+      "Rajinikanth",
+      "Jailer 2 box office",
+      "Jailer 2 collection day 22"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jailer-2-box-office-collection-day-22-scores-kollywoods-biggest-week-3-in-india-0001.jpg",
+        "caption": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Achieves Kollywood's Biggest Third Week In India",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 05:44:54 +0000"
+  },
+  "rzcswc": {
+    "id": "rzcswc",
+    "type": "news",
+    "headline": "Prime Video Unveils First Trailer for Crime Series Criminal Starring Charlie Hunnam and Luke Evans",
+    "dek": "Based on the acclaimed graphic novels by Ed Brubaker and Sean Phillips, the new two-part series will premiere its first chapters in January 2027.",
+    "body": [
+      {
+        "h": "Introduction to the Prime Video Series",
+        "p": [
+          "Prime Video has officially dropped the teaser trailer for its upcoming television adaptation titled Criminal. The project features a prominent ensemble cast led by Charlie Hunnam and Luke Evans, bringing a gritty crime drama to the streaming platform.",
+          "The television show is structured around an interlocking universe of various crime stories. Fans of graphic novels will recognize the source material as the acclaimed comic books written by Ed Brubaker and illustrated by Sean Phillips."
+        ]
+      },
+      {
+        "h": "Release Strategy and Schedule",
+        "p": [
+          "The streaming service has chosen to roll out the series across two distinct installments. Part One, which carries the subtitle 'Coward,' will consist of four episodes and debut globally on January 13, 2027.",
+          "Following the initial drop, Part Two—titled 'Lawless'—will also feature four episodes. This concluding half of the current season is scheduled to release a couple of weeks later on January 27, 2027."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The narrative kicks off by focusing on two longtime companions: Leo Patterson, portrayed by Charlie Hunnam, and Ricky Lawless, played by Gus Halper. While Leo attempts to distance himself from the criminal underworld they grew up in, Ricky embraces a dangerous path, eager to follow in his legendary father's footsteps as an outlaw.",
+          "Complicating matters further, Ricky's older brother Tracy, played by Luke Evans, arrives home from the Army, bringing heavy family baggage along with him. Meanwhile, additional figures are pulled into their chaotic orbit, including a sharp-witted car thief from Leo's past named Greta, played by Adria Arjona, and Ricky's anxious girlfriend Mallory, played by Emilia Clarke."
+        ]
+      },
+      {
+        "h": "Part One: Coward",
+        "p": [
+          "The first part of the television event centers heavily on long-buried family secrets. Childhood ghosts reemerge for Leo Patterson and Ricky Lawless as they find themselves haunted by an old murder.",
+          "A botched heist forces the pair to confront a troubled history they thought they could outrun, setting off a chain reaction of violent encounters and difficult confrontations."
+        ]
+      },
+      {
+        "h": "Part Two: Lawless",
+        "p": [
+          "The second part shifts the spotlight firmly onto Tracy Lawless. Two decades prior, Tracy made the decision to enlist in the Army rather than face prison time, keeping a permanent distance from his roots.",
+          "However, when his brother Ricky becomes dangerously entangled with the wrong crowd, Tracy is forced to abandon his refuge and return to the perilous life he tried so hard to leave behind."
+        ]
+      },
+      {
+        "h": "Extended Cast and Guest Stars",
+        "p": [
+          "Aside from the main headliners, the project boasts a robust supporting ensemble. Recognizable names featured in the series include Richard Jenkins, Kadeem Hardison, John Hawkes, and Logan Browning.",
+          "Additionally, the production incorporates a massive roster of guest actors. This lineup features performers such as Michael Mando, Garrett Hedlund, Patrick J. Adams, Pat Healy, Taylor Selé, Aliyah Camacho, Marvin Jones III, Michael Xavier, Dominic Burgess, Chris Diamantopoulos, Lawrence Kao, Katie Stevens, John Pyper-Ferguson, Robert Lee Hart, Aina Brei’yon, and Kyle Davis."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video released a teaser trailer for its upcoming series Criminal, an adaptation of the graphic novels by Ed Brubaker and Sean Phillips. Starring Charlie Hunnam and Luke Evans, the eight-episode crime drama is split into two parts arriving on January 13 and January 27, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Criminal is a Prime Video series based on graphic novels by Ed Brubaker and Sean Phillips.",
+      "Part One is titled Coward, has four episodes, and debuts on January 13, 2027.",
+      "Part Two is titled Lawless, has four episodes, and drops on January 27, 2027.",
+      "Charlie Hunnam plays Leo Patterson and Gus Halper plays Ricky Lawless.",
+      "Luke Evans plays Tracy Lawless, who returns home from the Army.",
+      "Adria Arjona plays Greta and Emilia Clarke plays Mallory."
+    ],
+    "entities": {
+      "people": [
+        "Charlie Hunnam",
+        "Luke Evans",
+        "Ed Brubaker",
+        "Sean Phillips",
+        "Gus Halper",
+        "Adria Arjona",
+        "Emilia Clarke",
+        "Richard Jenkins",
+        "Kadeem Hardison",
+        "John Hawkes",
+        "Logan Browning",
+        "Michael Mando",
+        "Garrett Hedlund",
+        "Patrick J. Adams",
+        "Pat Healy",
+        "Taylor Selé",
+        "Aliyah Camacho",
+        "Marvin Jones III",
+        "Michael Xavier",
+        "Dominic Burgess",
+        "Chris Diamantopoulos",
+        "Lawrence Kao",
+        "Katie Stevens",
+        "John Pyper-Ferguson",
+        "Robert Lee Hart",
+        "Aina Brei’yon",
+        "Kyle Davis"
+      ],
+      "titles": [
+        "Criminal"
+      ]
+    },
+    "keywords": [
+      "Criminal TV show",
+      "Charlie Hunnam Criminal series",
+      "Luke Evans Prime Video",
+      "Ed Brubaker Criminal graphic novel"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/criminal-prime-video-series.jpg",
+        "caption": "Prime Video Unveils First Trailer for Crime Series Criminal Starring Charlie Hunnam and Luke Evans",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 06:17:05 +0000"
+  },
+  "kn9h7x": {
+    "id": "kn9h7x",
+    "type": "news",
+    "headline": "Scene Movie Review: Suriya embraces a flawed character in Jithu Madhavan's dark comedy",
+    "dek": "Suriya stars alongside Nazriya Nazim Fahadh and Naslen in the dark comedy action film Scene, directed by Jithu Madhavan.",
+    "body": [
+      {
+        "h": "Introduction",
+        "p": [
+          "Scene marks actor Suriya's third theatrical release of the year, following his earlier appearances in Karuppu and Vishwanath and Sons. Directed by Jithu Madhavan, the dark comedy brings together a notable principal cast including Nazriya Nazim Fahadh and Naslen.",
+          "The project has generated considerable interest among cinema enthusiasts looking for unconventional narratives, presenting Suriya in a departure from his standard heroic persona through a quirky and unpredictable role."
+        ]
+      },
+      {
+        "h": "The Narrative Premise",
+        "p": [
+          "The plot revolves around a senior officer who reaches out to Inbaraj, an eccentric operative burdened by a mysterious past. After the department declines to offer official backing, Inbaraj is tasked with confronting a dangerous former officer.",
+          "Operating without institutional support, the protagonist gathers an unconventional squad featuring Maya, whose covert skills become vital. The mission shifts dramatically when they encounter a disciplined rival faction led by Eswaran, turning the pursuit into a survival test."
+        ]
+      },
+      {
+        "h": "Standout Performances",
+        "p": [
+          "Suriya steps away from conventional heroic archetypes to portray Inbaraj, utilizing distinct mannerisms and sharp comic timing to establish an engaging presence. Naslen delivers a controlled antagonist performance as Eswaran, generating a psychological clash against Suriya's character.",
+          "Nazriya Nazim contributes strong screen presence through notable action moments and natural charm, forming a dynamic pairing with the lead actor. The cat-and-mouse dynamic between the main figures drives much of the narrative tension."
+        ]
+      },
+      {
+        "h": "Direction and Technical Elements",
+        "p": [
+          "Director Jithu Madhavan incorporates his characteristic elements of dark comedy, eccentric personalities, and chaotic storytelling into the project. An early narrative twist alters the direction of the story, leading into an intense second half featuring surprising cameos.",
+          "Sushin Shyam provides an atmospheric and groovy musical score that supports the film's eccentric tone without depending on typical mass-commercial formulas."
+        ]
+      },
+      {
+        "h": "Narrative Flaws and Criticisms",
+        "p": [
+          "Despite positive elements, the production requires significant time to establish its footing, with the first half struggling to balance its humour and the core search. The shift from a comedy-oriented opening to a fast-paced second half can feel disjointed.",
+          "The screenplay occasionally depends on convenient coincidences to resolve investigative hurdles. Additionally, several supporting comedy tracks feel forced, and certain members of Inbaraj's squad remain underdeveloped."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Jithu Madhavan's Scene features Suriya in an unconventional leading role alongside Nazriya Nazim Fahadh and Naslen. The dark comedy action film has received a positive review from Pinkvilla, highlighting its unique performances and musical score despite minor pacing issues."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene is Suriya's third theatrical release of the year after Karuppu and Vishwanath and Sons.",
+      "The film is directed by Jithu Madhavan.",
+      "The cast includes Suriya, Nazriya Nazim Fahadh, Naslen, Anandraj, and Lal.",
+      "The dialogues were written by Dravid Selvam alongside Jithu Madhavan.",
+      "The film received a rating of 3.5 out of 5."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim Fahadh",
+        "Naslen",
+        "Anandraj",
+        "Lal",
+        "Dravid Selvam",
+        "Sushin Shyam",
+        "Inbaraj",
+        "Maya",
+        "Eswaran"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath and Sons"
+      ]
+    },
+    "keywords": [
+      "Scene movie review",
+      "Suriya Scene film",
+      "Jithu Madhavan Scene",
+      "Nazriya Nazim Fahadh Naslen",
+      "Scene movie rating"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1151939232_scene-review-webp.webp",
+        "caption": "Scene Movie Review: Suriya embraces a flawed character in Jithu Madhavan's dark comedy",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 11:44:40 +0530"
+  },
+  "1gthehc": {
+    "id": "1gthehc",
+    "type": "news",
+    "headline": "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Investigations",
+    "dek": "The long-running reality television program has been permanently axed by Channel 4 alongside its planned spinoffs following alarming reports brought to light by BBC Panorama.",
+    "body": [
+      {
+        "h": "The Sudden End of a Reality Staple",
+        "p": [
+          "Channel 4 has officially terminated the popular reality television franchise Married at First Sight U.K. after ten seasons on the air. The network made the decision to completely scrap the latest installment of the main series, even though filming had already wrapped up.",
+          "In addition to halting the primary show, network executives confirmed that associated projects have also met the axe. This includes a planned spinoff series titled Second Married at First Sight, which was in the preproduction stage when the cancellation order was given."
+        ]
+      },
+      {
+        "h": "BBC Panorama Investigations and Police Arrests",
+        "p": [
+          "The drastic action by Channel 4 comes in the wake of an investigative report by BBC Panorama. The program uncovered three distinct allegations of sexual assault made by women who had participated in the cast of the reality show.",
+          "According to the findings, two unidentified female participants accused their television husbands of rape during the course of the experiment. A third cast member came forward alleging a nonconsensual sex act, leading to a police arrest of one male participant on suspicion of rape."
+        ]
+      },
+      {
+        "h": "External Safety Review and Recommendations",
+        "p": [
+          "Following the explosive reports, an external investigation was launched to evaluate the safety and welfare protocols utilized on the production. The subsequent review suggested that the television format could potentially continue if producers implemented significantly increased safety measures.",
+          "Investigators noted that the existing welfare protocols were praised to some degree and that Channel 4 had not technically breached the Ofcom Code. Furthermore, the external findings made no determination that the fundamental format of the show was inherently unsafe for participants."
+        ]
+      },
+      {
+        "h": "Channel 4 Leadership Rationale",
+        "p": [
+          "Despite recommendations that the show could theoretically resume with tighter controls, network leadership opted for a total termination. Channel 4 chief executive Priya Dogra explained that the wholesale implementation of the suggested safety changes raised deep questions about the core editorial direction of the program.",
+          "Dogra noted in a public press release that while the recommendations were entirely feasible, the process of adopting them made it clear the format had simply run its course after a decade on television."
+        ]
+      },
+      {
+        "h": "Removal from Streaming Platforms",
+        "p": [
+          "The fallout from the investigation extended beyond unreleased episodes and future projects into the show's historical archive. Episodes spanning the ten-year history of the original series have been systematically removed from digital streaming services.",
+          "The purge of content began earlier in the year, signalling a complete distancing by the network from the entirety of the program's broadcast library in the wake of the criminal allegations."
+        ]
+      },
+      {
+        "h": "Unaffected Past Participants",
+        "p": [
+          "As the network and investigators dealt with the fallout of the current scandal, attention also turned to individuals from previous seasons who had no connection to the events. Notable past participants such as Matt Murray and Whitney Hughes from season seven were confirmed to have no involvement whatsoever in the ongoing investigations with Channel 4.",
+          "The distinction helped clarify that the current probe and subsequent cancellation stemmed strictly from recent production cycles rather than systemic issues spanning every historical season of the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Channel 4 has canceled Married at First Sight U.K. and its planned spinoffs following an investigative report by BBC Panorama that uncovered multiple allegations of sexual assault and rape among cast members. Despite an external review indicating the show could continue with stricter safety protocols, network executives chose to end the ten-year-old series and remove past episodes from streaming platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Married at First Sight U.K. ran for ten seasons on Channel 4.",
+      "BBC Panorama uncovered three reports of sexual assault from three women in the cast.",
+      "One man was arrested on suspicion of rape in July 2026.",
+      "Episodes have been removed from streaming services since May."
+    ],
+    "entities": {
+      "people": [
+        "Matt Murray",
+        "Whitney Hughes",
+        "Priya Dogra"
+      ],
+      "titles": [
+        "Married at First Sight U.K.",
+        "Second Married at First Sight"
+      ]
+    },
+    "keywords": [
+      "Married at First Sight UK",
+      "Channel 4 Married at First Sight",
+      "Second Married at First Sight",
+      "Matt Murray Whitney Hughes"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/52c/a89/d174439a775540b895b363e70692804f07-marriedatfirstsight.1x.rsocial.w1200.jpg",
+        "caption": "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Investigations",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-06T00:01:21.052Z"
   }
 };
