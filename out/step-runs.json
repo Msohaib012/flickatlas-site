@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-04T15:41:48Z",
-    "run_id": "41860338926",
-    "status": "success",
-    "checked": {
-     "candidates": 401,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Pookie Baba Aniruddhacharya to Gen Z Baba Shashwat Archarya, Meet Viral Saints Who Are Breaking The Internet",
-      "Kareena REVEALS she was 'screaming on road RUKO RUKO' as she talks about stabbing incident",
-      "Jr NTR unveils ‘Itlu Arjuna’ trailer, praises Anish for choosing a challenging debut role",
-      "Abhijeet Bhattacharya says he will never lip-sync during live concert as he refers to Daler Mehndi controversy",
-      "Badshah hails Jatayu scene in Ramayana in his review, says every frame in Ranbir Kapoor and Sai Pallavi-starrer is breathtaking: ‘Made me cry’",
-      "I Saw Wicker. It Was So Worth Seeing In A Theater (Packed Full Of Women)",
-      "I Finally Watched Practical Magic 2, And Now I'm Mad About The Reviews",
-      "Derek Hough Made A Mistake During DWTS' Disney Night, And I Can't Stop Thinking About It",
-      "Marvel Officially Gives Spider-Man a Death Sentence",
-      "Jean-Claude Van Damme Officially Returns to Martial Arts With New Yakuza Movie",
-      "HBO's 8-Part 'Sherlock' Replacement Officially Returns With New Release",
-      "Forget Tom Hanks’ ‘Greyhound,’ Netflix’s New 8-Part War Thriller Arrives This December",
-      "'NCIS' Season 25 Officially Confirms Michael Weatherly's New Role Status",
-      "Prime Video's 118-Minute Post-Apocalyptic Thriller Is Officially #1 on Streaming",
-      "‘Event Horizon’s Original Director Officially Reveals 2-Part Spiritual Successor Franchise",
-      "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie | Exclusive",
-      "The Kitchen Fans Have 1 Request for Canceled Series After Reunion",
-      "General Hospital’s Rory Gibson Makes His Contract Status Clear Amid Rumors",
-      "The Boys’ Erin Moriarty Breaks Silence on Next Movie With Nicolas Cage",
-      "‘I’ve Been Struggling’: Melissa Rycroft Breaks Silence After Another DWI Arrest"
-     ],
-     "updated": [],
-     "count": 392,
-     "detail": "401 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-04T16:51:43Z",
     "run_id": "41871538629",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "285 stories, 10 duplicates removed, 129 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-05T00:51:25Z",
-    "run_id": "41944298936",
+    "run_at": "2026-11-06T03:51:48Z",
+    "run_id": "42158939444",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 414,
+     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Part 1 Day 1 Box Office Collection Early Estimates And Occupancy",
-      "BTS Member Jungkook Achieves Historic Milestone as Golden Spans 155 Weeks on Spotify Chart",
-      "Allu Arjun and Rishab Shetty Praise Ranbir Kapoor Starrer Ramayana",
-      "Matthew McConaughey and Woody Harrelson Discuss Future of Apple TV Series Brothers After Season 1 Finale"
+      "Vijay Sethupathi to become FIRST Indian actor to present at 54th International Emmy Awards in New York: Report",
+      "Abhishek Bachchan's Eyes Say It All! Aishwarya Rai Gets His Undivided Attention At Manish Malhotra Diwali Bash",
+      "Scene X Review: What Audiences Are Saying About Suriya, Naslen And Nazriya Nazim's Film",
+      "'The Crown' star Josh O'Connor cast as next James Bond: Reports",
+      "All about Nicolas Cage and Riko Shibata",
+      "'Bandra' OTT release: Dileep and Tamannaah's arrives this Diwali",
+      "'Mookuthi Amman 2' Twitter review: Nayanthara, Regina Cassandra win praise",
+      "'Scene' X review: Suriya and Naslen impress audiences",
+      "Meghan Markle’s stepbrother Thomas Markle Jr. named a person of interest in father’s ongoing CAMS investigation",
+      "Travis Kelce says he’s excited to celebrate the holidays with Taylor Swift as a ‘married man'",
+      "CM Vijay, Trisha Krishnan attend Jagan Mohan Reddy's family wedding",
+      "‘Prahaar’ Box Office Slides: Day 21 nets ₹1 lakh; run nears end",
+      "Amit Sadh praises Rajkummar Rao amid career comparisons",
+      "Court allows lawsuit alleging The Pitt is an 'unauthorised reboot' of ER to move forward as the shows are 'similar enough'",
+      "Abhishek Bachchan and Aishwarya Rai arrive at Manish Malhotra's Diwali bash holding hands, can't take their eyes off each other in a loved-up moment",
+      "Diljit Dosanjh set to perform at 2026 Latin Grammys alongside Karol G, Bizarrap",
+      "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate",
+      "Diljit sings Hanuman Chalisa for Ramayana, seeks forgiveness for possible mistakes",
+      "ai assistants are simplifying the process of building web applications 3077360.html",
+      "ai is making customer portal development easier for growth of business 3077349.html"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 312,
+     "detail": "325 stories, 0 duplicates removed, 89 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1440,27 +1417,32 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-06T03:52:18Z",
+    "run_id": "42158939444",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Vijay Sethupathi Makes History As The First Indian Actor To Present At The International Emmy Awards",
+      "Godzilla Minus Zero Roars With $6M Previews While Cat in the Hat Pulls In $1M",
+      "Abhishek Bachchan and Aishwarya Rai Capture Attention With Hand-in-Hand Arrival at Manish Malhotra's Star-Studded Diwali Party",
+      "Mason Thames Confirmed to Voice Dick Grayson in DC Studios Animated Feature Dynamic Duo"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-04T20:52:49Z",
-    "run_id": "41910410726",
-    "status": "success",
-    "checked": {
-     "candidates": 197,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 194, coming 3"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1874,30 +1856,27 @@
      "detail": "now 202, coming 1"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-06T03:52:19Z",
+    "run_id": "42158939444",
+    "status": "success",
+    "checked": {
+     "candidates": 203,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 202, coming 1"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-05T04:08:56Z",
-    "run_id": "41956916959",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "25i5xu",
-      "1vd267q",
-      "paul37"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2325,27 +2304,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T00:05:55Z",
-    "run_id": "41936851539",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-06T03:52:24Z",
+    "run_id": "42158939444",
     "status": "success",
     "checked": {
-     "candidates": 522,
-     "detail": "519 collected staging rows from readers; 185 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 161,
-     "detail": "+1 new rows, 160 updated rows, 358 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2759,19 +2737,27 @@
      "detail": "+0 new rows, 4 updated rows, 552 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-06T03:52:19Z",
+    "run_id": "42158939444",
+    "status": "success",
+    "checked": {
+     "candidates": 561,
+     "detail": "556 collected staging rows from readers; 200 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 553 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3008,32 +2994,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-05T04:24:22Z",
-    "run_id": "41964083159",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Part 1 Arrives in Theaters Worldwide as India's Most Expensive Cinematic Spectacle",
-      "Sylvester Stallone's 1993 Action Thriller Cliffhanger Arrives on Netflix Ahead of 2027 Reboot",
-      "Ramayana Advance Bookings Surpass Rs 150 Crore Worldwide Ahead of Global Release",
-      "Ramayana Sequel Locked for Diwali 2028 Release Alongside Major Cliffhanger Reveal"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3524,19 +3497,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-06T03:52:24Z",
+    "run_id": "42158939444",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Vijay Sethupathi Makes History As The First Indian Actor To Present At The International Emmy Awards",
+      "Godzilla Minus Zero Roars With $6M Previews While Cat in the Hat Pulls In $1M",
+      "Abhishek Bachchan and Aishwarya Rai Capture Attention With Hand-in-Hand Arrival at Manish Malhotra's Star-Studded Diwali Party",
+      "Mason Thames Confirmed to Voice Dick Grayson in DC Studios Animated Feature Dynamic Duo"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3796,19 +3782,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T17:51:39Z",
-    "run_id": "41871538629",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4211,31 +4197,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-04T15:44:22Z",
-    "run_id": "41860338926",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 392 still unprocessed; today by category: movies 12/6, tv_dramas 5/4, episodes 2/2, box_office 13/6, celebrities_events 13/5, upcoming_releases 9/4, ott_streaming 4/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Advance Booking Grosses Rs 97.64 Crore Ahead Of Theatrical Release",
-      "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie",
-      "Raha Kapoor makes her Bollywood acting debut at age four in Ranbir Kapoor's upcoming mythological film Ramayan",
-      "Jason Sudeikis Returns for Parental Chaos in The Angry Birds Movie 3 Trailer"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4721,19 +4695,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-06T03:52:18Z",
+    "run_id": "42158939444",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 312 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 3/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Vijay Sethupathi Makes History As The First Indian Actor To Present At The International Emmy Awards",
+      "Godzilla Minus Zero Roars With $6M Previews While Cat in the Hat Pulls In $1M",
+      "Abhishek Bachchan and Aishwarya Rai Capture Attention With Hand-in-Hand Arrival at Manish Malhotra's Star-Studded Diwali Party",
+      "Mason Thames Confirmed to Voice Dick Grayson in DC Studios Animated Feature Dynamic Duo"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5047,24 +5033,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 377,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5404,24 +5385,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 464,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5716,19 +5697,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5983,19 +5969,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6230,19 +6216,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6515,19 +6501,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6753,6 +6739,16 @@
     "category": "OTT",
     "run_at": "2026-11-06T03:11:39Z",
     "run_id": "42146472788",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6763,16 +6759,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-04T17:51:39Z",
     "run_id": "41871538629",
     "status": "success",
@@ -6999,19 +6985,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7271,6 +7257,39 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-06T03:52:23Z",
+    "run_id": "42158939444",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of T",
+      "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Fina",
+      "Ramayana Advance Bookings Cross ₹100 Crore Worldwide Ahead of Worldwide Release",
+      "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmo",
+      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christm",
+      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
+      "Official US Trailer Released for Hong Kong Esports Action Film Gamer Girls",
+      "Bombay High Court Grants Dynamic Injunction to Protect 'Ramayana' From Copyright",
+      "All's Fair Season 2 Episode Release Schedule Revealed for Hulu Legal Drama",
+      "Kanika Mann Opens Up About Abusive Past Relationship Inside Bigg Boss House",
+      "Shah Rukh Khan's upcoming movie King earns over 200 crore profit before release ",
+      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Ar",
+      "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Y",
+      "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
+      "Meta Partners With Lionsgate to Bring 'Sunrise on the Reaping' to 3D and Upcomin"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "overseas_sweep": [
@@ -7687,16 +7706,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-04T17:51:39Z",
     "run_id": "41871538629",
     "status": "skipped",
@@ -7938,19 +7947,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-04T15:44:40Z",
-    "run_id": "41860338926",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8205,8 +8214,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-06T03:52:33Z",
+    "run_id": "42158939444",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-06T03:17:21Z"
+ "updated_at": "2026-11-06T03:52:33Z"
 }

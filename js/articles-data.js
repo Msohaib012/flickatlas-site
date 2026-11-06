@@ -39136,10 +39136,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Resident Evil digital release",
-      "Black Bag streaming Hulu",
-      "The Uprising Peacock movie",
-      "November 2026 movie releases"
+      "movies releasing on streaming digital media this week",
+      "home media platforms streaming November release week",
+      "digital stores movies November 2 to November 8",
+      "new movies streaming digital physical media"
     ],
     "images": [
       {
@@ -39231,10 +39231,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Pony Verma",
-      "Prakash Raj",
-      "Pony Verma marriage",
-      "Prakash Raj wife"
+      "Pony Verma Prakash Raj marriage age gap",
+      "Pony Verma choreography Prakash Raj",
+      "Prakash Raj Lalita Kumari divorce",
+      "Pony Verma Hyderabad bond daughters"
     ],
     "images": [
       {
@@ -39532,10 +39532,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Kanika Mann",
-      "Bigg Boss",
-      "Kanika Mann ex boyfriend",
-      "Kanika Mann abusive relationship"
+      "Kanika Mann Bigg Boss abusive past",
+      "Kanika Mann domestic abuse domestic violence",
+      "Kanika Mann Bigg Boss house relationship",
+      "Kanika Mann former boyfriend revelation"
     ],
     "images": [
       {
@@ -39670,10 +39670,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Sunrise on the Reaping 3D",
-      "Meta Lionsgate partnership",
-      "Sunrise on the Reaping VR glasses",
-      "Francis Lawrence Sunrise on the Reaping"
+      "The Hunger Games Sunrise on the Reaping Meta Lionsgate",
+      "Sunrise on the Reaping 3D VR glasses conversion",
+      "Meta Lionsgate partnership film conversion",
+      "The Hunger Games Sunrise on the Reaping November release"
     ],
     "images": [
       {
@@ -39880,10 +39880,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shah Rukh Khan King",
-      "King pre release business",
-      "King movie rights Netflix",
-      "Shah Rukh Khan upcoming movie 2026"
+      "Shah Rukh Khan King movie pre-release deals",
+      "Shah Rukh Khan King 665 crore profit",
+      "King movie pre-release business",
+      "Siddharth Anand King upcoming movie"
     ],
     "images": [
       {
@@ -40057,10 +40057,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Gamer Girls film",
-      "Veronica Bassetto Sophie Yang",
-      "Gamer Girls trailer",
-      "Film Movement Gamer Girls"
+      "Gamer Girls US trailer Film Movement",
+      "Gamer Girls Hong Kong action film",
+      "Veronica Bassetto Sophie Yang Gamer Girls",
+      "Gamer Girls official US trailer"
     ],
     "images": [
       {
@@ -40151,10 +40151,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Bombay High Court Ramayana",
-      "Ramayana film copyright injunction",
-      "Nitesh Tiwari Ramayana film"
+      "Bombay High Court Ramayana injunction",
+      "Ramayana Rise of a Legend copyright infringement",
+      "Madhav Jamdar Ramayana ad-interim order",
+      "Godpower Media Private Limited Ramayana suit"
     ],
     "images": [
       {
@@ -40253,10 +40253,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "All's Fair Season 2",
-      "Kim Kardashian Hulu show",
-      "All's Fair release schedule",
-      "Allura Grant divorce attorney"
+      "Alls Fair Season 2 release schedule",
+      "Kim Kardashian Alls Fair Hulu legal drama",
+      "Alls Fair Season 2 episodes Allura Grant",
+      "Naomi Watts Niecy Nash-Betts Alls Fair"
     ],
     "images": [
       {
@@ -40355,10 +40355,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The 12 Dates of Christmas",
-      "Lucy Hale Ian Harding",
-      "The 12 Dates of Christmas trailer",
-      "Hulu Christmas movie"
+      "Lucy Hale Ian Harding The 12 Dates of Christmas",
+      "The 12 Dates of Christmas Hulu trailer",
+      "Lucy Hale holiday comedy Hulu premiere",
+      "Ian Harding The 12 Dates of Christmas"
     ],
     "images": [
       {
@@ -40461,10 +40461,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Invincible Prime Video",
-      "Invincible season 4 Hell episode",
-      "Robert Kirkman Invincible",
-      "Damien Darkblood Invincible season 4"
+      "Invincible Prime Video lowest-rated chapter",
+      "Invincible animated superhero series Hell episode",
+      "Robert Kirkman Invincible Amazon Prime",
+      "Steven Yeun Sandra Oh Invincible"
     ],
     "images": [
       {
@@ -40555,9 +40555,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "John Turturro The Only Living Pickpocket in New York",
-      "The Only Living Pickpocket in New York movie",
-      "John Turturro pickpocket training",
-      "Noah Segan film"
+      "John Turturro pickpocket training arrest",
+      "Apollo Robbins sleight-of-hand John Turturro",
+      "The Only Living Pickpocket in New York role"
     ],
     "images": [
       {
@@ -41331,10 +41331,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Batman Part II",
-      "Batmobile stunt mishap",
-      "Robert Pattinson",
-      "Steven Soderbergh"
+      "The Batman Part II filming suspended",
+      "Batmobile stunt incident Robert Pattinson",
+      "The Batman Part II action sequence",
+      "Matt Reeves filming halted stunt"
     ],
     "images": [
       {
@@ -41900,10 +41900,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana advance booking",
-      "Ramayana Part One release",
-      "Ranbir Kapoor Ramayana",
-      "Namit Malhotra Ramayana"
+      "Ramayana Part One advance bookings",
+      "Namit Malhotra Ramayana Rs 100 crore",
+      "Ramayana Part One worldwide box office",
+      "Ranbir Kapoor Yash Ramayana release date"
     ],
     "images": [
       {
@@ -41976,10 +41976,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "The Walt Disney Company layoffs",
-      "Josh D Amaro Disney cost cuts",
-      "Disney theme park Imagineering jobs",
-      "Sonia Coleman Disney memo"
+      "The Walt Disney Company staff reductions",
+      "Disney theme park layoffs cost savings",
+      "Josh Damaro Sonia Coleman Disney cuts",
+      "Disney financial savings executive leadership"
     ],
     "images": [
       {
@@ -42671,10 +42671,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana advance booking",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana release date",
-      "Ramayana box office collection"
+      "Ramayana advance bookings 100 crore",
+      "Ranbir Kapoor Yash Ramayana worldwide release",
+      "Ramayana Part One box office opening",
+      "Nitesh Tiwari Ramayana global sales"
     ],
     "images": [
       {
@@ -66863,5 +66863,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 07:13:07 +0530"
+  },
+  "1xz6e1p": {
+    "id": "1xz6e1p",
+    "type": "news",
+    "headline": "Vijay Sethupathi Makes History As The First Indian Actor To Present At The International Emmy Awards",
+    "dek": "The acclaimed star is set to break new ground on the global stage by appearing as a presenter at the upcoming ceremony in New York.",
+    "body": [
+      {
+        "h": "A Historic Milestone For Indian Cinema",
+        "p": [
+          "Renowned star Vijay Sethupathi is poised to write his name into the history books by becoming the very first actor from India to serve as a presenter at the International Emmy Awards. This landmark appearance will take place during the 54th edition of the prestigious global ceremony, which is scheduled to be hosted in New York.",
+          "Such an achievement underscores the growing international reach of performers from the subcontinent. By taking the stage at this distinguished television event, the actor represents a major leap forward for regional cinema on worldwide platforms."
+        ]
+      },
+      {
+        "h": "Ceremony Details And Global Gathering",
+        "p": [
+          "The International Academy of Television Arts and Sciences has officially confirmed that the upcoming gala will unfold on November 23, 2026. The organization oversees these coveted accolades, which specifically honor outstanding television achievements crafted outside the borders of the United States.",
+          "Bringing together top-tier television professionals from numerous countries, the New York gathering serves as a vibrant networking and celebratory hub. The inclusion of an Indian presenter highlights the expanding multicultural footprint of the annual celebration."
+        ]
+      },
+      {
+        "h": "Facilitating Global Representation",
+        "p": [
+          "Behind-the-scenes efforts have been instrumental in bridging domestic talent with international showcases. Reports indicate that producer and International Academy board member Kavita Gupta played a vital part in orchestrating this major development.",
+          "Her involvement reflects a deliberate industry-wide push to propel Indian artists into prominent global spotlights. Through such strategic initiatives, performers are gaining unprecedented access to world-class entertainment platforms."
+        ]
+      },
+      {
+        "h": "An Exceptionally Busy Career Phase",
+        "p": [
+          "This international recognition arrives right in the middle of a remarkably active schedule for the celebrated performer. He recently appeared in Baththa, a gritty feature directed by Balaji Tharaneetharan that delves into the moral redemption of a criminal figure.",
+          "In addition to that release, his slate includes several high-profile collaborations with legendary filmmakers. These upcoming ventures demonstrate his versatility across various cinematic styles and storytelling formats."
+        ]
+      },
+      {
+        "h": "Exciting Upcoming Collaborations",
+        "p": [
+          "Among his eagerly awaited future projects is Mani Ratnam's Inji Vellam, which pairs him alongside Sai Pallavi. He is also slated to star in Thiagarajan Kumararaja's Pocket Novel, sharing the screen with Raj B Shetty and Malavika Mohanan.",
+          "These varied casting choices illustrate his continuous desire to work with visionary directors. Each upcoming title adds immense anticipation among cinephiles tracking his diverse filmography."
+        ]
+      },
+      {
+        "h": "Global Remakes And Sequel Plans",
+        "p": [
+          "Beyond his acting commitments, his past blockbusters continue to generate major buzz across international markets. He recently verified that his successful 2024 action thriller Maharaja is currently preparing for an official Hollywood remake.",
+          "Furthermore, a follow-up is actively being developed for the same property. Director Nithilan Saminathan has already narrated the fresh storyline to him, promising another thrilling narrative chapter."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vijay Sethupathi will become the first Indian actor to present at the 54th International Emmy Awards in New York on November 23, 2026. This historic milestone was facilitated by producer Kavita Gupta and highlights the actor's bustling career, which features major upcoming films and a Hollywood remake of Maharaja."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Sethupathi is the first Indian actor to present at the International Emmy Awards.",
+      "The 54th International Emmy Awards will take place in New York on November 23, 2026.",
+      "Kavita Gupta is a producer and International Academy of Television Arts Sciences board member.",
+      "Baththa was directed by Balaji Tharaneetharan.",
+      "Inji Vellam is directed by Mani Ratnam and stars Sai Pallavi.",
+      "Pocket Novel is directed by Thiagarajan Kumararaja and stars Raj B Shetty and Malavika Mohanan.",
+      "Maharaja is a 2024 action drama directed by Nithilan Saminathan."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Sethupathi",
+        "Kavita Gupta",
+        "Balaji Tharaneetharan",
+        "Mani Ratnam",
+        "Sai Pallavi",
+        "Thiagarajan Kumararaja",
+        "Raj B Shetty",
+        "Malavika Mohanan",
+        "Nithilan Saminathan"
+      ],
+      "titles": [
+        "Baththa",
+        "Inji Vellam",
+        "Pocket Novel",
+        "Maharaja"
+      ]
+    },
+    "keywords": [
+      "Vijay Sethupathi International Emmy Awards",
+      "Vijay Sethupathi 54th International Emmy Awards",
+      "Vijay Sethupathi news",
+      "Baththa movie Vijay Sethupathi",
+      "Maharaja sequel Hollywood remake"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Vijay-Sethupathi.jpeg",
+        "caption": "Vijay Sethupathi Makes History As The First Indian Actor To Present At The International Emmy Awards",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 09:13:35 +0200"
+  },
+  "6wyd33": {
+    "id": "6wyd33",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Roars With $6M Previews While Cat in the Hat Pulls In $1M",
+    "dek": "Takashi Yamazaki's R-rated sequel Godzilla Minus Zero delivers a massive preview performance at the box office, significantly outpacing past franchise entries and distributor records.",
+    "body": [
+      {
+        "h": "Strong Preview Numbers for the Monster Sequel",
+        "p": [
+          "The box office is seeing a tremendous start for the R-rated monster feature Godzilla Minus Zero, which has pulled in an impressive $6 million through its preview screenings. This strong monetary showing incorporates fan events held on Godzilla Day Tuesday, as well as evening screenings where later showings brought in upward of $4 million.",
+          "With showtimes having commenced early in the morning, the picture has firmly established its presence in the November theatrical landscape. The high preview figures point toward a potentially massive opening weekend that could easily surpass initial industry expectations."
+        ]
+      },
+      {
+        "h": "Breaking Distributor and Franchise Records",
+        "p": [
+          "This performance easily sets a new preview record for United States distributor GKIDs, outperforming their previous high watermark set by The Boy and the Heron in 2023. That earlier release managed $2.39 million in Thursday and early access previews before securing a 3-day opening of $13 million.",
+          "Furthermore, the early revenue generated by Godzilla Minus Zero eclipses the figures of its predecessor, Godzilla Minus One, directed by Takashi Yamazaki. The previous film earned $2.1 million from combined Wednesday and Thursday showtimes before launching to an 11.4 million opening."
+        ]
+      },
+      {
+        "h": "Comparison With Industry Comps and Past Openings",
+        "p": [
+          "Industry forecasts on the high end had originally pegged the North American opening for Godzilla Minus Zero at over $30 million. However, bolstered by substantial IMAX and premium large-format screenings, analysts believe the final tally could trend significantly higher given the strong comparative data.",
+          "The preview earnings also place the sequel in close proximity to Legendary's 2019 release Godzilla: King of the Monsters, which brought in $6.3 million in Thursday previews on its way to a substantial opening weekend. Meanwhile, last year's early November kickoff title, Predator: Badlands, posted $4.8 million across its Wednesday and Thursday previews."
+        ]
+      },
+      {
+        "h": "Critical Reception and International Performance",
+        "p": [
+          "Critical response for the new sequel remains remarkably positive, holding a 91 percent certified fresh rating on review platforms, compared to the 99 percent fresh score achieved by Godzilla Minus One. That preceding Oscar-winning film also secured a solid A CinemaScore from audiences.",
+          "Overseas markets have also demonstrated exceptional enthusiasm, particularly in Japan. Through its first three days, Godzilla Minus Zero accumulated 1.38 billion yen, equivalent to $8.7 million, with its Godzilla Day opening gross breaking live-action records in the country."
+        ]
+      },
+      {
+        "h": "The Cat in the Hat Joins the Box Office Race",
+        "p": [
+          "In addition to the monster feature, Warner Bros Pictures Animation brought forth The Cat in the Hat, helmed by filmmakers Alessandro Carloni and Erica Rivinoja. Produced for a net budget of $86 million, the animated family title eyed a $1 million daily gross following previews that began in the afternoon.",
+          "This debut trajectory mirrors that of Sony Pictures Animation's Goat, which opened earlier in the year toward a $27.7 million domestic launch. The family film arrives as one of the few prominent options for family audiences during the holiday season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero achieved a strong $6 million in preview earnings to set new distributor records for GKIDs. The film's robust international and domestic numbers place it well ahead of previous franchise entries as it heads into its wide theatrical run alongside family releases like The Cat in the Hat."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero brought in around $6 million in previews.",
+      "GKIDs is the United States distributor for Godzilla Minus Zero.",
+      "The Boy and the Heron made $2.39 million in previews in 2023.",
+      "Godzilla Minus One earned $2.1 million from Wednesday and Thursday showtimes.",
+      "Godzilla: King of the Monsters posted $6.3 million in Thursday previews in 2019.",
+      "Godzilla Minus Zero earned 1.38 billion yen or $8.7 million through three days in Japan.",
+      "The Cat in the Hat has a net production budget of $86 million.",
+      "Alessandro Carloni and Erica Rivinoja directed The Cat in the Hat."
+    ],
+    "entities": {
+      "people": [
+        "Takashi Yamazaki",
+        "Alessandro Carloni",
+        "Erica Rivinoja"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "The Boy and the Heron",
+        "Godzilla Minus One",
+        "Predator: Badlands",
+        "Godzilla: King of the Monsters",
+        "Godzilla vs. Kong",
+        "Godzilla x King",
+        "Harry Potter and the Chamber of Secrets",
+        "The Cat in the Hat",
+        "Goat",
+        "The Grinch",
+        "Hexed"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero film",
+      "Takashi Yamazaki Godzilla Minus Zero",
+      "Godzilla Minus Zero previews box office",
+      "The Cat in the Hat Warner Bros"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/『ゴジラ-0.0』パブカット㉒-e1793929665158.jpg?w=1024",
+        "caption": "Godzilla Minus Zero Roars With $6M Previews While Cat in the Hat Pulls In $1M",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 02:41:39 +0000"
+  },
+  "e9kw4b": {
+    "id": "e9kw4b",
+    "type": "news",
+    "headline": "Abhishek Bachchan and Aishwarya Rai Capture Attention With Hand-in-Hand Arrival at Manish Malhotra's Star-Studded Diwali Party",
+    "dek": "Abhishek Bachchan and Aishwarya Rai stole the spotlight at Manish Malhotra's Mumbai Diwali celebration on November 5, arriving hand-in-hand and displaying affectionate chemistry that delighted fans.",
+    "body": [
+      {
+        "h": "The Star-Studded Diwali Gathering",
+        "p": [
+          "Designer Manish Malhotra hosted a star-studded Diwali celebration in Mumbai on November 5, welcoming a host of notable A-listers and their families to the festivities.",
+          "Among the prominent attendees were celebrities like Akshay Kumar and Madhuri Dixit, but it was the arrival of Abhishek Bachchan and Aishwarya Rai that truly drew the attention of everyone present."
+        ]
+      },
+      {
+        "h": "A Grand Entrance",
+        "p": [
+          "The couple made their entrance holding hands, with Abhishek maintaining his hold even while greeting fellow guests at the venue.",
+          "Abhishek wore a dapper black sherwani-style outfit featuring a long, intricately embroidered high-collar jacket paired with matching trousers. Aishwarya wore a vibrant red saree accented by an elaborate golden border, heavy gold jewellery, and her hair styled in soft waves."
+        ]
+      },
+      {
+        "h": "Red Carpet Chemistry",
+        "p": [
+          "While posing together for photographs on the red carpet, the couple politely declined requests from photographers for individual solo pictures.",
+          "In a widely noticed moment, Abhishek pulled Aishwarya closer as they posed, and the two exchanged smiles and conversation while appearing captivated by one another."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Social Media",
+        "p": [
+          "Footage and images of the couple's affectionate appearance quickly circulated online, prompting warm responses from admirers who celebrated their togetherness.",
+          "Comments from fans ranged from expressing joy at seeing them happy to noting nostalgic echoes of past years, with remarks about them looking like reunited lovers."
+        ]
+      },
+      {
+        "h": "Relationship Background",
+        "p": [
+          "Aishwarya and Abhishek originally met professionally around 1999 to 2000 during a photoshoot and subsequently worked together in the film Dhaai Akshar Prem Ke in 2000.",
+          "Their bond deepened while filming projects such as Umrao Jaan, Guru, and Dhoom 2, leading to an engagement in 2007, a traditional Roka, a private wedding on April 20, 2007, at the Bachchan home, and the birth of their daughter, Aaradhya Bachchan, in 2011."
+        ]
+      },
+      {
+        "h": "Upcoming Professional Ventures",
+        "p": [
+          "Aishwarya has not yet announced a new project following her appearance in Mani Ratnam's Ponniyin Selvan II in 2023.",
+          "Abhishek is preparing for the release of his upcoming movie, King, directed by Siddharth Anand and starring Shah Rukh Khan, Deepika Padukone, Suhana Khan, Raghav Juyal, Arshad Warsi, Jaideep Ahlawat, and Saurabh Shukla, which is slated for theaters on December 24, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Abhishek Bachchan and Aishwarya Rai attended Manish Malhotra's Diwali bash in Mumbai holding hands and sharing affectionate moments for the cameras. The couple posed together while declining solo photographs, drawing warm reactions from fans regarding their visible chemistry.",
+          "The event brought out numerous A-list celebrities, while the pair's appearance highlighted their enduring public presence alongside their established film histories and upcoming professional schedules."
+        ]
+      }
+    ],
+    "facts": [
+      "Manish Malhotra hosted a Diwali bash in Mumbai on November 5",
+      "Abhishek Bachchan and Aishwarya Rai arrived hand-in-hand at the party",
+      "Aishwarya Rai wore a vibrant red saree with a golden border and heavy gold jewellery",
+      "Abhishek Bachchan wore a black sherwani-style ensemble with an embroidered jacket",
+      "The couple declined requests for solo pictures on the red carpet",
+      "They first met professionally around 1999-2000 during a photoshoot",
+      "They starred together in Dhaai Akshar Prem Ke in 2000",
+      "They got married on April 20, 2007",
+      "They welcomed their daughter Aaradhya Bachchan in 2011",
+      "Aishwarya Rai appeared in Mani Ratnam's Ponniyin Selvan II in 2023",
+      "Abhishek Bachchan stars in the upcoming film King, releasing on December 24, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Abhishek Bachchan",
+        "Aishwarya Rai",
+        "Manish Malhotra",
+        "Akshay Kumar",
+        "Madhuri Dixit",
+        "Aaradhya Bachchan",
+        "Mani Ratnam",
+        "Siddharth Anand",
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Raghav Juyal",
+        "Arshad Warsi",
+        "Jaideep Ahlawat",
+        "Saurabh Shukla"
+      ],
+      "titles": [
+        "Dhaai Akshar Prem Ke",
+        "Umrao Jaan",
+        "Guru",
+        "Dhoom 2",
+        "Ponniyin Selvan II",
+        "King"
+      ]
+    },
+    "keywords": [
+      "Abhishek Bachchan Aishwarya Rai Diwali bash",
+      "Manish Malhotra Diwali party",
+      "Abhishek Bachchan Aishwarya Rai hand in hand",
+      "Abhishek Bachchan King movie release"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/Aishwarya_Abhishek_chemistry_1793931453693_jtci_1793931466332_yNB1_964c1026-a665-473e-b27b-1a893a33cad2_INtG.jpg",
+        "caption": "Abhishek Bachchan and Aishwarya Rai Capture Attention With Hand-in-Hand Arrival at Manish Malhotra's Star-Studded Diwali",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 08:12:21 +0530"
+  },
+  "paxhzp": {
+    "id": "paxhzp",
+    "type": "news",
+    "headline": "Mason Thames Confirmed to Voice Dick Grayson in DC Studios Animated Feature Dynamic Duo",
+    "dek": "DC Studios co-chairman Peter Safran officially confirms that actor Mason Thames will voice Dick Grayson in the upcoming animated project Dynamic Duo.",
+    "body": [
+      {
+        "h": "Official Confirmation of the Lead Casting",
+        "p": [
+          "Actor Mason Thames has officially secured the role of Dick Grayson in the upcoming animated feature film Dynamic Duo, produced under the DC Studios banner. Following initial speculation linking him to the project months prior, studio co-chairman Peter Safran validated the news during a media interview. Thames will lend his vocal talents to the character, marking a major milestone for the young performer within the broader DC franchise ecosystem.",
+          "Safran highlighted the actor's profound enthusiasm for the source material and the specific character during the casting process. According to the studio executive, Thames showed immense dedication and delivered an exceptional audition that ultimately secured him the part."
+        ]
+      },
+      {
+        "h": "A Passionate Fan Takes the Role",
+        "p": [
+          "The journey to landing the role of Dick Grayson was driven by genuine fandom, as noted by the leadership at DC Studios. Safran recounted how Thames arrived at the studio offices alongside his father, eager to explore the archives and take photographs with various pieces of company history. This personal passion resonated strongly with the creative team.",
+          "Rather than treating the opportunity as a standard job recruitment, the young actor approached the audition with fierce commitment. Executives noted that his enthusiasm was palpable from the very beginning of the casting cycle."
+        ]
+      },
+      {
+        "h": "Behind the Production and Animation Style",
+        "p": [
+          "Dynamic Duo is a collaborative effort involving multiple prominent production houses, including DC Studios, Warner Bros. Animation, and Swaybox Studios. This team is co-produced by studio heads James Gunn and Peter Safran, ensuring a unified creative vision for the animated venture.",
+          "The film stands out for its unique visual approach, combining traditional computer-generated imagery with stop-motion animation and intricate puppetry techniques. This distinctive aesthetic aims to deliver a fresh look for characters within the animated cinematic landscape."
+        ]
+      },
+      {
+        "h": "Exploring the Early Days of the Robins",
+        "p": [
+          "The storyline of Dynamic Duo is set to focus on the formative years of two iconic sidekicks, following Dick Grayson and Jason Todd in their early days operating as the Robins. The narrative will delve into the foundation of their partnership before later developments in their respective vigilante careers.",
+          "Questions remain regarding how the feature will fit into the broader cinematic structure. It is still undetermined whether the film will link directly to the shared DC Universe continuity where actors potentially cross over between live-action and animation, or if it will exist as a standalone Elseworlds story akin to The Batman."
+        ]
+      },
+      {
+        "h": "Initial Reports and Unconfirmed Rumors",
+        "p": [
+          "Prior to the official studio announcement, various details regarding the film's broader cast leaked through industry reports from insider sources like Jeff Sneider. Those initial rumors also suggested the potential involvement of other young talents for key roles, including Logan Kim as Jason Todd and Marsai Martin as Barbara Gordon.",
+          "Additionally, unconfirmed reports at the time suggested that veteran actors Chris Pine and Lee Pace had been approached for significant roles such as Bruce Wayne and a Red Hood gang leader, though studio confirmations for these castings remain pending."
+        ]
+      },
+      {
+        "h": "Scheduled Release Timeline",
+        "p": [
+          "Audiences will have to wait quite a while before seeing the unique animation style and narrative unfold on the big screen. DC Studios has slated the theatrical release of Dynamic Duo for June 30th, 2028.",
+          "This distant timeline gives the production teams at Swaybox Studios and Warner Bros. Animation ample opportunity to refine the complex blend of stop-motion, CGI, and puppetry required for the ambitious project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DC Studios co-chairman Peter Safran has officially confirmed that Mason Thames will voice Dick Grayson in the upcoming animated film Dynamic Duo. The feature, co-produced by DC Studios, Warner Bros. Animation, and Swaybox Studios, utilizes a blend of CGI, stop motion, and puppetry to explore the early days of Dick Grayson and Jason Todd. The film is currently scheduled for release on June 30th, 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Mason Thames will voice Dick Grayson in Dynamic Duo.",
+      "Peter Safran confirmed the casting in an interview with Collider via Dark Horizons.",
+      "Dynamic Duo is co-produced by DC Studios, Warner Bros. Animation, and Swaybox Studios.",
+      "The film uses a blend of CGI, stop motion animation, and puppetry.",
+      "Dynamic Duo is set for release on June 30th, 2028."
+    ],
+    "entities": {
+      "people": [
+        "Mason Thames",
+        "Peter Safran",
+        "James Gunn",
+        "Jeff Sneider",
+        "Logan Kim",
+        "Marsai Martin",
+        "Chris Pine",
+        "Lee Pace",
+        "Francis Galluppi",
+        "Gary Collinson"
+      ],
+      "titles": [
+        "Dynamic Duo",
+        "The Black Phone",
+        "How To Train Your Dragon",
+        "The Walking Dead: Dead City",
+        "black-ish",
+        "Wonder Woman",
+        "Guardians of the Galaxy",
+        "The Batman",
+        "Constantine",
+        "The Baby in the Basket",
+        "Death Among the Pines",
+        "Robert Returns",
+        "Holy Franchise, Batman!"
+      ]
+    },
+    "keywords": [
+      "Mason Thames",
+      "Dynamic Duo movie",
+      "Dick Grayson",
+      "Peter Safran",
+      "DC Studios"
+    ],
+    "images": [],
+    "published": "Fri, 06 Nov 2026 03:50:36 +0000"
   }
 };
