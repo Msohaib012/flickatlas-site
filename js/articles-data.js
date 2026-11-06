@@ -70352,5 +70352,398 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 11:00:00 +0000"
+  },
+  "dtwqyo": {
+    "id": "dtwqyo",
+    "type": "news",
+    "headline": "Salman Khan and Jio Studios Plan December 4 Release for Maatrubhumi, Setting Up Box Office Clash With Eetha",
+    "dek": "The distribution battle in Bollywood heats up as Jio Studios aligns with Salman Khan to pit Maatrubhumi against Shraddha Kapoor's Eetha on December 4.",
+    "body": [
+      {
+        "h": "The New Strategic Release Window",
+        "p": [
+          "Jio Studios and superstar Salman Khan are reportedly charting out a major release strategy for their upcoming project, Maatrubhumi. According to industry insiders, the teams have targeted December 4 as the ideal date to bring the film to theatres.",
+          "This decision comes amidst an evolving release calendar where major studios are constantly reassessing their theatrical windows. By locking in early December, the makers hope to capitalize on a lucrative commercial period."
+        ]
+      },
+      {
+        "h": "An Unexpected Clash at the Box Office",
+        "p": [
+          "The announcement of the December 4 arrival sets up a high-profile box office face-off against Eetha, a film starring Shraddha Kapoor. This direct competition has added fuel to an already intense distribution rivalry within the industry.",
+          "Trade circles note that both movies will be vying for audience attention during the same timeframe, transforming what could have been a quiet window into a major theatrical showdown between competing studios and power players."
+        ]
+      },
+      {
+        "h": "Shifts in Distribution Partnerships",
+        "p": [
+          "The backdrop of this clash involves notable changes in studio alignments. Recently, industry eyebrows were raised when PVR Pictures stepped in to distribute Eetha, replacing Jio Studios, which had previously been associated with producer Dinesh Vijan's banner.",
+          "This sudden switch sent ripples through Bollywood, given the frequent collaborations between Maddock and Jio Studios on previous distribution ventures, ultimately paving the way for Jio to redirect its focus toward its collaboration with Salman Khan."
+        ]
+      },
+      {
+        "h": "Navigating the Competitive Landscape",
+        "p": [
+          "Sources close to the development reveal that initial plans to launch during alternative windows were reconsidered as other heavy-hitters gained momentum. Executives evaluated various slots before zeroing in on the early December date.",
+          "The strategy aims to emulate the box office magic seen from previous blockbusters that successfully leveraged similar holiday and winter release periods, positioning Maatrubhumi as a major contender in the market."
+        ]
+      },
+      {
+        "h": "Run Time and Market Capacity",
+        "p": [
+          "Industry analysts point out that a December 4 release affords Maatrubhumi a clean two-week theatrical run before international heavyweights like Avengers: Doomsday arrive on the big screen.",
+          "Despite the shared release date with Eetha, insiders at Jio Studios express confidence that the market has enough depth to accommodate both titles comfortably, anticipating a civil and respectful competition typical of major star-led projects."
+        ]
+      },
+      {
+        "h": "Director Connections and Creative Teams",
+        "p": [
+          "The competing films also highlight notable filmmaker trajectories. Eetha marks the big screen return of director Laxman Uttekar following his work on Chhavva.",
+          "On the other side, Maatrubhumi is spearheaded by Apoorva Lakhia, an acclaimed filmmaker best remembered by audiences for helming Shootout at Lokhandwala."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jio Studios and Salman Khan have strategized a December 4 theatrical release for Maatrubhumi, initiating a high-stakes box office clash with the Shraddha Kapoor-starrer Eetha. This development follows recent distribution shifts involving PVR Pictures and Dinesh Vijan's projects, setting up a competitive two-week run ahead of upcoming international releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan and Jio Studios are planning a December 4 release for Maatrubhumi.",
+      "Maatrubhumi will clash at the box office with Eetha.",
+      "PVR Pictures replaced Jio Studios as the distributor for the Dinesh Vijan-produced Eetha starring Shraddha Kapoor.",
+      "Eetha is directed by Laxman Uttekar, following his work on Chhavva.",
+      "Maatrubhumi is directed by Apoorva Lakhia, known for Shootout at Lokhandwala.",
+      "A December 4 release gives Maatrubhumi a clean run of two weeks until the release of Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shraddha Kapoor",
+        "Dinesh Vijan",
+        "Laxman Uttekar",
+        "Apoorva Lakhia"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Eetha",
+        "Chhavva",
+        "Shootout at Lokhandwala",
+        "Avengers: Doomsday",
+        "Pushpa 2",
+        "Animal",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Eetha Shraddha Kapoor",
+      "Jio Studios PVR Pictures",
+      "Maatrubhumi release date",
+      "Laxman Uttekar Eetha"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Maatrubhumi-against-Eetha.jpg",
+        "caption": "Salman Khan and Jio Studios Plan December 4 Release for Maatrubhumi, Setting Up Box Office Clash With Eetha",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 17:47:36 +0200"
+  },
+  "ok6yry": {
+    "id": "ok6yry",
+    "type": "news",
+    "headline": "Netflix Releases Stranger Things Season 5 Blooper Reel on Stranger Things Day",
+    "dek": "Fans received a behind-the-scenes look at the final season on November 6, though some viewers are still hoping for a secret ninth episode.",
+    "body": [
+      {
+        "h": "Stranger Things Day Surprises",
+        "p": [
+          "In celebration of the annual fan holiday, Netflix has unveiled a behind-the-scenes gag reel for the final season of its hit sci-fi series. The release arrives over ten months after the show officially concluded its run.",
+          "The newly published clip highlights various actors flubbing their dialogue and joking between takes while shooting the dramatic final chapters. Viewers can see several core cast members letting loose on set."
+        ]
+      },
+      {
+        "h": "Cast Members Featured in the Reel",
+        "p": [
+          "The blooper footage showcases actors Millie Bobby Brown, Finn Wolfhard, Noah Schnapp, Caleb McLaughlin, Natalia Dyer, and Maya Hawke having fun during production.",
+          "A standout moment in the video features Jamie Campbell Bower maintaining a cheerful demeanor in full prosthetics while portraying the villainous character Vecna. Meanwhile, Gaten Matarazzo and Joe Keery display a close off-screen bond that mirrors their characters' dynamic."
+        ]
+      },
+      {
+        "h": "Fan Expectations and Reactions",
+        "p": [
+          "Despite the lighthearted nature of the behind-the-scenes footage, audience reactions in the comments section revealed lingering desires for additional content. Many viewers expressed that they were hoping for a larger surprise.",
+          "Some supporters took to social media to ask when more substantial material would arrive, demonstrating that the fan base remains hungry for further developments following the conclusion of the series."
+        ]
+      },
+      {
+        "h": "The Conformity Gate Phenomenon",
+        "p": [
+          "The continued demand for more episodes stems from viewer reactions when the series finale originally aired on New Year's Day. A segment of the fan base refused to accept the conclusion, sparking a widespread theory known as Conformity Gate.",
+          "Believers in the theory combed through the season to find purported clues and errors, convincing themselves that Vecna had orchestrated a fake ending and that a secret ninth episode would eventually premiere."
+        ]
+      },
+      {
+        "h": "Netflix Teasers and Future Hopes",
+        "p": [
+          "Anticipation reached a fever pitch when a platform tease caused the streaming service to crash as users awaited a purported new episode in January. Instead of a surprise chapter, Netflix published a trailer for its upcoming 2026 slate.",
+          "Even though that promotional video effectively put an end to the fan theories, a dedicated portion of the audience continues to hold out hope that the narrative universe is not finished yet."
+        ]
+      },
+      {
+        "h": "Origins of Stranger Things Day",
+        "p": [
+          "The annual celebration takes place every year on November 6, commemorating the fictional date in 1983 when character Will Byers went missing in the town of Hawkins.",
+          "That initial disappearance, orchestrated by a Demogorgon during the first episode of the series, initiated a sprawling sequence of events that threatened the entire world and ultimately culminated in the final season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix released a season five blooper reel for its hit sci-fi series in celebration of Stranger Things Day on November 6, 2026. While the video features cast members like Millie Bobby Brown and Jamie Campbell Bower having fun on set, some fans remain fixated on previous theories about a secret ninth episode following the series finale."
+        ]
+      }
+    ],
+    "facts": [
+      "Stranger Things Day is celebrated every year on November 6.",
+      "November 6 marks the day Will Byers went missing in Hawkins in 1983.",
+      "The final episode of the series aired on New Year's Day.",
+      "The blooper reel was released over 10 months after the show ended."
+    ],
+    "entities": {
+      "people": [
+        "Millie Bobby Brown",
+        "Finn Wolfhard",
+        "Noah Schnapp",
+        "Caleb McLaughlin",
+        "Natalia Dyer",
+        "Maya Hawke",
+        "Jamie Campbell Bower",
+        "Gaten Matarazzo",
+        "Joe Keery",
+        "Will Byers"
+      ],
+      "titles": [
+        "Stranger Things",
+        "Stranger Things: Tales From '85"
+      ]
+    },
+    "keywords": [
+      "Stranger Things Day",
+      "Stranger Things season 5 blooper reel",
+      "Netflix Stranger Things",
+      "Conformity Gate Stranger Things"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/4VkYdJ7nZPZN6fFVUmcp9X-1920-80.jpg",
+        "caption": "Netflix Releases Stranger Things Season 5 Blooper Reel on Stranger Things Day",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 12:07:01 +0000"
+  },
+  "3ub5hy": {
+    "id": "3ub5hy",
+    "type": "news",
+    "headline": "Vijay Sethupathi Set to Make History as First Indian Presenter at International Emmy Awards",
+    "dek": "The acclaimed South star is heading to New York City to present at the 54th International Emmy Awards, joining a growing contingent of Indian representation at the global ceremony.",
+    "body": [
+      {
+        "h": "A Historic Milestone in New York",
+        "p": [
+          "South Indian cinema star Vijay Sethupathi is preparing for a landmark appearance on the global stage as he travels to New York City later this month. The celebrated actor has been confirmed to attend the upcoming international gala as a presenter.",
+          "This appearance marks a significant cultural milestone, establishing him as the very first Indian artist to serve in the presenter role at this prestigious worldwide event. His participation underscores the expanding international reach and recognition of Indian performers."
+        ]
+      },
+      {
+        "h": "The Nomination and Board Support",
+        "p": [
+          "According to industry reports, the actor's inclusion on the presentation panel was championed by Kavita Gupta. Gupta serves as a board member for the organizing institution that oversees the worldwide television accolades.",
+          "The announcement places him among the notable figures representing the nation at the upcoming gala, cementing his status as a prominent cultural ambassador for South Asian cinema on foreign shores."
+        ]
+      },
+      {
+        "h": "India's Broader Presence at the Gala",
+        "p": [
+          "Alongside the visiting star, the nation will see several other notable figures participate in the upcoming festivities. The event's lineup includes multiple entries and returning personalities from the South Asian entertainment landscape.",
+          "Among them is a prominent comedy special competing in its respective category, alongside a critically acclaimed streaming drama series that has also secured a nomination for its creative achievements."
+        ]
+      },
+      {
+        "h": "Past Indian Milestones and Triumphs",
+        "p": [
+          "The upcoming ceremony builds upon a rich history of prior achievements by artists from the region at these international accolades. Previous years have witnessed several domestic talents secure nominations across various acting categories.",
+          "Notable past triumphs include a celebrated crime thriller series capturing the top honor in its category, alongside special honorary accolades presented to pioneering domestic producers and comedians for their artistic contributions."
+        ]
+      },
+      {
+        "h": "An Active Slate of Film Projects",
+        "p": [
+          "Beyond his international engagements, the performer maintains a remarkably busy schedule with numerous cinematic ventures currently in various stages of production and release.",
+          "His upcoming slate features collaborations with acclaimed directors and fellow stars across multiple languages, alongside recent appearances in major blockbuster cameos and streaming features."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Vijay Sethupathi will travel to New York City to become the first Indian presenter at the 54th International Emmy Awards. He is joined by other Indian nominees and representatives, continuing the country's growing legacy at the global event."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Sethupathi is attending the 54th International Emmy Awards on November 23, 2026.",
+      "He is the first Indian artist to present at the international awards ceremony.",
+      "Vir Das is nominated for his 2025 Netflix special Vir Das: Fool Volume.",
+      "The SonyLIV series Real Kashmir Football Club is nominated in the drama series category.",
+      "Vijay Sethupathi's Tamil film Train releases in theatres on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Sethupathi",
+        "Vir Das",
+        "Kavita Gupta",
+        "Mohammed Zeeshan Ayyub",
+        "Manav Kaul",
+        "Jim Sarbh",
+        "Arjun Mathur",
+        "Shefali Shah",
+        "Ritchie Mehta",
+        "Ekta R. Kapoor",
+        "Rajinikanth",
+        "Sai Pallavi",
+        "Mani Ratnam",
+        "Raj B Shetty",
+        "Malavika Mohanan",
+        "Thiagarajan Kumararaja",
+        "Mysskin",
+        "Balaji Tharaneetharan"
+      ],
+      "titles": [
+        "Farzi",
+        "Vir Das: Landing",
+        "Vir Das: Fool Volume",
+        "Real Kashmir Football Club",
+        "Delhi Crime",
+        "Jailer 2",
+        "Slum Dog: 33 Temple Road",
+        "Pocket Novel",
+        "Arasan",
+        "Inji Vellam",
+        "Train",
+        "Baththa"
+      ]
+    },
+    "keywords": [
+      "Vijay Sethupathi International Emmy Awards",
+      "International Emmy Awards 2026 presenter",
+      "Vijay Sethupathi Farzi",
+      "Vir Das International Emmy Awards"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156470656,thumbsize-1218458,width-1280,height-720,resizemode-75/156470656.jpg",
+        "caption": "Vijay Sethupathi Set to Make History as First Indian Presenter at International Emmy Awards",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T12:52:12Z"
+  },
+  "lft081": {
+    "id": "lft081",
+    "type": "news",
+    "headline": "Mumbai Cricket Association Slams Ranveer Singh's 'Pralay' Shoot at Azad Maidan for Disrupting Junior Matches",
+    "dek": "A commercial film shoot for Ranveer Singh's upcoming movie Pralay at Mumbai's historic Azad Maidan has led to a major clash between the Mumbai Cricket Association and the state sports department.",
+    "body": [
+      {
+        "h": "The Azad Maidan Dispute",
+        "p": [
+          "A scheduled six-hour film production for the upcoming movie Pralay at Mumbai's historic Azad Maidan has sparked an intense controversy between the Mumbai Cricket Association and the film's production team. The commercial booking required the ground for a brief window, which directly interfered with local sporting calendars.",
+          "The temporary takeover of the space caused immediate logistical complications for ongoing youth sports programs, bringing the underlying tensions between commercial entertainment interests and grassroots athletic development into sharp focus."
+        ]
+      },
+      {
+        "h": "Impact on Junior Cricket",
+        "p": [
+          "The production activities forced the immediate postponement of critical Under-14 and Under-16 interschool cricket fixtures that had been meticulously organized well in advance. This disruption affected numerous young players, local schools, various clubs, and match officials who rely on these tournaments for competitive experience.",
+          "Association representatives pointed out that halting youth matches creates a cascading effect on the development pipeline, wasting months of preparation and depriving aspiring athletes of valuable playing time on a ground meant specifically for nurturing future talent."
+        ]
+      },
+      {
+        "h": "MCA's Strong Objections",
+        "p": [
+          "The Mumbai Cricket Association voiced severe displeasure through formal communication channels, questioning why the sporting body was kept completely out of the loop before commercial permissions were finalized. Officials emphasized that utilizing a foundational training ground for commercial cinema sets a dangerous precedent.",
+          "Leaders within the association stressed that Azad Maidan is not a standard commercial studio lot, but rather a hallowed nursery where young cricketers hone their skills to eventually reach higher levels of competition, making any non-sporting disruption unacceptable."
+        ]
+      },
+      {
+        "h": "Official Permissions and Conditions",
+        "p": [
+          "Records indicate that the Maharashtra Sports Department granted the production house Light Rays access to 5,000 square yards of government land at the venue for a six-hour duration. The approval was officially signed by Under Secretary Ashok Damayyawar and forwarded by the deputy director of sports.",
+          "The formal authorization came with strict stipulations prohibiting cooking, digging, and bringing vehicles onto the pitches, alongside requirements for separate clearances from police, traffic authorities, and municipal corporations."
+        ]
+      },
+      {
+        "h": "Hansal Mehta Defends the Production",
+        "p": [
+          "Producer Hansal Mehta defended the production choices, asserting that the team followed all lawful protocols and acquired every mandatory clearance from the competent administrative authorities before cameras started rolling on location.",
+          "Mehta also used the occasion to criticize overarching administrative friction, describing Mumbai as increasingly difficult for cinematic productions due to persistent bureaucratic hurdles and regulatory complexities."
+        ]
+      },
+      {
+        "h": "Historical Significance of Azad Maidan",
+        "p": [
+          "Azad Maidan holds a legendary status in Mumbai's rich cricketing lore, having served as the launching pad for numerous international stars. Historic milestones, such as the famous 664-run partnership by Sachin Tendulkar and Vinod Kambli, took place on these grounds.",
+          "Preserving the integrity of such a venue remains a top priority for local cricket administrators, who argue that allowing non-sporting events threatens the historical and practical foundation of Mumbai's sporting culture."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Mumbai Cricket Association strongly criticized a commercial film shoot for Pralay at Azad Maidan that forced the postponement of junior cricket matches. While the production secured official government permits and defended the shoot, the clash highlighted ongoing concerns over prioritizing commercial ventures above grassroots sports development."
+        ]
+      }
+    ],
+    "facts": [
+      "The shoot took place at Azad Maidan in Mumbai.",
+      "The film involved is Pralay, starring Ranveer Singh and Kalyani Priyadarshan.",
+      "The production house granted permission was Light Rays.",
+      "The approval was signed by Under Secretary Ashok Damayyawar on October 30, 2026, and forwarded on November 2, 2026.",
+      "The rent charged for the space was Rs 40,000 along with a refundable security deposit of Rs 40,000.",
+      "Sachin Tendulkar and Vinod Kambli shared a record 664-run partnership at Azad Maidan in 1987."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Kalyani Priyadarshan",
+        "Hansal Mehta",
+        "Ashok Damayyawar",
+        "Nadim Memon",
+        "Sachin Tendulkar",
+        "Vinod Kambli",
+        "Navnath Fartade"
+      ],
+      "titles": [
+        "Pralay",
+        "Rocky Aur Rani Kii Prem Kahaani",
+        "Singham Again"
+      ]
+    },
+    "keywords": [
+      "Pralay film shoot",
+      "Ranveer Singh Pralay",
+      "Azad Maidan cricket dispute",
+      "MCA Hansal Mehta Pralay"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-06T151448.247.webp",
+        "caption": "Mumbai Cricket Association Slams Ranveer Singh's 'Pralay' Shoot at Azad Maidan for Disrupting Junior Matches",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 12:51:20 +0000"
   }
 };
