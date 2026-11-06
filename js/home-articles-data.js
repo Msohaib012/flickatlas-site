@@ -40,6 +40,82 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 17:47:36 +0200"
   },
+  "1mg7aif": {
+    "id": "1mg7aif",
+    "type": "news",
+    "headline": "Law & Order Season 26 Episode 5 Explores Sports Betting and Online Hate",
+    "dek": "A college basketball star's murder on Law & Order season 26 episode 5 exposes the dark intersections of online gambling, influencer hate, and real-world violence.",
+    "entities": {
+      "people": [
+        "David Ajala",
+        "James Badge Dale",
+        "Jade Jones",
+        "Michael Drayer",
+        "Hugh Dancy",
+        "Odelya Halevi",
+        "Miles Booker",
+        "Theo Walker",
+        "Rob Calvino",
+        "Alexis Fisher",
+        "Tyler Duncan",
+        "Tom Phillips",
+        "Nolan Price",
+        "Samantha Maroun"
+      ],
+      "titles": [
+        "Law Order",
+        "Rage Bait",
+        "WeWager"
+      ]
+    },
+    "keywords": [
+      "Law Order Rage Bait",
+      "Law Order Season 26 Episode 5",
+      "Tyler Duncan Stone Freedom",
+      "Miles Booker Piermont basketball"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-06T152811.187.webp",
+        "caption": "Law & Order Season 26 Episode 5 Explores Sports Betting and Online Hate",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:20:52 +0000"
+  },
+  "jo5jpj": {
+    "id": "jo5jpj",
+    "type": "news",
+    "headline": "Drishyam 3 Worldwide Box Office: Ajay Devgn Closes In On Major Milestones",
+    "dek": "Suspense thriller Drishyam 3 approaches massive global box office milestones after completing 35 days in theaters.",
+    "entities": {
+      "people": [
+        "Abhishek Pathak",
+        "Ajay Devgn",
+        "Tabu",
+        "Jaideep Ahlawat",
+        "Aamir Khan"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Dhoom 3"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 box office",
+      "Ajay Devgn Drishyam 3",
+      "Drishyam 3 worldwide collection",
+      "Drishyam 3 total earnings"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/drishyam-3-box-office-completes-30-day-run-in-theaters-001.jpg",
+        "caption": "Drishyam 3 Worldwide Box Office: Ajay Devgn Closes In On Major Milestones",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:14:23 +0000"
+  },
   "25ghxk": {
     "id": "25ghxk",
     "type": "news",
@@ -193,6 +269,44 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 16:40:37 +0200"
   },
+  "1rbiu2v": {
+    "id": "1rbiu2v",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 62 Release Time: Love Gill and Mahhi Vij Clash Over Kitchen Duties",
+    "dek": "As Bigg Boss 20 enters its ninth week, contestants face a tense eviction week following a nasty fight between Love Gill and Mahhi Vij.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan",
+        "Love Gill",
+        "Mahhi Vij",
+        "Arishfa",
+        "Aamrapali Dubey"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 62",
+      "Love Gill Mahhi Vij fight",
+      "Bigg Boss 20 JioHotstar time",
+      "Salman Khan Bigg Boss 20"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20ep53timed1-39741793975669.jpg",
+        "caption": "Bigg Boss 20 Episode 62 Release Time: Love Gill and Mahhi Vij Clash Over Kitchen Duties",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 20:06:46 +0530"
+  },
   "1itnljl": {
     "id": "1itnljl",
     "type": "news",
@@ -226,6 +340,49 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 09:14:28 -0500"
+  },
+  "fp6c2m": {
+    "id": "fp6c2m",
+    "type": "news",
+    "headline": "TelevisaUnivision Completely Sells Out Commercial Space for the 27th Annual Latin Grammy Awards",
+    "dek": "The major Spanish-language broadcaster has successfully filled all ad inventory ahead of the upcoming ceremony, drawing a wave of both first-time and returning corporate sponsors.",
+    "entities": {
+      "people": [
+        "John Kozack",
+        "Enrique Pérez",
+        "Roselyn Sánchez",
+        "Alejandra Espinoza",
+        "Chiqui Delgado",
+        "Raúl de Molina",
+        "Emmanuel Palomares",
+        "Isadora",
+        "Daddy Yankee",
+        "Rosalía",
+        "Anitta",
+        "Feid",
+        "Grupo Frontera",
+        "Juanes"
+      ],
+      "titles": [
+        "Latin Grammy Awards",
+        "Noche de Estrellas"
+      ]
+    },
+    "keywords": [
+      "Latin Grammy Awards",
+      "TelevisaUnivision ad inventory",
+      "John Kozack",
+      "Roselyn Sánchez",
+      "Latin Recording Academy"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Latin-Grammys-2025.jpg",
+        "caption": "TelevisaUnivision Completely Sells Out Commercial Space for the 27th Annual Latin Grammy Awards",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 14:00:00 +0000"
   },
   "1qdm3wn": {
     "id": "1qdm3wn",
@@ -4449,213 +4606,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-05T06:34:21+05:30"
-  },
-  "k6oteg": {
-    "id": "k6oteg",
-    "type": "news",
-    "headline": "Allu Arjun and Rishab Shetty Praise Ranbir Kapoor Starrer Ramayana",
-    "dek": "Prominent film stars Allu Arjun and Rishab Shetty have extended their best wishes to the team behind Ramayana: Part 1, calling it much more than a standard cinematic release ahead of its theatrical debut.",
-    "entities": {
-      "people": [
-        "Allu Arjun",
-        "Rishab Shetty",
-        "Ranbir Kapoor",
-        "Arjun Rampal",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Yash",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Namit Malhotra",
-        "A.R. Rahman",
-        "Hans Zimmer",
-        "Badshah"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana: Part 1",
-        "Ramayana: Rise of a Legend"
-      ]
-    },
-    "keywords": [
-      "Ramayana movie",
-      "Allu Arjun Ramayana",
-      "Rishab Shetty Ramayana",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana advance booking"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aeb5a8c4c784-ramayna-rishab-shetty-allu-arjun-041715168-16x9.jpg",
-        "caption": "Allu Arjun and Rishab Shetty Praise Ranbir Kapoor Starrer Ramayana",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-05T00:51:25Z"
-  },
-  "16h48qo": {
-    "id": "16h48qo",
-    "type": "news",
-    "headline": "Ramayana: Rise of a Legend Opens Worldwide With Record-Breaking Numbers and Massive Scale",
-    "dek": "Nitesh Tiwari’s grand two-part adaptation of the Indian epic hits cinemas globally, backed by monumental advance bookings, a star-studded cast, and an unprecedented production budget.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Rakul Preet Singh",
-        "SS Rajamouli",
-        "Sunny Deol"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Runway 34",
-        "Baahubali",
-        "RRR"
-      ]
-    },
-    "keywords": [
-      "Ramayana movie",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana box office collection",
-      "Yash Ravana Ramayana",
-      "Ramayana Rise of a Legend"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135555214,width-1280,height-720,imgsize-127024,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ramayana: Rise of a Legend Opens Worldwide With Record-Breaking Numbers and Massive Scale",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-05T05:44:42+05:30"
-  },
-  "13c82dj": {
-    "id": "13c82dj",
-    "type": "news",
-    "headline": "The Legal Battle Between 'The Pitt' Producers And The Michael Crichton Estate Is Heading To Trial",
-    "dek": "An appeals court has affirmed a lower court ruling, setting the stage for a jury trial in L.A. Superior Court concerning copyright and breach of contract claims over the HBO Max medical drama.",
-    "entities": {
-      "people": [
-        "Noah Wyle",
-        "Shawn Hatosy",
-        "Michael Crichton",
-        "Sherri Crichton",
-        "John Wells",
-        "Wendy Chang",
-        "R. Scott Gemmill",
-        "Ray Hopkins",
-        "J.K. Rowling",
-        "Whitney Leavitt",
-        "Nicolas Cage",
-        "Alexander Ludwig",
-        "Gabriel Basso",
-        "Maria Bakalova",
-        "Maya Hawke",
-        "Jean-Claude Van Damme",
-        "Jeremy Zag",
-        "Timothée Chalamet",
-        "Abdul El-Sayed",
-        "Kate Mara",
-        "Leslie Mann",
-        "Ashton Kutcher",
-        "Billy Eichner",
-        "Orlando von Einsiedel",
-        "Jeremy Renner",
-        "Josh Brolin",
-        "David Grann",
-        "Chanel Pysnik",
-        "Prince Harry",
-        "Meghan Markle",
-        "Scarlett Johansson"
-      ],
-      "titles": [
-        "The Pitt",
-        "ER",
-        "Jurassic Park",
-        "Harry Potter",
-        "The Secret Lives Of Mormon Wives",
-        "Magic: The Gathering",
-        "Katana",
-        "Dune: Part Three",
-        "Home Shopper",
-        "A Speck In The Sea",
-        "The Brand",
-        "The Batman: Part II"
-      ]
-    },
-    "keywords": [
-      "The Pitt lawsuit",
-      "Michael Crichton Estate",
-      "Noah Wyle The Pitt",
-      "Warner Bros ER court case"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/05/noah-wyle-shawn-hatosy-1.jpg?w=1024",
-        "caption": "The Legal Battle Between 'The Pitt' Producers And The Michael Crichton Estate Is Heading To Trial",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 23:43:17 +0000"
-  },
-  "53d73i": {
-    "id": "53d73i",
-    "type": "news",
-    "headline": "'Ramayana' Anticipated to Net Rs 75-100 Crore on Opening Day as Experts Forecast Massive Lifetime Earnings",
-    "dek": "The grand cinematic adaptation starring Ranbir Kapoor, Sai Pallavi, and Yash eyes a strong box office start across multiple languages, with industry projections pointing to phenomenal figures.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Vishek Chauhan",
-        "Raj Bansal",
-        "Akshaye Rathi",
-        "Sameer Munshi",
-        "Ashish Misra",
-        "Ramesh Bala",
-        "Rakesh Gothwaman",
-        "A R Rahman",
-        "Hans Zimmer",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Suriya",
-        "Nayanthara"
-      ],
-      "titles": [
-        "Ramayana",
-        "Dhurandhar",
-        "Border",
-        "Baahubali",
-        "Hanuman Ansh",
-        "Karuppu",
-        "Irumudi",
-        "Scene",
-        "Mookuthi Amman 2",
-        "Pushpa 2",
-        "KGF 2",
-        "RRR",
-        "Dangal",
-        "Chhichhore"
-      ]
-    },
-    "keywords": [
-      "Ramayana film box office",
-      "Ranbir Kapoor Ramayana opening",
-      "Yash Ramayana movie",
-      "Ramayana collection projection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135554657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "'Ramayana' Anticipated to Net Rs 75-100 Crore on Opening Day as Experts Forecast Massive Lifetime Earnings",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-05T04:57:05+05:30"
   },
   "1m3llbg": {
     "id": "1m3llbg",

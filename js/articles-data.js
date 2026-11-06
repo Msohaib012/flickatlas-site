@@ -71519,5 +71519,425 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 15:00:00 +0000"
+  },
+  "1rbiu2v": {
+    "id": "1rbiu2v",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 62 Release Time: Love Gill and Mahhi Vij Clash Over Kitchen Duties",
+    "dek": "As Bigg Boss 20 enters its ninth week, contestants face a tense eviction week following a nasty fight between Love Gill and Mahhi Vij.",
+    "body": [
+      {
+        "h": "Ninth Week Tension Inside the House",
+        "p": [
+          "The competition inside the Bigg Boss 20 house grows significantly tougher as the reality show enters its ninth week. Following the announcement of the latest nominations, the pressure has reached an all-time high for all the participants.",
+          "One contestant will soon be forced to say goodbye to the reality show. The nominated housemates are currently facing the very real possibility of eviction, leaving viewers waiting in suspense to see who will survive another week in the game."
+        ]
+      },
+      {
+        "h": "Host Salman Khan and Previous Evictions",
+        "p": [
+          "Hosted by the prominent Bollywood actor Salman Khan, Bigg Boss 20 originally premiered on September 6. The popular television program has already witnessed six evictions over the course of its run so far.",
+          "Contestants who have previously exited the house include Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan. As the Week 9 elimination approaches, attention remains firmly fixed on the remaining nominated contestants."
+        ]
+      },
+      {
+        "h": "Upcoming Weekend Ka Vaar Elimination",
+        "p": [
+          "While fans across the country actively discuss possible eviction outcomes on social media, the final decision ultimately depends on audience votes. Supporters are rallying behind their favorite participants to keep them safe from elimination.",
+          "The upcoming Weekend Ka Vaar episode is widely expected to reveal whose journey will officially come to an end this week. Salman Khan will interact with the housemates to dissect the week's events during this special segment."
+        ]
+      },
+      {
+        "h": "The Conclusion of the Sandese Aate Hai Task",
+        "p": [
+          "In the November 5 episode, the emotional 'sandese aate hai' task finally came to a close as the remaining contestants finally received audio messages from their family members.",
+          "During this task, Mahhi chose to keep both her lives and declined to give the cassette to Arishfa. In contrast, Arishfa made the decision to let Aamrapali Dubey listen to her respective family message."
+        ]
+      },
+      {
+        "h": "Heated Argument Between Mahhi Vij and Love Gill",
+        "p": [
+          "The dramatic atmosphere inside the house escalates further with personal conflicts flaring up. In the November 6 episode of Bigg Boss Season 20, a nasty fight is scheduled to take place between Mahhi Vij and Love Gill.",
+          "The explosive disagreement between the two contestants centers specifically around their assigned kitchen duties. Tempers flare as responsibilities are debated and tensions boil over in the cooking area."
+        ]
+      },
+      {
+        "h": "Streaming and Broadcast Schedule",
+        "p": [
+          "Viewers can catch Bigg Boss 20 Episode 62 on JioHotstar at 9 PM on November 6. The digital streaming platform provides easy online access for fans who prefer watching content on the go.",
+          "Those who prefer watching the reality show on traditional television can tune in to Colors TV at 10:30 PM for the latest episode broadcast. The show airs new installments daily to capture all the latest drama."
+        ]
+      },
+      {
+        "h": "Format of the Reality Series",
+        "p": [
+          "Bigg Boss 20 consistently gives viewers a daily glimpse into the housemates' latest arguments, daily tasks, developing friendships, and constantly changing interpersonal relationships.",
+          "The weekend episodes feature the special Weekend Ka Vaar format, where Salman Khan meets the contestants face-to-face to discuss major incidents and address controversies from the past week."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 enters its ninth week with upcoming evictions as hosted by Salman Khan since its premiere on September 6. Episode 62 features a nasty fight between Love Gill and Mahhi Vij over kitchen duties and streams on JioHotstar at 9 PM on November 6."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 premiered on September 6",
+      "Episode 62 airs on November 6, 2026",
+      "JioHotstar release time is 9 PM",
+      "Colors TV broadcast time is 10:30 PM",
+      "Six previous contestants evicted are Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan",
+        "Love Gill",
+        "Mahhi Vij",
+        "Arishfa",
+        "Aamrapali Dubey"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 62",
+      "Love Gill Mahhi Vij fight",
+      "Bigg Boss 20 JioHotstar time",
+      "Salman Khan Bigg Boss 20"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20ep53timed1-39741793975669.jpg",
+        "caption": "Bigg Boss 20 Episode 62 Release Time: Love Gill and Mahhi Vij Clash Over Kitchen Duties",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 20:06:46 +0530"
+  },
+  "fp6c2m": {
+    "id": "fp6c2m",
+    "type": "news",
+    "headline": "TelevisaUnivision Completely Sells Out Commercial Space for the 27th Annual Latin Grammy Awards",
+    "dek": "The major Spanish-language broadcaster has successfully filled all ad inventory ahead of the upcoming ceremony, drawing a wave of both first-time and returning corporate sponsors.",
+    "body": [
+      {
+        "h": "Complete Ad Inventory Sold Out",
+        "p": [
+          "TelevisaUnivision has officially filled all available commercial spots for the upcoming 27th annual Latin Grammy Awards. The milestone highlights strong commercial interest in the premier celebration of Latin music, reflecting broad appeal across multiple market sectors.",
+          "The network secured twenty new advertisers for the broadcast. This surge in commercial participation helped drive a digital and social revenue increase exceeding forty percent compared to previous cycles."
+        ]
+      },
+      {
+        "h": "Diverse Sponsorship Categories",
+        "p": [
+          "The broadcast attracted brands spanning more than eighteen distinct commercial segments. Participating industries include retail, automotive, financial services, transportation, pharmaceuticals, gambling, apparel accessories, and food products.",
+          "This diverse lineup demonstrates the broad demographic reach of the ceremony. Advertisers are increasingly looking to connect with engaged audiences through major cultural and musical broadcasts."
+        ]
+      },
+      {
+        "h": "New and Returning Corporate Partners",
+        "p": [
+          "Several prominent companies are joining the roster of sponsors for the first time. Among the newly enlisted brands are Rémy Martin, Gilead Sciences, Valentino Beauty, and Ross.",
+          "At the same time, several established partners have chosen to return for the broadcast. Continuing sponsors include Hyundai, various Procter & Gamble brands, and Starbucks, alongside additional collaborators."
+        ]
+      },
+      {
+        "h": "Recording Academy Collaborators",
+        "p": [
+          "The Latin Recording Academy successfully enlisted a wide array of official partners for the event. These supporting entities include AIE, American Airlines, Bacardi, Bulova, Discover Puerto Rico, and llaollao.",
+          "Additional organizational partners contributing to the ceremony include Mastercard, Meta, and OPPO, ensuring robust support across technology, travel, and lifestyle sectors."
+        ]
+      },
+      {
+        "h": "Executive Perspectives on the Milestone",
+        "p": [
+          "John Kozack, who serves as the president of U.S. ad sales and marketing at TelevisaUnivision, noted that the event provides an exceptional platform for brands. He emphasized the excitement of collaborating with both new and familiar corporate partners.",
+          "Enrique Pérez, heading partnerships and client solutions at The Latin Recording Academy, pointed to the impressive global growth of Latin music. He stated that corporate backing reflects the unifying power of the genre among audiences and artists worldwide."
+        ]
+      },
+      {
+        "h": "Broadcast Logistics and Event Details",
+        "p": [
+          "The ceremony is scheduled to air live from the MGM Grand Garden Arena located in Las Vegas. The three-hour telecast will take place on November 12 at 8 p.m. Eastern and Pacific time.",
+          "Viewers can watch the main event across Univision, UNIMÁS, and Galavisión, or stream it digitally through ViX. The evening will also feature a pre-show titled Noche de Estrellas starting an hour prior at 7 p.m."
+        ]
+      },
+      {
+        "h": "Hosts and Star-Studded Performances",
+        "p": [
+          "The main three-hour telecast will be hosted by Roselyn Sánchez, recognized as an actress, producer, and Latin Grammy nominee. The pre-show will be anchored by Alejandra Espinoza, Chiqui Delgado, Raúl de Molina, Emmanuel Palomares, and Isadora.",
+          "Audiences can expect musical performances from major artists such as Daddy Yankee, Rosalía, Anitta, Feid, Grupo Frontera, and Juanes, rounding out the celebration of Latin music."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "TelevisaUnivision has sold out all ad inventory for the 27th annual Latin Grammy Awards, bringing in twenty new advertisers and achieving a more than forty percent boost in digital and social revenue. The event will broadcast live from Las Vegas on November 12, featuring numerous sponsors, a slate of celebrity hosts, and performances by top musical artists."
+        ]
+      }
+    ],
+    "facts": [
+      "TelevisaUnivision sold out inventory for the 27th annual Latin Grammy Awards.",
+      "There are 20 new advertisers and a more than 40% increase in digital and social revenue.",
+      "The broadcast represents over 18 ad categories.",
+      "First-time sponsors include Rémy Martin, Gilead Sciences, Valentino Beauty and Ross.",
+      "Returning sponsors include Hyundai, P G brands and Starbucks.",
+      "Other brands enlisted include AIE, American Airlines, Bacardi, Bulova, Discover Puerto Rico, llaollao, Mastercard, Meta and OPPO.",
+      "John Kozack is the TelevisaUnivision U.S. Ad Sales and Marketing President.",
+      "Enrique Pérez is The Latin Recording Academy Partnerships and Client Solutions Head.",
+      "The Latin Grammys will air live from MGM Grand Garden Arena in Las Vegas on Nov. 12 at 8 p.m. ET/PT.",
+      "The telecast will air on Univision, UNIMÁS, Galavisión and stream on ViX.",
+      "The three-hour telecast will be hosted by Roselyn Sánchez.",
+      "Performances will feature Daddy Yankee, Rosalía, Anitta, Feid, Grupo Frontera, Juanes and others.",
+      "Noche de Estrellas will air at 7 p.m. ET/PT, hosted by Alejandra Espinoza, Chiqui Delgado, Raúl de Molina, Emmanuel Palomares and Isadora."
+    ],
+    "entities": {
+      "people": [
+        "John Kozack",
+        "Enrique Pérez",
+        "Roselyn Sánchez",
+        "Alejandra Espinoza",
+        "Chiqui Delgado",
+        "Raúl de Molina",
+        "Emmanuel Palomares",
+        "Isadora",
+        "Daddy Yankee",
+        "Rosalía",
+        "Anitta",
+        "Feid",
+        "Grupo Frontera",
+        "Juanes"
+      ],
+      "titles": [
+        "Latin Grammy Awards",
+        "Noche de Estrellas"
+      ]
+    },
+    "keywords": [
+      "Latin Grammy Awards",
+      "TelevisaUnivision ad inventory",
+      "John Kozack",
+      "Roselyn Sánchez",
+      "Latin Recording Academy"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Latin-Grammys-2025.jpg",
+        "caption": "TelevisaUnivision Completely Sells Out Commercial Space for the 27th Annual Latin Grammy Awards",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 14:00:00 +0000"
+  },
+  "jo5jpj": {
+    "id": "jo5jpj",
+    "type": "news",
+    "headline": "Drishyam 3 Worldwide Box Office: Ajay Devgn Closes In On Major Milestones",
+    "dek": "Suspense thriller Drishyam 3 approaches massive global box office milestones after completing 35 days in theaters.",
+    "body": [
+      {
+        "h": "The Journey To Global Dominance",
+        "p": [
+          "Suspense thriller Drishyam 3 has maintained steady box office momentum over the course of its theatrical run. Directed by Abhishek Pathak, the feature film features performances from lead actors Ajay Devgn, Tabu, and Jaideep Ahlawat.",
+          "Having completed 35 days of continuous screening, the project stands just a short distance away from claiming two significant global achievements."
+        ]
+      },
+      {
+        "h": "Milestone 1: The 600 Crore Global Club",
+        "p": [
+          "The suspense threequel has already established itself as the highest-grossing title within the careers of both Ajay Devgn and Tabu. Its current worldwide gross stands at 592.92 crore.",
+          "Crossing the threshold of 600 crore worldwide gross represents a rare accomplishment for contemporary Hindi cinema, setting a personal career record for the lead star."
+        ]
+      },
+      {
+        "h": "Milestone 2: Entering The Top 15 All-Time",
+        "p": [
+          "In addition to the 600 crore club, the thriller needs to clear a small margin to secure a spot inside the top 15 highest-grossing Bollywood films globally.",
+          "Currently holding the 15th position is Yash Raj Films' action classic Dhoom 3, headlined by Aamir Khan, with a global total of 601 crore. Drishyam 3 requires only 8.08 crore more to surpass that figure."
+        ]
+      },
+      {
+        "h": "Financial Breakdown And Profitability",
+        "p": [
+          "The commercial performance of the picture reflects strong numbers across domestic and international markets. The production operated on a budget of 110 crore.",
+          "Domestic figures include a net collection of 379.65 crore alongside an India gross collection of 448.03 crore. Meanwhile, overseas markets contributed 144.89 crore to the global tally."
+        ]
+      },
+      {
+        "h": "Return On Investment And Verdict",
+        "p": [
+          "With a profit of 269.65 crore registered so far, the project has achieved a return on investment of 245.14 percent.",
+          "Steady weekend walk-ins and favorable theatrical longevity continue to support its final leg at the box office."
+        ]
+      },
+      {
+        "h": "Prospects For Festive Season",
+        "p": [
+          "Continued theatrical screenings during festive periods could provide the final push required to breach both remaining targets.",
+          "Industry watchers note that the remaining 8.08 crore gap is well within reach given the film's consistent daily trajectory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suspense thriller Drishyam 3 has reached 592.92 crore in worldwide gross collections after 35 days in theaters, leaving it just 8.08 crore away from two major milestones. Achieving this would place the Ajay Devgn starrer past Aamir Khan's Dhoom 3 and into the 600 crore global club."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam 3 has completed 35 days at the box office.",
+      "Worldwide gross collection stands at 592.92 crore.",
+      "The film needs 8.08 crore more to reach 600 crore and surpass Dhoom 3.",
+      "India net collection is 379.65 crore.",
+      "India gross collection is 448.03 crore.",
+      "Budget is 110 crore.",
+      "Profit is 269.65 crore.",
+      "ROI is 245.14 percent.",
+      "Overseas gross collection is 144.89 crore.",
+      "Dhoom 3 global collection is 601 crore."
+    ],
+    "entities": {
+      "people": [
+        "Abhishek Pathak",
+        "Ajay Devgn",
+        "Tabu",
+        "Jaideep Ahlawat",
+        "Aamir Khan"
+      ],
+      "titles": [
+        "Drishyam 3",
+        "Dhoom 3"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 box office",
+      "Ajay Devgn Drishyam 3",
+      "Drishyam 3 worldwide collection",
+      "Drishyam 3 total earnings"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/drishyam-3-box-office-completes-30-day-run-in-theaters-001.jpg",
+        "caption": "Drishyam 3 Worldwide Box Office: Ajay Devgn Closes In On Major Milestones",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:14:23 +0000"
+  },
+  "1mg7aif": {
+    "id": "1mg7aif",
+    "type": "news",
+    "headline": "Law & Order Season 26 Episode 5 Explores Sports Betting and Online Hate",
+    "dek": "A college basketball star's murder on Law & Order season 26 episode 5 exposes the dark intersections of online gambling, influencer hate, and real-world violence.",
+    "body": [
+      {
+        "h": "Introduction to the Episode",
+        "p": [
+          "The long-running television franchise returned with a gripping installment that draws inspiration from the darkest corners of internet culture. Season 26, Episode 5, titled 'Rage Bait,' debuted on NBC during the network's fall lineup.",
+          "The storyline centers on the tragic murder of a young amateur athlete, pulling viewers into a contemporary mystery involving online harassment, sports wagering, and inflammatory digital influencers."
+        ]
+      },
+      {
+        "h": "The Catalyst: A Championship and a Bet",
+        "p": [
+          "The victim is Miles Booker, a twenty-year-old college basketball player for Piermont who achieves sudden fame after sinking a game-winning three-pointer. While the shot secures a championship victory, it simultaneously disrupts betting lines on an online prediction platform called WeWager.",
+          "This upset unleashes a wave of fury from individuals who suffered financial losses. Detectives Theo Walker and Rob Calvino take on the investigation, quickly realizing that online hostility directed at the athlete extended far beyond harmless internet noise."
+        ]
+      },
+      {
+        "h": "The Suspect and the Business of Hate",
+        "p": [
+          "The detectives trace the digital threats to Tyler Duncan, an online personality who operates under the provocative alter ego 'Stone Freedom.' Duncan builds a substantial following and monetizes grievance politics, racial provocation, and harassment.",
+          "The narrative emphasizes that Duncan's extreme online behavior is not merely impulsive speech, but rather a calculated business model designed to turn public outrage into profit and career success."
+        ]
+      },
+      {
+        "h": "The Pressures of Modern Prediction Markets",
+        "p": [
+          "At the center of the fictional conflict is the prediction platform WeWager, which allows users to wager money on the individual performances of amateur college competitors. Detective Walker highlights the unfair pressure such markets place on young athletes.",
+          "The episode examines how modern social media algorithms and betting systems reward the most controversial voices, transforming young competitors into financial commodities for anonymous internet strangers."
+        ]
+      },
+      {
+        "h": "The Courtroom Legal Battle",
+        "p": [
+          "As the case shifts to the courtroom, Assistant District Attorneys Nolan Price and Samantha Maroun face a challenging trial where the defendant claims self-defense. The defense attempts to frame Duncan's online persona as a mere performance created for entertainment purposes.",
+          "Although the judge initially rules that the alter-ego videos are prejudicial and inadmissible, investigators uncover a crucial audio recording of Duncan discussing how to execute and profit from a murder, ultimately destroying the defense's narrative."
+        ]
+      },
+      {
+        "h": "Verdict and Franchise Significance",
+        "p": [
+          "Deliberating over the evidence, the jury finds Tyler Duncan guilty of both murder and a racial hate crime. The episode stands out for offering a sharp commentary on the dangerous illusion that words published online remain separate from real-world consequences.",
+          "Anchored by performances from David Ajala, James Badge Dale, Hugh Dancy, and Odelya Halevi, the installment delivers a compelling look at the economics of digital anger."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Availability",
+        "p": [
+          "Viewers in the United States could watch the live broadcast on NBC or stream the episode the following day on Peacock. Additional viewing options included live TV streaming services such as fuboTV and Hulu + Live TV depending on regional availability.",
+          "International audiences accessed the episode through local broadcast partners carrying the NBC feed or network rights in regions like Canada, the UK, and Australia."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Law & Order Season 26 Episode 5 tackled online hate and sports gambling through the murder investigation of a college basketball star. The legal battle concluded with the conviction of an internet influencer who monetized grievance politics."
+        ]
+      }
+    ],
+    "facts": [
+      "Law & Order Season 26 Episode 5 is titled Rage Bait",
+      "The episode aired on November 5, 2026",
+      "Miles Booker is a 20-year-old college basketball player for Piermont",
+      "Tyler Duncan used the online alter ego Stone Freedom",
+      "Detectives Theo Walker and Rob Calvino investigated the case",
+      "ADAs Nolan Price and Samantha Maroun prosecuted the case"
+    ],
+    "entities": {
+      "people": [
+        "David Ajala",
+        "James Badge Dale",
+        "Jade Jones",
+        "Michael Drayer",
+        "Hugh Dancy",
+        "Odelya Halevi",
+        "Miles Booker",
+        "Theo Walker",
+        "Rob Calvino",
+        "Alexis Fisher",
+        "Tyler Duncan",
+        "Tom Phillips",
+        "Nolan Price",
+        "Samantha Maroun"
+      ],
+      "titles": [
+        "Law Order",
+        "Rage Bait",
+        "WeWager"
+      ]
+    },
+    "keywords": [
+      "Law Order Rage Bait",
+      "Law Order Season 26 Episode 5",
+      "Tyler Duncan Stone Freedom",
+      "Miles Booker Piermont basketball"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-06T152811.187.webp",
+        "caption": "Law & Order Season 26 Episode 5 Explores Sports Betting and Online Hate",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:20:52 +0000"
   }
 };
