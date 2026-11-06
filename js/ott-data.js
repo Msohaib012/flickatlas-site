@@ -12,6 +12,50 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "date": "2026-11-04",
+      "date_kind": "release",
+      "id": 258989,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-04",
+      "date_kind": "digital",
+      "id": 1570488,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-04",
+      "date_kind": "digital",
+      "id": 1294189,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-03",
       "date_kind": "release",
       "id": 279246,
@@ -734,6 +778,18 @@ window.FA_OTT = {
     {
       "date": "2026-10-02",
       "date_kind": "release",
+      "id": 1283515,
+      "providers": [
+        {
+          "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-10-02",
+      "date_kind": "release",
       "id": 302882,
       "providers": [
         {
@@ -797,8 +853,8 @@ window.FA_OTT = {
       "id": 333483,
       "providers": [
         {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
         }
       ],
       "type": "tv"
@@ -880,18 +936,6 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "date": "2026-09-11",
-      "date_kind": "release",
-      "id": 332061,
-      "providers": [
-        {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
-        }
-      ],
-      "type": "tv"
-    },
-    {
       "date": "2026-09-09",
       "date_kind": "release",
       "id": 1440098,
@@ -906,18 +950,6 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
-    },
-    {
-      "date": "2026-09-04",
-      "date_kind": "release",
-      "id": 331750,
-      "providers": [
-        {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
-        }
-      ],
-      "type": "tv"
     },
     {
       "date": "2026-09-04",
@@ -1016,18 +1048,6 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "date": "2026-08-15",
-      "date_kind": "release",
-      "id": 328818,
-      "providers": [
-        {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
-        }
-      ],
-      "type": "tv"
-    },
-    {
       "date": "2026-08-14",
       "date_kind": "release",
       "id": 1408162,
@@ -1067,18 +1087,6 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        }
-      ],
-      "type": "tv"
-    },
-    {
-      "date": "2026-08-05",
-      "date_kind": "release",
-      "id": 328817,
-      "providers": [
-        {
-          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-          "name": "JioHotstar"
         }
       ],
       "type": "tv"

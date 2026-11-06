@@ -2016,7 +2016,20 @@ window.FA_PUBLISHED = {
     "certification": "R",
     "release_date": "2026-10-29",
     "runtime": 99,
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1657630": {
     "id": 1657630,
@@ -5675,7 +5688,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-02",
     "date_kind": "release",
     "runtime": 121,
-    "providers": []
+    "providers": [
+      {
+        "name": "MGM Plus",
+        "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1422041": {
     "id": 1422041,
@@ -6357,9 +6377,9 @@ window.FA_PUBLISHED = {
     ],
     "providers": [
       {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
         "type": "flatrate"
       }
     ]
@@ -6498,14 +6518,7 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Shani Khader"
     ],
-    "providers": [
-      {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
-        "type": "flatrate"
-      }
-    ]
+    "providers": []
   },
   "249863": {
     "id": 249863,
@@ -6644,14 +6657,7 @@ window.FA_PUBLISHED = {
       "Bala SB",
       "Srihari Jagannathan"
     ],
-    "providers": [
-      {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
-        "type": "flatrate"
-      }
-    ]
+    "providers": []
   },
   "316970": {
     "id": 316970,
@@ -6855,14 +6861,7 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Juggernaut Productions"
     ],
-    "providers": [
-      {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
-        "type": "flatrate"
-      }
-    ]
+    "providers": []
   },
   "284753": {
     "id": 284753,
@@ -6983,14 +6982,7 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Ved Raj"
     ],
-    "providers": [
-      {
-        "name": "JioHotstar",
-        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
-        "region": "IN",
-        "type": "flatrate"
-      }
-    ]
+    "providers": []
   },
   "328402": {
     "id": 328402,
@@ -23602,7 +23594,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-04",
     "date_kind": "release",
     "runtime": 99,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1814744": {
     "id": 1814744,
@@ -24361,7 +24360,20 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Ben Watkins"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1808456": {
     "id": 1808456,

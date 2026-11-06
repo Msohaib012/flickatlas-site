@@ -67615,5 +67615,375 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-06T04:52:07Z"
+  },
+  "l7e4jk": {
+    "id": "l7e4jk",
+    "type": "news",
+    "headline": "Ramayana Set Design Revealed: From Surpanakha's Chariot to Ravana's Throne",
+    "dek": "Art director Ramesh breaks down the massive scale of the mythological epic, revealing the incredible costs and painstaking efforts behind building Lanka's physical sets.",
+    "body": [
+      {
+        "h": "Massive Scale and Production Design",
+        "p": [
+          "The upcoming mythological film Ramayana has generated immense excitement not just for its star-studded cast, but for its jaw-dropping visual scale. Directed by Nitesh Tiwari, the production has spared no expense in creating an immersive cinematic world. The scale of the project is evident in its heavy reliance on physical set construction rather than leaning solely on green screens for its grand sequences."
+        ]
+      },
+      {
+        "h": "Building Lanka: A Massive Undertaking",
+        "p": [
+          "According to the film's art director, Ramesh, bringing the mythical kingdom of Lanka to life required an army of workers. A massive team of 500 to 600 people was deployed to construct the sets. In total, over 150 different sets were created specifically for the movie to ensure the world felt authentic and deeply grounded."
+        ]
+      },
+      {
+        "h": "Intricate Design Process at Film City",
+        "p": [
+          "Set construction officially kicked off in April 2024 at Prime Focus Studios located in Mumbai's Film City. The creative process was exceptionally rigorous, with every single structure undergoing anywhere from 10 to 15 design changes. The makers focused heavily on tangible details such as authentic floor textures, intricate wall designs, and rich gold embellishments."
+        ]
+      },
+      {
+        "h": "The Cost and Craft of Ravana's Throne",
+        "p": [
+          "Among the many physical assets built for the film, Ravana's throne stands out as the most expensive single piece. The grand structure took four months to build and cost approximately Rs 1 crore. It was meticulously moulded in fibre over a clay base and finished with authentic 24-carat gold leafing."
+        ]
+      },
+      {
+        "h": "Surpanakha's Chariot and Other Key Props",
+        "p": [
+          "Another standout prop was Surpanakha's chariot, which was valued at approximately Rs 1.5 crore and took three months to manufacture. Additionally, the production constructed a massive 24-foot-tall skeleton model of Jatayu to assist performers with their dialogues, alongside a 50-foot Pushpak Viman built across four separate modules over a period of 40 to 50 days."
+        ]
+      },
+      {
+        "h": "Cast and Crew Behind the Epic",
+        "p": [
+          "Helmed by director Nitesh Tiwari, Ramayana features Ranbir Kapoor as Lord Rama, Yash as Ravana, and Sai Pallavi as Sita. Sunny Deol also appears as Hanuman, leading an expected sequel slated for 2028. The film is jointly produced by Namit Malhotra's Prime Focus Studios and Yash's Monster Mind Creations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Art director Ramesh revealed that Ramayana involved building over 150 physical sets requiring a workforce of hundreds of people. The extensive design process included high-cost items like a Rs 1.5 crore chariot and a Rs 1 crore gold-leafed throne for Yash's character. The Nitesh Tiwari directorial is produced by Prime Focus Studios and Monster Mind Creations with a prominent ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Over 150 sets were created for the film Ramayana.",
+      "Set construction at Prime Focus Studios in Mumbai's Film City commenced in April 2024.",
+      "Ravana's throne cost approximately Rs 1 crore and took four months to build.",
+      "Surpanakha's chariot cost approximately Rs 1.5 crore and took three months to make.",
+      "A team of 500 to 600 people built Lanka's set.",
+      "A 24-foot-tall skeleton model of Jatayu was created.",
+      "A 50-foot Pushpak Viman was constructed in four separate modules over 40 to 50 days.",
+      "Ramayana is directed by Nitesh Tiwari.",
+      "Ranbir Kapoor plays Lord Rama, Yash plays Ravana, and Sai Pallavi plays Sita."
+    ],
+    "entities": {
+      "people": [
+        "Ramesh",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Yash",
+      "Rakul Preet Singh",
+      "Nitesh Tiwari",
+      "Ranbir Kapoor"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156470732,thumbsize-785992,width-1280,height-720,resizemode-75/156470732.jpg",
+        "caption": "Ramayana Set Design Revealed: From Surpanakha's Chariot to Ravana's Throne",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T05:51:23Z"
+  },
+  "jnrp6v": {
+    "id": "jnrp6v",
+    "type": "news",
+    "headline": "Keanu Reeves Officially Returns to John Wick Franchise for Animated Prequel",
+    "dek": "Lionsgate confirms that Keanu Reeves will reprise his iconic role as the legendary assassin in an animated prequel exploring the famous Impossible Task.",
+    "body": [
+      {
+        "h": "The Return of the Baba Yaga",
+        "p": [
+          "Keanu Reeves has officially locked in a deal to play John Wick once again. This time, the acclaimed actor will voice and portray the legendary hitman in an animated feature film that rewinds the timeline of the universe's most famous assassin.",
+          "The project confirms that Lionsgate is officially revisiting the celebrated action lore that turned the character into a screen icon, giving audiences a chance to see him back in action through a brand-new medium."
+        ]
+      },
+      {
+        "h": "Exploring the Impossible Task",
+        "p": [
+          "The upcoming animated movie travels back to the defining moment of John Wick's past: the legendary Impossible Task. The narrative focuses on the night he had to eliminate all of his rivals in a single night.",
+          "Successfully completing this monumental feat was the only way for him to release himself from his obligation to the High Table. It also granted him the right to step away and be with Helen, the love of his life."
+        ]
+      },
+      {
+        "h": "Creative Team and Direction",
+        "p": [
+          "Animation veteran Shannon Tindle is stepping into the director's chair for the project. Tindle is widely recognized for his work on Netflix's Ultraman: Rising and Kubo and the Two Strings.",
+          "The script for the animated prequel was penned by Ryan Firpo and Kaz Firpo. Their combined storytelling vision sets the stage for a unique stylistic expansion of the franchise."
+        ]
+      },
+      {
+        "h": "Behind-the-Camera Heavyweights",
+        "p": [
+          "A powerhouse team of producers is backing the animated venture. Basil Iwanyk and Erica Lee of Thunder Road, the primary producing team behind the live-action John Wick films, are on board alongside Chad Stahelski of 87Eleven Entertainment.",
+          "In addition to voicing and portraying the main character, Keanu Reeves is also serving as a producer. Point Grey has additionally joined the project as a collaborating entity."
+        ]
+      },
+      {
+        "h": "Studio Vision and Previous Announcements",
+        "p": [
+          "When the animated feature was initially announced in 2025, Lionsgate motion picture chair Adam Fogelson highlighted the endless possibilities within both animation and the universe of the franchise.",
+          "Fogelson noted that there is no storyline fans have been demanding more than the Impossible Task. He expressed immense excitement for Shannon Tindle's creative take on the material and what the assassin can achieve in animation."
+        ]
+      },
+      {
+        "h": "Future Expansion of the Franchise",
+        "p": [
+          "Lionsgate has extensive plans to continue growing the cinematic universe beyond this prequel. A fifth live-action John Wick film is currently in development.",
+          "Additionally, a standalone adventure centered around Donnie Yen’s blind assassin character, Caine, is in the works, ensuring that the franchise will keep expanding across multiple formats."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Keanu Reeves has officially signed on to reprise his role as John Wick in an upcoming animated prequel film from Lionsgate. Directed by Shannon Tindle and written by Ryan and Kaz Firpo, the project explores the character's legendary Impossible Task to free himself from the High Table."
+        ]
+      }
+    ],
+    "facts": [
+      "Keanu Reeves has signed on to play John Wick in an animated feature film from Lionsgate.",
+      "The film follows John Wick completing the Impossible Task to free himself from the High Table and be with Helen.",
+      "Shannon Tindle is set to direct the animated prequel.",
+      "Ryan Firpo and Kaz Firpo wrote the script.",
+      "Basil Iwanyk and Erica Lee of Thunder Road, Chad Stahelski of 87Eleven Entertainment, and Keanu Reeves are producers.",
+      "Point Grey has joined the project.",
+      "The project was initially announced in 2025.",
+      "Adam Fogelson is the Lionsgate motion picture chair.",
+      "A fifth live-action John Wick movie and a standalone adventure for Donnie Yen's Caine are in development."
+    ],
+    "entities": {
+      "people": [
+        "Keanu Reeves",
+        "Shannon Tindle",
+        "Ryan Firpo",
+        "Kaz Firpo",
+        "Basil Iwanyk",
+        "Erica Lee",
+        "Chad Stahelski",
+        "Adam Fogelson",
+        "Helen",
+        "Donnie Yen",
+        "Caine",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "John Wick",
+        "Kubo and the Two Strings",
+        "Ultraman: Rising",
+        "12 Bullets"
+      ]
+    },
+    "keywords": [
+      "Keanu Reeves John Wick",
+      "John Wick animated prequel",
+      "Impossible Task movie",
+      "Shannon Tindle John Wick"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/keanujohnwick.webp?resize=1200,630",
+        "caption": "Keanu Reeves Officially Returns to John Wick Franchise for Animated Prequel",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 03:57:56 +0000"
+  },
+  "1g5qs26": {
+    "id": "1g5qs26",
+    "type": "news",
+    "headline": "BTS ARIRANG Asia Concerts Heading To Cinemas Worldwide With New Teaser",
+    "dek": "Fans can now experience the BTS ARIRANG World Tour in theatres as special live-viewing screenings are announced for the Kaohsiung and Jakarta concerts.",
+    "body": [
+      {
+        "h": "Bringing The Stadium Experience To Local Cinemas",
+        "p": [
+          "The popular septet is extending its massive concert footprint directly onto movie screens across the globe. Rather than requiring supporters to travel vast distances or secure scarce stadium seats, this theatrical initiative bridges the gap.",
+          "A fresh promotional teaser invites the global fandom to gather in shared auditorium spaces. These screenings aim to replicate the vibrant energy of a live show, allowing crowds to sing and celebrate together."
+        ]
+      },
+      {
+        "h": "Kaohsiung And Jakarta Show Dates",
+        "p": [
+          "The latest Asia tour additions focus heavily on two major upcoming performances. The Kaohsiung concert is officially slated for November 21, 2026, while the Jakarta concert will follow shortly after on December 29, 2026.",
+          "To accommodate different time zones and regional broadcasting limitations, certain territories will host their theatrical broadcasts at later adjusted times. This ensures international supporters can participate fully without clashing with original schedules."
+        ]
+      },
+      {
+        "h": "Ticketing And Global Fandom Connection",
+        "p": [
+          "Official announcements are currently driving ticket promotions for the live viewings, encouraging enthusiasts to secure their preferred seats early. Fandom members are advised to check local listings as precise screening schedules may vary by region.",
+          "This worldwide cinema program serves as a powerful tool to unite supporters regardless of physical boundaries. Transforming local theatres into mini-concert venues elevates individual viewing into a collective international celebration."
+        ]
+      },
+      {
+        "h": "An Unprecedented Record-Breaking World Tour",
+        "p": [
+          "The underlying trek has already cemented its place in history as a massive global phenomenon. Reports indicate the outing has surpassed $561 million in total revenue, earning the title of the highest-grossing tour by any pop group.",
+          "Attendance figures are equally staggering, drawing more than 2.85 million people across over 46 completely sold-out stadium dates spanning North America, Europe, Latin America, and Asia."
+        ]
+      },
+      {
+        "h": "Milestones And Financial Impact",
+        "p": [
+          "Among the standout achievements of the journey are four completely sold-out performances at Los Angeles' SoFi Stadium. That specific multi-night run pulled in $57.7 million and successfully shattered previous venue records.",
+          "The phenomenal commercial triumph has directly bolstered HYBE's financial health. Additional performance dates are currently anticipated to stretch the experience well into the first half of 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS is bringing select stops of its ARIRANG World Tour to cinemas worldwide through special live viewings for fans in Kaohsiung and Jakarta. This theatrical initiative builds upon a record-breaking global concert run that has already grossed over $561 million across numerous sold-out stadium shows."
+        ]
+      }
+    ],
+    "facts": [
+      "November 21, 2026",
+      "December 29, 2026",
+      "$561 million",
+      "2.85 million",
+      "46",
+      "SoFi Stadium",
+      "$57.7 million",
+      "HYBE"
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "BTS ARIRANG World Tour"
+      ]
+    },
+    "keywords": [
+      "BTS ARIRANG Asia concerts",
+      "BTS World Tour ARIRANG Live Viewing",
+      "Kaohsiung concert screening",
+      "Jakarta concert livestream",
+      "BTS ARIRANG World Tour revenue"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156470952,thumbsize-312878,width-1280,height-720,resizemode-75/156470952.jpg",
+        "caption": "BTS ARIRANG Asia Concerts Heading To Cinemas Worldwide With New Teaser",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T05:51:23Z"
+  },
+  "atpdk1": {
+    "id": "atpdk1",
+    "type": "news",
+    "headline": "Russell Crowe and Ryan Gosling's Cult Crime Thriller Climbs to Number One on Streaming",
+    "dek": "A decade after its initial theatrical run, the 2016 crime comedy-thriller starring Russell Crowe and Ryan Gosling has captured a massive streaming audience.",
+    "body": [
+      {
+        "h": "A Surprising Streaming Milestone",
+        "p": [
+          "Nearly ten years after its initial premiere, the crime comedy-thriller The Nice Guys has achieved a remarkable new milestone by surging to the number one spot on Apple TV.",
+          "While many films immediately capture the public imagination, others take years to find their true footing through word of mouth and home viewing discoveries."
+        ]
+      },
+      {
+        "h": "Background and Theatrical Underperformance",
+        "p": [
+          "Upon its original release in May 2016, the movie struggled significantly at the box office despite earning positive reviews from film critics.",
+          "Produced on a budget of $50 million, the feature managed to collect only $71 million during its theatrical run, failing to make a strong financial impact at the time."
+        ]
+      },
+      {
+        "h": "The Creative Forces Behind the Project",
+        "p": [
+          "The project was written and directed by Shane Black, who previously directed major hits such as Iron Man 3 and Kiss Kiss Bang Bang.",
+          "Collaborating with co-writer Anthony Bagarozzi and producer Joel Silver, Black crafted an inventive story set in 1970s Los Angeles revolving around a missing person and widespread corruption."
+        ]
+      },
+      {
+        "h": "A Dynamic Duet of Lead Actors",
+        "p": [
+          "The core of the movie relies heavily on the contrasting performances and chemistry between its two lead actors, Russell Crowe and Ryan Gosling.",
+          "Crowe portrays Jackson Healy, a tough and physically imposing enforcer, while Gosling plays Holland March, an irresponsible and struggling private investigator."
+        ]
+      },
+      {
+        "h": "Comedic Timing and Character Dynamics",
+        "p": [
+          "Gosling leans heavily into physical comedy and sharp timing to create an unforgettable, flawed protagonist whose young daughter often displays more maturity than he does.",
+          "Meanwhile, Crowe acts as the perfect straight man, offering dry reactions and underlying emotional depth that elevate the comedic partnership between the two investigators."
+        ]
+      },
+      {
+        "h": "Enduring Appeal and Cultural Legacy",
+        "p": [
+          "Over the past decade, the film has steadily built a devoted cult following thanks to its razor-sharp dialogue, unpredictable action sequences, and engaging mystery.",
+          "Its recent rise to the top of streaming charts serves as a late-stage victory, proving that a film can eventually find the appreciative audience it always deserved."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2016 crime thriller The Nice Guys has climbed to the number one position on Apple TV ten years after its initial release. Despite underperforming at the box office with a $71 million gross against a $50 million budget, the Shane Black-directed feature has finally found a massive audience through streaming."
+        ]
+      }
+    ],
+    "facts": [
+      "The Nice Guys was released on May 20, 2016.",
+      "The film had a production budget of $50 million.",
+      "The film earned $71 million at the box office.",
+      "The runtime of the film is 116 minutes.",
+      "The movie was written and directed by Shane Black."
+    ],
+    "entities": {
+      "people": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Shane Black",
+        "Anthony Bagarozzi",
+        "Joel Silver",
+        "Conor Sheeran",
+        "Chris McPherson"
+      ],
+      "titles": [
+        "The Nice Guys",
+        "Iron Man 3",
+        "Kiss Kiss Bang Bang",
+        "Gladiator",
+        "The Nice Guys 2",
+        "Ozark"
+      ]
+    },
+    "keywords": [
+      "The Nice Guys",
+      "Russell Crowe",
+      "Ryan Gosling",
+      "Shane Black",
+      "The Nice Guys streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/06/the-nice-guys-russell-crowe.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Russell Crowe and Ryan Gosling's Cult Crime Thriller Climbs to Number One on Streaming",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 04:03:12 GMT"
   }
 };

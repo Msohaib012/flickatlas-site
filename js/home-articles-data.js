@@ -40,6 +40,68 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 09:13:35 +0200"
   },
+  "1g5qs26": {
+    "id": "1g5qs26",
+    "type": "news",
+    "headline": "BTS ARIRANG Asia Concerts Heading To Cinemas Worldwide With New Teaser",
+    "dek": "Fans can now experience the BTS ARIRANG World Tour in theatres as special live-viewing screenings are announced for the Kaohsiung and Jakarta concerts.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "BTS ARIRANG World Tour"
+      ]
+    },
+    "keywords": [
+      "BTS ARIRANG Asia concerts",
+      "BTS World Tour ARIRANG Live Viewing",
+      "Kaohsiung concert screening",
+      "Jakarta concert livestream",
+      "BTS ARIRANG World Tour revenue"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156470952,thumbsize-312878,width-1280,height-720,resizemode-75/156470952.jpg",
+        "caption": "BTS ARIRANG Asia Concerts Heading To Cinemas Worldwide With New Teaser",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T05:51:23Z"
+  },
+  "l7e4jk": {
+    "id": "l7e4jk",
+    "type": "news",
+    "headline": "Ramayana Set Design Revealed: From Surpanakha's Chariot to Ravana's Throne",
+    "dek": "Art director Ramesh breaks down the massive scale of the mythological epic, revealing the incredible costs and painstaking efforts behind building Lanka's physical sets.",
+    "entities": {
+      "people": [
+        "Ramesh",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Yash",
+      "Rakul Preet Singh",
+      "Nitesh Tiwari",
+      "Ranbir Kapoor"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156470732,thumbsize-785992,width-1280,height-720,resizemode-75/156470732.jpg",
+        "caption": "Ramayana Set Design Revealed: From Surpanakha's Chariot to Ravana's Throne",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-06T05:51:23Z"
+  },
   "1gl6w1p": {
     "id": "1gl6w1p",
     "type": "news",
@@ -186,6 +248,88 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 04:10:09 +0000"
+  },
+  "atpdk1": {
+    "id": "atpdk1",
+    "type": "news",
+    "headline": "Russell Crowe and Ryan Gosling's Cult Crime Thriller Climbs to Number One on Streaming",
+    "dek": "A decade after its initial theatrical run, the 2016 crime comedy-thriller starring Russell Crowe and Ryan Gosling has captured a massive streaming audience.",
+    "entities": {
+      "people": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Shane Black",
+        "Anthony Bagarozzi",
+        "Joel Silver",
+        "Conor Sheeran",
+        "Chris McPherson"
+      ],
+      "titles": [
+        "The Nice Guys",
+        "Iron Man 3",
+        "Kiss Kiss Bang Bang",
+        "Gladiator",
+        "The Nice Guys 2",
+        "Ozark"
+      ]
+    },
+    "keywords": [
+      "The Nice Guys",
+      "Russell Crowe",
+      "Ryan Gosling",
+      "Shane Black",
+      "The Nice Guys streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/06/the-nice-guys-russell-crowe.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Russell Crowe and Ryan Gosling's Cult Crime Thriller Climbs to Number One on Streaming",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 04:03:12 GMT"
+  },
+  "jnrp6v": {
+    "id": "jnrp6v",
+    "type": "news",
+    "headline": "Keanu Reeves Officially Returns to John Wick Franchise for Animated Prequel",
+    "dek": "Lionsgate confirms that Keanu Reeves will reprise his iconic role as the legendary assassin in an animated prequel exploring the famous Impossible Task.",
+    "entities": {
+      "people": [
+        "Keanu Reeves",
+        "Shannon Tindle",
+        "Ryan Firpo",
+        "Kaz Firpo",
+        "Basil Iwanyk",
+        "Erica Lee",
+        "Chad Stahelski",
+        "Adam Fogelson",
+        "Helen",
+        "Donnie Yen",
+        "Caine",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "John Wick",
+        "Kubo and the Two Strings",
+        "Ultraman: Rising",
+        "12 Bullets"
+      ]
+    },
+    "keywords": [
+      "Keanu Reeves John Wick",
+      "John Wick animated prequel",
+      "Impossible Task movie",
+      "Shannon Tindle John Wick"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/keanujohnwick.webp?resize=1200,630",
+        "caption": "Keanu Reeves Officially Returns to John Wick Franchise for Animated Prequel",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 03:57:56 +0000"
   },
   "paxhzp": {
     "id": "paxhzp",
@@ -4535,155 +4679,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 04 Nov 2026 13:17:00 +0000"
-  },
-  "ipem28": {
-    "id": "ipem28",
-    "type": "news",
-    "headline": "Critical Nuclear Reactor Unit Shuts Down for Massive 35-Year Life-Extension Overhaul",
-    "dek": "Bruce Power takes Unit 5 offline to launch a major component replacement project as Ontario faces a surging demand for clean, low-carbon power.",
-    "entities": {
-      "people": [
-        "Stephen Lecce",
-        "Eric Chassard",
-        "Lisa Thompson"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Bruce Power Unit 5",
-      "Ontario nuclear overhaul",
-      "Stephen Lecce energy",
-      "Eric Chassard Bruce Power"
-    ],
-    "images": [
-      {
-        "url": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Bruce-Power.jpg",
-        "caption": "Critical Nuclear Reactor Unit Shuts Down for Massive 35-Year Life-Extension Overhaul",
-        "source": "Interesting Engineering"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 13:05:13 +0000"
-  },
-  "1t0ygf8": {
-    "id": "1t0ygf8",
-    "type": "news",
-    "headline": "Sean Harmon Returns to the NCIS Universe in a Brand New Role",
-    "dek": "After previously portraying the younger version of Leroy Jethro Gibbs, Sean Harmon returns to the expanded NCIS universe with a fresh character.",
-    "entities": {
-      "people": [
-        "Sean Harmon",
-        "Mark Harmon",
-        "Austin Stowell",
-        "Donald Ducky Mallard"
-      ],
-      "titles": [
-        "NCIS",
-        "NCIS Origins",
-        "Heartland",
-        "Everything Starts Somewhere"
-      ]
-    },
-    "keywords": [
-      "Sean Harmon Casey Bloom",
-      "NCIS Origins season 3",
-      "Sean Harmon Young Gibbs",
-      "NCIS franchise recast"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/ducky-tony-gibbs-and-kate-in-ncis.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Sean Harmon Returns to the NCIS Universe in a Brand New Role",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 13:00:18 GMT"
-  },
-  "9wb9or": {
-    "id": "9wb9or",
-    "type": "news",
-    "headline": "Pierfrancesco Favino Stars As Sergio Marchionne In First Look For Marco Bellocchio's Biopic 'Falcon'",
-    "dek": "Rai Cinema International Distribution has unveiled the first look at Pierfrancesco Favino as late automobile executive Sergio Marchionne in Marco Bellocchio's upcoming biographical film Falcon.",
-    "entities": {
-      "people": [
-        "Pierfrancesco Favino",
-        "Sergio Marchionne",
-        "Marco Bellocchio",
-        "Gianni Agnelli",
-        "Louis Garrel",
-        "John Elkann",
-        "Benedetta Cimatti",
-        "Barbara Ronchi",
-        "Valeria Bruni Tedeschi",
-        "Ludovica Rampoldi",
-        "Andrea Di Stefano",
-        "Stefano Rulli",
-        "Oliviero Del Papa",
-        "Andrea Castorina",
-        "Daria Calvelli",
-        "Francesca Calvelli",
-        "Matteo Cocco"
-      ],
-      "titles": [
-        "Falcon",
-        "Il Traditore",
-        "Maria",
-        "Rush",
-        "The Traitor",
-        "Exterior Night",
-        "Kidnapped",
-        "The Weight",
-        "Hidden Away"
-      ]
-    },
-    "keywords": [
-      "Falcon film",
-      "Pierfrancesco Favino Falcon",
-      "Marco Bellocchio Sergio Marchionne biopic",
-      "Sergio Marchionne film Falcon"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/Favino-Marchionne-plastico-01-CROP-2-POST-Ghilardi.jpg?w=1024",
-        "caption": "Pierfrancesco Favino Stars As Sergio Marchionne In First Look For Marco Bellocchio's Biopic 'Falcon'",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 13:00:10 +0000"
-  },
-  "1alovu6": {
-    "id": "1alovu6",
-    "type": "news",
-    "headline": "The Odyssey Worldwide Box Office: 6 Major Records Christopher Nolan's Epic Has Broken So Far",
-    "dek": "Christopher Nolan's mythological epic The Odyssey has concluded its domestic run and continues an impressive global journey, smashing multiple all-time box office records along the way.",
-    "entities": {
-      "people": [
-        "Christopher Nolan",
-        "Odysseus",
-        "Polyphemus",
-        "Calypso"
-      ],
-      "titles": [
-        "The Odyssey",
-        "Jurassic World",
-        "The Dark Knight Rises",
-        "Avatar",
-        "Deadpool Wolverine"
-      ]
-    },
-    "keywords": [
-      "The Odyssey box office",
-      "Christopher Nolan film records",
-      "The Odyssey worldwide collection",
-      "highest grossing R-rated movie"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-odyssey-worldwide-box-office-6-records-that-cement-christopher-nolans-epic-among-the-biggest-hits-01.jpg",
-        "caption": "The Odyssey Worldwide Box Office: 6 Major Records Christopher Nolan's Epic Has Broken So Far",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Wed, 04 Nov 2026 12:54:12 +0000"
   },
   "zjcoxh": {
     "id": "zjcoxh",
