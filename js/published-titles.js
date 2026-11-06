@@ -29239,5 +29239,86 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 7,
     "providers": []
+  },
+  "1475799": {
+    "id": 1475799,
+    "type": "movie",
+    "title": "Haiwaan",
+    "poster_path": "/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
+    "backdrop_path": "/zZgRsklJ46oGcHOwPnhtuiQ3NHH.jpg",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
+    "industry": "bollywood",
+    "popularity": 2.8026,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 15600000,
+    "revenue": 1380000,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-09-11",
+    "date_kind": "release",
+    "runtime": 164
+  },
+  "1538457": {
+    "id": 1538457,
+    "type": "movie",
+    "title": "Meesaya Murukku 2",
+    "poster_path": "/m58tEBZ2IKAfSeBdnZhTDmE0Nx9.jpg",
+    "backdrop_path": "/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
+    "industry": "bollywood",
+    "popularity": 6.5924,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-06",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 13+",
+    "release_date": "2026-09-25",
+    "date_kind": "release",
+    "runtime": 138
   }
 };
