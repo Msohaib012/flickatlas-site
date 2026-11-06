@@ -74182,5 +74182,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T00:32:32.443+05:30"
+  },
+  "1n2n1gf": {
+    "id": "1n2n1gf",
+    "type": "news",
+    "headline": "Ramayana Day 2 Worldwide Collections Cross Major Milestones Despite Overseas Dip",
+    "dek": "Nitesh Tiwari's mythological feature Ramayana crosses Rs 221 crore worldwide by day two, surpassing the two-day numbers of Adipurush.",
+    "body": [
+      {
+        "h": "Clarifying Release Status And Ambitions",
+        "p": [
+          "Nitesh Tiwari's ambitious mythological adaptation has commanded significant industry attention as one of Bollywood's most anticipated cinematic endeavors. Despite widespread discussion and speculation regarding its theatrical arrival, various initial reports concerning its premiere status required clarification.",
+          "Crafted as a grand multi-lingual project, the film aims to deliver a massive visual spectacle through extensive visual effects and high production values."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "The production features a prominent ensemble cast backed by notable media reports. Ranbir Kapoor takes on the pivotal role of Lord Ram, while Sai Pallavi portrays Sita and Yash steps into the character of Raavan.",
+          "The extensive roster of performers also highlights prominent artists such as Arun Govil, Lara Dutta, and Rakul Preet Singh, lending considerable star power to the venture."
+        ]
+      },
+      {
+        "h": "Critical Reception And Audience Feedback",
+        "p": [
+          "Upon its arrival in cinemas, the feature drew a mixed set of reviews from critics and viewers alike. Film business analyst Rohit Jaiswal awarded the movie a three-star rating.",
+          "In his evaluation, Jaiswal noted that while the project features impressive grandeur, strong visual graphics, and select engaging sequences, other portions felt tedious, lacking a balance of simplicity alongside its scale."
+        ]
+      },
+      {
+        "h": "International Earnings And Second Day Dip",
+        "p": [
+          "Following a strong opening overseas, international markets experienced a noticeable decrease in momentum on the subsequent day. After registering Rs 51.25 crore overseas on day one, the international revenue dropped by over 31 percent to bring in Rs 35 crore on day two.",
+          "This adjustment brought the cumulative international gross to Rs 86.25 crore after two days in release."
+        ]
+      },
+      {
+        "h": "Domestic Collections Across Languages",
+        "p": [
+          "Within the domestic market, the feature pulled in Rs 48.05 crore on its second day of exhibition. This domestic total was distributed across multiple linguistic versions.",
+          "The Hindi version contributed Rs 35.5 crore, followed by Rs 5.15 crore from the Kannada version, Rs 4.75 crore in Telugu, Rs 1.5 crore in Tamil, and Rs 1.15 crore from the Malayalam release."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Benchmarks",
+        "p": [
+          "The latest figures have allowed the title to outperform the comparable two-day benchmarks set by the Prabhas starrer Adipurush. While the older film achieved an international total of Rs 35 crore across its first two days alongside a worldwide sum of Rs 215.78 crore, the new project pushed past those figures.",
+          "The cumulative worldwide tally for Nitesh Tiwari's venture reached Rs 221.05 crore following the conclusion of its second day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's mythological feature Ramayana achieved a total worldwide collection of Rs 221.05 crore by its second day, surpassing the early benchmarks of Adipurush despite a 31 percent overseas dip. The film features a star-studded cast including Ranbir Kapoor, Sai Pallavi, and Yash, pulling in strong domestic numbers across multiple regional languages alongside mixed critical feedback."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor plays Lord Ram",
+      "Sai Pallavi plays Sita",
+      "Yash plays Raavan",
+      "Arun Govil, Lara Dutta and Rakul Preet Singh are part of the cast",
+      "Rohit Jaiswal gave the movie a three star rating",
+      "Overseas collection on day 1 was Rs 51.25cr",
+      "Overseas collection on day 2 saw a dip of over 31% and earned Rs 35cr",
+      "Total overseas collection after two days is Rs 86.25cr",
+      "Total worldwide collection after two days is Rs 221.05cr",
+      "Adipurush earned Rs 35cr in the overseas in 2 days and total worldwide collection was Rs 215.78cr",
+      "Ramayana earned Rs 48.05cr in India on day 2",
+      "Hindi version earned Rs 35.5cr on day 2",
+      "Kannada version earned Rs 5.15cr on day 2",
+      "Telugu version earned Rs 4.75cr on day 2",
+      "Tamil version earned Rs 1.5cr on day 2",
+      "Malayalam version earned Rs 1.15cr on day 2"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Rohit Jaiswal",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana worldwide collection day 2",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday2feature-84831793994551.jpg",
+        "caption": "Ramayana Day 2 Worldwide Collections Cross Major Milestones Despite Overseas Dip",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 01:21:04 +0530"
+  },
+  "14kjl00": {
+    "id": "14kjl00",
+    "type": "news",
+    "headline": "The Rainmaker Season 2 Sees Viewership Rise by 5 Percent",
+    "dek": "USA Network's legal drama continues its strong run with climbing ratings and robust streaming metrics for its second season.",
+    "body": [
+      {
+        "h": "Audience Growth for Season 2",
+        "p": [
+          "The legal drama The Rainmaker is demonstrating strong performance metrics with its current sophomore run. Figures released exclusively to the media indicate that the show has improved its overall viewership by 5 percent when measured against the equivalent timeframe from its initial season on the USA Network."
+        ]
+      },
+      {
+        "h": "Milestones and Peak Episodes",
+        "p": [
+          "The third episode of the second batch, broadcast on October 30, established a high-water mark for the current run. That installment pulled in an average of 1.2 million viewers through delayed viewing formats, showing substantial growth of 24 percent across total audiences and the key 18-49 demographic, alongside a 46 percent surge among adults aged 25 to 54.",
+          "Prior to that, the season opener on October 16 secured a notable placement as the second-highest-ranking cable entertainment season premiere for the year to date, trailing only the network's own Anna Pigeon."
+        ]
+      },
+      {
+        "h": "Digital and Social Media Reach",
+        "p": [
+          "Beyond linear and delayed television ratings, the program has generated significant digital traction. The promotional campaign across the opening three episodes accumulated 23 million impressions, alongside 21.8 million video views and 665,000 engagements across the network's official social media channels, marking a 219 percent jump in video views compared to the first season.",
+          "On streaming platforms, the series achieved the status of the most-watched television season during its initial fortnight on Fandango's complimentary service. It also captured the top position for series in the Amazon store following the debut of the second season and maintained a steady presence on the Prime Video Top 10 carousel starting October 10."
+        ]
+      },
+      {
+        "h": "Global Streaming Performance",
+        "p": [
+          "The release strategy has extended internationally as the first season debuted on Netflix on November 1. That initial run successfully entered the Top 10 rankings across 25 different countries and secured a spot in the Top 5 across 12 distinct markets."
+        ]
+      },
+      {
+        "h": "Creative Origins and Production Team",
+        "p": [
+          "The production is a collaborative effort from Lionsgate Television and Blumhouse Atomic, drawing creative inspiration from the popular John Grisham novel of the same name. Michael Seitzman leads the production as showrunner and executive producer.",
+          "Additional executive producer duties are handled by John Grisham, Patrick Moran, Jason Richman, David Gernert, and Jason Blum."
+        ]
+      },
+      {
+        "h": "Cast and Broadcast Schedule",
+        "p": [
+          "The ensemble cast features performances from Milo Callaghan, Lana Parrilla, P.J. Byrne, Madison Iseman, Merle Dandridge, Karen Bryson, Richard Kind, and Austin Nichols. The recurring and additional talent pool includes Asher De Land, Libby Kay, Kevin Ryan, Tim Murphy, and John Slattery.",
+          "The legal series maintains a weekly broadcast schedule, airing on Fridays on the USA Network."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The legal drama The Rainmaker has recorded a 5 percent increase in viewership for its second season on the USA Network compared to the same period last year. Episode 3 set a season high with 1.2 million delayed viewers, while the series also achieved strong streaming numbers and global chart placements on Netflix."
+        ]
+      }
+    ],
+    "facts": [
+      "The Rainmaker Season 2 saw a 5% audience growth compared to last season.",
+      "Episode 3 aired on Oct. 30 and brought in an average of 1.2 million viewers in delayed viewing.",
+      "Season 2 premiered on Oct. 16.",
+      "Season 1 launched on Netflix on Nov. 1 and reached the Top 10 across 25 countries.",
+      "The show airs Fridays on USA Network."
+    ],
+    "entities": {
+      "people": [
+        "Milo Callaghan",
+        "Lana Parrilla",
+        "P.J. Byrne",
+        "Madison Iseman",
+        "Merle Dandridge",
+        "Karen Bryson",
+        "Richard Kind",
+        "Austin Nichols",
+        "Asher De Land",
+        "Libby Kay",
+        "Kevin Ryan",
+        "Tim Murphy",
+        "John Slattery",
+        "Michael Seitzman",
+        "John Grisham",
+        "Patrick Moran",
+        "Jason Richman",
+        "David Gernert",
+        "Jason Blum",
+        "Anna Pigeon"
+      ],
+      "titles": [
+        "The Rainmaker",
+        "Anna Pigeon"
+      ]
+    },
+    "keywords": [
+      "The Rainmaker Season 2",
+      "USA Network legal drama",
+      "The Rainmaker ratings",
+      "Milo Callaghan The Rainmaker"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/the-rainmaker-milo-callaghan-lana-parrilla-usa-network.jpg",
+        "caption": "The Rainmaker Season 2 Sees Viewership Rise by 5 Percent",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 21:00:00 +0000"
+  },
+  "1946ls6": {
+    "id": "1946ls6",
+    "type": "news",
+    "headline": "Manoj Bajpayee Applauds Curry Barker’s Obsession and Predicts Oscar Success for Inde Navarrette",
+    "dek": "In an exclusive interview, acclaimed actor Manoj Bajpayee shared high praise for Curry Barker’s film Obsession, highlighting its craftsmanship and singling out lead actress Inde Navarrette for potential Academy Award recognition.",
+    "body": [
+      {
+        "h": "High Praise for Obsession",
+        "p": [
+          "Renowned actor Manoj Bajpayee recently expressed profound admiration for Curry Barker’s film Obsession, describing the viewing experience as remarkable. During an exclusive discussion with Filmfare, Bajpayee admitted he entered the theater without any prior expectations, accompanying his daughter to the screening, yet emerged completely mesmerized by the feature.",
+          "The actor emphasized that the picture stayed with him long after the credits rolled. He specifically pointed to the overall execution, the stellar acting from the central cast, and the brilliant cinematography as key elements that elevated the project far beyond ordinary cinema."
+        ]
+      },
+      {
+        "h": "A Bold Prediction for Inde Navarrette",
+        "p": [
+          "Taking his appreciation a step further, Bajpayee made a striking statement regarding the film's lead actress. He remarked that it would come as a shock to him if Inde Navarrette failed to secure an Academy Award nomination or take home an Oscar for her compelling performance in the movie.",
+          "His endorsement places a significant spotlight on the actress's work in Obsession, drawing critical attention to her emotional depth and screen presence within Curry Barker's directorial venture."
+        ]
+      },
+      {
+        "h": "Personal Favorites and Comfort Cinema",
+        "p": [
+          "Aside from discussing current cinematic releases, Bajpayee opened up about his personal movie preferences and comfort watches. When questioned about the films that bring him solace, he immediately named the classic feature Jaane Bhi Do Yaaro.",
+          "He also touched upon his affinity for comedic styles, expressing a deep fondness for Govinda's slapstick comedies. Bajpayee noted that while he might not feel at ease performing that specific style himself, he deeply respects Govinda's mastery over the genre."
+        ]
+      },
+      {
+        "h": "Reflecting Personal Identity Through Film",
+        "p": [
+          "When probed about which of his own screen projects offers insight into his true personality, the veteran actor pointed to his role in Governor. He explained that the character mirrors his own philosophy of maintaining a quiet, private life off-screen.",
+          "According to Bajpayee, his approach to life is centered on performing his duties sincerely and retreating from the public eye, traits he feels align closely with the persona he portrayed in Governor."
+        ]
+      },
+      {
+        "h": "Upcoming OTT Release for Manoj Bajpayee",
+        "p": [
+          "In addition to his recent media interactions and film critiques, Bajpayee has professional updates on the horizon. His film Last Man in Tower is scheduled to make its digital premiere on ZEE5 following its earlier theatrical run.",
+          "This upcoming streaming release allows fans who missed the cinematic screening to experience the project from home, adding to the actor's robust portfolio of diverse projects."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Manoj Bajpayee shared enthusiastic remarks about Curry Barker's film Obsession, forecasting Oscar recognition for lead actress Inde Navarrette. Additionally, the actor discussed his cinematic favorites, personal connections to his role in Governor, and the upcoming ZEE5 streaming debut of his film Last Man in Tower."
+        ]
+      }
+    ],
+    "facts": [
+      "Manoj Bajpayee praised Curry Barker's film Obsession in an exclusive conversation with Filmfare.",
+      "Manoj Bajpayee stated he would be surprised if Inde Navarrette does not win an Oscar for Obsession.",
+      "Manoj Bajpayee's comfort film is Jaane Bhi Do Yaaro.",
+      "Manoj Bajpayee revealed his fondness for Govinda's slapstick comedies.",
+      "Manoj Bajpayee chose his character in Governor as the one that best reflects his personal life.",
+      "Manoj Bajpayee's film Last Man in Tower is set to premiere on ZEE5 months after its theatrical release."
+    ],
+    "entities": {
+      "people": [
+        "Manoj Bajpayee",
+        "Inde Navarrette",
+        "Curry Barker",
+        "Govinda"
+      ],
+      "titles": [
+        "Obsession",
+        "Jaane Bhi Do Yaaro",
+        "Governor",
+        "Last Man in Tower"
+      ]
+    },
+    "keywords": [
+      "Manoj Bajpayee Obsession",
+      "Inde Navarrette Oscar",
+      "Curry Barker Obsession",
+      "Last Man in Tower ZEE5"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/obsessionsoooo1793969732.jpg",
+        "caption": "Manoj Bajpayee Applauds Curry Barker’s Obsession and Predicts Oscar Success for Inde Navarrette",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-06T18:43:40+05:30"
+  },
+  "jz2e58": {
+    "id": "jz2e58",
+    "type": "news",
+    "headline": "‘MobLand’ Season 2 Episode Guide, Schedule, and Early Season 3 Renewal Details on Paramount+",
+    "dek": "Everything you need to know about the remaining episodes of MobLand Season 2, release times on Paramount+, and the confirmed Season 3 renewal.",
+    "body": [
+      {
+        "h": "The Escalating Conflict of Season 2",
+        "p": [
+          "As the narrative charges toward the conclusion of its second season, the tension surrounding the Harrigans reaches a boiling point. The ensemble faces pressure from multiple adversaries simultaneously, adding layers of complication to their criminal enterprise.",
+          "Alongside established threats, new players have entered the fray, ensuring that peace remains entirely out of reach for the core characters involved in the ongoing power struggles."
+        ]
+      },
+      {
+        "h": "New Faces and Rising Animosities",
+        "p": [
+          "Kat McAllister, played by Janet McTeer, and Frankie Cooper, portrayed by Johnny Flynn, continue to pose significant challenges to the Harrigan family. Meanwhile, Kelly “Mad Dog” O’Connor, brought to life by Colin Morgan, joins the conflict driven by a personal mission to avenge his father's murder.",
+          "Viewers have also been treated to compelling character dynamics, notably the interactions between Frankie and Harry, played by Tom Hardy, highlighting the complex personal loyalties running beneath the surface of the plot."
+        ]
+      },
+      {
+        "h": "Previewing the Penultimate Episode",
+        "p": [
+          "The promotional preview for the upcoming ninth installment, titled “Nervous Breakdown,” teases a severe fracture in long-standing bonds. Kevin, portrayed by Paddy Considine, confronts his oldest friend Harry with an ultimatum.",
+          "Demanding the elimination of Conrad and Maeve, Kevin forces Harry to choose a definitive side in the unfolding war, creating an intense narrative bottleneck ahead of the finale."
+        ]
+      },
+      {
+        "h": "Episode Count and Release Schedule",
+        "p": [
+          "The second chapter of the series comprises a total of ten installments. Fans do not have to wait much longer to see how the current narrative arcs resolve.",
+          "The penultimate ninth episode arrives mid-November, specifically on November 13, directly preceding the season-ending tenth episode scheduled for Friday, November 20."
+        ]
+      },
+      {
+        "h": "Paramount+ Premiere Timings",
+        "p": [
+          "For dedicated followers wanting to catch every development live, new content drops on a weekly basis. Every fresh installment becomes available on Friday mornings.",
+          "Subscribers can tune in precisely at 3:01 a.m. ET to watch the latest developments unfold exclusively on the Paramount+ platform."
+        ]
+      },
+      {
+        "h": "Early Confirmation of Season 3",
+        "p": [
+          "Even before the sophomore run made its initial debut, the platform secured the future of the gritty drama. Paramount+ officially granted the series an early renewal for a third chapter.",
+          "The upcoming continuation promises to deliver even more chaotic storytelling, with major stars including Tom Hardy, Pierce Brosnan, and Helen Mirren all slated to reprise their roles."
+        ]
+      },
+      {
+        "h": "Subscription Options and Access",
+        "p": [
+          "Audience members looking to catch up or watch live can access the platform through various pricing tiers. The ad-supported Essential plan requires $8.99 per month, while the ad-free Premium tier runs $13.99 monthly.",
+          "Additionally, new users can utilize a seven-day trial on the Premium option, or access the channel as an add-on via partner platforms like Prime Video, Hulu, and YouTube."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MobLand Season 2 consists of ten episodes, with the ninth episode releasing on November 13 and the finale on November 20 at 3:01 a.m. ET on Paramount+. The streaming service has already renewed the series for a third season, with Tom Hardy, Pierce Brosnan, and Helen Mirren set to return."
+        ]
+      }
+    ],
+    "facts": [
+      "MobLand Season 2 consists of ten episodes.",
+      "Season 2 Episode 9 is titled Nervous Breakdown and releases on November 13.",
+      "Season 2 Episode 10 releases on Friday, November 20.",
+      "New episodes premiere Friday mornings at 3:01 a.m. ET on Paramount+.",
+      "Paramount+ renewed MobLand for a third season ahead of the second season premiere.",
+      "Tom Hardy, Pierce Brosnan, and Helen Mirren are set to return for Season 3.",
+      "The Essential plan costs $8.99/month and the Premium plan costs $13.99/month."
+    ],
+    "entities": {
+      "people": [
+        "Kat McAllister",
+        "Janet McTeer",
+        "Frankie Cooper",
+        "Johnny Flynn",
+        "Kelly “Mad Dog” O’Connor",
+        "Colin Morgan",
+        "Harry",
+        "Tom Hardy",
+        "Kevin",
+        "Paddy Considine",
+        "Conrad",
+        "Maeve",
+        "Pierce Brosnan",
+        "Helen Mirren"
+      ],
+      "titles": [
+        "MobLand",
+        "Nervous Breakdown"
+      ]
+    },
+    "keywords": [
+      "MobLand Season 2",
+      "MobLand Paramount+",
+      "MobLand Season 3 renewal",
+      "Tom Hardy MobLand"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/09/mobland-202.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "‘MobLand’ Season 2 Episode Guide, Schedule, and Early Season 3 Renewal Details on Paramount+",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:00:00 -0500"
   }
 };

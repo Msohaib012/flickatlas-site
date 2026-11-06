@@ -61,6 +61,54 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-06T21:52:05Z"
   },
+  "14kjl00": {
+    "id": "14kjl00",
+    "type": "news",
+    "headline": "The Rainmaker Season 2 Sees Viewership Rise by 5 Percent",
+    "dek": "USA Network's legal drama continues its strong run with climbing ratings and robust streaming metrics for its second season.",
+    "entities": {
+      "people": [
+        "Milo Callaghan",
+        "Lana Parrilla",
+        "P.J. Byrne",
+        "Madison Iseman",
+        "Merle Dandridge",
+        "Karen Bryson",
+        "Richard Kind",
+        "Austin Nichols",
+        "Asher De Land",
+        "Libby Kay",
+        "Kevin Ryan",
+        "Tim Murphy",
+        "John Slattery",
+        "Michael Seitzman",
+        "John Grisham",
+        "Patrick Moran",
+        "Jason Richman",
+        "David Gernert",
+        "Jason Blum",
+        "Anna Pigeon"
+      ],
+      "titles": [
+        "The Rainmaker",
+        "Anna Pigeon"
+      ]
+    },
+    "keywords": [
+      "The Rainmaker Season 2",
+      "USA Network legal drama",
+      "The Rainmaker ratings",
+      "Milo Callaghan The Rainmaker"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/the-rainmaker-milo-callaghan-lana-parrilla-usa-network.jpg",
+        "caption": "The Rainmaker Season 2 Sees Viewership Rise by 5 Percent",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 21:00:00 +0000"
+  },
   "1p2ef8k": {
     "id": "1p2ef8k",
     "type": "news",
@@ -134,6 +182,85 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 20:48:59 +0000"
+  },
+  "jz2e58": {
+    "id": "jz2e58",
+    "type": "news",
+    "headline": "‘MobLand’ Season 2 Episode Guide, Schedule, and Early Season 3 Renewal Details on Paramount+",
+    "dek": "Everything you need to know about the remaining episodes of MobLand Season 2, release times on Paramount+, and the confirmed Season 3 renewal.",
+    "entities": {
+      "people": [
+        "Kat McAllister",
+        "Janet McTeer",
+        "Frankie Cooper",
+        "Johnny Flynn",
+        "Kelly “Mad Dog” O’Connor",
+        "Colin Morgan",
+        "Harry",
+        "Tom Hardy",
+        "Kevin",
+        "Paddy Considine",
+        "Conrad",
+        "Maeve",
+        "Pierce Brosnan",
+        "Helen Mirren"
+      ],
+      "titles": [
+        "MobLand",
+        "Nervous Breakdown"
+      ]
+    },
+    "keywords": [
+      "MobLand Season 2",
+      "MobLand Paramount+",
+      "MobLand Season 3 renewal",
+      "Tom Hardy MobLand"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/09/mobland-202.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "‘MobLand’ Season 2 Episode Guide, Schedule, and Early Season 3 Renewal Details on Paramount+",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 06 Nov 2026 15:00:00 -0500"
+  },
+  "1n2n1gf": {
+    "id": "1n2n1gf",
+    "type": "news",
+    "headline": "Ramayana Day 2 Worldwide Collections Cross Major Milestones Despite Overseas Dip",
+    "dek": "Nitesh Tiwari's mythological feature Ramayana crosses Rs 221 crore worldwide by day two, surpassing the two-day numbers of Adipurush.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Rohit Jaiswal",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana worldwide collection day 2",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday2feature-84831793994551.jpg",
+        "caption": "Ramayana Day 2 Worldwide Collections Cross Major Milestones Despite Overseas Dip",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 01:21:04 +0530"
   },
   "19r59ww": {
     "id": "19r59ww",
@@ -1240,6 +1367,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-06T18:47:44+05:30"
+  },
+  "1946ls6": {
+    "id": "1946ls6",
+    "type": "news",
+    "headline": "Manoj Bajpayee Applauds Curry Barker’s Obsession and Predicts Oscar Success for Inde Navarrette",
+    "dek": "In an exclusive interview, acclaimed actor Manoj Bajpayee shared high praise for Curry Barker’s film Obsession, highlighting its craftsmanship and singling out lead actress Inde Navarrette for potential Academy Award recognition.",
+    "entities": {
+      "people": [
+        "Manoj Bajpayee",
+        "Inde Navarrette",
+        "Curry Barker",
+        "Govinda"
+      ],
+      "titles": [
+        "Obsession",
+        "Jaane Bhi Do Yaaro",
+        "Governor",
+        "Last Man in Tower"
+      ]
+    },
+    "keywords": [
+      "Manoj Bajpayee Obsession",
+      "Inde Navarrette Oscar",
+      "Curry Barker Obsession",
+      "Last Man in Tower ZEE5"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/obsessionsoooo1793969732.jpg",
+        "caption": "Manoj Bajpayee Applauds Curry Barker’s Obsession and Predicts Oscar Success for Inde Navarrette",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-06T18:43:40+05:30"
   },
   "3ub5hy": {
     "id": "3ub5hy",
@@ -4383,220 +4544,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 05 Nov 2026 15:52:50 +0530"
-  },
-  "qyhmar": {
-    "id": "qyhmar",
-    "type": "news",
-    "headline": "Pamela Anderson to Receive Lifetime Achievement Award at Torino Film Festival",
-    "dek": "The acclaimed actor will be honored with the Stella della Mole Award at Italy's upcoming Torino Film Festival and introduce a special screening of The Last Showgirl.",
-    "entities": {
-      "people": [
-        "Pamela Anderson",
-        "Gia Coppola",
-        "Nick Vivarelli",
-        "Tristan Thompson",
-        "Jason Zada",
-        "Giulio Base",
-        "Spike Lee",
-        "Antonio Banderas",
-        "Angelina Jolie",
-        "Sharon Stone",
-        "Liam Neeson",
-        "Karim Aïnouz",
-        "Riley Keough",
-        "Callum Turner",
-        "Elle Fanning",
-        "Jamie Bell",
-        "Lucas Gage",
-        "Tracy Letts",
-        "Kornél Mundruczó",
-        "Ellen Burstyn",
-        "Taika Waititi",
-        "Murray Bartlett",
-        "Brian Klugman",
-        "Billy Bob Thornton",
-        "Michael Cera",
-        "Steve Coogan",
-        "Jamie Dornan",
-        "Sally Potter",
-        "Richard E. Grant",
-        "Abdul El-Sayed",
-        "Bill Maher",
-        "Kid Rock",
-        "Bruce Springsteen",
-        "Trump",
-        "Dafne Keen",
-        "Hugh Jackman",
-        "Adam Driver",
-        "Kylo Ren",
-        "Pierce Brosnan",
-        "James Bond",
-        "Crichton",
-        "Rajinikanth",
-        "Mahesh Babu",
-        "Jason Statham",
-        "Guy Ritchie",
-        "Nathan Johnson",
-        "Nicki Minaj",
-        "Andrew Garfield",
-        "Sam Altman",
-        "Andrew Wallenstein",
-        "Ben Affleck",
-        "Pete Davidson",
-        "Hillary Clinton",
-        "Jennifer Hudson",
-        "Tom Cruise",
-        "Chris Rock"
-      ],
-      "titles": [
-        "The Last Showgirl",
-        "Baywatch",
-        "The Naked Gun",
-        "Rosebush Pruning",
-        "Place to Be",
-        "Somedays",
-        "Love Is Not the Answer",
-        "Alma",
-        "Thirteen in Gaza",
-        "Satoshi",
-        "Married at First Sight",
-        "Logan",
-        "The Hunt for Ben Solo",
-        "The Pitt",
-        "ER",
-        "Jailer 2",
-        "Dogfight",
-        "Dragon Ball Z",
-        "Artificial",
-        "La Bola Negra",
-        "Misty Green"
-      ]
-    },
-    "keywords": [
-      "Pamela Anderson Torino Film Festival",
-      "The Last Showgirl Gia Coppola",
-      "Stella della Mole Award",
-      "Pamela Anderson lifetime achievement award"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-1-4.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Pamela Anderson to Receive Lifetime Achievement Award at Torino Film Festival",
-        "source": "Variety"
-      }
-    ],
-    "published": "Thu, 05 Nov 2026 10:05:13 +0000"
-  },
-  "b7cmn0": {
-    "id": "b7cmn0",
-    "type": "news",
-    "headline": "How Saving Private Ryan Continues to Define War Cinema Decades After Release",
-    "dek": "An exploration of Steven Spielberg's landmark World War II film, its iconic closing moments, and the lasting legacy of its emotional message.",
-    "entities": {
-      "people": [
-        "Thomas Butt",
-        "Steven Spielberg",
-        "Harrison Young",
-        "Tom Hanks",
-        "Matt Damon",
-        "Janusz Kamiński",
-        "John Williams",
-        "Tom Sizemore",
-        "Ryan Heffernan"
-      ],
-      "titles": [
-        "Saving Private Ryan",
-        "E.T. the Extra Terrestrial",
-        "A.I. Artificial Intelligence",
-        "How to Rob a Bank",
-        "In Waves",
-        "The Last Temptation of Becky",
-        "The Beast",
-        "Queen: Hungarian Rhapsody - Live in Budapest '86",
-        "The Transformers: The Movie",
-        "Akira"
-      ]
-    },
-    "keywords": [
-      "Saving Private Ryan",
-      "Steven Spielberg film",
-      "Tom Hanks Saving Private Ryan",
-      "Private James Ryan ending"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/saving-private-ryan-jeremy-davies.jpg?w=1200&amp;h=675&amp;fit=crop",
-        "caption": "How Saving Private Ryan Continues to Define War Cinema Decades After Release",
-        "source": "Collider"
-      }
-    ],
-    "published": "Thu, 05 Nov 2026 10:04:12 GMT"
-  },
-  "emylgl": {
-    "id": "emylgl",
-    "type": "news",
-    "headline": "Sarah Khan Appears on Good Morning Pakistan Hosted by Nida Yasir",
-    "dek": "Popular television personality Sarah Khan joins host Nida Yasir on the morning talk show Good Morning Pakistan broadcast by ARY Digital.",
-    "entities": {
-      "people": [
-        "Sarah Khan",
-        "Nida Yasir",
-        "Falak Shabir",
-        "Abubakar"
-      ],
-      "titles": [
-        "Good Morning Pakistan"
-      ]
-    },
-    "keywords": [
-      "Sarah Khan Good Morning Pakistan",
-      "Nida Yasir ARY Digital",
-      "Good Morning Pakistan show",
-      "Sarah Khan",
-      "Nida Yasir"
-    ],
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/IIhxF74Vo2k/hq720.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&amp;rs=AOn4CLBNy6DkAWbrIvzPq9lghlsf6rL2kg",
-        "caption": "Sarah Khan Appears on Good Morning Pakistan Hosted by Nida Yasir",
-        "source": "ARY Digital HD (YouTube)"
-      }
-    ],
-    "published": "2026-11-05T09:30:41+00:00"
-  },
-  "1gdc9kr": {
-    "id": "1gdc9kr",
-    "type": "news",
-    "headline": "KENS 5 Sports Anchor Nate Ryan Announces Surprise Departure After Four Years",
-    "dek": "San Antonio viewers face a major television shakeup as evening sports anchor Nate Ryan reveals his sudden departure from KENS 5.",
-    "entities": {
-      "people": [
-        "Nate Ryan",
-        "Mike Cejka",
-        "Isis",
-        "Henry",
-        "Billy T",
-        "Sibanee Gogoi"
-      ],
-      "titles": [
-        "WIVB-TV",
-        "KENS 5"
-      ]
-    },
-    "keywords": [
-      "Nate Ryan KENS 5",
-      "Nate Ryan San Antonio sports anchor",
-      "KENS 5 sports anchor leaving",
-      "Nate Ryan CBS affiliate exit"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/cbslogonews.webp?resize=1200,630",
-        "caption": "KENS 5 Sports Anchor Nate Ryan Announces Surprise Departure After Four Years",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Thu, 05 Nov 2026 09:10:09 +0000"
   },
   "1m3llbg": {
     "id": "1m3llbg",
