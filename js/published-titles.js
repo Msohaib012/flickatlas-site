@@ -30998,5 +30998,763 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 0,
     "providers": []
+  },
+  "1820303": {
+    "id": 1820303,
+    "type": "movie",
+    "title": "Kashti Paar",
+    "poster_path": "/htWK3K25I50n3wh1lnC4Qkrkngz.jpg",
+    "backdrop_path": "/t4l5WUrL9qax6R4cQUbHP9HJXbY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A silent folk-horror parable from the Indian coast. When a fight for a place on a fishing boat turns to blood, young Shreyas loses the man who raised him and is left alone on a sea that remembers every death. In the mist, a girl with a lantern is waiting.",
+    "industry": "bollywood",
+    "popularity": 0,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-07",
+    "date_kind": "release",
+    "runtime": 4,
+    "providers": []
+  },
+  "1803837": {
+    "id": 1803837,
+    "type": "movie",
+    "title": "Summer Holidays",
+    "poster_path": "/hUeIDfVjwiTKUOVHE95IoTd04bh.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A city boy's summer at his grandparents' Godavari village transforms when he befriends a spirited local paper boy. Together they explore rural life through adventures that forge an unforgettable childhood bond.",
+    "industry": "bollywood",
+    "popularity": 2.011,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "NR",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 144,
+    "providers": []
+  },
+  "1794569": {
+    "id": 1794569,
+    "type": "movie",
+    "title": "Unprotected: Murder in Galicia",
+    "poster_path": "/ljDe9CMzO7PpM86WOqIZzDfokgE.jpg",
+    "backdrop_path": "/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+    "vote_average": 6.333,
+    "vote_count": 3,
+    "overview": "Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Verín. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.",
+    "industry": "world",
+    "popularity": 10.1839,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": {
+      "key": "V7qdKH-USL8",
+      "name": "Murder in Galicia | Official Trailer | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "gl",
+      "es"
+    ],
+    "certification": "14",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 65,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "602437": {
+    "id": 602437,
+    "type": "movie",
+    "title": "Angelina",
+    "poster_path": "/r2XU1RThwJQurwDkfjkiTrElFnL.jpg",
+    "backdrop_path": "/4dfSfgQTOfSrZp5lrcZ9VGlTmSE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 1.452,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1807483": {
+    "id": 1807483,
+    "type": "movie",
+    "title": "Deaflympics Stories",
+    "poster_path": "/8gTvoCjJwR6y7VQ4CzcCYuBjuwm.jpg",
+    "backdrop_path": "/aAA04GG5FCYE6HaFUpdm9LyVU3M.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1801,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 124,
+    "providers": []
+  },
+  "1313587": {
+    "id": 1313587,
+    "type": "movie",
+    "title": "GROTESQQQUE",
+    "poster_path": "/4N7euiV0uozyZGFL59BL5FxNRyL.jpg",
+    "backdrop_path": "/mKUCCoBntwXt0WpSxoAhgFpV71b.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Anthology film made up of three separate segments:  A(E)LIENS, YOROSHIKU★Girl, and NOCTURNE: NUIT GROTESQUE.",
+    "industry": "world",
+    "popularity": 2.7778,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "oqZaJgF4sfE",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Science Fiction",
+      "Action",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": []
+  },
+  "1807140": {
+    "id": 1807140,
+    "type": "movie",
+    "title": "ALMA",
+    "poster_path": "/zgeoaXjcFIdSbFoCM54UDxMQaT4.jpg",
+    "backdrop_path": "/kC1UGLKFoX6LpIp0O6u4puj0xei.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A fictionalised retelling of the real life escape stories of three generations of women, beginning with a young girl who fled Poland at the breakout of the second world war.",
+    "industry": "world",
+    "popularity": 0.1476,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Adventure"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "AL",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 14,
+    "providers": []
+  },
+  "1405002": {
+    "id": 1405002,
+    "type": "movie",
+    "title": "Fiesta Pagäna",
+    "poster_path": "/WGH8A7l5pQHlO13A7QJ2t4mjvN.jpg",
+    "backdrop_path": "/mh3hdyHrb0GxnmBRCrtA23gfqdv.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The movie chronicles the untold story of the band from their origins in the 1980s, highlighting their rise to fame, creative tensions, line-up changes, internal dynamics, controversies, and fan culture.",
+    "industry": "world",
+    "popularity": 2.6376,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 132,
+    "providers": []
+  },
+  "1806585": {
+    "id": 1806585,
+    "type": "movie",
+    "title": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India",
+    "poster_path": "/ni9a3eJkVYFSKvjp4xbIcdxgBTG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Six Sri Lankan Tamil refugees living in India, from different age groups, speak about their life in camps, and their hopes and aspirations. For over three decades, Sri Lankan Tamil refugees have lived in Tamil Nadu in a protracted situation—without certainty about their future and without viable policy solutions. Three generations have grown up with aspirations they cannot fulfil, surviving through sheer resilience while quietly contributing to the economy of their host communities.",
+    "industry": "bollywood",
+    "popularity": 0.2725,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 23,
+    "providers": []
+  },
+  "1260263": {
+    "id": 1260263,
+    "type": "movie",
+    "title": "The Beachnickers 3",
+    "poster_path": "/8VINm6QWFqh2GgNQxIb9scxxe9w.jpg",
+    "backdrop_path": "/1FwuEcVE9xDlljPncsOHBAIE12m.jpg",
+    "vote_average": 9.0,
+    "vote_count": 2,
+    "overview": "Rocha decides to foot the bill for his daughter's wedding in an island and invites his loyal colleagues, Alexandre, Lima, and Diguinho, along with their families, to the all-expenses-paid celebration. The setting seemed perfect for an unforgettable trip, but the peace is short-lived, soon giving way to a series of surprises and mishaps.",
+    "industry": "world",
+    "popularity": 2.4457,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1806581": {
+    "id": 1806581,
+    "type": "movie",
+    "title": "Bystander",
+    "poster_path": "/gwOIiucrRyqXmYxG7gcuQZytmVM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Across a series of everyday settings - a bus stop late at night, a locker room after a match, an online gaming session, an open-plan office - we witness subtle but recognisable moments of harassment and boundary-crossing behaviour directed towards women. Nothing heightened. Nothing dramatised beyond reality. Just the familiar discomfort of something not quite right.",
+    "industry": "world",
+    "popularity": 0.587,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 3,
+    "providers": []
+  },
+  "1630420": {
+    "id": 1630420,
+    "type": "movie",
+    "title": "Overacting",
+    "poster_path": "/rve2a7JXJbXivl0JakEWgc9Fhwh.jpg",
+    "backdrop_path": "/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "When her father's memories as a retired top cop resurface, a struggling actress stages wild missions to keep him from pursuing his elusive archnemesis.",
+    "industry": "world",
+    "popularity": 34.694,
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": {
+      "key": "a28p9c4zTdI",
+      "name": "แก๊งโอเวอร์ | ตัวอย่างอย่างเป็นทางการ | Netflix",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "tagline": "When Fake Missions Spiral Beyond Control.",
+    "status": "Released",
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [
+      "th"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 116,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1806511": {
+    "id": 1806511,
+    "type": "movie",
+    "title": "The Border Czar",
+    "poster_path": "/r3rTW2ChMa2vs2EDDF96vzbHnqA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After delivering a rousing speech on immigration, Rep. Jim Coolidge goes to sleep - only to wake up on the wrong side of the border.",
+    "industry": "world",
+    "popularity": 0.2148,
+    "original_language": "en",
+    "origin_country": [
+      "CR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CR"
+    ],
+    "spoken_languages": [
+      "en",
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 12,
+    "providers": []
+  },
+  "1753205": {
+    "id": 1753205,
+    "type": "movie",
+    "title": "Rammstein – Live in Mexico City",
+    "poster_path": "/n1j1JrEFcIn4RUh8RmA8Ihj1NXN.jpg",
+    "backdrop_path": "/3lmCHJoL2qtohUPEZLC5PdwA558.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A three-night compilation that captures their spectacular October 2022 shows at the Foro Sol Stadium in Mexico City during the Stadium Tour era. This live has become the band's most massive and longest one of their entire career.",
+    "industry": "world",
+    "popularity": 2.5604,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "+13",
+    "release_date": "2026-11-04",
+    "date_kind": "release",
+    "runtime": 110,
+    "providers": []
+  },
+  "1806497": {
+    "id": 1806497,
+    "type": "movie",
+    "title": "The Boy With The Balloon Heart",
+    "poster_path": "/yXkCkrv2oJ0L0JwPsOWHUo7wlKH.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Born with a balloon heart, a wide-eyed, dreamy and emotional boy drifts through life, never quite able to find where he belongs. His delicate, floating heart sets him apart—both a gift and a burden in a world that values groundedness, practicality and conformity. As he stumbles through life grappling against the weight of existence, he struggles with loneliness and the bane of being different. But one day, a quiet revelation shows him that what once felt like a flaw might be the very thing that sets him free.",
+    "industry": "bollywood",
+    "popularity": 0.1758,
+    "original_language": "en",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 16,
+    "providers": []
+  },
+  "1810617": {
+    "id": 1810617,
+    "type": "movie",
+    "title": "Better Alone",
+    "poster_path": "/xoTFybhaLxanhGtY3ep1MvN9cIr.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Overwhelmed by living with their teenage children, Lidia and Félix announce a decision as unexpected as it is irreversible. A sharp comedy about family ties, the limits of cohabitation, and the difficult transition to adulthood.",
+    "industry": "world",
+    "popularity": 5.2566,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-03",
+    "date_kind": "festival",
+    "runtime": 10,
+    "providers": []
+  },
+  "1806489": {
+    "id": 1806489,
+    "type": "movie",
+    "title": "Summer",
+    "poster_path": "/wZL4umOLbOhSHDKepdFKMBThmvv.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Every summer, Francesca (12, Italian) spends time with her Dutch friend Alice (14) in her small Italian village. However, this year something seems to have changed. Alice is different. Older. She is more interested in making friends with the older and seemingly cooler kids in the village, and Francesca feels that they are drifting apart. Whilst Francesca still embraces her childhood, Alice is on the verge of becoming a teenager.",
+    "industry": "world",
+    "popularity": 0.3748,
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "en",
+      "nl",
+      "it"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 10,
+    "providers": []
+  },
+  "1806212": {
+    "id": 1806212,
+    "type": "movie",
+    "title": "Trahisons, l'art de rompre en politique",
+    "poster_path": "/35P4HYNWQbMRcbXDdfJ1HuaCVOR.jpg",
+    "backdrop_path": "/dG0Y0lQlkU5LPYC9CtpBKrGMN0n.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 2.4263,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-01",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
   }
 };

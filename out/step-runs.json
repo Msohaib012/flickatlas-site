@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-06T17:57:00Z",
-    "run_id": "42265297857",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Remembering Matthew Perry and His Inspiring Words on Turning Struggles into Strength",
-      "Prabhas Fans React After Ramayana Fails To Beat Adipurush Opening",
-      "Ana Navarro Warns Donald Trump Will Soon Go Unhinged Following Midterm Losses",
-      "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief"
-     ],
-     "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-06T18:53:01Z",
     "run_id": "42274332896",
     "status": "success",
@@ -1475,6 +1452,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-07T20:45:19Z",
+    "run_id": "42398283849",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1915,25 +1910,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-06T18:10:43Z",
-    "run_id": "42265297857",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1x5yt3l"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-06T18:53:11Z",
     "run_id": "42274332896",
     "status": "success",
@@ -2360,27 +2336,28 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-07T20:45:20Z",
+    "run_id": "42398283849",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "v2k5lv"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-06T15:07:50Z",
-    "run_id": "42228757145",
-    "status": "success",
-    "checked": {
-     "candidates": 563,
-     "detail": "561 collected staging rows from readers; 201 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 558 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2786,6 +2763,24 @@
      "detail": "+0 new rows, 114 updated rows, 489 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T20:45:20Z",
+    "run_id": "42398283849",
+    "status": "success",
+    "checked": {
+     "candidates": 607,
+     "detail": "603 collected staging rows from readers; 209 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11,
+     "detail": "+0 new rows, 11 updated rows, 592 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -3038,34 +3033,6 @@
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-06T18:10:42Z",
-    "run_id": "42265297857",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Prabhas Fans React After Ramayana Fails To Beat Adipurush Opening",
-      "Ana Navarro Warns Donald Trump Will Soon Go Unhinged Following Midterm Losses",
-      "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief",
-      "Remembering Matthew Perry and His Inspiring Words on Turning Struggles into Strength",
-      "Bano Episode 24 — Watch Online on Geo TV",
-      "Lagan Lagi Episode 12 — Watch Online on ARY Digital",
-      "Nashtar Episode 27 — Watch Online on Geo TV",
-      "Dar-E-Nijaat Episode 28 — Watch Online on ARY Digital",
-      "Aangan Episode 11 — Watch Online on HUM TV"
-     ],
-     "updated": [],
-     "count": 9,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3577,6 +3544,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-07T20:45:20Z",
+    "run_id": "42398283849",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8255,5 +8240,5 @@
    }
   ]
  },
- "updated_at": "2026-11-07T18:41:33Z"
+ "updated_at": "2026-11-07T20:45:20Z"
 }

@@ -165,6 +165,18 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-11-06",
+      "date_kind": "release",
+      "id": 1794569,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "IN",
       "date": "2026-11-06",
       "date_kind": "digital",
@@ -292,6 +304,18 @@ window.FA_OTT = {
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
           "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-04",
+      "date_kind": "release",
+      "id": 1630420,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
         }
       ],
       "type": "movie"
