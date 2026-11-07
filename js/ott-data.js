@@ -2,14 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "CA",
-      "date": "2026-11-07",
-      "date_kind": "digital",
-      "id": 1807791,
-      "providers": [],
-      "type": "movie"
-    },
-    {
       "country": "US",
       "date": "2026-11-10",
       "date_kind": "digital",
@@ -108,9 +100,54 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-12-07",
+      "date_kind": "digital",
+      "id": 1400940,
+      "providers": [],
+      "type": "movie"
     }
   ],
   "now": [
+    {
+      "country": "US",
+      "date": "2026-11-07",
+      "date_kind": "digital",
+      "id": 1806862,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-07",
+      "date_kind": "digital",
+      "id": 1808082,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "CA",
+      "date": "2026-11-07",
+      "date_kind": "digital",
+      "id": 1807791,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-07",
+      "date_kind": "digital",
+      "id": 1812405,
+      "providers": [
+        {
+          "logo_path": "/9o7nQnmlVE94XqPcMhVPGycatxU.png",
+          "name": "M6+"
+        }
+      ],
+      "type": "movie"
+    },
     {
       "country": "IN",
       "date": "2026-11-06",
@@ -122,6 +159,14 @@ window.FA_OTT = {
           "name": "Netflix"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1600653,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -181,7 +226,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-05",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1654940,
       "providers": [
         {
@@ -196,6 +241,14 @@ window.FA_OTT = {
       "date": "2026-11-05",
       "date_kind": "digital",
       "id": 1810711,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "BR",
+      "date": "2026-11-05",
+      "date_kind": "digital",
+      "id": 1570467,
       "providers": [],
       "type": "movie"
     },

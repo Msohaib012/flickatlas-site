@@ -74972,5 +74972,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 22:07:26 +0000"
+  },
+  "1n5jiua": {
+    "id": "1n5jiua",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Crosses Rs 200 Crore Worldwide in Two Days",
+    "dek": "Nitesh Tiwari's grand epic starring Ranbir Kapoor, Yash, and Sai Pallavi achieves strong box office milestones within its opening weekend.",
+    "body": [
+      {
+        "h": "Phenomenal Opening Weekend Momentum",
+        "p": [
+          "The theatrical release of Ramayana: Rise of a Legend has quickly made waves at the box office by surging past the Rs 200 crore mark globally within its first two days. Spearheaded by director Nitesh Tiwari, the multi-starrer feature has demonstrated immense commercial pulling power across international territories and domestic circuits alike.",
+          "Industry tracking indicates that the cumulative global gross has climbed to an impressive Rs 221.05 crore. This rapid accumulation establishes a robust foundation for the film's opening weekend run."
+        ]
+      },
+      {
+        "h": "Domestic Net Milestone Crossed",
+        "p": [
+          "Within just two days of theatrical screenings, the production surpassed the significant milestone of Rs 100 crore in India net collections. On Friday, November 6, the feature brought in Rs 48.05 crore net domestically across 23,316 shows.",
+          "Although this figures marks a 25.9 percent decrease from its massive opening-day earnings of Rs 64.85 crore across 25,200 shows, the cumulative domestic net has risen to a staggering Rs 112.90 crore, with total India gross touching Rs 134.80 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance and Contributions",
+        "p": [
+          "The domestic triumph is heavily anchored by the Hindi version, which contributed Rs 35.50 crore on Friday alone, making up nearly 73.9 percent of that day's domestic net total. Over the two-day stretch, the Hindi version accounts for 73.5 percent of cumulative domestic earnings.",
+          "Regional versions also carved out substantial shares. The Kannada version emerged as the second-highest contributor with Rs 5.15 crore, followed closely by Telugu at Rs 4.75 crore, Tamil at Rs 1.50 crore, and Malayalam at Rs 1.15 crore."
+        ]
+      },
+      {
+        "h": "International Box Office Dominance",
+        "p": [
+          "Beyond domestic borders, the cinematic spectacle has resonated strongly with global audiences. Overseas markets added Rs 35 crore on the second day alone, elevating the cumulative international gross to Rs 86.25 crore.",
+          "When combined with the domestic gross figures, the total worldwide collection reaches Rs 221.05 crore. Ticket sales estimates from Sacnilk indicate that approximately 18,56,029 tickets were sold on Friday, pushing the two-day total to 4,381,804 tickets."
+        ]
+      },
+      {
+        "h": "Strong Occupancy Rates in Regional Markets",
+        "p": [
+          "While the Hindi version dominated raw collection numbers, regional versions led the board in theatre occupancy percentages. The Kannada version recorded an overall occupancy of 53.8 percent on Friday, trailed by Telugu at 49.6 percent, Tamil at 58.9 percent, and Malayalam at a leading 65 percent.",
+          "Notably, the Kannada 3D variant achieved an extraordinary 71.28 percent overall occupancy, peaking during evening and night slots. Hindi registered a 24.5 percent overall occupancy across its formats."
+        ]
+      },
+      {
+        "h": "Evening and Night Surge in Theatres",
+        "p": [
+          "An analysis of daily show trends demonstrates that audience turnout increased considerably as the day progressed. Night shows experienced a major surge, with Hindi 3D climbing to 45.31 percent occupancy compared to a modest 14.69 percent in the morning.",
+          "Similarly, Telugu 3D jump-started from 32.09 percent in the morning slots to 66.82 percent during night shows, pointing to strong evening momentum across multiple territories."
+        ]
+      },
+      {
+        "h": "Star Performances and Creative Vision",
+        "p": [
+          "Aside from commercial milestones, the film has sparked widespread discussion regarding its performances and scale. Ranbir Kapoor and Sai Pallavi earned acclaim for embodying Lord Ram and Sita respectively.",
+          "Meanwhile, Yash's striking transformation into Ravana became a prominent talking point. Viewers also lauded Nitesh Tiwari's adaptation of Valmiki's epic, praising the elaborate CGI, grand visuals, and emotional depth."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend has crossed Rs 221.05 crore globally and surpassed Rs 100 crore in India net collections within its first two days in theatres. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the film recorded robust ticket sales alongside high occupancy rates, particularly in regional versions and evening show slots."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide gross reached Rs 221.05 cr within two days",
+      "India net collections crossed Rs 100 cr",
+      "Day 1 India net was Rs 64.85 cr across 25,200 shows",
+      "Day 2 India net was Rs 48.05 cr across 23,316 shows",
+      "Cumulative domestic net earnings reached Rs 112.90 cr",
+      "Hindi version contributed Rs 35.50 cr on Friday",
+      "Kannada version recorded 53.8% occupancy",
+      "Cumulative overseas gross collection reached Rs 86.25 cr",
+      "Total ticket sales over the two-day theatrical run reached 4,381,804"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Yash Sai Pallavi",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135623637,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend Crosses Rs 200 Crore Worldwide in Two Days",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T05:46:36+05:30"
+  },
+  "1d1jo4e": {
+    "id": "1d1jo4e",
+    "type": "news",
+    "headline": "Ryan Gosling's Comedy Hits Number One on Apple TV",
+    "dek": "Years after its theatrical release, a popular R-rated comedy starring Ryan Gosling and Russell Crowe has climbed to the top of Apple TV's charts.",
+    "body": [
+      {
+        "h": "Streaming Triumph on Apple TV",
+        "p": [
+          "A well-known R-rated comedy featuring Ryan Gosling has suddenly captured the top spot on the Apple TV U.S. movie chart, according to FlixPatrol data. This unexpected surge brings renewed attention to a feature that previously struggled to find mainstream financial success during its initial theatrical run.",
+          "The film climbed past several notable competitors on the platform, outranking established titles and newer releases alike to claim the number one position."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Directed by Shane Black, the narrative transports viewers to 1970s Los Angeles where two mismatched characters are forced into partnership. Ryan Gosling portrays Holland March, a down-on-his-luck private investigator, while Russell Crowe steps into the role of Jackson Healy, a hired enforcer.",
+          "The duo teams up to uncover the circumstances behind a missing young woman and investigate the suspicious death of a porn star. Additional performances include Angourie Rice as March's daughter Holly, alongside Margaret Qualley, Matt Bomer, Kim Basinger, and Yaya DaCosta."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The 116-minute feature combines elements of action, mystery, and dark humor under Shane Black's direction. Black also co-wrote the screenplay alongside Anthony Bagarozzi, while Joel Silver handled production duties.",
+          "The project was distributed by Warner Bros. Pictures and backed by multiple production houses including Silver Pictures, Waypoint Entertainment, and RatPac-Dune Entertainment."
+        ]
+      },
+      {
+        "h": "Critical Reception and Fan Response",
+        "p": [
+          "Upon release, the movie earned strong marks from critics and audiences alike. Rotten Tomatoes records a 91% Tomatometer score derived from over 320 reviews, alongside a 79% Popcornmeter score from more than 50,000 audience ratings, while IMDb holds the project at a 7.4 out of 10 rating.",
+          "Viewers consistently praise the clever script and the vibrant chemistry between the two leads. Gosling in particular drew widespread acclaim for his comedic timing and expressive performance."
+        ]
+      },
+      {
+        "h": "Box Office History",
+        "p": [
+          "Despite its current streaming success and positive reviews, the feature faced an uphill battle at the box office when it premiered in theaters on May 20, 2016.",
+          "It accumulated roughly $71.2 million worldwide against an estimated production budget of $50 million, which included a domestic take of $36.2 million across the United States and Canada."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ryan Gosling and Russell Crowe's R-rated comedy has unexpectedly claimed the number one spot on Apple TV's U.S. movie chart. Despite earning modest box office returns following its May 2016 theatrical debut, the film continues to find appreciation years later through streaming."
+        ]
+      }
+    ],
+    "facts": [
+      "Ryan Gosling stars as Holland March.",
+      "Russell Crowe stars as Jackson Healy.",
+      "The film was directed by Shane Black.",
+      "It was released in theaters on May 20, 2016.",
+      "The worldwide box office was about $71.2 million against a $50 million budget.",
+      "Rotten Tomatoes gives the film a 91% Tomatometer score."
+    ],
+    "entities": {
+      "people": [
+        "Ryan Gosling",
+        "Russell Crowe",
+        "Shane Black",
+        "Angourie Rice",
+        "Margaret Qualley",
+        "Matt Bomer",
+        "Kim Basinger",
+        "Yaya DaCosta",
+        "Anthony Bagarozzi",
+        "Joel Silver"
+      ],
+      "titles": [
+        "The Nice Guys"
+      ]
+    },
+    "keywords": [
+      "The Nice Guys",
+      "Ryan Gosling",
+      "Russell Crowe",
+      "Apple TV movie chart"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-06T114500.891.webp?resize=1200,630",
+        "caption": "Ryan Gosling's Comedy Hits Number One on Apple TV",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 00:30:00 +0000"
+  },
+  "1r60bo6": {
+    "id": "1r60bo6",
+    "type": "news",
+    "headline": "Salman Khan Shares Thoughts on Ramayana and Urges Focus on Lord Ram Rather Than VFX",
+    "dek": "During the trailer launch of his film Maatrubhumi, Bollywood superstar Salman Khan addressed discussions surrounding the epic film Ramayana, advising audiences to focus on Lord Ram and his virtues instead of production costs and visual effects.",
+    "body": [
+      {
+        "h": "Salman Khan Addresses Epic Discussions",
+        "p": [
+          "Bollywood superstar Salman Khan recently weighed in on the widespread conversations surrounding the epic cinematic project Ramayana. Speaking publicly in Mumbai, the actor offered his support to the massive production while steering the conversation toward spiritual and emotional themes.",
+          "Rather than getting caught up in industry metrics, Khan emphasized that the core essence of the epic should remain the primary focus for viewers and commentators alike."
+        ]
+      },
+      {
+        "h": "Prioritizing Virtues Over Budgets",
+        "p": [
+          "During the trailer launch event for his own upcoming project, Khan specifically pointed out that public discourse often overly fixates on budgets and advanced digital technology. He urged audiences and critics to look past financial figures and visual effects.",
+          "The actor stressed that discussions should instead center entirely on Lord Ram and the moral qualities he represents, maintaining that these traditional values hold far greater importance than modern filmmaking scale."
+        ]
+      },
+      {
+        "h": "Parallels Drawn With Maatrubhumi",
+        "p": [
+          "While discussing his film Maatrubhumi, Khan drew a direct comparison between the protagonist of his movie and Lord Ram. He stated that the central character in his project embodies all the noble virtues associated with the revered deity.",
+          "By linking his film's hero to these traditional qualities, the superstar reinforced his message that storytelling should concentrate on honorable character traits rather than production expenditure."
+        ]
+      },
+      {
+        "h": "Trailer Launch and VFX Concerns",
+        "p": [
+          "In addition to his comments on Ramayana, Khan explained the strategic decisions behind the promotional rollout of Maatrubhumi. He revealed that the film's official trailer would not be released on social media immediately due to pending visual effects work.",
+          "Expressing caution regarding contemporary online culture, the actor noted that modern audiences frequently scrutinize and troll individual frames by zooming in on CGI. To prevent similar criticism, his team chose to delay the trailer release until the post-production work is fully polished."
+        ]
+      },
+      {
+        "h": "Special Ticket Pricing and Release Date Changes",
+        "p": [
+          "The trailer launch event also brought several logistical updates regarding Maatrubhumi. Khan announced a special ticketing initiative offering movie tickets for just 11 rupees to individuals aged 75 years and older.",
+          "Furthermore, the theatrical release schedule underwent a revision. The film is now officially scheduled to hit theatres on December 4, shifting from its previously communicated November 20 release window."
+        ]
+      },
+      {
+        "h": "Ramayana Box Office Context",
+        "p": [
+          "The massive cinematic adaptation of Ramayana arrived in cinemas on November 5. Despite receiving generally positive reviews from critics and viewers, the film experienced a slower-than-expected start at the box office.",
+          "According to reports surrounding its opening performance, the movie's initial box office collections did not manage to surpass the opening figures recorded by certain other major releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan spoke about the epic film Ramayana during the trailer launch of his own movie Maatrubhumi in Mumbai on November 6, 2026. He urged people to concentrate on the character and virtues of Lord Ram rather than debating budgets and visual effects, while also announcing a revised December 4 release date and discounted tickets for senior citizens for his film."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan spoke on November 6, 2026, in Mumbai.",
+      "Maatrubhumi is scheduled to release on December 4.",
+      "Tickets for Maatrubhumi will cost 11 rupees for individuals aged 75 or older.",
+      "The film Ramayana was released on November 5."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Maatrubhumi"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Ramayana",
+      "Maatrubhumi trailer launch",
+      "Salman Khan Maatrubhumi release date",
+      "Ramayana box office opening"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aedc873ad8e0-salman-khan-on-ramayana-063042597-16x9.jpg",
+        "caption": "Salman Khan Shares Thoughts on Ramayana and Urges Focus on Lord Ram Rather Than VFX",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T00:52:29Z"
+  },
+  "1mm0y2": {
+    "id": "1mm0y2",
+    "type": "news",
+    "headline": "Sharon Stone and Hannah Waddingham Lead Glamour at Women in Film Honors",
+    "dek": "Sharon Stone turned heads in black leather while Hannah Waddingham accepted the Crystal Award for Advocacy in Television at the star-studded Beverly Hills ceremony.",
+    "body": [
+      {
+        "h": "Sharon Stone Wows in Black Leather",
+        "p": [
+          "Sharon Stone demonstrated her enduring status as a Hollywood fashion icon by stepping out in a striking all-black leather look. The acclaimed actress commanded attention at the ceremony in a belted trench-style dress featuring a waist-cinching design.",
+          "She elevated her edgy attire with sheer black tights, pointed heels, and oversized statement earrings. Wearing her blonde locks swept back, she completed her red carpet appearance with soft, understated makeup."
+        ]
+      },
+      {
+        "h": "Hannah Waddingham Dazzles in Turquoise",
+        "p": [
+          "Ted Lasso star Hannah Waddingham brought equal glamour to the red carpet in a plunging turquoise satin gown. The figure-hugging outfit boasted a daring V-neckline and an open back, complemented by a flowing skirt.",
+          "She accessorized her vibrant ensemble with chunky gold earrings, black heels, and a voluminous blonde updo. On the red carpet, she flashed a playful rock 'n' roll hand gesture before sharing a warm embrace and laughter with Sharon."
+        ]
+      },
+      {
+        "h": "A Special Honor for Waddingham",
+        "p": [
+          "The evening held special significance for Hannah, who received the Crystal Award for Advocacy in Television. Sharon presented the accolade to her fellow actress.",
+          "The recognition celebrated Hannah's dedication to using her public platform to advocate for women and the LGBTQ+ community. The two stars appeared thrilled to celebrate the moment together."
+        ]
+      },
+      {
+        "h": "Star-Studded Attendance in Beverly Hills",
+        "p": [
+          "Held at The Beverly Hilton, the glamorous ceremony drew numerous recognizable faces from across the entertainment industry. Salma Hayek was also among the honorees, receiving the Jane Fonda Humanitarian Award directly from Jane herself.",
+          "Other notable attendees spotted at the venue included Kerry Washington, Olivia Munn, Emmy Rossum, and Adria Arjona. Adria was separately honored during the evening with the WIF Max Mara Face of the Future Award."
+        ]
+      },
+      {
+        "h": "Celebrating Women in Entertainment",
+        "p": [
+          "The annual event serves as a platform to celebrate women making substantial impacts across the entertainment sector. Honorees and attendees represented contributions made both in front of and behind the camera.",
+          "The gathering underscored the ongoing influence and achievements of women shaping contemporary film and television. High-profile appearances from industry veterans and rising stars alike defined the evening's celebratory atmosphere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sharon Stone and Hannah Waddingham captured attention at the 2026 Women in Film Honors in Beverly Hills on Thursday, November 5, 2026. Hannah received the Crystal Award for Advocacy in Television from Sharon during the star-studded ceremony at The Beverly Hilton, which also honored Salma Hayek and Adria Arjona."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharon Stone is 68 years old.",
+      "Hannah Waddingham is 52 years old.",
+      "Salma Hayek is 60 years old.",
+      "The 2026 Women in Film Honors took place on Thursday, November 5, 2026.",
+      "The event was held at The Beverly Hilton in Beverly Hills.",
+      "Hannah Waddingham received the Crystal Award for Advocacy in Television.",
+      "Salma Hayek received the Jane Fonda Humanitarian Award.",
+      "Adria Arjona received the WIF Max Mara Face of the Future Award."
+    ],
+    "entities": {
+      "people": [
+        "Sharon Stone",
+        "Hannah Waddingham",
+        "Salma Hayek",
+        "Jane Fonda",
+        "Kerry Washington",
+        "Olivia Munn",
+        "Emmy Rossum",
+        "Adria Arjona",
+        "Nicola Conville",
+        "Charlize Theron",
+        "Taylor Swift",
+        "Michelle Stafford",
+        "Jennifer Hudson",
+        "Sunny Hostin",
+        "Eva LaRue",
+        "Kim Kardashian",
+        "Naomi Watts",
+        "Sarah Paulson",
+        "Kris Jenner",
+        "North West",
+        "Michelle Pfeiffer",
+        "Sigourney Weaver"
+      ],
+      "titles": [
+        "Basic Instinct",
+        "Ted Lasso",
+        "Aliens"
+      ]
+    },
+    "keywords": [
+      "Sharon Stone black leather",
+      "Hannah Waddingham Crystal Award",
+      "Women in Film Honors",
+      "Salma Hayek Jane Fonda Humanitarian Award"
+    ],
+    "images": [
+      {
+        "url": "https://images.hellomagazine.com/horizon/landscape/1200/0af83481b628-gettyimages-2303784480.jpg",
+        "caption": "Sharon Stone and Hannah Waddingham Lead Glamour at Women in Film Honors",
+        "source": "HELLO! Magazine"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 00:19:19 GMT"
   }
 };

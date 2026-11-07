@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-05T17:50:57Z",
-    "run_id": "42078528593",
-    "status": "success",
-    "checked": {
-     "candidates": 426,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Day 1 Collection Early Update: 50 Cr CROSSED! But RK-Yash's Film FAILS To BEAT Adipurush Opening?",
-      "Ramayana Ending Explained: Sunny Deol’s Lord Hanuman With Just 3 Epic Words Gives The Sequel Glimpse – Beginning Of The End Of Ravana!",
-      "Suhail Nayyar talks about working as Sugriv in 'Ramayana': 'It's like being in a video game'",
-      "Kamal Haasan’s ‘KH237’ poster teases major announcement with intense revenge tagline",
-      "Nazriya Nazim clarifies that she did not reject Suriya's three film offers deliberately, feels glad to be the first heroine in Jithu Madhavan's Scene",
-      "Neena Gupta's birthday wish for Masaba is a proud mother's love letter to daughter",
-      "Andrew Garfield Just Had A Really Morbid Take On Playing Spider-Man (But He’s Not Wrong)",
-      "Epic Universe Finally Announced Its New Dark Universe Ride. I Don’t Think It Will Stop The Rumors",
-      "I Liked Street Fighter, But I’m Not Surprised By Its Box Office Run",
-      "We Have Our First Look At Charlie Hunnam's Violent New Streaming Series",
-      "A Bunch Of Psychologists Were Asked About You Can See Everything, And Their Answers Are Fascinating",
-      "I’d Been Missing Margot Robbie On The Red Carpet. She Was Just Perfection In Sheer Chanel",
-      "Marvel's 'VisionQuest' Finally Pays Off a 15-Year-Old MCU Easter Egg",
-      "'SVU's 600th Episode Is Officially Fixing One of the Series' Biggest Mistakes",
-      "Jenna Ortega and Natalie Portman’s Twisted New Crime Comedy Officially Unleashes Its Trailer",
-      "‘Yellowjackets’ Officially Leaves the Wilderness Behind in Its Final Season Trailer",
-      "John Grisham’s 'Lincoln Lawyer' Replacement Officially Debuts New Look at Next Episode",
-      "Popular Channel 4 TV Show Canceled After Rape Allegations",
-      "Nikita Dragun Gives X-Men Star Kelly Hu a Perfect Lady Deathstrike Surprise",
-      "Ryan Seacrest Left Shocked After Wheel of Fortune Contestant Loses Out on $113,000"
-     ],
-     "updated": [],
-     "count": 406,
-     "detail": "426 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-05T18:51:59Z",
     "run_id": "42088121540",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "376 stories, 0 duplicates removed, 17 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-07T00:51:39Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": {
+     "candidates": 309,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Manish Malhotra's Diwali Bash Got You Inspired? 6 Essentials To Host Your Own Festive Party",
+      "'Mookuthi Amman 2' BO day 1 vs 'Jailer 2'",
+      "'Ramayana: Rise of a Legend' day 2: Ranbir, Yash, Sai starrer crosses Rs 100 cr India net",
+      "'Drishyam- The Conclusion' day 36: Ajay starrer holds ground amid 'Ramayana' wave",
+      "'Scene' BO day 1: Suriya, Naslen film opens with Rs 34.25 cr",
+      "How Does Michael Jackson’s Son Prince Feel About Jaafar Playing The Late Singer?",
+      "3 Elite Prime Video Series to Binge This Weekend (Nov 7-8)",
+      "Legendary 31-Year-Old Space Western Officially Returns With New Release",
+      "Ryan Gosling’s Hilarious R-Rated Comedy Suddenly Becomes No. 1 on Streaming",
+      "Freida Pinto in Romantic Thriller 'Unaccustomed Earth' Series Trailer",
+      "Before 'Heat 2,' Apple TV's New 8-Part Heist Thriller Drops on Streaming in Just One Week",
+      "6 Biggest 'Scrubs' Moments That Prove JD & Elliot Were Always a Bad Match",
+      "All 18 Episodes Of Netflix's Best Fantasy Series Deliver Peak Animation",
+      "Brandon Sanderson Shares The Series That Got Him Into Fantasy",
+      "Godzilla Minus Zero Just Made Massive Changes To How Godzilla Fights In His Movies",
+      "29 Years Later, Peanuts' Best Quote On Growing Up Has No Equal",
+      "3 Best Movies To Watch On Prime Video This Weekend (November 7-8)",
+      "Stephen King’s 19-Year-Old Horror Adaptation Getting Sequel With New & Original Cast",
+      "Elros Explained: Aragorn's Ancestor And His Rings Of Power Season 3 Role",
+      "Mass Effect 5 Officially Has A Small Shot At Life"
+     ],
+     "updated": [],
+     "count": 299,
+     "detail": "301 stories, 0 duplicates removed, 8 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-06T00:30:46Z",
-    "run_id": "42124859648",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1470,45 +1452,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-07T00:52:29Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend Crosses Rs 200 Crore Worldwide in Two Days",
+      "Ryan Gosling's Comedy Hits Number One on Apple TV",
+      "Salman Khan Shares Thoughts on Ramayana and Urges Focus on Lord Ram Rather Than VFX",
+      "Sharon Stone and Hannah Waddingham Lead Glamour at Women in Film Honors"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-05T18:54:28Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": {
-     "candidates": 204,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 202, coming 2"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-05T20:52:27Z",
-    "run_id": "42107111111",
-    "status": "success",
-    "checked": {
-     "candidates": 204,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 202, coming 2"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1904,26 +1873,45 @@
      "detail": "now 239, coming 11"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-06T00:48:44Z",
-    "run_id": "42137226616",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-07T00:52:47Z",
+    "run_id": "42320669325",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 256,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 245, coming 11"
     },
-    "reason": "no-new-data"
+    "reason": null
    },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-07T00:52:47Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": {
+     "candidates": 256,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 245, coming 11"
+    },
+    "reason": null
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2353,27 +2341,28 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-07T00:56:56Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "jnrp6v"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T20:22:40Z",
-    "run_id": "42097726566",
-    "status": "success",
-    "checked": {
-     "candidates": 552,
-     "detail": "550 collected staging rows from readers; 194 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 33,
-     "detail": "+26 new rows, 7 updated rows, 517 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2787,19 +2776,27 @@
      "detail": "+0 new rows, 3 updated rows, 589 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T00:56:52Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": {
+     "candidates": 598,
+     "detail": "593 collected staging rows from readers; 205 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+1 new rows, 5 updated rows, 587 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3043,32 +3040,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-06T03:11:31Z",
-    "run_id": "42146472788",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sandeep Reddy Vanga Applauds Ranbir Kapoor And Yash In Nitesh Tiwari's Ramayana",
-      "How Entertainment Fans Can Save on T-Mobile 5G Home Internet Plans",
-      "Aishwarya Rai Bachchan and Abhishek Bachchan Steal the Show at Manish Malhotra's Diwali Celebration",
-      "‘Ramayana: Rise of a Legend’ Opens at Rs 64.85 Crore Net on Day 1 in India"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3587,38 +3571,33 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-05T17:58:41Z",
-    "run_id": "42078528593",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-07T00:56:55Z",
+    "run_id": "42320669325",
     "status": "success",
     "checked": {
-     "candidates": 24,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 17 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Lagan Lagi Ep 11",
-      "Bano Ep 23",
-      "Uswah Ep 44",
-      "Izzat Ep 47",
-      "Khushi Ep 54"
+      "Ryan Gosling's Comedy Hits Number One on Apple TV",
+      "Salman Khan Shares Thoughts on Ramayana and Urges Focus on Lord Ram Rather Than VFX",
+      "Sharon Stone and Hannah Waddingham Lead Glamour at Women in Film Honors",
+      "Ramayana: Rise of a Legend Crosses Rs 200 Crore Worldwide in Two Days",
+      "Cast and Makers of Ramayana Engage with Thousands of Students in Special Educational Initiative Ahead of Film's Release"
      ],
-     "updated": [
-      "Uswah Ep 44",
-      "Khushi Ep 54",
-      "Bano Ep 23",
-      "Izzat Ep 47",
-      "Lagan Lagi Ep 11"
-     ],
-     "count": 10
+     "updated": [],
+     "count": 5,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3881,19 +3860,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4259,31 +4238,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-05T18:01:22Z",
-    "run_id": "42078528593",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "news queue items drafted this run; 406 still unprocessed; today by category: movies 9/6, tv_dramas 8/4, episodes 0/2, box_office 8/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 1/3, awards 1/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Part 1 Crosses ₹50 Crore on Opening Day",
-      "Ramayana Ending Explained: How Nitesh Tiwari's Part 1 Sets Up the Epic Sequel",
-      "Universal Orlando Confirms New Dark Universe Roller Coaster For Epic Universe",
-      "Prime Video Unveils First Look at Charlie Hunnam's Violent New Streaming Miniseries"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4788,26 +4755,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-07T00:52:29Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 299 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend Crosses Rs 200 Crore Worldwide in Two Days",
+      "Ryan Gosling's Comedy Hits Number One on Apple TV",
+      "Salman Khan Shares Thoughts on Ramayana and Urges Focus on Lord Ram Rather Than VFX",
+      "Sharon Stone and Hannah Waddingham Lead Glamour at Women in Film Honors"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-05T18:02:16Z",
-    "run_id": "42078528593",
-    "status": "success",
-    "checked": {
-     "candidates": 36,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5107,24 +5079,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-07T00:54:17Z",
+    "run_id": "42320669325",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 43,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 598,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5469,24 +5443,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 377,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5786,19 +5760,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6048,19 +6027,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 74,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6295,19 +6279,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6582,19 +6566,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6835,19 +6819,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7077,19 +7061,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7342,26 +7326,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-04T08:52:16Z",
-    "run_id": "41802603035",
-    "status": "success",
-    "checked": {
-     "candidates": 358,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 3; attempt cooldown deferred: 355"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7765,19 +7742,30 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-07T00:53:22Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": {
+     "candidates": 498,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 34; attempt cooldown deferred: 464"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8022,19 +8010,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-05T18:04:03Z",
-    "run_id": "42078528593",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8284,8 +8272,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-07T00:57:06Z",
+    "run_id": "42320669325",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5385,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-06T23:52:30Z"
+ "updated_at": "2026-11-07T00:57:06Z"
 }
