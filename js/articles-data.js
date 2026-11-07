@@ -78148,5 +78148,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 06:18:07 +0000"
+  },
+  "18tz6nk": {
+    "id": "18tz6nk",
+    "type": "news",
+    "headline": "Sourav Joshi Faces Backlash Over Wife Avantika Bhatt's Goa Vlog Clip",
+    "dek": "Popular YouTuber Sourav Joshi finds himself at the center of a social media controversy after a video clip from his Goa vacation featuring his wife Avantika Bhatt sparks widespread debate and online criticism.",
+    "body": [
+      {
+        "h": "The Goa Vacation Controversy",
+        "p": [
+          "Popular content creator Sourav Joshi has once again drawn intense scrutiny across various social networking platforms. This fresh controversy stems from a recent vlog documenting his holiday in Goa, where a brief segment featuring his wife, Avantika Bhatt, quickly became the primary talking point for viewers.",
+          "While showcasing the private pool area of their accommodation, the camera momentarily captured Avantika. Due to specific lighting conditions and the prevailing camera angle, her attire appeared transparent in that specific framing, prompting immediate attention from the audience."
+        ]
+      },
+      {
+        "h": "Editing Oversight Questions",
+        "p": [
+          "A major point of contention among viewers is the fact that Sourav Joshi typically handles the editing duties for his vlogs personally. Observers expressed bewilderment as to why the controversial shot was retained in the final cut rather than being cropped out prior to public release.",
+          "Several internet users pointed out that because the footage went through the complete pipeline of shooting, editing, and publishing without modification, the oversight felt entirely avoidable."
+        ]
+      },
+      {
+        "h": "Divided Reactions From Netizens",
+        "p": [
+          "The viral clip sharply polarized the online community, resulting in mixed opinions regarding the creator's intentions. Detractors took the opportunity to troll the YouTuber, accusing him of courting attention through questionable content choices.",
+          "Conversely, supporters rushed to his defense, arguing that the moment was completely ordinary and blown out of proportion by critics. Defenders also condemned individuals who took screenshots and zoomed in on the clip to amplify the controversy."
+        ]
+      },
+      {
+        "h": "Past Controversy Over Pet Dog Dare",
+        "p": [
+          "This incident is not an isolated event, as Sourav Joshi has faced similar backlashes regarding his vlog content in the past. In October 2026, he drew heavy criticism during a Truth or Dare game segment featured in one of his videos.",
+          "During that segment, Avantika was dared to drink water from their pet dog Oreo's bowl. Although she hesitated at first, she completed the dare, leading to public outrage that eventually forced the creator to issue a clarification stating the bowl and water were clean."
+        ]
+      },
+      {
+        "h": "Safety Concerns From Earlier Car Pool Video",
+        "p": [
+          "Further adding to his list of controversial uploads, the YouTuber faced public censure earlier in August 2026 over another unconventional stunt. That particular video captured him and his companions converting the truck bed of a moving vehicle into a makeshift swimming pool.",
+          "Viewers raised serious safety concerns regarding the hazardous nature of the activity, alongside criticisms addressing apparent water wastage during the stunt."
+        ]
+      },
+      {
+        "h": "Ongoing Internet Debate",
+        "p": [
+          "The circulation of the Goa vlog clip has reignited discussions regarding the boundaries of privacy and vlogging ethics among digital creators. As the debate continues to unfold online, the incident highlights the intense scrutiny public figures face regarding their everyday published content."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Popular YouTuber Sourav Joshi faced intense social media trolling after a Goa vacation vlog clip featuring his wife Avantika Bhatt appeared transparent due to lighting and camera angles. Netizens debated the editing oversight, while supporters condemned users for zooming in on the footage. This follows previous controversies involving a pet dog bowl dare in October 2026 and a moving vehicle makeshift pool stunt in August 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Sourav Joshi faced backlash over a Goa vacation vlog clip featuring his wife Avantika Bhatt.",
+      "The controversy erupted in November 2026.",
+      "A Truth or Data game involving a pet dog's bowl occurred in October 2026.",
+      "A makeshift swimming pool video in a moving vehicle was published in August 2026."
+    ],
+    "entities": {
+      "people": [
+        "Sourav Joshi",
+        "Avantika Bhatt",
+        "Oreo"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sourav Joshi wife Avantika Bhatt",
+      "Sourav Joshi Goa vlog controversy",
+      "Sourav Joshi transparent dress video",
+      "Avantika Bhatt viral clip"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/souravjoshiwifetransparentdressd1-31841794032417.jpg",
+        "caption": "Sourav Joshi Faces Backlash Over Wife Avantika Bhatt's Goa Vlog Clip",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 11:52:41 +0530"
+  },
+  "z94npn": {
+    "id": "z94npn",
+    "type": "news",
+    "headline": "Star Trek Ascendancy Expands With The Final Frontier Tabletop Release",
+    "dek": "Gale Force Nine announces the upcoming tabletop expansion Star Trek Ascendancy: The Final Frontier, bringing new civilizations, campaign modes, and automated opponents to the strategy board game.",
+    "body": [
+      {
+        "h": "Celebrating Six Decades of Science Fiction History",
+        "p": [
+          "The year 2026 marks the sixtieth anniversary of the broader science fiction franchise, honoring six decades of culturally significant storytelling. Since the broadcast of the initial television program featuring William Shatner and Leonard Nimoy alongside countless subsequent films and television spin-offs, the universe has forged a monumental legacy.",
+          "While numerous iterations achieved widespread acclaim, certain entries experienced more polarized receptions from audiences. Despite mixed views, the extensive history continues to resonate deeply with passionate followers across generations."
+        ]
+      },
+      {
+        "h": "Revisiting The Final Frontier Legacy",
+        "p": [
+          "Among the more controversial motion picture chapters is the 1989 feature Star Trek V: The Final Frontier, which centered on the original Enterprise crew. Directed by Shatner himself, the narrative followed Captain Kirk, Spock, and Dr. McCoy as they ventured toward the center of the galaxy.",
+          "Though the film faced mixed critical responses upon its initial debut, it remains a notable milestone for enthusiasts of the classic ensemble. Now, nearly four decades later, the franchise moniker returns in a brand new interactive format."
+        ]
+      },
+      {
+        "h": "Bringing New Civilizations to the Tabletop",
+        "p": [
+          "Star Trek Ascendancy: The Final Frontier is an upcoming expansion designed for Gale Force Nine's strategic 4X tabletop game. While borrowing its title from the classic cinematic release, the expansion functions as an independent gameplay addition rather than a direct narrative adaptation.",
+          "The tabletop expansion introduces three playable civilizations previously restricted to crowdfunding backers on Gamefound. These factions include the Gorn, the Tholians, and the Terran Empire hailing from the alternate Mirror Universe."
+        ]
+      },
+      {
+        "h": "New Campaign Modes and Automated Opponents",
+        "p": [
+          "Beyond faction additions, the product introduces innovative ways to experience matches. A dedicated Campaign Mode delivers scenario-based objectives designed to enhance replayability far beyond traditional skirmishes.",
+          "Furthermore, non-player civilizations offer automated opponents, allowing enthusiasts to engage in solo matches or integrate computer-controlled factions into multiplayer gaming sessions."
+        ]
+      },
+      {
+        "h": "Extensive Physical Components and Storage Solutions",
+        "p": [
+          "The physical release ships packed with a massive array of components. Contents include ninety plastic miniature ships, forty-five system disks, thirteen dice, and upwards of four hundred cards.",
+          "Additional elements feature resource tokens, fleet markers, revised rulebooks, and a dedicated campaign book. Everything is packaged alongside a custom storage solution meant to accommodate the extensive collection."
+        ]
+      },
+      {
+        "h": "Production Updates and Pricing Details",
+        "p": [
+          "Originally launched in 2016, the core strategy board game has received multiple expansions over the years. The upcoming release represents one of the most ambitious undertakings for the platform to date.",
+          "Pre-orders are currently hosted via Zatu Games with an approximate listing price of one hundred thirty-eight US dollars. Additional bundles are available for newcomers seeking core civilizations or past expansions."
+        ]
+      },
+      {
+        "h": "Fulfillment and Crowdfunding Background",
+        "p": [
+          "The project initially found success through crowdfunding on Gamefound, securing over three million dollars in financial backing. Although encountering preliminary delays, updates from October 2026 confirmed production was nearing completion.",
+          "Shipping to distribution hubs is anticipated shortly, with final fulfillment expected in late 2026, though a definitive retail release date remains unconfirmed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Star Trek Ascendancy: The Final Frontier is an upcoming tabletop board game expansion from Gale Force Nine that introduces three new civilizations, automated opponents, and a campaign mode. The project follows a successful crowdfunding campaign and coincides with the franchise's sixtieth anniversary celebrations."
+        ]
+      }
+    ],
+    "facts": [
+      "2026 marks the 60th anniversary of Star Trek",
+      "Star Trek V: The Final Frontier premiered in 1989",
+      "Star Trek V was directed by William Shatner",
+      "Star Trek: Ascendancy launched in 2016",
+      "The expansion was crowdfunded on Gamefound, raising over $3 million",
+      "Gale Force Nine's update on October 5, 2026, confirmed production was nearing completion",
+      "The expansion is listed at approximately $138 USD on Zatu Games",
+      "The expansion includes 90 plastic ships, 45 system disks, 13 dice, and over 400 cards"
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Becher",
+        "William Shatner",
+        "Leonard Nimoy",
+        "Captain Kirk",
+        "Spock",
+        "Dr. McCoy"
+      ],
+      "titles": [
+        "Star Trek",
+        "Star Trek V: The Final Frontier",
+        "Star Trek: Ascendancy",
+        "Star Trek: The Original Series",
+        "Star Trek: The Animated Series",
+        "Star Trek: The Next Generation",
+        "Star Trek: Deep Space Nine",
+        "Star Trek: Voyager",
+        "Star Trek: Enterprise",
+        "Star Trek: Discovery",
+        "Star Trek: Short Treks",
+        "Star Trek: Picard",
+        "Star Trek Lower Decks",
+        "Star Trek: Prodigy",
+        "Star Trek: Strange New Worlds",
+        "Star Trek: Starfleet Academy",
+        "Star Trek Online",
+        "Star Trek: Resurgence",
+        "Star Trek: Bridge Crew",
+        "Star Trek: The Motion Picture"
+      ]
+    },
+    "keywords": [
+      "Star Trek Ascendancy The Final Frontier",
+      "Star Trek Ascendancy expansion board game",
+      "Gale Force Nine Star Trek Ascendancy",
+      "Star Trek V The Final Frontier board game"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/mixcollage-06-aug-2026-10-35-pm-4439.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Star Trek Ascendancy Expands With The Final Frontier Tabletop Release",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 05:30:17 GMT"
+  },
+  "c35izv": {
+    "id": "c35izv",
+    "type": "news",
+    "headline": "When I Meet The Moon Episodes 7-8 Release Timings and Streaming Details",
+    "dek": "Discover the release schedule, platform details, and plot twists for Episodes 7 and 8 of the modern romantic Chinese drama When I Meet The Moon starring Lin Yi and Lu Yu Xiao.",
+    "body": [
+      {
+        "h": "Introduction to the Modern Romance",
+        "p": [
+          "The ongoing modern romantic Chinese drama When I Meet The Moon continues to capture significant attention from viewers. The series has quickly built a dedicated audience thanks to its engaging narrative and charming leads.",
+          "Fans have been closely following every development, making it one of the more talked-about shows currently airing on digital platforms."
+        ]
+      },
+      {
+        "h": "Source Material and Background",
+        "p": [
+          "The television series is adapted from Zhu Yi's novel Folding Moon. The original author is well-known for writing other popular stories that have successfully transitioned to the screen, such as Hidden Love, When I Fly Towards You, and The First Frost.",
+          "This strong creative background has brought substantial built-in anticipation to the series, drawing in fans of the original literature and new viewers alike."
+        ]
+      },
+      {
+        "h": "Cast and On-Screen Chemistry",
+        "p": [
+          "The primary reason behind the show's massive appeal is the sweet and unmissable on-screen chemistry between lead actors Lin Yi and Lu Yu Xiao.",
+          "Their dynamic portrayal has become a major talking point across various social media channels, with audiences frequently discussing their performances."
+        ]
+      },
+      {
+        "h": "Plot Developments in Episodes 7 and 8",
+        "p": [
+          "The newly arriving installments shed additional light on Shi Ze's background and his family dynamics. Teasers indicate that his relatives will pressure him to complete his education.",
+          "Meanwhile, Yun Li spots Shi Ze with another girl at a bar, triggering feelings of jealousy. After the other girl leaves, Yun Li joins him for drinks, leading to a tipsy mishap where she loses her balance and pulls him into an almost-kiss moment."
+        ]
+      },
+      {
+        "h": "Release Schedule and Timings",
+        "p": [
+          "Episodes 7 and 8 are scheduled to premiere on Saturday, November 7, 2026. The release time is set for 6 PM Beijing Time (CST), which translates to 3:30 PM IST for viewers in India.",
+          "The episodes are slated to launch exclusively for VIP members on the designated streaming platform."
+        ]
+      },
+      {
+        "h": "Where and How to Watch",
+        "p": [
+          "Viewers can watch the latest episodes on iQIYI with English subtitles. Those with an active VIP subscription can utilize the app's download feature by searching for the title and saving the video files directly to their devices.",
+          "Additionally, some audiences look toward alternative options such as fan-uploaded versions on Dailymotion following the official premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "When I Meet The Moon released Episodes 7 and 8 on November 7, 2026, bringing fresh plot developments for characters Yun Li and Shi Ze. The modern romantic C-drama continues to draw strong interest through its lead actors and accessible streaming options on iQIYI."
+        ]
+      }
+    ],
+    "facts": [
+      "When I Meet The Moon Episodes 7 and 8 released on November 7, 2026.",
+      "The drama is adapted from Zhu Yi's novel Folding Moon.",
+      "The series stars Lin Yi and Lu Yu Xiao.",
+      "New episodes premiere at 6 PM Beijing Time (CST) / 3:30 PM IST."
+    ],
+    "entities": {
+      "people": [
+        "Lin Yi",
+        "Lu Yu Xiao",
+        "Zhu Yi",
+        "Tangy",
+        "Shi Ze",
+        "Yun Li"
+      ],
+      "titles": [
+        "When I Meet The Moon",
+        "Folding Moon",
+        "Hidden Love",
+        "When I Fly Towards You",
+        "The First Frost"
+      ]
+    },
+    "keywords": [
+      "When I Meet The Moon",
+      "Lin Yi",
+      "Lu Yu Xiao",
+      "When I Meet The Moon Episodes 7-8",
+      "iQIYI"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-07t114954-793-18831794032399.jpg",
+        "caption": "When I Meet The Moon Episodes 7-8 Release Timings and Streaming Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 12:04:59 +0530"
+  },
+  "1wqp5va": {
+    "id": "1wqp5va",
+    "type": "news",
+    "headline": "Benson Boone Surprises Young Cancer Fighter Onstage in Brisbane",
+    "dek": "Pop artist Benson Boone kicked off his Australian tour by welcoming a 13-year-old fan battling Ewing's sarcoma onto the stage to sing his hit track on her birthday.",
+    "body": [
+      {
+        "h": "Opening Night Surprise",
+        "p": [
+          "Pop performer Benson Boone launched the Australian segment of his current concert series with a deeply moving gesture. During his performance at the Brisbane Entertainment Centre, the musician paused his set to welcome a very special guest to the platform for the final number.",
+          "The special moment unfolded on the artist's birthday as he brought out a young admirer to join him in front of a massive crowd. The unforgettable appearance became the centerpiece of the evening for everyone inside the venue."
+        ]
+      },
+      {
+        "h": "A Special Birthday Wish",
+        "p": [
+          "The young guest of honor was identified as Kenzie Riddle, a 13-year-old music enthusiast celebrating her special day. Her primary birthday wish had been to meet the singer and perform his famous track live alongside him.",
+          "The moving collaboration materialized as the young fan emerged from an upper platform and walked over to share the spotlight. Approximately 10,000 spectators filled the arena to witness the emotional duet take place."
+        ]
+      },
+      {
+        "h": "Facing Serious Health Challenges",
+        "p": [
+          "The young fan has been confronting a severe battle with Ewing's sarcoma. After enduring roughly two and a half years of medical therapy, her family initially believed she had overcome the illness, but the cancer unfortunately returned.",
+          "She is currently undergoing intensive chemotherapy treatments to fight the illness once more. Her relatives purchased tickets for the concert back in July to celebrate her milestone birthday."
+        ]
+      },
+      {
+        "h": "Viral Campaign and Local Support",
+        "p": [
+          "An online movement helping the young fan meet the performer gained significant traction after a local musician named Fergus Hogan published an Instagram video highlighting her story.",
+          "Expressing her admiration for the headliner, the teenager noted that she loves his energetic style and theatrical stage presence. Her relatives have emphasized the incredible community backing that has rallied around her during this difficult period."
+        ]
+      },
+      {
+        "h": "Breakout Success of the Track",
+        "p": [
+          "The song featured during the onstage collaboration, 'Beautiful Things,' served as the breakout single for the musical artist. Issued in January 2024, the track climbed to No. 2 on the Billboard Hot 100 chart and turned into one of the most-streamed tracks globally that year.",
+          "Following that initial success, the performer released his debut album titled 'Fireworks Rollerblades' in April of that same year. His subsequent studio project, 'American Heart,' arrived later and featured the single 'Mystical Magical.'"
+        ]
+      },
+      {
+        "h": "Tour Schedule Across Australia",
+        "p": [
+          "The memorable Brisbane event marked the official launch of the artist's 'Wanted Man' tour across Australia. He has two additional performances scheduled in Brisbane before moving the tour to Melbourne.",
+          "The tour itinerary includes three consecutive concerts at the Rod Laver Arena in Melbourne starting on November 12. Finally, the Australian leg wraps up with three shows at Sydney's Afterpay Arena."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pop artist Benson Boone brought 13-year-old fan Kenzie Riddle onstage during his concert in Brisbane to sing 'Beautiful Things' for her birthday. The young fan, who is battling Ewing's sarcoma, joined the performer before a crowd of 10,000 people to mark the start of his Australian tour."
+        ]
+      }
+    ],
+    "facts": [
+      "Benson Boone performed at the Brisbane Entertainment Centre on Friday, Nov. 6.",
+      "Kenzie Riddle is 13 years old and battling Ewing's sarcoma.",
+      "Approximately 10,000 people attended the Brisbane concert.",
+      "'Beautiful Things' was released in January 2024 and reached No. 2 on the Billboard Hot 100.",
+      "The tour is titled 'Wanted Man'."
+    ],
+    "entities": {
+      "people": [
+        "Benson Boone",
+        "Kenzie Riddle",
+        "Fergus Hogan"
+      ],
+      "titles": [
+        "Beautiful Things",
+        "Fireworks Rollerblades",
+        "American Heart",
+        "Mystical Magical"
+      ]
+    },
+    "keywords": [
+      "Benson Boone",
+      "Kenzie Riddle",
+      "Beautiful Things",
+      "Wanted Man tour"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/02/P101PHGL-e1771323156344.jpg?w=1024",
+        "caption": "Benson Boone Surprises Young Cancer Fighter Onstage in Brisbane",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 06:13:57 +0000"
   }
 };

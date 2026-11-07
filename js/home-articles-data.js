@@ -103,6 +103,72 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-07T07:41:35Z"
   },
+  "c35izv": {
+    "id": "c35izv",
+    "type": "news",
+    "headline": "When I Meet The Moon Episodes 7-8 Release Timings and Streaming Details",
+    "dek": "Discover the release schedule, platform details, and plot twists for Episodes 7 and 8 of the modern romantic Chinese drama When I Meet The Moon starring Lin Yi and Lu Yu Xiao.",
+    "entities": {
+      "people": [
+        "Lin Yi",
+        "Lu Yu Xiao",
+        "Zhu Yi",
+        "Tangy",
+        "Shi Ze",
+        "Yun Li"
+      ],
+      "titles": [
+        "When I Meet The Moon",
+        "Folding Moon",
+        "Hidden Love",
+        "When I Fly Towards You",
+        "The First Frost"
+      ]
+    },
+    "keywords": [
+      "When I Meet The Moon",
+      "Lin Yi",
+      "Lu Yu Xiao",
+      "When I Meet The Moon Episodes 7-8",
+      "iQIYI"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-07t114954-793-18831794032399.jpg",
+        "caption": "When I Meet The Moon Episodes 7-8 Release Timings and Streaming Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 12:04:59 +0530"
+  },
+  "18tz6nk": {
+    "id": "18tz6nk",
+    "type": "news",
+    "headline": "Sourav Joshi Faces Backlash Over Wife Avantika Bhatt's Goa Vlog Clip",
+    "dek": "Popular YouTuber Sourav Joshi finds himself at the center of a social media controversy after a video clip from his Goa vacation featuring his wife Avantika Bhatt sparks widespread debate and online criticism.",
+    "entities": {
+      "people": [
+        "Sourav Joshi",
+        "Avantika Bhatt",
+        "Oreo"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sourav Joshi wife Avantika Bhatt",
+      "Sourav Joshi Goa vlog controversy",
+      "Sourav Joshi transparent dress video",
+      "Avantika Bhatt viral clip"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/souravjoshiwifetransparentdressd1-31841794032417.jpg",
+        "caption": "Sourav Joshi Faces Backlash Over Wife Avantika Bhatt's Goa Vlog Clip",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 11:52:41 +0530"
+  },
   "huh7jl": {
     "id": "huh7jl",
     "type": "news",
@@ -166,6 +232,39 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 06:18:07 +0000"
+  },
+  "1wqp5va": {
+    "id": "1wqp5va",
+    "type": "news",
+    "headline": "Benson Boone Surprises Young Cancer Fighter Onstage in Brisbane",
+    "dek": "Pop artist Benson Boone kicked off his Australian tour by welcoming a 13-year-old fan battling Ewing's sarcoma onto the stage to sing his hit track on her birthday.",
+    "entities": {
+      "people": [
+        "Benson Boone",
+        "Kenzie Riddle",
+        "Fergus Hogan"
+      ],
+      "titles": [
+        "Beautiful Things",
+        "Fireworks Rollerblades",
+        "American Heart",
+        "Mystical Magical"
+      ]
+    },
+    "keywords": [
+      "Benson Boone",
+      "Kenzie Riddle",
+      "Beautiful Things",
+      "Wanted Man tour"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/02/P101PHGL-e1771323156344.jpg?w=1024",
+        "caption": "Benson Boone Surprises Young Cancer Fighter Onstage in Brisbane",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 06:13:57 +0000"
   },
   "1v6n7t2": {
     "id": "1v6n7t2",
@@ -286,6 +385,58 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 06:00:18 GMT"
+  },
+  "z94npn": {
+    "id": "z94npn",
+    "type": "news",
+    "headline": "Star Trek Ascendancy Expands With The Final Frontier Tabletop Release",
+    "dek": "Gale Force Nine announces the upcoming tabletop expansion Star Trek Ascendancy: The Final Frontier, bringing new civilizations, campaign modes, and automated opponents to the strategy board game.",
+    "entities": {
+      "people": [
+        "Nicholas Becher",
+        "William Shatner",
+        "Leonard Nimoy",
+        "Captain Kirk",
+        "Spock",
+        "Dr. McCoy"
+      ],
+      "titles": [
+        "Star Trek",
+        "Star Trek V: The Final Frontier",
+        "Star Trek: Ascendancy",
+        "Star Trek: The Original Series",
+        "Star Trek: The Animated Series",
+        "Star Trek: The Next Generation",
+        "Star Trek: Deep Space Nine",
+        "Star Trek: Voyager",
+        "Star Trek: Enterprise",
+        "Star Trek: Discovery",
+        "Star Trek: Short Treks",
+        "Star Trek: Picard",
+        "Star Trek Lower Decks",
+        "Star Trek: Prodigy",
+        "Star Trek: Strange New Worlds",
+        "Star Trek: Starfleet Academy",
+        "Star Trek Online",
+        "Star Trek: Resurgence",
+        "Star Trek: Bridge Crew",
+        "Star Trek: The Motion Picture"
+      ]
+    },
+    "keywords": [
+      "Star Trek Ascendancy The Final Frontier",
+      "Star Trek Ascendancy expansion board game",
+      "Gale Force Nine Star Trek Ascendancy",
+      "Star Trek V The Final Frontier board game"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/mixcollage-06-aug-2026-10-35-pm-4439.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Star Trek Ascendancy Expands With The Final Frontier Tabletop Release",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 05:30:17 GMT"
   },
   "1n5g74t": {
     "id": "1n5g74t",
@@ -4596,174 +4747,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 02:41:39 +0000"
-  },
-  "2nlsn3": {
-    "id": "2nlsn3",
-    "type": "news",
-    "headline": "Sandeep Reddy Vanga Applauds Ranbir Kapoor And Yash In Nitesh Tiwari's Ramayana",
-    "dek": "Filmmaker Sandeep Reddy Vanga joins the growing chorus of industry voices praising Nitesh Tiwari's Ramayana, specifically commending the powerful lead performances of Ranbir Kapoor and Yash.",
-    "entities": {
-      "people": [
-        "Sandeep Reddy Vanga",
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Karan Johar",
-        "Allu Arjun",
-        "Vijay Deverakonda",
-        "Atlee",
-        "Rashmika Mandanna",
-        "Sai Pallavi",
-        "Namit Malhotra",
-        "A.R. Rahman",
-        "Ravie Dubey",
-        "Lara Dutta",
-        "Arun Govil",
-        "Kunal Kapoor",
-        "Simran Khan"
-      ],
-      "titles": [
-        "Ramayana",
-        "Animal",
-        "Dhurandhar The Revenge"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Sandeep Reddy Vanga Ramayana review",
-      "Ranbir Kapoor Yash Ramayana",
-      "Nitesh Tiwari Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156472288,thumbsize-442639,width-1280,height-720,resizemode-75/156472288.jpg",
-        "caption": "Sandeep Reddy Vanga Applauds Ranbir Kapoor And Yash In Nitesh Tiwari's Ramayana",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-06T01:52:42Z"
-  },
-  "1fkuxjp": {
-    "id": "1fkuxjp",
-    "type": "news",
-    "headline": "Aishwarya Rai Bachchan and Abhishek Bachchan Steal the Show at Manish Malhotra's Diwali Celebration",
-    "dek": "Bollywood power couple Aishwarya Rai Bachchan and Abhishek Bachchan made a striking joint appearance at designer Manish Malhotra's star-studded Mumbai Diwali party, capturing public attention amidst a gathering of numerous film industry icons.",
-    "entities": {
-      "people": [
-        "Aishwarya Rai Bachchan",
-        "Abhishek Bachchan",
-        "Manish Malhotra",
-        "Kareena Kapoor Khan",
-        "Saif Ali Khan",
-        "Akshay Kumar",
-        "Twinkle Khanna",
-        "Madhuri Dixit",
-        "Kajol",
-        "Karan Johar",
-        "Dr Shriram Nene",
-        "Nysa",
-        "Karisma Kapoor",
-        "Raveena Tandon",
-        "Shalini Passi",
-        "Aaradhya",
-        "Krishnaraj Rai",
-        "Brindya Rai",
-        "Amitabh Bachchan",
-        "Jaya Bachchan",
-        "Shah Rukh Khan",
-        "Siddharth Anand",
-        "Mani Ratnam",
-        "Aarav"
-      ],
-      "titles": [
-        "King",
-        "Dhaai Akshar Prem Ke",
-        "Kuch Naa Kaho",
-        "Umrao Jaan",
-        "Guru",
-        "Dhoom 2",
-        "Raja Shivaji",
-        "Ponniyin Selvan II"
-      ]
-    },
-    "keywords": [
-      "Aishwarya Rai Bachchan",
-      "Abhishek Bachchan",
-      "Manish Malhotra Diwali party",
-      "King movie"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/aishwarya-rai--abhishek-bachchan-064239684-16x9_0.jpeg?VersionId=YHx5J2Szmx4q7JeMqGNbmbLjVRo7ojch",
-        "caption": "Aishwarya Rai Bachchan and Abhishek Bachchan Steal the Show at Manish Malhotra's Diwali Celebration",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 07:13:07 +0530"
-  },
-  "af18z0": {
-    "id": "af18z0",
-    "type": "news",
-    "headline": "How Entertainment Fans Can Save on T-Mobile 5G Home Internet Plans",
-    "dek": "With streaming premieres, awards contenders, and must-watch shows piling up, T-Mobile offers a limited-time home internet deal starting at $30 per month to help trim household expenses.",
-    "entities": {
-      "people": [],
-      "titles": []
-    },
-    "keywords": [
-      "T-Mobile 5G Home Internet",
-      "T-Mobile internet plans",
-      "T-Mobile home internet deals",
-      "T-Mobile streaming discount"
-    ],
-    "images": [
-      {
-        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/t-mobile.jpg?w=1440&#038;h=810&#038;crop=1",
-        "caption": "How Entertainment Fans Can Save on T-Mobile 5G Home Internet Plans",
-        "source": "The Hollywood Reporter"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 01:40:49 +0000"
-  },
-  "156p1w6": {
-    "id": "156p1w6",
-    "type": "news",
-    "headline": "Sundar C Admits To Last-Minute Fine-Tuning And Sleepless Nights Ahead Of Mookuthi Amman 2 Release",
-    "dek": "As Mookuthi Amman 2 prepares for its theatrical launch on November 6, director Sundar C shares his pre-release anxiety, the Terminator-inspired premise behind the sequel, and his dedication to perfecting the final cut.",
-    "entities": {
-      "people": [
-        "Sundar C",
-        "Nayanthara",
-        "Kamal Haasan",
-        "Rajinikanth",
-        "Ishari Ganesh",
-        "C Joseph Vijay",
-        "Regina Cassandra",
-        "Duniya Vijay",
-        "Urvashi",
-        "Yogi Babu"
-      ],
-      "titles": [
-        "Mookuthi Amman 2",
-        "Terminator",
-        "Aranmanai"
-      ]
-    },
-    "keywords": [
-      "Mookuthi Amman 2",
-      "Sundar C",
-      "Nayanthara",
-      "Ishari Ganesh",
-      "C Joseph Vijay"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156467632,thumbsize-956809,width-1280,height-720,resizemode-75/156467632.jpg",
-        "caption": "Sundar C Admits To Last-Minute Fine-Tuning And Sleepless Nights Ahead Of Mookuthi Amman 2 Release",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-06T00:32:42Z"
   },
   "60g9pc": {
     "id": "60g9pc",
