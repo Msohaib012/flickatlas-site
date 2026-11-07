@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-05T18:51:59Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": {
-     "candidates": 576,
-     "detail": "RSS/Atom items across 137 sources; 11 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana (Hindi) Box Office Collection Day 1: Ranbir-Yash's Film Sees Dismal Opening; Fails To Beat Toxic",
-      "Sunshine Through The Rain Eps 1-3 Release Time: Available On Netflix? When, Where To Watch FIRST Ep For Free?",
-      "EXCL! Is Vahbiz Dorabjee Open To Get Married AGAIN? Actress Opens Up On Love & Possibilities Of Remarriage",
-      "Ramayana OTT Release Date, Platform: Here’s When Ramayana Part 1 Is Likely To Stream Online - UPDATE",
-      "Salman's 'Maatrubhum' trailer gets U/A 16+ certificate from CBFC; makers eye December release",
-      "Ajinkya Deo reveals how Ranbir would get tired in heavy costume on sets of 'Ramayana'",
-      "Armen Ataian gets bail after over year in custody: Court asks Ukrainian actor to deposit passport",
-      "Salman Khan signed 'Hum Tumhare Hain Sanam' without hearing story, says KC Bokadia",
-      "Kimmarie Johnson, ‘Beverly Hills, 90210’ actress, dies at 50 after heart-related medical emergency",
-      "Great fortune: Ravie Dubey responds as Sunil Lahri approves him as Lakshman",
-      "Vijay, Trisha attend wedding reception of YS Anil Reddy's daughter in Chennai. Pics",
-      "This Crossword Puzzle Is Dedicated Entirely To Stephen King Adaptations",
-      "The Sweet Story Behind What Gene Roddenberry Told Patrick Stewart When He Cast The Young, Bald Actor",
-      "Ramayana Is Making A Huge Global Push. I Still Can't Tell From Reviews What I'm Getting Into",
-      "Forget Dunesday, Jack Black Would Like To Get Jumanji In On The Christmas Movie Nickname Fun",
-      "6 Near-Perfect Prime Video Miniseries With 8 Episodes or Less",
-      "3 Best Short Books To Read in One Afternoon This Weekend (November 7-8)",
-      "‘Elsbeth’ Creators’ 10/10 Legal Thriller Officially Takes on Its First Murder Case",
-      "David Boreanaz’s ‘Rockford Files’ Reboot Officially Sets Release Date",
-      "‘Masters of the Air’ Meets ‘Saving Private Ryan’ in First Look at New WWII Movie"
-     ],
-     "updated": [],
-     "count": 527,
-     "detail": "539 stories, 0 duplicates removed, 37 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-05T20:50:57Z",
     "run_id": "42107111111",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "301 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-06T01:52:42Z",
-    "run_id": "42146472788",
+    "run_at": "2026-11-07T01:05:43Z",
+    "run_id": "42322085233",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 299,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "‘Ramayana: Rise of a Legend’ Opens at Rs 64.85 Crore Net on Day 1 in India",
-      "Sandeep Reddy Vanga Applauds Ranbir Kapoor And Yash In Nitesh Tiwari's Ramayana",
-      "How Entertainment Fans Can Save on T-Mobile 5G Home Internet Plans",
-      "Aishwarya Rai Bachchan and Abhishek Bachchan Steal the Show at Manish Malhotra's Diwali Celebration"
+      "Manish Malhotra's Diwali Bash Got You Inspired? 6 Essentials To Host Your Own Festive Party",
+      "'Mookuthi Amman 2' BO day 1 vs 'Jailer 2'",
+      "'Drishyam- The Conclusion' day 36: Ajay starrer holds ground amid 'Ramayana' wave",
+      "'Scene' BO day 1: Suriya, Naslen film opens with Rs 34.25 cr",
+      "How Does Michael Jackson’s Son Prince Feel About Jaafar Playing The Late Singer?",
+      "3 Elite Prime Video Series to Binge This Weekend (Nov 7-8)",
+      "Legendary 31-Year-Old Space Western Officially Returns With New Release",
+      "Freida Pinto in Romantic Thriller 'Unaccustomed Earth' Series Trailer",
+      "Before 'Heat 2,' Apple TV's New 8-Part Heist Thriller Drops on Streaming in Just One Week",
+      "6 Biggest 'Scrubs' Moments That Prove JD & Elliot Were Always a Bad Match",
+      "All 18 Episodes Of Netflix's Best Fantasy Series Deliver Peak Animation",
+      "Brandon Sanderson Shares The Series That Got Him Into Fantasy",
+      "Godzilla Minus Zero Just Made Massive Changes To How Godzilla Fights In His Movies",
+      "29 Years Later, Peanuts' Best Quote On Growing Up Has No Equal",
+      "3 Best Movies To Watch On Prime Video This Weekend (November 7-8)",
+      "Stephen King’s 19-Year-Old Horror Adaptation Getting Sequel With New & Original Cast",
+      "Elros Explained: Aragorn's Ancestor And His Rings Of Power Season 3 Role",
+      "Mass Effect 5 Officially Has A Small Shot At Life",
+      "8 Greatest One-Shot Action Movie Sequences Of All Time, Ranked",
+      "Swiss Labor Exploitation Drama ‘Enjoy Your Stay’ Lands in Indonesia, Directors Hope It Speaks for Migrant Workers"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 272,
+     "detail": "299 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1475,27 +1452,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-07T01:06:49Z",
+    "run_id": "42322085233",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Suriya and Naslen starrer Scene opens to strong worldwide figures",
+      "Prime Video Offers Must-Watch Lineup for November Weekend Viewing",
+      "Mookuthi Amman 2 Review: Nayanthara Leads Sundar C's Mythological Fantasy Sequel",
+      "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-05T21:54:39Z",
-    "run_id": "42116259428",
-    "status": "success",
-    "checked": {
-     "candidates": 204,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 202, coming 2"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1909,29 +1891,27 @@
      "detail": "now 245, coming 11"
     },
     "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-07T01:06:49Z",
+    "run_id": "42322085233",
+    "status": "success",
+    "checked": {
+     "candidates": 256,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 245, coming 11"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-06T03:11:32Z",
-    "run_id": "42146472788",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "6pu0nq",
-      "fnxwe2"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2360,27 +2340,29 @@
      "count": 1
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-07T02:32:15Z",
+    "run_id": "42322085233",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "pfvzzv",
+      "jnrp6v"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T20:52:27Z",
-    "run_id": "42107111111",
-    "status": "success",
-    "checked": {
-     "candidates": 552,
-     "detail": "550 collected staging rows from readers; 194 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 547 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2794,19 +2776,27 @@
      "detail": "+1 new rows, 5 updated rows, 587 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T02:32:12Z",
+    "run_id": "42322085233",
+    "status": "success",
+    "checked": {
+     "candidates": 598,
+     "detail": "593 collected staging rows from readers; 205 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 590 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3050,27 +3040,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-06T03:17:20Z",
-    "run_id": "42151717265",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3595,19 +3577,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-07T02:32:14Z",
+    "run_id": "42322085233",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Prime Video Offers Must-Watch Lineup for November Weekend Viewing",
+      "Mookuthi Amman 2 Review: Nayanthara Leads Sundar C's Mythological Fantasy Sequel",
+      "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'",
+      "Suriya and Naslen starrer Scene opens to strong worldwide figures"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3870,64 +3865,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T18:52:22Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": {
-     "candidates": 515,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 36,
-      "pk_movies": 19
-     },
-     "picked": 20,
-     "skipped": 1,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "When I Meet the Moon (270431)",
-      "Spirit Tasting (1808238)",
-      "The Silent Storm (279155)",
-      "Atrápelo quien pueda (1793752)",
-      "Forever, For Now (1792087)",
-      "Ženy v lihu (1791735)",
-      "I Want to Be Human (1791727)",
-      "Mahout (1788727)",
-      "Chasing Hope – Der andere Blick (1786543)",
-      "Palindromic (1786404)",
-      "Hexed (1538497)",
-      "You Can See Everything (1765072)",
-      "North of North (249023)",
-      "Black Doves (225385)",
-      "Tulsa King (153312)",
-      "Black Clover (73223)",
-      "Bleach (30984)",
-      "Friends Sex and Games (298550)",
-      "Bohurupi: The Golden Daku (1607833)"
-     ],
-     "updated": [],
-     "count": 19
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4248,30 +4198,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-05T18:54:28Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "news queue items drafted this run; 527 still unprocessed; today by category: movies 10/6, tv_dramas 8/4, episodes 0/2, box_office 8/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 7/4, trailers 1/3, awards 1/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Sunshine Through The Rain Episodes 1-3 Premiere Today: Release Timings, Platforms, And Where To Watch",
-      "Ramayana Part 1 OTT Release Details: Where and When to Stream the Mythological Epic Online",
-      "Jack Black Wants 'Doomanji' To Join The Holiday Box Office Lineup"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4777,19 +4716,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-07T01:06:49Z",
+    "run_id": "42322085233",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 272 still unprocessed; today by category: movies 2/6, tv_dramas 0/4, episodes 0/2, box_office 2/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 3/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Suriya and Naslen starrer Scene opens to strong worldwide figures",
+      "Prime Video Offers Must-Watch Lineup for November Weekend Viewing",
+      "Mookuthi Amman 2 Review: Nayanthara Leads Sundar C's Mythological Fantasy Sequel",
+      "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5096,24 +5047,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 279,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5458,24 +5404,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 419,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5775,24 +5721,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 66,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6042,19 +5983,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6289,19 +6230,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6576,19 +6517,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6829,19 +6770,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7071,19 +7012,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7332,6 +7273,16 @@
     "category": "Trending News",
     "run_at": "2026-11-07T00:57:06Z",
     "run_id": "42320669325",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7769,21 +7720,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 93,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-05T20:52:36Z",
     "run_id": "42107111111",
     "status": "skipped",
@@ -8020,24 +7956,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-05T18:54:53Z",
-    "run_id": "42088121540",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 11392,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8287,8 +8218,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-07T02:32:21Z",
+    "run_id": "42322085233",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-07T00:57:06Z"
+ "updated_at": "2026-11-07T02:32:21Z"
 }

@@ -75349,5 +75349,424 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 00:19:19 GMT"
+  },
+  "p7cz4k": {
+    "id": "p7cz4k",
+    "type": "news",
+    "headline": "Suriya and Naslen starrer Scene opens to strong worldwide figures",
+    "dek": "The newly released feature film Scene has achieved a notable worldwide debut, outperforming Suriya's previous release on its opening day.",
+    "body": [
+      {
+        "h": "Opening Day Global Numbers",
+        "p": [
+          "The collaborative film starring Suriya and Naslen has made a powerful debut at the global box office. On its first day in theaters, the feature brought in a worldwide total of Rs 34.25 crore.",
+          "This strong beginning sets an encouraging tone for the theatrical run, establishing robust interest from ticket buyers across various territories."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Screen Count",
+        "p": [
+          "Within the domestic market, the movie secured Rs 19.15 crore in net earnings. The domestic gross figures reached Rs 22.25 crore, supported by extensive screenings across different regions.",
+          "According to industry trackers, the production was screened across 6,167 shows on Friday, November 6, utilizing both Tamil and Telugu versions to attract audiences."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Tamil version served as the primary contributor to the domestic earnings. It brought in Rs 16.15 crore net from 4,878 shows, maintaining an overall occupancy rate of 57.1% throughout the day.",
+          "Meanwhile, the Telugu version added Rs 3 crore net through 1,289 shows, registering an occupancy rate of 47.1%. Together, these versions pushed the total ticket sales to an estimated 14,31,494 admissions."
+        ]
+      },
+      {
+        "h": "Comparison With Vishwanath and Sons",
+        "p": [
+          "The newly launched feature successfully outperformed the opening day performance of Suriya's prior project, Vishwanath and Sons. That earlier film had registered a worldwide gross of Rs 31.74 crore on its first day.",
+          "Scene managed a worldwide opening advantage of Rs 2.51 crore over the previous title. While Vishwanath and Sons recorded a slightly stronger international collection, Scene pulled ahead due to higher domestic gross numbers."
+        ]
+      },
+      {
+        "h": "Format and Occupancy Highlights",
+        "p": [
+          "Different screening formats displayed varying levels of audience turnout. The Tamil 2D version saw steady growth through the day, culminating in strong night show attendance.",
+          "Among all listed formats, the Tamil EPIQ version delivered the most remarkable numbers, recording an overall occupancy of 82.50% and peaking during late-night screenings."
+        ]
+      },
+      {
+        "h": "State-Wise Contribution Patterns",
+        "p": [
+          "Geographically, Tamil Nadu emerged as the leading market, contributing Rs 10.75 crore to the domestic gross and making up nearly half of the total India gross.",
+          "Kerala followed as the second-largest market with Rs 5.75 crore, while the Andhra Pradesh and Telangana region contributed Rs 3.50 crore, and Karnataka added Rs 2 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Naslen's film Scene debuted with a worldwide collection of Rs 34.25 crore on its opening day. The feature outperformed Suriya's previous release, Vishwanath and Sons, driven by strong regional contributions and high domestic occupancy."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene earned Rs 34.25 cr worldwide on day 1",
+      "Scene collected Rs 19.15 cr net in India on day 1",
+      "Domestic gross earnings for Scene reached Rs 22.25 cr",
+      "Overseas gross collection for Scene reached Rs 12 cr",
+      "Scene was released on Friday, November 6",
+      "Vishwanath and Sons earned a worldwide gross of Rs 31.74 cr on its opening day",
+      "Tamil Nadu contributed Rs 10.75 cr to the opening-day domestic gross",
+      "Kerala contributed Rs 5.75 cr to the opening-day domestic gross"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Jithu Madhavan"
+      ],
+      "titles": [
+        "Scene",
+        "Vishwanath and Sons"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Naslen film Scene",
+      "Scene day 1 collection",
+      "Scene vs Vishwanath and Sons"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135623638,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya and Naslen starrer Scene opens to strong worldwide figures",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T05:51:46+05:30"
+  },
+  "1nbzd47": {
+    "id": "1nbzd47",
+    "type": "news",
+    "headline": "Prime Video Offers Must-Watch Lineup for November Weekend Viewing",
+    "dek": "Discover three elite streaming choices available on Amazon Prime Video for the weekend of November 7-8, 2026, featuring new biographical dramas and standout series.",
+    "body": [
+      {
+        "h": "Streaming Success on Prime Video",
+        "p": [
+          "Amazon Prime Video has experienced an eventful year featuring a diverse selection of notable television projects. The streaming platform delivered major hits throughout the calendar, including returning favorites and acclaimed adaptations.",
+          "Audiences tuned in for high-profile releases ranging from superhero satire to literary adaptations. As the year approaches its final stretch, the service maintains its momentum with fresh streaming options."
+        ]
+      },
+      {
+        "h": "Spotlighting The Greatest",
+        "p": [
+          "Leading the weekend lineup is a brand-new biographical sports drama titled The Greatest. The series chronicles the remarkable journey of one of history's most celebrated boxing legends.",
+          "The narrative explores both the public triumphs and private vulnerabilities of the iconic sports figure, offering viewers a comprehensive look at an extraordinary life."
+        ]
+      },
+      {
+        "h": "Creative Team and Production",
+        "p": [
+          "The project comes from executive producer Michael B. Jordan alongside creator Ben Watkins. Their collaborative vision brings depth and authenticity to the biographical television format.",
+          "The creative team focused heavily on capturing the cultural impact and personal nuances of the legendary athlete, ensuring a respectful and detailed portrayal."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "Jaleen Best steps into the central role, capturing the distinctive physical cadence and charm of the boxing icon. Critics noted his ability to balance the fierce public persona with a quieter backstage demeanor.",
+          "The supporting cast features recognizable talents including Omari Hardwick, Dana Gourrier, Kai Parham, and Amin Joseph, who round out the ensemble."
+        ]
+      },
+      {
+        "h": "Binge-Watching Format",
+        "p": [
+          "All eight episodes of the series dropped simultaneously, giving subscribers the opportunity to watch the entire story in one sitting. This release strategy caters directly to fans looking for an immersive weekend viewing experience.",
+          "The complete season availability makes it a convenient choice for viewers wanting a continuous dramatic narrative without waiting week to week."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Prime Video highlights three notable viewing options for the weekend of November 7-8, 2026, anchored by the biographical sports drama The Greatest. Created by Ben Watkins and executive produced by Michael B. Jordan, the series stars Jaleen Best as the legendary boxing icon alongside a supporting cast of notable actors."
+        ]
+      }
+    ],
+    "facts": [
+      "The streaming recommendations are for the weekend of November 7-8, 2026.",
+      "The Greatest is a biographical series about a major sports star.",
+      "Michael B. Jordan serves as executive producer on The Greatest.",
+      "Ben Watkins is the creator of The Greatest.",
+      "Jaleen Best stars as the titular boxing icon.",
+      "The series features a total of eight episodes available all at once.",
+      "Omari Hardwick, Dana Gourrier, Kai Parham, and Amin Joseph star in the series."
+    ],
+    "entities": {
+      "people": [
+        "Jake Hodges",
+        "Selin Hizli",
+        "Rose Ayling-Ellis",
+        "Harlan Coben",
+        "Chelsea Peretti",
+        "Nick Park",
+        "Merlin Crossingham",
+        "Alan Ritchson",
+        "Eric Kripke",
+        "Mike Flanagan",
+        "Stephen King",
+        "Riz Ahmed",
+        "Jaalen Best",
+        "Jaleen Best",
+        "Victoria Luxford",
+        "Michael B. Jordan",
+        "Ben Watkins",
+        "Omari Hardwick",
+        "Dana Gourrier",
+        "Kai Parham",
+        "Amin Joseph"
+      ],
+      "titles": [
+        "Wallace and Gromit: A Vengeance Most Fowl",
+        "Reacher",
+        "The Boys",
+        "Carrie",
+        "Bait",
+        "The Greatest",
+        "All American: Homecoming",
+        "John Wick",
+        "John Wick: Chapter 4",
+        "The Fast and the Furious",
+        "Fast X",
+        "Mission: Impossible",
+        "The Final Reckoning",
+        "Die Hard",
+        "A Good Day to Die Hard"
+      ]
+    },
+    "keywords": [
+      "The Greatest Prime Video",
+      "Jaleen Best The Greatest",
+      "Michael B. Jordan Ben Watkins",
+      "Prime Video shows November"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/04/elizabeth-olsen-and-kelly-marie-tran-in-sorry-for-your-loss.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Prime Video Offers Must-Watch Lineup for November Weekend Viewing",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 00:43:12 GMT"
+  },
+  "10yemk5": {
+    "id": "10yemk5",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 Review: Nayanthara Leads Sundar C's Mythological Fantasy Sequel",
+    "dek": "Nayanthara reprises her role as Goddess Mookuthi Amman in a time-travel fantasy directed by Sundar C, arriving in theatres with a festive Diwali release.",
+    "body": [
+      {
+        "h": "Introduction and Release",
+        "p": [
+          "Mookuthi Amman 2, also known as Mookuthi Amman 2 – Maha Sakthi, arrives in theatres on Diwali with a familiar promise of divine intervention, larger-than-life villains, and an eternal battle between good and evil.",
+          "Directed by Sundar C, who takes over the directorial reins from RJ Balaji, the fantasy sequel expands the scope of the 2020 original into a multi-timeline adventure."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story opens in a historical era where an ancient queen sacrifices her life to save a young prince from invading forces, laying the foundation for Goddess Mookuthi Amman to intervene across different timelines.",
+          "Nayanthara plays the deity tasked with protecting the royal descendant while confronting a ruthless sorceress played by Regina Cassandra, who attempts to gather dark powers and unleash chaos."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "Nayanthara remains the central focus of the feature, portraying multiple avatars including the divine deity and a police officer.",
+          "Regina Cassandra establishes menace as the antagonist, alongside Duniya Vijay making his Tamil debut, while Urvashi and Yogi Babu contribute familiar supporting presence."
+        ]
+      },
+      {
+        "h": "Special Appearances and Ensemble",
+        "p": [
+          "The wider ensemble cast features performances from Abhinaya and Ramachandra Raju.",
+          "Additionally, Sneha and Khushbu Sundar make special appearances in the fantasy outing."
+        ]
+      },
+      {
+        "h": "Style and Scale",
+        "p": [
+          "The production leans heavily into its fantasy roots, combining time-travel concepts with traditional Amman mythology and drawing structural inspiration from The Terminator.",
+          "Hiphop Tamizha composes the music to support the grand tone, mixing comedy, action, and divine elements for a family audience during the holiday season."
+        ]
+      },
+      {
+        "h": "Critique and Balance",
+        "p": [
+          "Despite its ambitious scale, reviewers note that the various narrative ingredients occasionally compete for space, leaving emotional stakes regarding the queen's sacrifice underexplored.",
+          "The mixture of a royal backstory, supernatural villainy, and comedic beats prevents the complex timeline concept from achieving a seamless flow."
+        ]
+      },
+      {
+        "h": "Verdict",
+        "p": [
+          "The film earns a critic rating of 3.0, offering enough star power and festive flavor to entertain viewers seeking holiday spectacle.",
+          "Although the follow-up is not entirely seamless, Nayanthara's screen presence and imaginative premise make it a reasonably watchable outing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mookuthi Amman 2 released in theatres on Diwali under the direction of Sundar C, starring Nayanthara in multiple roles including the titular deity. The fantasy sequel blends time travel and mythology with performances from Regina Cassandra and Duniya Vijay, receiving a 3.0 critic rating upon its debut."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 released on November 6, 2026.",
+      "The film has a duration of 2 hours and 24 minutes.",
+      "The critic rating for Mookuthi Amman 2 is 3.0.",
+      "Sundar C directed Mookuthi Amman 2.",
+      "Nayanthara plays both the goddess and a police officer."
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Sundar C",
+        "RJ Balaji",
+        "Regina Cassandra",
+        "Urvashi",
+        "Yogi Babu",
+        "Duniya Vijay",
+        "Garuda Ram",
+        "Abhinaya",
+        "Ramachandra Raju",
+        "Sneha",
+        "Khushbu Sundar",
+        "Hiphop Tamizha",
+        "Simran Khan"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Mookuthi Amman 2 – Maha Sakthi",
+        "The Terminator",
+        "Mookuthi Amman"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 movie review",
+      "Nayanthara Mookuthi Amman 2",
+      "Sundar C Mookuthi Amman 2",
+      "Regina Cassandra Mookuthi Amman 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156472660,thumbsize-857739,width-1280,height-720,resizemode-75/156472660.jpg",
+        "caption": "Mookuthi Amman 2 Review: Nayanthara Leads Sundar C's Mythological Fantasy Sequel",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T01:06:49Z"
+  },
+  "1w54r7u": {
+    "id": "1w54r7u",
+    "type": "news",
+    "headline": "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'",
+    "dek": "Freida Pinto stars in the upcoming Netflix streaming adaptation based on stories by renowned author Jhumpa Lahiri.",
+    "body": [
+      {
+        "h": "First Look at the Streaming Adaptation",
+        "p": [
+          "Netflix has officially unveiled the first trailer and poster for a brand new romantic thriller series titled Unaccustomed Earth. Based on internationally beloved stories by author Jhumpa Lahiri, the dramatic project is scheduled for a global streaming debut in December this winter.",
+          "The newly released promotional footage offers audiences a glimpse into the emotional intensity and passionate narrative arc of the show, highlighting complex themes of loyalty, family secrets, and cultural belonging."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The story is set within an affluent Indian-American enclave located in Cambridge, Massachusetts. The narrative follows Parul Chaudhury, a wife and mother who previously sacrificed her first love in order to honor her father's wishes.",
+          "After receiving a life-changing cancer diagnosis, Parul decides to move her family from India back to Cambridge. Determined to pursue the life she missed out on before it is too late, her radical choices upend the community and test long-held traditions."
+        ]
+      },
+      {
+        "h": "Source Material and Authorship",
+        "p": [
+          "The series draws inspiration from Jhumpa Lahiri's celebrated 2008 short story collection of the same name. Creator and showrunner Madhuri Shekar wove together characters and narratives that originally existed across separate stories into an ongoing saga.",
+          "Author Jhumpa Lahiri praised the adaptation, noting that the series charts its own course through her stories while deftly layering themes of truth-telling, betrayal, longing, and loss."
+        ]
+      },
+      {
+        "h": "Cast and Ensemble",
+        "p": [
+          "Freida Pinto leads the ensemble cast in the central role of Parul Chaudhury. She is joined by actors Siddharth, Sarayu Blue, and Indraneil Sengupta.",
+          "The supporting cast also features Adi Roy, Jayant Kripalani, Justin Bartha, and Iyla Sundarsingh Mckaig, rounding out the multi-generational immigrant community."
+        ]
+      },
+      {
+        "h": "Direction and Creative Team",
+        "p": [
+          "The episodes for the series are directed by a talented lineup of filmmakers, including acclaimed Indian director Ritesh Batra, Tinge, Amit Gupta, and Nisha Ganatra.",
+          "The production is backed by Warner Bros TV, with writing credits shared by Madhuri Shekar and John Wells. Executive producers include Shekar, Wells, Lahiri, Ganatra, Erica Saleh, Erin Jontow, and Celia Costas."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Fans waiting to watch the romantic thriller can mark their calendars for December 17th, 2026. Netflix will premiere the series for streaming worldwide on this date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the official trailer for Unaccustomed Earth, a romantic thriller series based on Jhumpa Lahiri's stories and starring Freida Pinto. Created by Madhuri Shekar, the drama focuses on a woman who relocates her family to Cambridge, Massachusetts following a cancer diagnosis. The series is set to stream worldwide starting on December 17th, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The series is titled Unaccustomed Earth.",
+      "Freida Pinto stars as Parul Chaudhury.",
+      "The streaming release date is December 17th, 2026.",
+      "The show is based on stories by Jhumpa Lahiri.",
+      "Madhuri Shekar created and showran the series."
+    ],
+    "entities": {
+      "people": [
+        "Freida Pinto",
+        "Siddharth",
+        "Sarayu Blue",
+        "Indraneil Sengupta",
+        "Adi Roy",
+        "Jayant Kripalani",
+        "Justin Bartha",
+        "Iyla Sundarsingh Mckaig",
+        "Ritesh Batra",
+        "Jhumpa Lahiri",
+        "Madhuri Shekar",
+        "John Wells",
+        "Amit Gupta",
+        "Nisha Ganatra",
+        "Erica Saleh",
+        "Erin Jontow",
+        "Celia Costas"
+      ],
+      "titles": [
+        "Unaccustomed Earth",
+        "The Lunchbox",
+        "Our Souls at Night",
+        "Photograph",
+        "3 Body Problem",
+        "The Nevers"
+      ]
+    },
+    "keywords": [
+      "Unaccustomed Earth series",
+      "Freida Pinto Netflix",
+      "Unaccustomed Earth trailer",
+      "Jhumpa Lahiri adaptation",
+      "Madhuri Shekar Unaccustomed Earth"
+    ],
+    "images": [
+      {
+        "url": "https://media2.firstshowing.net/firstshowing/img18/unaccustomedearthpostermaintw1.jpg",
+        "caption": "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'",
+        "source": "FirstShowing.net"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 00:14:11 +0000"
   }
 };
