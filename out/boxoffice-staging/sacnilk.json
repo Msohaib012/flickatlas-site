@@ -1043,6 +1043,14 @@
    "occupancy_pct": 23.0,
    "shows": 185,
    "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.33,
+   "date": "2026-11-07",
+   "day": 16,
+   "occupancy_pct": 36.0,
+   "shows": 191,
+   "source": "sacnilk"
   }
  ],
  "1389379": [
@@ -1224,6 +1232,14 @@
    "occupancy_pct": 22.0,
    "shows": 18,
    "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.01,
+   "date": "2026-11-07",
+   "day": 23,
+   "occupancy_pct": 22.0,
+   "shows": 22,
+   "source": "sacnilk"
   }
  ],
  "1400940": [
@@ -1345,6 +1361,14 @@
    "day": 15,
    "occupancy_pct": 43.0,
    "shows": 10,
+   "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.03,
+   "date": "2026-11-03",
+   "day": 16,
+   "occupancy_pct": 58.0,
+   "shows": 11,
    "source": "sacnilk"
   }
  ],
@@ -1779,6 +1803,14 @@
    "day": 13,
    "occupancy_pct": 10.0,
    "shows": 35,
+   "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.01,
+   "date": "2026-11-07",
+   "day": 16,
+   "occupancy_pct": 57.0,
+   "shows": 1,
    "source": "sacnilk"
   }
  ],
@@ -2522,6 +2554,14 @@
    "occupancy_pct": 20.0,
    "shows": 36,
    "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.01,
+   "date": "2026-11-07",
+   "day": 16,
+   "occupancy_pct": 64.0,
+   "shows": 1,
+   "source": "sacnilk"
   }
  ],
  "1606527": [
@@ -2647,6 +2687,14 @@
    "day": 15,
    "occupancy_pct": 24.8,
    "shows": 13,
+   "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.02,
+   "date": "2026-11-07",
+   "day": 16,
+   "occupancy_pct": 29.8,
+   "shows": 12,
    "source": "sacnilk"
   }
  ],
@@ -3562,6 +3610,14 @@
    "occupancy_pct": 20.0,
    "shows": 66,
    "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.11,
+   "date": "2026-11-07",
+   "day": 9,
+   "occupancy_pct": 32.0,
+   "shows": 75,
+   "source": "sacnilk"
   }
  ],
  "1377237": [
@@ -3790,6 +3846,14 @@
    "date": "2026-11-06",
    "day": 8,
    "occupancy_pct": 26.0,
+   "shows": 2,
+   "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.01,
+   "date": "2026-11-07",
+   "day": 9,
+   "occupancy_pct": 80.0,
    "shows": 2,
    "source": "sacnilk"
   }
@@ -4408,11 +4472,11 @@
    "source": "sacnilk"
   },
   {
-   "collection_inr_cr": 2.2,
+   "collection_inr_cr": 2.45,
    "date": "2026-11-07",
    "day": 2,
-   "occupancy_pct": 30.5,
-   "shows": 1922,
+   "occupancy_pct": 31.7,
+   "shows": 1910,
    "source": "sacnilk"
   }
  ],
@@ -4430,9 +4494,9 @@
    "collection_inr_cr": 20.25,
    "date": "2026-11-07",
    "day": 2,
-   "occupancy_pct": 60.7,
+   "occupancy_pct": 62.5,
    "overseas_inr_cr": 18.0,
-   "shows": 5637,
+   "shows": 5687,
    "source": "sacnilk"
   }
  ],
@@ -4446,11 +4510,11 @@
    "source": "sacnilk"
   },
   {
-   "collection_inr_cr": 0.22,
+   "collection_inr_cr": 0.24,
    "date": "2026-11-07",
    "day": 2,
-   "occupancy_pct": 9.0,
-   "shows": 849,
+   "occupancy_pct": 10.0,
+   "shows": 850,
    "source": "sacnilk"
   }
  ],
@@ -4461,6 +4525,14 @@
    "day": 1,
    "occupancy_pct": 6.2,
    "shows": 586,
+   "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.24,
+   "date": "2026-11-05",
+   "day": 2,
+   "occupancy_pct": 10.1,
+   "shows": 533,
    "source": "sacnilk"
   }
  ],
@@ -4545,9 +4617,27 @@
    "collection_inr_cr": 69.8,
    "date": "2026-11-07",
    "day": 3,
-   "occupancy_pct": 40.3,
+   "occupancy_pct": 41.3,
    "overseas_inr_cr": 60.0,
-   "shows": 23647,
+   "shows": 23696,
+   "source": "sacnilk"
+  }
+ ],
+ "1803837": [
+  {
+   "collection_inr_cr": 0.16,
+   "date": "2026-11-06",
+   "day": 1,
+   "occupancy_pct": 14.0,
+   "shows": 383,
+   "source": "sacnilk"
+  },
+  {
+   "collection_inr_cr": 0.17,
+   "date": "2026-11-07",
+   "day": 2,
+   "occupancy_pct": 17.0,
+   "shows": 321,
    "source": "sacnilk"
   }
  ]

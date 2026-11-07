@@ -10,7 +10,7 @@
    "name": "Bollywood Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=bollywood"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Bollywood Movies &amp; TV Shows</h1>\n<p>Browse Bollywood films and Indian-language cinema, plus related TV titles. Explore available cast, story and release details on FlickAtlas.</p>\n<h2>Latest covered titles</h2>\n<ul><li>King (2026)</li><li>Appa Kutty (2026)</li><li>Parivarik ManuRanjan (2026)</li><li>Mrigaya 1.5: The Hunt Continues (2026)</li><li>Melcow Pondicherry (2026)</li><li>Lambodhara 2.0 (2026)</li><li>Itllu Arjuna (2026)</li><li>Donga Naa Koduku (2026)</li><li>Dark Chocolate (2026)</li><li>Black Gold (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Bollywood Movies &amp; TV Shows</h1>\n<p>Browse Bollywood films and Indian-language cinema, plus related TV titles. Explore available cast, story and release details on FlickAtlas.</p>\n<h2>Latest covered titles</h2>\n<ul><li>King (2026)</li><li>Appa Kutty (2026)</li><li>The Boy With The Balloon Heart (2026)</li><li>Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026)</li><li>Parivarik ManuRanjan (2026)</li><li>Mrigaya 1.5: The Hunt Continues (2026)</li><li>Melcow Pondicherry (2026)</li><li>Lambodhara 2.0 (2026)</li><li>Itllu Arjuna (2026)</li><li>Donga Naa Koduku (2026)</li></ul>\n</article>",
   "t": "Bollywood Movies & TV Shows | FlickAtlas"
  },
  "cat:pakistani": {
@@ -38,7 +38,7 @@
    "name": "World Cinema Movies & TV Shows",
    "url": "https://flickatlas.co.uk/category?cat=world"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>The Liberation (2027)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>Tsuri Komachi (2026)</li><li>Hexed (2026)</li><li>The Hunger Games: Sunrise on the Reaping (2026)</li><li>向阳青春 (2026)</li><li>ทิวลิบไม่เคยไกล: การเดินทางของ กิตติศักดิ์ สุวรรณโภคิน (2026)</li><li>The Voicenote (2026)</li><li>The 16th Goddesses of Stardom Tag League Tournament in Matsuyama-Ehime (2026)</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>World Cinema Movies &amp; TV Shows</h1>\n<p>Browse international films and television series on FlickAtlas, including Hollywood titles. Explore available cast, story and release information.</p>\n<h2>Latest covered titles</h2>\n<ul><li>The Liberation (2027)</li><li>Dune: Part Three (2026)</li><li>Avengers: Doomsday (2026)</li><li>Tsuri Komachi (2026)</li><li>Hexed (2026)</li><li>The Hunger Games: Sunrise on the Reaping (2026)</li><li>向阳青春 (2026)</li><li>ทิวลิบไม่เคยไกล: การเดินทางของ กิตติศักดิ์ สุวรรณโภคิน (2026)</li><li>The Voicenote (2026)</li><li>The Border Czar (2026)</li></ul>\n</article>",
   "t": "World Cinema Movies & TV Shows | FlickAtlas"
  },
  "daywise:1081010": {
@@ -105,19 +105,24 @@
   "year": "2026"
  },
  "daywise:1117898": {
-  "d": "The Cat in the Hat (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $13.7k.",
+  "d": "The Cat in the Hat (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $39.1k.",
   "day_rows": [
    {
     "d": "The Cat in the Hat (2026) box office Day 1 (2026-11-04): India Net $13.7k.",
     "date": "2026-11-04",
     "day": 1
+   },
+   {
+    "d": "The Cat in the Hat (2026) box office Day 2 (2026-11-05): India Net $25.4k.",
+    "date": "2026-11-05",
+    "day": 2
    }
   ],
-  "days": 1,
+  "days": 2,
   "img": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
   "k": "The Cat in the Hat, The Cat in the Hat box office collection, The Cat in the Hat box office collection day wise, The Cat in the Hat day 1 collection, box office collection, FlickAtlas",
-  "latest_date": "2026-11-04",
-  "latest_day": "Day 1",
+  "latest_date": "2026-11-05",
+  "latest_day": "Day 2",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
@@ -128,7 +133,7 @@
     "ratingValue": 7.7,
     "worstRating": 0
    },
-   "description": "The Cat in the Hat (2026): Animation/Comedy film. Story: Assigned his toughest mission yet, the Cat must cheer… See cast and box office collection $13.7k.",
+   "description": "The Cat in the Hat (2026): Animation/Comedy film. Story: Assigned his toughest mission yet, the Cat must cheer… See cast and box office collection $39.1k.",
    "duration": "PT108M",
    "genre": [
     "Animation",
@@ -143,9 +148,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1117898"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>The Cat in the Hat (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $13.7k</li><li>Latest reported day: Day 1 — 4 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-04</td><td>$13.7k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Cat in the Hat (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $39.1k</li><li>Latest reported day: Day 2 — 5 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-04</td><td>$13.7k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-11-05</td><td>$25.4k</td><td>—</td></tr></table>\n</article>",
   "t": "The Cat in the Hat (2026)",
-  "total_in": 13735.0,
+  "total_in": 39092.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -365,7 +370,7 @@
   "year": "2026"
  },
  "daywise:1234139": {
-  "d": "Jailer 2 (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $42.06M. Overseas total: $28.13M.",
+  "d": "Jailer 2 (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $42.09M. Overseas total: $28.13M.",
   "day_rows": [
    {
     "d": "Jailer 2 (2026) box office Day 1 (2026-10-15): India Net $5.27M. Overseas: $6.02M.",
@@ -478,12 +483,12 @@
     "day": 22
    },
    {
-    "d": "Jailer 2 (2026) box office Day 23 (2026-11-06): India Net $48.0k.",
+    "d": "Jailer 2 (2026) box office Day 23 (2026-11-06): India Net $51.3k.",
     "date": "2026-11-06",
     "day": 23
    },
    {
-    "d": "Jailer 2 (2026) box office Day 24 (2026-11-07): India Net $43.3k.",
+    "d": "Jailer 2 (2026) box office Day 24 (2026-11-07): India Net $68.1k.",
     "date": "2026-11-07",
     "day": 24
    }
@@ -503,7 +508,7 @@
     "ratingValue": 8.0,
     "worstRating": 0
    },
-   "description": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate expands its reach to… See cast and box office collection $42.06M, overseas $28.13M.",
+   "description": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate expands its reach to… See cast and box office collection $42.09M, overseas $28.13M.",
    "duration": "PT163M",
    "genre": [
     "Action",
@@ -531,9 +536,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1234139"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Jailer 2 (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $42.06M</li><li>Overseas total: $28.13M</li><li>Latest reported day: Day 24 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-15</td><td>$5.27M</td><td>$6.02M</td></tr><tr><td>Day 2</td><td>2026-10-16</td><td>$3.33M</td><td>$4.54M</td></tr><tr><td>Day 3</td><td>2026-10-17</td><td>$4.22M</td><td>$5.39M</td></tr><tr><td>Day 4</td><td>2026-10-18</td><td>$4.99M</td><td>$3.59M</td></tr><tr><td>Day 5</td><td>2026-10-19</td><td>$3.79M</td><td>$950.9k</td></tr><tr><td>Day 6</td><td>2026-10-20</td><td>$4.19M</td><td>$1.06M</td></tr><tr><td>Day 7</td><td>2026-10-21</td><td>$2.53M</td><td>$686.7k</td></tr><tr><td>Day 8</td><td>2026-10-22</td><td>$1.54M</td><td>$528.3k</td></tr><tr><td>Day 9</td><td>2026-10-23</td><td>$1.15M</td><td>$713.2k</td></tr><tr><td>Day 10</td><td>2026-10-24</td><td>$2.63M</td><td>$1.37M</td></tr><tr><td>Day 11</td><td>2026-10-25</td><td>$2.06M</td><td>$1.27M</td></tr><tr><td>Day 12</td><td>2026-10-26</td><td>$881.0k</td><td>$264.1k</td></tr><tr><td>Day 13</td><td>2026-10-27</td><td>$762.5k</td><td>$211.3k</td></tr><tr><td>Day 14</td><td>2026-10-28</td><td>$597.4k</td><td>$264.1k</td></tr><tr><td>Day 15</td><td>2026-10-29</td><td>$572.0k</td><td>$211.3k</td></tr><tr><td>Day 16</td><td>2026-10-30</td><td>$517.8k</td><td>$317.0k</td></tr><tr><td>Day 17</td><td>2026-10-31</td><td>$872.7k</td><td>$317.0k</td></tr><tr><td>Day 18</td><td>2026-11-01</td><td>$995.7k</td><td>$317.0k</td></tr><tr><td>Day 19</td><td>2026-11-02</td><td>$323.5k</td><td>—</td></tr><tr><td>Day 20</td><td>2026-11-03</td><td>$317.2k</td><td>$105.7k</td></tr><tr><td>Day 21</td><td>2026-11-04</td><td>$281.2k</td><td>—</td></tr><tr><td>Day 22</td><td>2026-11-05</td><td>$135.9k</td><td>—</td></tr><tr><td>Day 23</td><td>2026-11-06</td><td>$48.0k</td><td>—</td></tr><tr><td>Day 24</td><td>2026-11-07</td><td>$43.3k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Jailer 2 (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $42.09M</li><li>Overseas total: $28.13M</li><li>Latest reported day: Day 24 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-15</td><td>$5.27M</td><td>$6.02M</td></tr><tr><td>Day 2</td><td>2026-10-16</td><td>$3.33M</td><td>$4.54M</td></tr><tr><td>Day 3</td><td>2026-10-17</td><td>$4.22M</td><td>$5.39M</td></tr><tr><td>Day 4</td><td>2026-10-18</td><td>$4.99M</td><td>$3.59M</td></tr><tr><td>Day 5</td><td>2026-10-19</td><td>$3.79M</td><td>$950.9k</td></tr><tr><td>Day 6</td><td>2026-10-20</td><td>$4.19M</td><td>$1.06M</td></tr><tr><td>Day 7</td><td>2026-10-21</td><td>$2.53M</td><td>$686.7k</td></tr><tr><td>Day 8</td><td>2026-10-22</td><td>$1.54M</td><td>$528.3k</td></tr><tr><td>Day 9</td><td>2026-10-23</td><td>$1.15M</td><td>$713.2k</td></tr><tr><td>Day 10</td><td>2026-10-24</td><td>$2.63M</td><td>$1.37M</td></tr><tr><td>Day 11</td><td>2026-10-25</td><td>$2.06M</td><td>$1.27M</td></tr><tr><td>Day 12</td><td>2026-10-26</td><td>$881.0k</td><td>$264.1k</td></tr><tr><td>Day 13</td><td>2026-10-27</td><td>$762.5k</td><td>$211.3k</td></tr><tr><td>Day 14</td><td>2026-10-28</td><td>$597.4k</td><td>$264.1k</td></tr><tr><td>Day 15</td><td>2026-10-29</td><td>$572.0k</td><td>$211.3k</td></tr><tr><td>Day 16</td><td>2026-10-30</td><td>$517.8k</td><td>$317.0k</td></tr><tr><td>Day 17</td><td>2026-10-31</td><td>$872.7k</td><td>$317.0k</td></tr><tr><td>Day 18</td><td>2026-11-01</td><td>$995.7k</td><td>$317.0k</td></tr><tr><td>Day 19</td><td>2026-11-02</td><td>$323.5k</td><td>—</td></tr><tr><td>Day 20</td><td>2026-11-03</td><td>$317.2k</td><td>$105.7k</td></tr><tr><td>Day 21</td><td>2026-11-04</td><td>$281.2k</td><td>—</td></tr><tr><td>Day 22</td><td>2026-11-05</td><td>$135.9k</td><td>—</td></tr><tr><td>Day 23</td><td>2026-11-06</td><td>$51.3k</td><td>—</td></tr><tr><td>Day 24</td><td>2026-11-07</td><td>$68.1k</td><td>—</td></tr></table>\n</article>",
   "t": "Jailer 2 (2026)",
-  "total_in": 42064236.0,
+  "total_in": 42092446.0,
   "total_ov": 28129953.0,
   "year": "2026"
  },
@@ -736,7 +741,7 @@
   },
   "ssr": "<article class=\"ssr-facts\">\n<h1>Drishyam: The Conclusion (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $39.81M</li><li>Overseas total: $13.57M</li><li>Latest reported day: Day 37 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-02</td><td>$5.97M</td><td>$1.77M</td></tr><tr><td>Day 2</td><td>2026-10-03</td><td>$5.58M</td><td>$2.27M</td></tr><tr><td>Day 3</td><td>2026-10-04</td><td>$6.58M</td><td>$2.22M</td></tr><tr><td>Day 4</td><td>2026-10-05</td><td>$2.23M</td><td>$1M</td></tr><tr><td>Day 5</td><td>2026-10-06</td><td>$2.09M</td><td>$950.9k</td></tr><tr><td>Day 6</td><td>2026-10-07</td><td>$1.66M</td><td>$475.4k</td></tr><tr><td>Day 7</td><td>2026-10-08</td><td>$1.39M</td><td>$422.6k</td></tr><tr><td>Day 8</td><td>2026-10-09</td><td>$1.57M</td><td>$633.9k</td></tr><tr><td>Day 9</td><td>2026-10-10</td><td>$2.87M</td><td>$845.2k</td></tr><tr><td>Day 10</td><td>2026-10-11</td><td>$2.42M</td><td>$633.9k</td></tr><tr><td>Day 11</td><td>2026-10-12</td><td>$640.0k</td><td>$369.8k</td></tr><tr><td>Day 12</td><td>2026-10-13</td><td>$861.3k</td><td>$317.0k</td></tr><tr><td>Day 13</td><td>2026-10-14</td><td>$551.7k</td><td>$145.8k</td></tr><tr><td>Day 14</td><td>2026-10-15</td><td>$450.1k</td><td>$158.5k</td></tr><tr><td>Day 15</td><td>2026-10-16</td><td>$327.3k</td><td>$237.7k</td></tr><tr><td>Day 16</td><td>2026-10-17</td><td>$545.2k</td><td>$317.0k</td></tr><tr><td>Day 17</td><td>2026-10-18</td><td>$664.6k</td><td>$290.5k</td></tr><tr><td>Day 18</td><td>2026-10-19</td><td>$371.7k</td><td>$52.8k</td></tr><tr><td>Day 19</td><td>2026-10-20</td><td>$655.9k</td><td>$79.2k</td></tr><tr><td>Day 20</td><td>2026-10-21</td><td>$275.5k</td><td>$52.8k</td></tr><tr><td>Day 21</td><td>2026-10-22</td><td>$214.5k</td><td>$52.8k</td></tr><tr><td>Day 22</td><td>2026-10-23</td><td>$148.7k</td><td>$52.8k</td></tr><tr><td>Day 23</td><td>2026-10-24</td><td>$296.2k</td><td>$79.2k</td></tr><tr><td>Day 24</td><td>2026-10-25</td><td>$321.4k</td><td>$52.8k</td></tr><tr><td>Day 25</td><td>2026-10-26</td><td>$114.5k</td><td>$28.5k</td></tr><tr><td>Day 26</td><td>2026-10-27</td><td>$135.4k</td><td>$26.4k</td></tr><tr><td>Day 27</td><td>2026-10-28</td><td>$96.8k</td><td>$15.8k</td></tr><tr><td>Day 28</td><td>2026-10-29</td><td>$95.5k</td><td>$15.8k</td></tr><tr><td>Day 29</td><td>2026-10-30</td><td>$108.4k</td><td>—</td></tr><tr><td>Day 30</td><td>2026-10-31</td><td>$174.7k</td><td>—</td></tr></table>\n</article>",
   "t": "Drishyam: The Conclusion (2026)",
-  "total_in": 39812357.0,
+  "total_in": 39814787.0,
   "total_ov": 13571049.0,
   "year": "2026"
  },
@@ -1002,7 +1007,7 @@
   "year": "2026"
  },
  "daywise:1327835": {
-  "d": "Mookuthi Amman 2 (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $431.1k.",
+  "d": "Mookuthi Amman 2 (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $457.5k.",
   "day_rows": [
    {
     "d": "Mookuthi Amman 2 (2026) box office Day 1 (2026-11-06): India Net $198.6k.",
@@ -1010,7 +1015,7 @@
     "day": 1
    },
    {
-    "d": "Mookuthi Amman 2 (2026) box office Day 2 (2026-11-07): India Net $232.4k.",
+    "d": "Mookuthi Amman 2 (2026) box office Day 2 (2026-11-07): India Net $258.8k.",
     "date": "2026-11-07",
     "day": 2
    }
@@ -1023,7 +1028,7 @@
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Mookuthi Amman 2 (2026): Fantasy/Drama film. Story: A queen sacrifices herself to protect her son, the… See cast and box office collection $431.1k.",
+   "description": "Mookuthi Amman 2 (2026): Fantasy/Drama film. Story: A queen sacrifices herself to protect her son, the… See cast and box office collection $457.5k.",
    "duration": "PT144M",
    "genre": [
     "Fantasy",
@@ -1038,14 +1043,14 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1327835"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Mookuthi Amman 2 (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $431.1k</li><li>Latest reported day: Day 2 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-06</td><td>$198.6k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-11-07</td><td>$232.4k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Mookuthi Amman 2 (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $457.5k</li><li>Latest reported day: Day 2 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-06</td><td>$198.6k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-11-07</td><td>$258.8k</td><td>—</td></tr></table>\n</article>",
   "t": "Mookuthi Amman 2 (2026)",
-  "total_in": 431062.0,
+  "total_in": 457475.0,
   "total_ov": 0.0,
   "year": "2026"
  },
  "daywise:1374689": {
-  "d": "Pyre (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $163.2k.",
+  "d": "Pyre (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $174.9k.",
   "day_rows": [
    {
     "d": "Pyre (2026) box office Day 1 (2026-10-30): India Net $11.1k.",
@@ -1086,17 +1091,22 @@
     "d": "Pyre (2026) box office Day 8 (2026-11-06): India Net $6.3k.",
     "date": "2026-11-06",
     "day": 8
+   },
+   {
+    "d": "Pyre (2026) box office Day 9 (2026-11-07): India Net $11.6k.",
+    "date": "2026-11-07",
+    "day": 9
    }
   ],
-  "days": 8,
+  "days": 9,
   "img": "https://image.tmdb.org/t/p/w780/2IOQb9cl99JHgyTLCdyRXniT4Ew.jpg",
   "k": "Pyre, Pyre box office collection, Pyre box office collection day wise, Pyre day 1 collection, Bollywood box office collection, FlickAtlas",
-  "latest_date": "2026-11-06",
-  "latest_day": "Day 8",
+  "latest_date": "2026-11-07",
+  "latest_day": "Day 9",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Pyre (2026): Drama film. Story: In the Himalayan Mountain range, a rural village… See cast, box office collection $163.2k, and review 8.5/10.",
+   "description": "Pyre (2026): Drama film. Story: In the Himalayan Mountain range, a rural village… See cast, box office collection $174.9k, and review 8.5/10.",
    "duration": "PT111M",
    "genre": [
     "Drama"
@@ -1123,14 +1133,14 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1374689"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Pyre (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $163.2k</li><li>Latest reported day: Day 8 — 6 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-30</td><td>$11.1k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-31</td><td>$28.0k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-11-01</td><td>$52.3k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-11-02</td><td>$18.0k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-11-03</td><td>$21.7k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-11-04</td><td>$19.5k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-11-05</td><td>$6.3k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-11-06</td><td>$6.3k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Pyre (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $174.9k</li><li>Latest reported day: Day 9 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-30</td><td>$11.1k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-31</td><td>$28.0k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-11-01</td><td>$52.3k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-11-02</td><td>$18.0k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-11-03</td><td>$21.7k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-11-04</td><td>$19.5k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-11-05</td><td>$6.3k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-11-06</td><td>$6.3k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-11-07</td><td>$11.6k</td><td>—</td></tr></table>\n</article>",
   "t": "Pyre (2026)",
-  "total_in": 163234.0,
+  "total_in": 174856.0,
   "total_ov": 0.0,
   "year": "2026"
  },
  "daywise:1375156": {
-  "d": "Udta Teer (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $5.04M. Overseas total: $1.15M.",
+  "d": "Udta Teer (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $5.05M. Overseas total: $1.15M.",
   "day_rows": [
    {
     "d": "Udta Teer (2026) box office Day 1 (2026-10-23): India Net $432.3k. Overseas: $158.5k.",
@@ -1198,17 +1208,17 @@
     "day": 13
    },
    {
-    "d": "Udta Teer (2026) box office Day 14 (2026-11-05): India Net $18.3k.",
+    "d": "Udta Teer (2026) box office Day 14 (2026-11-05): India Net $17.2k.",
     "date": "2026-11-05",
     "day": 14
    },
    {
-    "d": "Udta Teer (2026) box office Day 15 (2026-11-06): India Net $16.5k.",
+    "d": "Udta Teer (2026) box office Day 15 (2026-11-06): India Net $18.0k.",
     "date": "2026-11-06",
     "day": 15
    },
    {
-    "d": "Udta Teer (2026) box office Day 16 (2026-11-07): India Net $24.3k.",
+    "d": "Udta Teer (2026) box office Day 16 (2026-11-07): India Net $31.0k.",
     "date": "2026-11-07",
     "day": 16
    }
@@ -1228,7 +1238,7 @@
     "ratingValue": 7.8,
     "worstRating": 0
    },
-   "description": "Udta Teer (2026): Comedy/Action film. Story: An amnesiac Pakistani spy wakes up believing he is a… See cast and box office collection $5.04M, overseas $1.15M.",
+   "description": "Udta Teer (2026): Comedy/Action film. Story: An amnesiac Pakistani spy wakes up believing he is a… See cast and box office collection $5.05M, overseas $1.15M.",
    "duration": "PT137M",
    "genre": [
     "Comedy",
@@ -1256,9 +1266,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1375156"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Udta Teer (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $5.04M</li><li>Overseas total: $1.15M</li><li>Latest reported day: Day 16 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$432.3k</td><td>$158.5k</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$776.2k</td><td>$211.3k</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$878.9k</td><td>$202.9k</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$343.3k</td><td>$105.7k</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$343.1k</td><td>$105.7k</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$288.0k</td><td>$79.2k</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$261.3k</td><td>$52.8k</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$305.0k</td><td>$79.2k</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$439.2k</td><td>$79.2k</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$465.4k</td><td>$79.2k</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$148.1k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$171.5k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$132.4k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-05</td><td>$18.3k</td><td>—</td></tr><tr><td>Day 15</td><td>2026-11-06</td><td>$16.5k</td><td>—</td></tr><tr><td>Day 16</td><td>2026-11-07</td><td>$24.3k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Udta Teer (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $5.05M</li><li>Overseas total: $1.15M</li><li>Latest reported day: Day 16 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$432.3k</td><td>$158.5k</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$776.2k</td><td>$211.3k</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$878.9k</td><td>$202.9k</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$343.3k</td><td>$105.7k</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$343.1k</td><td>$105.7k</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$288.0k</td><td>$79.2k</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$261.3k</td><td>$52.8k</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$305.0k</td><td>$79.2k</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$439.2k</td><td>$79.2k</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$465.4k</td><td>$79.2k</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$148.1k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$171.5k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$132.4k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-05</td><td>$17.2k</td><td>—</td></tr><tr><td>Day 15</td><td>2026-11-06</td><td>$18.0k</td><td>—</td></tr><tr><td>Day 16</td><td>2026-11-07</td><td>$31.0k</td><td>—</td></tr></table>\n</article>",
   "t": "Udta Teer (2026)",
-  "total_in": 5043739.0,
+  "total_in": 5050817.0,
   "total_ov": 1153723.0,
   "year": "2026"
  },
@@ -1699,7 +1709,7 @@
   "year": "2026"
  },
  "daywise:1400940": {
-  "d": "Clayface (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $583.5k.",
+  "d": "Clayface (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $586.7k.",
   "day_rows": [
    {
     "d": "Clayface (2026) box office Day 1 (2026-10-19): India Net $70.5k.",
@@ -1775,13 +1785,18 @@
     "d": "Clayface (2026) box office Day 15 (2026-11-02): India Net $2.1k.",
     "date": "2026-11-02",
     "day": 15
+   },
+   {
+    "d": "Clayface (2026) box office Day 16 (2026-11-03): India Net $3.2k.",
+    "date": "2026-11-03",
+    "day": 16
    }
   ],
-  "days": 15,
+  "days": 16,
   "img": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
   "k": "Clayface, Clayface box office collection, Clayface box office collection day wise, Clayface day 1 collection, box office collection, FlickAtlas",
-  "latest_date": "2026-11-02",
-  "latest_day": "Day 15",
+  "latest_date": "2026-11-03",
+  "latest_day": "Day 16",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
@@ -1792,7 +1807,7 @@
     "ratingValue": 7.6,
     "worstRating": 0
    },
-   "description": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, box office collection $583.5k, and budget $44M.",
+   "description": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, box office collection $586.7k, and budget $44M.",
    "duration": "PT109M",
    "genre": [
     "Horror",
@@ -1820,9 +1835,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1400940"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Clayface (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $583.5k</li><li>Latest reported day: Day 15 — 2 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-19</td><td>$70.5k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-20</td><td>$101.7k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-10-21</td><td>$96.5k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-10-22</td><td>$34.9k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-10-23</td><td>$44.4k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-10-24</td><td>$31.0k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-10-25</td><td>$30.3k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$24.3k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-10-27</td><td>$45.4k</td><td>—</td></tr><tr><td>Day 10</td><td>2026-10-28</td><td>$48.6k</td><td>—</td></tr><tr><td>Day 11</td><td>2026-10-29</td><td>$14.8k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-10-30</td><td>$20.1k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-10-31</td><td>$16.9k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-01</td><td>$2.1k</td><td>—</td></tr><tr><td>Day 15</td><td>2026-11-02</td><td>$2.1k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Clayface (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $586.7k</li><li>Latest reported day: Day 16 — 3 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-19</td><td>$70.5k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-20</td><td>$101.7k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-10-21</td><td>$96.5k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-10-22</td><td>$34.9k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-10-23</td><td>$44.4k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-10-24</td><td>$31.0k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-10-25</td><td>$30.3k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$24.3k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-10-27</td><td>$45.4k</td><td>—</td></tr><tr><td>Day 10</td><td>2026-10-28</td><td>$48.6k</td><td>—</td></tr><tr><td>Day 11</td><td>2026-10-29</td><td>$14.8k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-10-30</td><td>$20.1k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-10-31</td><td>$16.9k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-01</td><td>$2.1k</td><td>—</td></tr><tr><td>Day 15</td><td>2026-11-02</td><td>$2.1k</td><td>—</td></tr><tr><td>Day 16</td><td>2026-11-03</td><td>$3.2k</td><td>—</td></tr></table>\n</article>",
   "t": "Clayface (2026)",
-  "total_in": 583517.0,
+  "total_in": 586687.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -2524,7 +2539,7 @@
   "year": "2026"
  },
  "daywise:1497970": {
-  "d": "Tom and Jerry: Forbidden Compass (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $82.4k.",
+  "d": "Tom and Jerry: Forbidden Compass (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $83.5k.",
   "day_rows": [
    {
     "d": "Tom and Jerry: Forbidden Compass (2026) box office Day 1 (2026-10-23): India Net $8.5k.",
@@ -2590,13 +2605,18 @@
     "d": "Tom and Jerry: Forbidden Compass (2026) box office Day 13 (2026-11-04): India Net $1.1k.",
     "date": "2026-11-04",
     "day": 13
+   },
+   {
+    "d": "Tom and Jerry: Forbidden Compass (2026) box office Day 16 (2026-11-07): India Net $1.1k.",
+    "date": "2026-11-07",
+    "day": 16
    }
   ],
-  "days": 13,
+  "days": 14,
   "img": "https://image.tmdb.org/t/p/w780/9VM1KI9sVZETl0d00FK7CnBzxiw.jpg",
   "k": "Tom and Jerry: Forbidden Compass, Tom and Jerry: Forbidden Compass box office collection, Tom and Jerry: Forbidden Compass box office collection day wise, Tom and Jerry: Forbidden Compass day 1 collection, box office collection, FlickAtlas",
-  "latest_date": "2026-11-04",
-  "latest_day": "Day 13",
+  "latest_date": "2026-11-07",
+  "latest_day": "Day 16",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
@@ -2635,9 +2655,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1497970"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Tom and Jerry: Forbidden Compass (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $82.4k</li><li>Latest reported day: Day 13 — 4 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$21.1k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$26.4k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$4.2k</td><td>—</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$1.1k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Tom and Jerry: Forbidden Compass (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $83.5k</li><li>Latest reported day: Day 16 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$21.1k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$26.4k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$4.2k</td><td>—</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 16</td><td>2026-11-07</td><td>$1.1k</td><td>—</td></tr></table>\n</article>",
   "t": "Tom and Jerry: Forbidden Compass (2026)",
-  "total_in": 82412.0,
+  "total_in": 83469.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -3048,7 +3068,7 @@
   "year": "2026"
  },
  "daywise:1593350": {
-  "d": "Haiku (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $241.9k.",
+  "d": "Haiku (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $243.0k.",
   "day_rows": [
    {
     "d": "Haiku (2026) box office Day 1 (2026-10-23): India Net $35.9k.",
@@ -3119,17 +3139,22 @@
     "d": "Haiku (2026) box office Day 14 (2026-11-05): India Net $1.1k.",
     "date": "2026-11-05",
     "day": 14
+   },
+   {
+    "d": "Haiku (2026) box office Day 16 (2026-11-07): India Net $1.1k.",
+    "date": "2026-11-07",
+    "day": 16
    }
   ],
-  "days": 14,
+  "days": 15,
   "img": "https://image.tmdb.org/t/p/w780/40bzHa8LA48yUbXeh6TACnUcOu3.jpg",
   "k": "Haiku, Haiku box office collection, Haiku box office collection day wise, Haiku day 1 collection, box office collection, FlickAtlas",
-  "latest_date": "2026-11-05",
-  "latest_day": "Day 14",
+  "latest_date": "2026-11-07",
+  "latest_day": "Day 16",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Haiku (2026): Romance/Comedy film. Story: Haiku is a heartfelt romantic drama about second… See cast, box office collection $241.9k, and review 7/10.",
+   "description": "Haiku (2026): Romance/Comedy film. Story: Haiku is a heartfelt romantic drama about second… See cast, box office collection $243.0k, and review 7/10.",
    "duration": "PT143M",
    "genre": [
     "Romance",
@@ -3157,9 +3182,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1593350"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Haiku (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $241.9k</li><li>Latest reported day: Day 14 — 5 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$35.9k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$38.0k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$35.9k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$26.4k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$25.4k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$26.4k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$22.2k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$7.4k</td><td>—</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$7.4k</td><td>—</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$4.2k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-05</td><td>$1.1k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Haiku (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $243.0k</li><li>Latest reported day: Day 16 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$35.9k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$38.0k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$35.9k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$26.4k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$25.4k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$26.4k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$22.2k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$7.4k</td><td>—</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$7.4k</td><td>—</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$4.2k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-05</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 16</td><td>2026-11-07</td><td>$1.1k</td><td>—</td></tr></table>\n</article>",
   "t": "Haiku (2026)",
-  "total_in": 241947.0,
+  "total_in": 243004.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -3240,13 +3265,18 @@
     "d": "418 (2026) box office Day 15 (2026-11-06): India Net $1.1k.",
     "date": "2026-11-06",
     "day": 15
+   },
+   {
+    "d": "418 (2026) box office Day 16 (2026-11-07): India Net $2.1k.",
+    "date": "2026-11-07",
+    "day": 16
    }
   ],
-  "days": 15,
+  "days": 16,
   "img": "https://image.tmdb.org/t/p/w780/nJjd0EHP5VPWTdGsere75SaSY4j.jpg",
   "k": "418, 418 box office collection, 418 box office collection day wise, 418 day 1 collection, box office collection, FlickAtlas",
-  "latest_date": "2026-11-06",
-  "latest_day": "Day 15",
+  "latest_date": "2026-11-07",
+  "latest_day": "Day 16",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
@@ -3278,9 +3308,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1606527"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>418 (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $1.33M</li><li>Overseas total: $1.61M</li><li>Latest reported day: Day 15 — 6 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$280.0k</td><td>$95.1k</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$264.1k</td><td>$52.8k</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$229.8k</td><td>$52.8k</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$189.1k</td><td>$200.7k</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$90.9k</td><td>$200.7k</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$78.2k</td><td>$200.7k</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$70.8k</td><td>$200.7k</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$39.1k</td><td>$200.7k</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$25.4k</td><td>$200.7k</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$23.2k</td><td>$200.7k</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$10.6k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$10.6k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-05</td><td>$10.6k</td><td>—</td></tr><tr><td>Day 15</td><td>2026-11-06</td><td>$1.1k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>418 (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $1.33M</li><li>Overseas total: $1.61M</li><li>Latest reported day: Day 16 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-23</td><td>$280.0k</td><td>$95.1k</td></tr><tr><td>Day 2</td><td>2026-10-24</td><td>$264.1k</td><td>$52.8k</td></tr><tr><td>Day 3</td><td>2026-10-25</td><td>$229.8k</td><td>$52.8k</td></tr><tr><td>Day 4</td><td>2026-10-26</td><td>$189.1k</td><td>$200.7k</td></tr><tr><td>Day 5</td><td>2026-10-27</td><td>$90.9k</td><td>$200.7k</td></tr><tr><td>Day 6</td><td>2026-10-28</td><td>$78.2k</td><td>$200.7k</td></tr><tr><td>Day 7</td><td>2026-10-29</td><td>$70.8k</td><td>$200.7k</td></tr><tr><td>Day 8</td><td>2026-10-30</td><td>$39.1k</td><td>$200.7k</td></tr><tr><td>Day 9</td><td>2026-10-31</td><td>$25.4k</td><td>$200.7k</td></tr><tr><td>Day 10</td><td>2026-11-01</td><td>$23.2k</td><td>$200.7k</td></tr><tr><td>Day 11</td><td>2026-11-02</td><td>$10.6k</td><td>—</td></tr><tr><td>Day 12</td><td>2026-11-03</td><td>$10.6k</td><td>—</td></tr><tr><td>Day 13</td><td>2026-11-04</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 14</td><td>2026-11-05</td><td>$10.6k</td><td>—</td></tr><tr><td>Day 15</td><td>2026-11-06</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 16</td><td>2026-11-07</td><td>$2.1k</td><td>—</td></tr></table>\n</article>",
   "t": "418 (2026)",
-  "total_in": 1331749.0,
+  "total_in": 1333862.0,
   "total_ov": 1605919.0,
   "year": "2026"
  },
@@ -3433,7 +3463,7 @@
   "year": "2026"
  },
  "daywise:1612811": {
-  "d": "Disco (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $86.6k.",
+  "d": "Disco (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $88.7k.",
   "day_rows": [
    {
     "d": "Disco (2026) box office Day 1 (2026-11-06): India Net $63.4k.",
@@ -3441,7 +3471,7 @@
     "day": 1
    },
    {
-    "d": "Disco (2026) box office Day 2 (2026-11-07): India Net $23.2k.",
+    "d": "Disco (2026) box office Day 2 (2026-11-07): India Net $25.4k.",
     "date": "2026-11-07",
     "day": 2
    }
@@ -3454,7 +3484,7 @@
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Disco (2026): Action film. Story: An ordinary man undergoes a transformation as he… See cast, box office collection $86.6k, and release date 6 November 2026.",
+   "description": "Disco (2026): Action film. Story: An ordinary man undergoes a transformation as he… See cast, box office collection $88.7k, and release date 6 November 2026.",
    "duration": "PT145M",
    "genre": [
     "Action"
@@ -3468,9 +3498,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1612811"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Disco (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $86.6k</li><li>Latest reported day: Day 2 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-06</td><td>$63.4k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-11-07</td><td>$23.2k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Disco (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $88.7k</li><li>Latest reported day: Day 2 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-06</td><td>$63.4k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-11-07</td><td>$25.4k</td><td>—</td></tr></table>\n</article>",
   "t": "Disco (2026)",
-  "total_in": 86635.0,
+  "total_in": 88748.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -4183,7 +4213,7 @@
   "year": "2026"
  },
  "daywise:1800255": {
-  "d": "Enemy Of The Smuggler (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $48.6k.",
+  "d": "Enemy Of The Smuggler (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $49.7k.",
   "day_rows": [
    {
     "d": "Enemy Of The Smuggler (2026) box office Day 1 (2026-10-30): India Net $8.5k.",
@@ -4224,17 +4254,22 @@
     "d": "Enemy Of The Smuggler (2026) box office Day 8 (2026-11-06): India Net $1.1k.",
     "date": "2026-11-06",
     "day": 8
+   },
+   {
+    "d": "Enemy Of The Smuggler (2026) box office Day 9 (2026-11-07): India Net $1.1k.",
+    "date": "2026-11-07",
+    "day": 9
    }
   ],
-  "days": 8,
+  "days": 9,
   "img": "https://image.tmdb.org/t/p/w500/pDZxgWM1t2fTOB5IUyPJGlDFthl.jpg",
   "k": "Enemy Of The Smuggler, Enemy Of The Smuggler box office collection, Enemy Of The Smuggler box office collection day wise, Enemy Of The Smuggler day 1 collection, Bollywood box office collection, FlickAtlas",
-  "latest_date": "2026-11-06",
-  "latest_day": "Day 8",
+  "latest_date": "2026-11-07",
+  "latest_day": "Day 9",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Enemy Of The Smuggler (2026): Crime/Action film. Story: Inspired by real customs investigations, a relentless… See cast and box office collection $48.6k.",
+   "description": "Enemy Of The Smuggler (2026): Crime/Action film. Story: Inspired by real customs investigations, a relentless… See cast and box office collection $49.7k.",
    "genre": [
     "Crime",
     "Action"
@@ -4261,9 +4296,9 @@
    },
    "url": "https://flickatlas.co.uk/movie?id=1800255"
   },
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Enemy Of The Smuggler (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $48.6k</li><li>Latest reported day: Day 8 — 6 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-30</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-31</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-11-01</td><td>$9.5k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-11-02</td><td>$4.2k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-11-03</td><td>$6.3k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-11-04</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-11-05</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-11-06</td><td>$1.1k</td><td>—</td></tr></table>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Enemy Of The Smuggler (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $49.7k</li><li>Latest reported day: Day 9 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-30</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-31</td><td>$8.5k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-11-01</td><td>$9.5k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-11-02</td><td>$4.2k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-11-03</td><td>$6.3k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-11-04</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 7</td><td>2026-11-05</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 8</td><td>2026-11-06</td><td>$1.1k</td><td>—</td></tr><tr><td>Day 9</td><td>2026-11-07</td><td>$1.1k</td><td>—</td></tr></table>\n</article>",
   "t": "Enemy Of The Smuggler (2026)",
-  "total_in": 48601.0,
+  "total_in": 49658.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -4340,6 +4375,49 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Patakka Guddiyan (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $20.1k</li><li>Latest reported day: Day 6 — 4 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-10-30</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-10-31</td><td>$5.3k</td><td>—</td></tr><tr><td>Day 3</td><td>2026-11-01</td><td>$4.2k</td><td>—</td></tr><tr><td>Day 4</td><td>2026-11-02</td><td>$2.1k</td><td>—</td></tr><tr><td>Day 5</td><td>2026-11-03</td><td>$3.2k</td><td>—</td></tr><tr><td>Day 6</td><td>2026-11-04</td><td>$2.1k</td><td>—</td></tr></table>\n</article>",
   "t": "Patakka Guddiyan (2026)",
   "total_in": 20075.0,
+  "total_ov": 0.0,
+  "year": "2026"
+ },
+ "daywise:1803837": {
+  "d": "Summer Holidays (2026) box office: daily rows cover Days 1–30; later days count in totals. India Net $34.9k.",
+  "day_rows": [
+   {
+    "d": "Summer Holidays (2026) box office Day 1 (2026-11-06): India Net $16.9k.",
+    "date": "2026-11-06",
+    "day": 1
+   },
+   {
+    "d": "Summer Holidays (2026) box office Day 2 (2026-11-07): India Net $18.0k.",
+    "date": "2026-11-07",
+    "day": 2
+   }
+  ],
+  "days": 2,
+  "img": "https://image.tmdb.org/t/p/w500/hUeIDfVjwiTKUOVHE95IoTd04bh.jpg",
+  "k": "Summer Holidays, Summer Holidays box office collection, Summer Holidays box office collection day wise, Summer Holidays day 1 collection, Bollywood box office collection, FlickAtlas",
+  "latest_date": "2026-11-07",
+  "latest_day": "Day 2",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Summer Holidays (2026): Comedy/Drama film. Story: A city boy's summer at his grandparents' Godavari… See cast and box office collection $34.9k.",
+   "duration": "PT144M",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/hUeIDfVjwiTKUOVHE95IoTd04bh.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803837",
+   "name": "Summer Holidays",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1803837"
+  },
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Summer Holidays (2026) — Day-wise Box Office Collection</h1>\n<ul><li>India Net total (all days): $34.9k</li><li>Latest reported day: Day 2 — 7 November 2026</li></ul>\n<h2>Day-wise collection (India Net, USD)</h2>\n<table><tr><th>Day</th><th>Date</th><th>India Net</th><th>Overseas</th></tr><tr><td>Day 1</td><td>2026-11-06</td><td>$16.9k</td><td>—</td></tr><tr><td>Day 2</td><td>2026-11-07</td><td>$18.0k</td><td>—</td></tr></table>\n</article>",
+  "t": "Summer Holidays (2026)",
+  "total_in": 34865.0,
   "total_ov": 0.0,
   "year": "2026"
  },
@@ -5994,7 +6072,7 @@
   "year": "2024"
  },
  "movie:1117898": {
-  "d": "The Cat in the Hat (2026): Animation/Comedy film. Story: Assigned his toughest mission yet, the Cat must cheer… See cast and box office collection $13.7k.",
+  "d": "The Cat in the Hat (2026): Animation/Comedy film. Story: Assigned his toughest mission yet, the Cat must cheer… See cast and box office collection $39.1k.",
   "img": "https://image.tmdb.org/t/p/w780/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
   "industry": "world",
   "k": "The Cat in the Hat, The Cat in the Hat movie, The Cat in the Hat cast, The Cat in the Hat story, The Cat in the Hat box office collection, The Cat in the Hat budget, The Cat in the Hat review, The Cat in the Hat rating, The Cat in the Hat release date, The Cat in the Hat trailer, The Cat in the Hat Animation, The Cat in the Hat Comedy, international movies, FlickAtlas",
@@ -6008,7 +6086,7 @@
     "ratingValue": 7.7,
     "worstRating": 0
    },
-   "description": "The Cat in the Hat (2026): Animation/Comedy film. Story: Assigned his toughest mission yet, the Cat must cheer… See cast and box office collection $13.7k.",
+   "description": "The Cat in the Hat (2026): Animation/Comedy film. Story: Assigned his toughest mission yet, the Cat must cheer… See cast and box office collection $39.1k.",
    "duration": "PT108M",
    "genre": [
     "Animation",
@@ -6025,7 +6103,7 @@
   },
   "modified": "",
   "published": "2026-11-02",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>The Cat in the Hat (2026)</h1>\n<p class=\"ssr-lead\">Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2026</li><li>Runtime: 108 minutes</li><li>Genres: Animation, Comedy, Adventure, Fantasy, Family</li><li>TMDB rating: 7.7/10 (3 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $13.7k</li><li>Latest: Day 1 (2026-11-04) — India Net $13.7k</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Cat in the Hat (2026)</h1>\n<p class=\"ssr-lead\">Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 4 November 2026</li><li>Runtime: 108 minutes</li><li>Genres: Animation, Comedy, Adventure, Fantasy, Family</li><li>TMDB rating: 7.7/10 (3 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $39.1k</li><li>Latest: Day 2 (2026-11-05) — India Net $25.4k</li></ul>\n</article>",
   "t": "The Cat in the Hat (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -7716,7 +7794,7 @@
   "year": "2025"
  },
  "movie:1234139": {
-  "d": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate expands its reach to… See cast and box office collection $42.06M, overseas $28.13M.",
+  "d": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate expands its reach to… See cast and box office collection $42.09M, overseas $28.13M.",
   "img": "https://image.tmdb.org/t/p/w780/zpHTOdRl7GEPqFsDGqsN6Hi9Ylt.jpg",
   "industry": "world",
   "k": "Jailer 2, Jailer 2 movie, Jailer 2 cast, Jailer 2 story, Jailer 2 box office collection, Jailer 2 budget, Jailer 2 review, Jailer 2 rating, Jailer 2 release date, Jailer 2 Action, Jailer 2 Comedy, international movies, FlickAtlas",
@@ -7730,7 +7808,7 @@
     "ratingValue": 8.0,
     "worstRating": 0
    },
-   "description": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate expands its reach to… See cast and box office collection $42.06M, overseas $28.13M.",
+   "description": "Jailer 2 (2026): Action/Comedy film. Story: When a dangerous syndicate expands its reach to… See cast and box office collection $42.09M, overseas $28.13M.",
    "duration": "PT163M",
    "genre": [
     "Action",
@@ -7760,7 +7838,7 @@
   },
   "modified": "",
   "published": "2026-10-26",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Jailer 2 (2026)</h1>\n<p class=\"ssr-lead\">When a dangerous syndicate expands its reach to threaten his family&#x27;s peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2026</li><li>Runtime: 163 minutes</li><li>Genres: Action, Comedy</li><li>Budget: $26.29M</li><li>TMDB rating: 8.0/10 (18 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $42.06M</li><li>Overseas total: $28.13M</li><li>Latest: Day 24 (2026-11-07) — India Net $43.3k</li><li>Worldwide total: $70.19M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7.5/10. Jailer 2 delivers a satisfying sequel that keeps most hands on deck for a rousing ride. Despite an uneven second half, strong performances and a solid emotional core make it worth the watch. Fans of the first film and Rajinikanth will find plenty to enjoy here.</p>\n<ul><li>Action &amp; Cinematography: 7.5/10</li><li>Comedy &amp; Entertainment: 7.5/10</li><li>Direction: 7.5/10</li><li>Music &amp; BGM: 8/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7.5/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Jailer 2 (2026)</h1>\n<p class=\"ssr-lead\">When a dangerous syndicate expands its reach to threaten his family&#x27;s peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 October 2026</li><li>Runtime: 163 minutes</li><li>Genres: Action, Comedy</li><li>Budget: $26.29M</li><li>TMDB rating: 8.0/10 (18 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $42.09M</li><li>Overseas total: $28.13M</li><li>Latest: Day 24 (2026-11-07) — India Net $68.1k</li><li>Worldwide total: $70.22M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7.5/10. Jailer 2 delivers a satisfying sequel that keeps most hands on deck for a rousing ride. Despite an uneven second half, strong performances and a solid emotional core make it worth the watch. Fans of the first film and Rajinikanth will find plenty to enjoy here.</p>\n<ul><li>Action &amp; Cinematography: 7.5/10</li><li>Comedy &amp; Entertainment: 7.5/10</li><li>Direction: 7.5/10</li><li>Music &amp; BGM: 8/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7.5/10</li></ul>\n</article>",
   "t": "Jailer 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -8384,6 +8462,40 @@
   "t": "Good Bad Ugly (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:1260263": {
+  "d": "The Beachnickers 3 (2026): Comedy film. Story: Rocha decides to foot the bill for his daughter's… See cast and TMDB rating 9.0/10.",
+  "img": "https://image.tmdb.org/t/p/w780/1FwuEcVE9xDlljPncsOHBAIE12m.jpg",
+  "industry": "world",
+  "k": "The Beachnickers 3, The Beachnickers 3 movie, The Beachnickers 3 cast, The Beachnickers 3 story, The Beachnickers 3 box office collection, The Beachnickers 3 budget, The Beachnickers 3 review, The Beachnickers 3 rating, The Beachnickers 3 release date, The Beachnickers 3 Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2,
+    "ratingValue": 9.0,
+    "worstRating": 0
+   },
+   "description": "The Beachnickers 3 (2026): Comedy film. Story: Rocha decides to foot the bill for his daughter's… See cast and TMDB rating 9.0/10.",
+   "genre": [
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/1FwuEcVE9xDlljPncsOHBAIE12m.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1260263",
+   "name": "The Beachnickers 3",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-05"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1260263"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Beachnickers 3 (2026)</h1>\n<p class=\"ssr-lead\">Rocha decides to foot the bill for his daughter&#x27;s wedding in an island and invites his loyal colleagues, Alexandre, Lima, and Diguinho, along with their families, to the all-expenses-paid celebration. The setting seemed perfect for an unforgettable trip, but the peace is short-lived, soon giving way to a series of surprises and mishaps.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Genres: Comedy</li><li>TMDB rating: 9.0/10 (2 votes)</li></ul>\n</article>",
+  "t": "The Beachnickers 3 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1265609": {
   "d": "War Machine (2026): Action/Science Fiction film. Story: On one last grueling mission during Army Ranger… See cast, budget $80M, and review 6.5/10.",
   "img": "https://image.tmdb.org/t/p/w780/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
@@ -8478,7 +8590,7 @@
   },
   "modified": "",
   "published": "2026-10-26",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Drishyam: The Conclusion (2026)</h1>\n<p class=\"ssr-lead\">Years after outsmarting the police, Vijay Salgaonkar&#x27;s past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2026</li><li>Runtime: 148 minutes</li><li>Genres: Thriller, Drama, Mystery, Crime</li><li>TMDB rating: 7.6/10 (11 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $39.81M</li><li>Overseas total: $13.57M</li><li>Latest: Day 37 (2026-11-07) — India Net $7.4k</li><li>Worldwide total: $53.38M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Drishyam: The Conclusion successfully provides the closure its premise demands while delivering thrilling moments for fans of the franchise. Despite a tiring finish and a formula that struggles not to show its age, it remains a worthwhile watch. It is recommended for those invested in the accumulated mythology of Vijay Salgaonkar.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6.5/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Drishyam: The Conclusion (2026)</h1>\n<p class=\"ssr-lead\">Years after outsmarting the police, Vijay Salgaonkar&#x27;s past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 2 October 2026</li><li>Runtime: 148 minutes</li><li>Genres: Thriller, Drama, Mystery, Crime</li><li>TMDB rating: 7.6/10 (11 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $39.81M</li><li>Overseas total: $13.57M</li><li>Latest: Day 37 (2026-11-07) — India Net $9.5k</li><li>Worldwide total: $53.39M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Drishyam: The Conclusion successfully provides the closure its premise demands while delivering thrilling moments for fans of the franchise. Despite a tiring finish and a formula that struggles not to show its age, it remains a worthwhile watch. It is recommended for those invested in the accumulated mythology of Vijay Salgaonkar.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6.5/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n</article>",
   "t": "Drishyam: The Conclusion (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -9379,6 +9491,35 @@
   "t": "Demon Slayer: Kimetsu no Yaiba Infinity Castle (2025) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2025"
  },
+ "movie:1313587": {
+  "d": "GROTESQQQUE (2026): Animation/Science Fiction film. Story: Anthology film made up of three separate segments… See cast and release date 6 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/mKUCCoBntwXt0WpSxoAhgFpV71b.jpg",
+  "industry": "world",
+  "k": "GROTESQQQUE, GROTESQQQUE movie, GROTESQQQUE cast, GROTESQQQUE story, GROTESQQQUE box office collection, GROTESQQQUE budget, GROTESQQQUE review, GROTESQQQUE rating, GROTESQQQUE release date, GROTESQQQUE trailer, GROTESQQQUE Animation, GROTESQQQUE Science Fiction, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "GROTESQQQUE (2026): Animation/Science Fiction film. Story: Anthology film made up of three separate segments… See cast and release date 6 November 2026.",
+   "duration": "PT104M",
+   "genre": [
+    "Animation",
+    "Science Fiction"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/mKUCCoBntwXt0WpSxoAhgFpV71b.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1313587",
+   "name": "GROTESQQQUE",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1313587"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>GROTESQQQUE (2026)</h1>\n<p class=\"ssr-lead\">Anthology film made up of three separate segments: A(E)LIENS, YOROSHIKU★Girl, and NOCTURNE: NUIT GROTESQUE.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 104 minutes</li><li>Genres: Animation, Science Fiction, Action, Drama</li></ul>\n</article>",
+  "t": "GROTESQQQUE (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1315772": {
   "d": "Minions & Monsters (2026): Adventure/Animation film. Story: This is the rambunctious, ridiculous and totally true… See cast, budget $85M, and review 7/10.",
   "img": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
@@ -9478,14 +9619,14 @@
   "year": "2026"
  },
  "movie:1327835": {
-  "d": "Mookuthi Amman 2 (2026): Fantasy/Drama film. Story: A queen sacrifices herself to protect her son, the… See cast and box office collection $431.1k.",
+  "d": "Mookuthi Amman 2 (2026): Fantasy/Drama film. Story: A queen sacrifices herself to protect her son, the… See cast and box office collection $457.5k.",
   "img": "https://image.tmdb.org/t/p/w780/mxrT9YpOPuLq2PpSehAuCGCqu8r.jpg",
   "industry": "bollywood",
   "k": "Mookuthi Amman 2, Mookuthi Amman 2 movie, Mookuthi Amman 2 cast, Mookuthi Amman 2 story, Mookuthi Amman 2 box office collection, Mookuthi Amman 2 budget, Mookuthi Amman 2 review, Mookuthi Amman 2 rating, Mookuthi Amman 2 release date, Mookuthi Amman 2 Fantasy, Mookuthi Amman 2 Drama, Indian movies, FlickAtlas",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Mookuthi Amman 2 (2026): Fantasy/Drama film. Story: A queen sacrifices herself to protect her son, the… See cast and box office collection $431.1k.",
+   "description": "Mookuthi Amman 2 (2026): Fantasy/Drama film. Story: A queen sacrifices herself to protect her son, the… See cast and box office collection $457.5k.",
    "duration": "PT144M",
    "genre": [
     "Fantasy",
@@ -9502,7 +9643,7 @@
   },
   "modified": "",
   "published": "2026-10-27",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Mookuthi Amman 2 (2026)</h1>\n<p class=\"ssr-lead\">A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 144 minutes</li><li>Genres: Fantasy, Drama, Comedy</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $431.1k</li><li>Latest: Day 2 (2026-11-07) — India Net $232.4k</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Mookuthi Amman 2 (2026)</h1>\n<p class=\"ssr-lead\">A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 144 minutes</li><li>Genres: Fantasy, Drama, Comedy</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $457.5k</li><li>Latest: Day 2 (2026-11-07) — India Net $258.8k</li></ul>\n</article>",
   "t": "Mookuthi Amman 2 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -10024,14 +10165,14 @@
   "year": "2026"
  },
  "movie:1374689": {
-  "d": "Pyre (2026): Drama film. Story: In the Himalayan Mountain range, a rural village… See cast, box office collection $163.2k, and review 8.5/10.",
+  "d": "Pyre (2026): Drama film. Story: In the Himalayan Mountain range, a rural village… See cast, box office collection $174.9k, and review 8.5/10.",
   "img": "https://image.tmdb.org/t/p/w780/2IOQb9cl99JHgyTLCdyRXniT4Ew.jpg",
   "industry": "bollywood",
   "k": "Pyre, Pyre movie, Pyre cast, Pyre story, Pyre box office collection, Pyre budget, Pyre review, Pyre rating, Pyre release date, Pyre Drama, Indian movies, FlickAtlas",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Pyre (2026): Drama film. Story: In the Himalayan Mountain range, a rural village… See cast, box office collection $163.2k, and review 8.5/10.",
+   "description": "Pyre (2026): Drama film. Story: In the Himalayan Mountain range, a rural village… See cast, box office collection $174.9k, and review 8.5/10.",
    "duration": "PT111M",
    "genre": [
     "Drama"
@@ -10060,12 +10201,12 @@
   },
   "modified": "",
   "published": "2026-10-26",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Pyre (2026)</h1>\n<p class=\"ssr-lead\">In the Himalayan Mountain range, a rural village loses its inhabitants to the city’s allure while an elderly couple, Padam Singh and Tulsi, live in desolate isolation. Their days are filled with routine and occasional humour as they mask their loneliness. Their son’s absence gnaws at them, and when a letter arrives promising his return, it reignites their hearts with joy and anticipation. However, the reunion does not unfold as expected, shattering their hopes. As the film climaxes, the spectator is confronted with a more rueful plight, deeply engaging the audience’s empathy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Runtime: 111 minutes</li><li>Genres: Drama</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $163.2k</li><li>Latest: Day 8 (2026-11-06) — India Net $6.3k</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 8.5/10. Pyre is a memorable and emotionally resonant drama directed by Vinod Kapri that successfully engages the audience&#x27;s empathy through its poignant storytelling and strong cast. While its heartbreaking climax offers a rueful plight rather than a joyous reunion, it remains a captivating watch. It comes recommended for viewers looking for a touching, character-driven journey.</p>\n<ul><li>Action &amp; Cinematography: 8/10</li><li>Comedy &amp; Entertainment: 7.5/10</li><li>Direction: 8/10</li><li>Music &amp; BGM: 9/10</li><li>Performances: 8.5/10</li><li>Story &amp; Screenplay: 9/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Pyre (2026)</h1>\n<p class=\"ssr-lead\">In the Himalayan Mountain range, a rural village loses its inhabitants to the city’s allure while an elderly couple, Padam Singh and Tulsi, live in desolate isolation. Their days are filled with routine and occasional humour as they mask their loneliness. Their son’s absence gnaws at them, and when a letter arrives promising his return, it reignites their hearts with joy and anticipation. However, the reunion does not unfold as expected, shattering their hopes. As the film climaxes, the spectator is confronted with a more rueful plight, deeply engaging the audience’s empathy.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Runtime: 111 minutes</li><li>Genres: Drama</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $174.9k</li><li>Latest: Day 9 (2026-11-07) — India Net $11.6k</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 8.5/10. Pyre is a memorable and emotionally resonant drama directed by Vinod Kapri that successfully engages the audience&#x27;s empathy through its poignant storytelling and strong cast. While its heartbreaking climax offers a rueful plight rather than a joyous reunion, it remains a captivating watch. It comes recommended for viewers looking for a touching, character-driven journey.</p>\n<ul><li>Action &amp; Cinematography: 8/10</li><li>Comedy &amp; Entertainment: 7.5/10</li><li>Direction: 8/10</li><li>Music &amp; BGM: 9/10</li><li>Performances: 8.5/10</li><li>Story &amp; Screenplay: 9/10</li></ul>\n</article>",
   "t": "Pyre (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1375156": {
-  "d": "Udta Teer (2026): Comedy/Action film. Story: An amnesiac Pakistani spy wakes up believing he is a… See cast and box office collection $5.04M, overseas $1.15M.",
+  "d": "Udta Teer (2026): Comedy/Action film. Story: An amnesiac Pakistani spy wakes up believing he is a… See cast and box office collection $5.05M, overseas $1.15M.",
   "img": "https://image.tmdb.org/t/p/w780/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
   "industry": "bollywood",
   "k": "Udta Teer, Udta Teer movie, Udta Teer cast, Udta Teer story, Udta Teer box office collection, Udta Teer budget, Udta Teer review, Udta Teer rating, Udta Teer release date, Udta Teer Comedy, Udta Teer Action, Indian movies, FlickAtlas",
@@ -10079,7 +10220,7 @@
     "ratingValue": 7.8,
     "worstRating": 0
    },
-   "description": "Udta Teer (2026): Comedy/Action film. Story: An amnesiac Pakistani spy wakes up believing he is a… See cast and box office collection $5.04M, overseas $1.15M.",
+   "description": "Udta Teer (2026): Comedy/Action film. Story: An amnesiac Pakistani spy wakes up believing he is a… See cast and box office collection $5.05M, overseas $1.15M.",
    "duration": "PT137M",
    "genre": [
     "Comedy",
@@ -10109,7 +10250,7 @@
   },
   "modified": "",
   "published": "2026-10-23",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Udta Teer (2026)</h1>\n<p class=\"ssr-lead\">An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 137 minutes</li><li>Genres: Comedy, Action</li><li>TMDB rating: 7.8/10 (2 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $5.04M</li><li>Overseas total: $1.15M</li><li>Latest: Day 16 (2026-11-07) — India Net $24.3k</li><li>Worldwide total: $6.2M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Udta Teer is a fun and entertaining spy comedy with a genuinely interesting premise. It doesn&#x27;t maintain the same freshness throughout, but the performances and first-half humour make it a worthwhile watch. If you enjoy Ayushmann&#x27;s comedy and quirky Bollywood entertainers, this one is worth giving a chance.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 7.5/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Udta Teer (2026)</h1>\n<p class=\"ssr-lead\">An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 137 minutes</li><li>Genres: Comedy, Action</li><li>TMDB rating: 7.8/10 (2 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $5.05M</li><li>Overseas total: $1.15M</li><li>Latest: Day 16 (2026-11-07) — India Net $31.0k</li><li>Worldwide total: $6.2M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Udta Teer is a fun and entertaining spy comedy with a genuinely interesting premise. It doesn&#x27;t maintain the same freshness throughout, but the performances and first-half humour make it a worthwhile watch. If you enjoy Ayushmann&#x27;s comedy and quirky Bollywood entertainers, this one is worth giving a chance.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 7.5/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 7/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n</article>",
   "t": "Udta Teer (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -10717,7 +10858,7 @@
   "year": "2025"
  },
  "movie:1400940": {
-  "d": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, box office collection $583.5k, and budget $44M.",
+  "d": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, box office collection $586.7k, and budget $44M.",
   "img": "https://image.tmdb.org/t/p/w780/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
   "industry": "world",
   "k": "Clayface, Clayface movie, Clayface cast, Clayface story, Clayface box office collection, Clayface budget, Clayface review, Clayface rating, Clayface release date, Clayface trailer, Clayface Horror, Clayface Thriller, international movies, FlickAtlas",
@@ -10731,7 +10872,7 @@
     "ratingValue": 7.6,
     "worstRating": 0
    },
-   "description": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, box office collection $583.5k, and budget $44M.",
+   "description": "Clayface (2026): Horror/Thriller film. Story: Matt Hagen's meteoric rise from Gotham street kid to… See cast, box office collection $586.7k, and budget $44M.",
    "duration": "PT109M",
    "genre": [
     "Horror",
@@ -10761,7 +10902,7 @@
   },
   "modified": "",
   "published": "2026-10-26",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Clayface (2026)</h1>\n<p class=\"ssr-lead\">Matt Hagen&#x27;s meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss&#x27;s actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 October 2026</li><li>Runtime: 109 minutes</li><li>Genres: Horror, Thriller, Science Fiction</li><li>Budget: $44M</li><li>TMDB rating: 7.6/10 (188 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $583.5k</li><li>Latest: Day 15 (2026-11-02) — India Net $2.1k</li><li>Worldwide total: $46.5M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. Clayface is a gritty, R-rated horror throwback that gets the job done for Halloween with plenty of delicious squirms. Though it takes some time to find its groove, horror fans looking for a grotesque comic book adaptation should check it out.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Clayface (2026)</h1>\n<p class=\"ssr-lead\">Matt Hagen&#x27;s meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss&#x27;s actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 October 2026</li><li>Runtime: 109 minutes</li><li>Genres: Horror, Thriller, Science Fiction</li><li>Budget: $44M</li><li>TMDB rating: 7.6/10 (188 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $586.7k</li><li>Latest: Day 16 (2026-11-03) — India Net $3.2k</li><li>Worldwide total: $46.5M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. Clayface is a gritty, R-rated horror throwback that gets the job done for Halloween with plenty of delicious squirms. Though it takes some time to find its groove, horror fans looking for a grotesque comic book adaptation should check it out.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n</article>",
   "t": "Clayface (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -10799,6 +10940,35 @@
   "published": "2026-10-27",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Scene (2026)</h1>\n<p class=\"ssr-lead\">Inbaraj, a police officer, is forced to reopen a case he left unfinished years ago. This time, he must solve it with a chaotic and troublesome team. As they struggle to work together and deal with the twists and turns of the case, the investigation takes them on a chaotic and unpredictable ride.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 149 minutes</li><li>Genres: Comedy, Crime, Romance, Action</li><li>Budget: $2.42M</li><li>TMDB rating: 8.8/10 (4 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $4.16M</li><li>Overseas total: $3.78M</li><li>Latest: Day 2 (2026-11-07) — India Net $2.14M, Overseas $1.9M</li><li>Worldwide total: $7.94M</li></ul>\n</article>",
   "t": "Scene (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1405002": {
+  "d": "Fiesta Pagäna (2026): Drama/Music film. Story: The movie chronicles the untold story of the band… See cast and release date 6 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/mh3hdyHrb0GxnmBRCrtA23gfqdv.jpg",
+  "industry": "world",
+  "k": "Fiesta Pagäna, Fiesta Pagäna movie, Fiesta Pagäna cast, Fiesta Pagäna story, Fiesta Pagäna box office collection, Fiesta Pagäna budget, Fiesta Pagäna review, Fiesta Pagäna rating, Fiesta Pagäna release date, Fiesta Pagäna Drama, Fiesta Pagäna Music, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Fiesta Pagäna (2026): Drama/Music film. Story: The movie chronicles the untold story of the band… See cast and release date 6 November 2026.",
+   "duration": "PT132M",
+   "genre": [
+    "Drama",
+    "Music"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/mh3hdyHrb0GxnmBRCrtA23gfqdv.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1405002",
+   "name": "Fiesta Pagäna",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1405002"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Fiesta Pagäna (2026)</h1>\n<p class=\"ssr-lead\">The movie chronicles the untold story of the band from their origins in the 1980s, highlighting their rise to fame, creative tensions, line-up changes, internal dynamics, controversies, and fan culture.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 132 minutes</li><li>Genres: Drama, Music</li></ul>\n</article>",
+  "t": "Fiesta Pagäna (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1406492": {
@@ -12507,7 +12677,7 @@
   },
   "modified": "",
   "published": "2026-10-27",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Tom and Jerry: Forbidden Compass (2026)</h1>\n<p class=\"ssr-lead\">During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 99 minutes</li><li>Genres: Animation, Comedy, Family, Adventure, Fantasy</li><li>TMDB rating: 6.6/10 (61 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $82.4k</li><li>Latest: Day 13 (2026-11-04) — India Net $1.1k</li><li>Worldwide total: $2.73M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 4.5/10. Tom and Jerry: Forbidden Compass places the veteran Hanna-Barbera characters into an ill-fitting, chaotic narrative rooted in Chinese mythology. Due to its confusing plot and exhausting execution, viewers might want to skip this culture-clash curio unless they are intensely curious about the unusual premise.</p>\n<ul><li>Action &amp; Cinematography: 5.5/10</li><li>Comedy &amp; Entertainment: 4.5/10</li><li>Direction: 4/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 5/10</li><li>Story &amp; Screenplay: 3.5/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Tom and Jerry: Forbidden Compass (2026)</h1>\n<p class=\"ssr-lead\">During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 99 minutes</li><li>Genres: Animation, Comedy, Family, Adventure, Fantasy</li><li>TMDB rating: 6.6/10 (61 votes)</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $83.5k</li><li>Latest: Day 16 (2026-11-07) — India Net $1.1k</li><li>Worldwide total: $2.73M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 4.5/10. Tom and Jerry: Forbidden Compass places the veteran Hanna-Barbera characters into an ill-fitting, chaotic narrative rooted in Chinese mythology. Due to its confusing plot and exhausting execution, viewers might want to skip this culture-clash curio unless they are intensely curious about the unusual premise.</p>\n<ul><li>Action &amp; Cinematography: 5.5/10</li><li>Comedy &amp; Entertainment: 4.5/10</li><li>Direction: 4/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 5/10</li><li>Story &amp; Screenplay: 3.5/10</li></ul>\n</article>",
   "t": "Tom and Jerry: Forbidden Compass (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -13551,6 +13721,35 @@
   "t": "Ghost Soldier (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1567149": {
+  "d": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens (2026): Science Fiction/Action film.",
+  "img": "https://image.tmdb.org/t/p/w780/A9D1tp0USj38oBIFk32P3YVouo3.jpg",
+  "industry": "world",
+  "k": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens movie, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens cast, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens story, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens box office collection, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens budget, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens review, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens rating, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens release date, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens trailer, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens Science Fiction, Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens Action, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens (2026): Science Fiction/Action film.",
+   "duration": "PT50M",
+   "genre": [
+    "Science Fiction",
+    "Action"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/A9D1tp0USj38oBIFk32P3YVouo3.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1567149",
+   "name": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1567149"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens (2026)</h1>\n<p class=\"ssr-lead\">20 years after the events of the series, humans and Worms are walking towards the path of coexistence. However, ZECT is secretly developing a new Masked Rider System. Yui Kagami, the son of Arata Kagami/Kamen Rider Gatack is qualified to use the new system. Arata Kagami also investigates a ZECT conspiracy all by himself, but a shadow of an unexpected person appears before him...!</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 50 minutes</li><li>Genres: Science Fiction, Action, Drama</li></ul>\n</article>",
+  "t": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1568063": {
   "d": "Darshan (2026): Drama/Comedy film. Story: Abhinav feels trapped by his tight-knit Hindu… See cast, review 6.5/10, and release date 1 June 2026.",
   "img": "https://image.tmdb.org/t/p/w780/94mEOVzskLkalpnxWwfzeQe5UaY.jpg",
@@ -13777,6 +13976,34 @@
   "t": "Santa's Workshop (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1578488": {
+  "d": "Merry Christmas Aubrey Flint (2026): Comedy film. Story: An amateur production of A Christmas Carol at a… See cast and release date 6 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/y1qwFKNJhdlsknjpTI3Eob8yLvd.jpg",
+  "industry": "world",
+  "k": "Merry Christmas Aubrey Flint, Merry Christmas Aubrey Flint movie, Merry Christmas Aubrey Flint cast, Merry Christmas Aubrey Flint story, Merry Christmas Aubrey Flint box office collection, Merry Christmas Aubrey Flint budget, Merry Christmas Aubrey Flint review, Merry Christmas Aubrey Flint rating, Merry Christmas Aubrey Flint release date, Merry Christmas Aubrey Flint trailer, Merry Christmas Aubrey Flint Comedy, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Merry Christmas Aubrey Flint (2026): Comedy film. Story: An amateur production of A Christmas Carol at a… See cast and release date 6 November 2026.",
+   "duration": "PT98M",
+   "genre": [
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/y1qwFKNJhdlsknjpTI3Eob8yLvd.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1578488",
+   "name": "Merry Christmas Aubrey Flint",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1578488"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Merry Christmas Aubrey Flint (2026)</h1>\n<p class=\"ssr-lead\">An amateur production of A Christmas Carol at a retirement home is reluctantly directed by reclusive man on community service.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 98 minutes</li><li>Genres: Comedy</li></ul>\n</article>",
+  "t": "Merry Christmas Aubrey Flint (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1578978": {
   "d": "Jonna: Crónicas de una policía novata (2026): Drama/Crime film. See cast and release date 29 October 2026.",
   "img": "https://image.tmdb.org/t/p/w780/1J3kKDY5OhmC5mlpVx07KlfhQcz.jpg",
@@ -13852,6 +14079,41 @@
   "published": "2026-10-30",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Dhurandhar: The Revenge (2026)</h1>\n<p class=\"ssr-lead\">As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza&#x27;s mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 19 March 2026</li><li>Runtime: 235 minutes</li><li>Genres: Action, Crime, Thriller</li><li>Budget: $14.33M</li><li>TMDB rating: 7.3/10 (174 votes)</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Dhurandhar: The Revenge is a massive, high-octane spy thriller that successfully delivers on scale and tension despite leaning into hyper-violence and a sprawling runtime. Fans of the prequel and intense action cinema will find plenty of thrilling moments anchored by Ranveer Singh&#x27;s strong lead turn. Recommended for viewers looking for a grand cinematic event, though it demands patience through its heavier, blood-soaked stretches.</p>\n<ul><li>Action &amp; Cinematography: 7.5/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 7.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 8/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li><li>Streaming on JioHotstar (IN)</li></ul>\n</article>",
   "t": "Dhurandhar: The Revenge (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1583853": {
+  "d": "Se domani non torno (2026): Drama film. Story: It follows the tragic life of Giulia Cecchettin… See cast, TMDB rating 9.5/10, and release date 5 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/uIztlFaiWBy0tOLPPmJtFeINliV.jpg",
+  "industry": "world",
+  "k": "Se domani non torno, Se domani non torno movie, Se domani non torno cast, Se domani non torno story, Se domani non torno box office collection, Se domani non torno budget, Se domani non torno review, Se domani non torno rating, Se domani non torno release date, Se domani non torno Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 2,
+    "ratingValue": 9.5,
+    "worstRating": 0
+   },
+   "description": "Se domani non torno (2026): Drama film. Story: It follows the tragic life of Giulia Cecchettin… See cast, TMDB rating 9.5/10, and release date 5 November 2026.",
+   "duration": "PT107M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/uIztlFaiWBy0tOLPPmJtFeINliV.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1583853",
+   "name": "Se domani non torno",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-05"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1583853"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Se domani non torno (2026)</h1>\n<p class=\"ssr-lead\">It follows the tragic life of Giulia Cecchettin, starting from the private pain of her father, Gino Cecchettin, and culminating in a cinematic story that stems from the book of the victim&#x27;s father, entitled Dear Giulia.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 November 2026</li><li>Runtime: 107 minutes</li><li>Genres: Drama</li><li>TMDB rating: 9.5/10 (2 votes)</li></ul>\n</article>",
+  "t": "Se domani non torno (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1585239": {
@@ -13968,14 +14230,14 @@
   "year": "2026"
  },
  "movie:1593350": {
-  "d": "Haiku (2026): Romance/Comedy film. Story: Haiku is a heartfelt romantic drama about second… See cast, box office collection $241.9k, and review 7/10.",
+  "d": "Haiku (2026): Romance/Comedy film. Story: Haiku is a heartfelt romantic drama about second… See cast, box office collection $243.0k, and review 7/10.",
   "img": "https://image.tmdb.org/t/p/w780/40bzHa8LA48yUbXeh6TACnUcOu3.jpg",
   "industry": "world",
   "k": "Haiku, Haiku movie, Haiku cast, Haiku story, Haiku box office collection, Haiku budget, Haiku review, Haiku rating, Haiku release date, Haiku Romance, Haiku Comedy, international movies, FlickAtlas",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Haiku (2026): Romance/Comedy film. Story: Haiku is a heartfelt romantic drama about second… See cast, box office collection $241.9k, and review 7/10.",
+   "description": "Haiku (2026): Romance/Comedy film. Story: Haiku is a heartfelt romantic drama about second… See cast, box office collection $243.0k, and review 7/10.",
    "duration": "PT143M",
    "genre": [
     "Romance",
@@ -14005,7 +14267,7 @@
   },
   "modified": "",
   "published": "2026-10-27",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Haiku (2026)</h1>\n<p class=\"ssr-lead\">Haiku is a heartfelt romantic drama about second chances and healing. Mano, once an immature and possessive college boy, loses his first love Kodi, a bold and caring girl from a traditional Coimbatore family, after his insecurities and long-distance struggles ruin their relationship. Years later, Mano, now more mature, meets Nivi, an independent, lower-middle-class girl raised by a single mother, who is recovering from a toxic relationship with Arul. Mano helps Nivi rediscover what true love means, while Nivi gives Mano a chance to love without control and without fear. But when Nivi learns about Mano’s toxic past with Kodi, doubts and insecurities threaten their bond. HAIKU beautifully explores how first love may break us, but second love teaches us to heal, forgive, and love better.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 143 minutes</li><li>Genres: Romance, Comedy, Drama</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $241.9k</li><li>Latest: Day 14 (2026-11-05) — India Net $1.1k</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Haiku (2026) offers a heartfelt and emotionally resonant romantic drama about healing, forgiveness, and the complexities of second love. Driven by a capable cast including Aegan and Sridevi Apalla, it successfully navigates the heavy themes of past trauma and personal growth. Fans of emotional romantic dramas will find it worth a watch, provided they do not mind a familiar narrative structure.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6.5/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 7.5/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Haiku (2026)</h1>\n<p class=\"ssr-lead\">Haiku is a heartfelt romantic drama about second chances and healing. Mano, once an immature and possessive college boy, loses his first love Kodi, a bold and caring girl from a traditional Coimbatore family, after his insecurities and long-distance struggles ruin their relationship. Years later, Mano, now more mature, meets Nivi, an independent, lower-middle-class girl raised by a single mother, who is recovering from a toxic relationship with Arul. Mano helps Nivi rediscover what true love means, while Nivi gives Mano a chance to love without control and without fear. But when Nivi learns about Mano’s toxic past with Kodi, doubts and insecurities threaten their bond. HAIKU beautifully explores how first love may break us, but second love teaches us to heal, forgive, and love better.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 23 October 2026</li><li>Runtime: 143 minutes</li><li>Genres: Romance, Comedy, Drama</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $243.0k</li><li>Latest: Day 16 (2026-11-07) — India Net $1.1k</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Haiku (2026) offers a heartfelt and emotionally resonant romantic drama about healing, forgiveness, and the complexities of second love. Driven by a capable cast including Aegan and Sridevi Apalla, it successfully navigates the heavy themes of past trauma and personal growth. Fans of emotional romantic dramas will find it worth a watch, provided they do not mind a familiar narrative structure.</p>\n<ul><li>Action &amp; Cinematography: 6.5/10</li><li>Comedy &amp; Entertainment: 6.5/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 7.5/10</li></ul>\n</article>",
   "t": "Haiku (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -14171,7 +14433,7 @@
   },
   "modified": "",
   "published": "2026-10-26",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>418 (2026)</h1>\n<p class=\"ssr-lead\">Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2026</li><li>Runtime: 157 minutes</li><li>Genres: Horror, Thriller</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $1.33M</li><li>Overseas total: $1.61M</li><li>Latest: Day 15 (2026-11-06) — India Net $1.1k</li><li>Worldwide total: $2.94M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. 418 delivers enough effective scares and a strong performance from Chaithra J Achar to satisfy horror fans looking for a decent Indian thriller. However, its half-hearted execution holds it back from greatness. It is worth a watch for genre enthusiasts, though expectations for the overarching story should be kept moderate.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 5/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>418 (2026)</h1>\n<p class=\"ssr-lead\">Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 22 October 2026</li><li>Runtime: 157 minutes</li><li>Genres: Horror, Thriller</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $1.33M</li><li>Overseas total: $1.61M</li><li>Latest: Day 16 (2026-11-07) — India Net $2.1k</li><li>Worldwide total: $2.94M</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. 418 delivers enough effective scares and a strong performance from Chaithra J Achar to satisfy horror fans looking for a decent Indian thriller. However, its half-hearted execution holds it back from greatness. It is worth a watch for genre enthusiasts, though expectations for the overarching story should be kept moderate.</p>\n<ul><li>Action &amp; Cinematography: 6/10</li><li>Comedy &amp; Entertainment: 5/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 6/10</li></ul>\n</article>",
   "t": "418 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -14247,14 +14509,14 @@
   "year": "2026"
  },
  "movie:1612811": {
-  "d": "Disco (2026): Action film. Story: An ordinary man undergoes a transformation as he… See cast, box office collection $86.6k, and release date 6 November 2026.",
+  "d": "Disco (2026): Action film. Story: An ordinary man undergoes a transformation as he… See cast, box office collection $88.7k, and release date 6 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/nXeFm7r4mkxP4wMnS9i2lCORGxw.jpg",
   "industry": "bollywood",
   "k": "Disco, Disco movie, Disco cast, Disco story, Disco box office collection, Disco budget, Disco review, Disco rating, Disco release date, Disco Action, Indian movies, FlickAtlas",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Disco (2026): Action film. Story: An ordinary man undergoes a transformation as he… See cast, box office collection $86.6k, and release date 6 November 2026.",
+   "description": "Disco (2026): Action film. Story: An ordinary man undergoes a transformation as he… See cast, box office collection $88.7k, and release date 6 November 2026.",
    "duration": "PT145M",
    "genre": [
     "Action"
@@ -14270,7 +14532,7 @@
   },
   "modified": "",
   "published": "2026-10-26",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Disco (2026)</h1>\n<p class=\"ssr-lead\">An ordinary man undergoes a transformation as he enters the dark and dangerous world of the underworld.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 145 minutes</li><li>Genres: Action</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $86.6k</li><li>Latest: Day 2 (2026-11-07) — India Net $23.2k</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Disco (2026)</h1>\n<p class=\"ssr-lead\">An ordinary man undergoes a transformation as he enters the dark and dangerous world of the underworld.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 145 minutes</li><li>Genres: Action</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $88.7k</li><li>Latest: Day 2 (2026-11-07) — India Net $25.4k</li></ul>\n</article>",
   "t": "Disco (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -17792,6 +18054,42 @@
   "t": "Dialling... (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1794569": {
+  "d": "Unprotected: Murder in Galicia (2026): Documentary/Crime film. Story: Documentary film that tells the story of Isabel… See cast and TMDB rating 6.3/10.",
+  "img": "https://image.tmdb.org/t/p/w780/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+  "industry": "world",
+  "k": "Unprotected: Murder in Galicia, Unprotected: Murder in Galicia movie, Unprotected: Murder in Galicia cast, Unprotected: Murder in Galicia story, Unprotected: Murder in Galicia box office collection, Unprotected: Murder in Galicia budget, Unprotected: Murder in Galicia review, Unprotected: Murder in Galicia rating, Unprotected: Murder in Galicia release date, Unprotected: Murder in Galicia trailer, Unprotected: Murder in Galicia Documentary, Unprotected: Murder in Galicia Crime, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3,
+    "ratingValue": 6.3,
+    "worstRating": 0
+   },
+   "description": "Unprotected: Murder in Galicia (2026): Documentary/Crime film. Story: Documentary film that tells the story of Isabel… See cast and TMDB rating 6.3/10.",
+   "duration": "PT65M",
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1794569",
+   "name": "Unprotected: Murder in Galicia",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1794569"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Unprotected: Murder in Galicia (2026)</h1>\n<p class=\"ssr-lead\">Documentary film that tells the story of Isabel Fuentes. In April 2015, alleged burglars left her on the brink of death in her own home, in the village of Pazos, in Verín. From the very beginning, the Guardia Civil sergeant in charge of the case suspected that the account of what had happened did not add up and tried to protect Isabel from further attack.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 65 minutes</li><li>Genres: Documentary, Crime</li><li>TMDB rating: 6.3/10 (3 votes)</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Netflix (IN)</li></ul>\n</article>",
+  "t": "Unprotected: Murder in Galicia (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1794586": {
   "d": "The Flesh and the Soul (2026): Documentary film. Story: As if opening the pages of a personal and exclusive… See cast and release date 12 November 2026.",
   "img": "https://image.tmdb.org/t/p/w500/2tXDCSVRTNaSInYZ3NqIqWov7EI.jpg",
@@ -18959,14 +19257,14 @@
   "year": "2026"
  },
  "movie:1800255": {
-  "d": "Enemy Of The Smuggler (2026): Crime/Action film. Story: Inspired by real customs investigations, a relentless… See cast and box office collection $48.6k.",
+  "d": "Enemy Of The Smuggler (2026): Crime/Action film. Story: Inspired by real customs investigations, a relentless… See cast and box office collection $49.7k.",
   "img": "https://image.tmdb.org/t/p/w500/pDZxgWM1t2fTOB5IUyPJGlDFthl.jpg",
   "industry": "bollywood",
   "k": "Enemy Of The Smuggler, Enemy Of The Smuggler movie, Enemy Of The Smuggler cast, Enemy Of The Smuggler story, Enemy Of The Smuggler box office collection, Enemy Of The Smuggler budget, Enemy Of The Smuggler review, Enemy Of The Smuggler rating, Enemy Of The Smuggler release date, Enemy Of The Smuggler Crime, Enemy Of The Smuggler Action, Indian movies, FlickAtlas",
   "ld": {
    "@context": "https://schema.org",
    "@type": "Movie",
-   "description": "Enemy Of The Smuggler (2026): Crime/Action film. Story: Inspired by real customs investigations, a relentless… See cast and box office collection $48.6k.",
+   "description": "Enemy Of The Smuggler (2026): Crime/Action film. Story: Inspired by real customs investigations, a relentless… See cast and box office collection $49.7k.",
    "genre": [
     "Crime",
     "Action"
@@ -18995,7 +19293,7 @@
   },
   "modified": "",
   "published": "2026-10-28",
-  "ssr": "<article class=\"ssr-facts\">\n<h1>Enemy Of The Smuggler (2026)</h1>\n<p class=\"ssr-lead\">Inspired by real customs investigations, a relentless battle unfolds against organized smuggling networks, exposing the hidden world of coastal operations, airport cartels and the officers determined to stop them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Genres: Crime, Action, Thriller</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $48.6k</li><li>Latest: Day 8 (2026-11-06) — India Net $1.1k</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. Enemy Of The Smuggler offers an intriguing look into coastal operations, airport cartels, and customs investigations directed by T. Samaya Murali. Fans of crime thrillers will find enough tension in the battle against organized smuggling networks to warrant a watch. It is recommended as a solid genre outing for those interested in gritty underworld tales.</p>\n<ul><li>Action &amp; Cinematography: 7/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n</article>",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Enemy Of The Smuggler (2026)</h1>\n<p class=\"ssr-lead\">Inspired by real customs investigations, a relentless battle unfolds against organized smuggling networks, exposing the hidden world of coastal operations, airport cartels and the officers determined to stop them.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 30 October 2026</li><li>Genres: Crime, Action, Thriller</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $49.7k</li><li>Latest: Day 9 (2026-11-07) — India Net $1.1k</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 6.5/10. Enemy Of The Smuggler offers an intriguing look into coastal operations, airport cartels, and customs investigations directed by T. Samaya Murali. Fans of crime thrillers will find enough tension in the battle against organized smuggling networks to warrant a watch. It is recommended as a solid genre outing for those interested in gritty underworld tales.</p>\n<ul><li>Action &amp; Cinematography: 7/10</li><li>Comedy &amp; Entertainment: 6/10</li><li>Direction: 6.5/10</li><li>Music &amp; BGM: 6.5/10</li><li>Performances: 7/10</li><li>Story &amp; Screenplay: 7/10</li></ul>\n</article>",
   "t": "Enemy Of The Smuggler (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
@@ -20268,6 +20566,35 @@
   "t": "Patakka Guddiyan (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1803837": {
+  "d": "Summer Holidays (2026): Comedy/Drama film. Story: A city boy's summer at his grandparents' Godavari… See cast and box office collection $34.9k.",
+  "img": "https://image.tmdb.org/t/p/w500/hUeIDfVjwiTKUOVHE95IoTd04bh.jpg",
+  "industry": "bollywood",
+  "k": "Summer Holidays, Summer Holidays movie, Summer Holidays cast, Summer Holidays story, Summer Holidays box office collection, Summer Holidays budget, Summer Holidays review, Summer Holidays rating, Summer Holidays release date, Summer Holidays Comedy, Summer Holidays Drama, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Summer Holidays (2026): Comedy/Drama film. Story: A city boy's summer at his grandparents' Godavari… See cast and box office collection $34.9k.",
+   "duration": "PT144M",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/hUeIDfVjwiTKUOVHE95IoTd04bh.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1803837",
+   "name": "Summer Holidays",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1803837"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Summer Holidays (2026)</h1>\n<p class=\"ssr-lead\">A city boy&#x27;s summer at his grandparents&#x27; Godavari village transforms when he befriends a spirited local paper boy. Together they explore rural life through adventures that forge an unforgettable childhood bond.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li><li>Runtime: 144 minutes</li><li>Genres: Comedy, Drama, Family</li></ul>\n<h2>Box office</h2>\n<ul><li>India Net total: $34.9k</li><li>Latest: Day 2 (2026-11-07) — India Net $18.0k</li></ul>\n</article>",
+  "t": "Summer Holidays (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1804239": {
   "d": "Second Season (2026) is a film. Story: A few years ago, Paula Ferrara wrote “The Pussy and… See cast and release date 27 October 2026.",
   "img": "https://image.tmdb.org/t/p/w780/vRZCj3qGKVB9v8HUnqYSmgsOgMV.jpg",
@@ -20640,6 +20967,147 @@
   "t": "Ninguém vai ouvir (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1806489": {
+  "d": "Summer (2026): Drama film. Story: Every summer, Francesca (12, Italian) spends time… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/wZL4umOLbOhSHDKepdFKMBThmvv.jpg",
+  "industry": "world",
+  "k": "Summer, Summer movie, Summer cast, Summer story, Summer box office collection, Summer budget, Summer review, Summer rating, Summer release date, Summer Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Summer (2026): Drama film. Story: Every summer, Francesca (12, Italian) spends time… See cast and release date 14 November 2026.",
+   "duration": "PT10M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/wZL4umOLbOhSHDKepdFKMBThmvv.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806489",
+   "name": "Summer",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1806489"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Summer (2026)</h1>\n<p class=\"ssr-lead\">Every summer, Francesca (12, Italian) spends time with her Dutch friend Alice (14) in her small Italian village. However, this year something seems to have changed. Alice is different. Older. She is more interested in making friends with the older and seemingly cooler kids in the village, and Francesca feels that they are drifting apart. Whilst Francesca still embraces her childhood, Alice is on the verge of becoming a teenager.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 10 minutes</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "Summer (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1806497": {
+  "d": "The Boy With The Balloon Heart (2026): Animation/Drama film. Story: Born with a balloon heart, a wide-eyed, dreamy and… See cast.",
+  "img": "https://image.tmdb.org/t/p/w500/yXkCkrv2oJ0L0JwPsOWHUo7wlKH.jpg",
+  "industry": "bollywood",
+  "k": "The Boy With The Balloon Heart, The Boy With The Balloon Heart movie, The Boy With The Balloon Heart cast, The Boy With The Balloon Heart story, The Boy With The Balloon Heart box office collection, The Boy With The Balloon Heart budget, The Boy With The Balloon Heart review, The Boy With The Balloon Heart rating, The Boy With The Balloon Heart release date, The Boy With The Balloon Heart Animation, The Boy With The Balloon Heart Drama, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "The Boy With The Balloon Heart (2026): Animation/Drama film. Story: Born with a balloon heart, a wide-eyed, dreamy and… See cast.",
+   "duration": "PT16M",
+   "genre": [
+    "Animation",
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/yXkCkrv2oJ0L0JwPsOWHUo7wlKH.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806497",
+   "name": "The Boy With The Balloon Heart",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1806497"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Boy With The Balloon Heart (2026)</h1>\n<p class=\"ssr-lead\">Born with a balloon heart, a wide-eyed, dreamy and emotional boy drifts through life, never quite able to find where he belongs. His delicate, floating heart sets him apart—both a gift and a burden in a world that values groundedness, practicality and conformity. As he stumbles through life grappling against the weight of existence, he struggles with loneliness and the bane of being different. But one day, a quiet revelation shows him that what once felt like a flaw might be the very thing that sets him free.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 16 minutes</li><li>Genres: Animation, Drama, Fantasy</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "The Boy With The Balloon Heart (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1806511": {
+  "d": "The Border Czar (2026): Drama film. Story: After delivering a rousing speech on immigration… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/r3rTW2ChMa2vs2EDDF96vzbHnqA.jpg",
+  "industry": "world",
+  "k": "The Border Czar, The Border Czar movie, The Border Czar cast, The Border Czar story, The Border Czar box office collection, The Border Czar budget, The Border Czar review, The Border Czar rating, The Border Czar release date, The Border Czar Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "The Border Czar (2026): Drama film. Story: After delivering a rousing speech on immigration… See cast and release date 14 November 2026.",
+   "duration": "PT12M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/r3rTW2ChMa2vs2EDDF96vzbHnqA.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806511",
+   "name": "The Border Czar",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1806511"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>The Border Czar (2026)</h1>\n<p class=\"ssr-lead\">After delivering a rousing speech on immigration, Rep. Jim Coolidge goes to sleep - only to wake up on the wrong side of the border.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 12 minutes</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "The Border Czar (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1806581": {
+  "d": "Bystander (2026): Drama film. Story: Across a series of everyday settings - a bus stop… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w500/gwOIiucrRyqXmYxG7gcuQZytmVM.jpg",
+  "industry": "world",
+  "k": "Bystander, Bystander movie, Bystander cast, Bystander story, Bystander box office collection, Bystander budget, Bystander review, Bystander rating, Bystander release date, Bystander Drama, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Bystander (2026): Drama film. Story: Across a series of everyday settings - a bus stop… See cast and release date 14 November 2026.",
+   "duration": "PT3M",
+   "genre": [
+    "Drama"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/gwOIiucrRyqXmYxG7gcuQZytmVM.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806581",
+   "name": "Bystander",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1806581"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Bystander (2026)</h1>\n<p class=\"ssr-lead\">Across a series of everyday settings - a bus stop late at night, a locker room after a match, an online gaming session, an open-plan office - we witness subtle but recognisable moments of harassment and boundary-crossing behaviour directed towards women. Nothing heightened. Nothing dramatised beyond reality. Just the familiar discomfort of something not quite right.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 3 minutes</li><li>Genres: Drama</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "Bystander (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1806585": {
+  "d": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026): Documentary film.",
+  "img": "https://image.tmdb.org/t/p/w500/ni9a3eJkVYFSKvjp4xbIcdxgBTG.jpg",
+  "industry": "bollywood",
+  "k": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India, Faceless People - The Journey of Sri Lankan Tamil Refugees in India movie, Faceless People - The Journey of Sri Lankan Tamil Refugees in India cast, Faceless People - The Journey of Sri Lankan Tamil Refugees in India story, Faceless People - The Journey of Sri Lankan Tamil Refugees in India box office collection, Faceless People - The Journey of Sri Lankan Tamil Refugees in India budget, Faceless People - The Journey of Sri Lankan Tamil Refugees in India review, Faceless People - The Journey of Sri Lankan Tamil Refugees in India rating, Faceless People - The Journey of Sri Lankan Tamil Refugees in India release date, Faceless People - The Journey of Sri Lankan Tamil Refugees in India Documentary, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026): Documentary film.",
+   "duration": "PT23M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w500/ni9a3eJkVYFSKvjp4xbIcdxgBTG.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1806585",
+   "name": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1806585"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026)</h1>\n<p class=\"ssr-lead\">Six Sri Lankan Tamil refugees living in India, from different age groups, speak about their life in camps, and their hopes and aspirations. For over three decades, Sri Lankan Tamil refugees have lived in Tamil Nadu in a protracted situation—without certainty about their future and without viable policy solutions. Three generations have grown up with aspirations they cannot fulfil, surviving through sheer resilience while quietly contributing to the economy of their host communities.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 23 minutes</li><li>Genres: Documentary</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "Faceless People - The Journey of Sri Lankan Tamil Refugees in India (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1806668": {
   "d": "Smoking in the Desert (2026): Drama/Horror film. Story: A young dictator awakens in purgatory, where he… See cast and budget $35.",
   "img": "https://image.tmdb.org/t/p/w780/boaG0InXRLoaIMbEtYGsOsfSh99.jpg",
@@ -20734,6 +21202,34 @@
   "t": "MLW Saturday Night SuperFight 2026 (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1807140": {
+  "d": "ALMA (2026): Adventure film. Story: A fictionalised retelling of the real life escape… See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/kC1UGLKFoX6LpIp0O6u4puj0xei.jpg",
+  "industry": "world",
+  "k": "ALMA, ALMA movie, ALMA cast, ALMA story, ALMA box office collection, ALMA budget, ALMA review, ALMA rating, ALMA release date, ALMA Adventure, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "ALMA (2026): Adventure film. Story: A fictionalised retelling of the real life escape… See cast and release date 14 November 2026.",
+   "duration": "PT14M",
+   "genre": [
+    "Adventure"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/kC1UGLKFoX6LpIp0O6u4puj0xei.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1807140",
+   "name": "ALMA",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1807140"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>ALMA (2026)</h1>\n<p class=\"ssr-lead\">A fictionalised retelling of the real life escape stories of three generations of women, beginning with a young girl who fled Poland at the breakout of the second world war.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 14 minutes</li><li>Genres: Adventure</li><li>Status: In Production</li></ul>\n</article>",
+  "t": "ALMA (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:1807419": {
   "d": "Edo² (2026): Science Fiction/Drama film. Story: With another summer drawing to a close in a province… See cast and release date 7 November 2026.",
   "img": "https://image.tmdb.org/t/p/w780/fQnIW1rPpJ1oKWse0VJNhag6cpY.jpg",
@@ -20789,6 +21285,34 @@
   "published": "2026-10-31",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Future History Credit (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 2026</li><li>Runtime: 66 minutes</li><li>Genres: Science Fiction, Drama</li></ul>\n</article>",
   "t": "Future History Credit (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:1807483": {
+  "d": "Deaflympics Stories (2026): Documentary film. See cast and release date 14 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/aAA04GG5FCYE6HaFUpdm9LyVU3M.jpg",
+  "industry": "world",
+  "k": "Deaflympics Stories, Deaflympics Stories movie, Deaflympics Stories cast, Deaflympics Stories story, Deaflympics Stories box office collection, Deaflympics Stories budget, Deaflympics Stories review, Deaflympics Stories rating, Deaflympics Stories release date, Deaflympics Stories Documentary, international movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Deaflympics Stories (2026): Documentary film. See cast and release date 14 November 2026.",
+   "duration": "PT124M",
+   "genre": [
+    "Documentary"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/aAA04GG5FCYE6HaFUpdm9LyVU3M.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1807483",
+   "name": "Deaflympics Stories",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-14"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1807483"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Deaflympics Stories (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 14 November 2026</li><li>Runtime: 124 minutes</li><li>Genres: Documentary</li><li>Status: Post Production</li></ul>\n</article>",
+  "t": "Deaflympics Stories (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:1807502": {
@@ -24439,6 +24963,35 @@
   "t": "Human.ID (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
+ "movie:1820303": {
+  "d": "Kashti Paar (2026): Horror/Thriller film. Story: A silent folk-horror parable from the Indian coast. See cast and release date 7 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/t4l5WUrL9qax6R4cQUbHP9HJXbY.jpg",
+  "industry": "bollywood",
+  "k": "Kashti Paar, Kashti Paar movie, Kashti Paar cast, Kashti Paar story, Kashti Paar box office collection, Kashti Paar budget, Kashti Paar review, Kashti Paar rating, Kashti Paar release date, Kashti Paar Horror, Kashti Paar Thriller, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Kashti Paar (2026): Horror/Thriller film. Story: A silent folk-horror parable from the Indian coast. See cast and release date 7 November 2026.",
+   "duration": "PT4M",
+   "genre": [
+    "Horror",
+    "Thriller"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/t4l5WUrL9qax6R4cQUbHP9HJXbY.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=1820303",
+   "name": "Kashti Paar",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-07"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=1820303"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Kashti Paar (2026)</h1>\n<p class=\"ssr-lead\">A silent folk-horror parable from the Indian coast. When a fight for a place on a fishing boat turns to blood, young Shreyas loses the man who raised him and is left alone on a sea that remembers every death. In the mist, a girl with a lantern is waiting.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 7 November 2026</li><li>Runtime: 4 minutes</li><li>Genres: Horror, Thriller</li></ul>\n</article>",
+  "t": "Kashti Paar (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
  "movie:447273": {
   "d": "Snow White (2025): Family/Fantasy film. Story: Following the benevolent King's disappearance, the… See cast, budget $271.6M, and review 6/10.",
   "img": "https://image.tmdb.org/t/p/w780/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
@@ -24535,6 +25088,30 @@
   "published": "2026-11-01",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Masters of the Universe (2026)</h1>\n<p class=\"ssr-lead\">After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.</p>\n<h2>Key facts</h2>\n<ul><li>Release date: 5 June 2026</li><li>Runtime: 141 minutes</li><li>Genres: Action, Fantasy, Science Fiction</li><li>Budget: $200M</li><li>TMDB rating: 7.1/10 (2299 votes)</li></ul>\n<h2>FlickAtlas review</h2>\n<p>Overall: 7/10. Masters of the Universe delivers an unabashedly geeky and good-natured fantasy romp that embraces its roots with surprising humor and energetic performances. While it has some pacing issues and repetitive moments during its runtime, it stands as big, dumb summer fun. Fans of the source material and viewers looking for lighthearted fantasy action will find plenty to enjoy here.</p>\n<ul><li>Action &amp; Cinematography: 7/10</li><li>Comedy &amp; Entertainment: 8/10</li><li>Direction: 7/10</li><li>Music &amp; BGM: 7.5/10</li><li>Performances: 7.5/10</li><li>Story &amp; Screenplay: 6.5/10</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on Amazon Prime Video (IN)</li><li>Streaming on Amazon Prime Video with Ads (IN)</li></ul>\n</article>",
   "t": "Masters of the Universe (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
+  "year": "2026"
+ },
+ "movie:602437": {
+  "d": "Angelina (2026) is a film. See cast and release date 6 November 2026.",
+  "img": "https://image.tmdb.org/t/p/w780/4dfSfgQTOfSrZp5lrcZ9VGlTmSE.jpg",
+  "industry": "bollywood",
+  "k": "Angelina, Angelina movie, Angelina cast, Angelina story, Angelina box office collection, Angelina budget, Angelina review, Angelina rating, Angelina release date, Indian movies, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "Movie",
+   "description": "Angelina (2026) is a film. See cast and release date 6 November 2026.",
+   "image": "https://image.tmdb.org/t/p/w780/4dfSfgQTOfSrZp5lrcZ9VGlTmSE.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/movie?id=602437",
+   "name": "Angelina",
+   "releasedEvent": {
+    "@type": "PublicationEvent",
+    "startDate": "2026-11-06"
+   },
+   "url": "https://flickatlas.co.uk/movie?id=602437"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Angelina (2026)</h1>\n<h2>Key facts</h2>\n<ul><li>Release date: 6 November 2026</li></ul>\n</article>",
+  "t": "Angelina (2026) — Cast, Box Office Collection, Budget, Story, Review & Rating | FlickAtlas",
   "year": "2026"
  },
  "movie:607141": {
@@ -30037,6 +30614,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Khushi Episode 43 — Watch Online on HUM TV</h1>\n<p class=\"ssr-lead\">Khushi episode 43 aired on 2026-10-25 — watch the full episode on HUM TV.</p>\n<p class=\"ssr-date\">Published 25 October 2026</p>\n<h2>Episode Details</h2>\n<p>Khushi Episode 43 aired on 2026-10-25 on HUM TV. The full episode is available on the channel&#x27;s official YouTube page.</p>\n<p>Watch the full episode here: https://www.youtube.com/watch?v=xWes3sjnCTQ</p>\n<h2>Episode Summary</h2>\n<p>Is episode mein, Khushi aur Samira, Humna ko shopping ke liye mall le kar jaati hain. Khushi aur Samira wahan shopping mein masroof rehti hain aur Humna unki baton se pareshan mehsoos karti hai. Is dauran, Saim ki maa Samira aur Humna ko Islamabad jane ke liye kehti hain taake wo apni bhatiji ke sath Humna ki mangni kar sakein. Jab Saim ko is bare mein pata chalta hai, to wo apni maa se naraz hota hai aur kehta hai ke wo abhi shadi nahi karna chahta. Saim ki maa is baat par zid karti hain aur kehti hain ke wo unki har baat manega. Yeh sab dekh kar Humna bohat pareshan ho jati hai aur uske baad wo apne room mein aakar roti hai. Saim usko phone karne ki koshish karta hai lekin Humna phone nahi uthati. Aakhir mein, episode is dar aur pareshani ke mahol mein khatam hoti hai jahan Humna aur Saim dono pareshan hain.</p>\n<h2>Key facts</h2>\n<ul><li>Khushi Episode 43 aired on 2026-10-25.</li><li>Channel: HUM TV.</li><li>Watch the full episode: https://www.youtube.com/watch?v=xWes3sjnCTQ</li><li>YouTube views: 1,229,578.</li><li>Story summary added 2026-10-26.</li></ul>\n</article>",
   "t": "Khushi Episode 43 — Watch Online on HUM TV"
  },
+ "news:1bsz996": {
+  "d": "Director SU Arun Kumar expresses deep admiration for Kamal Haasan as principal photography kicks off for Sandiyar on the veteran actor's seventy-second…",
+  "img": "https://images.timesnownews.com/thumb/msid-156479859,thumbsize-588530,width-1280,height-720,resizemode-75/156479859.jpg",
+  "k": "Sandiyar film, Kamal Haasan Sandiyar, SU Arun Kumar Sandiyar, Raaj Kamal Films International, Sandiyar, Kamal Haasan, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Principal Photography Begins On A Milestone Day\n\nPrincipal photography for the upcoming Tamil feature Sandiyar officially commenced on November 7, 2026, coinciding with the seventy-second birthday of veteran star Kamal Haasan.\n\nThe milestone was marked by the release of a striking first-look poster from the production house, signaling the immediate start of shooting on the actor's special day.\n\nThe First Look And Action-Heavy Aesthetics\n\nThe newly revealed promotional poster showcases the lead actor in a fiercely intense avatar, gripping a pistol with a determined expression.\n\nAccompanying the visual reveal, the studio shared a bold caption reading six rounds and zero mercy, hinting at a gritty revenge narrative while plot details remain under wraps.\n\nDirector SU Arun Kumar Pens An Emotional Tribute\n\nDirector SU Arun Kumar turned to social media to share a deeply heartfelt message in Tamil, reflecting on the profound influence the legendary actor has had on his cinematic journey.\n\nThe filmmaker expressed his immense pride in finally working alongside the celebrated artist, noting that his body of work has long served as a major creative inspiration.\n\nAcknowledging Key Collaborators And Team Commitment\n\nIn his public statement, the director also extended sincere appreciation to elder brother Mahendran and close friend Disney for helping materialize his long-held creative aspirations.\n\nHe assured supporters that his entire crew is fully dedicated to channeling immense hard work into delivering a remarkable cinematic experience for audiences.\n\nHistorical Context Of The Film Title\n\nThe title Sandiyar carries historical significance, as it was originally chosen by Kamal Haasan for his 2004 cinematic venture before facing objections from specific community groups.\n\nFollowing considerable deliberations at that time, the title was ultimately altered to Virumaandi, bringing the name back into circulation for this brand-new project.\n\nCore Technical Crew And Production Backing\n\nThe movie is being produced under the banner of Raaj Kamal Films International, with Kamal Haasan and R Mahendran serving as producers.\n\nMusic composer Anirudh Ravichander is attached to create the soundtrack, while National Award-winning stunt directors Anbariv are slated to handle the action choreography.\n\nNews Overview\n\nDirector SU Arun Kumar began shooting for Sandiyar on Kamal Haasan's seventy-second birthday, coinciding with the release of a gripping first look poster.\n\nThe project brings back a historical title previously linked to the actor's 2004 film while featuring a prominent technical crew including Anirudh Ravichander and Anbariv.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-07T20:47:50.000Z",
+   "description": "Director SU Arun Kumar expresses deep admiration for Kamal Haasan as principal photography kicks off for Sandiyar on the veteran actor's seventy-second…",
+   "headline": "Kamal Haasan Begins Filming Sandiyar On His Birthday As First Look Poster Drops",
+   "image": "https://images.timesnownews.com/thumb/msid-156479859,thumbsize-588530,width-1280,height-720,resizemode-75/156479859.jpg",
+   "keywords": "Sandiyar film, Kamal Haasan Sandiyar, SU Arun Kumar Sandiyar, Raaj Kamal Films International",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1bsz996",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1bsz996"
+  },
+  "modified": "",
+  "published": "2026-11-07T20:47:50.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Kamal Haasan Begins Filming Sandiyar On His Birthday As First Look Poster Drops</h1>\n<p class=\"ssr-lead\">Director SU Arun Kumar expresses deep admiration for Kamal Haasan as principal photography kicks off for Sandiyar on the veteran actor&#x27;s seventy-second birthday, backed by a striking first-look poster.</p>\n<p class=\"ssr-date\">Published 7 November 2026</p>\n<h2>Principal Photography Begins On A Milestone Day</h2>\n<p>Principal photography for the upcoming Tamil feature Sandiyar officially commenced on November 7, 2026, coinciding with the seventy-second birthday of veteran star Kamal Haasan.</p>\n<p>The milestone was marked by the release of a striking first-look poster from the production house, signaling the immediate start of shooting on the actor&#x27;s special day.</p>\n<h2>The First Look And Action-Heavy Aesthetics</h2>\n<p>The newly revealed promotional poster showcases the lead actor in a fiercely intense avatar, gripping a pistol with a determined expression.</p>\n<p>Accompanying the visual reveal, the studio shared a bold caption reading six rounds and zero mercy, hinting at a gritty revenge narrative while plot details remain under wraps.</p>\n<h2>Director SU Arun Kumar Pens An Emotional Tribute</h2>\n<p>Director SU Arun Kumar turned to social media to share a deeply heartfelt message in Tamil, reflecting on the profound influence the legendary actor has had on his cinematic journey.</p>\n<p>The filmmaker expressed his immense pride in finally working alongside the celebrated artist, noting that his body of work has long served as a major creative inspiration.</p>\n<h2>Acknowledging Key Collaborators And Team Commitment</h2>\n<p>In his public statement, the director also extended sincere appreciation to elder brother Mahendran and close friend Disney for helping materialize his long-held creative aspirations.</p>\n<p>He assured supporters that his entire crew is fully dedicated to channeling immense hard work into delivering a remarkable cinematic experience for audiences.</p>\n<h2>Historical Context Of The Film Title</h2>\n<p>The title Sandiyar carries historical significance, as it was originally chosen by Kamal Haasan for his 2004 cinematic venture before facing objections from specific community groups.</p>\n<p>Following considerable deliberations at that time, the title was ultimately altered to Virumaandi, bringing the name back into circulation for this brand-new project.</p>\n<h2>Core Technical Crew And Production Backing</h2>\n<p>The movie is being produced under the banner of Raaj Kamal Films International, with Kamal Haasan and R Mahendran serving as producers.</p>\n<p>Music composer Anirudh Ravichander is attached to create the soundtrack, while National Award-winning stunt directors Anbariv are slated to handle the action choreography.</p>\n<h2>News Overview</h2>\n<p>Director SU Arun Kumar began shooting for Sandiyar on Kamal Haasan&#x27;s seventy-second birthday, coinciding with the release of a gripping first look poster.</p>\n<p>The project brings back a historical title previously linked to the actor&#x27;s 2004 film while featuring a prominent technical crew including Anirudh Ravichander and Anbariv.</p>\n<h2>Key facts</h2>\n<ul><li>Kamal Haasan turned 72 on November 7, 2026.</li><li>The official title Sandiyar was announced on Friday, November 6, 2026.</li><li>The original title Sandiyar was chosen for his 2004 film Virumaandi.</li><li>Music for the film is composed by Anirudh Ravichander.</li><li>Stunt choreography is handled by Anbariv.</li></ul>\n</article>",
+  "t": "Kamal Haasan Begins Filming Sandiyar On His Birthday As First Look Poster Drops"
+ },
  "news:1btctpu": {
   "d": "Celebrity Traitors: The comedian and actress discusses how her body went into shock during her comeback on the BBC reality show after spending years bedbound…",
   "img": "https://flickatlas.co.uk/icon-512.png",
@@ -33411,6 +34021,39 @@
   "published": "2026-10-27T07:08:33.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Vikrant Massey Looks Back at His National Award-Winning Role as 12th Fail Reaches Three-Year Milestone</h1>\n<p class=\"ssr-lead\">Actor Vikrant Massey opens up about the emotional depth, sequential filming, and unscripted moments that went into portraying real-life IPS officer Manoj Kumar Sharma.</p>\n<p class=\"ssr-date\">Published 27 October 2026</p>\n<h2>Celebrating Three Years of a Modern Classic</h2>\n<p>Marking three years since its theatrical release, the acclaimed biographical drama continues to draw praise for its raw emotional resonance and authentic storytelling. Chronicling the grueling journey of a young man fighting against all odds, the feature has cemented its place in contemporary cinema. Viewers have continually lauded the project for its unflinching portrayal of grit, perseverance, and triumph over adversity.</p>\n<p>At the heart of this success is the lead performance, which captured the collective imagination of moviegoers nationwide. The role not only connected deeply with audiences on an emotional level but also earned widespread critical acclaim. This appreciation culminated in top honors, marking a major milestone for the star&#x27;s illustrious film career.</p>\n<h2>Embodying IPS Officer Manoj Kumar Sharma</h2>\n<p>Bringing a real-life public servant to the silver screen requires immense dedication and a profound understanding of the character&#x27;s internal struggles. The narrative follows the arduous path of an individual striving to clear a notoriously difficult civil services examination. Through careful choices and an earnest delivery, the lead actor managed to breathe life into the inspirational journey.</p>\n<p>The creative vision behind the lens played a critical role in shaping the final output. The director orchestrated an environment where genuine emotions could surface naturally during pivotal sequences. This careful cultivation of tone allowed the depiction of resilience to feel grounded and entirely believable.</p>\n<h2>The Mechanics of Sequential Filming</h2>\n<p>One of the most defining aspects of the production process was the choice to shoot the vast majority of scenes in chronological order. Approximately eighty-five percent of the picture followed this sequential approach, altering how the cast experienced the narrative arc. By living through the trials step by step, the primary artist built an authentic sense of exhaustion and relief.</p>\n<p>This methodology proved particularly vital for the climactic examination results sequence. Having already navigated weeks of simulated hardship and extensive preparation, the emotional breakdown required very little artificial enhancement. The journey mirrored the character&#x27;s actual trials, lending an organic weight to the resolution.</p>\n<h2>Unscripted Impulses and Physicality</h2>\n<p>Spontaneous physical expressions often elevate a great performance into an unforgettable cinematic memory. During the intense moment of realizing he had finally cleared the examination, a specific gesture emerged without prior planning. The instinctive clasping of the knee happened entirely by chance as the character&#x27;s accumulated burdens finally lifted.</p>\n<p>This unscripted reaction captured the overwhelming relief of a final, desperate attempt succeeding against steep odds. The performer noted that such impulses arise naturally when an actor has fully immersed themselves in the psychological weight of the narrative. It underscored the exhaustion of a protagonist who had poured every ounce of remaining energy into the endeavor.</p>\n<h2>Observation Over Formal Training</h2>\n<p>Without a traditional background in dramatic institutions, the actor relies on alternative methods to construct complex personas. Extensive observation of daily life and maintaining personal journals serve as primary tools for character building. Logging specific thoughts and behavioral traits provides a reliable reservoir of reference material when tackling demanding roles.</p>\n<p>This unique preparation style enables a deep connection with underdogs and individuals fighting against systemic hurdles. By anchoring performances in meticulous observation rather than rigid formulas, the star consistently delivers grounded and relatable portrayals across diverse cinematic projects.</p>\n<h2>Resilience Echoed Through Notable Dialogues</h2>\n<p>Memorable lines within the screenplay often encapsulate the overarching theme of unyielding determination. A standout reference to legendary mountaineers highlights the difference between those who achieve mainstream renown and those who break barriers in silence. Comparing extreme mountaineering milestones to the protagonist&#x27;s barefoot journey emphasizes an isolated struggle devoid of safety nets.</p>\n<p>This tenacity defines the core message of the biographical drama, reminding viewers of the power inherent in quiet persistence. The sentiment resonates far beyond the cinematic universe, offering an inspiring blueprint for anyone confronting monumental life challenges without conventional advantages.</p>\n<h2>Looking Toward Future Real-Life Portraits</h2>\n<p>Building upon the momentum of this career-defining milestone, the celebrated performer continues to seek out demanding roles. Upcoming projects include another biographical feature titled White, where he is slated to portray spiritual leader Sri Sri Ravi Shankar. This choice demonstrates a continued commitment to interpreting multifaceted real-life personalities on film.</p>\n<p>As the legacy of his past triumphs grows, fans eagerly anticipate how these upcoming cinematic ventures will unfold. The dedication to authentic storytelling ensures that his future filmography will remain anchored in compelling, character-driven narratives.</p>\n<h2>News Overview</h2>\n<p>Vikrant Massey recently reflected on his National Award-winning performance in 12th Fail as the film marked its third anniversary. He discussed how shooting most of the movie in sequence and relying on personal journals helped him authentically portray IPS officer Manoj Kumar Sharma.</p>\n<h2>Key facts</h2>\n<ul><li>12th Fail completed three years of its theatrical release on October 27, 2026.</li><li>Vikrant Massey won his first National Film Award for Best Actor for his role as IPS officer Manoj Kumar Sharma.</li><li>Vidhu Vinod Chopra directed 12th Fail.</li><li>Approximately 85% of the film was shot in sequence.</li><li>Vikrant Massey is set to portray spiritual leader Sri Sri Ravi Shankar in an upcoming biopic titled White.</li></ul>\n</article>",
   "t": "Vikrant Massey Looks Back at His National Award-Winning Role as 12th Fail Reaches Three-Year Milestone"
+ },
+ "news:1jj0r93": {
+  "d": "Recent reports have highlighted the staggering reported salaries of the star-studded cast of the upcoming two-part epic film Ramayana, led by Ranbir Kapoor…",
+  "img": "https://images.timesnownews.com/thumb/msid-156480407,thumbsize-800279,width-1280,height-720,resizemode-75/156480407.jpg",
+  "k": "Ramayana cast fees, Ranbir Kapoor Ramayana salary, Yash Ramayana fee, Sai Pallavi Ramayana salary, Sunny Deol Ramayana, Ranbir Kapoor Ramayana, Ramayana, Ranbir Kapoor, Yash Ramayana, entertainment news",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "The Scale of Ramayana and Cast Remunerations\n\nThe upcoming two-part cinematic saga Ramayana features a massive ensemble of major names from across the Indian film industry. Due to the monumental scope of the production, the financial remuneration of the actors involved has sparked intense public interest and media discussion.\n\nReports circulating online have detailed estimated payouts for key personnel, though neither the production team nor the performers have officially confirmed the exact contract figures or made full salary lists public.\n\nRanbir Kapoor's Earnings Compared to Animal\n\nRanbir Kapoor, who steps into the role of Lord Rama, is reportedly commanding a fee of Rs 75 crore for each part of the two-film project. This brings his total projected remuneration to approximately Rs 150 crore across the entire saga.\n\nThis figure represents a substantial increase over his reported earnings for the 2023 blockbuster Animal, for which he was reportedly paid between Rs 30 crore and Rs 35 crore alongside a share of the film's profits. Because of the profit-sharing aspect of his previous deal, a direct financial comparison is complex, but the baseline salary for Ramayana is notably higher.\n\nYash and Sai Pallavi's Financial Agreements\n\nYash, cast in the role of Ravana, was initially associated with a reported deal worth Rs 100 crore for the two films. However, later reports indicated a structural shift in his compensation, noting that he is involved as a co-producer and is expected to take a share of the profits instead of a conventional acting fee.\n\nMeanwhile, Sai Pallavi is reportedly earning Rs 6 crore per installment to portray Sita, totaling Rs 12 crore for the two-part project. This amount marks a significant increase from the remuneration she typically commanded for her earlier work in South Indian cinema.\n\nReported Payouts for Sunny Deol and Ravie Dubey\n\nSunny Deol, who is cast as Hanuman, is reportedly drawing a fee of Rs 20 crore per installment. However, given that his appearance in the first part is limited to a post-credits glimpse, analysts note it remains unclear whether this total sum covers both parts or the broader project as a whole.\n\nRavie Dubey, who plays Lakshman, faced fluctuating estimates regarding his pay. While initial reports placed his remuneration between Rs 2 crore and Rs 4 crore, subsequent reports from November 2026 suggested a total pay of Rs 20 crore, or Rs 10 crore per instalment, though these figures remain unverified estimates.\n\nEstimates for the Supporting Cast\n\nFinancial estimates for the supporting cast members have also emerged from various industry sources, though they lack independent verification. Rakul Preet Singh, who plays Surpanakha, reportedly received approximately Rs 1.5 crore, while Kajal Aggarwal was tied to an estimated fee of Rs 1 crore for playing Mandodari.\n\nAdditional reported figures include Raghav Juyal receiving around Rs 1 crore for his role as Meghnad, Anupam Kher taking roughly Rs 50 lakh for voicing Jatayu, Kunal Kapoor receiving about Rs 30 lakh as Indra, and Lara Dutta taking around Rs 25 lakh to play Kaikeyi. No credible public figure has emerged for Arun Govil's remuneration as King Dasharatha.\n\nFee Waivers and Philanthropy\n\nAmong the notable financial arrangements surrounding the production, Vivek Oberoi chose a unique path for his role as Vidyutjiva. The actor reportedly decided to completely waive his acting fee with the stipulation that the equivalent amount be donated to support children fighting cancer.\n\nNews Overview\n\nReports detailing the estimated salaries of the cast for the two-part film Ramayana indicate that lead actor Ranbir Kapoor is commanding Rs 75 crore per installment. Other major cast members like Yash, Sai Pallavi, Sunny Deol, and Ravie Dubey are also tied to significant reported financial packages alongside various supporting actors.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-07T20:47:50.000Z",
+   "description": "Recent reports have highlighted the staggering reported salaries of the star-studded cast of the upcoming two-part epic film Ramayana, led by Ranbir Kapoor…",
+   "headline": "Ramayana Cast Remuneration Report: Inside the Reported Salaries of Ranbir Kapoor, Yash, Sai Pallavi and Others",
+   "image": "https://images.timesnownews.com/thumb/msid-156480407,thumbsize-800279,width-1280,height-720,resizemode-75/156480407.jpg",
+   "keywords": "Ramayana cast fees, Ranbir Kapoor Ramayana salary, Yash Ramayana fee, Sai Pallavi Ramayana salary, Sunny Deol Ramayana",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=1jj0r93",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=1jj0r93"
+  },
+  "modified": "",
+  "published": "2026-11-07T20:47:50.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana Cast Remuneration Report: Inside the Reported Salaries of Ranbir Kapoor, Yash, Sai Pallavi and Others</h1>\n<p class=\"ssr-lead\">Recent reports have highlighted the staggering reported salaries of the star-studded cast of the upcoming two-part epic film Ramayana, led by Ranbir Kapoor, Yash, and Sai Pallavi.</p>\n<p class=\"ssr-date\">Published 7 November 2026</p>\n<h2>The Scale of Ramayana and Cast Remunerations</h2>\n<p>The upcoming two-part cinematic saga Ramayana features a massive ensemble of major names from across the Indian film industry. Due to the monumental scope of the production, the financial remuneration of the actors involved has sparked intense public interest and media discussion.</p>\n<p>Reports circulating online have detailed estimated payouts for key personnel, though neither the production team nor the performers have officially confirmed the exact contract figures or made full salary lists public.</p>\n<h2>Ranbir Kapoor&#x27;s Earnings Compared to Animal</h2>\n<p>Ranbir Kapoor, who steps into the role of Lord Rama, is reportedly commanding a fee of Rs 75 crore for each part of the two-film project. This brings his total projected remuneration to approximately Rs 150 crore across the entire saga.</p>\n<p>This figure represents a substantial increase over his reported earnings for the 2023 blockbuster Animal, for which he was reportedly paid between Rs 30 crore and Rs 35 crore alongside a share of the film&#x27;s profits. Because of the profit-sharing aspect of his previous deal, a direct financial comparison is complex, but the baseline salary for Ramayana is notably higher.</p>\n<h2>Yash and Sai Pallavi&#x27;s Financial Agreements</h2>\n<p>Yash, cast in the role of Ravana, was initially associated with a reported deal worth Rs 100 crore for the two films. However, later reports indicated a structural shift in his compensation, noting that he is involved as a co-producer and is expected to take a share of the profits instead of a conventional acting fee.</p>\n<p>Meanwhile, Sai Pallavi is reportedly earning Rs 6 crore per installment to portray Sita, totaling Rs 12 crore for the two-part project. This amount marks a significant increase from the remuneration she typically commanded for her earlier work in South Indian cinema.</p>\n<h2>Reported Payouts for Sunny Deol and Ravie Dubey</h2>\n<p>Sunny Deol, who is cast as Hanuman, is reportedly drawing a fee of Rs 20 crore per installment. However, given that his appearance in the first part is limited to a post-credits glimpse, analysts note it remains unclear whether this total sum covers both parts or the broader project as a whole.</p>\n<p>Ravie Dubey, who plays Lakshman, faced fluctuating estimates regarding his pay. While initial reports placed his remuneration between Rs 2 crore and Rs 4 crore, subsequent reports from November 2026 suggested a total pay of Rs 20 crore, or Rs 10 crore per instalment, though these figures remain unverified estimates.</p>\n<h2>Estimates for the Supporting Cast</h2>\n<p>Financial estimates for the supporting cast members have also emerged from various industry sources, though they lack independent verification. Rakul Preet Singh, who plays Surpanakha, reportedly received approximately Rs 1.5 crore, while Kajal Aggarwal was tied to an estimated fee of Rs 1 crore for playing Mandodari.</p>\n<p>Additional reported figures include Raghav Juyal receiving around Rs 1 crore for his role as Meghnad, Anupam Kher taking roughly Rs 50 lakh for voicing Jatayu, Kunal Kapoor receiving about Rs 30 lakh as Indra, and Lara Dutta taking around Rs 25 lakh to play Kaikeyi. No credible public figure has emerged for Arun Govil&#x27;s remuneration as King Dasharatha.</p>\n<h2>Fee Waivers and Philanthropy</h2>\n<p>Among the notable financial arrangements surrounding the production, Vivek Oberoi chose a unique path for his role as Vidyutjiva. The actor reportedly decided to completely waive his acting fee with the stipulation that the equivalent amount be donated to support children fighting cancer.</p>\n<h2>News Overview</h2>\n<p>Reports detailing the estimated salaries of the cast for the two-part film Ramayana indicate that lead actor Ranbir Kapoor is commanding Rs 75 crore per installment. Other major cast members like Yash, Sai Pallavi, Sunny Deol, and Ravie Dubey are also tied to significant reported financial packages alongside various supporting actors.</p>\n<h2>Key facts</h2>\n<ul><li>Ranbir Kapoor is reportedly earning Rs 75 crore per installment for Ramayana, totaling about Rs 150 crore for the two-part project.</li><li>Ranbir Kapoor was reportedly paid Rs 30-35 crore for Animal along with a profit share.</li><li>Yash is associated with the project as a co-producer and profit sharer.</li><li>Sai Pallavi is reportedly paid Rs 6 crore per part for playing Sita, totaling Rs 12 crore.</li><li>Sunny Deol is reportedly charging Rs 20 crore per instalment to play Hanuman.</li><li>Ravie Dubey&#x27;s reported total pay for playing Lakshman is Rs 20 crore, or Rs 10 crore per instalment.</li><li>Rakul Preet Singh took around Rs 1.5 crore for playing Surpanakha.</li><li>Kajal Aggarwal took approximately Rs 1 crore for playing Mandodari.</li><li>Raghav Juyal received around Rs 1 crore for playing Meghnad.</li><li>Anupam Kher received around Rs 50 lakh for voicing Jatayu.</li><li>Kunal Kapoor was paid approximately Rs 30 lakh to play Indra.</li><li>Lara Dutta took around Rs 25 lakh to play Kaikeyi.</li><li>Vivek Oberoi waived his acting fee to have the amount donated to children fighting cancer.</li></ul>\n</article>",
+  "t": "Ramayana Cast Remuneration Report: Inside the Reported Salaries of Ranbir Kapoor, Yash, Sai Pallavi and Others"
  },
  "news:1jl7qgo": {
   "d": "Following his recent success in Below, actor Josh Hartnett joins Elle Fanning in Rebecca Miller's upcoming biographical film Moonsong: A Life In Seven Verses.",
@@ -41255,6 +41898,39 @@
   "ssr": "<article class=\"ssr-facts\">\n<h1>Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie</h1>\n<p class=\"ssr-lead\">One Tree Entertainment has debuted an exclusive trailer for Money by Sundown, a new Southern dark comedy about a desperate kidnapping and a dysfunctional family.</p>\n<p class=\"ssr-date\">Published 4 November 2026</p>\n<h2>Exclusive Trailer Premiere</h2>\n<p>ComingSoon has exclusively debuted the official trailer for Money by Sundown, a brand-new dark comedy centered around a chaotic kidnapping. The project comes from One Tree Entertainment and arrives ahead of its upcoming Digital release later this month.</p>\n<h2>Plot and Premise</h2>\n<p>The story follows a stressful situation where a teenage daughter is abducted and the ransom demands are completely impossible to pay. With few options remaining, the mother must turn to her lying, cheating ex-husband whom she hoped never to rely on again.</p>\n<p>Character Tripp Holliday is described as charismatic, reckless, and always convinced he has a plan, making him the absolute last person Jessamine Holliday wants to call. However, with kidnappers demanding $80,000 by sundown, sheer desperation leaves no room for pride.</p>\n<h2>Tone and Setting</h2>\n<p>Every new solution creates an even bigger problem for the pair as they navigate a wild mix of suspense, dark comedy, and deep family dysfunction. The narrative proves that the people who drive us crazy can occasionally be the ones we need the most.</p>\n<h2>Festival Debut</h2>\n<p>Before hitting digital storefronts, the Southern dark comedy movie is scheduled to make its official world premiere at the Rome International Film Festival. The screening will take place in Rome, Georgia, on Saturday, November 7 at noon.</p>\n<h2>Cast and Crew</h2>\n<p>The dark comedy features performances by Claire Bronson, known for Mr Mercedes, Bandit, and Greenland, alongside Burgess Jenkins, known for Blue Ridge: The Series, The Girl Who Believed in Miracles, The Young the Restless, and One Tree Hill.</p>\n<p>The film is written and directed by filmmaker Geoffrey Gunn. The supporting cast includes Chapel Oaks, Matt Servitto, and Brian Ashton Smith.</p>\n<h2>Director Vision</h2>\n<p>Director Geoffrey Gunn explained that having lived and worked in the South for over a decade, he wanted to capture the real place he knew instead of the typical parodies seen on screen.</p>\n<p>He also aimed to tell a fun story about larger-than-life schemers and dreamers, noting that the end result resembles a tall tale, keeping with the tradition of good Southern stories.</p>\n<h2>Release Details</h2>\n<p>Money by Sundown will officially become available to rent and purchase on Digital platforms on November 17, 2026.</p>\n<h2>News Overview</h2>\n<p>One Tree Entertainment has released an exclusive trailer for the dark comedy movie Money by Sundown, which follows estranged parents trying to raise an eighty thousand dollar ransom by sundown. Written and directed by Geoffrey Gunn and starring Claire Bronson and Burgess Jenkins, the film will premiere at the Rome International Film Festival before its digital release on November 17, 2026.</p>\n<h2>Key facts</h2>\n<ul><li>Money by Sundown is a Southern dark comedy movie from One Tree Entertainment.</li><li>The ransom demand in the movie is $80,000 by sundown.</li><li>The movie makes its world premiere at the Rome International Film Festival in Rome, Georgia, on Saturday, November 7 at noon.</li><li>The film stars Claire Bronson and Burgess Jenkins.</li><li>The film is written and directed by Geoffrey Gunn.</li><li>The supporting cast includes Chapel Oaks, Matt Servitto, and Brian Ashton Smith.</li><li>Money by Sundown will be available to rent and purchase on Digital on November 17, 2026.</li></ul>\n</article>",
   "t": "Money by Sundown Trailer Previews Chaotic Southern Kidnapping Movie"
  },
+ "news:59coip": {
+  "d": "Ramayana: Nitesh Tiwari's mythological epic experiences a major 45.3 percent surge on its third day, bringing the domestic net collection to Rs 182.70 crore…",
+  "img": "https://images.timesnownews.com/thumb/msid-156480702,thumbsize-974301,width-1280,height-720,resizemode-75/156480702.jpg",
+  "k": "Ramayana film box office, Ranbir Kapoor Ramayana collection, Ramayana Part One Saturday collection, Yash Ravana Ramayana movie, Ranbir Kapoor Ramayana, Ramayana, Ranbir Kapoor, Yash Ramayana, entertainment news, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "Saturday Box Office Surge\n\nThe theatrical run of the mythological drama experienced a powerful resurgence on Saturday, November 7, following a brief collection dip on its second day. According to live estimates provided by Sacnilk, the feature brought in a net collection of Rs 69.80 crore across the country on Day 3.\n\nThis performance represents a substantial 45.3 percent increase compared to the earnings recorded on Friday. With these latest numbers, the film is now on the verge of entering the coveted Rs 200-crore domestic net club.\n\nFirst Three Days Domestic Breakdown\n\nThe cinematic release started its theatrical journey on Thursday, November 5, with an opening domestic net total of Rs 64.85 crore. Collections experienced a decline on Friday, dropping to Rs 48.05 crore before bouncing back significantly with Saturday's figures.\n\nAcross the country, the feature was screened across 23,647 shows on Saturday, achieving an average earning of Rs 29,517 per show. The cumulative three-year domestic net collection has now reached Rs 182.70 crore, alongside a domestic gross total of Rs 218.25 crore.\n\nPerformance Across Language Versions\n\nThe Hindi version continued to dominate the domestic market, contributing 19,882 shows and securing a collection of Rs 53 crore on Saturday. Regional language versions also added meaningful numbers to the overall domestic tally.\n\nThe Kannada version generated Rs 6.30 crore from 907 shows, while the Telugu version brought in Rs 6 crore across 1,586 shows. Additionally, the Tamil version secured Rs 2.50 crore from 681 shows, and the Malayalam version contributed Rs 2 crore from 591 shows.\n\nGlobal And Overseas Tally\n\nBeyond domestic borders, the feature also performed strongly in international markets, adding substantial figures to its overall box office statistics. Overseas collections on Day 3 alone reached approximately Rs 60 crore.\n\nThis international performance pushed the cumulative overseas gross to an estimated Rs 157.25 crore. Combined with domestic revenues, the worldwide gross collection after three days stands at an impressive Rs 375.50 crore.\n\nComparison With Dhurandhar\n\nThe theatrical run has drawn industry comparisons with another strong box-office performer, Ranveer Singh's Dhurandhar. Having amassed Rs 182.70 crore in India net collections within three days, the mythological adaptation has moved well ahead of Dhurandhar's reported opening-day figures of around Rs 28 crore.\n\nAnalysts note, however, that both releases operated under different conditions, and a three-day comparison differs significantly from evaluating lifetime theatrical performance.\n\nCast And Production Background\n\nDirected by Nitesh Tiwari, Ramayana: Part One is a two-part adaptation based on the ancient epic. The narrative chronicles the journey of Rama, the abduction of Sita by Ravana, and the subsequent events leading to the battle between them.\n\nThe ensemble cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman. The project is produced by Namit Malhotra through Prime Focus Studios, in association with DNEG and Yash's Monster Mind Creations, with the second part scheduled for a Diwali 2028 release.\n\nNews Overview\n\nNitesh Tiwari's mythological epic Ramayana: Part One saw a major 45.3 percent surge on Saturday, November 7, pushing its three-day India net total to Rs 182.70 crore and worldwide gross to Rs 375.50 crore. Featuring Ranbir Kapoor, Yash, and Sai Pallavi, the film is now poised to enter the Rs 200-crore domestic club.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-07T20:47:50.000Z",
+   "description": "Ramayana: Nitesh Tiwari's mythological epic experiences a major 45.3 percent surge on its third day, bringing the domestic net collection to Rs 182.70 crore…",
+   "headline": "Ramayana Box Office Collection Day 3: Ranbir Kapoor And Yash Starrer Sees Massive Saturday Jump",
+   "image": "https://images.timesnownews.com/thumb/msid-156480702,thumbsize-974301,width-1280,height-720,resizemode-75/156480702.jpg",
+   "keywords": "Ramayana film box office, Ranbir Kapoor Ramayana collection, Ramayana Part One Saturday collection, Yash Ravana Ramayana movie",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=59coip",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=59coip"
+  },
+  "modified": "",
+  "published": "2026-11-07T20:47:50.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Ramayana Box Office Collection Day 3: Ranbir Kapoor And Yash Starrer Sees Massive Saturday Jump</h1>\n<p class=\"ssr-lead\">Nitesh Tiwari&#x27;s mythological epic experiences a major 45.3 percent surge on its third day, bringing the domestic net collection to Rs 182.70 crore and closing in on the Rs 200-crore milestone.</p>\n<p class=\"ssr-date\">Published 7 November 2026</p>\n<h2>Saturday Box Office Surge</h2>\n<p>The theatrical run of the mythological drama experienced a powerful resurgence on Saturday, November 7, following a brief collection dip on its second day. According to live estimates provided by Sacnilk, the feature brought in a net collection of Rs 69.80 crore across the country on Day 3.</p>\n<p>This performance represents a substantial 45.3 percent increase compared to the earnings recorded on Friday. With these latest numbers, the film is now on the verge of entering the coveted Rs 200-crore domestic net club.</p>\n<h2>First Three Days Domestic Breakdown</h2>\n<p>The cinematic release started its theatrical journey on Thursday, November 5, with an opening domestic net total of Rs 64.85 crore. Collections experienced a decline on Friday, dropping to Rs 48.05 crore before bouncing back significantly with Saturday&#x27;s figures.</p>\n<p>Across the country, the feature was screened across 23,647 shows on Saturday, achieving an average earning of Rs 29,517 per show. The cumulative three-year domestic net collection has now reached Rs 182.70 crore, alongside a domestic gross total of Rs 218.25 crore.</p>\n<h2>Performance Across Language Versions</h2>\n<p>The Hindi version continued to dominate the domestic market, contributing 19,882 shows and securing a collection of Rs 53 crore on Saturday. Regional language versions also added meaningful numbers to the overall domestic tally.</p>\n<p>The Kannada version generated Rs 6.30 crore from 907 shows, while the Telugu version brought in Rs 6 crore across 1,586 shows. Additionally, the Tamil version secured Rs 2.50 crore from 681 shows, and the Malayalam version contributed Rs 2 crore from 591 shows.</p>\n<h2>Global And Overseas Tally</h2>\n<p>Beyond domestic borders, the feature also performed strongly in international markets, adding substantial figures to its overall box office statistics. Overseas collections on Day 3 alone reached approximately Rs 60 crore.</p>\n<p>This international performance pushed the cumulative overseas gross to an estimated Rs 157.25 crore. Combined with domestic revenues, the worldwide gross collection after three days stands at an impressive Rs 375.50 crore.</p>\n<h2>Comparison With Dhurandhar</h2>\n<p>The theatrical run has drawn industry comparisons with another strong box-office performer, Ranveer Singh&#x27;s Dhurandhar. Having amassed Rs 182.70 crore in India net collections within three days, the mythological adaptation has moved well ahead of Dhurandhar&#x27;s reported opening-day figures of around Rs 28 crore.</p>\n<p>Analysts note, however, that both releases operated under different conditions, and a three-day comparison differs significantly from evaluating lifetime theatrical performance.</p>\n<h2>Cast And Production Background</h2>\n<p>Directed by Nitesh Tiwari, Ramayana: Part One is a two-part adaptation based on the ancient epic. The narrative chronicles the journey of Rama, the abduction of Sita by Ravana, and the subsequent events leading to the battle between them.</p>\n<p>The ensemble cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman. The project is produced by Namit Malhotra through Prime Focus Studios, in association with DNEG and Yash&#x27;s Monster Mind Creations, with the second part scheduled for a Diwali 2028 release.</p>\n<h2>News Overview</h2>\n<p>Nitesh Tiwari&#x27;s mythological epic Ramayana: Part One saw a major 45.3 percent surge on Saturday, November 7, pushing its three-day India net total to Rs 182.70 crore and worldwide gross to Rs 375.50 crore. Featuring Ranbir Kapoor, Yash, and Sai Pallavi, the film is now poised to enter the Rs 200-crore domestic club.</p>\n<h2>Key facts</h2>\n<ul><li>Ranbir Kapoor&#x27;s mythological epic recorded a 45.3 percent surge over Friday on Saturday, November 7.</li><li>Three-day India net total reached Rs 182.70 crore.</li><li>Worldwide gross climbed to Rs 375.50 crore.</li><li>Day 3 net collection in India was Rs 69.80 crore.</li><li>The film opened with a net of Rs 64.85 crore in India on Thursday, November 5.</li><li>Collections dipped to Rs 48.05 crore on Friday.</li><li>Total shows on Saturday were 23,647.</li><li>Hindi version collection on Saturday was Rs 53 crore from 19,882 shows.</li><li>Kannada version grossed Rs 6.30 crore from 907 shows.</li><li>Telugu version raked in Rs 6 crore from 1,586 shows.</li><li>Tamil version earned Rs 2.50 crore from 681 shows.</li><li>Malayalam version earned Rs 2 crore from 591 shows.</li><li>Domestic gross collection stands at Rs 218.25 crore.</li><li>Overseas collection on Day 3 was Rs 60 crore.</li><li>Cumulative overseas gross reached Rs 157.25 crore.</li><li>Dhurandhar reported an opening-day collection of around Rs 28 crore.</li><li>Ramayana: Part One is directed by Nitesh Tiwari.</li><li>Cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman.</li><li>Produced by Prime Focus Studios, DNEG, Monster Mind Creations, and Namit Malhotra.</li><li>The second part will release on Diwali 2028.</li></ul>\n</article>",
+  "t": "Ramayana Box Office Collection Day 3: Ranbir Kapoor And Yash Starrer Sees Massive Saturday Jump"
+ },
  "news:5aq01z": {
   "d": "Iconic action star Keanu Reeves has taken over the lead role in Netflix's upcoming thriller Maelstrom, stepping in after Alan Ritchson departed the project.",
   "img": "https://www.whats-on-netflix.com/wp-content/uploads/2026/10/maelstrom-netflix-action-thriller-keanu-reeves-preview.jpg",
@@ -45027,6 +45703,39 @@
   "published": "2026-11-06T10:15:11.000Z",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Salman Khan Starrer Maatrubhumi Eyes November Release Ahead of Shah Rukh Khan&#x27;s King</h1>\n<p class=\"ssr-lead\">Salman Khan&#x27;s upcoming action drama Maatrubhumi: May War Rest In Peace has reportedly locked November 20 for its theatrical arrival, positioning itself ahead of Shah Rukh Khan&#x27;s King.</p>\n<p class=\"ssr-date\">Published 6 November 2026</p>\n<h2>The Reported Theatrical Release Date</h2>\n<p>Reports indicate that Salman Khan&#x27;s next cinematic venture, Maatrubhumi: May War Rest In Peace, has targeted November 20 for its official arrival on the big screen. While production banners and creators have kept official pronouncements pending, this targeted date has quickly become a major talking point across the industry.</p>\n<p>Arriving ahead of several other high-profile projects, this scheduling places the movie in a prominent window within the late autumn theatrical calendar. Moviegoers and trade analysts alike are watching closely to see when the final formal declaration will be issued by the studio.</p>\n<h2>Box-Office Landscape and Clash Dynamics</h2>\n<p>The newly reported mid-November arrival date immediately thrusts the project into a competitive environment surrounded by major upcoming films. Notable titles slated for this broader theatrical period include Ranbir Kapoor&#x27;s Ramayana and Sunny Deol&#x27;s Suryaa.</p>\n<p>Furthermore, positioning the film on November 20 places it directly ahead of Shah Rukh Khan&#x27;s widely anticipated project, King, which is currently expected to hit cinemas the following month in December.</p>\n<h2>Cast, Crew, and Creative Vision</h2>\n<p>Directed by Apoorva Lakhia, the project is backed by the production banner Salman Khan Films. The leading cast features Salman Khan sharing screen space with Chitrangda Singh in roles that promise substantial dramatic weight.</p>\n<p>Insiders suggest that the storyline focuses heavily on an emotionally driven narrative where family relationships take center stage. The subject matter is reported to hold deep personal significance for the lead actor, who has driven the effort to bring this specific story to audiences.</p>\n<h2>Upcoming Trailer Launch in Mumbai</h2>\n<p>Anticipation surrounding the project is set to peak with the unveiling of the official trailer. Scheduled for a release at approximately 6 pm today, the launch event is taking place in Mumbai.</p>\n<p>The promotional rollout will give audiences their very first comprehensive look at the film&#x27;s overarching universe, central conflict, and character dynamics, helping clarify what viewers can expect upon its theatrical debut.</p>\n<h2>Debate Over the Promotional Track</h2>\n<p>Ahead of the trailer debut, the film&#x27;s promotional campaign has already sparked discussions regarding its musical choices. Earlier in the week, the lead actor lent his voice to a newly released track titled &#x27;Teri Sexy Beauty&#x27; which dropped at 5 am.</p>\n<p>Despite generating initial curiosity, the song has also raised questions among observers regarding its thematic relevance to the movie&#x27;s serious dramatic narrative.</p>\n<h2>News Overview</h2>\n<p>Salman Khan&#x27;s upcoming film Maatrubhumi: May War Rest In Peace has reportedly locked a November 20 theatrical release date, positioning it ahead of Shah Rukh Khan&#x27;s King in December. Directed by Apoorva Lakhia and co-starring Chitrangda Singh, the movie is backed by Salman Khan Films and features a trailer launch event in Mumbai today.</p>\n<p>The project has also drawn attention for its competitive box-office window alongside films like Ranbir Kapoor&#x27;s Ramayana and Sunny Deol&#x27;s Suryaa, as well as discussions surrounding its promotional song &#x27;Teri Sexy Beauty&#x27;.</p>\n<h2>Key facts</h2>\n<ul><li>Salman Khan&#x27;s Maatrubhumi: May War Rest In Peace has reportedly locked November 20 as its theatrical release date.</li><li>Shah Rukh Khan&#x27;s King is expected to arrive in theatres in December.</li><li>Apoorva Lakhia is the director of Maatrubhumi: May War Rest In Peace.</li><li>Salman Khan Films is backing the project.</li><li>Chitrangda Singh stars alongside Salman Khan in the film.</li><li>The trailer of Maatrubhumi: May War Rest In Peace is set to be unveiled at approximately 6 pm in Mumbai.</li><li>Salman Khan lent his voice to &#x27;Teri Sexy Beauty&#x27;, a song released at 5 am as part of the film&#x27;s promotional campaign.</li></ul>\n</article>",
   "t": "Salman Khan Starrer Maatrubhumi Eyes November Release Ahead of Shah Rukh Khan's King"
+ },
+ "news:eujloi": {
+  "d": "The landmark 300th episode of Chicago Fire bids farewell to a long-running original character while finally spotlighting his wife's vital perspective.",
+  "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mixcollage-04-nov-2026-12-36-pm-392.jpg?w=1600&amp;h=900&amp;fit=crop",
+  "k": "Chicago Fire 300th episode, Joe Cruz Chicago Fire, Chloe Cruz Chicago Fire, Joe Minoso departure, Chicago Fire season 15, Joe Miñoso Chicago Fire, Chicago Fire, Joe Miñoso, Kristen Lee Gutoskie Chicago Fire, entertainment news",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "NewsArticle",
+   "articleBody": "An Era Ends on the 300th Episode\n\nThe milestone 300th episode of the hit NBC drama marked the end of an era by writing out one of the show's final remaining original cast members. Months before the broadcast of season 15, episode 5, titled \"Three Hundred,\" the departure of a beloved firefighter had already been announced to viewers. However, the production chose to hold off on explaining the exact reasons for his exit until the closing moments of the broadcast.\n\nRather than relying on a sudden tragedy or a dramatic rift with the department, the writing team crafted a deeply personal catalyst for the character's relocation. The narrative instead turned its focus toward his family, providing long-overdue development for his supportive spouse who had stood by his side through years of intense professional hazards.\n\nChloe Cruz Takes Center Stage\n\nThroughout the milestone installment, Kristen Lee Gutoskie shined in her role as Chloe Cruz, a character who first appeared back in season 7. Having navigated the anxieties of loving a first responder, surviving adoption hurdles, and supporting her husband through a severe paralysis recovery, Chloe reached her breaking point upon learning about his potential return to active duty.\n\nWhile managing the recent birth of their twin daughters, the heavy realization that her husband might rush right back into the dangerous CFD work that nearly killed him proved overwhelming. Her silent, poignant reaction in the hospital room captured years of built-up marital stress and emotional endurance, grounding the episode's major turning point in genuine stakes.\n\nThe Catalyst From Chicago Med\n\nThe turning point in the episode arrived when Dr. Archer from Chicago Med dropped by the hospital bedside to deliver a surprising medical prognosis. The physician revealed that the firefighter might be just months away from returning to active duty at the CFD, bringing news that should have felt entirely triumphant.\n\nInstead, the family's visibly reserved reaction to the recovery timeline forced a profound reckoning. The subtle expressions on the faces of his loved ones made the firefighter realize the immense emotional toll his return would take on the household he cherished above all else.\n\nA Believable Exit Strategy\n\nFaced with the reality of his family's silent fears, the firefighter made the definitive choice to walk away from the profession he loved in order to protect the people he loved even more. Rather than pushing forward with his physical therapy to rejoin the active roster, he opted for a completely fresh start.\n\nThe narrative successfully established the only believable justification for his departure from Firehouse 51. Instead of continuing his dangerous career on the squad, he and Chloe decided to pack up and relocate their children to Minneapolis.\n\nLeaving the Door Open for the Future\n\nUnlike the tragic and permanent exits experienced by characters like Otis and Shay in past seasons, this departure left the door wide open for future appearances. The firefighter left Firehouse 51 alive, recovering, and moving to a city close enough for potential future visits.\n\nFurthermore, with longtime comrades still stationed at the house and a memorial to Otis on the grounds, the character has plenty of reasons to drop by. While a permanent return has not been confirmed, past precedent with other former series regulars suggests civilian guest appearances remain entirely possible.\n\nMoving Forward at Firehouse 51\n\nAs one chapter closes for the beloved Squad 3 member, the series must immediately address the logistical gaps left behind. A replacement within the existing crew has already been lined up, leaving viewers to wonder how Kelly Severide will cope with the absence of his trusted colleague.\n\nThe transition marks a significant shift for the core ensemble as the long-running procedural continues its historic run on television. New episodes continue to air weekly on Wednesday nights.\n\nNews Overview\n\nThe 300th episode of Chicago Fire features the departure of original character Joe Cruz, who decides to leave Firehouse 51 and move to Minneapolis with his wife Chloe and their family. Driven by Chloe's understandable exhaustion and the realization of what his return to active duty would cost them, the firefighter chooses family over the CFD. Although the exit marks the end of his active service, the storyline leaves room for potential future civilian returns.",
+   "author": {
+    "@type": "Organization",
+    "name": "FlickAtlas"
+   },
+   "datePublished": "2026-11-07T20:31:18.000Z",
+   "description": "The landmark 300th episode of Chicago Fire bids farewell to a long-running original character while finally spotlighting his wife's vital perspective.",
+   "headline": "Chicago Fire Celebrates 300th Episode With Major Character Departure",
+   "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mixcollage-04-nov-2026-12-36-pm-392.jpg?w=1600&amp;h=900&amp;fit=crop",
+   "keywords": "Chicago Fire 300th episode, Joe Cruz Chicago Fire, Chloe Cruz Chicago Fire, Joe Minoso departure, Chicago Fire season 15",
+   "mainEntityOfPage": "https://flickatlas.co.uk/news-item?id=eujloi",
+   "publisher": {
+    "@type": "Organization",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://flickatlas.co.uk/icon-512.png"
+    },
+    "name": "FlickAtlas"
+   },
+   "url": "https://flickatlas.co.uk/news-item?id=eujloi"
+  },
+  "modified": "",
+  "published": "2026-11-07T20:31:18.000Z",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Chicago Fire Celebrates 300th Episode With Major Character Departure</h1>\n<p class=\"ssr-lead\">The landmark 300th episode of Chicago Fire bids farewell to a long-running original character while finally spotlighting his wife&#x27;s vital perspective.</p>\n<p class=\"ssr-date\">Published 7 November 2026</p>\n<h2>An Era Ends on the 300th Episode</h2>\n<p>The milestone 300th episode of the hit NBC drama marked the end of an era by writing out one of the show&#x27;s final remaining original cast members. Months before the broadcast of season 15, episode 5, titled &quot;Three Hundred,&quot; the departure of a beloved firefighter had already been announced to viewers. However, the production chose to hold off on explaining the exact reasons for his exit until the closing moments of the broadcast.</p>\n<p>Rather than relying on a sudden tragedy or a dramatic rift with the department, the writing team crafted a deeply personal catalyst for the character&#x27;s relocation. The narrative instead turned its focus toward his family, providing long-overdue development for his supportive spouse who had stood by his side through years of intense professional hazards.</p>\n<h2>Chloe Cruz Takes Center Stage</h2>\n<p>Throughout the milestone installment, Kristen Lee Gutoskie shined in her role as Chloe Cruz, a character who first appeared back in season 7. Having navigated the anxieties of loving a first responder, surviving adoption hurdles, and supporting her husband through a severe paralysis recovery, Chloe reached her breaking point upon learning about his potential return to active duty.</p>\n<p>While managing the recent birth of their twin daughters, the heavy realization that her husband might rush right back into the dangerous CFD work that nearly killed him proved overwhelming. Her silent, poignant reaction in the hospital room captured years of built-up marital stress and emotional endurance, grounding the episode&#x27;s major turning point in genuine stakes.</p>\n<h2>The Catalyst From Chicago Med</h2>\n<p>The turning point in the episode arrived when Dr. Archer from Chicago Med dropped by the hospital bedside to deliver a surprising medical prognosis. The physician revealed that the firefighter might be just months away from returning to active duty at the CFD, bringing news that should have felt entirely triumphant.</p>\n<p>Instead, the family&#x27;s visibly reserved reaction to the recovery timeline forced a profound reckoning. The subtle expressions on the faces of his loved ones made the firefighter realize the immense emotional toll his return would take on the household he cherished above all else.</p>\n<h2>A Believable Exit Strategy</h2>\n<p>Faced with the reality of his family&#x27;s silent fears, the firefighter made the definitive choice to walk away from the profession he loved in order to protect the people he loved even more. Rather than pushing forward with his physical therapy to rejoin the active roster, he opted for a completely fresh start.</p>\n<p>The narrative successfully established the only believable justification for his departure from Firehouse 51. Instead of continuing his dangerous career on the squad, he and Chloe decided to pack up and relocate their children to Minneapolis.</p>\n<h2>Leaving the Door Open for the Future</h2>\n<p>Unlike the tragic and permanent exits experienced by characters like Otis and Shay in past seasons, this departure left the door wide open for future appearances. The firefighter left Firehouse 51 alive, recovering, and moving to a city close enough for potential future visits.</p>\n<p>Furthermore, with longtime comrades still stationed at the house and a memorial to Otis on the grounds, the character has plenty of reasons to drop by. While a permanent return has not been confirmed, past precedent with other former series regulars suggests civilian guest appearances remain entirely possible.</p>\n<h2>Moving Forward at Firehouse 51</h2>\n<p>As one chapter closes for the beloved Squad 3 member, the series must immediately address the logistical gaps left behind. A replacement within the existing crew has already been lined up, leaving viewers to wonder how Kelly Severide will cope with the absence of his trusted colleague.</p>\n<p>The transition marks a significant shift for the core ensemble as the long-running procedural continues its historic run on television. New episodes continue to air weekly on Wednesday nights.</p>\n<h2>News Overview</h2>\n<p>The 300th episode of Chicago Fire features the departure of original character Joe Cruz, who decides to leave Firehouse 51 and move to Minneapolis with his wife Chloe and their family. Driven by Chloe&#x27;s understandable exhaustion and the realization of what his return to active duty would cost them, the firefighter chooses family over the CFD. Although the exit marks the end of his active service, the storyline leaves room for potential future civilian returns.</p>\n<h2>Key facts</h2>\n<ul><li>Chicago Fire reached its 300th episode with season 15, episode 5, titled &quot;Three Hundred.&quot;</li><li>Joe Miñoso played Joe Cruz as an original star.</li><li>Kristen Lee Gutoskie played Chloe Cruz.</li><li>Chloe and Joe moved their family to Minneapolis.</li><li>Dr. Archer appeared from Chicago Med to give the medical prognosis.</li><li>Chicago Fire airs on Wednesdays at 9 p.m. ET on NBC.</li></ul>\n</article>",
+  "t": "Chicago Fire Celebrates 300th Episode With Major Character Departure"
  },
  "news:evpyef": {
   "d": "Aadarsha Kutumbam: The family entertainer starring Venkatesh and Srinidhi Shetty has crossed Rs 75 crore worldwide in its opening three days, earning…",
@@ -54650,6 +55359,40 @@
   "published": "2026-11-03",
   "ssr": "<article class=\"ssr-facts\">\n<h1>Phony (2026)</h1>\n<p class=\"ssr-lead\">After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 20 October 2026</li><li>Seasons: 1 · Episodes: 8</li><li>Genres: Comedy, Drama, Mystery</li><li>TMDB rating: 7.5/10 (20 votes)</li><li>Status: Returning Series</li></ul>\n<h2>Where to watch</h2>\n<ul><li>Streaming on JioHotstar (IN)</li></ul>\n</article>",
   "t": "Phony (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
+  "year": "2026"
+ },
+ "tv:275297": {
+  "d": "Let's Go (2026) is a Drama and Comedy TV series. Explore its story: During the Republic of China era, a veterinarian…, cast, 1 season, and 40 episodes.",
+  "img": "https://image.tmdb.org/t/p/w780/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
+  "industry": "world",
+  "k": "Let's Go, Let's Go TV series, Let's Go cast, Let's Go story, Let's Go seasons, Let's Go episodes, Let's Go season 1, Let's Go 40 episodes, Let's Go first air date, Let's Go Drama, Let's Go Comedy, World Cinema TV series, FlickAtlas",
+  "ld": {
+   "@context": "https://schema.org",
+   "@type": "TVSeries",
+   "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 10,
+    "ratingCount": 3,
+    "ratingValue": 7.2,
+    "worstRating": 0
+   },
+   "description": "Let's Go (2026) is a Drama and Comedy TV series. Explore its story: During the Republic of China era, a veterinarian…, cast, 1 season, and 40 episodes.",
+   "genre": [
+    "Drama",
+    "Comedy"
+   ],
+   "image": "https://image.tmdb.org/t/p/w780/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
+   "mainEntityOfPage": "https://flickatlas.co.uk/show?id=275297",
+   "name": "Let's Go",
+   "numberOfEpisodes": 40,
+   "numberOfSeasons": 1,
+   "startDate": "2026-11-02",
+   "url": "https://flickatlas.co.uk/show?id=275297"
+  },
+  "modified": "",
+  "published": "2026-11-07",
+  "ssr": "<article class=\"ssr-facts\">\n<h1>Let&#x27;s Go (2026)</h1>\n<p class=\"ssr-lead\">During the Republic of China era, a veterinarian named Wang Laowu accidentally becomes the magistrate of Fuhu County and hilariously battles endless chaos, showing how ordinary people shaped a grand era.</p>\n<h2>Key facts</h2>\n<ul><li>First air date: 2 November 2026</li><li>Seasons: 1 · Episodes: 40</li><li>Genres: Drama, Comedy</li><li>TMDB rating: 7.2/10 (3 votes)</li><li>Status: Returning Series</li></ul>\n</article>",
+  "t": "Let's Go (2026) — Seasons, Episodes, Cast & Story | FlickAtlas",
   "year": "2026"
  },
  "tv:279155": {

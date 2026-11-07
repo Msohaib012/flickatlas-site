@@ -81284,5 +81284,422 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sat, 07 Nov 2026 16:24:08 +0000"
+  },
+  "1bsz996": {
+    "id": "1bsz996",
+    "type": "news",
+    "headline": "Kamal Haasan Begins Filming Sandiyar On His Birthday As First Look Poster Drops",
+    "dek": "Director SU Arun Kumar expresses deep admiration for Kamal Haasan as principal photography kicks off for Sandiyar on the veteran actor's seventy-second birthday, backed by a striking first-look poster.",
+    "body": [
+      {
+        "h": "Principal Photography Begins On A Milestone Day",
+        "p": [
+          "Principal photography for the upcoming Tamil feature Sandiyar officially commenced on November 7, 2026, coinciding with the seventy-second birthday of veteran star Kamal Haasan.",
+          "The milestone was marked by the release of a striking first-look poster from the production house, signaling the immediate start of shooting on the actor's special day."
+        ]
+      },
+      {
+        "h": "The First Look And Action-Heavy Aesthetics",
+        "p": [
+          "The newly revealed promotional poster showcases the lead actor in a fiercely intense avatar, gripping a pistol with a determined expression.",
+          "Accompanying the visual reveal, the studio shared a bold caption reading six rounds and zero mercy, hinting at a gritty revenge narrative while plot details remain under wraps."
+        ]
+      },
+      {
+        "h": "Director SU Arun Kumar Pens An Emotional Tribute",
+        "p": [
+          "Director SU Arun Kumar turned to social media to share a deeply heartfelt message in Tamil, reflecting on the profound influence the legendary actor has had on his cinematic journey.",
+          "The filmmaker expressed his immense pride in finally working alongside the celebrated artist, noting that his body of work has long served as a major creative inspiration."
+        ]
+      },
+      {
+        "h": "Acknowledging Key Collaborators And Team Commitment",
+        "p": [
+          "In his public statement, the director also extended sincere appreciation to elder brother Mahendran and close friend Disney for helping materialize his long-held creative aspirations.",
+          "He assured supporters that his entire crew is fully dedicated to channeling immense hard work into delivering a remarkable cinematic experience for audiences."
+        ]
+      },
+      {
+        "h": "Historical Context Of The Film Title",
+        "p": [
+          "The title Sandiyar carries historical significance, as it was originally chosen by Kamal Haasan for his 2004 cinematic venture before facing objections from specific community groups.",
+          "Following considerable deliberations at that time, the title was ultimately altered to Virumaandi, bringing the name back into circulation for this brand-new project."
+        ]
+      },
+      {
+        "h": "Core Technical Crew And Production Backing",
+        "p": [
+          "The movie is being produced under the banner of Raaj Kamal Films International, with Kamal Haasan and R Mahendran serving as producers.",
+          "Music composer Anirudh Ravichander is attached to create the soundtrack, while National Award-winning stunt directors Anbariv are slated to handle the action choreography."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director SU Arun Kumar began shooting for Sandiyar on Kamal Haasan's seventy-second birthday, coinciding with the release of a gripping first look poster.",
+          "The project brings back a historical title previously linked to the actor's 2004 film while featuring a prominent technical crew including Anirudh Ravichander and Anbariv."
+        ]
+      }
+    ],
+    "facts": [
+      "Kamal Haasan turned 72 on November 7, 2026.",
+      "The official title Sandiyar was announced on Friday, November 6, 2026.",
+      "The original title Sandiyar was chosen for his 2004 film Virumaandi.",
+      "Music for the film is composed by Anirudh Ravichander.",
+      "Stunt choreography is handled by Anbariv."
+    ],
+    "entities": {
+      "people": [
+        "Kamal Haasan",
+        "SU Arun Kumar",
+        "Mahendran",
+        "Disney",
+        "Anirudh Ravichander",
+        "Anbariv"
+      ],
+      "titles": [
+        "Sandiyar",
+        "Virumaandi",
+        "Indian 3",
+        "KH x RK"
+      ]
+    },
+    "keywords": [
+      "Sandiyar film",
+      "Kamal Haasan Sandiyar",
+      "SU Arun Kumar Sandiyar",
+      "Raaj Kamal Films International"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156479859,thumbsize-588530,width-1280,height-720,resizemode-75/156479859.jpg",
+        "caption": "Kamal Haasan Begins Filming Sandiyar On His Birthday As First Look Poster Drops",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T20:47:50Z"
+  },
+  "eujloi": {
+    "id": "eujloi",
+    "type": "news",
+    "headline": "Chicago Fire Celebrates 300th Episode With Major Character Departure",
+    "dek": "The landmark 300th episode of Chicago Fire bids farewell to a long-running original character while finally spotlighting his wife's vital perspective.",
+    "body": [
+      {
+        "h": "An Era Ends on the 300th Episode",
+        "p": [
+          "The milestone 300th episode of the hit NBC drama marked the end of an era by writing out one of the show's final remaining original cast members. Months before the broadcast of season 15, episode 5, titled \"Three Hundred,\" the departure of a beloved firefighter had already been announced to viewers. However, the production chose to hold off on explaining the exact reasons for his exit until the closing moments of the broadcast.",
+          "Rather than relying on a sudden tragedy or a dramatic rift with the department, the writing team crafted a deeply personal catalyst for the character's relocation. The narrative instead turned its focus toward his family, providing long-overdue development for his supportive spouse who had stood by his side through years of intense professional hazards."
+        ]
+      },
+      {
+        "h": "Chloe Cruz Takes Center Stage",
+        "p": [
+          "Throughout the milestone installment, Kristen Lee Gutoskie shined in her role as Chloe Cruz, a character who first appeared back in season 7. Having navigated the anxieties of loving a first responder, surviving adoption hurdles, and supporting her husband through a severe paralysis recovery, Chloe reached her breaking point upon learning about his potential return to active duty.",
+          "While managing the recent birth of their twin daughters, the heavy realization that her husband might rush right back into the dangerous CFD work that nearly killed him proved overwhelming. Her silent, poignant reaction in the hospital room captured years of built-up marital stress and emotional endurance, grounding the episode's major turning point in genuine stakes."
+        ]
+      },
+      {
+        "h": "The Catalyst From Chicago Med",
+        "p": [
+          "The turning point in the episode arrived when Dr. Archer from Chicago Med dropped by the hospital bedside to deliver a surprising medical prognosis. The physician revealed that the firefighter might be just months away from returning to active duty at the CFD, bringing news that should have felt entirely triumphant.",
+          "Instead, the family's visibly reserved reaction to the recovery timeline forced a profound reckoning. The subtle expressions on the faces of his loved ones made the firefighter realize the immense emotional toll his return would take on the household he cherished above all else."
+        ]
+      },
+      {
+        "h": "A Believable Exit Strategy",
+        "p": [
+          "Faced with the reality of his family's silent fears, the firefighter made the definitive choice to walk away from the profession he loved in order to protect the people he loved even more. Rather than pushing forward with his physical therapy to rejoin the active roster, he opted for a completely fresh start.",
+          "The narrative successfully established the only believable justification for his departure from Firehouse 51. Instead of continuing his dangerous career on the squad, he and Chloe decided to pack up and relocate their children to Minneapolis."
+        ]
+      },
+      {
+        "h": "Leaving the Door Open for the Future",
+        "p": [
+          "Unlike the tragic and permanent exits experienced by characters like Otis and Shay in past seasons, this departure left the door wide open for future appearances. The firefighter left Firehouse 51 alive, recovering, and moving to a city close enough for potential future visits.",
+          "Furthermore, with longtime comrades still stationed at the house and a memorial to Otis on the grounds, the character has plenty of reasons to drop by. While a permanent return has not been confirmed, past precedent with other former series regulars suggests civilian guest appearances remain entirely possible."
+        ]
+      },
+      {
+        "h": "Moving Forward at Firehouse 51",
+        "p": [
+          "As one chapter closes for the beloved Squad 3 member, the series must immediately address the logistical gaps left behind. A replacement within the existing crew has already been lined up, leaving viewers to wonder how Kelly Severide will cope with the absence of his trusted colleague.",
+          "The transition marks a significant shift for the core ensemble as the long-running procedural continues its historic run on television. New episodes continue to air weekly on Wednesday nights."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 300th episode of Chicago Fire features the departure of original character Joe Cruz, who decides to leave Firehouse 51 and move to Minneapolis with his wife Chloe and their family. Driven by Chloe's understandable exhaustion and the realization of what his return to active duty would cost them, the firefighter chooses family over the CFD. Although the exit marks the end of his active service, the storyline leaves room for potential future civilian returns."
+        ]
+      }
+    ],
+    "facts": [
+      "Chicago Fire reached its 300th episode with season 15, episode 5, titled \"Three Hundred.\"",
+      "Joe Miñoso played Joe Cruz as an original star.",
+      "Kristen Lee Gutoskie played Chloe Cruz.",
+      "Chloe and Joe moved their family to Minneapolis.",
+      "Dr. Archer appeared from Chicago Med to give the medical prognosis.",
+      "Chicago Fire airs on Wednesdays at 9 p.m. ET on NBC."
+    ],
+    "entities": {
+      "people": [
+        "Joe Miñoso",
+        "Kristen Lee Gutoskie",
+        "Dr. Archer",
+        "Carlos S. Sanchez",
+        "Finn Russell",
+        "Monica Raymund",
+        "Jesse Spencer",
+        "Andrea Newman",
+        "Taylor Kinney",
+        "David Eigenberg",
+        "Michael Brandt",
+        "Derek Haas"
+      ],
+      "titles": [
+        "Chicago Fire",
+        "Chicago Med",
+        "Criminal Minds"
+      ]
+    },
+    "keywords": [
+      "Chicago Fire 300th episode",
+      "Joe Cruz Chicago Fire",
+      "Chloe Cruz Chicago Fire",
+      "Joe Minoso departure",
+      "Chicago Fire season 15"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/mixcollage-04-nov-2026-12-36-pm-392.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Chicago Fire Celebrates 300th Episode With Major Character Departure",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 20:31:18 GMT"
+  },
+  "59coip": {
+    "id": "59coip",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 3: Ranbir Kapoor And Yash Starrer Sees Massive Saturday Jump",
+    "dek": "Nitesh Tiwari's mythological epic experiences a major 45.3 percent surge on its third day, bringing the domestic net collection to Rs 182.70 crore and closing in on the Rs 200-crore milestone.",
+    "body": [
+      {
+        "h": "Saturday Box Office Surge",
+        "p": [
+          "The theatrical run of the mythological drama experienced a powerful resurgence on Saturday, November 7, following a brief collection dip on its second day. According to live estimates provided by Sacnilk, the feature brought in a net collection of Rs 69.80 crore across the country on Day 3.",
+          "This performance represents a substantial 45.3 percent increase compared to the earnings recorded on Friday. With these latest numbers, the film is now on the verge of entering the coveted Rs 200-crore domestic net club."
+        ]
+      },
+      {
+        "h": "First Three Days Domestic Breakdown",
+        "p": [
+          "The cinematic release started its theatrical journey on Thursday, November 5, with an opening domestic net total of Rs 64.85 crore. Collections experienced a decline on Friday, dropping to Rs 48.05 crore before bouncing back significantly with Saturday's figures.",
+          "Across the country, the feature was screened across 23,647 shows on Saturday, achieving an average earning of Rs 29,517 per show. The cumulative three-year domestic net collection has now reached Rs 182.70 crore, alongside a domestic gross total of Rs 218.25 crore."
+        ]
+      },
+      {
+        "h": "Performance Across Language Versions",
+        "p": [
+          "The Hindi version continued to dominate the domestic market, contributing 19,882 shows and securing a collection of Rs 53 crore on Saturday. Regional language versions also added meaningful numbers to the overall domestic tally.",
+          "The Kannada version generated Rs 6.30 crore from 907 shows, while the Telugu version brought in Rs 6 crore across 1,586 shows. Additionally, the Tamil version secured Rs 2.50 crore from 681 shows, and the Malayalam version contributed Rs 2 crore from 591 shows."
+        ]
+      },
+      {
+        "h": "Global And Overseas Tally",
+        "p": [
+          "Beyond domestic borders, the feature also performed strongly in international markets, adding substantial figures to its overall box office statistics. Overseas collections on Day 3 alone reached approximately Rs 60 crore.",
+          "This international performance pushed the cumulative overseas gross to an estimated Rs 157.25 crore. Combined with domestic revenues, the worldwide gross collection after three days stands at an impressive Rs 375.50 crore."
+        ]
+      },
+      {
+        "h": "Comparison With Dhurandhar",
+        "p": [
+          "The theatrical run has drawn industry comparisons with another strong box-office performer, Ranveer Singh's Dhurandhar. Having amassed Rs 182.70 crore in India net collections within three days, the mythological adaptation has moved well ahead of Dhurandhar's reported opening-day figures of around Rs 28 crore.",
+          "Analysts note, however, that both releases operated under different conditions, and a three-day comparison differs significantly from evaluating lifetime theatrical performance."
+        ]
+      },
+      {
+        "h": "Cast And Production Background",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Part One is a two-part adaptation based on the ancient epic. The narrative chronicles the journey of Rama, the abduction of Sita by Ravana, and the subsequent events leading to the battle between them.",
+          "The ensemble cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman. The project is produced by Namit Malhotra through Prime Focus Studios, in association with DNEG and Yash's Monster Mind Creations, with the second part scheduled for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's mythological epic Ramayana: Part One saw a major 45.3 percent surge on Saturday, November 7, pushing its three-day India net total to Rs 182.70 crore and worldwide gross to Rs 375.50 crore. Featuring Ranbir Kapoor, Yash, and Sai Pallavi, the film is now poised to enter the Rs 200-crore domestic club."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor's mythological epic recorded a 45.3 percent surge over Friday on Saturday, November 7.",
+      "Three-day India net total reached Rs 182.70 crore.",
+      "Worldwide gross climbed to Rs 375.50 crore.",
+      "Day 3 net collection in India was Rs 69.80 crore.",
+      "The film opened with a net of Rs 64.85 crore in India on Thursday, November 5.",
+      "Collections dipped to Rs 48.05 crore on Friday.",
+      "Total shows on Saturday were 23,647.",
+      "Hindi version collection on Saturday was Rs 53 crore from 19,882 shows.",
+      "Kannada version grossed Rs 6.30 crore from 907 shows.",
+      "Telugu version raked in Rs 6 crore from 1,586 shows.",
+      "Tamil version earned Rs 2.50 crore from 681 shows.",
+      "Malayalam version earned Rs 2 crore from 591 shows.",
+      "Domestic gross collection stands at Rs 218.25 crore.",
+      "Overseas collection on Day 3 was Rs 60 crore.",
+      "Cumulative overseas gross reached Rs 157.25 crore.",
+      "Dhurandhar reported an opening-day collection of around Rs 28 crore.",
+      "Ramayana: Part One is directed by Nitesh Tiwari.",
+      "Cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman.",
+      "Produced by Prime Focus Studios, DNEG, Monster Mind Creations, and Namit Malhotra.",
+      "The second part will release on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Namit Malhotra",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part One",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Part One Saturday collection",
+      "Yash Ravana Ramayana movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156480702,thumbsize-974301,width-1280,height-720,resizemode-75/156480702.jpg",
+        "caption": "Ramayana Box Office Collection Day 3: Ranbir Kapoor And Yash Starrer Sees Massive Saturday Jump",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T20:47:50Z"
+  },
+  "1jj0r93": {
+    "id": "1jj0r93",
+    "type": "news",
+    "headline": "Ramayana Cast Remuneration Report: Inside the Reported Salaries of Ranbir Kapoor, Yash, Sai Pallavi and Others",
+    "dek": "Recent reports have highlighted the staggering reported salaries of the star-studded cast of the upcoming two-part epic film Ramayana, led by Ranbir Kapoor, Yash, and Sai Pallavi.",
+    "body": [
+      {
+        "h": "The Scale of Ramayana and Cast Remunerations",
+        "p": [
+          "The upcoming two-part cinematic saga Ramayana features a massive ensemble of major names from across the Indian film industry. Due to the monumental scope of the production, the financial remuneration of the actors involved has sparked intense public interest and media discussion.",
+          "Reports circulating online have detailed estimated payouts for key personnel, though neither the production team nor the performers have officially confirmed the exact contract figures or made full salary lists public."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor's Earnings Compared to Animal",
+        "p": [
+          "Ranbir Kapoor, who steps into the role of Lord Rama, is reportedly commanding a fee of Rs 75 crore for each part of the two-film project. This brings his total projected remuneration to approximately Rs 150 crore across the entire saga.",
+          "This figure represents a substantial increase over his reported earnings for the 2023 blockbuster Animal, for which he was reportedly paid between Rs 30 crore and Rs 35 crore alongside a share of the film's profits. Because of the profit-sharing aspect of his previous deal, a direct financial comparison is complex, but the baseline salary for Ramayana is notably higher."
+        ]
+      },
+      {
+        "h": "Yash and Sai Pallavi's Financial Agreements",
+        "p": [
+          "Yash, cast in the role of Ravana, was initially associated with a reported deal worth Rs 100 crore for the two films. However, later reports indicated a structural shift in his compensation, noting that he is involved as a co-producer and is expected to take a share of the profits instead of a conventional acting fee.",
+          "Meanwhile, Sai Pallavi is reportedly earning Rs 6 crore per installment to portray Sita, totaling Rs 12 crore for the two-part project. This amount marks a significant increase from the remuneration she typically commanded for her earlier work in South Indian cinema."
+        ]
+      },
+      {
+        "h": "Reported Payouts for Sunny Deol and Ravie Dubey",
+        "p": [
+          "Sunny Deol, who is cast as Hanuman, is reportedly drawing a fee of Rs 20 crore per installment. However, given that his appearance in the first part is limited to a post-credits glimpse, analysts note it remains unclear whether this total sum covers both parts or the broader project as a whole.",
+          "Ravie Dubey, who plays Lakshman, faced fluctuating estimates regarding his pay. While initial reports placed his remuneration between Rs 2 crore and Rs 4 crore, subsequent reports from November 2026 suggested a total pay of Rs 20 crore, or Rs 10 crore per instalment, though these figures remain unverified estimates."
+        ]
+      },
+      {
+        "h": "Estimates for the Supporting Cast",
+        "p": [
+          "Financial estimates for the supporting cast members have also emerged from various industry sources, though they lack independent verification. Rakul Preet Singh, who plays Surpanakha, reportedly received approximately Rs 1.5 crore, while Kajal Aggarwal was tied to an estimated fee of Rs 1 crore for playing Mandodari.",
+          "Additional reported figures include Raghav Juyal receiving around Rs 1 crore for his role as Meghnad, Anupam Kher taking roughly Rs 50 lakh for voicing Jatayu, Kunal Kapoor receiving about Rs 30 lakh as Indra, and Lara Dutta taking around Rs 25 lakh to play Kaikeyi. No credible public figure has emerged for Arun Govil's remuneration as King Dasharatha."
+        ]
+      },
+      {
+        "h": "Fee Waivers and Philanthropy",
+        "p": [
+          "Among the notable financial arrangements surrounding the production, Vivek Oberoi chose a unique path for his role as Vidyutjiva. The actor reportedly decided to completely waive his acting fee with the stipulation that the equivalent amount be donated to support children fighting cancer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports detailing the estimated salaries of the cast for the two-part film Ramayana indicate that lead actor Ranbir Kapoor is commanding Rs 75 crore per installment. Other major cast members like Yash, Sai Pallavi, Sunny Deol, and Ravie Dubey are also tied to significant reported financial packages alongside various supporting actors."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor is reportedly earning Rs 75 crore per installment for Ramayana, totaling about Rs 150 crore for the two-part project.",
+      "Ranbir Kapoor was reportedly paid Rs 30-35 crore for Animal along with a profit share.",
+      "Yash is associated with the project as a co-producer and profit sharer.",
+      "Sai Pallavi is reportedly paid Rs 6 crore per part for playing Sita, totaling Rs 12 crore.",
+      "Sunny Deol is reportedly charging Rs 20 crore per instalment to play Hanuman.",
+      "Ravie Dubey's reported total pay for playing Lakshman is Rs 20 crore, or Rs 10 crore per instalment.",
+      "Rakul Preet Singh took around Rs 1.5 crore for playing Surpanakha.",
+      "Kajal Aggarwal took approximately Rs 1 crore for playing Mandodari.",
+      "Raghav Juyal received around Rs 1 crore for playing Meghnad.",
+      "Anupam Kher received around Rs 50 lakh for voicing Jatayu.",
+      "Kunal Kapoor was paid approximately Rs 30 lakh to play Indra.",
+      "Lara Dutta took around Rs 25 lakh to play Kaikeyi.",
+      "Vivek Oberoi waived his acting fee to have the amount donated to children fighting cancer."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Raghav Juyal",
+        "Anupam Kher",
+        "Kunal Kapoor",
+        "Lara Dutta",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Sandeep Reddy Vanga",
+        "Bhagwant Singh Mann",
+        "Diljit Dosanjh",
+        "Amitabh Bachchan",
+        "Divyanka Tripathi",
+        "Vivek Dahiya"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part One",
+        "Animal",
+        "Kaun Banega Crorepati 18"
+      ]
+    },
+    "keywords": [
+      "Ramayana cast fees",
+      "Ranbir Kapoor Ramayana salary",
+      "Yash Ramayana fee",
+      "Sai Pallavi Ramayana salary",
+      "Sunny Deol Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156480407,thumbsize-800279,width-1280,height-720,resizemode-75/156480407.jpg",
+        "caption": "Ramayana Cast Remuneration Report: Inside the Reported Salaries of Ranbir Kapoor, Yash, Sai Pallavi and Others",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T20:47:50Z"
   }
 };

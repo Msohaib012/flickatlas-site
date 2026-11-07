@@ -20098,5 +20098,479 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-01",
     "popularity": 2.4263
+  },
+  "1567149": {
+    "id": 1567149,
+    "type": "movie",
+    "title": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens",
+    "poster_path": "/5LBfnGFPXn5hUmywY7L4jDTEi9E.jpg",
+    "backdrop_path": "/A9D1tp0USj38oBIFk32P3YVouo3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "20 years after the events of the series, humans and Worms are walking towards the path of coexistence. However, ZECT is secretly developing a new Masked Rider System. Yui Kagami, the son of Arata Kagami/Kamen Rider Gatack is qualified to use the new system. Arata Kagami also investigates a ZECT conspiracy all by himself, but a shadow of an unexpected person appears before him...!",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-06",
+    "popularity": 4.6243
+  },
+  "275297": {
+    "id": 275297,
+    "type": "tv",
+    "title": "Let's Go",
+    "poster_path": "/x7d6dZKb5NuDGIV8iAKnOW4DHtD.jpg",
+    "backdrop_path": "/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
+    "vote_average": 7.2,
+    "vote_count": 3,
+    "overview": "During the Republic of China era, a veterinarian named Wang Laowu accidentally becomes the magistrate of Fuhu County and hilariously battles endless chaos, showing how ordinary people shaped a grand era.",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "published_at": "2026-11-07",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-02",
+    "popularity": 9.4143
+  },
+  "1806490": {
+    "id": 1806490,
+    "type": "movie",
+    "title": "FEATHER - Il volo della cicogna",
+    "poster_path": "/aLbKpd3FELGXc8dzy6L2aK1aRGw.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "it",
+      "en"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.2507
+  },
+  "1578488": {
+    "id": 1578488,
+    "type": "movie",
+    "title": "Merry Christmas Aubrey Flint",
+    "poster_path": "/taVz0AaGDTKIZ8GWYvbsLW5ueWW.jpg",
+    "backdrop_path": "/y1qwFKNJhdlsknjpTI3Eob8yLvd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An amateur production of A Christmas Carol at a retirement home is reluctantly directed by reclusive man on community service.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-06",
+    "popularity": 2.6495
+  },
+  "1806424": {
+    "id": 1806424,
+    "type": "movie",
+    "title": "Lotus",
+    "poster_path": "/wv9qT3zuCpLwoAytvIxCZ2wvQqh.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A breast cancer survivor is being manipulated by male doctors into undergoing breast implant surgery. Confused by these manipulations, she decides to have breast surgery. In the waiting room of the plastic surgeon's office, she visits with her husband, and the universe will send her a message.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.4471
+  },
+  "1583853": {
+    "id": 1583853,
+    "type": "movie",
+    "title": "Se domani non torno",
+    "poster_path": "/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+    "backdrop_path": "/uIztlFaiWBy0tOLPPmJtFeINliV.jpg",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "overview": "It follows the tragic life of Giulia Cecchettin, starting from the private pain of her father, Gino Cecchettin, and culminating in a cinematic story that stems from the book of the victim's father, entitled Dear Giulia.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-05",
+    "popularity": 2.482
+  },
+  "1806407": {
+    "id": 1806407,
+    "type": "movie",
+    "title": "Somewhere Between Here and There",
+    "poster_path": "/vgau05XepU5XNcyLKKiPosofKIB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When Mia finds herself at her own wake, dead but not quite gone, she must uncover what’s keeping her tethered and what it truly means to let go.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.4943
+  },
+  "1582025": {
+    "id": 1582025,
+    "type": "movie",
+    "title": "Kommissar Jennerwein – Hochsaison",
+    "poster_path": "/v3K8P7NyDw1sgN9eDfPQxFvGQ8f.jpg",
+    "backdrop_path": "/hp9lK5Rq1h8CqTBn3d3ATR6904J.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Jennerwein has barely started his job in Garmisch-Partenkirchen when a Danish ski jumper falls to his death, the president of the Winter Games Committee narrowly escapes an assassination attempt, and anonymous letters announce further crimes. Amidst suspicious villagers and vain local politics, Jennerwein must unmask a perpetrator who craves attention and is playing a deadly serious game.",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-05",
+    "popularity": 2.4405
+  },
+  "1806386": {
+    "id": 1806386,
+    "type": "movie",
+    "title": "Buskers of Porto",
+    "poster_path": "/hHPYsrhGtusx9GD8D3C2Wir1opr.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "\"Buskers of Porto\" shows how the city and its musicians are intertwined. The documentary is a journey through the streets of Porto and along the many street musicians that enrich this city with their music. They share intimate stories about their work on the streets and the freedom they experience, but also about the challenges that it brings along with it. \"Buskers of Porto\" is a connecting film about music, dreams, and survival.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "PT"
+    ],
+    "spoken_languages": [
+      "en",
+      "pt"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.1894
+  },
+  "1810019": {
+    "id": 1810019,
+    "type": "movie",
+    "title": "Crimson Ring",
+    "poster_path": "/tUSKLcc55135hmwEOAQ0ESzzFom.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young boxer risks everything by turning to performance-enhancing drugs before the biggest fight of his life.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-07",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-01",
+    "popularity": 2.8465
+  },
+  "1806362": {
+    "id": 1806362,
+    "type": "movie",
+    "title": "Puma Matriarchs of Torres Del Paine",
+    "poster_path": "/5lPVNBQLe68rivVoLyPCVaAC5Os.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The film chronicles the lives of three mother Pumas (aka Mountain Lions, Cougars) as they survive and thrive in the rugged terrain of Chilean Patagonia. These three matriarchs, Sarmiento, Rupestra and Petaca, drive the dynamics of living and dominating their respective territories. Raising their kits, teaching them how to catch prey and hunting that prey increase these cats’ chances of surviving in this beautiful but challenging habitat.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.1637
+  },
+  "1806356": {
+    "id": 1806356,
+    "type": "movie",
+    "title": "Walk In The Park",
+    "poster_path": "/8TEOW7wwcbhbVXNWHdJg8bz320w.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Mark and Evelien are the young parents of a very healthy son. Ten fingers, ten toes, all the trimmings, but the sunny outlook is missing. In a world where appearances rule, they have forgotten reality. Life and love are not always fun and the grind lurks like a predator. During eight uncomfortable walks, they try to find out where they took the wrong turn and whether it is even possible to end up on the right path next to each other.",
+    "industry": "world",
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.5256
+  },
+  "1806343": {
+    "id": 1806343,
+    "type": "movie",
+    "title": "Cyclus",
+    "poster_path": "/48OHvbClZ1BAqtXyREbNDNFrO1P.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lisa and Marit communicate through a tape. Cyclus explores the subtle red flags of partner abuse (in teenage lives), based on the glorification of romantic ups & downs in modern media.",
+    "industry": "world",
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.8088
+  },
+  "1806336": {
+    "id": 1806336,
+    "type": "movie",
+    "title": "Veil of Silence",
+    "poster_path": "/qH1PAUNtjq20Yokkf97LS3yjd1e.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A crumbling relationship where two people are too afraid to face their problems. Gemma silently drifts through her inner world, where her ego confronts her.",
+    "industry": "world",
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.2963
+  },
+  "1806326": {
+    "id": 1806326,
+    "type": "movie",
+    "title": "Yr Wyddfa",
+    "poster_path": "/jhSgkc9uWEm3HpKN3UejnNOI2B3.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An estranged father and daughter climb Yr Wyddfa together. Along the way, it becomes clear why they haven't talked to each other for so long and what occasion brings them together today.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NL",
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.8158
+  },
+  "1804964": {
+    "id": 1804964,
+    "type": "movie",
+    "title": "Daredevil: Man Without Fear",
+    "poster_path": "/crbwdZrmhYXBJpK8Bx9ITYb8dd2.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Based upon the early Man Without Fear comics, explore Matt Murdocks world in Hell’s Kitchen seeing his beginnings with his best friend Foggy Nelson, falling in love for the first time with Elektra Natchios, and even beginning a law firm with his best friend. Then see the present day and how Matt handles life as a lawyer and as a vigilante of the night, going against foes such as the Kingpin and Bullseye! Will Matt survive these horrible encounters? Find out!",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-07",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.4914
+  },
+  "1803919": {
+    "id": 1803919,
+    "type": "movie",
+    "title": "Water Valley",
+    "poster_path": "/yBMaCtiNW6MC6NAds7ChMQfp3DQ.jpg",
+    "backdrop_path": "/rmqIHnEl0u6UAqZG1oKx8rrsWuW.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Shortly after a breakup, a man seeks isolation in a cabin.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-14",
+    "popularity": 0.2806
+  },
+  "1263337": {
+    "id": 1263337,
+    "type": "movie",
+    "title": "Heart of the Beast",
+    "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+    "backdrop_path": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+    "vote_average": 7.312,
+    "vote_count": 445,
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-07",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-09-25",
+    "popularity": 202.1924
   }
 };

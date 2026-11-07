@@ -31756,5 +31756,748 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 0,
     "providers": []
+  },
+  "1567149": {
+    "id": 1567149,
+    "type": "movie",
+    "title": "Kamen Rider Kabuto 20th: ​​The One Who Inherits the Heavens",
+    "poster_path": "/5LBfnGFPXn5hUmywY7L4jDTEi9E.jpg",
+    "backdrop_path": "/A9D1tp0USj38oBIFk32P3YVouo3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "20 years after the events of the series, humans and Worms are walking towards the path of coexistence. However, ZECT is secretly developing a new Masked Rider System. Yui Kagami, the son of Arata Kagami/Kamen Rider Gatack is qualified to use the new system. Arata Kagami also investigates a ZECT conspiracy all by himself, but a shadow of an unexpected person appears before him...!",
+    "industry": "world",
+    "popularity": 4.6243,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "Dzi6MrhZH2w",
+      "name": "Kamen Rider Kabuto 20th Anniversary: The One Who Inherits the Heavens - 60-Second Teaser",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Drama"
+    ],
+    "tagline": "Never give up on the future, even if you're alone",
+    "status": "Released",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 50,
+    "providers": []
+  },
+  "275297": {
+    "id": 275297,
+    "type": "tv",
+    "title": "Let's Go",
+    "poster_path": "/x7d6dZKb5NuDGIV8iAKnOW4DHtD.jpg",
+    "backdrop_path": "/rnv1xmBVexTmObJXWb0NuVsg4y9.jpg",
+    "vote_average": 7.2,
+    "vote_count": 3,
+    "overview": "During the Republic of China era, a veterinarian named Wang Laowu accidentally becomes the magistrate of Fuhu County and hilariously battles endless chaos, showing how ordinary people shaped a grand era.",
+    "industry": "world",
+    "popularity": 9.4143,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-02",
+    "networks": [
+      "Tencent Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 40,
+    "channel": "Tencent Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 40,
+        "air_date": "2026-11-02",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1806490": {
+    "id": 1806490,
+    "type": "movie",
+    "title": "FEATHER - Il volo della cicogna",
+    "poster_path": "/aLbKpd3FELGXc8dzy6L2aK1aRGw.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.2507,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 20,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "it",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1578488": {
+    "id": 1578488,
+    "type": "movie",
+    "title": "Merry Christmas Aubrey Flint",
+    "poster_path": "/taVz0AaGDTKIZ8GWYvbsLW5ueWW.jpg",
+    "backdrop_path": "/y1qwFKNJhdlsknjpTI3Eob8yLvd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An amateur production of A Christmas Carol at a retirement home is reluctantly directed by reclusive man on community service.",
+    "industry": "world",
+    "popularity": 2.6495,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "7gVGPuCA_gE",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "The stage is set to save Christmas.",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NR",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 98,
+    "providers": []
+  },
+  "1806424": {
+    "id": 1806424,
+    "type": "movie",
+    "title": "Lotus",
+    "poster_path": "/wv9qT3zuCpLwoAytvIxCZ2wvQqh.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A breast cancer survivor is being manipulated by male doctors into undergoing breast implant surgery. Confused by these manipulations, she decides to have breast surgery. In the waiting room of the plastic surgeon's office, she visits with her husband, and the universe will send her a message.",
+    "industry": "world",
+    "popularity": 0.4471,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 11,
+    "providers": []
+  },
+  "1583853": {
+    "id": 1583853,
+    "type": "movie",
+    "title": "Se domani non torno",
+    "poster_path": "/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+    "backdrop_path": "/uIztlFaiWBy0tOLPPmJtFeINliV.jpg",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "overview": "It follows the tragic life of Giulia Cecchettin, starting from the private pain of her father, Gino Cecchettin, and culminating in a cinematic story that stems from the book of the victim's father, entitled Dear Giulia.",
+    "industry": "world",
+    "popularity": 2.482,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 107,
+    "providers": []
+  },
+  "1806407": {
+    "id": 1806407,
+    "type": "movie",
+    "title": "Somewhere Between Here and There",
+    "poster_path": "/vgau05XepU5XNcyLKKiPosofKIB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When Mia finds herself at her own wake, dead but not quite gone, she must uncover what’s keeping her tethered and what it truly means to let go.",
+    "industry": "world",
+    "popularity": 0.4943,
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 20,
+    "providers": []
+  },
+  "1582025": {
+    "id": 1582025,
+    "type": "movie",
+    "title": "Kommissar Jennerwein – Hochsaison",
+    "poster_path": "/v3K8P7NyDw1sgN9eDfPQxFvGQ8f.jpg",
+    "backdrop_path": "/hp9lK5Rq1h8CqTBn3d3ATR6904J.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Jennerwein has barely started his job in Garmisch-Partenkirchen when a Danish ski jumper falls to his death, the president of the Winter Games Committee narrowly escapes an assassination attempt, and anonymous letters announce further crimes. Amidst suspicious villagers and vain local politics, Jennerwein must unmask a perpetrator who craves attention and is playing a deadly serious game.",
+    "industry": "world",
+    "popularity": 2.4405,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 92,
+    "providers": []
+  },
+  "1806386": {
+    "id": 1806386,
+    "type": "movie",
+    "title": "Buskers of Porto",
+    "poster_path": "/hHPYsrhGtusx9GD8D3C2Wir1opr.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "\"Buskers of Porto\" shows how the city and its musicians are intertwined. The documentary is a journey through the streets of Porto and along the many street musicians that enrich this city with their music. They share intimate stories about their work on the streets and the freedom they experience, but also about the challenges that it brings along with it. \"Buskers of Porto\" is a connecting film about music, dreams, and survival.",
+    "industry": "world",
+    "popularity": 0.1894,
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "PT"
+    ],
+    "spoken_languages": [
+      "en",
+      "pt"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 30,
+    "providers": []
+  },
+  "1810019": {
+    "id": 1810019,
+    "type": "movie",
+    "title": "Crimson Ring",
+    "poster_path": "/tUSKLcc55135hmwEOAQ0ESzzFom.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young boxer risks everything by turning to performance-enhancing drugs before the biggest fight of his life.",
+    "industry": "world",
+    "popularity": 2.8465,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "BUT HARD ISN'T ENOUGH IN THE PROS",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-01",
+    "date_kind": "festival",
+    "runtime": 6,
+    "providers": []
+  },
+  "1806362": {
+    "id": 1806362,
+    "type": "movie",
+    "title": "Puma Matriarchs of Torres Del Paine",
+    "poster_path": "/5lPVNBQLe68rivVoLyPCVaAC5Os.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The film chronicles the lives of three mother Pumas (aka Mountain Lions, Cougars) as they survive and thrive in the rugged terrain of Chilean Patagonia. These three matriarchs, Sarmiento, Rupestra and Petaca, drive the dynamics of living and dominating their respective territories. Raising their kits, teaching them how to catch prey and hunting that prey increase these cats’ chances of surviving in this beautiful but challenging habitat.",
+    "industry": "world",
+    "popularity": 0.1637,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 12,
+    "providers": []
+  },
+  "1806356": {
+    "id": 1806356,
+    "type": "movie",
+    "title": "Walk In The Park",
+    "poster_path": "/8TEOW7wwcbhbVXNWHdJg8bz320w.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Mark and Evelien are the young parents of a very healthy son. Ten fingers, ten toes, all the trimmings, but the sunny outlook is missing. In a world where appearances rule, they have forgotten reality. Life and love are not always fun and the grind lurks like a predator. During eight uncomfortable walks, they try to find out where they took the wrong turn and whether it is even possible to end up on the right path next to each other.",
+    "industry": "world",
+    "popularity": 0.5256,
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 14,
+    "providers": []
+  },
+  "1806343": {
+    "id": 1806343,
+    "type": "movie",
+    "title": "Cyclus",
+    "poster_path": "/48OHvbClZ1BAqtXyREbNDNFrO1P.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lisa and Marit communicate through a tape. Cyclus explores the subtle red flags of partner abuse (in teenage lives), based on the glorification of romantic ups & downs in modern media.",
+    "industry": "world",
+    "popularity": 0.8088,
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 33,
+    "providers": []
+  },
+  "1806336": {
+    "id": 1806336,
+    "type": "movie",
+    "title": "Veil of Silence",
+    "poster_path": "/qH1PAUNtjq20Yokkf97LS3yjd1e.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A crumbling relationship where two people are too afraid to face their problems. Gemma silently drifts through her inner world, where her ego confronts her.",
+    "industry": "world",
+    "popularity": 0.2963,
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 15,
+    "providers": []
+  },
+  "1806326": {
+    "id": 1806326,
+    "type": "movie",
+    "title": "Yr Wyddfa",
+    "poster_path": "/jhSgkc9uWEm3HpKN3UejnNOI2B3.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An estranged father and daughter climb Yr Wyddfa together. Along the way, it becomes clear why they haven't talked to each other for so long and what occasion brings them together today.",
+    "industry": "world",
+    "popularity": 0.8158,
+    "original_language": "en",
+    "origin_country": [
+      "NL",
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 16,
+    "providers": []
+  },
+  "1804964": {
+    "id": 1804964,
+    "type": "movie",
+    "title": "Daredevil: Man Without Fear",
+    "poster_path": "/crbwdZrmhYXBJpK8Bx9ITYb8dd2.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Based upon the early Man Without Fear comics, explore Matt Murdocks world in Hell’s Kitchen seeing his beginnings with his best friend Foggy Nelson, falling in love for the first time with Elektra Natchios, and even beginning a law firm with his best friend. Then see the present day and how Matt handles life as a lawyer and as a vigilante of the night, going against foes such as the Kingpin and Bullseye! Will Matt survive these horrible encounters? Find out!",
+    "industry": "world",
+    "popularity": 0.4914,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 3000,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "PG-13",
+    "release_date": "2026-11-14",
+    "date_kind": "festival",
+    "runtime": 90,
+    "providers": []
+  },
+  "1803919": {
+    "id": 1803919,
+    "type": "movie",
+    "title": "Water Valley",
+    "poster_path": "/yBMaCtiNW6MC6NAds7ChMQfp3DQ.jpg",
+    "backdrop_path": "/rmqIHnEl0u6UAqZG1oKx8rrsWuW.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Shortly after a breakup, a man seeks isolation in a cabin.",
+    "industry": "world",
+    "popularity": 0.2806,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Science Fiction",
+      "Mystery",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "E",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 15,
+    "providers": []
+  },
+  "1263337": {
+    "id": 1263337,
+    "type": "movie",
+    "title": "Heart of the Beast",
+    "poster_path": "/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+    "backdrop_path": "/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+    "vote_average": 7.312,
+    "vote_count": 445,
+    "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "industry": "world",
+    "popularity": 202.1924,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "UkMuGKqAux4",
+      "name": "New International Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 82000000,
+    "revenue": 171955233,
+    "genres": [
+      "Adventure",
+      "Thriller"
+    ],
+    "tagline": "Survival depends on their bond.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-09-25",
+    "date_kind": "release",
+    "runtime": 105,
+    "providers": []
   }
 };
