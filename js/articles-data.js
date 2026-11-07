@@ -80119,5 +80119,379 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 13:03:26 +0000"
+  },
+  "1i1liqx": {
+    "id": "1i1liqx",
+    "type": "news",
+    "headline": "Macklemore Reveals Nine Major US Venues Rejected His 'Free Palestine' Benefit Concerts",
+    "dek": "The rapper announced that his planned American tour dates have been halted after multiple arenas refused to host his charity shows.",
+    "body": [
+      {
+        "h": "The European Leg of the Tour",
+        "p": [
+          "Macklemore recently wrapped up the European segment of his 'Free Palestine Tour'. This run included sold-out benefit performances in Dublin on October 26, Paris on October 29, and London on October 30, 2026.",
+          "All proceeds generated from these European concerts were designated to support the Palestinian people residing in Gaza."
+        ]
+      },
+      {
+        "h": "Rejection Across the United States",
+        "p": [
+          "Following the success abroad, the artist intended to bring the benefit concert series to the United States. However, after weeks of outreach, nine major American arenas declined to host the events.",
+          "The musician stated that in over two decades of touring, he had never encountered a situation where dates were suddenly cancelled or denied once venues realized the concerts were tied to his 'Free Palestine' campaign."
+        ]
+      },
+      {
+        "h": "Venues That Turned Down the Artist",
+        "p": [
+          "The list of American locations that rejected the tour includes several of the country's most prominent entertainment arenas.",
+          "Madison Square Garden, Prudential Center, Barclays Center, UBS Arena, Intuit Dome, Kia Forum, Crypto.com Arena, Chase Center, and Climate Pledge all refused to host the benefit shows."
+        ]
+      },
+      {
+        "h": "Responses from Industry Officials",
+        "p": [
+          "Following the public disclosure of the rejections, Madison Square Garden addressed the situation in a statement to PEOPLE. They noted that their venues operate with extreme scheduling limitations and maintained that the performer is not an arena-level act.",
+          "The artist's team had initially aimed to finalize bookings for all targeted American locations by the end of 2026 before facing widespread resistance."
+        ]
+      },
+      {
+        "h": "Prior Controversies and Context",
+        "p": [
+          "This touring hurdle follows earlier claims made by Macklemore regarding his involvement with Ed Sheeran. The rapper previously alleged that Sheeran removed him from a separate tour due to commentary made about Palestine during performances on the 'Shape of You' tour.",
+          "Ed Sheeran countered those claims, explaining that the contract was held with the promoter rather than himself, and emphasized that he would not abandon fans, touring crews, or supporting musicians."
+        ]
+      },
+      {
+        "h": "Future Outlook and Stand",
+        "p": [
+          "Addressing his supporters on social media, the singer expressed determination despite the setbacks. He emphasized that the movement would find alternative ways to perform without relying on traditional institutional permission.",
+          "As of the current announcement, the musician does not have any further concert dates officially scheduled."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Macklemore announced that nine major US venues declined to host his upcoming 'Free Palestine' benefit concerts after a successful European tour. Prominent arenas such as Madison Square Garden rejected the dates, with management citing scheduling limits and ticket scale, while the musician currently holds no further scheduled concert dates."
+        ]
+      }
+    ],
+    "facts": [
+      "Macklemore performed sold-out benefit shows in Dublin on October 26, Paris on October 29, and London on October 30, 2026.",
+      "Nine major American arenas turned down the tour.",
+      "The list of rejecting venues includes Madison Square Garden, Prudential Center, Barclays Center, UBS Arena, Intuit Dome, Kia Forum, Crypto.com Arena, Chase Center, and Climate Pledge.",
+      "Ed Sheeran addressed allegations regarding a previous tour contract involving a promoter."
+    ],
+    "entities": {
+      "people": [
+        "Macklemore",
+        "Ed Sheeran"
+      ],
+      "titles": [
+        "Free Palestine Tour",
+        "Shape of You",
+        "Thrift Shop"
+      ]
+    },
+    "keywords": [
+      "Macklemore Free Palestine tour",
+      "Macklemore US venues reject concert",
+      "Macklemore Madison Square Garden",
+      "Macklemore benefit concerts Gaza"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135635719,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Macklemore Reveals Nine Major US Venues Rejected His 'Free Palestine' Benefit Concerts",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T20:00:00+05:30"
+  },
+  "1pjiw6t": {
+    "id": "1pjiw6t",
+    "type": "news",
+    "headline": "Sydney Sweeney And Glen Powell Projects Head To Streaming In November 2026",
+    "dek": "Popular stars Sydney Sweeney and Glen Powell are bringing notable films to different streaming platforms before November 2026 comes to a close.",
+    "body": [
+      {
+        "h": "November Streaming Lineup",
+        "p": [
+          "Major Hollywood talents Sydney Sweeney and Glen Powell have movies scheduled for platform releases during the month of November. These upcoming streaming additions will land on separate digital networks for viewers at home.",
+          "Both actors have established themselves as prominent figures of their generation through various blockbuster roles. Sweeney has taken on projects like The Housemaid, while Powell starred in Top Gun: Maverick."
+        ]
+      },
+      {
+        "h": "Past Collaborations And Success",
+        "p": [
+          "The pair previously joined forces for the R-rated romantic comedy Anyone but You. That joint project proved to be a major triumph for both performers and the genre overall.",
+          "Anyone but You grossed $220.3 million globally, demonstrating a continued audience demand for romantic comedies in cinemas. The film secured an 87% audience score on Rotten Tomatoes and made its way to HBO Max on October 20."
+        ]
+      },
+      {
+        "h": "Madame Web On HBO Max",
+        "p": [
+          "Sydney Sweeney's upcoming streaming arrival is set for HBO Max on November 14. The title in question is Madame Web, a superhero feature rooted in Marvel characters from the former Sony's Spider-Man Universe.",
+          "Within the feature, Sweeney portrays Julia Cornwall, one of several teenagers hunted by a villain resembling Spider-Man named Ezekiel Sims. The character is destined to evolve into a Spider-Woman."
+        ]
+      },
+      {
+        "h": "Cast And Reception Of Madame Web",
+        "p": [
+          "The narrative follows Cassie Webb, a clairvoyant played by Dakota Johnson, as she attempts to protect Julia and fellow teenagers Anya Corazón, played by Isabela Merced, and Mattie Franklin, played by Celeste O'Connor, from Sims.",
+          "While critical reception was mixed, the movie offers an entertaining experience as an unintentional superhero comedy due to its many unusual moments. Adam Scott of Severance also appears in the project as a younger iteration of Uncle Ben Parker."
+        ]
+      },
+      {
+        "h": "The Super Mario Galaxy Movie On Netflix",
+        "p": [
+          "Glen Powell's streaming feature arrives on Netflix on November 30, concluding the month. Unlike Sweeney's live-action project, this release is an animated video game adaptation titled The Super Mario Galaxy Movie.",
+          "Chris Pratt voices the title character, while Powell provides the voice for Fox McCloud from Nintendo's Star Fox franchise. Powell's character guides Mario, Luigi, and other figures on a specialized mission."
+        ]
+      },
+      {
+        "h": "Box Office And Legacy Of The Animated Feature",
+        "p": [
+          "Powell's vocal performance reportedly channels the swagger and charisma he displayed as the pilot Hangman in Top Gun: Maverick. The animated release expands its scope across diverse worlds with unique locations and characters.",
+          "The Super Mario Galaxy Movie crossed the $1 billion threshold worldwide, serving as a large-scale fantastical feature for audiences seeking immersive entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sydney Sweeney and Glen Powell are releasing different films on separate streaming networks before November concludes. Sweeney's superhero feature Madame Web arrives on HBO Max on November 14, while Powell's animated hit The Super Mario Galaxy Movie debuts on Netflix on November 30."
+        ]
+      }
+    ],
+    "facts": [
+      "Sydney Sweeney and Glen Powell have movies releasing on streaming in November 2026.",
+      "Anyone but You grossed $220.3 million worldwide and arrived on HBO Max on October 20.",
+      "Madame Web releases on HBO Max on November 14, 2026.",
+      "The Super Mario Galaxy Movie releases on Netflix on November 30, 2026.",
+      "The Super Mario Galaxy Movie made over $1 billion worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Sydney Sweeney",
+        "Glen Powell",
+        "Felipe Rangel",
+        "Ezekiel Sims",
+        "Julia Cornwall",
+        "Isabela Merced",
+        "Anya Corazón",
+        "Celeste O'Connor",
+        "Mattie Franklin",
+        "Dakota Johnson",
+        "Cassie Webb",
+        "Adam Scott",
+        "Ben Parker",
+        "Chris Pratt",
+        "Fox McCloud",
+        "Tom Cruise",
+        "Hangman"
+      ],
+      "titles": [
+        "The Housemaid",
+        "Top Gun: Maverick",
+        "Anyone but You",
+        "Madame Web",
+        "The Super Mario Galaxy Movie",
+        "Severance"
+      ]
+    },
+    "keywords": [
+      "Sydney Sweeney streaming November",
+      "Glen Powell streaming Netflix",
+      "Madame Web HBO Max",
+      "The Super Mario Galaxy Movie"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/glen-powell-smiling-on-the-graham-norton-show.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Sydney Sweeney And Glen Powell Projects Head To Streaming In November 2026",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 14:05:58 GMT"
+  },
+  "1c134er": {
+    "id": "1c134er",
+    "type": "news",
+    "headline": "Kajal Aggarwal Discusses Her Role as Mandodari in Ramayana",
+    "dek": "Actor Kajal Aggarwal talks about her brief role as Queen Mandodari in Nitesh Tiwari's newly released epic Ramayana, expressing pride in being part of the project.",
+    "body": [
+      {
+        "h": "Introduction to the Release",
+        "p": [
+          "The newly released cinematic adaptation of Ramayana has arrived in theatres, capturing the attention of audiences and performing well at the box office. Directed by Nitesh Tiwari, the high-profile feature brings together a massive ensemble cast to portray characters from the ancient Hindu epic."
+        ]
+      },
+      {
+        "h": "Kajal Aggarwal as Mandodari",
+        "p": [
+          "Among the prominent cast members is actor Kajal Aggarwal, who essays the role of Queen Mandodari, the virtuous wife of the demon king Ravana. Although her screen time is brief, her appearance as the queen of Lanka has drawn considerable attention from viewers across social media platforms following the film's premiere."
+        ]
+      },
+      {
+        "h": "Sharing the Look on Social Media",
+        "p": [
+          "Following the theatrical debut, Kajal took to Instagram to share photographs showcasing her royal look as Mandodari. She accompanied the images with a detailed note reflecting on her involvement in the grand cinematic project and expressing her gratitude to the filmmakers."
+        ]
+      },
+      {
+        "h": "Pride in a Compact Role",
+        "p": [
+          "Addressing the scale of her part, Kajal acknowledged that her role in the epic is relatively small in terms of screen minutes. However, she emphasized that being associated with a project deeply embedded in cultural history transcends the length of any individual performance."
+        ]
+      },
+      {
+        "h": "Gratitude to the Makers and Co-Stars",
+        "p": [
+          "The actor extended her appreciation to director Nitesh Tiwari and producer Namit Malhotra for offering her the opportunity to participate in a pioneering step toward global cinema. She also shared fond words for her co-stars, including Rakul Preet, Vivek Oberoi, and Adinath Kothare, noting the enjoyable interactions they shared during production."
+        ]
+      },
+      {
+        "h": "Background of the Epic Production",
+        "p": [
+          "Ramayana draws inspiration from Valmiki's ancient text, tracing the journey of Lord Rama and his conflict with Ravana after the abduction of Sita. Produced through a collaboration between Prime Focus Studios, DNEG, and Monster Mind Creations, the ambitious adaptation features Ranbir Kapoor, Sai Pallavi, Yash, Ravie Dubey, and Sunny Deol, with the first part releasing on November 5, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Kajal Aggarwal has addressed her brief appearance as Queen Mandodari in Nitesh Tiwari's Ramayana, expressing immense pride in participating in the cultural project. Released on November 5, 2026, the epic adaptation features a star-studded cast and is currently playing in theatres."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released in theatres on November 5, 2026.",
+      "Kajal Aggarwal plays the character of Queen Mandodari.",
+      "Yash stars as Ravana in the film.",
+      "The film is directed by Nitesh Tiwari and produced by Namit Malhotra."
+    ],
+    "entities": {
+      "people": [
+        "Kajal Aggarwal",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Yash",
+        "Rakul Preet",
+        "Vivek Oberoi",
+        "Adinath Kothare",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Kajal Aggarwal Ramayana",
+      "Mandodari Ramayana film",
+      "Nitesh Tiwari Ramayana release",
+      "Yash Ravana Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/ramayana_1794060002229_cbbO_1794060002418_pWek_cdc28db2-a50f-44dc-9963-089b767a927f_J8de.png",
+        "caption": "Kajal Aggarwal Discusses Her Role as Mandodari in Ramayana",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 19:55:17 +0530"
+  },
+  "lv2diz": {
+    "id": "lv2diz",
+    "type": "news",
+    "headline": "Diljit Dosanjh Restricted From Performing Four Specific Tracks at Upcoming Indore Show",
+    "dek": "Authorities in Indore have prohibited Punjabi artist Diljit Dosanjh from playing several of his popular tracks during his scheduled November 15 live performance, citing concerns regarding youth welfare and public safety.",
+    "body": [
+      {
+        "h": "Concert Restrictions Imposed in Indore",
+        "p": [
+          "Local officials have officially instructed event organizers that Punjabi music star Diljit Dosanjh will face specific performance limitations at his upcoming live concert in Indore. The event, scheduled for November 15, must proceed without the inclusion of four well-known songs from the artist's discography.",
+          "The directive was dispatched directly to the venue management by the District Child Protection Officer. This administrative intervention aims to curb the live performance of material that authorities believe could negatively impact minors and other attendees."
+        ]
+      },
+      {
+        "h": "Specific Tracks Barred From the Setlist",
+        "p": [
+          "According to details from a Press Trust of India report, the prohibited tracks comprise 'Patiala Peg', '5 Tara Theke', 'Jeb Vicho Feem', and 'Jatt Fire Karda'. Each of these numbers has enjoyed widespread popularity among fans but has now drawn regulatory scrutiny.",
+          "The official communication stresses that none of these four titles may be performed during the live event, marking a strict constraint on the artist's usual concert repertoire for this particular stop on his tour."
+        ]
+      },
+      {
+        "h": "Origins of the Official Complaint",
+        "p": [
+          "The regulatory action follows a formal grievance filed by Chandigarh-based petitioner Dr Punditrao Dharenavar. His petition specifically requested that authorities intervene to prevent the inclusion of these contentious songs in the live setlist.",
+          "In addition to targeting the specific tracks, the complaint urged officials to ensure that the lyrics are not utilized in any altered format and that the artist refrains from inviting children onto the stage during the performance."
+        ]
+      },
+      {
+        "h": "Concerns Over Youth and Public Welfare",
+        "p": [
+          "The primary motivation behind the restriction is the protection of minors present in the audience. Since children above the age of five are permitted to attend the concert, authorities expressed worry that lyrical themes related to intoxicants and aggression could leave a harmful impression.",
+          "Officials emphasized that public events should maintain an environment suitable for all age groups, leading to the decision that preventative measures regarding the setlist were necessary to safeguard young minds."
+        ]
+      },
+      {
+        "h": "Precedent From the High Court",
+        "p": [
+          "The intervention draws direct legal backing from a previous judicial directive issued by the Punjab and Haryana High Court on July 22, 2019. That ruling instructed law enforcement agencies across Punjab, Haryana, and the Union Territory of Chandigarh to actively prevent the public airing of music that promotes alcohol, wine, narcotics, or violence.",
+          "The historical ruling specifically highlighted the detrimental psychological influence that such artistic expressions can exert on impressionable youth, providing the foundational argument for the restrictions now applied in Indore."
+        ]
+      },
+      {
+        "h": "Additional Demands on Stage Appearance",
+        "p": [
+          "Beyond the song restrictions, the initial complaint also sought limitations on the artist's physical appearance and stage presentation during the live show. Specifically, the petitioner asked authorities to prohibit the use of dual crossed silver bullet belts, commonly referred to as bandoliers.",
+          "The request included a ban on wearing dummy metallic silver cartridges across the chest while performing live, reflecting a broader effort to minimize imagery associated with weaponry and violence at public entertainment gatherings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Punjabi singer Diljit Dosanjh has been barred by officials from performing four specific tracks—'Patiala Peg', '5 Tara Theke', 'Jeb Vicho Feem', and 'Jatt Fire Karda'—at his upcoming November 15 concert in Indore. The decision stems from a complaint citing concerns over songs that allegedly glorify substances and violence, backed by historical guidelines from the Punjab and Haryana High Court regarding the protection of young audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh",
+      "November 15",
+      "Indore",
+      "Patiala Peg",
+      "5 Tara Theke",
+      "Jeb Vicho Feem",
+      "Jatt Fire Karda",
+      "Dr Punditrao Dharenavar",
+      "July 22, 2019"
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Punditrao Dharenavar"
+      ],
+      "titles": [
+        "Patiala Peg",
+        "5 Tara Theke",
+        "Jeb Vicho Feem",
+        "Jatt Fire Karda"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Indore concert",
+      "Diljit Dosanjh barred songs",
+      "Patiala Peg Indore ban",
+      "Diljit Dosanjh November 15"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135638853,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Diljit Dosanjh Restricted From Performing Four Specific Tracks at Upcoming Indore Show",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T19:24:09+05:30"
   }
 };
