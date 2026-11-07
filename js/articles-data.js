@@ -78947,5 +78947,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T01:00:38.058Z"
+  },
+  "1kmbegz": {
+    "id": "1kmbegz",
+    "type": "news",
+    "headline": "Sa Re Ga Ma Pa 2026 Celebrates Diwali with Shankar Mahadevan, Kumar Sanu, and Interactive Gaming",
+    "dek": "Zee TV's popular reality show Sa Re Ga Ma Pa 2026 is rolling out a grand Diwali special featuring legendary singers, heartfelt gifts, and an innovative interactive at-home gaming experience.",
+    "body": [
+      {
+        "h": "Festive Cheer on Zee TV",
+        "p": [
+          "The popular singing reality show Sa Re Ga Ma Pa 2026 is preparing to welcome the festival of lights with an exceptionally festive episode. Known for celebrating the core of Indian music and providing a platform for emerging vocalists nationwide, the program is taking its celebratory atmosphere to new heights.",
+          "Viewers can expect an evening brimming with joyous energy, remarkable vocal displays, and unexpected emotional moments that capture the true spirit of togetherness during the holiday season."
+        ]
+      },
+      {
+        "h": "Musical Openings and Nostalgic Jams",
+        "p": [
+          "The upcoming special episode begins with an engaging opening skit led by judge Shankar Mahadevan, who infuses the stage with his signature enthusiasm and charm. Following this, contestant Geet Bagde takes center stage to deliver an energetic performance of the classic track 'Eena Meena Deeka'.",
+          "Her lively delivery prompts the judges to join her on stage, where veteran singer Kumar Sanu shares a fond memory of experimenting with the song in his youth. The interaction quickly evolves into a spontaneous duet, with Sanu affectionately nicknaming Geet 'Fatafati' to the delight of everyone present."
+        ]
+      },
+      {
+        "h": "Heartwarming Surprises and Generosity",
+        "p": [
+          "Embracing the generous spirit of Dhanteras, the episode features touching moments of kindness between the mentors and participants. Kumar Sanu surprises contestant Sehajdeep with a costly watch, creating an unforgettable memory for the young singer.",
+          "In another touching gesture, participant Durgesh Yadav receives a promise for a new television in the presence of his Guru, highlighting the mentor-student bond emphasized throughout the season."
+        ]
+      },
+      {
+        "h": "Laughter and Entertainment Galore",
+        "p": [
+          "Host Shreyas Talpade ensures the comedic and entertaining energy remains high by participating in a lighthearted 'patakha' skit alongside the contestants. The segment brings plenty of laughter and adds a lively festive pulse to the television screen.",
+          "These comedic interruptions perfectly balance the high-caliber vocal performances, ensuring a well-rounded entertainment experience for families tuning in from home."
+        ]
+      },
+      {
+        "h": "Interactive Ghar Ka Sangeetsthan Experience",
+        "p": [
+          "Expanding beyond traditional television viewing, the network is launching a unique technological feature called Ghar Ka Sangeetsthan starting this week. The interactive gaming initiative allows audiences at home to play along in real time while watching the broadcast.",
+          "A QR code displayed on the screen directs viewers to a mobile game filled with multiple-choice questions and music trivia. Correct answers allow participants to score points, rise on the leaderboard, and win prizes."
+        ]
+      },
+      {
+        "h": "Broadcast Details and Legacy",
+        "p": [
+          "As part of a long-standing tradition of celebrating Indian heritage through vocal talent, this special edition combines nostalgia with modern audience engagement. Fans can catch all the festive action every Saturday and Sunday.",
+          "The program continues to air at 9:30 PM exclusively on Zee TV and Hindi ZEE5, maintaining its reputation as a premier destination for musical celebration."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Zee TV's Sa Re Ga Ma Pa 2026 is hosting a Diwali special featuring judges Shankar Mahadevan, Kumar Sanu, and Javed Ali alongside host Shreyas Talpade and various contestants. The episode includes musical performances, surprise gifts for participants, and the launch of an interactive home gaming feature called Ghar Ka Sangeetsthan."
+        ]
+      }
+    ],
+    "facts": [
+      "Sa Re Ga Ma Pa 2026 airs every Saturday and Sunday at 9:30 PM on Zee TV and Hindi ZEE5",
+      "Shankar Mahadevan kicks off the episode with an opening skit",
+      "Contestant Geet Bagde performs 'Eena Meena Deeka'",
+      "Kumar Sanu calls Geet Bagde 'Fatafati'",
+      "Kumar Sanu gifts contestant Sehajdeep a watch on Dhanteras",
+      "Contestant Durgesh Yadav is promised a television in the presence of his Guru",
+      "Shreyas Talpade performs a 'patakha' skit with the contestants",
+      "The interactive gaming experience is named Ghar Ka Sangeetsthan"
+    ],
+    "entities": {
+      "people": [
+        "Kumar Sanu",
+        "Shankar Mahadevan",
+        "Javed Ali",
+        "Geet Bagde",
+        "Sehajdeep",
+        "Durgesh Yadav",
+        "Shreyas Talpade"
+      ],
+      "titles": [
+        "Sa Re Ga Ma Pa 2026",
+        "Eena Meena Deeka",
+        "Ghar Ka Sangeetsthan"
+      ]
+    },
+    "keywords": [
+      "Sa Re Ga Ma Pa 2026",
+      "Kumar Sanu Sa Re Ga Ma Pa",
+      "Shankar Mahadevan Diwali special",
+      "Shreyas Talpade Zee TV",
+      "Ghar Ka Sangeetsthan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/saregamapa2026d11-95981794044365.jpg",
+        "caption": "Sa Re Ga Ma Pa 2026 Celebrates Diwali with Shankar Mahadevan, Kumar Sanu, and Interactive Gaming",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 15:12:06 +0530"
+  },
+  "ald343": {
+    "id": "ald343",
+    "type": "news",
+    "headline": "Rookie Group TUIDE Wins IS Rising Star at the 2026 Korea Grand Music Awards",
+    "dek": "Newcomer sensation TUIDE secured a major achievement on Artist Day at the Gocheok Sky Dome.",
+    "body": [
+      {
+        "h": "A Historic Moment for TUIDE",
+        "p": [
+          "The newcomer ensemble TUIDE achieved a major milestone in their rising career by securing the IS Rising Star accolade. This notable victory took place during the opening segment of a massive musical celebration held at a prominent venue.",
+          "Gracing their very first major award ceremony, the members beamed during their commemorative photo session while holding the newly minted trophy. Their radiant energy captured the attention of both on-site attendees and international supporters."
+        ]
+      },
+      {
+        "h": "Setting the Stage at Gocheok Sky Dome",
+        "p": [
+          "The opening event unfolded on the afternoon of November 7 at the famous Gocheok Sky Dome situated in Guro-gu, Seoul. This grand gathering marked Artist Day, serving as the official kickoff for a multi-day musical festival.",
+          "Thousands of passionate spectators packed the massive arena, creating an electrifying atmosphere that reached a fever pitch as the honorees stepped forward to claim their well-deserved trophies."
+        ]
+      },
+      {
+        "h": "Star-Studded Hosting and Event Origins",
+        "p": [
+          "The opening day ceremonies were jointly guided by RESCENE member Woni alongside popular actress Nam Ji Hyun. Together, they kept the audience engaged throughout the packed schedule of performances and presentations.",
+          "Now in its third annual iteration, the overarching ceremony was originally launched in 2024 by prominent Korean media outlet Ilgan Sports to commemorate its landmark anniversary. The initiative aims to pioneer a fresh paradigm within the modern music industry."
+        ]
+      },
+      {
+        "h": "Rigorous Criteria and Global Fan Power",
+        "p": [
+          "Winners at the celebration are determined through strict evaluation standards that incorporate physical album sales and digital streaming metrics. Data providers for these metrics include major domestic platforms like Hanteo Chart, Genie Music, FLO, and Bugs.",
+          "In addition to metrics, global supporters wielded significant influence over the final outcomes by casting votes through a dedicated mobile application during the pre-ceremony window."
+        ]
+      },
+      {
+        "h": "Broadcasting Across International Networks",
+        "p": [
+          "Music lovers around the world were able to follow the festivities through a comprehensive multi-platform broadcast network. Viewers in South Korea tuned in via television network ENA, while Japanese fans accessed the stream through Hulu Japan.",
+          "Meanwhile, audiences across all other international regions outside of China and Japan enjoyed live coverage through TikTok Live, ensuring widespread accessibility for fans globally."
+        ]
+      },
+      {
+        "h": "Momentum and Future Expectations",
+        "p": [
+          "This prestigious honor arrives as the group continues to build substantial momentum through domestic broadcast programs and educational audio content initiatives. Such appearances have continuously reinforced their standing as prominent rookies to watch.",
+          "By delivering a dynamic live performance alongside their award win, the ensemble has proven their undeniable potential to lead the next generation of performers in the industry."
+        ]
+      },
+      {
+        "h": "Continuing the Weekend Festivities",
+        "p": [
+          "The two-day festival is scheduled to proceed into its second date featuring another stellar lineup of performances and prestigious trophy presentations. Co-hosting duties for the subsequent day transition to IVE member Liz and actor Kim Jae Won.",
+          "Organized jointly by the official organizing committee and Creator Ring, the weekend continues to celebrate top-tier artists and industry figures alike."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rookie group TUIDE earned the IS Rising Star award on Artist Day at the Korea Grand Music Awards held inside the Gocheok Sky Dome. The event was co-hosted by Woni and Nam Ji Hyun, celebrating outstanding talent through a combination of metrics, fan voting, and broad international broadcasts."
+        ]
+      }
+    ],
+    "facts": [
+      "TUIDE won the IS Rising Star award at the 2026 Korea Grand Music Awards",
+      "The event took place on November 7, 2026, at the Gocheok Sky Dome in Guro-gu, Seoul",
+      "The ceremony was hosted by RESCENE member Woni and actress Nam Ji Hyun",
+      "The Korea Grand Music Awards was established in 2024 by Ilgan Sports",
+      "The second day of the event is co-hosted by IVE member Liz and actor Kim Jae Won"
+    ],
+    "entities": {
+      "people": [
+        "Woni",
+        "Nam Ji Hyun",
+        "Liz",
+        "Kim Jae Won"
+      ],
+      "titles": [
+        "TUIDE",
+        "RESCENE",
+        "IVE",
+        "Korea Grand Music Awards"
+      ]
+    },
+    "keywords": [
+      "TUIDE Rising Star award",
+      "Korea Grand Music Awards 2026",
+      "TUIDE 2026 KGMA",
+      "Gocheok Sky Dome music awards"
+    ],
+    "images": [],
+    "published": "Sat, 07 Nov 2026 05:24:00 EST"
+  },
+  "191fj7z": {
+    "id": "191fj7z",
+    "type": "news",
+    "headline": "Salman Khan praises Chitrangada Singh’s confidence and mentions a punch in chemistry",
+    "dek": "At the trailer launch of their upcoming film Maatrubhumi, Salman Khan commended co-star Chitrangada Singh for her unwavering confidence and complete lack of insecurity.",
+    "body": [
+      {
+        "h": "The Trailer Launch Event",
+        "p": [
+          "Bollywood superstar Salman Khan recently attended the trailer launch event for his upcoming cinematic project. During the interactive session with the media, the actor was questioned about his working dynamic with his leading lady.",
+          "The conversation quickly turned toward how her presence compared to his previous co-stars, setting the stage for a witty and engaging exchange on stage."
+        ]
+      },
+      {
+        "h": "Praise for Chitrangada Singh",
+        "p": [
+          "When a journalist asked the actor to explain their on-screen chemistry and elaborate on his co-star's qualities, Salman responded in his signature humorous style. He remarked that there is a distinct punch in their chemistry.",
+          "Elaborating further on what makes her stand out professionally, he highlighted her lack of insecurity as her finest quality, noting that she remains unfazed by external pressures."
+        ]
+      },
+      {
+        "h": "First On-Screen Collaboration",
+        "p": [
+          "This upcoming project marks the very first time Salman Khan and Chitrangada Singh will share the silver screen together. Their fresh pairing has already generated considerable excitement among fans.",
+          "The creative collaboration brings together two distinct acting styles, adding a unique flavor to the narrative."
+        ]
+      },
+      {
+        "h": "Inspiration and Real-Life Roots",
+        "p": [
+          "The film draws its core inspiration from the 2020 Galwan Valley clashes between Indian and Chinese troops. It incorporates detailed accounts from the book India's Most Fearless authored by Shiv Aroor.",
+          "The dramatic depiction aims to honor the sacrifices made by soldiers during the tense border standoff, rooting the commercial narrative in recent military history."
+        ]
+      },
+      {
+        "h": "Character Portrayals and Crew",
+        "p": [
+          "Salman essays the role of Indian Army Colonel Bikkumalla Santosh Babu, who commanded the 16 Bihar Regiment during the Galwan Valley encounter and received the Maha Vir Chakra posthumously.",
+          "The movie is directed by Apoorva Lakhia and features a robust supporting lineup including Mukesh Rishi, Ankur Bhatia, Zeyn Shaw, and Abhilash Chaudhary."
+        ]
+      },
+      {
+        "h": "Title Changes and Delays",
+        "p": [
+          "The movie was originally announced under the working title Battle of Galwan before being officially renamed to Maatrubhumi: May War Rest in Peace.",
+          "The theatrical rollout experienced delays because the production team required extra time to refine the VFX elements and ensure high visual standards. Additionally, scheduling adjustments became necessary following an injury sustained by Chitrangada Singh."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Release",
+        "p": [
+          "Following the resolution of production hurdles and completion of visual effects work, the film has locked in its official calendar slot.",
+          "Audiences can expect to watch the war drama unfold on the big screen when it officially hits theatres on December 4."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan praised co-star Chitrangada Singh's confidence and lack of insecurity during the trailer launch of their first film together. The military drama, inspired by the Galwan Valley clashes, is scheduled to release in theatres on December 4."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan stars in Maatrubhumi: May War Rest in Peace alongside Chitrangada Singh.",
+      "The film is inspired by the 2020 Galwan Valley clashes and Shiv Aroor's book India’s Most Fearless.",
+      "Salman Khan plays Indian Army Colonel Bikkumalla Santosh Babu, who commanded the 16 Bihar Regiment.",
+      "The film is directed by Apoorva Lakhia.",
+      "The supporting cast includes Mukesh Rishi, Ankur Bhatia, Zeyn Shaw, and Abhilash Chaudhary.",
+      "The film was initially announced as Battle of Galwan.",
+      "The film is scheduled to hit theatres on December 4."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangada Singh",
+        "Shiv Aroor",
+        "Apoorva Lakhia",
+        "Bikkumalla Santosh Babu",
+        "Mukesh Rishi",
+        "Ankur Bhatia",
+        "Zeyn Shaw",
+        "Abhilash Chaudhary",
+        "Aishwarya Rai",
+        "Katrina Kaif"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "India’s Most Fearless",
+        "Battle of Galwan"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi film",
+      "Salman Khan Chitrangada Singh",
+      "Battle of Galwan movie release",
+      "Maatrubhumi release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135633344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan praises Chitrangada Singh’s confidence and mentions a punch in chemistry",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T15:33:46+05:30"
+  },
+  "8fqiev": {
+    "id": "8fqiev",
+    "type": "news",
+    "headline": "RESCENE Crosses 450,000 First-Week Sales Milestone with New Mini-Album PULSE",
+    "dek": "The rookie girl group is nearing a major half-million seller milestone after their latest mini-album PULSE recorded massive physical sales on Hanteo Chart.",
+    "body": [
+      {
+        "h": "Explosive First-Week Sales Achievement",
+        "p": [
+          "Rising K-pop girl group RESCENE has achieved remarkable commercial momentum with their fourth mini-album, PULSE. As of November 7, the record surpassed 450,000 cumulative copies sold during its first week on the market.",
+          "This stellar performance brings the five-member act extraordinarily close to securing their very first half-million seller designation as tracking continues to unfold."
+        ]
+      },
+      {
+        "h": "Hanteo Chart Milestones and Tracking Data",
+        "p": [
+          "According to official figures released by Hanteo Chart on November 7, the mini-album officially dropped on November 3 and recorded 412,158 cumulative sales through November 6.",
+          "A dramatic surge on the fifth tracking day brought in an additional 47,137 copies by 2:00 PM on November 7 alone, pushing the verified first-week total to 459,295 copies and placing the release at the peak of the daily physical charts."
+        ]
+      },
+      {
+        "h": "Counting Down to the Final Window",
+        "p": [
+          "With the official first-week tracking period scheduled to wrap up on November 9, excitement is building across the fandom. Supporters are watching closely to see if the group can clear the remaining 40,705 copies needed to cross the prestigious 500,000-copy threshold.",
+          "Industry observers continue to monitor the daily figures as the quintet races toward the final hours of the tracking cycle."
+        ]
+      },
+      {
+        "h": "A Massive Leap Over Previous Personal Bests",
+        "p": [
+          "This explosive trajectory represents an unprecedented career jump compared to RESCENE's previous musical outputs. Their third mini-album, lip bomb, previously set their personal best first-week record at 104,406 copies upon its launch in November 2025.",
+          "Demonstrating a more than fourfold increase in overall sales velocity, PULSE completely shattered previous boundaries by shifting 131,893 copies on its very first day."
+        ]
+      },
+      {
+        "h": "Unprecedented Daily Sales Trajectory",
+        "p": [
+          "The staggering opening-day numbers meant that PULSE surpassed the entire first-week total of their previous release within a single 24-hour window. Momentum remained entirely uninterrupted over the following days.",
+          "Sales marched upward to cross 220,000 copies by day two, 289,391 copies by day three, and 412,158 copies by day four, showcasing a remarkably steep upward curve."
+        ]
+      },
+      {
+        "h": "Group Background and Steady Rise",
+        "p": [
+          "Since making their official debut in March 2024 with the single album Re:Scene, the group has steadily expanded its dedicated listener base and commercial footprint. The lineup consists of members Woni, Liv, Minami, May, and Zena.",
+          "Their step-by-step growth includes their second mini-album, Glow Up, reaching the 40,000-copy range in February 2025, followed by the third single album, Dearest, hitting the 80,000 bracket that July."
+        ]
+      },
+      {
+        "h": "Inside the Tracklist of PULSE",
+        "p": [
+          "The phenomenal commercial success of the new record is supported by a diverse five-track lineup. It is anchored by the dynamic title track 'With,' alongside compelling supporting songs like 'Finest Thing,' 'Inside Out,' 'MEME,' and 'Dragon.'",
+          "Featuring Korean members Woni, Liv, May, and Zena alongside Japanese member Minami, the talented quintet continues to cement its reputation as a major rising force in the industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rookie girl group RESCENE has driven massive commercial success with their fourth mini-album PULSE, recording nearly 460,000 copies in cumulative first-week sales by November 7. Driven by exceptional daily charts and a diverse tracklist led by the single 'With,' the group is rapidly approaching a milestone half-million seller status."
+        ]
+      }
+    ],
+    "facts": [
+      "RESCENE released their fourth mini-album PULSE on November 3, 2026.",
+      "Cumulative first-week sales surpassed 450,000 copies as of November 7, 2026.",
+      "Hanteo Chart reported 412,158 cumulative sales through November 6, 2026.",
+      "An additional 47,137 copies were sold by 2:00 PM on November 7, 2026, bringing total verified sales to 459,295 copies.",
+      "The first-week tracking window closes on November 9, 2026.",
+      "Their previous mini-album lip bomb sold 104,406 copies in its first week in November 2025.",
+      "PULSE sold 131,893 copies on its first day, 220,000 by day two, 289,391 by day three, and 412,158 by day four.",
+      "RESCENE debuted in March 2024 with the single album Re:Scene.",
+      "The group consists of members Woni, Liv, Minami, May, and Zena.",
+      "Their second mini-album Glow Up reached the 40,000-copy range in February 2025.",
+      "Their third single album Dearest hit the 80,000-copy bracket in July 2025.",
+      "PULSE features five tracks including the title track With, Finest Thing, Inside Out, MEME, and Dragon."
+    ],
+    "entities": {
+      "people": [
+        "Woni",
+        "Liv",
+        "Minami",
+        "May",
+        "Zena"
+      ],
+      "titles": [
+        "PULSE",
+        "lip bomb",
+        "Re:Scene",
+        "Glow Up",
+        "Dearest",
+        "With",
+        "Finest Thing",
+        "Inside Out",
+        "MEME",
+        "Dragon"
+      ]
+    },
+    "keywords": [
+      "RESCENE PULSE mini-album",
+      "RESCENE first-week sales",
+      "PULSE Hanteo Chart",
+      "RESCENE members Woni Liv Minami May Zena"
+    ],
+    "images": [],
+    "published": "Sat, 07 Nov 2026 04:38:00 EST"
   }
 };

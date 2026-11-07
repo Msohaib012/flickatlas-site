@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-06T08:52:00Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": {
-     "candidates": 392,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Echo Of A Letter Episodes 9-10 Release Timings TODAY: When Will NEW Eps Drop Online? Where To Stream?",
-      "Ramayana Screening Halted At Greater Noida Mall After Smoke Fills Theatre, Audience Members Evacuated",
-      "Mookuthi Amman 2 X Review: What Audiences Are Saying About Nayanthara And Regina Cassandra's Film",
-      "Top 30 Highest Bollywood Openers Of All-Time",
-      "Mookuthi Amman 2 Box Office Day 1 Advance Booking (Final): Nayanthara’s Film Trails Suriya’s Scene By 750%",
-      "Spider-Man: Brand New Day Box Office: Makes History As Marvel’s Biggest Film Outside China, Beats Avengers: Endgame!",
-      "Scene Box Office Day 1 Advance Booking (Final): Registers Highest Opening Day Pre-Sales For Suriya!",
-      "Director Lenin Bharathi slams Kamal Haasan over 'KH 237' revenge tagline",
-      "Seeman vs Tamil Producers: Actor EXPLAINS his concern about TN 6 AM shows",
-      "Mahesh Babu hails 'Ramayana'; calls Ranbir, Yash, Sai Pallavi ‘magical’",
-      "Aditi Rao Hydari excited to celebrate Diwali with husband Siddharth",
-      "Maatrubhumi: Salman's Galwan drama eyes Nov 20 release",
-      "'Scene' vs 'Mookuthi Amman 2' BO Day 1 [Live]: Suriya starrer takes the lead",
-      "Mahesh Bhatt reveals why he missed Ramayana premiere",
-      "Matt Damon talks about the one Hollywood role that he missed out on",
-      "Adhik reveals why he decided not to cast Naslen as Ajith's son in 'GBU'",
-      "Ramesh Pisharody spots AI-generated lookalike on event flex banners",
-      "Sandeep Reddy Vanga praises Ramayana's magnitude, calls Namit Malhotra the most committed producer he has known",
-      "Ramayana vs Adipurush: Why Ranbir Kapoor, Yash's combined star power failed to beat Prabhas' much-maligned adaptation at the box office",
-      "Farah Khan says younger batch of actors are insecure, lack confidence; calls Shah Rukh Khan, Salman Khan, Akshay Kumar the last of the superstars"
-     ],
-     "updated": [],
-     "count": 370,
-     "detail": "375 stories, 2 duplicates removed, 17 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-06T09:51:45Z",
     "run_id": "42198064238",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "286 stories, 0 duplicates removed, 14 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-06T11:52:38Z",
-    "run_id": "42213198089",
+    "run_at": "2026-11-07T11:50:56Z",
+    "run_id": "42369869630",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 284,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Unaccustomed Earth Trailer: Freida Pinto and Siddharth Headline Netflix's Adaptation of Jhumpa Lahiri's Book",
-      "K-Pop Boy Group idntt Finalizes 24-Member Lineup After Fan Voting Event",
-      "Mahabharat: Ek Dharmayudh Season 2 Confirmed for November 24 Release on JioHotstar",
-      "Tallinn Black Nights Film Festival Spotlights Children and Youth Cinema as Industry Saviors"
+      "Campus Drivers On Prime: Are Campus Drivers S1 Eps 1-6 Available In Hindi? French Series Trends At #8 In India",
+      "Ayesha Singh EXCLUSIVE! Actress On 'Difficult' Exit From Mannat; Has Message For Namik-Tanvi: Saying Goodbye…",
+      "Sa Re Ga Ma Pa 2026 Diwali Special: Kumar Sanu, Shankar Mahadevan And Javed Ali Bring The Festive Cheer",
+      "E.T. the Extra-Terrestrial Box Office: How Did Steven Spielberg’s $10 Million Movie Beat Star Wars?",
+      "Drishyam 3 Box Office: Ends Its Overseas Run As Bollywood’s 9th Highest-Grossing Film Post-COVID",
+      "Clayface Worldwide Box Office: Moves Ahead Of Street Fighter In The Race For Global Supremacy",
+      "Superman: 5 Of His Biggest Deaths In DC Comics, Ranked By Their Impact",
+      "Why Ramayana's English Version Is Nearly 30 Minutes Shorter Than the Hindi Original",
+      "'Ramayana' box office collection day 3 (LIVE)",
+      "Surekha Vani says Instagram account was hacked, warns of legal action",
+      "Salman praises Chitrangada’s confidence; film in theatres Dec 4",
+      "Vivek calls 'Ramayana' a 'MahaYagya for Bhartiya culture and values' in emotional post",
+      "Is Suriya's 'Scene' a copy of the 2013 Hong Kong film 'Blind Detective'?",
+      "Vivek Oberoi recalls being ostracised from Bollywood for standing up against what he perceived as wrong; says filmmakers got calls from underworld",
+      "Ranbir Kapoor reveals plans for directorial debut, says he wants to move behind the camera in 2-3 years: ‘It's my last decade as an actor’",
+      "Exclusive| Hansal Mehta on Ranveer Singh starrer Pralay row: Mumbai, the home of Indian cinema has become most unfriendly to shoot in",
+      "Madison Square Garden rejects Macklemore’s claim that it refused to host ‘Free Palestine’ tour due to its political message",
+      "Possible Love review: Lee Chang-dong delivers a masterful film about fragile human connection and class conflict",
+      "Nitesh Tiwari says he believes Homer was inspired by Ramayana for The Odyssey; Ranbir Kapoor calls bow-lifting scene coincidence",
+      "Kamal Haasan revives Sandiyar, the title he dropped in 2003 after objections: The controversy explained"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 278,
+     "detail": "284 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1475,27 +1452,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-07T11:52:10Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Sa Re Ga Ma Pa 2026 Celebrates Diwali with Shankar Mahadevan, Kumar Sanu, and Interactive Gaming",
+      "Rookie Group TUIDE Wins IS Rising Star at the 2026 Korea Grand Music Awards",
+      "Salman Khan praises Chitrangada Singh’s confidence and mentions a punch in chemistry",
+      "RESCENE Crosses 450,000 First-Week Sales Milestone with New Mini-Album PULSE"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-06T10:52:27Z",
-    "run_id": "42205721679",
-    "status": "success",
-    "checked": {
-     "candidates": 203,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 202, coming 1"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1909,28 +1891,27 @@
      "detail": "now 247, coming 11"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-07T11:52:11Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": {
+     "candidates": 258,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 247, coming 11"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-06T12:06:15Z",
-    "run_id": "42213198089",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "zafitn"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2364,27 +2345,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-07T12:15:40Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1v6n7t2",
+      "1gthehc",
+      "fnxwe2",
+      "1x5yt3l"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-06T09:05:38Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": {
-     "candidates": 563,
-     "detail": "560 collected staging rows from readers; 201 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 169,
-     "detail": "+0 new rows, 169 updated rows, 391 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2798,19 +2783,27 @@
      "detail": "+0 new rows, 3 updated rows, 600 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T12:15:37Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": {
+     "candidates": 606,
+     "detail": "603 collected staging rows from readers; 206 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 117,
+     "detail": "+0 new rows, 117 updated rows, 486 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3047,32 +3040,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-06T12:55:03Z",
-    "run_id": "42220751425",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Salman Khan and Jio Studios Plan December 4 Release for Maatrubhumi, Setting Up Box Office Clash With Eetha",
-      "Netflix Releases Stranger Things Season 5 Blooper Reel on Stranger Things Day",
-      "Vijay Sethupathi Set to Make History as First Indian Presenter at International Emmy Awards",
-      "Mumbai Cricket Association Slams Ranveer Singh's 'Pralay' Shoot at Azad Maidan for Disrupting Junior Matches"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3594,19 +3574,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-07T12:15:39Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Sa Re Ga Ma Pa 2026 Celebrates Diwali with Shankar Mahadevan, Kumar Sanu, and Interactive Gaming",
+      "Rookie Group TUIDE Wins IS Rising Star at the 2026 Korea Grand Music Awards",
+      "RESCENE Crosses 450,000 First-Week Sales Milestone with New Mini-Album PULSE",
+      "Salman Khan praises Chitrangada Singh’s confidence and mentions a punch in chemistry"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3869,19 +3862,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4202,31 +4195,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-06T08:52:23Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 370 still unprocessed; today by category: movies 4/6, tv_dramas 5/4, episodes 0/2, box_office 8/6, celebrities_events 5/5, upcoming_releases 2/4, ott_streaming 6/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana secures Rs 155 crore worldwide opening, setting pre-Diwali box office benchmark",
-      "Russell Brand Faces Potential Prison Sentence Following Guilty Verdict",
-      "Suriya Starrer 'Scene' Surpasses Nayanthara's 'Mookuthi Amman 2' in Opening Day Numbers",
-      "Jennie Releases Anthemic New Single 'Someone to Hold' for Upcoming Netflix Film Steps"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4732,26 +4713,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-07T11:52:10Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 278 still unprocessed; today by category: movies 10/6, tv_dramas 6/4, episodes 0/2, box_office 6/6, celebrities_events 8/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 0/3, awards 1/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Sa Re Ga Ma Pa 2026 Celebrates Diwali with Shankar Mahadevan, Kumar Sanu, and Interactive Gaming",
+      "Rookie Group TUIDE Wins IS Rising Star at the 2026 Korea Grand Music Awards",
+      "Salman Khan praises Chitrangada Singh’s confidence and mentions a punch in chemistry",
+      "RESCENE Crosses 450,000 First-Week Sales Milestone with New Mini-Album PULSE"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-06T08:53:24Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": {
-     "candidates": 38,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5051,24 +5037,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-07T11:53:19Z",
+    "run_id": "42369869630",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 43,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 414,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5413,19 +5401,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 401,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5725,19 +5718,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 22,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5987,19 +5985,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6234,19 +6232,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6528,19 +6526,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6781,19 +6779,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7023,19 +7021,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7288,26 +7286,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-04T21:51:49Z",
-    "run_id": "41919810263",
-    "status": "success",
-    "checked": {
-     "candidates": 388,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 2; attempt cooldown deferred: 386"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7731,19 +7722,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-07T11:52:25Z",
+    "run_id": "42369869630",
+    "status": "success",
+    "checked": {
+     "candidates": 497,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 484"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7983,19 +7985,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-06T09:05:48Z",
-    "run_id": "42190571185",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8245,8 +8247,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-07T12:15:48Z",
+    "run_id": "42369869630",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-07T10:52:14Z"
+ "updated_at": "2026-11-07T12:15:48Z"
 }

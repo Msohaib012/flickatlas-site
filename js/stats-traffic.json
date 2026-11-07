@@ -1,27 +1,27 @@
 {
   "connected": true,
-  "generated": "2026-11-07T06:57:31Z",
+  "generated": "2026-11-07T12:15:47Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 3,
+    "pageviews": 4,
+    "sessions": 4,
+    "avg_session_seconds": 37.5
   },
   "last7": {
-    "users": 144,
-    "pageviews": 520,
-    "sessions": 202,
-    "avg_session_seconds": 150.0
+    "users": 146,
+    "pageviews": 524,
+    "sessions": 206,
+    "avg_session_seconds": 147.9
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 164,
-      "avg_time_seconds": 232.2
+      "views": 167,
+      "avg_time_seconds": 225.3
     },
     {
       "path": "/ott",
@@ -38,8 +38,8 @@
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 18,
-      "avg_time_seconds": 32.3
+      "views": 19,
+      "avg_time_seconds": 30.6
     },
     {
       "path": "/movies",
@@ -88,8 +88,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 72,
-      "users": 35
+      "sessions": 76,
+      "users": 37
     },
     {
       "source": "search.google.com",
@@ -117,7 +117,7 @@
     },
     {
       "country": "United States",
-      "users": 33
+      "users": 34
     },
     {
       "country": "Pakistan",
@@ -126,6 +126,10 @@
     {
       "country": "Philippines",
       "users": 5
+    },
+    {
+      "country": "Australia",
+      "users": 3
     },
     {
       "country": "Egypt",
@@ -140,10 +144,6 @@
       "users": 3
     },
     {
-      "country": "Australia",
-      "users": 2
-    },
-    {
       "country": "Brazil",
       "users": 2
     },
@@ -155,11 +155,11 @@
   "devices": [
     {
       "device": "mobile",
-      "users": 95
+      "users": 96
     },
     {
       "device": "desktop",
-      "users": 45
+      "users": 46
     },
     {
       "device": "tablet",

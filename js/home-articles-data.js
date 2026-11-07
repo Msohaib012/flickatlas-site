@@ -48,6 +48,111 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 07 Nov 2026 10:25:00 +0000"
   },
+  "ald343": {
+    "id": "ald343",
+    "type": "news",
+    "headline": "Rookie Group TUIDE Wins IS Rising Star at the 2026 Korea Grand Music Awards",
+    "dek": "Newcomer sensation TUIDE secured a major achievement on Artist Day at the Gocheok Sky Dome.",
+    "entities": {
+      "people": [
+        "Woni",
+        "Nam Ji Hyun",
+        "Liz",
+        "Kim Jae Won"
+      ],
+      "titles": [
+        "TUIDE",
+        "RESCENE",
+        "IVE",
+        "Korea Grand Music Awards"
+      ]
+    },
+    "keywords": [
+      "TUIDE Rising Star award",
+      "Korea Grand Music Awards 2026",
+      "TUIDE 2026 KGMA",
+      "Gocheok Sky Dome music awards"
+    ],
+    "images": [],
+    "published": "Sat, 07 Nov 2026 05:24:00 EST"
+  },
+  "191fj7z": {
+    "id": "191fj7z",
+    "type": "news",
+    "headline": "Salman Khan praises Chitrangada Singh’s confidence and mentions a punch in chemistry",
+    "dek": "At the trailer launch of their upcoming film Maatrubhumi, Salman Khan commended co-star Chitrangada Singh for her unwavering confidence and complete lack of insecurity.",
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangada Singh",
+        "Shiv Aroor",
+        "Apoorva Lakhia",
+        "Bikkumalla Santosh Babu",
+        "Mukesh Rishi",
+        "Ankur Bhatia",
+        "Zeyn Shaw",
+        "Abhilash Chaudhary",
+        "Aishwarya Rai",
+        "Katrina Kaif"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest in Peace",
+        "India’s Most Fearless",
+        "Battle of Galwan"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi film",
+      "Salman Khan Chitrangada Singh",
+      "Battle of Galwan movie release",
+      "Maatrubhumi release date"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135633344,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan praises Chitrangada Singh’s confidence and mentions a punch in chemistry",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T15:33:46+05:30"
+  },
+  "1kmbegz": {
+    "id": "1kmbegz",
+    "type": "news",
+    "headline": "Sa Re Ga Ma Pa 2026 Celebrates Diwali with Shankar Mahadevan, Kumar Sanu, and Interactive Gaming",
+    "dek": "Zee TV's popular reality show Sa Re Ga Ma Pa 2026 is rolling out a grand Diwali special featuring legendary singers, heartfelt gifts, and an innovative interactive at-home gaming experience.",
+    "entities": {
+      "people": [
+        "Kumar Sanu",
+        "Shankar Mahadevan",
+        "Javed Ali",
+        "Geet Bagde",
+        "Sehajdeep",
+        "Durgesh Yadav",
+        "Shreyas Talpade"
+      ],
+      "titles": [
+        "Sa Re Ga Ma Pa 2026",
+        "Eena Meena Deeka",
+        "Ghar Ka Sangeetsthan"
+      ]
+    },
+    "keywords": [
+      "Sa Re Ga Ma Pa 2026",
+      "Kumar Sanu Sa Re Ga Ma Pa",
+      "Shankar Mahadevan Diwali special",
+      "Shreyas Talpade Zee TV",
+      "Ghar Ka Sangeetsthan"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/saregamapa2026d11-95981794044365.jpg",
+        "caption": "Sa Re Ga Ma Pa 2026 Celebrates Diwali with Shankar Mahadevan, Kumar Sanu, and Interactive Gaming",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 15:12:06 +0530"
+  },
   "1i8d2l3": {
     "id": "1i8d2l3",
     "type": "news",
@@ -79,6 +184,41 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 09:38:00 +0000"
+  },
+  "8fqiev": {
+    "id": "8fqiev",
+    "type": "news",
+    "headline": "RESCENE Crosses 450,000 First-Week Sales Milestone with New Mini-Album PULSE",
+    "dek": "The rookie girl group is nearing a major half-million seller milestone after their latest mini-album PULSE recorded massive physical sales on Hanteo Chart.",
+    "entities": {
+      "people": [
+        "Woni",
+        "Liv",
+        "Minami",
+        "May",
+        "Zena"
+      ],
+      "titles": [
+        "PULSE",
+        "lip bomb",
+        "Re:Scene",
+        "Glow Up",
+        "Dearest",
+        "With",
+        "Finest Thing",
+        "Inside Out",
+        "MEME",
+        "Dragon"
+      ]
+    },
+    "keywords": [
+      "RESCENE PULSE mini-album",
+      "RESCENE first-week sales",
+      "PULSE Hanteo Chart",
+      "RESCENE members Woni Liv Minami May Zena"
+    ],
+    "images": [],
+    "published": "Sat, 07 Nov 2026 04:38:00 EST"
   },
   "1aq4qze": {
     "id": "1aq4qze",
@@ -4587,166 +4727,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-06T04:52:07Z"
-  },
-  "1c62z3w": {
-    "id": "1c62z3w",
-    "type": "news",
-    "headline": "Ramayana Ratings Spark Strong Blockbuster Hopes Across Major Platforms",
-    "dek": "Namit Malhotra's Ramayana: Part One has kicked off its box office journey with strong audience feedback and notable platform ratings, setting the stage for a potentially massive theatrical run.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Sunny Deol",
-        "Ravi Dubey"
-      ],
-      "titles": [
-        "Ramayana: Part One",
-        "Ramayana Part 1",
-        "Adipurush",
-        "Dhurandhar 2",
-        "Jawan",
-        "Alam Ara",
-        "Ladaku",
-        "Animal"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part One box office",
-      "Ramayana ratings IMDb BookMyShow",
-      "Ramayana Sacnilk Rotten Tomatoes",
-      "Ramayana opening day collection"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028391.jpg",
-        "caption": "Ramayana Ratings Spark Strong Blockbuster Hopes Across Major Platforms",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 04:42:29 +0000"
-  },
-  "zm4vgg": {
-    "id": "zm4vgg",
-    "type": "news",
-    "headline": "Ramayana Worldwide Box Office Collection Day 1: Ranbir Kapoor, Yash Film Opens At ₹127 Crore, Unable To Beat Adipurush Despite Wider Release",
-    "dek": "Ramayana, starring Ranbir Kapoor, Sai Pallavi, and Yash, opened at ₹ 127 crore globally, much below its initial projections of ₹ 160 crore.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Prabhas",
-        "Ravie Dubey",
-        "Sunny Deol"
-      ],
-      "titles": [
-        "Ramayana",
-        "Adipurush",
-        "KGF Chapter 2",
-        "Toxic",
-        "Pushpa 2",
-        "Dhurandhar 2",
-        "Jawan"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ranbir Kapoor Ramayana movie",
-      "Yash Ramayana opening day",
-      "Ramayana vs Adipurush collection"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/Ramayana_1792311615794__1793938304170_Wrq5_1793938304314_viai_ae3954be-5560-4bae-8ae7-85e76922f825_6gDn.jpg",
-        "caption": "Ramayana Worldwide Box Office Collection Day 1: Ranbir Kapoor, Yash Film Opens At ₹127 Crore, Unable To Beat Adipurush D",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 09:54:05 +0530"
-  },
-  "1u055t3": {
-    "id": "1u055t3",
-    "type": "news",
-    "headline": "Amazon Expands The Terminal List Universe With Savage Son Adaptation Featuring Chris Pratt",
-    "dek": "Amazon MGM Studios confirms the next installment in the hit action franchise, though whether it will air as Season 3 or a standalone entry remains under discussion.",
-    "entities": {
-      "people": [
-        "Chris Pratt",
-        "Jack Carr",
-        "Katie Buranek",
-        "Raife Hastings",
-        "Peter Friedlander",
-        "Devanshi Basu",
-        "Constance Wu",
-        "Tom Hopper"
-      ],
-      "titles": [
-        "The Terminal List",
-        "Savage Son",
-        "The Terminal List: Dark Wolf",
-        "True Believer"
-      ]
-    },
-    "keywords": [
-      "The Terminal List Savage Son",
-      "Chris Pratt James Reece",
-      "Amazon MGM Studios television",
-      "Jack Carr novel adaptation"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-06-Nov-2026-09-35-AM-1777.jpg?resize=1200,630",
-        "caption": "Amazon Expands The Terminal List Universe With Savage Son Adaptation Featuring Chris Pratt",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 04:10:09 +0000"
-  },
-  "atpdk1": {
-    "id": "atpdk1",
-    "type": "news",
-    "headline": "Russell Crowe and Ryan Gosling's Cult Crime Thriller Climbs to Number One on Streaming",
-    "dek": "A decade after its initial theatrical run, the 2016 crime comedy-thriller starring Russell Crowe and Ryan Gosling has captured a massive streaming audience.",
-    "entities": {
-      "people": [
-        "Russell Crowe",
-        "Ryan Gosling",
-        "Shane Black",
-        "Anthony Bagarozzi",
-        "Joel Silver",
-        "Conor Sheeran",
-        "Chris McPherson"
-      ],
-      "titles": [
-        "The Nice Guys",
-        "Iron Man 3",
-        "Kiss Kiss Bang Bang",
-        "Gladiator",
-        "The Nice Guys 2",
-        "Ozark"
-      ]
-    },
-    "keywords": [
-      "The Nice Guys",
-      "Russell Crowe",
-      "Ryan Gosling",
-      "Shane Black",
-      "The Nice Guys streaming"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/06/the-nice-guys-russell-crowe.jpg?w=1200&amp;h=675&amp;fit=crop",
-        "caption": "Russell Crowe and Ryan Gosling's Cult Crime Thriller Climbs to Number One on Streaming",
-        "source": "Collider"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 04:03:12 GMT"
   },
   "60g9pc": {
     "id": "60g9pc",
