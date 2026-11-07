@@ -34,6 +34,176 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 07 Nov 2026 10:10:58 +0200"
   },
+  "1u96cp6": {
+    "id": "1u96cp6",
+    "type": "news",
+    "headline": "Hannah Waddingham and Sharon Stone Share a Joyful Red Carpet Moment at the Women In Film Honors",
+    "dek": "The Ted Lasso star shared lighthearted moments with Sharon Stone before receiving the Crystal Award for Advocacy in TV at the Beverly Hilton gala.",
+    "entities": {
+      "people": [
+        "Hannah Waddingham",
+        "Sharon Stone",
+        "Adria Arjona",
+        "Gemma Chan",
+        "Beth de Araújo",
+        "Salma Hayek Pinault",
+        "Jane Fonda",
+        "Nick Mohammed",
+        "Claudia Winkleman",
+        "Tom Cruise",
+        "Karen Doan",
+        "Prince William"
+      ],
+      "titles": [
+        "Ted Lasso",
+        "Basic Instinct",
+        "Game Of Thrones",
+        "Josephine",
+        "Celebrity Traitors",
+        "Top Gun"
+      ]
+    },
+    "keywords": [
+      "Hannah Waddingham Sharon Stone",
+      "Women In Film Honors",
+      "Crystal Award for Advocacy in TV",
+      "Hannah Waddingham Ted Lasso"
+    ],
+    "images": [],
+    "published": "2026-11-07T07:41:35Z"
+  },
+  "cwoh2c": {
+    "id": "cwoh2c",
+    "type": "news",
+    "headline": "Manoj Bajpayee Opens Up About Being Trolled for Abusive Dialogues in The Family Man",
+    "dek": "The acclaimed actor discusses how his on-screen roles shaped public perception, earning him the nickname Gaalibaaz Bajpayee following his hit streaming series.",
+    "entities": {
+      "people": [
+        "Manoj Bajpayee"
+      ],
+      "titles": [
+        "The Family Man",
+        "Satya",
+        "Gangs of Wasseypur",
+        "Last Man In Tower"
+      ]
+    },
+    "keywords": [
+      "Manoj Bajpayee The Family Man",
+      "Gaalibaaz Bajpayee",
+      "Manoj Bajpayee abusive language",
+      "Last Man In Tower ZEE5"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156475775,thumbsize-176952,width-1280,height-720,resizemode-75/156475775.jpg",
+        "caption": "Manoj Bajpayee Opens Up About Being Trolled for Abusive Dialogues in The Family Man",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T07:41:35Z"
+  },
+  "huh7jl": {
+    "id": "huh7jl",
+    "type": "news",
+    "headline": "Marvel Studios Announces Nine-City World Tour For Upcoming Blockbuster Avengers: Doomsday",
+    "dek": "Marvel has unveiled the nine global locations for the upcoming world tour of Avengers: Doomsday, drawing an excited reaction from franchise star Chris Hemsworth ahead of the film's December release.",
+    "entities": {
+      "people": [
+        "Chris Hemsworth",
+        "Anthony Russo",
+        "Joe Russo",
+        "Kevin Feige",
+        "Louis D’Esposito",
+        "Jonathan Schwartz",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Pedro Pascal",
+        "Paul Rudd",
+        "Anthony Mackie",
+        "Florence Pugh",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Wyatt Russell",
+        "Channing Tatum",
+        "Simu Liu",
+        "Ian McKellen",
+        "Hayley Atwell",
+        "Tom Hiddleston",
+        "James Marsden",
+        "Patrick Stewart",
+        "Joseph Quinn",
+        "Sebastian Stan",
+        "David Harbour",
+        "Letitia Wright",
+        "Lewis Pullman",
+        "Kelsey Grammer",
+        "Kathryn Newton",
+        "Danny Ramirez",
+        "Winston Duke",
+        "Alan Cumming",
+        "Hannah John-Kamen",
+        "Rebecca Romijn",
+        "Alex Livinalli",
+        "Mabel Cadena",
+        "Tenoch Huerta Mejia"
+      ],
+      "titles": [
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday world tour",
+      "Chris Hemsworth Doomsday is coming",
+      "Avengers Doomsday release date",
+      "Marvel Avengers Doomsday cities"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/avengers-doomsday-announces-world-tour-01.jpg",
+        "caption": "Marvel Studios Announces Nine-City World Tour For Upcoming Blockbuster Avengers: Doomsday",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 06:18:07 +0000"
+  },
+  "1v6n7t2": {
+    "id": "1v6n7t2",
+    "type": "news",
+    "headline": "Alia Bhatt and Ranbir Kapoor Celebrate Daughter Raha's Fourth Birthday",
+    "dek": "Alia Bhatt and Ranbir Kapoor marked their daughter Raha's fourth birthday with an intimate, pastel-themed gathering at home featuring a Bluey cake and family moments.",
+    "entities": {
+      "people": [
+        "Alia Bhatt",
+        "Ranbir Kapoor",
+        "Raha",
+        "Ayan Mukerji",
+        "Shiv Rawail",
+        "Sharvari",
+        "Sanjay Leela Bhansali"
+      ],
+      "titles": [
+        "Brahmastra",
+        "Alpha",
+        "Ramayana : Part 1",
+        "Love War"
+      ]
+    },
+    "keywords": [
+      "Alia Bhatt Ranbir Kapoor daughter",
+      "Raha fourth birthday party",
+      "Alia Bhatt Instagram photos",
+      "Ranbir Kapoor family news"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Alia_Bhatt_1794031382846_7485_1794031387979_BTal_8c6d6ff3-6d90-4336-8c59-157f6be2b00f_ExZN.jpg",
+        "caption": "Alia Bhatt and Ranbir Kapoor Celebrate Daughter Raha's Fourth Birthday",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 11:38:04 +0530"
+  },
   "1ccjy40": {
     "id": "1ccjy40",
     "type": "news",
@@ -4594,131 +4764,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-06T00:32:42Z"
-  },
-  "46sj9n": {
-    "id": "46sj9n",
-    "type": "news",
-    "headline": "‘Ramayana: Rise of a Legend’ Opens at Rs 64.85 Crore Net on Day 1 in India",
-    "dek": "Nitesh Tiwari’s grand cinematic epic starring Ranbir Kapoor, Sai Pallavi, and Yash launched with a massive domestic opening, though early international earnings in North America fell short of initial trade expectations.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend"
-      ]
-    },
-    "keywords": [
-      "Ramayana Rise of a Legend",
-      "Ramayana box office collection",
-      "Ranbir Kapoor Yash film",
-      "Ramayana Day 1 collection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135589537,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "‘Ramayana: Rise of a Legend’ Opens at Rs 64.85 Crore Net on Day 1 in India",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-06T06:02:18+05:30"
-  },
-  "17jioxt": {
-    "id": "17jioxt",
-    "type": "news",
-    "headline": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Crosses Rs 823 Crore Worldwide",
-    "dek": "Rajinikanth's action thriller Jailer 2 maintains a strong global standing, surpassing the Rs 823 crore mark worldwide by its twenty-second day in theatres.",
-    "entities": {
-      "people": [
-        "Rajinikanth",
-        "Nelson Dilipkumar"
-      ],
-      "titles": [
-        "Jailer 2"
-      ]
-    },
-    "keywords": [
-      "Jailer 2 box office collection",
-      "Rajinikanth Jailer 2 earnings",
-      "Jailer 2 worldwide collection",
-      "Jailer 2 Tamil Telugu collection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135589406,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Crosses Rs 823 Crore Worldwide",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-06T05:38:49+05:30"
-  },
-  "1u9942h": {
-    "id": "1u9942h",
-    "type": "news",
-    "headline": "The New York Times Reportedly Enters Exclusive Talks to Acquire Letterboxd",
-    "dek": "The publishing company is reportedly in exclusive negotiations to purchase the popular film-lover social network for a staggering $330 million.",
-    "entities": {
-      "people": [],
-      "titles": [
-        "Letterboxd",
-        "Goodreads"
-      ]
-    },
-    "keywords": [
-      "Letterboxd acquisition",
-      "The New York Times Letterboxd",
-      "Letterboxd $330 million",
-      "Letterboxd users"
-    ],
-    "images": [
-      {
-        "url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800",
-        "caption": "The New York Times Reportedly Enters Exclusive Talks to Acquire Letterboxd",
-        "source": "TechCrunch"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 00:07:18 +0000"
-  },
-  "1j0od9r": {
-    "id": "1j0od9r",
-    "type": "news",
-    "headline": "Chris Pratt Set to Return as James Reece in Prime Video Adaptation of Savage Son",
-    "dek": "Actor Chris Pratt is slated to reprise his role as James Reece for a new Prime Video series based on the novel Savage Son, continuing his journey in the popular franchise.",
-    "entities": {
-      "people": [
-        "Chris Pratt",
-        "James Reece",
-        "Katie Buranek",
-        "Raife Hastings",
-        "Jack Carr",
-        "Peter Friedlander",
-        "Constance Wu",
-        "Tom Hopper"
-      ],
-      "titles": [
-        "Savage Son",
-        "The Terminal List",
-        "Dark Wolf",
-        "True Believer"
-      ]
-    },
-    "keywords": [
-      "Chris Pratt Savage Son",
-      "James Reece Savage Son",
-      "The Terminal List season two",
-      "Jack Carr Savage Son"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/chris-pratt-returns-terminal.jpg",
-        "caption": "Chris Pratt Set to Return as James Reece in Prime Video Adaptation of Savage Son",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 00:07:16 +0000"
   },
   "60g9pc": {
     "id": "60g9pc",

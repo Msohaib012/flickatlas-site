@@ -77750,5 +77750,403 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 11:33:17 +0530"
+  },
+  "1v6n7t2": {
+    "id": "1v6n7t2",
+    "type": "news",
+    "headline": "Alia Bhatt and Ranbir Kapoor Celebrate Daughter Raha's Fourth Birthday",
+    "dek": "Alia Bhatt and Ranbir Kapoor marked their daughter Raha's fourth birthday with an intimate, pastel-themed gathering at home featuring a Bluey cake and family moments.",
+    "body": [
+      {
+        "h": "Intimate Celebration at Home",
+        "p": [
+          "Bollywood actors Alia Bhatt and Ranbir Kapoor recently marked a major family milestone by celebrating their daughter Raha's fourth birthday. The couple hosted an intimate, low-key gathering at their home, keeping the atmosphere warm and focused on family.",
+          "Alia shared a selection of photographs from the special day on her personal social media account, giving fans a rare look into their private celebrations while continuing their practice of keeping Raha's face hidden from the public."
+        ]
+      },
+      {
+        "h": "Pastel-Themed Decorations and Setup",
+        "p": [
+          "The birthday bash featured a delightful, old-school aesthetic dominated by soft pastel tones. The centerpiece of the party venue was a pastel blue camper van adorned with colorful balloons and decorative bunting.",
+          "A customized sign placed directly above the camper display greeted guests with the message reading, 'Raha's 4th Birthday' written in bold red lettering. Alia herself matched the cheerful theme by wearing a floral tiered dress while posing with a small blue gift bag accented by a pink ribbon."
+        ]
+      },
+      {
+        "h": "Special Birthday Cakes",
+        "p": [
+          "No birthday celebration is complete without cake, and Raha's party featured two distinct treats. One highlight was a Bluey-themed cake inspired by the beloved children's television program.",
+          "The family also cut a second, highly personal cake covered in simple white frosting. This sweet confection featured a minimalist black-and-white illustration of three people holding hands beneath a red heart, symbolizing Alia, Ranbir, and their daughter."
+        ]
+      },
+      {
+        "h": "Activities and Childhood Moments",
+        "p": [
+          "The afternoon included various engaging activities designed for the four-year-old. Photographs captured Raha seated comfortably at a wooden table on a floral cushion, busy coloring a rainbow using a yellow crayon.",
+          "Other candid snapshots showed sweet family interactions, including Alia sharing a tender kiss on her daughter's cheek. Raha wore a charming grey checked dress complete with a floral border, a coordinating belt, and small hair clips."
+        ]
+      },
+      {
+        "h": "Family Background and Timeline",
+        "p": [
+          "Alia Bhatt and Ranbir Kapoor tied the knot on April 14, 2022, during a private ceremony held at their Mumbai residence named Vastu. The couple fell in love while collaborating on Ayan Mukerji's fantasy adventure film Brahmastra.",
+          "They subsequently welcomed Raha into their lives on November 6, 2022. Since becoming parents, they have occasionally shared glimpses of their parenting journey with admirers."
+        ]
+      },
+      {
+        "h": "Upcoming Professional Projects",
+        "p": [
+          "Outside of their family life, both actors maintain busy schedules in the film industry. Alia was recently seen starring in Shiv Rawail's YRF Spy Universe movie Alpha alongside Sharvari.",
+          "Meanwhile, Ranbir has been captivating audiences on the big screen playing Lord Rama in Ramayana : Part 1. Furthermore, the husband-wife duo are set to reunite on screen in January 2027 for Sanjay Leela Bhansali's upcoming feature Love War."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alia Bhatt and Ranbir Kapoor celebrated their daughter Raha's fourth birthday with an intimate pastel-themed party at home featuring a Bluey cake. The couple shared sweet photographs from the gathering while maintaining their privacy by keeping their daughter's face out of view."
+        ]
+      }
+    ],
+    "facts": [
+      "Alia Bhatt and Ranbir Kapoor welcomed their daughter Raha on November 6, 2022.",
+      "The couple married on April 14, 2022, at their Mumbai home, Vastu.",
+      "Alia Bhatt shared photos from the fourth birthday party on November 7, 2026.",
+      "Alia Bhatt starred in Shiv Rawail's YRF Spy Universe film Alpha.",
+      "Ranbir Kapoor stars as Lord Rama in Ramayana : Part 1.",
+      "Alia Bhatt and Ranbir Kapoor will reunite in Sanjay Leela Bhansali's Love War in January 2027."
+    ],
+    "entities": {
+      "people": [
+        "Alia Bhatt",
+        "Ranbir Kapoor",
+        "Raha",
+        "Ayan Mukerji",
+        "Shiv Rawail",
+        "Sharvari",
+        "Sanjay Leela Bhansali"
+      ],
+      "titles": [
+        "Brahmastra",
+        "Alpha",
+        "Ramayana : Part 1",
+        "Love War"
+      ]
+    },
+    "keywords": [
+      "Alia Bhatt Ranbir Kapoor daughter",
+      "Raha fourth birthday party",
+      "Alia Bhatt Instagram photos",
+      "Ranbir Kapoor family news"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Alia_Bhatt_1794031382846_7485_1794031387979_BTal_8c6d6ff3-6d90-4336-8c59-157f6be2b00f_ExZN.jpg",
+        "caption": "Alia Bhatt and Ranbir Kapoor Celebrate Daughter Raha's Fourth Birthday",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 11:38:04 +0530"
+  },
+  "1u96cp6": {
+    "id": "1u96cp6",
+    "type": "news",
+    "headline": "Hannah Waddingham and Sharon Stone Share a Joyful Red Carpet Moment at the Women In Film Honors",
+    "dek": "The Ted Lasso star shared lighthearted moments with Sharon Stone before receiving the Crystal Award for Advocacy in TV at the Beverly Hilton gala.",
+    "body": [
+      {
+        "h": "Red Carpet Chemistry in Beverly Hills",
+        "p": [
+          "Hannah Waddingham brought high energy and plenty of laughter to the red carpet at the Women In Film Honors held in Beverly Hills. Arriving at the star-studded gala, the Ted Lasso actress was in high spirits as she flashed a playful sign of the horns gesture before sharing a warm hug and bursts of laughter with fellow icon Sharon Stone.",
+          "The red carpet encounter showcased a delightful bond between the two performers, drawing considerable attention from photographers and attendees alike as they posed together ahead of the main ceremony."
+        ]
+      },
+      {
+        "h": "Sartorial Choices at the Gala",
+        "p": [
+          "For the glamorous evening, Waddingham chose a striking backless turquoise satin gown featuring a plunging V-neckline. She elevated her look with classic black heels and accessorized with bold, chunky gold earrings that complemented her radiant appearance.",
+          "Meanwhile, Sharon Stone opted for an equally striking outfit, wearing a sleek black leather trench dress paired with dark tights and large statement earrings that added to her sensational red carpet presence."
+        ]
+      },
+      {
+        "h": "Accepting the Crystal Award",
+        "p": [
+          "The celebrations continued inside the Beverly Hilton, where Golden Globe and Emmy winner Sharon Stone took to the stage to present Waddingham with the Crystal Award for Advocacy in TV.",
+          "Waddingham delivered a heartfelt and humorous acceptance speech during the event, which also honored several other notable figures across the entertainment industry for their achievements and philanthropic work."
+        ]
+      },
+      {
+        "h": "Honoring Other Industry Trailblazers",
+        "p": [
+          "The Women In Film Honors evening recognized multiple influential women for their contributions to cinema and television. Among them, Adria Arjona was presented with the WIF Max Mara Face of the Future Award.",
+          "Additional accolades included Gemma Chan and Beth de Araújo receiving the Crystal Award for Advocacy in Film for their work on Josephine, while Salma Hayek Pinault accepted the Jane Fonda Humanitarian Award directly from Jane Fonda."
+        ]
+      },
+      {
+        "h": "Turning Down Celebrity Traitors",
+        "p": [
+          "During her broader media appearances, Waddingham revealed that she was previously approached to star in the inaugural UK season of the reality television spin-off Celebrity Traitors, fronted by Claudia Winkleman.",
+          "Though her Ted Lasso co-star Nick Mohammed was participating, she ultimately declined the offer, admitting she was too frightened of the show's intense theatrical elements, such as the hoods and simulated burials, preferring instead to watch from home."
+        ]
+      },
+      {
+        "h": "Reflecting on Tom Cruise's Famous Gift",
+        "p": [
+          "In another lighthearted interview moment, Waddingham discussed receiving Tom Cruise's legendary festive gift: the famous White Chocolate Coconut Bundt Cake baked by Doan's Bakery in Woodland Hills.",
+          "Admitting she had received the coveted holiday treat three times, she joked that the rich dessert with its cream cheese frosting and toasted coconut had ruined all other cakes for her."
+        ]
+      },
+      {
+        "h": "A Close Call With Royalty",
+        "p": [
+          "Waddingham also shared a humorous anecdote regarding Prince William and his Earthshot Prize initiative. During a casual engagement involving a game of darts and cider, she nearly made a costly mistake.",
+          "She recounted how she accidentally came close to hitting the future king of England in the foot with a dart, leaving her in a flustered mess on the floor even though the two share a good rapport."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hannah Waddingham attended the Women In Film Honors in Beverly Hills, where she shared a lighthearted red carpet moment with Sharon Stone before receiving the Crystal Award for Advocacy in TV. The star-studded event also celebrated several other prominent women in entertainment, while Waddingham's wider public appearances featured humorous reflections on reality television offers, royal mishaps, and holiday gifts."
+        ]
+      }
+    ],
+    "facts": [
+      "Hannah Waddingham is 52 years old.",
+      "Sharon Stone is 68 years old.",
+      "The Women In Film Honors took place at the Beverly Hilton.",
+      "Sharon Stone presented Hannah Waddingham with the Crystal Award for Advocacy in TV.",
+      "The White Chocolate Coconut Bundt Cake was created in 1984 by bakery founder Karen Doan, who is 79 years old."
+    ],
+    "entities": {
+      "people": [
+        "Hannah Waddingham",
+        "Sharon Stone",
+        "Adria Arjona",
+        "Gemma Chan",
+        "Beth de Araújo",
+        "Salma Hayek Pinault",
+        "Jane Fonda",
+        "Nick Mohammed",
+        "Claudia Winkleman",
+        "Tom Cruise",
+        "Karen Doan",
+        "Prince William"
+      ],
+      "titles": [
+        "Ted Lasso",
+        "Basic Instinct",
+        "Game Of Thrones",
+        "Josephine",
+        "Celebrity Traitors",
+        "Top Gun"
+      ]
+    },
+    "keywords": [
+      "Hannah Waddingham Sharon Stone",
+      "Women In Film Honors",
+      "Crystal Award for Advocacy in TV",
+      "Hannah Waddingham Ted Lasso"
+    ],
+    "images": [],
+    "published": "2026-11-07T07:41:35Z"
+  },
+  "cwoh2c": {
+    "id": "cwoh2c",
+    "type": "news",
+    "headline": "Manoj Bajpayee Opens Up About Being Trolled for Abusive Dialogues in The Family Man",
+    "dek": "The acclaimed actor discusses how his on-screen roles shaped public perception, earning him the nickname Gaalibaaz Bajpayee following his hit streaming series.",
+    "body": [
+      {
+        "h": "The Impact of On-Screen Roles on Public Perception",
+        "p": [
+          "Renowned actor Manoj Bajpayee has recently shared insights regarding how viewers frequently blur the lines between his real-life personality and the fictional characters he brings to life. Throughout his extensive career, his intensely convincing performances have often led audiences to make assumptions about his actual demeanor.",
+          "From gritty crime dramas to lighthearted streaming series, these memorable portrayals have significantly influenced the way everyday people approach him in public spaces, resulting in a variety of amusing and sometimes challenging encounters."
+        ]
+      },
+      {
+        "h": "From Intimidating Gangsters to a Relatable Family Man",
+        "p": [
+          "In past years, powerful performances in projects like Satya and Gangs of Wasseypur left lasting impressions on viewers. Playing characters such as Bhiku Mhatre led people to suspect he harbored real anger issues, while his work in Gangs of Wasseypur caused individuals to feel intimidated or scared to approach him.",
+          "However, a distinct shift in public reaction arrived when he took on the role of Srikant Tiwari in the popular streaming series The Family Man. This character introduced a refreshing dynamic, showcasing a professional individual striving to balance demanding responsibilities with normal domestic life."
+        ]
+      },
+      {
+        "h": "Winning Over Younger Audiences",
+        "p": [
+          "The shift in public perception was particularly noticeable among younger viewers and children. Instead of running away or feeling intimidated, children began approaching the star with warm compliments.",
+          "Many young fans started viewing him through the lens of a cool, modern father figure, often describing his on-screen presence as possessing a distinct swag dad persona that resonated deeply with the younger demographic."
+        ]
+      },
+      {
+        "h": "Facing Trolls and the Gaalibaaz Bajpayee Moniker",
+        "p": [
+          "Despite the endearing family-man image, the character of Srikant Tiwari also became widely known for frequent use of harsh language and swearing. This aspect of the performance sparked unexpected reactions across digital platforms.",
+          "The actor revealed that internet users frequently target him with criticism over these sharp dialogues, ultimately bestowing upon him the playful yet pointed nickname of Gaalibaaz Bajpayee."
+        ]
+      },
+      {
+        "h": "Recent Projects and Streaming Appearances",
+        "p": [
+          "Beyond his celebrated work in serial dramas, the veteran performer continues to expand his filmography with new cinematic ventures. He was recently seen starring in the drama Last Man In Tower.",
+          "Fans wishing to watch his latest performance can currently stream the project on ZEE5, continuing his strong presence across digital platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Manoj Bajpayee discussed how viewers often confuse his real life with his fictional roles, recalling how past gritty films made people fear him. He shared that starring in The Family Man changed this by making him popular with children as a cool dad, though his use of abusive language in the series also invited online trolling and the nickname Gaalibaaz Bajpayee. He was also recently seen in Last Man In Tower on ZEE5."
+        ]
+      }
+    ],
+    "facts": [
+      "Manoj Bajpayee played Srikant Tiwari in The Family Man",
+      "Manoj Bajpayee played Bhiku Mhatre in Satya",
+      "Manoj Bajpayee starred in Last Man In Tower",
+      "Last Man In Tower is streaming on ZEE5"
+    ],
+    "entities": {
+      "people": [
+        "Manoj Bajpayee"
+      ],
+      "titles": [
+        "The Family Man",
+        "Satya",
+        "Gangs of Wasseypur",
+        "Last Man In Tower"
+      ]
+    },
+    "keywords": [
+      "Manoj Bajpayee The Family Man",
+      "Gaalibaaz Bajpayee",
+      "Manoj Bajpayee abusive language",
+      "Last Man In Tower ZEE5"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156475775,thumbsize-176952,width-1280,height-720,resizemode-75/156475775.jpg",
+        "caption": "Manoj Bajpayee Opens Up About Being Trolled for Abusive Dialogues in The Family Man",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T07:41:35Z"
+  },
+  "huh7jl": {
+    "id": "huh7jl",
+    "type": "news",
+    "headline": "Marvel Studios Announces Nine-City World Tour For Upcoming Blockbuster Avengers: Doomsday",
+    "dek": "Marvel has unveiled the nine global locations for the upcoming world tour of Avengers: Doomsday, drawing an excited reaction from franchise star Chris Hemsworth ahead of the film's December release.",
+    "body": [
+      {
+        "h": "The Countdown Begins",
+        "p": [
+          "The highly anticipated feature Avengers: Doomsday is approaching its worldwide theatrical arrival, creating immense excitement among global audiences. With the release date set for December 18, 2026, the countdown has officially entered its final stretch.",
+          "To build on this mounting enthusiasm, Marvel Studios has officially revealed plans for an extensive global promotional tour. The announcement has given the fanbase yet another reason to anticipate the arrival of the massive superhero event."
+        ]
+      },
+      {
+        "h": "Nine Cities Selected For Global Tour",
+        "p": [
+          "The studio revealed the itinerary for the promotional tour utilizing the film's dedicated Doomsday Clock. This schedule outlines a multi-continent route that will bring the promotional campaign directly to international supporters.",
+          "The finalized lineup of host cities spans across the globe. The selected locations include Las Vegas, São Paulo, Gold Coast, Rome, London, Seoul, Shanghai, Toronto, and Los Angeles."
+        ]
+      },
+      {
+        "h": "Pending Details On Dates And Cast",
+        "p": [
+          "While the specific urban centers have been confirmed by the studio, certain logistical aspects of the journey remain under wraps. Marvel has not yet disclosed the exact dates for each individual stop.",
+          "Additionally, the studio has kept quiet regarding which specific members of the expansive ensemble cast will make appearances at each designated international location."
+        ]
+      },
+      {
+        "h": "Chris Hemsworth Shares Social Media Reaction",
+        "p": [
+          "The announcement quickly drew reactions from the film's notable cast members. Chris Hemsworth, who portrays the character Thor within the overarching Marvel universe, joined in on the digital momentum.",
+          "The actor reshared the promotional tour details across his social media channels alongside the simple yet evocative caption, “Doomsday is coming”. This digital interaction provided enthusiasts with another glimpse into the active promotional buildup."
+        ]
+      },
+      {
+        "h": "Plot Premise And Creative Leadership",
+        "p": [
+          "The narrative of Avengers: Doomsday centers on beloved heroes hailing from three distinct universes. These characters will find themselves on a dangerous collision course while facing an unprecedented existential threat.",
+          "Behind the camera, the film is being directed by Anthony and Joe Russo. The production side is spearheaded by a team featuring Kevin Feige, Louis D’Esposito, and Jonathan Schwartz."
+        ]
+      },
+      {
+        "h": "Massive Ensemble Cast And Formats",
+        "p": [
+          "The upcoming feature boasts a massive, star-studded ensemble cast featuring numerous recognizable performers. The roster includes Robert Downey Jr., Chris Evans, Chris Hemsworth, Pedro Pascal, Paul Rudd, Anthony Mackie, Florence Pugh, Vanessa Kirby, Ebon Moss-Bachrach, Wyatt Russell, Channing Tatum, Simu Liu, Ian McKellen, Hayley Atwell, Tom Hiddleston, James Marsden, Patrick Stewart, Joseph Quinn, Sebastian Stan, David Harbour, Letitia Wright, Lewis Pullman, Kelsey Grammer, Kathryn Newton, Danny Ramirez, Winston Duke, Alan Cumming, Hannah John-Kamen, Rebecca Romijn, Alex Livinalli, Mabel Cadena, and Tenoch Huerta Mejia.",
+          "When the film arrives in theaters on December 18, 2026, it will also be accessible in premium viewing formats, including Marvel Studios’ Infinity Vision."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios has officially announced a nine-city world tour for the upcoming film Avengers: Doomsday, utilizing the movie's Doomsday Clock to reveal locations including London, Seoul, and Los Angeles. Franchise actor Chris Hemsworth further fueled online anticipation by sharing the news on social media with the caption “Doomsday is coming”. Directed by the Russo brothers and featuring an expansive ensemble cast, the superhero feature is scheduled to premiere in theaters on December 18, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday releases worldwide in theaters on December 18, 2026.",
+      "The world tour will visit nine cities: Las Vegas, São Paulo, Gold Coast, Rome, London, Seoul, Shanghai, Toronto, and Los Angeles.",
+      "Chris Hemsworth plays Thor in the Marvel universe and shared the tour news with the caption 'Doomsday is coming'.",
+      "The film is directed by Anthony and Joe Russo.",
+      "Producers on the film include Kevin Feige, Louis D’Esposito, and Jonathan Schwartz."
+    ],
+    "entities": {
+      "people": [
+        "Chris Hemsworth",
+        "Anthony Russo",
+        "Joe Russo",
+        "Kevin Feige",
+        "Louis D’Esposito",
+        "Jonathan Schwartz",
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Pedro Pascal",
+        "Paul Rudd",
+        "Anthony Mackie",
+        "Florence Pugh",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Wyatt Russell",
+        "Channing Tatum",
+        "Simu Liu",
+        "Ian McKellen",
+        "Hayley Atwell",
+        "Tom Hiddleston",
+        "James Marsden",
+        "Patrick Stewart",
+        "Joseph Quinn",
+        "Sebastian Stan",
+        "David Harbour",
+        "Letitia Wright",
+        "Lewis Pullman",
+        "Kelsey Grammer",
+        "Kathryn Newton",
+        "Danny Ramirez",
+        "Winston Duke",
+        "Alan Cumming",
+        "Hannah John-Kamen",
+        "Rebecca Romijn",
+        "Alex Livinalli",
+        "Mabel Cadena",
+        "Tenoch Huerta Mejia"
+      ],
+      "titles": [
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday world tour",
+      "Chris Hemsworth Doomsday is coming",
+      "Avengers Doomsday release date",
+      "Marvel Avengers Doomsday cities"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/avengers-doomsday-announces-world-tour-01.jpg",
+        "caption": "Marvel Studios Announces Nine-City World Tour For Upcoming Blockbuster Avengers: Doomsday",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 06:18:07 +0000"
   }
 };
