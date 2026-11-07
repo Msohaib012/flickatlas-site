@@ -80493,5 +80493,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T19:24:09+05:30"
+  },
+  "1ca5icw": {
+    "id": "1ca5icw",
+    "type": "news",
+    "headline": "Hansal Mehta Criticizes Mumbai's Film Shoot Environment Amid Pralay Controversy at Azad Maidan",
+    "dek": "A six-hour film shoot for the upcoming zombie thriller Pralay at Mumbai's historic Azad Maidan has sparked a heated public dispute between the Mumbai Cricket Association and the production team, drawing sharp criticism from producer Hansal Mehta regarding the city's filming bureaucracy.",
+    "body": [
+      {
+        "h": "The Azad Maidan Dispute",
+        "p": [
+          "A brief six-hour film shoot at Mumbai's historic Azad Maidan escalated into a public disagreement involving the Mumbai Cricket Association and the creators of the upcoming zombie thriller Pralay. Producer Hansal Mehta defended the production's paperwork while addressing broader concerns regarding the difficulties of filming in the city.",
+          "The production house Light Rays utilized 5,000 square yards of the ground after paying a booking fee and a security deposit, erecting large sets and laying artificial grass for the sequence."
+        ]
+      },
+      {
+        "h": "Government Permission and Cricket Disruptions",
+        "p": [
+          "The Maharashtra government's Sports Department granted clearance for the shoot, which caused the postponement of Under-14 and Under-16 inter-school cricket matches. Navnath Fartade, Deputy Director of Sports for the Mumbai Division, defended the approval by citing a resolution that permits non-sporting events at the venue for up to thirty days annually.",
+          "The approval documents were signed by Sports Department Under Secretary Ashok Damayyawar, with the production fulfilling financial requirements including deposits and fees under specified conditions."
+        ]
+      },
+      {
+        "h": "The Mumbai Cricket Association's Objections",
+        "p": [
+          "The Mumbai Cricket Association expressed strong opposition, stating they were not consulted before the authorization was issued for a ground dedicated to youth training and tournaments. Nadim Memon, an MCA Apex Council member, highlighted that the ground is already impacted by Aqua Line Metro construction and police occupancy, arguing that commercial film shoots should not displace young athletes.",
+          "The association raised concerns about the precedent this sets, fearing that further commercial bookings could permanently diminish available open spaces for aspiring cricketers in the city."
+        ]
+      },
+      {
+        "h": "Hansal Mehta's Defense and Criticism",
+        "p": [
+          "Hansal Mehta asserted that the production possessed every required clearance, including permissions from police and sports departments alongside an acknowledgement from the MCA. Speaking to the Hindustan Times, he voiced deep frustration with the bureaucratic friction filmmakers face in Mumbai.",
+          "Mehta remarked that despite holding valid paperwork, film crews are frequently treated as trespassers, adding that various departments possess individual powers to halt productions unexpectedly."
+        ]
+      },
+      {
+        "h": "Broader Industry Implications",
+        "p": [
+          "Mehta contrasted Mumbai's regulatory hurdles with other states that actively welcome film crews with streamlined processes and economic incentives. He noted that the cumulative difficulties in obtaining clearances are driving producers to shoot outside of Mumbai, threatening the city's status as the heart of Indian cinema.",
+          "The conflict underscores a larger friction between maintaining authentic local backdrops for stories and navigating complex municipal and state regulations for public spaces."
+        ]
+      },
+      {
+        "h": "About the Production Pralay",
+        "p": [
+          "Pralay is a post-apocalyptic zombie thriller with a reported budget of 300 crore rupees, set in a near-future Mumbai affected by a pandemic and a subsequent outbreak. The project stars Ranveer Singh and marks the Hindi film debut of Kalyani Priyadarshan.",
+          "The film is directed by Jai Mehta in his feature debut, with a script written by Jai Mehta and Vishal Kapoor. Production is backed by True Story Films, Maa Kasam Films, and Birla Studios, with principal photography commencing in August 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A film shoot for Pralay at Azad Maidan disrupted youth cricket matches and triggered a public debate involving the Mumbai Cricket Association, the state sports department, and producer Hansal Mehta. While the production secured official government permits, the controversy highlighted ongoing bureaucratic challenges and location constraints for filmmakers in Mumbai."
+        ]
+      }
+    ],
+    "facts": [
+      "The shoot took place in early November 2026.",
+      "The film production paid a booking fee of 40,000 rupees and a refundable security deposit of 40,000 rupees.",
+      "The approval was signed by Sports Department Under Secretary Ashok Damayyawar on October 30 and sent on November 2.",
+      "Pralay has a reported budget of 300 crore rupees.",
+      "Principal photography for Pralay began in Mumbai on August 16, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Hansal Mehta",
+        "Ranveer Singh",
+        "Nadim Memon",
+        "Navnath Fartade",
+        "Ashok Damayyawar",
+        "Kalyani Priyadarshan",
+        "Jai Mehta",
+        "Vishal Kapoor",
+        "Sahil Saigal",
+        "Ananya Birla"
+      ],
+      "titles": [
+        "Pralay",
+        "Scam 1992: The Hansal Mehta Story",
+        "Lootere"
+      ]
+    },
+    "keywords": [
+      "Hansal Mehta Pralay",
+      "Pralay film Azad Maidan",
+      "Mumbai Cricket Association Pralay",
+      "Ranveer Singh Pralay shoot"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-07T193918.798.webp",
+        "caption": "Hansal Mehta Criticizes Mumbai's Film Shoot Environment Amid Pralay Controversy at Azad Maidan",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 14:43:46 +0000"
+  },
+  "1bdwic5": {
+    "id": "1bdwic5",
+    "type": "news",
+    "headline": "Vinod Kapri Claims Pyre Lost 75 Percent of Its Shows in the First Week Due to a Major Release",
+    "dek": "National Award-winning filmmaker Vinod Kapri expressed deep dismay on social media after his modest-budget Hindi film Pyre suffered a drastic reduction in theatre screenings within its opening week.",
+    "body": [
+      {
+        "h": "Sudden Reduction in Screenings",
+        "p": [
+          "National Award-winning director Vinod Kapri took to social media to voice his frustration regarding the theatrical run of his latest Hindi movie. He stated that within the first week of release, seventy-five percent of the screenings for his project had been abruptly cut. Exhibitors and distributors were reportedly instructed to restrict playtimes to a single, dominant blockbuster.",
+          "The filmmaker shared his grievances through a video statement, explaining that the situation severely hindered independent cinema. He questioned the fairness of pushing out smaller features to accommodate high-budget studio titles."
+        ]
+      },
+      {
+        "h": "The Journey of Pyre in Theaters",
+        "p": [
+          "Pyre initially debuted across India on October 30 with a very modest footprint of approximately eighty screens. However, positive word of mouth and strong audience appreciation caused that number to expand to four hundred screens across the country.",
+          "Despite this momentum and the emotional response from viewers who witnessed the non-actor cast on screen, the screening count plummeted back down to under one hundred shows within the span of forty-eight hours."
+        ]
+      },
+      {
+        "h": "Plot and Artistic Vision",
+        "p": [
+          "The narrative of Pyre centers on an elderly couple living in a quiet Himalayan village. As the surrounding environment grows increasingly still, the pair continues to wait for the return of their children.",
+          "Crafted on a tiny budget and utilizing non-professional actors, the production aimed for an authentic, soulful storytelling experience. The director emphasized that the team poured their hearts into the creation, making the sudden loss of screens particularly painful."
+        ]
+      },
+      {
+        "h": "Director Appeals to Exhibitors",
+        "p": [
+          "In his public address, Vinod Kapri directly addressed theatre owners and distributors, urging them to reconsider their scheduling decisions. He argued that smaller projects deserve a fair platform just as much as financially heavyweight productions do.",
+          "He further questioned the ethics of forcing out independent features, noting that while big studios invest substantial monetary capital, independent creators invest their souls into bringing distinct narratives to the public."
+        ]
+      },
+      {
+        "h": "The Context of Major Box Office Competition",
+        "p": [
+          "Although the filmmaker did not explicitly name any other title in his video address, the timeframe coincided with the arrival of a massive industry event. Nitesh Tiwari's multi-part epic adaptation entered the box office space on November 5.",
+          "That high-profile production, backed by major names and boasting an extensive cast, quickly crossed one hundred fifty-five crore rupees in box office collections during its opening days, dominating screens nationwide."
+        ]
+      },
+      {
+        "h": "About the Blockbuster Release",
+        "p": [
+          "The competing cinematic event in question is a two-part adaptation of the ancient Hindu epic produced by Prime Focus Studios. The ambitious project draws from Valmiki's literary work, tracing the journey of Lord Rama and his conflict against the asura king Ravana.",
+          "The prominent cast features Ranbir Kapoor in the lead role alongside Sai Pallavi, Yash, and Sunny Deol, supported by numerous other established industry actors including Ravi Dubey, Anupam Kher, and Lara Dutta."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "National Award-winning filmmaker Vinod Kapri revealed that his small-budget Hindi film Pyre lost seventy-five percent of its shows in its first week after theatre owners were allegedly told to run only one major film. The director expressed disappointment over the unfair treatment of his Himalayan-set drama, which originally expanded from eighty to four00 screens before being crowded out by Nitesh Tiwari's high-profile epic Ramayana."
+        ]
+      }
+    ],
+    "facts": [
+      "Vinod Kapri directed Pyre.",
+      "Pyre released in theatres on October 30.",
+      "Pyre initially released on around 80 screens before expanding to 400 screens.",
+      "75 percent of Pyre shows were cut within the first week.",
+      "Ramayana released on November 5, 2026.",
+      "Ramayana crossed ₹ 155 crore so far."
+    ],
+    "entities": {
+      "people": [
+        "Vinod Kapri",
+        "Santanu Das",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta"
+      ],
+      "titles": [
+        "Pyre",
+        "Ramayana",
+        "Aparajito",
+        "Ponyo",
+        "The Double Life of Veronique",
+        "The Corrections",
+        "The God of Small Things",
+        "A Room of One's Own"
+      ]
+    },
+    "keywords": [
+      "Pyre film",
+      "Vinod Kapri Pyre",
+      "Ramayana Nitesh Tiwari",
+      "Pyre theatre shows cut"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/pyre_1794058185922_etL2_1794058186157_qWFJ_54cccc11-9f58-46ad-8451-f0d39f92e268_Df3r.jpg",
+        "caption": "Vinod Kapri Claims Pyre Lost 75 Percent of Its Shows in the First Week Due to a Major Release",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 19:21:08 +0530"
+  },
+  "1cui2oy": {
+    "id": "1cui2oy",
+    "type": "news",
+    "headline": "Ranbir Kapoor Clarifies 'Last Decade as an Actor' Remarks and Confirms Directorial Debut Timeline",
+    "dek": "Actor Ranbir Kapoor has addressed speculation regarding his potential retirement from acting while confirming that he is actively writing his first script and aims to helm a feature film within the next two to three years.",
+    "body": [
+      {
+        "h": "Directorial Ambitions and Scriptwriting Progress",
+        "p": [
+          "Ranbir Kapoor has officially confirmed his plans to step behind the camera for his directorial debut, stating that he hopes to be on the floors with his first project within the next two to three years. The actor revealed that he started writing a script a couple of months prior to his joint interview with co-star Sai Pallavi for BBC Asian Network, noting that the creative writing process is exceptionally demanding.",
+          "Expressing profound admiration for professional writers and creators, Kapoor described the unique creative high experienced by directors compared to actors. He explained that a director enjoys a deeper involvement by shaping an entire narrative from its conception to final execution, contrasting it with what he perceives as a more superficial actor's high."
+        ]
+      },
+      {
+        "h": "Clarifying the 'Last Decade' Retirement Rumors",
+        "p": [
+          "During the same conversation, Kapoor casually referred to his current phase as his 'last decade as an actor,' a comment that instantly triggered widespread retirement speculation across social media. His remarks prompted visible surprise from Sai Pallavi, who was seated beside him during the promotional tour.",
+          "Kapoor promptly clarified that his statement was not an announcement of stepping away from the silver screen altogether. Instead, he intended to reflect on the limited window for specific types of leading roles he is currently offered, adding that he will continue to act for as long as he finds inspiring material and rewarding work."
+        ]
+      },
+      {
+        "h": "Inspirations and Desired Genre",
+        "p": [
+          "While a precise genre has not been finalized for his maiden directorial venture, Kapoor has a distinct vision for the tone of the film. He cited classic feel-good features like Life Is Beautiful and It's a Wonderful Life alongside the directorial style of Rajkumar Hirani as his primary aesthetic inspirations.",
+          "Such a choice signals a notable departure from the intense, gritty characters and massive mythological scales that have defined his recent filmography, including his work in Animal and Ramayana: Part 1. Kapoor also explicitly noted that he does not plan to cast himself in the lead role of the films he directs."
+        ]
+      },
+      {
+        "h": "Packed Acting Commitments Ahead",
+        "p": [
+          "Before the actor transitions into full-time directing, he has a heavy lineup of major franchise sequels to complete. His upcoming priority list features Brahmastra 2, Animal Park, and Ramayana Part 2, which require his complete dedication as a leading man.",
+          "Additionally, Kapoor is slated to appear in Sanjay Leela Bhansali's period drama Love War alongside Alia Bhatt and Vicky Kaushal, which is scheduled for a worldwide theatrical release on January 21, 2027. Despite his busy schedule, the actor noted that he typically works between 100 to 125 days a year, leaving ample time to dedicate to writing."
+        ]
+      },
+      {
+        "h": "A Rich Family Legacy in Filmmaking",
+        "p": [
+          "Filmmaking and direction run deep within Kapoor's family lineage. His grandfather, Raj Kapoor, remains one of the most iconic actor-directors in Hindi cinema history, known for classics like Awaara and Shree 420. Furthermore, his father, Rishi Kapoor, directed the 1999 release Aa Ab Laut Chalen.",
+          "Ranbir's own behind-the-scenes education includes serving as an assistant director on Sanjay Leela Bhansali's Black prior to making his own acting debut in 2007 with Saawariya. His directorial aspirations have been brewing for some time, with the actor having previously set up a writers' room to develop concepts."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Box Office Context",
+        "p": [
+          "Fans flooded social media platforms with emotional pleas following the retirement rumors, urging the 44-year-old actor to continue performing for decades to come. Many humorously requested that he act well into his eighties, emphasizing how deeply his performances resonate with audiences.",
+          "The interview coincided with the theatrical run of Nitesh Tiwari's mythological epic Ramayana: Part 1, which opened worldwide on November 5, 2026. The film achieved massive box office milestones on its opening day and crossed the Rs 100 crore nett mark in India by its second day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ranbir Kapoor has clarified that his recent comments about his final decade as an actor were a reflection on character roles rather than a permanent retirement announcement. He confirmed his intention to make his directorial debut within the next two to three years once he fulfills his ongoing franchise commitments.",
+          "While currently promoting Ramayana: Part 1 alongside Sai Pallavi, Kapoor continues to balance his active acting career with early scriptwriting endeavors, drawing inspiration from classic feel-good dramas."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor is 44 years old.",
+      "Ramayana: Part 1 arrived in theatres worldwide on November 5, 2026.",
+      "Love War is scheduled for a worldwide theatrical release on January 21, 2027.",
+      "Ranbir Kapoor works approximately 100 to 125 days a year as an actor.",
+      "Rishi Kapoor directed Aa Ab Laut Chalen in 1999.",
+      "Ranbir Kapoor made his acting debut with Saawariya in 2007."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Rajkumar Hirani",
+        "Sanjay Leela Bhansali",
+        "Alia Bhatt",
+        "Vicky Kaushal",
+        "Raj Kapoor",
+        "Rishi Kapoor",
+        "Yash",
+        "Ravi Dubey"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Animal",
+        "Life Is Beautiful",
+        "It's a Wonderful Life",
+        "Brahmastra 2",
+        "Animal Park",
+        "Ramayana Part 2",
+        "Love War",
+        "Awaara",
+        "Shree 420",
+        "Aa Ab Laut Chalen",
+        "Black",
+        "Saawariya"
+      ]
+    },
+    "keywords": [
+      "Ranbir Kapoor directorial debut",
+      "Ranbir Kapoor last decade as an actor",
+      "Ramayana Part 1",
+      "Love War release date"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-07T194428.526.webp",
+        "caption": "Ranbir Kapoor Clarifies 'Last Decade as an Actor' Remarks and Confirms Directorial Debut Timeline",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 14:46:42 +0000"
+  },
+  "15pmxox": {
+    "id": "15pmxox",
+    "type": "news",
+    "headline": "Understanding Investment Strategies: A Beginner's Guide to Stock Market Planning",
+    "dek": "A comprehensive look at how beginners can navigate financial markets, utilize platforms like InCred Money and Groww, and master fundamental concepts such as value investing, growth investing, and asset allocation.",
+    "body": [
+      {
+        "h": "Introduction to Financial Literacy",
+        "p": [
+          "Stepping into the financial markets requires far more than merely picking random companies and purchasing their shares. Beginners must actively learn different investment strategies, carefully evaluate financial risks, and identify opportunities that align seamlessly with their personal financial goals. Developing a strong foundation of financial literacy is essential for making these vital decisions responsibly.",
+          "While exploring financial products, individuals often encounter various services and platforms designed to aid the learning process. However, building an independent understanding of core financial concepts remains crucial to avoiding common pitfalls and fostering a practical, disciplined approach toward managing personal wealth."
+        ]
+      },
+      {
+        "h": "Defining Investment Strategies",
+        "p": [
+          "At its core, an investment strategy serves as a structured blueprint for allocating capital across different financial assets to achieve specific objectives. Certain investors prioritize long-term wealth creation, whereas others lean toward generating steady regular income or preserving the stability of their capital.",
+          "The ideal strategy depends heavily on multiple personal variables, including individual financial goals, investment duration, income stability, and overall risk tolerance. Having a well-defined investment plan prevents impulsive decision-making and helps maintain consistency when market conditions shift unexpectedly."
+        ]
+      },
+      {
+        "h": "Exploring Value Investing",
+        "p": [
+          "Value investing centers around hunting for companies whose shares trade below their estimated intrinsic value. Practitioners of this method scrutinize corporate financial statements, earnings reports, business operations, debt levels, and various valuation ratios to spot hidden opportunities.",
+          "The primary goal is to target businesses that the broader market has undervalued despite maintaining strong underlying fundamentals. Nevertheless, a low share price does not guarantee a bargain, as some companies trade cheaply due to genuine financial struggles or declining business prospects."
+        ]
+      },
+      {
+        "h": "Understanding Growth Investing",
+        "p": [
+          "In contrast, growth investing targets companies projected to expand their revenue, earnings, and market presence at an accelerated pace. These high-potential businesses frequently operate within sectors like technology, healthcare, renewable energy, and consumer services.",
+          "Instead of paying out regular dividends, growth-oriented companies often plow their earnings right back into business expansion. While these firms offer massive upside potential, their shares can also suffer from extreme price volatility whenever market expectations fall short."
+        ]
+      },
+      {
+        "h": "The Mechanics of Index Investing",
+        "p": [
+          "Index investing involves putting money into funds specifically engineered to shadow the performance of a designated market index. For instance, an index fund tracking the Nifty 50 attempts to mirror the collective performance of those specific constituent companies, factoring in minor tracking differences and expenses.",
+          "This passive approach offers broad exposure to multiple businesses through a single financial product, sparing investors from constant active stock selection. Even so, index funds are not immune to market downturns and can easily lose value during broader economic corrections."
+        ]
+      },
+      {
+        "h": "The Crucial Role of Asset Allocation",
+        "p": [
+          "Asset allocation refers to the practice of spreading investments across distinct asset categories, including equities, debt instruments, and cash equivalents. The main objective is striking the right balance between prospective returns and associated risks based on personal financial requirements.",
+          "An investor with a lengthy time horizon and a high appetite for risk will naturally consider a heavier equity weighting compared to someone who needs access to their funds in the near future. Because personal circumstances vary wildly, no single asset allocation fits everyone."
+        ]
+      },
+      {
+        "h": "Common Mistakes to Avoid",
+        "p": [
+          "Beginners should strictly refrain from making financial commitments driven purely by rumors, social media tips, or short-term market hype. Overlooking investment expenses, putting all capital into a single company, and expecting guaranteed returns are frequent errors that can derail financial planning.",
+          "Novice investors must always remember that historical performance never guarantees future outcomes. Conducting thorough independent research and carefully examining available financial data are fundamental practices for more responsible and informed decision-making."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "This beginner's guide outlines essential stock market planning concepts, including value investing, growth investing, index funds, and asset allocation. It highlights the importance of financial literacy, disciplined money management, and independent research while noting platforms like InCred Money and Groww.",
+          "Readers are advised to select investment strategies carefully according to their personal risk tolerance and long-term financial goals."
+        ]
+      }
+    ],
+    "facts": [
+      "Nov 06, 2026, 03:27 PM IST",
+      "Nifty 50",
+      "InCred Money",
+      "Groww"
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Nifty 50"
+      ]
+    },
+    "keywords": [
+      "InCred Money",
+      "Groww",
+      "Nifty 50",
+      "Understanding Investment Strategies"
+    ],
+    "images": [
+      {
+        "url": "https://english.cdn.zeenews.com/sites/default/files/2026/11/02/1993161-10.png",
+        "caption": "Understanding Investment Strategies: A Beginner's Guide to Stock Market Planning",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T15:18:03Z"
   }
 };
