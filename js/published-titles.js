@@ -7737,7 +7737,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-05",
     "date_kind": "release",
     "runtime": 61,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "321221": {
     "id": 321221,
@@ -29278,7 +29285,8 @@ window.FA_PUBLISHED = {
     "certification": "U/A 16+",
     "release_date": "2026-09-11",
     "date_kind": "release",
-    "runtime": 164
+    "runtime": 164,
+    "providers": []
   },
   "1538457": {
     "id": 1538457,
@@ -29319,7 +29327,8 @@ window.FA_PUBLISHED = {
     "certification": "U/A 13+",
     "release_date": "2026-09-25",
     "date_kind": "release",
-    "runtime": 138
+    "runtime": 138,
+    "providers": []
   },
   "1811490": {
     "id": 1811490,

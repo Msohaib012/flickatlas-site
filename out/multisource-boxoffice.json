@@ -1532,9 +1532,9 @@
       },
       "24": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.01,
+        "collection_inr_cr": 0.015,
         "collection_scope": "india_net",
-        "collection_usd": 1057,
+        "collection_usd": 1585,
         "date": "2026-11-07",
         "date_disagreed": false,
         "extras": {
@@ -1546,9 +1546,10 @@
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 25
+              "filmynewsnetwork": 25,
+              "sacnilk": 24
             },
-            "value": 25
+            "value": 24
           },
           "tickets": {
             "sources": {
@@ -1559,7 +1560,8 @@
         },
         "india": true,
         "sources": {
-          "filmynewsnetwork": 0.01
+          "filmynewsnetwork": 0.01,
+          "sacnilk": 0.02
         }
       },
       "3": {
@@ -4737,6 +4739,26 @@
         "india": true,
         "sources": {
           "sacnilk": 1.88
+        }
+      },
+      "2": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 0.04,
+        "collection_scope": "india_net",
+        "collection_usd": 4226,
+        "date": "2026-11-07",
+        "date_disagreed": false,
+        "extras": {
+          "shows": {
+            "sources": {
+              "sacnilk": 96
+            },
+            "value": 96
+          }
+        },
+        "india": true,
+        "sources": {
+          "sacnilk": 0.04
         }
       }
     },
@@ -8174,17 +8196,6 @@
             },
             "value": 55.0
           },
-          "overseas": {
-            "crore": 12.0,
-            "currency": "USD",
-            "date": "2026-11-06",
-            "date_disagreed": false,
-            "scope": "overseas_gross",
-            "sources": {
-              "sacnilk": 12.0
-            },
-            "value": 1267829
-          },
           "shows": {
             "sources": {
               "sacnilk": 6167
@@ -8195,6 +8206,26 @@
         "india": true,
         "sources": {
           "sacnilk": 19.15
+        }
+      },
+      "2": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 1.33,
+        "collection_scope": "india_net",
+        "collection_usd": 140518,
+        "date": "2026-11-07",
+        "date_disagreed": false,
+        "extras": {
+          "shows": {
+            "sources": {
+              "sacnilk": 539
+            },
+            "value": 539
+          }
+        },
+        "india": true,
+        "sources": {
+          "sacnilk": 1.33
         }
       }
     },

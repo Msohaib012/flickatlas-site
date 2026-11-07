@@ -75768,5 +75768,404 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 00:14:11 +0000"
+  },
+  "144sfl2": {
+    "id": "144sfl2",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Opens Strong with Over ₹19 Crore on Day One",
+    "dek": "Jithu Madhavan's directorial debut in Tamil, Scene, hits theatres for Diwali, outperforming Suriya's earlier releases this year.",
+    "body": [
+      {
+        "h": "Theatrical Debut and Timing",
+        "p": [
+          "The newly released Tamil feature film Scene arrived in cinemas on a Friday, coinciding with the Diwali festival period. Directed by Malayalam filmmaker Jithu Madhavan in his Tamil cinema debut, the project generated considerable early interest among moviegoers.",
+          "The timing of the release during a major festive window provided an advantage at the box office, setting the stage for a strong opening weekend performance."
+        ]
+      },
+      {
+        "h": "Opening Day Box Office Figures",
+        "p": [
+          "On its first day in domestic theatres, Scene accumulated a net collection exceeding ₹19 crore in India. Trade tracking reports indicate that the Tamil version contributed the lion's share of ₹16.15 crore, while the dubbed version brought in an additional ₹3 crore.",
+          "International markets also showed healthy engagement, with the overseas box office contributing ₹12 crore to the opening tally."
+        ]
+      },
+      {
+        "h": "Comparison With Earlier Releases",
+        "p": [
+          "The opening numbers for Scene outpaced the day-one collections of Suriya's other cinematic ventures earlier in the year, namely Karuppu and Vishwanath Sons. Karuppu had earned ₹15.50 crore on its first day, while Vishwanath Sons had brought in ₹15.35 crore.",
+          "Despite outperforming those two specific titles, the new release fell short of matching the massive opening day figures of top-earning films from earlier in the year, such as Rajinikanth's Jailer 2 and Vijay's Jana Nayagan."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Scene features Suriya in the role of a police officer, heading a cast that includes Nazriya Nazim and Naslen in prominent parts. Supporting actors in the project comprise Anandaraj, Lal, Rajpriyan, Suresh Mathiyalagan, and Gajaraj.",
+          "The film also includes special cameos by performers from both the Malayalam and Kollywood film industries, enhancing its appeal across regional audiences."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "The project was written and directed by Jithu Madhavan. Production duties were handled jointly by Suriya and Jyothika's banner 2D Entertainment alongside the newly formed Zhagaram Studios.",
+          "Musical composition for the film was crafted by Sushin Shyam, adding to the atmospheric tone of the narrative."
+        ]
+      },
+      {
+        "h": "Plot Premise",
+        "p": [
+          "The storyline centers on a police officer who is compelled to reinvestigate a previously closed case and pursue a contract killer after his own secret is accidentally exposed.",
+          "This situation develops into a tense cat-and-mouse dynamic featuring unexpected plot twists and turns throughout the narrative arc."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jithu Madhavan's Tamil directorial debut Scene premiered in theatres ahead of Diwali, starring Suriya, Nazriya Nazim, and Naslen. The film achieved a strong domestic opening day collection exceeding ₹19 crore, outperforming Suriya's previous releases Karuppu and Vishwanath Sons."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released on Nov 7, 2026",
+      "Scene opened with over ₹19 crore in India",
+      "Tamil version collected ₹16.15 crore",
+      "Dubbed version collected ₹3 crore",
+      "Overseas collection reached ₹12 crore",
+      "Karuppu opened at ₹15.50 crore",
+      "Vishwanath Sons opened at ₹15.35 crore",
+      "Jailer 2 collection was ₹59.70 crore",
+      "Jana Nayagan collection was ₹42.70 crore"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nazriya Nazim",
+        "Naslen",
+        "Jithu Madhavan",
+        "Rajinikanth",
+        "Vijay",
+        "RJ Balaji",
+        "Jyothika",
+        "Anandaraj",
+        "Lal",
+        "Rajpriyan",
+        "Suresh Mathiyalagan",
+        "Gajaraj",
+        "Sushin Shyam",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath Sons",
+        "Jailer 2",
+        "Jana Nayagan",
+        "Aavesham"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Jithu Madhavan Tamil debut",
+      "Scene movie day 1 collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Scene_day_1_BO_1794016615549_LlDh_1794016627192_WEBI_0ae29a9c-702e-47a6-a771-901f5d4098e2_m90o.jpg",
+        "caption": "Suriya Starrer Scene Opens Strong with Over ₹19 Crore on Day One",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 07:53:15 +0530"
+  },
+  "7fnbls": {
+    "id": "7fnbls",
+    "type": "news",
+    "headline": "‘Ramayana: Rise of a Legend’ Review: Nitesh Tiwari’s Bright, Bracing Saga",
+    "dek": "Nitesh Tiwari directs a three-hour magical action spectacle based on Valmiki’s Hindu poem, starring Yash, Ranbir Kapoor, Ravi Dubey, and Sai Pallavi.",
+    "body": [
+      {
+        "h": "An Epic Scale",
+        "p": [
+          "The year has been exceptionally strong for big-budget film adaptations derived from ancient fantasy epics. While Christopher Nolan offered a notably dour and grey interpretation of Homer's classic with 'The Odyssey' over the summer, Nitesh Tiwari steps in with a vibrant alternative.",
+          "Tiwari presents 'Ramayana: Rise of a Legend' as an electric rainbow of a movie, filled with shimmering extravagance, adventure, and romance that stretches the boundaries of a standard theater experience."
+        ]
+      },
+      {
+        "h": "The Journey of Ravana",
+        "p": [
+          "Running for a substantial three hours, the narrative spans a massive amount of ground. The story centers on a man named Ravana, played by Yash, who seeks to liberate his enslaved people.",
+          "Following intense penance on a mountain summit, Ravana is granted a gift by the god Brahma. When denied complete immortality, he settles for being unkillable by anything except humans."
+        ]
+      },
+      {
+        "h": "The Rise of Rama",
+        "p": [
+          "After conquering his kingdom and single-handedly slaughtering an entire army, Ravana lets his immense power corrupt him. In response, the god Vishnu creates a human avatar.",
+          "This avatar is Rama, portrayed by Ranbir Kapoor, one of four princes born to a distant king who is trained from birth in daring stunts and demon slaying by a flying birdman."
+        ]
+      },
+      {
+        "h": "Allies and Adversaries",
+        "p": [
+          "Along his journey, Rama and his younger brother Lakshmana, played by Ravi Dubey, save enchanted forests and wield powerful magic weapons.",
+          "Rama eventually wins the hand of the beautiful martial arts princess Sita, played by Sai Pallavi, though palace intrigue soon threatens his rightful throne."
+        ]
+      },
+      {
+        "h": "A Visual Spectacle",
+        "p": [
+          "Navigating millennia of cultural history can be daunting for viewers unfamiliar with Valmiki’s epic poem, but the film serves as an exhilarating crash course in unfamiliar mythology.",
+          "Tiwari successfully balances the gigantic episodic story by combining stunning action sequences—such as heroes fleeing demons through collapsing forests—with courtly romance and political intrigue."
+        ]
+      },
+      {
+        "h": "Value and Pacing",
+        "p": [
+          "Given the high cost of movie tickets, the three-hour runtime delivers substantial value, offering far more content than many other simultaneous theatrical releases.",
+          "Despite concluding rather suddenly as a two-parter, the feature delivers gorgeous costumes, luscious sets, and countless magical creatures that leave viewers eager for the second part."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari has directed 'Ramayana: Rise of a Legend', a three-hour magical action fantasy film starring Yash, Ranbir Kapoor, Ravi Dubey, and Sai Pallavi. The production adapts Valmiki’s ancient Hindu poem into a vibrant spectacle that balances massive battle sequences with romance, while setting up a planned second part."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend is directed by Nitesh Tiwari",
+      "The film stars Yash, Ranbir Kapoor, Ravi Dubey, and Sai Pallavi",
+      "The movie has a runtime of three hours",
+      "The story is based on Valmiki’s Hindu poem Ramayana",
+      "The project is structured as a two-parter"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Yash",
+        "Ranbir Kapoor",
+        "Ravi Dubey",
+        "Sai Pallavi",
+        "Christopher Nolan",
+        "Homer",
+        "Valmiki",
+        "Brahma",
+        "Vishnu",
+        "Adam Wingard",
+        "James Stewart"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Zootopia 2",
+        "F1: The Movie",
+        "The Epic of Gilgamesh",
+        "Beowulf",
+        "The Odyssey",
+        "Ramayana",
+        "Godzilla Minus Zero",
+        "Jimmy",
+        "Onslaught",
+        "The Cat in the Hat"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Nitesh Tiwari film",
+      "Ranbir Kapoor Rama",
+      "Yash Ravana"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Ramayana.jpg",
+        "caption": "‘Ramayana: Rise of a Legend’ Review: Nitesh Tiwari’s Bright, Bracing Saga",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 01:23:02 +0000"
+  },
+  "k3j65u": {
+    "id": "k3j65u",
+    "type": "news",
+    "headline": "Farah Khan Reveals Industry Doubts Over Shreya Ghoshal in Main Hoon Na",
+    "dek": "Filmmaker Farah Khan recently disclosed that several people within the Bollywood film industry advised her against hiring an 18-year-old Shreya Ghoshal for her directorial debut, Main Hoon Na.",
+    "body": [
+      {
+        "h": "The Vlog Conversation and Meeting",
+        "p": [
+          "Renowned filmmaker and YouTuber Farah Khan recently visited the Mumbai residence of playback singer Shreya Ghoshal for a special vlog. During their meeting, the two discussed their long-standing correspondence, which traces all the way back to the production of the 2004 movie Main Hoon Na.",
+          "The conversation offered fans a nostalgic look into the making of the film, highlighting how their professional relationship began when Shreya was just starting out in the industry as a teenager."
+        ]
+      },
+      {
+        "h": "Industry Warnings Against a Newcomer",
+        "p": [
+          "When the musical tracks for Main Hoon Na were being recorded, Shreya Ghoshal was considered a brand-new talent. In fact, her work on Devdas had not even been released to the public yet.",
+          "Farah Khan shared that multiple industry insiders cautioned her against working with such a young and inexperienced singer, questioning whether Shreya possessed the capability to pull off the required vocals for a major motion picture."
+        ]
+      },
+      {
+        "h": "Standing Firm on a Fresh Voice",
+        "p": [
+          "Despite the warnings and skepticism from colleagues, Farah Khan and music composer Anu Malik maintained complete faith in Shreya's exceptional talent. They chose to ignore the detractors and proceeded with the collaboration.",
+          "Farah noted that critics warned her that taking on the newcomer was a massive mistake, but the filmmaker firmly insisted that she wanted a fresh vocal texture for her project."
+        ]
+      },
+      {
+        "h": "Proving Herself in the Recording Studio",
+        "p": [
+          "Shreya contributed vocals to two distinct tracks for the movie, working with music by Anu Malik and lyrics penned by Javed Akhtar. These included the title track of Main Hoon Na and the popular song Tumhe Jo Maine Dekha.",
+          "Shreya initially sang a small portion for Amrita Rao's character, and after hearing that performance, the team felt confident enough to give her the track meant for Sushmita Sen on screen."
+        ]
+      },
+      {
+        "h": "Reflecting on the Final Onscreen Result",
+        "p": [
+          "During their chat, Shreya recalled watching Sushmita Sen on screen and wondering if she had truly done justice to the songs she recorded. Fortunately, the gamble paid off enormously.",
+          "The collaboration resulted in memorable melodies that resonated with audiences, cementing Shreya's place in the industry and validating Farah's initial trust in her abilities."
+        ]
+      },
+      {
+        "h": "Background of Main Hoon Na",
+        "p": [
+          "Main Hoon Na served as Farah Khan's directorial debut and featured a star-studded cast including Shah Rukh Khan, Sushmita Sen, Suniel Shetty, Amrita Rao, and Zayed Khan. The story follows Major Ram going undercover as a college student.",
+          "Alongside action and romance, the 2004 release explored family dynamics, notably the relationship between Ram and his half-brother Lakshman, turning into a major commercial success of the decade."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Farah Khan revealed in a recent vlog that Bollywood industry insiders cautioned her against hiring an 18-year-old Shreya Ghoshal for Main Hoon Na because her work in Devdas had not yet released. Despite critics calling it a mistake, Farah and composer Anu Malik trusted the newcomer, leading to iconic tracks for the 2004 Shah Rukh Khan starrer."
+        ]
+      }
+    ],
+    "facts": [
+      "Farah Khan visited Shreya Ghoshal's Mumbai residence for a vlog.",
+      "Shreya Ghoshal was 18 years old when recording songs for Main Hoon Na.",
+      "Devdas had not been released yet when Shreya recorded for Main Hoon Na.",
+      "Main Hoon Na was released in 2004.",
+      "Anu Malik composed the music for Main Hoon Na.",
+      "Javed Akhtar wrote the lyrics for Main Hoon Na.",
+      "Shreya Ghoshal sang the title track and Tumhe Jo Maine Dekha for Main Hoon Na.",
+      "Main Hoon Na starred Shah Rukh Khan, Sushmita Sen, Suniel Shetty, Amrita Rao, and Zayed Khan."
+    ],
+    "entities": {
+      "people": [
+        "Farah Khan",
+        "Shreya Ghoshal",
+        "Anu Malik",
+        "Javed Akhtar",
+        "Shah Rukh Khan",
+        "Sushmita Sen",
+        "Suniel Shetty",
+        "Amrita Rao",
+        "Zayed Khan"
+      ],
+      "titles": [
+        "Main Hoon Na",
+        "Devdas",
+        "Tumhe Jo Maine Dekha"
+      ]
+    },
+    "keywords": [
+      "Farah Khan Shreya Ghoshal Main Hoon Na",
+      "Shreya Ghoshal Main Hoon Na songs",
+      "Farah Khan Main Hoon Na debut",
+      "Anu Malik Main Hoon Na music"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/shreya_ghoshal_1793979526676_BaNl_1793979526858_kw0Z_54bbc150-e896-429c-8913-9f5fd2bcab60_K4f8.png",
+        "caption": "Farah Khan Reveals Industry Doubts Over Shreya Ghoshal in Main Hoon Na",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 07:07:59 +0530"
+  },
+  "1vguofe": {
+    "id": "1vguofe",
+    "type": "news",
+    "headline": "Keanu Reeves Returns for Animated John Wick Prequel Movie",
+    "dek": "Lionsgate greenlights an animated prequel exploring the assassin's Impossible Task, with Keanu Reeves reprising his iconic role.",
+    "body": [
+      {
+        "h": "Official Green Light From Lionsgate",
+        "p": [
+          "Lionsgate has officially given the green light to an animated John Wick movie, moving forward with a project that has been in development since last year. Keanu Reeves is set to reprise his iconic role as the legendary titular assassin in this upcoming feature."
+        ]
+      },
+      {
+        "h": "Exploring the Impossible Task",
+        "p": [
+          "The newly announced animated project serves as a prequel set before the events of the first film in the billion dollar-grossing action franchise. It will take audiences back in time to chronicle how the assassin completed the Impossible Task in order to free himself from his obligation to the High Table and earn the right to be with the love of his life, Helen."
+        ]
+      },
+      {
+        "h": "Creative Team and Production",
+        "p": [
+          "Behind the scenes, the animated film will be directed by Shannon Tindle, known for Ultraman: Rising, working from a script penned by Ryan Kaz Firpo, who previously wrote Eternals. Beyond lending his voice to the project, Keanu Reeves will also serve as a producer alongside franchise director Chad Stahelski and Thunder Road producers Basil Iwanyk and Erica Lee."
+        ]
+      },
+      {
+        "h": "Current Production Status",
+        "p": [
+          "The project has officially entered the pre-production phase following the green light announcement. However, studio representatives have not yet announced any details regarding a potential release date for the animated feature."
+        ]
+      },
+      {
+        "h": "Expanding the Action Franchise",
+        "p": [
+          "This animated film represents the latest expansion of the massive blockbuster action franchise, which has already grown significantly beyond its mainline series. The universe previously expanded with the three-episode limited series The Continental on Peacock, followed by last year's spinoff film Ballerina starring Ana de Armas."
+        ]
+      },
+      {
+        "h": "Future Projects in the Universe",
+        "p": [
+          "Additional projects continue to build out the broader universe, including another spinoff led and directed by Donnie Yen titled Caine, which wrapped principal photography earlier this year. Meanwhile, development also remains ongoing for a potential John Wick: Chapter 5."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lionsgate has officially greenlit an animated John Wick prequel film with Keanu Reeves returning to voice the titular assassin and produce the project. Directed by Shannon Tindle and written by Ryan Kaz Firpo, the story explores the protagonist's Impossible Task before the events of the mainline film series."
+        ]
+      }
+    ],
+    "facts": [
+      "Keanu Reeves will reprise his role as the titular assassin and serve as a producer.",
+      "The animated film is a prequel set before the first movie in the franchise.",
+      "The story follows the Impossible Task to free the assassin from the High Table and be with Helen.",
+      "Shannon Tindle is set to direct the film, with a script written by Ryan Kaz Firpo.",
+      "Other producers include Chad Stahelski, Basil Iwanyk, and Erica Lee."
+    ],
+    "entities": {
+      "people": [
+        "Keanu Reeves",
+        "Shannon Tindle",
+        "Ryan Kaz Firpo",
+        "Chad Stahelski",
+        "Basil Iwanyk",
+        "Erica Lee",
+        "Helen",
+        "Ana de Armas",
+        "Donnie Yen"
+      ],
+      "titles": [
+        "John Wick",
+        "Ultraman: Rising",
+        "Eternals",
+        "The Continental",
+        "Ballerina",
+        "Caine",
+        "John Wick: Chapter 5"
+      ]
+    },
+    "keywords": [
+      "Keanu Reeves John Wick",
+      "animated John Wick prequel",
+      "Lionsgate John Wick movie",
+      "Shannon Tindle Ryan Kaz Firpo"
+    ],
+    "images": [],
+    "published": "Sat, 07 Nov 2026 02:12:37 +0000"
   }
 };

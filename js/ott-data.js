@@ -237,11 +237,15 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-05",
       "date_kind": "digital",
       "id": 1810711,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     },
     {
