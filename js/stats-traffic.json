@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-07T03:07:26Z",
+  "generated": "2026-11-07T03:52:36Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
     "users": 0,
@@ -12,7 +12,7 @@
   },
   "last7": {
     "users": 144,
-    "pageviews": 520,
+    "pageviews": 521,
     "sessions": 202,
     "avg_session_seconds": 150.0
   },
@@ -82,8 +82,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 121,
-      "users": 107
+      "sessions": 122,
+      "users": 108
     },
     {
       "source": "(direct)",

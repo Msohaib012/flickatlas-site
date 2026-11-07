@@ -50741,10 +50741,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "All's Fair season two",
-      "All's Fair cast Hulu",
-      "Grant Ronson Greene legal drama",
-      "All's Fair release date November 4"
+      "Alls Fair season 2 cast revealed",
+      "Hulu legal drama Alls Fair season two",
+      "Alls Fair returning stars guest additions",
+      "Alls Fair season two premiere Disney plus"
     ],
     "images": [
       {
@@ -50835,10 +50835,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2 box office",
-      "Rajinikanth Jailer 2 collection",
-      "Jailer 2 Day 20",
-      "Jailer 2 vs The Greatest of All Time"
+      "Jailer 2 box office day 20",
+      "Rajinikanth Jailer 2 worldwide collection",
+      "Jailer 2 Tamil Nadu box office benchmark",
+      "Rajinikanth action entertainer earnings"
     ],
     "images": [
       {
@@ -51047,10 +51047,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Mumbai screening",
-      "Ranbir Kapoor Ramayana",
-      "Alia Bhatt Ramayana screening",
-      "Nitesh Tiwari Ramayana cast"
+      "Ramayana Mumbai screening Ranbir Kapoor",
+      "Ramayana Nitesh Tiwari special screening",
+      "Ranbir Kapoor Alia Bhatt Sunny Deol Ramayana",
+      "Ramayana cast screening Mumbai"
     ],
     "images": [
       {
@@ -51333,11 +51333,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Tusshar Kapoor extortion threat",
-      "Lawrence Bishnoi gang",
-      "Harry Boxer voice match",
-      "Mumbai Crime Branch",
-      "Tusshar Kapoor threatening call"
+      "Tusshar Kapoor extortion threat Rs 5 crore",
+      "Lawrence Bishnoi gang Tusshar Kapoor call",
+      "Tusshar Kapoor Mumbai police extortion",
+      "Harry Boxer Lawrence Bishnoi gang"
     ],
     "images": [
       {
@@ -51438,11 +51437,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Udta Teer film",
-      "Ayushmann Khurrana Udta Teer",
-      "Udta Teer box office collection",
-      "Udta Teer worldwide earnings",
-      "Aakash Kaushik Udta Teer"
+      "Udta Teer box office collection day 12",
+      "Ayushmann Khurrana Udta Teer spy comedy",
+      "Udta Teer worldwide box office",
+      "Ayushmann Khurrana film second week"
     ],
     "images": [
       {
@@ -51556,11 +51554,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Kathy Hochul New York win",
-      "Focker-in-Law filming location",
-      "New York tax credit program",
-      "Wildflower Studios Astoria",
-      "New York gubernatorial race"
+      "Kathy Hochul New York gubernatorial victory",
+      "Kathy Hochul Hollywood East tax credits",
+      "Kathy Hochul election win entertainment hub",
+      "New York governor race Kathy Hochul"
     ],
     "images": [
       {
@@ -51638,10 +51635,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Nora Fatehi",
-      "Sukesh Chandrashekhar case",
-      "Nora Fatehi legal team statement",
-      "Rouse Avenue Court Delhi"
+      "Nora Fatehi Sukesh Chandrashekhar case witness",
+      "Nora Fatehi legal statement witness",
+      "Sukesh Chandrashekhar extortion investigation Nora Fatehi",
+      "Nora Fatehi Rouse Avenue Court"
     ],
     "images": [
       {
@@ -51725,10 +51722,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Callum Turner James Bond",
-      "Pierce Brosnan Callum Turner",
-      "Josh O'Connor 007 casting",
-      "Denis Villeneuve James Bond"
+      "Pierce Brosnan Callum Turner 007",
+      "Josh Oconnor James Bond casting rumors",
+      "Pierce Brosnan James Bond endorsement",
+      "Callum Turner James Bond role"
     ],
     "images": [
       {
@@ -51827,10 +51824,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana advance booking",
-      "Ramayana Part One",
-      "Ranbir Kapoor Ramayana",
-      "Namit Malhotra Ramayana"
+      "Ramayana Part One advance bookings",
+      "Ramayana Part One tickets sold",
+      "Namit Malhotra Ramayana milestone",
+      "Ranbir Kapoor Ramayana advance booking"
     ],
     "images": [
       {
@@ -51948,10 +51945,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Dogfight",
-      "Jason Statham Dogfight",
-      "Guy Ritchie Dogfight",
-      "Dogfight Netflix movie"
+      "Jason Statham Guy Ritchie Dogfight",
+      "Dogfight Netflix revenge thriller",
+      "Jason Statham Guy Ritchie seventh film",
+      "Dogfight London criminal underworld"
     ],
     "images": [
       {
@@ -52152,10 +52149,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "James Gunn DCU timeline",
-      "DCU chronological roadmap 2016 2027",
-      "James Gunn Threads DCU list",
-      "Lanterns DCU timeline order"
+      "James Gunn DCU chronological roadmap",
+      "James Gunn DC Studios timeline",
+      "DCU fan made timeline James Gunn",
+      "James Gunn DCU 12 year roadmap"
     ],
     "images": [
       {
@@ -52262,10 +52259,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Aadarsha Kutumbam House No 47",
-      "Venkatesh Daggubati",
-      "Trivikram Srinivas",
-      "Aadarsha Kutumbam House No 47 box office"
+      "Aadarsha Kutumbam House No 47 box office",
+      "Venkatesh Daggubati Aadarsha Kutumbam",
+      "Aadarsha Kutumbam House No 47 day 5",
+      "Venkatesh Daggubati film worldwide collection"
     ],
     "images": [
       {
@@ -52371,10 +52368,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Hope film France",
-      "Na Hong Jin Hope",
-      "Hwang Jung Min Hope",
-      "Hope Korean film box office"
+      "Na Hong Jin Hope movie",
+      "Hope sci fi thriller French opening",
+      "Hope Korean cinema box office",
+      "Na Hong Jin French box office"
     ],
     "images": [],
     "published": "Wed, 04 Nov 2026 03:42:22 +0000"
@@ -52454,10 +52451,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Oh My Goddess film",
-      "Akshay Kumar Oh My Goddess",
-      "Amit Rai OMG",
-      "Rani Mukerji Oh My Goddess"
+      "Oh My Goddess director Amit Rai exits",
+      "Oh My Goddess casting changes",
+      "Amit Rai Akshay Kumar Oh My Goddess",
+      "Oh My Goddess franchise creative hurdles"
     ],
     "images": [
       {
@@ -52541,9 +52538,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "LEGO Godzilla set release date",
-      "Godzilla Minus Zero",
-      "Matthew Esposito LEGO",
-      "Takashi Yamazaki Godzilla"
+      "Godzilla building set crowdfunding",
+      "LEGO Godzilla 70 cm tall",
+      "Godzilla Minus Zero Japanese theaters"
     ],
     "images": [
       {
@@ -76167,5 +76164,412 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sat, 07 Nov 2026 02:12:37 +0000"
+  },
+  "1tb1905": {
+    "id": "1tb1905",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 2: Crosses Rs 221 Crore Worldwide",
+    "dek": "Nitesh Tiwari's Ramayana: Rise of a Legend has crossed the Rs 200-crore milestone globally within two days, aiming for a Rs 500-crore weekend.",
+    "body": [
+      {
+        "h": "Introduction and Worldwide Milestone",
+        "p": [
+          "Nitesh Tiwari's cinematic spectacle Ramayana: Rise of a Legend has continued its powerful box office streak by comfortably surpassing the Rs 200-crore worldwide gross mark within just two days of its theatrical debut.",
+          "Trading data highlighted by Sacnilk confirms that the feature has generated a staggering two-day worldwide gross total of Rs 221.05 crore, setting strong expectations for the remainder of the weekend."
+        ]
+      },
+      {
+        "h": "Day 2 Collections and Domestic Market Performance",
+        "p": [
+          "Following its grand opening, the film experienced a natural dip on its second day—a working Friday—yet managed to rake in Rs 48.05 crore nett domestically alongside Rs 35 crore in gross overseas earnings.",
+          "Domestically, the Hindi version anchored the earnings with Rs 35.50 crore nett across 19,859 shows, while regional languages also contributed steadily to the overall domestic figures."
+        ]
+      },
+      {
+        "h": "Regional Language Breakdown",
+        "p": [
+          "Language-wise contributions on Friday saw the Kannada version bring in Rs 5.15 crore, followed closely by the Telugu version at Rs 4.75 crore.",
+          "Additionally, the Tamil and Malayalam versions added Rs 1.50 crore and Rs 1.15 crore respectively, drawing numbers from a combined 446 shows across those sectors."
+        ]
+      },
+      {
+        "h": "International Markets Strength",
+        "p": [
+          "The makers positioned the movie globally as a representation of India's history and truth, a strategy that paid off with robust overseas ticket sales.",
+          "International territories accounted for a massive Rs 86.25 crore of the two-day gross, nearly matching the domestic momentum as the festive window opened."
+        ]
+      },
+      {
+        "h": "Breaking the Pre-Diwali Jinx",
+        "p": [
+          "Trade analysts had previously voiced concerns regarding the decision to launch the feature right before Diwali, a period traditionally considered slower before festivities peak.",
+          "Despite these apprehensions, the title has successfully defied the pre-Diwali box office slump, drawing strong family and general audiences early on."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Weekend Projections",
+        "p": [
+          "With largely positive reviews aiding its momentum, the epic is now setting its sights on hitting the Rs 500-crore worldwide gross milestone by the end of the weekend.",
+          "Directed by Nitesh Tiwari and produced by Namit Malhotra's Prime Focus alongside Yash's Monster Mind Creations, the ensemble features Ranbir Kapoor, Sai Pallavi, Yash, and numerous other prominent actors."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana: Rise of a Legend achieved a worldwide gross of Rs 221.05 crore within two days of its November 5 release. The film is now eyeing a Rs 500-crore weekend milestone while successfully breaking pre-Diwali box office trends."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released on November 5, 2026.",
+      "The two-day worldwide total reached Rs 221.05 crore gross.",
+      "Friday domestic nett collections stood at Rs 48.05 crore with Rs 35 crore gross overseas.",
+      "International markets contributed Rs 86.25 crore in two days."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend",
+        "Pathaan",
+        "RRR",
+        "Pushpa 2",
+        "Jailer 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-2-smashes-rs-221-crore-worldwide--eyes-rs-500-crore-weekend-073521294-16x9_0.jpg?VersionId=ddEdBjwnJlbt3eElRcA0s0H84Ewlrkie",
+        "caption": "Ramayana Box Office Day 2: Crosses Rs 221 Crore Worldwide",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 09:07:17 +0530"
+  },
+  "1ou7emu": {
+    "id": "1ou7emu",
+    "type": "news",
+    "headline": "Chang Chen Advises Taiwan's Emerging Actors to 'Be Like Water' at TCCF Showcase",
+    "dek": "The Taipei Golden Horse Film Festival Executive Committee chair offered guidance to rising talent during a special panel event in Taipei.",
+    "body": [
+      {
+        "h": "Chang Chen Shares Guidance at TCCF Showcase",
+        "p": [
+          "Chang Chen, chair of the Taipei Golden Horse Film Festival Executive Committee and a previous best leading actor winner for 'Lucky Lu', recently addressed six rising performers in Taipei.",
+          "The event, titled the 'TCCF x The Golden Horse Awards: Taiwan Emerging Actors Showcase', took place during the Taiwan Creative Content Fest."
+        ]
+      },
+      {
+        "h": "Connecting Talent with Global Teams",
+        "p": [
+          "The showcase was designed specifically to bridge the gap between emerging local performers and international creative teams, investors, and media professionals.",
+          "The participants featured in the lineup were all either nominees or winners of the Best New Performer honor at the Golden Horse Awards, which represent the top accolades for Chinese-language cinema."
+        ]
+      },
+      {
+        "h": "A Diverse Lineup of Rising Performers",
+        "p": [
+          "The featured actors included Bai Xiao-ying and Ho Man-xi, who are nominees for this year's Best New Performer award for their roles in 'Girl' and 'Sunshine Women's Choir' respectively.",
+          "Ma Shih-yuan won the award last year for 'Left-Handed Girl', while Rosen, Jimmy Liu, and Lin Yi-ting earned nominations for 'Marching Boys', 'Blind Love', and 'A Dance With Rainbows'."
+        ]
+      },
+      {
+        "h": "Martial Arts, Dance, and Unique Backgrounds",
+        "p": [
+          "The performers brought diverse skills to the table, with Bai noting she began acting at age six and trained in traditional Chinese martial arts for a decade. Ho drew on her extensive dance training and expressed a desire to take on physically demanding roles in suspense action films.",
+          "Other actors shared varied experiences, including Liu's seven years of taekwondo practice, Ma finding an emotional outlet through acting, and Rosen learning Western fencing while preparing for a project."
+        ]
+      },
+      {
+        "h": "Shifting Away From Familiar Casting",
+        "p": [
+          "When discussing their future goals in the industry, Bai, Ma, and Liu expressed a strong desire to break away from familiar casting types and take on comedy or villain roles.",
+          "The rising stars emphasized the importance of sincerity in performance and supporting fellow cast members during the creative process."
+        ]
+      },
+      {
+        "h": "The 'Be Like Water' Philosophy",
+        "p": [
+          "Offering his perspective on the craft, Chang praised the six performers and urged them to adopt a flexible approach to their work. He noted that actors must be like water, changing their shape to fit whatever vessel they are placed into.",
+          "He also shared advice he received from Ang Lee about reading biographies of people with different personalities to better understand how to inhabit various characters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chang Chen spoke to six rising actors at a Taiwan Creative Content Fest showcase in Taipei, offering advice on navigating different film sets and international productions. The event highlighted nominees and winners from the Golden Horse Awards to connect them with global media and investors."
+        ]
+      }
+    ],
+    "facts": [
+      "Chang Chen is the chair of the Taipei Golden Horse Film Festival Executive Committee.",
+      "Chang Chen won best leading actor last year for 'Lucky Lu'.",
+      "The showcase event was held at the Taiwan Creative Content Fest in Taipei.",
+      "Six rising performers were featured at the showcase.",
+      "Bai Xiao-ying and Ho Man-xi are nominees for Best New Performer for 'Girl' and 'Sunshine Women's Choir'.",
+      "Ma Shih-yuan won Best New Performer last year for 'Left-Handed Girl'.",
+      "Rosen, Jimmy Liu, and Lin Yi-ting were nominated for 'Marching Boys', 'Blind Love', and 'A Dance With Rainbows'."
+    ],
+    "entities": {
+      "people": [
+        "Chang Chen",
+        "Bai Xiao-ying",
+        "Ho Man-xi",
+        "Rosen",
+        "Jimmy Liu",
+        "Ma Shih-yuan",
+        "Lin Yi-ting",
+        "Sue Wang",
+        "Lin Ying-Hsuan",
+        "Ben Leonberg",
+        "Wong Kar-wai",
+        "Hou Hsiao-hsien",
+        "Ang Lee"
+      ],
+      "titles": [
+        "Lucky Lu",
+        "Girl",
+        "Sunshine Women's Choir",
+        "Left-Handed Girl",
+        "Marching Boys",
+        "Blind Love",
+        "A Dance With Rainbows",
+        "Look Out"
+      ]
+    },
+    "keywords": [
+      "Chang Chen",
+      "Taiwan Creative Content Fest",
+      "Golden Horse Awards",
+      "Lucky Lu",
+      "Taiwan Emerging Actors Showcase"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Golden-Horse-showcase-at-TCCF.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Chang Chen Advises Taiwan's Emerging Actors to 'Be Like Water' at TCCF Showcase",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 03:00:25 +0000"
+  },
+  "15013we": {
+    "id": "15013we",
+    "type": "news",
+    "headline": "Salman Khan Announces 11 Rupee Tickets For Senior Citizens For Maatrubhumi",
+    "dek": "Superstar Salman Khan has revealed a special discounted ticket price of 11 rupees for senior citizens during the trailer launch event of his upcoming war-based drama Maatrubhumi.",
+    "body": [
+      {
+        "h": "Special Ticket Offer For Senior Citizens",
+        "p": [
+          "Bollywood superstar Salman Khan has announced a special ticket pricing initiative for his upcoming cinematic project. During the media trailer launch for his war-based film, the actor revealed that senior citizens aged 75 and above will be able to purchase admission tickets for just 11 rupees.",
+          "This exclusive concession is aimed directly at older audiences, allowing them to experience the theatrical release at a minimal cost. The announcement quickly gained attention as a unique promotional gesture for the veteran demographic."
+        ]
+      },
+      {
+        "h": "Trailer Launch And Cast Details",
+        "p": [
+          "The media trailer launch event brought together the principal cast and crew of the project. The film, titled Maatrubhumi, features Salman Khan alongside co-star Chitrangda Singh in prominent roles.",
+          "Helmed by director Apoorva Lakhia, the war drama focuses on themes centered around military service. The initial promotional asset was showcased to media personnel during the gathering."
+        ]
+      },
+      {
+        "h": "Addressing Script Alteration Rumors",
+        "p": [
+          "During the interaction, Salman Khan addressed various speculative reports surrounding the movie. He firmly denied claims that the production faced any external government pressure to alter its original script.",
+          "He clarified that allegations of forced script changes are completely false. According to the actor, the narrative explores the hardships faced by army officers and their families, highlighting difficult situations where soldiers prioritize the nation."
+        ]
+      },
+      {
+        "h": "Reasons Behind The Long Delay",
+        "p": [
+          "The project has experienced a protracted development cycle, remaining stuck in production for an extended period. The leading man shed light on these scheduling setbacks during the press conference.",
+          "He explained that the extended timeline was primarily caused by extensive visual effects work. Because the post-production involving complex VFX required additional time, the release schedule had to be pushed back."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Schedule",
+        "p": [
+          "With production hurdles largely cleared, the film is now officially locked for its theatrical arrival. The makers have scheduled the wide release for December 4.",
+          "While the media received a first look at the promotional footage, the public trailer release on social media platforms is slated to follow in a few days as finishing touches on the VFX continue."
+        ]
+      },
+      {
+        "h": "Box Office Clash With Eetha",
+        "p": [
+          "The early December arrival sets up a notable box office showdown. Maatrubhumi is set to lock horns in theaters against Shraddha Kapoor's film Eetha.",
+          "With the competing feature already enjoying significant pre-release hype and buzz, industry observers are watching to see how Salman Khan's venture performs upon arrival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan announced a special 11 rupee ticket price for citizens aged 75 and above during the trailer launch of his war drama Maatrubhumi. Directed by Apoorva Lakhia and co-starring Chitrangda Singh, the film addresses military struggles, clarifies rumors of script pressure, and is set for a December 4 release alongside Eetha."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan announced 11 rupee tickets for senior citizens aged 75 and above for the film Maatrubhumi.",
+      "The trailer launch event took place on November 6, 2026.",
+      "The film stars Salman Khan and Chitrangda Singh.",
+      "The film is directed by Apoorva Lakhia.",
+      "The release date is set for December 4.",
+      "Maatrubhumi will clash at the box office with Shraddha Kapoor's film Eetha."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Apoorva Lakhia",
+        "Shraddha Kapoor",
+        "Sana Farzeen",
+        "Vinod Singh"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Eetha"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi movie",
+      "Maatrubhumi trailer launch",
+      "Salman Khan 11 rupees ticket",
+      "Apoorva Lakhia Maatrubhumi",
+      "Chitrangda Singh Maatrubhumi"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aedbdc41248b-salman-khan-announces-senior-citizen-offer-for-maatrubhumi-06450756-16x9.jpeg",
+        "caption": "Salman Khan Announces 11 Rupee Tickets For Senior Citizens For Maatrubhumi",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T03:52:21Z"
+  },
+  "1t7s33c": {
+    "id": "1t7s33c",
+    "type": "news",
+    "headline": "Electronic Arts Re-Releasing 25 Classic PC Games Featuring Wing Commander and Ultima",
+    "dek": "In an unexpected shift, EA is bringing back a massive vault of vintage PC titles from Origin Systems and Bullfrog Productions, complete with anniversary editions and long-lost FMV footage.",
+    "body": [
+      {
+        "h": "A Surprising Retro Revival",
+        "p": [
+          "Electronic Arts has stunned the gaming community by announcing a massive re-release initiative encompassing twenty-five decades-old computer games. While the publisher typically focuses heavily on safer, modern juggernauts, this new lineup digs deep into its historical archives to rescue titles that helped define early PC gaming.",
+          "The announcement follows closely on the heels of reports regarding studio co-founder Richard Garriott discussing potential plans to regain control of his classic fantasy role-playing franchise. With multiple classic titles heading back to modern digital storefronts, retro enthusiasts are experiencing an unexpected renaissance."
+        ]
+      },
+      {
+        "h": "The Return of Origin Systems",
+        "p": [
+          "The lion's share of the re-released titles originates from the now-defunct developer Origin Systems. Every single mainline installment in the legendary science-fiction space combat series and the iconic fantasy role-playing series from the 1980s and 1990s is included in the rollout.",
+          "In addition to the core entries, various spin-offs and side games are making their way to digital platforms. Players can once again experience classic simulation elements, tactical campaigns, and expansive open-world fantasy adventures that set the blueprint for modern role-playing games."
+        ]
+      },
+      {
+        "h": "Anniversary Editions and Restored FMV",
+        "p": [
+          "Seven of the classic titles are receiving special anniversary treatment, featuring quality-of-life improvements and restored full-motion video sequences. This overhaul was made possible after the discovery of a physical media vault containing thousands of Betacam, VHS, and D1 tapes filled with historical assets.",
+          "Through careful digitization and re-editing, over one thousand five hundred cinematic scenes that were previously thought to be lost have been successfully recovered. Titles receiving these enhanced versions include select space combat adventures as well as the 1994 live-action motorcycle racing game featuring digitized actors."
+        ]
+      },
+      {
+        "h": "Untouched Classics and Bullfrog Additions",
+        "p": [
+          "Beyond the heavily enhanced anniversary packages, the remaining eighteen games are being re-released in their original, untouched forms. This selection features additional entries from the fantasy series, gritty third-person shooters, and grounded combat flight simulators.",
+          "Also included in the vintage bundle is a beloved management simulation originally crafted by Bullfrog Productions, a studio that closed its doors in 2001. Though the original developer is long gone, its creative DNA lives on through spiritual successors created by former staff members."
+        ]
+      },
+      {
+        "h": "Pricing and Digital Availability",
+        "p": [
+          "The twenty-five retro titles are rolling out across multiple major digital distribution channels, including Steam, GOG, and the publisher's dedicated desktop application. Existing digital owners of certain classic space combat titles are eligible to receive the upgraded anniversary versions as a complimentary patch.",
+          "Initial launch pricing has been set at $9.99 for select titles like the first space combat installment and the motorcycle racing game, while the rest of the catalog will be available for purchase at $4.99."
+        ]
+      },
+      {
+        "h": "Context Within Recent Industry Changes",
+        "p": [
+          "This archival preservation effort arrives during a turbulent period for the parent company, which recently underwent a leveraged buyout resulting in substantial financial debt. In the weeks prior to this software revival, the publisher made headlines by shutting down BioWare and cancelling projects to prioritize massive blockbuster brands.",
+          "Given the recent closure of major development houses, the unexpected resurrection of decades-old computer games signals a fascinating pivot toward heritage preservation. Whether this serves as a precursor to broader franchise revivals remains to be seen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Electronic Arts is bringing back twenty-five classic PC games from developers like Origin Systems and Bullfrog Productions onto digital storefronts. The massive rollout includes enhanced anniversary editions featuring recovered cinematic footage alongside untouched vintage titles."
+        ]
+      }
+    ],
+    "facts": [
+      "EA is re-releasing 25 retro PC games.",
+      "Richard Garriott is the co-founder of Origin Systems.",
+      "The titles are coming to Steam, GOG, and the EA app.",
+      "Road Rash and the first Wing Commander are priced at $9.99.",
+      "The rest of the games will be sold for $4.99."
+    ],
+    "entities": {
+      "people": [
+        "Richard Garriott"
+      ],
+      "titles": [
+        "Wing Commander",
+        "Ultima",
+        "Privateer 2: The Darkening",
+        "Road Rash",
+        "Wing Commander 2: Vengeance Of The Kilrathi",
+        "Wing Commander 3: Heart Of The Tiger",
+        "Wing Commander 4: The Price Of Freedom",
+        "Wing Commander Prophecy",
+        "Wing Commander: Privateer",
+        "Wing Commander: Academy",
+        "Wing Commander: Armada",
+        "Strike Commander",
+        "Theme Hospital",
+        "Crusader: No Remorse",
+        "Crusader: No Regret",
+        "Ultima 1: The First Age Of Darkness",
+        "Ultima 2: The Revenge Of The Enchantress",
+        "Ultima 3: Exodus",
+        "Ultima 4: Quest Of The Avatar",
+        "Ultima 5: Warriors Of Destiny",
+        "Ultima 6: The False Prophet",
+        "Ultima 7: The Complete Edition",
+        "Ultima 8: Gold Edition",
+        "Ultima 9: Ascension",
+        "Ultima Underworld 1",
+        "Ultima Underworld 2",
+        "Two Point Hospital",
+        "Mass Effect",
+        "Star Wars: Battlefront 3"
+      ]
+    },
+    "keywords": [
+      "EA retro PC games",
+      "Wing Commander anniversary edition",
+      "Ultima series re-release",
+      "Origin Systems games Steam"
+    ],
+    "images": [
+      {
+        "url": "https://metro.co.uk/wp-content/uploads/2026/11/SEI_319551074-85e0.jpg?quality=90&strip=all&w=646",
+        "caption": "Electronic Arts Re-Releasing 25 Classic PC Games Featuring Wing Commander and Ultima",
+        "source": "Metro — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T03:52:21Z"
   }
 };
