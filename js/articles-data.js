@@ -79718,5 +79718,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T17:00:00+05:30"
+  },
+  "cztxbg": {
+    "id": "cztxbg",
+    "type": "news",
+    "headline": "The Great Indian Kapil Show Season 5 Episode 7 Brings Zakir Khan, Pankaj Tripathi, and Dr. Vikas Divyakirti Together on Netflix",
+    "dek": "Fans can stream the latest installment of the comedy series on Netflix, featuring special guest appearances, personal anecdotes, and guidance on offline viewing.",
+    "body": [
+      {
+        "h": "Latest Installment Streamed on Netflix",
+        "p": [
+          "The popular comedy series continues to draw audiences with its newest release, bringing fresh entertainment directly to streaming subscribers.",
+          "As viewers tune into the latest instalment, interest has grown regarding official streaming access and portable viewing features."
+        ]
+      },
+      {
+        "h": "Star-Studded Guest Lineup",
+        "p": [
+          "The recent instalment welcomes a diverse group of prominent personalities, including actor Pankaj Tripathi, comedian Zakir Khan, and educator Dr. Vikas Divyakirti.",
+          "Together, the guests engage in an entertaining dialogue filled with humorous anecdotes, personal histories, and meaningful life lessons."
+        ]
+      },
+      {
+        "h": "Unusual Beginnings in the Radio Industry",
+        "p": [
+          "Zakir Khan shares an engaging account of how he carved out a path into the radio profession without holding a traditional college graduation degree.",
+          "Skipping the conventional higher education route after completing Class 12, he instead pursued a specialised course focused on radio."
+        ]
+      },
+      {
+        "h": "Overcoming Educational Hurdles with Diplomas",
+        "p": [
+          "When attempting to secure a position as a Radio Jockey later on, his lack of a conventional degree initially presented a major professional obstacle.",
+          "His senior diploma in Sitar, known as Sangeet Visharad, ultimately rescued his ambitions after a court order recognised specific diplomas as equivalent to degrees."
+        ]
+      },
+      {
+        "h": "Connections to UPSC and OMG 2",
+        "p": [
+          "Pankaj Tripathi reveals that during his earlier days preparing for civil services exams, he frequently listened to audio lectures by Dr. Vikas Divyakirti.",
+          "The pair eventually reconnected during the COVID period before meeting once again as colleagues on the sets of the film OMG 2."
+        ]
+      },
+      {
+        "h": "Casting Discussions for 12th Fail",
+        "p": [
+          "Adding further depth to the conversation, Dr. Divyakirti shares that he originally approached Pankaj Tripathi to portray him in the feature film 12th Fail.",
+          "Ultimately, the educator chose to play the role himself rather than having the prominent Bollywood actor step into the character."
+        ]
+      },
+      {
+        "h": "Celebrating Papa Yaar and Family Values",
+        "p": [
+          "Archana Puran Singh takes a moment to commend Zakir Khan for his acclaimed Netflix special Papa Yaar, highlighting its emotional resonance with audiences.",
+          "With Zakir's parents sitting in the audience, the heartfelt discussion about family experiences earns the performer a standing ovation."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Great Indian Kapil Show Season 5 Episode 7 streams on Netflix featuring guests Pankaj Tripathi, Zakir Khan, and Dr. Vikas Divyakirti. The episode highlights Zakir's unconventional entry into radio, Pankaj's UPSC preparation days, and discussions about the film OMG 2 and 12th Fail."
+        ]
+      }
+    ],
+    "facts": [
+      "The Great Indian Kapil Show Season 5 Episode 7 streams on Netflix.",
+      "Guests appearing on the episode include Pankaj Tripathi, Zakir Khan, and Dr. Vikas Divyakirti.",
+      "Zakir Khan completed a senior diploma in Sitar known as Sangeet Visharad.",
+      "Pankaj Tripathi listened to Dr. Vikas Divyakirti's audio lectures during UPSC preparation.",
+      "Dr. Vikas Divyakirti and Pankaj Tripathi met on the sets of OMG 2.",
+      "Dr. Vikas Divyakirti initially approached Pankaj Tripathi to portray him in 12th Fail.",
+      "Archana Puran Singh praised Zakir Khan's Netflix special Papa Yaar."
+    ],
+    "entities": {
+      "people": [
+        "Zakir Khan",
+        "Pankaj Tripathi",
+        "Dr. Vikas Divyakirti",
+        "Archana Puran Singh",
+        "Kapil Sharma"
+      ],
+      "titles": [
+        "The Great Indian Kapil Show",
+        "OMG 2",
+        "12th Fail",
+        "Papa Yaar"
+      ]
+    },
+    "keywords": [
+      "The Great Indian Kapil Show Season 5",
+      "Zakir Khan Pankaj Tripathi episode",
+      "The Great Indian Kapil Show Episode 7 Netflix",
+      "Dr Vikas Divyakirti Kapil Show"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/thegreatindiankapilshow5zakirkhandownloadd1-84781794057772.jpg",
+        "caption": "The Great Indian Kapil Show Season 5 Episode 7 Brings Zakir Khan, Pankaj Tripathi, and Dr. Vikas Divyakirti Together on ",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 18:56:49 +0530"
+  },
+  "1016ewm": {
+    "id": "1016ewm",
+    "type": "news",
+    "headline": "‘MobLand’ Star Anson Boon Teases Eddie’s Transformation Into a Monster in Season 2 Finale",
+    "dek": "With only two episodes remaining in Season 2, actor Anson Boon breaks down Eddie’s breaking point, his fallout with Maeve and Gina, and what viewers can expect from the final hours.",
+    "body": [
+      {
+        "h": "High Stakes in the Final Episodes",
+        "p": [
+          "As MobLand approaches the conclusion of its second season, the tension within the Harrigan crime family has reached a critical stage. The household is fractured, enemies are closing in from all directions, and Conrad's deteriorating mental state leaves the family without a clear successor to take the reins. While Harry fights to keep everything together, Conrad struggles with hallucinations, and Maeve continues her psychological manipulation of Eddie and Gina.",
+          "Compounding the family's internal strife, Tattersall hints at a potential traitor in their midst by exposing Archie's body at the bottom of the lake. Simultaneously, Mad Dog, the son of the Medusa, is out seeking bloody revenge. With trust eroding and threats mounting on every side, the upcoming episodes promise to be completely unpredictable for the crime syndicate."
+        ]
+      },
+      {
+        "h": "Uncovering the Truth About the Harrigans",
+        "p": [
+          "In a recent interview discussing Episode 8, titled 'We Don't Talk Anymore,' star Anson Boon shed light on the emotional state of his character, Eddie. During a pivotal conversation, Conrad reveals the dark and painful origins of the Harrigan family, explaining that they are not even truly Harrigans. Boon noted that this revelation acts as a major education for Eddie, helping him understand why family members behave so dysfunctionally.",
+          "Despite the grim history, Boon expressed pride in Eddie for showing rare vulnerability. In a world where respect equals power, letting one's guard down is a dangerous move. Having reached rock bottom after being manipulated and cut by Maeve, Eddie finds himself with nothing left to lose, prompting Conrad to offer him unexpected fatherly advice about focusing on future actions."
+        ]
+      },
+      {
+        "h": "Maeve’s Betrayal and the Sauna Confrontation",
+        "p": [
+          "Eddie's troubles are deeply tied to Maeve, who deliberately sent him to Ireland to face off against dangerous adversaries. Realizing he was set up for failure, Eddie recognizes that Maeve cannot be trusted. Bolstered by Conrad's parting words, Eddie attempts to reclaim his confidence and confronts Maeve directly in the sauna, marking a brave moment of standing up to a frightening figure.",
+          "Unfortunately, Maeve manages to turn the tables once again, twisting the narrative to claim that Eddie pursued her. This manipulation completely humiliates him in private. The confrontation highlights the toxic dynamic between the two characters and sets the stage for Eddie's subsequent downward spiral."
+        ]
+      },
+      {
+        "h": "Heartbreak and the Climax of Isolation",
+        "p": [
+          "Following his clash with Maeve, Eddie attempts to make amends with Gina, hoping to admit that she was right about trusting Maeve. However, as he steps out of his bedroom to speak with her, Gina looks him in the eyes and slams the door in his face, leaving him thoroughly rejected. This painful severance leaves Eddie weeping by the edge of the pier in the backyard.",
+          "Adding insult to injury, Kevin can be heard in the living room dragging Eddie's name through the dirt. Because of the house's layout, Eddie likely heard these cruel remarks on his way outside. This sequence of compounding heartbreaks solidifies this chapter as Eddie's absolute lowest point in the entire season."
+        ]
+      },
+      {
+        "h": "Parallels to Classic Romances and Family Loyalty",
+        "p": [
+          "Reflecting on the turbulent dynamic between Gina and Eddie, Boon humorously compared their relationship to Ross and Rachel from Friends. Both characters experience a frustrating emotional disconnect, where one realizes their mistake and tries to reconcile, only for the other to have moved on or closed the door.",
+          "When asked about Eddie's enduring loyalty to the family despite everything, Boon explained the core dichotomy of the Harrigans. While they fiercely protect one another from outside threats, they constantly nip at each other's heels like the dogs depicted in the massive painting above the Cotswold house staircase. Eddie desperately wants to trust his bloodline, but they continually give him reasons not to."
+        ]
+      },
+      {
+        "h": "Looking Ahead to the Season Finale",
+        "p": [
+          "With the season nearing its conclusion, Boon offered a dark tease regarding what comes next for his character. Having suffered betrayal, public humiliation, and profound isolation, Eddie has nowhere to go but up.",
+          "In the final two episodes, audiences may finally witness the emergence of a true monster forged by the cruelty of the people around him. Combined with the looming threat of Mad Dog and the ongoing mystery of the family mole, the conclusion of Season 2 is shaping up to be an explosive ride."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Anson Boon has discussed the dramatic events of MobLand Season 2 Episode 8, detailing Eddie's emotional rock bottom after being manipulated by Maeve and rejected by Gina. Boon teased that the final episodes will reveal whether Eddie ultimately transforms into a monster and how he handles the brewing betrayal within the Harrigan family."
+        ]
+      }
+    ],
+    "facts": [
+      "MobLand is currently airing its second season.",
+      "Episode 8 of Season 2 is titled 'We Don't Talk Anymore'.",
+      "Anson Boon plays the character Eddie.",
+      "Pierce Brosnan plays Conrad.",
+      "Helen Mirren plays Maeve.",
+      "Teddie Allen plays Gina.",
+      "Colin Morgan plays Mad Dog.",
+      "Toby Jones plays Tattersall.",
+      "Alex Jennings plays Archie."
+    ],
+    "entities": {
+      "people": [
+        "Therese Lacson",
+        "Pierce Brosnan",
+        "Tom Hardy",
+        "Helen Mirren",
+        "Anson Boon",
+        "Teddie Allen",
+        "Toby Jones",
+        "Alex Jennings",
+        "Colm Meaney",
+        "Colin Morgan"
+      ],
+      "titles": [
+        "MobLand",
+        "House of the Dragon",
+        "Bridgerton",
+        "Fallout",
+        "9-1-1",
+        "Rivals",
+        "Friends"
+      ]
+    },
+    "keywords": [
+      "MobLand Season 2",
+      "Anson Boon MobLand",
+      "Eddie and Gina MobLand",
+      "MobLand Episode 8"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/mobland-anson-boon.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "‘MobLand’ Star Anson Boon Teases Eddie’s Transformation Into a Monster in Season 2 Finale",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 13:03:12 GMT"
+  },
+  "90oclv": {
+    "id": "90oclv",
+    "type": "news",
+    "headline": "Final Table Episode 5 Release Time Today: When And Where To Watch In India",
+    "dek": "Find out the exact Prime Video streaming time, cast details, and plot highlights for Episode 5 of the hit K-drama series Final Table.",
+    "body": [
+      {
+        "h": "Episode 5 Premiere Details",
+        "p": [
+          "Fans of Korean dramas are tuning in for the fifth installment of Final Table, which arrives today, November 7. As the series progresses, viewers are eager to witness how the plot unfolds and what challenges face the main characters.",
+          "Apart from the unfolding storyline, the talented ensemble has generated significant curiosity among audiences who want to learn more about the actors and the specific characters they bring to life on screen."
+        ]
+      },
+      {
+        "h": "Global And Indian Streaming Schedule",
+        "p": [
+          "Indian enthusiasts of the series can watch the fifth episode online via Prime Video starting at 7:10 PM IST on November 7.",
+          "In its home country of South Korea, the installment broadcasts on JTBC at 10:40 PM KST on the exact same day."
+        ]
+      },
+      {
+        "h": "Plot And Culinary Competition Background",
+        "p": [
+          "The narrative centers around an international cooking competition known as The Table: K-Chef 2026. This high-stakes event gathers talented Korean culinary artists from various parts of the world.",
+          "Beyond the kitchen showdowns, the script delves into the personal challenges, ambitions, interpersonal relationships, and familial conflicts experienced by the participants."
+        ]
+      },
+      {
+        "h": "Lead Characters And Past Rivalries",
+        "p": [
+          "Ahn Hyo-seop stars as Kang Han, a chef who spent years working abroad under the alias Chris K. He conceals his past, speaks multiple languages, and steps up as head chef at Familia.",
+          "Chang Ryul portrays his primary rival, Cha Woo-jin, who leads the kitchen at Exception. The two share a history from a previous international cooking contest, igniting renewed tension during their reunion."
+        ]
+      },
+      {
+        "h": "Corporate Power Struggles",
+        "p": [
+          "The narrative expands beyond culinary arts to include a separate corporate power struggle taking place within Pyeongyeon Group.",
+          "In this subplot, the chairwoman and her half-sister compete for control over the company, adding depth to themes of family ties and second chances."
+        ]
+      },
+      {
+        "h": "Supporting Cast And Expert Chefs",
+        "p": [
+          "Kim Sun-woo takes on the role of Yoo In-seop, a modern Korean restaurant head chef, while Kim Jung-hwan appears as Joshua, leading the American establishment Hush.",
+          "Additional cast members include Lee Yoo-joon as Yang Ja-ryong, Lee Joo-young as royal court cuisine expert Jang Ok-sun, Lee Hyun-kyun as Park Je-hyun, and Hailey as Isabel."
+        ]
+      },
+      {
+        "h": "Broadcast Format And Series Length",
+        "p": [
+          "Directed and written by Kim Do-hoon, the series goes far beyond a standard professional competition. The entire production consists of twelve total episodes.",
+          "The creative team maintains a twice-a-week release format with fresh episodes dropping every Saturday and Sunday, leading up to the final episode scheduled for November 29."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 5 of Final Table premieres on Prime Video in India at 7:10 PM IST on November 7, following an international cooking competition plot starring Ahn Hyo-seop. The twelve-episode K-drama features a twice-weekly release schedule on Saturdays and Sundays, heading toward its finale on November 29."
+        ]
+      }
+    ],
+    "facts": [
+      "Final Table Episode 5 releases on November 7",
+      "Indian fans can stream the episode on Prime Video at 7:10 PM IST",
+      "In South Korea, the episode airs on JTBC at 10:40 PM KST",
+      "The drama consists of 12 episodes in total",
+      "The series is scheduled to conclude on November 29",
+      "Ahn Hyo-seop stars in the lead role as Kang Han",
+      "Chang Ryul plays the rival chef Cha Woo-jin",
+      "The director and writer of the series is Kim Do-hoon"
+    ],
+    "entities": {
+      "people": [
+        "Ahn Hyo-seop",
+        "Chang Ryul",
+        "Kim Do-hoon",
+        "Kim Sun-woo",
+        "Kim Jung-hwan",
+        "Lee Yoo-joon",
+        "Lee Joo-young",
+        "Lee Hyun-kyun",
+        "Hailey"
+      ],
+      "titles": [
+        "Final Table",
+        "The Table: K-Chef 2026"
+      ]
+    },
+    "keywords": [
+      "Final Table",
+      "Ahn Hyo-seop",
+      "Final Table Episode 5",
+      "The Table K-Chef 2026"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/finaltableep1timewhoplayswhatd-76091794056883.jpg",
+        "caption": "Final Table Episode 5 Release Time Today: When And Where To Watch In India",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 18:41:51 +0530"
+  },
+  "14ig6yh": {
+    "id": "14ig6yh",
+    "type": "news",
+    "headline": "The 2026 Korean Grand Music Awards Complete Winners List",
+    "dek": "The Korean Grand Music Awards brought together top artists from across the music industry for a multi-day celebration held in Seoul.",
+    "body": [
+      {
+        "h": "Grand Awards and Top Honors",
+        "p": [
+          "The ceremony highlighted remarkable achievements by honoring several major acts with top Daesang trophies. Young K earned recognition as the Grand Artist, while TREASURE walked away with the Grand Song accolade.",
+          "Additionally, RESCENE and AND2BLE shared the spotlight by capturing the Grand Honor's Choice award, showcasing the broad talent celebrated during the event."
+        ]
+      },
+      {
+        "h": "Recognizing Outstanding Soloists and Groups",
+        "p": [
+          "A wide array of performers received accolades in the Best Artist category, including popular names like BTS, Stray Kids, BLACKPINK, and P1Harmony among others.",
+          "In the solo divisions, DAYOUNG triumphed as Best Solo Female, whereas Young K added another trophy to his collection by winning Best Solo Male."
+        ]
+      },
+      {
+        "h": "Album and Specialty Music Achievements",
+        "p": [
+          "BTS secured the title for Best Selling Album with their release titled ARIRANG, further cementing their massive commercial presence.",
+          "Other musical styles were duly recognized, featuring TREASURE taking home the Best Hip-Hop prize and LUCY winning the award for Best Band."
+        ]
+      },
+      {
+        "h": "Soundtracks and Performance Excellence",
+        "p": [
+          "Young K earned the Best O.S.T. trophy for his contribution titled The Season That Returned, which served as part of the soundtrack for The Wonderfools.",
+          "On the performance front, CRAVITY claimed victories for Best Music Video and Best Stage Male, while FIFTY FIFTY won Best Stage Female and IDID captured Best Dance Performance."
+        ]
+      },
+      {
+        "h": "Rising Stars and Fan-Voted Trophies",
+        "p": [
+          "The event also spotlighted breakout talents, with NouerA winning IS Rookie and TUIDE picking up the IS Rising Star honor.",
+          "Fan engagement played a major role as YUSHI of NCT WISH secured the K-Wave Popularity Award and RESCENE won Berriz Global Fan's Choice alongside the Best Memory award."
+        ]
+      },
+      {
+        "h": "Industry Recognition and Special Honors",
+        "p": [
+          "Behind-the-scenes contributions were celebrated when Josh Lee was named Best Producer for his work with RESCENE.",
+          "International and cultural reach was also acknowledged, with Novelbright receiving the Special For Asia Culture Exchange award and DAYOUNG being named Style Icon."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2026 Korean Grand Music Awards successfully celebrated numerous prominent musical acts and rising stars across multiple categories during its multi-day event in Seoul.",
+          "Major winners included Young K, BTS, and TREASURE, who received top honors and category awards."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 Korean Grand Music Awards took place on November 7 and 8, 2026.",
+      "The event was held at the Gocheok Sky Dome in Seoul.",
+      "Young K won the Grand Artist Award and Best Solo Male.",
+      "TREASURE won the Grand Song Award and Best Hip-Hop.",
+      "BTS won Best Artist and Best Selling Album for ARIRANG."
+    ],
+    "entities": {
+      "people": [
+        "Young K",
+        "DAYOUNG",
+        "YUSHI",
+        "Josh Lee",
+        "Jang Min Ho"
+      ],
+      "titles": [
+        "ARIRANG",
+        "The Season That Returned",
+        "The Wonderfools"
+      ]
+    },
+    "keywords": [
+      "2026 Korean Grand Music Awards",
+      "KGMA winners",
+      "Young K KGMA",
+      "BTS ARIRANG"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/kgmawinners-FI.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1794117600&amp;KeyName=kb&amp;Signature=9J0rzpuncmY1xiJGvN0swA159WY=",
+        "caption": "The 2026 Korean Grand Music Awards Complete Winners List",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 13:03:26 +0000"
   }
 };
