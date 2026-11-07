@@ -303,7 +303,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-06",
       "day": "Day 15",
-      "collection": 16904,
+      "collection": 16693,
       "shows": 175,
       "occupancy": 21.0,
       "tickets": 4848
@@ -1520,7 +1520,7 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-07",
       "day": "Day 24",
-      "collection": 10037,
+      "collection": 12995,
       "shows": 99,
       "occupancy": 27.4,
       "tickets": 9902

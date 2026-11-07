@@ -418,8 +418,8 @@ window.FA_PUBLISHED = {
     "title": "Wild Horse Nine",
     "poster_path": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
     "backdrop_path": "/b17UWf3LqHgKolQkXckne32qv0.jpg",
-    "vote_average": 8.6,
-    "vote_count": 30,
+    "vote_average": 8.327,
+    "vote_count": 49,
     "overview": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone’s trip to this remote paradise sideways.",
     "industry": "world",
     "original_language": "en",
@@ -458,7 +458,7 @@ window.FA_PUBLISHED = {
     "runtime": 117,
     "providers": [],
     "date_kind": "release",
-    "popularity": 46.9578
+    "popularity": 56.3421
   },
   "1453407": {
     "id": 1453407,
@@ -1311,7 +1311,7 @@ window.FA_PUBLISHED = {
     "runtime": 145,
     "providers": [],
     "date_kind": "release",
-    "popularity": 6.2034
+    "popularity": 9.1456
   },
   "1451944": {
     "id": 1451944,
@@ -3770,8 +3770,8 @@ window.FA_PUBLISHED = {
     "title": "Scene",
     "poster_path": "/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg",
     "backdrop_path": "/zYiUafcGC7JqK01GYbkimBYNaUR.jpg",
-    "vote_average": 9.0,
-    "vote_count": 2,
+    "vote_average": 8.8,
+    "vote_count": 4,
     "overview": "Inbaraj, a police officer, is forced to reopen a case he left unfinished years ago. This time, he must solve it with a chaotic and troublesome team. As they struggle to work together and deal with the twists and turns of the case, the investigation takes them on a chaotic and unpredictable ride.",
     "industry": "bollywood",
     "original_language": "ta",
@@ -3787,9 +3787,10 @@ window.FA_PUBLISHED = {
     "budget": 2421932,
     "revenue": 0,
     "genres": [
-      "Action",
       "Comedy",
-      "Crime"
+      "Crime",
+      "Romance",
+      "Action"
     ],
     "tagline": "",
     "status": "Released",
@@ -3804,7 +3805,7 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 149,
     "providers": [],
-    "popularity": 7.9219
+    "popularity": 24.8329
   },
   "1081010": {
     "id": 1081010,
@@ -4362,7 +4363,7 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 144,
     "providers": [],
-    "popularity": 5.3855
+    "popularity": 15.618
   },
   "1355228": {
     "id": 1355228,
@@ -8607,8 +8608,8 @@ window.FA_PUBLISHED = {
     "title": "Et si on en parlait ?",
     "poster_path": "/hT6yx16RRzVKYbbCc8gRIoozWWz.jpg",
     "backdrop_path": "/pMDI467mOsTNT0uaMKyZRAea1z1.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 6.0,
+    "vote_count": 1,
     "overview": "",
     "industry": "world",
     "popularity": 0.894,
@@ -8769,7 +8770,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Can the sea wash everything away? Huellas reconstructs the circuit of state terrorism in Mar del Plata, 50 years after the civic-military coup. Through the testimonies of survivors, family members and specialists, the documentary probes the indelible marks left by repression and the resilience of a community that demands memory. Because history never ends, it is written.",
     "industry": "world",
-    "popularity": 1.3955,
+    "popularity": 1.2712,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -8886,7 +8887,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Bamakhyapa, an Indian saint living in the 18th century, is a great devotee of Goddess Tara. Though he is against the unconventional orthodox temple practices, he uses his divine powers to help the needy.",
     "industry": "bollywood",
-    "popularity": 0.4809,
+    "popularity": 0.4787,
     "original_language": "bn",
     "origin_country": [],
     "trailer": null,
@@ -8923,7 +8924,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Andrés is a veteran of the Malvinas War. He works at the family transportation company. News arrives that the EAAF?the Argentine Forensic Anthropology Team?has identified the remains of his friend Damián, who fell in battle. He has started smoking again. A delegation is being organized to travel to the Islands and attend the ceremony. An old pang of guilt torments him: when Damián fell, he was a few meters behind him, firing his weapon. He always knew it wasn?t him, but the specter of friendly fire casts a shadow over his memory.",
     "industry": "world",
-    "popularity": 4.5308,
+    "popularity": 4.2881,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -8961,7 +8962,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An intimate documentary about Diego Armando Maradona, told from a unique perspective: through the eyes of someone who quietly stood by his side, capturing moments the world had never seen. Through exclusive photos and private videos, the film reveals Diego beyond the stadium and the myth, showing his most human side. For years, Jorge Luengo witnessed defining and everyday moments of Maradona?s life.",
     "industry": "world",
-    "popularity": 1.3013,
+    "popularity": 1.2969,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -9001,7 +9002,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Leonora is an overwhelmed mother of two young girls and an architect whose career has been put on hold. While her husband works all day, she carries the weight of raising their children and the quiet feeling that she has lost herself somewhere along the way. One afternoon, in the middle of her daughter?s birthday party, she drives away, leaving behind the noise and contradictions of motherhood.",
     "industry": "world",
-    "popularity": 1.4956,
+    "popularity": 1.3953,
     "original_language": "es",
     "origin_country": [
       "CO",
@@ -9041,7 +9042,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Through interviews with its creators, footage of rehearsals, and scenes from performances in the main auditorium of the Teatro Nacional Cervantes, the film chronicles the development of a show that pays tribute to a century-old Argentine musical tradition: La Revista.",
     "industry": "world",
-    "popularity": 1.0059,
+    "popularity": 1.1904,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -9081,7 +9082,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A disgruntled Big City detective hunts down his prime suspect in a city known for nothing good.",
     "industry": "world",
-    "popularity": 0.2496,
+    "popularity": 0.2301,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -9158,7 +9159,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.8516,
+    "popularity": 0.7397,
     "original_language": "pt",
     "origin_country": [
       "BR"
@@ -9196,7 +9197,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "From conception to construction, a dream home is built.",
     "industry": "world",
-    "popularity": 0.2718,
+    "popularity": 0.203,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -9234,7 +9235,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5293,
+    "popularity": 0.3822,
     "original_language": "es",
     "origin_country": [
       "PE"
@@ -9275,7 +9276,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two filmmakers propose to Cristián Sánchez, a cult Chilean director, to make a film. The condition is that he resurrects the characters of his classic works, but in the form of zombies. He fights to protect his artistic principles but ends up trapped in his own film.",
     "industry": "world",
-    "popularity": 1.8102,
+    "popularity": 1.4088,
     "original_language": "es",
     "origin_country": [
       "CL"
@@ -11005,7 +11006,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?",
     "industry": "pakistani",
-    "popularity": 1.329,
+    "popularity": 1.0855,
     "original_language": "ur",
     "origin_country": [
       "PK"
@@ -11161,7 +11162,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.2091,
+    "popularity": 0.1718,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -11197,7 +11198,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A documentary reminiscing on the 70 years history of a beloved cinema in Padua.",
     "industry": "world",
-    "popularity": 0.3496,
+    "popularity": 0.2916,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -11235,7 +11236,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "All but resigned to being trapped on the ground by an illness that makes orientation in flight impossible, a pigeon finds refuge in the home of Maruja, a lonely old woman determined to help the bird return to the sky.",
     "industry": "world",
-    "popularity": 0.8476,
+    "popularity": 0.672,
     "original_language": "es",
     "origin_country": [
       "ES"
@@ -11310,7 +11311,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "As a strange red lichen spreads across the countryside, Geryon confronts the emergence of sexual desire and an animal metamorphosis that drives him to flee into the mountains.",
     "industry": "world",
-    "popularity": 0.4928,
+    "popularity": 0.4311,
     "original_language": "es",
     "origin_country": [
       "CO"
@@ -11387,7 +11388,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Retired Lao Cao and Xiao Lai, two old men, sit on opposite sides of a drinking table under an arcade in Taipei. They toast and talk nonsense like this every day, and they have done it for more than thirty years. A young director who meant only to watch somehow ends up at the table too, spending many absurd and moving nights with them. Years pass. Someone leaves, someone falls ill, and some relationships are repaired and then break again. The two men are old, they are nearly done with drink, and they no longer see each other often.",
     "industry": "world",
-    "popularity": 0.6965,
+    "popularity": 0.726,
     "original_language": "zh",
     "origin_country": [
       "TW"
@@ -11472,7 +11473,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Where does the Ukrainian road home begin and where does it end? The poetic journey follows a Ukrainian actress, Yelyzaveta, who emigrated to Lithuania, traveling back to her homeland country ravaged by war. Will we reach the final destination? How to reach home? Relatives? How to get back to the past which no longer exists? Can we wake up from the dream?",
     "industry": "world",
-    "popularity": 1.6501,
+    "popularity": 1.1537,
     "original_language": "lt",
     "origin_country": [
       "LT"
@@ -13334,7 +13335,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Olivia, a struggling actor, is forced into the biggest audition of her career with the last director she'd ever work for. Her whole life is turned upside down when she is pushed to her limits for this pretentious director's masterpiece.",
     "industry": "world",
-    "popularity": 0.2135,
+    "popularity": 0.8655,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -13352,7 +13353,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "An Aspiring Actress, An Emerging Director, A Loyal Crew",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "en"
@@ -13414,7 +13415,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Jazmín is excited: this afternoon she will have her first date in years. Filled with a nervous energy, she wonders what the day will bring – but as the minutes roll by, things do not turn out the way she had hoped…",
     "industry": "world",
-    "popularity": 0.1359,
+    "popularity": 0.7168,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -13429,7 +13430,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es",
@@ -13451,7 +13452,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0,
+    "popularity": 0.9786,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -13468,7 +13469,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -13491,7 +13492,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.4076,
+    "popularity": 0.337,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -13508,7 +13509,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -13527,7 +13528,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An ambitious office worker suspects her boss’s mysterious illness may be contagious. With a promotion within reach, she faces a choice between professional advancement and the person she wants to remain.",
     "industry": "world",
-    "popularity": 0.4852,
+    "popularity": 2.9945,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -13545,7 +13546,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "Work is a disease.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "US"
     ],
@@ -13568,7 +13569,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Nestled in the middle of a secluded valley and surrounded by green meadows and rivers, an imposing mass of snow and rock rises abruptly. The adventurous Lord Cliffrider hopes to be the first to achieve the summit of his longed-for mountain, but as time passes, this dream vanishes like the smoke from his pipe. This is a silent stop-motion film about the ambitions of a climber to reach the top.",
     "industry": "world",
-    "popularity": 0.4414,
+    "popularity": 0.1359,
     "original_language": "en",
     "origin_country": [
       "ES"
@@ -13585,7 +13586,7 @@ window.FA_PUBLISHED = {
       "Animation"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "ES"
     ],
@@ -13606,7 +13607,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.9562,
+    "popularity": 1.9034,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -13623,7 +13624,7 @@ window.FA_PUBLISHED = {
       "Crime"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -13642,7 +13643,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "High-achieving teenager Pärli feels like a mountain range: cold below the knees and hot in her hands. She compares parts of her body to different seasons and playfully envies a dancing grasshopper's movements. If not a ballerina, she imagines being a violinist or lion tamer. Aspiring Black Swan Maarja took up ballet at her parents' urging, though she preferred hip-hop. Ballet lecturer and horse rider Irina teaches students to appreciate the technically perfect ballet body, yet struggles to find joy and tends to censor everything, even as she resists strict control. All three strive for perfection in life and on the dance floor. Ballet offers escape into a magical world but demands patience. Dancers repeat exercises and rehearse for hours, seeking precision despite pain, fatigue or waning motivation. Each movement takes time to master, perhaps only to satisfy a mother's high expectations.",
     "industry": "world",
-    "popularity": 0.4486,
+    "popularity": 1.0895,
     "original_language": "et",
     "origin_country": [
       "EE"
@@ -13659,7 +13660,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "EE"
     ],
@@ -13682,7 +13683,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5396,
+    "popularity": 0.4288,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -13699,7 +13700,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "IT"
     ],
@@ -13718,9 +13719,9 @@ window.FA_PUBLISHED = {
     "backdrop_path": "/ri6QS89IEJra3UMYFh2nThYXM2T.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
-    "overview": "In a small country Bovannia, government architecture goes under severe changes within period of 20 years......But.....what does it really change?",
+    "overview": "Filmed inside GTA: SA following the plot of a country named Bovannia, undergoing change in it's government continuously, but what is the change that really happens?",
     "industry": "bollywood",
-    "popularity": 0.5734,
+    "popularity": 0.2731,
     "original_language": "en",
     "origin_country": [
       "IN"
@@ -13736,8 +13737,8 @@ window.FA_PUBLISHED = {
     "genres": [
       "War"
     ],
-    "tagline": "Order is disorder",
-    "status": "Planned",
+    "tagline": "Order creates disorder",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "ru"
@@ -13758,7 +13759,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.6266,
+    "popularity": 0.6358,
     "original_language": "ja",
     "origin_country": [
       "JP"
@@ -13776,7 +13777,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "JP"
     ],
@@ -13799,7 +13800,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "With another summer drawing to a close in a province of Northern Italy, Edoardo fights to regain control of a youth that feels far too small for him. When an online site appears to truly get him, offering a way to fill his emptiness, Edo seizes the chance to break free from the suffocating fear of never being enough.",
     "industry": "world",
-    "popularity": 0.8988,
+    "popularity": 4.1021,
     "original_language": "it",
     "origin_country": [
       "IT"
@@ -13817,7 +13818,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "They'll never know the difference.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "it"
@@ -13838,7 +13839,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Saturday Night SuperFight marks MLW’s return to pay-per-view for the first time in seven years and represents the biggest premium live event on the league’s 2026 calendar.",
     "industry": "world",
-    "popularity": 0.5821,
+    "popularity": 0.3312,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -13853,7 +13854,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -13917,7 +13918,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An adrenaline-fuelled, indie heist thriller following an architect caught in the dangerous web of a ruthless mob boss. Forced to orchestrate the ultimate heist, he assembles a crew of four elite thieves for a high-stakes operation: infiltrating a heavily guarded London casino to steal the multi-million-pound \"Chameleon Diamond.\"",
     "industry": "world",
-    "popularity": 0.7001,
+    "popularity": 0.2081,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -13934,7 +13935,7 @@ window.FA_PUBLISHED = {
       "Thriller"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -13953,7 +13954,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A lovesick film director visits his ex-girlfriend in her small Hungarian hometown, hopeful of winning her back.",
     "industry": "world",
-    "popularity": 0.5083,
+    "popularity": 0.1535,
     "original_language": "en",
     "origin_country": [
       "GB",
@@ -13971,7 +13972,7 @@ window.FA_PUBLISHED = {
       "Romance"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -13990,7 +13991,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Sebastián was born with spasticity. Living with that discomfort, he films his life: his loves, friends, children and family. But as the years go by, the pain in his body becomes too much to bear, and the idea of risky brain surgery that could change him forever takes hold. Is that what he really wants? Is he ready to become someone else?",
     "industry": "world",
-    "popularity": 2.3629,
+    "popularity": 1.3782,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -14007,7 +14008,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -14030,7 +14031,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.5022,
+    "popularity": 0.2369,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -14047,7 +14048,7 @@ window.FA_PUBLISHED = {
       "Animation"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "KR"
     ],
@@ -15900,7 +15901,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.4597,
+    "popularity": 0.092,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -15915,7 +15916,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "KR"
     ],
@@ -28443,7 +28444,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An astrologer with psychic gifts ventures into a haunted forest to stop a secretive ancient order from sacrificing the woman he once loved.",
     "industry": "bollywood",
-    "popularity": 0.3105,
+    "popularity": 3.2691,
     "original_language": "hi",
     "origin_country": [
       "IN"
@@ -28471,7 +28472,7 @@ window.FA_PUBLISHED = {
     "seasons": [
       {
         "season_number": 1,
-        "episode_count": 1,
+        "episode_count": 6,
         "air_date": "2026-11-06",
         "name": "Season 1"
       }
@@ -30166,6 +30167,836 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-13",
     "date_kind": "release",
     "runtime": 10,
+    "providers": []
+  },
+  "1493572": {
+    "id": 1493572,
+    "type": "movie",
+    "title": "Parivarik ManuRanjan",
+    "poster_path": "/kPBZWFsw5R5m1aoL2VDJUpQDyes.jpg",
+    "backdrop_path": "/9j9DtcTGSSZJVrimys2emN5kVh3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 1.7234,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1819575": {
+    "id": 1819575,
+    "type": "movie",
+    "title": "Human.ID",
+    "poster_path": "/xElwrwBtulYIeIoyaXT5oi339Ks.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Human Identity is a 5-minute extended reality (XR) project that plunges viewers into a near-future digital ecosystem question, and redefine the boundaries of human identity and consciousness.",
+    "industry": "world",
+    "popularity": 0.5628,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 5,
+    "providers": []
+  },
+  "1781485": {
+    "id": 1781485,
+    "type": "movie",
+    "title": "Little Genes",
+    "poster_path": "/jVjIChxZjx15MXJ0mS171WS1qL3.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 1987, on a weekend camping trip in Utah's beautiful Wasatch Mountains, fourteen-year-old Arlo Murphy is eager to prove he can be a world explorer scout like his Dad, while his parents grapple with Arlo's gender identity.",
+    "industry": "world",
+    "popularity": 4.2963,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-07",
+    "date_kind": "festival",
+    "runtime": 16,
+    "providers": []
+  },
+  "303044": {
+    "id": 303044,
+    "type": "tv",
+    "title": "Campus Drivers",
+    "poster_path": "/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+    "backdrop_path": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+    "vote_average": 7.8,
+    "vote_count": 7,
+    "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+    "industry": "world",
+    "popularity": 93.5108,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": {
+      "key": "xybsbjGt1KA",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-11-06",
+    "networks": [
+      "Prime Video"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "Prime Video",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-11-06",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Thomas Boullé"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1636756": {
+    "id": 1636756,
+    "type": "movie",
+    "title": "Mrigaya 1.5: The Hunt Continues",
+    "poster_path": "/zExGyNxLwMrZJ1tqSVjVLRuEPLi.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Officer-in-Charge Debanjan Dutta of the Kolkata Police and his team face mounting danger while investigating a gruesome crime that shakes their neighborhood. As twists derail the probe, a ruthless gang spreads chaos across the city. With tensions rising and violence erupting, the hunt intensifies.",
+    "industry": "bollywood",
+    "popularity": 1.9314,
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "bn"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1818971": {
+    "id": 1818971,
+    "type": "movie",
+    "title": "Contrition",
+    "poster_path": "/gvHm53N6dIPPfXNpczupK90HQZR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Based on a true story. Damien, a man in his 40s, is haunted by a traumatic childhood event—A violent IRA hostage situation he can't shake. After years of searching, he finally tracks down Brendan, one of the masked men responsible, who is now masquerading as a priest.  Driven by a mix of anger and a desperate need for closure, Damien arrives at Brendan's church, filled with unresolved pain. As the two confront their shared past, the tension escalates, revealing the complex web of guilt, remorse, and the possibility of forgiveness.",
+    "industry": "world",
+    "popularity": 0.3183,
+    "original_language": "en",
+    "origin_country": [
+      "GB",
+      "XI"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "XI",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 14,
+    "providers": []
+  },
+  "1778721": {
+    "id": 1778721,
+    "type": "movie",
+    "title": "Panch Pandav",
+    "poster_path": "/mlQHcVkFFeybFNKB6xFItFkirwL.jpg",
+    "backdrop_path": "/46OQvLoCogZcdnCQmOqW7uQEofY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Spanning from the Dwapara Yuga to the present Kali Yuga, Yudhishthira searches for his family in Nepal, where he confronts injustice, corruption, and oppression in a modern-day battle between righteousness and evil.",
+    "industry": "world",
+    "popularity": 2.374,
+    "original_language": "ne",
+    "origin_country": [
+      "NP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "ne"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 137,
+    "providers": []
+  },
+  "1818879": {
+    "id": 1818879,
+    "type": "movie",
+    "title": "The Voicenote",
+    "poster_path": "/skHWMXbMKWdbSQRAiIJDY5pNgfB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A woman sends a voicenote to a friend she has been meaning to reach out to. As we follow the journey of the message, we see her friend descending into crisis. We can only hope that she gets the message before it's too late, be it this world or the next.",
+    "industry": "world",
+    "popularity": 0.2015,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 12,
+    "providers": []
+  },
+  "1817773": {
+    "id": 1817773,
+    "type": "movie",
+    "title": "High End: The Watch Theft Ring",
+    "poster_path": "/xd6c6evoWm6NHIjMlC7Y357crxf.jpg",
+    "backdrop_path": "/b96GsO1Bnh0XMWHiCKRfguvPNpy.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "Investigates Chile's high-profile Caso Relojes (\"Watch Case\") scandal, in which a suitcase full of smuggled luxury watches and jewelry unmasked an illicit underground network, connecting criminal elements to Chile's social elite.",
+    "industry": "world",
+    "popularity": 4.5599,
+    "original_language": "es",
+    "origin_country": [
+      "CL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1815399": {
+    "id": 1815399,
+    "type": "movie",
+    "title": "Songs of the Quickdraw Animation Society",
+    "poster_path": "/zcOtKDZyopBldm0mqCzDG81CHS0.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The Quickdraw Animation Society stands tenaciously and single-mindedly for the notion that animation is an art form and that animation should be practised and taught as an art. It continues to act as an irresistible magnet for people with passion and it continues to craft an atmosphere that converts that passion into getting good stuff done. This feature-length documentary marks the 40th anniversary of the place where that good stuff gets done, investigating how the society kept going making and celebrating the art of animation. The story is told through archive footage, film and video clips, and old and new interviews of QAS members.",
+    "industry": "world",
+    "popularity": 0.1276,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "festival",
+    "runtime": 135,
+    "providers": []
+  },
+  "1618188": {
+    "id": 1618188,
+    "type": "movie",
+    "title": "GJLS: Berapi-Api",
+    "poster_path": "/5UmjjDLFpLnhIKDxqeH9KMY7cT6.jpg",
+    "backdrop_path": "/fT4wkJn6Wtxq6UmIfaHC0hkk76t.jpg",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "overview": "Three best friends are obsessed with becoming firefighters so they can look heroic by putting out fires. However, after failing during their training with the legendary Algojo Api squad, the three find themselves stuck doing seemingly “trivial” assignments. When they attempt to take a shortcut to join the firefighting team as soon as possible, they instead find themselves caught up in a dangerous mission to rescue children from a criminal syndicate.",
+    "industry": "world",
+    "popularity": 2.5945,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 108,
+    "providers": []
+  },
+  "1814621": {
+    "id": 1814621,
+    "type": "movie",
+    "title": "The 16th Goddesses of Stardom Tag League Tournament in Matsuyama-Ehime",
+    "poster_path": "/o3CcLht55916GiMLtTiSa09Rb27.jpg",
+    "backdrop_path": "/4YQRfNkcFYvS7J9RJVFTSG9CRXG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The full schedule for the 16th Goddesses of Stardom Tag League Tournament, which kicks off on Sunday, November 1st at Korakuen Hall in Tokyo, has been decided. This tournament will be divided into two blocks, Red Goddesses and Blue Goddesses, with 9 teams in each block, for a total of 18 teams. A total of 72 official matches will be held until Saturday, November 28th at the Okazaki City Gymnasium in Aichi. The top two teams from each block will advance to the final tournament.",
+    "industry": "world",
+    "popularity": 0.2656,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1447206": {
+    "id": 1447206,
+    "type": "movie",
+    "title": "Ghost Song",
+    "poster_path": "/iSNeCZoujlT9Mh0boHS9GyR6fEX.jpg",
+    "backdrop_path": "/4M9osi8FJTc7dPGLFQlPPlGAVED.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Farasha and Faris are 20 when they meet at a graduation party – one glance that changes everything. But Farasha dies that very same night. Refusing to be separated from him, she discovers a way to cross the boundary between worlds: for 40 nights, and 40 nights only, she can meet Faris in his dreams. And so their love continues to grow, until the very last night.",
+    "industry": "world",
+    "popularity": 2.3113,
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "trailer": {
+      "key": "p5e3nN2CTd0",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 106,
+    "providers": []
+  },
+  "1814520": {
+    "id": 1814520,
+    "type": "movie",
+    "title": "La Muerte te Vio Volver",
+    "poster_path": "/jjQGbvNFVwPHOhLafkS4lBba7q7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After thirty years, Silvia returns to Chiloé to claim an inheritance from her dying mother. There, she reconnects with her sister and a past marked by abandonment and violence. Her mother’s final wishes lead them to embark together on a journey back to the land where she was born.",
+    "industry": "world",
+    "popularity": 0.3786,
+    "original_language": "es",
+    "origin_country": [
+      "CL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CL",
+      "FR"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "festival",
+    "runtime": 104,
+    "providers": []
+  },
+  "1578318": {
+    "id": 1578318,
+    "type": "movie",
+    "title": "Santa's Workshop",
+    "poster_path": "/zfredju0Nk5pyaLpbD4SJ7dYAmw.jpg",
+    "backdrop_path": "/lbyjdDpuesAaYoOxs8f2v8UpUKW.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Nine-year-old Mari is really looking forward to Christmas. Her journalist dad, Svein, on the other hand, loves his job so much, he barely notices the festive season. One night, Mari’s Christmas list vanishes – and in its place lies a mysterious mitten. The mitten sends Mari, Svein and her adventurous grandma on an exciting quest to find Santa Claus. Meanwhile, Stubby the Wishlist Elf is in a panic — he’s lost his mitten, which might just lead this curious family straight to the secret location of Santa’s workshop! He must stop them before it’s too late!",
+    "industry": "world",
+    "popularity": 2.1888,
+    "original_language": "no",
+    "origin_country": [
+      "NO"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Family",
+      "Animation"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "no"
+    ],
+    "certification": "V",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 75,
+    "providers": []
+  },
+  "1814381": {
+    "id": 1814381,
+    "type": "movie",
+    "title": "ทิวลิบไม่เคยไกล: การเดินทางของ กิตติศักดิ์ สุวรรณโภคิน",
+    "poster_path": "/woQiiMEpzBy6LWnLfBI0ApnoG69.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1979,
+    "original_language": "th",
+    "origin_country": [
+      "TH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "TH"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "festival",
+    "runtime": 0,
+    "providers": []
+  },
+  "1480158": {
+    "id": 1480158,
+    "type": "movie",
+    "title": "Terrell & T.O.",
+    "poster_path": "/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+    "backdrop_path": "/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This feature-length documentary traces the meteoric rise of one of the most talented, accomplished, and polarizing athletes of America's most popular sport and examines his role as the preeminent \"prima donna\" wide receiver of his era, while catching up with Owens in present-day to see how he is evolving and discovering a new personal path forward.",
+    "industry": "world",
+    "popularity": 2.934,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NC16",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 103,
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1812386": {
+    "id": 1812386,
+    "type": "movie",
+    "title": "向阳青春",
+    "poster_path": "/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
+    "backdrop_path": "/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.6852,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1637577": {
+    "id": 1637577,
+    "type": "movie",
+    "title": "Never Dies",
+    "poster_path": "/8ErJ8LI5HDEktGsOTaak51V6iiU.jpg",
+    "backdrop_path": "/vP5DmgPo9eVB8K4jnJh2dMb3EFZ.jpg",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "overview": "Amidst imminent financial ruin, a debt-ridden man experiences profound relief upon discovering his estranged late father’s substantial life insurance policy—only to be thrown into an absurd moral crisis when the patriarch unexpectedly resuscitates inside the hearse en route to the funeral home.",
+    "industry": "world",
+    "popularity": 2.5773,
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "trailer": {
+      "key": "1qc9k_ubAMk",
+      "name": "GAK ADA MATINYA - OFFICIAL TRAILER",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "certification": "13+",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 121,
+    "providers": []
+  },
+  "1807502": {
+    "id": 1807502,
+    "type": "movie",
+    "title": "Meguru Sekai, Meguru Kotoba",
+    "poster_path": "/oPAnu2PEIesBTTuYJ0Ws61orzQ5.jpg",
+    "backdrop_path": "/aYdYNRJbjPcL7VM2Oss2Jfo3IVd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.814,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-07",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-14",
+    "date_kind": "release",
+    "runtime": 0,
     "providers": []
   }
 };

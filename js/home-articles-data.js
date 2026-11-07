@@ -34,6 +34,144 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 07 Nov 2026 10:10:58 +0200"
   },
+  "1ccjy40": {
+    "id": "1ccjy40",
+    "type": "news",
+    "headline": "Silambarasan and Vetri Maaran's Arasan Promo Pushed to December",
+    "dek": "The highly anticipated theatrical teaser for the upcoming Tamil feature has been delayed from its initial Diwali schedule to ensure composer Anirudh Ravichander can deliver an original score.",
+    "entities": {
+      "people": [
+        "Simbu",
+        "Silambarasan TR",
+        "Anirudh Ravichander",
+        "Vetri Maaran",
+        "Priyanka Mohan",
+        "Andrea Jeremiah",
+        "Samuthirakani",
+        "Kishore",
+        "Kalaipuli S Thanu",
+        "Vijay Sethupathi"
+      ],
+      "titles": [
+        "Arasan",
+        "Vada Chennai",
+        "Train"
+      ]
+    },
+    "keywords": [
+      "Arasan promo",
+      "Simbu Arasan December 4",
+      "Vetri Maaran Arasan movie",
+      "Anirudh Ravichander background score",
+      "Silambarasan Arasan release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/arasan-promo-070211135-16x9_0.jpeg?VersionId=uNMNWlBzx5Fyir4AzYbHB.O7be9OyDWg",
+        "caption": "Silambarasan and Vetri Maaran's Arasan Promo Pushed to December",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 11:33:17 +0530"
+  },
+  "ka38os": {
+    "id": "ka38os",
+    "type": "news",
+    "headline": "House Of The Dragon Returns November 19 In Special Mobile Game Event",
+    "dek": "Popular mobile title Game of Thrones: Legends is hosting a limited-time House of the Dragon crossover event featuring rare champions and quests.",
+    "entities": {
+      "people": [
+        "Tom Wilson",
+        "Ormund Hightower",
+        "Rhaenyra Targaryen",
+        "Aegon II Targaryen",
+        "Sunfyre",
+        "Viserys I Targaryen",
+        "Tyland Lannister",
+        "Olenna Tyrell",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Callum Turner"
+      ],
+      "titles": [
+        "House of the Dragon",
+        "Game of Thrones",
+        "Game of Thrones: Legends",
+        "Game of Thrones: Dragonfire",
+        "Game of Thrones Conquest: The Cold The Dark",
+        "Game of Thrones: Children Of The Forest"
+      ]
+    },
+    "keywords": [
+      "House of the Dragon",
+      "Game of Thrones Legends",
+      "Rhaenyra Targaryen",
+      "Zynga mobile game"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/emma-d-arcy-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "House Of The Dragon Returns November 19 In Special Mobile Game Event",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 06:00:18 GMT"
+  },
+  "1n5g74t": {
+    "id": "1n5g74t",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 2: Ranbir Kapoor, Sai Pallavi, Yash Film Overtakes Adipurush At Over ₹221 Crore",
+    "dek": "Nitesh Tiwari's directorial venture Ramayana Part 1 crossed ₹221 crore worldwide by its second day in theatres, outpacing Adipurush despite a lower opening day collection.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Om Raut",
+        "Prabhas",
+        "Kriti Sanon",
+        "Saif Ali Khan",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Sunny Deol",
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "Sandeep Reddy Vanga",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush",
+        "Dhurandhar: The Revenge",
+        "Animal",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana worldwide box office collection",
+      "Ranbir Kapoor Sai Pallavi Yash Ramayana",
+      "Ramayana day 2 collection",
+      "Nitesh Tiwari Ramayana Part 1"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Ramayana_day_2_bo_1794025721376_3gY9_1794025754971_9vVO_fa714fb0-d34f-4bba-8c61-277efd07d4f3_KLHI.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 2: Ranbir Kapoor, Sai Pallavi, Yash Film Overtakes Adipurush At Over ₹221 C",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 10:56:42 +0530"
+  },
   "17yhrsz": {
     "id": "17yhrsz",
     "type": "news",
@@ -64,6 +202,47 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-07T05:13:49Z"
+  },
+  "1a21rya": {
+    "id": "1a21rya",
+    "type": "news",
+    "headline": "Hold Onto Me Makes History as Cyprus Claims Its First-Ever Oscar Submission",
+    "dek": "Writer-director Myrsini Aristidou reflects on her feature debut, a poignant father-daughter drama that has broken new ground for Cypriot cinema following its Sundance success.",
+    "entities": {
+      "people": [
+        "Myrsini Aristidou",
+        "Maria Petrova",
+        "Christos Passalis",
+        "Lasse Ulvedal Tolbøll",
+        "Jenna Mangulad",
+        "Monica Nicolaidou",
+        "Thomas J. Mangan IV",
+        "Mark Hollinger",
+        "Anders N.U. Berg",
+        "Konstantina Stavrianou",
+        "Rena Vougioukalou"
+      ],
+      "titles": [
+        "Hold Onto Me",
+        "Dogtooth",
+        "Semele",
+        "Aria"
+      ]
+    },
+    "keywords": [
+      "Hold Onto Me film",
+      "Myrsini Aristidou",
+      "Cyprus Oscar submission",
+      "Maria Petrova Christos Passalis"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hold-Onto-Me-film-still-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Hold Onto Me Makes History as Cyprus Claims Its First-Ever Oscar Submission",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 05:00:00 +0000"
   },
   "1h2t2if": {
     "id": "1h2t2if",
@@ -4540,178 +4719,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 06 Nov 2026 00:07:16 +0000"
-  },
-  "1gthehc": {
-    "id": "1gthehc",
-    "type": "news",
-    "headline": "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Investigations",
-    "dek": "The long-running reality television program has been permanently axed by Channel 4 alongside its planned spinoffs following alarming reports brought to light by BBC Panorama.",
-    "entities": {
-      "people": [
-        "Matt Murray",
-        "Whitney Hughes",
-        "Priya Dogra"
-      ],
-      "titles": [
-        "Married at First Sight U.K.",
-        "Second Married at First Sight"
-      ]
-    },
-    "keywords": [
-      "Married at First Sight UK",
-      "Channel 4 Married at First Sight",
-      "Second Married at First Sight",
-      "Matt Murray Whitney Hughes"
-    ],
-    "images": [
-      {
-        "url": "https://pyxis.nymag.com/v1/imgs/52c/a89/d174439a775540b895b363e70692804f07-marriedatfirstsight.1x.rsocial.w1200.jpg",
-        "caption": "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Investigations",
-        "source": "Vulture"
-      }
-    ],
-    "published": "2026-11-06T00:01:21.052Z"
-  },
-  "13kv3pl": {
-    "id": "13kv3pl",
-    "type": "news",
-    "headline": "Prime Video Unveils First Look Teaser for Adaptations of Graphic Novels in Criminal",
-    "dek": "An interlocking universe of crime stories arrives on Prime Video in January 2027, featuring an ensemble cast led by Charlie Hunnam, Adria Arjona, and Emilia Clarke.",
-    "entities": {
-      "people": [
-        "Adria Arjona",
-        "Emilia Clarke",
-        "Ed Brubaker",
-        "Sean Phillips",
-        "Charlie Hunnam",
-        "Luke Evans",
-        "Richard Jenkins",
-        "Kadeem Hardison",
-        "Gus Halper",
-        "John Hawkes",
-        "Logan Browning",
-        "Michael Mando",
-        "Garrett Hedlund",
-        "Patrick J. Adams",
-        "Pat Healy",
-        "Taylor Selé",
-        "Aliyah Camacho",
-        "Marvin Jones III",
-        "Michael Xavier",
-        "Dominic Burgess",
-        "Chris Diamantopoulos",
-        "Lawrence Kao",
-        "Katie Stevens",
-        "John Pyper-Ferguson",
-        "Robert Lee Hart",
-        "Aina Brei'yon",
-        "Kyle Davis",
-        "Jordan Harper",
-        "Sarah Carbiener",
-        "Minhal Baig",
-        "John Covarrubias",
-        "Cortney Norris",
-        "Anna Boden",
-        "Ryan Fleck",
-        "Dee Rees",
-        "Philipp A. Barnett",
-        "Halley Gross"
-      ],
-      "titles": [
-        "Criminal",
-        "Criminal Minds",
-        "Too Old to Die Young",
-        "Batman: Caped Crusader"
-      ]
-    },
-    "keywords": [
-      "Criminal series Prime Video",
-      "Ed Brubaker Sean Phillips Criminal",
-      "Charlie Hunnam Adria Arjona Criminal",
-      "Criminal release date January 2027"
-    ],
-    "images": [
-      {
-        "url": "https://media2.firstshowing.net/firstshowing/img18/criminalseriesmainimagesbigtw1.jpg",
-        "caption": "Prime Video Unveils First Look Teaser for Adaptations of Graphic Novels in Criminal",
-        "source": "FirstShowing.net"
-      }
-    ],
-    "published": "Thu, 05 Nov 2026 21:47:49 +0000"
-  },
-  "1e5l2x2": {
-    "id": "1e5l2x2",
-    "type": "news",
-    "headline": "Russell Brand Found Guilty of Historic Sexual Assault and Rape Charges in London Court",
-    "dek": "The actor and comedian was taken into custody following a jury verdict at Southwark Crown Court and faces a prison sentence next week.",
-    "entities": {
-      "people": [
-        "Russell Brand",
-        "Laura Brand",
-        "Joel Bennathan",
-        "Katy Perry"
-      ],
-      "titles": [
-        "Forgetting Sarah Marshall",
-        "Get Him to the Greek"
-      ]
-    },
-    "keywords": [
-      "Russell Brand",
-      "Russell Brand convicted",
-      "Russell Brand court",
-      "Southwark Crown Court"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135586443,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Russell Brand Found Guilty of Historic Sexual Assault and Rape Charges in London Court",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-06T03:04:41+05:30"
-  },
-  "1jlse7o": {
-    "id": "1jlse7o",
-    "type": "news",
-    "headline": "Joel Coen and Frances McDormand Back Netflix Documentary The Bend in the River",
-    "dek": "A new documentary capturing five friends across nearly fifty years has released its official trailer ahead of an upcoming Netflix release, drawing early Oscar buzz with backing from Joel Coen and Frances McDormand.",
-    "entities": {
-      "people": [
-        "Joel Coen",
-        "Frances McDormand",
-        "Robb Moss",
-        "Lisa Remington",
-        "Kristin Feeley",
-        "Liz Gilbert Cohen",
-        "Tot Long",
-        "David Lewis",
-        "Shane Boris",
-        "Jeff Reichert",
-        "Geralyn White Dreyfous",
-        "Regina K. Scully",
-        "James Costa",
-        "Trevor Burgess",
-        "Isha Sharma"
-      ],
-      "titles": [
-        "The Bend in the River"
-      ]
-    },
-    "keywords": [
-      "The Bend in the River",
-      "Joel Coen Netflix movie",
-      "Frances McDormand documentary",
-      "Robb Moss The Bend in the River"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-2026-11-06T020816.437.png?resize=1200,630",
-        "caption": "Joel Coen and Frances McDormand Back Netflix Documentary The Bend in the River",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Thu, 05 Nov 2026 20:49:08 +0000"
   },
   "60g9pc": {
     "id": "60g9pc",

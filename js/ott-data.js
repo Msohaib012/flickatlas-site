@@ -112,6 +112,19 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "country": "FR",
+      "date": "2026-11-07",
+      "date_kind": "digital",
+      "id": 1812405,
+      "providers": [
+        {
+          "logo_path": "/9o7nQnmlVE94XqPcMhVPGycatxU.png",
+          "name": "M6+"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-07",
       "date_kind": "digital",
@@ -136,17 +149,20 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "FR",
-      "date": "2026-11-07",
-      "date_kind": "digital",
-      "id": 1812405,
+      "date": "2026-11-06",
+      "date_kind": "release",
+      "id": 303044,
       "providers": [
         {
-          "logo_path": "/9o7nQnmlVE94XqPcMhVPGycatxU.png",
-          "name": "M6+"
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
-      "type": "movie"
+      "type": "tv"
     },
     {
       "country": "IN",
@@ -254,6 +270,22 @@ window.FA_OTT = {
       "date_kind": "digital",
       "id": 1570467,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-05",
+      "date_kind": "release",
+      "id": 1480158,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
       "type": "movie"
     },
     {

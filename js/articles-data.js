@@ -77320,5 +77320,435 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 04:15:18 GMT"
+  },
+  "1n5g74t": {
+    "id": "1n5g74t",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 2: Ranbir Kapoor, Sai Pallavi, Yash Film Overtakes Adipurush At Over ₹221 Crore",
+    "dek": "Nitesh Tiwari's directorial venture Ramayana Part 1 crossed ₹221 crore worldwide by its second day in theatres, outpacing Adipurush despite a lower opening day collection.",
+    "body": [
+      {
+        "h": "Opening and Initial Reception",
+        "p": [
+          "Nitesh Tiwari’s Ramayana Part 1 made its theatrical debut on November 5, 2026. The big-budget epic adaptation opened to mixed reviews from critics and audiences alike alongside decent box-office figures.",
+          "Despite boasting a remarkably wide distribution with 23,316 shows across India on its opening day, the film registered an opening of ₹127.50 crore globally."
+        ]
+      },
+      {
+        "h": "Global Recovery on Day Two",
+        "p": [
+          "While domestic collections in India experienced a dip on the second day, bringing in ₹48.05 crore net compared to its ₹64.85 crore opening day, the film bounced back internationally.",
+          "Sacnilk data reported that the feature earned ₹35 crore overseas on its second day, elevating its total overseas gross to ₹86.25 crore."
+        ]
+      },
+      {
+        "h": "Overtaking Adipurush",
+        "p": [
+          "By the end of its second day, the combined gross collection from India reached ₹134.80 crore. When paired with its overseas numbers, the two-day worldwide haul landed at ₹221.05 crore.",
+          "With this milestone, Ramayana successfully outpaced Om Raut’s previous cinematic adaptation Adipurush, which had accumulated a global gross of ₹215.78 crore during its first two days."
+        ]
+      },
+      {
+        "h": "Comparison With Other Juggernauts",
+        "p": [
+          "Although the Nitesh Tiwari directorial is performing strongly, it sits behind certain other recent blockbusters in terms of early pacing. Aditya Dhar’s Dhurandhar: The Revenge amassed ₹358.86 crore in its first two days.",
+          "Ranbir Kapoor’s own previous venture with Sandeep Reddy Vanga, Animal, also outpaced Ramayana by grossing ₹236.01 crore over its initial two-day run."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Ramayana is directed by Nitesh Tiwari, who also penned the screenplay alongside Shridhar Raghavan. The production is handled by Namit Malhotra and Yash.",
+          "The leading ensemble features Ranbir Kapoor as Rama, Sai Pallavi as Sita, and Yash as Ravana. The narrative's first part explores the upbringing and circumstances shaping the central figures, concluding with a teaser for Sunny Deol's role as Hanuman in the upcoming sequel."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Future Releases",
+        "p": [
+          "The extensive supporting cast includes Ravi Dubey, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Kunal Kapoor, Adinath Kothare, Arun Govil, Indira Krishnan, and Lara Dutta.",
+          "While the second installment was initially planned for a Diwali 2027 arrival, it has been scheduled to hit theatre screens in 2028."
+        ]
+      },
+      {
+        "h": "Upcoming Weekend Projections",
+        "p": [
+          "As the feature steps into its crucial first weekend with Sunday marking Diwali, trade analysts are closely monitoring how much further the film can climb.",
+          "The upcoming box-office trajectory will determine how high the collection stands before the title eventually encounters a standard weekday slump."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana Part 1 grossed over ₹221 crore worldwide by its second day in theatres, successfully overtaking the two-day collections of Adipurush. Despite a domestic dip on day two, strong international numbers and a massive show count propelled the Ranbir Kapoor, Sai Pallavi, and Yash-starrer forward as it heads into its opening weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 released on November 5, 2026.",
+      "The film grossed ₹127.50 crore on its opening day.",
+      "Day 2 net collections in India were ₹48.05 crore compared to a ₹64.85 crore opening.",
+      "Day 2 overseas gross reached ₹86.25 crore with ₹35 crore earned on that day.",
+      "Two-day worldwide gross collection reached ₹221.05 crore.",
+      "Adipurush had grossed ₹215.78 crore worldwide in two days.",
+      "Ramayana had 23,316 shows in India on its release day.",
+      "Dhurandhar: The Revenge grossed ₹358.86 crore in two days.",
+      "Animal grossed ₹236.01 crore in two days."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Om Raut",
+        "Prabhas",
+        "Kriti Sanon",
+        "Saif Ali Khan",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Ravi Dubey",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Sunny Deol",
+        "Aditya Dhar",
+        "Ranveer Singh",
+        "Sandeep Reddy Vanga",
+        "Neeshita Nyayapati"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush",
+        "Dhurandhar: The Revenge",
+        "Animal",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana worldwide box office collection",
+      "Ranbir Kapoor Sai Pallavi Yash Ramayana",
+      "Ramayana day 2 collection",
+      "Nitesh Tiwari Ramayana Part 1"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/Ramayana_day_2_bo_1794025721376_3gY9_1794025754971_9vVO_fa714fb0-d34f-4bba-8c61-277efd07d4f3_KLHI.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 2: Ranbir Kapoor, Sai Pallavi, Yash Film Overtakes Adipurush At Over ₹221 C",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 10:56:42 +0530"
+  },
+  "1a21rya": {
+    "id": "1a21rya",
+    "type": "news",
+    "headline": "Hold Onto Me Makes History as Cyprus Claims Its First-Ever Oscar Submission",
+    "dek": "Writer-director Myrsini Aristidou reflects on her feature debut, a poignant father-daughter drama that has broken new ground for Cypriot cinema following its Sundance success.",
+    "body": [
+      {
+        "h": "A Landmark Submission for Cyprus",
+        "p": [
+          "The international cinematic landscape has witnessed a historic milestone as the feature debut titled Hold Onto Me became the official selection representing Cyprus for the Academy Awards. This achievement marks the very first time the nation has submitted a film for consideration in the international feature category. The journey for the project began with significant acclaim on the festival circuit, bringing unprecedented recognition to the Mediterranean island's growing film industry.",
+          "Navigating this path has positioned the creative team as pioneers in their home country. While acknowledging the status of being underdogs on the global stage, the production has embraced the opportunity to open doors for future creators from the region. The milestone highlights a growing presence for regional European co-productions in mainstream global competitions."
+        ]
+      },
+      {
+        "h": "Plot Dynamics and Character Journeys",
+        "p": [
+          "Set against the backdrop of a Cypriot summer, the narrative centers on an eleven-year-old girl named Iris whose routine is disrupted by the death of her grandfather. The event brings her estranged father, Aris, back into town—a man who operates as a petty criminal and has previously played no role in her life. Despite warnings from her mother and older brother, Iris pursues a connection, eventually joining him in various dubious schemes.",
+          "What begins as a stubborn quest for familial ties slowly evolves into a complicated bond between two practical strangers. The relationship is further strained when the father's dark past draws them both into escalating trouble. Throughout the script, every scene is carefully constructed to push the narrative forward while exploring the fragile boundaries of trust and acceptance."
+        ]
+      },
+      {
+        "h": "Festival Success and Global Screenings",
+        "p": [
+          "Before making waves in the Oscar race, the picture celebrated its world premiere at the prestigious Sundance Film Festival. There, it resonated deeply with audiences, ultimately capturing the World Cinema Dramatic Audience Award. This early momentum established a strong foundation for international distribution and critical praise.",
+          "Following its success in North America, the project continued its festival run by screening in the youth and children's event at the Tallinn Black Nights Film Festival in Estonia. Sales and international distribution for the title are managed by Cercamon, ensuring the feature reaches diverse audiences across multiple territories."
+        ]
+      },
+      {
+        "h": "Personal Roots in the Director's Vision",
+        "p": [
+          "The emotional core of the feature draws heavily from the lived experiences of its writer and director. Growing up with divorced parents, the filmmaker experienced a distant relationship with her father during her early childhood before they successfully bonded and forged a deep understanding during her teens. These autobiographical elements infused the script with authentic observations regarding familial expectations and delayed reconciliation.",
+          "Additionally, the physical locations mirror the creator's upbringing, utilizing coastal settings near the sea where she spent her youth. The presence of older companions and childhood memories heavily influenced the framing of the protagonist's daily life, grounding the dramatic fiction in specific personal truths."
+        ]
+      },
+      {
+        "h": "Unconventional Casting and Chemistry",
+        "p": [
+          "Bringing the central characters to life involved pairing an established screen actor with a complete novice. Christos Passalis, known for his work in Dogtooth, was cast as the delinquent father after the director decided to work with him months before production began. Finding the right counterpart involved testing the actor with various young performers before discovering Maria Petrova in Cyprus.",
+          "Despite having zero prior acting experience, the young newcomer shared a natural physical resemblance and an undeniable onscreen chemistry with her co-star. Due to scheduling conflicts and an unexpected bout of COVID-19, the leads had virtually no rehearsal time prior to filming, replicating the real-life unfamiliarity of their characters when cameras finally rolled."
+        ]
+      },
+      {
+        "h": "A Creative Triptych and Future Ambitions",
+        "p": [
+          "The exploration of father-daughter dynamics is not new to the director, who previously examined similar themes through two earlier short projects. Her 2015 short film Semele initiated this thematic journey, followed by a subsequent short titled Aria featuring an adolescent protagonist. The feature-length production served as a natural extension, allowing the creator to dive much deeper into the complex energy generated by familial obligations.",
+          "Looking ahead, the filmmaker plans to pivot away from father-daughter narratives while continuing to explore stories centered on strangers who gradually discover shared similarities. Current professional endeavors include developing a crime and spy thriller television series, alongside evaluating various scripts sent by U.S. agents with the possibility of directing material she did not write."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hold Onto Me has become the first-ever Oscar submission for Cyprus following its acclaimed premiere and Audience Award win at the Sundance Film Festival. Written and directed by Myrsini Aristidou, the feature-length debut stars newcomer Maria Petrova and Christos Passalis as an estranged father and daughter navigating a fragile bond."
+        ]
+      }
+    ],
+    "facts": [
+      "Hold Onto Me is the first Cyprus Oscar submission.",
+      "Myrsini Aristidou is the writer and director of the film.",
+      "The film premiered at Sundance and won the World Cinema Dramatic Audience Award.",
+      "The cast includes Maria Petrova and Christos Passalis.",
+      "The film screened at the 30th edition of the Tallinn Black Nights Film Festival.",
+      "Aristidou's previous short films exploring father-daughter themes include Semele (2015) and Aria."
+    ],
+    "entities": {
+      "people": [
+        "Myrsini Aristidou",
+        "Maria Petrova",
+        "Christos Passalis",
+        "Lasse Ulvedal Tolbøll",
+        "Jenna Mangulad",
+        "Monica Nicolaidou",
+        "Thomas J. Mangan IV",
+        "Mark Hollinger",
+        "Anders N.U. Berg",
+        "Konstantina Stavrianou",
+        "Rena Vougioukalou"
+      ],
+      "titles": [
+        "Hold Onto Me",
+        "Dogtooth",
+        "Semele",
+        "Aria"
+      ]
+    },
+    "keywords": [
+      "Hold Onto Me film",
+      "Myrsini Aristidou",
+      "Cyprus Oscar submission",
+      "Maria Petrova Christos Passalis"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Hold-Onto-Me-film-still-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Hold Onto Me Makes History as Cyprus Claims Its First-Ever Oscar Submission",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 05:00:00 +0000"
+  },
+  "ka38os": {
+    "id": "ka38os",
+    "type": "news",
+    "headline": "House Of The Dragon Returns November 19 In Special Mobile Game Event",
+    "dek": "Popular mobile title Game of Thrones: Legends is hosting a limited-time House of the Dragon crossover event featuring rare champions and quests.",
+    "body": [
+      {
+        "h": "The Return of House of the Dragon",
+        "p": [
+          "Following the conclusion of its third season, the world of Westeros is heading back to mobile screens. Fans of the hit fantasy franchise can dive into a fresh crossover experience that brings familiar characters and scenarios directly to handheld devices.",
+          "This limited-time activation offers enthusiasts a way to stay engaged with the universe while waiting for future television developments."
+        ]
+      },
+      {
+        "h": "Season 3 Success and Audience Growth",
+        "p": [
+          "The recent television season concluded with massive commercial and critical impact, establishing itself as a marked improvement over prior runs. Its grand scale and dramatic narrative twists successfully drew massive viewership numbers.",
+          "Specifically, the season finale captured thirty-four million viewers, representing a fifty-eight percent jump compared to the premiere episode of that same season."
+        ]
+      },
+      {
+        "h": "Exploring Game of Thrones: Legends",
+        "p": [
+          "The title hosting this upcoming collaboration is the free-to-play mobile game Game of Thrones: Legends developed and published by Zynga. Released in July 2024, the puzzle-based project has regularly featured crossovers with the broader fantasy franchise.",
+          "Players can participate in various themed scenarios and events, such as Robb's War, the Battle of the Bastards, and the Battle of Blackwater Bay."
+        ]
+      },
+      {
+        "h": "Quest Event Schedule and Details",
+        "p": [
+          "The upcoming Quest Event is scheduled to run from Thursday, November 19 to Monday, November 23. During this window, participants can experience specialized gameplay tied directly to the television narrative.",
+          "Because the experience is strictly time-gated, players must be active during these dates to make the most of the offered scenarios."
+        ]
+      },
+      {
+        "h": "Summon Event and Legendary Champions",
+        "p": [
+          "Running alongside the quests, a separate Summon event kicks off slightly earlier on November 19 and concludes on November 23. This feature allows users to acquire and strengthen rare champions.",
+          "The featured characters available during this summon period include Rhaenyra Targaryen, Viserys I Targaryen, Tyland Lannister, and Olenna Tyrell."
+        ]
+      },
+      {
+        "h": "Acquiring Champion Shards",
+        "p": [
+          "Gamers looking to unlock or upgrade these specific characters will utilize champion shards obtained through assorted banner pulls. These shards serve to either bring new personalities to a roster or boost existing power levels.",
+          "The acquisition window remains open for a brief five-day duration, beginning at 1 am ET on November 19 and closing at 2 pm ET on November 23."
+        ]
+      },
+      {
+        "h": "Accessibility and Microtransactions",
+        "p": [
+          "While the mobile application is free to download and start, it incorporates numerous microtransactions for users looking to accelerate their progress. The latest crossover provides an accessible entry point for both veterans and newcomers.",
+          "Those interested in joining the community can find the game available across mobile platforms including Android and iOS."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Game of Thrones: Legends is launching a limited-time House of the Dragon event from November 19 to November 23, 2026. The crossover features a quest and summon period allowing players to acquire rare characters like Rhaenyra Targaryen following the television season's massive viewership success."
+        ]
+      }
+    ],
+    "facts": [
+      "House of the Dragon season finale garnered 34 million viewers, a 58% increase over the first episode",
+      "House of the Dragon Quest Event and Summon event run from November 19 to November 23, 2026",
+      "Summon event features legendary champions Rhaenyra Targaryen, Viserys I Targaryen, Tyland Lannister, and Olenna Tyrell",
+      "Game of Thrones: Legends was released on July 25, 2024 by developer and publisher Zynga"
+    ],
+    "entities": {
+      "people": [
+        "Tom Wilson",
+        "Ormund Hightower",
+        "Rhaenyra Targaryen",
+        "Aegon II Targaryen",
+        "Sunfyre",
+        "Viserys I Targaryen",
+        "Tyland Lannister",
+        "Olenna Tyrell",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Callum Turner"
+      ],
+      "titles": [
+        "House of the Dragon",
+        "Game of Thrones",
+        "Game of Thrones: Legends",
+        "Game of Thrones: Dragonfire",
+        "Game of Thrones Conquest: The Cold The Dark",
+        "Game of Thrones: Children Of The Forest"
+      ]
+    },
+    "keywords": [
+      "House of the Dragon",
+      "Game of Thrones Legends",
+      "Rhaenyra Targaryen",
+      "Zynga mobile game"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/emma-d-arcy-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "House Of The Dragon Returns November 19 In Special Mobile Game Event",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 06:00:18 GMT"
+  },
+  "1ccjy40": {
+    "id": "1ccjy40",
+    "type": "news",
+    "headline": "Silambarasan and Vetri Maaran's Arasan Promo Pushed to December",
+    "dek": "The highly anticipated theatrical teaser for the upcoming Tamil feature has been delayed from its initial Diwali schedule to ensure composer Anirudh Ravichander can deliver an original score.",
+    "body": [
+      {
+        "h": "Delay of the Theatrical Promo",
+        "p": [
+          "Fans awaiting the promotional rollout for the upcoming Tamil cinematic feature Arasan will need to exercise additional patience. Initial plans to launch the material during the Diwali festive window have been officially shelved in favor of a later rollout.",
+          "Insiders close to the production unit have indicated that the team is now eyeing a targeted launch date of December 4 for the extensive teaser."
+        ]
+      },
+      {
+        "h": "Reasons Behind the Schedule Shift",
+        "p": [
+          "The primary driver behind the postponement is the status of the musical score, as the crew insists on featuring custom compositions by Anirudh Ravichander. Although producer Kalaipuli S Thanu floated the idea of recycling musical tracks from an older preview to meet the initial festive deadline, key creative voices pushed back.",
+          "Director Vetri Maaran and lead actor Silambarasan TR stood firm on waiting for the composer's entirely fresh musical arrangement to preserve the intended emotional and dramatic weight of the sequence."
+        ]
+      },
+      {
+        "h": "Production Status and Voice Work",
+        "p": [
+          "While the musical score remains pending, the rest of the promotional material is completely ready for distribution. Voice-over duties and dubbing obligations have been successfully finalized by the principal cast members, which includes Silambarasan, Priyanka Mohan, Andrea Jeremiah, Samuthirakani, and Kishore.",
+          "Furthermore, director Vetri Maaran has recorded his own narrative voice-over. This specific audio layer is designed to introduce audiences to the narrative premise and establish narrative ties to the broader Vada Chennai universe."
+        ]
+      },
+      {
+        "h": "Addressing Composer Commitments",
+        "p": [
+          "The timeline for the musical asset has also been influenced by personal milestones in the crew's professional lives. With Anirudh Ravichander's wedding scheduled to take place during the month, the production team has consciously avoided pressuring the busy composer.",
+          "Makers have opted to respect his existing personal and professional commitments over the past week rather than rush the orchestral arrangements for an early deadline."
+        ]
+      },
+      {
+        "h": "Expanded Theatrical Strategy",
+        "p": [
+          "Shifting the launch date from the festive period has concurrently opened the door for a drastically expanded distribution footprint. Instead of the modest 100-plus screens originally brainstormed for Diwali, the team is now strategizing a massive rollout.",
+          "The current proposal involves premiering the special eight-minute preview across more than 1,000 cinema halls, incorporating crucial international overseas markets alongside domestic screenings."
+        ]
+      },
+      {
+        "h": "Project Background and Collaborations",
+        "p": [
+          "The venture represents a landmark creative partnership, serving as the inaugural collaboration between acclaimed filmmaker Vetri Maaran and leading man Silambarasan TR. The narrative itself extends within the gritty framework of the Vada Chennai cinematic universe.",
+          "Alongside the primary star, the film boasts a notable ensemble cast featuring performances by Priyanka Mohan, Andrea Jeremiah, Samuthirakani, and Kishore, with subsequent updates confirming further additions like Vijay Sethupathi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The promotional video for the Tamil cinema project Arasan has been delayed from Diwali to a prospective December 4 theatrical release due to pending background score work by Anirudh Ravichander. Despite completed dubbing by the main cast and director Vetri Maaran, the creators opted to wait for an original musical score, paving the way for a much larger rollout across more than 1,000 screens."
+        ]
+      }
+    ],
+    "facts": [
+      "The Arasan promo was postponed from Diwali.",
+      "The promo may release in theatres on December 4, 2026.",
+      "The promo is eight minutes long.",
+      "Anirudh Ravichander is the music composer whose background score is awaited.",
+      "The principal cast includes Silambarasan, Priyanka Mohan, Andrea Jeremiah, Samuthirakani, and Kishore.",
+      "Vetri Maaran is the director of Arasan.",
+      "Producer Kalaipuli S Thanu suggested using the background score from an earlier promo.",
+      "The promo is planned to screen in over 1,000 theatres including overseas locations.",
+      "Vijay Sethupathi also joins the cast of Arasan.",
+      "Anirudh Ravichander's wedding is scheduled for November."
+    ],
+    "entities": {
+      "people": [
+        "Simbu",
+        "Silambarasan TR",
+        "Anirudh Ravichander",
+        "Vetri Maaran",
+        "Priyanka Mohan",
+        "Andrea Jeremiah",
+        "Samuthirakani",
+        "Kishore",
+        "Kalaipuli S Thanu",
+        "Vijay Sethupathi"
+      ],
+      "titles": [
+        "Arasan",
+        "Vada Chennai",
+        "Train"
+      ]
+    },
+    "keywords": [
+      "Arasan promo",
+      "Simbu Arasan December 4",
+      "Vetri Maaran Arasan movie",
+      "Anirudh Ravichander background score",
+      "Silambarasan Arasan release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/arasan-promo-070211135-16x9_0.jpeg?VersionId=uNMNWlBzx5Fyir4AzYbHB.O7be9OyDWg",
+        "caption": "Silambarasan and Vetri Maaran's Arasan Promo Pushed to December",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 11:33:17 +0530"
   }
 };
