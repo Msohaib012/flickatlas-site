@@ -102,7 +102,7 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
+      "country": "BR",
       "date": "2026-12-07",
       "date_kind": "digital",
       "id": 1400940,
@@ -265,6 +265,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
+      "date": "2026-11-05",
+      "date_kind": "digital",
+      "id": 1817773,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "BR",
       "date": "2026-11-05",
       "date_kind": "digital",
@@ -274,7 +282,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-05",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1480158,
       "providers": [
         {

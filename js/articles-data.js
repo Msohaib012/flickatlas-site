@@ -79348,5 +79348,375 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Sat, 07 Nov 2026 04:38:00 EST"
+  },
+  "5x2ru5": {
+    "id": "5x2ru5",
+    "type": "news",
+    "headline": "Anbil Avan OTT Release Date Confirmed: Ashok Selvan and Preity Mukhundhan's Romantic Action Thriller Heads to SonyLIV",
+    "dek": "The romantic action thriller starring Ashok Selvan and Preity Mukhundhan is set for its digital premiere on SonyLIV after a theatrical run that began in October.",
+    "body": [
+      {
+        "h": "Theatrical Journey to Digital Premiere",
+        "p": [
+          "The romantic action thriller 'Anbil Avan' has officially locked in its digital streaming debut. Following its initial theatrical release earlier in the autumn season on October 2, the film is transitioning to the digital space.",
+          "Makers of the movie have confirmed both the release date and the streaming platform, giving fans who missed it on the big screen or those looking for a rewatch the chance to experience it online."
+        ]
+      },
+      {
+        "h": "Platform and Multi-Language Availability",
+        "p": [
+          "Audiences can stream 'Anbil Avan' exclusively on SonyLIV starting November 13. To cater to a wide linguistic demographic across the country, the digital premiere will support five distinct languages.",
+          "Viewers will be able to watch the feature in Tamil, Telugu, Malayalam, Kannada, and Hindi, making it accessible to a diverse set of regional cinema lovers."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The film is spearheaded by debutant director Karthikeyan, who helmed the project. Production responsibilities were shared by Ayngaran International and Happy High Pictures.",
+          "At the forefront of the narrative are lead actors Ashok Selvan and Preity Mukhundhan. The ensemble supporting cast features notable names including Kathir, Balu, Revathy, Abdul Samad, and Maha Delhi Ganesh."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "Plot-wise, 'Anbil Avan' centres on a young couple who transition into a joyful married life after a period of romance. In an effort to make his wife's long-standing dream come true, the male protagonist purchases a scenic independent house located in a hill station.",
+          "However, their domestic bliss is short-lived. Shortly after moving into their new dwelling, the couple begins encountering bizarre occurrences and severe dangers that put their lives in turmoil."
+        ]
+      },
+      {
+        "h": "Surviving the Threats",
+        "p": [
+          "The central conflict of the story revolves around the escalating perils surrounding their new hill station home. The couple must navigate these strange challenges and find a way out of the menacing situation.",
+          "The narrative weaves family emotions and suspense directly into the framework of a traditional romantic setup, keeping the tension high as the characters fight back."
+        ]
+      },
+      {
+        "h": "Daring Stunts and Action Sequences",
+        "p": [
+          "Beyond romance and suspense, 'Anbil Avan' leans heavily into action-thriller elements. The production includes elaborate stunts designed to heighten the suspenseful tone of the narrative.",
+          "Notably, lead actor Ashok Selvan performed a particularly dangerous sequence without the aid of a body double, executing a 70-foot jump directly into the water which demanded significant physical effort."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The romantic action thriller 'Anbil Avan', starring Ashok Selvan and Preity Mukhundhan, is scheduled to premiere on SonyLIV on November 13 in five languages. Directed by Karthikeyan and released initially in theatres on October 2, the film follows a married couple facing strange dangers in a hill station home.",
+          "Fans can look forward to streaming the multi-language release online following its theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Anbil Avan was released in theatres on October 2.",
+      "Anbil Avan premieres on SonyLIV on November 13.",
+      "The film will be available in Tamil, Telugu, Malayalam, Kannada, and Hindi.",
+      "Ashok Selvan performed a 70-foot jump into water without a body double."
+    ],
+    "entities": {
+      "people": [
+        "Ashok Selvan",
+        "Preity Mukhundhan",
+        "Karthikeyan",
+        "Kathir",
+        "Balu",
+        "Revathy",
+        "Abdul Samad",
+        "Maha Delhi Ganesh"
+      ],
+      "titles": [
+        "Anbil Avan"
+      ]
+    },
+    "keywords": [
+      "Anbil Avan OTT release",
+      "Ashok Selvan Anbil Avan",
+      "Preity Mukhundhan film",
+      "Anbil Avan SonyLIV"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135635780,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Anbil Avan OTT Release Date Confirmed: Ashok Selvan and Preity Mukhundhan's Romantic Action Thriller Heads to SonyLIV",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T17:20:35+05:30"
+  },
+  "12x6nzt": {
+    "id": "12x6nzt",
+    "type": "news",
+    "headline": "Acclaimed Drama Rectify Arrives on US Netflix",
+    "dek": "The celebrated four-season crime and family drama Rectify has officially made its way to Netflix in the United States, bringing all thirty episodes to a wider streaming audience.",
+    "body": [
+      {
+        "h": "The Arrival on Netflix",
+        "p": [
+          "Fans of thoughtful character-driven television have a major reason to celebrate as the acclaimed drama series Rectify officially lands on Netflix in the United States. Viewers looking to dive into a deeply psychological narrative can now stream all four seasons of the acclaimed show, which became available on the platform on November 1.",
+          "Originally broadcast on SundanceTV between 2013 and 2016, the program produced a total of thirty episodes during its celebrated run. Despite earning widespread praise from critics throughout its broadcast history, the series often remained somewhat overlooked by mainstream audiences, making this new streaming home a vital opportunity for fresh viewers to discover its brilliance."
+        ]
+      },
+      {
+        "h": "The Premise and Plot",
+        "p": [
+          "The narrative centers around Daniel Holden, a man who endured nearly twenty years of complete isolation on Death Row for a crime he was convicted of. When he is finally released, he must navigate an environment that has drastically evolved without him while carrying the profound psychological scars of his imprisonment.",
+          "Upon returning to his small town and his relatives, Daniel exists very much as an outsider. The passing of two decades brought massive technological and social transformations to the world, leaving him to piece together a reality that feels entirely foreign and overwhelming."
+        ]
+      },
+      {
+        "h": "Critical Reception and Legacy",
+        "p": [
+          "Throughout its original broadcast history, the series achieved remarkable critical acclaim, securing prestigious industry recognition and connecting deeply with those who followed it. Review aggregation platforms reflect this immense praise, highlighted by a staggering 96 percent critical approval score on Rotten Tomatoes.",
+          "While many crime narratives focus heavily on the mechanics of a murder investigation or the hunt for a perpetrator, this story chose a much quieter path. It explored the complex aftermath of justice and what happens to a person when the legal battle finally concludes."
+        ]
+      },
+      {
+        "h": "The Creative Minds and Cast",
+        "p": [
+          "The series was created by Ray McKinnon, whose creative vision established the distinct tone and atmospheric depth of the program. Every episode carefully balanced the emotional vulnerability of its characters with the quiet tension of a small Southern community.",
+          "The stellar ensemble cast features Aden Young in the central role of Daniel Holden. He is joined by Abigail Spencer as Amantha Holden, Adelaide Clemens as Tawney Talbot, Clayne Crawford as Ted Talbot Jr., and J. Smith-Cameron as Janet Talbot."
+        ]
+      },
+      {
+        "h": "Supporting Performances",
+        "p": [
+          "Rounding out the talented group of actors are Bruce McKinnon portraying Ted Talbot Sr. and Luke Kirby taking on the role of legal advocate Jon Stern. Sean Bridgers also features prominently in the narrative as Trey Willis.",
+          "Each actor contributed to the rich tapestry of relationships that defined the town, capturing the delicate dynamics of a family forced to reintegrate a man they thought they had lost forever."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "All four seasons of the critically acclaimed drama Rectify officially debuted on Netflix in the United States on November 1. The series follows the journey of Daniel Holden as he readsapts to society after nearly twenty years in isolation on Death Row."
+        ]
+      }
+    ],
+    "facts": [
+      "Rectify has four seasons.",
+      "The series arrived on Netflix in the United States on November 1.",
+      "It originally aired on SundanceTV between 2013 and 2016.",
+      "The show produced 30 episodes.",
+      "It holds a 96% score on Rotten Tomatoes.",
+      "Daniel Holden spent nearly 20 years on Death Row."
+    ],
+    "entities": {
+      "people": [
+        "Chris McPherson",
+        "Daniel Holden",
+        "Aden Young",
+        "Abigail Spencer",
+        "Adelaide Clemens",
+        "Clayne Crawford",
+        "J. Smith-Cameron",
+        "Bruce McKinnon",
+        "Luke Kirby",
+        "Sean Bridgers",
+        "Ray McKinnon"
+      ],
+      "titles": [
+        "Rectify",
+        "Mindhunter",
+        "True Detective",
+        "The King Tide",
+        "Timeless",
+        "Silent Hill: Revelation",
+        "Lethal Weapon",
+        "Succession",
+        "Lawless",
+        "The Marvelous Mrs. Maisel",
+        "Get Shorty",
+        "Deadwood"
+      ]
+    },
+    "keywords": [
+      "Rectify Netflix",
+      "Rectify TV series",
+      "Daniel Holden Rectify",
+      "Rectify streaming US"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/02/new-netflix-logo-symbol.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Acclaimed Drama Rectify Arrives on US Netflix",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 12:00:12 GMT"
+  },
+  "173nnnx": {
+    "id": "173nnnx",
+    "type": "news",
+    "headline": "Prerna Wanvari Challenges First Indian International Emmy Presenter Claim Regarding Vijay Sethupathi",
+    "dek": "Actor Prerna Wanvari has disputed media reports naming Vijay Sethupathi as the first Indian presenter at the International Emmy Awards, highlighting previous appearances by Indian television stars.",
+    "body": [
+      {
+        "h": "The Controversy Surrounding Vijay Sethupathi's Emmy Announcement",
+        "p": [
+          "Actor Vijay Sethupathi is preparing to represent Indian cinema as a presenter at the upcoming 54th International Emmy Awards. The ceremony is scheduled to take place in New York on November 23, generating considerable excitement among his followers.",
+          "However, this announcement triggered a widespread debate after several media reports labeled him as the very first Indian to present an award at the prestigious international event. This specific claim quickly drew objections from members of the Indian television fraternity."
+        ]
+      },
+      {
+        "h": "Prerna Wanvari Speaks Out on Social Media",
+        "p": [
+          "Reacting to an online report on Instagram, actor Prerna Wanvari publicly challenged the assertion that Vijay Sethupathi holds a unique first-time distinction. She pointed out that multiple Indian television personalities had already walked that stage years prior.",
+          "Wanvari explicitly referenced fellow industry members, noting that previous pioneers paved the way long before the current headlines were written, thereby questioning the accuracy of the recent media statements."
+        ]
+      },
+      {
+        "h": "Recalling Earlier Indian Presenters at the Emmys",
+        "p": [
+          "In a follow-up interaction with Indian Television Dot Com, Wanvari elaborated on the historical timeline of Indian participation at the global ceremony. She emphasized that while Sethupathi's involvement is worthy of celebration, earlier contributions must not be erased.",
+          "According to her detailed recollections, Simone Singh presented at the International Emmys in 2003, followed by Aashka Goradia in 2009. Wanvari herself presented the Arts Programming award at the 40th International Emmy Awards in 2012."
+        ]
+      },
+      {
+        "h": "Origins of the 'First Indian Presenter' Claim",
+        "p": [
+          "The narrative describing Vijay Sethupathi as the first Indian presenter originated from a report published by The Hollywood Reporter India. The coverage mistakenly overlooked past precedents set by actors from the television sector.",
+          "This oversight sparked discussions regarding the depth of research behind entertainment journalism, bringing much-needed attention back to the historical milestones achieved by Indian artists on global platforms."
+        ]
+      },
+      {
+        "h": "Broader Indian Representation at the 54th Edition",
+        "p": [
+          "Aside from the presenter debate, the 54th International Emmy Awards will feature notable Indian content competing across multiple categories. This highlights a growing footprint for South Asian talent on the international stage.",
+          "SonyLIV's project 'Real Kashmir Football Club' has earned a nomination in the Best Drama Series category. Simultaneously, Vir Das' Netflix comedy special 'Fool Volume' is actively contending for the Best Comedy Series prize."
+        ]
+      },
+      {
+        "h": "Legacy of Indian Television Personalities Globally",
+        "p": [
+          "The ongoing discourse has successfully shed light on the enduring legacy of Indian television actors who represented the nation at the international event in previous decades. Figures like Singh, Goradia, and Wanvari established an important international presence long before recent mainstream shifts.",
+          "Industry observers note that acknowledging these past milestones ensures accurate historical records for future generations of artists venturing into worldwide entertainment arenas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prerna Wanvari challenged reports calling Vijay Sethupathi the first Indian International Emmy presenter by recalling earlier appearances by Simone Singh, Aashka Goradia, and herself. While Sethupathi prepares for the upcoming ceremony in New York, Indian projects like 'Real Kashmir Football Club' and 'Fool Volume' also compete for honors."
+        ]
+      }
+    ],
+    "facts": [
+      "The 54th International Emmy Awards will take place in New York on November 23.",
+      "Simone Singh presented at the International Emmys in 2003.",
+      "Aashka Goradia was among the presenters in 2009.",
+      "Prerna Wanvari presented the Arts Programming award at the 40th International Emmy Awards in 2012.",
+      "SonyLIV's 'Real Kashmir Football Club' received a nomination for Best Drama Series.",
+      "Vir Das' Netflix special 'Fool Volume' is competing in the Best Comedy Series category."
+    ],
+    "entities": {
+      "people": [
+        "Prerna Wanvari",
+        "Vijay Sethupathi",
+        "Aashka Goradia",
+        "Simone Singh",
+        "Vir Das"
+      ],
+      "titles": [
+        "Real Kashmir Football Club",
+        "Fool Volume"
+      ]
+    },
+    "keywords": [
+      "Prerna Wanvari",
+      "Vijay Sethupathi International Emmys",
+      "Simone Singh Aashka Goradia Emmys",
+      "Real Kashmir Football Club Emmy nomination"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135635660,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Prerna Wanvari Challenges First Indian International Emmy Presenter Claim Regarding Vijay Sethupathi",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T17:15:11+05:30"
+  },
+  "pt5wxe": {
+    "id": "pt5wxe",
+    "type": "news",
+    "headline": "Clive Davis's Historic Manhattan Penthouse Lists For $11 Million Months After His Passing",
+    "dek": "The legendary music executive's expansive duplex within the Ritz Tower in Midtown East is up for sale four decades after he first moved in.",
+    "body": [
+      {
+        "h": "The Iconic Ritz Tower Residence",
+        "p": [
+          "The former Manhattan home of renowned music executive and Grammy-winning producer Clive Davis has officially entered the real estate market with an asking price of $11 million. This listing arrives several months following his death in June 2026, offering potential buyers a rare opportunity to acquire a piece of music history located inside the historic Ritz Tower in Midtown East, New York City.",
+          "The property served as Davis's private sanctuary for over four decades, having been tied to the legendary producer since 1985. Nestled within one of New York's most established residential buildings, the residence reflects a vital chapter in the life of a man who heavily shaped the American music landscape."
+        ]
+      },
+      {
+        "h": "Spanning Four Decades of History",
+        "p": [
+          "Davis's journey at the Ritz Tower commenced in 1985 when he initially purchased apartments situated on the upper floors of the building. These individual residences were later combined to construct a massive duplex spanning the 36th and 37th floors of the Midtown East structure.",
+          "Encompassing roughly 4,500 square feet, the sprawling home was specifically configured to support both daily living and large-scale social gatherings. Its generous layout and scenic vantage points across the Manhattan skyline made it an essential backdrop for Davis's personal and professional life."
+        ]
+      },
+      {
+        "h": "Inside The $11 Million Duplex",
+        "p": [
+          "Among the most striking attributes of the residence is its grand living room, which proudly houses a Steinway grand piano. Given Davis's lifelong dedication to the music industry, the instrument naturally mirrored the creative atmosphere where he spent much of his time.",
+          "The layout also features two kitchens, including a dedicated catering kitchen designed to simplify the hosting of guests. A formal dining room served as another central hub for family gatherings, with traditional Sunday meals often featuring takeout brought in for the household."
+        ]
+      },
+      {
+        "h": "A Gathering Place For Music Legends",
+        "p": [
+          "Beyond functioning as a private home, the penthouse operated as an important social venue for figures across the entertainment sector. Davis frequently used the expansive space to bring together prominent performers, industry executives, and close friends.",
+          "One of the most notable events held at the address was a pre-Grammy party in 1992. The memorable evening famously drew intense attention when iconic singer Whitney Houston made her grand arrival at the gathering."
+        ]
+      },
+      {
+        "h": "The Legacy of a Music Icon",
+        "p": [
+          "Born in Brooklyn, New York, Davis forged an extraordinary legacy as a visionary music executive, producer, and talent scout renowned for identifying and nurturing generational stars. His professional synergy with Whitney Houston remains a towering highlight of his career, particularly his crucial guidance during the development of her legendary recording of I Will Always Love You.",
+          "A four-time Grammy Award winner, Davis was also honored by the Recording Academy with the prestigious Grammy Trustees Award in recognition of his profound impact on the music world."
+        ]
+      },
+      {
+        "h": "Turning a New Page",
+        "p": [
+          "With the property now listed at $11 million, the historic Ritz Tower duplex is prepared to welcome a new occupant. However, real estate observers note that the residence carries a cultural value that far surpasses its multi-million dollar price tag.",
+          "The sale marks the end of an era for a space that witnessed decades of musical greatness, high-profile celebrations, and the quiet domestic life of one of the industry's most influential architects."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Manhattan duplex penthouse of late music executive Clive Davis has been listed for sale at $11 million following his death in June 2026. Located in the Ritz Tower, the 4,500-square-foot residence served as his home for over forty years and played host to numerous music industry figures."
+        ]
+      }
+    ],
+    "facts": [
+      "Clive Davis moved into the Manhattan penthouse in 1985.",
+      "The penthouse is listed for $11 million.",
+      "Clive Davis died in June 2026.",
+      "The property is located inside the Ritz Tower in Midtown East, New York City.",
+      "The duplex spans the 36th and 37th floors.",
+      "The home is approximately 4,500 square feet.",
+      "A pre-Grammy party was hosted at the apartment in 1992, attended by Whitney Houston."
+    ],
+    "entities": {
+      "people": [
+        "Clive Davis",
+        "Whitney Houston"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Clive Davis Manhattan penthouse",
+      "Clive Davis Ritz Tower apartment",
+      "Clive Davis penthouse for sale",
+      "Clive Davis",
+      "Whitney Houston"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135630239,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Clive Davis's Historic Manhattan Penthouse Lists For $11 Million Months After His Passing",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T17:00:00+05:30"
   }
 };
