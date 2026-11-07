@@ -109,6 +109,12 @@ INR_PER_USD = 94.65      # site FA_RATES — same as boxoffice_extract
 # /quicknews/ Day 24.
 SLUG_OVERRIDES = {
     "1269325": "Drishyam_3_Hindi_2026",  # Drishyam: The Conclusion
+    # Ramayana (2026-11-07): TMDB titles it "Ramayana: Rise of a
+    # Legend" but Sacnilk files it as "Ramayana Part 1" — slugify()
+    # builds Ramayana_Rise_of_a_Legend_2026, which 404s, so the
+    # reader never fetched the title at all (its Day 1/2 rows came
+    # from other lanes). Slug is lowercase on Sacnilk.
+    "656908": "ramayana_part_1_2026",
 }
 
 # The daywise header is byte-identical to apply-auto.py's ON PURPOSE:
@@ -440,6 +446,22 @@ def check_stated_totals(title, versions, stated):
         if abs(total - st) > 0.01:
             print(f"  sacnilk: {title}: version {i + 1} sum "
                   f"Rs{total:.2f} Cr != stated Rs{st:.2f} Cr (WARNING)")
+
+
+def missing_overseas_days(per_day, extras, cur_day, cap=7):
+    """Days in per_day that still lack an overseas figure.
+
+    The reader used to fetch quicknews ONLY for the current day, so a
+    title first fetched on Day 3 never learned Days 1-2 overseas
+    (Ramayana, 2026-11-07: Day 1 overseas Rs51.25 Cr and Day 2
+    Rs35 Cr existed on Sacnilk but the reader never asked for them).
+    Returns the sorted days < cur_day with no overseas_inr_cr in
+    extras, capped so one title cannot stall the run."""
+    missing = sorted(
+        d for d in per_day
+        if isinstance(d, int) and d >= 1 and d < cur_day
+        and "overseas_inr_cr" not in (extras.get(d) or {}))
+    return missing[:cap]
 
 
 def parse_day_date(date_s, year_hint):
@@ -783,6 +805,12 @@ def main():
     ap.add_argument("--slug", default=None,
                     help="fetch a single Sacnilk slug (testing); "
                          "ignores the needs-check")
+    ap.add_argument("--tmdb-id", default=None,
+                    help="fetch only this published TMDB id (testing / "
+                         "single-title backfill); uses the normal slug "
+                         "path (SLUG_OVERRIDES / slugify), unlike "
+                         "--slug which applies one slug to the first "
+                         "entry regardless of title")
     args = ap.parse_args()
     today = (date.fromisoformat(args.today) if args.today
              else date.today())
@@ -810,6 +838,8 @@ def main():
             print(f"sacnilk: limit {args.limit} reached, stopping")
             break
         tid = entry["tmdb_id"]
+        if args.tmdb_id and str(tid) != str(args.tmdb_id):
+            continue
         title = entry["title"]
         rel = (entry.get("release_date") or "").strip()
         year = rel[:4] if len(rel) >= 4 else ""
@@ -938,6 +968,29 @@ def main():
                 print(f"  sacnilk: {title}: quicknews Day {cur_day} "
                       f"unavailable — today ({today.isoformat()}) not "
                       f"on quicknews; /movie/ table only")
+        # OVERSEAS BACKFILL (2026-11-07): the quicknews fetch above
+        # covers only the current day, so past days' overseas figures
+        # are never learned when a title is first fetched late (or its
+        # slug 404'd until now). Fetch the quicknews page of each past
+        # day that still lacks an overseas figure and take ONLY its
+        # overseas sentence — never its table (the /movie/ table stays
+        # the source for completed days' India figures).
+        if cur_day is not None and cur_day > 1:
+            for back_day in missing_overseas_days(
+                    per_day, qn_extras, cur_day):
+                back_html = fetch_quicknews(slug, back_day)
+                time.sleep(POLITE_DELAY)
+                if back_html is None:
+                    continue
+                _bd, _ba, back_extras = parse_quicknews(back_html)
+                if None in back_extras:
+                    back_extras.setdefault(back_day, {}).update(
+                        back_extras.pop(None))
+                ex = back_extras.get(back_day) or {}
+                if "overseas_inr_cr" in ex:
+                    qn_extras.setdefault(back_day, {}).update(ex)
+                    print(f"  sacnilk: {title}: backfilled overseas "
+                          f"Day {back_day} Rs{ex['overseas_inr_cr']:.2f} Cr")
         extras = {d: dict(v) for d, v in page_extras.items()}
         for d, ex in qn_extras.items():
             extras.setdefault(d, {}).update(ex)
