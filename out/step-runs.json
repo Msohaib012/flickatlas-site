@@ -942,24 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-06T15:20:10Z",
-    "run_id": "42237522357",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-06T15:34:04Z",
     "run_id": "42244102904",
     "status": "success",
@@ -1475,6 +1457,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-07T15:02:11Z",
+    "run_id": "42383478391",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "+0 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": "no-new-data"
    }
   ],
   "ott": [
@@ -8257,5 +8257,5 @@
    }
   ]
  },
- "updated_at": "2026-11-07T14:55:15Z"
+ "updated_at": "2026-11-07T15:02:11Z"
 }
