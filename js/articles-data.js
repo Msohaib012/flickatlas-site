@@ -80898,5 +80898,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T15:18:03Z"
+  },
+  "lnhb9a": {
+    "id": "lnhb9a",
+    "type": "news",
+    "headline": "Ramayana Day 3 Collections Surge Past Opening Figures With Worldwide Gross Nearing 375 Crore",
+    "dek": "Namit Malhotra's Ramayana: Part One bounces back from a Friday dip, recording its biggest single-day worldwide haul on Saturday as early estimates push the three-day total toward the 375 crore mark.",
+    "body": [
+      {
+        "h": "Strong Saturday Recovery",
+        "p": [
+          "Namit Malhotra's Ramayana: Part One is heading toward a record-breaking single-day worldwide collection on Saturday, November 7, following a brief recovery from a Friday decline. Early estimates suggest that the Nitesh Tiwari directorial has comfortably outpaced its opening day numbers across both domestic and international territories.",
+          "The impressive Saturday business has elevated the feature's estimated three-day worldwide total toward the 375 crore milestone, injecting fresh momentum into its theatrical run as it approaches the upcoming Diwali holiday period."
+        ]
+      },
+      {
+        "h": "Navigating Pre-Diwali Challenges",
+        "p": [
+          "This strong financial recovery is particularly notable given that the feature is currently playing during the pre-Diwali window. Festive preparations traditionally impact cinema attendance patterns throughout India, creating a challenging environment for box office continuity.",
+          "Despite these initial hurdles, the robust Saturday performance demonstrates that strong weekend consumer demand is successfully overriding the fluctuations experienced during the early weekdays."
+        ]
+      },
+      {
+        "h": "International Markets Provide Stability",
+        "p": [
+          "Overseas markets have delivered a critical advantage for the production, benefiting from a standard weekend schedule that allows audiences to patronize cinemas without the distinct holiday-related disruptions seen domestically.",
+          "North America has established itself as the leading international territory, backed by substantial pre-sales and a wide release, while the United Kingdom, Australia, and various European nations have also made strong contributions."
+        ]
+      },
+      {
+        "h": "Breakdown of Early Three-Day Figures",
+        "p": [
+          "On its Thursday debut, the title registered an India gross of 77.50 crore alongside 51.25 crore overseas, totaling 128.75 crore worldwide. Friday saw a dip to 57.30 crore domestically and 44.00 crore internationally, resulting in a 101.30 crore global total.",
+          "Early estimates for Saturday project an Indian gross between 80 to 85 crore and an overseas collection of 60 to 65 crore, pushing the single-day worldwide range to 140 to 150 crore and bringing the three-day global cumulative total to between 370 and 380 crore."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Diwali and Beyond",
+        "p": [
+          "The immediate test for the production arrives on Sunday, when widespread Diwali festivities may impact evening and night screenings across the domestic circuit. However, trade expectations point toward a massive surge during the post-Diwali period.",
+          "Monday in particular is anticipated to leverage holiday advantages to drive increased family attendance, offering a clearer indication of whether viewer interest will sustain itself past the initial advance-booking wave."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana: Part One bounced back from a Friday dip to record its highest single-day worldwide collection on Saturday, November 7. Early estimates indicate that the Nitesh Tiwari directorial has outgrossed its opening day, pushing its three-day global total toward 375 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra's Ramayana: Part One released on November 5, 2026.",
+      "Saturday, November 7, 2026, marked Day 3 of the film's theatrical run.",
+      "Early estimates place the three-day worldwide total toward the 375 crore mark.",
+      "Day 1 worldwide gross was 128.75 crore, featuring 77.50 crore India gross and 51.25 crore overseas gross.",
+      "Day 2 worldwide gross was 101.30 crore, featuring 57.30 crore India gross and 44.00 crore overseas gross.",
+      "Day 3 early estimates project a worldwide gross of 140 to 150 crore.",
+      "North America leads international markets as the largest overseas territory."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One box office",
+      "Ramayana Day 3 collection",
+      "Nitesh Tiwari Ramayana worldwide collection",
+      "Namit Malhotra Ramayana earnings"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028426.jpg",
+        "caption": "Ramayana Day 3 Collections Surge Past Opening Figures With Worldwide Gross Nearing 375 Crore",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 15:53:30 +0000"
+  },
+  "1wokr5w": {
+    "id": "1wokr5w",
+    "type": "news",
+    "headline": "Why HBO's 23-Episode Fantasy Series Outshines Game of Thrones",
+    "dek": "While Game of Thrones remains a defining giant of modern television, a later HBO and BBC fantasy adaptation offers a much more consistent and satisfying narrative journey from start to finish.",
+    "body": [
+      {
+        "h": "The Legacy of Peak HBO Fantasy",
+        "p": [
+          "When audiences think about major fantasy television offerings from HBO, Game of Thrones is almost always the first title that comes to mind. Its early seasons set a remarkably high standard, standing as some of the most impressive page-to-screen adaptations ever brought to television during the twenty-first century.",
+          "However, despite its massive cultural footprint, the legendary series struggled significantly with its later chapters as it ventured past the published source material. This left an opening for another remarkable HBO collaboration to quietly deliver a more cohesive experience."
+        ]
+      },
+      {
+        "h": "Discovering His Dark Materials",
+        "p": [
+          "A joint production between the BBC and HBO, His Dark Materials approaches the fantasy genre from a distinct perspective compared to its predecessor. Based on the celebrated book series by Philip Pullman, the narrative centers on a young protagonist named Lyra Belacqua as she stumbles into a dangerous conspiracy orchestrated by a powerful authority known as the Magisterium.",
+          "Rather than focusing heavily on grand physical battles or intricate political scheming, this 23-episode masterwork dives deeply into philosophical concepts. It examines free will, destiny, and the theological implications of power structures while maintaining a hopeful tone amidst its darker narrative turns."
+        ]
+      },
+      {
+        "h": "A Superior Adaptation Blueprint",
+        "p": [
+          "The primary advantage holding this series above earlier network hits lies in its structural foundation. Because it adapted a completed book series written by Pullman, the creative team could remain entirely faithful to all major plot points without having to invent narrative paths in the dark.",
+          "By contrast, George R.R. Martin's A Song of Ice and Fire series remained unfinished while its television adaptation aired. Creators David Benioff and D.B. Weiss were forced to forge their own direction once the source material ran dry, leading to rushed pacing and controversial creative divergences in the final seasons."
+        ]
+      },
+      {
+        "h": "Getting the Ending Right",
+        "p": [
+          "One of the most persistent criticisms directed at Game of Thrones was its controversial and heavily rushed conclusion. The abrupt handling of major plotlines and twists left many devoted viewers deeply disappointed with how the epic saga resolved.",
+          "On the other hand, His Dark Materials succeeded precisely because it worked from a complete blueprint. The series finale aligns seamlessly with the themes, tones, and character arcs established across all preceding episodes, delivering an emotional yet satisfying resolution."
+        ]
+      },
+      {
+        "h": "Overlooked in the Mainstream",
+        "p": [
+          "Despite its exceptional quality, faithful storytelling, and meticulous world-building, the show never quite achieved the overwhelming mainstream recognition of Game of Thrones. It also missed out on the massive conversational dominance enjoyed by subsequent streaming fantasy titles like The Witcher, The Rings of Power, and The Wheel of Time.",
+          "Debuting in November 2019—just months after the conclusion of HBO's Westeros epic in May 2019—meant that direct comparisons were completely unavoidable, perhaps arriving a bit too soon for audiences seeking another massive fantasy commitment."
+        ]
+      },
+      {
+        "h": "An Impressive Ensemble Cast",
+        "p": [
+          "Beyond its narrative fidelity, the television run succeeds through the strength of its complex characters and stellar ensemble cast. Dafne Keen leads the project brilliantly as Lyra, supported by talented performers including Amir Wilson, James McAvoy, Ruth Wilson, and Lin-Manuel Miranda.",
+          "These actors bring incredible depth to morally ambiguous supporting roles, enhancing a rich universe that continuously expands and deepens with every single season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO's 23-episode adaptation of Philip Pullman's His Dark Materials stands out as a superior and more consistent fantasy television achievement compared to the later seasons of Game of Thrones. Benefiting from a completed source material and a cohesive vision, the series delivered a faithful narrative and a satisfying conclusion that avoided the pitfalls of its predecessor."
+        ]
+      }
+    ],
+    "facts": [
+      "His Dark Materials is a 23-episode series produced by the BBC and HBO.",
+      "The show is based on Philip Pullman's book series of the same name.",
+      "The series premiered in November 2019.",
+      "Game of Thrones concluded in May 2019.",
+      "The main cast includes Dafne Keen, Amir Wilson, James McAvoy, Ruth Wilson, and Lin-Manuel Miranda."
+    ],
+    "entities": {
+      "people": [
+        "Amanda Mullen",
+        "Philip Pullman",
+        "Lyra Belacqua",
+        "Dafne Keen",
+        "George R.R. Martin",
+        "David Benioff",
+        "D.B. Weiss",
+        "Amir Wilson",
+        "James McAvoy",
+        "Ruth Wilson",
+        "Lin-Manuel Miranda",
+        "William McGregor",
+        "Amit Gupta",
+        "Leanne Welham",
+        "Charles Martin",
+        "Otto Bathurst",
+        "Euros Lyn",
+        "Dawn Shadforth",
+        "Harry Wootliff",
+        "Jamie Childs",
+        "Jack Thorne",
+        "Francesca Gardiner",
+        "Amelia Spencer",
+        "Sarah Quintrell"
+      ],
+      "titles": [
+        "Game of Thrones",
+        "His Dark Materials",
+        "A Song of Ice and Fire",
+        "The Winds of Winter",
+        "The Witcher",
+        "The Rings of Power",
+        "The Wheel of Time",
+        "House of the Dragon"
+      ]
+    },
+    "keywords": [
+      "His Dark Materials HBO",
+      "His Dark Materials adaptation",
+      "Game of Thrones comparison",
+      "Philip Pullman television series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/daenerys-targaryen-game-of-thrones-season-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why HBO's 23-Episode Fantasy Series Outshines Game of Thrones",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 16:00:16 GMT"
+  },
+  "14zcyxn": {
+    "id": "14zcyxn",
+    "type": "news",
+    "headline": "Sunny Deol Praises Ramayana Part 1 and Appears as Lord Hanuman in Post-Credits",
+    "dek": "Following his surprise post-credits appearance as Lord Hanuman in Ramayana Part 1, actor Sunny Deol shared his high praise for the fantasy epic, calling it superior to Hollywood productions.",
+    "body": [
+      {
+        "h": "The Post-Credits Reveal",
+        "p": [
+          "Audiences stepping into cinemas for Ramayana Part 1 were treated to an unexpected surprise during the closing moments of the film. A powerful post-credit sequence introduces Sunny Deol in the role of Lord Hanuman, setting the stage for his major involvement in the upcoming sequel.",
+          "The scene features a dramatic musical backdrop as the character makes his entrance. Though his complete face is kept hidden for most of the sequence, a wider shot toward the end displays him flying through the air with a gada while shouting Jai Shri Ram."
+        ]
+      },
+      {
+        "h": "Sunny Deol's Review",
+        "p": [
+          "Taking to Instagram on Saturday, Sunny Deol shared his personal thoughts after watching the movie. The actor strongly recommended that every Indian viewer head to theaters to experience the spectacle firsthand.",
+          "Expressing high admiration for the production value, he stated that the film easily rivals Hollywood projects and arguably surpasses them. He specifically pointed out that the special effects successfully transport audiences directly into the period of the story."
+        ]
+      },
+      {
+        "h": "Musical Background and Character Teasers",
+        "p": [
+          "The impactful Hanuman sequence is elevated by the playing of the Hanuman Chalisa. A notable lineup of musical artists lent their voices to the rendition, including Diljit Dosanjh, Sukhwinder Singh, Mohit Chauhan, Kailash Kher, and Anirudh Ravichander.",
+          "Before the grand reveal of Hanuman, the film also gives viewers a brief look at Raghav Juyal portraying Meghnada, the crown prince of Lanka and eldest son of Ravana."
+        ]
+      },
+      {
+        "h": "Significance for the Sequel",
+        "p": [
+          "The introduction of Lord Hanuman holds massive narrative weight for the overarching plot, particularly looking ahead to the second installment scheduled to arrive in 2028. Following the abduction of Sita by Ravana, Hanuman emerges as a central pillar in Rama's quest.",
+          "His responsibilities in the epic saga range from locating Sita in Lanka to actively aiding Rama in preparing his forces for the impending war against Ravana."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Ramayana Part 1 is helmed by director Nitesh Tiwari, who additionally collaborated on the screenplay alongside Shridhar Raghavan. The project is backed by producers Namit Malhotra and Yash.",
+          "The star-studded cast features Ranbir Kapoor as Ram, Sai Pallavi as Sita, and Yash as Ravana. Additional key cast members include Ravi Dubey, Rakul Preet Singh, Arun Govil, Lara Dutta, Shobana, Kajal Aggarwal, and Anupam Kher voicing Jatayu."
+        ]
+      },
+      {
+        "h": "Plot Overview of Part One",
+        "p": [
+          "The opening installment of the franchise dives into the background of Ravana. It tracks the narrative up to the point where he abducts Sita following a confrontation with Jatayu.",
+          "Additionally, the film explores the early life and upbringing of Rama, his wedding to Sita, the events leading to his fourteen-year exile, and his firm vow to rescue Sita from Lanka."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sunny Deol appears as Lord Hanuman in the post-credits of Ramayana Part 1 and later praises the film on social media as better than Hollywood blockbusters. The Nitesh Tiwari-directed epic sets up its 2028 sequel by showcasing key characters and building anticipation around the mythological narrative."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 released in theatres on November 5",
+      "Sunny Deol reviewed the film on Instagram on Saturday",
+      "The sequel to Ramayana Part 1 will arrive in 2028",
+      "Nitesh Tiwari directed Ramayana Part 1"
+    ],
+    "entities": {
+      "people": [
+        "Sunny Deol",
+        "Diljit Dosanjh",
+        "Sukhwinder Singh",
+        "Mohit Chauhan",
+        "Kailash Kher",
+        "Anirudh Ravichander",
+        "Raghav Juyal",
+        "Nitesh Tiwari",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Lara Dutta",
+        "Shobana",
+        "Kajal Aggarwal",
+        "Anupam Kher"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Ramayana: Rise of a Legend",
+        "Hanuman Chalisa"
+      ]
+    },
+    "keywords": [
+      "Sunny Deol Ramayana Part 1",
+      "Ramayana Rise of a Legend",
+      "Sunny Deol Lord Hanuman",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/07/1600x900/logo/sunny_deol_1794067106162_xoFR_1794067106372_BAaZ_07da6f50-6c38-4ee4-9e34-e4b5440bff40_Wn1c.jpg",
+        "caption": "Sunny Deol Praises Ramayana Part 1 and Appears as Lord Hanuman in Post-Credits",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 21:43:31 +0530"
+  },
+  "6q2rwe": {
+    "id": "6q2rwe",
+    "type": "news",
+    "headline": "Fists on a Plane: Wings of Dread trailer showcases high-altitude martial arts showdown",
+    "dek": "Well Go USA has launched the official trailer for the high-altitude martial arts thriller Fists on a Plane: Wings of Dread, pitting lead star Ashton Chen against action icon Iko Uwais.",
+    "body": [
+      {
+        "h": "The Premise of Wings of Dread",
+        "p": [
+          "Well Go USA has officially presented a brand-new trailer for the upcoming martial arts action feature Fists on a Plane: Wings of Dread. The project places viewers inside a confined high-altitude environment where an ordinary flight turns into a desperate struggle for survival.",
+          "Directors Ashton Chen and Pengfei Qin have crafted a narrative centered on airborne terror, trapping travelers at 30,000 feet with no immediate option for rescue or escape."
+        ]
+      },
+      {
+        "h": "Ashton Chen Faces Iko Uwais",
+        "p": [
+          "The primary narrative engine of the feature relies on the explosive collision between prominent martial artists Ashton Chen and Iko Uwais. Fans of high-intensity combat choreography will recognize Uwais from his standout work in The Raid.",
+          "Chen steps into the role of Gu Chaoyang, an off-duty air marshal heading home when criminals compromise the safety of the aircraft. Uwais portrays the ruthless adversary leading the airborne takeover."
+        ]
+      },
+      {
+        "h": "A Deadly Struggle at 30,000 Feet",
+        "p": [
+          "With nowhere to run and a restricted cabin space, Chaoyang finds himself as the final line of defense for everyone on board. He must leverage his specialized training to neutralize the threat.",
+          "The confrontation forces the protagonist to combine elite combat skills with unyielding ethics, resulting in a brutal, life-and-death battle where any miscalculation could prove fatal."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Creators",
+        "p": [
+          "Alongside the headline duo of Chen and Uwais, the production features a diverse international ensemble cast. Notable performers rounding out the roster include Qu Jingjing, Nita Hsia Jo-Yen, and Hong Shuang.",
+          "Additional supporting roles are filled by Ren Tianye, Gao Yi, Huang Tao, and Liu Fengchao, bringing depth to the various passengers and antagonists populating the flight."
+        ]
+      },
+      {
+        "h": "Release Details and Availability",
+        "p": [
+          "Audiences eager to witness the airborne martial arts sequences can mark their calendars for the official rollout. Well Go USA has scheduled the feature to debut on December 4th.",
+          "The newly debuted promotional preview offers a comprehensive glimpse at the stunt work, cramped setting, and intense physical altercations awaiting viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Well Go USA released a trailer for the martial arts thriller Fists on a Plane: Wings of Dread, directed by Ashton Chen and Pengfei Qin. The film features Ashton Chen as an off-duty air marshal battling a ruthless adversary played by Iko Uwais during a hijacking at 30,000 feet, ahead of its December 4th release."
+        ]
+      }
+    ],
+    "facts": [
+      "Well Go USA released a trailer for Fists on a Plane: Wings of Dread.",
+      "The film is directed by Ashton Chen and Pengfei Qin.",
+      "The cast includes Ashton Chen, Iko Uwais, Qu Jingjing, Nita Hsia Jo-Yen, Hong Shuang, Ren Tianye, Gao Yi, Huang Tao, and Liu Fengchao.",
+      "Ashton Chen plays air cop Gu Chaoyang.",
+      "Fists on a Plane: Wings of Dread is set for release on December 4th."
+    ],
+    "entities": {
+      "people": [
+        "Ashton Chen",
+        "Pengfei Qin",
+        "Iko Uwais",
+        "Qu Jingjing",
+        "Nita Hsia Jo-Yen",
+        "Hong Shuang",
+        "Ren Tianye",
+        "Gao Yi",
+        "Huang Tao",
+        "Liu Fengchao",
+        "Gu Chaoyang",
+        "Amie Cranswick"
+      ],
+      "titles": [
+        "Fists on a Plane: Wings of Dread",
+        "The Raid"
+      ]
+    },
+    "keywords": [
+      "Fists on a Plane Wings of Dread",
+      "Ashton Chen Iko Uwais",
+      "Fists on a Plane trailer",
+      "Wings of Dread release date"
+    ],
+    "images": [],
+    "published": "Sat, 07 Nov 2026 16:24:08 +0000"
   }
 };
