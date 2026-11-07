@@ -82099,5 +82099,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 22:47:12 GMT"
+  },
+  "139vg1r": {
+    "id": "139vg1r",
+    "type": "news",
+    "headline": "Robert Pattinson And Nicholas Hoult Reportedly Test For James Bond Franchise Reboot",
+    "dek": "Fresh updates indicate that Robert Pattinson and Nicholas Hoult have completed screen tests to portray the iconic secret agent 007 in the upcoming franchise reboot.",
+    "body": [
+      {
+        "h": "The Latest Contenders",
+        "p": [
+          "The search for the next actor to step into the iconic tuxedo of James Bond has taken an unexpected turn. Recent reports from entertainment publications indicate that high-profile actors Robert Pattinson and Nicholas Hoult have joined the extensive list of stars participating in screen tests for the coveted 007 role.",
+          "This development introduces major Hollywood star power into the casting discussions. Both actors bring substantial blockbuster credentials to the table, significantly escalating the competition for the legendary MI5 agent part in the upcoming reboot."
+        ]
+      },
+      {
+        "h": "Director And Franchise Background",
+        "p": [
+          "The upcoming motion picture will be helmed by acclaimed filmmaker Denis Villeneuve. Industry insiders anticipate that physical production for this fresh take on the spy franchise will commence in the coming year of 2027.",
+          "This project follows a long line of cinematic entries, concluding with the previous installment titled No Time to Die. That film debuted in theaters in 2021 and marked the final appearance of Daniel Craig in the starring role."
+        ]
+      },
+      {
+        "h": "Previous Franchise Connections",
+        "p": [
+          "Reports confirm that both Pattinson and Hoult completed their screen-testing sessions for the role near the conclusion of October. Interestingly, this marks another high-profile casting intersection for the two performers, as Hoult previously lost out on the role of Batman to Pattinson.",
+          "Unlike several other actors reportedly under consideration, both Pattinson and Hoult possess extensive prior experience headlining major cinematic franchises. Their established drawing power makes them unique contenders compared to their peers on the shortlist."
+        ]
+      },
+      {
+        "h": "Expanded Shortlist And Rumours",
+        "p": [
+          "Before these latest revelations, industry whispers pointed toward a shortlist featuring performers such as Callum Turner, Jack Lowden, and Josh O'Connor. Each of these actors has been persistently linked to the role of the famous secret agent.",
+          "Additional reports have also thrown other notable names into the mix. Publications noted that singer Harry Styles participated in a meeting regarding the part, while actor Theo James has also surfaced in ongoing casting rumours."
+        ]
+      },
+      {
+        "h": "Contenders Address The Rumours",
+        "p": [
+          "Some of the previously mentioned contenders have openly spoken about the swirling speculation. Jack Lowden, known for his work in Slow Horses, described the casting chatter as flattering during an interview with GQ while discussing his upcoming role as Mr Darcy in Pride and Prejudice.",
+          "Meanwhile, Josh O'Connor addressed his inclusion during a public event appearance following his role in Steven Spielberg's Disclosure Day. O'Connor remarked that finding himself mentioned in the same tier of consideration for James Bond was an extraordinary experience."
+        ]
+      },
+      {
+        "h": "Studio Acquisition And Succession",
+        "p": [
+          "Behind the scenes, the overarching rights to the cinematic property underwent a massive shift. Amazon MGM Studios reportedly invested approximately $1 billion to acquire the franchise rights from long-time producers Barbara Broccoli and Michael G. Wilson.",
+          "Daniel Craig previously held the license to kill across five films, beginning with his debut in Casino Royale back in 2006. Craig's tenure as the secret agent officially began when his casting was announced in October 2005."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson and Nicholas Hoult have reportedly completed screen tests for the next James Bond film directed by Denis Villeneuve. With Amazon MGM Studios taking over the franchise rights, industry insiders expect a formal casting announcement by the end of November."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Pattinson and Nicholas Hoult screen-tested for James Bond at the end of October.",
+      "Denis Villeneuve is the director for the James Bond franchise reboot.",
+      "Filming for the next James Bond film is expected to begin in 2027.",
+      "No Time to Die was released in 2021 with Daniel Craig as 007.",
+      "Amazon MGM Studios paid around $1 billion to take over the rights to the James Bond franchise from producers Barbara Broccoli and Michael G. Wilson.",
+      "Daniel Craig acted in five films beginning with Casino Royale (2006)."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Nicholas Hoult",
+        "Denis Villeneuve",
+        "Daniel Craig",
+        "Callum Turner",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Harry Styles",
+        "Theo James",
+        "Steven Spielberg",
+        "Barbara Broccoli",
+        "Michael G. Wilson"
+      ],
+      "titles": [
+        "No Time to Die",
+        "Casino Royale",
+        "Pride and Prejudice",
+        "Slow Horses",
+        "Disclosure Day"
+      ]
+    },
+    "keywords": [
+      "James Bond casting",
+      "Robert Pattinson James Bond",
+      "Nicholas Hoult 007",
+      "Denis Villeneuve James Bond film"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156479514,thumbsize-693018,width-1280,height-720,resizemode-75/156479514.jpg",
+        "caption": "Robert Pattinson And Nicholas Hoult Reportedly Test For James Bond Franchise Reboot",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T23:52:00Z"
+  },
+  "1mms1q1": {
+    "id": "1mms1q1",
+    "type": "news",
+    "headline": "Emmerdale Star Lisa Riley Teases Massive Shock for Festive Episode",
+    "dek": "Actor Lisa Riley has revealed that the upcoming holiday episode for the popular soap will feature a jaw-dropping twist that left the cast stunned during filming.",
+    "body": [
+      {
+        "h": "Festive Surprises Ahead",
+        "p": [
+          "Viewers tuning into the popular soap during the holiday season are in for a major revelation. According to long-serving cast member Lisa Riley, the script for the festive special contains a massive twist that caught everyone completely off guard.",
+          "The actor, who has portrayed Mandy Dingle since 1995, shared her astonishment with local media outlets after wrapping up the dramatic sequences. She emphasized that the narrative direction will leave audiences utterly speechless."
+        ]
+      },
+      {
+        "h": "Reactions From the Cast",
+        "p": [
+          "When first going through the pages of the holiday script, Riley noted that her initial reaction was sheer disbelief. That sense of shock carried directly over into the physical production phase when the cameras began rolling.",
+          "Rather than focusing on subtle dramatic beats, the performer explained that the storyline relies entirely on massive emotional impacts. She described the overarching theme as a major jaw-dropping moment rather than a standard theatrical conclusion."
+        ]
+      },
+      {
+        "h": "Potential Character Dynamics",
+        "p": [
+          "In other developments surrounding the programme, returning cast member Patsy Kensit recently voiced enthusiasm for a potential alliance between her character Sadie King and Mandy Dingle. Kensit noted that a strong bond between the two women would be an engaging watch.",
+          "The actor suggested that narrative avenues could explore Sadie investing money into Mandy's beauty establishment. Such a partnership would lean into the strong off-screen rapport shared between Kensit and Riley."
+        ]
+      },
+      {
+        "h": "Background on Recent Storylines",
+        "p": [
+          "The scheming Sadie King previously returned to the community following the death of Jimmy King. Upon her comeback, she immediately set her sights on Caleb Miligan.",
+          "Her initial strategy involved attempting to seduce Caleb by convincing him that his wife Ruby had been unfaithful. However, the show has since confirmed a shocking conclusion to this particular plot thread."
+        ]
+      },
+      {
+        "h": "Village Set Permitting Challenge",
+        "p": [
+          "Beyond current narrative developments, the long-term future of the programme's exterior location remains a central focus for network executives. The filming permission for the outdoor set located in Harewood, West Yorkshire, is scheduled to expire in June 2027.",
+          "Consequently, network bosses have initiated formal applications to secure permanent rights for the estate. Maintaining the current setup is seen as vital for the ongoing production schedule."
+        ]
+      },
+      {
+        "h": "Environmental and Carbon Concerns",
+        "p": [
+          "In public paperwork submitted to the Leeds County Council, ITV outlined several environmental complications that would stem from relocating the production. A forced tear-down and move would conflict directly with corporate targets to become a net-zero carbon business by 2030.",
+          "Documents focused on the façade of the village restaurant, The Hide, arguing that a forced relocation would drastically increase carbon footprints. Transporting cast, crew, and technical vehicles to alternative sites would hinder climate action strategies."
+        ]
+      },
+      {
+        "h": "Community and Ecological Support",
+        "p": [
+          "To strengthen their planning submission, the network enlisted the backing of the Yorkshire Wildlife Trust. Planning ecologist Tim Stratton submitted a formal letter supporting the continuation of the land agreement.",
+          "The production continues to air regular weeknight broadcasts at 8pm on ITV1 while remaining accessible for streaming via ITVX."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Emmerdale actor Lisa Riley has teased a shocking holiday episode that left the cast stunned during both script readings and filming. Meanwhile, the network is working to secure long-term planning permission for its West Yorkshire village set to meet environmental targets by 2030."
+        ]
+      }
+    ],
+    "facts": [
+      "Lisa Riley joined Emmerdale as Mandy Dingle in 1995.",
+      "Filming permission for the Emmerdale exterior village set in Harewood expires in June 2027.",
+      "ITV aims to become a net zero carbon business by 2030.",
+      "Emmerdale airs on weeknights at 8pm on ITV1 and streams on ITVX."
+    ],
+    "entities": {
+      "people": [
+        "Lisa Riley",
+        "Patsy Kensit",
+        "Jimmy King",
+        "Caleb Miligan",
+        "Ruby",
+        "Tim Stratton",
+        "Mandy Dingle",
+        "Sadie King"
+      ],
+      "titles": [
+        "Emmerdale"
+      ]
+    },
+    "keywords": [
+      "Emmerdale Lisa Riley Christmas episode",
+      "Emmerdale Harewood set planning permission",
+      "Patsy Kensit Sadie King Emmerdale",
+      "Emmerdale holiday storyline"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/mandy-dingle-emmerdale-6989b6e1916af.jpg?crop=1.00xw:0.687xh;0,0.0591xh&amp;resize=1200:*",
+        "caption": "Emmerdale Star Lisa Riley Teases Massive Shock for Festive Episode",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 23:14:00 +0000"
+  },
+  "ilkj0i": {
+    "id": "ilkj0i",
+    "type": "news",
+    "headline": "How Namit Malhotra's Fanboy Pitch Brought Hans Zimmer and AR Rahman Together For Ramayana",
+    "dek": "Producer Namit Malhotra opens up about his sincere admiration for music legends Hans Zimmer and AR Rahman and how it led to an unprecedented collaboration for the upcoming epic Ramayana.",
+    "body": [
+      {
+        "h": "An Unprecedented Musical Collaboration",
+        "p": [
+          "Bringing together two of the world's most renowned music composers for a single cinematic venture proved to be an extraordinary achievement for the production team behind Ramayana. The project secured the talents of both Hans Zimmer and AR Rahman to shape the auditory landscape of the grand film.",
+          "Such a combination of global musical powerhouses is exceptionally rare in the film industry. The joint involvement of these two iconic artists immediately elevated the profile of the motion picture, transforming its musical scope into a massive global talking point."
+        ]
+      },
+      {
+        "h": "A Producer's Personal Journey",
+        "p": [
+          "Producer Namit Malhotra has been vocal about his deep personal connection to the music of both legends. Growing up in India, he spent his formative years listening closely to AR Rahman's compositions while simultaneously building his business ventures.",
+          "Later in life, after relocating to Los Angeles, Malhotra immersed himself heavily in the cinematic soundscapes crafted by Hans Zimmer. This dual exposure planted the seeds for an ambitious dream that would eventually manifest during the production planning stages of the epic project."
+        ]
+      },
+      {
+        "h": "The Fanboy Approach to Legendary Composers",
+        "p": [
+          "When it came time to secure the composers, Malhotra did not rely on calculated corporate strategies or elaborate professional pitches. Instead, he approached both artists purely from the perspective of an ardent admirer sharing his heartfelt passion for the material.",
+          "He openly admitted that getting even one of them on board would have felt like an incredible victory. Securing both composers happened through an honest expression of fandom rather than any complex tactical maneuvering."
+        ]
+      },
+      {
+        "h": "Pitching the Greatest Epic in the World",
+        "p": [
+          "During his direct interactions with the musicians, Malhotra conveyed his unwavering belief in their extraordinary talents. He framed the project as a telling of the greatest epic known to the world and invited them to pour their absolute passion into it.",
+          "His straightforward message emphasized deep respect for their prior work and an invitation to join an all-in creative journey. This authentic enthusiasm ultimately resonated strongly with both legendary artists."
+        ]
+      },
+      {
+        "h": "Trusting Creative Instincts",
+        "p": [
+          "Reflecting on the successful collaboration, Malhotra noted that the experience highlighted the importance of relying on childlike instincts over grandiose corporate intelligence. He believes that honesty and unbridled passion are what ultimately won over the composers.",
+          "Furthermore, he observed that both Zimmer and Rahman entered the project with a deep, unprecedented level of mutual respect for one another. This shared respect helped solidify a harmonious creative environment for the epic."
+        ]
+      },
+      {
+        "h": "The Creative Team Behind the Epic",
+        "p": [
+          "The massive cinematic undertaking is directed by Nitesh Tiwari, who is tasked with bringing the grand visual and narrative world to life. The film features a prominent star cast led by Ranbir Kapoor, Yash, and Sai Pallavi.",
+          "As the production prepares to unfold its storytelling on the big screen, the combination of Tiwari's direction and the monumental musical score by Zimmer and Rahman positions it as a major landmark project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Namit Malhotra shared how a genuine fanboy pitch united legendary composers Hans Zimmer and AR Rahman for Nitesh Tiwari's Ramayana. Driven by childhood admiration for Rahman and his time listening to Zimmer in Los Angeles, Malhotra approached both artists with an honest expression of passion for the epic project starring Ranbir Kapoor, Yash, and Sai Pallavi."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra is the producer of Ramayana.",
+      "Hans Zimmer and AR Rahman are the composers for Ramayana.",
+      "Nitesh Tiwari is the director of Ramayana.",
+      "Ranbir Kapoor, Yash, and Sai Pallavi star in Ramayana.",
+      "Namit Malhotra grew up listening to AR Rahman in India and later listened to Hans Zimmer in Los Angeles."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana : Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana film music",
+      "Namit Malhotra Hans Zimmer AR Rahman",
+      "Ramayana Nitesh Tiwari Ranbir Kapoor Yash",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156478406,thumbsize-227877,width-1280,height-720,resizemode-75/156478406.jpg",
+        "caption": "How Namit Malhotra's Fanboy Pitch Brought Hans Zimmer and AR Rahman Together For Ramayana",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T23:52:00Z"
+  },
+  "ifceqz": {
+    "id": "ifceqz",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Smashes Records With Historic U.S. Opening Day",
+    "dek": "Takashi Yamazaki's Godzilla Minus Zero has shattered expectations with a massive Friday box office haul in the United States.",
+    "body": [
+      {
+        "h": "Breaking Foreign-Language Barriers",
+        "p": [
+          "Hollywood has historically viewed subtitled cinema as a difficult sell for mainstream American audiences. However, recent milestones ranging from Parasite claiming Best Picture to anime features like Demon Slayer capturing significant attention have signaled shifting viewer habits. Despite these successes, live-action foreign-language releases have rarely achieved comparable commercial heights in the United States.",
+          "That historical limitation appears to be transforming with the arrival of Takashi Yamazaki's latest feature. The film has captured unprecedented attention from moviegoers across the country, fundamentally challenging long-held industry assumptions about the box office viability of subtitled live-action blockbusters."
+        ]
+      },
+      {
+        "h": "Record-Setting Friday Earnings",
+        "p": [
+          "Godzilla Minus Zero pulled in an estimated $14.5 million domestically on Friday alone. If these early figures hold firm, this accomplishment establishes the highest opening day ever recorded for a non-English-language live-action film within the country.",
+          "This opening collection easily surpasses initial box office tracking projections made just days prior, which anticipated the entire three-day weekend landing within a $12 to $15 million window. Instead, the feature achieved nearly the top of that range within a single day of exhibition."
+        ]
+      },
+      {
+        "h": "Exhibition Scale and Screen Averages",
+        "p": [
+          "The kaiju sequel rolled out across 3,254 theaters nationwide. This robust distribution footprint generated a strong per-screen average of $4,456.",
+          "With that performance, the release more than doubled the daily take of competing titles like The Cat in the Hat while comfortably outpacing the remainder of the crowded new-release theatrical slate."
+        ]
+      },
+      {
+        "h": "The Predecessor's Phenomenal Legacy",
+        "p": [
+          "The current triumph builds upon the momentum established by Godzilla Minus One, which emerged as a cultural phenomenon in late 2023. That predecessor legged out to approximately $56 million domestically, securing its place as the highest-grossing Japanese live-action film in US history.",
+          "Furthermore, that earlier film secured the Academy Award for Best Visual Effects crafted by a compact team of about 35 artists on a reported budget under $15 million. That prestigious Oscar victory played a vital role in transforming casual viewers into dedicated fans of Yamazaki's directorial vision."
+        ]
+      },
+      {
+        "h": "Distribution Muscle and Anniversary Timing",
+        "p": [
+          "Unlike the limited rollout strategy required for the previous installment, Toho handled distribution directly through its own US arm. This allowed for a wide day-and-date opening that significantly amplified public awareness.",
+          "The timing of this commercial milestone coincides with the overarching 70th-anniversary stretch of the franchise. It marks a historic full circle from the original 1954 Gojira, which first demonstrated that Japanese productions could cross cultural boundaries."
+        ]
+      },
+      {
+        "h": "Critical Reception and Future Projections",
+        "p": [
+          "Early critical responses indicate that audience trust in the franchise remains entirely warranted. Reviews have landed strongly positive, with viewers praising the continuation of the first film's unique ability to deliver emotional depth before any destructive spectacle unfolds.",
+          "If standard weekend multipliers apply, industry analysts project an opening weekend exceeding $30 million. While upcoming competition from Wicked: For Good looms on the horizon, the historic opening-day crown has already been secured."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Takashi Yamazaki's Godzilla Minus Zero achieved a historic U.S. opening day with an estimated $14.5 million collection on Friday across 3,254 theaters. This milestone establishes the biggest opening day ever for a non-English-language live-action film in the country, building upon the legacy of its Academy Award-winning predecessor."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero earned an estimated $14.5 million in the US on Friday.",
+      "The film played in 3,254 theaters with a per-screen average of $4,456.",
+      "Godzilla Minus One grossed roughly $56 million domestically.",
+      "Godzilla Minus One won the Academy Award for Best Visual Effects with a team of about 35 artists and a budget under $15 million.",
+      "The release date of Godzilla Minus Zero is November 6, 2026, with a runtime of 135 minutes."
+    ],
+    "entities": {
+      "people": [
+        "Omar Faruque",
+        "Takashi Yamazaki",
+        "Ryunosuke Kamiki",
+        "Koichi Shikishima",
+        "Minami Hamabe",
+        "Noriko Oishi",
+        "Min Tanaka",
+        "Kanji Murakami",
+        "Hidetaka Yoshioka",
+        "Kenji Noda"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Parasite",
+        "Demon Slayer",
+        "The Cat in the Hat",
+        "Godzilla Minus One",
+        "Wicked: For Good",
+        "Gojira"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero box office",
+      "Takashi Yamazaki",
+      "Godzilla Minus One"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/movie-web-sandbox-2026-11-07t103507-244.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Godzilla Minus Zero Smashes Records With Historic U.S. Opening Day",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 23:30:16 GMT"
   }
 };
