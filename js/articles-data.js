@@ -81701,5 +81701,403 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T20:47:50Z"
+  },
+  "y87f79": {
+    "id": "y87f79",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 63: ScoutOP And Love Gill Clash With Comedian Gaurav Gupta Over Kaashvi Joke",
+    "dek": "Episode 63 of Bigg Boss 20 brought intense drama as ScoutOP and Love Gill locked horns with stand-up comic Gaurav Gupta, while host Salman Khan celebrated a major viewership milestone.",
+    "body": [
+      {
+        "h": "Weekend Ka Vaar Celebration",
+        "p": [
+          "The sixty-third episode of Bigg Boss 20 opened with host Salman Khan setting a celebratory tone for the Weekend Ka Vaar special. Rather than focusing on heavy reprimands, the host announced that the weekend would center around festive cheer and joyous moments. He entered the stage dancing to a track from his forthcoming film, Maatrubhumi – May War Rest In Peace.",
+          "A major highlight of the opening segment was the celebration of the reality show achieving over 100 crore watch hours on JioHotstar in less than sixty days. Salman marked the milestone by cutting a cake on stage and expressing his gratitude to the viewers watching across television and digital platforms."
+        ]
+      },
+      {
+        "h": "Host Pulls Contestants' Legs",
+        "p": [
+          "Continuing the lighthearted mood, Salman interacted warmly with the housemates and extended festive Diwali greetings to everyone inside the compound. He engaged in playful banter by assigning humorous nicknames to various contestants to lighten their spirits.",
+          "Additionally, the host took a moment to address fairness concerns regarding Mahhi Vij. He clarified to the participants that the show's producers maintained complete neutrality toward Mahhi throughout the competition."
+        ]
+      },
+      {
+        "h": "Stand-Up Comedian Roasts Housemates",
+        "p": [
+          "The atmosphere shifted when Salman invited stand-up comedian Gaurav Gupta onto the stage to interact with the participants. Gaurav delivered a sharp roast, poking fun at the recent behaviors and actions of the housemates inside the compound.",
+          "The comedy set quickly turned controversial when Gaurav brought up Kaashvi Hiranandani during a segment targeting ScoutOP and Love Gill. The comic teased the gamer about his relationship status and quipped about Love Gill providing massage therapies."
+        ]
+      },
+      {
+        "h": "Heated Arguments Erupt",
+        "p": [
+          "ScoutOP immediately took offense to the remarks mentioning Kaashvi Hiranandani and called out the comedian on stage. A verbal confrontation ensued as both Scout and Love Gill engaged in a heated argument with Gaurav Gupta.",
+          "Despite the friction, Gaurav chose to sidestep the squabble, wrapped up his routine, and offered a general apology to anyone who might have felt targeted before exiting the stage."
+        ]
+      },
+      {
+        "h": "Aftermath And Venting",
+        "p": [
+          "Following the comedian's departure, ScoutOP continued to vent his frustration to fellow contestant Yung DSA. He emphasized that he would not tolerate any remarks directed at his girlfriend, Kaashvi Hiranandani, with Love Gill firmly backing his stance.",
+          "Yung attempted to diffuse the tension by advising Scout to keep his temper in check and avoid displaying anger in front of Salman Khan."
+        ]
+      },
+      {
+        "h": "Special Guests And Rapid-Fire Fun",
+        "p": [
+          "The episode also featured special guest appearances, including Adel Sajan and Dr Sana Sajan from Danube Properties, who promoted their Dubai project and hosted an interactive task with the residents. During this activity, a minor verbal spat broke out between Love Gill and Yung DSA due to differing viewpoints.",
+          "Later, Shanaya Kapoor arrived to promote her upcoming web series, Student Of The Year – After Dark. This led into a rapid-fire round hosted by Karan Johar, where Scout defended Gullu, Yung backed Love, and Kanika supported Mahhi. A subsequent race among the round winners resulted in Yung claiming victory and the title of Student Of The Year."
+        ]
+      },
+      {
+        "h": "Upcoming Eviction Warning",
+        "p": [
+          "As the sixty-third episode drew to a close, Salman Khan returned to the stage to bid farewell to the audience and the contestants. He left the housemates with a reminder that an upcoming eviction announcement would be delivered in the next episode."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 63 of Bigg Boss 20 featured Salman Khan celebrating the show's 100 crore watch hours milestone on JioHotstar alongside festive Diwali greetings. The episode saw tensions rise when stand-up comedian Gaurav Gupta roasted ScoutOP and Love Gill, triggering a sharp argument over a joke involving Kaashvi Hiranandani. The broadcast also included special guest appearances and a rapid-fire task before concluding with a warning about upcoming evictions."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 episode 63 aired on November 7, 2026.",
+      "Bigg Boss 20 crossed 100 crore watch-time hours on JioHotstar in under 60 days.",
+      "ScoutOP and Love Gill argued with stand-up comedian Gaurav Gupta over a joke involving Kaashvi Hiranandani.",
+      "Salman Khan hosted the episode and danced to Teri Sexy Beauty from his film Maatrubhumi – May War Rest In Peace.",
+      "Adel Sajan and Dr Sana Sajan appeared from Danube Properties.",
+      "Shanaya Kapoor promoted her upcoming web series Student Of The Year – After Dark.",
+      "Yung DSA won the race game to become the Student of the Year during the Karan Johar hosted segment."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Gaurav Gupta",
+        "ScoutOP",
+        "Love Gill",
+        "Kaashvi Hiranandani",
+        "Karan Johar",
+        "Yung DSA",
+        "Adel Sajan",
+        "Dr Sana Sajan",
+        "Shanaya Kapoor",
+        "Gullu",
+        "Kanika",
+        "Mahhi Vij"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Maatrubhumi – May War Rest In Peace",
+        "Student Of The Year – After Dark"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 episode 63",
+      "ScoutOP Love Gill Gaurav Gupta",
+      "Kaashvi Hiranandani Bigg Boss",
+      "Salman Khan Bigg Boss 20"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156480509,thumbsize-676507,width-1280,height-720,resizemode-75/156480509.jpg",
+        "caption": "Bigg Boss 20 Episode 63: ScoutOP And Love Gill Clash With Comedian Gaurav Gupta Over Kaashvi Joke",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T22:51:59Z"
+  },
+  "pqml1n": {
+    "id": "pqml1n",
+    "type": "news",
+    "headline": "Netflix Releases Trailer for Brad Pitt Starrer The Further Mis-Adventures of Cliff Booth",
+    "dek": "Brad Pitt returns to his Oscar-winning character in a new David Fincher-directed film set in 1977 Hollywood.",
+    "body": [
+      {
+        "h": "The Return of Cliff Booth",
+        "p": [
+          "Brad Pitt has officially stepped back into the shoes of the character that earned him an Academy Award. Netflix has unveiled a brand new trailer for the upcoming feature, generating massive excitement among fans of the original cinematic universe.",
+          "The actor, currently age 62, is reprising his famous role for this exciting continuation, showing that the iconic persona is ready for a brand new chapter."
+        ]
+      },
+      {
+        "h": "Creative Team and Background",
+        "p": [
+          "This new cinematic endeavor is directed by David Fincher and serves as a direct follow-up to Quentin Tarantino's acclaimed film Once Upon a Time in Hollywood. While Tarantino originally created and directed the character, he wrote the screenplay for this new installment.",
+          "Back in 2020, Brad Pitt secured the Best Supporting Actor Academy Award for his unforgettable work in the original movie, setting high expectations for this continuation."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "The narrative shifts the timeline forward and transports audiences to a completely different era of the entertainment industry.",
+          "An official synopsis describes the setting: Brad Pitt returns to his Academy Award-winning role as Cliff Booth, only this time it is 1977 and it is a very different Hollywood."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Alongside the Hollywood superstar, the project boasts a large and talented supporting cast featuring numerous recognizable names.",
+          "The film stars Elizabeth Debicki, Scott Caan, Carla Gugino, Yahya Abdul-Mateen II, Peter Weller, Matt Groove, JB Tadena, Corey Fogelmanis, and Karren Karagulian."
+        ]
+      },
+      {
+        "h": "Theatrical and Streaming Release Schedule",
+        "p": [
+          "Audiences will have multiple ways to experience the movie, starting with a special theatrical run before it arrives on home screens.",
+          "The film is scheduled to debut for a two-week exclusive engagement in IMAX theaters globally on November 25, followed by its streaming release on Netflix on December 23."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released a new trailer for The Further Mis-Adventures of Cliff Booth starring Brad Pitt in his Oscar-winning role. Directed by David Fincher and written by Quentin Tarantino, the movie arrives in IMAX on November 25 before hitting Netflix on December 23."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt is 62 years old",
+      "Brad Pitt won the Best Supporting Actor Academy Award in 2020",
+      "The movie is directed by David Fincher",
+      "The movie was written by Quentin Tarantino",
+      "The movie is set in 1977",
+      "The film releases in IMAX theaters globally on November 25",
+      "The film releases on Netflix on December 23"
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "David Fincher",
+        "Quentin Tarantino",
+        "Elizabeth Debicki",
+        "Scott Caan",
+        "Carla Gugino",
+        "Yahya Abdul-Mateen II",
+        "Peter Weller",
+        "Matt Groove",
+        "JB Tadena",
+        "Corey Fogelmanis",
+        "Karren Karagulian"
+      ],
+      "titles": [
+        "The Further Mis-Adventures of Cliff Booth",
+        "Once Upon a Time in Hollywood"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt The Further Mis-Adventures of Cliff Booth",
+      "The Further Mis-Adventures of Cliff Booth trailer",
+      "David Fincher Cliff Booth movie",
+      "Netflix November 25 IMAX release"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/cliff-booth-new-trailer-brad-pitt.jpg",
+        "caption": "Netflix Releases Trailer for Brad Pitt Starrer The Further Mis-Adventures of Cliff Booth",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 22:35:48 +0000"
+  },
+  "v3j6e4": {
+    "id": "v3j6e4",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Day 4 Box Office Collection and Early Trends",
+    "dek": "An overview of the box office performance, regional earnings, and occupancy rates for Ramayana: Part 1 as the film progresses through its opening week.",
+    "body": [
+      {
+        "h": "Initial Box Office Trajectory",
+        "p": [
+          "The theatrical run of Ramayana: Part 1 has drawn significant attention from trade analysts and moviegoers alike since its premiere. Industry trackers are closely monitoring every update regarding its daily earnings across domestic and international markets.",
+          "As the film enters its fourth day in theaters, updates on final figures are still awaited, leaving audiences eager to see how weekday numbers hold up following a strong opening weekend."
+        ]
+      },
+      {
+        "h": "Opening Day and Weekend Figures",
+        "p": [
+          "On its first day, the feature pulled in an impressive nationwide net collection of 62.5 crore rupees across all languages. This opening total included 45 crore rupees from the Hindi version, 7.5 crore rupees from Kannada, 6 crore rupees from Telugu, 2.5 crore rupees from Tamil, and 1.5 crore rupees from Malayalam.",
+          "Following the grand premiere, the second day saw a collection of 47.75 crore rupees net. This figure comprised 35 crore rupees in Hindi, 5.25 crore rupees in Kannada, 4.75 crore rupees in Telugu, 1.5 crore rupees in Tamil, and 1.25 crore rupees in Malayalam."
+        ]
+      },
+      {
+        "h": "Surge on Day 3",
+        "p": [
+          "The theatrical earnings experienced a notable boost on the third day, reaching 70.75 crore rupees net overall. The regional breakdown for this day featured 54 crore rupees from the Hindi market, 6.25 crore rupees from Kannada, 6 crore rupees from Telugu, 2.5 crore rupees from Tamil, and 2 crore rupees from Malayalam.",
+          "This strong Sunday surge pushed the cumulative domestic net total to an estimated 181 crore rupees by the end of the third day, with the Hindi version alone contributing an estimated 134 crore rupees."
+        ]
+      },
+      {
+        "h": "Occupancy Rates Analysis",
+        "p": [
+          "Theater occupancy for the Hindi version fluctuated notably across different showtimes during the first three days. On the opening day, theaters recorded morning occupancy between 18 and 20 percent, afternoon slots at 23 to 25 percent, and evening and night shows surging to 45 to 50 percent, averaging 30.17 percent overall.",
+          "Day two experienced a slight dip with morning occupancy at 13 to 14 percent, afternoon at 15 to 20 percent, and night shows reaching 35 to 40 percent, leading to an overall average of 22.83 percent. Day three rebounded strongly, registering 30 percent in the morning, 45 percent in the afternoon, and 40 to 42 percent at night, culminating in an overall 38.67 percent occupancy."
+        ]
+      },
+      {
+        "h": "Global and Gross Earnings",
+        "p": [
+          "Beyond domestic net collections, the film has achieved substantial numbers worldwide. Total gross earnings within India reached an estimated 213.6 crore rupees by the conclusion of day three.",
+          "On the international front, overseas markets brought in 16.8 million dollars, which translates to approximately 159 crore rupees. Combined, the worldwide box office total stands at an estimated 372.6 crore rupees."
+        ]
+      },
+      {
+        "h": "Data Reliability and Disclaimers",
+        "p": [
+          "Box office numbers for the release are gathered from various industry sources, estimates, and trade reports rather than official studio statements. Consequently, final figures released by producers may vary from these early tracking reports.",
+          "As the fourth day progresses, stakeholders continue to watch for finalized occupancy and collection metrics to evaluate the long-term box office verdict for the title."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has accumulated an estimated domestic net total of 181 crore rupees and a worldwide collection of 372.6 crore rupees up to day three, with day four figures still pending updates. The film saw significant fluctuations in its Hindi version occupancy rates and strong language-wise contributions across India during its initial days in theaters."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 Day 1 net collection was 62.5 crore rupees.",
+      "Ramayana: Part 1 Day 2 net collection was 47.75 crore rupees.",
+      "Ramayana: Part 1 Day 3 net collection was 70.75 crore rupees.",
+      "Total domestic net collection till day 3 was 181 crore rupees.",
+      "Total Hindi net collection till day 3 was 134 crore rupees.",
+      "India gross collection till day 3 was 213.6 crore rupees.",
+      "Overseas collection till day 3 was 16.8 million dollars or 159 crore rupees.",
+      "Worldwide collection till day 3 was 372.6 crore rupees.",
+      "Date of report is November 08, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ankur Baruah"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Part 1 day 4 collection",
+      "Ramayana Part 1 occupancy report",
+      "Ramayana Part 1 total earnings"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHf_oGeWLVaY_8bdQdRW4hQ1hjcSR0b3t33kEj8r24hmPivbCvc-mozjFTOCRsA3QUWu_tGhvymbsV2RYk0zl0HNSzxa9F83adltB-suh5hCI2q5vNx3gl7-7kZ8F9kyV_sG8KDNWppmaA8y9fq-rFQZsO7-b0kck-Xg65_suJW-pRpOQ-N7ZeuSkqHV0/w1600/ramayana-part-1-day-4-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Day 4 Box Office Collection and Early Trends",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-08T02:20:48.092+05:30"
+  },
+  "f21eym": {
+    "id": "f21eym",
+    "type": "news",
+    "headline": "Jon Bernthal Delivers One of His Finest Performances in Under 10 Episodes of The Bear",
+    "dek": "Across just a handful of appearances in the hit Hulu series, Jon Bernthal shapes the complex, tragic figure of Mikey Berzatto into the beating heart of the show.",
+    "body": [
+      {
+        "h": "An Extensive Career Highlighted by Versatility",
+        "p": [
+          "Jon Bernthal has maintained a steady and varied presence in the entertainment industry for decades, taking on diverse roles across television and film. His expansive resume includes memorable turns in The Walking Dead, American Gigolo, and His Hers, alongside his iconic portrayal of The Punisher across multiple projects. Recently, he also appeared on the big screen in the summer blockbuster The Odyssey and earned critical praise for his Broadway debut in Dog Day Afternoon.",
+          "Despite his many high-profile credits, one of Bernthal's most exceptional and impactful performances unfolds across a surprisingly brief amount of screen time. Viewers looking to experience this standout acting showcase can easily binge all of his appearances in fewer than ten episodes, making it a compact yet powerful viewing experience."
+        ]
+      },
+      {
+        "h": "The Premise and Phenomenon of The Bear",
+        "p": [
+          "Premiering on Hulu in 2022, The Bear quickly captured audience attention and critical acclaim, sparking ongoing debates about whether it fits better as a comedy or a drama. The narrative centers on a talented fine-dining chef named Carmen Carmy Berzatto, played by Jeremy Allen White. Following the tragic death of his older brother Mikey, Carmy abandons his culinary career in the fine dining sector to return to Chicago.",
+          "Upon returning, Carmy takes over the family establishment, steering the struggling Original Beef sandwich shop through a remarkable evolution into a refined dining venue known as The Bear. Spanning five seasons before concluding in June, the series explores the heavy burdens of a dysfunctional family, trauma, and addiction, ultimately securing twenty-two Emmy wins during its run."
+        ]
+      },
+      {
+        "h": "Introducing Mikey Berzatto Through Flashbacks",
+        "p": [
+          "Because Mikey dies by suicide prior to the events of the series premiere, the character is woven into the narrative exclusively through flashbacks. Rather than serving as a minor detail, Mikey exists as an immense presence whose shadow heavily influences the decisions and emotional states of the surviving characters around him.",
+          "The writing and Bernthal's performance allow the audience to understand Mikey deeply despite his limited screen time. He functions not merely as a plot device or a background footnote, but rather as the emotional core that anchors the entire framing of the series and explains the heavy grief carried by his siblings."
+        ]
+      },
+      {
+        "h": "Exploring the Dualities of a Troubled Character",
+        "p": [
+          "Viewers first encounter Mikey in Season 1 through the episode Ceres, where he appears joyful, energetic, and deeply connected to his siblings and cousin Richie, played by Ebon Moss-Bachrach. These early glimpses highlight a charismatic figure who brings warmth and laughter to those in his immediate orbit.",
+          "However, later episodes peel back those layers to reveal severe volatility. Season 2's Christmas-focused episode Fishes exposes the toxic dynamics of the Berzatto family, showcasing Mikey's explosive, off-balance temperament and the deep mental health struggles that ultimately foreshadowed his untimely death."
+        ]
+      },
+      {
+        "h": "Nuance Across Later Seasons and Special Episodes",
+        "p": [
+          "As the series progresses, subsequent seasons continue to flesh out the contrasting facets of Mikey's personality. Season 3 offers a look at his kinder, supportive nature when he decides to hire Tina, played by Liza Colón-Zayas, to work at the sandwich shop.",
+          "Additionally, a special prequel episode focused on a character named Gary, released between seasons four and five, follows Mikey and Richie on a misguided errand. These shifting perspectives capture an individual who could be adventurous and loving in one moment, yet belligerent and angry the next."
+        ]
+      },
+      {
+        "h": "Critical Recognition and Legacy",
+        "p": [
+          "Bringing a fully realized, three-dimensional character to life with only about one appearance per season requires immense talent. While many actors need extended arcs to build emotional resonance, Bernthal achieves this effortlessly, making Mikey feel utterly authentic and deeply human.",
+          "This standout work did not go unnoticed by award bodies. Bernthal earned a well-deserved Emmy Award for his performance in the second season of The Bear, followed by two additional nominations recognizing his contributions to the acclaimed show."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jon Bernthal delivers a critically praised performance as Mikey Berzatto across a handful of flashback appearances in the hit Hulu series The Bear. Although the show concluded its five-season run, Bernthal's Emmy-winning portrayal remains a standout achievement that anchors the emotional core of the multi-award-winning drama."
+        ]
+      }
+    ],
+    "facts": [
+      "Jon Bernthal plays Mikey Berzatto in The Bear.",
+      "The Bear premiered on Hulu in 2022.",
+      "The Bear won 22 Emmy awards during its run.",
+      "The series concluded with its final season wrapping up in June.",
+      "Jeremy Allen White stars as Carmen Carmy Berzatto.",
+      "Ebon Moss-Bachrach plays Richie Jerimovich.",
+      "Jon Bernthal won an Emmy for his work in Season 2 of The Bear and received two more nominations."
+    ],
+    "entities": {
+      "people": [
+        "Jon Bernthal",
+        "Erin Konrad",
+        "Jeremy Allen White",
+        "Ebon Moss-Bachrach",
+        "Abby Elliott",
+        "Liza Colón-Zayas",
+        "Christopher Storer",
+        "Christine Persaud"
+      ],
+      "titles": [
+        "The Walking Dead",
+        "American Gigolo",
+        "His Hers",
+        "The Odyssey",
+        "Dog Day Afternoon",
+        "The Bear",
+        "Ceres",
+        "Fishes",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "Queen: Hungarian Rhapsody - Live in Budapest '86",
+        "The Transformers: The Movie",
+        "Akira",
+        "Slow Horses",
+        "The Rookie"
+      ]
+    },
+    "keywords": [
+      "Jon Bernthal The Bear",
+      "Mikey Berzatto The Bear",
+      "The Bear Hulu series",
+      "Jon Bernthal Emmy"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/img_9862-1-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jon Bernthal Delivers One of His Finest Performances in Under 10 Episodes of The Bear",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 22:47:12 GMT"
   }
 };
