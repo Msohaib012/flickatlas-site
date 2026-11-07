@@ -76952,5 +76952,373 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Fri, 06 Nov 2026 23:31:00 EST"
+  },
+  "17yhrsz": {
+    "id": "17yhrsz",
+    "type": "news",
+    "headline": "Ramayana Art Director Reveals Millions Spent on Yash and Rakul Preet Singh Props",
+    "dek": "Fresh details surrounding the production design of Ramayana highlight massive expenditures on bespoke physical items, including a golden throne for Yash and a specialized chariot for Rakul Preet Singh.",
+    "body": [
+      {
+        "h": "Introduction to Physical Craftsmanship",
+        "p": [
+          "While modern mythological epics lean heavily onto computer-generated effects, Ramayana also relied on intricate physical builds crafted entirely by hand. Art director Ramesh Andhale recently shed light on the meticulous work invested in bringing specific legendary items to life for the big screen.",
+          "Rather than depending solely on digital wizardry, the production team constructed tangible set pieces that required months of specialized labor. These physical assets formed a critical part of establishing the distinct visual tone of the cinematic world."
+        ]
+      },
+      {
+        "h": "Yash's Golden Throne",
+        "p": [
+          "Among the most talked-about physical assets is the massive seat designed specifically for Yash in his portrayal of Ravana. Reports indicate that this opulent throne required a four-month construction timeline and totaled an expense of approximately Rs 1 crore.",
+          "The stunning visual appeal of the seat came from the application of 24-karat melted gold and gold leaf finishes. This luxurious treatment aimed to capture the supreme wealth and power expected of the king of Lanka."
+        ]
+      },
+      {
+        "h": "The Creation Process of the Throne",
+        "p": [
+          "Constructing the grand seat was not a direct process, as the art department began by shaping a precise clay model to finalize every intricate detail and measurement. Once the initial prototype received approval, the final structure was built using durable fibre materials.",
+          "This methodical workflow accounted for the extensive duration required to complete the prop. Every single phase of development needed strict quality checks before the team could transition to the next step."
+        ]
+      },
+      {
+        "h": "Rakul Preet Singh's Surpanakha Chariot",
+        "p": [
+          "In addition to the monarchical seating, art director Ramesh Andhale detailed the creation of a specialized vehicle assigned to Rakul Preet Singh's character, Surpanakha. Even though the prop features in just a single sequence, the construction process lasted three full months.",
+          "This gold-plated transport carried a reported price tag of Rs 1.15 crore, placing its total cost slightly higher than the grand throne built for Yash. The significant investment underscored the meticulous planning behind minor scenes."
+        ]
+      },
+      {
+        "h": "Functional Engineering on Set",
+        "p": [
+          "Building the transport presented unique hurdles for the design crew because the vehicle needed to be fully operational on location. Aesthetics alone were insufficient, as the structure had to function smoothly during live filming sessions.",
+          "Engineering a working vehicle while maintaining an extravagant appearance added substantial complexity to an already demanding timeline. The team successfully blended mechanical utility with high-end cinematic design."
+        ]
+      },
+      {
+        "h": "Scale and Critical Reception",
+        "p": [
+          "The staggering financial resources and hours poured into props that appear briefly on screen demonstrate the immense dedication of the art department. Such deep attention to tangible detail helped anchor the mythical atmosphere of the project.",
+          "Early reviews for the feature have largely commended its striking visuals and the extensive effort invested in crafting the mythological environment. Furthermore, critics highlighted Yash as a major standout, praising his commanding presence as Dashanan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Art director Ramesh Andhale revealed that a custom 24-karat gold throne for Yash cost Rs 1 crore and took four months to build for Ramayana. Additionally, a functional gold-plated chariot for Rakul Preet Singh cost Rs 1.15 crore and took three months to complete for a brief scene."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash plays Ravana in Ramayana",
+      "Rakul Preet Singh plays Surpanakha in Ramayana",
+      "Ramesh Andhale is the art director of Ramayana",
+      "Yash's Ravana throne cost Rs 1 crore",
+      "Yash's Ravana throne took 4 months to build",
+      "Yash's Ravana throne was made with 24-karat melted gold and gold leaf",
+      "Rakul Preet Singh's Surpanakha chariot cost Rs 1.15 crore",
+      "Rakul Preet Singh's Surpanakha chariot took 3 months to build"
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Rakul Preet Singh",
+        "Ramesh Andhale"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana film sets",
+      "Yash as Ravana",
+      "Ramayana Ravana throne cost",
+      "Surpanakha chariot cost",
+      "Ramayana art director Ramesh Andhale"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/06153138/image-31.jpeg",
+        "caption": "Ramayana Art Director Reveals Millions Spent on Yash and Rakul Preet Singh Props",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-07T05:13:49Z"
+  },
+  "11vmaok": {
+    "id": "11vmaok",
+    "type": "news",
+    "headline": "Delhi High Court Rules Film Doosra Infringed Sourav Ganguly's Personality Rights",
+    "dek": "The Delhi High Court has directed the producers of the film Doosra to deposit Rs. 2 crores and feature prominent disclaimers following a lawsuit filed by former Indian cricket captain Sourav Ganguly and Luv Films.",
+    "body": [
+      {
+        "h": "Judicial Ruling on Unauthorized Exploitation",
+        "p": [
+          "The legal dispute surrounding unauthorized portrayals of prominent sports figures reached a notable milestone when the Delhi High Court delivered its verdict. The judicial body determined that the motion picture Doosra unlawfully encroached upon the personality and publicity rights of former Indian cricket captain Sourav Ganguly.",
+          "As part of its official directives, the Court mandated that the production banner Ramesh Deo Productions Private Limited must deposit a sum of Rs. 2 crores. Furthermore, the studio was instructed to integrate clear disclaimers in both Hindi and English at the commencement and conclusion of the feature film."
+        ]
+      },
+      {
+        "h": "Origins of the Lawsuit and Legal Representation",
+        "p": [
+          "The proceedings originated from a formal legal complaint submitted jointly by Sourav Ganguly and production company Luv Films. The plaintiffs contested the unauthorized incorporation of Ganguly's personal identity and significant biographical incidents within the cinematic narrative of the project.",
+          "Responding to the grievances raised by the petitioners, the bench enacted restrictions preventing the filmmakers from distributing or premiering Doosra across digital streaming platforms or via any alternative broadcast mediums."
+        ]
+      },
+      {
+        "h": "Court Observations on Narrative Inseparability",
+        "p": [
+          "During the evaluation of the case, the Court noted that specific facets of the former athlete's persona and historical life events are deeply interwoven into the core storyline of the movie. Because these references form a continuous thread throughout the plot, the bench found it practically unfeasible to excise the contested segments from the final edited version.",
+          "To balance the inclusion of these narrative elements with legal protections, the Court opted for mandatory disclaimers. These notices are designed to explicitly inform viewers of the true nature of the cinematic project without relying on structural edits to the film itself."
+        ]
+      },
+      {
+        "h": "Mandatory Disclaimers and Non-Consent",
+        "p": [
+          "The enforced text within the film must clearly communicate specific boundaries to the audience regarding the involvement of the retired cricket star. Specifically, the disclaimers need to state that Ganguly withheld any formal consent regarding the commercial exploitation or theatrical depiction of his likeness.",
+          "Additionally, the notices must officially clarify that the production maintains no authorized affiliation, endorsement, or official backing from the former captain, ensuring that viewers understand the independent nature of the creative work."
+        ]
+      },
+      {
+        "h": "Broader Implications for Celebrity Rights",
+        "p": [
+          "This high-profile ruling highlights the evolving legal challenges associated with utilizing recognizable public figures and their private histories within commercial media and motion pictures. Publicity and personality rights exist primarily to safeguard individuals from unauthorized commercial capitalization tied to their established name, image, and likeness.",
+          "The decision serves as a key legal precedent concerning the boundaries of biographical storytelling and unauthorized appropriations within the entertainment industry, stressing the importance of proper permissions when referencing living personalities."
+        ]
+      },
+      {
+        "h": "Context of the Authorized Biopic Project",
+        "p": [
+          "While unauthorized projects face judicial scrutiny, legitimate biographical projects centered on the sports icon continue development. An officially sanctioned biographical film titled Dada: The Sourav Ganguly Story is currently in production.",
+          "The authorized movie is slated for theatrical release on May 14, 2026. The project is directed by Vikramaditya Motwane and is backed by producers Luv Ranjan and Ankur Garg."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Delhi High Court has ruled that the film Doosra violated Sourav Ganguly's personality rights, ordering the makers to deposit Rs. 2 crores and display clear disclaimers. The lawsuit, filed by Ganguly and Luv Films, also blocked the movie's release on OTT platforms due to unauthorized use of his life events.",
+          "While the unauthorized project faces judicial curbs, an official biopic titled Dada: The Sourav Ganguly Story remains scheduled for release in May 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The Delhi High Court ruled that the film Doosra infringed upon Sourav Ganguly's personality and publicity rights.",
+      "Makers Ramesh Deo Productions Private Limited were ordered to deposit Rs. 2 crore.",
+      "The film must display disclaimers in both Hindi and English at the beginning and end.",
+      "The lawsuit was filed by Sourav Ganguly along with Luv Films.",
+      "The Court restrained the makers from releasing Doosra on OTT platforms or through any other medium.",
+      "The authorised biographical film is titled Dada: The Sourav Ganguly Story.",
+      "Dada: The Sourav Ganguly Story is directed by Vikramaditya Motwane.",
+      "The biopic is produced by Luv Ranjan and Ankur Garg.",
+      "The biopic is scheduled for release on May 14, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Sourav Ganguly",
+        "Vikramaditya Motwane",
+        "Luv Ranjan",
+        "Ankur Garg",
+        "Abhinay Deo"
+      ],
+      "titles": [
+        "Doosra",
+        "Dada: The Sourav Ganguly Story"
+      ]
+    },
+    "keywords": [
+      "Doosra film",
+      "Sourav Ganguly personality rights",
+      "Delhi High Court Doosra",
+      "Dada The Sourav Ganguly Story",
+      "Ramesh Deo Productions"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Doosra-film-Sourav-Ganguly-case.jpeg",
+        "caption": "Delhi High Court Rules Film Doosra Infringed Sourav Ganguly's Personality Rights",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 10:10:58 +0200"
+  },
+  "6cnve0": {
+    "id": "6cnve0",
+    "type": "news",
+    "headline": "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
+    "dek": "MBC drama The Perfect Lie achieved its best viewership metrics to date with its third episode, whereas Doctor X sustained its strong dominance as the most-watched program in its time slot.",
+    "body": [
+      {
+        "h": "Rating Milestone for The Perfect Lie",
+        "p": [
+          "The television landscape continues to shift as new programs find their footing among viewers. MBC’s latest television drama, The Perfect Lie, recently experienced a notable uptick in viewership numbers, marking a personal best for the series.",
+          "According to measurement data compiled by Nielsen Korea, the broadcast on November 6 drew increased interest. This surge allowed the program to capture its highest nationwide ratings since its premiere, specifically reaching an average of 2.2 percent for its third episode."
+        ]
+      },
+      {
+        "h": "Star Power Behind the MBC Series",
+        "p": [
+          "Much of the attention surrounding the show stems from its prominent cast. The leading roles in The Perfect Lie are held by well-known actors Yoo Yeon Seok and Seo Hyun Jin.",
+          "Their collaboration in this current project follows previous successful joint appearances in other well-received television ventures, such as Dr. Romantic, which has kept viewer expectations high for their on-screen chemistry."
+        ]
+      },
+      {
+        "h": "Doctor X Maintains Its Leadership",
+        "p": [
+          "Even as new competitors gain traction, established favorites continue to command massive audiences. SBS broadcasts Doctor X in the exact same time slot, creating direct competition for viewers during the evening lineup.",
+          "Rather than losing ground, Doctor X successfully defended its position at the top. The series continued its reign as the most-watched program of the entire week, pulling in an impressive average nationwide rating of 15.3 percent."
+        ]
+      },
+      {
+        "h": "Time Slot Competition in Korean Television",
+        "p": [
+          "The battle for evening viewership remains fierce among major broadcasting networks. Securing a stable audience share requires appealing to diverse demographic groups who tune in during prime evening hours.",
+          "While Doctor X comfortably leads the pack with double-digit ratings, rising contenders like The Perfect Lie demonstrate that niche or growing dramas can still carve out a dedicated following and steadily improve their standing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MBC drama The Perfect Lie reached a new viewership high of 2.2 percent for its third episode on November 6, starring Yoo Yeon Seok and Seo Hyun Jin. Meanwhile, competing in the same time slot, SBS show Doctor X maintained its position as the most-watched program of the week with an average nationwide rating of 15.3 percent."
+        ]
+      }
+    ],
+    "facts": [
+      "The Perfect Lie aired its third episode on November 6, 2026.",
+      "The Perfect Lie scored an average nationwide rating of 2.2 percent according to Nielsen Korea.",
+      "Doctor X achieved an average nationwide rating of 15.3 percent.",
+      "Yoo Yeon Seok and Seo Hyun Jin star in The Perfect Lie and previously appeared together in Dr. Romantic."
+    ],
+    "entities": {
+      "people": [
+        "Yoo Yeon Seok",
+        "Seo Hyun Jin",
+        "E Cha"
+      ],
+      "titles": [
+        "The Perfect Lie",
+        "Doctor X",
+        "Dr. Romantic"
+      ]
+    },
+    "keywords": [
+      "The Perfect Lie",
+      "Doctor X",
+      "Yoo Yeon Seok",
+      "Seo Hyun Jin",
+      "The Perfect Lie ratings"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/07133357/The-Perfect-Lie-Doctor-X.jpg",
+        "caption": "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 04:37:12 +0000"
+  },
+  "513f8m": {
+    "id": "513f8m",
+    "type": "news",
+    "headline": "Charlie Hunnam Stars in Prime Video's Criminal Adaptation",
+    "dek": "Actor Charlie Hunnam takes the lead in Prime Video's adaptation of the award-winning comic series Criminal, bringing a blend of high-stakes heists and crime drama.",
+    "body": [
+      {
+        "h": "Charlie Hunnam Returns to Crime Thrillers",
+        "p": [
+          "Nearly two decades after the premiere of Sons of Anarchy, actor Charlie Hunnam is returning to the crime genre as one of the main leads in the upcoming Prime Video series Criminal. Hunnam, who famously portrayed Jax Teller, is also slated to appear in an upcoming Sons of Anarchy spin-off titled Legends.",
+          "Beyond his past work, Hunnam has established a strong reputation for starring in gritty crime projects like The Gentlemen. His involvement in Criminal has generated significant anticipation among fans of the genre."
+        ]
+      },
+      {
+        "h": "Adapting an Award-Winning Comic Series",
+        "p": [
+          "The upcoming streaming show is based on the acclaimed comic book series of the same name. Created, written, and illustrated across its installments by Ed Brubaker and Sean Phillips, the source material provides a rich foundation for the new adaptation.",
+          "The narrative explores a vast shared underworld where multiple generations of criminal families connect through heists and persistent cycles of violence."
+        ]
+      },
+      {
+        "h": "Creator Involvement as a Major Advantage",
+        "p": [
+          "Many television adaptations of graphic novels struggle by straying from their source material and excluding original creators. However, Prime Video's Criminal takes a direct approach by having comic writer Ed Brubaker serve as co-showrunner alongside novelist Jordan Harper.",
+          "With Brubaker directly guiding the production, the series is well-positioned to maintain the integrity and tone of his award-winning comics."
+        ]
+      },
+      {
+        "h": "Season 1 Arcs and Character Roles",
+        "p": [
+          "In the television adaptation, Charlie Hunnam is cast as a clever yet exceedingly careful thief who avoids violence during his operations. Season 1 will adapt two prominent story arcs from the comics titled Coward and Lawless.",
+          "While the Coward storyline centers on a heist that goes wrong, the Lawless arc features Luke Evans and Emilia Clarke leading a narrative about a man trying to rescue his brother."
+        ]
+      },
+      {
+        "h": "A Promising First Trailer and Star-Studded Cast",
+        "p": [
+          "The first promotional trailer for the series has debuted, highlighting high-stakes robbery sequences drawing comparisons to heist thrillers like Money Heist. The R-rated violence and betrayal themes also evoke the tone of Sons of Anarchy.",
+          "Alongside Hunnam and Emilia Clarke, the ensemble cast includes Adria Arjona, Michael Mando, Richard Jenkins, John Hawkes, Gus Halper, Kadeem Hardison, and Logan Browning."
+        ]
+      },
+      {
+        "h": "Production Background and Release Details",
+        "p": [
+          "Amazon greenlit the action-crime series in 2024. The production is set for release on January 13, 2027, exclusively on Prime Video.",
+          "With enough source material available for at least three full seasons, the project has the potential to become one of the streaming platform's premier offerings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Charlie Hunnam is set to star in Prime Video's adaptation of the comic series Criminal, scheduled for release on January 13, 2027. Co-showrunner Ed Brubaker is directly involved in bringing his award-winning stories to the screen alongside an ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Charlie Hunnam stars in Criminal",
+      "Criminal is a Prime Video series",
+      "Release date is January 13, 2027",
+      "Comics written by Ed Brubaker and illustrated by Sean Phillips",
+      "Co-showrunners are Ed Brubaker and Jordan Harper",
+      "Amazon greenlit the series in 2024",
+      "Season 1 adapts Coward and Lawless arcs"
+    ],
+    "entities": {
+      "people": [
+        "Charlie Hunnam",
+        "Ed Brubaker",
+        "Sean Phillips",
+        "Jordan Harper",
+        "Luke Evans",
+        "Emilia Clarke",
+        "Adria Arjona",
+        "Michael Mando",
+        "Richard Jenkins",
+        "John Hawkes",
+        "Gus Halper",
+        "Kadeem Hardison",
+        "Logan Browning",
+        "Sarah Carbiener"
+      ],
+      "titles": [
+        "Sons Of Anarchy",
+        "Money Heist",
+        "Legends",
+        "Criminal",
+        "The Gentlemen",
+        "Coward",
+        "Lawless"
+      ]
+    },
+    "keywords": [
+      "Charlie Hunnam Criminal",
+      "Prime Video Criminal series",
+      "Ed Brubaker Criminal comics",
+      "Criminal release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/93b55cbe-ae18-45aa-a59d-c3efa1482479.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Charlie Hunnam Stars in Prime Video's Criminal Adaptation",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 04:15:18 GMT"
   }
 };

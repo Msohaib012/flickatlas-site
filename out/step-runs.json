@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-06T03:51:48Z",
-    "run_id": "42158939444",
-    "status": "success",
-    "checked": {
-     "candidates": 414,
-     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Vijay Sethupathi to become FIRST Indian actor to present at 54th International Emmy Awards in New York: Report",
-      "Abhishek Bachchan's Eyes Say It All! Aishwarya Rai Gets His Undivided Attention At Manish Malhotra Diwali Bash",
-      "Scene X Review: What Audiences Are Saying About Suriya, Naslen And Nazriya Nazim's Film",
-      "'The Crown' star Josh O'Connor cast as next James Bond: Reports",
-      "All about Nicolas Cage and Riko Shibata",
-      "'Bandra' OTT release: Dileep and Tamannaah's arrives this Diwali",
-      "'Mookuthi Amman 2' Twitter review: Nayanthara, Regina Cassandra win praise",
-      "'Scene' X review: Suriya and Naslen impress audiences",
-      "Meghan Markle’s stepbrother Thomas Markle Jr. named a person of interest in father’s ongoing CAMS investigation",
-      "Travis Kelce says he’s excited to celebrate the holidays with Taylor Swift as a ‘married man'",
-      "CM Vijay, Trisha Krishnan attend Jagan Mohan Reddy's family wedding",
-      "‘Prahaar’ Box Office Slides: Day 21 nets ₹1 lakh; run nears end",
-      "Amit Sadh praises Rajkummar Rao amid career comparisons",
-      "Court allows lawsuit alleging The Pitt is an 'unauthorised reboot' of ER to move forward as the shows are 'similar enough'",
-      "Abhishek Bachchan and Aishwarya Rai arrive at Manish Malhotra's Diwali bash holding hands, can't take their eyes off each other in a loved-up moment",
-      "Diljit Dosanjh set to perform at 2026 Latin Grammys alongside Karol G, Bizarrap",
-      "Dolly Parton's manager moves to drop complaint accusing late singer's nephew of threatening estate",
-      "Diljit sings Hanuman Chalisa for Ramayana, seeks forgiveness for possible mistakes",
-      "ai assistants are simplifying the process of building web applications 3077360.html",
-      "ai is making customer portal development easier for growth of business 3077349.html"
-     ],
-     "updated": [],
-     "count": 312,
-     "detail": "325 stories, 0 duplicates removed, 89 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-06T04:51:38Z",
     "run_id": "42164862016",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "261 stories, 9 duplicates removed, 173 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-06T05:51:24Z",
-    "run_id": "42170781911",
+    "run_at": "2026-11-07T05:12:59Z",
+    "run_id": "42341739551",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 251,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Set Design Revealed: From Surpanakha's Chariot to Ravana's Throne",
-      "Keanu Reeves Officially Returns to John Wick Franchise for Animated Prequel",
-      "BTS ARIRANG Asia Concerts Heading To Cinemas Worldwide With New Teaser",
-      "Russell Crowe and Ryan Gosling's Cult Crime Thriller Climbs to Number One on Streaming"
+      "Delhi High Court rules Doosra infringed Sourav Ganguly's personality rights, directs makers to deposit Rs. 2 crores",
+      "Sunita Ahuja gets emotional over missing family Diwali celebrations",
+      "Dhanush apologises after fans with valid passes are denied entry at ‘OM’ audio launch",
+      "'Nobody forces actors without consent': Ineya",
+      "Tamil director Shankar calls Yash's Ravana a lovable villain in his Ramayana review; praises actor's performance",
+      "understanding investment strategies a beginners guide to stock market planning 3077357.html",
+      "aishwarya rai abhishek bachchan share loving glance at manish malhotras diwali party watch video",
+      "elvish yadav slams dating speculation says stop linking my name to everything more details inside",
+      "whos on your diwali gifting list a gift for every kind of buddy",
+      "yashs golden throne in ramayana cost rs 1 crore surpanakhas chariot was worth rs 1 15 crore report",
+      "madhuri dixit confirm son arin relationship with girlfriend celebrate diwali marriage soon tmovb 2690307 2026 11 07",
+      "salman khan father of two sons family complete maatrubhumi shabir ahluwalia sons azai ivaar bollywood debut chitrangada singh tmovb 2690339 2026 11 07",
+      "ramanand sagar ramayan vs nitesh tiwari ramayana acting compare tmovg dskc 2689955 2026 11 07",
+      "shanaya kapoor rumoured boyfriend karan kothari diwali party video tmovj dskc 2690268 2026 11 07",
+      "vidyut jammwal says tiger shroff is stressed after firing incident reaction on viral video tmovg dskc 2690257 2026 11 07",
+      "youtuber sourav joshi goa vlog wife avantika bhatt transparent dress controversy tmovj dskc 2690295 2026 11 07",
+      "salman khan bigg boss 20 crosses 100 crore watch time hours in just 60 days tmovg dskc 2690138 2026 11 06",
+      "youtuber kaashvi hiranandani announced breakup with scoutop after 5 years love gill cosy romance controversy tmovf dskc 2690316 2026 11 07",
+      "choti diwali 2026 date shubh muhurat puja vidhi abhyang snan yam deepdan narakasura vadh story mmta 2690358 2026 11 07",
+      "salman khan reaction ramayana movie budget vfx lord ram maatrubhumi film details mmtm 2690195 2026 11 06"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 233,
+     "detail": "251 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-07T05:13:50Z",
+    "run_id": "42341739551",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Art Director Reveals Millions Spent on Yash and Rakul Preet Singh Props",
+      "Delhi High Court Rules Film Doosra Infringed Sourav Ganguly's Personality Rights",
+      "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
+      "Charlie Hunnam Stars in Prime Video's Criminal Adaptation"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-06T05:53:47Z",
-    "run_id": "42170781911",
-    "status": "success",
-    "checked": {
-     "candidates": 203,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 202, coming 1"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1896,27 @@
      "detail": "now 245, coming 11"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-06T05:55:02Z",
-    "run_id": "42170781911",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-07T05:13:50Z",
+    "run_id": "42341739551",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 256,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 245, coming 11"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2377,27 +2360,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-06T03:52:19Z",
-    "run_id": "42158939444",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-07T05:33:37Z",
+    "run_id": "42341739551",
     "status": "success",
     "checked": {
-     "candidates": 561,
-     "detail": "556 collected staging rows from readers; 200 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 553 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2811,19 +2793,27 @@
      "detail": "+2 new rows, 4 updated rows, 591 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T05:33:35Z",
+    "run_id": "42341739551",
+    "status": "success",
+    "checked": {
+     "candidates": 606,
+     "detail": "601 collected staging rows from readers; 206 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 113,
+     "detail": "+0 new rows, 113 updated rows, 488 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3060,32 +3050,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-06T06:56:39Z",
-    "run_id": "42176994867",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Achieves Kollywood's Biggest Third Week In India",
-      "Prime Video Unveils First Trailer for Crime Series Criminal Starring Charlie Hunnam and Luke Evans",
-      "Scene Movie Review: Suriya embraces a flawed character in Jithu Madhavan's dark comedy",
-      "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Investigations"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3610,19 +3587,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-07T05:33:36Z",
+    "run_id": "42341739551",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Art Director Reveals Millions Spent on Yash and Rakul Preet Singh Props",
+      "Delhi High Court Rules Film Doosra Infringed Sourav Ganguly's Personality Rights",
+      "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
+      "Charlie Hunnam Stars in Prime Video's Criminal Adaptation"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3885,19 +3875,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4218,31 +4208,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-06T03:52:18Z",
-    "run_id": "42158939444",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 312 still unprocessed; today by category: movies 1/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 3/5, upcoming_releases 2/4, ott_streaming 3/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Vijay Sethupathi Makes History As The First Indian Actor To Present At The International Emmy Awards",
-      "Godzilla Minus Zero Roars With $6M Previews While Cat in the Hat Pulls In $1M",
-      "Abhishek Bachchan and Aishwarya Rai Capture Attention With Hand-in-Hand Arrival at Manish Malhotra's Star-Studded Diwali Party",
-      "Mason Thames Confirmed to Voice Dick Grayson in DC Studios Animated Feature Dynamic Duo"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4748,19 +4726,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-07T05:13:49Z",
+    "run_id": "42341739551",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 233 still unprocessed; today by category: movies 7/6, tv_dramas 3/4, episodes 0/2, box_office 5/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 4/4, trailers 0/3, awards 0/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Art Director Reveals Millions Spent on Yash and Rakul Preet Singh Props",
+      "Delhi High Court Rules Film Doosra Infringed Sourav Ganguly's Personality Rights",
+      "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
+      "Charlie Hunnam Stars in Prime Video's Criminal Adaptation"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5067,24 +5057,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 464,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5429,24 +5414,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
+     "count": 368,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5746,19 +5731,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6008,19 +5998,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6255,19 +6245,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6542,19 +6532,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6806,19 +6796,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7048,42 +7038,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-06T03:52:23Z",
-    "run_id": "42158939444",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "Ramayana: Part One Crosses Rs 100 Crore in Worldwide Advance Bookings Ahead of T",
-      "The Walt Disney Company Considers Massive Staff Reductions to Achieve Broad Fina",
-      "Ramayana Advance Bookings Cross ₹100 Crore Worldwide Ahead of Worldwide Release",
-      "Filming on The Batman Part II Suspended Following Stunt Incident Involving Batmo",
-      "Lucy Hale and Ian Harding Reunite in Hulu Holiday Comedy The 12 Dates of Christm",
-      "Prime Video's Invincible Holds High Standards Even For Its Lowest-Rated Chapter",
-      "Official US Trailer Released for Hong Kong Esports Action Film Gamer Girls",
-      "Bombay High Court Grants Dynamic Injunction to Protect 'Ramayana' From Copyright",
-      "All's Fair Season 2 Episode Release Schedule Revealed for Hulu Legal Drama",
-      "Kanika Mann Opens Up About Abusive Past Relationship Inside Bigg Boss House",
-      "Shah Rukh Khan's upcoming movie King earns over 200 crore profit before release ",
-      "John Turturro's Pickpocket Training for New York Film Nearly Led to Real-Life Ar",
-      "Choreographer Pony Verma Opens Up About Her Marriage to Prakash Raj and the 12-Y",
-      "Every Movie Releasing On Streaming, Digital, Physical Media This Week",
-      "Meta Partners With Lionsgate to Bring 'Sunrise on the Reaping' to 3D and Upcomin"
-     ],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7332,6 +7299,16 @@
     "category": "Trending News",
     "run_at": "2026-11-07T04:55:29Z",
     "run_id": "42340177698",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7777,16 +7754,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-06T05:05:20Z",
     "run_id": "42164862016",
     "status": "skipped",
@@ -8023,19 +7990,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-06T03:52:33Z",
-    "run_id": "42158939444",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8285,8 +8252,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-07T05:33:44Z",
+    "run_id": "42341739551",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-07T04:55:29Z"
+ "updated_at": "2026-11-07T05:33:44Z"
 }
