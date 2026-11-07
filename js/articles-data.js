@@ -76571,5 +76571,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T03:52:21Z"
+  },
+  "nz046s": {
+    "id": "nz046s",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Day 2: Ranbir Kapoor and Yash Starrer Enters Rs 220 Crore Club",
+    "dek": "Ramayana Part One: Rise of a Legend continues its robust theatrical run, crossing the Rs 220 crore milestone globally within its first two days.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The mythological epic Ramayana Part One: Rise of a Legend has achieved a major financial milestone by soaring past the Rs 220 crore mark globally. Following a strong opening, the feature saw continued momentum across both domestic and international markets during its extended Diwali holiday weekend.",
+          "Trade trackers report that the global gross stands at an impressive figure, reflecting high audience turnout as moviegoers flock to theatres to watch the large-scale cinematic adaptation."
+        ]
+      },
+      {
+        "h": "International and Overseas Collections",
+        "p": [
+          "International territories have contributed heavily to the feature's early box office success. On its second day in theatres, the production brought in a substantial amount from overseas ticket sales alone.",
+          "This strong foreign performance elevated the cumulative overseas gross significantly, proving that the mythological drama holds substantial appeal for audiences outside domestic borders."
+        ]
+      },
+      {
+        "h": "Opening Figures and Comparison",
+        "p": [
+          "The project debuted with a massive worldwide gross that included overseas preview screenings, setting a high benchmark for subsequent days. The opening domestic net and gross figures established a solid foundation for the holiday weekend.",
+          "With Day 2 bringing in further international revenue, the combined two-day figures showcase consistent growth compared to the initial launch day."
+        ]
+      },
+      {
+        "h": "Plot and Character Arcs",
+        "p": [
+          "Helmed by Nitesh Tiwari, the storyline navigates the parallel trajectories of Lord Rama and Ravana. It highlights the latter's ascent to authority alongside Rama's evolution from a young prince into a seasoned warrior.",
+          "Key early narrative points feature Rama's training under Sage Vishwamitra, his union with Sita following the breaking of Lord Shiva's bow, and the subsequent commencement of his fourteen-year exile from Ayodhya."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The main cast features Ranbir Kapoor as Lord Rama, Yash as Ravana, and Sai Pallavi portraying Sita. Their performances anchor the grand scale of this ambitious mythological adaptation.",
+          "Director Nitesh Tiwari leads the creative vision behind the production, which arrived in cinemas worldwide on November 5, 2026, capturing widespread attention during the festive period."
+        ]
+      },
+      {
+        "h": "Future Instalments and Franchise Plans",
+        "p": [
+          "Makers have already begun shaping the future of the franchise, confirming that the second chapter will premiere in cinemas during Diwali 2028. Producer Namit Malhotra noted that the schedule was adjusted from an initial 2027 target to guarantee optimal visual standards.",
+          "Additionally, discussions have emerged regarding the potential expansion of the narrative into a full trilogy, contingent upon how viewers receive this opening instalment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part One: Rise of a Legend crossed the Rs 220 crore mark worldwide by its second day in theatres during the extended Diwali weekend. The Nitesh Tiwari directorial stars Ranbir Kapoor, Yash, and Sai Pallavi, and has upcoming plans for a sequel in 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "The film crossed the Rs 220 crore mark worldwide on Day 2.",
+      "Day 2 overseas collection was Rs 35 crore.",
+      "Total overseas gross reached Rs 86.25 crore.",
+      "Total worldwide gross reached Rs 221.05 crore.",
+      "Day 1 India Net was Rs 64.85 crore.",
+      "Day 1 India Gross was Rs 77.50 crore.",
+      "Day 1 Worldwide Gross was Rs 155 crore.",
+      "Release date was November 5, 2026.",
+      "Part 2 is scheduled for release in Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Vishwamitra",
+        "Shiva",
+        "Shurpanakha"
+      ],
+      "titles": [
+        "Ramayana Part One: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One Rise of a Legend",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana worldwide box office Day 2",
+      "Nitesh Tiwari Ramayana collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156476931,thumbsize-230743,width-1280,height-720,resizemode-75/156476931.jpg",
+        "caption": "Ramayana Worldwide Box Office Day 2: Ranbir Kapoor and Yash Starrer Enters Rs 220 Crore Club",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T04:52:31Z"
+  },
+  "bb8q17": {
+    "id": "bb8q17",
+    "type": "news",
+    "headline": "Ha Yoon Kyung Reportedly Set to Join Kim Tae Ri in New Revenge K-Drama",
+    "dek": "Actress Ha Yoon Kyung is in talks to star alongside Kim Tae Ri in the upcoming revenge series Sister, I Am the Queen in This Life, marking a potential shift to her first major villainous role.",
+    "body": [
+      {
+        "h": "Casting Reports Surface",
+        "p": [
+          "Recent Korean entertainment media reports indicate that actress Ha Yoon Kyung has been tapped for a prominent role in the upcoming series Sister, I Am the Queen in This Life. The reports surfaced on November 7, generating considerable excitement among fans of contemporary Korean television.",
+          "While industry insiders have pointed to her involvement, representatives and production teams have yet to issue official casting confirmations. Audiences continue to monitor developments closely as contract discussions progress."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The narrative centers on a dramatic tale of betrayal and retribution, focusing on a protagonist who suffers abandonment by her husband, parents, and older sister. Ha Yoon Kyung is reportedly slated to bring a complex antagonist to life.",
+          "Her character, Shim Yeon Woo, also known as Isabella, maintains an obsession with maintaining absolute beauty and supremacy. Conflict arises when a rival she dismisses continually outpaces her, prompting the villainous character to deploy petty and ruthless tactics to reclaim what she believes belongs to her."
+        ]
+      },
+      {
+        "h": "A Dramatic Transformation for the Actress",
+        "p": [
+          "Should Ha Yoon Kyung officially accept the role, the project will represent a distinct departure from her previous performances. Since the beginning of her career, she has consistently avoided villainous characters, making this an unprecedented creative pivot.",
+          "Her impressive television resume includes acclaimed works such as The Apartment Job, Undercover Miss Hong, and Extraordinary Attorney Woo, showcasing her range across various genres."
+        ]
+      },
+      {
+        "h": "Connection to Kim Tae Ri",
+        "p": [
+          "The series has also been previously linked to prominent star Kim Tae Ri, who reportedly received an offer for the central role of Shim Ari, also known as Ariane. The potential pairing of these two celebrated actresses has significantly elevated expectations for the drama.",
+          "The dynamic between the protagonist and the antagonist forms the core of the storyline, setting the stage for high-stakes emotional confrontation."
+        ]
+      },
+      {
+        "h": "Busy Schedule and Production Team",
+        "p": [
+          "Beyond current casting discussions, Ha Yoon Kyung maintains an active slate of professional commitments. She is currently awaiting the release of the upcoming JTBC production Sacred Jewel and recently completed principal photography for the Netflix project First Doctor.",
+          "Behind the scenes, the series benefits from a strong collaborative foundation. It is backed by production companies Studio N and Studio Dragon, with direction led by Jeong Dae Yun, whose previous credits include She Was Pretty, I Am Not a Robot, Reborn Rich, and Sacred Jewel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Korean media reports indicate that Ha Yoon Kyung is in talks to play a villain in the revenge drama Sister, I Am the Queen in This Life alongside Kim Tae Ri. The series is directed by Jeong Dae Yun and produced by Studio N and Studio Dragon."
+        ]
+      }
+    ],
+    "facts": [
+      "On November 7, 2026, My Daily reported that Ha Yoon Kyung joined the cast of Sister, I Am the Queen in This Life.",
+      "Ha Yoon Kyung was reportedly cast as Shim Yeon Woo (Isabella).",
+      "Kim Tae Ri was reportedly offered the role of Shim Ari/Ariane.",
+      "Ha Yoon Kyung's previous works include The Apartment Job, Undercover Miss Hong, Extraordinary Attorney Woo, Sacred Jewel, and First Doctor.",
+      "Sister, I Am the Queen in This Life is produced by Studio N and Studio Dragon.",
+      "The director of Sister, I Am the Queen in This Life is Jeong Dae Yun."
+    ],
+    "entities": {
+      "people": [
+        "Ha Yoon Kyung",
+        "Kim Tae Ri",
+        "Jeong Dae Yun"
+      ],
+      "titles": [
+        "Sister, I Am the Queen in This Life",
+        "The Apartment Job",
+        "Undercover Miss Hong",
+        "Extraordinary Attorney Woo",
+        "Sacred Jewel",
+        "First Doctor",
+        "She Was Pretty",
+        "I'm Not a Robot",
+        "Reborn Rich"
+      ]
+    },
+    "keywords": [
+      "Ha Yoon Kyung",
+      "Kim Tae Ri",
+      "Sister I Am the Queen in This Life",
+      "Jeong Dae Yun"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/Dyyy5r_2f.jpg",
+        "caption": "Ha Yoon Kyung Reportedly Set to Join Kim Tae Ri in New Revenge K-Drama",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 04:43:59 +0000"
+  },
+  "1h2t2if": {
+    "id": "1h2t2if",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 62 Highlights: Arishfa Khan Ascends to Captaincy Amid Rising Household Tensions",
+    "dek": "Episode 62 of Bigg Boss 20 brought high drama featuring Arishfa Khan taking over as captain, conflicts over household chores involving Love Gill, and emotional friction in the kitchen.",
+    "body": [
+      {
+        "h": "Introduction to Episode 62",
+        "p": [
+          "The sixty-second episode of Bigg Boss 20 delivered plenty of high-octane drama and entertainment for viewers following the Salman Khan-hosted reality series. November 6, 2026, marked a significant turning point in the house as leadership shifted and old arguments flared up among the contestants.",
+          "From surprising sacrifices leading to new leadership roles to fiery kitchen disputes and tearful breakdowns, the episode kept audiences completely hooked on the changing dynamics within the compound."
+        ]
+      },
+      {
+        "h": "Arishfa Khan Becomes the New Captain",
+        "p": [
+          "The episode kicked off in the main living area where Bigg Boss gathered all the residents to announce a leadership transition. Following a choice made by Mahhi Vij regarding a family message, Bigg Boss proposed putting Arishfa Khan in the captain's chair.",
+          "Recognizing Arishfa's earlier personal sacrifice, the entire house rallied behind her with unanimous votes of praise. Officially securing the role, Arishfa immediately took charge by assigning daily responsibilities to her fellow housemates."
+        ]
+      },
+      {
+        "h": "Yung DSA Mocks Love Gill",
+        "p": [
+          "Away from the main living spaces, lighter moments of banter occurred in the garden area. Amrapali Dubey, Yung DSA, and Kanika Mann gathered to chat about how Love Gill was acting inside the house.",
+          "Providing comic relief, Yung DSA put on an imitation of Love Gill's distinct walking and talking mannerisms, which sent both Amrapali and Kanika into fits of laughter."
+        ]
+      },
+      {
+        "h": "Clashes Over Kitchen Chores",
+        "p": [
+          "Domestic duties quickly turned into a battleground when Uditi Singh approached Arishfa Khan to complain about poorly cleaned utensils left by Love Gill. Prompted by the complaint, Arishfa instructed Love to re-wash the items, prompting an immediate confrontation.",
+          "Love suspected that Mahhi Vij had been the one whispering complaints to the captain. This assumption caused Mahhi to lose her temper and fiercely defend herself against the accusation."
+        ]
+      },
+      {
+        "h": "Yung DSA and Mahhi Vij Face Off",
+        "p": [
+          "The kitchen stress continued when Yung DSA expressed strong dissatisfaction with the upma prepared by Mahhi Vij, confronting her directly over the meal's quality.",
+          "Mahhi responded that her cooking abilities were limited to that standard, but the criticism weighed heavily on her. Deeply offended by his remarks, she retreated to the bedroom in tears."
+        ]
+      },
+      {
+        "h": "ScoutOP and Love Gill Resolve Issues",
+        "p": [
+          "Earlier in the episode, Love Gill also engaged in a candid conversation with ScoutOP that quickly escalated into a heated argument. Scout voiced strong objections concerning Love's conduct in the house.",
+          "Love pushed back against any attempts to control her actions, leading to a tense exchange. However, the pair managed to talk things through and successfully resolved their differences."
+        ]
+      },
+      {
+        "h": "A Chaotic House Environment",
+        "p": [
+          "With Arishfa assigning extra chores and multiple arguments breaking out simultaneously, the entire household transformed into a chaotic war zone. Contestants found themselves divided over duties, cooking standards, and personal boundaries.",
+          "As alliances shifted and fresh grievances surfaced, the fallout from the captaincy change guaranteed that future episodes would feature even more friction among the residents."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 62 of Bigg Boss 20 featured Arishfa Khan stepping into the role of captain following her recent sacrifice and unanimous house approval. The episode was marked by intense confrontations over kitchen chores, emotional friction between contestants, and shifting household dynamics."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 Episode 62 aired on November 6, 2026.",
+      "Arishfa Khan became the new captain of the house.",
+      "Salman Khan is the host of the show.",
+      "Yung DSA confronted Mahhi Vij over her upma.",
+      "Love Gill engaged in arguments with Mahhi Vij, Arishfa Khan, and ScoutOP."
+    ],
+    "entities": {
+      "people": [
+        "Arishfa Khan",
+        "Love Gill",
+        "Mahhi Vij",
+        "Yung DSA",
+        "Amrapali Dubey",
+        "Kanika Mann",
+        "ScoutOP",
+        "Uditi Singh",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 62",
+      "Arishfa Khan captain",
+      "Love Gill Mahhi Vij argument",
+      "Yung DSA Mahhi Vij"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156476267,thumbsize-122563,width-1280,height-720,resizemode-75/156476267.jpg",
+        "caption": "Bigg Boss 20 Episode 62 Highlights: Arishfa Khan Ascends to Captaincy Amid Rising Household Tensions",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-07T04:52:31Z"
+  },
+  "sgr9lo": {
+    "id": "sgr9lo",
+    "type": "news",
+    "headline": "KYUHYUN Announces New EP CONTINUE and Major Asia Tour",
+    "dek": "Popular singer KYUHYUN is preparing to launch a brand new five-track EP titled CONTINUE alongside a sweeping tour across Asia.",
+    "body": [
+      {
+        "h": "An Exciting Musical Return",
+        "p": [
+          "Renowned singer KYUHYUN has officially revealed plans to treat his global fanbase to a fresh musical offering. With the announcement of an upcoming EP, the artist aims to broaden the artistic boundaries he has carefully constructed over the course of his career.",
+          "This release serves as a bridge for listeners to experience entirely new emotional chapters told through a rich mixture of sonic textures and storytelling approaches."
+        ]
+      },
+      {
+        "h": "Album Preview and Tracklist Reveal",
+        "p": [
+          "To build anticipation ahead of the drop, an official album preview video was shared on his YouTube channel. The promotional clip highlights audio snippets from all five songs included in the record, letting eager fans sample the upcoming material.",
+          "The tracklist spans several distinct styles, anchored by powerful vocal performances that unite the various genres into a cohesive listening experience."
+        ]
+      },
+      {
+        "h": "Spotlighting the Ballads and Lead Track",
+        "p": [
+          "The focal point of the record is the main title song, which functions as an emotional ballad expressing profound feelings toward someone dear. Another track on the tracklist follows a similar acoustic style with an emphasis on dramatic narrative depth.",
+          "These emotional pieces allow the performer to display the vulnerable vocal control and rich tone that have become his signature over the years."
+        ]
+      },
+      {
+        "h": "Exploring Pop Rock and City Pop",
+        "p": [
+          "Moving beyond traditional slow songs, the project ventures into alternative territories. One selection offers an upbeat pop-rock sound driven by vibrant and expressive vocal delivery.",
+          "Another track adopts a rhythmic vintage city-pop aesthetic, proving the singer's versatility across multiple contemporary musical landscapes."
+        ]
+      },
+      {
+        "h": "A Message of Hope and Continuation",
+        "p": [
+          "The five-song sequence rounds out with a medium-tempo tune designed to share an uplifting message of encouragement and hope with listeners.",
+          "Choosing the title for the record underscores the performer's dedication to moving forward, continuing his artistic journey without losing the core identity he established long ago."
+        ]
+      },
+      {
+        "h": "Kicking Off the Asia Tour in Seoul",
+        "p": [
+          "In tandem with the record, the performer will launch a massive regional concert series titled KYUHYUN ASIA TOUR CONTINUE. The live trek begins with a multi-day residency in the capital city.",
+          "These initial shows will take place at a prominent local venue, giving supporters their first chance to hear the fresh tracks performed live alongside older favorites."
+        ]
+      },
+      {
+        "h": "Release Details and Schedule",
+        "p": [
+          "The complete record is scheduled to drop globally across digital streaming platforms and online music services for all listeners to enjoy.",
+          "Both the upcoming live concerts and the recorded tracks are designed to complement one another, painting a complete picture of his current artistic era."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer KYUHYUN is set to release a five-track EP titled CONTINUE featuring the title song Promise alongside other diverse tracks. Following the album release, he will embark on an Asia tour that kicks off with concerts in Seoul."
+        ]
+      }
+    ],
+    "facts": [
+      "KYUHYUN uploaded an album preview video on November 6 KST",
+      "The EP CONTINUE consists of five tracks",
+      "The title song is called Promise",
+      "Other tracks include An Endless Season, FILAMENT, I Thought I Was Okay, and Sailboat",
+      "The EP will be released on November 11 at 6 PM KST",
+      "The Asia tour is officially titled KYUHYUN ASIA TOUR CONTINUE",
+      "The tour kicks off with a three-day concert in Seoul from December 18 to 20",
+      "The Seoul concerts take place at Jangchung Arena in Jung-gu, Seoul"
+    ],
+    "entities": {
+      "people": [
+        "KYUHYUN",
+        "Minsoo-Kim"
+      ],
+      "titles": [
+        "CONTINUE",
+        "Promise",
+        "An Endless Season",
+        "FILAMENT",
+        "I Thought I Was Okay",
+        "Sailboat",
+        "KYUHYUN ASIA TOUR CONTINUE"
+      ]
+    },
+    "keywords": [
+      "KYUHYUN CONTINUE EP",
+      "KYUHYUN Asia tour",
+      "KYUHYUN Promise song",
+      "KYUHYUN new album release"
+    ],
+    "images": [],
+    "published": "Fri, 06 Nov 2026 23:31:00 EST"
   }
 };
