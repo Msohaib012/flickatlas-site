@@ -16,6 +16,7 @@
 #     js/published-titles.js, js/trending-data.js -> title-seed.py
 #     js/articles-data.js                         -> apply-auto.py
 #     js/home-articles-data.js                    -> home_articles.py
+#     js/home-titles-data.js                      -> home_titles.py
 #     api-news.json, api-trends.json              -> convert-news.py
 #     js/daywise-data.js                          -> multisource engine
 #     js/ott-data.js                              -> build_ott.py
@@ -42,7 +43,7 @@ stage_all() {
   # fails ENTIRELY when one pathspec is missing, which would leave
   # other files unstaged and break the pull --rebase below.
   local f
-  for f in js/articles-data.js js/home-articles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js js/trending-topics.js js/worldwide-data.js \
+  for f in js/articles-data.js js/home-articles-data.js js/home-titles-data.js js/daywise-data.js js/published-titles.js js/trending-data.js js/advance-data.js js/ott-data.js js/reviews-data.js js/trending-topics.js js/worldwide-data.js \
            js/seo-meta.json sitemap.xml robots.txt llms-full.txt \
            api-news.json api-trends.json \
            js/stats-pipeline.json js/stats-traffic.json js/stats-health.json \
@@ -103,6 +104,7 @@ resolve_and_continue() {
     local regen_title="" regen_apply="" regen_news="" regen_daywise=""
     local regen_ott="" regen_reviews="" regen_trending="" regen_advance=""
     local regen_home=""
+    local regen_home_titles=""
     local html_conflict=""
     local f
     for f in $conflicted; do
@@ -122,6 +124,10 @@ resolve_and_continue() {
         js/home-articles-data.js)
           git checkout --ours -- "$f"
           regen_home=1
+          ;;
+        js/home-titles-data.js)
+          git checkout --ours -- "$f"
+          regen_home_titles=1
           ;;
         api-news.json|api-trends.json)
           git checkout --ours -- "$f"
@@ -171,7 +177,7 @@ resolve_and_continue() {
         echo "commit-retry: WARNING title-seed.py failed — published-titles.js stays at origin/main's version"
         git checkout --ours -- js/published-titles.js js/trending-data.js 2>/dev/null || true
       fi
-      git add js/published-titles.js js/trending-data.js 2>/dev/null || true
+      git add js/published-titles.js js/trending-data.js js/home-titles-data.js 2>/dev/null || true
     fi
     if [ -n "$regen_apply" ]; then
       echo "commit-retry: regenerating articles-data.js via apply-auto.py"
@@ -188,6 +194,14 @@ resolve_and_continue() {
         git checkout --ours -- js/home-articles-data.js 2>/dev/null || true
       fi
       git add js/home-articles-data.js 2>/dev/null || true
+    fi
+    if [ -n "$regen_home_titles" ]; then
+      echo "commit-retry: regenerating home-titles-data.js via home_titles.py"
+      if ! python3 scripts/home_titles.py; then
+        echo "commit-retry: WARNING home_titles.py failed — home-titles-data.js stays at origin/main's version"
+        git checkout --ours -- js/home-titles-data.js 2>/dev/null || true
+      fi
+      git add js/home-titles-data.js 2>/dev/null || true
     fi
     if [ -n "$regen_news" ]; then
       echo "commit-retry: regenerating api-news.json via convert-news.py"

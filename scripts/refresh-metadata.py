@@ -306,6 +306,17 @@ def main():
                                        published, pt.HEADER)
         print(f"refresh-metadata: {len(updated)} updated, "
               f"{checked} checked | file changed: {changed_file}")
+        # Homepage subset (js/home-titles-data.js) tracks
+        # js/published-titles.js (scripts/home_titles.py). Best-effort
+        # — the hourly workflow rebuilds it before commit regardless.
+        # Default-out only, so a temp --out run never touches it.
+        if os.path.abspath(args.out) == os.path.abspath(DEFAULT_OUT):
+            try:
+                import home_titles
+                home_titles.write_home_titles(ROOT, published)
+            except Exception as e:  # noqa: BLE001
+                print(f"home-titles: WARNING subset rebuild "
+                      f"failed: {e}")
     else:
         print(f"refresh-metadata (dry run): would update "
               f"{len(updated)}, {checked} checked | file NOT written"

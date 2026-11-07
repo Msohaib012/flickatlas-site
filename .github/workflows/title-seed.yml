@@ -41,7 +41,7 @@ jobs:
         run: |
           # Titles, OTT groups, and trending IDs are all browser-cached
           # generated assets; bump URLs when any of them changes.
-          if git diff --quiet -- js/published-titles.js js/ott-data.js js/trending-data.js; then
+          if git diff --quiet -- js/published-titles.js js/home-titles-data.js js/ott-data.js js/trending-data.js; then
             echo "generated assets unchanged, keeping ?v="
           else
             NEWV="fa-$(date -u +%Y%m%d%H%M)"
@@ -53,7 +53,8 @@ jobs:
         # one atomic change; the helper fails closed on undeclared outputs.
         env:
           RETRY_ADD: >-
-            js/published-titles.js js/ott-data.js js/trending-data.js
+            js/published-titles.js js/home-titles-data.js
+            js/ott-data.js js/trending-data.js
             out/step-runs.json out/source-refresh-state.json
           RETRY_REGEN: "python3 scripts/title-seed.py"
           RETRY_MESSAGE: "auto: title seed"

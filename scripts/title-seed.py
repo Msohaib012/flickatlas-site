@@ -991,6 +991,17 @@ def main():
                                   pt.HEADER)
         print(f"title-seed: +{len(added)} new, {skipped} skipped | "
               f"file changed: {changed}")
+        # Homepage subset (js/home-titles-data.js) tracks
+        # js/published-titles.js (scripts/home_titles.py). Best-effort
+        # — the hourly workflow rebuilds it before commit regardless.
+        # Default-out only, so a temp --out run never touches it.
+        if os.path.abspath(args.out) == os.path.abspath(DEFAULT_OUT):
+            try:
+                import home_titles
+                home_titles.write_home_titles(ROOT, published)
+            except Exception as e:  # noqa: BLE001
+                print(f"home-titles: WARNING subset rebuild "
+                      f"failed: {e}")
     else:
         print(f"title-seed (dry run): would add {len(added)}, "
               f"{skipped} skipped | file NOT written")

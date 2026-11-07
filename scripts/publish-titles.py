@@ -459,6 +459,18 @@ def main():
     changed = write_js_map(args.out, "FA_PUBLISHED", published, HEADER)
     print(f"published-titles: +{added} new, {updated} updated, "
           f"{skipped} skipped | file changed: {changed}")
+    # Homepage subset (js/home-titles-data.js) tracks
+    # js/published-titles.js: the homepage loads only the slim file,
+    # never the full one (scripts/home_titles.py). Best-effort — the
+    # hourly workflow rebuilds the subset before commit regardless; a
+    # failure here must not break the publish. Default-out only, so a
+    # test run against a temp --out never touches the real subset.
+    if os.path.abspath(args.out) == os.path.abspath(DEFAULT_OUT):
+        try:
+            import home_titles
+            home_titles.write_home_titles(ROOT, published)
+        except Exception as e:  # noqa: BLE001
+            print(f"home-titles: WARNING subset rebuild failed: {e}")
     return 0
 
 

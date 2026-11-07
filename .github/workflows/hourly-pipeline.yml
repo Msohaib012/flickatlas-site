@@ -468,12 +468,22 @@ jobs:
         continue-on-error: true
         run: python3 scripts/home_articles.py
 
+      # --- 11d. Homepage titles subset (always, never fatal) --------
+      # Rebuild js/home-titles-data.js (ALL titles, slim fields) from
+      # js/published-titles.js: the homepage loads ONLY the subset, so
+      # it must never go stale against the full file. The title
+      # writers also rebuild it inline; this step is the run-level
+      # guarantee.
+      - name: Build homepage titles subset
+        continue-on-error: true
+        run: python3 scripts/home_titles.py
+
       # --- 12. ONE ?v= bump (was up to 4 separate rewrites/hour) -------
       - name: Bump asset version when content changed
         id: bump
         continue-on-error: true
         run: |
-          if git diff --quiet -- js/articles-data.js js/home-articles-data.js js/published-titles.js js/daywise-data.js js/advance-data.js js/worldwide-data.js js/ott-data.js js/trending-data.js js/trending-topics.js js/reviews-data.js; then
+          if git diff --quiet -- js/articles-data.js js/home-articles-data.js js/published-titles.js js/home-titles-data.js js/daywise-data.js js/advance-data.js js/worldwide-data.js js/ott-data.js js/trending-data.js js/trending-topics.js js/reviews-data.js; then
             echo "public data assets unchanged, keeping ?v="
           else
             NEWV="fa-$(date -u +%Y%m%d%H%M)"
