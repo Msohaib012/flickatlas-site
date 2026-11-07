@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-06T08:52:23Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana secures Rs 155 crore worldwide opening, setting pre-Diwali box office benchmark",
-      "Russell Brand Faces Potential Prison Sentence Following Guilty Verdict",
-      "Suriya Starrer 'Scene' Surpasses Nayanthara's 'Mookuthi Amman 2' in Opening Day Numbers",
-      "Jennie Releases Anthemic New Single 'Someone to Hold' for Upcoming Netflix Film Steps"
-     ],
-     "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-06T09:52:28Z",
     "run_id": "42198064238",
     "status": "success",
@@ -1480,6 +1457,24 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-07T09:18:36Z",
+    "run_id": "42357175462",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1920,23 +1915,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-06T09:05:40Z",
-    "run_id": "42190571185",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-06T09:52:30Z",
     "run_id": "42198064238",
     "status": "success",
@@ -2373,6 +2351,23 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-07T09:18:37Z",
+    "run_id": "42357175462",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "multisource_boxoffice": [
@@ -3062,29 +3057,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-06T09:52:30Z",
-    "run_id": "42198064238",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Salman Khan Starrer Maatrubhumi Gets Official Release Date",
-      "Allu Arjun and Ram Charan Unite with the Mega Family for Sai Durgha Tej and Kiran's Engagement in Hyderabad",
-      "Karoshi Unveils Its First Dystopian Action Trailer",
-      "California Governor Gavin Newsom Commutes 548 Death Row Sentences"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-06T10:54:58Z",
     "run_id": "42205721679",
     "status": "success",
@@ -3603,6 +3575,26 @@
      ],
      "updated": [],
      "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-07T09:18:36Z",
+    "run_id": "42357175462",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Composer Anirudh Steps Down From Shah Rukh Khan Starrer King Due to Scheduling Conflicts"
+     ],
+     "updated": [],
+     "count": 1,
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
@@ -8367,5 +8359,5 @@
    }
   ]
  },
- "updated_at": "2026-11-07T09:14:19Z"
+ "updated_at": "2026-11-07T09:18:37Z"
 }
