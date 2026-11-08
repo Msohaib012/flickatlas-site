@@ -45,6 +45,76 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 08 Nov 2026 13:55:25 +0200"
   },
+  "r0cgc7": {
+    "id": "r0cgc7",
+    "type": "news",
+    "headline": "Lucy Hale and Ian Harding Reveal Future Project Hopes Following Their Onscreen Reunion",
+    "dek": "The former Pretty Little Liars co-stars discuss teaming up again after years apart and share ideas for exploring different genres.",
+    "entities": {
+      "people": [
+        "Lucy Hale",
+        "Ian Harding",
+        "Carter Jenkins",
+        "Troian Bellisario",
+        "Shay Mitchell",
+        "Ashley Benson",
+        "Sasha Pieterse"
+      ],
+      "titles": [
+        "12 Dates of Christmas",
+        "Pretty Little Liars"
+      ]
+    },
+    "keywords": [
+      "Lucy Hale Ian Harding",
+      "12 Dates of Christmas film",
+      "Pretty Little Liars cast",
+      "Lucy Hale Carter Jenkins"
+    ],
+    "images": [
+      {
+        "url": "https://www.usmagazine.com/wp-content/uploads/2026/11/THE-12-DATES-OF-CHRISTMAS.jpg?w=1200&#038;h=630&#038;crop=1&#038;quality=86&#038;strip=all",
+        "caption": "Lucy Hale and Ian Harding Reveal Future Project Hopes Following Their Onscreen Reunion",
+        "source": "US Weekly"
+      }
+    ],
+    "published": "2026-11-08T10:42:12Z"
+  },
+  "u48hfx": {
+    "id": "u48hfx",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Body Double JD Sharma Reveals Yash Performed His Own Stunts and Tandav",
+    "dek": "In an exclusive interview, actor JD Sharma opens up about working as Yash's body double in Ramayana: Part 1, revealing details about the Dashanan sequence and securing a role in Part 2.",
+    "entities": {
+      "people": [
+        "Yash",
+        "JD Sharma",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Namit Malhotra",
+        "Geetu Mohandas"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2",
+        "Toxic - A Fairy Tale for Grown-Ups"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Yash Ravana tandav",
+      "JD Sharma body double",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156481542,thumbsize-259198,width-1280,height-720,resizemode-75/156481542.jpg",
+        "caption": "Ramayana: Part 1 Body Double JD Sharma Reveals Yash Performed His Own Stunts and Tandav",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T10:42:12Z"
+  },
   "1krfvwb": {
     "id": "1krfvwb",
     "type": "news",
@@ -219,6 +289,83 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 15:11:56 +0530"
+  },
+  "15qljzq": {
+    "id": "15qljzq",
+    "type": "news",
+    "headline": "Apple TV Spy Thriller Slow Horses Achieves Major Streaming Milestone Amid James Bond Casting Speculation",
+    "dek": "Led by Gary Oldman and Jack Lowden, the acclaimed espionage series Slow Horses continues to dominate streaming charts while its lead actor addresses 007 rumors.",
+    "entities": {
+      "people": [
+        "Adam Blevins",
+        "Gary Oldman",
+        "Jack Lowden",
+        "Daniel Craig"
+      ],
+      "titles": [
+        "Severance",
+        "Pluribus",
+        "Ted Lasso",
+        "The Morning Show",
+        "Slow Horses",
+        "James Bond"
+      ]
+    },
+    "keywords": [
+      "Slow Horses",
+      "Jack Lowden James Bond",
+      "Gary Oldman Slow Horses",
+      "Apple TV streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/james-bond-daniel-craig-spectre.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Apple TV Spy Thriller Slow Horses Achieves Major Streaming Milestone Amid James Bond Casting Speculation",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 09:40:12 GMT"
+  },
+  "1x4c5l5": {
+    "id": "1x4c5l5",
+    "type": "news",
+    "headline": "Ashok Selvan Character Revealed as Karna in Nagarjuna's Milestone Film",
+    "dek": "Director Ra Karthik shared the first look poster of actor Ashok Selvan as Karna from the upcoming Telugu project King100 on the actor's thirty-seventh birthday.",
+    "entities": {
+      "people": [
+        "Nagarjuna",
+        "Ashok Selvan",
+        "Ra Karthik",
+        "Tabu",
+        "Aishwarya Rajesh",
+        "Sushmitha Bhat",
+        "Devi Sri Prasad",
+        "Raja Mahadhevan",
+        "Naveen Nooli",
+        "Satheeskumar",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "King100",
+        "Nitham Oru Vaanam",
+        "King"
+      ]
+    },
+    "keywords": [
+      "King100 film",
+      "Ashok Selvan Karna",
+      "Nagarjuna King100",
+      "Ra Karthik movie",
+      "Tabu Mahanthi Jhansi Rani"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135655882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ashok Selvan Character Revealed as Karna in Nagarjuna's Milestone Film",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T14:59:20+05:30"
   },
   "1bdy37g": {
     "id": "1bdy37g",
@@ -4477,147 +4624,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 00:14:11 +0000"
-  },
-  "1unihag": {
-    "id": "1unihag",
-    "type": "news",
-    "headline": "Global Box Office Update Features Monster Sequels and a Massive Diwali Opening",
-    "dek": "North America sees a battle between Godzilla Minus Zero and The Cat in the Hat, while Ramayana: Part 1 dominates global charts with a historic festive debut.",
-    "entities": {
-      "people": [
-        "Bill Hader",
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi"
-      ],
-      "titles": [
-        "Godzilla Minus Zero",
-        "Godzilla Minus One",
-        "The Cat in the Hat",
-        "You Can See Everything",
-        "Clayface",
-        "Wild Horse Nine",
-        "Resident Evil",
-        "Street Fighter",
-        "Wildwood",
-        "Drummer Boy",
-        "Jimmy",
-        "Ramayana: Part 1"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 1 box office",
-      "Godzilla Minus Zero opening",
-      "The Cat in the Hat film",
-      "Ramayana Part 1 Diwali opening"
-    ],
-    "images": [
-      {
-        "url": "https://showpulp.com/wp-content/uploads/2026/07/boxoffice-1024x473.jpg",
-        "caption": "Global Box Office Update Features Monster Sequels and a Massive Diwali Opening",
-        "source": "ShowPulp"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 22:08:01 +0000"
-  },
-  "1osbnod": {
-    "id": "1osbnod",
-    "type": "news",
-    "headline": "Jessica Chastain Heads to Nashville in Netflix Thriller Heartland",
-    "dek": "The two-tone Oscar nominee takes center stage in a gritty country music mystery dropping on Netflix later this year.",
-    "entities": {
-      "people": [
-        "Jessica Chastain",
-        "Garrett Hedlund",
-        "Carter Faith",
-        "Ross Lynch",
-        "Ben Dickey",
-        "Jennifer Nettles",
-        "John Hawkes",
-        "Shana Feste"
-      ],
-      "titles": [
-        "Heartland",
-        "Country Strong",
-        "Run Sweetheart Run"
-      ]
-    },
-    "keywords": [
-      "Heartland Netflix",
-      "Jessica Chastain Heartland",
-      "Shana Feste Heartland",
-      "Heartland release date"
-    ],
-    "images": [
-      {
-        "url": "https://showpulp.com/wp-content/uploads/2026/11/chastain-resized.jpg",
-        "caption": "Jessica Chastain Heads to Nashville in Netflix Thriller Heartland",
-        "source": "ShowPulp"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 22:07:26 +0000"
-  },
-  "qme8k6": {
-    "id": "qme8k6",
-    "type": "news",
-    "headline": "Macklemore States US Venues Refused Free Palestine Tour Bookings",
-    "dek": "American rapper Macklemore revealed that nine major US concert venues, including Madison Square Garden and the Kia Forum, declined to book dates for his Free Palestine tour.",
-    "entities": {
-      "people": [
-        "Macklemore",
-        "Ed Sheeran",
-        "Lisa Richwine",
-        "Cynthia Osterman"
-      ],
-      "titles": [
-        "Thrift Shop"
-      ]
-    },
-    "keywords": [
-      "Macklemore Free Palestine tour",
-      "Madison Square Garden Macklemore",
-      "Macklemore US venues rejected",
-      "Macklemore Ed Sheeran tour"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/music1_1753007917165_1753007947386.jpeg",
-        "caption": "Macklemore States US Venues Refused Free Palestine Tour Bookings",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Sat, 07 Nov 2026 03:30:11 +0530"
-  },
-  "10hb28o": {
-    "id": "10hb28o",
-    "type": "news",
-    "headline": "Shailesh Lodha Sparked Online Debate Over Stage Preachers and Hypocrisy",
-    "dek": "Television actor and poet Shailesh Lodha drew intense public attention and social media debate after questioning spiritual preachers who lecture on abandoning worldly attachments while sitting on grand thrones.",
-    "entities": {
-      "people": [
-        "Shailesh Lodha",
-        "Dhirendra Shastri",
-        "Kumar Vishwas",
-        "Jethalal"
-      ],
-      "titles": [
-        "Tarak Mehta Ka Ooltah Chashmah"
-      ]
-    },
-    "keywords": [
-      "Shailesh Lodha",
-      "Bageshwar Dham Dhirendra Shastri",
-      "Kumar Vishwas",
-      "Tarak Mehta Ka Ooltah Chashmah"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aedad7e5dbe5-shailesh-lodha-slams-kathavachak-bageshwar-dhirendra-shastri-063541173-16x9.jpg",
-        "caption": "Shailesh Lodha Sparked Online Debate Over Stage Preachers and Hypocrisy",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-06T21:52:05Z"
   },
   "ex0d4f": {
     "id": "ex0d4f",

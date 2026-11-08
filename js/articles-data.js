@@ -86000,5 +86000,392 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 15:16:14 +0530"
+  },
+  "1x4c5l5": {
+    "id": "1x4c5l5",
+    "type": "news",
+    "headline": "Ashok Selvan Character Revealed as Karna in Nagarjuna's Milestone Film",
+    "dek": "Director Ra Karthik shared the first look poster of actor Ashok Selvan as Karna from the upcoming Telugu project King100 on the actor's thirty-seventh birthday.",
+    "body": [
+      {
+        "h": "First Look Unveiled on a Special Day",
+        "p": [
+          "The creative team behind the upcoming Tollywood feature King100 marked a major milestone by revealing the first look of actor Ashok Selvan on his thirty-seventh birthday. The production team utilized social media platforms to introduce his character to eager fans.",
+          "The project holds special significance as it represents the one hundredth film appearance for veteran Tollywood actor Nagarjuna. The birthday reveal generated considerable excitement across entertainment circles."
+        ]
+      },
+      {
+        "h": "Character Details and Poster Insights",
+        "p": [
+          "In the newly released promotional poster, Ashok Selvan is shown seated casually outside a prison structure. A police uniform placed prominently beside him provides a strong hint that his character serves as a law enforcement officer.",
+          "Director Ra Karthik accompanied the poster reveal with an enthusiastic social media post wishing the actor well. The filmmaker praised the actor's energy and hinted at an intense on-screen presence."
+        ]
+      },
+      {
+        "h": "Director's Vision and Past Collaboration",
+        "p": [
+          "Filmmaker Ra Karthik described the character named Karna as an untamed force operating without any boundaries. His statement emphasized a wild and unrestricted energy tailored for the narrative world of the project.",
+          "This upcoming feature marks a creative reunion between the director and Ashok Selvan. The duo previously worked together on the filmmaker's directorial debut titled Nitham Oru Vaanam released in the year 2022."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Beyond the leading names, the film features a notable supporting cast including actors Aishwarya Rajesh and Sushmitha Bhat in significant parts. Their involvement adds further depth to the expanding character lineup.",
+          "The production also brings together diverse acting talents from different segments of the Indian film industry, setting up a multi-faceted dramatic experience for cinema enthusiasts."
+        ]
+      },
+      {
+        "h": "Tabu Returns to Telugu Cinema",
+        "p": [
+          "Earlier character revelations highlighted veteran actress Tabu joining the project as a powerful politician named Mahanthi Jhansi Rani. Promotional materials indicate her character harbors ambitions reaching toward the highest office.",
+          "This high-profile casting marks Tabu's official return to the Telugu film industry after a gap of six years. Her introductory promotional glimpse showcased a resolute character reliant entirely on grit rather than fortune."
+        ]
+      },
+      {
+        "h": "Technical Crew and Musical Scoring",
+        "p": [
+          "King100 is being constructed on a grand production scale backed by an experienced technical lineup. Noted composer Devi Sri Prasad has been brought on board to craft the musical score.",
+          "The behind-the-scenes department also includes cinematographer Raja Mahadhevan, editor Naveen Nooli, and art director Satheeskumar, all working together to build the distinctive visual atmosphere of the film."
+        ]
+      },
+      {
+        "h": "Theatrical Release Schedule",
+        "p": [
+          "The makers have scheduled the theatrical premiere of King100 for December twenty-fourth. The release date positions the film for an important holiday window.",
+          "On the exact same date, Shah Rukh Khan's upcoming action thriller titled King is also slated to arrive in cinemas, setting up a notable box office clash."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Makers of the Tollywood milestone King100 unveiled Ashok Selvan as Karna on his thirty-seventh birthday with a poster directed by Ra Karthik. The film also features Nagarjuna and Tabu, with a theatrical release planned for December twenty-fourth."
+        ]
+      }
+    ],
+    "facts": [
+      "Ashok Selvan turned 37 years old.",
+      "King100 is the 100th film of Nagarjuna.",
+      "Ra Karthik is the director of King100.",
+      "Nitham Oru Vaanam was released in 2022.",
+      "Tabu plays Mahanthi Jhansi Rani.",
+      "King100 is scheduled to release on December 24."
+    ],
+    "entities": {
+      "people": [
+        "Nagarjuna",
+        "Ashok Selvan",
+        "Ra Karthik",
+        "Tabu",
+        "Aishwarya Rajesh",
+        "Sushmitha Bhat",
+        "Devi Sri Prasad",
+        "Raja Mahadhevan",
+        "Naveen Nooli",
+        "Satheeskumar",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "King100",
+        "Nitham Oru Vaanam",
+        "King"
+      ]
+    },
+    "keywords": [
+      "King100 film",
+      "Ashok Selvan Karna",
+      "Nagarjuna King100",
+      "Ra Karthik movie",
+      "Tabu Mahanthi Jhansi Rani"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135655882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ashok Selvan Character Revealed as Karna in Nagarjuna's Milestone Film",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T14:59:20+05:30"
+  },
+  "15qljzq": {
+    "id": "15qljzq",
+    "type": "news",
+    "headline": "Apple TV Spy Thriller Slow Horses Achieves Major Streaming Milestone Amid James Bond Casting Speculation",
+    "dek": "Led by Gary Oldman and Jack Lowden, the acclaimed espionage series Slow Horses continues to dominate streaming charts while its lead actor addresses 007 rumors.",
+    "body": [
+      {
+        "h": "Apple TV Streaming Strategy",
+        "p": [
+          "While digital platforms such as Netflix and Prime Video boast massive subscriber bases, Apple TV has carved out a distinct reputation by prioritizing production value and critical acclaim over raw numbers. The platform has become particularly celebrated for its ambitious science fiction programming, highlighted by critically lauded projects like Severance and Pluribus.",
+          "Beyond futuristic sci-fi narratives, the streamer maintains a diverse portfolio of successful original content across various genres. Viewers have long embraced offerings like the uplifting comedy Ted Lasso and the high-stakes newsroom drama The Morning Show, proving the platform's versatility in attracting distinct audience segments."
+        ]
+      },
+      {
+        "h": "The Popularity of Slow Horses",
+        "p": [
+          "Amid its diverse catalog, Apple TV features a standout espionage thriller that has secured long-term stability and extensive creative backing. Slow Horses, which features stellar performances from veteran actor Gary Oldman and co-star Jack Lowden, has already secured multiple future seasons beyond its immediate renewals.",
+          "The spy series recently concluded its sixth season run in September, eventually signing off from its broadcast schedule on October 21. Despite being off the air for weeks, the production continues to exert a massive influence on the digital landscape."
+        ]
+      },
+      {
+        "h": "An Incredible Streaming Streak",
+        "p": [
+          "Demonstrating rare staying power in modern television, Slow Horses has maintained a dominant presence across viewing charts throughout the entire year. The spy drama has successfully secured a spot in the top 10 streaming lists for over 300 consecutive days.",
+          "This continuous engagement highlights how prestige television can achieve sustained long-term viewership on subscription services, outlasting typical weekly release spikes through strong word-of-mouth and binge-watching audiences."
+        ]
+      },
+      {
+        "h": "James Bond Casting Rumors",
+        "p": [
+          "Public attention surrounding the series has intensified recently due to persistent industry speculation regarding one of its principal stars. Rumors have swirled online suggesting that Jack Lowden is being actively considered to take over the iconic role of 007.",
+          "As the espionage drama enjoys its ongoing chart success, the potential casting change has kept both the show and its actors at the center of entertainment news discussions throughout early November."
+        ]
+      },
+      {
+        "h": "Official Status of 007 Succession",
+        "p": [
+          "Despite widespread media reports and intense fan discussions, studio representatives have not officially confirmed any casting decisions regarding the next iteration of the British secret agent. Daniel Craig concluded his tenure as the famous spy in recent years, leaving the legendary cinematic franchise searching for its next lead.",
+          "While Lowden features prominently among the names reportedly under consideration by decision-makers, industry insiders emphasize that nothing has been finalized as the search for the next James Bond continues."
+        ]
+      },
+      {
+        "h": "Future Slate for Apple TV Hits",
+        "p": [
+          "The streaming service's broader slate of veteran hits is currently facing various stages of transition and conclusion. While The Morning Show has been officially slated to return next year for its final season, the ultimate fate of Ted Lasso remains unconfirmed by network executives.",
+          "As older flagship comedies and dramas wrap up their respective runs, spy thrillers like Slow Horses are increasingly positioned to anchor the platform's prestige television identity moving forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Apple TV spy thriller Slow Horses has maintained a top 10 streaming presence for over 300 days following the conclusion of its sixth season in October. Meanwhile, star Jack Lowden has drawn intense media attention due to unconfirmed industry rumors linking him to the upcoming James Bond franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Apple TV's Slow Horses stars Gary Oldman and Jack Lowden.",
+      "The sixth season of Slow Horses aired in September and went off the air on October 21.",
+      "Slow Horses has been in the top 10 on streaming for over 300 days.",
+      "Jack Lowden has been rumored to be considered for the role of James Bond following Daniel Craig.",
+      "The Morning Show is confirmed to return next year for one final season."
+    ],
+    "entities": {
+      "people": [
+        "Adam Blevins",
+        "Gary Oldman",
+        "Jack Lowden",
+        "Daniel Craig"
+      ],
+      "titles": [
+        "Severance",
+        "Pluribus",
+        "Ted Lasso",
+        "The Morning Show",
+        "Slow Horses",
+        "James Bond"
+      ]
+    },
+    "keywords": [
+      "Slow Horses",
+      "Jack Lowden James Bond",
+      "Gary Oldman Slow Horses",
+      "Apple TV streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/james-bond-daniel-craig-spectre.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Apple TV Spy Thriller Slow Horses Achieves Major Streaming Milestone Amid James Bond Casting Speculation",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 09:40:12 GMT"
+  },
+  "u48hfx": {
+    "id": "u48hfx",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Body Double JD Sharma Reveals Yash Performed His Own Stunts and Tandav",
+    "dek": "In an exclusive interview, actor JD Sharma opens up about working as Yash's body double in Ramayana: Part 1, revealing details about the Dashanan sequence and securing a role in Part 2.",
+    "body": [
+      {
+        "h": "Behind the Scenes of the Epic",
+        "p": [
+          "The theatrical release of Ramayana: Part 1 has generated tremendous excitement among moviegoers, particularly due to the powerhouse performances of its lead cast. Directed by Nitesh Tiwari, the mythological epic features Ranbir Kapoor as Lord Rama alongside Kannada star Yash stepping into the formidable role of the demon king Ravana. While the film has captivated audiences on the big screen, new behind-the-scenes details have emerged regarding how some of the most visually striking sequences were brought to life.",
+          "In a recent exclusive interaction with Zoom, actor JD Sharma shared his firsthand experience of working on the sets of the magnum opus. Sharma served as a body double for Yash during specific portions of the production, offering fans a rare glimpse into the rigorous physical preparation and execution required to bring such a grand mythological narrative to cinematic reality."
+        ]
+      },
+      {
+        "h": "Executing the Dashanan Sequence",
+        "p": [
+          "A central point of discussion from Sharma's interview involved the intricate Dashanan sequence, which showcases Ravana with his ten heads. Sharma explained that he stepped in as a dupe for Yash during this specific portion of the film. Specifically, the body double handled the complex movements involving the ten heads where the character engages in internal dialogue and questions himself on screen.",
+          "The entire sequence was meticulously filmed at Film City in Mumbai. Sharma noted that while he laid the groundwork for these specific multi-headed portions and body positioning, the collaboration on set required close coordination with director Nitesh Tiwari to ensure the visual continuity matched the character's demanding presence."
+        ]
+      },
+      {
+        "h": "Yash Performed His Own Stunts and Tandav",
+        "p": [
+          "Despite utilizing a body double for specific framing tasks like the multi-headed Dashanan setup, Sharma emphasized that Yash maintained total physical control over his character's heavy action requirements. The actor explicitly revealed that Yash performed all of Ravana's intense fight sequences by himself without relying on a stunt double.",
+          "In addition to the hand-to-hand combat and martial choreography, Yash also took complete charge of performing Ravana's traditional tandav on camera. This dedication to executing the physically demanding choreography personally has drawn considerable praise from crew members and audiences alike following the film's theatrical premiere."
+        ]
+      },
+      {
+        "h": "From Body Double to Cast Member in Part 2",
+        "p": [
+          "Working on the production of Ramayana: Part 1 also proved to be a career-changing opportunity for JD Sharma. Having previously collaborated with Yash on Geetu Mohandas' upcoming project Toxic - A Fairy Tale for Grown-Ups, Sharma already shared a professional connection with the lead star before joining the mythological epic.",
+          "Impressed by his dedication on set and guidance from director Nitesh Tiwari, Sharma was offered a proper acting role in the upcoming sequel, Ramayana: Part 2. The actor noted that the opportunity to secure a substantial character part came to him organically while he was actively performing his dupe duties on location."
+        ]
+      },
+      {
+        "h": "Box Office Triumph and Commercial Success",
+        "p": [
+          "Beyond the BTS revelations, Ramayana: Part 1 has been making waves at the global box office. Produced jointly by Namit Malhotra and Yash, the big-budget epic pulled in a massive collection of Rs 375.50 crore worldwide by its third day of release.",
+          "Domestically, the film is performing exceptionally well and is poised to cross the significant Rs 200 crore milestone in India soon. The strong financial performance reflects the immense anticipation surrounding the cinematic adaptation and the star power of its cast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Body double JD Sharma revealed in an exclusive interview that Yash performed his own fight sequences and tandav for his role as Ravana in Ramayana: Part 1, while Sharma handled specific multi-headed Dashanan scenes filmed at Film City in Mumbai. Working on the production also earned Sharma a proper acting role in the upcoming Ramayana: Part 2, as the epic film crossed a worldwide box office collection of Rs 375.50 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash plays Ravana in Ramayana: Part 1.",
+      "Ranbir Kapoor plays Lord Rama in Ramayana: Part 1.",
+      "Nitesh Tiwari is the director of Ramayana: Part 1.",
+      "JD Sharma worked as a body double for Yash on the Dashanan sequence.",
+      "The Dashanan sequence was shot at Film City in Mumbai.",
+      "JD Sharma secured a role in Ramayana: Part 2.",
+      "Yash and JD Sharma previously collaborated on Toxic - A Fairy Tale for Grown-Ups, directed by Geetu Mohandas.",
+      "Ramayana: Part 1 collected Rs 375.50 crore at the worldwide box office by day 3.",
+      "Ramayana: Part 1 is produced by Namit Malhotra and Yash."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "JD Sharma",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Namit Malhotra",
+        "Geetu Mohandas"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Ramayana: Part 2",
+        "Toxic - A Fairy Tale for Grown-Ups"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Yash Ravana tandav",
+      "JD Sharma body double",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156481542,thumbsize-259198,width-1280,height-720,resizemode-75/156481542.jpg",
+        "caption": "Ramayana: Part 1 Body Double JD Sharma Reveals Yash Performed His Own Stunts and Tandav",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T10:42:12Z"
+  },
+  "r0cgc7": {
+    "id": "r0cgc7",
+    "type": "news",
+    "headline": "Lucy Hale and Ian Harding Reveal Future Project Hopes Following Their Onscreen Reunion",
+    "dek": "The former Pretty Little Liars co-stars discuss teaming up again after years apart and share ideas for exploring different genres.",
+    "body": [
+      {
+        "h": "Reuniting on Screen After Years Apart",
+        "p": [
+          "Actors Lucy Hale and Ian Harding recently reunited to play love interests in the holiday project 12 Dates of Christmas. This marked their first major collaboration since portraying the iconic couple Aria Montgomery and Ezra Fitz in the hit mystery series Pretty Little Liars.",
+          "Reflecting on stepping back onto a set together, the pair noted how quickly their previous dynamic returned. After an initial fleeting moment of first-day nerves, they easily settled into the familiar rhythm of working alongside a trusted friend."
+        ]
+      },
+      {
+        "h": "Discussing Future Genre Explorations",
+        "p": [
+          "With their holiday movie bringing them back together, the co-stars have already begun brainstorming potential future collaborations. During an interview, Harding humorously suggested that they should cycle through completely different cinematic genres for their next outing.",
+          "Expanding on the concept, the duo joked about starring in a horror film together. Specifically, they envisioned playing a newly married couple where one partner turns out to be a ghost."
+        ]
+      },
+      {
+        "h": "Mutual Admiration and Friendship",
+        "p": [
+          "Despite living on opposite sides of the country, the actors have maintained contact over the years since their teen drama concluded in 2017. Hale expressed immense praise for her co-star, emphasizing that working with him remains an absolute joy due to their built-in history.",
+          "Harding reciprocated the sentiment, noting that he wanted to ensure any project they chose together relied on clever tropes rather than wasting their established chemistry. He felt that 12 Dates of Christmas served as the ideal vehicle to reconnect professionally."
+        ]
+      },
+      {
+        "h": "Looking Back at Pretty Little Liars",
+        "p": [
+          "The lasting fondness viewers hold for their past work heavily influenced their decision to collaborate again. From 2010 to 2017, the ensemble mystery followed four friends targeted by an anonymous tormentor known as 'A' following the disappearance of Alison DiLaurentis.",
+          "Alongside characters like Spencer Hastings, Emily Fields, and Hanna Marin, the central romance between Aria and Ezra captured significant fan attention throughout the show's run, creating a legacy that persists years after the finale."
+        ]
+      },
+      {
+        "h": "Real-Life Connections on Set",
+        "p": [
+          "The holiday project also offered unexpected personal throwbacks for Hale, including working alongside actor Carter Jenkins. In real life, Jenkins was actually Hale's very first boyfriend when she was fifteen years old.",
+          "The two have remained close friends over the years following their teenage romance. Hale fondly recalled early memories of their relationship, including a movie date followed by a sushi outing with Jenkins' mother."
+        ]
+      },
+      {
+        "h": "Real-Life Dating Versus Movie Chaos",
+        "p": [
+          "While her character Christina navigates a chaotic lineup of twelve disastrous dates leading up to Christmas, Hale's personal experiences look quite different. The actress admitted she has been fortunate in her romantic life, mostly experiencing monogamous relationships.",
+          "She noted that she never really navigated a heavy dating scene during her twenties and managed to avoid any truly wild or disastrous dates during her more recent dating experiences."
+        ]
+      },
+      {
+        "h": "Streaming Availability",
+        "p": [
+          "Fans interested in seeing the duo's recent onscreen pairing can stream the holiday feature directly from home. The movie is currently available for audiences to watch on Hulu.",
+          "Whether they tackle a spooky ghost story next or stick to lighthearted romantic tropes, the actors have left the door wide open for future artistic partnerships."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lucy Hale and Ian Harding discussed their recent onscreen reunion in the holiday movie 12 Dates of Christmas and expressed enthusiasm for working together on future projects across different genres. The actors reflected on their history from Pretty Little Liars, while Hale also shared memories of working alongside her first real-life boyfriend, Carter Jenkins, who appears in the holiday film."
+        ]
+      }
+    ],
+    "facts": [
+      "Lucy Hale is 37 years old.",
+      "Ian Harding is 40 years old.",
+      "Pretty Little Liars aired from 2010 to 2017 and ended in 2017.",
+      "Carter Jenkins was Lucy Hale's first boyfriend when she was 15 years old.",
+      "12 Dates of Christmas is streaming on Hulu."
+    ],
+    "entities": {
+      "people": [
+        "Lucy Hale",
+        "Ian Harding",
+        "Carter Jenkins",
+        "Troian Bellisario",
+        "Shay Mitchell",
+        "Ashley Benson",
+        "Sasha Pieterse"
+      ],
+      "titles": [
+        "12 Dates of Christmas",
+        "Pretty Little Liars"
+      ]
+    },
+    "keywords": [
+      "Lucy Hale Ian Harding",
+      "12 Dates of Christmas film",
+      "Pretty Little Liars cast",
+      "Lucy Hale Carter Jenkins"
+    ],
+    "images": [
+      {
+        "url": "https://www.usmagazine.com/wp-content/uploads/2026/11/THE-12-DATES-OF-CHRISTMAS.jpg?w=1200&#038;h=630&#038;crop=1&#038;quality=86&#038;strip=all",
+        "caption": "Lucy Hale and Ian Harding Reveal Future Project Hopes Following Their Onscreen Reunion",
+        "source": "US Weekly"
+      }
+    ],
+    "published": "2026-11-08T10:42:12Z"
   }
 };
