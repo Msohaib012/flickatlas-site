@@ -8383,7 +8383,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.8655
+    "popularity": 0.691
   },
   "1764113": {
     "id": 1764113,
@@ -8463,7 +8463,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.9786
+    "popularity": 0.7489
   },
   "1812391": {
     "id": 1812391,
@@ -8486,7 +8486,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.337
+    "popularity": 0.2873
   },
   "1812389": {
     "id": 1812389,
@@ -8513,7 +8513,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 2.9945
+    "popularity": 1.9309
   },
   "1811895": {
     "id": 1811895,
@@ -8538,7 +8538,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.1359
+    "popularity": 0.1012
   },
   "1810158": {
     "id": 1810158,
@@ -8561,7 +8561,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 1.9034
+    "popularity": 2.4602
   },
   "1809511": {
     "id": 1809511,
@@ -8588,7 +8588,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 1.0895
+    "popularity": 0.9485
   },
   "1808132": {
     "id": 1808132,
@@ -8607,13 +8607,15 @@ window.FA_PUBLISHED = {
     "production_countries": [
       "IT"
     ],
-    "spoken_languages": [],
+    "spoken_languages": [
+      "it"
+    ],
     "published_at": "2026-10-31",
     "date_kind": "release",
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.4288
+    "popularity": 0.3826
   },
   "1808082": {
     "id": 1808082,
@@ -8638,7 +8640,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.2731
+    "popularity": 0.2316
   },
   "1807445": {
     "id": 1807445,
@@ -8665,7 +8667,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.6358
+    "popularity": 0.462
   },
   "1807419": {
     "id": 1807419,
@@ -8690,7 +8692,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 4.1021
+    "popularity": 3.0183
   },
   "1806862": {
     "id": 1806862,
@@ -8713,7 +8715,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.3312
+    "popularity": 0.2825
   },
   "1806668": {
     "id": 1806668,
@@ -8765,7 +8767,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.2081
+    "popularity": 0.213
   },
   "1804649": {
     "id": 1804649,
@@ -8789,7 +8791,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.1535
+    "popularity": 0.1442
   },
   "1803585": {
     "id": 1803585,
@@ -8816,7 +8818,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 1.3782
+    "popularity": 1.2166
   },
   "1801806": {
     "id": 1801806,
@@ -8841,7 +8843,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.2369
+    "popularity": 0.1718
   },
   "1232569": {
     "id": 1232569,
@@ -10091,7 +10093,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0.092
+    "popularity": 0.0413
   },
   "1801510": {
     "id": 1801510,
@@ -11222,10 +11224,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4674
+    "popularity": 0.543
   },
   "1813944": {
     "id": 1813944,
@@ -11250,7 +11252,7 @@ window.FA_PUBLISHED = {
     "status": "In Production",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.3239
+    "popularity": 0.3544
   },
   "1813038": {
     "id": 1813038,
@@ -11275,7 +11277,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4093
+    "popularity": 0.4784
   },
   "1812988": {
     "id": 1812988,
@@ -11295,10 +11297,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.2581
+    "popularity": 0.172
   },
   "1812553": {
     "id": 1812553,
@@ -11320,10 +11322,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.3268
+    "popularity": 0.3026
   },
   "1811193": {
     "id": 1811193,
@@ -11343,10 +11345,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.3153
+    "popularity": 1.5286
   },
   "1811168": {
     "id": 1811168,
@@ -11366,10 +11368,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.5091
+    "popularity": 0.4438
   },
   "1810065": {
     "id": 1810065,
@@ -11393,10 +11395,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.3696
+    "popularity": 3.5889
   },
   "1809842": {
     "id": 1809842,
@@ -11420,10 +11422,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.4163
+    "popularity": 1.5291
   },
   "1809838": {
     "id": 1809838,
@@ -11447,10 +11449,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.5074
+    "popularity": 0.8027
   },
   "1809836": {
     "id": 1809836,
@@ -11474,10 +11476,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.6149
+    "popularity": 1.0842
   },
   "1809833": {
     "id": 1809833,
@@ -11501,10 +11503,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.755
+    "popularity": 1.3245
   },
   "1809831": {
     "id": 1809831,
@@ -11528,10 +11530,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.326
+    "popularity": 0.1005
   },
   "1809676": {
     "id": 1809676,
@@ -11553,10 +11555,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.6988
+    "popularity": 0.3776
   },
   "1809662": {
     "id": 1809662,
@@ -11580,10 +11582,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.9031
+    "popularity": 1.5478
   },
   "1809659": {
     "id": 1809659,
@@ -11607,10 +11609,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4813
+    "popularity": 1.392
   },
   "1809658": {
     "id": 1809658,
@@ -11634,10 +11636,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4894
+    "popularity": 1.9771
   },
   "1809595": {
     "id": 1809595,
@@ -11661,10 +11663,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.8595
+    "popularity": 2.2615
   },
   "1809422": {
     "id": 1809422,
@@ -11689,10 +11691,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4767
+    "popularity": 0.5327
   },
   "1813677": {
     "id": 1813677,
@@ -11796,10 +11798,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0
+    "popularity": 0.3405
   },
   "1760311": {
     "id": 1760311,
@@ -11855,10 +11857,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.1962
+    "popularity": 1.5007
   },
   "1813355": {
     "id": 1813355,
@@ -11912,10 +11914,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4555
+    "popularity": 0.0579
   },
   "1796321": {
     "id": 1796321,
@@ -11959,10 +11961,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-01",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.5394
+    "popularity": 0.1348
   },
   "1773374": {
     "id": 1773374,
@@ -12036,10 +12038,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.5279
+    "popularity": 0.2334
   },
   "1803692": {
     "id": 1803692,
@@ -12086,10 +12088,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.5484
+    "popularity": 0.1351
   },
   "1652389": {
     "id": 1652389,
@@ -12138,10 +12140,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.6738
+    "popularity": 0.0743
   },
   "1756307": {
     "id": 1756307,
@@ -12195,10 +12197,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.497
+    "popularity": 0.1238
   },
   "1733243": {
     "id": 1733243,
@@ -12248,10 +12250,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-01",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.5034
+    "popularity": 0.0659
   },
   "1814456": {
     "id": 1814456,
@@ -19189,7 +19191,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 4.2963
+    "popularity": 3.6259
   },
   "303044": {
     "id": 303044,
@@ -19699,7 +19701,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-07",
-    "popularity": 0
+    "popularity": 0.1941
   },
   "1803837": {
     "id": 1803837,
@@ -20647,5 +20649,538 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-09-25",
     "popularity": 202.1924
+  },
+  "1817236": {
+    "id": 1817236,
+    "type": "movie",
+    "title": "Motu Patlu & the Mystery of Nagmani",
+    "poster_path": "/xyV3uXSuGz6O1EtEXn94jQZV4rm.jpg",
+    "backdrop_path": "/mdI9891jh9o7fhvKiyBRHdMCnj3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Motu and Patlu chase John into a time portal after he steals a precious diamond locket, sending them 900 years into the past into the ancient city of Andherius.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-08",
+    "popularity": 0.2733
+  },
+  "1820614": {
+    "id": 1820614,
+    "type": "movie",
+    "title": "Some Pages, Some People",
+    "poster_path": "/UP3mIdmd3x9hXB1xQ0XBFX642O.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "brings together three individuals who reflect on the significance of reading, the cultural richness of Hindi literature, and the need to reconnect with the written word. Through their conversations, the documentary explores the relationship between literature, language, memory, and our understanding of the world.",
+    "industry": "bollywood",
+    "original_language": "hi",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-08",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-07",
+    "popularity": 0
+  },
+  "1820578": {
+    "id": 1820578,
+    "type": "movie",
+    "title": "Antisémitisme, une haine toujours en mouvements",
+    "poster_path": "/zoNqcmo3gbiAvVfXowrmrscT5Dw.jpg",
+    "backdrop_path": "/bWcozN4brHhMx8PxqcpRqcHbxqs.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "he",
+      "ar",
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0
+  },
+  "1687464": {
+    "id": 1687464,
+    "type": "movie",
+    "title": "Animal Justice",
+    "poster_path": "/e2c00R9DI6VK2PfPOA2fBco3sTP.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Nick Morgan, a dedicated National Park Ranger, with a passion for wildlife takes a dark turn when he witnesses a brutal act of animal abuse. Nick embarks on a clandestine mission to protect these vulnerable creatures Will he find a way?",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-07",
+    "popularity": 1.7082
+  },
+  "297491": {
+    "id": 297491,
+    "type": "tv",
+    "title": "Under Siege",
+    "poster_path": "/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+    "backdrop_path": "/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "CO"
+    ],
+    "production_countries": [
+      "CO"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-08",
+    "status": "Ended",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2026-11-06",
+    "popularity": 28.8146
+  },
+  "1819570": {
+    "id": 1819570,
+    "type": "movie",
+    "title": "Fatma Said and the Abdelwahab Plan",
+    "poster_path": "/bWSAe4OvqHy1CLjIGGWADtpVwoG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The film bears a joint Egyptian-German character, and through its title and artistic journey, it provides a space to celebrate one of the most prominent figures of Arab music, composer Mohamed Abdel Wahab, and to explore his musical legacy and influence, with the participation of Fatma Said, who is considered one of the most prominent Egyptian voices in the world of opera and classical singing globally blending cinematic and musical language.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.2047
+  },
+  "1724722": {
+    "id": 1724722,
+    "type": "movie",
+    "title": "BAGA: Tomorrow Belongs to No One",
+    "poster_path": "/bIFaO5xtW3BlR6Yb5SBgzpZJpK8.jpg",
+    "backdrop_path": "/2Wb1nIvWvt8Sg1ApfO0mla5ZSLO.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "In a conservative East Coast village, two young lovers struggle to escape poverty and tradition when an unexpected pregnancy pushes them into difficult choices, leading one to turn to drug trafficking in a desperate bid for a better future.",
+    "industry": "world",
+    "original_language": "ms",
+    "origin_country": [
+      "MY"
+    ],
+    "production_countries": [
+      "MY"
+    ],
+    "spoken_languages": [
+      "ms"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-05",
+    "popularity": 2.0601
+  },
+  "1814622": {
+    "id": 1814622,
+    "type": "movie",
+    "title": "The 16th Goddesses of Stardom Tag League Tournament in Kochi",
+    "poster_path": "/hDmo719CtmuhgLTqVakJGoSYYQ7.jpg",
+    "backdrop_path": "/4YQRfNkcFYvS7J9RJVFTSG9CRXG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The full schedule for the 16th Goddesses of Stardom Tag League Tournament, which kicks off on Sunday, November 1st at Korakuen Hall in Tokyo, has been decided. This tournament will be divided into two blocks, Red Goddesses and Blue Goddesses, with 9 teams in each block, for a total of 18 teams. A total of 72 official matches will be held until Saturday, November 28th at the Okazaki City Gymnasium in Aichi. The top two teams from each block will advance to the final tournament.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.2904
+  },
+  "1811878": {
+    "id": 1811878,
+    "type": "movie",
+    "title": "Tiempo Prestado",
+    "poster_path": "/mzfv165J607cFfYR1B87OAYDFYS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "What if life gave you a second chance? The sea might grant you a second life, but it doesn’t teach you what to do with it.  After surviving a shipwreck in the middle of the Atlantic as a young sailor, a man carries an impossible question for decades: what should he do with the time he was never meant to have?  Through memories, silences, and a relationship shaped by the sea, *Borrowed Time* is an intimate reflection on the fragility of existence, the weight of memory, and the human need to find meaning in second chances.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-08",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.2903
+  },
+  "1810457": {
+    "id": 1810457,
+    "type": "movie",
+    "title": "(de)forma",
+    "poster_path": "/v9ebwcHfCjL4WdojhIcMlXKukPj.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Different ages, situations and languages converge seemingly at random on the same mat: one person practices prenatal exercises, another takes contortion lessons, and another prays with disciplined devotion.  Gradually, through drawings, glances, flowers and somersaults, gestures and connections begin to emerge, hinting at a bond between them. Around the mat, a slow process of bodily self-deformation unfolds, where destruction and creation become indistinguishable, and care and pain intertwine.",
+    "industry": "world",
+    "original_language": "eu",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "eu",
+      "pl",
+      "ar"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.1555
+  },
+  "1808310": {
+    "id": 1808310,
+    "type": "movie",
+    "title": "Octarine",
+    "poster_path": "/3W7zbdDuZ89T993T2lXXOQnudkF.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two realities slowly align as Fang's chaos magic targeting pop star Eileen Rye triggers an unforeseen change. Fang seeks meaning in the mysterious thread they've pulled, both entering a world where memories, dreams, and digital encounters merge.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-08",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.2895
+  },
+  "1806778": {
+    "id": 1806778,
+    "type": "movie",
+    "title": "The Boot Room",
+    "poster_path": "/zE5IlcBSl7GQDA53I5aqwuHC6b0.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A junior footballer navigates the brutal hierarchy of a 1988 professional football club steeped in a culture of systemic bullying . His growing unease culminates in a hesitant act of defiance sparking a brutal backlash, turning the violence directly onto him.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.6405
+  },
+  "1806776": {
+    "id": 1806776,
+    "type": "movie",
+    "title": "The Phenomenon of Presence",
+    "poster_path": "/rKI9L1uBFz9vzyzN8Xk8HrmKKS5.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The architect of a virtual world called Presence is interviewed about its profound capabilities – it can trigger lucidity in Alzheimer's patients. Meanwhile, inside Presence, a daughter tries to reconnect with her mother, an Alzheimer's sufferer, and bring her back to the physical world.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.1422
+  },
+  "1806769": {
+    "id": 1806769,
+    "type": "movie",
+    "title": "Machines Learning",
+    "poster_path": "/92c6GwM0J1q1t9YEk9CBaVvU6Yv.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a dark factory, a bullying worker pushes his crew of robots harder and harder. They observe. They learn. And eventually, they act. The machines are learning, but what are we teaching them?",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.1464
+  },
+  "1806768": {
+    "id": 1806768,
+    "type": "movie",
+    "title": "Don't Call Me Chef",
+    "poster_path": "/p4wJqEPTZQQ23ttIgqBhRTmfO0W.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Clotaire Poirier is not your typical chef. A globetrotter and polyglot, he rose to prominence with French audiences as a finalist on \"Top Chef\", embodying a new generation of cooks for whom performance no longer comes at the expense of people.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.3455
+  },
+  "1806765": {
+    "id": 1806765,
+    "type": "movie",
+    "title": "The Toast Trip",
+    "poster_path": "/6KymtQZPCn61GYw7OmxXuXazzXB.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A film about a mind-numbing job, delicious food, absurd numbers, big dreams, death, and toast.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.3653
+  },
+  "1806755": {
+    "id": 1806755,
+    "type": "movie",
+    "title": "What We Carry",
+    "poster_path": "/a5M85s2Yu2jbYuZJeLrxUqvPMFQ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "May and Sultan struggle to live within a home consumed by silence after a devastating loss alters their relationship forever. While Sultan clings to hope and the possibility of moving forward, May endures relentless physical pain and carries a secret she cannot bring herself to reveal. As the distance between them grows, old suspicions resurface, and the burden she bears begins to fracture the fragile foundation of their marriage.",
+    "industry": "world",
+    "original_language": "ar",
+    "origin_country": [
+      "AE"
+    ],
+    "production_countries": [
+      "AE"
+    ],
+    "spoken_languages": [
+      "ar",
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.292
+  },
+  "1806752": {
+    "id": 1806752,
+    "type": "movie",
+    "title": "The One Who Draws Dance",
+    "poster_path": "/vNACTIXv99LVz9A1AcClKDCB3oE.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Edgar draws dancers in Amsterdam. Everyone knows him.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.2643
+  },
+  "1806738": {
+    "id": 1806738,
+    "type": "movie",
+    "title": "Bubbles",
+    "poster_path": "/ifLAmXDtrDPRq85I4YWnle95pfT.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A forty-year-old woman floats in a relationship bubble until she realizes it is too late.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "AL",
+      "IT"
+    ],
+    "production_countries": [
+      "AL",
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.1553
+  },
+  "1806730": {
+    "id": 1806730,
+    "type": "movie",
+    "title": "Fido",
+    "poster_path": "/bFelK4j1Nseu9BxBrR8irL05B7q.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A young girl watches an old dog. Taking the dog on a walk, a rough encounter with a bully has dire consequences.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US",
+      "MX"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-08",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-15",
+    "popularity": 0.8146
   }
 };

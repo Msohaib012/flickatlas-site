@@ -1,10 +1,10 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-08T00:50:56Z",
-   "last_run": "2026-11-08T00:50:56Z",
+   "last_attempt_at": "2026-11-08T06:51:56Z",
+   "last_run": "2026-11-08T06:51:56Z",
    "last_status": "success",
-   "last_success": "2026-11-08T00:50:56Z",
+   "last_success": "2026-11-08T06:51:56Z",
    "consecutive_failures": 0,
    "detail": "valid top 20 snapshot"
   },
@@ -41,26 +41,26 @@
    "detail": "112 digital titles; registry 832; checked 64 this run"
   },
   "wp_boxoffice": {
-   "last_attempt_at": "2026-11-08T00:54:48Z",
-   "last_run": "2026-11-08T00:54:48Z",
+   "last_attempt_at": "2026-11-08T06:54:36Z",
+   "last_run": "2026-11-08T06:54:36Z",
    "last_status": "success",
-   "last_success": "2026-11-08T00:54:48Z",
+   "last_success": "2026-11-08T06:54:36Z",
    "consecutive_failures": 0,
    "detail": "validated 15 rows; 0 staging files changed"
   },
   "bollybourse_boxoffice": {
-   "last_attempt_at": "2026-11-08T00:55:26Z",
-   "last_run": "2026-11-08T00:55:26Z",
+   "last_attempt_at": "2026-11-08T06:55:13Z",
+   "last_run": "2026-11-08T06:55:13Z",
    "last_status": "success",
-   "last_success": "2026-11-08T00:55:26Z",
+   "last_success": "2026-11-08T06:55:13Z",
    "consecutive_failures": 0,
-   "detail": "validated 92 rows; 1 staging files changed"
+   "detail": "validated 93 rows; 1 staging files changed"
   },
   "filmibeat_boxoffice": {
-   "last_attempt_at": "2026-11-08T00:55:42Z",
-   "last_run": "2026-11-08T00:55:42Z",
+   "last_attempt_at": "2026-11-08T06:55:27Z",
+   "last_run": "2026-11-08T06:55:27Z",
    "last_status": "success",
-   "last_success": "2026-11-08T00:55:42Z",
+   "last_success": "2026-11-08T06:55:27Z",
    "consecutive_failures": 0,
    "detail": "validated 23 rows; 0 staging files changed"
   },
@@ -73,5 +73,5 @@
    "detail": "validated 193 rows; 0 staging files changed"
   }
  },
- "updated_at": "2026-11-08T04:55:40Z"
+ "updated_at": "2026-11-08T06:55:27Z"
 }

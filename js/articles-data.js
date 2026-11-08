@@ -84013,5 +84013,438 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 04:34:15 +0000"
+  },
+  "3qi9tf": {
+    "id": "3qi9tf",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 3: Saturday Surge Takes Ranbir Kapoor's Film Past ₹375 Crore, Beats Adipurush, Pathaan And Animal",
+    "dek": "Starring Ranbir Kapoor, Yash and Sai Pallavi, the film is directed by Nitesh Tiwari and produced by Namit Malhotra.",
+    "body": [
+      {
+        "h": "Strong Box Office Surge on Day 3",
+        "p": [
+          "Ramayana : Part One has experienced a significant boost in ticket sales after a more modest start on its opening Friday. The movie recorded its highest single-day global earnings since its theatrical release during Saturday's screenings.",
+          "The cumulative three-day worldwide gross has now surged past the ₹375 crore milestone, showcasing robust commercial performance across both domestic and international territories."
+        ]
+      },
+      {
+        "h": "Domestic and International Breakdown",
+        "p": [
+          "According to data from trade tracker Sacnilk, the feature generated a massive ₹83.45 crore gross within the domestic market on Saturday. International audiences contributed an additional ₹60 crore on the same day, pushing the cumulative overseas gross to ₹157.25 crore.",
+          "The grand total for worldwide gross now rests at ₹375.50 crore. When measured against Friday's domestic gross of ₹57.30 crore, Saturday registered a remarkable 45.3% increase in collections."
+        ]
+      },
+      {
+        "h": "Surpassing Opening Day Records",
+        "p": [
+          "The weekend momentum allowed the feature to comfortably eclipse its initial domestic opening day gross of ₹77.50 crore. Saturday ultimately emerged as the most lucrative single day for the domestic market thus far.",
+          "Trade analysts are keeping a close eye on the unfolding box office trajectory as the feature maintains high occupancy levels across multiplexes and single screens."
+        ]
+      },
+      {
+        "h": "Comparison With Other Major Blockbusters",
+        "p": [
+          "The three-day global gross figures place Ramayana ahead of several prominent Indian releases. Adipurush, which also explored the same epic tale and starred Prabhas and Kriti Sanon, had amassed ₹304.04 crore globally by its third day, leaving the new film ahead by roughly 23.5%.",
+          "The feature also outperformed the third-day global collections of Shah Rukh Khan's Pathaan at ₹313 crore, alongside Ranbir Kapoor's previous venture Animal, which finished its third day with ₹356.05 crore worldwide."
+        ]
+      },
+      {
+        "h": "Chasing Top Industry Benchmarks",
+        "p": [
+          "Despite outstripping multiple major titles, Shah Rukh Khan's blockbuster Jawan remains ahead with a third-day global gross of ₹383.18 crore. Meanwhile, Dhurandhar: The Revenge, starring Ranveer Singh, crossed the ₹500 crore mark globally by its third day.",
+          "The project continues to track impressively among recent cinematic heavyweights, setting a high benchmark for the ongoing theatrical window."
+        ]
+      },
+      {
+        "h": "Upcoming Holiday Impact and Schedule",
+        "p": [
+          "Sunday presents an important test for the film, as Diwali celebrations could potentially influence evening and night theatre footfalls. However, trade observers anticipate that the broader holiday period will encourage families to visit cinemas in large numbers once festivities settle.",
+          "In addition to the current box office run, production updates have confirmed that the sequel is officially scheduled for a 2028 release instead of the previously discussed 2027 window."
+        ]
+      },
+      {
+        "h": "Cast and Creative Leadership",
+        "p": [
+          "The feature is directed by Nitesh Tiwari and produced by Namit Malhotra, featuring a prominent principal cast with Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana.",
+          "The ensemble cast also includes Sunny Deol as Lord Hanuman and Ravi Dubey as Lakshman, alongside supporting appearances by Arun Govil, Lara Dutta, Rakul Preet Singh, Kajal Aggarwal, Indira Krishnan, and Kunal Kapoor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana grossed over ₹375 crore worldwide by its third day following a strong Saturday surge that outperformed previous hits like Adipurush, Pathaan, and Animal. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the film continues its theatrical run ahead of upcoming holiday screenings."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 8, 2026",
+      "Day 3 worldwide gross touched ₹375.50 crore",
+      "Saturday India gross was ₹83.45 crore",
+      "Overseas gross reached ₹157.25 crore",
+      "Friday India gross was ₹57.30 crore",
+      "Opening day India gross was ₹77.50 crore",
+      "Adipurush day 3 worldwide collection was ₹304.04 crore",
+      "Pathaan day 3 worldwide collection was ₹313 crore",
+      "Animal day 3 worldwide collection was ₹356.05 crore",
+      "Jawan day 3 worldwide collection was ₹383.18 crore",
+      "Sequel confirmed for 2028 release"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Shah Rukh Khan",
+        "Prabhas",
+        "Kriti Sanon",
+        "Ranveer Singh",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Indira Krishnan",
+        "Kunal Kapoor",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush",
+        "Pathaan",
+        "Animal",
+        "Jawan",
+        "Dhurandhar: The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana box office",
+      "Ramayana worldwide collection Day 3",
+      "Ramayana Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/Ramayana-3_1794116896672_NuMm_1794116916600_BiY8_c2a2b4c0-fcb5-4efb-95c9-7db3dd30db08_zdwP.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 3: Saturday Surge Takes Ranbir Kapoor's Film Past ₹375 Crore, Beats Adipuru",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 11:34:45 +0530"
+  },
+  "jitjjt": {
+    "id": "jitjjt",
+    "type": "news",
+    "headline": "Could Robert Pattinson's Batman Legacy and Overexposure Hurt His Chances of Playing James Bond?",
+    "dek": "As Robert Pattinson enters the rumored James Bond race alongside Nicholas Hoult, his massive star power and existing DC commitment raise questions about whether he can truly become the next 007.",
+    "body": [
+      {
+        "h": "The Crowded James Bond Race",
+        "p": [
+          "The ongoing search to replace Daniel Craig's legendary tenure as James Bond has recently seen the field expand with several high-profile additions. Alongside established rumored contenders such as Callum Turner and Jack Lowden, actors Nicholas Hoult and Robert Pattinson have reportedly undergone screen-testing for the iconic role. This influx of major talent has intensified discussions regarding who will ultimately take over the franchise.",
+          "While joining the pool of potential candidates places Pattinson in elite company, it also brings unique scrutiny. Each actor brings a distinct set of advantages and challenges to the table, but few carry the complex career baggage and existing massive franchises that Pattinson does as this casting race unfolds."
+        ]
+      },
+      {
+        "h": "Strengths That Could Be Weaknesses",
+        "p": [
+          "Robert Pattinson undoubtedly possesses several attributes that make him an attractive candidate for the world's most famous secret agent. As one of Hollywood's biggest stars, he boasts an extensive and dedicated fan base, and his exceptionally busy professional run in 2026 has kept him firmly in the spotlight. Furthermore, being in his 40s aligns well with the maturity often associated with the character.",
+          "However, these very same strengths might ultimately work against his chances in the franchise. Some industry observers suggest that his prominent Hollywood presence could create hurdles for audiences trying to accept him as 007, a phenomenon similar to the initial resistance faced by other heavily scrutinized names like Jacob Elordi."
+        ]
+      },
+      {
+        "h": "The Batman Commitment",
+        "p": [
+          "One of the most significant obstacles standing in the way of a potential Pattinson-led James Bond era is his ongoing role as DC's Batman. Taking on two of the absolute biggest characters in cinematic history simultaneously would be an unprecedented and exceptionally rare career move. Both iconic franchises demand immense amounts of time, energy, and promotional focus from their leading men.",
+          "Because of these competing obligations, juggling the responsibilities of Gotham City's protector alongside the globe-trotting espionage of MI6 might prove entirely unfeasible. This major scheduling and branding conflict remains a primary concern for those evaluating his viability as the next James Bond."
+        ]
+      },
+      {
+        "h": "Overexposure Concerns",
+        "p": [
+          "Beyond his role as the Caped Crusader, Pattinson has maintained a relentless workflow that has led to questions about actor overexposure. Audiences have enjoyed witnessing his prolific output throughout 2026, yet seeing the same recognizable face anchor multiple massive properties can dilute the unique aura required for a character like James Bond.",
+          "The strength of the James Bond franchise has historically relied on casting actors who feel distinct and fully immersive within that specific world. When an actor is already heavily associated with several other distinct cultural touchstones, viewers may find it challenging to separate the performer from their previous roles."
+        ]
+      },
+      {
+        "h": "Alternative Possibilities as a Villain",
+        "p": [
+          "Given the challenges of leading the franchise, speculation has turned toward whether Pattinson might instead enter the Bond universe in a different capacity. Throughout his recent cinematic projects, including roles in The Odyssey and the upcoming Dune: Part Three, he has frequently portrayed dark and compelling characters.",
+          "Stepping into a villainous role opposite the next 007 could offer a clever workaround to his scheduling issues. A villainous turn would avoid conflicting with his Batman commitments and would not require him to carry the entire franchise as the main protagonist."
+        ]
+      },
+      {
+        "h": "Balancing Star Power and Franchise Focus",
+        "p": [
+          "Introducing an actor with Pattinson's immense scale of popularity into an antagonist role presents its own set of strategic questions for the studio. There is a delicate balance to maintain when casting a globally recognized star alongside a newly minted, potentially less famous actor taking on the mantle of James Bond.",
+          "If a performer as dominant as Pattinson plays the adversary, there is a risk that he might inadvertently overshadow the new face of the franchise. Ultimately, decisions regarding this direction rest in the hands of key creative and executive decision-makers like Amazon and Denis Villeneuve."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson and Nicholas Hoult have joined the rumored list of actors screen-testing to replace Daniel Craig as James Bond. While Pattinson's intense 2026 work schedule, existing Batman franchise commitment, and high visibility present major hurdles to leading the series, his penchant for dark roles could potentially position him as a franchise villain instead."
+        ]
+      }
+    ],
+    "facts": [
+      "Robert Pattinson and Nicholas Hoult have screen-tested to replace Daniel Craig as James Bond.",
+      "Other rumored James Bond contenders include Callum Turner and Jack Lowden.",
+      "Robert Pattinson leads DC's Batman franchise.",
+      "Robert Pattinson is in his 40s.",
+      "Robert Pattinson appeared in projects like The Odyssey and Dune: Part Three in 2026."
+    ],
+    "entities": {
+      "people": [
+        "Robert Pattinson",
+        "Nicholas Hoult",
+        "Daniel Craig",
+        "Callum Turner",
+        "Jack Lowden",
+        "Jacob Elordi",
+        "Denis Villeneuve"
+      ],
+      "titles": [
+        "James Bond",
+        "Batman",
+        "The Odyssey",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson James Bond",
+      "Robert Pattinson Batman",
+      "Nicholas Hoult James Bond",
+      "next James Bond contenders"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/can-robert-pattinson-become-james-bond-after-already-leading-the-batman-franchise-01.jpg",
+        "caption": "Could Robert Pattinson's Batman Legacy and Overexposure Hurt His Chances of Playing James Bond?",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 06:08:38 +0000"
+  },
+  "11uixtr": {
+    "id": "11uixtr",
+    "type": "news",
+    "headline": "How Netflix’s A Series of Unfortunate Events Mastered Real-World Worldbuilding in 25 Episodes",
+    "dek": "Across three seasons and 25 episodes, the Netflix adaptation of Daniel Handler's novels achieved rare worldbuilding success without relying on magical realms or fantasy elements.",
+    "body": [
+      {
+        "h": "The Challenge of Grounded Worldbuilding",
+        "p": [
+          "Crafting an immersive setting is often considered easier within fantastical genres where magical kingdoms and distant planets provide ready-made lore. Grounded comedies and dramas set in the real world lack these supernatural foundations, making it difficult to give familiar environments a distinct personality. Yet, achieving this exact feat is precisely what sets exceptional television apart from standard programming.",
+          "Among grounded adaptations, Netflix's television version of a famous book series stands out for creating a universe filled with unique character. Without needing elaborate maps or centuries of invented history, the production established an unmistakable atmosphere across a remarkably concise run."
+        ]
+      },
+      {
+        "h": "A Concise Television Achievement",
+        "p": [
+          "Spanning just 25 episodes across three seasons between 2017 and 2019, the television adaptation proved that extensive episode orders are not required to build deep lore. The series established a secretive environment governed by peculiar rules that felt vast and distinct from everyday reality.",
+          "Based on the 13 novels written by Daniel Handler under the pseudonym Lemony Snicket, the narrative follows the orphaned Baudelaire siblings. Despite lacking magic or fantasy elements, the production successfully translated the sinister humor and theatrical tone of the books into a living, breathing television landscape."
+        ]
+      },
+      {
+        "h": "Inverting Reality Through Aesthetics and Tone",
+        "p": [
+          "Although the story takes place in the real world, the adaptation shapes it into a nightmare-like inversion of ordinary life. Following the tragic death of their parents, the children bounce between incompetent caregivers while adults persistently ignore the blatant schemes of the villainous Count Olaf.",
+          "Visually, the production crafts its unique environment by making ordinary locations feel slightly wrong and unsettling. Cheerily decorated living rooms and standard domestic spaces are framed with exaggerated sets that evoke a sense of lurking danger, all while characters in authority treat these hazards as completely normal."
+        ]
+      },
+      {
+        "h": "A Scrambled Timeline and Era-Blending Design",
+        "p": [
+          "The distinct atmosphere of the show is further reinforced by a deliberately scrambled relationship with history and technology. Viewers see fashion, architecture, and devices from multiple eras coexisting as though it were entirely standard.",
+          "Telegraphs and modern walkie-talkies appear side-by-side in a manner that defies strict historical norms without officially stepping into fantasy. This blending of periods adds to the eerie, timeless quality of the universe, anchoring the orphans' struggles in a reality that feels both recognizable and profoundly alien."
+        ]
+      },
+      {
+        "h": "The Narrative Voice of Lemony Snicket",
+        "p": [
+          "Patrick Warburton's portrayal of Lemony Snicket serves as a vital anchor for the show's unique reality. His solemn narration treats the unfolding events as a documented historical record complete with personal regrets and unshared secrets.",
+          "Through frequent digressions, the narration implies a wider world stretching far beyond the immediate plight of the children. These touches suggest a rich history and a bustling past, making the overarching absurdity feel bizarrely plausible to the audience."
+        ]
+      },
+      {
+        "h": "Capturing the Core Themes of the Source Material",
+        "p": [
+          "Translating the books successfully required more than just visual flair or eccentric set pieces, avoiding the missteps of previous cinematic attempts. The core appeal of the original novels lies in their exploration of children facing bureaucratic authorities who lack intelligence and compassion.",
+          "The recurring failures of figures like Mr. Poe emphasize a world where institutional procedures routinely endanger the lives of the young. By retaining this thematic focus, the television project stayed true to the spirit of the literature."
+        ]
+      },
+      {
+        "h": "Bold Narrative Changes for the Small Screen",
+        "p": [
+          "To achieve a seamless television structure, the adaptation made significant alterations to the established timeline of events. For instance, the Baudelaire orphans' connections to the mysterious V.F.D. organization were brought forward much earlier in the narrative.",
+          "While such major deviations might ordinarily draw heavy criticism from devoted book readers, this change successfully supported the spiritual heart of the adaptation. It allowed the central themes to resonate from the very beginning of the series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Netflix adaptation of Daniel Handler's books successfully established a deeply immersive world across its 25 episodes without relying on supernatural elements. By blending eerie aesthetics, a scrambled historical timeline, and a faithful thematic focus, the series delivered a definitive literary adaptation."
+        ]
+      }
+    ],
+    "facts": [
+      "The television adaptation ran for three seasons between 2017 and 2019.",
+      "The series consists of 25 episodes.",
+      "The books were written by Daniel Handler under the name Lemony Snicket.",
+      "The source material consists of 13 novels.",
+      "Count Olaf is played by Neil Patrick Harris.",
+      "Lemony Snicket is played by Patrick Warburton.",
+      "The Baudelaire orphans include Violet, Klaus, and Sunny, played by Malina Weissman, Louis Hynes, and Presley Smith respectively."
+    ],
+    "entities": {
+      "people": [
+        "Tom Russell",
+        "Daniel Handler",
+        "Lemony Snicket",
+        "Neil Patrick Harris",
+        "Malina Weissman",
+        "Louis Hynes",
+        "Presley Smith",
+        "Patrick Warburton",
+        "Barry Sonnenfeld",
+        "Bo Welch",
+        "Mark Palansky",
+        "Allan Arkush",
+        "Loni Peristere",
+        "Liza Johnson",
+        "Jonathan Teplitzky",
+        "Joe Tracz",
+        "Joshua Conkel",
+        "Sigrid Gilmer",
+        "Emily Fox",
+        "Tatiana Suarez-Pico"
+      ],
+      "titles": [
+        "A Series of Unfortunate Events",
+        "Yellowstone"
+      ]
+    },
+    "keywords": [
+      "A Series of Unfortunate Events Netflix",
+      "Daniel Handler books adaptation",
+      "Neil Patrick Harris Count Olaf",
+      "Lemony Snicket TV series"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/nathan-fillion-as-jacques-snicket-in-a-series-of-unfortunate-events.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How Netflix’s A Series of Unfortunate Events Mastered Real-World Worldbuilding in 25 Episodes",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 06:30:18 GMT"
+  },
+  "iw59l6": {
+    "id": "iw59l6",
+    "type": "news",
+    "headline": "Ramayana Deleted Viral Scene: Rama Rescues Sita, Lakshman From Wolves; Fans React On Social Media",
+    "dek": "A deleted action sequence from Ramayana: Part 1 featuring Lord Rama saving Sita and Lakshman from wolf-like creatures has gone viral after appearing in the international cut.",
+    "body": [
+      {
+        "h": "The Viral International Cut Scene",
+        "p": [
+          "A never-before-seen action sequence from Nitesh Tiwari's Ramayana: Part 1 is going viral on social media after footage reportedly from the international cut of the film surfaced online.",
+          "The scene depicts Sita and Lakshman being chased by three ferocious wolf-like beings until Lord Rama comes to their rescue."
+        ]
+      },
+      {
+        "h": "Plot Details of the Sequence",
+        "p": [
+          "The sequence reportedly takes place after the episode involving Surpanakha, when Lakshman cuts off her nose, linking it to the confrontation with Khara and Dushana and their army of 14,000 rakshasas.",
+          "In the viral video circulating on the internet, Lakshman is seen wounded as he and Sita walk through a rocky terrain, finding a cave near a waterfall to take shelter before Rama makes a dramatic entrance and kills all three creatures with a single arrow."
+        ]
+      },
+      {
+        "h": "Audience Reaction and Debate",
+        "p": [
+          "Indian viewers noticed that the sequence was missing from the version shown in local cinemas, prompting discussion about the various edits and raising questions about how the different cuts were put together.",
+          "While many fans have praised its visuals, action choreography, and the heroic moment, others have asked the makers to bring back the sequence in the Indian release."
+        ]
+      },
+      {
+        "h": "Controversy Over Different Versions",
+        "p": [
+          "The controversy began after fans noticed that the scene was reportedly present in the international Hindi version but not in the Indian theatrical cut, surprising viewers who had been told the international English-language version would be 30 minutes shorter.",
+          "As of now, the makers have not come out in the open about why they decided to remove this particular sequence from the Indian theatrical version, and there is no confirmed announcement on its restoration."
+        ]
+      },
+      {
+        "h": "Social Media Outcry",
+        "p": [
+          "The clip has generated a lot of discussion on X, with fans questioning why a major heroic moment was left out and tagging producer Namit Malhotra to release the sequence.",
+          "Netizens have praised the visual effects as purely Hollywood level and used the conversation to revisit their critiques of creative and editing choices in the movie."
+        ]
+      },
+      {
+        "h": "About Ramayana: Part 1",
+        "p": [
+          "Ramayana: Part 1 is directed by Nitesh Tiwari and produced by Namit Malhotra, serving as a Diwali release of 2026.",
+          "The grand-scale two-part big-screen adaptation stars Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman, featuring music from Hans Zimmer and AR Rahman."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Footage from an international cut of Ramayana: Part 1 featuring Lord Rama rescuing Sita and Lakshman from three wolf-like creatures has gone viral on social media.",
+          "The absence of this action sequence in the Indian theatrical version has sparked debate and calls from fans for the makers to restore the scene."
+        ]
+      }
+    ],
+    "facts": [
+      "A deleted action sequence from Ramayana: Part 1 showed Rama, Sita, and Lakshman fighting three wolf-like creatures.",
+      "The footage reportedly appeared in the international cut but was missing from the Indian theatrical version.",
+      "The sequence is linked to the aftermath of Surpanakha's encounter and the confrontation with Khara, Dushana, and their army of 14,000 rakshasas.",
+      "Ramayana: Part 1 is directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "The film stars Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman.",
+      "Music for the film is composed by Hans Zimmer and AR Rahman."
+    ],
+    "entities": {
+      "people": [
+        "Mimansa Shekhar",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Hans Zimmer",
+        "AR Rahman",
+        "Dipika Chikhlia",
+        "SU Arun Kumar",
+        "Kamal Haasan",
+        "Vivek Oberoi",
+        "Diljit Dosanjh",
+        "Sonia Gandhi",
+        "Akhilesh Yadav",
+        "Yogi"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Sandiyar"
+      ]
+    },
+    "keywords": [
+      "Ramayana deleted scene",
+      "Ramayana international cut wolves",
+      "Nitesh Tiwari Ramayana Part 1",
+      "Namit Malhotra Ramayana",
+      "Ranbir Kapoor Sai Pallavi Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156480229,thumbsize-806498,width-1280,height-720,resizemode-75/156480229.jpg",
+        "caption": "Ramayana Deleted Viral Scene: Rama Rescues Sita, Lakshman From Wolves; Fans React On Social Media",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T06:53:17Z"
   }
 };
