@@ -90326,5 +90326,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-08T21:20:27Z"
+  },
+  "z8rzuv": {
+    "id": "z8rzuv",
+    "type": "news",
+    "headline": "Light, Camera, Family! Top 10 Movies to Watch This Diwali",
+    "dek": "From big fat weddings to cruise-ship chaos, here are ten films that bring the whole family together on the sofa this Diwali.",
+    "body": [
+      {
+        "h": "The Diwali Movie Tradition",
+        "p": [
+          "Diwali in India follows its own distinct blockbuster formula where fairy lights serve as opening credits and homes are filled with sweets, relatives, and festive cheer. Amid the celebrations, families often find themselves gathered on the sofa after a heavy meal, sparking good-natured debates over what film to watch next.",
+          "To help settle the perennial holiday dilemma, this curated selection offers ten distinct Bollywood titles packed with heart, high drama, and pure masala. These motion pictures serve as mini festivals in their own right, perfect for rolling out the diyas and pressing play during the autumn festivities."
+        ]
+      },
+      {
+        "h": "Classic Family Celebrations",
+        "p": [
+          "Director Sooraj Barjatya famously turned wedding rituals into a cinematic event with Hum Aapke Hain Koun..! in 1994, featuring memorable performances by Madhuri Dixit and Salman Khan alongside a scene-stealing dog named Tuffy. The narrative breezes by like an afternoon spent visiting close relatives.",
+          "Barjatya returned in 1999 with Hum Saath-Saath Hain, scaling up the household to feature three brothers and a sprawling joint family navigating subtle doubts. Its earnest, old-fashioned charm pairs wonderfully with traditional holiday snacks."
+        ]
+      },
+      {
+        "h": "Destination Weddings and Grand Drama",
+        "p": [
+          "Mira Nair transported audiences to a rain-soaked Delhi in Monsoon Wedding (2001), showcasing a Punjabi celebration filled with marigolds, mehendi, and an unexpected romance. The film earned the prestigious Golden Lion at the Venice Film Festival for its honest portrayal of loud laughter and quiet secrets.",
+          "Meanwhile, Karan Johar delivered a grand tribute to generational friction in Kabhi Khushi Kabhie Gham (2001), featuring towering performances by Amitabh Bachchan and Jaya Bachchan alongside Kareena Kapoor Khan's iconic character Poo."
+        ]
+      },
+      {
+        "h": "Empowerment and Modern Relatable Romance",
+        "p": [
+          "English Vinglish (2012) marked Sridevi's celebrated return to the big screen after a fifteen-year hiatus, portraying a talented homemaker who quietly reclaims her confidence in New York. Gauri Shinde's directorial debut remains a soft-spoken yet powerful entry about personal dignity.",
+          "Moving to Haridwar in 1995, Dum Laga Ke Haisha (2015) paired an awkward tape-shop owner played by Ayushmann Khurrana with debutant Bhumi Pednekar in a cramped, noisy, and wonderfully realistic joint family setting."
+        ]
+      },
+      {
+        "h": "Cruises and Complicated Kinships",
+        "p": [
+          "Zoya Akhtar took the wealthy Mehra family on a Mediterranean cruise in Dil Dhadakne Do (2015), where an ensemble cast including Anil Kapoor, Shefali Shah, Ranveer Singh, Priyanka Chopra, and Anushka Sharma traded barbs under the sun. The film was uniquely narrated by an observant dog named Pluto, voiced by Aamir Khan.",
+          "Kapoor Sons (2016) explored a nonagenarian grandfather's simple wish for a final family photograph, bringing estranged grandsons played by Fawad Khan and Sidharth Malhotra together. Rishi Kapoor delivered a standout, award-winning performance beneath extensive prosthetics."
+        ]
+      },
+      {
+        "h": "Unconventional Conversations and Joyful Surprises",
+        "p": [
+          "Shubh Mangal Saavdhan (2017) tackled a delicate subject that most drawing rooms prefer to avoid, once again pairing Ayushmann Khurrana and Bhumi Pednekar in a story driven by heart and humor.",
+          "Rounding out the list, Badhaai Ho (2018) humorously examined the chaotic fallout of a middle-aged mother expecting a child, anchored by brilliant turns from Neena Gupta, Gajraj Rao, and the sharp-tongued matriarch played by Surekha Sikri."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmfare published a curated list of ten popular Bollywood films recommended for family viewing during the Diwali festival. The selection spans iconic classics and modern dramas that celebrate joint families, weddings, and emotional reunions."
+        ]
+      }
+    ],
+    "facts": [
+      "Hum Aapke Hain Koun..! was released in 1994.",
+      "Hum Saath-Saath Hain was released in 1999.",
+      "Monsoon Wedding won the Golden Lion at the Venice Film Festival.",
+      "English Vinglish marked Sridevi's return after a 15-year break.",
+      "Dum Laga Ke Haisha is set in Haridwar in 1995.",
+      "Rishi Kapoor won a Filmfare Award for his performance in Kapoor Sons."
+    ],
+    "entities": {
+      "people": [
+        "Khushi Mundhwa",
+        "Sooraj Barjatya",
+        "Madhuri Dixit",
+        "Salman Khan",
+        "Mira Nair",
+        "Karan Johar",
+        "Amitabh Bachchan",
+        "Jaya Bachchan",
+        "Kareena Kapoor Khan",
+        "Sridevi",
+        "Gauri Shinde",
+        "Ayushmann Khurrana",
+        "Bhumi Pednekar",
+        "Zoya Akhtar",
+        "Anil Kapoor",
+        "Shefali Shah",
+        "Ranveer Singh",
+        "Priyanka Chopra",
+        "Anushka Sharma",
+        "Aamir Khan",
+        "Fawad Khan",
+        "Sidharth Malhotra",
+        "Rishi Kapoor",
+        "Neena Gupta",
+        "Gajraj Rao",
+        "Surekha Sikri"
+      ],
+      "titles": [
+        "Hum Aapke Hain Koun..!",
+        "Hum Saath-Saath Hain",
+        "Monsoon Wedding",
+        "Kabhi Khushi Kabhie Gham",
+        "English Vinglish",
+        "Dum Laga Ke Haisha",
+        "Dil Dhadakne Do",
+        "Kapoor Sons",
+        "Shubh Mangal Saavdhan",
+        "Badhaai Ho"
+      ]
+    },
+    "keywords": [
+      "Diwali movies to watch",
+      "Hum Aapke Hain Koun",
+      "Kabhi Khushi Kabhie Gham",
+      "Bollywood family films",
+      "Dil Dhadakne Do"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/diwali1217941186481794118655.jpg",
+        "caption": "Light, Camera, Family! Top 10 Movies to Watch This Diwali",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-08T11:47:44+05:30"
+  },
+  "13t9tpt": {
+    "id": "13t9tpt",
+    "type": "news",
+    "headline": "Paramount Schedules Danny McBride's G.I. Joe Reboot for 2028 Release",
+    "dek": "Paramount Pictures has officially locked in an October 2028 release date for its upcoming G.I. Joe reboot, directed by Danny McBride and starring Bradley Cooper.",
+    "body": [
+      {
+        "h": "Official Release Date Confirmed",
+        "p": [
+          "Paramount Pictures has officially locked in a release date for its upcoming G.I. Joe reboot, setting the as-yet-untitled film for October 20th, 2028. This comes after the studio approved a pitch from Danny McBride back in July, pushing the project forward into active development."
+        ]
+      },
+      {
+        "h": "Casting and Creative Team",
+        "p": [
+          "The project recently added star power with the casting of Bradley Cooper in the lead role as Duke. Danny McBride is set to direct the movie and will also co-write the screenplay alongside Jeff Fradley and John Carcieri, both known for The Righteous Gemstones."
+        ]
+      },
+      {
+        "h": "Franchise History and Context",
+        "p": [
+          "This upcoming film will serve as the fourth live-action adaptation based on the classic 1980s toy line. Previous entries in the franchise include 2009's G.I. Joe: The Rise of Cobra, its 2013 sequel G.I. Joe: Retaliation, and the 2021 standalone feature Snake Eyes."
+        ]
+      },
+      {
+        "h": "Crossover Status and Hasbro Properties",
+        "p": [
+          "The G.I. Joe organization previously made a brief appearance in the 2023 film Transformers: Rise of the Beasts, which originally teased a potential crossover between the two major Hasbro properties. However, those plans appear to be currently on hold following the announcement of this new standalone film and Michael Bay's return to the Transformers franchise."
+        ]
+      },
+      {
+        "h": "Story Inspiration and Setting",
+        "p": [
+          "As a childhood fan of the beloved property, Danny McBride previously revealed that the new movie draws heavy inspiration from the classic G.I. Joe: A Real American Hero comic book storyline. The narrative centers around Springfield, a suburban town that is secretly controlled entirely by the villainous organization Cobra, where Duke and a team of Joes find themselves operating."
+        ]
+      },
+      {
+        "h": "Production and Behind-The-Scenes",
+        "p": [
+          "Behind the scenes, franchise veteran Lorenzo di Bonaventura is attached to produce the feature. He is joined by fellow producers Mark Vahradian and Zev Foreman of Hasbro Entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount Pictures has officially set an October 20th, 2028 release date for its upcoming G.I. Joe reboot. The film will be directed by Danny McBride, who co-wrote the script, and stars Bradley Cooper in the lead role as Duke."
+        ]
+      }
+    ],
+    "facts": [
+      "Paramount Pictures set an October 20th 2028 release date for the G.I. Joe movie.",
+      "Danny McBride pitched the movie which was given the green light in July.",
+      "Bradley Cooper was cast in the lead role as Duke.",
+      "The film will be the fourth live-action adaptation of the 80s toy line.",
+      "Previous films include G.I. Joe: The Rise of Cobra (2009), G.I. Joe: Retaliation (2013), and Snake Eyes (2021).",
+      "The G.I. Joe organization appeared in Transformers: Rise of the Beasts in 2023.",
+      "Danny McBride is directing and co-writing the script with Jeff Fradley and John Carcieri.",
+      "Lorenzo di Bonaventura, Mark Vahradian, and Zev Foreman are producing the film."
+    ],
+    "entities": {
+      "people": [
+        "Danny McBride",
+        "Bradley Cooper",
+        "Jeff Fradley",
+        "John Carcieri",
+        "Lorenzo di Bonaventura",
+        "Mark Vahradian",
+        "Zev Foreman",
+        "Michael Bay"
+      ],
+      "titles": [
+        "G.I. Joe",
+        "G.I. Joe: The Rise of Cobra",
+        "G.I. Joe: Retaliation",
+        "Snake Eyes",
+        "Transformers: Rise of the Beasts",
+        "The Righteous Gemstones",
+        "G.I. Joe: A Real American Hero"
+      ]
+    },
+    "keywords": [
+      "Danny McBride G.I. Joe movie",
+      "Bradley Cooper Duke G.I. Joe",
+      "G.I. Joe reboot release date",
+      "Paramount Pictures G.I. Joe 2028"
+    ],
+    "images": [],
+    "published": "Sun, 08 Nov 2026 21:42:44 +0000"
+  },
+  "1bjhn03": {
+    "id": "1bjhn03",
+    "type": "news",
+    "headline": "Radhikka Madan Reflects on Healing Through 'Lust Stories 3' and Her Views on Love",
+    "dek": "In an exclusive chat, Radhikka Madan opens up about playing Sailee in Lust Stories 3, overcoming personal inhibitions, and sharing her thoughts on self-love, modern relationships, and dealing with public scrutiny.",
+    "body": [
+      {
+        "h": "Exploring Complex Roles on Screen",
+        "p": [
+          "Radhikka Madan recently opened up during an exclusive interview about her challenging character, Sailee, in the anthology film Lust Stories 3. Playing a modern woman attempting to mend a fractured marriage through intimacy, Madan delivered what she considers her boldest performance to date.",
+          "The actress noted that the physical aspects of the role acted similarly to Kintsugi, filling cracks in the characters' relationship with the molten lava of desire. She praised the writing and execution by the creative team, highlighting her collaboration with co-star Ali Fazal and director Shakun Batra."
+        ]
+      },
+      {
+        "h": "Embracing Desire Without Shame",
+        "p": [
+          "Discussing the theme of lust, Madan shared her perspective on how society historically attached shame and taboo to the word sex. She reflected on realizing in her mid-twenties that natural human desires should be celebrated just like happiness or ambition rather than suppressed.",
+          "She also referenced Konkona Sen Sharma's segment in the anthology, appreciating the sentiment that it takes years to fully accept and love oneself. Madan emphasized that women should proudly own these parts of themselves and voice their concerns when something bothers them."
+        ]
+      },
+      {
+        "h": "Comfort and Trust in Intimate Scenes",
+        "p": [
+          "Madan addressed how she navigated the bold scenes in the production, crediting the presence of intimacy coordinators on set for establishing a secure environment. Through pre-shoot workshops, the cast and crew built mutual trust before cameras started rolling.",
+          "She explained that these scenes were choreographed meticulously, much like dance sequences, ensuring complete awareness of movements. The actress appreciated that performers retained the right to alter choreography or step back at any point without facing judgment."
+        ]
+      },
+      {
+        "h": "Personal Healing Through Cinema",
+        "p": [
+          "Taking on the role of Sailee offered Madan an unexpected avenue for personal reflection and healing. She admitted that she typically views her own life in stark black and white while avoiding her own gray areas.",
+          "By portraying a character whose flaws and complexities were deeply prominent, Madan felt a rare sense of personal alignment. The experience taught her that it is entirely acceptable to feel confused, chaotic, or imperfect while doing one's best."
+        ]
+      },
+      {
+        "h": "Relationship Wisdom and Self-Love",
+        "p": [
+          "When offering advice to young women regarding relationships, Madan stressed the importance of solid self-worth and fully understanding oneself. She believes individuals must respect themselves before sharing their love with a partner, rather than expecting someone else to fill their emotional voids.",
+          "On the topic of self-love, the actress highlighted the necessity of forgiving oneself during low energy days or periods of unproductiveness. She maintains that being kind to oneself during difficult times is the highest form of self-love."
+        ]
+      },
+      {
+        "h": "Dealing with Public Scrutiny and Boundaries",
+        "p": [
+          "Having navigated fame, Madan shared how she handles online trolls and public opinions by developing emotional immunity over time. She acknowledged that people are entitled to their viewpoints and that she no longer feels the need to over-explain herself or seek universal approval.",
+          "Regarding her professional boundaries, Madan stated she prefers substantive roles and would decline underdeveloped filler characters. In her personal life, she chooses to keep her relationships private amid widespread media attention."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Radhikka Madan discussed her transformative role in Lust Stories 3 during a recent interview, explaining how the character helped her heal personal perspectives on life and intimacy. She also shared her philosophy on modern relationships, self-worth, and maintaining emotional resilience against public judgment."
+        ]
+      }
+    ],
+    "facts": [
+      "Radhikka Madan played the character Sailee in Lust Stories 3.",
+      "Ali Fazal is featured as a co-star in Lust Stories 3.",
+      "Shakun Batra and Konkona Sen Sharma are associated with directing or writing stories in the anthology.",
+      "The interview was published by Filmfare on November 8, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Radhikka Madan",
+        "Suman Sharma",
+        "Konkona Sen Sharma",
+        "Shakun Batra",
+        "Ali Fazal",
+        "Viju Shah"
+      ],
+      "titles": [
+        "Lust Stories 3",
+        "Subedaar"
+      ]
+    },
+    "keywords": [
+      "Radhikka Madan Lust Stories 3",
+      "Radhikka Madan interview Filmfare",
+      "Radhikka Madan Sailee character",
+      "Lust Stories 3 cast"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/radhikkamadansoooo1793957648.jpg",
+        "caption": "Radhikka Madan Reflects on Healing Through 'Lust Stories 3' and Her Views on Love",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-08T12:54:56+05:30"
+  },
+  "106qb58": {
+    "id": "106qb58",
+    "type": "news",
+    "headline": "Why Fringe Remains a Masterclass in Sci-Fi Television Storytelling",
+    "dek": "A look back at the criminally underwatched Fox sci-fi series that expertly balanced intricate plotting with deeply emotional character relationships.",
+    "body": [
+      {
+        "h": "The Legacy of Mystery Box Television",
+        "p": [
+          "In the mid-2000s, serialized television experienced a major shift driven by puzzle-box mysteries that captivated global audiences. Following the massive success of aircraft crash survival drama Lost, produced by J.J. Abrams, television began leaning heavily into complex overarching narratives. Lost set a new standard by anchoring its high-concept mysteries in a large ensemble cast and deeply emotional, character-driven storytelling.",
+          "Despite the immense attention commanded by Lost, television history also includes subsequent genre entries that arguably surpassed their predecessors in focus and execution. While J.J. Abrams' initial island-based mystery became a cultural phenomenon, his immediate follow-up venture into speculative television was comparatively less celebrated upon its original broadcast."
+        ]
+      },
+      {
+        "h": "Stepping Into the World of Fringe Science",
+        "p": [
+          "Premiering on Fox in 2008, the mysterious science fiction drama Fringe explored uncharted territory by diving headfirst into fringe science. Although the series remained criminally underwatched during its initial run, it offered a far tighter narrative focus than many of its contemporaries. The show invited viewers into an unsettling universe of unexplained anomalies and experimental dangers.",
+          "At the center of the narrative is FBI agent Olivia Dunham, portrayed by Anna Torv. Thrown unexpectedly into a covert government initiative, Olivia becomes tasked with investigating bizarre occurrences that defy conventional explanation. She soon finds herself navigating an intricate web of time travel, parallel dimensions, and terrifying supernatural abilities."
+        ]
+      },
+      {
+        "h": "The Unforgettable Trio at the Core",
+        "p": [
+          "The investigative backbone of the secret initiative relies on a deeply unconventional team dynamic. Olivia teams up with Dr. Walter Bishop, a brilliant but disgraced and mentally fragile scientist whose past experiments cast a long shadow over the unfolding events. Alongside Walter is his son, Peter Bishop, a genius jack-of-all-trades who acts as the practical anchor for the duo.",
+          "This central trio elevates the production far beyond standard genre television. The interplay between Olivia's driven professionalism, Walter's eccentric brilliance, and Peter's pragmatic skepticism creates an emotional anchor that sustains the narrative through its most bizarre and complex sci-fi concepts."
+        ]
+      },
+      {
+        "h": "Balancing Plot Development and Character Work",
+        "p": [
+          "It is exceptionally rare for a television series to seamlessly alternate between vast plot developments and intimate character moments, yet Fringe achieved this balance tenfold across its run. The program could easily have devolved into a routine procedural format relying on monster-of-the-week formulas, but it systematically rejected those clichés.",
+          "Instead, the emotional weight of the relationships took precedence over simple exposition. Every high-concept shift involving parallel realities or temporal anomalies was grounded by how it affected the bonds between Olivia, Walter, and Peter, ensuring the human element remained paramount."
+        ]
+      },
+      {
+        "h": "Uncovering The Pattern",
+        "p": [
+          "The overarching narrative catalyst for the series is the investigation into a mysterious phenomenon known simply as The Pattern. This designation covers a vast array of bizarre and deadly anomalies happening across the world, setting up an ongoing puzzle for the team to solve.",
+          "As Olivia, Walter, and Peter dig deeper into these strange occurrences, they discover that most of these anomalies trace back to a single individual: Dr. Walter Bishop himself. His secretive past and dangerous laboratory experiments form the bedrock of the threats the team must confront."
+        ]
+      },
+      {
+        "h": "A High-Water Mark for Science Fiction",
+        "p": [
+          "Looking back at the landscape of speculative television, Fringe stands out as one of the finest examples of the medium. By committing fully to its sprawling mythology while honoring the emotional journeys of its characters, the show delivered a cohesive narrative experience.",
+          "While it may not have achieved the immediate mainstream saturation of its predecessor Lost, the Fox series earned a devoted following that continues to revere its meticulous storytelling, memorable performances, and refusal to compromise its ambitious vision."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A retrospective look at the Fox sci-fi television series Fringe highlights its unique blend of serialized plotting and character-driven storytelling. Created in the wake of puzzle-box mysteries like Lost, the show followed FBI agent Olivia Dunham, Dr. Walter Bishop, and Peter Bishop as they investigated strange anomalies known as The Pattern."
+        ]
+      }
+    ],
+    "facts": [
+      "Lost was produced by J.J. Abrams and featured 42 plane crash survivors.",
+      "Fringe premiered on Fox in 2008.",
+      "Anna Torv stars as FBI agent Olivia Dunham in Fringe.",
+      "John Noble plays Dr. Walter Bishop and Joshua Jackson plays Peter Bishop in Fringe."
+    ],
+    "entities": {
+      "people": [
+        "J.J. Abrams",
+        "Anna Torv",
+        "John Noble",
+        "Joshua Jackson"
+      ],
+      "titles": [
+        "Lost",
+        "Fringe"
+      ]
+    },
+    "keywords": [
+      "Fringe sci-fi series",
+      "Anna Torv Fringe",
+      "Walter Bishop Fringe",
+      "J.J. Abrams Fringe"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/03/fringe.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Fringe Remains a Masterclass in Sci-Fi Television Storytelling",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 21:43:12 GMT"
   }
 };
