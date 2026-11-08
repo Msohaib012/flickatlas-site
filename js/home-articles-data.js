@@ -75,6 +75,111 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 08 Nov 2026 15:39:06 +0000"
   },
+  "hiuq0l": {
+    "id": "hiuq0l",
+    "type": "news",
+    "headline": "Amitabh Bachchan Remoye Bulletproof Glass For Sunday Darshan Despite Threats",
+    "dek": "Bollywood veteran Amitabh Bachchan met his fans outside Jalsa without a bulletproof barrier on Diwali, following a recent threatening letter and ongoing health updates regarding hand pain.",
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Abhishek Bachchan",
+        "Bunty Walia",
+        "Sachin Sawant",
+        "Lawrence Bishnoi",
+        "Tiger Shroff"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan",
+      "Amitabh Bachchan bulletproof glass",
+      "Amitabh Bachchan Jalsa Sunday Darshan",
+      "Amitabh Bachchan health update"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/pics-big-b-ditches-bulletproof-glass-for-sunday-darshan-on-diwali-after-threats-08253590-16x9_0.jpg?VersionId=fJGG4LPV4XDUtnbyulexZmEF3Guyadgm",
+        "caption": "Amitabh Bachchan Remoye Bulletproof Glass For Sunday Darshan Despite Threats",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 20:59:09 +0530"
+  },
+  "1di49u0": {
+    "id": "1di49u0",
+    "type": "news",
+    "headline": "Akshay Kumar Celebrates Diwali with Family and Honors Late Parents",
+    "dek": "Bollywood star Akshay Kumar shared a personal look at his family Diwali celebrations, featuring a touching ritual with his late parents' photographs and an appearance by his son Aarav Bhatia.",
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Aarav Bhatia",
+        "Twinkle Khanna",
+        "Saif Ali Khan",
+        "Venkat K. Narayana",
+        "Shailaja Desai Fenn",
+        "Anees Bazmee"
+      ],
+      "titles": [
+        "Haiwaan",
+        "Tashan",
+        "Golmaal 5"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Diwali pooja",
+      "Aarav Bhatia Diwali",
+      "Akshay Kumar Haiwaan film",
+      "Akshay Kumar family news"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135661628,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Akshay Kumar Celebrates Diwali with Family and Honors Late Parents",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T20:47:22+05:30"
+  },
+  "hfoggq": {
+    "id": "hfoggq",
+    "type": "news",
+    "headline": "Andy Weir's Project Hail Mary Receives Special Deluxe Edition Book Release",
+    "dek": "A brand-new hardcover Deluxe Edition of Andy Weir's hit science-fiction novel Project Hail Mary is scheduled to hit shelves ahead of the holiday season, following the massive success of this year's cinematic adaptation.",
+    "entities": {
+      "people": [
+        "Andy Weir",
+        "Nicholas Becher",
+        "Gregory Nussen",
+        "Ryan Gosling",
+        "Phil Lord",
+        "Christopher Miller",
+        "James Ortiz"
+      ],
+      "titles": [
+        "Project Hail Mary",
+        "The Martian",
+        "Journey Among the Stars"
+      ]
+    },
+    "keywords": [
+      "Project Hail Mary Deluxe Edition",
+      "Andy Weir Project Hail Mary book",
+      "Project Hail Mary December 1 release",
+      "Ryan Gosling Project Hail Mary film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/project-hail-mary_lmwlix.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Andy Weir's Project Hail Mary Receives Special Deluxe Edition Book Release",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:00:18 GMT"
+  },
   "1fxsx58": {
     "id": "1fxsx58",
     "type": "news",
@@ -185,6 +290,48 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-08T15:00:05Z"
+  },
+  "gwm9fu": {
+    "id": "gwm9fu",
+    "type": "news",
+    "headline": "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential",
+    "dek": "Fans of the smash-hit Yellowstone spin-off must exercise patience as the creative team gears up for the second season following a record-breaking premiere run.",
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Kelly Reilly",
+        "Cole Hauser",
+        "Finn Little",
+        "Raoul Max Trujillo",
+        "Annette Bening",
+        "Natalie Alyn Lind",
+        "Jai Courtney",
+        "Juan Pablo Raba",
+        "Matt Thunell",
+        "Benjamin Cavell",
+        "Chad Feehan",
+        "Ash Santos"
+      ],
+      "titles": [
+        "Dutton Ranch",
+        "Yellowstone",
+        "Marshals"
+      ]
+    },
+    "keywords": [
+      "Dutton Ranch Season 2",
+      "Paramount+ Dutton Ranch",
+      "Kelly Reilly Cole Hauser",
+      "Dutton Ranch release date"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/10/dr.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential",
+        "source": "Decider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 10:00:00 -0500"
   },
   "qeewar": {
     "id": "qeewar",
@@ -4335,150 +4482,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 04:43:59 +0000"
-  },
-  "6cnve0": {
-    "id": "6cnve0",
-    "type": "news",
-    "headline": "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
-    "dek": "MBC drama The Perfect Lie achieved its best viewership metrics to date with its third episode, whereas Doctor X sustained its strong dominance as the most-watched program in its time slot.",
-    "entities": {
-      "people": [
-        "Yoo Yeon Seok",
-        "Seo Hyun Jin",
-        "E Cha"
-      ],
-      "titles": [
-        "The Perfect Lie",
-        "Doctor X",
-        "Dr. Romantic"
-      ]
-    },
-    "keywords": [
-      "The Perfect Lie",
-      "Doctor X",
-      "Yoo Yeon Seok",
-      "Seo Hyun Jin",
-      "The Perfect Lie ratings"
-    ],
-    "images": [
-      {
-        "url": "https://0.soompi.io/wp-content/uploads/2026/11/07133357/The-Perfect-Lie-Doctor-X.jpg",
-        "caption": "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
-        "source": "Soompi"
-      }
-    ],
-    "published": "Sat, 07 Nov 2026 04:37:12 +0000"
-  },
-  "sgr9lo": {
-    "id": "sgr9lo",
-    "type": "news",
-    "headline": "KYUHYUN Announces New EP CONTINUE and Major Asia Tour",
-    "dek": "Popular singer KYUHYUN is preparing to launch a brand new five-track EP titled CONTINUE alongside a sweeping tour across Asia.",
-    "entities": {
-      "people": [
-        "KYUHYUN",
-        "Minsoo-Kim"
-      ],
-      "titles": [
-        "CONTINUE",
-        "Promise",
-        "An Endless Season",
-        "FILAMENT",
-        "I Thought I Was Okay",
-        "Sailboat",
-        "KYUHYUN ASIA TOUR CONTINUE"
-      ]
-    },
-    "keywords": [
-      "KYUHYUN CONTINUE EP",
-      "KYUHYUN Asia tour",
-      "KYUHYUN Promise song",
-      "KYUHYUN new album release"
-    ],
-    "images": [],
-    "published": "Fri, 06 Nov 2026 23:31:00 EST"
-  },
-  "513f8m": {
-    "id": "513f8m",
-    "type": "news",
-    "headline": "Charlie Hunnam Stars in Prime Video's Criminal Adaptation",
-    "dek": "Actor Charlie Hunnam takes the lead in Prime Video's adaptation of the award-winning comic series Criminal, bringing a blend of high-stakes heists and crime drama.",
-    "entities": {
-      "people": [
-        "Charlie Hunnam",
-        "Ed Brubaker",
-        "Sean Phillips",
-        "Jordan Harper",
-        "Luke Evans",
-        "Emilia Clarke",
-        "Adria Arjona",
-        "Michael Mando",
-        "Richard Jenkins",
-        "John Hawkes",
-        "Gus Halper",
-        "Kadeem Hardison",
-        "Logan Browning",
-        "Sarah Carbiener"
-      ],
-      "titles": [
-        "Sons Of Anarchy",
-        "Money Heist",
-        "Legends",
-        "Criminal",
-        "The Gentlemen",
-        "Coward",
-        "Lawless"
-      ]
-    },
-    "keywords": [
-      "Charlie Hunnam Criminal",
-      "Prime Video Criminal series",
-      "Ed Brubaker Criminal comics",
-      "Criminal release date"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/93b55cbe-ae18-45aa-a59d-c3efa1482479.jpeg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Charlie Hunnam Stars in Prime Video's Criminal Adaptation",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Sat, 07 Nov 2026 04:15:18 GMT"
-  },
-  "15013we": {
-    "id": "15013we",
-    "type": "news",
-    "headline": "Salman Khan Announces 11 Rupee Tickets For Senior Citizens For Maatrubhumi",
-    "dek": "Superstar Salman Khan has revealed a special discounted ticket price of 11 rupees for senior citizens during the trailer launch event of his upcoming war-based drama Maatrubhumi.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Chitrangda Singh",
-        "Apoorva Lakhia",
-        "Shraddha Kapoor",
-        "Sana Farzeen",
-        "Vinod Singh"
-      ],
-      "titles": [
-        "Maatrubhumi",
-        "Eetha"
-      ]
-    },
-    "keywords": [
-      "Salman Khan Maatrubhumi movie",
-      "Maatrubhumi trailer launch",
-      "Salman Khan 11 rupees ticket",
-      "Apoorva Lakhia Maatrubhumi",
-      "Chitrangda Singh Maatrubhumi"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aedbdc41248b-salman-khan-announces-senior-citizen-offer-for-maatrubhumi-06450756-16x9.jpeg",
-        "caption": "Salman Khan Announces 11 Rupee Tickets For Senior Citizens For Maatrubhumi",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-07T03:52:21Z"
   },
   "ex0d4f": {
     "id": "ex0d4f",

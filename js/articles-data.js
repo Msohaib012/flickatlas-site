@@ -87740,5 +87740,371 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 15:00:12 GMT"
+  },
+  "hiuq0l": {
+    "id": "hiuq0l",
+    "type": "news",
+    "headline": "Amitabh Bachchan Remoye Bulletproof Glass For Sunday Darshan Despite Threats",
+    "dek": "Bollywood veteran Amitabh Bachchan met his fans outside Jalsa without a bulletproof barrier on Diwali, following a recent threatening letter and ongoing health updates regarding hand pain.",
+    "body": [
+      {
+        "h": "Sunday Darshan Ritual",
+        "p": [
+          "Bollywood icon Amitabh Bachchan continued his long-standing weekly tradition of greeting admirers gathered outside his Jalsa residence in Mumbai on November 8, 2026. The 84-year-old actor took time to wish his supporters a happy Diwali during the public gathering.",
+          "The appearance drew significant attention as the veteran performer stepped out without the protective bulletproof glass screen that had surrounded him during his previous weekend meeting."
+        ]
+      },
+      {
+        "h": "Security Oversight",
+        "p": [
+          "During the public greeting, members of the actor's inner circle were seen closely monitoring the surroundings to ensure safety. His son and fellow actor Abhishek Bachchan, alongside film producer Bunty Walia, stood present to oversee security arrangements.",
+          "The heightened watchfulness follows closely after a threatening letter sent to the Mumbai Mayor explicitly named the veteran star alongside several other prominent city figures."
+        ]
+      },
+      {
+        "h": "Political Reactions",
+        "p": [
+          "The decision to remove the protective glass partition sparked public commentary from political figures. Congress spokesperson Sachin Sawant publicly questioned the motives behind dispensing with the security shield.",
+          "Sawant noted to the media that only the actor himself could clarify whether the barrier was removed due to perceived safety or political optics, while also highlighting broader anxieties among film personalities regarding criminal elements inside Sabarmati jail."
+        ]
+      },
+      {
+        "h": "Health Update And KBC Absence",
+        "p": [
+          "Earlier on the same day, the actor utilized his personal blog to communicate with his fan base regarding his physical well-being. He informed followers that he has temporarily paused shooting for his television game show Kaun Banega Crorepati.",
+          "The star addressed a backlog in acknowledging the heavy influx of festive gifts and greetings, noting that the sheer volume has left him with a shortage of storage space in his home."
+        ]
+      },
+      {
+        "h": "Hand Discomfort And Personal Replies",
+        "p": [
+          "Explaining the delay in his personal correspondence, the actor revealed he has been dealing with physical discomfort in the specific hand he uses for writing. Despite the difficulty, he expressed a desire to respond to well-wishers personally through letters.",
+          "He offered a sincere apology for the slow response times, reflecting on themes of forgiveness, compassion, and the personal choice to let go of resentment in communication."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amitabh Bachchan greeted fans outside his Mumbai residence on November 8, 2026, opting to go without the bulletproof glass used previously despite a recent threat letter naming him. Alongside security overseen by Abhishek Bachchan and Bunty Walia, the actor also shared a health update on his blog explaining his temporary absence from Kaun Banega Crorepati due to hand pain."
+        ]
+      }
+    ],
+    "facts": [
+      "Amitabh Bachchan is 84 years old.",
+      "The Sunday Darshan took place on November 8, 2026.",
+      "The event occurred outside the Jalsa bungalow in Mumbai.",
+      "Abhishek Bachchan and Bunty Walia were present overseeing security.",
+      "A threatening letter had been sent to the Mumbai Mayor naming Bachchan.",
+      "Congress spokesperson Sachin Sawant commented on the security change.",
+      "The actor experienced physical discomfort in his writing hand and paused shooting for Kaun Banega Crorepati."
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Abhishek Bachchan",
+        "Bunty Walia",
+        "Sachin Sawant",
+        "Lawrence Bishnoi",
+        "Tiger Shroff"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan",
+      "Amitabh Bachchan bulletproof glass",
+      "Amitabh Bachchan Jalsa Sunday Darshan",
+      "Amitabh Bachchan health update"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/pics-big-b-ditches-bulletproof-glass-for-sunday-darshan-on-diwali-after-threats-08253590-16x9_0.jpg?VersionId=fJGG4LPV4XDUtnbyulexZmEF3Guyadgm",
+        "caption": "Amitabh Bachchan Remoye Bulletproof Glass For Sunday Darshan Despite Threats",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 20:59:09 +0530"
+  },
+  "hfoggq": {
+    "id": "hfoggq",
+    "type": "news",
+    "headline": "Andy Weir's Project Hail Mary Receives Special Deluxe Edition Book Release",
+    "dek": "A brand-new hardcover Deluxe Edition of Andy Weir's hit science-fiction novel Project Hail Mary is scheduled to hit shelves ahead of the holiday season, following the massive success of this year's cinematic adaptation.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Release",
+        "p": [
+          "Fans of Andy Weir's celebrated science-fiction novel Project Hail Mary have an exciting new collector's item to anticipate before the close of the year. Ballantine Books is releasing a brand-new Deluxe Edition of the beloved space adventure, officially hitting the market on December 1, 2026.",
+          "This special hardcover publication offers readers a chance to revisit astronaut Ryland Grace's desperate mission in an upgraded physical format. The release is particularly aimed at individuals who discovered the universe through the recent major motion picture."
+        ]
+      },
+      {
+        "h": "Design Features of the Deluxe Edition",
+        "p": [
+          "Based on listings from Penguin Random House, this special version includes several distinct aesthetic enhancements that separate it from the standard hardcover. These collector-focused elements feature intricately crafted stenciled page edges and brand-new cover artwork encased in a deluxe dust jacket.",
+          "Additionally, the volume incorporates full-color illustrated endpapers and a custom-stamped case situated right beneath the jacket. The 496-page collector's item carries a standard retail price of $40, with various booksellers offering discounts."
+        ]
+      },
+      {
+        "h": "Novel Background and Premise",
+        "p": [
+          "The core narrative of the book remains completely unaltered, centering on protagonist Ryland Grace as he wakes up aboard a spacecraft millions of miles away from Earth. Stricken with total amnesia regarding his mission, his memories gradually return to reveal that humanity's continued survival rests upon solving an extreme scientific enigma.",
+          "Long before reaching the silver screen, Weir's novel established itself as a massive science-fiction sensation. It earned the position of a number-one New York Times bestseller, captured the Goodreads Choice Award for science fiction in 2021, and garnered a prestigious Hugo Award nomination."
+        ]
+      },
+      {
+        "h": "Cinematic Adaptation Success",
+        "p": [
+          "The cultural footprint of the property expanded significantly in 2026 when Ryan Gosling stepped into the role of Ryland Grace for the acclaimed film adaptation. Directed by Phil Lord and Christopher Miller, the cinematic version introduced the story to a massive global audience and drove a strong resurgence in readership for the original book.",
+          "Critics and reviewers praised the cinematic translation, with Gregory Nussen awarding the feature a stellar 9 out of 10 rating. Nussen described the movie as a remarkable achievement destined to secure a permanent place in the pantheon of great science-fiction cinema."
+        ]
+      },
+      {
+        "h": "Broader Franchise and Legacy",
+        "p": [
+          "While the upcoming December release is neither a direct sequel nor an entirely fresh narrative adventure within the universe, it provides a striking centerpiece for dedicated readers and collectors. The combined triumphs of the original literature and its Hollywood counterpart demonstrate the enduring appeal of Weir's storytelling.",
+          "Furthermore, related projects like the mixed reality and virtual reality Journey Among the Stars experience continue to expand the scope of the franchise. For audiences looking for an excuse to dive back into Grace's journey, the upcoming hardcover provides an ideal timing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ballantine Books is publishing a Deluxe Edition of Andy Weir's bestselling novel Project Hail Mary on December 1, 2026, featuring exclusive design elements like stenciled edges and custom artwork. This collector's release follows the massive global success of the 2026 film adaptation starring Ryan Gosling and directed by Phil Lord and Christopher Miller."
+        ]
+      }
+    ],
+    "facts": [
+      "The Deluxe Edition of Project Hail Mary arrives on December 1, 2026.",
+      "The book is published by Ballantine Books.",
+      "The Deluxe Edition is 496 pages long and retails for $40.",
+      "Ryan Gosling played Ryland Grace in the 2026 film adaptation.",
+      "The film was directed by Phil Lord and Christopher Miller.",
+      "The movie grossed more than $680 million worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Andy Weir",
+        "Nicholas Becher",
+        "Gregory Nussen",
+        "Ryan Gosling",
+        "Phil Lord",
+        "Christopher Miller",
+        "James Ortiz"
+      ],
+      "titles": [
+        "Project Hail Mary",
+        "The Martian",
+        "Journey Among the Stars"
+      ]
+    },
+    "keywords": [
+      "Project Hail Mary Deluxe Edition",
+      "Andy Weir Project Hail Mary book",
+      "Project Hail Mary December 1 release",
+      "Ryan Gosling Project Hail Mary film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/project-hail-mary_lmwlix.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Andy Weir's Project Hail Mary Receives Special Deluxe Edition Book Release",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:00:18 GMT"
+  },
+  "1di49u0": {
+    "id": "1di49u0",
+    "type": "news",
+    "headline": "Akshay Kumar Celebrates Diwali with Family and Honors Late Parents",
+    "dek": "Bollywood star Akshay Kumar shared a personal look at his family Diwali celebrations, featuring a touching ritual with his late parents' photographs and an appearance by his son Aarav Bhatia.",
+    "body": [
+      {
+        "h": "A Heartfelt Family Celebration",
+        "p": [
+          "Bollywood star Akshay Kumar recently provided his fans with an intimate glimpse into his personal life by documenting his family's traditional Diwali observance at home. The actor took to social media to share a video capturing the warmth and spirit of the festival, connecting with supporters across the country.",
+          "Dressed in a bright yellow kurta, the celebrated actor led the rituals by performing the aarti personally. The private ceremony emphasized traditional values, quiet reflection, and familial bonding during one of the most auspicious periods of the Hindu calendar."
+        ]
+      },
+      {
+        "h": "Honoring Late Parents",
+        "p": [
+          "A particularly touching element of the household pooja was the inclusion of photographs of Akshay's late parents. Placed respectfully right beside the sacred deities, the framed pictures served as a poignant reminder of remembrance and gratitude.",
+          "By keeping his mother and father symbolically close during the holiday prayers, the actor highlighted the deep emotional roots and personal traditions that continue to guide his family through significant milestones and yearly celebrations."
+        ]
+      },
+      {
+        "h": "Son Aarav Bhatia Joins the Festivities",
+        "p": [
+          "Adding to the familial warmth of the occasion, Akshay and Twinkle Khanna's son, Aarav Bhatia, made a notable appearance in the shared video footage. The young member actively participated alongside his father, taking part in the evening's religious customs.",
+          "Such rare glimpses of Aarav joining in public-facing family moments often draw considerable attention from fans and media observers alike, showcasing a private family dynamic rooted in cultural continuity."
+        ]
+      },
+      {
+        "h": "Festive Message to Fans",
+        "p": [
+          "Alongside the video, the actor penned a thoughtful and extensive caption reflecting on the true essence of the holiday season. He emphasized themes of shared happiness, spending quality time with loved ones, and appreciating life's smaller joys.",
+          "Extending warm wishes on behalf of his entire household, his message wished good health, prosperity, and joy to every home, resonating deeply with his massive digital fanbase."
+        ]
+      },
+      {
+        "h": "Recent Professional Endeavors",
+        "p": [
+          "Away from personal celebrations, the actor remains actively engaged in the film industry, having recently appeared on the big screen in the feature 'Haiwaan'. This project reunited him with co-star Saif Ali Khan after their previous collaboration in the film 'Tashan'.",
+          "While their past cinematic pairing was celebrated for its memorable music despite commercial struggles, 'Haiwaan' brought the two actors back together under the production banners of KVN Productions and Thespian Films, backed by producers Venkat K. Narayana and Shailaja Desai Fenn."
+        ]
+      },
+      {
+        "h": "Upcoming Movie Projects",
+        "p": [
+          "Looking ahead, the star's professional calendar features several high-profile cinematic ventures. Among them is an upcoming untitled comedy and drama project directed by filmmaker Anees Bazmee.",
+          "Additionally, he is slated to star in the popular comedy franchise installment 'Golmaal 5', keeping him busy with multiple major studio commitments moving forward."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Akshay Kumar celebrated Diwali at home with a traditional pooja featuring photos of his late parents beside the deities, joined by his son Aarav Bhatia. He shared the moment on Instagram alongside a heartfelt holiday greeting for his fans.",
+          "Professionally, the actor's recent work includes the film 'Haiwaan' with Saif Ali Khan, alongside upcoming projects directed by Anees Bazmee and 'Golmaal 5'."
+        ]
+      }
+    ],
+    "facts": [
+      "Akshay Kumar performed a Diwali pooja wearing a yellow kurta on Sunday, November 8, 2026.",
+      "His son Aarav Bhatia joined the celebration, whom Akshay shares with Twinkle Khanna.",
+      "Akshay was last seen in the film 'Haiwaan' alongside Saif Ali Khan.",
+      "'Haiwaan' is produced by Venkat K. Narayana and Shailaja Desai Fenn under KVN Productions and Thespian Films.",
+      "His upcoming projects include an untitled film directed by Anees Bazmee and 'Golmaal 5'."
+    ],
+    "entities": {
+      "people": [
+        "Akshay Kumar",
+        "Aarav Bhatia",
+        "Twinkle Khanna",
+        "Saif Ali Khan",
+        "Venkat K. Narayana",
+        "Shailaja Desai Fenn",
+        "Anees Bazmee"
+      ],
+      "titles": [
+        "Haiwaan",
+        "Tashan",
+        "Golmaal 5"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Diwali pooja",
+      "Aarav Bhatia Diwali",
+      "Akshay Kumar Haiwaan film",
+      "Akshay Kumar family news"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135661628,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Akshay Kumar Celebrates Diwali with Family and Honors Late Parents",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T20:47:22+05:30"
+  },
+  "gwm9fu": {
+    "id": "gwm9fu",
+    "type": "news",
+    "headline": "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential",
+    "dek": "Fans of the smash-hit Yellowstone spin-off must exercise patience as the creative team gears up for the second season following a record-breaking premiere run.",
+    "body": [
+      {
+        "h": "Waiting on Season 2",
+        "p": [
+          "Viewers tuning in for their weekly dose of Taylor Sheridan creations will find themselves pressing pause as they await the continuation of Dutton Ranch. Following a gripping first season conclusion titled 'El Padrino' that dropped back in July, audiences are left stranded with several major narrative loose ends. The turbulent journey centers heavily around Beth and Rip desperately trying to rescue Carter from the clutches of Mariano and his cartel associates.",
+          "Meanwhile, other figures across the landscape grapple with dark mysteries of their own. Beulah and Oreana find themselves questioning the sudden demise of Rob-Will and seeking out his true killer, while Joaquin contemplates his next strategic maneuver. With no fresh broadcast hitting screens on Sunday, November 8, dedicated followers are eager for any news regarding when the drama will resume."
+        ]
+      },
+      {
+        "h": "Renewal Success and Ratings Records",
+        "p": [
+          "Paramount+ officially greenlit the second chapter on Wednesday, June 24, ahead of the eighth episode rollout. This early confirmation came as little shock given the program's massive critical and commercial footprint, which boasts a Certified Fresh 90% rating on Rotten Tomatoes.",
+          "According to official figures released by the studio, the streaming launch shattered previous internal records by drawing an incredible 12.9 million global viewers during its initial seven-day window. Furthermore, its two-episode cable introduction on the Paramount Network brought in 2.9 million total viewers, standing tall as the biggest cable series debut since 2023."
+        ]
+      },
+      {
+        "h": "Production Timeline and Writing Phase",
+        "p": [
+          "Although an exact premiere date has not yet been locked in, reports indicate that cameras are scheduled to start rolling in early 2027. Cast member Kelly Reilly noted during summer interviews that the writing room would assemble swiftly to map out the upcoming arcs over a six-month development period.",
+          "Assuming the planned early 2027 filming window stays on track without unexpected setbacks, enthusiasts might anticipate a potential late summer or early fall arrival that same year. In the meantime, the creative forces remain heavily invested in shaping the next chapter of these rugged characters."
+        ]
+      },
+      {
+        "h": "Creative Changes and Cast Security",
+        "p": [
+          "Rumors and speculation regarding potential friction between creator Taylor Sheridan and star Cole Hauser briefly sparked online anxieties concerning the future of the beloved character Rip. However, all indications confirm that Hauser remains firmly attached to the project both as a primary cast member and executive producer.",
+          "Behind the scenes, leadership is shifting as Benjamin Cavell steps into the role of showrunner for the sophomore run. This transition follows the departure of Season 1 showrunner Chad Feehan, who exited the position shortly before the initial series launch."
+        ]
+      },
+      {
+        "h": "Potential Crossover With Marshals",
+        "p": [
+          "Speculation has continuously swirled around a potential crossover event connecting Dutton Ranch with its sister series, Marshals. While main characters are not slated to appear in the immediate autumn episodes of Marshals, actors and producers have openly discussed the narrative possibilities of a future reunion.",
+          "Cast members and creative leads have noted that a crossover feels both natural and narratively satisfying given family ties. Because Kayce shares deep bonds with Beth as his only surviving sibling besides Tate, dialogue regarding a shared screen appearance remains an exciting prospect for down the line."
+        ]
+      },
+      {
+        "h": "Streaming and Catch-Up Options",
+        "p": [
+          "For those wishing to revisit the inaugural season while awaiting new installments, the entirety of Season 1 is readily available on Paramount+. Subscribers can choose between the ad-supported Essential tier and the ad-free Premium tier, which incorporates additional network content.",
+          "Viewers can also access the platform through Amazon Prime Video channels or catch traditional broadcasts via live television providers such as Philo, Fubo, Hulu + Live TV, YouTube TV, DIRECTV, and Sling TV, many of which offer introductory trial periods."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dutton Ranch has officially secured a second season renewal on Paramount+ following a record-breaking premiere run that captivated millions of global viewers. While production is slated to begin in early 2027 under new showrunner Benjamin Cavell, fans can currently stream the first season on Paramount+ while awaiting future release dates and potential franchise crossovers."
+        ]
+      }
+    ],
+    "facts": [
+      "Dutton Ranch Season 2 was officially renewed by Paramount+ on Wednesday, June 24.",
+      "The Season 1 finale titled 'El Padrino' aired in July.",
+      "Dutton Ranch amassed 12.9 million global viewers in the 7 days following its premiere.",
+      "The two-episode debut on Paramount Network on May 15 delivered 2.9 million total viewers.",
+      "Production for Season 2 is expected to begin in early 2027.",
+      "Benjamin Cavell joined the series as the new showrunner for Season 2, succeeding Chad Feehan."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Kelly Reilly",
+        "Cole Hauser",
+        "Finn Little",
+        "Raoul Max Trujillo",
+        "Annette Bening",
+        "Natalie Alyn Lind",
+        "Jai Courtney",
+        "Juan Pablo Raba",
+        "Matt Thunell",
+        "Benjamin Cavell",
+        "Chad Feehan",
+        "Ash Santos"
+      ],
+      "titles": [
+        "Dutton Ranch",
+        "Yellowstone",
+        "Marshals"
+      ]
+    },
+    "keywords": [
+      "Dutton Ranch Season 2",
+      "Paramount+ Dutton Ranch",
+      "Kelly Reilly Cole Hauser",
+      "Dutton Ranch release date"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/10/dr.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential",
+        "source": "Decider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 10:00:00 -0500"
   }
 };
