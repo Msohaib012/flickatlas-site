@@ -844,6 +844,138 @@ def _gemini_helpers():
     return gemini_batch.gemini_keys, gemini_batch.call_gemini
 
 
+# ---------------------------------------------------------------------------
+# Box Office Mojo direct lane (backup for the cumulative worldwide total).
+#
+# 2026-11-08: BOTH Tavily keys hit their plan usage limit (HTTP 432) and
+# every search in the refresh failed, yet the run still reported success
+# and republished a snapshot built on carried-over reports — the World
+# cards silently froze on their 2026-11-02 figures for days. Mojo title
+# pages publish the current cumulative worldwide total directly, so this
+# lane reads them deterministically (the same class of source-backed
+# reader as the Sacnilk daywise lane) whenever the search lane leaves a
+# selected title's cumulative total uncovered. A figure is accepted ONLY
+# when the page's own components sum-check: Domestic + International ==
+# Worldwide (or Worldwide == Domestic when no International row exists).
+# ---------------------------------------------------------------------------
+
+_BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+               "AppleWebKit/537.36 (KHTML, like Gecko) "
+               "Chrome/140.0.0.0 Safari/537.36")
+
+
+def _tmdb_key() -> str:
+    env = os.environ.get("TMDB_API_KEY", "").strip()
+    if env:
+        return env
+    try:
+        text = (ROOT / "js" / "config.js").read_text(encoding="utf-8", errors="ignore")
+    except OSError:
+        return ""
+    match = re.search(r'TMDB_KEY\s*[:=]\s*"([A-Za-z0-9]{32})"', text)
+    if match:
+        return match.group(1)
+    match = re.search(r"\b[a-f0-9]{32}\b", text)
+    return match.group(0) if match else ""
+
+
+def _imdb_id(tmdb_id: Any, key: str) -> str:
+    if not key or not str(tmdb_id).isdigit():
+        return ""
+    url = f"https://api.themoviedb.org/3/movie/{tmdb_id}?api_key={key}"
+    try:
+        request = urllib.request.Request(url, headers={"User-Agent": _BROWSER_UA})
+        with urllib.request.build_opener().open(request, timeout=20) as response:
+            data = json.loads(response.read().decode("utf-8", "ignore"))
+    except Exception:
+        return ""
+    imdb = str(data.get("imdb_id") or "")
+    return imdb if re.fullmatch(r"tt\d+", imdb) else ""
+
+
+def mojo_worldwide(html: str) -> tuple[int, int, int] | None:
+    """(domestic, international, worldwide) from a Mojo title page, or None.
+
+    Line-based scan of the summary grosses block; the components must
+    sum-check against the Worldwide figure, so a stray amount elsewhere
+    on the page can never be accepted.
+    """
+    plain = re.sub(r"<[^>]+>", "\n", html)
+    lines = [" ".join(line.split()) for line in plain.split("\n")]
+    lines = [line for line in lines if line]
+
+    def amount_at(index: int, span: int = 3) -> int | None:
+        for j in range(index, min(index + span, len(lines))):
+            if re.fullmatch(r"\$[\d,]+", lines[j]):
+                return int(lines[j].replace("$", "").replace(",", ""))
+        return None
+
+    for i, line in enumerate(lines):
+        if line != "Worldwide":
+            continue
+        worldwide = amount_at(i + 1)
+        if worldwide is None:
+            continue
+        domestic = international = None
+        for k in range(max(0, i - 10), i):
+            label = lines[k]
+            if label == "Domestic" or label.startswith("Domestic ("):
+                value = amount_at(k + 1)
+                if value is not None:
+                    domestic = value
+            elif label == "International" or label.startswith("International ("):
+                value = amount_at(k + 1)
+                if value is not None:
+                    international = value
+        if domestic is not None and international is not None \
+                and domestic + international == worldwide:
+            return domestic, international, worldwide
+        if domestic is not None and international is None and domestic == worldwide:
+            return domestic, 0, worldwide
+    return None
+
+
+def mojo_direct_metric(item: dict[str, Any], now_iso: str,
+                       today: str) -> dict[str, Any] | None:
+    """Cumulative worldwide metric read straight from the title's Mojo
+    page, in the same shape the search lane's accepted reports use.
+    Any failure returns None — this lane never creates an unverified
+    figure and never breaks the refresh."""
+    try:
+        imdb = _imdb_id(item.get("id"), _tmdb_key())
+        if not imdb:
+            return None
+        url = f"https://www.boxofficemojo.com/title/{imdb}/"
+        request = urllib.request.Request(url, headers={"User-Agent": _BROWSER_UA})
+        with urllib.request.build_opener().open(request, timeout=30) as response:
+            html = response.read().decode("utf-8", "ignore")
+        parsed = mojo_worldwide(html)
+        if not parsed:
+            return None
+        domestic, international, worldwide = parsed
+        return {
+            "scope": "worldwide",
+            "window": "cumulative_total",
+            "method": "mojo_direct",
+            "amount": worldwide,
+            "currency": "USD",
+            "period_start": None,
+            "period_end": today,
+            "as_of": today,
+            "observed_date": today,
+            "observed_at": now_iso,
+            "source_name": "boxofficemojo.com",
+            "source_url": url,
+            "source_title": f"{item.get('title')} - Box Office Mojo",
+            "evidence_quote": (f"Domestic ${domestic:,} + International "
+                               f"${international:,} = Worldwide ${worldwide:,}"),
+            "reviewed_by": "mojo_direct (component sum-check)",
+            "reviewed_at": now_iso,
+        }
+    except Exception:
+        return None
+
+
 def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
                 now: dt.datetime | None = None) -> dict[str, Any]:
     now = now or dt.datetime.now(dt.timezone.utc)
@@ -914,6 +1046,8 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
     candidates = manifest["candidates"]
     drafts: list[dict[str, Any]] = []
     query_count = 0
+    search_attempts = 0
+    search_failures = 0
     # One targeted search per (title, uncovered window), highest-value window
     # first across all titles, capped per run; whatever the cap cuts stays
     # uncovered and is retried by the next scheduled run.
@@ -930,10 +1064,12 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
             skipped_searches.append(f"{item.get('title')} [{window}]")
             continue
         query_count += 1
+        search_attempts += 1
         try:
             results = tavily_fn(make_query(item, window, today_ist))
             search_log[log_key] = now_iso
         except Exception as exc:  # a failed search never creates a figure
+            search_failures += 1
             print(f"Tavily query failed for {item.get('id')} [{window}]: {type(exc).__name__}")
             continue
         for result in results[:5]:
@@ -1010,6 +1146,39 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
         report["industry"] = item.get("industry") or report.get("industry")
         # Upsert the latest value per window. Re-running the same slot cannot append duplicates.
         report.update(metrics)
+    # Mojo direct lane (2026-11-08): any selected title whose cumulative
+    # worldwide total is STILL uncovered after the search lane — searched
+    # and rejected, budget-skipped, or every search failed (the Tavily
+    # plan-limit outage) — gets one deterministic Mojo read. A stored
+    # paired-components total is preferred and never overwritten, and a
+    # total the search lane accepted this run is left alone.
+    mojo_fills = 0
+    for item in candidates:
+        if "cumulative_total" not in (item.get("windows_to_refresh") or []):
+            continue
+        movie_id = str(item.get("id", ""))
+        if movie_id in accepted and "cumulative_total" in accepted[movie_id]:
+            continue
+        existing = snapshot["reports"].get(movie_id, {}).get("cumulative_total")
+        if isinstance(existing, dict) and existing.get("method") == "paired_components":
+            continue
+        if isinstance(existing, dict) and search_failures < search_attempts:
+            continue  # search lane is alive; its stored figure stands
+        metric = mojo_direct_metric(item, now_iso, today_pkt)
+        if metric:
+            report = snapshot["reports"].setdefault(movie_id, {})
+            report["title"] = item.get("title") or report.get("title") or movie_id
+            report["industry"] = item.get("industry") or report.get("industry")
+            report["cumulative_total"] = metric
+            mojo_fills += 1
+            print(f"Mojo direct fill for {movie_id} [{item.get('title')}]: "
+                  f"cumulative_total ${metric['amount']:,}")
+    snapshot["search_health"] = {
+        "attempts": search_attempts,
+        "failures": search_failures,
+        "mojo_fills": mojo_fills,
+        "at": now_iso,
+    }
     # Bound stored data to the 500 most recently observed report records.
     if len(snapshot["reports"]) > 500:
         ordered = sorted(snapshot["reports"].items(), key=lambda kv: max(
@@ -1021,6 +1190,7 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
                "paired": paired_counts, "search_budget": SEARCH_BUDGET,
                "skipped_searches": len(skipped_searches),
                "cooldown_skips": cooldown_skips,
+               "search_health": snapshot["search_health"],
                "selected": {k: len(v) for k, v in manifest["selections"].items()},
                "updated_at": now_iso, "timezone": "Asia/Karachi"}
     print(json.dumps(summary, sort_keys=True))
@@ -1034,9 +1204,21 @@ def main() -> int:
     if not args.run:
         parser.error("no action taken; pass --run only from the dedicated scheduled GitHub workflow")
     try:
-        run_refresh()
+        summary = run_refresh()
     except Exception as exc:
         print(f"home Box Office worldwide refresh failed: {type(exc).__name__}: {exc}", file=sys.stderr)
+        return 1
+    # A run where EVERY search failed and the Mojo lane filled nothing
+    # must be visibly failed, not green: on 2026-11-08 exactly that
+    # silent-green pattern hid a multi-day Tavily outage. The snapshot
+    # was still written above, so returning 1 here loses nothing.
+    health = summary.get("search_health") or {}
+    if health.get("attempts", 0) > 0 \
+            and health.get("failures", 0) >= health.get("attempts", 0) \
+            and not health.get("mojo_fills", 0):
+        print("home Box Office worldwide refresh: ALL searches failed and "
+              "no Mojo direct fills succeeded — marking the run failed so "
+              "the outage is visible", file=sys.stderr)
         return 1
     return 0
 
