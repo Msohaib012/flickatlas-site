@@ -86769,5 +86769,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 12:44:12 GMT"
+  },
+  "ikvlup": {
+    "id": "ikvlup",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 4 Early Updates: Nitesh Tiwari Epic Enters 200 Crore Club On Diwali",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana, starring Ranbir Kapoor, Sai Pallavi, and Yash, maintains a strong hold during the Diwali festivities and targets the 250 crore milestone.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "Nitesh Tiwari's grand directorial venture Ramayana has captured widespread attention due to its massive scale, star-studded ensemble, and enormous box office expectations. Headlined by prominent actors Ranbir Kapoor, Sai Pallavi, and Yash, the mythological feature stands as one of the most ambitious cinematic undertakings in the history of Indian filmmaking.",
+          "As anticipation surrounding the production remained exceptionally high, industry analysts and trade experts closely monitored its trajectory from advance ticket sales to its theatrical debut. The involvement of multiple industry stars added considerable weight to the project ahead of its release."
+        ]
+      },
+      {
+        "h": "Opening Figures and Advance Bookings",
+        "p": [
+          "Prior to its official arrival in cinemas, the feature accumulated an impressive Rs 50.08 crore through advance booking figures alone. When the film finally opened in theaters across the country, it registered a domestic opening day gross of Rs 64.85 crore.",
+          "While this initial figure fell short of early trade predictions that anticipated a start exceeding the Rs 100 crore mark, it nonetheless secured its position among the strongest opening day performances for major releases in recent years."
+        ]
+      },
+      {
+        "h": "Comparison with Other Major Releases",
+        "p": [
+          "Despite missing the lofty expectations set by some analysts, the opening day earnings successfully surpassed the first-day collections achieved by several high-profile titles such as Animal, Pathaan, Jailer 2, and Stree 2.",
+          "Even so, the opening figures remained below the initial debut recorded by the Prabhas-starrer Adipurush. Additional interest surrounded the project due to Yash taking on the role of Raavan while also participating as a co-producer."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown on Day Four",
+        "p": [
+          "According to early tracking reports published by Sacnilk, the mythological drama amassed a collection of Rs 40.69 crore up until 6 pm on its fourth day of theatrical run. This particular daily sum included Rs 27.99 crore from the Hindi version, Rs 5.57 crore from the Kannada language screenings, Rs 4.71 crore from Telugu markets, and Rs 2.42 crore contributed by Tamil audiences.",
+          "These ongoing earnings successfully elevated the overall domestic collection to a cumulative total of Rs 223.39 crore so far."
+        ]
+      },
+      {
+        "h": "Diwali Holiday Boost and Overseas Earnings",
+        "p": [
+          "Benefiting from the concurrent Diwali celebrations, the production was anticipated to witness a surge in attendance during evening and night screenings, putting it on a clear path toward touching the Rs 250 crore milestone.",
+          "On the international front, the feature earned Rs 68.5 crore on its third day, which was its first Saturday, bringing its overseas total to Rs 165.75 crore. Combined with domestic figures, the worldwide collection reached Rs 384 crore after three days in release."
+        ]
+      },
+      {
+        "h": "Surpassing Adipurush and Critical Reception",
+        "p": [
+          "In a notable box office comparison, Ramayana comfortably outpaced the fourth-day earnings of Prabhas's Adipurush, which had previously secured Rs 16 crore on its corresponding fourth day in theaters.",
+          "Alongside robust commercial figures, the feature encountered a mixed reception from both audiences and critics alike, making its weekend hold and weekday trajectory the ultimate test for its theatrical longevity."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has crossed the Rs 200 crore mark domestically with early day four collections reaching Rs 223.39 crore amid the Diwali festivities. Despite missing early Rs 100 crore opening day predictions with a Rs 64.85 crore start, the Ranbir Kapoor and Yash starrer outperformed several major recent titles and surpassed the fourth-day earnings of Adipurush."
+        ]
+      }
+    ],
+    "facts": [
+      "Advance bookings reached Rs 50.08 crore.",
+      "Opening day business in India was Rs 64.85 crore.",
+      "Day 4 collection until 6 pm was Rs 40.69 crore.",
+      "Hindi collection on day 4 was Rs 27.99 crore.",
+      "Kannada collection on day 4 was Rs 5.57 crore.",
+      "Telugu collection on day 4 was Rs 4.71 crore.",
+      "Tamil collection on day 4 was Rs 2.42 crore.",
+      "Overall domestic collection reached Rs 223.39 crore.",
+      "Overseas collection after three days reached Rs 165.75 crore.",
+      "Worldwide total after three days reached Rs 384 crore.",
+      "Story published on November 8, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal",
+        "Pathaan",
+        "Jailer 2",
+        "Stree 2",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana day 4 collection",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday4feature-89641794145313.jpg",
+        "caption": "Ramayana Box Office Collection Day 4 Early Updates: Nitesh Tiwari Epic Enters 200 Crore Club On Diwali",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 19:13:34 +0530"
+  },
+  "1ac4w76": {
+    "id": "1ac4w76",
+    "type": "news",
+    "headline": "Heated Rivalry Reportedly Eyed for Season 3 and a Festive Feature",
+    "dek": "Reports suggest the hit Canadian drama series could return for a third installment alongside a holiday movie, though key characters might be absent.",
+    "body": [
+      {
+        "h": "Potential Season 3 and Christmas Movie Development",
+        "p": [
+          "Reports indicate that the popular series Heated Rivalry may be expanding significantly with plans for a third season and a Christmas feature-length movie. The Canadian drama, created by streaming service Crave, has achieved international acclaim following its debut in November 2025.",
+          "While only the second season has received official confirmation from the platform, sources point to secret parallel production schedules and a holiday project slated to begin filming in December."
+        ]
+      },
+      {
+        "h": "Star Cast Exclusion from the Holiday Special",
+        "p": [
+          "Despite the excitement surrounding a potential Christmas movie, reports state that leads Hudson Williams and Connor Storrie will not participate in the special. The actors portray central hockey rivals-turned-lovers Shane Hollander and Ilya Rozanov.",
+          "Instead, the holiday narrative could draw inspiration from author Rachel Reid's short story Merry Christmas, Scott and Kip!, which centres on characters played by François Arnaud and Robbie G.K. as they experience their first holiday together."
+        ]
+      },
+      {
+        "h": "Season 2 Schedule and Prior Leaks",
+        "p": [
+          "The upcoming second season is scheduled to release in Spring 2027 and will consist of six episodes according to showrunner David Tierney. Crave has maintained that no further projects have been officially confirmed beyond these plans.",
+          "Speculation about concurrent filming for seasons two and three previously surfaced online due to a casual remark by cast member Dylan Walsh. Walsh, who portrays David Hollander, mentioned shooting twelve episodes during a video message on Cameo."
+        ]
+      },
+      {
+        "h": "Cast Member Response and Apology",
+        "p": [
+          "The accidental disclosure by Dylan Walsh led to significant online attention, prompting the actor to temporarily freeze his social media account. He later released a statement through Variety explaining his comments.",
+          "Walsh clarified that he spoke off the cuff regarding production schedules and apologized for any confusion caused to fans and the production team, while expressing gratitude for the show's enthusiastic reception."
+        ]
+      },
+      {
+        "h": "Source Material Adaptations and Non-Linear Storytelling",
+        "p": [
+          "The television series is adapted from Rachel Reid's novel series but follows an unconventional adaptation order. While the first season utilized the second book, the second season will adapt the sixth book, titled The Long Game.",
+          "Additionally, the series has introduced characters from other books in the series, such as Harris Drover and Troy Barrett from Role Model, with Justice Smith and Charles Gillespie joining the cast."
+        ]
+      },
+      {
+        "h": "Viewing Options and Availability",
+        "p": [
+          "Audiences seeking to watch the first season of the drama can stream episodes on platforms like Sky Atlantic and NOW. Viewers can also track updates and recommendations through dedicated television guides."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that Heated Rivalry may receive a third season and a Christmas movie, though main stars Hudson Williams and Connor Storrie are reportedly not involved in the holiday special. The production details previously sparked online discussion after cast member Dylan Walsh mentioned shooting additional episodes in a video clip."
+        ]
+      }
+    ],
+    "facts": [
+      "Heated Rivalry was released in November 2025.",
+      "Season 2 is set to be released in Spring 2027 and will run for six episodes.",
+      "Dylan Walsh plays Shane's dad, David Hollander.",
+      "Rachel Reid created the book series on which the show is based."
+    ],
+    "entities": {
+      "people": [
+        "Hudson Williams",
+        "Connor Storrie",
+        "Rachel Reid",
+        "François Arnaud",
+        "Robbie G.K.",
+        "David Tierney",
+        "Dylan Walsh",
+        "Justice Smith",
+        "Charles Gillespie"
+      ],
+      "titles": [
+        "Heated Rivalry",
+        "Merry Christmas, Scott and Kip!",
+        "The Long Game",
+        "Dungeons Dragons: Honour Among Thieves",
+        "Role Model",
+        "Game Changers"
+      ]
+    },
+    "keywords": [
+      "Heated Rivalry season 3",
+      "Heated Rivalry Christmas movie",
+      "Hudson Williams Connor Storrie",
+      "Rachel Reid Heated Rivalry"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/01/FL03HeatedRivalryS01-a4ea676.jpg?resize=1200%2C630",
+        "caption": "Heated Rivalry Reportedly Eyed for Season 3 and a Festive Feature",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 12:59:28 GMT"
+  },
+  "4w5svb": {
+    "id": "4w5svb",
+    "type": "news",
+    "headline": "Ram Pothineni Signs On For Rajinikanth's Action Thriller Project",
+    "dek": "Telugu star Ram Pothineni is officially stepping into Tamil cinema by joining the cast of Rajinikanth's upcoming film titled 'Dharman'.",
+    "body": [
+      {
+        "h": "Official Casting Confirmation",
+        "p": [
+          "Telugu actor Ram Pothineni has officially boarded the cast of Rajinikanth's highly anticipated action thriller project. The film marks a significant career milestone for Ram as it serves as his debut in Tamil cinema.",
+          "Additionally, this production provides the energetic actor with his very first opportunity to share screen space with the legendary superstar. The studio revealed the news through an animated announcement video."
+        ]
+      },
+      {
+        "h": "Animated Teaser and Social Media Buzz",
+        "p": [
+          "The creative team released a forty-three-second animated promotional clip on social media to build excitement among fans. The video offered a glimpse of Ram Pothineni alongside Rajinikanth, teasing a turbulent ride ahead.",
+          "Social media posts welcomed the Telugu star enthusiastically with energy-themed messaging. Prior to this official drop, earlier leaks and deleted behind-the-scenes photographs had already sparked widespread rumors regarding the collaboration."
+        ]
+      },
+      {
+        "h": "Character Details and First-Look Reveal",
+        "p": [
+          "Director Ashwath Marimuthu is helming the project, which aims to present Rajinikanth in a stylish yet mysterious avatar. The makers have described the superstar's persona in the movie as 'The Deadly Doctor'.",
+          "The initial promotional poster featured the veteran actor dressed in a surgeon's outfit while clutching a blood-stained medical instrument. Overall, the feature is designed to blend heavy action sequences with family emotions and signature superstar style."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Apart from the leading men, 'Dharman' features a robust supporting lineup of prominent actors. Nayanthara recently joined the ensemble, receiving an official welcome from the director on digital platforms.",
+          "The movie also stars Raashii Khanna, Sreeleela, Simran Bagga, and Yogi Babu in pivotal roles. This diverse combination of talent has heightened anticipation across various regional film industries."
+        ]
+      },
+      {
+        "h": "Behind the Camera Talent",
+        "p": [
+          "A powerhouse technical crew has been assembled to manage the production elements of the film. Anirudh Ravichander is in charge of composing the musical score.",
+          "Stunt and action choreography is being handled by the dynamic duo Anbariv. Furthermore, the project is backed by Kamal Haasan under his production banner."
+        ]
+      },
+      {
+        "h": "Recent Promotional Updates",
+        "p": [
+          "To coincide with festive celebrations, the production team shared a brand new poster featuring the lead star. This update was released to extend festival greetings to followers of the veteran actor.",
+          "With official confirmations now in place, audience excitement continues to grow as production moves forward steadily."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Telugu actor Ram Pothineni has officially joined the cast of Rajinikanth's upcoming action thriller 'Dharman', marking his Tamil cinema debut. Directed by Ashwath Marimuthu and produced by Kamal Haasan, the film also features Nayanthara, Raashii Khanna, and Sreeleela among its ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Ram Pothineni joined the cast of Dharman",
+      "The film marks Ram Pothineni's Tamil debut",
+      "Rajinikanth stars in the film as The Deadly Doctor",
+      "Ashwath Marimuthu is the director of Dharman",
+      "Kamal Haasan is the producer of the film",
+      "Anirudh Ravichander is the music composer",
+      "Anbariv is handling action choreography",
+      "Cast members include Nayanthara, Raashii Khanna, Sreeleela, Simran Bagga, and Yogi Babu"
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Ram Pothineni",
+        "Ashwath Marimuthu",
+        "Raashii Khanna",
+        "Nayanthara",
+        "Sreeleela",
+        "Simran Bagga",
+        "Yogi Babu",
+        "Anirudh Ravichander",
+        "Anbariv",
+        "Kamal Haasan"
+      ],
+      "titles": [
+        "Dharman"
+      ]
+    },
+    "keywords": [
+      "Ram Pothineni Dharman",
+      "Rajinikanth Dharman movie",
+      "Ashwath Marimuthu film",
+      "Ram Pothineni Tamil debut"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135659775,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ram Pothineni Signs On For Rajinikanth's Action Thriller Project",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T18:38:39+05:30"
+  },
+  "w3vzzt": {
+    "id": "w3vzzt",
+    "type": "news",
+    "headline": "Day 2 Winners of the 2026 Korean Grand Music Awards Announced at Seoul Dome",
+    "dek": "The second day of the 2026 Korean Grand Music Awards wrapped up in Seoul, honoring top K-Pop groups, soloists, and major daesang winners.",
+    "body": [
+      {
+        "h": "Ceremony Backdrop and Location",
+        "p": [
+          "The second day of the 2026 Korean Grand Music Awards officially concluded, bringing together massive crowds and an impressive lineup of musical talent. The star-studded event took place at the Gocheok Sky Dome located in Seoul.",
+          "Music enthusiasts and fandoms gathered to celebrate the achievements of established industry veterans alongside rising newcomers. The ceremony highlighted various genres within the vibrant K-Pop landscape, marking a memorable evening for all attendees."
+        ]
+      },
+      {
+        "h": "Major Daesang and Grand Honors",
+        "p": [
+          "Several high-profile acts took home prestigious Daesang trophies during the second day of the festivities. Recognition for top-tier excellence was awarded to prominent groups such as RIIZE, who claimed the Grand Performer honor.",
+          "Additional major accolades included ATEEZ securing the Grand Record of the Year, while KiiiKiii celebrated taking home the Grand Honor's Choice award to cap off a successful night."
+        ]
+      },
+      {
+        "h": "Outstanding Solo Artist Achievements",
+        "p": [
+          "Solo performers had a remarkable evening with multiple artists shining in distinct individual categories. Minho captured the award for Best Solo Artist in the male division.",
+          "Meanwhile, Yena triumphed in the female solo category, marking a notable milestone with her eighteenth solo career award. Yuna from ITZY also stood out by winning the Best Solo Performance category."
+        ]
+      },
+      {
+        "h": "Standout Group and Stage Performances",
+        "p": [
+          "Group categories featured fierce competition among some of the industry's most popular ensembles. MONSTA X earned the Best Group Award, with Minhyuk, Hyungwon, and Jooheon stepping up to accept the honor.",
+          "Dynamic stage presence was heavily rewarded during the evening. KISS OF LIFE dominated the female stage category, while ATEEZ claimed the equivalent male trophy for their exceptional live presence."
+        ]
+      },
+      {
+        "h": "Global Stars and Rising Talents",
+        "p": [
+          "International appeal was duly noted as NEXZ walked away with the Best Global K-POP Star title. The group further delighted fans by picking up an additional trophy for Hulu Japan Popularity.",
+          "Riding waves of early career momentum, ALPHA DRIVE ONE captured the IS Rising Star award. AEN was similarly honored as the K-POP Overseas Artist, celebrating their first trophy since debut."
+        ]
+      },
+      {
+        "h": "Specialized Genre and OST Winners",
+        "p": [
+          "Niche and specialized categories highlighted diverse musical styles ranging from trot music to television soundtracks. Park Ji Hyeon achieved a double win, securing both Best Trot Stage and Best Adult Contemporary honors.",
+          "In the soundtrack category, Liz was recognized with Best OST for her contribution titled 'Tunnel' from the production Spooky in Love. TOUCHED rounded out the genre winners by taking home the Best Band trophy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The second day of the 2026 Korean Grand Music Awards concluded at Seoul's Gocheok Sky Dome on November 8, distributing trophies across numerous categories. Major daesang honors went to acts like RIIZE, ATEEZ, and KiiiKiii, alongside wins for various soloists, rising stars, and genre specialists."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 Korean Grand Music Awards Day 2 took place on November 8, 2026.",
+      "The venue for the ceremony was the Gocheok Sky Dome in Seoul.",
+      "RIIZE won Grand Performer (Daesang).",
+      "ATEEZ won Grand Record of the Year (Daesang) and Best Stage (Male).",
+      "KiiiKiii won Grand Honor's Choice (Daesang).",
+      "Minho won Best Solo (Male).",
+      "Yena won Best Solo (Female), marking her 18th solo award.",
+      "Yuna won Best Solo Performance and Most Popular Artist.",
+      "MONSTA X won Best Group, accepted by Minhyuk, Hyungwon, and Jooheon.",
+      "NEXZ won Best Global K-POP Star and Hulu Japan Popularity.",
+      "Park Ji Hyeon won Best Trot Stage and Best Adult Contemporary.",
+      "Liz won Best OST for 'Tunnel' from Spooky in Love."
+    ],
+    "entities": {
+      "people": [
+        "Park Ji Hyeon",
+        "Minho",
+        "Yena",
+        "Yuna",
+        "Minhyuk",
+        "Hyungwon",
+        "Jooheon",
+        "Liz"
+      ],
+      "titles": [
+        "Tunnel",
+        "Spooky in Love"
+      ]
+    },
+    "keywords": [
+      "2026 Korean Grand Music Awards",
+      "KGMA Day 2 winners",
+      "RIIZE KGMA Daesang",
+      "ATEEZ Grand Record KGMA"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/kgmaWinners2-FI.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1794204000&amp;KeyName=kb&amp;Signature=68yIL5Qt3rUUWDKCuQ7KxaQgDtQ=",
+        "caption": "Day 2 Winners of the 2026 Korean Grand Music Awards Announced at Seoul Dome",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 13:02:32 +0000"
   }
 };
