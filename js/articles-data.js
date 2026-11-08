@@ -89454,5 +89454,429 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 19:46:10 GMT"
+  },
+  "1gfk2r9": {
+    "id": "1gfk2r9",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Enters Mid-Week With Strong Multi-Language Box Office Numbers",
+    "dek": "A comprehensive look at the financial journey and ticket sales of Ramayana: Part 1 across its first four days in theaters.",
+    "body": [
+      {
+        "h": "Initial Theatrical Run and Market Response",
+        "p": [
+          "The theatrical venture Ramayana: Part 1 has drawn considerable attention across cinemas, pulling in steady ticket sales since its opening. Observers in the entertainment sector have been closely monitoring its daily financial progress as the film moves through its early theatrical window.",
+          "With figures compiled from various industry tracking mechanisms, the feature continues to maintain a noticeable presence at the box office, reflecting sustained viewer interest during its initial run."
+        ]
+      },
+      {
+        "h": "Opening Day Performance Across Languages",
+        "p": [
+          "On its first day in theaters, the feature established a formidable baseline by pulling in ₹62.5 crore net across all language versions. The Hindi belt led this charge with ₹45 crore, while regional markets also contributed meaningfully to the grand opening total.",
+          "Specifically, the Kannada version brought in ₹7.5 crore, the Telugu version secured ₹6 crore, the Tamil version added ₹2.5 crore, and the Malayalam version recorded ₹1.5 crore on the opening day."
+        ]
+      },
+      {
+        "h": "Weekend Momentum and Subsequent Earnings",
+        "p": [
+          "Following the opening day, the project witnessed fluctuations in its daily collections while retaining a strong overall footing. Day 2 saw a collection of ₹47.75 crore, broken down into ₹35 crore from Hindi, ₹5.25 crore from Kannada, ₹4.75 crore from Telugu, ₹1.5 crore from Tamil, and ₹1.25 crore from Malayalam.",
+          "The weekend peaked on Day 3 with a notable surge to ₹70.75 crore net. This Sunday high included ₹54 crore from the Hindi language version, ₹6.25 crore from Kannada, ₹6 crore from Telugu, ₹2.5 crore from Tamil, and ₹2 crore from Malayalam."
+        ]
+      },
+      {
+        "h": "First Monday Transition",
+        "p": [
+          "As the theatrical run transitioned into the first weekday on Day 4, the multi-language feature brought in a net collection of ₹54 crore. The Hindi version accounted for ₹35 crore of this amount.",
+          "Regional contributions on the fourth day remained stable, with the Kannada version contributing ₹7 crore, the Telugu version bringing in ₹6.25 crore, the Tamil version adding ₹3 crore, and the Malayalam version registering ₹2.75 crore."
+        ]
+      },
+      {
+        "h": "Cumulative Four-Day Totals",
+        "p": [
+          "Across its first four days in cinemas, the estimated net domestic collection for the film reached ₹235 crore. Out of this domestic sum, the Hindi language version accumulated an estimated ₹169 crore.",
+          "When factoring in taxes and international markets, the total gross figures scale even higher, depicting a broad financial footprint for the cinematic release so far."
+        ]
+      },
+      {
+        "h": "Domestic Gross and International Figures",
+        "p": [
+          "In terms of overall earnings, the India gross collection stands at an estimated ₹277.3 crore. Meanwhile, overseas territories have added $16.8 million, roughly translating to ₹159 crore.",
+          "Combined together, the worldwide earnings for the feature have touched an estimated ₹436.3 crore within the first four days of its release."
+        ]
+      },
+      {
+        "h": "Occupancy Trends Across Days",
+        "p": [
+          "Audience turnout throughout the day has varied significantly across morning, afternoon, and night screenings. On the opening day, overall occupancy reached 30.17%, driven largely by strong evening and night show turnouts hitting 45-50%.",
+          "Day 2 recorded an overall occupancy of 22.83%, while Day 3 saw an increase to 38.67% overall. On Day 4, the overall occupancy adjusted to 27.5% as the release entered the first weekday."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has accumulated a four-day estimated net collection of ₹235 crore in India, with worldwide totals reaching ₹436.3 crore. The film has drawn substantial multi-language support and varied daily occupancies across its initial theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Day 1 collection was ₹62.5 cr",
+      "Day 2 collection was ₹47.75 cr",
+      "Day 3 collection was ₹70.75 cr",
+      "Day 4 collection was ₹54 cr",
+      "Total 4 days India Net collection is ₹235 cr",
+      "Total 4 days Hindi net collection is ₹169 cr",
+      "India Gross collection is ₹277.3 cr",
+      "Overseas collection is $16.8 million (₹159 crore)",
+      "Worldwide collection is ₹436.3 cr"
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Day 4 collection",
+      "Ramayana Part 1 earnings",
+      "Ramayana collection India net"
+    ],
+    "images": [],
+    "published": "2026-11-09T01:29:18.884+05:30"
+  },
+  "8br78w": {
+    "id": "8br78w",
+    "type": "news",
+    "headline": "Independent and Alternative Cinema Surge at Box Office Led by Godzilla Minus Zero and Drummer Boy",
+    "dek": "Specialty distributors, live concert viewings, faith-based projects, and foreign-language titles command the weekend box office, fueled by standout performances from GKids, Angel Studios, and diverse independent releases.",
+    "body": [
+      {
+        "h": "Specialty Fare Rules the Weekend",
+        "p": [
+          "Alternative content, live concerts, faith-based cinema, Indian films, and television series adaptations have captured significant ground at the box office. These specialized offerings have continually helped the theatrical market withstand wider downturns while actively driving a modern industry resurgence.",
+          "A wide variety of distinct titles from independent distributors entered the top charts during a stacked weekend. Projects ranging from animated features and biographical dramas to live event broadcasts demonstrated robust audience demand across multiple genres."
+        ]
+      },
+      {
+        "h": "Godzilla Minus Zero Breaks Records",
+        "p": [
+          "Godzilla Minus Zero, distributed by independent studio GKids, dominated the weekend as the top-grossing film. The picture secured a historic domestic debut alongside massive global numbers, towering over competing releases.",
+          "The milestone release surpassed GKids' previous best opening weekend, which was held by The Boy and the Heron. Furthermore, the domestic opening established a new record as the highest-grossing debut ever for a foreign-language live-action film in North American box office history."
+        ]
+      },
+      {
+        "h": "Faith-Based and Musical Success with Drummer Boy",
+        "p": [
+          "Angel Studios made a strong impact with the musical feature Drummer Boy, which landed near the top of the weekend charts. The American Revolution original musical achieved high earnings alongside a chart-topping hit on iTunes.",
+          "Co-director and lead actor Joel Smallbone shared that bringing the deeply personal story to the big screen required years of perseverance. The strong audience turnout highlighted a growing appetite for theatrical musicals and community-driven entertainment."
+        ]
+      },
+      {
+        "h": "International and Alternative Highlights",
+        "p": [
+          "Bollywood production Ramayana achieved a massive opening as an Indian release in North America. Distributed by Sony Pictures and Prime Focus Studios, the film secured a wide screen count behind past hits like Dhurandhar: The Revenge.",
+          "Other notable alternative offerings included the theatrical event Stray Kids World Tour 'RUN IT' Live Viewing from Trafalgar Entertainment, which broadcasted a live concert straight from Tokyo Dome to movie theaters worldwide."
+        ]
+      },
+      {
+        "h": "Limited Openings and Moderate Releases",
+        "p": [
+          "Limited and moderate releases also found considerable success across various theater counts. A24 title Club Kid recorded one of the top limited openings of the year, while Amazon MGM Studios project I Play Rocky put up strong numbers from a handful of screens.",
+          "Meanwhile, films such as Sony Pictures Classics release The Only Living Pickpocket in New York and Netflix title La Bola Negra continued to hold steady in their subsequent weeks following previous festival recognition."
+        ]
+      },
+      {
+        "h": "Market Growth and Industry Performance",
+        "p": [
+          "The broader domestic marketplace experienced a dramatic surge, lifting year-over-year figures significantly according to Rentrak data. Week-over-week growth reflected the compounding power of diverse specialty distribution strategies.",
+          "With year-to-date domestic totals climbing compared to prior periods, specialty titles and alternative content continue to prove that varied counter-programming remains essential to the theatrical ecosystem's overall financial health."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Specialty and alternative films dominated the box office this weekend, led by record-breaking performances from foreign-language hits like Godzilla Minus Zero and faith-based musicals like Drummer Boy. Independent distributors and diverse alternative content continue to fuel a broad resurgence across the domestic theatrical marketplace."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero grossed $32 million domestically.",
+      "Godzilla Minus Zero achieved a $63 million global weekend opening.",
+      "The Boy and the Heron grossed $13 million previously for GKids.",
+      "Ramayana: Rise Of A Legend opened to $12.2 million in North America across 1,433 screens.",
+      "Dhurandhar: The Revenge debuted to $14.5 million in March.",
+      "Drummer Boy grossed $9.3 million.",
+      "Wild Horse Nine grossed $6 million on 1,100 screens.",
+      "Stray Kids World Tour 'RUN IT' Live Viewing grossed $3.7 million on 917 screens.",
+      "Wicker grossed $3.5 million on 2,085 screens in week 3 for a cume of $19.9 million.",
+      "Club Kid grossed $391k on 6 screens.",
+      "I Play Rocky grossed $335k from 7 screens.",
+      "The Only Living Pickpocket in New York grossed $893k on 818 screens in week 2 for a $3.95 million cume.",
+      "La Bola Negra grossed $975k in week 4 at 473 locations for a $2.47 million cume.",
+      "The Mosquito Bowl grossed $105k in its second week on 309 screens for a $756.4k cume.",
+      "Everest: The Other Side grossed $320k at 515 locations for a $1.92 million cume.",
+      "Jimmy opened at no. 12 with $2 million at 1,500 theaters.",
+      "Heated Rivalry packaged Episodes 1 and 2 to no. 14 with $1.4 million at 945 locations.",
+      "Scene opened to $1.28 million at 330 locations.",
+      "Domestic marketplace estimated at $121.7 million, up 99% week-over-week and 45% year-over-year.",
+      "Domestic YTD reaches $8.6 billion, up 21% from 2025."
+    ],
+    "entities": {
+      "people": [
+        "Chance Huskey",
+        "Joel Smallbone",
+        "Takashi Yamazaki",
+        "Martin McDonagh"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Drummer Boy",
+        "You Can See Everything",
+        "Ramayana: Rise Of A Legend",
+        "Wildwood",
+        "Wild Horse Nine",
+        "Stray Kids World Tour 'RUN IT' Live Viewing",
+        "Wicker",
+        "Jimmy",
+        "Heated Rivalry",
+        "Club Kid",
+        "I Play Rocky",
+        "The Only Living Pickpocket in New York",
+        "La Bola Negra",
+        "The Mosquito Bowl",
+        "Everest: The Other Side",
+        "The Boy and the Heron",
+        "Dhurandhar: The Revenge",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero box office",
+      "Drummer Boy Angel Studios",
+      "Ramayana Rise Of A Legend",
+      "Stray Kids RUN IT Live Viewing",
+      "Wild Horse Nine Searchlight Pictures"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2025/12/heated-rivalry-hbo-max.jpg?w=1024",
+        "caption": "Independent and Alternative Cinema Surge at Box Office Led by Godzilla Minus Zero and Drummer Boy",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 19:51:06 +0000"
+  },
+  "1755t76": {
+    "id": "1755t76",
+    "type": "news",
+    "headline": "Divya Dutta Reflects on Three Decades of Cinema, Iconic Roles, and the Magic of Silence",
+    "dek": "In an exclusive retrospective interview, veteran actor Divya Dutta opens up about her journey in Hindi cinema, her unforgettable collaborations with legendary filmmakers, and the profound lessons she has learned across a career spanning over thirty years.",
+    "body": [
+      {
+        "h": "A Journey of Depth Across Three Decades",
+        "p": [
+          "With a career spanning over three decades in Hindi cinema, actor Divya Dutta has consistently carved a distinctive space for herself through characters defined by authenticity, emotional depth, and warmth. Whether taking on substantial leading parts or making a lasting impact with limited screen time, she has continually pushed her creative boundaries.",
+          "From her early breakout performances to nuanced turns in parallel and commercial cinema alike, her filmography demonstrates a relentless pursuit of challenging roles. Her dedication to her craft has made her a respected figure across both feature films and contemporary streaming platforms."
+        ]
+      },
+      {
+        "h": "Collaborating with Cinematic Legends",
+        "p": [
+          "Working with the legendary Yash Chopra on Veer-Zaara fulfilled a lifelong ambition for Dutta, who grew up admiring his timeless romantic dramas. She recalled Chopra as a deeply affectionate person who brought out the best in his actors effortlessly, a prophecy that came true when her role as Shabbo received immense public affection.",
+          "Her association with Yash Chopra also extended to Aaja Nachle, where she played Najma alongside a stellar ensemble. That particular project gave her the chance to share the screen with Madhuri Dixit and work closely with the remarkably talented Irrfan Khan."
+        ]
+      },
+      {
+        "h": "Unconventional Methods with Amole Gupte and Rakeysh Omprakash Mehra",
+        "p": [
+          "Her experience on Stanley Ka Dabba with director Amole Gupte proved entirely unorthodox. Handed a Class V English textbook instead of a traditional script, she navigated unscripted interactions with children and captured raw, spontaneous moments on camera without the presence of standard vanity vans.",
+          "Similarly, her collaborations with Rakeysh Omprakash Mehra on Delhi-6 and Bhaag Milkha Bhaag brought profound personal growth. While Delhi-6 helped shed her natural shyness to play an uninhibited character named Jalebi, Bhaag Milkha Bhaag taught her the immense power of stillness, learning that silence through the eyes can connect deeply with audiences."
+        ]
+      },
+      {
+        "h": "Thriller Masters and National Award Recognition",
+        "p": [
+          "A self-proclaimed admirer of Neeraj Pandey's suspenseful storytelling, Dutta cherishes her work in Special 26 and values her close personal friendship with the director. Her creative partnership with Sriram Raghavan on Badlapur similarly showcased her appreciation for meticulous directors who allow actors freedom to interpret complex scenes before adjusting camera placements.",
+          "Her commitment to intense and diverse storytelling eventually led to a National Award for her negative portrayal in Irada. Collaborating with director Aparnaa Singh, she helped shape the emotional perspective of her character, making the accolade even more special as it arrived during an emotionally difficult period following her mother's passing."
+        ]
+      },
+      {
+        "h": "Navigating Complex Characters and Intense Biopics",
+        "p": [
+          "Portraying Kulwant Kaur in Nandita Das's Manto required tackling one of the most controversial stories penned by Saadat Hasan Manto. Despite the heavy psychological toll of such intense parts, she learned vital methods to disconnect, recalling a particularly draining army-wife biopic titled Echoes of Valour alongside Neeraj Kabi that left her unable to take on work for months.",
+          "On a lighter note, working on Sharmajee Ki Beti offered a refreshing, joyful experience alongside a supportive female crew under the direction of Tahira Kashyap, evoking the heartwarming storytelling style reminiscent of Hrishikesh Mukherjee."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "In a recent interview, actor Divya Dutta reflected on her extensive career in Hindi cinema, discussing memorable experiences and lessons learned from working with renowned directors like Yash Chopra, Rakeysh Omprakash Mehra, and Sriram Raghavan. She also shared personal insights into preparing for challenging characters, ranging from her National Award-winning performance in Irada to intense biographical projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Divya Dutta has a career spanning over three decades in Hindi cinema.",
+      "She played Shabbo in Veer-Zaara and Milkha Singh's sister in Bhaag Milkha Bhaag.",
+      "She won a National Award for her negative role in the film Irada, directed by Aparnaa Singh.",
+      "Her other notable film credits include Delhi-6, Stanley Ka Dabba, Badlapur, Special 26, Sharmajee Ki Beti, and Manto."
+    ],
+    "entities": {
+      "people": [
+        "Divya Dutta",
+        "Neeraj Pandey",
+        "Yash Chopra",
+        "Bachchan saab",
+        "Diya",
+        "Madhuri Dixit",
+        "Irrfan Khan",
+        "Amole Gupte",
+        "Vidyut Jammwal",
+        "Rakeysh Om Prakash Mehra",
+        "Jalebi",
+        "Milkha Singh",
+        "Sriram Raghavan",
+        "Varun Dhawan",
+        "Nawaz",
+        "Pooja",
+        "Aparnaa Singh",
+        "Mandeep",
+        "Tanuj",
+        "Tahira Kashyap",
+        "Hrishikesh Mukherjee",
+        "Nandita Das",
+        "Kulwant Kaur",
+        "Saadat Hasan Manto",
+        "Ranvir Shorey",
+        "Neeraj Kabi",
+        "Manoj Bajpayee",
+        "Boman Irani",
+        "Shehnaaz Gill",
+        "Suman Sharma"
+      ],
+      "titles": [
+        "Veer-Zaara",
+        "Bhaag Milkha Bhaag",
+        "Delhi-6",
+        "Stanley Ka Dabba",
+        "Badlapur",
+        "Manto",
+        "Special 26",
+        "Kabhi Kabhie",
+        "Deewaar",
+        "Lamhe",
+        "Chandni",
+        "Waqt",
+        "Aaja Nachle",
+        "Irada",
+        "Sharmajee Ki Beti",
+        "Thanda Gosht",
+        "Echoes of Valour",
+        "Last Man in Tower"
+      ]
+    },
+    "keywords": [
+      "Divya Dutta interview",
+      "Divya Dutta Filmfare",
+      "Divya Dutta National Award Irada",
+      "Divya Dutta movies career"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/divyaduttaso1793969223.jpg",
+        "caption": "Divya Dutta Reflects on Three Decades of Cinema, Iconic Roles, and the Magic of Silence",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-08T13:23:59+05:30"
+  },
+  "sw24j4": {
+    "id": "sw24j4",
+    "type": "news",
+    "headline": "Iconic LEGO Franchise Returns With New Trailer For NINJAGO Legends: Embers Ashes",
+    "dek": "Sixteen years after the debut of the original series, LEGO is bringing back its classic ninja characters for a legacy sequel series on Disney+.",
+    "body": [
+      {
+        "h": "The Return of an Iconic LEGO Franchise",
+        "p": [
+          "A major new chapter is coming for one of LEGO's most enduring animated properties, as the studio reveals a trailer for an upcoming legacy sequel series. Titled NINJAGO Legends: Embers Ashes, the project brings back the original ninja crew sixteen years after the property first premiered.",
+          "When the action line initially launched in 2011, it was projected to have a short shelf life. Instead, the Masters of Spinjitzu storyline endured for over a decade, outlasting a theatrical movie experiment and building a massive generational following."
+        ]
+      },
+      {
+        "h": "Connecting to Past Continuity",
+        "p": [
+          "The announcement of Embers Ashes stands apart from standard television renewals because of the specific history and continuity it revives. When Masters of Spinjitzu concluded its run in 2022, the brand shifted focus toward Dragons Rising, a soft reboot set after a world-altering Merge.",
+          "While Dragons Rising has spanned three seasons on Netflix and introduced newer characters like Arin and Sora under Lloyd's mentorship, a vocal segment of fans continually wondered about the whereabouts of the original six heroes in this new status quo."
+        ]
+      },
+      {
+        "h": "Trailer Teases and Character Evolution",
+        "p": [
+          "The newly released trailer directly addresses those lingering curiosities by featuring the returning heroes as older and visibly weathered individuals. The title itself points heavily toward Kai, the fire ninja, whose fate and absence have remained prominent mysteries throughout the Dragons Rising era.",
+          "Studio partners including Warner Bros., LEGO, and WildBrain are maintaining a measured approach to plot details. The teaser-heavy promotional strategy suggests that key narrative reveals will roll out gradually leading up to the premiere."
+        ]
+      },
+      {
+        "h": "A History of Patient Storytelling",
+        "p": [
+          "Throughout its long history, the franchise has often found its greatest critical success through slow-burn storytelling rather than immediate spectacle. Memorable story arcs such as the Overlord saga and the March of the Oni era gained their reputation through careful pacing and mystery.",
+          "The creative team appears to be leaning into that same deliberate buildup for Embers Ashes, offering long-term followers a continuation that rewards decades of investment rather than initiating another complete reset."
+        ]
+      },
+      {
+        "h": "A New Home on Disney+",
+        "p": [
+          "Beyond narrative developments, the upcoming series marks a notable shift in distribution strategy for the brand. Having spent its formative years on Cartoon Network and its reboot era on Netflix, the property is now making its way to the Disney ecosystem.",
+          "This move to Disney+ represents the third major streaming home for the brand. It also highlights LEGO's broader initiative to expand its animated offerings across different platforms following the success of previous collaborative specials."
+        ]
+      },
+      {
+        "h": "Release Timeline and Fan Expectations",
+        "p": [
+          "Scheduled to arrive in 2027, the legacy sequel is already sparking high engagement among viewers who grew up with the original broadcasts. Discussions online center around how the series will bridge the gap between classic lore and the merged world established in recent years.",
+          "With production details remaining sparse, anticipation continues to build across the community as fans await further previews and official release date announcements from the studios involved."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "LEGO is bringing back the original ninja crew for a legacy sequel series titled NINJAGO Legends: Embers Ashes, set to premiere on Disney+ in 2027. The project follows the original series which began sixteen years ago and addresses ongoing fan questions about the classic characters following the events of Dragons Rising."
+        ]
+      }
+    ],
+    "facts": [
+      "The original theme launched in 2011.",
+      "The Masters of Spinjitzu series concluded its run in 2022.",
+      "Dragons Rising set its story after a world-altering Merge.",
+      "NINJAGO Legends: Embers Ashes is scheduled to arrive on Disney+ in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Omar Faruque",
+        "Lloyd",
+        "Arin",
+        "Sora",
+        "Kai"
+      ],
+      "titles": [
+        "NINJAGO Legends: Embers Ashes",
+        "Masters of Spinjitzu",
+        "Dragons Rising"
+      ]
+    },
+    "keywords": [
+      "NINJAGO Legends Embers Ashes",
+      "LEGO Ninjago sequel series",
+      "NINJAGO Legends trailer Disney Plus",
+      "Omar Faruque",
+      "Lloyd"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/lego-ninjago-legends-embers-ashes-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Iconic LEGO Franchise Returns With New Trailer For NINJAGO Legends: Embers Ashes",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 20:49:37 GMT"
   }
 };
