@@ -275,6 +275,18 @@ assert.equal(helper.directMetric(direct('today', 500), 'last_7_days', today), nu
 assert.equal(helper.directMetric(direct('last_7_days', 500, { currency: 'USDT' }), 'last_7_days', today), null);
 assert.equal(helper.directMetric(direct('last_7_days', 500, { source_url: 'http://unsafe.example' }), 'last_7_days', today), null);
 assert.equal(helper.directMetric(direct('last_7_days', 500, { reviewed_by: 'Unknown' }), 'last_7_days', today), null);
+// Mojo direct lane (2026-11-08): a component sum-checked Box Office Mojo
+// total is a verified worldwide source of the same standing; the renderer's
+// provenance gate must accept it, with every other strict check intact.
+const mojo = helper.directMetric(direct('cumulative_total', 182191594, {
+  method: 'mojo_direct', reviewed_by: 'mojo_direct (component sum-check)',
+  evidence_quote: 'Domestic $66,291,594 + International $115,900,000 = Worldwide $182,191,594',
+}), 'cumulative_total', today);
+assert.equal(mojo.amount, 182191594, 'mojo_direct cumulative total resolves for display');
+assert.equal(mojo.method, 'mojo_direct', 'mojo_direct keeps its own method label');
+assert.equal(helper.directMetric(direct('cumulative_total', 500, {
+  method: 'mojo_direct', reviewed_by: 'mojo_direct (component sum-check)', evidence_quote: '',
+}), 'cumulative_total', today), null, 'a mojo_direct report without its sum-check quote is rejected');
 const direct2 = (amount, extra = {}) => direct('last_2_days', amount, { period_start: '2026-10-29', ...extra });
 assert.equal(helper.directMetric(direct2(500), 'last_2_days', today).amount, 500);
 assert.equal(helper.directMetric(direct2(500, { period_start: '2026-10-28' }), 'last_2_days', today), null,
