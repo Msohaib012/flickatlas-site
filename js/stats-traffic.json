@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-08T06:56:05Z",
+  "generated": "2026-11-08T09:17:14Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 3,
-    "pageviews": 12,
-    "sessions": 3,
-    "avg_session_seconds": 74.3
+    "users": 4,
+    "pageviews": 15,
+    "sessions": 4,
+    "avg_session_seconds": 57.7
   },
   "last7": {
-    "users": 121,
-    "pageviews": 477,
-    "sessions": 180,
-    "avg_session_seconds": 177.2
+    "users": 122,
+    "pageviews": 480,
+    "sessions": 181,
+    "avg_session_seconds": 176.2
   },
   "top_pages": [
     {
@@ -48,16 +48,16 @@
       "avg_time_seconds": 5.3
     },
     {
+      "path": "/upcoming",
+      "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
+      "views": 14,
+      "avg_time_seconds": 24.1
+    },
+    {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
       "views": 13,
       "avg_time_seconds": 5.0
-    },
-    {
-      "path": "/upcoming",
-      "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 25.9
     },
     {
       "path": "/episode-guides",
@@ -68,7 +68,7 @@
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 11,
+      "views": 12,
       "avg_time_seconds": 5.4
     },
     {
@@ -82,8 +82,8 @@
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 106,
-      "users": 96
+      "sessions": 107,
+      "users": 97
     },
     {
       "source": "(direct)",
@@ -117,7 +117,7 @@
     },
     {
       "country": "United States",
-      "users": 22
+      "users": 23
     },
     {
       "country": "Pakistan",
@@ -155,7 +155,7 @@
   "devices": [
     {
       "device": "mobile",
-      "users": 82
+      "users": 83
     },
     {
       "device": "desktop",

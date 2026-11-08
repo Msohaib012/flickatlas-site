@@ -84844,5 +84844,380 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 06:30:18 GMT"
+  },
+  "1a455an": {
+    "id": "1a455an",
+    "type": "news",
+    "headline": "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
+    "dek": "Ramayana: Rise of a Legend is expanding its overseas theatrical release, with Hong Kong next in line. Advance bookings have already opened for its November 12 release as the film eyes a Rs 500-crore worldwide Diwali weekend.",
+    "body": [
+      {
+        "h": "International Expansion to Hong Kong",
+        "p": [
+          "Director Nitesh Tiwari's Ramayana: Rise of a Legend is expanding its theatrical footprint to Hong Kong following a strong opening weekend. The high-profile project, which features a prominent cast including Ranbir Kapoor, Sai Pallavi, and Yash, has scheduled its release in the territory for November 12.",
+          "Advance ticket sales have officially commenced across the Broadway cinema network in Hong Kong. Screenings have been organized at prominent venues such as Premiere Elements, ensuring local audiences can experience the cinematic venture."
+        ]
+      },
+      {
+        "h": "Subtitle Details and Regional Distinctions",
+        "p": [
+          "Audiences in Hong Kong will be able to watch the cinematic feature in its original Hindi language. To cater to local viewers, the screenings will be accompanied by both Mandarin and English subtitles.",
+          "Industry observers have noted that this Hong Kong launch should be viewed distinctly from a potential mainland China release. As of now, no confirmed theatrical screening dates have been officially established for mainland China."
+        ]
+      },
+      {
+        "h": "Director Nitesh Tiwari's Global Legacy",
+        "p": [
+          "The expansion into Hong Kong brings back memories of director Nitesh Tiwari's prior historic achievements in the international market. His 2016 cinematic venture Dangal, headlined by Aamir Khan, achieved massive success in China.",
+          "That previous film accumulated roughly Rs 2,070 crore worldwide, setting an enduring benchmark for Indian cinema abroad. The overseas expansion of Ramayana hints at similar global aspirations."
+        ]
+      },
+      {
+        "h": "Strong Overseas and Domestic Numbers",
+        "p": [
+          "Globally, the film has performed remarkably well across international territories within its first few days. Its overseas gross hit an estimated Rs 157.25 crore in three days, with North America, the UK, Australia, and Europe leading contributions.",
+          "Domestically, the feature successfully overcame the traditionally challenging pre-Diwali box-office slump. Following a Friday dip, it rebounded sharply on Saturday to earn Rs 69.80 crore nett in India, marking a 45.3 percent increase."
+        ]
+      },
+      {
+        "h": "Global Milestones and Festive Projections",
+        "p": [
+          "Combined domestic and international metrics place the film's worldwide collection at an estimated Rs 375.50 crore after three days. Within India, the three-day nett collection stands at Rs 182.70 crore alongside a gross of Rs 218.25 crore.",
+          "Backed by strong festive momentum, trade trackers project the venture to cross the Rs 500-crore worldwide gross milestone by the conclusion of its festive theatrical run."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend is expanding its international theatrical run to Hong Kong with advance bookings open for a November 12 release. The film has already generated Rs 375.50 crore worldwide in three days and is eyeing a Rs 500 crore gross milestone."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend releases in Hong Kong on November 12, 2026.",
+      "Advance bookings are open across Hong Kong's Broadway cinema network including Premiere Elements.",
+      "The film will screen in Hindi with Mandarin and English subtitles.",
+      "Nitesh Tiwari directed the 2016 film Dangal starring Aamir Khan, which collected approximately Rs 2,070 crore worldwide.",
+      "The film earned an estimated Rs 157.25 crore gross internationally in its first three days.",
+      "Worldwide collection stands at an estimated Rs 375.50 crore gross in its first three days.",
+      "Saturday collection in India reached Rs 69.80 crore nett, a 45.3 percent jump from Friday.",
+      "Three-day nett collection in India stands at Rs 182.70 crore with a gross of Rs 218.25 crore."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Aamir Khan",
+        "Vineeta Kumar"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana Hong Kong release",
+      "Ranbir Kapoor Ramayana box office",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-heads-to-hong-kong-after-eyeing-rs-500-crore-worldwide--bookings-begin-083008214-16x9_0.jpg?VersionId=u.fIAPqc2rzosx9WwSoLm0zOLnHHhpp6",
+        "caption": "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 13:00:49 +0530"
+  },
+  "1bdy37g": {
+    "id": "1bdy37g",
+    "type": "news",
+    "headline": "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
+    "dek": "Korean stars Song Hye Kyo and Hyeri have sparked online discussion after recent posts highlighted them wearing the exact same pale pink designer dress at separate public appearances.",
+    "body": [
+      {
+        "h": "The Viral Pink Dress Phenomenon",
+        "p": [
+          "A fascinating fashion coincidence has recently captured the attention of internet users across entertainment platforms. Two prominent South Korean actresses, Song Hye Kyo and Hyeri, found themselves at the center of online chatter when side-by-side comparisons revealed they had both worn the identical pale pink gown at past official functions.",
+          "The striking coincidence immediately drew interest because of how differently the garment translated onto each celebrity. Even though the outfit was the exact same piece, individual choices in hair styling and complementary pieces transformed the overall aesthetic completely."
+        ]
+      },
+      {
+        "h": "Hyeri at the 2022 KBS Drama Awards",
+        "p": [
+          "Hyeri chose to wear the pale pink dress while performing her duties as an MC at the 2022 KBS Drama Awards in December 2022. The gown itself featured a fitted bustier top combined with a graceful mermaid silhouette that gently flared at the hem.",
+          "To complement the soft aesthetic, the Reply 1988 star wore her long hair down in a natural straight style. She completed her appearance with white crystal jewelry, achieving a fresh and lovely ambiance for the red carpet."
+        ]
+      },
+      {
+        "h": "Song Hye Kyo at a Jewelry Brand Event",
+        "p": [
+          "On another occasion, veteran star Song Hye Kyo sported the very same designer dress during a promotional appearance for a jewelry brand. Rather than going for a youthful look, she opted for a sophisticated approach.",
+          "Her styling featured a refined half-up hairstyle paired with striking statement jewelry. By contrasting the delicate pastel color of the dress with bold accessories, she projected a polished and elegant mood."
+        ]
+      },
+      {
+        "h": "Physical Differences and Public Reaction",
+        "p": [
+          "Beyond the fashion comparison, online commentators quickly pointed out the distinct physical differences between the two leading ladies. Born in 1981, Song Hye Kyo is thirteen years older than Hyeri, who was born in 1994.",
+          "Official profiles also indicate a slight height variance, listing Song Hye Kyo at 161 cm and Hyeri at 167 cm. Despite these differences, netizens praised both artists for successfully pulling off the dress in ways that uniquely matched their personal vibes."
+        ]
+      },
+      {
+        "h": "Background of the Celebrities",
+        "p": [
+          "Song Hye Kyo is widely recognized for her stellar acting career across legendary television dramas and films, including Full House, Descendants of the Sun, and The Glory. Her recent cinematic work includes the film Dark Nuns.",
+          "Hyeri first gained fame as a member of the K-pop girl group Girl's Day before transitioning into a successful acting career with standout roles in Reply 1988, My Roommate Is a Gumiho, and Friendly Rivalry."
+        ]
+      },
+      {
+        "h": "Upcoming Projects for Song Hye Kyo",
+        "p": [
+          "As the fashion comparison continues to circulate online, followers are also keeping a close eye on the stars' upcoming schedules. Song Hye Kyo is gearing up for her next major television appearance.",
+          "She is set to star alongside actor Gong Yoo in the upcoming Netflix original series Tantara, which is also known by the alternative title Slowly, Intensely, scheduled to premiere on December 11."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "South Korean actresses Song Hye Kyo and Hyeri drew online attention after resurfaced photos showed them wearing the exact same pale pink dress at different official events. Each star created a unique mood through distinct hair and accessory choices, highlighting their individual styles despite being thirteen years apart in age."
+        ]
+      }
+    ],
+    "facts": [
+      "Song Hye Kyo and Hyeri wore the same pale pink dress at past official events.",
+      "Hyeri wore the dress at the 2022 KBS Drama Awards in December 2022 as an MC.",
+      "Song Hye Kyo wore the dress at a jewelry brand event.",
+      "Song Hye Kyo was born in 1981 and Hyeri was born in 1994, making them 13 years apart.",
+      "Song Hye Kyo is 161 cm tall and Hyeri is 167 cm tall.",
+      "Song Hye Kyo starred in Full House, Descendants of the Sun, The Glory, and Dark Nuns.",
+      "Hyeri is a former member of Girl's Day and starred in Reply 1988, Friendly Rivalry, and My Roommate Is a Gumiho.",
+      "Song Hye Kyo stars alongside Gong Yoo in the Netflix series Tantara, premiering on December 11."
+    ],
+    "entities": {
+      "people": [
+        "Song Hye Kyo",
+        "Hyeri",
+        "Gong Yoo"
+      ],
+      "titles": [
+        "Full House",
+        "Descendants of the Sun",
+        "The Glory",
+        "Reply 1988",
+        "Friendly Rivalry",
+        "Dark Nuns",
+        "My Roommate Is a Gumiho",
+        "Tantara"
+      ]
+    },
+    "keywords": [
+      "Song Hye Kyo",
+      "Hyeri",
+      "Song Hye Kyo pink dress",
+      "Hyeri 2022 KBS Drama Awards",
+      "Tantara Netflix series"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/8QQxOQ_2d.jpg",
+        "caption": "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 08:49:16 +0000"
+  },
+  "pu0c4v": {
+    "id": "pu0c4v",
+    "type": "news",
+    "headline": "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
+    "dek": "Filmmaker Nitesh Tiwari believes Homer drew inspiration from the Ramayana while writing The Odyssey, noting striking similarities in iconic narrative sequences involving sacred bows.",
+    "body": [
+      {
+        "h": "Director's Take on Epic Parallels",
+        "p": [
+          "Filmmaker Nitesh Tiwari recently shared his perspective regarding the profound cultural connections linking ancient Eastern literature to prominent Western classics. During a discussion, he addressed the visible similarities connecting Christopher Nolan's The Odyssey with the ancient Indian epic Ramayana. Tiwari expressed his belief that Homer likely drew inspiration from the Indian text, considering how extensively the ancient narrative has traversed across the globe over centuries."
+        ]
+      },
+      {
+        "h": "The Bow Sequence Connection",
+        "p": [
+          "The primary thematic crossover centers around a memorable narrative sequence involving a formidable bow test. In Christopher Nolan's cinematic take on The Odyssey, Penelope challenges suitors to string Odysseus' bow to win her hand in marriage, a feat only accomplished by the disguised Odysseus himself. This plot device bears a striking resemblance to the swayamvar sequence in the Ramayana, where potential suitors are invited to lift and string Lord Shiva's celestial bow, culminating in Rama successfully lifting and breaking the weapon to win Sita's hand."
+        ]
+      },
+      {
+        "h": "Chronological Precedence and Ancient Texts",
+        "p": [
+          "Emphasizing the chronological timeline of these literary works, Tiwari highlighted that the events of the Indian epic were documented thousands of years prior. He noted that the text was composed four millennia ago, leading him to immediately recognize the thematic echoes upon watching the Western cinematic adaptation. Despite the deep-seated similarities, the filmmaker described the connection as a pleasant coincidence while affirming his admiration for both Homer's creation and Christopher Nolan's directorial vision."
+        ]
+      },
+      {
+        "h": "Global Outreach and Cultural Connection",
+        "p": [
+          "Tiwari expressed gratification that India's foundational epic has effectively received a tribute within another major Western epic. He pointed out that these shared motifs will ultimately serve as a bridge, making it considerably easier for international audiences to connect with the storytelling traditions India aims to present globally through modern cinematic adaptations."
+        ]
+      },
+      {
+        "h": "Release and Cast Details of Ramayana: Part One",
+        "p": [
+          "The ambitious two-part cinematic adaptation, titled Ramayana: Part One, officially arrived in movie theaters on November 5. Produced collaboratively by Namit Malhotra and Yash, the project features a prominent cast including Ranbir Kapoor as Lord Rama, alongside Sai Pallavi and Yash. The filmmakers designed the project not merely as a retelling, but as an assertion of cultural history meant for worldwide viewers."
+        ]
+      },
+      {
+        "h": "Box Office and International Response",
+        "p": [
+          "The global theatrical ambition has translated into substantial commercial success during its initial exhibition window. The movie pulled in an estimated Rs 375.50 crore worldwide across its first three days in cinemas, with international markets contributing Rs 157.25 crore to that figure. Bolstered by strong weekend earnings, the feature continues to expand its footprint on the international stage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Nitesh Tiwari noted striking narrative parallels between Christopher Nolan's The Odyssey and the ancient Indian epic Ramayana, suggesting Homer drew inspiration from the text. This discussion coincides with the theatrical release of Ramayana: Part One on November 5, which achieved a worldwide gross of Rs 375.50 crore in its first three days."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari commented on the comparison between The Odyssey and Ramayana.",
+      "Ramayana: Part One was released in theatres on November 5, 2026.",
+      "The film is produced by Namit Malhotra and Yash.",
+      "Ranbir Kapoor, Sai Pallavi, and Yash star in Ramayana: Part One.",
+      "The film grossed an estimated Rs 375.50 crore worldwide in its first three days.",
+      "Overseas markets contributed Rs 157.25 crore to the three-day total."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Homer",
+        "Christopher Nolan",
+        "Namit Malhotra",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Ramayana",
+        "Ramayana: Part One"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Nitesh Tiwari Ramayana",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/homer-was-inspired-by-ramayana-nitesh-tiwari-on-odyssey-parallels-with-indian-epic-085504254-16x9_0.jpg?VersionId=ChIkT6Gx4yglmcopej6Ebx.T.zc5LuLc",
+        "caption": "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 13:26:33 +0530"
+  },
+  "8f7hny": {
+    "id": "8f7hny",
+    "type": "news",
+    "headline": "Hrithik Roshan makes history as first mainstream Indian actor at LACMA Art + Film Gala",
+    "dek": "Bollywood star Hrithik Roshan stepped out in Los Angeles for the 15th annual LACMA Art + Film Gala, marking a major milestone for Indian representation on the global stage.",
+    "body": [
+      {
+        "h": "Historic International Appearance",
+        "p": [
+          "Bollywood star Hrithik Roshan made a landmark appearance at the 15th annual LACMA Art + Film Gala, hosted in Los Angeles. His presence at the prestigious international gathering marks a significant milestone for Indian representation in global cultural spaces.",
+          "Industry observers noted that his invitation and attendance establish him as the first mainstream Indian actor to ever grace the high-profile annual event, opening new doors for crossover visibility."
+        ]
+      },
+      {
+        "h": "About the Prestigious Gala",
+        "p": [
+          "The high-profile annual charity event is proudly presented by Gucci and is dedicated to celebrating major achievements spanning across the worlds of art and filmmaking. It serves as a bridge connecting diverse creative industries.",
+          "Co-chairing the grand affair are renowned Hollywood actor Leonardo DiCaprio and prominent entrepreneur Eva Chow, who together guide the vision of the star-studded cultural celebration."
+        ]
+      },
+      {
+        "h": "Honoring Industry Greats",
+        "p": [
+          "Each year, the gala shines a spotlight on extraordinary talent by officially honoring key figures for their profound contributions to cinema and the visual arts.",
+          "The latest edition paid special tribute to acclaimed filmmaker Denis Villeneuve, widely celebrated for directing Dune, alongside visionary artist Vija Celmins for their exceptional creative impacts."
+        ]
+      },
+      {
+        "h": "Classic Red Carpet Fashion",
+        "p": [
+          "For the formal black-tie gathering, the acclaimed Indian actor chose a custom-tailored tuxedo crafted by the esteemed Italian luxury fashion house Brunello Cucinelli.",
+          "Keeping his aesthetic timeless and sophisticated, his classic formal ensemble turned heads and drew praise from fashion critics covering the international red carpet."
+        ]
+      },
+      {
+        "h": "Hosted by Kavita Gupta",
+        "p": [
+          "During the glamorous evening, the Bollywood superstar was personally hosted by Kavita Gupta, an accomplished Indian-origin producer and venture capitalist.",
+          "Gupta, who also serves as a valued member of the International Emmy Board, has consistently dedicated her efforts to promoting South Asian talent on major international platforms."
+        ]
+      },
+      {
+        "h": "A Star-Studded Global Gathering",
+        "p": [
+          "The charity event brought together an eclectic mix of influential personalities from entertainment, business, fashion, and fine art, creating an atmosphere of cross-industry collaboration.",
+          "Among the prominent attendees spotted mingling at the venue were Hollywood heavyweights like Tom Hanks, Timothée Chalamet, Nicole Kidman, Andrew Garfield, Anya Taylor-Joy, Rufus Sewell, Ashley Park, Jessica Williams, and Monica Barbaro, alongside fashion and business moguls Kylie Jenner and Kim Kardashian."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Hrithik Roshan attended the 15th edition of the LACMA Art + Film Gala in Los Angeles on November 7, becoming the first mainstream Indian actor to grace the event. Dressed in a custom Brunello Cucinelli tuxedo and hosted by Kavita Gupta, he joined international luminaries like Leonardo DiCaprio to celebrate achievements in art and cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Hrithik Roshan attended the 15th edition of the LACMA Art + Film Gala",
+      "The event was held in Los Angeles on November 7",
+      "Denis Villeneuve and Vija Celmins were honored at the gala",
+      "Hrithik Roshan wore a custom tuxedo by Brunello Cucinelli",
+      "Kavita Gupta hosted Hrithik Roshan at the event"
+    ],
+    "entities": {
+      "people": [
+        "Hrithik Roshan",
+        "Denis Villeneuve",
+        "Vija Celmins",
+        "Kavita Gupta",
+        "Leonardo DiCaprio",
+        "Eva Chow",
+        "Tom Hanks",
+        "Timothée Chalamet",
+        "Nicole Kidman",
+        "Andrew Garfield",
+        "Anya Taylor-Joy",
+        "Rufus Sewell",
+        "Ashley Park",
+        "Jessica Williams",
+        "Monica Barbaro",
+        "Kylie Jenner",
+        "Kim Kardashian"
+      ],
+      "titles": [
+        "Dune"
+      ]
+    },
+    "keywords": [
+      "Hrithik Roshan",
+      "LACMA Art + Film Gala",
+      "Brunello Cucinelli",
+      "Kavita Gupta",
+      "Denis Villeneuve"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/Hrithik-Roshan-at-Gala.jpeg",
+        "caption": "Hrithik Roshan makes history as first mainstream Indian actor at LACMA Art + Film Gala",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 13:55:25 +0200"
   }
 };

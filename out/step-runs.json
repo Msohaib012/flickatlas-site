@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-06T22:50:57Z",
-    "run_id": "42307683153",
-    "status": "success",
-    "checked": {
-     "candidates": 390,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Worldwide Box Office Collection Day 2: Ranbir's Film Enters 200cr Club Despite 31% Dip In Overseas",
-      "Someone Asked Timothèe Chalamet How He Feels About Dune’s Ending (And Now I Can't Wait)",
-      "Ali G Who Iz I Annoyed Me Because It Addressed The Wrong Problem With Sacha Baron Cohen's Character",
-      "The Lord of the Rings Officially Unveils a Very Different Version of Aragorn",
-      "J.J. Abrams’ ‘Jurassic Park’ Replacement HBO Max Release Date Officially Confirmed",
-      "10 Thriller Shows With the Greatest Villain Performances, Ranked",
-      "Roland Emmerich & Game of Thrones Star’s Sci-Fi Movie Is Now Completely Free to Watch Online",
-      "Alexander Skarsgård’s Forgotten Action Movie Becomes Big Streaming Hit After Wicker’s Release",
-      "Tim Allen & Kat Dennings Share Shifting Gears Season 3 Release Date, Watch Video",
-      "Sylvester Stallone Reflects on Why He ‘Enjoyed’ Arnold Schwarzenegger Feud",
-      "Ramayana Star Explains Connection Between Fantasy Movie & Christopher Nolan’s The Odyssey",
-      "Dog Horror Movie Good Boy Director’s Next Project Is a Terrifying Film About a Fire Lookout",
-      "Dafne Keen Recalls ‘Very Creepy’ Men Following Her to School After Logan Fame",
-      "Giancarlo Esposito & Bowen Yang’s Hilarious Fantasy Movie Releases in Theaters Today",
-      "Elon Musk Movie Is Now on Digital Today After Abruptly Short Theatrical Run",
-      "Donnie Yen’s Hilarious Comedy Action Movie Is Now Streaming for Free",
-      "Stephen King Drops a Chilling Joke on The View, Leaving Joy Behar Horrified",
-      "Oscar-Winning A Fantastic Woman Director Sebastián Lelio Passes Away at 52, Statement Given",
-      "Liam Neeson's $929M Action Thriller Franchise Prequel Is Officially Being Cut From Streaming",
-      "David Tennant's New 3-Part Crime Thriller Series Debuts To Stellar Rotten Tomatoes Audience Score"
-     ],
-     "updated": [],
-     "count": 357,
-     "detail": "390 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-06T23:51:41Z",
     "run_id": "42314494431",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "183 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-07T05:13:50Z",
-    "run_id": "42341739551",
+    "run_at": "2026-11-08T08:51:41Z",
+    "run_id": "42464624810",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 270,
+     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Art Director Reveals Millions Spent on Yash and Rakul Preet Singh Props",
-      "Delhi High Court Rules Film Doosra Infringed Sourav Ganguly's Personality Rights",
-      "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
-      "Charlie Hunnam Stars in Prime Video's Criminal Adaptation"
+      "Hrithik Roshan attends LACMA Art + Film Gala 2026, becomes first mainstream Indian actor to grace event",
+      "Ramayana Kerala Box Office Collection Day 4 Prediction: Ranbir Kapoor And Yash Film Set To Beat Jawan, Pathaan",
+      "Ramayana Box Office Collection Day 3: Ranbir's Film Sees 45% Hike; Kicks Baahubali 2 Out Of Top 10 List",
+      "Ramayana: Makers Issues Warning Against Leaked Clips; Threaten To Take Legal Action Against Offenders",
+      "Stranger Things Prequel Other Worlds Could Finally Explain The Mystery Behind Vecna’s Powers",
+      "Ramayana Box Office Day 4 Advance Booking & Prediction: 10.86 Lakh Tickets Sold for Diwali – Ranbir Kapoor & Yash Loading A Smashing Sunday!",
+      "Ramayana Box Office Collection Day 3: Enters Ranbir Kapoor’s Top 5 Grossers In India, Becomes Yash’s 3rd Highest-Grosser",
+      "5 Tamil Films & Shows That Redefined Transgender Representation: From Kanchana To Dorothy",
+      "You Can See Everything North America Box Office: Surpasses This Is It & Another Hit To Enter The Top 5 Biggest Documentaries Ever!",
+      "Mookuthi Amman 2 Box Office: How Much Does Nayanthara Starrer Need To Enter The Safe Zone?",
+      "Scene Box Office Day 3 Advance Booking: Suriya’s Film Sells Over 6.5 Lakh Tickets, Set To Score Higher Than Day 2",
+      "The Cat In The Hat North America Box Office: Can The Animated Reboot Pull Off A Box Office Comeback After A Slow Start?",
+      "Diwali Box Office Records: Biggest Diwali Openings, Language by Language",
+      "Priyanka shares family pics from her LA Diwali bash with Nick and Malti",
+      "Diwali 2026: Big B, Sidharth, KJo and other celebs wish on the occasion",
+      "‘Kaaka’: Chiranjeevi unveils rugged new look in Diwali poster",
+      "Tom Blyth says that Ralph Fiennes did not need any help with his role in ‘The Hunger Games: Sunrise on the Reaping'",
+      "Chiranjeevi, Jr NTR, Dhanush and others share Diwali 2026 wishes",
+      "'The End of Oak Street' streaming release: What to know about Anne Hathaway's film",
+      "Ami says dubbing for Sai in 'Ramayana''felt almost divine'"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 260,
+     "detail": "260 stories, 1 duplicates removed, 10 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1455,27 +1432,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-08T08:52:06Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
+      "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
+      "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
+      "Hrithik Roshan makes history as first mainstream Indian actor at LACMA Art + Film Gala"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-07T00:52:47Z",
-    "run_id": "42320669325",
-    "status": "success",
-    "checked": {
-     "candidates": 256,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 245, coming 11"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1889,31 +1871,27 @@
      "detail": "now 257, coming 14"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-08T08:52:06Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": {
+     "candidates": 271,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 257, coming 14"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-07T04:55:19Z",
-    "run_id": "42340177698",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "rjo09u",
-      "pfvzzv",
-      "th4j5b",
-      "q78m46"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2320,27 +2298,33 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-08T09:17:05Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "vcgdkw",
+      "3qi9tf",
+      "zh1kf0",
+      "8r68m8",
+      "14zcyxn",
+      "2p8cd0"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-07T03:52:22Z",
-    "run_id": "42335799324",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "595 collected staging rows from readers; 206 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 592 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2738,19 +2722,27 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-08T09:17:02Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": {
+     "candidates": 625,
+     "detail": "619 collected staging rows from readers; 211 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 115,
+     "detail": "+0 new rows, 115 updated rows, 504 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2987,32 +2979,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-07T05:33:36Z",
-    "run_id": "42341739551",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Art Director Reveals Millions Spent on Yash and Rakul Preet Singh Props",
-      "Delhi High Court Rules Film Doosra Infringed Sourav Ganguly's Personality Rights",
-      "The Perfect Lie Hits New Heights in Ratings While Doctor X Holds the Top Spot",
-      "Charlie Hunnam Stars in Prime Video's Criminal Adaptation"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3495,19 +3474,36 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-08T09:17:05Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
+      "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
+      "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
+      "Hrithik Roshan makes history as first mainstream Indian actor at LACMA Art + Film Gala",
+      "How HBO's 36-Episode Sci-Fi Series Westworld Became a Cautionary Tale for Mystery Box Storytelling",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores Biggest Single Day Overseas for Indian cinema",
+      "Millie Bobby Brown and David Harbour Reunite for a New Netflix Series",
+      "Bellamkonda Sai Sreenivas and Neha Shetty showcase dynamic dance moves in 'Tyson Naidu' lead single"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3744,19 +3740,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-06T23:52:30Z",
-    "run_id": "42314494431",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4122,31 +4118,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-06T22:51:20Z",
-    "run_id": "42307683153",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 357 still unprocessed; today by category: movies 12/6, tv_dramas 13/4, episodes 1/2, box_office 16/6, celebrities_events 17/5, upcoming_releases 5/4, ott_streaming 9/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Day 2 Worldwide Collections Cross Major Milestones Despite Overseas Dip",
-      "The Rainmaker Season 2 Sees Viewership Rise by 5 Percent",
-      "Manoj Bajpayee Applauds Curry Barker’s Obsession and Predicts Oscar Success for Inde Navarrette",
-      "‘MobLand’ Season 2 Episode Guide, Schedule, and Early Season 3 Renewal Details on Paramount+"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4652,26 +4636,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-08T08:52:05Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 260 still unprocessed; today by category: movies 4/6, tv_dramas 7/4, episodes 0/2, box_office 7/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 0/3, awards 1/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
+      "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
+      "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
+      "Hrithik Roshan makes history as first mainstream Indian actor at LACMA Art + Film Gala"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-06T22:53:04Z",
-    "run_id": "42307683153",
-    "status": "success",
-    "checked": {
-     "candidates": 41,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4978,24 +4967,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-08T08:53:21Z",
+    "run_id": "42464624810",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 45,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 401,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5340,24 +5331,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11,
+     "count": 375,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5652,19 +5643,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 21,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5919,19 +5915,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6171,19 +6167,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6522,19 +6518,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6775,19 +6771,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7017,19 +7013,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7305,26 +7301,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-05T12:59:20Z",
-    "run_id": "42030550942",
-    "status": "success",
-    "checked": {
-     "candidates": 410,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 0; attempt cooldown deferred: 410"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7772,19 +7761,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-08T08:52:23Z",
+    "run_id": "42464624810",
+    "status": "success",
+    "checked": {
+     "candidates": 513,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 500"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8024,19 +8024,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-06T23:05:08Z",
-    "run_id": "42307683153",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8291,8 +8291,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-08T09:17:15Z",
+    "run_id": "42464624810",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-08T08:40:47Z"
+ "updated_at": "2026-11-08T09:17:15Z"
 }
