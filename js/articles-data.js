@@ -82490,5 +82490,352 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 23:30:16 GMT"
+  },
+  "c9orgc": {
+    "id": "c9orgc",
+    "type": "news",
+    "headline": "Diljit Dosanjh Refuses to Cancel Indore Concert Following Security Threats",
+    "dek": "Punjabi singer Diljit Dosanjh has confirmed that his Aura India Tour stop in Indore will proceed as scheduled on November 15, despite recent bomb threats and security warnings.",
+    "body": [
+      {
+        "h": "Indore Concert Confirmation",
+        "p": [
+          "Punjabi singer Diljit Dosanjh has firmly stated that he will not cancel his upcoming concert in Indore, Madhya Pradesh. Scheduled for November 15, 2026, the event forms a key part of his ongoing Aura India Tour.",
+          "Addressing his supporters directly through social media, the artist dismissed the security apprehensions surrounding the venue. He assured fans of his personal attendance and expressed confidence in his management team's ability to handle any arising challenges."
+        ]
+      },
+      {
+        "h": "Security Threats and Police Investigations",
+        "p": [
+          "Preparations for the Indore performance faced unexpected hurdles after authorities received warning emails concerning potential explosive devices. The threats were reportedly directed at three local schools as well as the Mayor's Secretariat.",
+          "In response to the electronic warnings, the Bomb Disposal Squad conducted thorough searches across the targeted school premises. Simultaneously, the local Crime Branch initiated an active investigation to trace the origin of the threatening correspondence."
+        ]
+      },
+      {
+        "h": "Venue and Performance Details",
+        "p": [
+          "The live musical event is set to take place at the C21 Estate venue in Indore, with gates opening for an afternoon start at 4 pm on Sunday, November 15. The extensive six-hour show will feature a mix of the performer's cinematic hits and popular Bhangra tracks.",
+          "Aside from the security scares, concert organizers also received official notices regarding restrictions on specific songs within the setlist. Authorities requested the exclusion of tracks that allegedly promote alcohol consumption and violence, though the event remains on track."
+        ]
+      },
+      {
+        "h": "Tour Context and Previous Scrutiny",
+        "p": [
+          "This incident marks the second major tour stop to encounter security complications. Earlier preparations for the singer's concert in Delhi faced intense scrutiny regarding local permissions and crowd management arrangements.",
+          "For the previous Delhi performance held at the Jawaharlal Nehru Stadium on October 30, organizers deployed approximately 2,000 private security personnel alongside strict traffic regulations around the perimeter to ensure safety."
+        ]
+      },
+      {
+        "h": "Broader Aura India Tour Schedule",
+        "p": [
+          "Before taking the stage in Indore, the musical artist is scheduled to travel internationally to Las Vegas, Nevada, to perform at the 27th edition of the Latin Grammys on November 12, 2026.",
+          "Following the Indore show, the tour will continue across multiple major Indian cities, including stops at the Narendra Modi Stadium in Ahmedabad on November 21, Mumbai on November 27, and Bengaluru on November 29."
+        ]
+      },
+      {
+        "h": "Final Legs of the National Tour",
+        "p": [
+          "The remaining dates of the Aura India Tour will take the performer to Lucknow on December 5 and Chandigarh on December 12, 2026.",
+          "The extensive nationwide concert series is officially scheduled to conclude its final leg in Kolkata on December 19, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh has confirmed he will proceed with his Indore concert on November 15 despite receiving bomb threats and song restriction notices. The singer stated that his team is fully prepared to manage the security challenges as the Aura India Tour continues across multiple cities."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh's Indore concert is scheduled for November 15, 2026.",
+      "The Indore concert venue is C21 Estate.",
+      "The Delhi concert took place at Jawaharlal Nehru Stadium on October 30 with nearly 2,000 private security personnel.",
+      "Bomb threat emails were sent to three schools and the Mayor's Secretariat.",
+      "Diljit Dosanjh is scheduled to perform at the 27th edition of the Latin Grammys in Las Vegas on November 12, 2026.",
+      "Ahmedabad concert date is November 21, 2026, at Narendra Modi Stadium.",
+      "Mumbai concert date is November 27, 2026.",
+      "Bengaluru concert date is November 29, 2026.",
+      "Lucknow concert date is December 5, 2026.",
+      "Chandigarh concert date is December 12, 2026.",
+      "Kolkata concert date is December 19, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Sonal Pandya"
+      ],
+      "titles": [
+        "Aura India Tour"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Indore concert",
+      "Aura India Tour dates",
+      "Diljit Dosanjh bomb threat",
+      "Diljit Dosanjh Latin Grammys"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156479719,thumbsize-592105,width-1280,height-720,resizemode-75/156479719.jpg",
+        "caption": "Diljit Dosanjh Refuses to Cancel Indore Concert Following Security Threats",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T00:51:31Z"
+  },
+  "12pa76d": {
+    "id": "12pa76d",
+    "type": "news",
+    "headline": "Christopher Nolan Demands Studios Protect Copyrights From AI",
+    "dek": "As DGA president, the Oscar-winning director argues that studios must hold themselves accountable and actively safeguard intellectual property against artificial intelligence data harvesting.",
+    "body": [
+      {
+        "h": "Nolan Addresses Studio Responsibility on AI",
+        "p": [
+          "Christopher Nolan is currently halfway into his first term as president of the Directors Guild of America, and he is pushing major studios to strictly protect copyrighted content from artificial intelligence. During a recent interview on the Hollywood Insiders podcast, the two-time Oscar winner emphasized that the responsibility falls squarely on the studios to pursue unauthorized AI recreations of their creative output.",
+          "The filmmaker expressed his frustration with how companies utilize the term artificial intelligence as a vague catchall phrase. He noted that organizations often frame the technology like an uncontrollable Frankenstein monster in order to escape their own obligations and accountability."
+        ]
+      },
+      {
+        "h": "Critique of Fair-Use Defenses and Legal Frameworks",
+        "p": [
+          "Addressing corporate reliance on fair-use provisions, Nolan expressed strong skepticism that these legal arguments will hold up in court over the long term. He pointed out that significant judicial judgments have already been made against such practices, reinforcing his belief in existing legislation designed to protect creators.",
+          "The DGA president stressed that the guild remains intensely focused on compelling studios to actively defend their copyrights. Because guild members generally do not retain the underlying copyright for the films they create, the burden of protection rests entirely with the studio entities."
+        ]
+      },
+      {
+        "h": "Anti-AI Legal Warnings in 'The Odyssey'",
+        "p": [
+          "In a notable development for his own work, Nolan expressed pleasure regarding the legal boilerplate included in his current Academy Award contender, The Odyssey. For the first time, the film incorporates an explicit warning stating that the motion picture cannot be ingested or utilized as training data for artificial intelligence systems.",
+          "This inclusion represents a tangible step forward in integrating defensive legal language directly into major motion picture distribution materials, setting a precedent that other filmmakers and studios may soon be encouraged to follow."
+        ]
+      },
+      {
+        "h": "Leadership Within the Directors Guild",
+        "p": [
+          "Nolan assumed the role of DGA president last September, following prior service on the guild's Artificial Intelligence Committee. Shortly after his election, he noted in a previous interview with Deadline that while excellent protections already exist, additional measures remain vital to secure the future of the profession.",
+          "His ongoing efforts involve maintaining an active dialogue with corporate entities regarding how these technological tools are utilized and ensuring that proper legal frameworks are established to safeguard creators."
+        ]
+      },
+      {
+        "h": "Protecting Residuals and Monetization",
+        "p": [
+          "A core motivation behind Nolan's advocacy is the protection of creator income and residuals, which rely heavily on the appropriate monetization of copyrighted works. Since directors are rarely the ultimate copyright holders, they depend on studios to maximize the financial value of the art they produce.",
+          "The guild continually engages with corporations to ensure they are fully capitalizing on these creations, because the financial health and livelihood of directors benefit enormously from proper copyright enforcement."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DGA President Christopher Nolan is urging studios to take full accountability for protecting copyrights against artificial intelligence data harvesting. Highlighting the inclusion of anti-AI boilerplate in his film The Odyssey, Nolan emphasizes that studios must defend their intellectual property to protect creators' residuals and financial interests."
+        ]
+      }
+    ],
+    "facts": [
+      "Christopher Nolan is halfway into his first term as DGA president.",
+      "Nolan served on the Guild's Artificial Intelligence Committee before his election as president last September.",
+      "The Odyssey contains a legal warning against using the film to train AI data.",
+      "Christopher Nolan is a 2x Oscar winner."
+    ],
+    "entities": {
+      "people": [
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Christopher Nolan",
+      "The Odyssey",
+      "DGA",
+      "Artificial Intelligence"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/P1162THW-e1794093819243.jpg?w=1024",
+        "caption": "Christopher Nolan Demands Studios Protect Copyrights From AI",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 23:40:57 +0000"
+  },
+  "1qrmfu2": {
+    "id": "1qrmfu2",
+    "type": "news",
+    "headline": "Amitabh Bachchan Falls Ill, Causing A Week-Long Halt To Kaun Banega Crorepati 18 Production",
+    "dek": "Production on the latest season of the popular television quiz show has been temporarily paused following medical advice given to its legendary host.",
+    "body": [
+      {
+        "h": "Production Interruption",
+        "p": [
+          "The ongoing filming schedule for the well-known television quiz show Kaun Banega Crorepati 18 has ground to a temporary halt. Reports indicate that the production team decided to pause the creation of new episodes after medical professionals advised the legendary host to take a break and focus on recovery.",
+          "With the primary host feeling unwell, the channel and crew had no choice but to adjust their calendar. The suspension of work has lasted for a week, leaving fans eager to see when normal scheduling will return to the television screens."
+        ]
+      },
+      {
+        "h": "Broadcast Adjustments and Re-runs",
+        "p": [
+          "To manage the sudden absence of fresh content, the network shifted its broadcast strategy for the ongoing festive period. Instead of newly minted footage, programmers have been utilizing a selection of older episodes featuring special guests to fill the programming slots.",
+          "These previously recorded segments were kept in reserve for the special holiday week. Viewers tuning in during the suspension window have been greeted by these older appearances while the main stage remains empty."
+        ]
+      },
+      {
+        "h": "Ramayana Special Episode Context",
+        "p": [
+          "Among the notable celebrity segments previously captured for the program was a special promotional appearance tied to the upcoming cinematic project Ramayana. The visiting contingent included prominent actors along with the director and producer.",
+          "This high-profile episode was originally aligned to broadcast alongside the theatrical rollout of the movie itself. However, the unexpected health setback experienced by the host forced a complete rearrangement of these strategic television broadcasts."
+        ]
+      },
+      {
+        "h": "Future Filming Outlook",
+        "p": [
+          "As for when cameras might start rolling again, studio insiders suggest that a restart could happen as early as the following week. Everything depends entirely on how the veteran entertainer recovers from his current medical concerns.",
+          "The production crew remains on standby, waiting for a green light from medical practitioners. Only when clearance is granted will the studio doors reopen for fresh quiz show sessions."
+        ]
+      },
+      {
+        "h": "Recent Public Appearances",
+        "p": [
+          "Prior to the official announcement regarding the production pause, the iconic actor had made headlines during a routine Sunday fan interaction. Despite security concerns and protective barriers, he stepped forward to acknowledge his devoted supporters.",
+          "He also utilized a personal online blog platform to share thoughts about returning to his daily habits and maintaining a close bond with his widespread audience base."
+        ]
+      },
+      {
+        "h": "Legacy and Upcoming Projects",
+        "p": [
+          "Spanning a career that exceeds five decades, the celebrated personality remains a towering figure in the entertainment landscape. He first rose to immense prominence decades ago under a famous cinematic persona before cementing his status as a legendary superstar.",
+          "Looking toward future cinematic ventures, he is attached to star in an upcoming sequel directed by Nag Ashwin. This high-profile project also features other notable names, though certain casting lineups have shifted recently."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The production of Kaun Banega Crorepati 18 has been paused for a week due to health issues experienced by host Amitabh Bachchan. Consequently, the network has been airing older celebrity episodes, including a Ramayana promotional special featuring Ranbir Kapoor, Sai Pallavi, Ravie Dubey, Nitesh Tiwari, and Namit Malhotra, with filming expected to resume next week if his health permits."
+        ]
+      }
+    ],
+    "facts": [
+      "Amitabh Bachchan hosts Kaun Banega Crorepati 18",
+      "The shoot was halted for a week due to his health",
+      "Ranbir Kapoor, Sai Pallavi, Ravie Dubey, Nitesh Tiwari, and Namit Malhotra appeared on a special episode for Ramayana",
+      "Amitabh Bachchan has been working in the industry for more than 55 years",
+      "He is set to appear in Nag Ashwin's upcoming Kalki 2898 AD sequel"
+    ],
+    "entities": {
+      "people": [
+        "Amitabh Bachchan",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Nag Ashwin",
+        "Prabhas",
+        "Kamal Haasan",
+        "Deepika Padukone"
+      ],
+      "titles": [
+        "Kaun Banega Crorepati 18",
+        "Kabhi Khushi Kabhie Gham",
+        "Ramayana",
+        "Kalki 2898 AD"
+      ]
+    },
+    "keywords": [
+      "Amitabh Bachchan",
+      "Kaun Banega Crorepati 18",
+      "Kaun Banega Crorepati shoot halted",
+      "Ramayana cast on KBC"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156480341,thumbsize-34338,width-1280,height-720,resizemode-75/156480341.jpg",
+        "caption": "Amitabh Bachchan Falls Ill, Causing A Week-Long Halt To Kaun Banega Crorepati 18 Production",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T00:51:31Z"
+  },
+  "1gcnltr": {
+    "id": "1gcnltr",
+    "type": "news",
+    "headline": "Monty Don Bids Emotional Farewell to Gardeners' World After 23 Years",
+    "dek": "Horticulturalist Monty Don hosted his final episode of the beloved BBC programme from his Longmeadow home, bringing an end to more than two decades at the helm.",
+    "body": [
+      {
+        "h": "An Emotional Sign-Off at Longmeadow",
+        "p": [
+          "Viewers across the nation tuned in for a bittersweet television event on Friday night as horticulturalist Monty Don presented his final episode of Gardeners' World. The 71-year-old broadcaster delivered his last-ever outing from the familiar surroundings of his garden at Longmeadow, marking the conclusion of an era that spanned more than two decades. As the credits rolled, audiences were left in tears by his heartfelt farewell message.",
+          "Reflecting on his remarkable tenure, Monty expressed deep gratitude for the opportunity to share his passion with millions of households each week. Standing alongside his dog Ned, he described the experience as an incredible privilege. Long-term fans quickly flooded social media platforms like X to share their sorrow, noting that Friday evenings would simply never feel the same without the soothing presence of the presenter and his canine companions."
+        ]
+      },
+      {
+        "h": "Two Decades of Growing with the Nation",
+        "p": [
+          "Monty first stepped into the role of presenter back in 2003, beginning his journey at Berryfields before eventually moving production to his private property at Longmeadow in 2011. Over the course of 23 years at the helm of the BBC programme, viewers watched as the garden evolved alongside the host. The show also chronicled the lives of his beloved dogs over the years, including Nigel, Nellie, and Patty.",
+          "Throughout his tenure, the veteran gardener became a comforting fixture on television screens, offering advice that emphasized patience and mindfulness over rigid perfectionism. Many devoted followers noted that his calm demeanor and practical guidance served as an essential source of solace, particularly during stressful global events such as the Covid-19 pandemic."
+        ]
+      },
+      {
+        "h": "Announcing the Departure",
+        "p": [
+          "The host first announced his impending departure in September, later confirming the exact airdate via a video shared on Instagram alongside his dog Ned. Speaking from his property in Herefordshire, he explained that now felt like the right time for a change. Although he previously considered continuing his contract further into the future, he ultimately decided that his lengthy run must eventually come to an end.",
+          "Despite stepping away from the weekly series, Monty reassured fans that he is not disappearing from television entirely. He confirmed plans to appear in upcoming winter specials scheduled to air before Christmas, and he is also set to join the presenting line-up for the Royal Horticultural Society Chelsea Flower Show."
+        ]
+      },
+      {
+        "h": "Behind the Scenes at Longmeadow",
+        "p": [
+          "The transition away from the BBC programme also brings practical changes to the maintenance of Monty's famous two-acre garden, which he and his wife Sarah created from a neglected field beginning in 1991. Over the years, the space grew to encompass distinct areas including a cottage garden, a jewel garden, an Islamic-inspired paradise garden, and a productive vegetable patch.",
+          "Because the BBC historically contributed toward the salaries of two full-time gardeners to keep the estate in filming condition, Monty noted that this financial support will now cease. Alongside a propagation expert and a landscaper, his dedicated team of staff has worked with him for a decade, prompting the host to explore new ways to sustain the upkeep of the property."
+        ]
+      },
+      {
+        "h": "Legacy and Future Endeavors",
+        "p": [
+          "As one chapter closes, the broadcaster is already looking ahead to new creative projects. While ruling out opening his private property to the public due to local parking limitations, he intends to focus on writing additional books and developing other television programmes.",
+          "His departure marks the conclusion of a defining chapter in British horticultural broadcasting. By teaching a generation of viewers to appreciate the small moments in nature, Monty Don leaves behind a lasting legacy defined by warmth, education, and an enduring love for the soil."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Monty Don hosted his final episode of Gardeners' World on Friday night after 23 years with the BBC programme. The emotional broadcast from his Longmeadow home prompted an outpouring of sadness from viewers on social media. Although he is stepping down from the weekly series, the horticulturalist will still appear in upcoming winter specials and at the Chelsea Flower Show."
+        ]
+      }
+    ],
+    "facts": [
+      "Monty Don is 71 years old.",
+      "He announced he was stepping down from Gardeners' World in September.",
+      "His final episode aired on Friday, 6 November 2026.",
+      "He first began presenting the show 23 years ago in 2003.",
+      "Filming at his Longmeadow home began 16 years ago in 2011.",
+      "He will appear in two winter specials and the 2027 RHS Chelsea Flower Show.",
+      "He and his wife Sarah created the Longmeadow garden in 1991."
+    ],
+    "entities": {
+      "people": [
+        "Monty Don",
+        "Ned",
+        "Nigel",
+        "Nellie",
+        "Patty",
+        "Sarah",
+        "Niomi Harris"
+      ],
+      "titles": [
+        "Gardeners' World"
+      ]
+    },
+    "keywords": [
+      "Monty Don Gardeners World",
+      "Monty Don final episode",
+      "Gardeners World BBC",
+      "Monty Don Longmeadow",
+      "Monty Don leaves Gardeners World"
+    ],
+    "images": [],
+    "published": "2026-11-08T00:51:31Z"
   }
 };

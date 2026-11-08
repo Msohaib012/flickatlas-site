@@ -5,8 +5,29 @@ window.FA_OTT = {
       "country": "US",
       "date": "2026-11-10",
       "date_kind": "digital",
+      "id": 1263337,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-10",
+      "date_kind": "digital",
       "id": 1376400,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-11",
+      "date_kind": "digital",
+      "id": 1755818,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -108,6 +129,14 @@ window.FA_OTT = {
       "id": 1400940,
       "providers": [],
       "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-12-08",
+      "date_kind": "digital",
+      "id": 791523,
+      "providers": [],
+      "type": "movie"
     }
   ],
   "now": [
@@ -149,6 +178,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "IN",
+      "date": "2026-11-07",
+      "date_kind": "digital",
+      "id": 1820303,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-06",
       "date_kind": "release",
       "id": 303044,
@@ -166,7 +203,7 @@ window.FA_OTT = {
     },
     {
       "date": "2026-11-06",
-      "date_kind": "release",
+      "date_kind": "digital",
       "id": 1794569,
       "providers": [
         {
@@ -211,6 +248,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1578488,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "IN",
       "date": "2026-11-06",
       "date_kind": "digital",
@@ -228,6 +273,14 @@ window.FA_OTT = {
       "date": "2026-11-06",
       "date_kind": "digital",
       "id": 1798383,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 602437,
       "providers": [],
       "type": "movie"
     },
@@ -250,6 +303,18 @@ window.FA_OTT = {
       "date_kind": "digital",
       "id": 1802157,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-05",
+      "date_kind": "digital",
+      "id": 1630420,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -311,18 +376,6 @@ window.FA_OTT = {
     {
       "date": "2026-11-04",
       "date_kind": "release",
-      "id": 1630420,
-      "providers": [
-        {
-          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-          "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-11-04",
-      "date_kind": "release",
       "id": 312006,
       "providers": [
         {
@@ -369,19 +422,6 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
-      "date": "2026-11-04",
-      "date_kind": "digital",
-      "id": 1755818,
-      "providers": [
-        {
-          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-          "name": "Zee5"
         }
       ],
       "type": "movie"
@@ -512,6 +552,14 @@ window.FA_OTT = {
           "name": "Netflix"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-01",
+      "date_kind": "digital",
+      "id": 1806212,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -1440,6 +1488,14 @@ window.FA_OTT = {
         }
       ],
       "type": "tv"
+    },
+    {
+      "country": "AU",
+      "date": "2026-10-01",
+      "date_kind": "digital",
+      "id": 1813038,
+      "providers": [],
+      "type": "movie"
     },
     {
       "date": "2026-09-25",
