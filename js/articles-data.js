@@ -58519,10 +58519,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana advance booking collection",
-      "Ramayana vs Dhurandhar 2 North America",
-      "Ranbir Kapoor Ramayana box office",
-      "Ramayana worldwide presales"
+      "Ramayana worldwide advance bookings",
+      "Ranbir Kapoor Sai Pallavi Ramayana presales",
+      "Ramayana opening collection worldwide",
+      "Ranbir Kapoor Lord Ram Ramayana"
     ],
     "images": [
       {
@@ -58613,10 +58613,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Avengers Doomsday Doctor Doom",
-      "Toshiyuki Morikawa Doctor Doom Japanese voice",
-      "Robert Downey Jr Doctor Doom",
-      "Avengers Doomsday Japanese dub"
+      "Toshiyuki Morikawa Robert Downey Jr Doctor Doom",
+      "Avengers: Doomsday Japanese dub voice actor",
+      "Toshiyuki Morikawa Avengers: Doomsday",
+      "Robert Downey Jr Doctor Doom Japanese voice"
     ],
     "images": [
       {
@@ -59298,10 +59298,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "God of War Laufey",
-      "Santa Monica Studio",
-      "God of War PS5 release date",
-      "Deborah Ann Woll God of War"
+      "God of War Laufey PS5 release date delayed",
+      "God of War Laufey May 2027",
+      "Santa Monica Studio God of War Laufey",
+      "God of War Laufey PlayStation 5 exclusive"
     ],
     "images": [
       {
@@ -59523,10 +59523,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Godzilla Minus Zero",
-      "Godzilla Minus Zero box office",
-      "Takashi Yamazaki",
-      "Godzilla Minus One sequel"
+      "Godzilla Minus Zero domestic debut",
+      "Godzilla Minus Zero box office projection",
+      "Takashi Yamazaki Godzilla Minus Zero",
+      "Godzilla Minus Zero opening weekend"
     ],
     "images": [
       {
@@ -59625,10 +59625,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ramayana advance booking",
-      "Ranbir Kapoor Ramayana",
-      "Nitesh Tiwari Ramayana"
+      "Ramayana box office outlook Nitesh Tiwari",
+      "Ranbir Kapoor Ramayana budget Pushpa 2",
+      "Nitesh Tiwari Ramayana advance bookings",
+      "Ramayana compared to RRR and KGF 2"
     ],
     "images": [
       {
@@ -59721,10 +59721,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Legend of Zelda Ocarina of Time remake",
-      "Nintendo Switch 2 Zelda",
-      "Ocarina of Time Metascore",
-      "Zelda Ocarina of Time reviews"
+      "Nintendo remade classic Metascore",
+      "The Legend of Zelda remake critical acclaim",
+      "The Legend of Zelda: Ocarina of Time remake",
+      "Nintendo classic highest rated games"
     ],
     "images": [
       {
@@ -59839,10 +59839,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film box office",
-      "Ranbir Kapoor Ramayana opening",
-      "Yash Ramayana movie",
-      "Ramayana collection projection"
+      "Ramayana opening day box office collection",
+      "Ranbir Kapoor Sai Pallavi Yash Ramayana earnings",
+      "Ramayana net opening day projection",
+      "Ramayana movie box office forecast"
     ],
     "images": [
       {
@@ -59964,10 +59964,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Pitt lawsuit",
-      "Michael Crichton Estate",
-      "Noah Wyle The Pitt",
-      "Warner Bros ER court case"
+      "The Pitt legal battle trial",
+      "Michael Crichton estate The Pitt lawsuit",
+      "Noah Wyle The Pitt HBO Max drama",
+      "Sherri Crichton The Pitt court case"
     ],
     "images": [
       {
@@ -60077,10 +60077,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Strike season 7",
-      "Strike The Running Grave",
-      "Tom Burke Robin Ellacott",
-      "J.K. Rowling Robert Galbraith"
+      "Strike Season 7 release window",
+      "Strike: The Running Grave BBC",
+      "J.K. Rowling Strike series December 2026",
+      "Tom Burke Holliday Grainger Strike"
     ],
     "images": [
       {
@@ -60177,10 +60177,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Salman Khan house firing shooter bail",
-      "Vickykumar Gupta brother wedding jail",
+      "Salman Khan residence firing accused bail",
+      "Vickykumar Gupta Salman Khan apartment attack",
       "Salman Khan Galaxy Apartment shooting case",
-      "Lawrence Bishnoi gang Bollywood threats"
+      "Vickykumar Gupta virtual wedding attendance"
     ],
     "images": [
       {
@@ -60275,10 +60275,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part 1 box office collection",
-      "Ramayana Part 1 day 1 occupancy",
-      "Ramayana Part 1 early estimates",
-      "Ramayana Part 1 earnings"
+      "Ramayana: Part 1 day 1 box office collection",
+      "Ramayana: Part 1 early estimates occupancy",
+      "Ramayana: Part 1 theatrical debut numbers",
+      "Ramayana: Part 1 opening day collection"
     ],
     "images": [
       {
@@ -60438,11 +60438,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana movie",
-      "Allu Arjun Ramayana",
-      "Rishab Shetty Ramayana",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana advance booking"
+      "Allu Arjun Rishab Shetty Ramayana",
+      "Allu Arjun praises Ranbir Kapoor Ramayana",
+      "Rishab Shetty Ramayana: Part 1",
+      "Ramayana Nitesh Tiwari release date"
     ],
     "images": [
       {
@@ -60542,10 +60541,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Brothers Season 2",
-      "Matthew McConaughey Woody Harrelson",
-      "Brothers Apple TV",
-      "Lee Eisenberg Brothers finale"
+      "Matthew McConaughey Woody Harrelson Brothers Apple TV",
+      "Brothers series season 1 finale",
+      "Matthew McConaughey Brothers comedy series",
+      "Woody Harrelson Brothers season 2"
     ],
     "images": [
       {
@@ -60639,11 +60638,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana movie",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana box office collection",
-      "Yash Ravana Ramayana",
-      "Ramayana Rise of a Legend"
+      "Ramayana: Rise of a Legend worldwide opening",
+      "Ranbir Kapoor Sai Pallavi Ramayana release",
+      "Nitesh Tiwari Ramayana: Rise of a Legend",
+      "Yash Ravana Ramayana: Rise of a Legend"
     ],
     "images": [
       {
@@ -60925,10 +60923,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Aadarsha Kutumbam House No: 47",
-      "Mana Shankara Vara Prasad Garu",
-      "Venkatesh",
-      "Chiranjeevi"
+      "Aadarsha Kutumbam House No: 47 box office",
+      "Venkatesh Aadarsha Kutumbam House No: 47 collection",
+      "Aadarsha Kutumbam House No: 47 day 6 earnings",
+      "Venkatesh Telugu film box office collection"
     ],
     "images": [
       {
@@ -83622,5 +83620,398 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 04:15:18 GMT"
+  },
+  "9qs9ya": {
+    "id": "9qs9ya",
+    "type": "news",
+    "headline": "Scene Worldwide Box Office Day 2: Suriya Starrer Crosses ₹80 Crore Mark",
+    "dek": "Suriya's latest theatrical release Scene has crossed the ₹80 crore milestone globally within just two days, outperforming his previous films Karuppu and Vishwanath & Sons.",
+    "body": [
+      {
+        "h": "Bumper Opening Weekend Start",
+        "p": [
+          "Suriya is continuing a strong run at the box office this year with his latest release, Scene, which arrived in cinemas just ahead of the Diwali holiday weekend. Following consecutive superhits earlier in the year, the actor's third release of the period has secured a massive initial response from audiences worldwide.",
+          "The film's strong start positions it comfortably for a lucrative theatrical run, drawing heavy crowds to screenings across domestic and international markets."
+        ]
+      },
+      {
+        "h": "Second Day Collections Breakdown",
+        "p": [
+          "On its second day in theaters, Scene collected ₹20.35 crore across 5,687 shows. The majority of this revenue came from Tamil screenings, which brought in ₹16.50 crore, while Telugu language shows contributed ₹3.85 crore.",
+          "Combined with an opening day haul of ₹19.15 crore, the film's total India gross reached ₹45.90 crore, with total India net collections standing at ₹39.50 crore."
+        ]
+      },
+      {
+        "h": "Overseas Performance and Total Gross",
+        "p": [
+          "International markets added significantly to the film's financial success on its second day, contributing an impressive ₹18.00 crore. This brought the total overseas gross to ₹35.75 crore.",
+          "When combining domestic and international figures, the worldwide gross collection for Scene stands at ₹81.65 crore after only two days in release."
+        ]
+      },
+      {
+        "h": "Outperforming Previous Releases",
+        "p": [
+          "Scene has successfully beaten the two-day worldwide tallies of Suriya's earlier films from the same year. Karuppu had earned ₹74.91 crore in its first two days, while Vishwanath & Sons brought in ₹74.47 crore.",
+          "While Karuppu ultimately achieved a lifetime domestic and global gross of ₹310.12 crore and Vishwanath & Sons collected ₹209.46 crore, industry watchers are closely monitoring Scene to see how it fares in the coming days."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "In Scene, Suriya stars as a charismatic cop named Inbaraaj, whose arrival causes erratic behavior among prison inmates. His character is forced to lead an investigation after a personal secret is revealed.",
+          "The movie is written and directed by Jithu Madhavan in his Tamil debut. It also features Nazriya Nazim making her return to Tamil cinema after 12 years, alongside Naslen in his Tamil debut. Additional cast members include Anandaraj, Lal, Rajpriyan, Suresh Mathiyalagan, and Gajaraj."
+        ]
+      },
+      {
+        "h": "Production and Critical Reception",
+        "p": [
+          "The project is backed by Suriya and Jyothika's production banner, 2D Entertainment, alongside the newly established Zhagaram Studios.",
+          "Reviews have praised the film for its unique blend of suspense and humor, particularly noting how director Jithu Madhavan infuses comedic elements into action sequences involving Inba and Maya."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's new film Scene has crossed ₹80 crore globally by its second day, outperforming his earlier releases Karuppu and Vishwanath & Sons. Directed by Jithu Madhavan, the movie features a star-studded cast including Nazriya Nazim and Naslen alongside Suriya as a cop."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released on November 8, 2026",
+      "Day 2 collection was ₹20.35 crore from 5,687 shows",
+      "Tamil shows contributed ₹16.50 crore on day 2",
+      "Telugu shows contributed ₹3.85 crore on day 2",
+      "Opening day haul stood at ₹19.15 crore",
+      "Total India gross collections reached ₹45.90 crore",
+      "Total India net collections reached ₹39.50 crore",
+      "Overseas collection on day 2 was ₹18.00 crore",
+      "Total overseas gross reached ₹35.75 crore",
+      "Total worldwide gross collection stands at ₹81.65 crore",
+      "Karuppu collected ₹74.91 crore worldwide in two days and ₹310.12 crore in its lifetime",
+      "Vishwanath & Sons collected ₹74.47 crore worldwide in two days and ₹209.46 crore in its lifetime"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nazriya Nazim",
+        "Naslen",
+        "Jithu Madhavan",
+        "Jyothika",
+        "Anandaraj",
+        "Lal",
+        "Rajpriyan",
+        "Suresh Mathiyalagan",
+        "Gajaraj",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath & Sons"
+      ]
+    },
+    "keywords": [
+      "Scene movie box office",
+      "Suriya Scene collection",
+      "Scene worldwide gross",
+      "Karuppu and Vishwanath Sons"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/08/1600x900/logo/Scene_1794113765483_cEN4_1794113765681_h77n_f58b3f5a-02d0-4b82-9b22-a184806ccd22_n8LO.jpg",
+        "caption": "Scene Worldwide Box Office Day 2: Suriya Starrer Crosses ₹80 Crore Mark",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 10:57:55 +0530"
+  },
+  "18wh7tl": {
+    "id": "18wh7tl",
+    "type": "news",
+    "headline": "VisionQuest Racks Up 490 Million Streams on Nielsen Charts",
+    "dek": "Marvel's Disney+ series continues to pull in strong viewership numbers, securing a spot on the Nielsen streaming charts following the release of its third and fourth episodes.",
+    "body": [
+      {
+        "h": "Marvel's Post-Endgame Successor",
+        "p": [
+          "In the post-Endgame era, Marvel's streaming ventures have continued to evolve with new character-focused storytelling approaches. The Disney+ series VisionQuest has emerged as a prominent entry in this landscape, acting as a direct follow-up to the acclaimed WandaVision.",
+          "Audience reception has reflected a growing interest in smaller, character-driven narratives rather than purely massive CGI spectacles. This shift has allowed the studio to delve deeper into individual arcs while remaining part of a larger universe."
+        ]
+      },
+      {
+        "h": "Strong Debut and Nielsen Chart Placement",
+        "p": [
+          "Following its October 13 debut on Disney+, the series quickly drew attention by accumulating 639 million minutes streamed and securing an 83% Popcornmeter score from over 500 reviews.",
+          "Recent Nielsen streaming chart rankings for the week of October 19 through October 25 place the show at number seven on the top ten list for original series. The release of the third and fourth episodes helped pull in 490 million viewing minutes during this tracking period."
+        ]
+      },
+      {
+        "h": "Plot and Character Journey",
+        "p": [
+          "The narrative centers around White Vision, played by Paul Bettany, as he struggles to process his restored memories and identity following the events of the WandaVision finale.",
+          "As he attempts to reconnect with himself, he must also confront rising artificial intelligence threats that challenge his newly reclaimed sense of self."
+        ]
+      },
+      {
+        "h": "The Return of Ultron",
+        "p": [
+          "A notable element of the series is the return of the iconic artificial intelligence machine, Ultron. Audiences first encountered the villain in the 2015 film Avengers: Age of Ultron.",
+          "James Spader returns to voice the unsettling antagonist, reprising his well-known role to face off against Bettany's character within the unfolding story."
+        ]
+      },
+      {
+        "h": "Broader Streaming Landscape",
+        "p": [
+          "During the same charting week, other platforms held the top positions on Nielsen's rankings. Netflix's political thriller The Diplomat claimed the number one spot with 1.19 billion minutes, while Prime Video's The Terminal List secured second place with 830 million minutes.",
+          "Other popular titles appearing on the top ten list included Crystal Lake, Love is Blind, and Nobody Wants This, reflecting diverse viewing habits across multiple streaming services."
+        ]
+      },
+      {
+        "h": "Future of Marvel on Disney+",
+        "p": [
+          "Episodes one through seven are currently streaming on Disney+, with the series finale scheduled to premiere on November 10. Reports indicate that VisionQuest may be among Marvel's final live-action series releases before the studio scales back its Disney+ output.",
+          "Despite this upcoming reduction in output, other projects such as Daredevil: Born Again and potential miniseries under specific banners like Marvel Spotlight remain unaffected by the change."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel's Disney+ series VisionQuest has landed on the Nielsen streaming charts at number seven with 490 million minutes viewed for the week of October 19. The show follows Paul Bettany's White Vision dealing with his restored memories and facing the return of Ultron voiced by James Spader."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest debuted on Disney+ on October 13",
+      "The show earned an 83% Popcornmeter score after 500+ reviews",
+      "VisionQuest pulled in 490 million minutes for the week of October 19 through October 25",
+      "The series ranked at spot number seven on Nielsen's top ten list for original series",
+      "The Diplomat ranked at number one with 1.19 billion minutes",
+      "The Terminal List ranked at number two with 830 million minutes",
+      "Paul Bettany portrays White Vision",
+      "James Spader voices Ultron",
+      "Ultron first appeared in Avengers: Age of Ultron in 2015",
+      "The series finale is set to premiere on November 10"
+    ],
+    "entities": {
+      "people": [
+        "Paul Bettany",
+        "James Spader",
+        "Madigan Will",
+        "Terry Matalas",
+        "Vincenzo Natali",
+        "Christopher J. Byrne",
+        "Gandja Monteiro",
+        "Cindy Appel",
+        "Nicole Falsetti",
+        "Christopher Monfette",
+        "Matthew Okumura",
+        "Michael Taylor"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "The Diplomat",
+        "The Terminal List",
+        "Avengers: Age of Ultron",
+        "Crystal Lake",
+        "Love is Blind",
+        "Nobody Wants This",
+        "Carrie",
+        "Tulsa King",
+        "Below",
+        "The Great British Baking Show",
+        "Daredevil: Born Again",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "VisionQuest Disney plus",
+      "VisionQuest Nielsen ratings",
+      "Paul Bettany VisionQuest",
+      "James Spader Ultron VisionQuest"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/paul-bettany-as-ultron-in-visionquest.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "VisionQuest Racks Up 490 Million Streams on Nielsen Charts",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 04:34:24 GMT"
+  },
+  "8r68m8": {
+    "id": "8r68m8",
+    "type": "news",
+    "headline": "Sunny Deol Praises Ramayana, Calls the Epic Better Than Hollywood Productions",
+    "dek": "After watching the newly released epic Ramayana, actor Sunny Deol shared his glowing review via video, praising its visual effects and urging every Indian to watch the film in theatres.",
+    "body": [
+      {
+        "h": "Sunny Deol Reviews Ramayana",
+        "p": [
+          "Bollywood actor Sunny Deol, who portrays Lord Hanuman in the ambitious cinematic adaptation Ramayana, recently watched the movie and shared his thoughts with fans. Through a video published on his Instagram account, the actor expressed immense admiration for the project and strongly recommended it to the public.",
+          "The actor stated that the film exceeded his expectations and insisted that every Indian should experience the epic on the big screen. His enthusiastic review follows the theatrical release of the movie, which stars Ranbir Kapoor, Yash, and Sai Pallavi in prominent roles."
+        ]
+      },
+      {
+        "h": "Praise for Hollywood-Level VFX",
+        "p": [
+          "A major highlight of Sunny Deol's review was his high praise for the film's visual effects and technical execution. He remarked that the movie easily surpasses Hollywood standards in terms of computer-generated imagery and world-building.",
+          "He explained that the visual quality successfully transports viewers directly into the ancient mythical era without ever feeling artificial. According to the actor, the immersive environment makes audiences feel as though they are physically present in that universe."
+        ]
+      },
+      {
+        "h": "A Personal Plea to Viewers",
+        "p": [
+          "Rather than just making a standard promotional request, Sunny Deol addressed his followers with a deep sense of personal appeal. He playfully asserted that he was not merely requesting, but rather claiming his right to ask them to watch the movie because of its exceptional quality.",
+          "He commended the entire cast for delivering stellar performances across the board. The actor ended his message with a resonant exclamation of 'Jai Shri Ram', echoing the devotional theme of the venture."
+        ]
+      },
+      {
+        "h": "The Hanuman Reveal and Part Two",
+        "p": [
+          "In Ramayana, Sunny Deol takes on the divine role of Pawanputra Hanuman, though his appearance in the first installment is kept deliberately brief. Viewers get a glimpse of his colossal form accompanied by the Hanuman Chalisa as the first part concludes.",
+          "To maintain audience intrigue for the sequel, filmmakers chose to conceal his face during this initial appearance. The second part of Ramayana is slated for release on Diwali 2028, promising a deeper exploration of the narrative involving Hanuman and the intense battle against Ravana."
+        ]
+      },
+      {
+        "h": "Cast, Direction, and Production",
+        "p": [
+          "The mythological drama features a star-studded ensemble cast, including Ranbir Kapoor, Yash, and Sai Pallavi. Their collective performances have contributed to the positive reception and steady theatrical performance of the movie.",
+          "Behind the scenes, the project is directed by Nitesh Tiwari and produced by Namit Malhotra. Their collaborative vision has brought the epic tale to the silver screen, generating immense anticipation for the upcoming chapters."
+        ]
+      },
+      {
+        "h": "Initial Box Office Reception",
+        "p": [
+          "The cinematic adaptation opened in cinemas to a solid and expected response on its first day. Although the opening figures were steady, the word-of-mouth momentum and positive reviews helped sustain the box office run over the subsequent days.",
+          "With favorable audience reactions and endorsements from cast members like Sunny Deol, the film continues to draw crowds to theaters as it establishes its presence at the box office."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sunny Deol, who plays Hanuman in Ramayana, shared a video review praising the film as superior to Hollywood productions due to its exceptional VFX and performances. Directed by Nitesh Tiwari and produced by Namit Malhotra, the movie stars Ranbir Kapoor, Yash, and Sai Pallavi, with its second part scheduled for Diwali 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunny Deol plays Hanuman in Ramayana.",
+      "Ramayana stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "The second part of Ramayana will be released on Diwali 2028.",
+      "Namit Malhotra produced Ramayana.",
+      "Nitesh Tiwari directed Ramayana."
+    ],
+    "entities": {
+      "people": [
+        "Sunny Deol",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Hanuman Chalisa"
+      ]
+    },
+    "keywords": [
+      "Sunny Deol Ramayana",
+      "Ramayana review",
+      "Ranbir Kapoor Yash Sai Pallavi Ramayana",
+      "Ramayana part two Diwali 2028"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aef3ad5b4491-sunny-deol-praises-ramayana-part-1-075100619-16x9.jpg",
+        "caption": "Sunny Deol Praises Ramayana, Calls the Epic Better Than Hollywood Productions",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T05:51:49Z"
+  },
+  "rlhxs6": {
+    "id": "rlhxs6",
+    "type": "news",
+    "headline": "A2O SOUL Teases New Music Video For Debut Track Dancing In The Dark",
+    "dek": "The newly formed 15-member boy group under Lee Soo Man's A2O Entertainment has shared a video preview for their upcoming second title track.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Debut",
+        "p": [
+          "A2O SOUL has generated significant anticipation by releasing a music video teaser for their upcoming debut track. Fans of the newly formed group received a fresh look at the upcoming project as the countdown to the full release continued.",
+          "The track serves as one of the focal points for the group's highly awaited entry into the music scene, showcasing the members' visual concepts and performance styles."
+        ]
+      },
+      {
+        "h": "Release Timeline and Details",
+        "p": [
+          "The preview for Dancing in the Dark arrived on November 8 KST, building excitement ahead of the major project drop. The complete debut EP alongside the full music video is scheduled to launch on November 9 at 6 p.m. KST.",
+          "This timing follows closely behind the group's initial promotional rollout, giving followers a rapid succession of content to consume."
+        ]
+      },
+      {
+        "h": "Agency Background and Formation",
+        "p": [
+          "A2O SOUL operates under A2O Entertainment, which functions as a newly established agency founded by prominent industry figure Lee Soo Man. The backing of the veteran producer has drawn considerable attention to the group's debut.",
+          "The 15-member boy group stands as part of a fresh wave of talent emerging from this newly created entertainment enterprise, marking a distinct new chapter in the founder's professional journey."
+        ]
+      },
+      {
+        "h": "Sister Group and Pre-Release Track",
+        "p": [
+          "The ensemble was officially introduced to the public for the first time alongside their sister group, A2O LITE. The introductory event took place one day before the group dropped their initial pre-release single.",
+          "That first title track, titled SUPERSTAR, was successfully pre-released on October 13, establishing an early musical identity for the large collective before the full EP release."
+        ]
+      },
+      {
+        "h": "Album Composition and Promotional Content",
+        "p": [
+          "The upcoming debut EP is titled SUPERSTAR, matching the name of their previously shared pre-release single. Dancing in the Dark holds the distinction of being the second of two main title tracks featured on the record.",
+          "Alongside the latest music video preview, the agency has rolled out supporting promotional materials including concept photos and a highlight medley for the EP."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A2O SOUL released a music video teaser for Dancing in the Dark, the second title track from their debut EP SUPERSTAR. The 15-member boy group, formed under Lee Soo Man's A2O Entertainment, is set to release the full EP and music video on November 9 at 6 p.m. KST following their October introduction and prior single."
+        ]
+      }
+    ],
+    "facts": [
+      "A2O SOUL is a 15-member boy group.",
+      "The group is under A2O Entertainment, founded by Lee Soo Man.",
+      "A music video teaser for Dancing in the Dark was unveiled on November 8 KST.",
+      "Dancing in the Dark is the second of two title tracks from the upcoming EP SUPERSTAR.",
+      "The debut EP SUPERSTAR and the Dancing in the Dark music video release on November 9 at 6 p.m. KST.",
+      "The pre-release single SUPERSTAR dropped on October 13.",
+      "The group was officially introduced alongside their sister group A2O LITE on October 12."
+    ],
+    "entities": {
+      "people": [
+        "Lee Soo Man",
+        "E Cha"
+      ],
+      "titles": [
+        "Dancing in the Dark",
+        "SUPERSTAR",
+        "A2O SOUL",
+        "A2O LITE"
+      ]
+    },
+    "keywords": [
+      "A2O SOUL",
+      "Dancing in the Dark",
+      "SUPERSTAR EP",
+      "Lee Soo Man A2O Entertainment"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/08131832/A2O-SOUL.jpg",
+        "caption": "A2O SOUL Teases New Music Video For Debut Track Dancing In The Dark",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 04:34:15 +0000"
   }
 };
