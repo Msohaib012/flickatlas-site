@@ -15,5 +15,12 @@ window.FA_ADVANCE = {
       "collection": 988000,
       "scope": "Single-venue pre-sales"
     }
+  ],
+  "656908": [
+    {
+      "date": "2026-11-09",
+      "day": "Day 5",
+      "collection": 4005283
+    }
   ]
 };

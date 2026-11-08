@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-07T00:52:29Z",
-    "run_id": "42320669325",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Rise of a Legend Crosses Rs 200 Crore Worldwide in Two Days",
-      "Ryan Gosling's Comedy Hits Number One on Apple TV",
-      "Salman Khan Shares Thoughts on Ramayana and Urges Focus on Lord Ram Rather Than VFX",
-      "Sharon Stone and Hannah Waddingham Lead Glamour at Women in Film Honors"
-     ],
-     "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-07T01:06:49Z",
     "run_id": "42322085233",
     "status": "success",
@@ -1463,6 +1440,24 @@
      "updated": [],
      "count": 7,
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-08T04:24:43Z",
+    "run_id": "42439473288",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 1,
+     "detail": "+0 articles, +0 box-office rows, 1 rows updated"
     },
     "reason": null
    }
@@ -8227,5 +8222,5 @@
    }
   ]
  },
- "updated_at": "2026-11-08T03:34:04Z"
+ "updated_at": "2026-11-08T04:24:43Z"
 }
