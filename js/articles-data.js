@@ -89056,5 +89056,403 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 17:42:01 GMT"
+  },
+  "1l0wwqt": {
+    "id": "1l0wwqt",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 Day 2 Box Office: Nayanthara Starrer Surges Over 30 Percent to Collect Rs 5 Crore",
+    "dek": "Nayanthara's fantasy sequel Mookuthi Amman 2 experienced a notable 30.3 percent jump in earnings on its second day, pulling in Rs 5 crore despite drawing mixed reviews and competing with major titles.",
+    "body": [
+      {
+        "h": "Day 2 Box Office Growth",
+        "p": [
+          "The Nayanthara headliner Mookuthi Amman 2 experienced a positive upswing during its second day in theatres, witnessing a 30.3 percent growth in collections compared to its opening day. Despite drawing mixed responses from audiences and critics alike, the sequel managed to pull in Rs 5 crore.",
+          "This weekend surge demonstrates sustained audience interest, particularly in regional strongholds, as the fantasy feature continues its theatrical run."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance and Occupancy",
+        "p": [
+          "The Tamil version of the movie continued to comfortably outperform the Telugu version on Saturday. Screenings in Tamil collected Rs 2.30 crore across 1,698 shows, translating to a strong overall theatre occupancy of 32 percent.",
+          "In contrast, the Telugu dubbed version recorded an overall occupancy of 29 percent, bringing in Rs 15 lakh from 212 screenings. Overall, the Tamil language screenings accounted for the vast majority of the India nett earnings."
+        ]
+      },
+      {
+        "h": "Detailed Tamil Version Occupancy Breakdown",
+        "p": [
+          "Examining the Tamil 2D format further, the movie registered a cumulative occupancy rate of 29.98 percent through Saturday. Morning screenings started off with 17.46 percent, which improved significantly to 31.46 percent during the afternoon slots.",
+          "The momentum continued into the later parts of the day, with evening and night screenings achieving 32.54 percent and 38.46 percent occupancies respectively."
+        ]
+      },
+      {
+        "h": "Detailed Telugu Version Occupancy Breakdown",
+        "p": [
+          "The Telugu version of the fantasy feature registered an overall occupancy of 25.26 percent on its second day. Morning shows opened at 20.44 percent before dipping down to 13.33 percent during afternoon screenings.",
+          "Later in the day, audience numbers recovered moderately, with the evening and night shows capturing 20.11 percent and 26.22 percent occupancies respectively."
+        ]
+      },
+      {
+        "h": "Regional Markets and Domestic Footprint",
+        "p": [
+          "Tamil Nadu firmly maintained its position as the primary market for the film on Saturday, generating Rs 2.40 crore which accounted for 84.2 percent of its tracked domestic gross earnings for the day.",
+          "Other regions also contributed to the daily total, with Andhra Pradesh and Telangana combining for Rs 20 lakh, Karnataka adding Rs 12 lakh, Kerala contributing Rs 10 lakh, and remaining territories chipping in with Rs 3 lakh."
+        ]
+      },
+      {
+        "h": "Box Office Competition and Cast",
+        "p": [
+          "The sequel's theatrical run is facing stiff competition at the box office from other major titles currently in cinemas, including Suriya's Scene and Nitesh Tiwari's Ramayana.",
+          "Mookuthi Amman 2 features a robust ensemble cast including Nayanthara, Regina Cassandra, Duniya Vijay, Urvashi, Yogi Babu, Myna Nandini, Garuda Ram, Abhinaya, and Shruthy S."
+        ]
+      },
+      {
+        "h": "Director Addresses CGI Criticism",
+        "p": [
+          "Amid viewer debates and online discussions regarding the film's computer-generated imagery and visual effects—with some critics comparing them to AI-generated graphics—director Sundar C has spoken out.",
+          "At a pre-release event, the filmmaker expressed disappointment over hasty criticisms made without acknowledging the immense labor involved, revealing that nearly 400 Tamil technicians spent about a year and a half working on the CGI."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nayanthara's fantasy sequel Mookuthi Amman 2 achieved a 30.3 percent increase in collections on its second day, earning Rs 5 crore despite mixed reviews and heavy competition from other theatrical releases. The Tamil version heavily dominated regional earnings compared to the Telugu version, with Tamil Nadu serving as the primary domestic market.",
+          "Director Sundar C also defended the film's visual effects against online criticism, emphasizing the extensive manpower and time invested by hundreds of technicians to bring the project to life."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 earned Rs 5 crore on its second day",
+      "The film recorded a 30.3 percent jump on its second day",
+      "The Tamil version collected Rs 2.30 crore from 1,698 shows on Saturday",
+      "The Telugu version collected Rs 15 lakh from 212 screenings on Saturday",
+      "Tamil Nadu contributed Rs 2.40 crore on Saturday",
+      "Andhra Pradesh and Telangana together generated Rs 20 lakh",
+      "Karnataka contributed Rs 12 lakh",
+      "Kerala added Rs 10 lakh",
+      "Nearly 400 Tamil technicians worked for around 1.5 years on the CGI"
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Sundar C",
+        "Suriya",
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Regina Cassandra",
+        "Duniya Vijay",
+        "Urvashi",
+        "Yogi Babu",
+        "Myna Nandini",
+        "Garuda Ram",
+        "Abhinaya",
+        "Shruthy S",
+        "Raisa Nasreen"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Scene",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 box office",
+      "Nayanthara Mookuthi Amman 2",
+      "Sundar C Mookuthi Amman 2",
+      "Mookuthi Amman 2 collection day 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156481664,thumbsize-368644,width-1280,height-720,resizemode-75/156481664.jpg",
+        "caption": "Mookuthi Amman 2 Day 2 Box Office: Nayanthara Starrer Surges Over 30 Percent to Collect Rs 5 Crore",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T19:52:09Z"
+  },
+  "864eig": {
+    "id": "864eig",
+    "type": "news",
+    "headline": "Why There Is No New Episode of Marshals on CBS Tonight",
+    "dek": "Fans of the Yellowstone spinoff Marshals will have to wait another week for season 2 episode 6 as CBS shuffles its Sunday night schedule.",
+    "body": [
+      {
+        "h": "The Schedule Change on CBS",
+        "p": [
+          "Viewers tuning in to CBS on Sunday, November 8, will not find a new installment of the hit drama series Marshals. Although the second season has maintained a consistent broadcast pace this fall, the network has chosen to delay the sixth episode.",
+          "The Yellowstone spinoff usually occupies the Sunday 8 p.m. time slot, but this week's temporary interruption comes as part of a strategic programming move by the network rather than a sports-related delay."
+        ]
+      },
+      {
+        "h": "Spotlighting Cupertino",
+        "p": [
+          "Instead of the regular combination of Marshals and Tracker, CBS is utilizing the prime time slot to highlight a special episode of its new legal drama series titled Cupertino. Following this special airing, the network will broadcast encores of previous episodes.",
+          "Cupertino was created by Robert and Michelle King, the duo behind The Good Wife. The series explores the intricate world of artificial intelligence and the current lack of governance surrounding it, and getting the Marshals slot is intended to provide the new show with significant traction."
+        ]
+      },
+      {
+        "h": "Where Season 2 Left Off",
+        "p": [
+          "The delay follows an eventful two-part storyline that brought a past threat back into view for Kayce Dutton and his team. After navigating a life-threatening explosion, the US Marshals successfully saved the day and solidified a new creative direction for the series.",
+          "Season 2 has focused on establishing the identity of the Yellowstone spinoff as Kayce embarks on his next chapter following his time away from the Dutton ranch."
+        ]
+      },
+      {
+        "h": "What to Expect in Episode 6",
+        "p": [
+          "When Marshals season 2 episode 6, titled \"Roughstock,\" finally airs on Sunday, November 15, it will introduce several high-stakes complications for the characters. Cal will be absent due to an ongoing cancer battle that sends him away to visit a specialist.",
+          "With Cal away, Andrea Cruz will take over his post and serve as Kayce's interim boss, creating fresh professional and personal tensions as Kayce ventures outside of official jurisdiction to help Mo's nephew."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Future Stakes",
+        "p": [
+          "The upcoming episode will test the burgeoning personal relationship between Kayce and Andrea as she is forced to exert power over him in a professional capacity. Maintaining strict workplace boundaries will prove difficult for the pair.",
+          "The upcoming shift in hierarchy promises to deliver compelling drama when the series returns to the CBS airwaves next week."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "CBS has delayed the broadcast of Marshals season 2 episode 6 on November 8, utilizing the show's regular time slot to showcase a special episode of the new legal drama Cupertino. The Yellowstone spinoff will return with new episodes on November 15."
+        ]
+      }
+    ],
+    "facts": [
+      "Marshals will not air a new episode on November 8",
+      "Season 2 episode 6 is titled Roughstock",
+      "Marshals will return on Sunday, November 15",
+      "Cupertino was created by Robert and Michelle King"
+    ],
+    "entities": {
+      "people": [
+        "Kayce Dutton",
+        "Luke Grimes",
+        "Ash Santos",
+        "Andrea Cruz",
+        "Logan Marshall-Green",
+        "Mo Brings Plenty",
+        "Robert King",
+        "Michelle King",
+        "Spencer Hudnut"
+      ],
+      "titles": [
+        "Marshals",
+        "Yellowstone",
+        "Tracker",
+        "Cupertino",
+        "The Good Wife"
+      ]
+    },
+    "keywords": [
+      "Marshals season 2 episode 6",
+      "Kayce Dutton",
+      "Cupertino CBS series",
+      "Marshals release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/3228855_ymar_s2_1362bc.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why There Is No New Episode of Marshals on CBS Tonight",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 19:00:18 GMT"
+  },
+  "1rudn53": {
+    "id": "1rudn53",
+    "type": "news",
+    "headline": "Kamal Haasan’s Sandiyar Revives Decades-Old Caste Controversy as Puthiya Tamilagam Object",
+    "dek": "Actor Kamal Haasan faces renewed backlash and political opposition after reusing the title Sandiyar for his upcoming action movie directed by SU Arun Kumar.",
+    "body": [
+      {
+        "h": "Title Announcement Triggers Fresh Controversy",
+        "p": [
+          "The announcement of a new action project titled Sandiyar has plunged actor Kamal Haasan into a renewed social and political controversy. Unveiled on his birthday alongside a striking first-look poster, the film immediately captured public attention for more reasons than one. By choosing to revive this specific name, the production has resurrected a heated debate that first made headlines two decades ago.",
+          "The choice of nomenclature has once again placed the spotlight on caste-related connotations in Tamil Nadu cinema. Political figures and critics have quickly mobilized against the decision, arguing that the banner carries historical baggage linked to social tensions. As the project moves forward under the direction of SU Arun Kumar, the title remains a central point of contention."
+        ]
+      },
+      {
+        "h": "Understanding the Meaning and Objections",
+        "p": [
+          "The term Sandiyar generally translates to a street fighter, troublemaker, or rogue within local contexts. Over time, the phrase has also become closely associated with dominant-caste strongmen and caste-based rowdyism in the region. Critics and community leaders argue that using such a label for mainstream entertainment risks glorifying aggressive identity politics.",
+          "Dr K Krishnasamy, the founder of the Puthiya Tamilagam Party, has voiced strong objections to the revival of the title. Labeling the decision an act of arrogance and revenge, Krishnasamy publicly questioned why the actor chose to bring back a moniker that had previously caused widespread community distress and opposition."
+        ]
+      },
+      {
+        "h": "Echoes of the 2004 Virumaandi Dispute",
+        "p": [
+          "This is not the first time a project featuring Kamal Haasan has faced resistance over this vocabulary. Back in 2004, the star initially named his venture Virumaandi Sandiyar, which instantly drew severe criticism from Krishnasamy and various social groups. Opponents at the time argued that the phrasing endorsed the dominance of powerful factions.",
+          "The initial dispute was further intensified by promotional material, notably a poster featuring the lead actor holding a sickle. Public outcry suggested that the visual presentation combined with the nomenclature could be interpreted as an endorsement of caste-based aggression, forcing the makers to reconsider their branding two decades ago."
+        ]
+      },
+      {
+        "h": "Political Intervention and Past Resolution",
+        "p": [
+          "During the original 2004 dispute, the situation escalated to a point where political intervention was sought. Kamal Haasan attempted to secure backing from the then Chief Minister, J Jayalalithaa, to protect the production and retain the original title against mounting protests.",
+          "However, the government ultimately did not extend special protection to the team, recognizing the sensitive nature of the issue. To appease critics and prevent further social friction, the team dropped the contentious suffix, releasing the final product simply under the title Virumaandi."
+        ]
+      },
+      {
+        "h": "Warnings and Potential Repercussions",
+        "p": [
+          "The current decision to reuse the banned terminology has reignited fears of social unrest in regions where caste identity and related violence remain highly sensitive subjects. Detractors worry that the controversy could disrupt ongoing production schedules and deepen community divides across the state.",
+          "Adding to the gravity of the situation, Krishnasamy issued a stern warning during his media interactions. He cautioned that if the production stubbornly retains the contested title, the actor could face hostile conditions requiring him to leave Tamil Nadu frequently."
+        ]
+      },
+      {
+        "h": "Project Background and Collaborations",
+        "p": [
+          "Apart from the ongoing naming dispute, Sandiyar marks a significant creative partnership as the first collaboration between Kamal Haasan and filmmaker SU Arun Kumar. The director has previously helmed acclaimed projects such as Chithha and Veera Dheera Sooran, building anticipation for the upcoming actioner.",
+          "While further details regarding the supporting cast and overall plot remain under wraps, the actor's schedule is exceptionally busy. Alongside this venture, he is tied to several high-profile undertakings, including the sequel to Kalki 2898 AD, KH X RK, and Indian 3."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kamal Haasan has sparked a renewed caste controversy by using the title Sandiyar for his upcoming film directed by SU Arun Kumar. Puthiya Tamilagam Party founder Dr K Krishnasamy strongly objected to the title, recalling a similar dispute from 2004 that ultimately forced the makers to rename Virumaandi."
+        ]
+      }
+    ],
+    "facts": [
+      "Kamal Haasan announced his film Sandiyar on his birthday.",
+      "Dr K Krishnasamy is the founder of the Puthiya Tamilagam Party.",
+      "The original 2004 film was eventually renamed Virumaandi after facing opposition.",
+      "J Jayalalithaa was the Chief Minister of Tamil Nadu during the 2004 controversy.",
+      "SU Arun Kumar is the director of Sandiyar."
+    ],
+    "entities": {
+      "people": [
+        "Kamal Haasan",
+        "Dr K Krishnasamy",
+        "SU Arun Kumar",
+        "J Jayalalithaa"
+      ],
+      "titles": [
+        "Sandiyar",
+        "Virumaandi",
+        "Chithha",
+        "Veera Dheera Sooran",
+        "Kalki 2898 AD",
+        "KH X RK",
+        "Indian 3"
+      ]
+    },
+    "keywords": [
+      "Sandiyar film",
+      "Kamal Haasan Sandiyar",
+      "Dr K Krishnasamy Puthiya Tamilagam",
+      "SU Arun Kumar Sandiyar"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156482112,thumbsize-756154,width-1280,height-720,resizemode-75/156482112.jpg",
+        "caption": "Kamal Haasan’s Sandiyar Revives Decades-Old Caste Controversy as Puthiya Tamilagam Object",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T19:52:09Z"
+  },
+  "7pgtfo": {
+    "id": "7pgtfo",
+    "type": "news",
+    "headline": "Liam Neeson and Mark Vanselow Tease More Action Collaborations Despite Box Office Struggles",
+    "dek": "Following the release and box office challenges of their latest action thriller, Liam Neeson and longtime stunt collaborator Mark Vanselow reveal plans for future projects together.",
+    "body": [
+      {
+        "h": "A Partnership Spanning Decades",
+        "p": [
+          "Liam Neeson built a formidable reputation as a dramatic actor in acclaimed projects before establishing himself as a prominent action star. His dramatic foundation was cemented through celebrated roles in films such as Schindler's List, Michael Collins, Les Misérables, The Chronicles of Narnia, and Star Wars.",
+          "While dramatic performances remain a part of his career, high-octane thrillers have heavily populated his recent filmography. His ongoing transition into action cinema has been closely tied to his collaboration with stunt professional Mark Vanselow, creating a long-standing creative partnership."
+        ]
+      },
+      {
+        "h": "The Mongoose Marks a Directorial Debut",
+        "p": [
+          "Mark Vanselow stepped into the director's chair for the first time with the feature film The Mongoose. Although serving as a feature directorial debut, Vanselow is far from a newcomer to the industry.",
+          "He has previously worked as a stunt performer and coordinator on more than fifty films. His extensive career includes stunt contributions to Seraphim Falls, The A-Team, The Grey, and In the Land of Saints and Sinners, all of which featured Liam Neeson."
+        ]
+      },
+      {
+        "h": "A Long History of Collaboration",
+        "p": [
+          "To date, Liam Neeson and Mark Vanselow have collaborated on approximately thirty different projects. Their professional relationship reaches back over two decades, beginning with the year 2000 film Gun Shy.",
+          "More recently, their extensive working bond extended to last year's The Naked Gun. Their deep-rooted collaboration ultimately paved the way for Vanselow to direct Neeson in their latest action venture."
+        ]
+      },
+      {
+        "h": "Plot and Style of The Mongoose",
+        "p": [
+          "In The Mongoose, Liam Neeson takes on the role of Ryan 'Fang' Flanagan, a decorated war veteran. The character is forced to flee and go on the run after accidentally killing his ex-wife's abusive boyfriend.",
+          "The project serves as a high-speed chase thriller that differs from Neeson's previous work in the two Ice Road movies, the Taken trilogy, and Gun Shy. As a fugitive driving a Shelby Mustang, the actor navigates a fast-paced narrative distinct from his prior survival thrillers."
+        ]
+      },
+      {
+        "h": "Behind-the-Scenes Support and Future Plans",
+        "p": [
+          "Mark Vanselow has publicly credited Liam Neeson for advocating for his career advancement behind the scenes. According to the director, Neeson actively supported his transition from stunt work to directorial responsibilities.",
+          "Despite the hurdles faced by their latest release, both men have confirmed that they are actively looking for further projects to tackle together. Vanselow noted that they currently have a lot of projects in various stages of development and expressed openness to directing in other genres."
+        ]
+      },
+      {
+        "h": "Box Office Struggles and Streaming Success",
+        "p": [
+          "The theatrical run of The Mongoose encountered significant difficulties following its release. Produced on a budget of $20 million, the action thriller grossed a total of $695,000 after its first week in US theaters, impacted by an online leak occurring two months prior to its premiere.",
+          "Critical reception proved mixed-to-negative, resulting in a 38% score on the Rotten Tomatoes Tomatometer alongside a more favorable 60% audience consensus. Following its theatrical challenges, the film transitioned to streaming on Prime Video, where it reached the top of international streaming charts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Liam Neeson and his longtime stunt collaborator Mark Vanselow have discussed plans for future creative projects together following the release of their action thriller The Mongoose. Despite the film facing a difficult theatrical run with a $20 million production budget, mixed reviews, and an online leak, the duo remains committed to collaborating on upcoming developments."
+        ]
+      }
+    ],
+    "facts": [
+      "Liam Neeson starred in Schindler's List, Michael Collins, Les Misérables, The Chronicles of Narnia, and Star Wars.",
+      "Mark Vanselow served as a stunt performer and coordinator on more than 50 films.",
+      "Neeson and Vanselow have collaborated on roughly 30 projects to date, starting with 2000's Gun Shy.",
+      "The Mongoose has a production budget of $20 million.",
+      "The film grossed a total of $695,000 after one week in US theaters.",
+      "The Mongoose holds a 38% score on the Rotten Tomatoes Tomatometer and a 60% audience consensus.",
+      "The Mongoose has a runtime of 98 minutes and was released on October 30, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Liam Neeson",
+        "Mark Vanselow",
+        "Ryan Fang Flanagan"
+      ],
+      "titles": [
+        "Schindler's List",
+        "Michael Collins",
+        "Les Misérables",
+        "The Chronicles of Narnia",
+        "Star Wars",
+        "Seraphim Falls",
+        "The A-Team",
+        "The Grey",
+        "In the Land of Saints and Sinners",
+        "The Naked Gun",
+        "The Mongoose",
+        "The Ice Road",
+        "Taken",
+        "Gun Shy"
+      ]
+    },
+    "keywords": [
+      "The Mongoose film",
+      "Liam Neeson Mark Vanselow",
+      "The Mongoose box office",
+      "Mark Vanselow director"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/liam-neeson-at-the-the-ballad-of-buster-scruggs-screening-during-the-new-york-film-festival.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Liam Neeson and Mark Vanselow Tease More Action Collaborations Despite Box Office Struggles",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 19:46:10 GMT"
   }
 };
