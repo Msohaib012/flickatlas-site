@@ -86387,5 +86387,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-08T10:42:12Z"
+  },
+  "jzeo0r": {
+    "id": "jzeo0r",
+    "type": "news",
+    "headline": "BTS Member V Wishes Indian ARMY Diwali Mubarak On Weverse",
+    "dek": "Kim Taehyung surprised Indian fans by asking about the festival of lights, reacting to gulab jamun, and sending greetings in Hindi.",
+    "body": [
+      {
+        "h": "Unexpected Diwali Greetings From South Korea",
+        "p": [
+          "BTS member V, also known as Kim Taehyung, delighted his massive Indian fan base by participating in an interactive Weverse session on November 8. During the conversation, the South Korean pop star offered unexpected greetings for the festival of lights, turning the celebration into a memorable occasion for desi supporters.",
+          "The exchange quickly gained traction online, with screenshots spreading across platforms like X. Supporters expressed immense joy over the unexpected gesture, noting that the global superstar took personal time to acknowledge a cultural celebration observed by millions across South Asia."
+        ]
+      },
+      {
+        "h": "Curiosity About the Festival and Traditions",
+        "p": [
+          "The viral interaction began when a supporter explained to the singer that India was currently celebrating Diwali. Rather than offering a standard acknowledgement, V displayed genuine curiosity by asking what the festival entailed and admitting he wanted to know more.",
+          "Indian fans immediately stepped in to explain the traditions and significance of the holiday. The singer's willingness to learn about local customs deeply touched his supporters, who felt recognized and valued by the global music icon."
+        ]
+      },
+      {
+        "h": "Reactions to Gulab Jamun and AI Outfits",
+        "p": [
+          "The conversation grew even more engaging when V encountered a post showcasing the popular Indian sweet gulab jamun. Surprised by the dessert, he responded with enthusiasm, exclaiming in wonder at the visual.",
+          "Additionally, he came across user-generated content featuring members of BTS dressed in Indian-inspired attire created through artificial intelligence. He complimented the digital creations, writing that the outfits looked pretty."
+        ]
+      },
+      {
+        "h": "Wishes Delivered in Hindi",
+        "p": [
+          "The highlight of the Weverse exchange occurred when the singer extended his holiday wishes directly in Hindi. By writing 'Diwali Mubarak', he provided a personalized greeting that immediately resonated with the online community.",
+          "Fan communities, including the Indian BTS fan group Team INDIA, shared their excitement over the message. Supporters praised the effort he made to address them in their native language rather than relying solely on English or Korean."
+        ]
+      },
+      {
+        "h": "Past Interactions With Indian Supporters",
+        "p": [
+          "This instance is not the first time V has forged a special connection with his fans in the country. In July 2023, during a live streaming session, he readily greeted supporters with 'Namaste' and added an expression of love.",
+          "Later, in December 2025, he offered another greeting by saying 'Namaste, Indian ARMYs' alongside a note about seeing them next year. That previous remark sparked widespread speculation regarding a potential live concert in the region."
+        ]
+      },
+      {
+        "h": "Hopes for a Live Concert in India",
+        "p": [
+          "Despite repeated warm interactions and intense speculation from the fanbase, an official concert date in India has not been confirmed. The recent tour announcements for the group's ongoing ARIRANG World Tour did not include an Indian stop.",
+          "Nevertheless, enthusiastic supporters continue to hope that RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook will eventually share a stage together in the country, keeping anticipation alive through moments like this viral exchange."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS member V connected with his Indian fans on Weverse by asking about Diwali, reacting to gulab jamun, and sending greetings in Hindi. His viral interaction revived excitement among supporters who continue to hope for a future live performance by the group in the country."
+        ]
+      }
+    ],
+    "facts": [
+      "BTS member V is Kim Taehyung.",
+      "The Weverse interaction took place on November 8.",
+      "V asked about the Diwali festival and gulab jamun.",
+      "V wrote Diwali Mubarak in Hindi.",
+      "In July 2023, V greeted Indian fans with Namaste during a live session.",
+      "In December 2025, V greeted Indian fans with Namaste, Indian ARMYs.",
+      "The group is on the ARIRANG World Tour."
+    ],
+    "entities": {
+      "people": [
+        "Kim Taehyung",
+        "V",
+        "RM",
+        "Jin",
+        "Suga",
+        "J-Hope",
+        "Jimin",
+        "Jungkook"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "BTS V Diwali Mubarak",
+      "Kim Taehyung Weverse India",
+      "BTS V gulab jamun",
+      "Indian ARMY BTS concert"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156482239,thumbsize-721494,width-1280,height-720,resizemode-75/156482239.jpg",
+        "caption": "BTS Member V Wishes Indian ARMY Diwali Mubarak On Weverse",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T12:52:07Z"
+  },
+  "1lie7vt": {
+    "id": "1lie7vt",
+    "type": "news",
+    "headline": "Justin Timberlake Addresses Longstanding Rumors Regarding 2006 Hit Song",
+    "dek": "After two decades of speculation, Justin Timberlake has clarified the inspiration behind his hit track What Goes Around… Comes Around.",
+    "body": [
+      {
+        "h": "Two Decades of Rumors",
+        "p": [
+          "For twenty years, followers of pop music have debated the true meaning behind Justin Timberlake's 2006 track What Goes Around… Comes Around. Many listeners assumed the lyrics focusing on betrayal and heartbreak served as a direct commentary on his high-profile split from fellow pop star Britney Spears in 2002.",
+          "The assumption persisted largely because the two singers shared a history that dated back to their childhood days on The Mickey Mouse Club House before they eventually became romantic partners. When their relationship ended around the same time Timberlake released Cry Me a River, public imagination firmly linked his musical output to the breakup."
+        ]
+      },
+      {
+        "h": "The Relationship History",
+        "p": [
+          "The former couple spent roughly three years together before parting ways in 2002. The end of their romance drew intense media attention and shaped public narratives surrounding both musicians for years to come.",
+          "In a 2003 memoir written by Britney Spears, she opened up about the emotional toll the separation took on her, describing how she felt devastated in Louisiana while Timberlake continued his career in Hollywood."
+        ]
+      },
+      {
+        "h": "Setting the Record Straight",
+        "p": [
+          "Twenty years after the release of the track, Justin Timberlake used an appearance on Complex's Re-Rank series to dispel the long-running speculation. He confirmed for the first time that What Goes Around… Comes Around was not written about his relationship with Spears.",
+          "During his conversation on the YouTube series, Timberlake noted that the song came together very quickly, taking approximately twenty minutes to write. He stated that he felt it was finally time to clear up the rumor that had followed the song for years."
+        ]
+      },
+      {
+        "h": "Inspiration From a Friend",
+        "p": [
+          "Rather than pulling from his own romantic history, Timberlake explained that the track was based on the personal experiences of a friend who was going through a difficult breakup at the time.",
+          "Before putting pen to paper, Timberlake sought permission from his friend to use the narrative in a song. According to the singer, his friend enthusiastically agreed, giving him the green light to write about the situation."
+        ]
+      },
+      {
+        "h": "The Creation Process",
+        "p": [
+          "Timberlake recounted the exact conversation he had with his friend before writing the track. After receiving permission, he rushed off to begin composing the lyrics that would eventually become a major hit.",
+          "The prompt from his acquaintance provided the underlying theme for the track, anchoring it in another person's real-life heartbreak rather than his own past romance."
+        ]
+      },
+      {
+        "h": "Distinction From Cry Me a River",
+        "p": [
+          "While What Goes Around… Comes Around has now been separated from the Britney Spears narrative, the same cannot be said for Timberlake's earlier song Cry Me a River.",
+          "That track remains widely associated with his relationship with the Hit Me Baby One More Time singer, particularly due to its music video featuring a look-alike portraying an unfaithful partner."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Justin Timberlake has clarified that his 2006 track What Goes Around… Comes Around was inspired by a friend's breakup rather than his past relationship with Britney Spears. While dispelling the twenty-year-old rumor, he confirmed he sought permission from his friend before writing the song."
+        ]
+      }
+    ],
+    "facts": [
+      "Justin Timberlake released the song What Goes Around… Comes Around in 2006.",
+      "Justin Timberlake and Britney Spears broke up in 2002.",
+      "Britney Spears published a memoir in 2023.",
+      "Justin Timberlake revealed the song's true inspiration on Complex's Re-Rank series after 20 years of rumours."
+    ],
+    "entities": {
+      "people": [
+        "Justin Timberlake",
+        "Britney Spears"
+      ],
+      "titles": [
+        "What Goes Around… Comes Around",
+        "Cry Me a River",
+        "The Mickey Mouse Club House",
+        "Hit Me Baby One More Time"
+      ]
+    },
+    "keywords": [
+      "Justin Timberlake What Goes Around Comes Around",
+      "Justin Timberlake Britney Spears song",
+      "Justin Timberlake Complex Re-Rank",
+      "Cry Me a River Britney Spears"
+    ],
+    "images": [
+      {
+        "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt1f462efb63cb91fa/6af064436cd0fe832c5e19e4/Justin_and_Britney.jpg",
+        "caption": "Justin Timberlake Addresses Longstanding Rumors Regarding 2006 Hit Song",
+        "source": "LADbible"
+      }
+    ],
+    "published": "2026-11-08T12:24:58.126Z"
+  },
+  "y011d9": {
+    "id": "y011d9",
+    "type": "news",
+    "headline": "Pankaj Tripathi Discusses Conflict, Character Studies, and Bringing Kaleen Bhaiya to the Big Screen",
+    "dek": "In an exclusive interview, acclaimed actor Pankaj Tripathi opens up about reprising his iconic role for the upcoming Mirzapur movie, his real-life peaceful nature, and why friction is essential for compelling drama.",
+    "body": [
+      {
+        "h": "Bringing Kaleen Bhaiya to Cinemas",
+        "p": [
+          "Pankaj Tripathi is preparing to reprise his legendary role as Kaleen Bhaiya, transitioning the character from the streaming space to a theatrical release. Even after playing the figure since 2018, the actor approaches every day on set as an entirely new experience.",
+          "The upcoming film explores an untold narrative chapter hidden within the Season 1 timeline of the original series. Tripathi notes that despite past successes, the typical actor anxiety regarding daily performance remains present."
+        ]
+      },
+      {
+        "h": "On-Screen Conflict Versus Real-Life Calm",
+        "p": [
+          "While Tripathi has built a reputation for portraying dangerous and intense figures, his actual temperament is famously non-confrontational. He explains that art requires gray areas and friction to function properly.",
+          "According to the performer, drama cannot exist without opposing forces. In Kaleen Bhaiya's specific case, the central struggle stems from his desire to guide his son, who remains on an entirely different path."
+        ]
+      },
+      {
+        "h": "Differentiating Calm Characters",
+        "p": [
+          "The actor is known for maintaining a composed exterior across multiple projects, but emphasizes that the internal mechanics of his roles vary significantly. For instance, Babulal in Luka Chuppi was playful and energetic, whereas Madhav Mishra in Criminal Justice carried a heavy survival anxiety while racing through Mumbai.",
+          "In contrast, Kaleen Bhaiya's stillness does not originate from vulnerability or survival instincts. Instead, his quiet demeanor is rooted entirely in absolute dominance and authority."
+        ]
+      },
+      {
+        "h": "Exploration of Gangster Roles",
+        "p": [
+          "From early breakout performances in Gangs of Wasseypur and Gurgaon to playing Sattu Bhaiya in Ludo, filmmakers consistently cast Tripathi in dark, morally complex parts. He admits he remains unsure why directors repeatedly envision him in these projects.",
+          "Portraying these intense personalities has allowed the actor to tap into a suppressed anger within himself. He views this process as a valuable contributor to his overall life wisdom and emotional range."
+        ]
+      },
+      {
+        "h": "Observing Human Psychology",
+        "p": [
+          "To prevent his performances from becoming repetitive, Tripathi maintains a constant philosophical curiosity about everyday life. He studies human behavior by watching how people walk, talk, and form belief systems.",
+          "Whether observing political arguments on social media or watching egrets gather near local fish markets, he constantly extracts deeper meanings from mundane sights. This continuous observation helps keep his craft fresh and grounded."
+        ]
+      },
+      {
+        "h": "Gauging Audience Reactions",
+        "p": [
+          "When projects finally release, Tripathi prefers not to stress over the outcome since his creative work has already concluded. For theatrical releases, he enjoys wearing a disguise and sitting quietly at the back of cinemas to observe audience reactions.",
+          "For streaming projects, he relies on feedback from social media and unexpected phone calls from viewers, noting that he once received a memorable call all the way from New York after Mirzapur aired."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pankaj Tripathi discussed his approach to acting, the necessity of conflict in drama, and his upcoming transition of the character Kaleen Bhaiya to the big screen. The interview highlighted how his non-confrontational real-life personality contrasts with the intense roles he portrays across various films and series."
+        ]
+      }
+    ],
+    "facts": [
+      "Kaleen Bhaiya was first introduced in 2018.",
+      "Pankaj Tripathi played Babulal in Luka Chuppi.",
+      "Pankaj Tripathi played Madhav Mishra in Criminal Justice.",
+      "Pankaj Tripathi played Sattu Bhaiya in Ludo."
+    ],
+    "entities": {
+      "people": [
+        "Pankaj Tripathi",
+        "Rachit Gupta"
+      ],
+      "titles": [
+        "Mirzapur",
+        "Gangs of Wasseypur",
+        "Ludo",
+        "Luka Chuppi",
+        "Criminal Justice",
+        "Gurgaon",
+        "Masaan",
+        "Ohh My Dog"
+      ]
+    },
+    "keywords": [
+      "Pankaj Tripathi Mirzapur film",
+      "Kaleen Bhaiya big screen",
+      "Pankaj Tripathi interview",
+      "Mirzapur movie untold story"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/oct/pankajtripathiso1791977182.jpg",
+        "caption": "Pankaj Tripathi Discusses Conflict, Character Studies, and Bringing Kaleen Bhaiya to the Big Screen",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-08T13:56:10+05:30"
+  },
+  "1l14efk": {
+    "id": "1l14efk",
+    "type": "news",
+    "headline": "Stephen King's Eight-Episode Horror Series Offers a Fast Binge That Outpaces the Films",
+    "dek": "HBO's Welcome to Derry expands on Stephen King's literary universe through an intense eight-episode first season that can be finished in a single day.",
+    "body": [
+      {
+        "h": "An Unexpected Return to Derry",
+        "p": [
+          "Following the conclusion of the cinematic IT duology, audiences largely assumed the cursed Maine town had revealed all its secrets. The arrival of an eight-episode television project on HBO shifted those expectations entirely, bringing viewers back to the 1950s cycle of the entity. Director Andy Muschietti stepped back into the creative helm to helm the project, surprising skeptics with a narrative that feels even more menacing than its big-screen predecessors."
+        ]
+      },
+      {
+        "h": "A Fresh Perspective and New Characters",
+        "p": [
+          "Rather than sticking to the familiar framework of the Losers Club, the television venture introduces an entirely different group of young individuals grappling with era-specific struggles. Lily Bainbridge is one such figure, navigating the emotional aftermath of her father's passing alongside the looming threat of being sent to Juniper Hill, a psychiatric facility well-known to readers of the author's wider bibliography. After a mutual acquaintance vanishes, Lily forms a tight bond with her peers as they attempt to uncover the truth."
+        ]
+      },
+      {
+        "h": "Closer Ties to the Source Material",
+        "p": [
+          "While the theatrical adaptations followed the overarching plot points of the famous novel quite literally, the episodic format allows for a deeper exploration of the atmosphere and context that was missing on film. The narrative pulls off a shocking twist early on when Lily and Ronnie are drawn to a local movie theater where their friends meet a tragic end. Amidst this unfolding horror, the children also have to contend with everyday prejudice, as Ronnie's projectionist father is unfairly blamed for the catastrophic loss of young lives in the community."
+        ]
+      },
+      {
+        "h": "Expanding the Broader Literary Universe",
+        "p": [
+          "The production also weaves in elements from other corners of the author's imagination by incorporating Dick Hallorann, a figure recognized for his crucial role in The Shining. Rather than leaning into the interpretive challenges of the Stanley Kubrick film version, the HBO program respects the internal rules of the original literary lore. The military exploits Dick's supernatural gift to track down the mysterious entity, tying multiple threads together before the dancing clown emerges to terrorize future generations."
+        ]
+      },
+      {
+        "h": "Delivering Scares at the Right Moment",
+        "p": [
+          "Viewers tuning in might anticipate seeing the notorious antagonist immediately, but the storytelling opts to hold back its primary terrors until the narrative demands it. When Bill Skarsgård's character finally appears in full clown form, it delivers sequences of intense horror that arguably surpassed what could be achieved within the runtime of a feature film. This deliberate pacing answers whether another trip to this fictional town was necessary with an affirmative response."
+        ]
+      },
+      {
+        "h": "A Rapidly Consumed Horror Experience",
+        "p": [
+          "Clocking in at just eight episodes, the first season offers a lean and highly digestible viewing experience that takes less than a day to complete. It acts as a dedicated homage to the famous writer in a manner that previous attempts, such as Hulu's Castle Rock, did not quite achieve. By focusing on elements that did not fully translate to the movies, the show succeeds in offering a captivating journey for dedicated horror enthusiasts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "HBO's eight-episode television series Welcome to Derry explores the 1950s Pennywise cycle in Stephen King's fictional town with a new cast of characters including Lily Bainbridge and Dick Hallorann. Directed by Andy Muschietti and featuring Bill Skarsgård, the program delivers a terrifying narrative that can be fully binged in under a day."
+        ]
+      }
+    ],
+    "facts": [
+      "IT: Welcome to Derry has 8 episodes.",
+      "The series takes place in the 1950s.",
+      "Release Date was October 26, 2025.",
+      "Network is HBO.",
+      "Directors include Andy Muschietti."
+    ],
+    "entities": {
+      "people": [
+        "Stephen King",
+        "Andy Muschietti",
+        "Lily Bainbridge",
+        "Clara Stack",
+        "Bill Skarsgård",
+        "Blake Cameron James",
+        "Blake Cameron Jones",
+        "Ronnie",
+        "Amanda Christine",
+        "Dick Hallorann",
+        "Chris Chalk",
+        "Stanley Kubrick",
+        "Jason Fuchs",
+        "Austin Guzman",
+        "Barbara Muschietti",
+        "Taylour Paige",
+        "Charlotte Hanlon",
+        "Jovan Adepo",
+        "Leroy Hanlon",
+        "Sam Neill",
+        "Carolyn Jenkins"
+      ],
+      "titles": [
+        "IT: Welcome to Derry",
+        "It: Chapter One",
+        "It: Chapter Two",
+        "The Shining",
+        "Castle Rock",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "Queen: Hungarian Rhapsody - Live in Budapest '86",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "IT Welcome to Derry",
+      "Stephen King HBO series",
+      "Bill Skarsgård Pennywise",
+      "Andy Muschietti Welcome to Derry"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/welcome-to-derry.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Stephen King's Eight-Episode Horror Series Offers a Fast Binge That Outpaces the Films",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 12:44:12 GMT"
   }
 };

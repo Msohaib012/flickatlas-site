@@ -141,6 +141,19 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "country": "IN",
+      "date": "2026-11-08",
+      "date_kind": "digital",
+      "id": 1817236,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "FR",
       "date": "2026-11-07",
       "date_kind": "digital",
@@ -801,6 +814,14 @@ window.FA_OTT = {
       "date": "2026-10-30",
       "date_kind": "digital",
       "id": 1749825,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-10-30",
+      "date_kind": "digital",
+      "id": 1813349,
       "providers": [],
       "type": "movie"
     },
