@@ -20,7 +20,8 @@ def policy(hours, interval, retry=1, **extra):
                 retry_hours=retry, **extra)
 
 POLICIES = {
-    'episode_guides': policy((13, 15, 17, 19), 6, active_hours=list(range(13, 20))),
+    'episode_guides': policy((13, 15, 17, 19), 6, active_hours=list(range(13, 20)),
+                             window_recover_hours=2),
     'title_seed': policy((6, 18), 12),
     'trending_worldwide': policy((0, 6, 12, 18), 6),
     'sacnilk_boxoffice': policy((2, 5, 8, 11, 14, 17, 20, 23), 3, retry=3),
@@ -127,6 +128,16 @@ def due(name, rec=None, now=None):
             return False
     if now.hour in p['hours']:
         return True
+    # Missed-slot recovery INSIDE the active window (2026-11-08 fix): run
+    # execution can slip past its gate hour in the concurrency queue — on
+    # 2026-11-07 the 17:50Z run executed at 18:42Z, and the strict
+    # (interval+1)h rule below then blocked the episode step for the whole
+    # evening, so that night's drama episodes were never collected. Inside
+    # the window, a step whose last success is older than
+    # window_recover_hours is due again (the >=1h attempt guard above and
+    # the failed-attempt backoff still apply first).
+    if p.get('window_recover_hours') and success:
+        return (now - success).total_seconds() > p['window_recover_hours'] * 3600
     if success:
         return (now - success).total_seconds() > (p['interval_hours'] + 1) * 3600
     return bool(attempt and rec.get('last_status') in ('failed', 'no-data')
