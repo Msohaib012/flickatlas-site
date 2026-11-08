@@ -87163,5 +87163,582 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 13:02:32 +0000"
+  },
+  "14fzkhs": {
+    "id": "14fzkhs",
+    "type": "news",
+    "headline": "Khushi Episode 57 — Watch Online on HUM TV",
+    "dek": "Khushi episode 57 aired on 2026-11-08 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 57 aired on 2026-11-08 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=4iqSe0xXhDQ"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Humna apni ammi (Tayyami) aur Aamar ke ghar aati hai kyunke Aamar aur Khushi abhi northern areas se wapas nahi aaye hain. Tayyami aur Samira baatein kar rahi hain ke khali ghar kitna ajeeb lag raha hai. Humna ko jab pata chalta hai ke woh dono wahan nahi hain, toh woh ghussay mein aajati hai ke Aamar ko Khushi yaad aati hai aur uske saath zabardasti ki zindagi guzaar raha hai.\n\nIske baad, Aamar aur Khushi hotel ke restaurant mein hain jahan woh bachpan ki yaadein taaza karte hain aur Aamar jaldi kaam khatam karke wapas chalne ki baat karta hai. Ghar par, Saim apne parivar se kehta hai ke usey Khushi ki aadat hai aur woh uske bina nahi reh sakta, lekin Tayyami aur baaqi ghar wale is baat par naraz hote hain aur kehte hain ke Khushi apni ammi ke ghar chali gayi hai aur usey wapas aana chahiye.\n\nRaat ko Tayyami ki tabiyat achanak kharab ho jati hai aur unhe severe heart attack hota hai. Humna unhe paani deti hai aur hospital le kar jati hai jahan sabhi log jama ho jatay hain. Doctor batata hai ke attack raat ko hi ho gaya tha aur kaafi der ho chuki hai. Aamar aur Khushi bhi hospital pahunchte hain. Hospital mein sabhi log pareshan hain aur khass tor par Aamar, jo pehle hi gusse mein tha, mazeed pareshan ho jata hai. Episode ka end Tayyami ki serious condition aur sabhi ke fikarmand hone par hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 57 aired on 2026-11-08.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=4iqSe0xXhDQ",
+      "YouTube views: 172,781.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/4iqSe0xXhDQ/hqdefault.jpg",
+        "caption": "Khushi Episode 57",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-08T15:00:10Z"
+  },
+  "1vu797m": {
+    "id": "1vu797m",
+    "type": "news",
+    "headline": "Uswah Episode 47 — Watch Online on Geo TV",
+    "dek": "Uswah episode 47 aired on 2026-11-08 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 47 aired on 2026-11-08 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=w8WMftQAkC0"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Uswah episode 47 ki shuruat mein Uswah apni behan ko bataati hai ke usey lagta hai kay shohar ki mohabbat ek bari neemat aur taqat hai jisse insan ko duniya mein kisi ka dar nahi rehta. Phir Uswah ko apni ammi ka phone aata hai ke unhein head injury hui hai aur surgery lazmi hai, aur doctor ne 50 lakh jama karwane ko kaha hai warna surgery shuru nahi hogi. Uswah aur uski behan pareshan ho jati hain aur zewar bechne ki koshish karti hain, lekin ammi ki saas aur devar is baat par naraz hote hain ke zewar bechne se operation ke akhrajaat pure nahi honge aur woh ye zewar bechne se mana karte hain. Uswah ke husband Isa apni meeting mein masroof hote hain aur apna phone silent par rakh dete hain jis ki wajah se Uswah un se rabta nahi kar pati. Uswah pareshani ki halat mein auto rikshaw mein baith kar Isa ke ghar jati hai, jahan Isa ki pehli biwi Faria bhi mojood hoti hai. Uswah Isa ko ammi ki halat aur surgery ke liye 50 lakh ki zaroorat ke bare mein batati hai. Faria kehti hai ke agar Uswah Khula ke papers par sign karde toh woh ammi ki surgery ke liye 50 lakh de degi. Uswah ye sun kar sadma aur bechaini ki halat mein chup khari rehti hai aur episode yahin khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 47 aired on 2026-11-08.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=w8WMftQAkC0",
+      "YouTube views: 561,951.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/w8WMftQAkC0/hqdefault.jpg",
+        "caption": "Uswah Episode 47",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-08T15:00:06Z"
+  },
+  "etbn79": {
+    "id": "etbn79",
+    "type": "news",
+    "headline": "Izzat Episode 50 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 50 aired on 2026-11-08 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 50 aired on 2026-11-08 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=q1oeYejthww"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Izzat ke is episode mein, ghar mein baithak chal rahi hai jahan eham log maujood hain aur purani baatein nikalti hain. Ek aur scene mein, do aadmi bag check kar rahe hain, magar wahan kuch nahi milta. Phir ek aur manzar mein, Rania aur Rudba ek cafe mein baith kar baat karti hain jahan Rudba ko pata chalta hai ke uske divorce ki khabar aam ho chuki hai, jis par woh pareshan hoti hai. Ek aur jagah par police aur kuch log mil kar talash kar rahe hain aur kuch documents ya cctv footage check ho rahi hai. Episode ke aakhir mein, Rudba aur Rayyan park mein aate hain jahan Rayyan phoolon ka bouquet laata hai, aur woh aapas mein baat karte hain ke aage kya hoga, aur episode yahin ek emotional aur serious mood ke sath khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 50 aired on 2026-11-08.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=q1oeYejthww",
+      "YouTube views: 2,886.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/q1oeYejthww/hqdefault.jpg",
+        "caption": "Izzat Episode 50",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-08T15:00:05Z"
+  },
+  "137eag": {
+    "id": "137eag",
+    "type": "news",
+    "headline": "Dastoor Episode 79 — Watch Online on Green TV",
+    "dek": "Dastoor episode 79 aired on 2026-11-08 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 79 aired on 2026-11-08 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Ftd6crec67A"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Aliyna aur Nano ki guftagu hoti hai jahan Nano Aliyna ko samjhate hain ke ab woh jazbaat ke bajaye dimag se kaam le aur Amara ko Aliyna ki zindagi se aise nikaal de jaise uska wajood kabhi tha hi nahi. Aliyna phone par Aliyaan se baat karti hai aur usse puchti hai ke woh theek hai ya nahi. Phir Aliyaan Aliyna ke paas aata hai aur kehta hai ke woh Amara ko talaq na dekar usko saza dena chahta hai aur Aliyna ko apni mohabbat ka yaqeen dilata hai. \n\nDusri taraf, Mustafa aur Shiza ki baatcheet hoti hai jahan Mustafa batata hai ke woh aur Shiza kuch dino ke liye Skardu trip par ja rahe hain, jis par Nano thori fikrmand hoti hain kyunki unka ek naya business contract chal raha hota hai. Nano baad mein Aliyna se kehti hain ke agar Aliyna ne Aliyaan aur Amara ko talaq na dilwaya toh Nano Mustafa ko Aliyna se door kar dengi. Aliyna yeh sun kar pareshan ho jati hai. \n\nAliyaan Amara ko milne ke liye phone karta hai aur Amara khushi khushi usse milne car mein nikal parti hai. Raste mein Aliyaan aur Amara ek dusre ko wave karte hain, lekin achanak ek gaadi Amara ki car ko takkar maar deti hai aur Amara zakhmi halat mein zameen par gir parti hai. Aliyaan daur kar Amara ke paas aata hai aur rote hue usse baat karne ki koshish karta hai, jab ke Amara bejaan ho kar wahan par reh jati hai. Episode ka ikhtitam ishi dardnaak hadsay aur Aliyaan ke roye par hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 79 aired on 2026-11-08.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Ftd6crec67A",
+      "YouTube views: 89,387.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Ftd6crec67A/hqdefault.jpg",
+        "caption": "Dastoor Episode 79",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-08T14:45:16Z"
+  },
+  "6z8drh": {
+    "id": "6z8drh",
+    "type": "news",
+    "headline": "Suriya's Scene Crosses ₹100 Crore Worldwide on Day 3 With Strong Global Demand",
+    "dek": "The action-comedy directed by Jithu Madhavan has surpassed the ₹100 crore worldwide gross milestone by its third day, with live estimates targeting a ₹120 crore opening weekend finish.",
+    "body": [
+      {
+        "h": "Reaching the Century Mark",
+        "p": [
+          "Suriya starrer Scene has officially raced past the ₹100 crore worldwide gross milestone during its third day in theatres. Live tracking indicates that robust domestic collections combined with impressive international figures have successfully propelled the cumulative earnings beyond the prestigious century mark.",
+          "The action-comedy opened to strong numbers on Friday and continued its upward trajectory through the weekend. While final figures remain subject to official revision, current projections suggest the opening weekend could comfortably finish at ₹120 crore or higher."
+        ]
+      },
+      {
+        "h": "Domestic Growth and Occupancy",
+        "p": [
+          "The film recorded an India gross of ₹22.25 crore on its opening Friday and improved to ₹23.65 crore on Saturday, despite experiencing a slight reduction in overall screenings. Domestic occupancy climbed from 55 percent to 62.5 percent over the same period.",
+          "This rise in occupancy demonstrates that the feature benefited primarily from enthusiastic audience turnouts rather than an expansion of show availability. Sunday's live tracking added another ₹21.75 crore gross by the evening, with the Tamil language version driving the majority of the commercial success."
+        ]
+      },
+      {
+        "h": "Strong International Performance",
+        "p": [
+          "A notable highlight of the opening run has been the robust overseas contribution, which accounted for 42.4 percent of the total worldwide gross after the first two days. International markets have provided a critical revenue stream alongside domestic strongholds.",
+          "In North America specifically, Scene cleared the $1 million mark within its first two days. This performance is especially impressive given that it faces intense competition in global markets from Namit Malhotra's Ramayana during the festive Diwali window."
+        ]
+      },
+      {
+        "h": "Joining Elite Kollywood Milestones",
+        "p": [
+          "With this rapid ascent, Scene has joined a select group of Tamil films that successfully crossed ₹100 crore worldwide within their first three days of release. While blockbusters like Leo, Coolie, and Jailer 2 achieved the feat on their opening day itself, others reached the milestone by day two or three.",
+          "Sharing space with notable titles such as Karuppu and Vishwanath and Sons, Scene's inclusion in this three-day bracket highlights its strong commercial pull during a crowded holiday release frame."
+        ]
+      },
+      {
+        "h": "Kerala Market Dominance",
+        "p": [
+          "Kerala has emerged as an exceptionally vital territory for the film's domestic run, contributing ₹10.50 crore gross in its initial two days alone, which represents nearly 23 percent of the entire India total.",
+          "Driven by Suriya's established fanbase alongside the strong Malayalam cinema connections of director Jithu Madhavan, Nazriya Nazim, and Naslen, the feature has quickly surpassed the lifetime Kerala grosses of recent regional competitors."
+        ]
+      },
+      {
+        "h": "Festive Competition and Outlook",
+        "p": [
+          "Navigating a packed holiday theatrical landscape that includes major competitors like Ramayana and Mookuthi Amman 2, the film has carved out a profitable space. This marks Suriya's third successful theatrical outing of the year 2026.",
+          "Attention now turns to the upcoming weekdays to see how effectively the action-comedy can sustain its momentum and capitalize on the strong foundation built during its opening weekend."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's action-comedy Scene has crossed ₹100 crore worldwide in its third day, with live estimates eyeing a ₹120 crore opening weekend. Driven by strong overseas markets and stellar performance in Kerala, the film has emerged as a major commercial success amidst competitive Diwali releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene crossed the ₹100 crore worldwide gross milestone on its third day.",
+      "The film's first two days generated a worldwide gross of ₹79.65 crore.",
+      "Day 1 India gross was ₹22.25 crore and Day 2 India gross was ₹23.65 crore.",
+      "Sunday live tracking added ₹21.75 crore gross as of 8:03 PM IST.",
+      "Overseas collections accounted for 42.4 percent of the worldwide gross after two days.",
+      "North America collections crossed the $1 million mark within two days.",
+      "Kerala contributed ₹10.50 crore gross in the first two days.",
+      "Scene is directed by Jithu Madhavan and stars Suriya."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Namit Malhotra",
+        "Nazriya Nazim",
+        "Naslen"
+      ],
+      "titles": [
+        "Scene",
+        "Ramayana",
+        "Leo",
+        "Coolie",
+        "Jailer 2",
+        "2.0",
+        "Jailer",
+        "The Greatest of All Time",
+        "Ponniyin Selvan Part 1",
+        "Vikram",
+        "Ponniyin Selvan Part 2",
+        "Karuppu",
+        "Vishwanath and Sons",
+        "Kanguva",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene film box office",
+      "Suriya Scene worldwide collection",
+      "Scene Day 3 collection",
+      "Jithu Madhavan Scene movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028430.jpg",
+        "caption": "Suriya's Scene Crosses ₹100 Crore Worldwide on Day 3 With Strong Global Demand",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:39:06 +0000"
+  },
+  "zo2eiv": {
+    "id": "zo2eiv",
+    "type": "news",
+    "headline": "EXO's Doh Kyung Soo (D.O.) Announces November Comeback With Teasers For Darling",
+    "dek": "EXO member Doh Kyung Soo, also known as D.O., has officially announced his return to the music scene with a brand new single titled Darling, dropping in November.",
+    "body": [
+      {
+        "h": "The Official Announcement",
+        "p": [
+          "Fans of EXO have a major reason to celebrate as Doh Kyung Soo, widely known by his stage name D.O., prepares to grace the music industry with fresh tracks. The official announcement was made public on November 9 at midnight KST, catching the attention of music enthusiasts across the globe. This upcoming release marks another exciting chapter in his thriving solo career, bringing eager anticipation from his massive fanbase.",
+          "The announcement came alongside the very first promotional materials for the single, giving supporters a glimpse into the aesthetic and vibe of the upcoming project. The rollout strategy has been swift, creating an immediate buzz online as listeners count down the hours until the drop."
+        ]
+      },
+      {
+        "h": "Release Date And Schedule",
+        "p": [
+          "The wait for new music is remarkably short, with the official launch scheduled to take place within the same week as the announcement. Doh Kyung Soo is set to officially drop his brand new single titled Darling on November 11 at 6 p.m. KST.",
+          "With just a couple of days separating the announcement and the actual release, the momentum surrounding the project is at an all-time high. Followers have been directed to check out the newly revealed concept teasers to tide them over until the full track becomes available."
+        ]
+      },
+      {
+        "h": "Concept Teasers Unveiled",
+        "p": [
+          "Alongside the release date, the first batch of concept teasers for Darling has been revealed to the public. These visual previews offer a taste of what to expect from the singer's latest musical endeavor, building curiosity around his artistic direction for this single.",
+          "The teasers serve as the starting point for the promotional rollout, setting the tone for the upcoming drop. Fans analyzing the imagery are eager to see how these visual concepts translate into the actual audio track."
+        ]
+      },
+      {
+        "h": "Musical Background And Legacy",
+        "p": [
+          "Doh Kyung Soo has established himself as a powerhouse both as a member of the legendary group EXO and as a successful solo artist. His distinct vocal tone and emotional delivery have earned him critical acclaim and a dedicated following that spans across various continents.",
+          "Continuing to release solo material allows him to showcase his versatility as a performer outside of group activities. Each new drop further cements his status as a prominent figure in the contemporary music landscape."
+        ]
+      },
+      {
+        "h": "Previous Works And Acting Ventures",
+        "p": [
+          "In addition to his flourishing music career, Doh Kyung Soo is well known for his acting endeavors on both the small and large screens. Audiences can watch him in projects such as Secret: Untold Melody, showcasing his talents as a multi-faceted entertainer.",
+          "Balancing successful acting roles with his musical pursuits has allowed him to connect with audiences through multiple creative mediums, expanding his artistic footprint significantly over the years."
+        ]
+      },
+      {
+        "h": "Fan Reactions And Anticipation",
+        "p": [
+          "The music community has reacted with immense enthusiasm to the sudden comeback news, sharing updates and discussing the teasers across various social media platforms. The swift transition from announcement to release has amplified the excitement among supporters.",
+          "As the clock ticks down to November 11, anticipation continues to build for what promises to be a memorable addition to Doh Kyung Soo's growing solo discography."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "EXO member Doh Kyung Soo, also known as D.O., has announced his return with a new single titled Darling, slated for release on November 11 at 6 p.m. KST. The announcement was made on November 9 alongside the unveiling of the first concept teasers for the track."
+        ]
+      }
+    ],
+    "facts": [
+      "Doh Kyung Soo announced his new single on November 9 at midnight KST.",
+      "The single is titled Darling.",
+      "Darling will be released on November 11 at 6 p.m. KST.",
+      "Doh Kyung Soo stars in Secret: Untold Melody."
+    ],
+    "entities": {
+      "people": [
+        "Doh Kyung Soo"
+      ],
+      "titles": [
+        "Darling",
+        "Secret: Untold Melody"
+      ]
+    },
+    "keywords": [
+      "Doh Kyung Soo Darling",
+      "EXO D.O. November return",
+      "Darling music release",
+      "Doh Kyung Soo new single"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/09003942/Doh-Kyung-Soo.jpeg",
+        "caption": "EXO's Doh Kyung Soo (D.O.) Announces November Comeback With Teasers For Darling",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:41:31 +0000"
+  },
+  "qeewar": {
+    "id": "qeewar",
+    "type": "news",
+    "headline": "Ramayana Day 4 Worldwide Box Office Predictions Point Toward Huge Diwali Gains",
+    "dek": "Nitesh Tiwari's mythological epic starring Ranbir Kapoor, Sai Pallavi, and Yash aims for major milestones on its first Sunday and Diwali.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "Nitesh Tiwari's grand mythological feature film has quickly turned into a major focal point for box office discussions following an intensely scrutinized opening weekend. Built upon a reported budget of Rs 1,700 crore, the production drew massive attention prior to its release due to its ambitious scale and an ensemble cast featuring some of the biggest names in Indian cinema."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Performances",
+        "p": [
+          "The film features Ranbir Kapoor taking on the central role of Lord Ram, alongside Sai Pallavi as Sita and Yash stepping into the shoes of Raavan. Drawing inspiration from Valmiki's Ramayana, the expansive project also incorporates notable performances from Ravi Dubey, Sunny Deol, Anupam Kher, Lara Dutta, Arun Govil, Rakul Preet Singh, and Vivek Oberoi.",
+          "While the initial theatrical reception was varied, Yash's depiction of Raavan captured strong viewer appreciation, particularly for his commanding screen presence. Conversely, the computer-generated visual effects sparked online debates concerning whether the high production investment was fully reflected on screen."
+        ]
+      },
+      {
+        "h": "Box Office Trajectory Through the Weekend",
+        "p": [
+          "Opening below the anticipated Rs 80 crore mark globally, the feature experienced a slight dip on its second day before rebounding on its third day. Having accumulated Rs 387.25 crore in its first three days at the worldwide box office, the project faces a pivotal phase during the upcoming weekdays to sustain its momentum past initial curiosity."
+        ]
+      },
+      {
+        "h": "Day 4 Projections and Festival Milestones",
+        "p": [
+          "Riding on the festive occasion of Diwali, the movie is projected to see a substantial surge in numbers, positioning itself to enter the Rs 400 crore club and potentially approach the Rs 450 crore mark globally. Additionally, projections indicate it will surpass the Rs 200 crore milestone in overseas territories within just four days."
+        ]
+      },
+      {
+        "h": "Breakdown of Day 4 Collections",
+        "p": [
+          "By early evening on day four, which coincided with the first Sunday, the film amassed a collection of Rs 40.69 crore by 6 pm. This subtotal comprised Rs 27.99 crore from the Hindi version, Rs 5.57 crore from Kannada language screenings, Rs 4.71 crore from Telugu, and Rs 2.42 crore from Tamil, bringing the cumulative total to Rs 223.39 crore by 7 pm that evening."
+        ]
+      },
+      {
+        "h": "Cast Reactions and Endorsements",
+        "p": [
+          "Sunny Deol, who portrays Hanuman in the narrative, shared his personal endorsement of the project after viewing it. He expressed deep admiration for the final product, encouraging every Indian to experience it in theaters and asserting that the title stands shoulder-to-shoulder with Hollywood productions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has achieved a three-day worldwide total of Rs 387.25 crore and expects to cross Rs 400 crore to potentially touch Rs 450 crore globally by day four on Diwali. Backed by a stellar cast including Ranbir Kapoor, Sai Pallavi, and Yash, the feature has also drawn strong praise from co-star Sunny Deol as it continues its theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Budget is reported at Rs 1,700 crore.",
+      "First three days worldwide collection reached Rs 387.25 crore.",
+      "Day 4 collection reached Rs 40.69 crore by 6 pm, including Rs 27.99 crore in Hindi, Rs 5.57 crore in Kannada, Rs 4.71 crore in Telugu, and Rs 2.42 crore in Tamil.",
+      "Overall collection reached Rs 223.39 crore by 7 pm on day 4.",
+      "Cast members include Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, Sunny Deol, Anupam Kher, Lara Dutta, Arun Govil, Rakul Preet Singh, and Vivek Oberoi.",
+      "Director of the film is Nitesh Tiwari.",
+      "Story is inspired by Valmiki's Ramayana."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Lara Dutta",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ramayana Day 4 collection",
+      "Nitesh Tiwari Ramayana",
+      "Ranbir Kapoor Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday4feature-68631794149781.jpg",
+        "caption": "Ramayana Day 4 Worldwide Box Office Predictions Point Toward Huge Diwali Gains",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 20:28:21 +0530"
+  },
+  "1fxsx58": {
+    "id": "1fxsx58",
+    "type": "news",
+    "headline": "Jessica Chastain Supernatural Thriller Makes Digital Debut Following Theatrical Run",
+    "dek": "After completing a front-loaded month in cinemas, the supernatural horror film starring Jessica Chastain transitions to home viewing platforms this week.",
+    "body": [
+      {
+        "h": "The Digital Release and Theatrical Background",
+        "p": [
+          "The supernatural horror film starring Academy Award-winning actress Jessica Chastain is officially making its way to digital platforms this week. After spending nearly a full month in commercial cinemas, the 93-minute feature is concluding its initial theatrical rollout and shifting toward home entertainment options.",
+          "The movie first premiered on the big screen in October, opening with a domestic weekend haul of twenty-seven million dollars. Although that initial box-office figure outperformed the debut of DC's Clayface during the same period, the picture struggled to maintain momentum as its theatrical window progressed."
+        ]
+      },
+      {
+        "h": "Critical Reception and Commercial Performance",
+        "p": [
+          "Critical response to the supernatural project has been notably harsh, positioning it as a low point in Chastain's career within the horror genre. The film currently sits at a nineteen percent approval rating on Rotten Tomatoes, with critics describing the narrative as overly silly despite acknowledging the committed performance from its lead star.",
+          "Despite the negative critical consensus and front-loaded ticket sales, the feature has achieved solid global financial numbers. Produced on a modest budget of under twenty million dollars, the project has managed to accumulate approximately one hundred and fifteen million dollars worldwide."
+        ]
+      },
+      {
+        "h": "Comparisons to Past Horror Projects",
+        "p": [
+          "When placed alongside other horror ventures in Chastain's filmography, the movie's commercial standing presents a mixed picture. Her 2013 horror release Mama brought in nearly one hundred and fifty million dollars globally against a fifteen million dollar budget and currently holds a sixty-four percent score on Rotten Tomatoes.",
+          "Furthermore, Chastain previously collaborated with director Andy Muschietti on It: Chapter Two, which secured a sixty-two percent aggregator score. Her latest supernatural outing, however, stands as her weakest-performing horror entry from both a critical and commercial standpoint."
+        ]
+      },
+      {
+        "h": "Direction, Production, and Source Material",
+        "p": [
+          "The film was directed by Rob Savage, a filmmaker who gained widespread attention for acclaimed micro-budget horror projects during the pandemic era. Savage subsequently made his Hollywood studio debut with Stephen King's adaptation The Boogeyman, which starred Sophie Thatcher and grossed over eighty million dollars globally against a thirty-five million dollar budget.",
+          "The new project is based on the novel Incidents Around the House and boasts production backing from horror producer James Wan. The supporting cast features performances by Jay Duplass and Arian Moayed, alongside actors portraying various key roles in the supernatural tale."
+        ]
+      },
+      {
+        "h": "Cast and Character Details",
+        "p": [
+          "Jessica Chastain anchors the production in the role of the spectral embodiment of a smothering parent. Her character serves as the primary terrifying entity driving the supernatural narrative forward throughout the feature's runtime.",
+          "The broader cast includes Arabella Olivia Clark, Hayley Spelman, and Carrie Dimaculangan. Each performer contributes to the chilling atmosphere of the ninety-three-minute horror release."
+        ]
+      },
+      {
+        "h": "Upcoming Projects for Jessica Chastain",
+        "p": [
+          "Outside of her recent horror endeavors, Chastain maintains a busy schedule with several upcoming screen appearances. Well known for her critically acclaimed performances in Zero Dark Thirty, The Tree of Life, The Martian, and Interstellar, the actress continues to diversify her filmography.",
+          "She is set to headline the upcoming Netflix movie Heartland, which is scheduled for release on November 13. Meanwhile, her supernatural thriller arrives on the premium video-on-demand market alongside Brad Pitt's survival thriller Heart of the Beast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jessica Chastain's supernatural horror movie is transitioning to digital platforms following a front-loaded theatrical run that grossed one hundred and fifteen million dollars globally. Despite poor critical reviews, the Rob Savage-directed film outperformed early box-office expectations relative to its budget before arriving on home viewing platforms."
+        ]
+      }
+    ],
+    "facts": [
+      "Jessica Chastain stars in the supernatural thriller Other Mommy.",
+      "The film has a runtime of 93 minutes.",
+      "It opened domestically with $27 million in October 2026.",
+      "The production budget was under $20 million.",
+      "Global box-office earnings have reached approximately $115 million.",
+      "The Rotten Tomatoes score for the film is 19%.",
+      "The movie is directed by Rob Savage.",
+      "It is based on the novel Incidents Around the House and produced by James Wan.",
+      "The digital release date is set for November 10, 2026.",
+      "Jessica Chastain's upcoming Netflix movie Heartland releases on November 13, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jessica Chastain",
+        "Rob Savage",
+        "Andy Muschietti",
+        "Stephen King",
+        "Sophie Thatcher",
+        "James Wan",
+        "Jay Duplass",
+        "Arian Moayed",
+        "Arabella Olivia Clark",
+        "Hayley Spelman",
+        "Carrie Dimaculangan",
+        "Brad Pitt"
+      ],
+      "titles": [
+        "Clayface",
+        "The Boogeyman",
+        "Mama",
+        "It: Chapter Two",
+        "Incidents Around the House",
+        "Zero Dark Thirty",
+        "The Tree of Life",
+        "The Martian",
+        "Interstellar",
+        "Heartland",
+        "Other Mommy",
+        "Heart of the Beast"
+      ]
+    },
+    "keywords": [
+      "Other Mommy film",
+      "Jessica Chastain Other Mommy",
+      "Rob Savage horror movie",
+      "Other Mommy digital release",
+      "Incidents Around the House movie"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/other-mommy.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jessica Chastain Supernatural Thriller Makes Digital Debut Following Theatrical Run",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:00:12 GMT"
   }
 };
