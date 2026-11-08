@@ -1,8 +1,888 @@
 {
  "source": "google-rss",
- "checked_at": "2026-11-08T00:56:43.819651Z",
+ "checked_at": "2026-11-08T03:33:50.825171Z",
  "status": "ok",
  "items": [
+  {
+   "q": "james harden",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Fantasy adds, NBA bets to make for Friday: Cam Spencer, Saddiq Bey stand out",
+     "url": "https://www.espn.com/fantasy/basketball/story/_/id/50390776/fantasy-basketball-tips-nba-betting-picks-today"
+    },
+    {
+     "title": "Best NBA Props Today: 3 NBA Prop Bets for Friday, Nov. 6",
+     "url": "https://www.fanduel.com/research/nba-props-today-friday-nov-6"
+    },
+    {
+     "title": "Peter’s Points: NBA Best Bets Today (Predictions, Prop Bets for Luka Doncic, Trae Young, Celtics vs. Hornets)",
+     "url": "https://www.si.com/betting/nba-best-bets-today-predictions-prop-bets-for-luka-doncic-trae-young-celtics-vs-hornets"
+    }
+   ]
+  },
+  {
+   "q": "donovan mitchell",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "In Cleveland return, LeBron James struggles to find 'good rhythm' in 76ers' loss",
+     "url": "https://www.espn.com/nba/story/_/id/50405401/lebron-james-find-good-rhythm-cleveland-return"
+    },
+    {
+     "title": "LeBron's return to Cleveland highlights a new reality: Sixers' offense is a work in progress",
+     "url": "https://sports.yahoo.com/nba/article/lebrons-return-to-cleveland-highlights-a-new-reality-sixers-offense-is-a-work-in-progress-042550976.html"
+    },
+    {
+     "title": "Game Recap: Cavaliers 119, 76ers 95 (Nov. 6)",
+     "url": "https://www.nba.com/watch/video/game-recap-cavaliers-119-76ers-95-nov-6"
+    }
+   ]
+  },
+  {
+   "q": "pumas",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Pumas vs Club America LIVE, Score Updates, Liga MX Clasico Capitalino (1-1)",
+     "url": "https://www.vavel.com/en-us/soccer/2026/11/07/1278396-pumas-vs-club-america-live-score-updates-liga-mx-clasico-capitalino.html"
+    },
+    {
+     "title": "Nathan Silva Fires Up América vs. Pumas with a Bold Statement—What Did the Brazilian Say?",
+     "url": "https://www.soyfutbol.com/en/news/nathan-silva-fires-up-america-vs.-pumas-with-a-bold-statementwhat-did-the-brazilian-say-20261107-0023.html"
+    },
+    {
+     "title": "América vs. Pumas: The $83 million roster gap behind Mexico City’s biggest rivalry",
+     "url": "https://en.as.com/soccer/america-vs-pumas-the-83-million-roster-gap-behind-mexico-citys-biggest-rivalry-f202611-n/"
+    }
+   ]
+  },
+  {
+   "q": "jake guentzel",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Four Home Games Highlight UNO's Homecoming Weekend",
+     "url": "https://www.unomaha.edu/news/2026/11/four-home-games-highlight-unos-homecoming-weekend.php"
+    },
+    {
+     "title": "No. 20 forever: UNO retires Jake Guentzel's jersey at Baxter Arena",
+     "url": "https://omaha.com/sports/college/hockey/article_e0b7c2fe-cfe6-4424-819c-acd78ff87a93.html"
+    },
+    {
+     "title": "PHOTOS: Moments from Omaha hockey's battle with Huskies on homecoming night",
+     "url": "https://www.unothegateway.com/sports/photos-moments-from-omaha-hockeys-battle-with-huskies-on-homecoming-night/collection_a9599dfd-d19f-4405-901e-2d4e89bac1eb.html"
+    }
+   ]
+  },
+  {
+   "q": "strait of hormuz",
+   "traffic": "2000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+     "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation"
+    },
+    {
+     "title": "U.S. military carries out new limited strikes on Iran",
+     "url": "https://www.nbcnews.com/news/us-news/us-military-carries-new-targeted-strikes-iran-rcna607969"
+    },
+    {
+     "title": "Trump says US forces destroyed Iranian 'anti-aircraft device'",
+     "url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-07-26"
+    }
+   ]
+  },
+  {
+   "q": "nebraska volleyball",
+   "traffic": "5000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Oregon-Nebraska Match at MKA Sold Out",
+     "url": "https://goducks.com/news/2026/11/2/womens-volleyball-oregon-nebraska-match-at-mka-sold-out"
+    },
+    {
+     "title": "How to Watch No. 1 Nebraska Volleyball at No. 12 Oregon & No. 18 Washington with Previews, Breakdowns, TV Channel",
+     "url": "https://www.si.com/college/nebraska/volleyball/how-to-watch-no-1-nebraska-volleyball-at-no-12-oregon-no-18-washington-with-previews-breakdowns-tv-channel-2026"
+    },
+    {
+     "title": "VB Preview: at No. 12 Oregon & No. 18 Washington - University of Nebraska - Official Athletics Website",
+     "url": "https://huskers.com/news/2026/11/5/vb-preview-at-no-12-oregon-and-no-18-washington"
+    }
+   ]
+  },
+  {
+   "q": "bridget fonda",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Bridget Fonda spotted in rare LA outing 24 years after her final on-screen appearance",
+     "url": "https://www.foxnews.com/entertainment/bridget-fonda-spotted-rare-la-outing-24-years-after-final-screen-appearance"
+    },
+    {
+     "title": "Bridget Fonda Steps Out for Rare Appearance in Los Angeles 24 Years After Last Acting Role",
+     "url": "https://www.eonline.com/news/1437789/bridget-fonda-makes-rare-appearance-24-years-after-leaving-hollywood"
+    },
+    {
+     "title": "Bridget Fonda, 62, Makes Rare Appearance After Retiring From Acting 24 Years Ago",
+     "url": "https://www.instyle.com/bridget-fonda-makes-rare-appearance-24-years-retiring-acting-12237105"
+    }
+   ]
+  },
+  {
+   "q": "carson beck",
+   "traffic": "1000+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Could 49ers duo of DeForest Buckner and Nick Bosa unleash a Jeffery Simmons-like effect?",
+     "url": "https://www.sfchronicle.com/sports/49ers/article/buckner-bosa-49ers-defense-22516846.php"
+    },
+    {
+     "title": "Kyle Shanahan reveals thought process behind controversial decision to trade away DeForest Buckner",
+     "url": "https://sports.yahoo.com/articles/kyle-shanahan-reveals-thought-process-015241252.html"
+    },
+    {
+     "title": "Kyle Shanahan identifies 49ers' main challenges for Week 9 matchup vs. Raiders",
+     "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/kyle-shanahan-identifies-challenges-raiders/1977286/"
+    }
+   ]
+  },
+  {
+   "q": "bella hadid",
+   "traffic": "500+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Bella Hadid Looks Nearly Unrecognizable With Dramatic Bangs and Darkest Hair Color Yet",
+     "url": "https://www.instyle.com/bella-hadid-considers-dramatic-hair-change-halloween-wig-transformation-12237216"
+    },
+    {
+     "title": "Spotted on Hailey Bieber: The Polarizing Sneaker Trend That'll Be Everywhere in 2027",
+     "url": "https://www.whowhatwear.com/fashion/celebrity-style/nike-shox-sneakers-trend-hailey-bieber-2026"
+    },
+    {
+     "title": "Bella Hadid and Hailey Bieber Agree: These $180 Nike Sneakers Have Serious It-Girl Appeal",
+     "url": "https://www.marieclaire.com/fashion/celebrity-style/hailey-bieber-nike-shox-tl-sneakers-bella-hadid/"
+    }
+   ]
+  },
+  {
+   "q": "jase richardson",
+   "traffic": "200+",
+   "geo": "US",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=US",
+   "news": [
+    {
+     "title": "Magic's Jase Richardson: Slides to bench Saturday",
+     "url": "https://www.cbssports.com/fantasy/basketball/news/magics-jase-richardson-slides-to-bench-saturday/"
+    },
+    {
+     "title": "Jase Richardson is getting comfortable in a brighter spotlight",
+     "url": "https://orlandomagicdaily.com/jase-richardson-getting-comfortable-brighter-spotlight-01m69acgm9ar"
+    },
+    {
+     "title": "Jase Richardson News: Scores 10 points, adds four defensive stats",
+     "url": "https://www.rotowire.com/basketball/headlines/jase-richardson-news-scores-10-points-adds-four-defensive-stats-537812"
+    }
+   ]
+  },
+  {
+   "q": "sydney sixers vs sydney thunder",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "WBBL 2026 Match Predictions: Sydney Sixers vs Sydney Thunder and Perth Scorchers vs Melbourne Stars",
+     "url": "https://www.cricketworld.com/match-predictions-womens-big-bash-league-2026-sydney-sixers-w-vs-sydney-thunder-w-perth-scorchers-w-vs-melbourne-stars-w-november-8th/114242.htm"
+    },
+    {
+     "title": "SS-W vs ST-W 15th Match: Pitch Report, Player Stats & Form",
+     "url": "https://www.ai11.in/cricket/series/women-s-big-bash-league-2026-27/match/sydney-sixers-women-vs-sydney-thunder-women-15th-match-2026"
+    },
+    {
+     "title": "Sydney Sixers Women vs Sydney Thunder Women WBBL 2026 Match 15, Dream 11 Prediction Fantasy Cricket",
+     "url": "https://bdcrictime.com/sydney-sixers-women-vs-sydney-thunder-women-wbbl-2026-match-15-dream-11-prediction-fantasy-cricket"
+    }
+   ]
+  },
+  {
+   "q": "प्ले स्टोर",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "I downloaded the first third-party app store from Google Play, and I'm hopeful for what's next",
+     "url": "https://www.androidauthority.com/google-play-third-party-store-hands-on-3728227/"
+    },
+    {
+     "title": "Google’s New Android App Store Program Costs $10,000 a Year",
+     "url": "https://www.techrepublic.com/article/news-google-android-registered-app-stores-program/"
+    },
+    {
+     "title": "Android 17 QPR2 is required before you can install verified third-party app stores",
+     "url": "https://www.androidpolice.com/android-17-qpr2-requirement-before-you-can-install-third-party-app-stores/"
+    }
+   ]
+  },
+  {
+   "q": "suns vs rockets",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Injury report: Steven Adams, Clint Capela and more for Rockets vs. Suns",
+     "url": "https://rocketswire.usatoday.com/story/sports/nba/rockets/2026/11/07/injury-report-steven-adams-more-ahead-rockets-vs-suns/92661071007/"
+    },
+    {
+     "title": "11/07/2026 Suns vs Rockets Game Preview",
+     "url": "https://www.nba.com/suns/news/11-07-2026-suns-vs-rockets-game-preview"
+    },
+    {
+     "title": "Suns' Jordan Goodwin: Doubtful for Saturday",
+     "url": "https://www.cbssports.com/fantasy/basketball/news/suns-jordan-goodwin-doubtful-for-saturday/"
+    }
+   ]
+  },
+  {
+   "q": "trail blazers vs spurs",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Spurs-Trail Blazers injury report: No Ja Morant, Tobias Harris out, and more to know before tip",
+     "url": "https://airalamo.com/spurs-trail-blazers-injury-report-no-ja-morant-tobias-harris-out-and-more-to-know-before-tip"
+    },
+    {
+     "title": "San Antonio takes on Portland following Wembanyama's 52-point game against Sacramento",
+     "url": "https://news4sanantonio.com/news/local/san-antonio-takes-on-portland-following-wembanyamas-52-point-game-against-sacramento"
+    },
+    {
+     "title": "Trail Blazers focus on next heavyweights: Victor Wembanyama and Spurs",
+     "url": "https://www.fresnobee.com/sports/nba/article317974011.html"
+    }
+   ]
+  },
+  {
+   "q": "thunder vs wizards",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Thunder - Wizards LIVE. NBA latest updates",
+     "url": "https://www.marca.com/en/basket/nba/thunder-wizards/2026/11/08/02_0202_20261108_8960_7419-live.html"
+    },
+    {
+     "title": "Photos: Thunder vs. Wizards",
+     "url": "https://www.nba.com/thunder/photos/okcvswas-261107"
+    },
+    {
+     "title": "Thunder missing Chet Holmgren and Jalen Williams against Wizards in Wizards Vs Thunder back-to-back test",
+     "url": "https://twaslnews1.twaslnews.com/7287173/"
+    }
+   ]
+  },
+  {
+   "q": "निवेशक",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "धनतेरस पर एक साथ 3 धमाल: शेयर बाजार तूफानी रफ्तार से भागा, सोने-चांदी में बड़ी गिरावट; FII की हुई जोरदार वा",
+     "url": "https://www.indiatv.in/paisa/market/dhanteras-brings-triple-bonanza-for-investors-sensex-soars-1718-points-gold-silver-prices-crash-fiis-return-with-heavy-buying-2026-11-06-1253190"
+    },
+    {
+     "title": "सेंसेक्स 1700 अंक चढ़ा... भारतीय शेयर बाजार में लगातार 7वें दिन तूफानी तेजी, निफ्टी 25000 के पार",
+     "url": "https://www.aajtak.in/business/news/story/indian-share-market-sensex-nifty-gain-massively-7-days-rally-continue-fiis-buying-lower-crude-prices-boost-sentiment-dpmx-smsr-2689911-2026-11-06"
+    },
+    {
+     "title": "सेंसेक्स 81,000 पार, आज 1718 अंक चढ़ा: 7 दिन में 10% से ज्यादा की तेजी आई; अमेरिका, जापान, कोरिया के बाजार ...",
+     "url": "https://www.bhaskar.com/g/business/news/stock-market-live-sensex-nifty-update-japan-korea-market-crash-139608261.html"
+    }
+   ]
+  },
+  {
+   "q": "അശ്വന്ത് കോക്",
+   "traffic": "100+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "'രാമായണ' തരംഗത്തിൽ ഇന്ത്യ; കൊല്ലത്തിന്റെ മണ്ണിലെ ഈ അദ്ഭുതക്കാഴ്ച കാണാൻ തിരക്കേറുന്നു",
+     "url": "https://www.manoramaonline.com/travel/travel-news/2026/11/07/ramayan-movie-jatayu-sculpture.html"
+    },
+    {
+     "title": "എന്തൊരു ആർഭാടം! യാഷിന്റെ രാവണ സിംഹാസനത്തിന് ഒരു കോടി; രാകുലിന്റെ രഥത്തിന് 1.15 കോടി!",
+     "url": "https://malayalam.news18.com/news/film/yash-ravana-gold-throne-ramayana-movie-luxury-props-mm-794720.html"
+    },
+    {
+     "title": "രാജമൗലിയെ പോലെ ഓവറാക്കിയില്ല, 4000 കോടി കാണാനുണ്ട്, യഷിന്റെ രാവണൻ...: അശ്വന്ത് കോക്",
+     "url": "https://malayalam.filmibeat.com/trending/ramayana-is-absolute-visual-treat-with-good-performance-aswanth-kok-praises-the-movie-146077.html"
+    }
+   ]
+  },
+  {
+   "q": "பட்டாசு",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:00:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "தீபாவளிக்கு வெடிச்சு தள்ளுங்க அண்ணாமலை வேண்டுகோள் Annamalai| We The Leaders| Diwali Festival| fire",
+     "url": "https://www.dinamalar.com/videos/general-tamil-videos/annamalai-we-the-leaders-diwali-festival-fire-crackers-annamalai-video-festival-celebration-with-crackers/350166"
+    },
+    {
+     "title": "டெல்லி காற்று மாசு பிரச்னை: `பயிர்கள் மட்டுமல்ல, ஆடம்பர கார்களும் காரணம்..!'- உச்ச நீதிமன்றம்",
+     "url": "https://www.vikatan.com/government-and-politics/delhi-pollution-sc-calls-for-advance-stubble-procurement-prices"
+    },
+    {
+     "title": "வனத்தை ஒட்டிய பகுதிகளில் பட்டாசு வெடிக்கத் தடை",
+     "url": "https://www.dinamani.com/all-editions/edition-dharmapuri/salem/2026/Nov/07/ban-on-bursting-firecrackers-in-areas-adjacent-to-forests"
+    }
+   ]
+  },
+  {
+   "q": "gsw",
+   "traffic": "200+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:00:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "Gui Santos injury could erase Warriors’ biggest positive from Jimmy Butler’s absence",
+     "url": "https://bluemanhoop.com/gui-santos-injury-could-erase-warriors-biggest-positive-from-jimmy-butler-absence"
+    },
+    {
+     "title": "Gui Santos Back in the Lineup Saturday - NBA News | Fantasy Basketball",
+     "url": "https://www.rotoballer.com/player-news/gui-santos-back-in-the-lineup-saturday/1987061"
+    },
+    {
+     "title": "GSW starts Curry, Podz, Lendeborg, Santos, Green",
+     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-07/gsw-starts-curry-podz-lendeborg-santos-green"
+    }
+   ]
+  },
+  {
+   "q": "डेरिल मिशेल",
+   "traffic": "1000+",
+   "geo": "IN",
+   "trending_started_at": "2026-11-08T03:00:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
+   "news": [
+    {
+     "title": "डेरिल मिचेल ने रच दिया नया इतिहास, अर्धशतक लगाकर ध्वस्त किया 27 साल पुराना रिकॉर्ड",
+     "url": "https://www.indiatv.in/sports/cricket/daryl-mitchell-creates-history-breaks-27-year-old-record-of-most-odi-runs-against-india-in-calendar-year-2026-11-08-1253397"
+    },
+    {
+     "title": "विराट कोहली को पछाड़ डेरिल मिशेल बने नंबर-1, टॉप-5 में गिल-अय्यर; IND vs NZ वनडे सीरीज में सबसे ज्यादा रन",
+     "url": "https://www.livehindustan.com/cricket/daryl-mitchell-surpasses-virat-kohli-to-become-no-1-shubman-gill-shreyas-iyer-in-top-5-most-runs-in-ind-vs-nz-odi-series-201794097391636.html"
+    },
+    {
+     "title": "नंबर-1 बन गए डेरिल मिचेल, कछुए की चाल से अर्धशतक बनाकर भी तोड़ दिया 27 साल पुराना रिकॉर्ड",
+     "url": "https://hindi.news18.com/cricket/daryl-mitchell-breaks-record-of-most-odi-runs-for-new-zealand-against-india-in-a-calendar-year-10970187.html"
+    }
+   ]
+  },
+  {
+   "q": "pension",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T03:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Can I sell my house to my daughter for a reduced fee to avoid inheritance tax? | Money blog",
+     "url": "https://news.sky.com/story/money-personal-finance-consumer-pension-mortgage-inheritance-tax-live-latest-13040934"
+    },
+    {
+     "title": "France is in crisis over raising pension age to 64. This is the lesson for the UK",
+     "url": "https://inews.co.uk/news/world/france-crisis-raising-pension-age-uk-lesson-4854227"
+    },
+    {
+     "title": "Protests and reforms: France's rising debt costs threaten economic stability",
+     "url": "https://www.dw.com/en/amid-protests-frances-rising-debt-costs-threaten-stability/a-79865654"
+    }
+   ]
+  },
+  {
+   "q": "blackouts",
+   "traffic": "500+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T02:30:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
+    },
+    {
+     "title": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+     "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help"
+    },
+    {
+     "title": "Russia fires North Korean missiles at 'key' Ukrainian energy facility, Zelenskyy says",
+     "url": "https://www.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy-says"
+    }
+   ]
+  },
+  {
+   "q": "priscila cachoeira",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T02:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Priscila Cachoeira sofre nocaute e emplaca quarta derrota seguida no UFC",
+     "url": "https://www.espn.com.br/mma/ufc/artigo/_/id/17492142/priscila-cachoeira-sofre-nocaute-emplaca-quarta-derrota-seguida-ufc"
+    },
+    {
+     "title": "UFC Vegas 124: Pedrita luta e Tailandês é derrotado",
+     "url": "https://www.spacemoney.com.br/esportes/ufc-vegas-124-pedrita-milosevic-tailandes/"
+    },
+    {
+     "title": "Nina Milosevic Atropela Priscila Pedrita No UFC Vegas 124 E Amplia Crise Da Brasileira",
+     "url": "https://www.superlutas.com.br/noticias/381342/nina-milosevic-atropela-priscila-pedrita-no-ufc-vegas-124-amplia-crise-brasileira/"
+    }
+   ]
+  },
+  {
+   "q": "nina milosevic",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T01:40:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "UFC Vegas 124 highlight video: Nina Nikolija Milosevic completely dominates Priscila Cachoeira",
+     "url": "https://www.sherdog.com/videos/highlightreels/UFC-Vegas-124-highlight-video-Nina-Nikolija-Milosevic-completely-dominates-Priscila-Cachoeira-23934"
+    },
+    {
+     "title": "Nina Milošević Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker",
+     "url": "https://www.ufc.com/video/161747"
+    },
+    {
+     "title": "UFC Vegas 124 Highlights! Milosevic Smashes ‘Zombie Girl’ With Nasty TKO",
+     "url": "https://www.mmamania.com/ufc-paramount-plus-news-hub-fight-cards-schedule/484641/watch-ufc-vegas-124-video-highlights-results-paramount-milosevic-knockout-cachoeira"
+    }
+   ]
+  },
+  {
+   "q": "lucas fernando",
+   "traffic": "500+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T01:30:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Billy Elekana: 'I'm Trying To Be The Charles Oliveira Of Light Heavyweight' | UFC Fight Night: Cortes Acosta vs Walker",
+     "url": "https://www.ufc.com/video/161618"
+    },
+    {
+     "title": "Billy Elekana vs. Lucas Fernando prediction, pick, start time, odds for UFC Fight Night 293",
+     "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/07/billy-elekana-vs-lucas-fernando-ufc-vegas-124-prediction-expert-pick/92654191007/"
+    },
+    {
+     "title": "Billy Elekana wants to be UFC's next Charles Oliveira, targets twister",
+     "url": "https://www.sherdog.com/news/news/Billy-Elekana-wants-to-be-UFCs-next-Charles-Oliveira-targets-twister-203510"
+    }
+   ]
+  },
+  {
+   "q": "hawks vs nets",
+   "traffic": "100+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T01:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "LIVE DISCUSSION: Brooklyn Nets at Atlanta Hawks, 7:30 PM ET",
+     "url": "https://www.netsdaily.com/nets-discussion/115823/live-discussion-brooklyn-nets-atlanta-hawks-game-info-watch"
+    },
+    {
+     "title": "Gary Payton II (calf) upgraded to available Sat.",
+     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-07/gary-payton-ii-calf-upgraded-to-available-sat"
+    },
+    {
+     "title": "Buy Official Hawks vs Nets Tickets - Nov 7, 2026 | Hawks.com",
+     "url": "https://www.nba.com/hawks/tickets/games/2026-27/atlanta-hawks-vs-brooklyn-nets-atlanta-ga-tickets-11-07-2026"
+    }
+   ]
+  },
+  {
+   "q": "warriors vs magic",
+   "traffic": "1000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T01:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Magic vs Warriors LIVE, Score Updates in NBA Game (67-69)",
+     "url": "https://www.vavel.com/en-us/nba/2026/11/07/1278386-magic-vs-warriors-live-score-nba.html"
+    },
+    {
+     "title": "Desmond Bane Injury: Ruled out Saturday",
+     "url": "https://www.rotowire.com/basketball/headlines/desmond-bane-injury-ruled-out-saturday-538008"
+    },
+    {
+     "title": "Orlando Magic at Golden State Warriors: Game Preview",
+     "url": "https://orlandomagic.com/news/orlando-magic-golden-state-warriors-game-preview-injury-report-20261107"
+    }
+   ]
+  },
+  {
+   "q": "mitch raposo",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T01:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Marcos Tailandês cai para Mitch Raposo e estreia com derrota no UFC Vegas 124",
+     "url": "https://www.espn.com.br/mma/ufc/artigo/_/id/17491979/marcos-tailandes-cai-mitch-raposo-estreia-derrota-ufc-vegas-124"
+    },
+    {
+     "title": "Entrevista Pré-Luta com Marcos Degli | UFC Vegas 124",
+     "url": "https://www.ufc.com.br/video/161645"
+    },
+    {
+     "title": "Parceiro De Carlos Prates Decepciona E Estreia Com Derrota No UFC Vegas 124",
+     "url": "https://www.superlutas.com.br/noticias/381337/parceiro-carlos-prates-decepciona-estreia-derrota-ufc-vegas-124/"
+    }
+   ]
+  },
+  {
+   "q": "davey grant",
+   "traffic": "1000+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T01:00:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "'What a ride' - Meet the UFC's longest-serving Brit",
+     "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cw62ymmq3l41o"
+    },
+    {
+     "title": "UFC Veteran Still Making History at 40 Years Old",
+     "url": "https://www.si.com/fannation/mma/news/ufc-veteran-still-making-history-at-40-years-old"
+    },
+    {
+     "title": "Davey Grant’s 13-year UFC run leads to Elijah Smith fight — the long road to Las Vegas",
+     "url": "https://twaslnews1.twaslnews.com/7284396/"
+    }
+   ]
+  },
+  {
+   "q": "marcos degli",
+   "traffic": "200+",
+   "geo": "GB",
+   "trending_started_at": "2026-11-08T01:00:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
+   "news": [
+    {
+     "title": "Marcos Degli vs. Mitch Raposo prediction, pick, start time, odds for UFC Fight Night 293",
+     "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/07/marcos-degli-vs-mitch-raposo-ufc-vegas-124-prediction-expert-pick/92653347007/"
+    },
+    {
+     "title": "Mitch Raposo Octagon Interview | UFC Fight Night: Cortes Acosta vs Walker",
+     "url": "https://www.ufc.com/video/161688"
+    },
+    {
+     "title": "UFC Betting Picks: Raposo vs. Degli & Grant vs. Smith",
+     "url": "https://sports.yahoo.com/videos/ufc-betting-picks-raposo-vs-122149034.html"
+    }
+   ]
+  },
+  {
+   "q": "china",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T03:00:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Australian lobster, wine and goat meat draw crowds at CIIE as exporters eye bigger China market",
+     "url": "https://www.globaltimes.cn/page/202611/1373851.shtml"
+    },
+    {
+     "title": "Cambodia hails China's import expo as key platform for open trade, global cooperation",
+     "url": "https://www.chinadaily.com.cn/a/202611/08/WS6aefcfbee4b03ebf8519b184.html"
+    },
+    {
+     "title": "CIIE showcases innovations shaping the future of industry",
+     "url": "https://news.cgtn.com/news/2026-11-07/CIIE-showcases-innovations-shaping-the-future-of-industry-1RS9d1KCIlG/p.html"
+    }
+   ]
+  },
+  {
+   "q": "usman khawaja sandpapergate",
+   "traffic": "200+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T02:50:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Khawaja says he has thrown nobody 'under the bus'",
+     "url": "https://www.abc.net.au/news/2026-11-08/usman-khawaja-defends-timing-of-sandpaper-revelations/107360744"
+    },
+    {
+     "title": "Cam Bancroft: WA coach Beau Casson says opener will ‘let his bat do the talking’ amid sandpaper storm",
+     "url": "https://thewest.com.au/sport/cricket/cam-bancroft-wa-coach-beau-casson-says-opener-will-let-his-bat-do-the-talking-amid-sandpaper-storm-c-23131540"
+    },
+    {
+     "title": "‘Not right’: World reacts to cricket bombshell",
+     "url": "https://www.news.com.au/sport/cricket/this-is-not-right-world-reacts-to-aussie-cricket-sandpaper-bombshell/news-story/33a730cd4644058e3e075fef02f4c13e"
+    }
+   ]
+  },
+  {
+   "q": "v8 supercars schedule today",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T02:50:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "LIVE UPDATES: Follow the 2026 Sandown Supercars action",
+     "url": "https://www.supercars.com/news/2026-sandown-500-supercars-live-coverage-blog-tickets-dates-race-times-results-updates-timing-news"
+    },
+    {
+     "title": "Payne claims all important pole in Sandown semi-final",
+     "url": "https://www.theaustralian.com.au/sport/motorsport/matt-payne-claims-sandown-pole-as-rivals-will-brown-and-cam-waters-falter/news-story/7e7821d5adf89269f9506044172961ae"
+    },
+    {
+     "title": "Triple Eight star 'gutted' as Kostecki makes big dance",
+     "url": "https://www.canberratimes.com.au/story/9387464/triple-eight-star-gutted-as-kostecki-makes-big-dance/"
+    }
+   ]
+  },
+  {
+   "q": "jason taumalolo rugby league world cup",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T02:30:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Tonga's two most influential figures meet fork in road",
+     "url": "https://www.canberratimes.com.au/story/9387558/tongas-two-most-influential-figures-meet-fork-in-road/"
+    },
+    {
+     "title": "'Sad for him': Tributes flow after star's career at World Cup comes to likely end",
+     "url": "https://au.news.yahoo.com/tributes-flow-after-beloved-nrl-stars-career-at-rugby-league-world-cup-comes-to-likely-end-203616262.html"
+    },
+    {
+     "title": "He was called a ‘traitor’. But one phone call and $47k sacrifice changed rugby league",
+     "url": "https://www.foxsports.com.au/nrl/world-cup/rugby-league-world-cup-2026-how-jason-taumalolo-transformed-tonga-rugby-league-defection-from-new-zealand/news-story/4e381f5d14d34b763770a13267e4079d"
+    }
+   ]
+  },
+  {
+   "q": "japan earthquake today",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T02:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Strong earthquake shakes central Japan, shattering store windows and injuring at least 22",
+     "url": "https://apnews.com/article/earthquake-japan-170119b720b08d9f40028e5bc40feb17"
+    },
+    {
+     "title": "Strong earthquake shakes central Japan, injuring at least 22",
+     "url": "https://www.latimes.com/world-nation/story/2026-11-07/strong-earthquake-shakes-central-japan-injuring-at-least-22"
+    },
+    {
+     "title": "M5.7 quake strikes central Japan; over 20 injured",
+     "url": "https://japantoday.com/category/national/m5.7-quake-strikes-central-japan-over-20-injured"
+    }
+   ]
+  },
+  {
+   "q": "bug hall",
+   "traffic": "100+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T02:20:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Ex-child star asks for money to fund 6th kid",
+     "url": "https://www.news.com.au/entertainment/celebrity-life/little-rascals-star-bug-hall-launches-fundraiser-to-pay-off-a-few-bills/news-story/89eefd4b9f96f0ee014febf6833686bf"
+    },
+    {
+     "title": "‘Times are hard’: Former child star pleads for financial help ahead of sixth child’s birth",
+     "url": "https://www.nine.com.au/entertainment/celebrity/little-rascals-star-brandon-bug-hall-seeks-financial-help-ahead-of-sixth-child-20261108-p61cby.html"
+    },
+    {
+     "title": "Little Rascals star Brandon ‘Bug’ Hall’s plea after moving to new home",
+     "url": "https://www.realestate.com.au/news/little-rascals-star-brandon-bug-halls-plea-after-moving-to-new-home/"
+    }
+   ]
+  },
+  {
+   "q": "trail blazers vs spurs",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T02:10:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Game Preview: San Antonio Spurs vs. Portland Trail Blazers",
+     "url": "https://www.poundingtherock.com/spurs-game-previews/109612/game-preview-san-antonio-spurs-vs-portland-trail-blazers"
+    },
+    {
+     "title": "San Antonio Spurs @ Portland Trail Blazers Odds",
+     "url": "https://sportsbook.fanduel.com/basketball/nba/san-antonio-spurs-@-portland-trail-blazers-36282779"
+    },
+    {
+     "title": "BLAZERS POSTCAST: Spurs-Blazers Reaction",
+     "url": "https://www.centraloregondaily.com/sports/portland_trail_blazers/blazers-postcast-spurs-blazers-reaction/video_f888a1a9-9ce0-5fb1-994a-a6bbc9012bf8.html"
+    }
+   ]
+  },
+  {
+   "q": "finks motorcycle club",
+   "traffic": "500+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T01:50:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Finks gut Comanchero ranks as bikies gun for elite gang status",
+     "url": "https://www.dailytelegraph.com.au/news/national/patched-over-the-finks-are-poaching-senior-comanchero-bikies-as-they-aim-to-become-australias-biggest-outlaw-club/news-story/76fa713c16dcccaee801468393d14f1c"
+    },
+    {
+     "title": "Police expand operation targeting Melbourne arsons and extortion",
+     "url": "https://www.abc.net.au/news/2026-11-06/vic-police-expand-arson-extortion-taskforce-phoenix/107353740"
+    },
+    {
+     "title": "Watch 9News Latest Stories - Season 2026 - Melbourne crime crackdown | 9 News Australia",
+     "url": "https://www.9now.com.au/9news-latest-news/season-2026/clip-cmw4nkfxh00020hqpjq4d5tf2"
+    }
+   ]
+  },
+  {
+   "q": "netflix",
+   "traffic": "2000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T01:30:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Netflix’s Best Returning Show Lands With A 92% Rotten Tomatoes Score",
+     "url": "https://www.forbes.com/sites/paultassi/2026/11/06/netflixs-best-returning-show-lands-with-a-92-rotten-tomatoes-score/"
+    },
+    {
+     "title": "Keira Knightley and the return of Black Doves: ‘I enjoy playing power-crazed’",
+     "url": "https://www.thetimes.com/culture/tv-radio/article/keira-knightley-on-black-doves-there-is-violence-in-women-s0br96rnf"
+    },
+    {
+     "title": "Black Doves review – Ben Whishaw, Keira Knightley and Sarah Lancashire are spine-tinglingly good",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/05/black-doves-review-keira-knightley-ben-whishaw"
+    }
+   ]
+  },
+  {
+   "q": "housing",
+   "traffic": "1000+",
+   "geo": "AU",
+   "trending_started_at": "2026-11-08T01:30:00Z",
+   "observed_at": "2026-11-08T03:33:50.825171Z",
+   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
+   "news": [
+    {
+     "title": "Australians push to ban floodway housing, two thirds reject premium hikes",
+     "url": "https://www.realestate.com.au/news/australians-push-to-ban-floodway-housing-two-thirds-reject-premium-hikes/"
+    },
+    {
+     "title": "Insurance unaffordable for flooded homes almost two years on from disaster",
+     "url": "https://www.abc.net.au/news/2026-11-02/ingham-hinchinbrook-insurance-premium-unaffordable-expensive/107323438"
+    },
+    {
+     "title": "Legal Aid still ready to help people on the east cost of NSW affected by the 2025 floods",
+     "url": "https://nambuccavalley.newsofthearea.com.au/legal-aid-still-ready-to-help-people-on-the-east-cost-of-nsw-affected-by-the-2025-floods"
+    }
+   ]
+  },
   {
    "q": "magic vs warriors",
    "traffic": "10000+",
@@ -1299,886 +2179,6 @@
     {
      "title": "IPL 2027 से पहले हार्दिक-अर्शदीप की ट्रेड डील कंफर्म, BCCI लगाएगा मुहर",
      "url": "https://www.abplive.com/sports/ipl/hardik-pandya-arshdeep-singh-trade-deal-bcci-confirmation-awaited-mumbai-indians-punjab-kings-ipl-2027-reports-3212320"
-    }
-   ]
-  },
-  {
-   "q": "dolly parton",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:30:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Dolly Parton's manager drops lawsuit against her nephew",
-     "url": "https://www.bbc.com/news/articles/cmkgekz0r0v9o"
-    },
-    {
-     "title": "Dolly Parton's estate moves to dismiss lawsuit against nephew",
-     "url": "https://abcnews.com/GMA/Culture/dolly-partons-estate-moves-dismiss-lawsuit-nephew/story?id=137897385"
-    },
-    {
-     "title": "Dolly Parton’s estate moves to drop lawsuit against nephew Bryan Seaver",
-     "url": "https://globalnews.ca/news/12139968/dolly-partons-estate-drop-lawsuit-against-bryan-seaver/"
-    }
-   ]
-  },
-  {
-   "q": "sergio perez brazilian gp penalties",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:30:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Sao Paulo Grand Prix: Max Verstappen, Lewis Hamilton and Charles Leclerc to have grid penalties",
-     "url": "https://www.bbc.co.uk/sport/formula1/articles/c574p28devp4o"
-    },
-    {
-     "title": "Hamilton set for further grid penalty in Sao Paulo",
-     "url": "https://www.formula1.com/en/latest/article/hamilton-set-to-start-at-back-of-the-grid-after-further-penalty-ahead-of-sao-paulo-grand-prix.5SFs44M6cNSDvUBCWE9FWZ"
-    },
-    {
-     "title": "F1 2026 Brazilian Grand Prix starting grid with five penalties",
-     "url": "https://www.the-race.com/formula-1/f1-2026-brazilian-grand-prix-starting-grid-with-four-penalties-copy/"
-    }
-   ]
-  },
-  {
-   "q": "joanna lumley",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:20:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Murder accused claimed woman found in freezer was alive",
-     "url": "https://www.bbc.co.uk/news/articles/c9e8lelm8k8ro"
-    },
-    {
-     "title": "Man killed 'soulmate' and kept body in freezer with her guinea pigs for almost three years, court told",
-     "url": "https://www.independent.co.uk/news/uk/crime/george-gordon-delia-mcinerney-freezer-murder-guinea-pigs-st-helens-b3079195.html"
-    },
-    {
-     "title": "Friendly giant 'murdered soul mate with hammer and kept her in freezer for three years'",
-     "url": "https://www.dailystar.co.uk/news/latest-news/friendly-giant-murdered-soul-mate-37849993"
-    }
-   ]
-  },
-  {
-   "q": "uk polar vortex winter snow prep",
-   "traffic": "10000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:10:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "The polar vortex is weakening unusually early. Here's what that could mean for the weather.",
-     "url": "https://www.yahoo.com/news/weather-news/article/the-polar-vortex-is-weakening-unusually-early-heres-what-that-could-mean-for-the-weather-172644197.html"
-    },
-    {
-     "title": "A record-early polar vortex reversal is possible. What could that mean for Connecticut?",
-     "url": "https://www.ctinsider.com/weather/article/polar-votex-connecticut-winter-el-nino-ssw-climate-22516314.php"
-    },
-    {
-     "title": "Is next 'Beast from the East' about to hit Britain?",
-     "url": "https://news.sky.com/video/is-next-beast-from-the-east-about-to-hit-britain-13608394"
-    }
-   ]
-  },
-  {
-   "q": "tom hanks",
-   "traffic": "1000+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:10:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Tom Hanks called this 95% Rotten Tomatoes show ‘one of the greatest things’ he’s ever watched (hint: It’s not ‘Breaking Bad,’ ‘GOT’ or ‘The Sopranos)",
-     "url": "https://parade.com/entertainment/tom-hanks-called-this-95-rotten-tomatoes-show-one-of-the-greatest-things-hes-ever-watched-hint-its-not-breaking-bad-got-or"
-    },
-    {
-     "title": "In SNL’s Halloween cold open, Trump’s compliments of men are butt of jokes",
-     "url": "https://www.washingtonpost.com/entertainment/tv/2026/11/01/snl-halloween-cold-open-makes-trump-comments-butt-jokes/"
-    },
-    {
-     "title": "‘SNL’ Cold Open: Trump Crashes Tom Hanks’ Halloween to Praise His ‘Great Ass’",
-     "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-trump-crashes-tom-hanks-halloween-praise-1235650886/"
-    }
-   ]
-  },
-  {
-   "q": "gulf war",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:00:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Gulf War veteran pours memories of war into ceramic cups",
-     "url": "https://www.shawlocal.com/my-suburban-life/thank-you/veterans/2026/11/07/gulf-war-veteran-pours-memories-of-war-into-ceramic-cups/"
-    },
-    {
-     "title": "Crude gains on worries about renewed US attacks on Iran",
-     "url": "https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/"
-    },
-    {
-     "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy",
-     "url": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb"
-    }
-   ]
-  },
-  {
-   "q": "dwayne johnson",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:00:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "'Medusa' Movie In Works From 'Tangled' Writer, Seven Bucks",
-     "url": "https://deadline.com/2026/11/medusa-movie-tangled-writer-seven-bucks-1237215809/"
-    },
-    {
-     "title": "Disney Taps 'Tangled Remake' Writer for Medusa Movie",
-     "url": "https://gizmodo.com/a-medusa-movie-isssssssss-coming-from-disney-2000836426"
-    },
-    {
-     "title": "Michael Montemayor writing first draft of Disney’s live-action Medusa film",
-     "url": "https://mezha.net/eng/news/mezha-ad01856ba6dcde7d9d43ba59_michael_montemayor_writing/"
-    }
-   ]
-  },
-  {
-   "q": "joran van der sloot",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T22:00:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "5 biggest revelations in Netflix's disturbing new Natalee Holloway documentary",
-     "url": "https://www.independent.co.uk/bulletin/culture/netflix-taken-natalee-holloway-where-now-b3079812.html"
-    },
-    {
-     "title": "Natalee Holloway killer's life in prison — inmate feuds, death threats & a BABY",
-     "url": "https://www.thesun.co.uk/news/40929879/natalee-holloway-joran-van-der-sloot-marriage-baby/"
-    },
-    {
-     "title": "Netflix drops harrowing new series leaving viewers with 'full body chills'",
-     "url": "https://www.ok.co.uk/tv/netflix-drops-harrowing-new-series-37851524"
-    }
-   ]
-  },
-  {
-   "q": "pacers vs nuggets",
-   "traffic": "200+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T21:50:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "How to watch Nuggets vs. Pacers: TV channel and streaming options for November 7",
-     "url": "https://www.nytimes.com/athletic/7761756/2026/11/07/nuggets-vs-pacers-stream-how-to-watch-nov-7/"
-    },
-    {
-     "title": "NBA expands presence in Mexico, franchise not in immediate plans — Channel NewsAsia",
-     "url": "https://ua.news/en/dovkolo-svitu/nba-naroshchuie-prisutnist-u-meksitsi-franshiza-ne-v-naiblizhchikh-planakh-channel-newsasia"
-    },
-    {
-     "title": "Licensable picture: Denver Nuggets prepare ahead of NBA Mexico City Game",
-     "url": "https://www.reutersconnect.com/item/denver-nuggets-prepare-ahead-of-nba-mexico-city-game/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwUU0wM1ky"
-    }
-   ]
-  },
-  {
-   "q": "cardiff city versus burnley game halted",
-   "traffic": "500+",
-   "geo": "GB",
-   "trending_started_at": "2026-11-07T21:40:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=GB",
-   "news": [
-    {
-     "title": "Cardiff City v Burnley halted as players and fans gesture to the stands",
-     "url": "https://www.walesonline.co.uk/sport/football/football-news/cardiff-city-v-burnley-halted-34879053"
-    },
-    {
-     "title": "Championship game halted as medics urgently summoned by players to attend fan in stands",
-     "url": "https://www.thesun.co.uk/sport/40870206/championship-medics-fan-wolves-cardiff-jose-sa/"
-    },
-    {
-     "title": "Championship match stopped suddenly for incident as players scream for help",
-     "url": "https://www.dailystar.co.uk/sport/football/championship-match-stopped-suddenly-incident-37830324"
-    }
-   ]
-  },
-  {
-   "q": "psg vs estac troyes standings",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:40:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Parisian delight as capital clubs head Ligue 1 standings.",
-     "url": "https://www.reuters.com/sports/soccer/parisian-delight-capital-clubs-head-ligue-1-standings-2026-11-07/"
-    },
-    {
-     "title": "Lyon and Paris FC win while Marseille continue to improve",
-     "url": "https://www.channelnewsasia.com/sport/lyon-and-paris-fc-win-while-marseille-continue-improve-6511591"
-    },
-    {
-     "title": "OL vs Angers - Highlights",
-     "url": "https://www.tapmad.com/watch/ol-vs-angers-highlights/13420270"
-    }
-   ]
-  },
-  {
-   "q": "dylan douglas",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:40:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Michael Douglas Supported by Son Dylan, 26, and Daughter Carys, 23, as He Receives Award at N.Y.C. Gala",
-     "url": "https://people.com/michael-douglas-kids-dylan-26-and-carys-23-support-as-he-receives-award-12242200"
-    },
-    {
-     "title": "Carys and Dylan Douglas Look Just Like Catherine Zeta-Jones in Rare Red Carpet Appearance With Dad Michael",
-     "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/carys-dylan-douglas-look-just-153208320.html"
-    },
-    {
-     "title": "Michael Douglas’s Son Dylan, 26, Looks Taller Than His Dad During Rare Red Carpet Outing With Sister Carys, 23",
-     "url": "https://www.instyle.com/michael-douglas-rare-red-carpet-appearance-kids-dylan-carys-12237854"
-    }
-   ]
-  },
-  {
-   "q": "economy",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:40:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-     "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis"
-    },
-    {
-     "title": "What the election results could mean for gas prices, groceries, and health insurance",
-     "url": "https://finance.yahoo.com/personal-finance/banking/article/what-the-election-results-could-mean-for-gas-prices-groceries-and-health-insurance-202352479.html"
-    },
-    {
-     "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
-     "url": "https://www.bbc.com/news/articles/ck1ex50x5q46o"
-    }
-   ]
-  },
-  {
-   "q": "seokhyeon ko",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:40:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Prediction, pick for Seokhyeon Ko vs. Wellington Turman at UFC Vegas 124",
-     "url": "https://dknetwork.draftkings.com/2026/11/07/prediction-pick-for-seokhyeon-ko-vs-wellington-turman-at-ufc-vegas-124/"
-    },
-    {
-     "title": "\"Even gave up our honeymoon\": Ko Suk-hyun, \"My motivation is exceptional, my mental state is at its peak...\" Passes UFC weigh-in",
-     "url": "https://www.starnewskorea.com/en/sports/2026/11/07/2026110712551329786"
-    },
-    {
-     "title": "Seokhyeon Ko: 'I'm Definitely Going To Knock Him Out' | UFC Fight Night: Cortes Acosta vs Walker",
-     "url": "https://www.ufc.com/video/161630"
-    }
-   ]
-  },
-  {
-   "q": "mantas kondratavičius",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:30:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Andre Petroski vs. Mantas Kondratavicius prediction, odds, pick for UFC Vegas 124",
-     "url": "https://sports.yahoo.com/articles/andre-petroski-vs-mantas-kondratavicius-160436972.html"
-    },
-    {
-     "title": "Mantas Kondratavicius v Andre Petroski Odds",
-     "url": "https://sportsbook.fanduel.com/mma/ufc-matches/mantas-kondratavicius-v-andre-petroski-36273698"
-    },
-    {
-     "title": "Prediction, pick for Mantas Kondratavicius vs. Andre Petroski at UFC Vegas 124",
-     "url": "https://dknetwork.draftkings.com/2026/11/07/prediction-pick-for-mantas-kondratavicius-vs-andre-petroski-at-ufc-vegas-124/"
-    }
-   ]
-  },
-  {
-   "q": "canada",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:30:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Federal budget's lack of Métis-specific funding concerns Métis leaders",
-     "url": "https://www.cbc.ca/news/indigenous/budget-mmf-mnc-afn-itk-9.7413041"
-    },
-    {
-     "title": "NAFC Welcomes Budget 2026 Investments and Opportunities to Strengthen Support for Urban Indigenous Peoples",
-     "url": "https://finance.yahoo.com/economy/policy/articles/nafc-welcomes-budget-2026-investments-235000098.html"
-    },
-    {
-     "title": "Canada's 2026 federal budget sets out $50 billion for Indigenous communities over 10 years",
-     "url": "https://dailyhive.com/vancouver/canada-2026-federal-budget-indigenous-communities"
-    }
-   ]
-  },
-  {
-   "q": "john malkovich",
-   "traffic": "200+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:10:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead",
-     "url": "https://www.theguardian.com/culture/2026/nov/07/going-out-staying-in-wild-horse-nine-kings-of-leon"
-    },
-    {
-     "title": "Malkovich arguably never been better than he is in this movie",
-     "url": "https://www.canberratimes.com.au/story/9385678/martin-mcdonagh-film-wild-horse-9-delivers-an-oscar-contender/"
-    },
-    {
-     "title": "Martin McDonagh has been telling the same story for years. Is the joke wearing thin?",
-     "url": "https://www.theaustralian.com.au/culture/martin-mcdonagh-has-been-telling-the-same-story-for-years-is-the-joke-wearing-thin/news-story/23535a6fe8baa24570daa2e8032c6669"
-    }
-   ]
-  },
-  {
-   "q": "victoria barracks",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:10:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Controversial sale of Sydney's Victoria Barracks scrapped",
-     "url": "https://www.abc.net.au/news/2026-11-08/federal-politics-pm-scraps-sale-of-victoria-barracks-defence/107360530"
-    },
-    {
-     "title": "Victoria Barracks sale abandoned following backlash",
-     "url": "https://www.smh.com.au/politics/federal/victoria-barracks-sale-abandoned-following-backlash-20261108-p61cb1.html"
-    },
-    {
-     "title": "Hold the fort: PM retreats on sale of Victoria Barracks",
-     "url": "https://www.dailytelegraph.com.au/news/nsw/victoria-barracks-sale-scrapped-after-fierce-backlash-over-selloff-of-historic-sydney-base/news-story/02a652cc4ddff02122bb80b2568852df"
-    }
-   ]
-  },
-  {
-   "q": "chaz mostert cam waters clash",
-   "traffic": "500+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:10:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Supercars news: The Finals Series standings after Sandown 500 opener",
-     "url": "https://speedcafe.com/supercars-news-2026-sandown-500-finals-series-points-standings-kostecki-victory/"
-    },
-    {
-     "title": "Will Brown has spun out!",
-     "url": "https://www.cairnspost.com.au/sport/motorsport/will-brown-has-spun-out/video/1b81b8502c51f8a7c9baaf83694dca5e"
-    },
-    {
-     "title": "Triple Eight star 'gutted' as Kostecki makes big dance",
-     "url": "https://www.singletonargus.com.au/story/9387464/triple-eight-star-gutted-as-kostecki-makes-big-dance/"
-    }
-   ]
-  },
-  {
-   "q": "singer",
-   "traffic": "100+",
-   "geo": "AU",
-   "trending_started_at": "2026-11-07T22:10:00Z",
-   "observed_at": "2026-11-07T23:00:58.502706Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=AU",
-   "news": [
-    {
-     "title": "Lorde Then & Now: See Photos of the Singer Through the Years",
-     "url": "https://hollywoodlife.com/pics/lorde-then-now-photos/"
-    },
-    {
-     "title": "Band of Heathens' Gordy Quist Reveals Stage 3 Colorectal Cancer Diagnosis",
-     "url": "https://alt987fm.iheart.com/content/2026-11-05-band-of-heathens-gordy-quist-reveals-stage-3-colorectal-cancer-diagnosis/"
-    },
-    {
-     "title": "Texas Rock Singer Diagnosed With Colon Cancer After Screening",
-     "url": "https://www.survivornet.com/articles/band-of-heathens-gordy-quist-colonoscopy-colorectal-cancer/"
-    }
-   ]
-  },
-  {
-   "q": "kelsey mitchell",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:30:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Indiana Fever's Defensive Woes Should Cement Kelsey Mitchell's Future",
-     "url": "https://www.si.com/wnba/fever/indiana-fever-s-defensive-woes-should-cement-kelsey-mitchell-s-future-01m6v9b8630d"
-    },
-    {
-     "title": "Sophie Cunningham, Angel Reese Send Clear Message to Indiana Fever’s Kelsey Mitchell",
-     "url": "https://athlonsports.com/wnba/sophie-cunningham-angel-reese-send-clear-message-to-indiana-fever-kelsey-mitchell"
-    },
-    {
-     "title": "‘(Caitlin Clark) Will Be Better Without Her,’ ‘Would Love To See Her Back’ — WNBA Fans Divided Over Linda Cohn’s Take on Kelsey Mitchell’s Free Agency",
-     "url": "https://www.aol.com/articles/caitlin-clark-better-without-her-075022000.html"
-    }
-   ]
-  },
-  {
-   "q": "eastern wa vs idaho",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:20:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Why Idaho’s Che-Scow Cup matchup with Eastern Washington could define its late-season push — Eastern Washington Vs Idaho",
-     "url": "https://twaslnews1.twaslnews.com/7283001/"
-    },
-    {
-     "title": "How EWU can earn first road win at Idaho since 2012 | Things to watch",
-     "url": "https://www.spokesman.com/stories/2026/nov/06/how-ewu-can-earn-first-road-win-at-idaho-since-201/"
-    },
-    {
-     "title": "Vandals to Host Rolling Hills Rival Eagles in Battle for the Che-Scow Cup",
-     "url": "http://govandals.com/story.aspx?filename=football-vandals-to-host-rolling-hills-rival-eagles-in-battle-for-the-che-scow-cup&file_date=11/4/2026"
-    }
-   ]
-  },
-  {
-   "q": "northern az vs cal poly",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:20:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Arizona 104-84 Cal Poly (Nov 5, 2026) Game Recap",
-     "url": "https://www.espn.com/mens-college-basketball/recap/_/gameId/401909739"
-    },
-    {
-     "title": "What Tommy Lloyd, Caleb Holt and Cameron Holmes said after win over Cal Poly",
-     "url": "https://www.azdesertswarm.com/basketball/85218/arizona-wildcats-mens-basketball-tommy-lloyd-caleb-holt-cameron-holmes-cal-poly-post-game-big12-2026"
-    },
-    {
-     "title": "Tommy Lloyd, Caleb Holt, and Cameron Holmes break down No. 5 Arizona vs. Cal Poly",
-     "url": "https://247sports.com/college/arizona/article/arizona-wildcats-mens-basketball-cal-poly-mustangs-tommy-lloyd-caleb-holt-cameron-holmes-postgame-quotes-2026-27-292239240/"
-    }
-   ]
-  },
-  {
-   "q": "dakorien moore",
-   "traffic": "500+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:20:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Wide Receiver Dakorien Moore discusses their motivation for the last stretch of the season",
-     "url": "https://sports.yahoo.com/videos/wide-receiver-dakorien-moore-discusses-155645248.html"
-    },
-    {
-     "title": "Wide Receiver Dakorien Moore discusses his growth as a player",
-     "url": "https://sports.yahoo.com/videos/wide-receiver-dakorien-moore-discusses-202236670.html"
-    },
-    {
-     "title": "Ohio State injury report: 8 players ruled out for Oregon game",
-     "url": "https://www.10tv.com/article/sports/football/ohio-state-football/ohio-state-oregon-injury-report-2026/530-86fdb2d3-f99e-493b-836f-b5788795d237"
-    }
-   ]
-  },
-  {
-   "q": "california great america closing 2027",
-   "traffic": "1000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:20:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Great America theme park in Santa Clara confirms farewell season in 2027",
-     "url": "https://www.cbsnews.com/sanfrancisco/news/great-america-theme-park-santa-clara-2027-farewell-season-six-flags/"
-    },
-    {
-     "title": "California's Great America to finally close after more than 50 years",
-     "url": "https://www.sfgate.com/disneyland/article/california-great-america-closure-22517433.php"
-    },
-    {
-     "title": "Historic California Theme Park Closing Permanently After More Than Half a Century in Business",
-     "url": "https://people.com/historic-california-theme-park-closing-permanently-after-more-than-half-century-in-business-12242210"
-    }
-   ]
-  },
-  {
-   "q": "gio lopez",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:20:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Wake Forest’s Heisman hopeful QB Gio Lopez ruled out for Week 10 clash",
-     "url": "https://sports.yahoo.com/articles/wake-forest-heisman-hopeful-qb-160853411.html"
-    },
-    {
-     "title": "Watch Jake Dickert talk about Gio Lopez' injury",
-     "url": "https://journalnow.com/video/sports/video_23105038-43dd-5dbd-9ceb-fcdf9636a130.html"
-    },
-    {
-     "title": "Wake Forest will wait for news on its “heart and soul”",
-     "url": "https://www.on3.com/sites/deacons-illustrated/news/wake-forest-will-wait-for-news-on-its-heart-and-soul/"
-    }
-   ]
-  },
-  {
-   "q": "boeing 737 max",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:20:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "The Boeing 737 MAX: A preventable disaster",
-     "url": "https://www.designworldonline.com/the-boeing-737-max-a-preventable-disaster/"
-    },
-    {
-     "title": "Allegiant Air To Expand Fleet, Exercises Options For 6 New Boeing 737 MAX 8s Worth $720 Million",
-     "url": "https://simpleflying.com/allegiant-air-expand-fleet-exercises-options-6-new-boeing-737-max-8s/"
-    },
-    {
-     "title": "Allegiant Says MAX 7 Seat Cost ‘Loses Pace’",
-     "url": "https://airlinegeeks.com/2026/11/05/allegiant-says-max-7-seat-cost-loses-pace/"
-    }
-   ]
-  },
-  {
-   "q": "austin bashi",
-   "traffic": "200+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:20:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Fury FC champ steps in on 4 days' notice for UFC debut",
-     "url": "https://www.sherdog.com/news/news/Fury-FC-champ-steps-in-on-4-days-notice-for-UFC-debut-203501"
-    },
-    {
-     "title": "UFC Vegas 124 adds replacement fighter on 4 days’ notice",
-     "url": "https://www.mmafighting.com/ufc/519393/ufc-vegas-124-adds-replacement-fighter-on-4-days-notice"
-    },
-    {
-     "title": "Carlos Calderon vs Austin Bashi Prediction for UFC",
-     "url": "https://ats.io/matchup/ufc/carlos-calderon-vs-austin-bashi-prediction-07-11-2026/"
-    }
-   ]
-  },
-  {
-   "q": "lanorris sellers",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:10:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "LaNorris Sellers injury: South Carolina QB exits first half vs. Texas A&M after sack",
-     "url": "https://www.cbssports.com/college-football/news/lanorris-sellers-injury-updates-south-carolina-qb-texas-a-m/"
-    },
-    {
-     "title": "LaNorris Sellers leaves South Carolina-Texas A&M game with apparent injury",
-     "url": "https://www.thestate.com/sports/college/university-of-south-carolina/usc-football/article317976654.html"
-    },
-    {
-     "title": "Gamecocks' LaNorris Sellers injured in second quarter against Texas A&M",
-     "url": "https://www.postandcourier.com/sports/carolina/gamecocks-texas-am-injury-lanorris-sellers-hurt-season-ending/article_2a0fa69a-4b25-40ee-9bdd-a212d336608c.html"
-    }
-   ]
-  },
-  {
-   "q": "luke fahey",
-   "traffic": "2000+",
-   "geo": "US",
-   "trending_started_at": "2026-11-07T21:10:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=US",
-   "news": [
-    {
-     "title": "Ohio State to stick with Luke Fahey at quarterback vs. Oregon",
-     "url": "https://www.espn.com/college-football/story/_/id/50370894/ohio-state-stick-luke-fahey-quarterback-vs-oregon"
-    },
-    {
-     "title": "How Ryan Day plans to fix Ohio State's broken support system around Luke Fahey",
-     "url": "https://scarletandgame.com/how-ryan-day-plans-to-fix-ohio-state-s-broken-support-system-around-luke-fahey"
-    },
-    {
-     "title": "Former Ohio State QB CJ. Stroud Knows this Team is Going to Continue to Fight",
-     "url": "https://sports.yahoo.com/articles/former-ohio-state-qb-cj-170037279.html"
-    }
-   ]
-  },
-  {
-   "q": "கடன்",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T21:30:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "‘கடன் உத்தரவாத திட்டத்துக்கு கூடுதல் நிதி தேவை’ குறுந்தொழில்கள் கூட்டமைப்பு கோரிக்கை",
-     "url": "https://www.dinamalar.com/news/business-general-news/micro-small-and-medium-enterprises-federation-demands-additional-funding-for-loan-guarantee-scheme/4370654"
-    },
-    {
-     "title": "கடன் திட்டம் ! ஸ்டார்ட்அப் நிறுவனங்களுக்கு ரூ.20 கோடி வரை கடன் உத்தரவாதம்",
-     "url": "https://www.dinamalar.com/news/business-general-news/credit-scheme--loan-guarantee-up-to-rs-20-crores-for-startups/4366530"
-    },
-    {
-     "title": "அனைத்து விவசாயிகளுக்கும் பயிர்க்கடன் ரூ.75,000 தள்ளுபடி..!",
-     "url": "https://www.polimernews.com/tamilnadunews/crop-loans-up-to-rs-75000-waived-for-all-farmers-12791839"
-    }
-   ]
-  },
-  {
-   "q": "from",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T21:30:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Tom Brady’s property moves from Boston to Miami: A look at the real estate decisions behind the seven-tim",
-     "url": "https://timesofindia.indiatimes.com/sports/nfl/news/tom-bradys-property-moves-from-boston-to-miami-a-look-at-the-real-estate-decisions-behind-the-seven-time-champions-next-chapter/articleshow/135637551.cms"
-    },
-    {
-     "title": "Tom Brady and Gisele Bündchen turned a $4.5 million land purchase into a $39.5 million mansion before lis",
-     "url": "https://timesofindia.indiatimes.com/sports/nfl/news/tom-brady-and-gisele-bndchen-turned-a-4-5-million-land-purchase-into-a-39-5-million-mansion-before-listing-it-in-2019/articleshow/135536430.cms"
-    },
-    {
-     "title": "In 2013, Tom Brady and Gisele Bundchen bought chestnut hill land for 4.5 million; six years later they listed the mansion there for 39.5 million",
-     "url": "https://athlonsports.com/nfl/trending/tom-brady-gisele-bundchen-new-england-patriots-brookline-mansion-sale"
-    }
-   ]
-  },
-  {
-   "q": "ligue 1",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T21:10:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Ligue 1 : le Paris FC domine Auxerre et grimpe à la deuxième place",
-     "url": "https://www.footmercato.net/a5035629240078003501-ligue-1-le-paris-fc-domine-auxerre-et-grimpe-a-la-deuxieme-place"
-    },
-    {
-     "title": "L1 : le classement provisoire",
-     "url": "https://www.maxifoot.fr/ligue-1/le-classement-provisoire-foot-467288.htm"
-    },
-    {
-     "title": "« De la frustration et de la déception » : les réactions après AJA-Paris FC (0-1)",
-     "url": "https://www.lyonne.fr/auxerre-89000/sports/de-la-frustration-et-de-la-deception-les-reactions-apres-aja-paris-fc-0-1_15077522/"
-    }
-   ]
-  },
-  {
-   "q": "रणबीर कपूर",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T21:10:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Ranbir Kapoor और Yash की 'रामायण' ने बॉक्स ऑफिस पर रचा इतिहास",
-     "url": "https://www.aajtak.in/short-videos/video/ramayana-movie-box-office-collection-day-one-ranbir-kapoor-yash-film-earns-64-crore-india-opening-mmta-2689778-2026-11-06"
-    },
-    {
-     "title": "2000 करोड़ की रामायण पार्ट-1 की कमाई 200 करोड़ पार: अनुमान से 25 करोड़ कम, एक्सपर्ट बोले- धुरंधर का रिकॉर्ड...",
-     "url": "https://www.bhaskar.com/g/entertainment/bollywood/news/ramayana-part-1-ranbir-kapoor-box-office-collection-analysis-future-139620547.html"
-    },
-    {
-     "title": "'रामायण' ने बॉक्स ऑफिस पर 48 घंटे में रचा इतिहास, पठान-पुष्पा 2 वाली खास लिस्ट में बनाई",
-     "url": "https://hindi.news18.com/photogallery/entertainment/bollywood-ramayana-box-office-worldwide-collection-more-than-220-crore-day-2-creates-history-within-48-hours-spot-on-list-alongside-pathaan-pushpa-2-10969864.html"
-    }
-   ]
-  },
-  {
-   "q": "real madrid",
-   "traffic": "5000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T20:50:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Valencia - Real Madrid, en directo: LaLiga EA Sports, hoy en vivo",
-     "url": "https://as.com/futbol/primera/valencia-real-madrid-en-directo-laliga-ea-sports-hoy-en-vivo-f202611-d/"
-    },
-    {
-     "title": "El día que Javier Aguirre venció a Mourinho en el Bernabéu: así ha sido su rivalidad",
-     "url": "https://www.clarosports.com/futbol/laliga/el-dia-que-javier-aguirre-vencio-a-mourinho-en-el-bernabeu-asi-ha-sido-su-rivalidad/"
-    },
-    {
-     "title": "Partidos de hoy de fútbol: horario y dónde ver por TV",
-     "url": "https://www.mundodeportivo.com/horarios/futbol/20261107/1004248097/partidos-hoy-futbol-horario-ver-tv.html"
-    }
-   ]
-  },
-  {
-   "q": "west indies vs england lions scorecard",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T20:50:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "WI-A vs LIONS Cricket Scorecard, 3rd unofficial T20I at Basseterre, November 04, 2026",
-     "url": "https://www.cricinfo.com/series/england-lions-in-west-indies-2026-27-1558806/west-indies-a-vs-england-lions-3rd-unofficial-t20i-1558811/full-scorecard"
-    },
-    {
-     "title": "WIA vs ENGA, 3rd T20, England Lions tour of West Indies, 2026 - Commentary",
-     "url": "https://www.cricbuzz.com/live-cricket-scores/176485/wia-vs-enga-3rd-t20-england-lions-tour-of-west-indies-2026"
-    },
-    {
-     "title": "All-round Rehan stars as Lions complete T20 sweep of West Indies A",
-     "url": "https://www.cricinfo.com/series/england-lions-in-west-indies-2026-27-1558806/west-indies-a-vs-england-lions-3rd-unofficial-t20i-1558811/match-report"
-    }
-   ]
-  },
-  {
-   "q": "jude bellingham",
-   "traffic": "1000+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T20:50:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Why Cole Palmer is on notice in Tuchel's new-look England: 'The competition is on'",
-     "url": "https://www.espn.in/football/story/_/id/50399038/cole-palmer-thomas-tuchel-england"
-    },
-    {
-     "title": "'A beautiful story' as Bellingham brothers called up",
-     "url": "https://www.bbc.com/sport/football/articles/c5x2vvjy2rpeo"
-    },
-    {
-     "title": "Alonso reveals the behind-the-scenes details of the crisis over Palmer's exclusion from the England squad",
-     "url": "https://www.goal.com/en-in/news/alonso-reveals-the-behind-the-scenes-details-of-the-crisis-over-palmer-s-exclusion-from-the-england-squad/blt7bc211f41b0a2654"
-    }
-   ]
-  },
-  {
-   "q": "apple tv",
-   "traffic": "100+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T20:50:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Russell Crowe & Leonardo DiCaprio’s Forgotten Spy Action Thriller Explodes Back Onto Streaming",
-     "url": "https://www.imdb.com/news/ni66095479/?ref_=nmnw_art_perm"
-    },
-    {
-     "title": "Russell Crowe and Leonardo DiCaprio’s CIA Thriller Officially Hits Apple TV",
-     "url": "https://collider.com/body-of-lies-streaming-apple-tv-november-2026/"
-    },
-    {
-     "title": "In Just 1 Day, Ridley Scott's 128-Minute DiCaprio Action Thriller Officially Takes Over Streaming",
-     "url": "https://movieweb.com/body-of-lies-dicaprio-action-thriller-stream-november-2026/"
-    }
-   ]
-  },
-  {
-   "q": "arda güler",
-   "traffic": "200+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T20:40:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Statistikat e jashtëzakonshme të Mourinhos në “Mestalla”, kundër Valencias",
-     "url": "https://reporteri.net/tr/Spor/Mourinho%27nun-Valencia-kar%C5%9F%C4%B1s%C4%B1nda-Mestalla%27daki-ola%C4%9Fan%C3%BCst%C3%BC-istatistikleri/"
-    },
-    {
-     "title": "Trent Alexander-Arnold kulübeden izlerken sağ bekte görev yapan Fede Valverde, Real Madrid adına müthiş bir gol attı",
-     "url": "https://www.goal.com/tr/haber/trent-alexander-arnold-kulubeden-izlerken-sag-bekte-gorev-yapan-fede-valverde-real-madrid-adina-muthis-bir-gol-atti/bltfb88c0afe791fe3b"
-    },
-    {
-     "title": "Mestalla'da Arda Güler şov! Real Madrid'in yeni lideri durdurulamıyor",
-     "url": "https://www.fanatik.com.tr/real-madrid/galeri-mestallada-arda-guler-sov-real-madridin-yeni-lideri-durdurulamiyor-2643771"
-    }
-   ]
-  },
-  {
-   "q": "viral videos",
-   "traffic": "500+",
-   "geo": "IN",
-   "trending_started_at": "2026-11-07T20:30:00Z",
-   "observed_at": "2026-11-07T21:52:10.185658Z",
-   "feed_url": "https://trends.google.com/trending/rss?geo=IN",
-   "news": [
-    {
-     "title": "Indian Tourists Spread Newspaper, Eat On Vietnam Airport Floor. Video Goes Viral",
-     "url": "https://www.ndtv.com/travel/indian-tourists-spread-newspaper-eat-on-vietnam-airport-floor-video-goes-viral-12296446"
-    },
-    {
-     "title": "Indian tourists turn Vietnam airport into 'Bhandara' spot; Internet says, 'Hamara nikalna band karwa deng",
-     "url": "https://timesofindia.indiatimes.com/etimes/trending/indian-tourists-turn-vietnam-airport-into-bhandara-spot-internet-says-hamara-nikalna-band-karwa-denge-ye-log-poore-duniya-mein-desh-ko-badnaam-karo/articleshow/135630913.cms"
-    },
-    {
-     "title": "Indian Tourists Organise 'Bhandara' At Vietnam Airport; Internet Says 'Poore Duniya Mai Desh Ko Badnaam Kar",
-     "url": "https://www.news18.com/viral/indian-tourists-organise-bhandara-at-vietnam-airport-internet-says-poore-duniya-mai-desh-ko-badnaam-karo-ws-l-10416449.html"
     }
    ]
   }

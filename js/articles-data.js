@@ -82837,5 +82837,387 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-08T00:51:31Z"
+  },
+  "1m4148f": {
+    "id": "1m4148f",
+    "type": "news",
+    "headline": "'Ramayana: Rise of a Legend' Experiences Strong Saturday Growth Across Theaters",
+    "dek": "The mythological drama starring Ranbir Kapoor, Yash, and Sai Pallavi witnesses a significant 45.3% revenue jump on its third day, pushing its global gross past Rs 375 crore.",
+    "body": [
+      {
+        "h": "Box Office Recovery and Revenue Surge",
+        "p": [
+          "The theatrical run of the mythological drama witnessed a notable resurgence during the weekend, pulling in impressive numbers on Saturday. Industry trackers reported a substantial 45.3 percent increase in earnings compared to the previous day, reflecting renewed audience enthusiasm across multiple regions.",
+          "With widespread screenings spanning tens of thousands of shows nationwide, the feature managed to comfortably surpass the significant domestic net milestone during its opening weekend window, driven heavily by strong viewer turnouts."
+        ]
+      },
+      {
+        "h": "Domestic and Global Earnings Breakdown",
+        "p": [
+          "Accumulating figures compiled over the first three days indicate a domestic net total that crossed the Rs 180 crore threshold. Meanwhile, domestic gross earnings added further weight to the domestic tally, while international markets contributed significantly to the overall financial performance.",
+          "Driven by robust pre-sales and strong overseas demand, the worldwide gross collection climbed impressively, crossing the Rs 375 crore mark within just three days of theatrical release."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance and Regional Dominance",
+        "p": [
+          "The Hindi version served as the primary revenue engine, capturing the lion's share of cumulative domestic net earnings while maintaining a prominent footprint across thousands of screens. Regional markets also played a vital role, with Kannada, Telugu, Tamil, and Malayalam versions pulling in steady contributions.",
+          "Audience occupancy rates varied widely across languages, with southern regional language screenings recording particularly high viewer turnouts during evening and night slots, highlighting the pan-Indian appeal of the project."
+        ]
+      },
+      {
+        "h": "Occupancy Trends in 2D and 3D Formats",
+        "p": [
+          "The cinematic release offered multiple viewing formats, with 3D variants in particular drawing robust crowds as the weekend progressed. Afternoon and evening shows consistently recorded peak occupancies, demonstrating sustained momentum throughout the day.",
+          "Regional 3D screenings demonstrated exceptionally high theatre filling capacities, frequently crossing impressive occupancy benchmarks during prime evening and night performance schedules."
+        ]
+      },
+      {
+        "h": "Comparative Analysis With 'Animal'",
+        "p": [
+          "When stacked against previous high-profile releases, the film's trajectory drew inevitable comparisons to the blockbuster drama directed by Sandeep Reddy Vanga. While the earlier film maintained a distinct lead in domestic net earnings at the corresponding three-day milestone, the newer epic surpassed it significantly in worldwide gross figures.",
+          "Analyzing average earnings per screening revealed that the earlier feature commanded higher returns per individual show, though the mythological drama compensated through a much wider multi-language release footprint and stronger international pull."
+        ]
+      },
+      {
+        "h": "Mythological Background and Narrative Focus",
+        "p": [
+          "Drawing from deeply embedded cultural traditions, the cinematic adaptation revisits the enduring narrative of Prince Rama and his adversaries. The initial installment focuses specifically on the formative years of the righteous heir to Ayodhya's throne.",
+          "This contemporary retelling aims to reintroduce classic themes of duty and heroism to modern audiences through grand visual spectacles and extensive theatrical distribution."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend experienced a 45.3% jump in earnings on its third day, bringing its worldwide gross to Rs 375.50 crore. While Hindi remained the top contributing language, the film trailed Ranbir Kapoor's Animal in domestic net collections at the same stage."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend released its third-day box office figures on November 8, 2026.",
+      "The film stars Ranbir Kapoor, Yash, and Sai Pallavi, and is directed by Nitesh Tiwari.",
+      "On Saturday, the film registered an India net collection of Rs 69.80 crore across 23,696 shows, marking a 45.3% increase.",
+      "Worldwide gross collection reached Rs 375.50 crore within its first three days.",
+      "India net total reached Rs 182.70 crore, with domestic gross at Rs 218.25 crore and overseas gross at Rs 157.25 crore.",
+      "Hindi version generated Rs 53 crore from 19,927 shows, contributing 74.4% of domestic net earnings.",
+      "Kannada contributed Rs 6.30 crore, Telugu collected Rs 6 crore, Tamil added Rs 2.50 crore, and Malayalam brought in Rs 2 crore.",
+      "Animal collected Rs 71.46 crore on its third day, accumulating a total India net of Rs 201.53 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Sandeep Reddy Vanga"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Yash Sai Pallavi",
+      "Ramayana box office collection day 3",
+      "Ramayana vs Animal box office"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135649311,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Ramayana: Rise of a Legend' Experiences Strong Saturday Growth Across Theaters",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T06:24:05+05:30"
+  },
+  "hnh6aw": {
+    "id": "hnh6aw",
+    "type": "news",
+    "headline": "Why Netflix Series Territory Outshines Modern Western Epics",
+    "dek": "Exploring how the Australian outback drama Territory delivers a deeply layered successor to modern ranch tales with a rich narrative and nuanced female characters.",
+    "body": [
+      {
+        "h": "A New Frontier in Rural Drama",
+        "p": [
+          "While Taylor Sheridan’s prominent ranch chronicle has long dominated discussions about rural land empires, the global streaming catalog offers a formidable alternative. Situated deep within the harsh Australian outback, the narrative shifts away from familiar American backdrops to examine a different breed of pastoral dominion. Here, human adversaries prove just as perilous as the unforgiving wilderness surrounding them.",
+          "At the center of this gripping six-episode saga lies a generational cattle enterprise that has remained in family hands for decades. The production weaves a complex tapestry of human ambition, familial strife, and external pressures, establishing a distinct identity that sets it apart from traditional Western storytelling tropes."
+        ]
+      },
+      {
+        "h": "The Battle for Marianne Station",
+        "p": [
+          "The plot revolves around Marianne Station, located in the Northern Territory and managed by an aging and uncompromising patriarch named Colin Lawson. Portrayed with weathered intensity by Robert Taylor, Colin harbors a deep-seated resentment toward Emily Lawson, his eldest son's wife, whose background as the daughter of cattle thieves makes her an outsider in his eyes.",
+          "Much like its American counterparts, the story is catalyzed by a sudden tragedy when Daniel Lawson passes away unexpectedly. This catastrophic loss throws the future of the sprawling cattle station into total disarray, forcing the leadership to navigate a perilous vacuum of power while external rivals circle hungrily."
+        ]
+      },
+      {
+        "h": "Complex Succession and Internal Conflict",
+        "p": [
+          "Daniel’s untimely death upends the planned line of succession, leaving Colin with difficult choices regarding who should inherit the vast property. The patriarch must weigh his options between an alcoholic son named Graham and a reluctant grandson, Marshall, who wishes to distance himself entirely from the family legacy.",
+          "Meanwhile, Emily believes she possesses the sharpness and capability required to steer Marianne Station into the future. However, bridging the bitter ideological divide between herself and Colin proves to be an uphill battle, especially with competing factions looking to exploit any sign of familial weakness."
+        ]
+      },
+      {
+        "h": "Moving Beyond One-Dimensional Female Roles",
+        "p": [
+          "A common criticism leveled against contemporary rural dramas involves the limited framing of female figures, who are often defined strictly by their relationships to the male protagonists. In contrast, this streaming production rejects single-note characterizations, allowing its women to occupy multiple dimensions simultaneously.",
+          "Emily combines formidable managerial intellect with vulnerable personal flaws, while her daughter Susie transitions from a naive university graduate to a capable hand learning the demanding ropes of ranch life. Additionally, figures like Keeley Redford act as vocal advocates for local communities, striving to secure necessary resources and opportunities."
+        ]
+      },
+      {
+        "h": "Themes of Grief and Indigenous Representation",
+        "p": [
+          "Beyond the immediate family drama, the series touches upon broader societal tensions, including generational grief, the encroachment of greedy corporate entities, and the vital presence of Indigenous groups. These threads are woven organically into the overarching narrative rather than treated as superficial background elements.",
+          "The respectful integration of Aboriginal communities gives the production a distinct cultural authenticity, ensuring that the struggles depicted reflect the complex socio-economic realities of the region rather than relying on generalized cinematic shortcuts."
+        ]
+      },
+      {
+        "h": "Elevating the Western Genre",
+        "p": [
+          "By refusing to shy away from moral ambiguity, the show elevates itself above standard genre conventions. The bitter rivalries and high-stakes negotiations are grounded in realistic human motivations, making the triumphs and tragedies feel thoroughly earned.",
+          "Audiences seeking a fresh take on the classic ranch power struggle will find that this Australian venture offers a compelling masterclass in tension, character development, and atmospheric storytelling that rivals the biggest names in television."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix series Territory presents an Australian outback drama focusing on the Lawson family and Marianne Station following a sudden family death. The narrative explores complex succession struggles and multidimensional female characters, offering a compelling alternative to traditional rural Westerns."
+        ]
+      }
+    ],
+    "facts": [
+      "Territory is a six-episode Western thriller on Netflix.",
+      "The series is set in Australia's Northern Territory.",
+      "Robert Taylor plays Colin Lawson.",
+      "Anna Torv plays Emily Lawson.",
+      "Michael Dorman plays Graham Lawson.",
+      "Jake Ryan plays Daniel Lawson.",
+      "Sam Corlett plays Marshall Lawson.",
+      "Philippa Northeast plays Susie.",
+      "Sara Wiseman plays Sandra Kirby."
+    ],
+    "entities": {
+      "people": [
+        "Robert Taylor",
+        "Anna Torv",
+        "Michael Dorman",
+        "Jake Ryan",
+        "Sam Corlett",
+        "Philippa Northeast",
+        "Sara Wiseman",
+        "Taylor Sheridan"
+      ],
+      "titles": [
+        "Territory",
+        "Yellowstone"
+      ]
+    },
+    "keywords": [
+      "Territory Netflix series",
+      "Colin Lawson Territory",
+      "Marianne Station Australia",
+      "Anna Torv Territory"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/06/yellowstone-kevin-costner.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Netflix Series Territory Outshines Modern Western Epics",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 01:41:12 GMT"
+  },
+  "1f2tbw0": {
+    "id": "1f2tbw0",
+    "type": "news",
+    "headline": "Mammootty Makes Tamil Cinema Comeback After Seven Years With OM",
+    "dek": "Veteran star Mammootty returns to Tamil films with OM, featuring Dhanush and Sai Pallavi, directed by Rajkumar Periasamy.",
+    "body": [
+      {
+        "h": "The Long-Awaited Tamil Return",
+        "p": [
+          "Legendary actor Mammootty is preparing for a significant comeback to Tamil cinema following a seven-year absence. His return comes in the upcoming film titled OM, which boasts a stellar cast including Dhanush and Sai Pallavi.",
+          "The project has already captured considerable attention from movie enthusiasts, particularly because it brings together multiple powerhouse performers under the direction of Rajkumar Periasamy."
+        ]
+      },
+      {
+        "h": "A Glimpse Into the Plot",
+        "p": [
+          "During the pre-release event for the movie, Mammootty shared insights regarding the structure of the narrative without giving away any major spoilers. He noted that the feature contains several interconnected storylines.",
+          "Among these narrative threads are the experiences of ordinary people residing in the hills, alongside distinct plotlines dedicated to the characters played by Sai Pallavi and Dhanush."
+        ]
+      },
+      {
+        "h": "Praise for Co-Stars",
+        "p": [
+          "The veteran actor expressed deep admiration for his younger colleagues, joking that he attended the production hoping to pick up a few acting tips from them. He specifically highlighted Sai Pallavi's highly expressive performance style.",
+          "Additionally, Mammootty lauded Dhanush's work in the project, predicting that the central role will yield one of the most remarkable performances of Dhanush's career."
+        ]
+      },
+      {
+        "h": "Tone and Atmosphere",
+        "p": [
+          "Even though Mammootty delivered an entertaining and lighthearted speech at the promotional gathering, he clarified that the film itself carries a very serious and emotionally intense tone.",
+          "He assured the audience that the picture would leave a lasting emotional imprint, famously remarking that the narrative is designed to touch the skin of the viewers."
+        ]
+      },
+      {
+        "h": "Production and Background Details",
+        "p": [
+          "OM is classified as an action thriller set against a forest backdrop and is inspired by real-life incidents. The storyline reportedly features a dramatic rain-soaked forest sequence where Dhanush comes to the rescue of local woodcutters.",
+          "Alongside the main trio, the supporting cast includes Sreeleela and Naseeruddin Shah in pivotal parts. Financial backing for the venture comes from Wunderbar Films and R Take Studios."
+        ]
+      },
+      {
+        "h": "Release Information",
+        "p": [
+          "Fans waiting to see the veteran actor back on the big screen in a Tamil-language project will not have to wait much longer. The theatrical rollout is locked in for a worldwide release on November 20, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mammootty is returning to Tamil cinema after a seven-year gap in the upcoming action thriller OM, directed by Rajkumar Periasamy. Co-starring Dhanush and Sai Pallavi, the film is set for a worldwide theatrical release on November 20, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Mammootty is returning to Tamil cinema after seven years with OM.",
+      "The film features Dhanush and Sai Pallavi.",
+      "OM is directed by Rajkumar Periasamy.",
+      "OM is scheduled to release in theatres worldwide on November 20, 2026.",
+      "The film is produced by Wunderbar Films and R Take Studios.",
+      "Sreeleela and Naseeruddin Shah star in pivotal roles."
+    ],
+    "entities": {
+      "people": [
+        "Mammootty",
+        "Dhanush",
+        "Sai Pallavi",
+        "Rajkumar Periasamy",
+        "Sreeleela",
+        "Naseeruddin Shah"
+      ],
+      "titles": [
+        "OM"
+      ]
+    },
+    "keywords": [
+      "Mammootty OM film",
+      "Dhanush Sai Pallavi OM",
+      "OM Tamil movie release date",
+      "Rajkumar Periasamy OM"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156477761,thumbsize-244245,width-1280,height-720,resizemode-75/156477761.jpg",
+        "caption": "Mammootty Makes Tamil Cinema Comeback After Seven Years With OM",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T01:51:47Z"
+  },
+  "1okrdqe": {
+    "id": "1okrdqe",
+    "type": "news",
+    "headline": "Kim Ji Won's 'Doctor X: Mafia in White' Surpasses 20 Percent Peak Viewership",
+    "dek": "The SBS Friday-Saturday medical noir series crosses the 20 percent milestone for the first time during its tenth episode.",
+    "body": [
+      {
+        "h": "Hitting the Milestone",
+        "p": [
+          "The SBS Friday-Saturday drama 'Doctor X: Mafia in White' has reached a major milestone by exceeding the 20 percent threshold for the very first time. Nielsen Korea data indicates that the tenth episode of the series achieved a peak minute rating of 20.2 percent during its broadcast.",
+          "While the average nationwide and Seoul metropolitan rating settled at 17.7 percent for the full episode, the remarkable surge in its peak viewership underscores the growing interest among audiences tuning into the network."
+        ]
+      },
+      {
+        "h": "Significant Jump from Previous Episodes",
+        "p": [
+          "The latest figures represent a substantial recovery from the preceding weeks. Episode 10 jumped 2.4 percentage points compared to the 15.3 percent recorded by episode 9, and climbed 2.1 points over the 15.6 percent drawn by episode 8 the week prior.",
+          "This upward movement halts a recent cooling trend and brings fresh momentum to the program as it approaches the final stretch of its broadcast schedule on SBS."
+        ]
+      },
+      {
+        "h": "Dominating the Time Slot",
+        "p": [
+          "Beyond individual episode gains, the show continues to maintain a commanding presence across the television landscape. It captured the No. 1 spot in its designated time slot.",
+          "Furthermore, the series secured the top position among all programs across every channel for the fifth consecutive week, illustrating its broad and sustained appeal."
+        ]
+      },
+      {
+        "h": "Strong Performance in Key Demographics",
+        "p": [
+          "Advertisers often monitor viewership among specific age brackets, and the series has performed remarkably well within the crucial demographic of viewers aged 20 to 49.",
+          "In this group, the program averaged 7.2 percent, while climbing to a peak of 8 percent, proving its strong resonance with younger adult audiences."
+        ]
+      },
+      {
+        "h": "Trajectory Since Premiere",
+        "p": [
+          "Ever since its initial premiere on October 9, the program has experienced a dynamic run in nationwide ratings. The journey began with an 11.4 percent start for episode 1, followed quickly by 14.9 percent for episode 2 and 15.1 percent for episode 3.",
+          "It climbed to 18.5 percent for episode 4, 17.5 percent for episode 5, and reached a previous high of 19.5 percent for episode 6 before dipping in subsequent weeks."
+        ]
+      },
+      {
+        "h": "Overcoming Recent Controversies",
+        "p": [
+          "The ratings had previously experienced a dip for three consecutive episodes amid various controversies. These included objections from certain members of the medical community regarding the show's depiction of doctors and the medical field, alongside debates concerning its historical portrayal.",
+          "Unusually for a Friday-Saturday lineup where Saturday broadcasts typically rate higher, episode 8 even scored lower than the preceding Friday episode. However, reports noted that as the controversies faded, the numbers began to bounce back."
+        ]
+      },
+      {
+        "h": "Cast and Premise",
+        "p": [
+          "Functioning as a Korean adaptation of the Japanese hit 'Doctor-X', the medical noir follows a surgeon named Gye Su Jeong, portrayed by Kim Ji Won. Nicknamed 'the madwoman of the operating room,' her character utilizes exceptional genius skills to challenge deep-rooted absurdities within the medical establishment.",
+          "The stellar ensemble cast also features Lee Jung Eun, Son Hyun Joo, and Kim Woo Seok in co-starring roles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kim Ji Won's series 'Doctor X: Mafia in White' crossed a 20 percent peak rating for the first time with its tenth episode on SBS. After navigating a brief ratings dip caused by various controversies, the medical noir drama has successfully recovered its momentum and maintained its top ranking ahead of its finale."
+        ]
+      }
+    ],
+    "facts": [
+      "Doctor X: Mafia in White episode 10 aired on November 7, 2026.",
+      "Nielsen Korea recorded an average rating of 17.7 percent nationwide and in the Seoul metropolitan area for episode 10.",
+      "The peak minute rating for episode 10 reached 20.2 percent.",
+      "Episode 9 recorded a rating of 15.3 percent.",
+      "Episode 8 recorded a rating of 15.6 percent.",
+      "The drama ranked No. 1 in its time slot and No. 1 among all programs across every channel for the fifth consecutive week.",
+      "Viewers aged 20 to 49 averaged 7.2 percent with a peak of 8 percent.",
+      "The drama premiered on October 9, 2026.",
+      "Episode 1 rated 11.4 percent, episode 2 rated 14.9 percent, episode 3 rated 15.1 percent, episode 4 rated 18.5 percent, episode 5 rated 17.5 percent, episode 6 rated 19.5 percent, and episode 7 rated 16.5 percent."
+    ],
+    "entities": {
+      "people": [
+        "Kim Ji Won",
+        "Lee Jung Eun",
+        "Son Hyun Joo",
+        "Kim Woo Seok",
+        "Gye Su Jeong"
+      ],
+      "titles": [
+        "Doctor X: Mafia in White",
+        "Doctor-X",
+        "Doctor X"
+      ]
+    },
+    "keywords": [
+      "Kim Ji Won Doctor X",
+      "Doctor X Mafia in White",
+      "Doctor X episode 10 ratings",
+      "Gye Su Jeong surgeon"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/nKKBvL_2d.jpg",
+        "caption": "Kim Ji Won's 'Doctor X: Mafia in White' Surpasses 20 Percent Peak Viewership",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sat, 07 Nov 2026 22:49:33 +0000"
   }
 };
