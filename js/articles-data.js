@@ -85592,5 +85592,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-07T15:00:04Z"
+  },
+  "mpboln": {
+    "id": "mpboln",
+    "type": "news",
+    "headline": "Missing Sita-Lakshmana Forest Fight Scene From International Cut of Ramayana Sparks Online Debate",
+    "dek": "An action sequence from the international version of Nitesh Tiwari's Ramayana: Rise of a Legend featuring Sita and Lakshmana has surfaced online, leaving Indian viewers questioning why it was cut from the domestic release.",
+    "body": [
+      {
+        "h": "Surfacing of the Deleted Action Sequence",
+        "p": [
+          "A previously unseen action sequence from the international cut of Nitesh Tiwari's Ramayana: Rise of a Legend has recently made its way online, sparking intense discussions among moviegoers. The footage features characters Sita and Lakshmana fighting off three aggressive, wolf-like creatures during their forest exile.",
+          "The emergence of this specific clip has taken social media by storm. Viewers have pointed out that this particular segment is entirely missing from the theatrical version screened for audiences in Indian cinemas."
+        ]
+      },
+      {
+        "h": "Details of the Forest Encounter",
+        "p": [
+          "The newly surfaced scene takes place following the Surpanakha episode during the exile period of Rama, Sita, and Lakshmana. It ties into the larger narrative surrounding the confrontation with the fourteen thousand Rakshasas led by Khara, Dushana, and Trishira.",
+          "In the footage, an injured Lakshmana and Sita are seen fleeing through the wilderness while being chased by three ferocious beasts. They seek refuge inside a cave concealed behind a waterfall, where Sita takes up her weapons and a wounded Lakshmana prepares to defend them."
+        ]
+      },
+      {
+        "h": "Rama's Dramatic Rescue",
+        "p": [
+          "Just as the peril escalates for the cornered duo, three precise arrows strike the creature threats, neutralizing them instantly. The sequence cuts to reveal Rama arriving to their rescue armed with his bow and arrow.",
+          "The visual effects and the dramatic entry by Rama have drawn significant attention online. Fans have praised the execution of the action beat while continuing to voice confusion over its omission from the domestic theatrical print."
+        ]
+      },
+      {
+        "h": "Questions Over Domestic and International Cuts",
+        "p": [
+          "The viral clip has highlighted the discrepancies between the versions prepared for domestic and international viewers. Earlier reports indicated that the international English cut was roughly thirty minutes shorter than the Hindi version, with various musical numbers and narrative portions trimmed for overseas markets.",
+          "However, the discovery of a distinct action sequence exclusive to the international prints has raised fresh inquiries regarding the editorial decisions made by the production team. To date, the makers have not provided an official explanation for the omission or whether the footage will be restored later."
+        ]
+      },
+      {
+        "h": "International Expansion and Box Office Run",
+        "p": [
+          "Even as the editing debate unfolds online, Ramayana: Rise of a Legend continues expanding its global theatrical footprint. The film is scheduled for a release in Hong Kong on November 12, with advance bookings already open across the Broadway cinema network including Premiere Elements.",
+          "Overseas screenings will feature the original Hindi audio paired with Mandarin and English subtitles. This comes as the high-profile project maintains a strong box office trajectory worldwide."
+        ]
+      },
+      {
+        "h": "Cast and Global Earnings",
+        "p": [
+          "The mythological epic boasts a massive ensemble cast featuring Ranbir Kapoor as Rama, Sai Pallavi as Sita, Yash as Ravana, Ravi Dubey as Lakshmana, and Sunny Deol as Hanuman. Additional supporting roles are played by Arun Govil, Lara Dutta, Rakul Preet Singh, Kajal Aggarwal, and Vivek Oberoi.",
+          "According to Sacnilk tracking data, the film achieved an estimated worldwide collection of Rs 375.50 crore during its first three days in theaters, bringing it close to the Rs 400-crore milestone."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An action sequence featuring Sita and Lakshmana from the international version of Ramayana: Rise of a Legend has surfaced online, prompting questions from Indian audiences regarding its absence from domestic theaters. Meanwhile, the film continues its international rollout with upcoming screenings in Hong Kong following a strong opening weekend at the box office."
+        ]
+      }
+    ],
+    "facts": [
+      "The missing scene features Sita and Lakshmana fighting three wolf-like creatures.",
+      "The international English version was reported to be approximately 30 minutes shorter than the Indian Hindi version.",
+      "Ramayana: Rise of a Legend is scheduled to release in Hong Kong on November 12, 2026.",
+      "The film collected an estimated Rs 375.50 crore worldwide in its first three days according to Sacnilk.",
+      "The film stars Ranbir Kapoor, Sai Pallavi, Yash, Ravi Dubey, and Sunny Deol."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Vivek Oberoi",
+        "Khara",
+        "Dushana",
+        "Trishira",
+        "Surpanakha",
+        "Rama",
+        "Sita",
+        "Lakshmana",
+        "Hanuman",
+        "Ravana",
+        "Donald Trump",
+        "T Naga Maruthi Acharya"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ranbir Kapoor",
+      "Sai Pallavi",
+      "Yash",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/naveen-kumar-gowda-ranbir-kapoor-ravi-dubey-sai-pallavi-084134881-16x9_0.jpg?VersionId=9cE8q1cQMT2RHp_B_3_CVXFGfv4iroNJ",
+        "caption": "Missing Sita-Lakshmana Forest Fight Scene From International Cut of Ramayana Sparks Online Debate",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:11:56 +0530"
+  },
+  "uuejh4": {
+    "id": "uuejh4",
+    "type": "news",
+    "headline": "Classic Action Film Praised by Quentin Tarantino Arrives on Free Streaming",
+    "dek": "A legendary 1986 action classic regarded by Quentin Tarantino as one of the best-written movies of all time has joined a free streaming service library.",
+    "body": [
+      {
+        "h": "The Arrival on Free Streaming",
+        "p": [
+          "A celebrated 1986 cinematic action milestone has officially joined the digital library of a free streaming service this month. Alongside it, another notable feature directed by Tony Scott has also been made available for viewers looking to revisit classic cinema without a subscription cost.",
+          "The inclusion of these titles brings high-profile library content to audiences at no charge, giving fans an easy way to experience some of the most influential action filmmaking of the past several decades."
+        ]
+      },
+      {
+        "h": "Quentin Tarantino and Tony Scott Connection",
+        "p": [
+          "Before earning widespread acclaim as a visionary filmmaker, Quentin Tarantino built his reputation writing True Romance, which was directed by Tony Scott. Tarantino has consistently expressed immense admiration for Scott and his profound influence on the action genre.",
+          "Following Scott's passing in 2012, Tarantino hosted special college screenings for films like Domino and Man on Fire, becoming visibly moved during the viewings. He regards Scott's iconic 1986 jet-fighter masterpiece as a masterclass in screenwriting."
+        ]
+      },
+      {
+        "h": "Origins and Initial Reception",
+        "p": [
+          "Upon its original theatrical release, the 1986 film faced mixed reviews from critics. Despite the lukewarm early critical response, the picture gradually built a massive and dedicated cult following over the course of decades.",
+          "Starring Tom Cruise alongside Kelly McGillis and Anthony Edwards, the movie was produced on a modest budget of roughly $15 million and went on to pull in an impressive $360 million worldwide."
+        ]
+      },
+      {
+        "h": "Critical Standing and Tomato Meter",
+        "p": [
+          "The film currently maintains a 58% approval rating on the review aggregator website Rotten Tomatoes. The critical consensus highlights its breathtaking aerial photography while noting a perceived lack of depth in non-flight character moments.",
+          "Despite its mixed critical consensus, the movie's exhilarating action sequences and distinct cultural footprint cemented its status as a defining touchstone of 1980s pop culture."
+        ]
+      },
+      {
+        "h": "The Blockbuster Sequel and Legacy",
+        "p": [
+          "At the time of Scott's passing, Cruise and the director had already been in discussions regarding a potential follow-up. Years later, a sequel was officially green-lit with Joseph Kosinski stepping in to direct.",
+          "Released theatrically in 2022, the sequel achieved historic success by grossing $1.5 billion globally, with over $700 million originating from domestic box offices alone. The film earned widespread praise and a Best Picture nomination at the Oscars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A celebrated 1986 action film championed by Quentin Tarantino has officially become available on a free streaming service alongside other works by Tony Scott. The original movie, starring Tom Cruise, Anthony Edwards, and Kelly McGillis, paved the way for a historic 2022 sequel directed by Joseph Kosinski that grossed $1.5 billion worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Quentin Tarantino wrote True Romance, directed by Tony Scott.",
+      "Tony Scott directed Domino and Man on Fire.",
+      "The original film was released in 1986.",
+      "The 1986 movie stars Tom Cruise, Kelly McGillis, and Anthony Edwards.",
+      "The original film grossed $360 million worldwide against a budget of around $15 million.",
+      "The 1986 movie holds a 58% score on Rotten Tomatoes.",
+      "The sequel was directed by Joseph Kosinski and released theatrically in 2022.",
+      "The sequel grossed $1.5 billion at the worldwide box office, with over $700 million from domestic theaters.",
+      "The sequel holds a 99% score on Rotten Tomatoes and received a Best Picture nomination at the Oscars."
+    ],
+    "entities": {
+      "people": [
+        "Quentin Tarantino",
+        "Tony Scott",
+        "Tom Cruise",
+        "Kelly McGillis",
+        "Anthony Edwards",
+        "Joseph Kosinski",
+        "Francois Ozon",
+        "David Fincher",
+        "Rohan Naahar"
+      ],
+      "titles": [
+        "True Romance",
+        "Domino",
+        "Man on Fire",
+        "Top Gun",
+        "Top Gun: Maverick"
+      ]
+    },
+    "keywords": [
+      "Top Gun streaming free",
+      "Quentin Tarantino Tony Scott",
+      "Tom Cruise Top Gun movie",
+      "Top Gun Maverick box office"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-hateful-eight-quentin-tarantino.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Classic Action Film Praised by Quentin Tarantino Arrives on Free Streaming",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 10:00:12 GMT"
+  },
+  "1krfvwb": {
+    "id": "1krfvwb",
+    "type": "news",
+    "headline": "Makers of Ranbir Kapoor and Yash's Ramayana Issue Strict Legal Warning Over Unauthorised Theatre Recordings",
+    "dek": "Team Ramayana has issued a stern legal notice against individuals illegally recording and sharing footage of the mythological epic in cinemas, threatening criminal, civil, and contempt proceedings.",
+    "body": [
+      {
+        "h": "Strict Warning Issued Against Piracy",
+        "p": [
+          "The producers of the mythological epic Ramayana have stepped up their battle against piracy by issuing a firm legal warning to anyone caught recording the movie inside cinema halls. Following the film's theatrical arrival, creators noticed a surge in unauthorised clips being captured and circulated across various social media channels and messaging applications.",
+          "To combat this issue, the production team shared an official notice on the official Instagram handle of Ramayana. The message emphasizes that anyone found recording, uploading, or sharing any portion of the cinematic experience without explicit permission will face severe consequences without any further warnings."
+        ]
+      },
+      {
+        "h": "Legal Framework and Court Orders",
+        "p": [
+          "The clampdown on piracy is backed by formal directives issued by the Hon'ble Bombay High Court. Orders dated November 2, 2026, and November 6, 2026, stemming from a commercial intellectual property suit, explicitly restrain all known and unknown individuals from communicating the movie or its clips in an unauthorised manner.",
+          "According to the notice, such actions constitute a direct copyright infringement. Violators face serious penalties, including potential imprisonment and fines under multiple legislative frameworks such as the Copyright Act of 1957, the Cinematograph Act of 1952, the Bharatiya Nyaya Sanhita of 2023, and the Information Technology Act of 2000, alongside direct contempt of court charges."
+        ]
+      },
+      {
+        "h": "Mandatory Deletion of Shared Footage",
+        "p": [
+          "The production team has instructed all offenders to immediately delete any content related to Ramayana that they have already posted online. The studio made it clear that they are actively monitoring platforms and will directly report violators to the concerned authorities.",
+          "Those who ignore these directives risk immediate legal action. The warning reiterates that the studio reserves all rights to protect its intellectual property through aggressive civil, criminal, and contempt proceedings."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Part 1 features a prominent ensemble cast. Ranbir Kapoor takes on the role of Lord Rama, Sai Pallavi stars as Goddess Sita, and Yash portrays the antagonist Ravana. The project has been jointly produced by Namit Malhotra and Yash.",
+          "The expansive supporting cast features notable names including Ravie Dubey, Indira Krishna, Arun Govil, Vivek Oberoi, Sonal Jha, Lara Dutta, Kunal Kapoor, Rakul Preet Singh, and Kajal Aggarwal. Additionally, Anupam Kher has lent his voice to the character of Jatayu."
+        ]
+      },
+      {
+        "h": "Future Installments and Cameos",
+        "p": [
+          "The mythological cinematic universe is already expanding, with a second installment titled Ramayana: Part 2 scheduled to hit the big screen on Diwali in the year 2028.",
+          "The first part has also generated massive excitement through its post-credit scenes, which introduced Sunny Deol as Lord Hanuman. The makers have confirmed that the actor's complete look will be officially unveiled when the sequel arrives in theatres."
+        ]
+      },
+      {
+        "h": "Box Office Momentum and Cultural Impact",
+        "p": [
+          "Since hitting theatres on November 5, the film has captured widespread attention both domestically and globally. The feature has set box office numbers soaring and is rapidly approaching the prestigious Rs 200 crore club in India.",
+          "The phenomenal audience turnout reflects the immense anticipation surrounding the project, which has also unfortunately led to the heightened risk of theater recording and digital piracy that the makers are now fiercely combating."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The producers of the Nitesh Tiwari-directed mythological epic Ramayana have issued a strict legal notice against unauthorized theatre recordings and online sharing, citing specific Bombay High Court orders. Backed by multiple Indian laws, the warning threatens criminal, civil, and contempt proceedings against anyone caught pirating the Ranbir Kapoor and Yash-starrer.",
+          "Featuring an ensemble cast that includes Sai Pallavi and Sunny Deol, the film continues its strong theatrical run as it nears the Rs 200 crore milestone in India."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released in theatres on November 5, 2026.",
+      "The film is directed by Nitesh Tiwari.",
+      "Starring cast includes Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "Producers of the film are Namit Malhotra and Yash.",
+      "Bombay High Court passed orders on November 2, 2026, and November 6, 2026.",
+      "Ramayana: Part 2 will release on Diwali 2028.",
+      "The film is nearing the Rs 200 crore club in India."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "Ravie Dubey",
+        "Indira Krishna",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Sonal Jha",
+        "Lara Dutta",
+        "Kunal Kapoor",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Sunny Deol",
+        "Anupam Kher"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana legal notice piracy"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156481231,thumbsize-66060,width-1280,height-720,resizemode-75/156481231.jpg",
+        "caption": "Makers of Ranbir Kapoor and Yash's Ramayana Issue Strict Legal Warning Over Unauthorised Theatre Recordings",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T10:03:54Z"
+  },
+  "r1uwvc": {
+    "id": "r1uwvc",
+    "type": "news",
+    "headline": "Katrina Kaif and Vicky Kaushal Share First Family Photo With Son Vihaan on Diwali",
+    "dek": "Popular actors Katrina Kaif and Vicky Kaushal delighted their fans by sharing the very first photograph featuring their son Vihaan during Diwali celebrations.",
+    "body": [
+      {
+        "h": "First Festive Portrait",
+        "p": [
+          "Celebrity couple Katrina Kaif and Vicky Kaushal surprised their followers by posting a festive family portrait featuring their baby boy, Vihaan. The snapshot captures the trio marking their inaugural Diwali celebrations as a family of three.",
+          "The social media upload arrived just one day after the toddler celebrated his first birthday, offering the public their first clear look at the young child."
+        ]
+      },
+      {
+        "h": "Traditional Attire and Social Media Caption",
+        "p": [
+          "In the photograph shared on Instagram, all three family members are dressed in coordinated traditional outfits. Katrina Kaif captioned the post with warm festive greetings for her followers.",
+          "The heartfelt caption accompanying the image expressed wishes for love, light, and happiness, describing the occasion as their brightest festival celebration yet."
+        ]
+      },
+      {
+        "h": "Wardrobe Details of the Family",
+        "p": [
+          "Little Vihaan stands between his parents, wearing a cream kurta-pyjama paired with a yellow printed Nehru jacket while smiling toward the camera with one hand raised.",
+          "Katrina Kaif is seated on the floor wearing a vibrant yellow embroidered ensemble while gazing affectionately at her son, and Vicky Kaushal sits beside him in a cream embroidered kurta with his hand resting on the toddler's hip."
+        ]
+      },
+      {
+        "h": "Timeline of Major Milestones",
+        "p": [
+          "The family portrait follows Vihaan's first birthday on November 7, 2026. The actors originally welcomed their baby boy on November 7, 2025, sharing the news through a joint announcement.",
+          "Previously, the couple had announced the pregnancy in September 2025 using a Polaroid-style image that captured Vicky Kaushal holding Katrina's baby bump."
+        ]
+      },
+      {
+        "h": "Name Reveal and Fan Connection",
+        "p": [
+          "In January 2026, the parents officially introduced their son to the public by sharing an image of his tiny hand held between theirs along with his name.",
+          "Fans quickly noted a potential connection between the name Vihaan Kaushal and Vicky Kaushal's role as Major Vihaan Singh Shergill in the 2019 film Uri: The Surgical Strike directed by Aditya Dhar."
+        ]
+      },
+      {
+        "h": "Wedding Background and Professional Pursuits",
+        "p": [
+          "Katrina Kaif and Vicky Kaushal were married on December 9, 2021, at Six Senses Fort Barwara located in Rajasthan.",
+          "On the professional front, Katrina Kaif's recent work includes Sriram Raghavan's film Merry Christmas alongside Vijay Sethupathi, while Vicky Kaushal's upcoming projects feature Sanjay Leela Bhansali's Love & War and the film Mahavatar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Katrina Kaif and Vicky Kaushal shared their first family photograph with son Vihaan on Diwali following his first birthday. The couple, married in December 2021, posted the festive image on Instagram to greet their fans.",
+          "The announcement follows previous milestones including the baby's birth in November 2025 and the name reveal in January 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Katrina Kaif and Vicky Kaushal shared their first family photo with son Vihaan on Diwali.",
+      "Vihaan turned one on November 7, 2026.",
+      "Katrina Kaif and Vicky Kaushal welcomed their first child on November 7, 2025.",
+      "The couple announced their pregnancy in September 2025.",
+      "The baby's name, Vihaan Kaushal, was revealed in January 2026.",
+      "The couple got married on December 9, 2021, at Six Senses Fort Barwara in Rajasthan.",
+      "Vicky Kaushal played Major Vihaan Singh Shergill in the 2019 film Uri: The Surgical Strike.",
+      "Katrina Kaif was last seen in Merry Christmas alongside Vijay Sethupathi.",
+      "Vicky Kaushal's upcoming projects include Love & War and Mahavatar."
+    ],
+    "entities": {
+      "people": [
+        "Katrina Kaif",
+        "Vicky Kaushal",
+        "Vihaan Kaushal",
+        "Aditya Dhar",
+        "Sriram Raghavan",
+        "Vijay Sethupathi",
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Alia Bhatt"
+      ],
+      "titles": [
+        "Uri: The Surgical Strike",
+        "Merry Christmas",
+        "Love & War",
+        "Mahavatar"
+      ]
+    },
+    "keywords": [
+      "Katrina Kaif son Vihaan",
+      "Vicky Kaushal family photo",
+      "Katrina Kaif Vicky Kaushal Diwali",
+      "Vihaan Kaushal birthday"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vicky-kaushal--katrina-kaif-and-vihaan-kaushal-08435434-16x9_0.jpg?VersionId=HNqojqzwEJddl3K1a2LGqswBKzKa1OHH",
+        "caption": "Katrina Kaif and Vicky Kaushal Share First Family Photo With Son Vihaan on Diwali",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:16:14 +0530"
   }
 };

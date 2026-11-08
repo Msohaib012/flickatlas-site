@@ -45,6 +45,181 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 08 Nov 2026 13:55:25 +0200"
   },
+  "1krfvwb": {
+    "id": "1krfvwb",
+    "type": "news",
+    "headline": "Makers of Ranbir Kapoor and Yash's Ramayana Issue Strict Legal Warning Over Unauthorised Theatre Recordings",
+    "dek": "Team Ramayana has issued a stern legal notice against individuals illegally recording and sharing footage of the mythological epic in cinemas, threatening criminal, civil, and contempt proceedings.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "Ravie Dubey",
+        "Indira Krishna",
+        "Arun Govil",
+        "Vivek Oberoi",
+        "Sonal Jha",
+        "Lara Dutta",
+        "Kunal Kapoor",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Sunny Deol",
+        "Anupam Kher"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "Ramayana: Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana legal notice piracy"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156481231,thumbsize-66060,width-1280,height-720,resizemode-75/156481231.jpg",
+        "caption": "Makers of Ranbir Kapoor and Yash's Ramayana Issue Strict Legal Warning Over Unauthorised Theatre Recordings",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T10:03:54Z"
+  },
+  "uuejh4": {
+    "id": "uuejh4",
+    "type": "news",
+    "headline": "Classic Action Film Praised by Quentin Tarantino Arrives on Free Streaming",
+    "dek": "A legendary 1986 action classic regarded by Quentin Tarantino as one of the best-written movies of all time has joined a free streaming service library.",
+    "entities": {
+      "people": [
+        "Quentin Tarantino",
+        "Tony Scott",
+        "Tom Cruise",
+        "Kelly McGillis",
+        "Anthony Edwards",
+        "Joseph Kosinski",
+        "Francois Ozon",
+        "David Fincher",
+        "Rohan Naahar"
+      ],
+      "titles": [
+        "True Romance",
+        "Domino",
+        "Man on Fire",
+        "Top Gun",
+        "Top Gun: Maverick"
+      ]
+    },
+    "keywords": [
+      "Top Gun streaming free",
+      "Quentin Tarantino Tony Scott",
+      "Tom Cruise Top Gun movie",
+      "Top Gun Maverick box office"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/08/the-hateful-eight-quentin-tarantino.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Classic Action Film Praised by Quentin Tarantino Arrives on Free Streaming",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 10:00:12 GMT"
+  },
+  "r1uwvc": {
+    "id": "r1uwvc",
+    "type": "news",
+    "headline": "Katrina Kaif and Vicky Kaushal Share First Family Photo With Son Vihaan on Diwali",
+    "dek": "Popular actors Katrina Kaif and Vicky Kaushal delighted their fans by sharing the very first photograph featuring their son Vihaan during Diwali celebrations.",
+    "entities": {
+      "people": [
+        "Katrina Kaif",
+        "Vicky Kaushal",
+        "Vihaan Kaushal",
+        "Aditya Dhar",
+        "Sriram Raghavan",
+        "Vijay Sethupathi",
+        "Sanjay Leela Bhansali",
+        "Ranbir Kapoor",
+        "Alia Bhatt"
+      ],
+      "titles": [
+        "Uri: The Surgical Strike",
+        "Merry Christmas",
+        "Love & War",
+        "Mahavatar"
+      ]
+    },
+    "keywords": [
+      "Katrina Kaif son Vihaan",
+      "Vicky Kaushal family photo",
+      "Katrina Kaif Vicky Kaushal Diwali",
+      "Vihaan Kaushal birthday"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vicky-kaushal--katrina-kaif-and-vihaan-kaushal-08435434-16x9_0.jpg?VersionId=HNqojqzwEJddl3K1a2LGqswBKzKa1OHH",
+        "caption": "Katrina Kaif and Vicky Kaushal Share First Family Photo With Son Vihaan on Diwali",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:16:14 +0530"
+  },
+  "mpboln": {
+    "id": "mpboln",
+    "type": "news",
+    "headline": "Missing Sita-Lakshmana Forest Fight Scene From International Cut of Ramayana Sparks Online Debate",
+    "dek": "An action sequence from the international version of Nitesh Tiwari's Ramayana: Rise of a Legend featuring Sita and Lakshmana has surfaced online, leaving Indian viewers questioning why it was cut from the domestic release.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Vivek Oberoi",
+        "Khara",
+        "Dushana",
+        "Trishira",
+        "Surpanakha",
+        "Rama",
+        "Sita",
+        "Lakshmana",
+        "Hanuman",
+        "Ravana",
+        "Donald Trump",
+        "T Naga Maruthi Acharya"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ranbir Kapoor",
+      "Sai Pallavi",
+      "Yash",
+      "Ramayana Rise of a Legend"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/naveen-kumar-gowda-ranbir-kapoor-ravi-dubey-sai-pallavi-084134881-16x9_0.jpg?VersionId=9cE8q1cQMT2RHp_B_3_CVXFGfv4iroNJ",
+        "caption": "Missing Sita-Lakshmana Forest Fight Scene From International Cut of Ramayana Sparks Online Debate",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 15:11:56 +0530"
+  },
   "1bdy37g": {
     "id": "1bdy37g",
     "type": "news",
@@ -4443,200 +4618,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-06T21:52:05Z"
-  },
-  "cdspyl": {
-    "id": "cdspyl",
-    "type": "news",
-    "headline": "Ananya Panday faces social media backlash over viral smoking video",
-    "dek": "A newly surfaced video clip showing Bollywood actor Ananya Panday smoking has sparked an intense debate online, triggering mixed reactions and accusations of double standards from internet users.",
-    "entities": {
-      "people": [
-        "Ananya Panday",
-        "Alana Panday",
-        "Chunky Panday"
-      ],
-      "titles": [
-        "Kho Gaye Hum Kahan"
-      ]
-    },
-    "keywords": [
-      "Ananya Panday smoking video",
-      "Ananya Panday viral controversy",
-      "Alana Panday mehendi ceremony",
-      "Kho Gaye Hum Kahan"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6aed883cd51d0-ananya-pandey-065643550-16x9.jpg",
-        "caption": "Ananya Panday faces social media backlash over viral smoking video",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-06T21:52:05Z"
-  },
-  "14kjl00": {
-    "id": "14kjl00",
-    "type": "news",
-    "headline": "The Rainmaker Season 2 Sees Viewership Rise by 5 Percent",
-    "dek": "USA Network's legal drama continues its strong run with climbing ratings and robust streaming metrics for its second season.",
-    "entities": {
-      "people": [
-        "Milo Callaghan",
-        "Lana Parrilla",
-        "P.J. Byrne",
-        "Madison Iseman",
-        "Merle Dandridge",
-        "Karen Bryson",
-        "Richard Kind",
-        "Austin Nichols",
-        "Asher De Land",
-        "Libby Kay",
-        "Kevin Ryan",
-        "Tim Murphy",
-        "John Slattery",
-        "Michael Seitzman",
-        "John Grisham",
-        "Patrick Moran",
-        "Jason Richman",
-        "David Gernert",
-        "Jason Blum",
-        "Anna Pigeon"
-      ],
-      "titles": [
-        "The Rainmaker",
-        "Anna Pigeon"
-      ]
-    },
-    "keywords": [
-      "The Rainmaker Season 2",
-      "USA Network legal drama",
-      "The Rainmaker ratings",
-      "Milo Callaghan The Rainmaker"
-    ],
-    "images": [
-      {
-        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/the-rainmaker-milo-callaghan-lana-parrilla-usa-network.jpg",
-        "caption": "The Rainmaker Season 2 Sees Viewership Rise by 5 Percent",
-        "source": "TheWrap"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 21:00:00 +0000"
-  },
-  "1p2ef8k": {
-    "id": "1p2ef8k",
-    "type": "news",
-    "headline": "Paramount Network Picks Up 13 Original Episodes of Clip Show 'American Mayhem' Hosted by Larry the Cable Guy",
-    "dek": "The comedian is bringing his signature heartland humor to linear television in a new half-hour series produced by V10 Entertainment.",
-    "entities": {
-      "people": [
-        "Larry the Cable Guy",
-        "Michael Schneider",
-        "Tracy May",
-        "Curry Barker",
-        "Nathan Fielder",
-        "Robert Downey Jr.",
-        "Guillermo del Toro",
-        "Steven Spielberg",
-        "Laurel Weir",
-        "Maggie Houlehan",
-        "Carter Skeath",
-        "Rick De Oliveira",
-        "Josh Vodnoy",
-        "John Stevens",
-        "Russell Brand",
-        "Bear Grylls",
-        "Liam Neeson",
-        "Meryl Streep",
-        "Greta Gerwig",
-        "Adam Driver",
-        "Nicolas Cage",
-        "Bill Skarsgård",
-        "Katherine Ryan",
-        "Rajinikanth",
-        "Andrew Wallenstein",
-        "Ben Affleck",
-        "Pete Davidson",
-        "Jennifer Hudson",
-        "Tom Cruise",
-        "Chris Rock"
-      ],
-      "titles": [
-        "American Mayhem",
-        "Wheel of Fortune",
-        "Entertainment Tonight",
-        "Access Hollywood",
-        "Obsession",
-        "You Can See Everything",
-        "The Odyssey",
-        "Narnia",
-        "The Hunt for Ben Solo",
-        "Stranger Things",
-        "Other Worlds",
-        "Torino",
-        "Lords of War",
-        "Lord of War",
-        "Roku",
-        "Jailer 2",
-        "La Bola Negra",
-        "Misty Green"
-      ]
-    },
-    "keywords": [
-      "American Mayhem",
-      "Larry the Cable Guy",
-      "Paramount Network",
-      "V10 Entertainment"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/05/Larry-the-Cable-Guy-Headshot-e1777933809383.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Paramount Network Picks Up 13 Original Episodes of Clip Show 'American Mayhem' Hosted by Larry the Cable Guy",
-        "source": "Variety"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 20:48:59 +0000"
-  },
-  "jz2e58": {
-    "id": "jz2e58",
-    "type": "news",
-    "headline": "‘MobLand’ Season 2 Episode Guide, Schedule, and Early Season 3 Renewal Details on Paramount+",
-    "dek": "Everything you need to know about the remaining episodes of MobLand Season 2, release times on Paramount+, and the confirmed Season 3 renewal.",
-    "entities": {
-      "people": [
-        "Kat McAllister",
-        "Janet McTeer",
-        "Frankie Cooper",
-        "Johnny Flynn",
-        "Kelly “Mad Dog” O’Connor",
-        "Colin Morgan",
-        "Harry",
-        "Tom Hardy",
-        "Kevin",
-        "Paddy Considine",
-        "Conrad",
-        "Maeve",
-        "Pierce Brosnan",
-        "Helen Mirren"
-      ],
-      "titles": [
-        "MobLand",
-        "Nervous Breakdown"
-      ]
-    },
-    "keywords": [
-      "MobLand Season 2",
-      "MobLand Paramount+",
-      "MobLand Season 3 renewal",
-      "Tom Hardy MobLand"
-    ],
-    "images": [
-      {
-        "url": "https://decider.com/wp-content/uploads/2026/09/mobland-202.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
-        "caption": "‘MobLand’ Season 2 Episode Guide, Schedule, and Early Season 3 Renewal Details on Paramount+",
-        "source": "Decider"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 15:00:00 -0500"
   },
   "ex0d4f": {
     "id": "ex0d4f",
