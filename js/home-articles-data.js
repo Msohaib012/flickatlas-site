@@ -1565,6 +1565,46 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sat, 07 Nov 2026 20:31:18 GMT"
   },
+  "1uxna1r": {
+    "id": "1uxna1r",
+    "type": "news",
+    "headline": "Bano Episode 25 — Watch Online on Geo TV",
+    "dek": "Bano episode 25 aired on 2026-11-07 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/6uTtY_XKWFo/hqdefault.jpg",
+        "caption": "Bano Episode 25",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-07T17:00:36Z"
+  },
+  "it2xw5": {
+    "id": "it2xw5",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 23 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 23 aired on 2026-11-07 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/MG-LgQ0Pxg4/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 23",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-07T17:00:04Z"
+  },
   "6q2rwe": {
     "id": "6q2rwe",
     "type": "news",
@@ -1647,6 +1687,82 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 21:43:31 +0530"
+  },
+  "1py2w8g": {
+    "id": "1py2w8g",
+    "type": "news",
+    "headline": "Nashtar Episode 28 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 28 aired on 2026-11-07 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/X6xz_nfY_L0/hqdefault.jpg",
+        "caption": "Nashtar Episode 28",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-07T16:08:53Z"
+  },
+  "lx1ugk": {
+    "id": "lx1ugk",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 29 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 29 aired on 2026-11-07 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 29",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-07T16:00:34Z"
+  },
+  "6g9od7": {
+    "id": "6g9od7",
+    "type": "news",
+    "headline": "Aangan Episode 12 — Watch Online on HUM TV",
+    "dek": "Aangan episode 12 aired on 2026-11-07 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/8kI_7LCAp40/hqdefault.jpg",
+        "caption": "Aangan Episode 12",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-07T16:00:29Z"
   },
   "1wokr5w": {
     "id": "1wokr5w",
@@ -1761,6 +1877,66 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-07T15:18:03Z"
+  },
+  "8uenwc": {
+    "id": "8uenwc",
+    "type": "news",
+    "headline": "Khushi Episode 56 — Watch Online on HUM TV",
+    "dek": "Khushi episode 56 aired on 2026-11-07 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/XncV0QVjoag/hqdefault.jpg",
+        "caption": "Khushi Episode 56",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-07T15:00:34Z"
+  },
+  "17jtria": {
+    "id": "17jtria",
+    "type": "news",
+    "headline": "Uswah Episode 46 — Watch Online on Geo TV",
+    "dek": "Uswah episode 46 aired on 2026-11-07 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/k7l0lQvnejk/hqdefault.jpg",
+        "caption": "Uswah Episode 46",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-07T15:00:22Z"
+  },
+  "jbfe4s": {
+    "id": "jbfe4s",
+    "type": "news",
+    "headline": "Izzat Episode 49 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 49 aired on 2026-11-07 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/-jeomJ9MjM8/hqdefault.jpg",
+        "caption": "Izzat Episode 49",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-07T15:00:04Z"
   },
   "1cui2oy": {
     "id": "1cui2oy",
@@ -4462,299 +4638,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 06 Nov 2026 15:00:00 -0500"
   },
-  "1n2n1gf": {
-    "id": "1n2n1gf",
-    "type": "news",
-    "headline": "Ramayana Day 2 Worldwide Collections Cross Major Milestones Despite Overseas Dip",
-    "dek": "Nitesh Tiwari's mythological feature Ramayana crosses Rs 221 crore worldwide by day two, surpassing the two-day numbers of Adipurush.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Arun Govil",
-        "Lara Dutta",
-        "Rakul Preet Singh",
-        "Rohit Jaiswal",
-        "Prabhas"
-      ],
-      "titles": [
-        "Ramayana",
-        "Adipurush"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ramayana worldwide collection day 2",
-      "Ranbir Kapoor Ramayana",
-      "Nitesh Tiwari Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday2feature-84831793994551.jpg",
-        "caption": "Ramayana Day 2 Worldwide Collections Cross Major Milestones Despite Overseas Dip",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sat, 07 Nov 2026 01:21:04 +0530"
-  },
-  "19r59ww": {
-    "id": "19r59ww",
-    "type": "news",
-    "headline": "Sebastián Lelio, Oscar-Winning Director of A Fantastic Woman, Dies at 52",
-    "dek": "The acclaimed Chilean filmmaker behind A Fantastic Woman, Disobedience, and The Wonder has passed away at his home in Santiago.",
-    "entities": {
-      "people": [
-        "Sebastián Lelio",
-        "Amalia Kassai",
-        "Daniela Vega",
-        "Rachel McAdams",
-        "Rachel Weisz",
-        "Florence Pugh",
-        "Julianne Moore",
-        "Alejandro Zambra"
-      ],
-      "titles": [
-        "A Fantastic Woman",
-        "Disobedience",
-        "The Wonder",
-        "Navidad",
-        "The Year Of The Tiger",
-        "Gloria Bell",
-        "The Wave",
-        "Chilean Poet"
-      ]
-    },
-    "keywords": [
-      "Sebastián Lelio",
-      "A Fantastic Woman",
-      "The Wonder",
-      "Chilean Poet"
-    ],
-    "images": [
-      {
-        "url": "https://images.bauerhosting.com/celebrity/sites/42/2026/11/Sebastian-Lelio.jpg?ar=16%3A9&amp;fit=crop&amp;crop=top&amp;auto=format&amp;w=undefined&amp;q=80",
-        "caption": "Sebastián Lelio, Oscar-Winning Director of A Fantastic Woman, Dies at 52",
-        "source": "Empire"
-      }
-    ],
-    "published": "Fri, 6 Nov 2026 19:16:09 +0000"
-  },
-  "e0memz": {
-    "id": "e0memz",
-    "type": "news",
-    "headline": "Ramayana: Part 1 Box Office Collection Shows Strong Early Earnings and Occupancy",
-    "dek": "An overview of the box office performance, occupancy rates, and language-wise earnings for Ramayana: Part 1 during its opening weekend.",
-    "entities": {
-      "people": [
-        "Ankur Baruah"
-      ],
-      "titles": [
-        "Ramayana: Part 1"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 1 box office collection",
-      "Ramayana Part 1 day 1 earnings",
-      "Ramayana Part 1 day 2 collection",
-      "Ramayana Part 1 occupancy"
-    ],
-    "images": [
-      {
-        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtycxy-IU7NltX0S3ZziabAdNg13RuJKEcEXg1BTeA8isc8frba-gdP_dXURki4XkHpzpTKNeRGgZDzxKN5h4MSNxy8bLBLRqSud2uaAcGbYYKmzi-Ct2BOruS-CHNPevwu-T6-iT8FXzEhyyVM9JmN92LTGuB4pZWJrIMErV_5WeTMV0aGEI55lpUvjo/w1600/ramayana-part-1-day-3-box-office-collection.jpg",
-        "caption": "Ramayana: Part 1 Box Office Collection Shows Strong Early Earnings and Occupancy",
-        "source": "AddaToday"
-      }
-    ],
-    "published": "2026-11-07T00:32:32.443+05:30"
-  },
-  "abnbs8": {
-    "id": "abnbs8",
-    "type": "news",
-    "headline": "2027 Grammys Nominations Revealed: When, Where, and How to Watch",
-    "dek": "Discover everything you need to know about the upcoming 69th Grammy Awards nominations reveal, including the announcement schedule, participating artists, and viewing options.",
-    "entities": {
-      "people": [
-        "Olivia Dean",
-        "Pharrell Williams",
-        "Alan Menken",
-        "Amy Allen",
-        "Carly Pearce",
-        "David Guetta",
-        "Fyütch Aura V",
-        "Herbie Hancock",
-        "Israel Houghton",
-        "Juanes",
-        "Kehlani",
-        "Linda Perry",
-        "Meghan Foley",
-        "Michelle Holme",
-        "Renée Fleming",
-        "Yungblud",
-        "Ziggy Marley",
-        "Olivia Rodrigo"
-      ],
-      "titles": [
-        "Good Morning America"
-      ]
-    },
-    "keywords": [
-      "2027 Grammys nominations",
-      "69th Grammy Awards",
-      "Olivia Dean Grammys",
-      "Grammy nominations watch"
-    ],
-    "images": [
-      {
-        "url": "https://www.goldderby.com/wp-content/uploads/2026/02/GettyImages-2259486854.jpg?w=650",
-        "caption": "2027 Grammys Nominations Revealed: When, Where, and How to Watch",
-        "source": "Gold Derby"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 19:00:00 +0000"
-  },
-  "drp7qi": {
-    "id": "drp7qi",
-    "type": "news",
-    "headline": "Matt Damon Shares Details of Wife Lucy's Brain Aneurysm Surgery Prior to the Academy Awards",
-    "dek": "Actor Matt Damon recently opened up about a harrowing personal ordeal, revealing that his wife Lucy underwent surgery for a brain aneurysm just one week before the 2024 Academy Awards ceremony.",
-    "entities": {
-      "people": [
-        "Matt Damon",
-        "Lucy",
-        "Christopher Nolan",
-        "Martin Scorsese"
-      ],
-      "titles": [
-        "Oppenheimer",
-        "The Departed",
-        "The Bourne Ultimatum"
-      ]
-    },
-    "keywords": [
-      "Matt Damon wife brain surgery",
-      "Matt Damon Oscars 2024",
-      "The Departed Oscars win Matt Damon",
-      "Oppenheimer Academy Awards"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Matt-Damon-1-1.jpg?resize=1200,630",
-        "caption": "Matt Damon Shares Details of Wife Lucy's Brain Aneurysm Surgery Prior to the Academy Awards",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 18:50:11 +0000"
-  },
-  "1w87q08": {
-    "id": "1w87q08",
-    "type": "news",
-    "headline": "Ramayana Box Office Collection Day 2: Ranbir Kapoor Starrer Crosses Rs 100 Crore Club Despite A Dip",
-    "dek": "Ranbir Kapoor, Sai Pallavi and Yash starrer Ramayana enters the Rs 100 crore club on its second day at the box office, though it continues to lag behind Adipurush.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Prabhas"
-      ],
-      "titles": [
-        "Ramayana",
-        "Adipurush",
-        "Animal",
-        "Pathaan",
-        "Jailer 2",
-        "Stree 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ramayana day 2 collection",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana vs Adipurush"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday2feature-99491793987385.jpg",
-        "caption": "Ramayana Box Office Collection Day 2: Ranbir Kapoor Starrer Crosses Rs 100 Crore Club Despite A Dip",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Sat, 07 Nov 2026 00:09:07 +0530"
-  },
-  "ekd5ut": {
-    "id": "ekd5ut",
-    "type": "news",
-    "headline": "The Hunger Games: Sunrise On The Reaping Tracking For Massive North American Debut",
-    "dek": "The upcoming sixth installment in the popular franchise is eyeing a historic opening weekend that could outpace recent studio releases.",
-    "entities": {
-      "people": [
-        "Francis Lawrence",
-        "Jennifer Lawrence",
-        "Haymitch Abernathy"
-      ],
-      "titles": [
-        "The Hunger Games: Sunrise on the Reaping",
-        "Michael",
-        "Mockingjay – Part 2",
-        "The Odyssey"
-      ]
-    },
-    "keywords": [
-      "The Hunger Games Sunrise on the Reaping",
-      "Sunrise on the Reaping box office",
-      "Francis Lawrence",
-      "Haymitch Abernathy"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-hunger-games-sunrise-on-the-reaping-box-office-update-001.jpg",
-        "caption": "The Hunger Games: Sunrise On The Reaping Tracking For Massive North American Debut",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 18:34:35 +0000"
-  },
-  "rjo09u": {
-    "id": "rjo09u",
-    "type": "news",
-    "headline": "Wild Horse Nine Hits Theaters With Star-Studded Cast and Major Oscar Buzz",
-    "dek": "Searchlight Pictures brings Martin McDonagh’s dark comedy spy thriller Wild Horse Nine to theaters, starring John Malkovich, Sam Rockwell, Steve Buscemi, and Parker Posey.",
-    "entities": {
-      "people": [
-        "Steve Buscemi",
-        "Parker Posey",
-        "Martin McDonagh",
-        "John Malkovich",
-        "Sam Rockwell",
-        "Tom Waits",
-        "Mariana di Girolamo",
-        "Ailín Salas",
-        "Graham Broadbent",
-        "Pete Czernin",
-        "Anita Overland"
-      ],
-      "titles": [
-        "Wild Horse Nine"
-      ]
-    },
-    "keywords": [
-      "Wild Horse Nine",
-      "John Malkovich Wild Horse Nine",
-      "Martin McDonagh movie",
-      "Steve Buscemi Parker Posey"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Steve-Buscemi-Parker-Poseys-New-Movie-With-Huge-Oscar-Buzz-Is-Finally-in-Theaters-Today.jpg?resize=1200,630",
-        "caption": "Wild Horse Nine Hits Theaters With Star-Studded Cast and Major Oscar Buzz",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 18:21:12 +0000"
-  },
   "ex0d4f": {
     "id": "ex0d4f",
     "type": "news",
@@ -5446,195 +5329,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-01T17:00:38Z"
-  },
-  "hifr32": {
-    "id": "hifr32",
-    "type": "news",
-    "headline": "Mohabbat Mukhtasir Episode 6 — Watch Online on HUM TV",
-    "dek": "Mohabbat Mukhtasir episode 6 aired on 2026-11-01 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Mohabbat Mukhtasir"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/9PNaOwKNHR4/hqdefault.jpg",
-        "caption": "Mohabbat Mukhtasir Episode 6",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-01T16:00:12Z"
-  },
-  "xaqizs": {
-    "id": "xaqizs",
-    "type": "news",
-    "headline": "Khushi Episode 50 — Watch Online on HUM TV",
-    "dek": "Khushi episode 50 aired on 2026-11-01 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Khushi"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/q6OSRHESerg/hqdefault.jpg",
-        "caption": "Khushi Episode 50",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-01T15:00:18Z"
-  },
-  "12kiqvx": {
-    "id": "12kiqvx",
-    "type": "news",
-    "headline": "Uswah Episode 40 — Watch Online on Geo TV",
-    "dek": "Uswah episode 40 aired on 2026-11-01 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Uswah"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/kbsvMYFmgD0/hqdefault.jpg",
-        "caption": "Uswah Episode 40",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-01T15:00:06Z"
-  },
-  "4441rt": {
-    "id": "4441rt",
-    "type": "news",
-    "headline": "Izzat Episode 43 — Watch Online on ARY Digital",
-    "dek": "Izzat episode 43 aired on 2026-11-01 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Izzat"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/OS1f2-HIdBE/hqdefault.jpg",
-        "caption": "Izzat Episode 43",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-01T15:00:01Z"
-  },
-  "wccu71": {
-    "id": "wccu71",
-    "type": "news",
-    "headline": "Dastoor Episode 72 — Watch Online on Green TV",
-    "dek": "Dastoor episode 72 aired on 2026-11-01 — watch the full episode on Green TV.",
-    "entities": {
-      "titles": [
-        "Dastoor"
-      ],
-      "people": [
-        "Hibba Aziz",
-        "Danial Afzal Khan",
-        "Areej Mohyudin",
-        "Faraz Farooqui",
-        "Azra Mohyeddin"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/RII8n6sbQL4/hqdefault.jpg",
-        "caption": "Dastoor Episode 72",
-        "source": "Green TV"
-      }
-    ],
-    "published": "2026-11-01T14:45:26Z"
-  },
-  "1bc6fsb": {
-    "id": "1bc6fsb",
-    "type": "news",
-    "headline": "Zehar-e-Mohabbat Episode 21 — Watch Online on HUM TV",
-    "dek": "Zehar-e-Mohabbat episode 21 aired on 2026-10-31 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Zehar-e-Mohabbat"
-      ],
-      "people": []
-    },
-    "keywords": [
-      "Zehar-e-Mohabbat Episode 21",
-      "Zehar-e-Mohabbat watch online HUM TV",
-      "Zehar-e-Mohabbat 2026-10-31",
-      "Zehar-e-Mohabbat",
-      "Zehar"
-    ],
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/GObuxjzWofU/hqdefault.jpg",
-        "caption": "Zehar-e-Mohabbat Episode 21",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-10-31T17:00:22Z"
-  },
-  "1i4poor": {
-    "id": "1i4poor",
-    "type": "news",
-    "headline": "Bano Episode 19 — Watch Online on Geo TV",
-    "dek": "Bano episode 19 aired on 2026-10-31 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Bano"
-      ],
-      "people": []
-    },
-    "keywords": [
-      "Bano Episode 19",
-      "Bano watch online Geo TV",
-      "Bano episode 19 Geo TV",
-      "Bano",
-      "Bano Episode"
-    ],
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/z0yA0Kl9axA/hqdefault.jpg",
-        "caption": "Bano Episode 19",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-10-31T17:00:11Z"
-  },
-  "xb5dol": {
-    "id": "xb5dol",
-    "type": "news",
-    "headline": "Nashtar Episode 26 — Watch Online on Geo TV",
-    "dek": "Nashtar episode 26 aired on 2026-10-31 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Nashtar"
-      ],
-      "people": [
-        "Danish Taimoor",
-        "Anmol Baloch",
-        "Naeema Butt"
-      ]
-    },
-    "keywords": [
-      "Nashtar Episode 26",
-      "Nashtar watch online Geo TV",
-      "Danish Taimoor Nashtar episode 26",
-      "Nashtar Geo TV October 31"
-    ],
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/L2tPE6S80qI/hqdefault.jpg",
-        "caption": "Nashtar Episode 26",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-10-31T16:10:32Z"
   }
 };

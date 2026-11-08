@@ -85219,5 +85219,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 13:55:25 +0200"
+  },
+  "1uxna1r": {
+    "id": "1uxna1r",
+    "type": "news",
+    "headline": "Bano Episode 25 — Watch Online on Geo TV",
+    "dek": "Bano episode 25 aired on 2026-11-07 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 25 aired on 2026-11-07 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=6uTtY_XKWFo"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bano aur uske bhai ki guftagu hoti hai jahan Bano preshan hai ke agar Shahryar na mile to police mein FIR darj karvayi jaye gi aur der ho jaye gi. Bano dua karti hai ke use kisi tarah pata chal jaye ke woh chup kyun thi. Doosri taraf Murtaza aur ek aur character office mein baat karte hain jahan Murtaza apni bike kharab hone ka zikr karta hai. Ek scene mein Shahryar ko kisi ne bandh kar rakha hai aur woh usko khana aur drink deta hai. Bano ghar mein namaz padhte hue dua karti hai ke yeh shadi jhoot ho kar reh jaye aur use samajh nahi aata ke kya kare. Ek aur scene mein Bano aur uske ghar wale baith kar baat karte hain ke sab ko lag raha hai ke Shahryar ki ghalti hai aur Noor ne bhi saaf keh diya ke agar Shahryar ko kuch hua to woh Shahryar ko barbaad kar degi. Aakhir mein Murtaza aur Bano office mein hote hain jahan Bano ko apne bhai ke kidnap hone ki khabar milti hai aur woh pareshan ho jati hai, aur episode yahin par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 25 aired on 2026-11-07.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=6uTtY_XKWFo",
+      "YouTube views: 1,612,768.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/6uTtY_XKWFo/hqdefault.jpg",
+        "caption": "Bano Episode 25",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-07T17:00:36Z"
+  },
+  "it2xw5": {
+    "id": "it2xw5",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 23 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 23 aired on 2026-11-07 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 23 aired on 2026-11-07 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=MG-LgQ0Pxg4"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Shazeb apni maa se Malaika aur uski family ke baare mein baat karta hai, jis par maa ko lagta hai ke Malaika unke status ke mutabiq nahi hai aur unka background bohot alag hai. Shazeb apni maa ko convince karta hai ke Malaika unke ghar ka hissa banegi. Phir Shazeb Malaika ko restaurant bulata hai aur usko diamond ring de kar propose karta hai, jis par Malaika sochne ke liye thoda waqt mangti hai.\n\nDoosri taraf, Aftab office mein Aalam se milne aata hai aur dono ke darmiyan purane waqt ko lekar takraar hoti hai, jahan Aalam gusse mein ek picture frame tod deta hai. Shazeb aur Malaika ki mangni ki baat aage badhti hai aur Shazeb ki maa uski jaldi mangni karna chahti hain. \n\nAakhir mein, Aalam, Aftab aur doosre dost ek jagah jama hote hain, jahan purane rishtoon aur dosti ke beech tension aur unke darmiyan aane wali khataon par baat hoti hai. Episode yahin khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 23 aired on 2026-11-07.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=MG-LgQ0Pxg4",
+      "YouTube views: 257,123.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/MG-LgQ0Pxg4/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 23",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-07T17:00:04Z"
+  },
+  "1py2w8g": {
+    "id": "1py2w8g",
+    "type": "news",
+    "headline": "Nashtar Episode 28 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 28 aired on 2026-11-07 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 28 aired on 2026-11-07 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=X6xz_nfY_L0"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Barira aur Shah Daud ki shadi ke baad ke halaat dikhaye gaye hain. Barira ghar mein akeli rehti hai jabke Shah Daud apnay kaam mein masroof rehta hai. Shah Daud ka baap Tamseel ko samjhata hai ke Barira ab Daud ki ho chuki hai isliye Tamseel ko aagay barhna chahiye aur apni zindagi mein agay dekhna chahiye. Tamseel pareshan hota hai aur Barira ko yaad karta hai, jabke Barira bhi chupchap apna waqt guzar rahi hai. Tamseel Arbaaz se milta hai aur Barira ke bare mein baat karta hai, aur Arbaaz ko yeh lagta hai ke Barira ki shadi Daud se hone ki wajah se woh unhappy hai, lekin Tamseel kehta hai ke ab unhe aagay barhna hoga. Is doran Daud aur Barira ke darmiyan kuch puranay lamhe aur aapas ki baatein yaad aati hain, aur episode ke aakhir mein Barira aur Daud aik doosre ke sath puray sukoon se apna naya safar shuru karne ka faisla karte hain, aur episode yahin aik pur-aman aur jazbati lamhay par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 28 aired on 2026-11-07.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=X6xz_nfY_L0",
+      "YouTube views: 4,173,704.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/X6xz_nfY_L0/hqdefault.jpg",
+        "caption": "Nashtar Episode 28",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-07T16:08:53Z"
+  },
+  "lx1ugk": {
+    "id": "lx1ugk",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 29 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 29 aired on 2026-11-07 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 29 aired on 2026-11-07 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=wKGx32p8Bfg"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Zaryab aur Zariya shopping karke ghar wapas aate hain. Zariya ka phone lagataar baj raha hota hai kyunki Ammi (Zaryab ki maa) usay baar-baar call kar rahi hoti hain, lekin Zaryab ke kehne par woh call nahi uthati aur phone silent kar deti hai. Baad mein Zaryab jab Ammi se baat karta hai toh woh Zariya ko phone de deta hai taake woh apni saas se baat kare. Zariya Ammi se baat karti hai, lekin jab Ammi usay Karachi bulati hain toh woh aaney se inkar kar deti hai kyunki woh Zaryab ke sath khush hai.\n\nUske baad ek aur scene mein Zariya aur uski friends aik party par jati hain jahan Zariya ka mood udaas hota hai aur woh wahan se chup chaap nikal kar ghar chali jati hai. Zaryab jab ghar wapas aata hai toh woh Zariya ko pareshan dekhta hai. Zaryab usay chupkane ke liye kuch chocolates deta hai aur phir aik box nikal kar usay aik watch (ghari) gift karta hai. Zariya ghari pehnti hai lekin thori barhi hoti hai, toh Zaryab usay theek karta hai.\n\nEpisode ke end mein Zaryab aur Zariya ke darmiyan baatcheet hoti hai jahan Zaryab Zariya se kehta hai ke agar usay space chahiye ya woh kisi aur ke sath rehna chahti hai toh woh yeh baat khul kar kare. Zaryab apnay phone par aik call milata hai aur Zariya ko kehta hai ke woh khud baat kare. Jab phone uthta hai toh doosri taraf koi aur aurat hoti hai (jo Zaryab ki pehli biwi lagti hai), aur Zaryab Zariya ko kehta hai ke woh us se baat kare, jis par episode aik tension bhare cliffhanger par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 29 aired on 2026-11-07.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=wKGx32p8Bfg",
+      "YouTube views: 4,320,603.",
+      "TMDB: Dar-E-Nijaat (id 328722).",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 29",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-07T16:00:34Z"
+  },
+  "6g9od7": {
+    "id": "6g9od7",
+    "type": "news",
+    "headline": "Aangan Episode 12 — Watch Online on HUM TV",
+    "dek": "Aangan episode 12 aired on 2026-11-07 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 12 aired on 2026-11-07 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=8kI_7LCAp40"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Aliya, Chami aur doosre ghar walon ke sath Bade Chacha ke ghar shift ho jati hai. Wahan woh apas mein hans-mazak aur guftagu karte hain. Ek din Chami aur Aliya ghar ke aangan mein baith kar chai pee rahi hoti hain ke Jamil wahan aa jata hai. Jamil ke aane par Chami thori pareshan aur gusse mein nazar aati hai. Jamil apne purane kamre mein jata hai aur wahan se apna saman uthakar dusri jagah shift hone lagta hai. Chami aur Aliya uski madad karne ki koshish karti hain lekin Jami unhe mana kar deta hai. Dadi ki tabiyat kharab ho jati hai aur sab pareshan ho jate hain. Jamil unke liye dawai aur doctor ka bandobast karta hai. Bad mein Bade Chacha Aliya ko ek chabi dete hain jo unke ghar ki purani kitabon ki almari ki hoti hai, aur Aliya ko apni marzi se kitabain padhne ki ijazat mil jati hai. Episode ke aakhir mein Chami aangan mein Pakistan ki jhandiyan lagati hai aur sab ko jashn manane ko kehti hai, jis par ghar ke kuch log naraz hote hain aur ek tense mahaul ban jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 12 aired on 2026-11-07.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=8kI_7LCAp40",
+      "YouTube views: 633,624.",
+      "TMDB: Aangan (id 90172).",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/8kI_7LCAp40/hqdefault.jpg",
+        "caption": "Aangan Episode 12",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-07T16:00:29Z"
+  },
+  "8uenwc": {
+    "id": "8uenwc",
+    "type": "news",
+    "headline": "Khushi Episode 56 — Watch Online on HUM TV",
+    "dek": "Khushi episode 56 aired on 2026-11-07 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 56 aired on 2026-11-07 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=XncV0QVjoag"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Ammar, jo flu ka bahana banata hai, Khushi ko apne sath Pakistan ke northern areas le jane ki baat karta hai taake woh wahan ghoom sakein. Sameera aur baki sab samajhte hain ke Ammar sirf dramaybazi kar raha hai. Sameera aur us ka husband is topic par baat karte hain ke Ammar apni sehat ke bahane Khushi ke sath travel kar raha hai. Doosri taraf, Ammar, Khushi aur baki family members ke sath time spend karta hai, jabke Meharin aur uska husband bhi ghar aate hain jahan sab khane par beth kar guftagu karte hain. Ammar aur Khushi ki baaton se ghar ke baaki afraad confuse ho jate hain. Episode ke aakhir mein aik aisi situation aati hai jahan ghar walon ke samne ek ajeeb misunderstanding ya tense atmosphere paida hota hai aur episode ishi tension par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 56 aired on 2026-11-07.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=XncV0QVjoag",
+      "YouTube views: 1,312,234.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/XncV0QVjoag/hqdefault.jpg",
+        "caption": "Khushi Episode 56",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-07T15:00:34Z"
+  },
+  "17jtria": {
+    "id": "17jtria",
+    "type": "news",
+    "headline": "Uswah Episode 46 — Watch Online on Geo TV",
+    "dek": "Uswah episode 46 aired on 2026-11-07 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 46 aired on 2026-11-07 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=k7l0lQvnejk"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah aur Ashar ek café mein baith kar baat karte hain, jahan Uswah Ashar ki khushi dekh kar khush hoti hai aur kehti hai ke woh hamesha usay khush dekhna chahti hai. Ashar Uswah ko ghar chorta hai aur phool deta hai, jis par Inaya gussa hoti hai ke yeh phool uske liye nahi hain aur shadi ke baad in sab ki zaroorat nahi hoti. Iske baad, Uswah apnay sasural walo se milne jati hai aur unki tareef karti hai ke unhon ne uski zindagi asan kar di hai. Achanak, raaste mein Inaya ja rahi hoti hai ke ek gari use takkar maar deti hai aur woh zakhmi ho kar gir parhti hai. Is haadse ki khabar milne par sab pareshan ho jatay hain aur Uswah foran hospital pohchti hai jahan doctor kehta hai ke Inaya ki surgery ke liye 50 lakh rupay ki zaroorat hai. Uswah yeh sun kar pareshan ho jati hai aur episode yahan khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 46 aired on 2026-11-07.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=k7l0lQvnejk",
+      "YouTube views: 4,289,144.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/k7l0lQvnejk/hqdefault.jpg",
+        "caption": "Uswah Episode 46",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-07T15:00:22Z"
+  },
+  "jbfe4s": {
+    "id": "jbfe4s",
+    "type": "news",
+    "headline": "Izzat Episode 49 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 49 aired on 2026-11-07 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 49 aired on 2026-11-07 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=-jeomJ9MjM8"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Anas office mein baith kar Zoya ko call karta hai, aur unke beech thodi guftagu ke baad Anas Zoya ko lunch par milne ke liye mana leta hai. Woh dono ek cafe mein milte hain jahan Anas Zoya ke haath mein phoolon ka gajra pehnata hai aur woh dono khush nazar aate hain. Usi waqt wahan se guzarne wala Rayan unhein gadi ke andar dekh leta hai.\n\nDusri taraf, Rutba apne exam ke result ka intezaar kar rahi hoti hai aur jab website par result check karti hai to \"no active information available\" show hota hai. Woh pareshan ho jati hai. Thodi der baad uski behen aakar batati hai ke result aa gaya hai aur woh pass ho gayi hai. Rutba yeh sun kar pehle hairan hoti hai phir khushi se ro padti hai. Rutba ke walid aur walida bhi khush hote hain, aur Anas wahan phoolon ka guldasta lekar aata hai. Sab mil kar result dekhte hain aur tasveerein khichte hain.\n\nBaad mein, Anas aur Rutba akele baat karte hain. Anas kehta hai ke woh abhi bhi Zoya ke sath hai aur yeh kehte hue woh Rutba ko divorce dene ki baat karta hai. Rutba hairan reh jati hai aur kehti hai ke agar usne pehle ghalti ki thi aur maafi mang li thi to ab divorce ki kya zaroorat hai. Anas zidd karta hai ke woh ab sath nahi reh sakte aur wahan se chala jata hai. Rutba udas baithi rehti hai jabki episode ka ikhtetam is dukh bhare lamhe par hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 49 aired on 2026-11-07.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=-jeomJ9MjM8",
+      "YouTube views: 38,083.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/-jeomJ9MjM8/hqdefault.jpg",
+        "caption": "Izzat Episode 49",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-07T15:00:04Z"
   }
 };

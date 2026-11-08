@@ -2995,29 +2995,6 @@
    {
     "step": "convert_news",
     "category": "Trending News",
-    "run_at": "2026-11-07T06:57:24Z",
-    "run_id": "42348747218",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Worldwide Box Office Collection Day 2: Ranbir Kapoor, Sai Pallavi, Yash Film Overtakes Adipurush At Over ₹221 Crore",
-      "Hold Onto Me Makes History as Cyprus Claims Its First-Ever Oscar Submission",
-      "House Of The Dragon Returns November 19 In Special Mobile Game Event",
-      "Silambarasan and Vetri Maaran's Arasan Promo Pushed to December"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
-   {
-    "step": "convert_news",
-    "category": "Trending News",
     "run_at": "2026-11-07T09:14:09Z",
     "run_id": "42352220998",
     "status": "success",
@@ -3501,19 +3478,36 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-08T09:39:09Z",
+    "run_id": "42467892252",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Bano Episode 25 — Watch Online on Geo TV",
+      "Zehar-e-Mohabbat Episode 23 — Watch Online on HUM TV",
+      "Nashtar Episode 28 — Watch Online on Geo TV",
+      "Dar-E-Nijaat Episode 29 — Watch Online on ARY Digital",
+      "Aangan Episode 12 — Watch Online on HUM TV",
+      "Khushi Episode 56 — Watch Online on HUM TV",
+      "Uswah Episode 46 — Watch Online on Geo TV",
+      "Izzat Episode 49 — Watch Online on ARY Digital"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-06T23:52:30Z",
-    "run_id": "42314494431",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3750,6 +3744,41 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-08T09:39:09Z",
+    "run_id": "42467892252",
+    "status": "success",
+    "checked": {
+     "candidates": 23,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 13 new detected"
+    },
+    "changed": {
+     "added": [
+      "Bano Ep 25",
+      "Zehar-e-Mohabbat Ep 23",
+      "Nashtar Ep 28",
+      "Dar-E-Nijaat Ep 29",
+      "Aangan Ep 12",
+      "Khushi Ep 56",
+      "Uswah Ep 46",
+      "Izzat Ep 49"
+     ],
+     "updated": [
+      "Dar-E-Nijaat Ep 29",
+      "Uswah Ep 46",
+      "Nashtar Ep 28",
+      "Bano Ep 25",
+      "Khushi Ep 56",
+      "Aangan Ep 12",
+      "Zehar-e-Mohabbat Ep 23",
+      "Izzat Ep 49"
+     ],
+     "count": 16
+    },
+    "reason": null
    }
   ],
   "title_seed": [
@@ -8304,5 +8333,5 @@
    }
   ]
  },
- "updated_at": "2026-11-08T09:17:15Z"
+ "updated_at": "2026-11-08T09:39:09Z"
 }
