@@ -136,6 +136,8 @@ while [ "$attempt" -le "$MAX_ATTEMPTS" ]; do
     fi
     echo "commit-retry: push failed (remote moved again), retrying"
   else
+    echo "commit-retry: working tree state at pull failure:"
+    git status --short || true
     if rebase_in_progress; then
       echo "commit-retry: resolving rebase conflicts"
       if resolve_conflicts; then
