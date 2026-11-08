@@ -913,29 +913,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-07T09:51:23Z",
-    "run_id": "42361415874",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Sourav Joshi Faces Backlash Over Wife Avantika Bhatt's Goa Vlog Clip",
-      "Star Trek Ascendancy Expands With The Final Frontier Tabletop Release",
-      "When I Meet The Moon Episodes 7-8 Release Timings and Streaming Details",
-      "Benson Boone Surprises Young Cancer Fighter Onstage in Brisbane"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-07T10:52:02Z",
     "run_id": "42365639316",
     "status": "success",
@@ -1418,6 +1395,24 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-08T12:22:02Z",
+    "run_id": "42473810882",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "+0 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": "no-new-data"
    }
   ],
   "ott": [
@@ -2267,24 +2262,6 @@
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-07T09:14:07Z",
-    "run_id": "42352220998",
-    "status": "success",
-    "checked": {
-     "candidates": 606,
-     "detail": "602 collected staging rows from readers; 206 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "+1 new rows, 5 updated rows, 596 unchanged"
-    },
-    "reason": null
-   },
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-07T10:14:02Z",
     "run_id": "42361415874",
     "status": "success",
@@ -2663,6 +2640,24 @@
     "checked": null,
     "changed": null,
     "reason": "error"
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-08T12:22:02Z",
+    "run_id": "42473810882",
+    "status": "success",
+    "checked": {
+     "candidates": 625,
+     "detail": "620 collected staging rows from readers; 211 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+0 new rows, 8 updated rows, 612 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -8200,5 +8195,5 @@
    }
   ]
  },
- "updated_at": "2026-11-08T11:31:33Z"
+ "updated_at": "2026-11-08T12:22:02Z"
 }

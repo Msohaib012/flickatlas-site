@@ -4884,22 +4884,28 @@
       },
       "3": {
         "collection_currency": "USD",
-        "collection_inr_cr": 1.49,
+        "collection_inr_cr": 2.44,
         "collection_scope": "india_net",
-        "collection_usd": 157422,
+        "collection_usd": 257792,
         "date": "2026-11-08",
         "date_disagreed": false,
         "extras": {
+          "occupancy": {
+            "sources": {
+              "sacnilk": 50.0
+            },
+            "value": 50.0
+          },
           "shows": {
             "sources": {
-              "sacnilk": 835
+              "sacnilk": 1151
             },
-            "value": 835
+            "value": 1151
           }
         },
         "india": true,
         "sources": {
-          "sacnilk": 1.49
+          "sacnilk": 2.44
         }
       }
     },
@@ -8581,28 +8587,28 @@
       },
       "3": {
         "collection_currency": "USD",
-        "collection_inr_cr": 9.38,
+        "collection_inr_cr": 14.18,
         "collection_scope": "india_net",
-        "collection_usd": 991020,
+        "collection_usd": 1498151,
         "date": "2026-11-08",
         "date_disagreed": false,
         "extras": {
           "occupancy": {
             "sources": {
-              "sacnilk": 59.4
+              "sacnilk": 64.4
             },
-            "value": 59.4
+            "value": 64.4
           },
           "shows": {
             "sources": {
-              "sacnilk": 2940
+              "sacnilk": 4089
             },
-            "value": 2940
+            "value": 4089
           }
         },
         "india": true,
         "sources": {
-          "sacnilk": 9.38
+          "sacnilk": 14.18
         }
       }
     },
@@ -14215,22 +14221,28 @@
       },
       "3": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.04,
+        "collection_inr_cr": 0.09,
         "collection_scope": "india_net",
-        "collection_usd": 4226,
+        "collection_usd": 9509,
         "date": "2026-11-08",
         "date_disagreed": false,
         "extras": {
+          "occupancy": {
+            "sources": {
+              "sacnilk": 8.0
+            },
+            "value": 8.0
+          },
           "shows": {
             "sources": {
-              "sacnilk": 321
+              "sacnilk": 452
             },
-            "value": 321
+            "value": 452
           }
         },
         "india": true,
         "sources": {
-          "sacnilk": 0.04
+          "sacnilk": 0.09
         }
       }
     },
@@ -18738,22 +18750,28 @@
       },
       "4": {
         "collection_currency": "USD",
-        "collection_inr_cr": 27.6,
+        "collection_inr_cr": 37.0,
         "collection_scope": "india_net",
-        "collection_usd": 2916006,
+        "collection_usd": 3909139,
         "date": "2026-11-08",
         "date_disagreed": false,
         "extras": {
+          "occupancy": {
+            "sources": {
+              "sacnilk": 35.6
+            },
+            "value": 35.6
+          },
           "shows": {
             "sources": {
-              "sacnilk": 11552
+              "sacnilk": 15375
             },
-            "value": 11552
+            "value": 15375
           }
         },
         "india": true,
         "sources": {
-          "sacnilk": 27.6
+          "sacnilk": 37.0
         }
       }
     },

@@ -20,7 +20,7 @@ window.FA_ADVANCE = {
     {
       "date": "2026-11-09",
       "day": "Day 5",
-      "collection": 4692023
+      "collection": 4749076
     }
   ]
 };
