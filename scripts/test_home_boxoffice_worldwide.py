@@ -265,18 +265,23 @@ class WorldwideEvidenceTests(unittest.TestCase):
             queries.append(query)
             return []
         previous = {"schema_version": 1, "reports": {}, "selections": {"bollywood": [], "world": []}}
+        # Pin the budget for this scenario: the production budget now covers
+        # the full 48-job demand, so capping/priority can only be exercised
+        # against a small pinned budget (the old test read the production
+        # constant and broke the day the budget was raised to 48).
         with patch.dict(os.environ, {"TAVILY_API_KEY": "test-key", "CLOUDFLARE_API_TOKEN": "test-token"}), \
-             patch.object(bo, "run_selector", return_value=manifest):
+             patch.object(bo, "run_selector", return_value=manifest), \
+             patch.object(bo, "SEARCH_BUDGET", 5):
             summary = bo.run_refresh(tavily_fn=fake_tavily, gemini_fn=lambda prompt: {"reviews": []},
                 kv_read=lambda: previous, kv_write=writes.append, now=now)
-        self.assertEqual(len(queries), bo.SEARCH_BUDGET)
-        self.assertEqual(summary["query_count"], bo.SEARCH_BUDGET)
-        self.assertEqual(summary["skipped_searches"], 48 - bo.SEARCH_BUDGET,
+        self.assertEqual(len(queries), 5)
+        self.assertEqual(summary["query_count"], 5)
+        self.assertEqual(summary["skipped_searches"], 48 - 5,
                          "every job over the per-run budget is deferred, none is dropped silently")
         self.assertTrue(all("cumulative worldwide total" in q for q in queries),
                         "the budget is spent on the highest-priority window first")
         self.assertEqual(len(writes), 1, "the snapshot is still written when the budget is exhausted")
-        self.assertEqual(len(writes[0]["search_log"]), bo.SEARCH_BUDGET,
+        self.assertEqual(len(writes[0]["search_log"]), 5,
                          "every executed search is recorded for the cooldown")
 
     def test_search_cooldown_missing_figure_retries_after_6h(self):
