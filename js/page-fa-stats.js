@@ -32,7 +32,7 @@
   }
   var PAGE_NAMES = { home: "Home", movies: "Movies", tv: "TV Shows", boxoffice: "Box Office", boxoffice_day: "Box Office — day-wise", upcoming: "Upcoming", awaited: "Most Awaited", ott: "OTT", trailers: "Trailers", celebrities: "Celebrities", episodes: "Episode Guides", airing: "Airing Today", dramas: "Dramas", where_to_watch: "Where to Watch", news: "News", news_item: "News stories", awards: "Awards", category: "Category pages", person: "People", search: "Search", info: "Info pages" };
   var SRC_NAMES = { google: "Google", telegram: "Telegram", facebook: "Facebook", instagram: "Instagram", direct: "Direct / typed", bing: "Bing", duckduckgo: "DuckDuckGo", other: "Other sites" };
-  var DEV_NAMES = { mobile: "Mobile", desktop: "Computer", tablet: "Tablet" };
+  var DEV_NAMES = { mobile: "Mobile", desktop: "Computer", tablet: "Tablet", tv: "TV" };
   var regionNames = null;
   try { regionNames = new Intl.DisplayNames(["en"], { type: "region" }); } catch (e) {}
   function countryName(cc) {

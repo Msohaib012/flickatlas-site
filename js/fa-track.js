@@ -116,6 +116,7 @@
   }
   function devKey() {
     var ua = navigator.userAgent || "";
+    if (/SmartTV|SMART-TV|HbbTV|Android ?TV|AFT[A-Z]{1,3}|BRAVIA|Tizen|Web0S|webOS|NetCast|Viera|CrKey|SHIELD|Nexus Player|MiTV|MiBox|AppleTV|Roku|Aquos/i.test(ua)) return "tv";
     if (/iPad|Tablet|PlayBook|Silk/i.test(ua)) return "tablet";
     if (/Mobi|iPhone|Android.*Mobile|Windows Phone/i.test(ua)) return "mobile";
     if (/Android/i.test(ua)) return "tablet";
