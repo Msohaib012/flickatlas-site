@@ -88106,5 +88106,579 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 10:00:00 -0500"
+  },
+  "ighrs2": {
+    "id": "ighrs2",
+    "type": "news",
+    "headline": "Zehar-e-Mohabbat Episode 24 — Watch Online on HUM TV",
+    "dek": "Zehar-e-Mohabbat episode 24 aired on 2026-11-08 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Zehar-e-Mohabbat Episode 24 aired on 2026-11-08 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=h6IYi5zhDC4"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Zehar-e-Mohabbat ke is episode mein Umaima, Aaram se apni purani mohabbat ke sabaat aur khat-o-kitaabat dikha kar ladti hai, jis par woh pehle inkaar karta hai magar baad mein manta hai ke woh letters Malaika ne unke rishte mein khalal dalne ke liye likhe thay. Yeh sun kar Umaima gusse mein apna paon chot laga baithti hai aur akelepan ka rona roti hai, jiske baad Aaram uske paas aakar maafi maangta hai aur kehta hai ke woh sirf Umaima se hi mohabbat karta hai. Yeh sab dekh kar Malaika chupke se pareshan hoti hai. Ek aur scene mein Talaat aur uski ammi ki baat hoti hai ke Dr. Shahzeb aur Malaika ka rishta lag raha hai, jabke Talaat ko us din Dr. Shahzeb ke paas ek ring milti hai jiske baare mein Malaika kehti hai ke woh Shahzeb ki thi. Office mein Malaika ke paas ek shakhs aata hai jo Aaram ka dost hai aur apni dushwari ka zikr karke kuch paison ki baat karta hai, aur episode ke aakhir mein Malaika us shakhs se baat karte hue aage ka laaiha-e-amal tai karti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Zehar-e-Mohabbat Episode 24 aired on 2026-11-08.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=h6IYi5zhDC4",
+      "YouTube views: 6,335.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Zehar-e-Mohabbat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/h6IYi5zhDC4/hqdefault.jpg",
+        "caption": "Zehar-e-Mohabbat Episode 24",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-08T17:00:27Z"
+  },
+  "aatvtj": {
+    "id": "aatvtj",
+    "type": "news",
+    "headline": "Bano Episode 26 — Watch Online on Geo TV",
+    "dek": "Bano episode 26 aired on 2026-11-08 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 26 aired on 2026-11-08 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=fHMZtnVT5Gg"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bano aur Shahryar ki shadi ho chuki hai, aur Bano abhi bhi purani yaadon aur sadmein mein hai. Shahryar Bano ka khayal rakhne ki koshish karta hai, usay khana khilata hai aur khush dekhna chahta hai, lekin Bano ka dil kisi aur tarah ka bojh mehsoos karta hai. Aik scene mein Shahryar ka bhai Faqira ghalti se Bano aur Shahryar ko takleef pohchata hai jab woh Shahryar ko kidnap kar leta hai. Faqira aur uske sathion ki wajah se Shahryar par bohot zulm hota hai aur woh usay qaid rakhte hain. Is dauran, police aur family ko lagta hai ke Shahryar ghabra kar bhaag gaya hai ya ghayab ho gaya hai. Akhir mein, jab Bano aur Shahryar ki family baith kar is baat par baat kar rahi hoti hai ke Shahryar ki is sab mein koi ghalti nahi hai, tab Shahryar wahan aata hai aur Bano ke sath apnay rishte ko behtar karne ki koshish karta hai. Episode ka end is baat par hota hai ke sab samajh jate hain ke Bano aur Shahryar ki zindagi mein ab thori sukoon ki shuruat ho rahi hai, aur Bano bhi Shahryar ke sath khush nazar aati hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 26 aired on 2026-11-08.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=fHMZtnVT5Gg",
+      "YouTube views: 67,753.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/fHMZtnVT5Gg/hqdefault.jpg",
+        "caption": "Bano Episode 26",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-08T17:00:16Z"
+  },
+  "17alspt": {
+    "id": "17alspt",
+    "type": "news",
+    "headline": "Mohabbat Mukhtasir Episode 7 — Watch Online on HUM TV",
+    "dek": "Mohabbat Mukhtasir episode 7 aired on 2026-11-08 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Mohabbat Mukhtasir Episode 7 aired on 2026-11-08 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=IguzhhrTp4U"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Mehra aur uski family ke ghar par ek parcel aane se hoti hai jiske liye 15,000 rupay ki payment ki zaroorat hoti hai. Mehra ki maa pareshan ho jaati hain. Mehra office mein advance loan maangti hai lekin manager mana kar deta hai. Ghar par Mehra ki apni maa se baat hoti hai aur woh ek doosri aurat Reema ke zariye loan ka sochti hain. Mehra ki behen Mona ko jab yeh pata chalta hai toh woh naraz hoti hai kyunki unke ghar mein pehle hi financial pressure hai. Yeh baat jab mehra ki saas ko pata chalti hai toh woh ek family gathering mein mehra aur uski maa par ilzaam lagati hain ke unhone jhoot bola. Is baat par ghar mein kaafi jhagda hota hai, aur mehra ki saas gusse mein ghar chhodne ki koshish karti hain. Baad mein Mehra office jaati hai jahan woh aur Moeez aapas mein milte hain aur ek doosre ko apne emotions convey karte hain. Mehra office mein apni behen ki shadi ke liye cards aur mithai baatne jaati hai aur Moeez ko bhi card deti hai. Moeez jab card kholkar dekhta hai toh woh hairan reh jata hai, aur episode yahin ek suspenseful cliffhanger par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Mohabbat Mukhtasir Episode 7 aired on 2026-11-08.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=IguzhhrTp4U",
+      "YouTube views: 91,495.",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Mohabbat Mukhtasir"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/IguzhhrTp4U/hqdefault.jpg",
+        "caption": "Mohabbat Mukhtasir Episode 7",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-08T16:00:31Z"
+  },
+  "yy6krs": {
+    "id": "yy6krs",
+    "type": "news",
+    "headline": "Nashtar Episode 29 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 29 aired on 2026-11-08 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 29 aired on 2026-11-08 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=XqVFy-Ifb4s"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bareera aur Rafay ki kahani aage barhti hai. Bareera apni ma ke sath ghar chali jaati hai aur apne abba se baat karti hai ke usne apni shadi chalane ka faisla kiya hai. Rafay aur Bareera ke beech aik taraf e mohabat aur khamoshi ki dastan chalti hai. Rafay Bareera ke birthday par aik bara tohfa aur cake lekar wahan aata hai jahan Bareera aur Rafay ki mulakat hoti hai. Dono ke darmiyan car mein kuch baatein hoti hain jahan Bareera poochti hai ke usay kisne badla, aur Rafay kehta hai ke usay Bareera ki aankhon ne badla hai. Dusri taraf, Shah Daood apni khufiya planning mein laga rehta hai aur ek parcel bhejta hai jis mein goliyan aur hathiyar hain. Episode ke ikhtitam par Bareera ek kamre mein aati hai jahan lights aur gulab se sajawat hoti hai aur woh khamoshi se wahan khari ho kar sochti hai ke usko kya faisla lena chahiye aur woh Shah Daood se mohabbat kar chuki hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 29 aired on 2026-11-08.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=XqVFy-Ifb4s",
+      "YouTube views: 547,174.",
+      "TMDB: Nashtar (id 332312).",
+      "Episode summary added 2026-11-08."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/XqVFy-Ifb4s/hqdefault.jpg",
+        "caption": "Nashtar Episode 29",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-08T16:00:23Z"
+  },
+  "d1ldmg": {
+    "id": "d1ldmg",
+    "type": "news",
+    "headline": "Dipika Chikhlia Shares Her Thoughts on Sai Pallavi's Combat Scenes in Ramayana: Part One",
+    "dek": "Veteran actress Dipika Chikhlia, renowned for playing Sita in the 1987 television series Ramayan, responds to the action sequences featuring Sai Pallavi in Nitesh Tiwari's upcoming cinematic adaptation.",
+    "body": [
+      {
+        "h": "Sai Pallavi's Combat Sequences Ignite Online Discussions",
+        "p": [
+          "The portrayal of Sita by Sai Pallavi in Nitesh Tiwari's upcoming film Ramayana: Part One has quickly generated considerable buzz across digital platforms. This attention largely intensified after previews and clips showcasing the character engaging in direct combat sequences surfaced online.",
+          "While a section of the audience has welcomed this dynamic approach to the legendary figure, others have raised questions regarding whether such aggressive action aligns with the traditional depictions of the character found in popular retellings of the epic."
+        ]
+      },
+      {
+        "h": "Dipika Chikhlia Weighs In on the Creative Choices",
+        "p": [
+          "Amid the ongoing public debate, veteran actress Dipika Chikhlia has stepped forward to offer her perspective on the matter. Dipika famously portrayed Sita in Ramanand Sagar's landmark 1987 television adaptation titled Ramayan, cementing her status as the original onscreen representation of the revered figure for generations of viewers.",
+          "During a recent media interaction with The Free Press Journal, Dipika was questioned about the polarized reactions greeting Sai Pallavi's action sequences. The actress maintained a measured and thoughtful tone while addressing the viral social media clips."
+        ]
+      },
+      {
+        "h": "Reflecting on Traditional Versions of the Epic",
+        "p": [
+          "Discussing her familiarity with the source material, Dipika noted that the texts she grew up reading and working with did not feature similar combat moments. She mentioned that based on her understanding of Valmiki’s Ramayana and Tulsidas’ Ramayana, those particular descriptions were absent.",
+          "However, the veteran star was careful not to outrightly condemn or dismiss the filmmakers' creative decisions. She acknowledged that the epic possesses a vast literary history spanning numerous variations and regional adaptations across the country."
+        ]
+      },
+      {
+        "h": "Acknowledging the Diversity of Ramayana Texts",
+        "p": [
+          "Elaborating further on her viewpoint, Dipika pointed out that India is home to more than 300 different versions of the Ramayana. She observed that individual retellings frequently present unique narrative nuances that distinguish them from one another.",
+          "Consequently, the actress suggested that the creative team behind Ramayana: Part One may have drawn inspiration from an alternative text or a lesser-known regional variant of the epic that she had not personally encountered during her research or television career."
+        ]
+      },
+      {
+        "h": "Understanding the Roots of Ramanand Sagar's Adaptations",
+        "p": [
+          "Dipika's overall perspective on the character remains deeply rooted in the specific literary foundations that shaped Ramanand Sagar's 1987 television series. Her formative experience as Sita was guided primarily by the classical texts widely accepted during that era of television production.",
+          "Despite noting these differences in interpretation, the actress refrained from passing harsh judgment on the modern cinematic choices, emphasizing that different generations and storytellers often choose to highlight distinct facets of ancient legends."
+        ]
+      },
+      {
+        "h": "Plans to Watch the Film Post-Diwali",
+        "p": [
+          "When asked about her complete impressions of Nitesh Tiwari's project, the veteran actress revealed that she has yet to view Ramayana: Part One in its entirety. Her current awareness of the movie is limited strictly to the short action clips circulating widely on Instagram.",
+          "Sharing her viewing plans with the press, Dipika confirmed that she intends to sit down and watch the feature film properly once the Diwali festivities conclude, allowing herself a full cinematic experience before forming a final opinion."
+        ]
+      },
+      {
+        "h": "Director Nitesh Tiwari's Explanation for the Portrayal",
+        "p": [
+          "The discussion surrounding Sai Pallavi's combat role was actually anticipated by the creative team ahead of the film's official release rollout. Director Nitesh Tiwari previously addressed these specific artistic choices while speaking to international media at the Los Angeles premiere.",
+          "Tiwari explained to journalists that the inspiration for this powerful, action-oriented portrayal of Sita stemmed from the Adbhuta Ramayana. This lesser-known retelling depicts the character not merely as a passive figure, but as a potent manifestation of divine feminine energy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actress Dipika Chikhlia has reacted to online clips of Sai Pallavi engaging in combat sequences for Nitesh Tiwari's film Ramayana: Part One, noting that such scenes do not feature in the Valmiki or Tulsidas versions she knows. However, she acknowledged the existence of numerous retellings across India and stated she plans to watch the movie after Diwali. Meanwhile, the director previously explained that this unique characterization draws inspiration from the Adbhuta Ramayana."
+        ]
+      }
+    ],
+    "facts": [
+      "Dipika Chikhlia played Sita in Ramanand Sagar's 1987 television series Ramayan.",
+      "Sai Pallavi portrays Sita in Nitesh Tiwari's Ramayana: Part One.",
+      "There are reported to be more than 300 different versions of the Ramayana in India.",
+      "Director Nitesh Tiwari explained that the action-oriented portrayal was inspired by the Adbhuta Ramayana.",
+      "Dipika Chikhlia shared her thoughts during an interaction with The Free Press Journal."
+    ],
+    "entities": {
+      "people": [
+        "Dipika Chikhlia",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Ramanand Sagar",
+        "Valmiki",
+        "Tulsidas"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayan",
+        "Adbhuta Ramayana"
+      ]
+    },
+    "keywords": [
+      "Dipika Chikhlia Ramayana",
+      "Sai Pallavi Sita combat",
+      "Nitesh Tiwari Ramayana Part One",
+      "Ramayan TV series Sita"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135662567,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Dipika Chikhlia Shares Her Thoughts on Sai Pallavi's Combat Scenes in Ramayana: Part One",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T21:58:39+05:30"
+  },
+  "7zrtld": {
+    "id": "7zrtld",
+    "type": "news",
+    "headline": "Druski Makes SNL History as Surprise A-List Cameos Light Up the Finale",
+    "dek": "Internet personality Druski became the first content creator to host Saturday Night Live during its 51st season, leading to a star-studded episode featuring unexpected appearances from Michael B. Jordan, Dave Chappelle, and Chris Rock.",
+    "body": [
+      {
+        "h": "A Historic Hosting Milestone",
+        "p": [
+          "The long-running late-night comedy institution reached a major milestone during its 51st season by bringing in online personality Druski to helm the episode. This marked the very first time a digital content creator served as the master of ceremonies for the program, signaling a distinct shift as traditional television formats continue to intersect with the expanding digital creator ecosystem."
+        ]
+      },
+      {
+        "h": "Star-Studded Openings and Sketches",
+        "p": [
+          "Celebrities turned out in significant force to support the internet star throughout the evening, starting right at the beginning of the broadcast. Texas senator-elect James Talarico made a surprise appearance by crashing the cold open sketch, while actress Emma Stone later stepped onto the stage during Druski's opening monologue. Among the night's notable comedy segments was a parody titled 'You Can See Everything,' which featured Druski performing in whiteface while portraying Elizabeth Holmes."
+        ]
+      },
+      {
+        "h": "Musical Performances and Support",
+        "p": [
+          "Musical accompaniment for the episode was provided by The Strokes, who performed their recent single titled 'Going Shopping.' Actor Walton Goggins joined the band on stage during one of the musical segments, showcasing his dance skills alongside the performers in front of the studio audience."
+        ]
+      },
+      {
+        "h": "The Surprising Goodnights Stage",
+        "p": [
+          "While the individual sketches offered plenty of entertainment, the ultimate surprise occurred during the final goodnights segment. As Druski attempted to deliver his farewell message to the audience, comedians Chris Rock and Dave Chappelle suddenly appeared on stage, leaving the host visibly shaken and exclaiming his disbelief."
+        ]
+      },
+      {
+        "h": "Unplanned Cameos from Hollywood Stars",
+        "p": [
+          "Eagle-eyed viewers quickly spotted even more high-profile actors lingering in the background of the packed stage alongside Stone, Goggins, and Talarico. Michael B. Jordan and Austin Butler were both seen among the group during the closing moments of the broadcast, despite neither actor participating in any of the evening's scripted comedy sketches."
+        ]
+      },
+      {
+        "h": "Connections to Miami Vice '85",
+        "p": [
+          "The unexpected presence of Jordan and Butler on the studio stage is tied to active film production schedules in New York. Both actors are currently filming the feature film reboot titled 'Miami Vice '85,' a project that also stars Walton Goggins, making it likely that the 'Fallout' actor extended the invitation to his co-stars to hang out at the studio."
+        ]
+      },
+      {
+        "h": "Familiar Faces and Legacy",
+        "p": [
+          "Dave Chappelle's arrival on the final stage brought a familiar element to the broadcast, given his history as a frequent presence on the program following previous presidential election cycles. True to form, Chappelle carried a cigarette into the closing segment, adding his signature presence to a night that celebrated both traditional comedy veterans and modern digital stars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Content creator Druski made history on Saturday Night Live as the first digital personality to host the show during its 51st season. The landmark episode featured numerous celebrity cameos, musical performances by The Strokes, and an unexpected star-studded finale on stage."
+        ]
+      }
+    ],
+    "facts": [
+      "Druski is the first content creator to host Saturday Night Live in its 51-season history.",
+      "James Talarico crashed the cold open.",
+      "Emma Stone appeared in Druski's monologue.",
+      "Walton Goggins performed alongside The Strokes.",
+      "The Strokes performed their recent single 'Going Shopping'.",
+      "Chris Rock and Dave Chappelle surprised Druski during the goodnights segment.",
+      "Michael B. Jordan and Austin Butler appeared in the background during goodnights.",
+      "Jordan and Butler are filming the feature film reboot 'Miami Vice '85' in New York.",
+      "Druski played Elizabeth Holmes in the 'You Can See Everything' parody."
+    ],
+    "entities": {
+      "people": [
+        "Druski",
+        "Michael B. Jordan",
+        "Dave Chappelle",
+        "James Talarico",
+        "Emma Stone",
+        "Walton Goggins",
+        "Chris Rock",
+        "Austin Butler",
+        "Elizabeth Holmes"
+      ],
+      "titles": [
+        "Saturday Night Live",
+        "Miami Vice '85",
+        "Going Shopping",
+        "You Can See Everything",
+        "Fallout"
+      ]
+    },
+    "keywords": [
+      "Druski SNL host",
+      "Miami Vice 85 film",
+      "Dave Chappelle Saturday Night Live",
+      "The Strokes Going Shopping"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/druski-dave-chappelle-chris-rock-snl-goodnights.jpg",
+        "caption": "Druski Makes SNL History as Surprise A-List Cameos Light Up the Finale",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 16:15:38 +0000"
+  },
+  "18fkb2f": {
+    "id": "18fkb2f",
+    "type": "news",
+    "headline": "Celina Jaitly Shares Heartbroken Diwali Post Over Sons Residing In Austria",
+    "dek": "Actress Celina Jaitly opened up about spending her second consecutive Diwali away from her three sons amid an ongoing divorce and custody battle.",
+    "body": [
+      {
+        "h": "An Emotional Festival Message",
+        "p": [
+          "Bollywood actress Celina Jaitly marked the festival of Diwali with a deeply emotional message shared on social media. The star expressed profound sorrow over being separated from her three sons during the holiday period.",
+          "The heartfelt post highlighted the emotional toll of distance and ongoing family disputes. Celina noted that this marked the second year she had to celebrate the festive season apart from her children."
+        ]
+      },
+      {
+        "h": "Custody Dispute and Separation",
+        "p": [
+          "The actress's three sons—Winston, Viraaj, and Arthur—currently reside in Austria. They are staying with their father, Austrian hotelier Peter Haag.",
+          "The separation stems from an ongoing divorce and custody battle between the couple. The distance has placed significant emotional strain on the family dynamics."
+        ]
+      },
+      {
+        "h": "Fears Over Young Hearts",
+        "p": [
+          "In her social media message, Celina voiced her primary concern regarding her children. She admitted it breaks her heart to imagine her young sons carrying so much pain.",
+          "She also expressed a deep fear that the children might feel pressured to take sides. Furthermore, she worried they might eventually forget her maternal love amid external influences."
+        ]
+      },
+      {
+        "h": "Gratitude Amid Conflict",
+        "p": [
+          "Despite the bitter circumstances of the divorce proceedings, Celina extended a measure of gratitude toward Peter Haag. She acknowledged his role in welcoming their children into the world.",
+          "The actress emphasized that she harbors no regrets about their past family creation. She hopes that the hurt causing their family to break apart will not diminish her sons' kindness."
+        ]
+      },
+      {
+        "h": "Reassuring Her Children",
+        "p": [
+          "Celina took the opportunity to directly address her boys through her public statement. She assured them that she has never left them in spirit and never asked them to choose sides.",
+          "She reminded the boys that nothing can ever erase the life they shared together. Their memory and the hope for a future together serve as her primary motivation to keep going."
+        ]
+      },
+      {
+        "h": "Safeguarding the Future",
+        "p": [
+          "Explaining some of her recent choices, the actress stated she had no alternative path. She felt compelled to safeguard whatever little resources remained for the future of her children.",
+          "Her actions, according to her statement, are entirely motivated by the long-term well-being of Winston, Viraaj, and Arthur."
+        ]
+      },
+      {
+        "h": "Return to Hindi Cinema",
+        "p": [
+          "Away from her personal struggles, Celina is preparing for a return to the silver screen. She will make her comeback to Hindi cinema after a six-year hiatus.",
+          "Her upcoming project is titled 'Sister Nivedita'. The film is being directed by Ram Kamal Mukherjee and explores the life of Margaret Noble."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Celina Jaitly shared an emotional Diwali post detailing the pain of being apart from her three sons who live in Austria with Peter Haag amid a divorce battle. Alongside her personal struggles, the actress is preparing to make her Hindi film comeback in Sister Nivedita directed by Ram Kamal Mukherjee."
+        ]
+      }
+    ],
+    "facts": [
+      "Celina Jaitly shared an emotional Diwali post on November 8, 2026.",
+      "Her sons are named Winston, Viraaj, and Arthur.",
+      "The children live in Austria with their father, Peter Haag.",
+      "Celina's upcoming comeback film is titled 'Sister Nivedita' and is directed by Ram Kamal Mukherjee.",
+      "The film marks her return to Hindi cinema after a gap of six years."
+    ],
+    "entities": {
+      "people": [
+        "Celina Jaitly",
+        "Winston",
+        "Viraaj",
+        "Arthur",
+        "Peter Haag",
+        "Ram Kamal Mukherjee",
+        "Margaret Noble",
+        "Swami Vivekananda"
+      ],
+      "titles": [
+        "Sister Nivedita"
+      ]
+    },
+    "keywords": [
+      "Celina Jaitly Diwali post",
+      "Celina Jaitly Peter Haag divorce",
+      "Sister Nivedita film",
+      "Celina Jaitly sons Austria"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135662537,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Celina Jaitly Shares Heartbroken Diwali Post Over Sons Residing In Austria",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T21:57:58+05:30"
+  },
+  "10upbda": {
+    "id": "10upbda",
+    "type": "news",
+    "headline": "Jensen Ackles Lines Up Massive 2027 Television Slate with Rules of Prey and Vought Rising",
+    "dek": "The Supernatural star is set for a landmark year in 2027 with leading television roles, franchise extensions, and potential guest appearances.",
+    "body": [
+      {
+        "h": "An Expanded Television Horizon",
+        "p": [
+          "Since the conclusion of the CW series Supernatural in 2020, actor Jensen Ackles has continually broadened his television portfolio. Best recognized for his iconic portrayal of Dean Winchester, Ackles has transitioned into a diverse array of projects ranging from action thrillers to expansive comic book franchises.",
+          "Industry observers note that 2027 is shaping up to be his most prominent year yet, supported by multiple high-profile casting announcements and anticipated franchise returns that keep him firmly in the global spotlight."
+        ]
+      },
+      {
+        "h": "Stepping into Rules of Prey",
+        "p": [
+          "Among his major upcoming commitments is the MGM+ series Rules of Prey, where Ackles will take on the lead role of Lucas Davenport. The narrative adapts John Sandford's acclaimed thriller book series and follows the former Minneapolis Police Department detective as he hunts down a dangerous string of murderers.",
+          "Given the source material boasts more than thirty published books, the adaptation carries a built-in readership and offers substantial potential for long-term storytelling on the network."
+        ]
+      },
+      {
+        "h": "Returning to The Boys Universe in Vought Rising",
+        "p": [
+          "In addition to his detective role, Ackles remains deeply connected to Prime Video's hit superhero franchise. After making his debut as Soldier Boy in Season 3 of The Boys, appearing in the spin-off Gen V, and returning for the final fifth season, the actor is heading a brand new prequel project.",
+          "The upcoming spin-off series Vought Rising will transport audiences back to the 1950s. The show explores Soldier Boy's early career and team while simultaneously untangling a complex murder mystery."
+        ]
+      },
+      {
+        "h": "Potential Comeback on Tracker",
+        "p": [
+          "Viewers can also anticipate more of the actor on CBS, as Justin Hartley indicated to TV Insider that Russell Shaw is likely to return to Tracker. Although the character has appeared sparingly, he has quickly evolved into a fan-favorite figure.",
+          "Hartley suggested that the production plans to bring Ackles back for a few installments in the new year, adding further momentum to his already busy schedule."
+        ]
+      },
+      {
+        "h": "Franchise Context and Past Projects",
+        "p": [
+          "Ackles's post-Supernatural trajectory includes various streaming and network endeavors, such as his work in Countdown alongside his other high-end thriller commitments. Even though Countdown faced cancellation after a single season, his involvement in major universes has remained robust.",
+          "The enduring popularity of Soldier Boy—despite the character's morally ambiguous nature—highlights how effectively the actor's charismatic performances resonate with broad audiences."
+        ]
+      },
+      {
+        "h": "High Expectations for 2027",
+        "p": [
+          "With two prominent lead roles lined up across Rules of Prey and Vought Rising, alongside possible guest appearances on other established series, 2027 represents a major career peak. Fans hoping for an extended presence from the actor across multiple genres will have plenty of content to anticipate.",
+          "The combination of bestselling literary adaptations and major franchise expansions ensures that his upcoming slate will draw significant viewership across competing platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jensen Ackles is gearing up for a major television slate in 2027, anchored by leading roles in the MGM+ series Rules of Prey and the Prime Video prequel Vought Rising. Additionally, the actor is expected to reprise his fan-favorite role as Russell Shaw in future episodes of CBS's Tracker, marking a significant and busy period for the Supernatural alumnus."
+        ]
+      }
+    ],
+    "facts": [
+      "Jensen Ackles played Dean Winchester in Supernatural, which ended in 2020.",
+      "Jensen Ackles appeared in Tracker Season 4 as Russell Shaw.",
+      "Justin Hartley spoke to TV Insider about Jensen Ackles returning to Tracker in 2027.",
+      "Rules of Prey is an upcoming MGM+ series based on John Sandford's thriller book series.",
+      "Jensen Ackles will play Lucas Davenport in Rules of Prey.",
+      "Jensen Ackles debuted as Soldier Boy in Season 3 of The Boys.",
+      "Vought Rising is set in the 1950s and stars Jensen Ackles as Soldier Boy.",
+      "Countdown was canceled after a single season."
+    ],
+    "entities": {
+      "people": [
+        "Jensen Ackles",
+        "Justin Hartley",
+        "John Sandford"
+      ],
+      "titles": [
+        "Tracker",
+        "Supernatural",
+        "Rules of Prey",
+        "The Boys",
+        "Gen V",
+        "Vought Rising",
+        "Countdown"
+      ]
+    },
+    "keywords": [
+      "Jensen Ackles Rules of Prey",
+      "Vought Rising Jensen Ackles",
+      "Tracker Russell Shaw",
+      "Jensen Ackles 2027 TV shows"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/jensen-ackles-tracker-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jensen Ackles Lines Up Massive 2027 Television Slate with Rules of Prey and Vought Rising",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 17:00:17 GMT"
   }
 };
