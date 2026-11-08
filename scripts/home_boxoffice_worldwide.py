@@ -72,7 +72,7 @@ WINDOW_PRIORITY = ("cumulative_total", "last_7_days", "last_2_days")
 # Hard cap on Tavily searches per run. Sixteen selected titles with all three
 # windows uncovered would need 48; the cap keeps the two daily Tavily keys
 # inside their shared budget, and lower-priority windows roll to the next run.
-SEARCH_BUDGET = 16
+SEARCH_BUDGET = 48
 # A (title, window) that was already searched is not re-searched for 24h:
 # trade evidence for these windows does not change every few hours, and the
 # shared Tavily quota also feeds the rest of the pipeline (owner alert

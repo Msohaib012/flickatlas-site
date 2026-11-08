@@ -123,9 +123,9 @@ FETCH_TIMEOUT = 30
 WINDOW_DAYS = 90          # watchlist horizon (owner scope 2026-11-01)
 NEAR_DAYS = 21            # within this, Tavily runs every run
 FAR_CADENCE_DAYS = 7      # beyond NEAR_DAYS, Tavily at most weekly
-MAX_SEARCHES = 12         # per-run Tavily cap (India lane)
+MAX_SEARCHES = 18         # per-run Tavily cap (India lane)
 # World lane (2026-11-02): separate cap + rotation, see docstring.
-WORLD_MAX_SEARCHES = 6    # per-run Tavily cap (world lane)
+WORLD_MAX_SEARCHES = 12    # per-run Tavily cap (world lane)
 WORLD_MID_DAYS = 60       # world: <=60d cadence 3d, beyond weekly
 WORLD_MID_CADENCE_DAYS = 3
 # Approximate FX for converting a £/€ presale figure when the
