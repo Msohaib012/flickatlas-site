@@ -89878,5 +89878,453 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 20:49:37 GMT"
+  },
+  "1od0oq8": {
+    "id": "1od0oq8",
+    "type": "news",
+    "headline": "Why Tom Hiddleston and Claire Danes' Victorian Period Drama Continues to Captivate Viewers",
+    "dek": "Years after its initial release, Apple TV+'s gothic miniseries starring Tom Hiddleston and Claire Danes remains an essential binge-watch for period drama enthusiasts.",
+    "body": [
+      {
+        "h": "Exploring Underrated Period Dramas",
+        "p": [
+          "Period dramas encompass a vast array of television storytelling, ranging from sweeping historical romances to intense wartime chronicles. This diverse genre offers audiences an abundance of choices, yet despite the popularity of several mainstream titles, others manage to slip under the radar. One notable example is Apple TV's psychological period piece that has steadily maintained its reputation among dedicated fans.",
+          "Released as a short-form miniseries, the production offers an unpredictable viewing experience within the historical genre. Even years after its initial premiere, it stands out as a compelling watch for enthusiasts looking for rich storytelling and immersive atmospheric depth."
+        ]
+      },
+      {
+        "h": "Literary Origins and Creative Team",
+        "p": [
+          "The television adaptation draws its narrative directly from Sarah Perry's acclaimed novel of the same name. Bringing the intricate literary world to life required a talented ensemble, with celebrated actors Claire Danes and Tom Hiddleston anchoring the production in the lead roles.",
+          "Beyond the star power of its central duo, the miniseries distinguishes itself through a deliberate narrative pacing. The tension builds gradually as the plot twists and turns, creating an immersive viewing experience that captivates audiences from beginning to end."
+        ]
+      },
+      {
+        "h": "Unraveling the Victorian Gothic Mystery",
+        "p": [
+          "Set squarely in the Victorian era, the gothic romance centers on Cora Seaborne, portrayed by Claire Danes. Cora is introduced as a newly widowed woman and an avid paleontology enthusiast. Rather than surrendering to conventional mourning following the death of an abusive husband, she embraces her newfound freedom to pursue her scientific passions.",
+          "Motivated by local rumors concerning a mythical creature rumored to haunt the village of Aldwinter, Cora packs up her son Frankie and her loyal companion Martha. Traveling directly to the rural settlement, she sets out to investigate the validity of the reported beast."
+        ]
+      },
+      {
+        "h": "Skepticism and Complex Local Dynamics",
+        "p": [
+          "Upon arriving in Aldwinter, Cora discovers that the local residents are utterly convinced the mysterious creature is responsible for a series of tragic local events. However, the village vicar, Will Ransome, maintains a skeptical stance regarding the monster, initiating an intellectual connection with Cora.",
+          "As the narrative progresses, a complicated love triangle develops between Cora and Will, complicated further by the fact that Will is married to Stella. Amid mounting disasters and unexplained disappearances, the suspicious villagers eventually begin to target Cora despite her initial intentions to help."
+        ]
+      },
+      {
+        "h": "Character-Driven Narrative and Performance Strengths",
+        "p": [
+          "Ultimately, the core conflict of the series transcends the physical existence of any mythical monster. The primary obstacles stem from the volatile hysteria gripping Aldwinter and the deeply intricate emotional romance unfolding between the central characters.",
+          "The stellar performances delivered by the principal cast serve as the anchor of the entire production. The emotional complexity brought by the actors elevates the storytelling, transforming a standard mystery into a profound exploration of layered human relationships."
+        ]
+      },
+      {
+        "h": "Subverting Traditional Victorian Heroines",
+        "p": [
+          "Cora's character challenges the conventional tropes associated with traditional Victorian heroines. Her unwavering dedication to empirical science and her innate skepticism provide a refreshing perspective that drives the momentum of the episodes.",
+          "Furthermore, the series addresses her past trauma directly, allowing her to break free from an oppressive marriage and dedicate herself entirely to intellectual exploration and personal autonomy."
+        ]
+      },
+      {
+        "h": "A Rewarding Weekend Binge",
+        "p": [
+          "Consisting of a concise run of episodes, the miniseries provides a satisfying and accessible format for viewers seeking a thrilling weekend watch. Its tight pacing ensures that every installment delivers unexpected developments.",
+          "For followers of historical fiction and gothic mysteries who might have missed its initial premiere, the production remains a rewarding recommendation within the streaming landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Apple TV's period drama miniseries continues to draw attention for its character-driven narrative and performances by Tom Hiddleston and Claire Danes. Based on the novel by Sarah Perry, the show follows a widowed scientist investigating a mythical creature in a Victorian village while navigating complex relationships."
+        ]
+      }
+    ],
+    "facts": [
+      "The miniseries was released in 2022.",
+      "The show consists of six episodes.",
+      "Sarah Perry wrote the novel of the same name.",
+      "Tom Hiddleston and Claire Danes star in the miniseries."
+    ],
+    "entities": {
+      "people": [
+        "Tom Hiddleston",
+        "Claire Danes",
+        "Sarah Perry",
+        "Michael Jibson",
+        "Hayley Squires",
+        "Clémence Poésy"
+      ],
+      "titles": [
+        "The Essex Serpent"
+      ]
+    },
+    "keywords": [
+      "The Essex Serpent Apple TV",
+      "Tom Hiddleston The Essex Serpent",
+      "Claire Danes Cora Seaborne",
+      "Sarah Perry novel adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/tom-hiddleston-the-essex-serpent-4.png?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Tom Hiddleston and Claire Danes' Victorian Period Drama Continues to Captivate Viewers",
+        "source": "Collider"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 20:41:12 GMT"
+  },
+  "ke9tcf": {
+    "id": "ke9tcf",
+    "type": "news",
+    "headline": "Music Director Viju Shah Reminisces About Electronic Soundscapes",
+    "dek": "Renowned composer Viju Shah reflects on four decades of creating landmark electronic melodies for Indian cinema, discussing his signature synth-pop style, legendary collaborations, and timeless hits.",
+    "body": [
+      {
+        "h": "Introduction to a Futuristic Sound",
+        "p": [
+          "Veteran music director Viju Shah established a pioneering identity in the Indian film industry through booming basslines, groovy synths, and trance-like rhythms. As the son of composer Kalyanji, Shah grew up in a musical household and mastered keyboard arrangements that replaced traditional acoustic orchestras with futuristic electronic soundscapes throughout the 1980s and 1990s.",
+          "Revered by fans and peers as the King of Synth Sound, Shah blended cutting-edge electronic technology with traditional Indian percussion instruments. His innovative approach to house music and high-energy dance tracks influenced generations of listeners and continues to inspire modern-day musicians."
+        ]
+      },
+      {
+        "h": "Early Days and the Synthesisers",
+        "p": [
+          "Shah's musical journey began early in life under the guidance of his father and renowned gurus. Around 1974, he accompanied his uncle Babla to international music shows in places like Fiji and New Zealand, where they acquired a miniKORG 700 synthesizer. One of the first songs he played on this instrument was the iconic tune Yeh mera dil pyaar ka deewana from Don.",
+          "His early prowess with synthesizers quickly caught the attention of leading industry composers who invited him to play for their projects. By the time he officially debuted as a composer, Shah had already mastered replicating complex acoustic instruments using electronic gear."
+        ]
+      },
+      {
+        "h": "Breakthrough Work in Yudh and Tridev",
+        "p": [
+          "The composer's official entry into film scoring happened with the 1985 film Yudh, produced by Gulshan Rai and directed by Rajiv Rai. Shah contributed pulsating basslines, synth parts, and an action-packed background score, earning credit as music assistant Vijay Shah.",
+          "Collaborating again with Rajiv Rai for Tridev in 1989, Shah received full creative freedom. The hit track Oye oye combined synth-pop with traditional Indian instruments like the daf, tabla, dholak, and ghungroos, bringing audiences back to theatres during the era of VCRs."
+        ]
+      },
+      {
+        "h": "Global Success with Vishwatma",
+        "p": [
+          "For the 1992 action thriller Vishwatma, director Rajiv Rai signed Shah to deliver a global musical aesthetic suited for scenes shot in Kenya. Lyricist Anand Bakshi connected the film's thematic search with the classic track Saat samundar paar se, inspiring the massive chartbuster Saat samundar paar.",
+          "Sung by Sadhana Sargam and pictured on Divya Bharti at a Nairobi nightclub, the song became an enduring cultural phenomenon. Other tracks like Toofan blended electronic drum programming with evocative lyrics that resonated deeply with listeners."
+        ]
+      },
+      {
+        "h": "The Musical Triumph of Mohra",
+        "p": [
+          "Following Vishwatma, Mohra arrived in 1994 with a powerhouse soundtrack that solidified Shah's commercial standing. The album featured timeless romantic numbers like Na kajre ki dhaar alongside high-energy item songs such as Tu cheez badi hai mast mast, which featured memorable short-metre lyrics by Anand Bakshi.",
+          "Another standout track, Tip tip barsa paani, played on the poetic paradox of water igniting passion while retaining a dummy vocal line. The melancholic track Ae kaash kahin aisa hota utilized unused lyrical lines originally written for a stalled directorial project featuring Dilip Kumar."
+        ]
+      },
+      {
+        "h": "Mastering Trance and Suspense in Gupt",
+        "p": [
+          "The 1997 mystery thriller Gupt served as a master-class in utilizing short-metre lyrical lines to drive high-tempo electronic arrangements. Director Rajiv Rai pushed the composer to adopt trance and garage music styles to match the tense cinematic atmosphere.",
+          "Tracks like the title song Gupt gupt and the romantic number Mushkil bada yeh pyaar hai featured tight, rhythmic structures. The stellar soundtrack earned Shah the Filmfare Award for Best Background Score in 1998, celebrating a category introduced that very year."
+        ]
+      },
+      {
+        "h": "Collaborations with Feroz Khan and David Dhawan",
+        "p": [
+          "Shah also forged notable partnerships with filmmaker Feroz Khan, utilizing the miniKORG synthesizer extensively in Qurbani and recording tracks like Har kisi ko nahi milta in London for Janbaaz. Khan later gifted Shah a Yamaha DX7 digital synthesizer, a cherished instrument he has preserved for decades.",
+          "Later in the decade, Shah teamed up with director David Dhawan for the blockbuster comedy Bade Miyan Chote Miyan in 1998. Working around Dhawan's busy shooting schedule in Hyderabad, Shah delivered foot-tapping, mass-friendly hits including Makhna and Kisi disco mein jaye."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music director Viju Shah recently spoke about the creation of his most iconic synth-pop and electronic melodies across decades of Indian cinema. He detailed his artistic journey, collaborations with legendary filmmakers, and the stories behind timeless hits from films like Tridev, Mohra, and Gupt."
+        ]
+      }
+    ],
+    "facts": [
+      "Viju Shah is the son of music director late Kalyanji Virji Shah.",
+      "He accompanied his uncle Babla to Fiji Islands and New Zealand around 1974.",
+      "His first song as a composer was Danke pe chot padi hai in the 1985 film Yudh.",
+      "Tridev was released in 1989.",
+      "Vishwatma was released in 1992.",
+      "Mohra was released in 1994.",
+      "Gupt was released in 1997.",
+      "Viju Shah won the Filmfare Award for Best Background Score for Gupt in 1998.",
+      "Tere Mere Sapne was released in 1996.",
+      "Bade Miyan Chote Miyan was released in 1998."
+    ],
+    "entities": {
+      "people": [
+        "Viju Shah",
+        "Kalyanji",
+        "Babla",
+        "Zeenat Aman",
+        "Sunny Leone",
+        "Shah Rukh Khan",
+        "Sridevi",
+        "Akshay Kumar",
+        "Rajiv Rai",
+        "Amit Kumar",
+        "Alka Yagnik",
+        "Vijay Shah",
+        "Mohammed Aziz",
+        "Sadhana Sargam",
+        "Anand Bakshi",
+        "Naseeruddin Shah",
+        "Gulshan Rai",
+        "Amrish Puri",
+        "Divya Bharti",
+        "Pankaj Udhas",
+        "Indeevar",
+        "Dilip Kumar",
+        "Hariharan",
+        "Amitabh Bachchan",
+        "Joy Augustine",
+        "Kumar Sanu",
+        "Kavita Krishnamurthy",
+        "Feroz Khan",
+        "Kanchan",
+        "Manhar Udhas",
+        "Sapna Mukherjee",
+        "Raza Murad",
+        "David Dhawan",
+        "Sameer"
+      ],
+      "titles": [
+        "Qurbani",
+        "Janbaaz",
+        "Tridev",
+        "Mohra",
+        "Gupt",
+        "Tere Mere Sapne",
+        "Raees",
+        "Boss",
+        "Thank You",
+        "Sooryavanshi",
+        "Simmba",
+        "Dhurandhar: The Revenge",
+        "Nagin",
+        "Don",
+        "Yudh",
+        "Vishwatma",
+        "Taqdeer",
+        "Toofan",
+        "Kalinga",
+        "Pyaar Ishq Aur Mohabbat",
+        "Asambhav",
+        "Zora",
+        "Zora Zorawar",
+        "Yalgaar",
+        "Bade Miyan Chote Miyan"
+      ]
+    },
+    "keywords": [
+      "Viju Shah interview",
+      "Viju Shah music director",
+      "Mohra music Viju Shah",
+      "Tridev Viju Shah songs",
+      "Gupt background score"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/177606481793943939.jpg",
+        "caption": "Music Director Viju Shah Reminisces About Electronic Soundscapes",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-08T12:41:02+05:30"
+  },
+  "x4p50s": {
+    "id": "x4p50s",
+    "type": "news",
+    "headline": "Hulu Premieres The 12 Dates Of Christmas Starring Lucy Hale and Ian Harding",
+    "dek": "Discover Hulu's new holiday rom-com that brings back Pretty Little Liars stars Lucy Hale and Ian Harding for a festive romantic reunion.",
+    "body": [
+      {
+        "h": "A Fresh Holiday Option on Hulu",
+        "p": [
+          "Audiences searching for festive holiday content outside of traditional broadcast networks and standard subscription libraries now have a new option to consider. Hulu recently added a brand new romantic feature titled The 12 Dates of Christmas to its streaming catalog, giving subscribers an alternative to typical seasonal programming.",
+          "The timing of the release coincides with the peak of the winter holiday season, arriving just as platforms everywhere begin populating their schedules with romantic comedies and feel-good holiday films."
+        ]
+      },
+      {
+        "h": "Plot and Character Journey",
+        "p": [
+          "The narrative centers around Christina, a dedicated workaholic shop owner who has consistently placed her professional ambitions far ahead of her personal life and romantic relationships.",
+          "To avoid attending an upcoming family holiday gathering completely single, Christina agrees to let her best friend organize a series of twelve distinct dates leading up to Christmas in the hopes of meeting the right partner."
+        ]
+      },
+      {
+        "h": "Streaming Ranks and Competition",
+        "p": [
+          "Following its premiere on November 6th, the holiday feature quickly climbed the platform's internal popularity rankings, securing a position in the number two spot on Hulu's Top 15 Movies list.",
+          "While it faced little direct competition within Hulu's own fresh holiday release slate, it debuted alongside heavy-hitting seasonal titles across rival streaming services and networks during the exact same week."
+        ]
+      },
+      {
+        "h": "Rival Platform Releases",
+        "p": [
+          "Over on Netflix, viewers were greeted by the book-to-screen adaptation titled A Dog's Perfect Christmas, which features performances by Dennis Quaid and Milo Ventimiglia.",
+          "Simultaneously, the Hallmark Channel expanded its seasonal library by rolling out multiple fresh original movies, including projects titled Merry Memories and Holiday Unplugged."
+        ]
+      },
+      {
+        "h": "A Fan-Favorite Onscreen Reunion",
+        "p": [
+          "A major promotional selling point for the Hulu release is that it acts as an onscreen reunion for Pretty Little Liars actors Lucy Hale and Ian Harding.",
+          "The two previously portrayed the famous romantic pairing of Aria Montgomery and Ezra Fitz during the height of the popular teen drama series, generating significant nostalgia among longtime television fans."
+        ]
+      },
+      {
+        "h": "Familiar Faces in the Rom-Com Space",
+        "p": [
+          "Both lead actors bring substantial experience in the romantic comedy and holiday movie genres to their latest project together.",
+          "Lucy Hale previously led mid-budget rom-coms like Puppy Love and the film adaptation of The Hating Game, while Ian Harding appeared in Netflix's holiday film Our Little Secret alongside Lindsay Lohan and starred opposite Lacey Chabert in Lost in Paradise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hulu has added the holiday romantic comedy The 12 Dates of Christmas to its streaming library, where it quickly climbed to the second spot on the platform's top movies list. The feature stars former Pretty Little Liars co-stars Lucy Hale and Ian Harding, bringing the duo back together for a festive storyline amidst a crowded season of rival holiday releases."
+        ]
+      }
+    ],
+    "facts": [
+      "The 12 Dates of Christmas debuted on November 6th.",
+      "The 12 Dates of Christmas reached the number two spot on Hulu's Top 15 Movies list.",
+      "A Dog's Perfect Christmas dropped on Netflix on November 4th.",
+      "A Dog's Perfect Christmas stars Dennis Quaid and Milo Ventimiglia.",
+      "Hallmark released Merry Memories and Holiday Unplugged.",
+      "Lucy Hale and Ian Harding previously starred together in Pretty Little Liars as Aria Montgomery and Ezra Fitz.",
+      "Ian Harding starred in Our Little Secret with Lindsay Lohan.",
+      "Ian Harding starred in Lost in Paradise opposite Lacey Chabert.",
+      "Lucy Hale starred in Puppy Love and the film adaptation of The Hating Game."
+    ],
+    "entities": {
+      "people": [
+        "Christina",
+        "David Lipper",
+        "Dennis Quaid",
+        "Milo Ventimiglia",
+        "Lucy Hale",
+        "Ian Harding",
+        "Aria Montgomery",
+        "Ezra Fitz",
+        "Lacey Chabert",
+        "Lindsay Lohan",
+        "Danielle Bruncati"
+      ],
+      "titles": [
+        "The 12 Dates of Christmas",
+        "Super Troopers 3",
+        "A Dog's Perfect Christmas",
+        "Merry Memories",
+        "Holiday Unplugged",
+        "Pretty Little Liars",
+        "Puppy Love",
+        "The Hating Game",
+        "Lost in Paradise",
+        "Our Little Secret"
+      ]
+    },
+    "keywords": [
+      "The 12 Dates of Christmas",
+      "Lucy Hale Ian Harding",
+      "Hulu holiday movies",
+      "The 12 Dates of Christmas Hulu"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/8AK5U5NVY5LE8iiiRmdmEW-2000-80.jpg",
+        "caption": "Hulu Premieres The 12 Dates Of Christmas Starring Lucy Hale and Ian Harding",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 20:05:56 +0000"
+  },
+  "yxo0or": {
+    "id": "yxo0or",
+    "type": "news",
+    "headline": "Abhay Arora Discusses Transforming Into Lord Parshuram for Ramayana: Part 1",
+    "dek": "Actor Abhay Arora opens up about his preparation, working alongside Ranbir Kapoor, and the creative vision behind bringing a divine character to life in Ramayana: Part 1.",
+    "body": [
+      {
+        "h": "Stepping Into a Divine Role",
+        "p": [
+          "Actor Abhay Arora has recently shared fascinating details about his casting and performance in the upcoming cinematic venture Ramayana: Part 1. Following his work in the Dhurandhar franchise where he portrayed the character Yaseer, Arora took on a completely different challenge by stepping into a divine persona.",
+          "In the much-discussed production, he portrays Lord Parshuram as well as serving as the Swayamvar Prince. The actor recently gave fans a glimpse into his experience by publishing behind-the-scenes photographs on social media, drawing significant attention from movie enthusiasts."
+        ]
+      },
+      {
+        "h": "Unveiling the Creative Vision",
+        "p": [
+          "Discussing the project in an exclusive interview with Zoom, Arora shed light on the core concept that guided the creative team well before his casting was finalized. The primary goal was to establish a clear narrative and visual relevance connecting Bhagwan Vishnu, Bhagwan Ram, and Bhagwan Parshuram.",
+          "The filmmakers were determined to find an artist who could capture the essence of Lord Parshuram while matching the physical expectations of the sixth incarnation of Lord Vishnu. The character needed to be visualized as an exceptionally large and powerful individual."
+        ]
+      },
+      {
+        "h": "Collaborating With Ranbir Kapoor",
+        "p": [
+          "Performing alongside lead star Ranbir Kapoor required careful coordination and detailed discussions regarding the best approach to the sequence. Arora praised his co-star, describing him as generous, extremely helpful, and wonderful to work with both professionally and personally.",
+          "Their collaborative effort resulted in a strong working chemistry that translated effectively onto the screen. Arora noted that audiences can currently witness the final result of this joint performance across internet platforms."
+        ]
+      },
+      {
+        "h": "Merging Performances and Digital Techniques",
+        "p": [
+          "Earlier discussions with SCREEN revealed that the production team carefully retained shots featuring both actors and later merged their performances together for the final cut of Ramayana: Part 1. Arora clarified that this technique went beyond a standard body double arrangement.",
+          "Instead, the setup involved a complete, synchronized performance where the creative team utilized digital enhancement to place Ranbir's face onto Arora's body during the movie sequences."
+        ]
+      },
+      {
+        "h": "Rigorous Physical Preparation",
+        "p": [
+          "To properly embody the formidable attributes of Lord Parshuram, Arora had to undergo a demanding physical transformation. When he was first cast in the project, he realized that extensive preparation was mandatory to justify the enormous scale of the character.",
+          "The actor specifically concentrated on gaining weight, successfully putting on six to eight kilograms to achieve the robust and imposing physique associated with the deity."
+        ]
+      },
+      {
+        "h": "Future Streaming Plans",
+        "p": [
+          "Beyond the theatrical presentation, the makers have outlined distribution plans for the feature film. Once its run in cinema halls concludes, Ramayana: Part 1 is scheduled to be made available for streaming on JioHotstar.",
+          "This digital release strategy ensures that fans who miss the theatrical screenings will have an opportunity to watch the epic drama from home."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Abhay Arora discussed his dual role as the Swayamvar Prince and Lord Parshuram alongside Ranbir Kapoor in Ramayana: Part 1 during an exclusive interview with Zoom. He detailed the physical preparation of gaining six to eight kg and explained how the production team merged their performances on screen.",
+          "The film is slated for a digital release on JioHotstar following its theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Abhay Arora played Yaseer in the Dhurandhar franchise.",
+      "Abhay Arora portrayed Lord Parshuram and the Swayamvar Prince in Ramayana: Part 1.",
+      "Abhay Arora put on six to eight kg for the role.",
+      "Ramayana: Part 1 will stream on JioHotstar after its theatrical run."
+    ],
+    "entities": {
+      "people": [
+        "Abhay Arora",
+        "Ranbir Kapoor",
+        "Yaseer",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Abhay Arora",
+      "Ramayana Part 1",
+      "Ranbir Kapoor",
+      "Lord Parshuram"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156482462,thumbsize-1177270,width-1280,height-720,resizemode-75/156482462.jpg",
+        "caption": "Abhay Arora Discusses Transforming Into Lord Parshuram for Ramayana: Part 1",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T21:20:27Z"
   }
 };
