@@ -1449,6 +1449,18 @@ window.FA_OTT = {
     {
       "date": "2026-10-09",
       "date_kind": "release",
+      "id": 293610,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-10-09",
+      "date_kind": "release",
       "id": 337806,
       "providers": [
         {
@@ -2918,6 +2930,42 @@ window.FA_OTT = {
         {
           "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
           "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2025-07-13",
+      "date_kind": "release",
+      "id": 253372,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+          "name": "MGM+ Amazon Channel"
+        },
+        {
+          "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+          "name": "MGM Plus Roku Premium Channel"
+        },
+        {
+          "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+          "name": "MGM Plus"
+        },
+        {
+          "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+          "name": "Spectrum On Demand"
         },
         {
           "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",

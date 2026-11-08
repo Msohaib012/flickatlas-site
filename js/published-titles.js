@@ -33388,5 +33388,915 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 7,
     "providers": []
+  },
+  "1820980": {
+    "id": 1820980,
+    "type": "movie",
+    "title": "Saheb Bhai ki khoi Redmi",
+    "poster_path": "/oXSintlDKZhcRlqvUqjTwjn7EtK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When Saheb loses his beloved Redmi phone, a precious gift from his girlfriend, he is left devastated. Desperate to get it back, he seeks help from his three friends—Lal, Bahadur and Shastri. Despite their initial reluctance, the trio joins him in a chaotic search filled with hilarious encounters and unexpected drama. When their efforts fail, they turn to Baba, a quirky astrologer, for help. Eventually, they find the damaged phone and visit a mechanic, who suggests an unusual alternative: stealing a phone from the notorious Lambu Don. What follows is a madcap adventure of comedy, drama and dance, leading to an unexpected twist!",
+    "industry": "bollywood",
+    "popularity": 0,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 28,
+    "revenue": 59,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Drama"
+    ],
+    "tagline": "Redmi Rona",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi",
+      "en",
+      "bn"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-11-08",
+    "date_kind": "release",
+    "runtime": 32,
+    "providers": []
+  },
+  "1806725": {
+    "id": 1806725,
+    "type": "movie",
+    "title": "Knocked Cold",
+    "poster_path": "/q14jtrW4Fv5U8dcNrPvxM31f2TE.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Thian 'Tarzan' de Vries is a young kickboxing sensation from the Netherlands who is rapidly conquering the international fight scene. Behind his invincible image, however, lies a turbulent past marked by addiction, crime, and time spent in youth detention. Kickboxing became both his escape and his salvation. As Thian rises through the ranks toward global recognition, an unease grows beneath the surface: can he keep control when the system that protects him begins to crack?",
+    "industry": "world",
+    "popularity": 0.1147,
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "NL",
+      "JP"
+    ],
+    "spoken_languages": [
+      "nl"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "release",
+    "runtime": 52,
+    "providers": []
+  },
+  "1805289": {
+    "id": 1805289,
+    "type": "movie",
+    "title": "Dead Net",
+    "poster_path": "/qzAcW3Ts4AozlotDN2C4AUtn4VJ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A promising young tennis player finds her dreams threatened when she is targeted by a mysterious figure who is out for her blood.",
+    "industry": "world",
+    "popularity": 1.5582,
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "Play the game. Pray it’s not your last.",
+    "status": "Released",
+    "production_countries": [
+      "AU"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-08",
+    "date_kind": "festival",
+    "runtime": 9,
+    "providers": []
+  },
+  "1567605": {
+    "id": 1567605,
+    "type": "movie",
+    "title": "Ebenezer",
+    "poster_path": "/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "backdrop_path": "/oveb9ughaDh4GkjmVHvSgFnEzlM.jpg",
+    "vote_average": 4.0,
+    "vote_count": 1,
+    "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "industry": "world",
+    "popularity": 25.827,
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "trailer": {
+      "key": "l_Ozo1xUgbU",
+      "name": "Official Trailer 2",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 38000000,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "tagline": "Before he was Scrooge, he was…",
+    "status": "Released",
+    "production_countries": [
+      "US",
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG-13",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 115,
+    "providers": []
+  },
+  "1655020": {
+    "id": 1655020,
+    "type": "movie",
+    "title": "John Doe",
+    "poster_path": "/nt7ErINVZAJ3PIprfSYJJshaFJc.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 2.3598,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1814423": {
+    "id": 1814423,
+    "type": "movie",
+    "title": "Kushpu",
+    "poster_path": "/pJI3LbmSwUgFYdgvGvt0E4GsH0E.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 1.0724,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1806711": {
+    "id": 1806711,
+    "type": "movie",
+    "title": "Friends With Benefits",
+    "poster_path": "/lmxDy8bcoaXlCBZniGF41YWfJ7K.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two former coworkers lose their insurance and decide couples therapy is a budget-friendly option",
+    "industry": "world",
+    "popularity": 0.3791,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "release",
+    "runtime": 9,
+    "providers": []
+  },
+  "1815736": {
+    "id": 1815736,
+    "type": "movie",
+    "title": "Antoñito Molina - Un sueño: del chiringuito al estadio",
+    "poster_path": "/mAB06H61tesNuqHXbgWDF3v7x3t.jpg",
+    "backdrop_path": "/8kOfk6EkwVjl0VFEsgC6DpaMkf3.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 3.9546,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "Music"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "A",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1806701": {
+    "id": 1806701,
+    "type": "movie",
+    "title": "Murderers",
+    "poster_path": "/3WFuQe13oe9cFA9tImjr2FvJFLk.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Ignored by history for 40 years, the Oversteegen sisters' true story inspires \"Murderers\" (1941-1990). Two teenage girls lure a Nazi to his death. Echoing the psychological trauma of war, emigration, and today's chilling winds of fascism, the film asks: what is the true price of murder for a righteous cause, and what remains of our humanity after we are forced to cross the ultimate line?",
+    "industry": "world",
+    "popularity": 0.6035,
+    "original_language": "hu",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "War",
+      "History"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "HU"
+    ],
+    "spoken_languages": [
+      "hu",
+      "pl",
+      "yi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "release",
+    "runtime": 38,
+    "providers": []
+  },
+  "1662511": {
+    "id": 1662511,
+    "type": "movie",
+    "title": "Daffy Season",
+    "poster_path": "/wyAkjd0aDOoTaBG0bnJJNkUmUDd.jpg",
+    "backdrop_path": "/71Kly7myXlClhmMoimEVw5iqSkl.jpg",
+    "vote_average": 4.7,
+    "vote_count": 3,
+    "overview": "Daffy is ready for Duck Season, but Elmer is too immersed in his new obsession – soccer – to come hunting. Slowly the world around Daffy turns into a zombie-esque nightmare as the Tunes become obsessed with the sport.",
+    "industry": "world",
+    "popularity": 2.4044,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "tagline": "A global celebration of soccer. A personal crisis for Daffy.",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "G",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 6,
+    "providers": []
+  },
+  "1806696": {
+    "id": 1806696,
+    "type": "movie",
+    "title": "D!SoRd3rEd",
+    "poster_path": "/gwr9P4iW4ii45rPoL53Utqe2Wmk.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a wasteland of rubble and ruin, J. Doe—a Black Patient Zero—navigates the wreckage of a nation haunted by its own reflection. Pursued by histories of violence, erasure, and resistance, he confronts the ghosts of an unfinished reckoning. Blurring archive and hallucination, Disordered is a visual requiem—part ritual, part rupture—that confronts the consequences of a soul that cannot forget, yet refuses to remember its past.",
+    "industry": "world",
+    "popularity": 0.2964,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "release",
+    "runtime": 9,
+    "providers": []
+  },
+  "1803546": {
+    "id": 1803546,
+    "type": "movie",
+    "title": "Frame Story",
+    "poster_path": "/wRTSKU9brid845JIM3MJvO1xykP.jpg",
+    "backdrop_path": "/754vWEAfkxxtzLiXvj3tjVFnaXk.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A fairy tale about an animated film. The life of this film suddenly takes a cursed turn. The consequences of this change become apparent",
+    "industry": "world",
+    "popularity": 0.0805,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy",
+      "Animation"
+    ],
+    "tagline": "Once Upon a Time...",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "festival",
+    "runtime": 2,
+    "providers": []
+  },
+  "1800295": {
+    "id": 1800295,
+    "type": "movie",
+    "title": "Al Tiempo le da Hipo",
+    "poster_path": "/g7TLq6awyl6P6p3dpMVsMPAdJ9c.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The quest for a lost cyberpunk book written in the 1990s by Pepe Rojo, rumored to be a prophetic work of its time. After uncovering new leads, an obsessed young man embarks on a journey across northern Mexico to track down the remaining fragments and fuel his own delusion.",
+    "industry": "world",
+    "popularity": 0.2299,
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "festival",
+    "runtime": 86,
+    "providers": []
+  },
+  "1799909": {
+    "id": 1799909,
+    "type": "movie",
+    "title": "Dream Girl",
+    "poster_path": "/vG7VFu46Tp8MaB3jVZpmbk4X7WM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On her birthday, Kiran, an overworked mother, is faced with a fantastical possibility when her yesteryear Bollywood crush arrives at her door, with just one request - to marry her.",
+    "industry": "world",
+    "popularity": 0.2357,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 3500,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "festival",
+    "runtime": 12,
+    "providers": []
+  },
+  "1798430": {
+    "id": 1798430,
+    "type": "movie",
+    "title": "The New Extinction",
+    "poster_path": "/nDx19jbPrexfHWcoyDC6PYEab6j.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Egos, money and science intersect in this modern American parable that follows the king of the dinosaurs and those who unearth its remains. Paleontologist Dr. Thomas Carr hopes his latest find, a juvenile T. rex, can keep his crucial research alive as he navigates the crumbling world of academia and relentless funding pressure. Meanwhile, commercial fossil hunter Alan Detrich leads multimillion-dollar dinosaur auctions and teams up with a Kansas museum to show off a T. rex specimen so rare it could change the face of prehistory. As these two titans of paleontology clash, we are confronted with two paths for the future of science: raw capitalism or putting collective knowledge before the pursuit of profit.",
+    "industry": "world",
+    "popularity": 0.5667,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "tagline": "Egos. Money. Science.",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-15",
+    "date_kind": "festival",
+    "runtime": 90,
+    "providers": []
+  },
+  "1797426": {
+    "id": 1797426,
+    "type": "movie",
+    "title": "Janet's Island",
+    "poster_path": "/3IWf93znytzZxmkRVoiZNiGgy6f.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "During their holiday, two little girls help Janet, a heartbroken English traveller—unaware that this encounter will jeopardise their own family",
+    "industry": "world",
+    "popularity": 0.6025,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "release",
+    "runtime": 21,
+    "providers": []
+  },
+  "1796923": {
+    "id": 1796923,
+    "type": "movie",
+    "title": "Kidney",
+    "poster_path": "/aytF8XYNxJRxwmDK70o36ZwDZrs.jpg",
+    "backdrop_path": "/88CUXUzDtYpBWLdwZeIivq3ruhm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a remote village, two rival families – one privileged Hindu, the other a struggling Muslim family – are trapped in an endless cycle of feuds. A young man dreaming of TikTok fame and a woman yearning to escape patriarchy fall in love. When an inheritance dispute erupts, their relationship is caught between greed, betrayal, and a conflict that threatens to turn blood against blood.",
+    "industry": "bollywood",
+    "popularity": 0.9032,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "festival",
+    "runtime": 125,
+    "providers": []
+  },
+  "1796550": {
+    "id": 1796550,
+    "type": "movie",
+    "title": "Women and War",
+    "poster_path": "/26OLsKYdoAo1cuCjN3vDX0fdkKJ.jpg",
+    "backdrop_path": "/7d5gYhAOLtEjrNUf3DP3bQRdgHm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a chalet in the Ukrainian mountains, four women attend therapy sessions to recover from their very different, deeply traumatic experiences of the war. They each try, in their own way, to resume their former lives.",
+    "industry": "world",
+    "popularity": 0.2577,
+    "original_language": "pl",
+    "origin_country": [
+      "PL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "DE",
+      "PL",
+      "UA"
+    ],
+    "spoken_languages": [
+      "uk",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-15",
+    "date_kind": "festival",
+    "runtime": 103,
+    "providers": []
+  },
+  "293610": {
+    "id": 293610,
+    "type": "tv",
+    "title": "Doctor X: Mafia in White",
+    "poster_path": "/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "backdrop_path": "/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
+    "vote_average": 9.095,
+    "vote_count": 42,
+    "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "industry": "world",
+    "popularity": 63.7995,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": {
+      "key": "v6KNnhkLnnY",
+      "name": "Official Trailer [Subtitled]",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "tagline": "I don't fail. I don't compromise.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-10-09",
+    "networks": [
+      "SBS"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "SBS",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-10-09",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Pyeon Seong-geun"
+    ],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "253372": {
+    "id": 253372,
+    "type": "tv",
+    "title": "The Institute",
+    "poster_path": "/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+    "backdrop_path": "/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
+    "vote_average": 7.5,
+    "vote_count": 214,
+    "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+    "industry": "world",
+    "popularity": 15.5263,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "1BcvAdfyL5Y",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-08",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2025-07-13",
+    "networks": [
+      "MGM+"
+    ],
+    "number_of_seasons": 2,
+    "number_of_episodes": 16,
+    "channel": "MGM+",
+    "episode_run_time": [
+      58
+    ],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2025-07-13",
+        "name": "Season 1"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 8,
+        "air_date": "2026-11-08",
+        "name": "Season 2"
+      }
+    ],
+    "created_by": [
+      "Benjamin Cavell"
+    ],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MGM+ Amazon Channel",
+        "logo_path": "/gk7O3l9qHttE9F3hgDNnhbhlOs7.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MGM Plus Roku Premium Channel",
+        "logo_path": "/surh9i8VYeeq9186fKHnUg5Q5dg.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "MGM Plus",
+        "logo_path": "/q63Uzpu7JAs566vA2G23Lk7LcID.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Spectrum On Demand",
+        "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   }
 };

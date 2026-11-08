@@ -88680,5 +88680,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 17:00:17 GMT"
+  },
+  "1bjbpou": {
+    "id": "1bjbpou",
+    "type": "news",
+    "headline": "Ramayana Day 5 Advance Booking Collection Surpasses Opening Day Presales",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana demonstrates strong momentum on its first Monday with impressive advance ticket sales.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "Ramayana stands as a highly anticipated release of 2026, bringing together a stellar principal cast featuring Ranbir Kapoor, Sai Pallavi, and Yash. The project introduces Ranbir in a unique portrayal of Lord Ram, alongside Sai Pallavi as Sita and Yash stepping into the role of Raavan.",
+          "Helmed by director Nitesh Tiwari, the movie is co-produced by Yash and Namit Malhotra. The broader ensemble cast includes Rakul Preet Singh, Vivek Oberoi, Ravi Dubey, Arun Govil, Lara Dutta, and Anupam Kher."
+        ]
+      },
+      {
+        "h": "Box Office Journey and Initial Reception",
+        "p": [
+          "The theatrical run began with a mixed reaction from critics and audiences alike. Domestically, the opening day figures remained modest, falling short of the opening collections recorded by Prabhas' Adipurush despite heavy pre-release hype.",
+          "After experiencing a drop in earnings on its second day, the project managed to recover over the weekend. The festive spirit of Diwali appears to provide strong support, helping the production sustain a stable footing at the ticket windows."
+        ]
+      },
+      {
+        "h": "Day 5 Advance Booking Figures",
+        "p": [
+          "According to a report published by Sacnilk, advance booking numbers for the fifth day, which marks the first Monday following release, reached Rs 54.8cr. This total came alongside the sale of 14.27 lakh tickets.",
+          "The language-wise breakdown indicates strong regional contributions, led by Rs 43.63cr in Hindi. Additional presales included Rs 3.91cr in Kannada, Rs 3.08cr in Tamil, Rs 2.88cr in Telugu, and Rs 1.29cr in Malayalam."
+        ]
+      },
+      {
+        "h": "Beating Opening Day Presales",
+        "p": [
+          "A notable milestone for the Nitesh Tiwari directorial is its ability to outpace its initial pre-release numbers. The Rs 54.8cr collected through advance sales for day five successfully surpassed the Rs 50.08cr generated during opening day advance bookings.",
+          "This unusual upward trend late in the opening week highlights sustained audience interest as the festive holiday period continues."
+        ]
+      },
+      {
+        "h": "Voice Dubbing and Performance Praise",
+        "p": [
+          "Sharad Kelkar, who provided the Hindi voice for Yash's character Raavan, recently offered high praise for the actor's work. In a statement to Variety India, Kelkar described Yash's execution as outstanding and deemed him an ideal fit for the part.",
+          "Addressing the technical aspects of the dubbing process, Kelkar noted that while Yash is comfortable speaking Hindi, his primary fluency in Kannada created occasional differences in accent and syllable rhythm that required careful alignment during voice work."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has recorded an advance booking collection of Rs 54.8cr for its fifth day, successfully exceeding its initial opening day presales. The mythological epic, directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, continues to maintain a solid performance during the Diwali festive season."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari and co-produced by Yash and Namit Malhotra.",
+      "The main cast includes Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Raavan.",
+      "The supporting cast features Rakul Preet Singh, Vivek Oberoi, Ravi Dubey, Arun Govil, Lara Dutta, and Anupam Kher.",
+      "Opening day advance booking collection was Rs 50.08cr.",
+      "Day 5 (first Monday) advance booking collection reached Rs 54.8cr with 14.27 lakh tickets sold.",
+      "Day 5 language breakdown includes Rs 43.63cr in Hindi, Rs 3.91cr in Kannada, Rs 3.08cr in Tamil, Rs 2.88cr in Telugu, and Rs 1.29cr in Malayalam.",
+      "Sharad Kelkar provided the Hindi voice for Yash's character Raavan.",
+      "Story published on Sunday, November 8, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Anupam Kher",
+        "Prabhas",
+        "Sharad Kelkar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana advance booking collection",
+      "Ramayana day 5 collection",
+      "Ranbir Kapoor Ramayana",
+      "Yash Ramayana movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday5advancebookingfeature-13851794158889.jpg",
+        "caption": "Ramayana Day 5 Advance Booking Collection Surpasses Opening Day Presales",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 22:59:54 +0530"
+  },
+  "mycfpu": {
+    "id": "mycfpu",
+    "type": "news",
+    "headline": "Amazon Prime Video Releases New Episodes of Major Fantasy and Drama Series for November 2026",
+    "dek": "Discover the latest streaming additions on Amazon Prime Video for the week of November 9 through November 15, 2026, featuring highly anticipated new seasons of major fantasy and historical drama shows.",
+    "body": [
+      {
+        "h": "Prime Video Unveils Mid-November 2026 Streaming Schedule",
+        "p": [
+          "Amazon Prime Video has announced its lineup of fresh television and film additions for the week spanning November 9 to November 15, 2026. The platform is bringing several major titles to viewers, headlined by returning seasons of massive fantasy and historical drama properties.",
+          "Subscribers looking for fresh entertainment can expect a varied mix of streaming options starting mid-week and continuing through the weekend, catering to fans of both sprawling fantasy epics and character-driven historical narratives."
+        ]
+      },
+      {
+        "h": "The Return of The Lord of the Rings: The Rings of Power Season 3",
+        "p": [
+          "One of the flagship arrivals for the weekly schedule is the third season of The Lord of the Rings: The Rings of Power, making its way to the platform on Wednesday, November 11, 2026. This new chapter jumps forward five years past the events of the second season.",
+          "The narrative shifts focus to the height of the conflict between the Elves and the Dark Lord Sauron. Viewers will also witness the formal integration of several new characters into the unfolding political and military landscape of Middle-earth."
+        ]
+      },
+      {
+        "h": "Andrew Richardson Debuts as Anarion",
+        "p": [
+          "A major talking point for the third season is the introduction of actor Andrew Richardson in the role of Anarion. Anarion is recognized within the lore as the second son of Elendil and the brother of Isildur.",
+          "Showrunner J.D. Payne highlighted the casting choice in interviews, noting that Richardson possesses strong leading man charisma and was selected after an extensive audition process. The character enters the story leading a faction of the Faithful in the west who prepare to challenge Pharazôn's rule to restore Míriel."
+        ]
+      },
+      {
+        "h": "Anarion's Complex Allegiances",
+        "p": [
+          "Described by creators as fiercely dedicated in name, Anarion's impulsive nature and intense drive to crush his adversaries complicate his stance. These traits threaten to blur the traditional lines separating the Faithful from the Kingsmen.",
+          "This internal and external friction forms a core component of the character's arc as the narrative plunges deeper into the escalating hostilities of the era."
+        ]
+      },
+      {
+        "h": "The Chosen Season 6 Arrives on Sunday",
+        "p": [
+          "Expanding the drama offerings on the platform, The Chosen Season 6 arrives on Sunday, November 15, 2026. This season centers heavily on the final day of Jesus Christ.",
+          "The dramatic episodes trace events spanning from the initial arrest through to the final crucifixion, delivering an emotional conclusion to this portion of the historical narrative."
+        ]
+      },
+      {
+        "h": "Additional Mid-November Prime Video Additions",
+        "p": [
+          "Along with the major scripted series, the platform's weekly calendar features several other notable titles arriving throughout the mid-November window.",
+          "The release schedule includes The Book Of Clarence on November 11, live sporting events like Thursday Night Football and NBA broadcasts on November 12 and 13, seasons one and two of Frasier on November 14, and the aforementioned conclusion to The Chosen on November 15."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amazon Prime Video's streaming lineup for the week of November 9 to November 15, 2026, highlights major fictional and historical releases including The Lord of the Rings: The Rings of Power Season 3 and The Chosen Season 6. The fantasy epic features a five-year time jump and the debut of Andrew Richardson as Anarion, while the historical drama focuses on the final day of Jesus Christ."
+        ]
+      }
+    ],
+    "facts": [
+      "Amazon Prime Video's new releases span the week of November 9 to November 15, 2026.",
+      "The Lord of the Rings: The Rings of Power season 3 releases on November 11, 2026.",
+      "Season 3 is set five years after the second season.",
+      "Andrew Richardson is introduced as Anarion, the second son of Elendil and Isildur's brother.",
+      "The Chosen Season 6 releases on November 15, 2026, covering the final day of Jesus Christ from arrest to crucifixion.",
+      "The Book Of Clarence (2024) releases on November 11, 2026.",
+      "Frasier S1-2 (2023) releases on November 14, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Andrew Richardson",
+        "J.D. Payne",
+        "Elendil",
+        "Isildur",
+        "Anarion",
+        "Pharazôn",
+        "Míriel",
+        "Jesus Christ",
+        "Ritika Singh"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Rings of Power",
+        "The Chosen",
+        "The Book Of Clarence",
+        "Frasier",
+        "Thursday Night Football on Prime",
+        "NBA on Prime"
+      ]
+    },
+    "keywords": [
+      "The Lord of the Rings: The Rings of Power",
+      "Andrew Richardson Anarion",
+      "The Chosen Season 6",
+      "Prime Video November 2026 releases"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Prime-Video-releases-this-week.jpg?resize=1200,630",
+        "caption": "Amazon Prime Video Releases New Episodes of Major Fantasy and Drama Series for November 2026",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 18:15:00 +0000"
+  },
+  "11utocu": {
+    "id": "11utocu",
+    "type": "news",
+    "headline": "Sonu Nigam's 19-Year-Old Son Nevaan Nigam Makes His Musical Debut With New Single Slide",
+    "dek": "Nevaan Nigam, son of renowned playback singer Sonu Nigam and grandson of Agam Kumar Nigam, has officially launched his singing career with an independent single titled Slide.",
+    "body": [
+      {
+        "h": "Introduction to Nevaan Nigam's Debut",
+        "p": [
+          "Musical heritage runs deep in the Nigam household as a new generation steps into the spotlight. Sonu Nigam's 19-year-old son, Nevaan Nigam, has officially entered the professional music space with the release of his debut single. The track, titled Slide, marks his very first independent project as a recording artist. Fans and followers can now stream and experience his inaugural musical offering as he embarks on this exciting professional journey.",
+          "The newly released single dropped on YouTube on November 6, 2026. Prior to this release, Nevaan had largely remained away from the constant glare of the public eye and media limelight. This debut represents a significant milestone, transitioning him from a private individual into a promising young artist carrying forward a rich family legacy."
+        ]
+      },
+      {
+        "h": "Family Background and Musical Roots",
+        "p": [
+          "Music is practically in the blood for Nevaan, whose grandfather is Agam Kumar Nigam. Agam Kumar Nigam built a respected name for himself by performing classic renditions of timeless tracks originally sung by legendary artists like Mohammad Rafi and Mukesh, alongside organizing various stage shows throughout his career.",
+          "Nevaan was born to parents Sonu Nigam and Madhurima Nigam on July 25, 2007. Growing up, he spent his formative years completing his schooling and education in Dubai. Even at a very young age, he occasionally joined his famous father at concerts, showing off early vocal glimpses such as singing Kolaveri Di and Abhi Mujhme Kahin live on stage when he was around four years old."
+        ]
+      },
+      {
+        "h": "Sonu Nigam's Heartfelt Announcement",
+        "p": [
+          "Proud father Sonu Nigam took to Instagram to formally introduce his son to the world, sharing a snapshot alongside a detailed and affectionate note. The announcement coincided with the auspicious occasion of Diwali, marking a fresh chapter for the young musician as he explores his own distinct artistic path.",
+          "In his public message, Sonu highlighted how far Nevaan has come, evolving from a chubby, shy boy who hesitated to sing even in front of his father into a fit, lean young man capable of nailing studio recordings in a single take. Sonu praised his dedication, noting that his son practices vocal exercises taught by his vocal coach for up to 16 hours a day and works closely with producer Poo Bear."
+        ]
+      },
+      {
+        "h": "Physical Transformation and Gaming Talents",
+        "p": [
+          "Nevaan's journey into the arts involved immense personal discipline and hard work. According to his father's shared reflections, the young man struggled initially to jog for even three minutes. Through sheer determination, he turned his routine around by committing to extensive hours of dance practice to sharpen his stage performance skills.",
+          "Beyond his emerging musical talents, Nevaan has also showcased extraordinary aptitude in other fields. Back in 2020, Sonu Nigam mentioned in an interview that his son was residing in Dubai and had achieved remarkable success in the gaming community. Specifically, Nevaan ranked as one of the top gamers in the United Arab Emirates, holding the number two spot in Fortnite."
+        ]
+      },
+      {
+        "h": "Past Hesitations About India's Music Industry",
+        "p": [
+          "While Nevaan is now actively pursuing music with Slide, his father previously expressed different aspirations regarding his career path. In a 2020 interview, Sonu Nigam revealed reservations about wanting his son to become a professional singer within India, choosing instead to support whatever pursuits naturally captured his interest.",
+          "Sonu noted at the time that he deliberately kept his son away from India by settling in Dubai, emphasizing that the multi-talented child possessed various interests outside of traditional playback singing. Ultimately, however, Nevaan has chosen to embrace his vocal roots with this new independent single."
+        ]
+      },
+      {
+        "h": "Public Reaction and Future Outlook",
+        "p": [
+          "The announcement of Slide and Nevaan's official entry into the music industry has generated considerable warmth among fans of Sonu Nigam. Given his early internet appearances as a toddler, long-time admirers of the senior Nigam have watched the youngster grow up from afar.",
+          "Sonu concluded his celebratory social media post by asking well-wishers to shower the debutant with love and blessings. He urged audiences to support Nevaan as he navigates his professional path ahead, emphasizing the values of dignity, hard work, passion, and humility."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nineteen-year-old Nevaan Nigam has launched his debut independent music single titled Slide, marking his formal entry into the professional entertainment industry. Supported by his father Sonu Nigam, the young artist steps into the spotlight after years of focusing on his education in Dubai, physical training, and gaming pursuits. The release opens a brand-new chapter for the latest generation of the Nigam musical family."
+        ]
+      }
+    ],
+    "facts": [
+      "Nevaan Nigam is 19 years old.",
+      "Nevaan Nigam was born on July 25, 2007.",
+      "Nevaan Nigam's debut single is titled Slide.",
+      "Slide was released on YouTube on November 6, 2026.",
+      "Nevaan Nigam's parents are Sonu Nigam and Madhurima Nigam.",
+      "Nevaan Nigam's grandfather is Agam Kumar Nigam."
+    ],
+    "entities": {
+      "people": [
+        "Nevaan Nigam",
+        "Sonu Nigam",
+        "Madhurima Nigam",
+        "Agam Kumar Nigam",
+        "Mohammad Rafi",
+        "Mukesh",
+        "Poo Bear"
+      ],
+      "titles": [
+        "Slide",
+        "Kolaveri Di",
+        "Abhi Mujhme Kahin"
+      ]
+    },
+    "keywords": [
+      "Nevaan Nigam",
+      "Sonu Nigam son",
+      "Slide single",
+      "Nevaan Nigam singing debut"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156482447,thumbsize-359284,width-1280,height-720,resizemode-75/156482447.jpg",
+        "caption": "Sonu Nigam's 19-Year-Old Son Nevaan Nigam Makes His Musical Debut With New Single Slide",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T18:52:28Z"
+  },
+  "rkghdp": {
+    "id": "rkghdp",
+    "type": "news",
+    "headline": "Jacob Elordi Reveals Striking Blonde Hair Transformation During Date Night With Kendall Jenner",
+    "dek": "The actor showcased a completely new look in New York City alongside Kendall Jenner, sparking conversation around his latest aesthetic shift.",
+    "body": [
+      {
+        "h": "A New Look in New York City",
+        "p": [
+          "Jacob Elordi stepped out in New York City with a surprising new appearance, revealing a freshly dyed blonde hairdo. The actor enjoyed a low-key evening out, spending time with Kendall Jenner.",
+          "Photographs captured the pair sharing drinks before heading out to attend a Broadway showing of Paranormal Activity. The actor kept his attire casual in a black long-sleeve top and a matching beanie, which allowed a tuft of his newly lightened hair to peek through."
+        ]
+      },
+      {
+        "h": "Details of the Style Shift",
+        "p": [
+          "The transformation went beyond just the star's usual brunette locks. The lighter color appeared to extend to his eyebrows, creating a dramatic overall shift in his aesthetic.",
+          "His companion for the evening, Kendall Jenner, opted for a classic black trench coat as the pair navigated the city together for their night out."
+        ]
+      },
+      {
+        "h": "Previous Style Changes and Facial Hair",
+        "p": [
+          "This is not the first time the actor has debuted a notable change in the presence of the reality star. Earlier during a Los Angeles lunch outing, he sported an unexpected goatee.",
+          "That facial hair has since been swapped out for a clean-shaven appearance, demonstrating a pattern of frequent style evolutions over recent months."
+        ]
+      },
+      {
+        "h": "Intense On-Screen Transformations",
+        "p": [
+          "While it remains unconfirmed whether this latest aesthetic update is tied to a specific upcoming acting project, dramatic physical changes are familiar territory for the performer.",
+          "He previously underwent extensive prosthetic work and hours in the makeup trailer to portray the Creature in a major feature film adaptation directed by Guillermo del Toro."
+        ]
+      },
+      {
+        "h": "The Demanding Process of Prosthetics",
+        "p": [
+          "Portraying the iconic character involved enduring long hours in hair and makeup every single day. The process required dozens of individual pieces of makeup and prosthetics.",
+          "The heavy costumes, combined with altered facial structures and skin treatments, made the physical requirements exceptionally demanding for the cast member."
+        ]
+      },
+      {
+        "h": "An Internal and External Metamorphosis",
+        "p": [
+          "The extensive preparation did not just alter his physical appearance, but also served as a deeper performance milestone. The lengthy makeup sessions helped ground the character work from the moment he entered the trailer.",
+          "Collaborators described the extensive undertaking as a true metamorphosis, requiring immense patience and grace throughout the production schedule."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jacob Elordi debuted a new blonde hair color while on a date night with Kendall Jenner in New York City. The actor has a history of dramatic physical transformations for his on-screen roles."
+        ]
+      }
+    ],
+    "facts": [
+      "Jacob Elordi debuted blonde hair during a date night in New York City on November 7.",
+      "Kendall Jenner and Jacob Elordi attended Broadway's Paranormal Activity.",
+      "Jacob Elordi is 29 years old and Kendall Jenner is 31 years old.",
+      "Guillermo del Toro directed the 2025 adaptation of Frankenstein."
+    ],
+    "entities": {
+      "people": [
+        "Jacob Elordi",
+        "Kendall Jenner",
+        "Guillermo del Toro"
+      ],
+      "titles": [
+        "Paranormal Activity",
+        "Frankenstein"
+      ]
+    },
+    "keywords": [
+      "Jacob Elordi blonde hair",
+      "Jacob Elordi Kendall Jenner date night",
+      "Jacob Elordi New York City",
+      "Jacob Elordi",
+      "Kendall Jenner"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261108/88de3949-d25c-4a0c-8134-e100140eb28c_1794158408.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "Jacob Elordi Reveals Striking Blonde Hair Transformation During Date Night With Kendall Jenner",
+        "source": "E! News"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 17:42:01 GMT"
   }
 };

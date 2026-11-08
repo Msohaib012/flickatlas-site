@@ -1,45 +1,45 @@
 {
   "connected": true,
-  "generated": "2026-11-08T17:21:59Z",
+  "generated": "2026-11-08T19:00:42Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 8,
-    "pageviews": 39,
-    "sessions": 14,
-    "avg_session_seconds": 79.7
+    "users": 0,
+    "pageviews": 0,
+    "sessions": 0,
+    "avg_session_seconds": 0
   },
   "last7": {
-    "users": 126,
-    "pageviews": 504,
-    "sessions": 191,
-    "avg_session_seconds": 171.7
+    "users": 97,
+    "pageviews": 440,
+    "sessions": 153,
+    "avg_session_seconds": 185.4
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 164,
-      "avg_time_seconds": 260.9
+      "views": 135,
+      "avg_time_seconds": 260.5
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 36,
-      "avg_time_seconds": 65.0
+      "views": 34,
+      "avg_time_seconds": 66.2
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 21,
-      "avg_time_seconds": 27.9
+      "views": 20,
+      "avg_time_seconds": 28.9
     },
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 19,
-      "avg_time_seconds": 23.7
+      "views": 18,
+      "avg_time_seconds": 24.8
     },
     {
       "path": "/tv",
@@ -74,22 +74,22 @@
     {
       "path": "/show",
       "title": "Lagan Lagi (2026) — Episodes, Cast & Story | FlickAtlas",
-      "views": 11,
-      "avg_time_seconds": 44.8
+      "views": 10,
+      "avg_time_seconds": 48.9
     }
   ],
   "sources": [
     {
       "source": "google",
       "medium": "organic",
-      "sessions": 107,
-      "users": 97
+      "sessions": 79,
+      "users": 74
     },
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 69,
-      "users": 27
+      "sessions": 59,
+      "users": 21
     },
     {
       "source": "search.google.com",
@@ -113,11 +113,11 @@
   "countries": [
     {
       "country": "India",
-      "users": 56
+      "users": 42
     },
     {
       "country": "United States",
-      "users": 27
+      "users": 21
     },
     {
       "country": "Pakistan",
@@ -125,14 +125,6 @@
     },
     {
       "country": "Philippines",
-      "users": 5
-    },
-    {
-      "country": "Australia",
-      "users": 3
-    },
-    {
-      "country": "Singapore",
       "users": 3
     },
     {
@@ -140,30 +132,38 @@
       "users": 3
     },
     {
-      "country": "Brazil",
-      "users": 2
-    },
-    {
-      "country": "Canada",
+      "country": "Australia",
       "users": 2
     },
     {
       "country": "Egypt",
       "users": 2
+    },
+    {
+      "country": "Singapore",
+      "users": 2
+    },
+    {
+      "country": "Afghanistan",
+      "users": 1
+    },
+    {
+      "country": "Argentina",
+      "users": 1
     }
   ],
   "devices": [
     {
       "device": "mobile",
-      "users": 83
+      "users": 61
     },
     {
       "device": "desktop",
-      "users": 40
+      "users": 34
     },
     {
       "device": "tablet",
-      "users": 3
+      "users": 2
     }
   ],
   "per_post": {}
