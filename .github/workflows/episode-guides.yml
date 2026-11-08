@@ -76,7 +76,7 @@ jobs:
         # (2026-10-28 run 40598408647 lost 7 episode summaries this way).
         # On conflict the data files regenerate via episode-guides.py.
         env:
-          RETRY_ADD: "js/articles-data.js js/home-articles-data.js api-news.json api-trends.json out/episodes.json out/episode-feed.json out/google-trends-evidence.json out/trends-discovery-state.json out/categories out/auto-feed.json out/publish-export.json out/queue.json js/home-titles-data.js js/seo-meta.json sitemap.xml llms-full.txt"
+          RETRY_ADD: "out/step-runs.json js/articles-data.js js/home-articles-data.js api-news.json api-trends.json out/episodes.json out/episode-feed.json out/google-trends-evidence.json out/trends-discovery-state.json out/categories out/auto-feed.json out/publish-export.json out/queue.json js/home-titles-data.js js/seo-meta.json sitemap.xml llms-full.txt"
           RETRY_REGEN: "python3 scripts/episode-guides.py"
           RETRY_MESSAGE: "auto: episode guides"
           RETRY_HTML_BUMP: "1"
