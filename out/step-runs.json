@@ -913,29 +913,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-07T12:52:13Z",
-    "run_id": "42374250674",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Anbil Avan OTT Release Date Confirmed: Ashok Selvan and Preity Mukhundhan's Romantic Action Thriller Heads to SonyLIV",
-      "Acclaimed Drama Rectify Arrives on US Netflix",
-      "Prerna Wanvari Challenges First Indian International Emmy Presenter Claim Regarding Vijay Sethupathi",
-      "Clive Davis's Historic Manhattan Penthouse Lists For $11 Million Months After His Passing"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-07T13:52:04Z",
     "run_id": "42378792807",
     "status": "success",
@@ -1411,6 +1388,24 @@
      "updated": [],
      "count": 4,
      "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+    },
+    "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-08T14:21:45Z",
+    "run_id": "42488374757",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
    }
@@ -8111,5 +8106,5 @@
    }
   ]
  },
- "updated_at": "2026-11-08T14:09:11Z"
+ "updated_at": "2026-11-08T14:21:45Z"
 }
