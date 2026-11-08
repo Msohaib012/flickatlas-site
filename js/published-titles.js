@@ -5333,6 +5333,12 @@ window.FA_PUBLISHED = {
     "certification": "",
     "providers": [
       {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
         "name": "JioHotstar",
         "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
         "region": "IN",
@@ -6662,7 +6668,14 @@ window.FA_PUBLISHED = {
       "Bala SB",
       "Srihari Jagannathan"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "316970": {
     "id": 316970,
@@ -8600,7 +8613,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-30",
     "date_kind": "release",
     "runtime": 165,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1811601": {
     "id": 1811601,
@@ -25620,7 +25640,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-10-16",
     "date_kind": "release",
     "runtime": 130,
-    "providers": []
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "339072": {
     "id": 339072,
@@ -26260,7 +26287,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-04",
     "date_kind": "release",
     "runtime": 95,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1815405": {
     "id": 1815405,
@@ -28963,7 +28997,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-06",
     "date_kind": "release",
     "runtime": 63,
-    "providers": []
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1817567": {
     "id": 1817567,
@@ -29329,7 +29370,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-09-25",
     "date_kind": "release",
     "runtime": 138,
-    "providers": []
+    "providers": [
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1811490": {
     "id": 1811490,
@@ -29414,7 +29468,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-06",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "312006": {
     "id": 312006,
@@ -30391,7 +30452,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-13",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1818971": {
     "id": 1818971,
@@ -30549,7 +30617,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-05",
     "date_kind": "release",
     "runtime": 0,
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1815399": {
     "id": 1815399,

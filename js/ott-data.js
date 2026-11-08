@@ -214,7 +214,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-06",
       "date_kind": "digital",
       "id": 1483525,
@@ -227,11 +226,15 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
       "date": "2026-11-06",
       "date_kind": "digital",
       "id": 1600653,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -256,7 +259,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-06",
       "date_kind": "digital",
       "id": 926867,
@@ -342,11 +344,15 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
       "date": "2026-11-05",
       "date_kind": "digital",
       "id": 1817773,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -402,7 +408,6 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "country": "US",
       "date": "2026-11-04",
       "date_kind": "digital",
       "id": 1816668,
@@ -1293,7 +1298,6 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
-      "country": "IN",
       "date": "2026-10-16",
       "date_kind": "digital",
       "id": 1799967,
@@ -1500,6 +1504,22 @@ window.FA_OTT = {
     {
       "date": "2026-09-25",
       "date_kind": "release",
+      "id": 1538457,
+      "providers": [
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+          "name": "Sonyliv Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-25",
+      "date_kind": "release",
       "id": 333483,
       "providers": [
         {
@@ -1616,6 +1636,18 @@ window.FA_OTT = {
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2026-09-04",
+      "date_kind": "release",
+      "id": 331750,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-09-04",
@@ -2894,6 +2926,10 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 1234821,
       "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
         {
           "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
           "name": "JioHotstar"

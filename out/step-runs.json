@@ -2349,24 +2349,6 @@
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-06T23:04:59Z",
-    "run_id": "42307683153",
-    "status": "success",
-    "checked": {
-     "candidates": 595,
-     "detail": "592 collected staging rows from readers; 204 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 143,
-     "detail": "+0 new rows, 143 updated rows, 449 unchanged"
-    },
-    "reason": null
-   },
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-06T23:52:22Z",
     "run_id": "42314494431",
     "status": "success",
@@ -2767,6 +2749,24 @@
      "updated": [],
      "count": 3,
      "detail": "+0 new rows, 3 updated rows, 610 unchanged"
+    },
+    "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-08T04:56:54Z",
+    "run_id": "42444370830",
+    "status": "success",
+    "checked": {
+     "candidates": 624,
+     "detail": "618 collected staging rows from readers; 210 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 118,
+     "detail": "+2 new rows, 116 updated rows, 500 unchanged"
     },
     "reason": null
    }
@@ -8222,5 +8222,5 @@
    }
   ]
  },
- "updated_at": "2026-11-08T04:24:43Z"
+ "updated_at": "2026-11-08T04:56:54Z"
 }

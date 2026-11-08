@@ -3277,6 +3277,12 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
         "name": "JioHotstar",
         "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
         "region": "IN",
@@ -4026,7 +4032,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-29",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-09-04",
     "popularity": 10.5753
   },
@@ -5173,7 +5186,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-30",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-30",
     "popularity": 9.8243
   },
@@ -16270,7 +16290,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-04",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-16",
     "popularity": 0.9373
   },
@@ -16677,7 +16704,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-05",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-04",
     "popularity": 6.8897
   },
@@ -18287,7 +18321,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-06",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-06",
     "popularity": 1.9727
   },
@@ -18527,7 +18568,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-06",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sonyliv Amazon Channel",
+        "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-09-25",
     "popularity": 6.5924
   },
@@ -18581,7 +18635,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-06",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-06",
     "popularity": 3.3715
   },
@@ -19192,7 +19253,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-07",
     "date_kind": "release",
     "status": "In Production",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Zee5",
+        "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-13",
     "popularity": 1.9314
   },
@@ -19298,7 +19366,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-07",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-05",
     "popularity": 4.5599
   },

@@ -83219,5 +83219,408 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 07 Nov 2026 22:49:33 +0000"
+  },
+  "58fhle": {
+    "id": "58fhle",
+    "type": "news",
+    "headline": "Ramayana: Part One Box Office Day 3: Global Gross Reaches Rs 375.50 Crore Following Saturday Surge",
+    "dek": "Nitesh Tiwari's directorial venture Ramayana: Part One bounces back with a massive Saturday collection, pushing its three-day worldwide total past the Rs 350-crore milestone.",
+    "body": [
+      {
+        "h": "Saturday Box Office Surge",
+        "p": [
+          "Ramayana: Part One experienced a remarkable resurgence at the ticket counters on its third day of release. After witnessing a dip during its second day, the mythological epic recorded a significant jump on Saturday, November 7, pulling in its highest single-day domestic collection since its premiere."
+        ]
+      },
+      {
+        "h": "India Net and Gross Totals",
+        "p": [
+          "The feature earned Rs 69.80 crore in net domestic collections across India on Saturday, marking a 45.3 per cent increase compared to the previous day's earnings of Rs 48.05 crore. This latest daily figure brings the total three-idya India net collection to Rs 182.70 crore. Additionally, the single-day Indian gross stood at Rs 83.45 crore, elevating the cumulative domestic gross to Rs 218.25 crore."
+        ]
+      },
+      {
+        "h": "Global and Overseas Performance",
+        "p": [
+          "International territories also played a crucial role in boosting the theatrical revenue. The production brought in an estimated overseas gross of Rs 60 crore on Saturday alone, taking its cumulative international gross to Rs 157.25 crore and contributing to a combined three-day worldwide gross of Rs 375.50 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown",
+        "p": [
+          "Domestically, the Hindi version maintained its dominance by adding Rs 53 crore on Saturday, leading to a three-idya regional net total of Rs 136 crore. Meanwhile, the Kannada version collected Rs 6.30 crore, the Telugu version brought in Rs 6 crore, the Tamil version added Rs 2.50 crore, and the Malayalam version contributed Rs 2 crore for the day."
+        ]
+      },
+      {
+        "h": "Show Counts and Audience Footfalls",
+        "p": [
+          "Exhibitors across the country ran 23,696 shows for the movie on Saturday, maintaining an overall occupancy rate of 41.3 per cent. Estimated ticket sales reached 26.24 lakh footfalls for the day, bringing the aggregate three-day audience attendance to approximately 69.88 lakh people."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Details",
+        "p": [
+          "Helmed by director Nitesh Tiwari and produced by Namit Malhotra through Prime Focus Studios, DNEG, and Monster Mind Creations, the venture features an extensive ensemble cast. Ranbir Kapoor stars as Lord Ram, Sai Pallavi plays Sita, Yash appears as Ravana, Sunny Deol portrays Hanuman, and Ravi Dubey features as Lakshman. The supporting cast includes Shobana, Arun Govil, Lara Dutta, Indira Krishnan, Kajal Aggarwal, Rakul Preet Singh, Kunal Kapoor, and Vivek Oberoi. The musical score is crafted by AR Rahman and Hans Zimmer, with cinematography handled by Mitesh Mirchandani and visual effects executed by DNEG."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part One achieved a strong global gross of Rs 375.50 crore within its first three days following a substantial Saturday surge. The film registered its highest single-day domestic net collection of Rs 69.80 crore on November 7, driven primarily by strong Hindi-language earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One earned Rs 182.70 crore worldwide on its third day",
+      "Three-day global gross reached Rs 375.50 crore",
+      "The film released on November 5, 2026",
+      "Day 3 date was November 7, 2026",
+      "Day 1 India nett collection was Rs 64.85 crore",
+      "Day 2 India nett collection was Rs 48.05 crore",
+      "Day 3 India nett collection was Rs 69.80 crore",
+      "Hindi version Day 3 collection was Rs 53 crore",
+      "Kannada version Day 3 collection was Rs 6.30 crore",
+      "Telugu version Day 3 collection was Rs 6 crore",
+      "Tamil version Day 3 collection was Rs 2.50 crore",
+      "Malayalam version Day 3 collection was Rs 2 crore",
+      "Total shows across India on Saturday were 23,696",
+      "Overall occupancy on Saturday was 41.3 per cent",
+      "Estimated footfalls for Saturday stood at 26.24 lakh",
+      "Cumulative three-day footfalls were approximately 69.88 lakh"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Shobana",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Kunal Kapoor",
+        "Vivek Oberoi",
+        "Namit Malhotra",
+        "AR Rahman",
+        "Hans Zimmer",
+        "Mitesh Mirchandani",
+        "K Janani",
+        "Donald Trump"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Yash Ramayana Day 3 earnings",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-3-08151784-16x9_0.jpeg?VersionId=OXe_rOd5yle0U3nrwa0JOqYny5n0qZJM",
+        "caption": "Ramayana: Part One Box Office Day 3: Global Gross Reaches Rs 375.50 Crore Following Saturday Surge",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 08:48:24 +0530"
+  },
+  "11o4tbo": {
+    "id": "11o4tbo",
+    "type": "news",
+    "headline": "Palme d'Or Winner 'Fjord' Claims Jakarta World Cinema Audience Award",
+    "dek": "Cristian Mungiu's acclaimed feature took home the top audience prize at Jakarta World Cinema, while upcoming Indonesian filmmakers secured funding for their debut projects through the KlikFilm Short Movie Competition.",
+    "body": [
+      {
+        "h": "Fjord Wins Big in Jakarta",
+        "p": [
+          "Cristian Mungiu's celebrated feature film \"Fjord\" secured the sole feature prize at the Jakarta World Cinema event, capturing the coveted Audience Award. The movie also had the distinct honor of opening the entire festival.",
+          "The festival concluded its successful run with a closing ceremony that celebrated international cinema alongside emerging regional talents. Attendees and organizers gathered to mark the conclusion of the multi-day cinematic celebration."
+        ]
+      },
+      {
+        "h": "Festival Attendance and Closing Highlights",
+        "p": [
+          "Executive director Frederica revealed that over 25,000 film enthusiasts attended screenings at CGV Grand Indonesia across the eight-day festival. The event wrapped up with the screening of Banjong Pisanthanakun's Thai horror film \"Inherit.\"",
+          "Pisanthanakun and leading star Davika Hoorne were present for the Indonesian premiere, participating in an engaging Q&A session with fans. Discussion during the event touched upon Hoorne's elaborate wardrobe, including a high-end Gucci dress."
+        ]
+      },
+      {
+        "h": "KlikFilm Short Movie Competition Winners",
+        "p": [
+          "The festival's closing ceremony additionally revealed the victors of the KlikFilm Short Movie Competition, organized by the local streaming platform that supports the festival. Running from April to July, the contest attracted more than 300 short films from across Indonesia.",
+          "A panel of esteemed industry judges evaluated the submissions, featuring horror filmmaker Joko Anwar, writer-director Gina S. Noer, and short film creator Khozy Rizal."
+        ]
+      },
+      {
+        "h": "Debut Feature Funding Rewards",
+        "p": [
+          "The primary honor of the short movie competition went to Jusuf Witjaksono for his short \"Karim.\" This victory grants the director full production and distribution funding for his debut feature from Falcon Pictures.",
+          "Adam Hasyim Al Raschid secured the first runner-up spot with \"Air Pangea,\" while Ali Yafie Muzaki claimed second runner-up with \"The Grave of Dreams.\" Both directors also secured full feature funding packages from KlikFilm."
+        ]
+      },
+      {
+        "h": "Additional Competition Honors",
+        "p": [
+          "Further recognition was handed out during the ceremony, with Zaky Alfawwaz taking home the short film audience award for \"Callsh#t.\" Meanwhile, Michael Juan Saptayada earned the Special Jury Prize for his short project \"OTW.\"",
+          "These awards highlight the festival's ongoing commitment to nurturing new voices in Indonesian cinema and providing practical pathways to full-length filmmaking."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cristian Mungiu's \"Fjord\" won the Audience Award at the Jakarta World Cinema festival, which concluded its eight-day run with strong attendance. The event also distributed feature film funding to emerging Indonesian short filmmakers through the KlikFilm competition."
+        ]
+      }
+    ],
+    "facts": [
+      "Cristian Mungiu directed 'Fjord'",
+      "'Fjord' won the Jakarta World Cinema Audience Award",
+      "Banjong Pisanthanakun directed 'Inherit'",
+      "Davika Hoorne stars in 'Inherit'",
+      "Over 25,000 people attended screenings at CGV Grand Indonesia",
+      "The festival lasted for eight days",
+      "The KlikFilm Short Movie Competition drew more than 300 shorts",
+      "Joko Anwar, Gina S. Noer, and Khozy Rizal served on the short film jury",
+      "Jusuf Witjaksono won the top short film prize for 'Karim'",
+      "Falcon Pictures provided production and distribution funding for 'Karim'",
+      "Adam Hasyim Al Raschid is the first runner-up for 'Air Pangea'",
+      "Ali Yafie Muzaki is the second runner-up for 'The Grave of Dreams'",
+      "Zaky Alfawwaz won the short film audience award for 'Callsh#t'",
+      "Michael Juan Saptayada won the Special Jury Prize for 'OTW'"
+    ],
+    "entities": {
+      "people": [
+        "Cristian Mungiu",
+        "Banjong Pisanthanakun",
+        "Jenny S. Li",
+        "Davika Hoorne",
+        "Tudor Vladimir Panduru",
+        "Joko Anwar",
+        "Gina S. Noer",
+        "Khozy Rizal",
+        "Jusuf Witjaksono",
+        "Adam Hasyim Al Raschid",
+        "Ali Yafie Muzaki",
+        "Zaky Alfawwaz",
+        "Michael Juan Saptayada",
+        "Frederica"
+      ],
+      "titles": [
+        "Fjord",
+        "Inherit",
+        "Enjoy Your Stay",
+        "R.M.N.",
+        "Impetigore",
+        "Two Blue Stripes",
+        "Basri Salma in a Never-Ending Comedy",
+        "Karim",
+        "Air Pangea",
+        "The Grave of Dreams",
+        "Callsh#t",
+        "OTW"
+      ]
+    },
+    "keywords": [
+      "Fjord film Jakarta World Cinema",
+      "Jakarta World Cinema Audience Award",
+      "KlikFilm Short Movie Competition",
+      "Banjong Pisanthanakun Inherit",
+      "Cristian Mungiu Fjord"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Jakarta-World-Cinema-closing-night-and-awards.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Palme d'Or Winner 'Fjord' Claims Jakarta World Cinema Audience Award",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 03:50:26 +0000"
+  },
+  "166t0ze": {
+    "id": "166t0ze",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Witnesses Strong Growth on Second Day at Box Office",
+    "dek": "The action comedy film Scene, starring Suriya and directed by Jithu Madhavan, saw a significant rise in earnings on its second day, crossing the ₹81 crore mark worldwide.",
+    "body": [
+      {
+        "h": "Second Day Growth",
+        "p": [
+          "The action comedy film Scene experienced a positive upward trend in its domestic earnings during its second day in theatrical release. The feature witnessed a 5.7 percent increase in India net collections on Saturday compared to its opening day figures.",
+          "With strong momentum at the box office, the feature has quickly approached the ₹82 crore mark in worldwide gross collections within just two days of hitting the big screen."
+        ]
+      },
+      {
+        "h": "Domestic Collections Breakdown",
+        "p": [
+          "According to reports by Sacnilk, the film brought in an estimated ₹20.25 crore net domestically on Saturday, November 7, operating across 5,687 shows. This followed an opening day net collection of ₹19.15 crore.",
+          "The cumulative domestic net collection for the Suriya-starrer reached ₹39.40 crore, while the total India gross collections climbed to ₹45.75 crore following the weekend growth."
+        ]
+      },
+      {
+        "h": "Theatre Occupancy Rates",
+        "p": [
+          "The feature also noted an improvement in overall theatre occupancy across its screening locations on the second day. The average occupancy rate increased from 55 percent on Day 1 to 62.5 percent on Day 2.",
+          "This steady rise in audience turnout helped fuel the increased earnings and ticket sales across different regions during the first weekend of release."
+        ]
+      },
+      {
+        "h": "Tamil and Telugu Performance",
+        "p": [
+          "The domestic collections were driven by both Tamil and Telugu language versions, with the Tamil release capturing the larger share of the earnings. The Tamil version collected an estimated ₹16.50 crore net across 4,324 shows, registering a 65.1 percent occupancy.",
+          "Meanwhile, the Telugu version brought in approximately ₹3.75 crore net from 1,363 shows, maintaining an average occupancy rate of 54.1 percent to contribute to the domestic total."
+        ]
+      },
+      {
+        "h": "Global Gross and Ticket Sales",
+        "p": [
+          "In addition to domestic success, the film recorded substantial numbers in overseas markets, contributing an estimated ₹18 crore in gross collections on Saturday alone. This brought the cumulative overseas gross to ₹35.75 crore after two days.",
+          "Ticket sales also saw high numbers, with approximately 14.98 lakh tickets sold on Saturday, pushing the total ticket sales across the first two days to around 29.30 lakh."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Written and directed by Jithu Madhavan, the action comedy features Suriya, Naslen, and Nazriya Nazim in the primary lead roles. The project marks the Tamil cinema debut for Jithu Madhavan, Naslen, and composer Sushin Shyam.",
+          "The feature is produced by Suriya and Jyotika under the banners of Zhagaram Studios and 2D Entertainment, with supporting performances from actors like Anandraj, Lal, and Raj Priyan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The action comedy film Scene saw a 5.7 percent increase in its India net earnings on its second day, reaching a cumulative domestic net of ₹39.40 crore. Bolstered by strong overseas collections, the Suriya-starrer approached the ₹82 crore mark in worldwide gross collections within two days of its theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released on November 6, 2026.",
+      "Day 2 India net collection was ₹20.25 crore on November 7, 2026.",
+      "Opening day India net collection was ₹19.15 crore.",
+      "Cumulative domestic net collection stands at ₹39.40 crore.",
+      "Total India gross reached ₹45.75 crore.",
+      "Cumulative overseas gross reached ₹35.75 crore.",
+      "Worldwide gross collection is close to ₹82 crore, specifically ₹81.50 crore.",
+      "Ticket sales reached around 29.30 lakh across the first two days."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Naslen",
+        "Nazriya Nazim",
+        "Sushin Shyam",
+        "Jyotika",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Vineeth Augustian",
+        "Ajmal Sabu"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene movie",
+      "Scene Day 2 collection",
+      "Scene worldwide box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene-66761794110243.jpg",
+        "caption": "Suriya Starrer Scene Witnesses Strong Growth on Second Day at Box Office",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 09:29:04 +0530"
+  },
+  "4qdlex": {
+    "id": "4qdlex",
+    "type": "news",
+    "headline": "Why Netflix's Zombie Hit Delivered Peak Undead Action Across 12 Episodes",
+    "dek": "A look back at how Netflix's hit Korean survival thriller balanced high-stakes action, emotional weight, and social commentary as fans await its upcoming return.",
+    "body": [
+      {
+        "h": "The Appeal of Zombie Thrillers",
+        "p": [
+          "Zombie thrillers packed with relentless action sequences and extreme violence frequently captivate audiences worldwide. While many shows in the genre rely purely on slam-bang fights or inject comedic elements into survival scenarios, only a select few weave their central action into a compelling narrative.",
+          "Netflix's All of Us Are Dead stands out as a prime example of pacing undead-driven action effectively. Beyond delivering an immediate adrenaline rush, the series incorporates subtle social commentary that continues to resonate with viewers years after its debut."
+        ]
+      },
+      {
+        "h": "Escalating Stakes in a High School Setting",
+        "p": [
+          "The narrative establishes ground zero and the origins of the outbreak within a high school setting during its early episodes. By episode four, the pace accelerates significantly, introducing unconventional threats such as hybrid zombies known as Hambies.",
+          "Confined to school grounds, the desperate students utilize creative makeshift weapons, turning everyday items into tools for survival against the rapidly spreading infection."
+        ]
+      },
+      {
+        "h": "Military Intervention and Urban Expansion",
+        "p": [
+          "Around the seventh episode, the arrival of the military and time-bound rescue missions escalate the stakes dramatically. Memorable sequences include a gymnasium siege where survivors traverse a swarm of hundreds of zombies using sports equipment.",
+          "In its final arc, the story moves beyond the high school walls into urban surroundings. Here, the military deploys strategic warfare against the undead, showcasing how both the threat and the surviving students have evolved."
+        ]
+      },
+      {
+        "h": "Emotional Weight and Character Vulnerability",
+        "p": [
+          "The series avoids treating zombie combat as disposable fodder, ensuring characters lack traditional plot armor. Weapons often carry narrative significance, such as a female lead using archery skills to protect her younger brother.",
+          "Characters must work in groups where a single error can prove fatal. Furthermore, human nature creates additional internal conflict as individuals put others in harm's way for self-preservation, ensuring constant tension."
+        ]
+      },
+      {
+        "h": "Background and Anticipation for Season 2",
+        "p": [
+          "Created by Chun Sung-il, JQ Lee, and Kim Nam-su, the South Korean series premiered its first season consisting of 12 episodes on Netflix in 2022. The production companies behind the show include Film Monster and JTBC Studios.",
+          "With over four years having passed since the initial release, anticipation remains high. Reports confirm that the second season of All of Us Are Dead is scheduled to arrive on Netflix in 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's zombie thriller All of Us Are Dead successfully blended escalating survival action, social commentary, and high emotional stakes across its 12-episode first season in 2022. As fans look back at the masterclass in pacing, reports have confirmed that the series will return for its second season on Netflix in 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "All of Us Are Dead season 2 is set to land on Netflix in 2027.",
+      "The first season of All of Us Are Dead premiered on Netflix in 2022.",
+      "The first season consists of 12 episodes.",
+      "The series was created by Chun Sung-il, JQ Lee, and Kim Nam-su.",
+      "Production companies for the series include Film Monster and JTBC Studios."
+    ],
+    "entities": {
+      "people": [
+        "Dhruv Sharma",
+        "Chun Sung-il",
+        "JQ Lee",
+        "Kim Nam-su",
+        "Ham Yeong-hoon",
+        "Park Cheol-su"
+      ],
+      "titles": [
+        "All of Us Are Dead"
+      ]
+    },
+    "keywords": [
+      "All of Us Are Dead season 2",
+      "All of Us Are Dead Netflix",
+      "All of Us Are Dead episodes",
+      "Chun Sung-il All of Us Are Dead"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/fee2b8cb-028d-44f2-8f56-9e307bf2c5d9.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Netflix's Zombie Hit Delivered Peak Undead Action Across 12 Episodes",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 04:15:18 GMT"
   }
 };
