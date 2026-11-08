@@ -94,6 +94,73 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 08 Nov 2026 06:30:18 GMT"
   },
+  "sfzzbw": {
+    "id": "sfzzbw",
+    "type": "news",
+    "headline": "How HBO's 36-Episode Sci-Fi Series Westworld Became a Cautionary Tale for Mystery Box Storytelling",
+    "dek": "Examining how HBO's ambitious sci-fi drama Westworld squandered its early promise, offering a masterclass in how mystery box narratives can go off the rails.",
+    "entities": {
+      "people": [
+        "Tom Russell",
+        "Anthony Hopkins",
+        "Jonathan Nolan",
+        "Lisa Joy",
+        "Evan Rachel Wood",
+        "Thandiwe Newton"
+      ],
+      "titles": [
+        "Lost",
+        "Westworld",
+        "Heroes"
+      ]
+    },
+    "keywords": [
+      "Westworld HBO series",
+      "Westworld mystery box show",
+      "Westworld cancellation streaming",
+      "Jonathan Nolan Westworld"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/westworld_zctmyy.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "How HBO's 36-Episode Sci-Fi Series Westworld Became a Cautionary Tale for Mystery Box Storytelling",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 06:30:18 GMT"
+  },
+  "vcgdkw": {
+    "id": "vcgdkw",
+    "type": "news",
+    "headline": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores Biggest Single Day Overseas for Indian cinema",
+    "dek": "The four-day extended opening weekend is on track to be around USD 23 million overseas and Rs. 490 crore worldwide.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Jatinder Singh"
+      ],
+      "titles": [
+        "Ramayana Part One",
+        "Baahubali: The Conclusion",
+        "Dhurandhar: The Revenge"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Ranbir Kapoor Yash Ramayana box office",
+      "Ramayana Part One overseas collection",
+      "Ramayana Part One Saturday box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1535134928_ramayan-2.jpg",
+        "caption": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores Biggest Single Day Overseas for Indian c",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 11:54:51 +0530"
+  },
   "jitjjt": {
     "id": "jitjjt",
     "type": "news",
@@ -180,6 +247,96 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 11:34:45 +0530"
+  },
+  "zh1kf0": {
+    "id": "zh1kf0",
+    "type": "news",
+    "headline": "Millie Bobby Brown and David Harbour Reunite for a New Netflix Series",
+    "dek": "The beloved Stranger Things duo are bringing their dynamic chemistry back to Netflix in a brand new project inspired by Paul Warner's novel.",
+    "entities": {
+      "people": [
+        "Millie Bobby Brown",
+        "David Harbour",
+        "Paul Warner",
+        "Jack Thorne",
+        "Gary Oldman"
+      ],
+      "titles": [
+        "Stranger Things",
+        "A Spy in the Blood",
+        "Enola Holmes",
+        "Slow Horses",
+        "Adolescence"
+      ]
+    },
+    "keywords": [
+      "Millie Bobby Brown David Harbour",
+      "A Spy in the Blood Netflix series",
+      "Jack Thorne A Spy in the Blood",
+      "Paul Warner A Spy in the Blood"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/david-harbour-as-jim-hopper-and-millie-bobby-brown-as-eleven-in-stranger-things-season-4.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Millie Bobby Brown and David Harbour Reunite for a New Netflix Series",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 06:00:18 GMT"
+  },
+  "1o6jfiq": {
+    "id": "1o6jfiq",
+    "type": "news",
+    "headline": "Bellamkonda Sai Sreenivas and Neha Shetty showcase dynamic dance moves in 'Tyson Naidu' lead single",
+    "dek": "The creators of the upcoming Telugu action film Tyson Naidu have launched its opening track, Madarasi Rabbaru Bomma, giving audiences a glimpse of the lead pair's vibrant choreography.",
+    "entities": {
+      "people": [
+        "Bellamkonda Sai Sreenivas",
+        "Neha Shetty",
+        "Bheems Ceciroleo",
+        "Suresh Gangula",
+        "Nalgonda Gaddar Narsanna",
+        "Rohini Soratt",
+        "Vijay Polaki",
+        "Sagar K Chandra",
+        "Pragya Jaiswal",
+        "Naresh",
+        "Rao Ramesh",
+        "Satya",
+        "Vennela Kishore",
+        "Praveen",
+        "Praveena",
+        "Satru",
+        "Mukessh Gnanesh",
+        "Kotagiri Venkateswara Rao",
+        "Avinash Kolla",
+        "Kiran Kumar",
+        "Stun Shiva",
+        "Vijay",
+        "Venkat",
+        "Real Satish"
+      ],
+      "titles": [
+        "Tyson Naidu",
+        "Madarasi Rabbaru Bomma",
+        "Bheemla Nayak"
+      ]
+    },
+    "keywords": [
+      "Tyson Naidu film",
+      "Madarasi Rabbaru Bomma song",
+      "Bellamkonda Sai Sreenivas",
+      "Neha Shetty Tyson Naidu",
+      "Sagar K Chandra director"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135652731,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bellamkonda Sai Sreenivas and Neha Shetty showcase dynamic dance moves in 'Tyson Naidu' lead single",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T11:29:30+05:30"
   },
   "8r68m8": {
     "id": "8r68m8",
@@ -4637,45 +4794,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-06T17:00:03Z"
-  },
-  "1segdpi": {
-    "id": "1segdpi",
-    "type": "news",
-    "headline": "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief",
-    "dek": "Political commentator Shehzad Poonawalla claimed the trophy for Rise & Fall Season 2 after a six-week journey, defeating Priyanka Chahar Choudhary in the finale and pledging his winnings to Assam and Bihar flood relief.",
-    "entities": {
-      "people": [
-        "Shehzad Poonawalla",
-        "Priyanka Chahar Choudhary",
-        "Gautam Gulati",
-        "Swara Bhasker",
-        "Karan Patel",
-        "Virender Sehwag",
-        "Siwet Tomar",
-        "Rishabh Jaiswal",
-        "Jashwanth Bopanna",
-        "Arjun Bijlani"
-      ],
-      "titles": [
-        "Rise & Fall",
-        "Rise & Fall Season 2",
-        "Rise And Fall 2"
-      ]
-    },
-    "keywords": [
-      "Rise And Fall 2",
-      "Shehzad Poonawalla",
-      "Rise And Fall Season 2 winner",
-      "Shehzad Poonawalla prize money"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/shehzadprizemoneyfeature-93381793981505.jpg",
-        "caption": "Shehzad Poonawalla Wins Rise & Fall Season 2 and Donates Prize Money to Flood Relief",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Fri, 06 Nov 2026 21:47:29 +0530"
   },
   "1kmjl4w": {
     "id": "1kmjl4w",

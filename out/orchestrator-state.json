@@ -1,10 +1,10 @@
 {
  "steps": {
   "apply_auto": {
-   "last_run": "2026-11-08T06:56:07Z",
+   "last_run": "2026-11-08T08:40:47Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-08T06:56:07Z",
-   "last_success": "2026-11-08T06:56:07Z",
+   "last_attempt_at": "2026-11-08T08:40:47Z",
+   "last_success": "2026-11-08T08:40:47Z",
    "consecutive_failures": 0
   },
   "convert_news": {
@@ -22,17 +22,17 @@
    "consecutive_failures": 0
   },
   "fetch": {
-   "last_run": "2026-11-08T06:56:07Z",
+   "last_run": "2026-11-08T08:40:47Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-08T06:56:07Z",
-   "last_success": "2026-11-08T06:56:07Z",
+   "last_attempt_at": "2026-11-08T08:40:47Z",
+   "last_success": "2026-11-08T08:40:47Z",
    "consecutive_failures": 0
   },
   "gemini_batch": {
-   "last_run": "2026-11-08T06:56:07Z",
+   "last_run": "2026-11-08T08:40:47Z",
    "last_status": "success",
-   "last_attempt_at": "2026-11-08T06:56:07Z",
-   "last_success": "2026-11-08T06:56:07Z",
+   "last_attempt_at": "2026-11-08T08:40:47Z",
+   "last_success": "2026-11-08T08:40:47Z",
    "consecutive_failures": 0
   },
   "gemini_reviews": {
@@ -50,9 +50,9 @@
    "consecutive_failures": 0
   },
   "multisource_boxoffice": {
-   "last_status": "success",
-   "last_run": "2026-11-08T06:56:07Z",
-   "last_attempt_at": "2026-11-08T06:56:07Z",
+   "last_status": "cancelled",
+   "last_run": "2026-11-08T08:40:47Z",
+   "last_attempt_at": "2026-11-08T08:40:47Z",
    "last_success": "2026-11-08T06:56:07Z",
    "consecutive_failures": 0
   },
@@ -223,5 +223,5 @@
    "detail": "validated 193 rows; 0 staging files changed"
   }
  },
- "updated_at": "2026-11-08T06:56:07Z"
+ "updated_at": "2026-11-08T08:40:47Z"
 }
