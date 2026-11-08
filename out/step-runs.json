@@ -942,29 +942,6 @@
    {
     "step": "apply_auto",
     "category": "Trending News",
-    "run_at": "2026-11-07T01:06:49Z",
-    "run_id": "42322085233",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [
-      "Suriya and Naslen starrer Scene opens to strong worldwide figures",
-      "Prime Video Offers Must-Watch Lineup for November Weekend Viewing",
-      "Mookuthi Amman 2 Review: Nayanthara Leads Sundar C's Mythological Fantasy Sequel",
-      "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
     "run_at": "2026-11-07T02:51:54Z",
     "run_id": "42331190123",
     "status": "success",
@@ -1460,6 +1437,24 @@
      "detail": "+0 articles, +0 box-office rows, 1 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-08T05:50:09Z",
+    "run_id": "42448409758",
+    "status": "success",
+    "checked": {
+     "candidates": 10,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "+0 articles, +0 box-office rows, 2 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
@@ -1900,25 +1895,6 @@
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
-    "run_at": "2026-11-07T00:56:56Z",
-    "run_id": "42320669325",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "jnrp6v"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
     "run_at": "2026-11-07T02:32:15Z",
     "run_id": "42322085233",
     "status": "success",
@@ -2343,27 +2319,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-06T23:52:22Z",
-    "run_id": "42314494431",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-08T05:50:10Z",
+    "run_id": "42448409758",
     "status": "success",
     "checked": {
-     "candidates": 595,
-     "detail": "592 collected staging rows from readers; 204 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 589 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2769,6 +2744,24 @@
      "detail": "+2 new rows, 116 updated rows, 500 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-08T05:50:09Z",
+    "run_id": "42448409758",
+    "status": "success",
+    "checked": {
+     "candidates": 625,
+     "detail": "619 collected staging rows from readers; 210 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 116,
+     "detail": "+0 new rows, 116 updated rows, 503 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
@@ -3028,29 +3021,6 @@
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-07T02:32:14Z",
-    "run_id": "42322085233",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Prime Video Offers Must-Watch Lineup for November Weekend Viewing",
-      "Mookuthi Amman 2 Review: Nayanthara Leads Sundar C's Mythological Fantasy Sequel",
-      "Netflix Reveals Official Trailer for Romantic Thriller Series 'Unaccustomed Earth'",
-      "Suriya and Naslen starrer Scene opens to strong worldwide figures"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3551,6 +3521,24 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-08T05:50:09Z",
+    "run_id": "42448409758",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
@@ -8222,5 +8210,5 @@
    }
   ]
  },
- "updated_at": "2026-11-08T04:56:54Z"
+ "updated_at": "2026-11-08T05:50:10Z"
 }
