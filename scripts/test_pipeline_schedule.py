@@ -131,6 +131,12 @@ class SourceStaging(unittest.TestCase):
             with patch.object(r.subprocess, 'run', side_effect=AssertionError('not due')):
                 self.assertEqual(r.execute('fnn_boxoffice', ['no-network'], stage,
                                           state_path=state, now=at(12, 50)), 0)
+            def slow(argv, **kwargs):
+                raise r.subprocess.TimeoutExpired(argv, r.SOURCE_TIMEOUT_SEC)
+            self.assertEqual(r.execute('fnn_boxoffice', ['test', '{stage}'], stage,
+                                      state_path=state, now=at(20), runner=slow), 1,
+                             'a reader that times out is skipped, last-good retained')
+            self.assertEqual((stage / 'fnn.json').read_bytes(), original)
 
     def test_merge_retains_historical_days_and_rejects_invalid(self):
         merged = r.merge_data({'1': [self.row()]}, {'1': [self.row(2, 4)], '2': [{'day': 0}]})

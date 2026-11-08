@@ -252,6 +252,7 @@ jobs:
       # Tavily results are excluded to avoid double-counting.
       - name: Multi-source box office
         id: multisource
+        timeout-minutes: 25
         continue-on-error: true
         env:
           RUN_SACNILK: ${{ steps.decide.outputs.run_sacnilk }}

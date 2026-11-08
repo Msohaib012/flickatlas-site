@@ -16,6 +16,15 @@ import tempfile
 
 from pipeline_schedule import SOURCE_STATE, load, record_source, save, source_due
 
+# Per-source wall-clock budget (fix 2026-11-08): readers carry 25-30s
+# per-fetch timeouts, but a half-dead source host turns a 30-title reader
+# into a timeout storm (30s x dozens of fetches) that used to block the
+# whole pipeline step until the 50-minute job timeout killed the run and
+# its deploy with it (2026-11-07 hang; 2026-11-08 two runs cancelled the
+# same way). A source that cannot finish in 5 minutes is skipped for this
+# run; its last-good staging is retained by design.
+SOURCE_TIMEOUT_SEC = 300
+
 
 def valid_data(data):
     if not isinstance(data, dict):
@@ -67,7 +76,8 @@ def execute(name, command, stage_dir='out/boxoffice-staging', reviews_out=None,
             replacements = {'{stage}': str(stage), '{out}': str(tmp / 'output.json'),
                             '{reviews}': str(tmp / 'reviews.json')}
             argv = [replacements.get(part, part) for part in command]
-            result = runner(argv, text=True, capture_output=True, check=False)
+            result = runner(argv, text=True, capture_output=True, check=False,
+                            timeout=SOURCE_TIMEOUT_SEC)
             # Reader diagnostics, not their entire duplicate JSON output.
             if result.stderr:
                 print('\n'.join(result.stderr.splitlines()[-80:]), file=sys.stderr)
@@ -103,6 +113,11 @@ def execute(name, command, stage_dir='out/boxoffice-staging', reviews_out=None,
                           state_path=state_path, now=now)
             print(f'{name}: successful check; {count} rows, {changed} changed files')
             return 0
+    except subprocess.TimeoutExpired:
+        record_source(name, False, 'reader timed out; last-good staging retained',
+                      state_path=state_path, now=now)
+        print(f'{name}: reader timed out after {SOURCE_TIMEOUT_SEC}s; last-good retained', file=sys.stderr)
+        return 1
     except Exception as exc:
         # Do not persist exception URLs/credentials in tracked public state.
         record_source(name, False, 'reader error; last-good staging retained',
