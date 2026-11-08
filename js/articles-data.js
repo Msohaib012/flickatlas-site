@@ -90714,5 +90714,453 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 21:43:12 GMT"
+  },
+  "14qlk9j": {
+    "id": "14qlk9j",
+    "type": "news",
+    "headline": "Ramayana Reaches Rs 200 Crore Club In India Within Four Days",
+    "dek": "The Nitesh Tiwari directorial Ramayana crosses significant milestones at the domestic box office during its opening weekend.",
+    "body": [
+      {
+        "h": "Box Office Milestone Achieved",
+        "p": [
+          "The mythological epic Ramayana has officially crossed the Rs 200 crore mark in India by its fourth day in theatres. Driven by strong audience turnout over the holiday weekend, the film captured immense attention across multiple regions and languages.",
+          "According to tracking reports from Sacnilk, the feature earned substantial numbers by the evening of its fourth day, cementing its position as a major commercial success shortly after its theatrical debut."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "The commercial triumph of the movie spans across various regional markets in the country. A major share of the earnings came from the Hindi version, while notable contributions were registered from Kannada, Telugu, and Tamil sectors.",
+          "To meet high consumer demand during the festive period, theaters scheduled early morning and late evening screenings, pushing total active show counts to thousands nationwide."
+        ]
+      },
+      {
+        "h": "Global Box Office Reach",
+        "p": [
+          "Beyond domestic collections, the cinematic venture has also pushed past the Rs 300 crore milestone globally. The festive release strategy executed by the makers appears to have paid off exceptionally well.",
+          "The combination of visual effects and an ensemble cast has drawn large crowds to premium viewing formats, fueling international and domestic ticket sales simultaneously."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the production is backed by Namit Malhotra’s Prime Focus Studios alongside Yash’s Monster Mind Creations.",
+          "The massive ensemble features prominent names such as Ranbir Kapoor, Yash, Sai Pallavi, Sunny Deol, Ravi Dubey, Rakul Preet Singh, Arun Govil, and Lara Dutta, among others."
+        ]
+      },
+      {
+        "h": "Multiple Format Releases",
+        "p": [
+          "Audiences have been given various technical formats to experience the narrative on the big screen. The title rolled out in standard 2D, 3D, IMAX 3D, 4DX 3D, and 3D Screen X options.",
+          "The multilingual project is accessible to viewers in Hindi, Tamil, Kannada, Telugu, Malayalam, and English following its November launch."
+        ]
+      },
+      {
+        "h": "Mythological Narrative Premise",
+        "p": [
+          "The storyline traces the journey of Rama, the crown prince of Ayodhya and eldest son of King Dashrath and Queen Kaushalya. Destined for a greater purpose, he weds Sita, the daughter of King Janak.",
+          "Complications arise when Queen Kaushalya's peer pressures the old king into sending Rama away for a 14-year forest exile to secure the throne for her own son, Bharat."
+        ]
+      },
+      {
+        "h": "Conflict and Future Plans",
+        "p": [
+          "The plot progresses toward conflict when Surpanakha approaches Rama and is subsequently rejected, leading her to instigate Ravana to abduct Sita from Panchvati with the assistance of Mareech.",
+          "While the first part establishes these foundational events, the upcoming second part is slated to shift focus toward Lanka and introduce characters like Hanuman."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor and Yash's mythological film Ramayana crossed the Rs 200 crore net collection mark in India by its fourth day. Directed by Nitesh Tiwari, the multilingual feature benefited from strong holiday attendance and extensive formatting options across thousands of shows."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed the Rs 200 crore mark in India on Day 4.",
+      "The film has entered the Rs 300 crore club worldwide.",
+      "The film is running in 16,918 shows.",
+      "By 7 PM on Sunday, Ramayana collected Rs 40.69 crore.",
+      "The film earned Rs 27.99 crore in Hindi, Rs 5.57 crore in Kannada, Rs 4.71 crore in Telugu, and Rs 2.42 crore in Tamil.",
+      "The India gross collection is Rs 266.26 crore.",
+      "The total India net collection is Rs 223.39 crore.",
+      "The film was directed by Nitesh Tiwari.",
+      "The film was produced by Namit Malhotra’s Prime Focus Studios and Yash’s Monster Mind Creations.",
+      "The film stars Ranbir Kapoor, Yash, Sai Pallavi, Sunny Deol, Ravi Dubey, Rakul Preet Singh, Arun Govil, and Lara Dutta.",
+      "The film released on November 5 in Hindi, Tamil, Kannada, Telugu, Malayalam and English."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Lara Dutta",
+        "Dashrath",
+        "Kaushalya",
+        "Janak",
+        "Kaikeyi",
+        "Manthara",
+        "Bharat",
+        "Lakshman",
+        "Surpanakha",
+        "Ravana",
+        "Mareech",
+        "Jatayu",
+        "Hanuman",
+        "Tanmayi Savadi",
+        "Daler Mehndi",
+        "Mika Singh",
+        "Taran",
+        "Raghav Juyal",
+        "Babita"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana Day 4 collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156483183,thumbsize-419298,width-1280,height-720,resizemode-75/156483183.jpg",
+        "caption": "Ramayana Reaches Rs 200 Crore Club In India Within Four Days",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T23:52:31Z"
+  },
+  "10ehc7t": {
+    "id": "10ehc7t",
+    "type": "news",
+    "headline": "100 Days of Deception Reaches Double-Digit Ratings With Tenth Episode",
+    "dek": "The tvN weekend drama starring Kim You Jung and Park Jin Young surpasses the ten percent milestone for the first time.",
+    "body": [
+      {
+        "h": "Reaching Double Digits",
+        "p": [
+          "The weekend drama 100 Days of Deception has achieved a major milestone by crossing the ten percent ratings threshold for the very first time. Nielsen Korea data indicates that the tenth episode of the broadcast reached a nationwide average of 10.7 percent while peaking at 12.0 percent.",
+          "Viewership figures within the Seoul metropolitan area proved even higher. In that region, the program secured an average of 11.7 percent alongside a peak rating of 13.1 percent."
+        ]
+      },
+      {
+        "h": "Breaking Previous Records",
+        "p": [
+          "This latest accomplishment establishes a fresh personal best for the broadcast. The previous high water mark was set by the eighth episode on November 1 at 9.8 percent, which the new broadcast has now comfortably surpassed.",
+          "Production representatives noted that the tenth episode claimed the top position in its respective time slot across every broadcasting channel, including terrestrial networks. Furthermore, it secured first place among demographics aged 20 to 49 for both male and female audiences."
+        ]
+      },
+      {
+        "h": "Consistent Weekly Growth",
+        "p": [
+          "The spy romance has demonstrated an upward trajectory in viewership since its initial premiere. Sunday broadcasts have exhibited a steady climb, moving from 7.6 percent for the second episode to readings of 9.0, 9.5, and 9.8 percent before hitting the recent 10.7 percent high.",
+          "Saturday broadcasts have mirrored this positive momentum. Starting with a 5.3 percent rating for the premiere, the Saturday numbers steadily improved, reaching 7.4 percent with the ninth episode."
+        ]
+      },
+      {
+        "h": "Setting and Premise",
+        "p": [
+          "The storyline unfolds during the 1930s in Gyeongseong, which is known today as Seoul. The narrative centers around a female protagonist who undertakes an undercover assignment lasting one hundred days, and an interpreter who becomes deeply involved with her.",
+          "As the plot progresses, themes of espionage and deception intersect with romantic entanglements. The production blends historical elements with suspenseful storytelling."
+        ]
+      },
+      {
+        "h": "Cast and Production Details",
+        "p": [
+          "The series features a prominent lead cast anchored by Kim You Jung and Park Jin Young. Their performances drive the central dynamic between the undercover operative and the entangled interpreter.",
+          "Supporting the main leads are cast members Kim Hyun Joo, Lee Moo Saeng, and Jin Sun Kyu. The complete series is structured as a 16-episode run, leaving six episodes remaining after this milestone broadcast."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule",
+        "p": [
+          "Viewers can catch new installments of the series on a weekend schedule. The program airs weekly on Saturdays and Sundays through the tvN network.",
+          "With only a handful of episodes left in its broadcast run, audience interest continues to build following the historic ratings breakthrough."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The weekend drama 100 Days of Deception achieved a nationwide rating of 10.7 percent for its tenth episode, marking its first time crossing into double digits. The series airs on tvN and stars Kim You Jung and Park Jin Young."
+        ]
+      }
+    ],
+    "facts": [
+      "100 Days of Deception episode 10 aired on November 8, 2026",
+      "Nielsen Korea recorded an average nationwide rating of 10.7 percent with a peak of 12.0 percent",
+      "Seoul metropolitan area averaged 11.7 percent with a peak at 13.1 percent",
+      "Episode 8 set a previous high of 9.8 percent on November 1, 2026",
+      "Sunday episodes rose from 7.6 percent for episode 2",
+      "Saturday episode 1 recorded 5.3 percent and episode 9 recorded 7.4 percent",
+      "The drama is set in 1930s Gyeongseong",
+      "The total length of the drama is 16 episodes",
+      "The show airs on Saturdays and Sundays on tvN"
+    ],
+    "entities": {
+      "people": [
+        "Kim You Jung",
+        "Park Jin Young",
+        "Kim Hyun Joo",
+        "Lee Moo Saeng",
+        "Jin Sun Kyu",
+        "Hana"
+      ],
+      "titles": [
+        "100 Days of Deception",
+        "Love in Disguise",
+        "Hana-Kimi",
+        "Geumwoldo",
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "100 Days of Deception",
+      "Kim You Jung",
+      "Park Jin Young",
+      "tvN drama",
+      "100 Days of Deception episode 10"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/JjjkWY_2d.jpg",
+        "caption": "100 Days of Deception Reaches Double-Digit Ratings With Tenth Episode",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 23:02:40 +0000"
+  },
+  "1e45muy": {
+    "id": "1e45muy",
+    "type": "news",
+    "headline": "Ramayana Part Two: Sunny Deol As Hanuman, Raghav Juyal As Meghnad, And All The New Characters Joining The Epic Sequel",
+    "dek": "Discover the fresh faces and expanded mythological ensemble stepping into the highly anticipated sequel, scheduled for a theatrical launch on Diwali 2028.",
+    "body": [
+      {
+        "h": "Introduction to the Sequel",
+        "p": [
+          "Excitement surrounding the upcoming cinematic adaptation has reached an all-time high as details emerge about the roster of figures joining the mythological drama. Following the initial rollout, production on the second chapter is currently underway, setting the stage for an even grander narrative.",
+          "The forthcoming installment is locked for a theatrical premiere during the Diwali festive window in 2028, promising audiences another deep dive into ancient lore and grand-scale storytelling."
+        ]
+      },
+      {
+        "h": "Plot Arc and Narrative Direction",
+        "p": [
+          "The storyline of the second part will directly pick up the thread from the events immediately succeeding the abduction of Sita. Lord Rama remains unyielding in his mission to rescue his wife from the stronghold of Ravana during their fourteen-year period of exile.",
+          "Crucial context from the overarching plot includes the noble sacrifice of Jatayu, who used his dying breaths to reveal the location of Ravana's kingdom in Lanka before perishing in defense of Sita."
+        ]
+      },
+      {
+        "h": "Sunny Deol Steps in as Hanuman",
+        "p": [
+          "Among the prominent additions to the cast is veteran actor Sunny Deol, who has been officially confirmed to essay the iconic role of Hanuman. Production insiders reveal that the actor is actively shooting for his portions.",
+          "Recent sneak peeks from the sets showed social media buzzing with clips of Deol undergoing elaborate prosthetic preparations. Within the narrative arc, Hanuman serves as a vital pillar of support for Lord Rama, acting as the primary catalyst who aids in reaching Ashok Vatika where Sita remains captive."
+        ]
+      },
+      {
+        "h": "Expanding the Ensemble: Sugriv and Meghnad",
+        "p": [
+          "Suhail Nayyar joins the roster to portray Sugriv, adding further depth to the expanding cinematic universe. Sugriv is recognized as the younger brother of Vali, whom he eventually succeeded as the monarch of the vanara kingdom of Kishkindha.",
+          "In addition, Raghav Juyal steps into the shoes of Meghnad, also frequently referred to as Indrajit. Juyal's menacing look as the fierce warrior and son of Ravana was previously teased during the final moments of the first film."
+        ]
+      },
+      {
+        "h": "A Glimpse Into Part One's Foundation",
+        "p": [
+          "To fully appreciate the scope of the sequel, it helps to look back at the stellar lineup established in the opening installment, officially subtitled Rise of a Legend. That chapter featured Ranbir Kapoor embodying Lord Rama and Sai Pallavi stepping into the role of Sita.",
+          "The initial movie also featured Ravi Dubey as Lakshman, Yash as the formidable Ravana, Rakul Preet Singh as Surpanakha, Kajal Agarwal as Mandodari, and Harish Uthaman portraying Vibhishana."
+        ]
+      },
+      {
+        "h": "Additional Characters and Future Secrets",
+        "p": [
+          "Beyond the primary heavyweights, the upcoming feature is set to introduce an array of memorable entities from the epic. The expanded roster will incorporate Kumbhakarna, Nala and Nila, Shabari, Tara, Angad, and Trijata.",
+          "As production continues, the creative team has kept mum on whether the narrative will venture into the Luv-Kush chapter within this specific sequel or reserve those subsequent events for a later installment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production is currently underway for Ramayana Part Two, which is scheduled for a theatrical release on Diwali 2028 and will follow Lord Rama's quest to rescue Sita after her abduction by Ravana. The sequel will introduce fresh characters to the franchise, including Sunny Deol as Hanuman, Suhail Nayyar as Sugriv, and Raghav Juyal as Meghnad, alongside a host of other mythological figures."
+        ]
+      }
+    ],
+    "facts": [
+      "Diwali 2028 release date for Ramayana Part 2",
+      "Sunny Deol plays Hanuman",
+      "Raghav Juyal plays Meghnad",
+      "Suhail Nayyar plays Sugriv",
+      "Ranbir Kapoor played Rama in Part 1",
+      "Sai Pallavi played Sita in Part 1",
+      "Ravi Dubey played Lakshman in Part 1",
+      "Yash played Ravana in Part 1",
+      "Rakul Preet Singh played Surpanakha in Part 1",
+      "Kajal Agarwal played Mandodari in Part 1",
+      "Harish Uthaman played Vibhishana in Part 1"
+    ],
+    "entities": {
+      "people": [
+        "Sunny Deol",
+        "Raghav Juyal",
+        "Suhail Nayyar",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Yash",
+        "Rakul Preet Singh",
+        "Kajal Agarwal",
+        "Harish Uthaman",
+        "Tanmayi Savadi"
+      ],
+      "titles": [
+        "Ramayana Part 2",
+        "Ramayana Part Two",
+        "Ramayana Part 1",
+        "Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 2",
+      "Sunny Deol Hanuman",
+      "Raghav Juyal Meghnad",
+      "Suhail Nayyar Sugriv",
+      "Ramayana Part Two characters"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156483077,thumbsize-325976,width-1280,height-720,resizemode-75/156483077.jpg",
+        "caption": "Ramayana Part Two: Sunny Deol As Hanuman, Raghav Juyal As Meghnad, And All The New Characters Joining The Epic Sequel",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-08T23:52:31Z"
+  },
+  "uqdru0": {
+    "id": "uqdru0",
+    "type": "news",
+    "headline": "Ojai Film Festival Announces 2026 Winners Led by Everybody Digs Bill Evans and In Memoriam",
+    "dek": "The 27th annual Ojai Film Festival concluded its run by revealing its complete list of honorees, featuring top feature film wins for Grant Gee's Everybody Digs Bill Evans and Rob Burnett's In Memoriam alongside several distinguished artist recognitions.",
+    "body": [
+      {
+        "h": "Festival Conclusion and Top Feature Wins",
+        "p": [
+          "The Ojai Film Festival successfully wrapped up its 27th annual event by unveiling the complete roster of winners for its competitive slate. Concluding the multi-day cinematic gathering during Sunday's official awards ceremony, the festival highlighted standout independent features that captured the attention of audiences and juries alike.",
+          "Grant Gee's Everybody Digs Bill Evans claimed the prize for Best Dramatic Feature after serving as the event's opening night title. Meanwhile, Rob Burnett's In Memoriam took home the award for Best Comedic Feature as the official closing night selection."
+        ]
+      },
+      {
+        "h": "Dramatic Feature Highlights",
+        "p": [
+          "Everybody Digs Bill Evans centers on the intense ten-day period following the sudden death of bassist Scott LaFaro. The narrative explores how grief, addiction, and creative paralysis threatened to silence one of the greatest innovators in jazz history.",
+          "Actor Anders Danielsen Lie takes on the titular role of the legendary jazz piano icon in the film. Prior to its recognition at Ojai, the project earned distinction by winning the Silver Bear at the Berlin International Film Festival, and it has secured an Oscar-qualifying run through Cohen Media Group."
+        ]
+      },
+      {
+        "h": "Comedic Feature Highlights",
+        "p": [
+          "The closing night winner, In Memoriam, brings a darkly humorous perspective to the entertainment industry through the lens of an aging and dying actor. The protagonist becomes fixated on securing a spot in the prestigious Oscars In Memoriam reel.",
+          "Starring Marc Maron in the lead role, the comedy tackles themes of mortality and legacy with sharp wit. Director Rob Burnett helmed the feature, which resonated strongly with viewers during the festival's final screening."
+        ]
+      },
+      {
+        "h": "Distinguished Artist and Special Awards",
+        "p": [
+          "Beyond the primary feature categories, the festival honored numerous industry veterans and emerging talents through specialized awards. Melissa McCarthy and Ben Falcone received Distinguished Artist Awards, sharing the recognition alongside cinematographer Randall Einhorn.",
+          "Additional honorees included Bill Pullman, who accepted the Luminary Award, and Paul Schrader, who was awarded the Storyteller Award for his contributions to cinema."
+        ]
+      },
+      {
+        "h": "Screenplay, Documentary, and Short Film Winners",
+        "p": [
+          "The competition also celebrated excellence across screenwriting, documentary filmmaking, and short formats. Eduardo Moral Escudero won Best Original Screenplay for Anchor Baby, while Jeremy Seifert took home Best Documentary Feature for Papertown.",
+          "In the short film categories, Owen Dubeck won Best Documentary Short for To Write Love, Benavram Akal secured the Sergio Aragonés Award for Best Animated Short with Pillowzzz, and Elizabeth Dement won Best Narrative Short for Arlene."
+        ]
+      },
+      {
+        "h": "Special Jury and Thematic Honors",
+        "p": [
+          "Several specialized awards recognized films with distinct social and artistic missions. The Social Impact and Vision Award winner was It All Comes Back by Jeremy Seifert and Evan-Marie Petit, with an honorable mention going to BEN'IMANA by Marie-Clémentine Dusabejambo.",
+          "Jake Addison Melfi received the Panavision Limelight Award for Best Student Film. Additionally, Josh Loeb won the Bill Paxton Award for Best Gold Coast Film with In Spite of Ourselves, and Steve Beebe earned the Festival Theme Award for The Ballad of Lieutenant Dan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 27th annual Ojai Film Festival concluded its run by announcing its 2026 winners during a Sunday awards ceremony, featuring Everybody Digs Bill Evans as Best Dramatic Feature and In Memoriam as Best Comedic Feature. The event also distributed honors to notable figures like Melissa McCarthy, Ben Falcone, Bill Pullman, and Paul Schrader alongside various independent shorts and documentaries."
+        ]
+      }
+    ],
+    "facts": [
+      "The Ojai Film Festival concluded its 27th year.",
+      "Everybody Digs Bill Evans won Best Dramatic Feature.",
+      "In Memoriam won Best Comedic Feature.",
+      "Anders Danielsen Lie stars in Everybody Digs Bill Evans.",
+      "Marc Maron stars in In Memoriam.",
+      "Melissa McCarthy and Ben Falcone received Distinguished Artist Awards.",
+      "Bill Pullman received the Luminary Award.",
+      "Paul Schrader received the Storyteller Award."
+    ],
+    "entities": {
+      "people": [
+        "Grant Gee",
+        "Rob Burnett",
+        "Anders Danielsen Lie",
+        "Scott LaFaro",
+        "Marc Maron",
+        "Melissa McCarthy",
+        "Ben Falcone",
+        "Bill Pullman",
+        "Paul Schrader",
+        "Eduardo Moral Escudero",
+        "Marie-Clémentine Dusabejambo",
+        "Jeremy Seifert",
+        "Evan-Marie Petit",
+        "Jake Addison Melfi",
+        "Owen Dubeck",
+        "Benavram Akal",
+        "Elizabeth Dement",
+        "Josh Loeb",
+        "Steve Beebe",
+        "Randall Einhorn"
+      ],
+      "titles": [
+        "Everybody Digs Bill Evans",
+        "In Memoriam",
+        "Anchor Baby",
+        "BEN'IMANA",
+        "It All Comes Back",
+        "To Write Love",
+        "Papertown",
+        "Pillowzzz",
+        "Arlene",
+        "In Spite of Ourselves",
+        "The Ballad of Lieutenant Dan"
+      ]
+    },
+    "keywords": [
+      "Ojai Film Festival",
+      "Everybody Digs Bill Evans",
+      "In Memoriam film",
+      "Grant Gee film",
+      "Rob Burnett film"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Ojai-Film-Fest.jpg?w=1000",
+        "caption": "Ojai Film Festival Announces 2026 Winners Led by Everybody Digs Bill Evans and In Memoriam",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 23:42:41 +0000"
   }
 };
