@@ -670,5 +670,75 @@ class WorldCumulativeAcceptanceTests(unittest.TestCase):
                          "the snapshot keeps the exact schema the worker route consumes")
 
 
+class TotalDeltaTests(unittest.TestCase):
+    """Differencing of verified cumulative totals (2026-11-09): the only
+    honest worldwide 2-day/7-day source, since no free daily worldwide
+    series exists anywhere."""
+
+    def _report(self, amount, observed_at, industry="world"):
+        return {"title": "Fixture World Film", "industry": industry,
+                "cumulative_total": {
+                    "scope": "worldwide", "window": "cumulative_total",
+                    "method": "mojo_direct", "amount": amount, "currency": "USD",
+                    "observed_at": observed_at, "observed_date": "2026-11-09",
+                    "source_name": "boxofficemojo.com",
+                    "source_url": "https://www.boxofficemojo.com/title/tt0000001/",
+                    "source_title": "Fixture World Film - Box Office Mojo"}}
+
+    def test_deltas_derived_from_verified_total_history(self):
+        reports = {"42": self._report(188_676_594, "2026-11-09T11:12:50Z")}
+        history_in = {"42": [{"date": "2026-11-02", "amount": 100_000_000},
+                             {"date": "2026-11-07", "amount": 150_000_000}]}
+        history, counts = bo.update_total_history(
+            reports, history_in, "2026-11-09", "2026-11-09", "2026-11-09T11:12:50Z")
+        week = reports["42"]["last_7_days"]
+        self.assertEqual(week["amount"], 88_676_594)
+        self.assertEqual(week["method"], "mojo_total_delta")
+        self.assertEqual(week["period_start"], "2026-11-03")
+        self.assertEqual(week["period_end"], "2026-11-09")
+        self.assertEqual(week["as_of"], "2026-11-09")
+        two = reports["42"]["last_2_days"]
+        self.assertEqual(two["amount"], 38_676_594)
+        self.assertEqual(two["period_start"], "2026-11-08")
+        self.assertEqual(counts, {"last_2_days": 1, "last_7_days": 1})
+        self.assertEqual(history["42"][-1], {"date": "2026-11-09", "amount": 188_676_594})
+
+    def test_delta_never_overrides_directly_evidenced_window(self):
+        report = self._report(188_676_594, "2026-11-09T11:12:50Z")
+        direct = {"scope": "worldwide", "window": "last_7_days", "method": "tavily_gemini",
+                  "amount": 123}
+        report["last_7_days"] = direct
+        reports = {"42": report}
+        _, counts = bo.update_total_history(
+            reports, {"42": [{"date": "2026-11-02", "amount": 100_000_000}]},
+            "2026-11-09", "2026-11-09", "2026-11-09T11:12:50Z")
+        self.assertIs(reports["42"]["last_7_days"], direct)
+        self.assertEqual(counts["last_7_days"], 0)
+
+    def test_stale_endpoint_and_flat_total_emit_nothing(self):
+        reports = {"42": self._report(150_000_000, "2026-11-05T10:00:00Z")}
+        history, counts = bo.update_total_history(
+            reports, {"42": [{"date": "2026-11-02", "amount": 100_000_000}]},
+            "2026-11-09", "2026-11-09", "2026-11-09T11:12:50Z")
+        self.assertNotIn("last_7_days", reports["42"])
+        self.assertEqual(history["42"][-1]["date"], "2026-11-05")
+        flat = {"43": self._report(150_000_000, "2026-11-09T11:12:50Z")}
+        bo.update_total_history(
+            flat, {"43": [{"date": "2026-11-07", "amount": 150_000_000}]},
+            "2026-11-09", "2026-11-09", "2026-11-09T11:12:50Z")
+        self.assertNotIn("last_2_days", flat["43"])
+
+    def test_ancient_baseline_and_bollywood_are_ignored(self):
+        reports = {"42": self._report(188_676_594, "2026-11-09T11:12:50Z"),
+                   "77": self._report(50_000_000, "2026-11-09T11:12:50Z",
+                                      industry="bollywood")}
+        bo.update_total_history(
+            reports, {"42": [{"date": "2026-10-20", "amount": 90_000_000}],
+                      "77": [{"date": "2026-11-02", "amount": 10_000_000}]},
+            "2026-11-09", "2026-11-09", "2026-11-09T11:12:50Z")
+        self.assertNotIn("last_7_days", reports["42"])
+        self.assertNotIn("last_7_days", reports["77"])
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

@@ -90,7 +90,8 @@
     const sourceUrl = secureUrl(metric.source_url);
     if (amount === null || !currency || !sourceUrl || !String(metric.source_name || "").trim()
         || !String(metric.evidence_quote || "").trim()
-        || !(metric.reviewed_by === "Gemini" || metric.method === "mojo_direct")
+        || !(metric.reviewed_by === "Gemini" || metric.method === "mojo_direct"
+          || metric.method === "mojo_total_delta")
         || !validDate(metric.as_of) || metric.as_of > todayIST
         || typeof metric.observed_at !== "string" || !Number.isFinite(Date.parse(metric.observed_at))) return null;
     if (windowKey === "today" && (metric.period_start !== todayIST || metric.period_end !== todayIST || metric.as_of !== todayIST)) return null;
@@ -100,7 +101,8 @@
         || metric.period_end !== todayIST || metric.as_of !== todayIST)) return null;
     if (windowKey === "cumulative_total" && metric.period_end !== metric.as_of) return null;
     const out = { ...metric, amount, currency, source_url: sourceUrl,
-      method: metric.method === "mojo_direct" ? "mojo_direct" : "tavily_gemini" };
+      method: metric.method === "mojo_direct" || metric.method === "mojo_total_delta"
+        ? metric.method : "tavily_gemini" };
     // A source-stated range travels as amount + amount_high and renders as a
     // range; a malformed or inverted upper bound is dropped, never averaged.
     const amountHigh = number(metric.amount_high);

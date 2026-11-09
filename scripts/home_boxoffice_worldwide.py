@@ -976,6 +976,115 @@ def mojo_direct_metric(item: dict[str, Any], now_iso: str,
         return None
 
 
+def update_total_history(reports: dict[str, Any], previous_history: Any,
+                         today_ist: str, today_pkt: str, now_iso: str
+                         ) -> tuple[dict[str, list[dict[str, Any]]], dict[str, int]]:
+    """Totals history + differencing (owner order 2026-11-09).
+
+    No free source publishes per-title DAILY worldwide grosses — every
+    daily series that exists (Mojo, The Numbers, every GitHub dataset)
+    is domestic-only, and international data is weekend or cumulative.
+    The one honest worldwide window figure is the difference of two
+    VERIFIED cumulative worldwide totals observed on different days.
+
+    `history` is an additive snapshot field {movie_id: [{date, amount}]}
+    keyed by the IST date the total was observed. Each run upserts
+    today's observation for every world report carrying a verified
+    cumulative total, then — only when that total was observed TODAY —
+    derives last_2_days / last_7_days as endpoint minus the latest
+    observation on or before the day the window opens (small date
+    slack allowed, never a stale endpoint). A derived figure never
+    overrides a directly evidenced one (paired components or a
+    reviewed search report); a zero or negative difference (a finished
+    title, or a source restating its total) emits nothing.
+    """
+    history: dict[str, list[dict[str, Any]]] = {}
+    if isinstance(previous_history, dict):
+        for mid, entries in previous_history.items():
+            if not isinstance(entries, list):
+                continue
+            clean = [{"date": e["date"], "amount": e["amount"]} for e in entries
+                     if isinstance(e, dict) and isinstance(e.get("date"), str)
+                     and isinstance(e.get("amount"), (int, float))
+                     and e["amount"] > 0]
+            if clean:
+                history[str(mid)] = sorted(clean, key=lambda e: e["date"])
+    counts = {"last_2_days": 0, "last_7_days": 0}
+    for movie_id, report in reports.items():
+        if not isinstance(report, dict) or report.get("industry") != "world":
+            continue
+        total_metric = report.get("cumulative_total")
+        if not isinstance(total_metric, dict):
+            continue
+        amount = total_metric.get("amount")
+        if not isinstance(amount, (int, float)) or amount <= 0:
+            continue
+        obs_date = None
+        obs_raw = total_metric.get("observed_at")
+        if isinstance(obs_raw, str):
+            try:
+                obs_date = dt.datetime.fromisoformat(
+                    obs_raw.replace("Z", "+00:00")).astimezone(IST).date().isoformat()
+            except ValueError:
+                obs_date = None
+        if obs_date is None and isinstance(total_metric.get("observed_date"), str):
+            obs_date = total_metric["observed_date"]
+        if obs_date is None:
+            continue
+        series = history.setdefault(str(movie_id), [])
+        series[:] = [e for e in series if e["date"] != obs_date]
+        series.append({"date": obs_date, "amount": amount})
+        series.sort(key=lambda e: e["date"])
+        if obs_date != today_ist:
+            continue  # stale endpoint: never re-date old movement as today's
+        for window, span, slack in (("last_2_days", 2, 2), ("last_7_days", 7, 3)):
+            existing = report.get(window)
+            if isinstance(existing, dict) and existing.get("method") != "mojo_total_delta":
+                continue
+            target = date_shift(today_ist, -span)
+            baseline = None
+            for entry in series:
+                if entry["date"] <= target:
+                    baseline = entry
+            if baseline is None:
+                continue
+            gap = (dt.date.fromisoformat(target)
+                   - dt.date.fromisoformat(baseline["date"])).days
+            if gap > slack:
+                continue
+            delta = amount - baseline["amount"]
+            if delta <= 0:
+                continue
+            start, end = period_for(window, today_ist)
+            report[window] = {
+                "scope": "worldwide",
+                "window": window,
+                "method": "mojo_total_delta",
+                "amount": delta,
+                "currency": "USD",
+                "period_start": start,
+                "period_end": end,
+                "as_of": today_ist,
+                "observed_date": today_pkt,
+                "observed_at": now_iso,
+                "source_name": total_metric.get("source_name") or "boxofficemojo.com",
+                "source_url": total_metric.get("source_url") or "",
+                "source_title": total_metric.get("source_title")
+                                or report.get("title") or str(movie_id),
+                "evidence_quote": (f"Worldwide total ${amount:,} observed {obs_date} minus "
+                                   f"${baseline['amount']:,} observed {baseline['date']} "
+                                   f"(verified cumulative totals)"),
+                "reviewed_by": "mojo_total_delta (verified totals difference)",
+                "reviewed_at": now_iso,
+            }
+            counts[window] += 1
+    cutoff = date_shift(today_ist, -45)
+    history = {mid: [e for e in entries if e["date"] >= cutoff]
+               for mid, entries in history.items()}
+    history = {mid: entries for mid, entries in history.items() if entries}
+    return history, counts
+
+
 def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
                 now: dt.datetime | None = None) -> dict[str, Any]:
     now = now or dt.datetime.now(dt.timezone.utc)
@@ -1173,6 +1282,15 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
             mojo_fills += 1
             print(f"Mojo direct fill for {movie_id} [{item.get('title')}]: "
                   f"cumulative_total ${metric['amount']:,}")
+    # Totals differencing (2026-11-09): record today's verified
+    # cumulative totals in the carried history and derive worldwide
+    # 2-day/7-day windows from verified-total differences. Runs after
+    # every lane has settled so the endpoint is this run's freshest
+    # verified total; fills only windows no direct evidence covers.
+    total_history, delta_counts = update_total_history(
+        snapshot["reports"], previous.get("total_history"),
+        today_ist, today_pkt, now_iso)
+    snapshot["total_history"] = total_history
     snapshot["search_health"] = {
         "attempts": search_attempts,
         "failures": search_failures,
@@ -1187,7 +1305,8 @@ def run_refresh(*, tavily_fn=None, gemini_fn=None, kv_read=None, kv_write=None,
     kv_write(snapshot)
     counts = {w: sum(1 for metrics in accepted.values() if w in metrics) for w in WINDOWS}
     summary = {"query_count": query_count, "candidate_count": len(drafts), "accepted": counts,
-               "paired": paired_counts, "search_budget": SEARCH_BUDGET,
+               "paired": paired_counts, "total_deltas": delta_counts,
+               "search_budget": SEARCH_BUDGET,
                "skipped_searches": len(skipped_searches),
                "cooldown_skips": cooldown_skips,
                "search_health": snapshot["search_health"],

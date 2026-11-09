@@ -287,6 +287,20 @@ assert.equal(mojo.method, 'mojo_direct', 'mojo_direct keeps its own method label
 assert.equal(helper.directMetric(direct('cumulative_total', 500, {
   method: 'mojo_direct', reviewed_by: 'mojo_direct (component sum-check)', evidence_quote: '',
 }), 'cumulative_total', today), null, 'a mojo_direct report without its sum-check quote is rejected');
+// Totals differencing (2026-11-09): a window derived from two verified
+// cumulative totals is accepted under its own method label, with every
+// other strict check (exact period, as_of, quote) intact.
+const delta7 = helper.directMetric(direct('last_7_days', 6485000, {
+  method: 'mojo_total_delta', reviewed_by: 'mojo_total_delta (verified totals difference)',
+  evidence_quote: 'Worldwide total $188,676,594 observed 2026-10-30 minus $182,191,594 observed 2026-10-23 (verified cumulative totals)',
+}), 'last_7_days', today);
+assert.equal(delta7.amount, 6485000, 'mojo_total_delta 7-day window resolves for display');
+assert.equal(delta7.method, 'mojo_total_delta', 'mojo_total_delta keeps its own method label');
+assert.equal(helper.directMetric(direct('last_7_days', 6485000, {
+  method: 'mojo_total_delta', reviewed_by: 'mojo_total_delta (verified totals difference)',
+  evidence_quote: 'Worldwide total $188,676,594 observed 2026-10-30 minus $182,191,594 observed 2026-10-23 (verified cumulative totals)',
+  period_start: '2026-10-23',
+}), 'last_7_days', today), null, 'a mojo_total_delta report with the wrong period_start is rejected');
 const direct2 = (amount, extra = {}) => direct('last_2_days', amount, { period_start: '2026-10-29', ...extra });
 assert.equal(helper.directMetric(direct2(500), 'last_2_days', today).amount, 500);
 assert.equal(helper.directMetric(direct2(500, { period_start: '2026-10-28' }), 'last_2_days', today), null,
