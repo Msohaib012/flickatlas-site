@@ -36,6 +36,93 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 09 Nov 2026 18:42:36 +0200"
   },
+  "8uonpo": {
+    "id": "8uonpo",
+    "type": "news",
+    "headline": "Nitesh Tiwari Climbs Director Rankings As Ramayana Crosses 200 Crore Net",
+    "dek": "Director Nitesh Tiwari has surpassed Sanjay Leela Bhansali and other filmmakers in the Koimoi Director Ranking following the massive box office success of Ramayana.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Sanjay Leela Bhansali",
+        "Laxman Utekar",
+        "Kabir Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dangal",
+        "Chhichhore",
+        "Bajrangi Bhaijaan"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Nitesh Tiwari Ramayana",
+      "Koimoi Director Ranking",
+      "Ramayana 200 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-nitesh-tiwari-overtakes-sanjay-leela-bhansali-2-others-in-director-ranking-as-ramayana-enters-200-crore-net-club.jpg",
+        "caption": "Nitesh Tiwari Climbs Director Rankings As Ramayana Crosses 200 Crore Net",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 13:50:22 +0000"
+  },
+  "1i4477r": {
+    "id": "1i4477r",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 OTT Release Updates and Digital Streaming Details",
+    "dek": "Explore the expected digital partner, cast details, and theatrical run of Nayanthara's latest fantasy sequel.",
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Sundar C",
+        "Regina Cassandra",
+        "Urvashi",
+        "Yogi Babu",
+        "Venkatt Ragavan",
+        "Dr. Ishari K. Ganesh",
+        "Khushbu Sundar",
+        "Kushmitha Ganesh",
+        "Ishan Saksena",
+        "Vignesh Shivan",
+        "Hiphop Tamizha",
+        "Gopi Amarnath",
+        "Fenny Oliver",
+        "Rajasekar K",
+        "N. Manivannan",
+        "R. P. Balagopi",
+        "B. R. Venkatesh",
+        "Shiva Shankar",
+        "Udhaykumar",
+        "N. Chelladurai",
+        "V. Rajan",
+        "Pawan",
+        "Sathish"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Mahasakthi",
+        "Mookuthi Amman"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 OTT Release",
+      "Nayanthara Mookuthi Amman 2",
+      "JioHotstar Mookuthi Amman 2",
+      "Sundar C film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/mookuthiamman22-31341794232019.jpg",
+        "caption": "Mookuthi Amman 2 OTT Release Updates and Digital Streaming Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 19:18:02 +0530"
+  },
   "xjast2": {
     "id": "xjast2",
     "type": "news",
@@ -102,6 +189,47 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 09 Nov 2026 18:37:48 +0530"
   },
+  "1adtybv": {
+    "id": "1adtybv",
+    "type": "news",
+    "headline": "Suriya and Jyotika Celebrate Box Office Success as Scene Crosses ₹145 Crore Worldwide in Three Days",
+    "dek": "Actor Suriya and producer Jyotika expressed their gratitude to audiences after their crime comedy thriller Scene achieved massive global numbers over its opening weekend, marking a notable hattrick of hits for the actor in 2026.",
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jyotika",
+        "Nazriya Nazim",
+        "Naslen",
+        "Jithu Madhavan",
+        "Anandaraj",
+        "Lal",
+        "Rajpriyan",
+        "Suresh Mathiyalagan",
+        "Gajaraj",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath Sons"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Suriya Scene box office",
+      "Jyotika Scene movie",
+      "Jithu Madhavan Scene",
+      "Nazriya Nazim Tamil cinema"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/suriya_1794227592669_Tayl_1794227593016_hulf_069af5c5-e5c5-42d1-8b4c-5f9862875fa7_oMC2.png",
+        "caption": "Suriya and Jyotika Celebrate Box Office Success as Scene Crosses ₹145 Crore Worldwide in Three Days",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:33:34 +0530"
+  },
   "1qi963w": {
     "id": "1qi963w",
     "type": "news",
@@ -137,6 +265,38 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 13:02:54 +0000"
+  },
+  "hztt0o": {
+    "id": "hztt0o",
+    "type": "news",
+    "headline": "Mariah Carey Announces 2027 European Summer Festival Tour Dates",
+    "dek": "The legendary singer has revealed a nine-show European trek scheduled for the summer of 2027, titled the Firefly tour.",
+    "entities": {
+      "people": [
+        "Mariah Carey",
+        "Moroccan"
+      ],
+      "titles": [
+        "Here For It All",
+        "All I Want For Christmas Is You",
+        "Christmastime in Las Vegas",
+        "Billboard 200"
+      ]
+    },
+    "keywords": [
+      "Mariah Carey Firefly tour",
+      "Mariah Carey 2027 European tour dates",
+      "Here For It All album",
+      "Mariah Carey concert tickets"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/06/P106DV7B-e1781800056628.jpg?w=1024",
+        "caption": "Mariah Carey Announces 2027 European Summer Festival Tour Dates",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 12:40:57 +0000"
   },
   "18k3h99": {
     "id": "18k3h99",
@@ -4413,206 +4573,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-08T13:23:59+05:30"
-  },
-  "1a455an": {
-    "id": "1a455an",
-    "type": "news",
-    "headline": "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
-    "dek": "Ramayana: Rise of a Legend is expanding its overseas theatrical release, with Hong Kong next in line. Advance bookings have already opened for its November 12 release as the film eyes a Rs 500-crore worldwide Diwali weekend.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Aamir Khan",
-        "Vineeta Kumar"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Dangal"
-      ]
-    },
-    "keywords": [
-      "Ramayana Rise of a Legend",
-      "Ramayana Hong Kong release",
-      "Ranbir Kapoor Ramayana box office",
-      "Nitesh Tiwari Ramayana film"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-heads-to-hong-kong-after-eyeing-rs-500-crore-worldwide--bookings-begin-083008214-16x9_0.jpg?VersionId=u.fIAPqc2rzosx9WwSoLm0zOLnHHhpp6",
-        "caption": "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 13:00:49 +0530"
-  },
-  "1bjhn03": {
-    "id": "1bjhn03",
-    "type": "news",
-    "headline": "Radhikka Madan Reflects on Healing Through 'Lust Stories 3' and Her Views on Love",
-    "dek": "In an exclusive chat, Radhikka Madan opens up about playing Sailee in Lust Stories 3, overcoming personal inhibitions, and sharing her thoughts on self-love, modern relationships, and dealing with public scrutiny.",
-    "entities": {
-      "people": [
-        "Radhikka Madan",
-        "Suman Sharma",
-        "Konkona Sen Sharma",
-        "Shakun Batra",
-        "Ali Fazal",
-        "Viju Shah"
-      ],
-      "titles": [
-        "Lust Stories 3",
-        "Subedaar"
-      ]
-    },
-    "keywords": [
-      "Radhikka Madan Lust Stories 3",
-      "Radhikka Madan interview Filmfare",
-      "Radhikka Madan Sailee character",
-      "Lust Stories 3 cast"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/radhikkamadansoooo1793957648.jpg",
-        "caption": "Radhikka Madan Reflects on Healing Through 'Lust Stories 3' and Her Views on Love",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-08T12:54:56+05:30"
-  },
-  "ke9tcf": {
-    "id": "ke9tcf",
-    "type": "news",
-    "headline": "Music Director Viju Shah Reminisces About Electronic Soundscapes",
-    "dek": "Renowned composer Viju Shah reflects on four decades of creating landmark electronic melodies for Indian cinema, discussing his signature synth-pop style, legendary collaborations, and timeless hits.",
-    "entities": {
-      "people": [
-        "Viju Shah",
-        "Kalyanji",
-        "Babla",
-        "Zeenat Aman",
-        "Sunny Leone",
-        "Shah Rukh Khan",
-        "Sridevi",
-        "Akshay Kumar",
-        "Rajiv Rai",
-        "Amit Kumar",
-        "Alka Yagnik",
-        "Vijay Shah",
-        "Mohammed Aziz",
-        "Sadhana Sargam",
-        "Anand Bakshi",
-        "Naseeruddin Shah",
-        "Gulshan Rai",
-        "Amrish Puri",
-        "Divya Bharti",
-        "Pankaj Udhas",
-        "Indeevar",
-        "Dilip Kumar",
-        "Hariharan",
-        "Amitabh Bachchan",
-        "Joy Augustine",
-        "Kumar Sanu",
-        "Kavita Krishnamurthy",
-        "Feroz Khan",
-        "Kanchan",
-        "Manhar Udhas",
-        "Sapna Mukherjee",
-        "Raza Murad",
-        "David Dhawan",
-        "Sameer"
-      ],
-      "titles": [
-        "Qurbani",
-        "Janbaaz",
-        "Tridev",
-        "Mohra",
-        "Gupt",
-        "Tere Mere Sapne",
-        "Raees",
-        "Boss",
-        "Thank You",
-        "Sooryavanshi",
-        "Simmba",
-        "Dhurandhar: The Revenge",
-        "Nagin",
-        "Don",
-        "Yudh",
-        "Vishwatma",
-        "Taqdeer",
-        "Toofan",
-        "Kalinga",
-        "Pyaar Ishq Aur Mohabbat",
-        "Asambhav",
-        "Zora",
-        "Zora Zorawar",
-        "Yalgaar",
-        "Bade Miyan Chote Miyan"
-      ]
-    },
-    "keywords": [
-      "Viju Shah interview",
-      "Viju Shah music director",
-      "Mohra music Viju Shah",
-      "Tridev Viju Shah songs",
-      "Gupt background score"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/177606481793943939.jpg",
-        "caption": "Music Director Viju Shah Reminisces About Electronic Soundscapes",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-08T12:41:02+05:30"
-  },
-  "iw59l6": {
-    "id": "iw59l6",
-    "type": "news",
-    "headline": "Ramayana Deleted Viral Scene: Rama Rescues Sita, Lakshman From Wolves; Fans React On Social Media",
-    "dek": "A deleted action sequence from Ramayana: Part 1 featuring Lord Rama saving Sita and Lakshman from wolf-like creatures has gone viral after appearing in the international cut.",
-    "entities": {
-      "people": [
-        "Mimansa Shekhar",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Ravie Dubey",
-        "Hans Zimmer",
-        "AR Rahman",
-        "Dipika Chikhlia",
-        "SU Arun Kumar",
-        "Kamal Haasan",
-        "Vivek Oberoi",
-        "Diljit Dosanjh",
-        "Sonia Gandhi",
-        "Akhilesh Yadav",
-        "Yogi"
-      ],
-      "titles": [
-        "Ramayana: Part 1",
-        "Sandiyar"
-      ]
-    },
-    "keywords": [
-      "Ramayana deleted scene",
-      "Ramayana international cut wolves",
-      "Nitesh Tiwari Ramayana Part 1",
-      "Namit Malhotra Ramayana",
-      "Ranbir Kapoor Sai Pallavi Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156480229,thumbsize-806498,width-1280,height-720,resizemode-75/156480229.jpg",
-        "caption": "Ramayana Deleted Viral Scene: Rama Rescues Sita, Lakshman From Wolves; Fans React On Social Media",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-08T06:53:17Z"
   },
   "1uxna1r": {
     "id": "1uxna1r",

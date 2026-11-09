@@ -96616,5 +96616,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 13:02:54 +0000"
+  },
+  "8uonpo": {
+    "id": "8uonpo",
+    "type": "news",
+    "headline": "Nitesh Tiwari Climbs Director Rankings As Ramayana Crosses 200 Crore Net",
+    "dek": "Director Nitesh Tiwari has surpassed Sanjay Leela Bhansali and other filmmakers in the Koimoi Director Ranking following the massive box office success of Ramayana.",
+    "body": [
+      {
+        "h": "Ramayana Box Office Triumph",
+        "p": [
+          "The theatrical run of Ramayana has generated massive numbers at the Indian box office. Despite the typical challenges associated with the pre-Diwali period, the magnum opus pulled in phenomenal figures during its opening stretch.",
+          "Ticket windows witnessed heavy footfalls as audiences rushed to watch the spectacle on the big screen, driving the film straight into elite box office milestones."
+        ]
+      },
+      {
+        "h": "Extended Weekend Performance",
+        "p": [
+          "During its four-day extended opening weekend, the film accumulated a massive total of 242 crore net domestically. This stellar performance laid the groundwork for rapid upward movement in trade rankings.",
+          "The unprecedented surge also translated into major milestones for the creative minds behind the project, particularly boosting the standing of its director."
+        ]
+      },
+      {
+        "h": "Understanding The Director Power Index",
+        "p": [
+          "The Koimoi Director Ranking evaluates Indian filmmakers based on the commercial performance of their Hindi and Bollywood films within specific box office clubs.",
+          "Directors earn points for reaching major benchmarks, such as 100 points for a 100-crore film and 200 points for a 200-crore film, along with additional points for overseas achievements."
+        ]
+      },
+      {
+        "h": "Points Gained By Nitesh Tiwari",
+        "p": [
+          "With Ramayana hitting the 100 crore net club, Nitesh Tiwari initially secured 100 points. As the film swiftly crossed the 200 crore net mark on its fourth day, an additional 100 points were added to his tally.",
+          "These recent additions brought his cumulative score in the rankings up to a total of 650 points."
+        ]
+      },
+      {
+        "h": "Overtaking Industry Counterparts",
+        "p": [
+          "Reaching 650 points allowed Nitesh Tiwari to surpass notable industry filmmakers including Sanjay Leela Bhansali and Laxman Utekar, both sitting at 600 points.",
+          "Although tied with Kabir Khan on total points, Tiwari claimed the higher 11th spot due to the superior net collection of his top-grossing movie compared to Kabir's."
+        ]
+      },
+      {
+        "h": "Breakdown Of Career Milestones",
+        "p": [
+          "Tiwari's total score is comprised of contributions from multiple successful titles. This includes one film in the 100 crore club with Chhichhore and another in the 200 crore club with Ramayana.",
+          "His filmography also features a blockbuster in the 300 crore club with Dangal, which additionally earned recognition as one of Bollywood's top 10 overseas grossers."
+        ]
+      },
+      {
+        "h": "Future Projections",
+        "p": [
+          "With theatrical momentum continuing to build for his latest release, industry analysts anticipate further upward movement for the filmmaker in upcoming updates.",
+          "Continued box office strength positions him well to secure even higher placements as the festive season progresses."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Nitesh Tiwari has climbed to the 11th spot in the Koimoi Director Ranking with 650 points after Ramayana entered the 200 crore net club following a 242 crore net four-day extended opening weekend. This achievement allowed him to surpass filmmakers like Sanjay Leela Bhansali, backed by the strong historical performances of his past hits including Dangal and Chhichhore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned 242 crore net in its 4-day extended opening weekend.",
+      "Nitesh Tiwari's total score in the Koimoi Director Ranking stands at 650 points.",
+      "Sanjay Leela Bhansali and Laxman Utekar have 600 points in the ranking.",
+      "Dangal collected 387.39 crore net.",
+      "Bajrangi Bhaijaan collected 320.34 crore net."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Sanjay Leela Bhansali",
+        "Laxman Utekar",
+        "Kabir Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dangal",
+        "Chhichhore",
+        "Bajrangi Bhaijaan"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Nitesh Tiwari Ramayana",
+      "Koimoi Director Ranking",
+      "Ramayana 200 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/box-office-nitesh-tiwari-overtakes-sanjay-leela-bhansali-2-others-in-director-ranking-as-ramayana-enters-200-crore-net-club.jpg",
+        "caption": "Nitesh Tiwari Climbs Director Rankings As Ramayana Crosses 200 Crore Net",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 13:50:22 +0000"
+  },
+  "hztt0o": {
+    "id": "hztt0o",
+    "type": "news",
+    "headline": "Mariah Carey Announces 2027 European Summer Festival Tour Dates",
+    "dek": "The legendary singer has revealed a nine-show European trek scheduled for the summer of 2027, titled the Firefly tour.",
+    "body": [
+      {
+        "h": "Tour Announcement Details",
+        "p": [
+          "Mariah Carey has officially scheduled a busy season of live performances for the upcoming year, revealing her itinerary for a brand new European excursion. The iconic vocalist shared the news regarding a nine-show run slated to take place throughout the summer of 2027.",
+          "The announcement arrived on a Monday morning, outlining a sequence of stops across multiple European countries that will keep the celebrated artist on the road during the warmer months."
+        ]
+      },
+      {
+        "h": "Opening Stops and UK Dates",
+        "p": [
+          "The newly christened Firefly tour is scheduled to begin on June 24 at Molleparken located in Sonderborg, Denmark.",
+          "Following the opening performance, the itinerary moves to the United Kingdom for a series of appearances, starting with the Powderham Castle Grounds in Exeter on June 27, and continuing to Cardiff Castle in Cardiff on June 29."
+        ]
+      },
+      {
+        "h": "Mid-Tour European Festival Dates",
+        "p": [
+          "The nine-show swing continues into July with a performance at the Blenheim Palace Grounds in Oxfordshire, U.K., on July 1.",
+          "Additional stops on the schedule include the Scarborough Open Air Theatre in Scarborough, U.K., the Jazz Open Stuttgart in Stuttgart, Germany, the Lucca Summer Festival in Lucca, Italy, and Francofolies De Spa in Spa, Belgium on July 14."
+        ]
+      },
+      {
+        "h": "Concluding Performances",
+        "p": [
+          "The European summer trek will ultimately wind down with a final set scheduled at the Moon Stars Festival in Locarno, Switzerland on July 20.",
+          "Fans across these various regions will have the opportunity to see the legendary performer live as she brings her catalog to historic grounds and prominent festival stages."
+        ]
+      },
+      {
+        "h": "Ticket Information and Social Media Reveal",
+        "p": [
+          "The singer used her Instagram account to break the news directly to her dedicated fanbase, writing a message to her supporters and encouraging them to join her for the upcoming run.",
+          "A general onsale for all scheduled dates is set to open at 9 a.m. on Friday, with tickets available directly through the individual venues' websites."
+        ]
+      },
+      {
+        "h": "Recent Musical Releases and Chart Success",
+        "p": [
+          "This upcoming tour announcement follows a strong commercial period for the artist, who dropped her 16th studio album, Here For It All, earlier in the year.",
+          "The record made a strong debut at No. 7 on the Billboard 200 chart, marking the legendary singer's 19th top 10 LP overall on the album tally."
+        ]
+      },
+      {
+        "h": "Holiday Traditions and Recent Residencies",
+        "p": [
+          "In addition to her touring plans, the artist recently launched her traditional countdown to the winter holidays with a signature video appearance after the calendar shifted to November.",
+          "Prior to her upcoming festival dates, her most recent run of concerts concluded last December when she wrapped up her Christmastime in Las Vegas residency at Dolby Live at Park MGM."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mariah Carey has announced a nine-show European summer tour for 2027 called the Firefly tour, which kicks off in Denmark in late June and concludes in Switzerland in July. Tickets for the general onsale become available on Friday following her social media announcement."
+        ]
+      }
+    ],
+    "facts": [
+      "Mariah Carey announced a nine-show European summer tour for 2027 called the Firefly tour on Monday, Nov. 9.",
+      "The tour starts on June 24 at Molleparken in Sonderborg, Denmark.",
+      "The final show takes place at the Moon Stars Festival in Locarno, Switzerland on July 20.",
+      "Tickets go on general sale at 9 a.m. on Friday.",
+      "Her 16th studio album, Here For It All, debuted at No. 7 on the Billboard 200, marking her 19th top 10 LP overall.",
+      "Her previous concert run concluded last December with her Christmastime in Las Vegas residency at Dolby Live at Park MGM."
+    ],
+    "entities": {
+      "people": [
+        "Mariah Carey",
+        "Moroccan"
+      ],
+      "titles": [
+        "Here For It All",
+        "All I Want For Christmas Is You",
+        "Christmastime in Las Vegas",
+        "Billboard 200"
+      ]
+    },
+    "keywords": [
+      "Mariah Carey Firefly tour",
+      "Mariah Carey 2027 European tour dates",
+      "Here For It All album",
+      "Mariah Carey concert tickets"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/06/P106DV7B-e1781800056628.jpg?w=1024",
+        "caption": "Mariah Carey Announces 2027 European Summer Festival Tour Dates",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 12:40:57 +0000"
+  },
+  "1i4477r": {
+    "id": "1i4477r",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 OTT Release Updates and Digital Streaming Details",
+    "dek": "Explore the expected digital partner, cast details, and theatrical run of Nayanthara's latest fantasy sequel.",
+    "body": [
+      {
+        "h": "Theatrical Arrival and Streaming Platform",
+        "p": [
+          "Mookuthi Amman 2 - Mahasakthi officially made its way to cinemas worldwide on November 6, 2026. Following its theatrical premiere, audiences eager to catch the fantasy venture from home have looked for updates regarding its digital platform arrival.",
+          "Industry reports indicate that JioHotstar has secured the digital streaming rights for the movie. However, as of November 9, 2026, neither the production house nor the streaming service has communicated a confirmed release date for the online premiere."
+        ]
+      },
+      {
+        "h": "Cast and Character Details",
+        "p": [
+          "The sequel brings back its principal lead, with Nayanthara reprising her role as the titular character, Mookuthi Amman. The project also features Regina Cassandra in an important capacity, alongside veteran performers and fan favorites.",
+          "The ensemble supporting lineup includes notable names such as Urvashi and Yogi Babu, contributing to the scale and comedic elements of the narrative."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Arc",
+        "p": [
+          "The storyline of this installment follows a tragic royal sacrifice where a queen gives up her life to safeguard her young son from approaching invading armies. Stepping into the fray, Mookuthi Amman takes on the duty of protecting the prince.",
+          "This mission ultimately leads the divine figure into a direct confrontation with a mysterious antagonist who embodies an emerging and dangerous form of evil."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "Dr. Ishari K. Ganesh produced the project under the banner of VELS Film International Limited. The production team also credits Khushbu Sundar, Kushmitha Ganesh, Ishan Saksena, and Vignesh Shivan as co-producers.",
+          "Sundar C directed the feature film, while Venkatt Ragavan contributed to drafting the screenplay and dialogues."
+        ]
+      },
+      {
+        "h": "Technical and Crew Credits",
+        "p": [
+          "The auditory and visual experience of the movie is shaped by a dedicated crew, featuring Hiphop Tamizha as the music composer and Gopi Amarnath handling the cinematography. Fenny Oliver edited the film.",
+          "Stunt sequences were directed by Rajasekar K, and B. R. Venkatesh served as the VFX producer. Additional contributors include Shiva Shankar as colourist and Udhaykumar on sound design."
+        ]
+      },
+      {
+        "h": "Current Theatrical Status",
+        "p": [
+          "Because the feature entered cinemas only three days prior to the initial reports, its theatrical run remains in a very early stage. The eventual digital rollout is planned to happen only after the cinema run concludes.",
+          "At present, details regarding the precise gap between the theatrical window and the OTT premiere, as well as the audio languages that will be supported online, remain unconfirmed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nayanthara stars in Mookuthi Amman 2 - Mahasakthi, which released in theatres worldwide on November 6, 2026, under the direction of Sundar C. While reports point to JioHotstar as the digital streaming partner, an official OTT release date has not been announced as of November 9, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 - Mahasakthi released in theatres on November 6, 2026.",
+      "JioHotstar has reportedly acquired the digital streaming rights.",
+      "No official OTT release date was announced as of November 9, 2026.",
+      "Nayanthara plays the central character of Mookuthi Amman.",
+      "Sundar C directed the film.",
+      "Dr. Ishari K. Ganesh produced the film under VELS Film International Limited."
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Sundar C",
+        "Regina Cassandra",
+        "Urvashi",
+        "Yogi Babu",
+        "Venkatt Ragavan",
+        "Dr. Ishari K. Ganesh",
+        "Khushbu Sundar",
+        "Kushmitha Ganesh",
+        "Ishan Saksena",
+        "Vignesh Shivan",
+        "Hiphop Tamizha",
+        "Gopi Amarnath",
+        "Fenny Oliver",
+        "Rajasekar K",
+        "N. Manivannan",
+        "R. P. Balagopi",
+        "B. R. Venkatesh",
+        "Shiva Shankar",
+        "Udhaykumar",
+        "N. Chelladurai",
+        "V. Rajan",
+        "Pawan",
+        "Sathish"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Mahasakthi",
+        "Mookuthi Amman"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 OTT Release",
+      "Nayanthara Mookuthi Amman 2",
+      "JioHotstar Mookuthi Amman 2",
+      "Sundar C film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/mookuthiamman22-31341794232019.jpg",
+        "caption": "Mookuthi Amman 2 OTT Release Updates and Digital Streaming Details",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 19:18:02 +0530"
+  },
+  "1adtybv": {
+    "id": "1adtybv",
+    "type": "news",
+    "headline": "Suriya and Jyotika Celebrate Box Office Success as Scene Crosses ₹145 Crore Worldwide in Three Days",
+    "dek": "Actor Suriya and producer Jyotika expressed their gratitude to audiences after their crime comedy thriller Scene achieved massive global numbers over its opening weekend, marking a notable hattrick of hits for the actor in 2026.",
+    "body": [
+      {
+        "h": "A Festive Release and Massive Opening Weekend",
+        "p": [
+          "The crime comedy thriller Scene made its theatrical debut on November 6, strategically arriving right ahead of the Diwali festivities. The film captured the attention of moviegoers immediately, translating high anticipation into staggering ticket sales across domestic and international markets alike.",
+          "Within just three days of its theatrical run, the makers officially announced that the movie surpassed a major milestone by grossing ₹145 crore worldwide. This swift accumulation highlights the immense pulling power of the lead star during one of the most competitive festive windows of the year."
+        ]
+      },
+      {
+        "h": "Suriya and Jyotika Express Gratitude to Audiences",
+        "p": [
+          "Following the phenomenal opening, star Suriya and producer Jyotika took to social media to share their appreciation with their supporters. A joint Instagram post featured cheerful photographs of the couple alongside members of the film's cast and crew, including co-star Nazriya Nazim.",
+          "In the caption accompanying the post, Suriya acknowledged the overwhelming warmth and trust shown by viewers who visited theatres across various languages and borders. He noted that this consistent support provides the creative team with the courage to continually explore new cinematic horizons."
+        ]
+      },
+      {
+        "h": "A Spectacle of Hat-Tricks in 2026",
+        "p": [
+          "The phenomenal start of Scene adds another feather to Suriya's cap during an already remarkable year. The actor has enjoyed a spectacular run through 2026, successfully scoring three consecutive commercial successes.",
+          "Before the arrival of this festive release, Suriya won over audiences with his performances in Karuppu and Vishwanath Sons. Securing a hattrick of hits within a single calendar year solidifies his formidable box office standing and widespread appeal."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics in Scene",
+        "p": [
+          "In the film, Suriya steps into the shoes of Inbaraaj, a cop defined by distinct swagger and a commanding attitude. Upon his arrival at a correctional facility, the inmates begin to exhibit erratic behaviors, setting the stage for a compelling narrative.",
+          "The protagonist is eventually forced to dive deep into a complex investigation after a closely guarded secret of his is exposed. The plot weaves together unexpected twists, blending suspense with high-stakes dramatic tension."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Notable Collaborations",
+        "p": [
+          "Scene features a diverse ensemble cast that brings together talent from different regional film industries. Notably, the project marks the much-anticipated return of Nazriya Nazim to Tamil cinema after a hiatus of 12 years.",
+          "Additionally, the movie serves as the Tamil film debut for actor Naslen. The supporting lineup also features established names such as Anandaraj, Lal, Rajpriyan, Suresh Mathiyalagan, and Gajaraj."
+        ]
+      },
+      {
+        "h": "Direction and Production Backing",
+        "p": [
+          "The creative vision behind the project belongs to writer and director Jithu Madhavan, who infuses the narrative with unpredictable turns and unique comedic touches. Reviews have particularly highlighted how the director injects humor into intense fight sequences, steering clear of standard commercial tropes.",
+          "On the production front, the feature is backed by Suriya and Jyothika's banner 2D Entertainment in collaboration with the newly established Zhagaram Studios, combining experienced production houses to mount the ambitious venture."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Suriya and Jyotika thanked fans after their film Scene crossed ₹145 crore worldwide within three days of its release on November 6. The crime comedy thriller, directed by Jithu Madhavan, marks Suriya's third consecutive hit of 2026 and features an ensemble cast including Nazriya Nazim and Naslen."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released on November 6, 2026.",
+      "The film crossed ₹145 crore worldwide in 3 days.",
+      "Suriya stars as a cop named Inbaraaj.",
+      "Nazriya Nazim returns to Tamil cinema after 12 years.",
+      "Naslen makes his Tamil cinema debut.",
+      "Jithu Madhavan is the writer and director of Scene."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jyotika",
+        "Nazriya Nazim",
+        "Naslen",
+        "Jithu Madhavan",
+        "Anandaraj",
+        "Lal",
+        "Rajpriyan",
+        "Suresh Mathiyalagan",
+        "Gajaraj",
+        "Santanu Das"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath Sons"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Suriya Scene box office",
+      "Jyotika Scene movie",
+      "Jithu Madhavan Scene",
+      "Nazriya Nazim Tamil cinema"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/suriya_1794227592669_Tayl_1794227593016_hulf_069af5c5-e5c5-42d1-8b4c-5f9862875fa7_oMC2.png",
+        "caption": "Suriya and Jyotika Celebrate Box Office Success as Scene Crosses ₹145 Crore Worldwide in Three Days",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:33:34 +0530"
   }
 };
