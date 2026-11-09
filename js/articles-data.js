@@ -95451,5 +95451,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 09:50:03 +0000"
+  },
+  "hqizgz": {
+    "id": "hqizgz",
+    "type": "news",
+    "headline": "Suriya's Scene Crosses ₹145 Crore Globally in Three Days",
+    "dek": "The action-comedy directed by Jithu Madhavan has crossed a major global milestone within its opening weekend in cinemas.",
+    "body": [
+      {
+        "h": "Opening Weekend Worldwide Milestone",
+        "p": [
+          "The theatrical release of the action-comedy film Scene has achieved a significant financial milestone across international markets. Within its initial three days in cinemas, the feature crossed a massive threshold in global ticket sales. The production team officially shared the updated figures at the start of the week.",
+          "Zhagaram Studios used official social media handles to distribute a newly designed box office poster. This promotional material officially declared the project a blockbuster after it shattered early earnings expectations during its debut run."
+        ]
+      },
+      {
+        "h": "Global Gross Revenue Details",
+        "p": [
+          "According to the official figures released by the makers, the picture accumulated more than ₹145 crore globally since hitting the big screen. This substantial gross represents the collective earnings pulled in across domestic and international territories during the opening three-day window.",
+          "The theatrical debut occurred on November 6, 2026, setting the stage for a strong weekend trajectory. By the time the fourth day arrived, the studio compiled the opening numbers to showcase the immense early demand from audiences."
+        ]
+      },
+      {
+        "h": "Directorial Debut and Collaborations",
+        "p": [
+          "Filmmaker Jithu Madhavan helmed the project, marking his official entry into Tamil cinema with this venture. Alongside his directorial duties, he also penned the screenplay for the action-heavy comedy.",
+          "The production also brings other prominent Malayalam cinema talents into the Tamil industry for the first time. This includes actor Naslen and music composer Sushin Shyam, continuing a creative partnership with the director."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Popular actor Suriya anchors the project in the lead role, driving the narrative forward with his star power. He is joined in the principal cast by Nazriya Nazim, alongside supporting performances from Anandraj, Lal, and Raj Priyan.",
+          "A robust technical crew supported the vision behind the screen. Vineeth Augustian managed the cinematography, while Ajmal Sabu handled editing tasks, and Vishnu Govind took charge of the audiography."
+        ]
+      },
+      {
+        "h": "Production and Behind-the-Scenes Team",
+        "p": [
+          "The film is a collaborative effort on the production front, jointly funded by Suriya and Jyotika. The backing came through Zhagaram Studios and 2D Entertainment, with Jaishree Damodaran acting as the co-producer.",
+          "Additional creative elements were shaped by production designer Ashwini Kale and action choreographer Chethan D'Souza, ensuring the visual and physical stunts met high production standards."
+        ]
+      },
+      {
+        "h": "Ongoing Theatrical Run and Future Outlook",
+        "p": [
+          "Despite the conclusion of its opening weekend, the picture maintains a strong presence in cinema halls. The studio confirmed that screenings continue uninterrupted across various locations.",
+          "As the feature transitions into its initial weekday phase starting Monday, industry analysts will closely monitor subsequent earnings reports. These upcoming updates will determine how well the project sustains its momentum beyond the initial hype."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's action-comedy film Scene crossed ₹145 crore in worldwide gross collections within its first three days following its November 6 release. Directed by Jithu Madhavan, the movie continues its successful theatrical run while generating strong early numbers."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released in theatres on November 6, 2026.",
+      "The makers announced a worldwide gross of over ₹145 crore on Monday, November 9, 2026.",
+      "The ₹145 crore figure represents earnings from the first three days.",
+      "Jithu Madhavan directed the film and wrote the screenplay.",
+      "Suriya and Jyotika jointly produced the project through Zhagaram Studios and 2D Entertainment."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Jyotika",
+        "Nazriya Nazim",
+        "Naslen",
+        "Sushin Shyam",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Jaishree Damodaran",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Vishnu Govind",
+        "Ashwini Kale",
+        "Chethan D'Souza"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Jithu Madhavan Scene movie",
+      "Scene 145 crore worldwide"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene-91131794224368.jpg",
+        "caption": "Suriya's Scene Crosses ₹145 Crore Globally in Three Days",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 17:10:52 +0530"
+  },
+  "x0c83w": {
+    "id": "x0c83w",
+    "type": "news",
+    "headline": "Ramayana: Rise Of A Legend Claims Top Spot at UK-Ireland Box Office",
+    "dek": "The Bollywood action epic establishes a new opening-weekend record for an Indian release in the region, leading a weekend dominated by fresh cinematic arrivals.",
+    "body": [
+      {
+        "h": "Record-Breaking Debut for Indian Cinema",
+        "p": [
+          "The Bollywood action epic Ramayana: Rise Of A Legend captured the number one position at the UK-Ireland box office during its opening weekend. Distributed by Sony, the film generated £1.7 million from 364 locations, achieving a per-site average of £4,749. Its total reaches £2.2 million when factoring in preview screenings.",
+          "This performance marks the highest opening weekend ever recorded for an Indian movie in the territory. It surpasses the previous benchmark set earlier in the year by Dhurandhar: The Revenge, which debuted with £1.6 million and reached £2.1 million including previews."
+        ]
+      },
+      {
+        "h": "Background and Production Scale",
+        "p": [
+          "Rise Of A Legend functions as the first chapter in a planned two-part cinematic narrative. The overarching project centers on an ancient story following the marriage of a young prince and princess.",
+          "With a reported budget of $420 million spanning both halves, the production stands as the most expensive Indian film ever created. The second installment, Ramayana: Part 2, is currently slated for release in October 2028."
+        ]
+      },
+      {
+        "h": "Historic Milestone for Asian Cinema",
+        "p": [
+          "For the first time in the history of the UK-Ireland box office, Asian films secured both first and second places simultaneously. Anime Ltd released Godzilla Minus Zero, which debuted in the runner-up position.",
+          "Godzilla Minus Zero pulled in £1.1 million across 474 sites for a £2,396 average, bringing its cumulative total to £1.4 million with previews included. The opening outperformed the three-day start of its predecessor, 2023's Godzilla Minus One, which launched with £786,000 on its way to a £2.6 million lifetime domestic run."
+        ]
+      },
+      {
+        "h": "Holdovers and New Entries",
+        "p": [
+          "Black Bear's comedy-drama Wicker remained the sole holdover inside the top five rankings. On its second weekend, the picture brought in an additional £1.1 million, marking a minimal 32% drop that constituted the best hold within the top 15.",
+          "Wicker now boasts a cumulative gross of £4.3 million. Meanwhile, Universal introduced the concert film George Michael: The Faith Tour to cinemas, capturing fourth place with a £1 million opening weekend from 592 locations and a £1,734 average."
+        ]
+      },
+      {
+        "h": "Director Martin McDonagh's Latest Release",
+        "p": [
+          "Rounding out the top five, Disney distributed Wild Horse Nine, a Venice Competition title directed by Martin McDonagh. The film opened to just over £1 million from 660 sites, averaging £1,551 per location, and sits at £1.5 million including previews.",
+          "The debut figures fell below the performance of McDonagh's past works, trailing the £1.6 million opening of The Banshees Of Inisherin from October 2022 and the £2.2 million start of Three Billboards Outside Ebbing, Missouri from January 2018."
+        ]
+      },
+      {
+        "h": "Overall Market Trends and Upcoming Releases",
+        "p": [
+          "Despite an influx of fresh titles entering the theatrical landscape, overall takings for the top five films declined for the second consecutive weekend. Total box office receipts for the leading group fell by 5% to settle at just over £6 million.",
+          "The upcoming box office session promises a diverse slate of new options. Sony will introduce the heist comedy How To Rob A Bank alongside the theatrical adaptation Prima Facie, while Paramount brings forth the Scrooge narrative Ebeneezer, and Picturehouse Entertainment releases the Palme d’Or winner Fjord."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise Of A Legend secured the top spot at the UK-Ireland box office with a record-setting debut for an Indian release. The weekend also featured notable openings from Godzilla Minus Zero and George Michael: The Faith Tour, contributing to a diverse chart despite a slight drop in overall top-five earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise Of A Legend earned £1.7m from 364 sites on its opening weekend.",
+      "Total earnings for Ramayana: Rise Of A Legend reached £2.2m including previews.",
+      "The film surpassed Dhurandhar: The Revenge, which previously held the record with a £1.6m opening and £2.1m including previews.",
+      "Ramayana: Part 2 is scheduled for release in October 2028.",
+      "The two-part Ramayana project has a reported budget of $420m.",
+      "Godzilla Minus Zero earned £1.1m from 474 sites, totaling £1.4m with previews.",
+      "Godzilla Minus One had a three-day start of £786,000 and a £2.6m total.",
+      "Wicker dropped 32% on its second weekend, adding £1.1m for a £4.3m total.",
+      "George Michael: The Faith Tour opened in 592 sites with £1m.",
+      "Wild Horse Nine opened to just over £1m from 660 sites, totaling £1.5m with previews.",
+      "The Banshees Of Inisherin opened to £1.6m in October 2022.",
+      "Three Billboards Outside Ebbing, Missouri opened to £2.2m in January 2018.",
+      "Top five takings fell 5% to just over £6m."
+    ],
+    "entities": {
+      "people": [
+        "Ben Dalton",
+        "George Michael",
+        "Martin McDonagh"
+      ],
+      "titles": [
+        "Ramayana: Rise Of A Legend",
+        "Godzilla Minus Zero",
+        "Wicker",
+        "George Michael: The Faith Tour",
+        "Wild Horse Nine",
+        "Dhurandhar: The Revenge",
+        "Ramayana: Part 2",
+        "Godzilla Minus One",
+        "The Banshees Of Inisherin",
+        "Three Billboards Outside Ebbing, Missouri",
+        "How To Rob A Bank",
+        "Prima Facie",
+        "Ebeneezer",
+        "Fjord",
+        "The Thomas Crown Affair"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise Of A Legend",
+      "Godzilla Minus Zero UK box office",
+      "George Michael The Faith Tour",
+      "Wild Horse Nine film",
+      "Wicker box office"
+    ],
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/9/3/1491693_ramayanagodzillageorge_112005.jpg",
+        "caption": "Ramayana: Rise Of A Legend Claims Top Spot at UK-Ireland Box Office",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 11:29:00 GMT"
+  },
+  "lhbyyb": {
+    "id": "lhbyyb",
+    "type": "news",
+    "headline": "Ramayana Reaches Rs 507.2 Crore Worldwide, Secures Second Place Globally During Diwali Weekend",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana crosses the Rs 500 crore mark globally after its four-day opening weekend, trailing behind Godzilla Minus Zero.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "Nitesh Tiwari's ambitious two-part cinematic adaptation inspired by Valmiki's Ramayana has quickly generated significant attention across the film industry. The project's scale, extensive ensemble cast, and foundational mythological subject matter have positioned it as one of the most widely discussed Indian films in recent times.",
+          "Mounted with a reported massive budget, the production carries high expectations regarding its visual treatment and commercial performance. Trade analysts and audiences alike have kept a close eye on its box office journey from the very beginning."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Major Performances",
+        "p": [
+          "The film features a landmark gathering of major cinematic talent, bringing together Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Raavan for the first time. This high-profile trio forms the core of the narrative's central conflict.",
+          "In addition to the primary leads, the ensemble includes notable names such as Ravi Dubey, Anupam Kher, Sunny Deol, Lara Dutta, Arun Govil, Rakul Preet Singh, and Vivek Oberoi portraying key supporting roles throughout the two-part epic."
+        ]
+      },
+      {
+        "h": "Audience Reactions and Visual Effects",
+        "p": [
+          "Before and after release, early viewer discussions frequently centered on Yash's portrayal of Raavan, which has become one of the project's most prominent talking points. Meanwhile, Ranbir Kapoor's return to the big screen following a hiatus has maintained strong fan investment.",
+          "On the technical side, the film's visual effects have elicited mixed responses from audiences. While many viewers have praised the ambitious scope of the digital creation, others have expressed reservations concerning the execution."
+        ]
+      },
+      {
+        "h": "Box Office Momentum and Worldwide Collections",
+        "p": [
+          "Following a slower-than-expected start at the counters, the feature successfully regained momentum over its opening weekend, sustaining ongoing trade interest. Reports indicate that the production has generated considerable waves internationally.",
+          "According to data published by Sacnilk, the overseas segment brought in Rs 53 crore on Diwali, corresponding to day four and the first Saturday. This pushed the cumulative overseas total to Rs 222 crore following the opening weekend, while the overall worldwide collection reached Rs 507.2 crore."
+        ]
+      },
+      {
+        "h": "Global Charts and Domestic Earnings",
+        "p": [
+          "Sacnilk notes that the feature successfully entered global charts, logging an estimated worldwide opening weekend of $54.10 million. This performance earned the Indian title the second position globally during the weekend of November 6 to November 8.",
+          "The top spot for the weekend went to Godzilla Minus Zero, which raked in $63 million. Domestically, the film earned Rs 56.15 crore in India, bringing its combined four-day opening weekend total to Rs 238.85 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown Across India",
+        "p": [
+          "The domestic total of Rs 56.15 crore was distributed across multiple regional language versions. The Hindi version led the domestic collections with Rs 36.75 crore.",
+          "Additional contributions to the domestic opening weekend came from the regional circuits, with the Kannada version earning Rs 7.25 crore, the Telugu version bringing in Rs 6.25 crore, the Tamil version contributing Rs 3.15 crore, and the Malayalam version adding Rs 2.75 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana crossed Rs 507.2 crore in total worldwide collections after its four-day opening weekend. The film achieved the second position globally for the November 6-November 8 weekend behind Godzilla Minus Zero."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana total worldwide collection after 4 days is Rs 507.2 crore",
+      "Overseas collection on Diwali (day 4 / first Saturday) was Rs 53 crore",
+      "Total overseas collection after the opening weekend reached Rs 222 crore",
+      "Estimated worldwide opening weekend was $54.10 Million",
+      "Godzilla Minus Zero raked in $63 Million during the weekend of November 6-November 8",
+      "Domestic collection in India was Rs 56.15 crore",
+      "Hindi version collection in India was Rs 36.75 crore",
+      "Kannada version collection in India was Rs 7.25 crore",
+      "Telugu version collection in India was Rs 6.25 crore",
+      "Tamil version collection in India was Rs 3.15 crore",
+      "Malayalam version collection in India was Rs 2.75 crore",
+      "Overall collection of Ramayana after 4 days opening weekend was Rs 238.85 crore"
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Anupam Kher",
+        "Sunny Deol",
+        "Lara Dutta",
+        "Arun Govil",
+        "Rakul Preet Singh",
+        "Vivek Oberoi"
+      ],
+      "titles": [
+        "Ramayana",
+        "Godzilla Minus Zero"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ramayana box office",
+      "Ranbir Kapoor",
+      "Godzilla Minus Zero",
+      "Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday4feature1-26451794220784.jpg",
+        "caption": "Ramayana Reaches Rs 507.2 Crore Worldwide, Secures Second Place Globally During Diwali Weekend",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 17:03:26 +0530"
+  },
+  "1ukvbq6": {
+    "id": "1ukvbq6",
+    "type": "news",
+    "headline": "Dead-End Job K-Drama Ending Explained: What Happens To Hyeok-jun Who Is Yeon-ju?",
+    "dek": "An in-depth look at the characters, supernatural horrors, and lingering mysteries behind the finale of Netflix's eight-episode fantasy-horror series Dead-End Job.",
+    "body": [
+      {
+        "h": "Introduction To Dead-End Job",
+        "p": [
+          "Dead-End Job is an eight-episode fantasy-horror series available on Netflix that follows a financially ruined young man who takes on part-time assignments through a mysterious staffing agency.",
+          "These seemingly simple jobs quickly turn out to be deadly supernatural encounters where workers face monsters, spirits, and the constant threat of never returning."
+        ]
+      },
+      {
+        "h": "The Plot And The Sacrifice Quota",
+        "p": [
+          "The protagonist, Byeon Hyeok-jun, finds the recruitment ad for Spider Staffing Agency while standing on a bridge contemplating ending his life due to overwhelming debt.",
+          "By the fifth episode, the agency boss reveals a grim truth: the entire operation relies on a sacrifice quota where human deaths are expected and the high pay merely serves as the price."
+        ]
+      },
+      {
+        "h": "Hyeok-jun's Motivations And Family",
+        "p": [
+          "Throughout his harrowing trials, Hyeok-jun is driven by two main goals: trying to locate his father, who vanished years ago following an appearance on a TV show, and protecting his younger sister Ji-yoon.",
+          "The heavy burden of family debt and the memory of his father's television appearance shape his entire worldview and keep him pushing forward despite the terror."
+        ]
+      },
+      {
+        "h": "The Final Carnival And Confrontation",
+        "p": [
+          "The ultimate assignment leads Hyeok-jun into a haunted house where he encounters a manifestation of his father whose face shifts into a monster and then into his own.",
+          "This sequence directly references the past television broadcast titled Challenge! A Father’s Miracle, emphasizing the lasting psychological weight of the debt and struggles his family endured."
+        ]
+      },
+      {
+        "h": "The Identity And Motivations Of Yeon-ju",
+        "p": [
+          "Yeon-ju is revealed to be a monster who crossed over into the human world approximately forty years ago after enduring brutal hours as a union member in a sewing factory.",
+          "Having seen no improvement in conditions over four decades, she purposefully guided Hyeok-jun to the portal in hopes of destroying the barrier between the two worlds to force a change."
+        ]
+      },
+      {
+        "h": "Resolution And Unanswered Questions",
+        "p": [
+          "In the conclusion, Hyeok-jun manages to find his father but cannot bring him back, while he and his sister Ji-yoon successfully work together to seal the gateway and survive.",
+          "Meanwhile, Yeon-ju pulls Mr. S into the other world, and a later recorded message offers Hyeok-jun a managerial role at the agency, leaving his final choice ambiguous."
+        ]
+      },
+      {
+        "h": "Thematic Legacy And Systemic Exploitation",
+        "p": [
+          "The core horror of the series extends far beyond its monsters, highlighting a relentless corporate structure that continuously exploits vulnerable people to keep functioning.",
+          "With Ji-yoon receiving a job offer from Kyungil Group and Hyeok-jun facing an unanswered recruitment proposition, both siblings find themselves trapped at similar crossroads."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix's fantasy-horror series Dead-End Job concludes its eight-episode run by exploring supernatural agency worker Byeon Hyeok-jun's terrifying ordeals and the true identity of the monster Yeon-ju. The finale leaves viewers with lingering questions as Hyeok-jun faces an ambiguous managerial offer from the agency while he and his sister Ji-yoon navigate ongoing systemic exploitation."
+        ]
+      }
+    ],
+    "facts": [
+      "Dead-End Job is an eight-episode Netflix fantasy-horror series.",
+      "Lee Jae-wook plays Byeon Hyeok-jun.",
+      "Go Min-si plays Yeon-ju.",
+      "Lee Hee-jun plays Mr. S.",
+      "The series is directed by Kim Da-min and Han Jun-hee."
+    ],
+    "entities": {
+      "people": [
+        "Lee Jae-wook",
+        "Go Min-si",
+        "Lee Hee-jun",
+        "Kim Da-min",
+        "Han Jun-hee"
+      ],
+      "titles": [
+        "Dead-End Job",
+        "Challenge! A Father’s Miracle"
+      ]
+    },
+    "keywords": [
+      "Dead-End Job K-drama",
+      "Byeon Hyeok-jun Dead-End Job",
+      "Lee Jae-wook Dead-End Job",
+      "Go Min-si Yeon-ju",
+      "Dead-End Job ending explained"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/dead-end-job-k-drama-ending-explained-what-happens-to-hyeok-jun-who-is-yeon-ju.jpg",
+        "caption": "Dead-End Job K-Drama Ending Explained: What Happens To Hyeok-jun Who Is Yeon-ju?",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 11:17:39 +0000"
   }
 };
