@@ -92755,5 +92755,404 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-09T03:52:00Z"
+  },
+  "18cz6ls": {
+    "id": "18cz6ls",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor and Yash Starrer Surpasses ₹500 Crore Mark",
+    "dek": "Ramayana has officially sprinted past the lifetime box office figures of Adipurush in just four days, propelled by a strong weekend and favorable word of mouth.",
+    "body": [
+      {
+        "h": "Initial Opening Momentum and Scale",
+        "p": [
+          "The theatrical release of Ramayana Part 1 experienced a measured start despite its massive scale and extensive global distribution footprint. Distributed internationally by Sony Pictures, the high-profile feature landed in roughly 59,000 screens worldwide, marking an enormous rollout for an Indian cinematic project.",
+          "On its opening day, the production pulled in a worldwide gross of ₹128 crore. While substantial, this initial figure came with minor setbacks, including softer-than-expected overseas figures and a modest ₹7.50 crore net for the Kannada version despite the presence of actor Yash."
+        ]
+      },
+      {
+        "h": "Weekend Growth and Domestic Surge",
+        "p": [
+          "Positive audience reception gradually shifted the trajectory over the following days, driving heavy footfalls and bolstering ticket sales. Saturday marked the single largest day for the project, followed by a resilient Sunday performance despite limited audience mobility due to the Diwali holiday.",
+          "By the close of its extended four-day release weekend, the venture accumulated ₹239 crore in domestic net collections, translating to roughly ₹285 crore in domestic gross earnings."
+        ]
+      },
+      {
+        "h": "International Performance and Overseas Markets",
+        "p": [
+          "Across international territories, the film encountered mixed outcomes following its massive global screen allocation. North American screenings generated an opening haul of $12.2 million, while alternative international markets brought in slightly above $11 million.",
+          "Combined, these international returns contributed an overseas total of $23.7 million across the opening four-day window, lifting the overall worldwide gross to ₹507 crore."
+        ]
+      },
+      {
+        "h": "Overtaking Adipurush at the Box Office",
+        "p": [
+          "During its initial three days, the feature had lagged behind the lifetime trajectory of Adipurush, another major mythological adaptation based on Valmiki’s epic. However, sustained momentum on Sunday allowed the newer project to surge ahead as its predecessor had previously suffered a sharp fourth-day decline due to negative audience reviews.",
+          "While Adipurush concluded its theatrical run with a global lifetime haul of ₹393 crore, Ramayana successfully eclipsed that figure within just four days of exhibition."
+        ]
+      },
+      {
+        "h": "Future Projections and Holiday Benefits",
+        "p": [
+          "With the arrival of post-Diwali break periods, industry analysts anticipate further growth in ticket sales and sustained theatrical attendance. The current trajectory suggests that weekday collections will remain robust as the holiday window unfolds.",
+          "This ongoing momentum provides a strong foundation for the enterprise as it continues its theatrical run past the initial milestone markers."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Production Background",
+        "p": [
+          "Directed by Nitesh Tiwari, the multi-part project is backed by Namit Malhotra’s Prime Focus Studios alongside DNEG and Yash’s Monster Mind Creations. The narrative features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman.",
+          "The first installment debuted globally on November 5, 2026, with the second part scheduled for a Diwali release in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed ₹500 crore globally in its first four days, beating Adipurush's lifetime collection. Distributed by Sony Pictures and starring Ranbir Kapoor and Yash, the film is expected to see further growth due to post-Diwali holidays."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 released worldwide on November 5, 2026.",
+      "The film earned ₹128 crore worldwide on its release day.",
+      "The Kannada version netted ₹7.50 crore on opening day.",
+      "Sony Pictures distributed the film across 59,000 screens globally.",
+      "North American screenings brought in an opening of $12.2 million.",
+      "International markets outside North America brought in over $11 million.",
+      "The four-day international haul reached $23.7 million.",
+      "Domestic net collections for the extended four-day weekend reached ₹239 crore, with a domestic gross of ₹285 crore.",
+      "The total worldwide gross crossed ₹507 crore within the first four days.",
+      "Adipurush finished its lifetime global run at ₹393 crore.",
+      "The second part of the film is scheduled for Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Namit Malhotra",
+        "Prabhas",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/Ramayana_box_office_1794194222611_V9ow_1794194227947_pVCm_04ba0d3a-f7b7-4dd6-ace4-044edf1972b7_Ui2O.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor and Yash Starrer Surpasses ₹500 Crore Mark",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 09:00:22 +0530"
+  },
+  "ovm810": {
+    "id": "ovm810",
+    "type": "news",
+    "headline": "Alan Ritchson's Action-Thriller War Machine Emerges as a Standout Netflix Release",
+    "dek": "Discover how the gritty sci-fi film War Machine has captured audience attention and established Alan Ritchson among the top performers of the year.",
+    "body": [
+      {
+        "h": "Rising Stars of the Year",
+        "p": [
+          "The entertainment landscape has experienced a shift in talent prominence, with several performers stepping into major spotlight moments. Tom Holland claimed a massive summer presence through his dual releases, while Inde Navarrette secured a major upcoming role in the Marvel Cinematic Universe following her work in Obsession.",
+          "Despite stiff competition across various projects, Alan Ritchson generated some of the most unexpected buzz. Known primarily for his television headlining work, he expanded his cinematic footprint with a gritty science-fiction action feature."
+        ]
+      },
+      {
+        "h": "Plot and Premise of War Machine",
+        "p": [
+          "The narrative follows an unnamed military recruit designated as 81, who undergoes intense preparation to qualify for the Army Rangers. During a final endurance trial known as the Death March, his unit is tasked with destroying an experimental prototype aircraft.",
+          "The objective takes a terrifying turn when the target is revealed to be an advanced alien machine that aggressively eliminates the troops. This sets off a high-intensity, brutal conflict reminiscent of classic survival thrillers."
+        ]
+      },
+      {
+        "h": "Emotional Depth and Character Arc",
+        "p": [
+          "While the feature delivers heavy action sequences, it paces itself by focusing heavily on the internal state of its protagonist. Early in the story, 81 suffers the tragic loss of his brother during a firefight, instilling deep-seated grief that clouds his judgment.",
+          "This personal trauma drives him to take reckless chances, causing his commanding officers to question his reliability. Only through the extraterrestrial threat does he begin relying on his fellow soldiers and stepping into a reluctant leadership role."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "The project was shaped behind the scenes by filmmaker Patrick Hughes, who directed and co-wrote the script after previously helming The Hitman's Bodyguard. His vision combines relentless tension with grounded character development.",
+          "Ritchson is supported by a strong ensemble cast that includes Stephan James portraying fellow trainee 7, alongside seasoned actors Dennis Quaid and Esai Morales appearing as high-ranking military superiors."
+        ]
+      },
+      {
+        "h": "Distinction From Other Projects",
+        "p": [
+          "The film stands apart from traditional action formats by prioritizing narrative progression alongside its combat set pieces. Unlike standard franchises that rely strictly on established formulas, this release dedicates meaningful screen time to emotional growth.",
+          "This balance of character study and sci-fi carnage helped propel the title to the upper tier of streaming viewing charts, cementing its status as a defining genre piece for the platform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alan Ritchson's starring role in the sci-fi thriller War Machine has earned widespread recognition as one of the standout streaming releases of the year. Directed by Patrick Hughes, the film blends intense combat against an alien machine with a deeply emotional narrative about grief and leadership."
+        ]
+      }
+    ],
+    "facts": [
+      "Alan Ritchson stars in War Machine",
+      "Patrick Hughes directed and co-wrote War Machine",
+      "Tom Holland starred in Spider-Man: Brand New Day and The Odyssey",
+      "Inde Navarrette plays Rogue in the X-Men reboot after appearing in Obsession",
+      "Jai Courtney plays the brother of Ritchson's character",
+      "Stephan James plays Ranger trainee 7",
+      "Dennis Quaid and Esai Morales play superior officers"
+    ],
+    "entities": {
+      "people": [
+        "Alan Ritchson",
+        "Patrick Hughes",
+        "Tom Holland",
+        "Inde Navarrette",
+        "Jai Courtney",
+        "Stephan James",
+        "Dennis Quaid",
+        "Esai Morales"
+      ],
+      "titles": [
+        "War Machine",
+        "Reacher",
+        "Spider-Man: Brand New Day",
+        "The Odyssey",
+        "Obsession",
+        "The Hitman's Bodyguard",
+        "Motor City"
+      ]
+    },
+    "keywords": [
+      "Alan Ritchson War Machine",
+      "War Machine Netflix film",
+      "Patrick Hughes War Machine",
+      "War Machine sci fi thriller"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/reacher-season-4-alan-ritchson-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Alan Ritchson's Action-Thriller War Machine Emerges as a Standout Netflix Release",
+        "source": "Collider"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 04:31:12 GMT"
+  },
+  "m3r8xc": {
+    "id": "m3r8xc",
+    "type": "news",
+    "headline": "Vijay Deverakonda and Rashmika Mandanna Share Japan Family Holiday Photos",
+    "dek": "Actors Vijay Deverakonda and Rashmika Mandanna posted festive photos from their family Diwali trip to Japan, shortly after responding to social media criticism over their Koffee With Karan 9 appearance.",
+    "body": [
+      {
+        "h": "Festive Getaway in Japan",
+        "p": [
+          "Actors Vijay Deverakonda and Rashmika Mandanna recently shared a series of warm photographs from their family vacation in Japan. The couple travelled together to celebrate Diwali alongside members of the Deverakonda family, offering fans a glimpse into their overseas holiday.",
+          "The posts highlighted several affectionate moments between the pair. Among the shared images was a sweet snapshot capturing Vijay giving Rashmika a gentle kiss on the nose, reflecting their close bond during the festive trip."
+        ]
+      },
+      {
+        "h": "Traditional Rituals Abroad",
+        "p": [
+          "Despite being far from home, the family ensured they observed traditional customs for the festival of lights. Vijay revealed on social media that they successfully organized a Goma homam while in Japan to mark Diwali properly.",
+          "In his festive message to supporters, the actor extended warm wishes on behalf of the entire family. He sent his love, hugs, and seasonal greetings to all his followers and their households."
+        ]
+      },
+      {
+        "h": "Warm Wishes From Rashmika",
+        "p": [
+          "Rashmika Mandanna also took to social media to share her own festive greetings with her followers. She expressed hope that people would find joy in both the small and large moments of their daily lives.",
+          "Her message encouraged fans to cherish health, endless love, and happiness. The heartfelt note accompanied the group's vacation photographs, spreading positivity to their supporters online."
+        ]
+      },
+      {
+        "h": "Airport Sighting With Family",
+        "p": [
+          "The couple was spotted earlier at the Hyderabad airport on November 6, accompanied by Vijay's parents and his brother, actor Anand Deverakonda. They were photographed as they departed for their international family holiday.",
+          "This public appearance marked their first outing together since facing a wave of social media commentary. The airport departure followed closely on the heels of their public statements addressing online reactions to a recent television interview."
+        ]
+      },
+      {
+        "h": "Addressing Chat Show Backlash",
+        "p": [
+          "The holiday comes in the wake of considerable online criticism concerning their appearance on Koffee With Karan 9. During the episode, a discussion about their marriage proposal drew mixed responses from viewers across social media.",
+          "Some online commentators felt that Rashmika appeared more invested in the relationship after she recalled telling Vijay they should get married, while he joked she needed to ask him many more times. The remarks triggered widespread debate and trolling online."
+        ]
+      },
+      {
+        "h": "Responses and Legal Action",
+        "p": [
+          "Both actors pushed back against the negativity through detailed statements. Rashmika explained that their conversation highlighted how they take time to understand each other, noting that Vijay is a cautious thinker while she leads with her heart.",
+          "Vijay defended their bond by referring to Rashmika as his best friend and wife, stating they were happy together and asking critics to give them space. Additionally, their team filed a formal cyber complaint in Hyderabad regarding fabricated content and targeted harassment."
+        ]
+      },
+      {
+        "h": "Upcoming Professional Projects",
+        "p": [
+          "On the professional front, the two actors recently appeared together in the Telugu film Ranabaali, which drew a mix of responses from audiences and critics alike. Both continue to manage busy slates of upcoming cinematic work.",
+          "Vijay Deverakonda is currently working on his project titled Rowdy Janardhana. Meanwhile, Rashmika Mandanna has been signed for upcoming features including Mysaa and Raaka."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actors Vijay Deverakonda and Rashmika Mandanna spent a family Diwali holiday in Japan, sharing affectionate photos and performing a traditional homam abroad. The trip followed public backlash and responses regarding their marriage proposal discussion on Koffee With Karan 9, as well as an associated cyber complaint filed by their team.",
+          "Alongside their recent appearance in Ranabaali, both actors maintain active schedules with upcoming regional film projects like Rowdy Janardhana, Mysaa, and Raaka."
+        ]
+      }
+    ],
+    "facts": [
+      "Vijay Deverakonda and Rashmika Mandanna celebrated Diwali in Japan on a family holiday.",
+      "The couple was spotted at the Hyderabad airport on November 6.",
+      "Anand Deverakonda and their parents accompanied them to Japan.",
+      "The trip followed online backlash from their appearance on Koffee With Karan 9.",
+      "Their team filed a cyber complaint in Hyderabad over fabricated content and harassment.",
+      "Both actors starred in the Telugu film Ranabaali.",
+      "Vijay Deverakonda's upcoming film includes Rowdy Janardhana.",
+      "Rashmika Mandanna's upcoming films include Mysaa and Raaka."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Anand Deverakonda"
+      ],
+      "titles": [
+        "Koffee With Karan 9",
+        "Ranabaali",
+        "Rowdy Janardhana",
+        "Mysaa",
+        "Raaka"
+      ]
+    },
+    "keywords": [
+      "Vijay Deverakonda Rashmika Mandanna Japan Diwali",
+      "Rashmika Mandanna Koffee With Karan 9",
+      "Vijay Deverakonda family holiday",
+      "Ranabaali film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vijay-deverakonda-rashmika-mandanna-japan-092640796-16x9_0.jpg?VersionId=IcD3IZv5fuvdRIPMVb16EpSHZCueKZYV",
+        "caption": "Vijay Deverakonda and Rashmika Mandanna Share Japan Family Holiday Photos",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 10:04:20 +0530"
+  },
+  "r4xq5l": {
+    "id": "r4xq5l",
+    "type": "news",
+    "headline": "VisionQuest Finale Teases Mindspace Reunion Between Vision and Ultron in New Clip",
+    "dek": "Marvel Studios has released a brand-new clip from the upcoming VisionQuest season finale, highlighting a tense and emotional confrontation between Vision and the dangerous AI Ultron.",
+    "body": [
+      {
+        "h": "The Return of Ultron",
+        "p": [
+          "Marvel Studios has officially shared a brand-new preview for the final episode of VisionQuest, generating significant excitement across social media platforms. The newly released footage highlights the return of one of the Marvel Cinematic Universe's most notorious artificial intelligences for one final conversation.",
+          "The studio accompanied the promotional clip with a direct nod to the character's persistence, noting that getting rid of the iconic antagonist is simply not an option. Fans have eagerly dissected every second of the teaser as the countdown to the conclusion of the series continues."
+        ]
+      },
+      {
+        "h": "Release Details for the Season Finale",
+        "p": [
+          "The eighth and final episode of the season bears the title \"Forever\" and is scheduled to become available for streaming on Disney+. Viewers can tune in to watch the conclusion on Tuesday, November 10, with the episode dropping at 6 PM PT.",
+          "This much-anticipated installment follows a massive cliffhanger from the seventh episode, leaving audiences wondering how the intricate narrative threads woven throughout the season will ultimately resolve."
+        ]
+      },
+      {
+        "h": "Mindspace Encounters and Past Events",
+        "p": [
+          "The newly revealed footage indicates that Ultron and Vision will share a scene inside the Mindspace, where the two characters sit down together to watch WandaVision. James Spader and Paul Bettany reprise their respective roles for this surreal sequence.",
+          "In the penultimate episode, titled \"Immolation,\" Vision navigated his own subconsciousness, fully accepting his memories and acknowledging Tommy as his son after encountering manifestations of J.I.M. and Phineas Horton. Meanwhile, the Client captured Jocasta, and an operative fired an RPG at Paladin’s van."
+        ]
+      },
+      {
+        "h": "Exploring the Father-Son Dynamic",
+        "p": [
+          "Showrunner Terry Matalas previously pointed out that the complex relationship between Vision and Ultron serves as a core emotional pillar of the entire series. James Spader has described their dynamic as a unique blend of love, hatred, therapy, and psychopathy.",
+          "Matalas further highlighted a specific sequence in the upcoming finale as a true \"Marvel dream,\" emphasizing the creative heights reached during the production of the show's final chapter."
+        ]
+      },
+      {
+        "h": "Trilogy Conclusion and Character Roles",
+        "p": [
+          "VisionQuest acts as the concluding chapter of a thematic trilogy that kicked off with WandaVision. Throughout the storyline, Vision interacts with various artificial intelligence personas embedded deep within his programming, including J.A.R.V.I.S., F.R.I.D.A.Y., E.D.I.T.H., and Ultron.",
+          "Paul Bettany takes on multiple roles in the series, playing Vision, Phineas Horton, and J.I.M., while James Spader portrays both Ultron and the enigmatic Client who placed a bounty on Vision. Additionally, Joe Locke is anticipated to reprise his role as Billy Maximoff."
+        ]
+      },
+      {
+        "h": "Podcast Launch and Future Prospects",
+        "p": [
+          "To accompany the finale, the VisionQuest Official Podcast is set to launch on November 10. Hosted by Iman Vellani and Frank Alvarez, the podcast will feature guest appearances from Paul Bettany, James Spader, Mollica, and Terry Matalas.",
+          "Looking beyond the current season, showrunner Terry Matalas has already expressed that he has conceptual ideas regarding how the overarching story of VisionQuest could potentially continue in future seasons."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios released a preview clip for the VisionQuest season finale, featuring a Mindspace reunion between Vision and Ultron. The final episode, titled \"Forever,\" streams on Disney+ on Tuesday, November 10, at 6 PM PT."
+        ]
+      }
+    ],
+    "facts": [
+      "Marvel Studios released a VisionQuest finale clip on November 8, 2026.",
+      "The eighth and final episode is titled \"Forever\".",
+      "The finale streams on Tuesday, November 10, at 6 PM PT on Disney+.",
+      "James Spader and Paul Bettany reprise their roles as Ultron and Vision.",
+      "The penultimate episode was titled \"Immolation\".",
+      "The VisionQuest Official Podcast releases on November 10, hosted by Iman Vellani and Frank Alvarez."
+    ],
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "James Spader",
+        "Paul Bettany",
+        "Terry Matalas",
+        "Joe Locke",
+        "Iman Vellani",
+        "Frank Alvarez",
+        "Mollica",
+        "Stephen King",
+        "Ed Harris",
+        "Inde Navarrette",
+        "Simon Pegg",
+        "Steven Yeun"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "Hot Fuzz",
+        "Highlander",
+        "Predator",
+        "Invincible",
+        "Obsession"
+      ]
+    },
+    "keywords": [
+      "VisionQuest finale",
+      "Ultron Vision reunion",
+      "VisionQuest Forever episode",
+      "Marvel Studios VisionQuest"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-09-Nov-2026-09-39-AM-6333.jpg?resize=1200,630",
+        "caption": "VisionQuest Finale Teases Mindspace Reunion Between Vision and Ultron in New Clip",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 04:24:31 +0000"
   }
 };
