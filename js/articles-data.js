@@ -100338,5 +100338,344 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-09T02:00:15.759Z"
+  },
+  "mup3lv": {
+    "id": "mup3lv",
+    "type": "news",
+    "headline": "Emma Watson's 2018 Donation Report Reveals Massive Impact on UK Anti-Harassment Fund",
+    "dek": "An impact report from the Justice and Equality Fund highlights how a USD 1 million contribution from actress Emma Watson helped tens of thousands of women and trained professionals across the UK.",
+    "body": [
+      {
+        "h": "The Million-Dollar Contribution",
+        "p": [
+          "Back in 2018, acclaimed 'Harry Potter' actress Emma Watson made a substantial contribution of USD 1 million to establish and support the Justice and Equality Fund in the United Kingdom. This initiative was launched in direct response to widespread cultural reckonings such as the #MeToo and TIME'S UP UK movements.",
+          "Rather than acting entirely alone, Watson was joined by several other prominent celebrities who also invested in the cause. Notable figures such as Keira Knightley and Emma Thompson pooled their resources into the collaborative effort alongside organizations like Rosa and TIME'S UP UK."
+        ]
+      },
+      {
+        "h": "Reaching Women and Girls Across the UK",
+        "p": [
+          "Years after its inception, the initiative published comprehensive impact reports detailing the impressive reach and tangible outcomes of the funded programs. The organization successfully reached approximately 46,100 women and girls throughout Britain through targeted survivor support services, advice lines, and advocacy programs.",
+          "These vital resources were distributed via 59 individual grants awarded across the UK. Ranging in size from GBP 2,000 to GBP 200,000, these financial awards supported both established charities and grassroots organizations dedicated to protecting and aiding vulnerable individuals."
+        ]
+      },
+      {
+        "h": "Training Professionals and Law Enforcement",
+        "p": [
+          "Beyond direct support for victims of harassment, a significant portion of the initiative focused on preventative education and systemic training. Over 20,000 professionals underwent specialized training to learn how to properly spot, handle, and prevent sexual misconduct in various environments.",
+          "This extensive educational push notably included training for over 9,000 police professionals. By educating law enforcement and institutional workers, the program sought to create safer, more manageable environments where authorities could readily identify and assist anyone in need."
+        ]
+      },
+      {
+        "h": "Establishing Crisis Services and Legal Aid",
+        "p": [
+          "The influx of funding enabled the creation and enhancement of critical infrastructure for victims of abuse. Among its major milestones, the organization helped establish Northern Ireland's first rape crisis service in over a decade.",
+          "Additionally, the group facilitated free phone support lines, free legal advice, and specialized tools for women living in England and Wales who were experiencing sexual harassment. These resources ensured that survivors had immediate avenues for professional assistance and guidance."
+        ]
+      },
+      {
+        "h": "Driving Major Legislative and Structural Reform",
+        "p": [
+          "The impact of the fund extended far beyond immediate crisis management, fueling advocacy that contributed to broad legal reforms in the country. This momentum played a role in the realization of the Worker Protection (Amendment of Equality Act 2010) Act 2023.",
+          "This specific piece of legislation legally mandates employers across the UK to take proactive measures to prevent workplace sexual harassment. By shifting the focus from isolated incidents to permanent structural change, the initiative achieved enduring legislative progress."
+        ]
+      },
+      {
+        "h": "A Permanent Footprint on British Society",
+        "p": [
+          "Ultimately, the initial USD 1 million provided by Emma Watson evolved into a powerful national movement that reshaped how British institutions handle misconduct. By funding diverse grassroots projects and backing rigorous training protocols, the investment left a lasting legacy.",
+          "The comprehensive efforts supported by the fund transformed survivor services, law enforcement preparedness, and employer accountability throughout the region, proving the long-term value of strategic philanthropic investments in social reform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "In 2018, actress Emma Watson donated USD 1 million to the Justice and Equality Fund in collaboration with organizations like TIME'S UP UK and Rosa. A subsequent impact report revealed that the initiative reached 46,100 women and girls, trained over 20,000 professionals, and helped drive legislative changes such as the Worker Protection Act 2023."
+        ]
+      }
+    ],
+    "facts": [
+      "In 2018, Emma Watson donated $1 million to the Justice and Equality Fund.",
+      "The Justice and Equality Fund was created in collaboration with TIME'S UP UK and Rosa.",
+      "Other celebrity investors included Keira Knightley and Emma Thompson.",
+      "The program reached 46,100 women and girls directly.",
+      "Over 20,000 professionals were trained to handle sexual misconduct, including over 9,000 police professionals.",
+      "59 grants were awarded across the UK ranging from GBP 2,000 to GBP 200,000.",
+      "The initiative helped set up Northern Ireland's first rape crisis service in over a decade.",
+      "Advocacy contributed to the Worker Protection (Amendment of Equality Act 2010) Act 2023."
+    ],
+    "entities": {
+      "people": [
+        "Emma Watson",
+        "Keira Knightley",
+        "Emma Thompson"
+      ],
+      "titles": [
+        "Harry Potter"
+      ]
+    },
+    "keywords": [
+      "Emma Watson USD 1 million donation",
+      "Justice and Equality Fund UK",
+      "Emma Watson anti harassment fund report",
+      "Emma Watson 2018 charity donation"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135678715,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Emma Watson's 2018 Donation Report Reveals Massive Impact on UK Anti-Harassment Fund",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T05:00:00+05:30"
+  },
+  "15u2kx0": {
+    "id": "15u2kx0",
+    "type": "news",
+    "headline": "Love in Disguise Continues Winning Streak with Solid Ratings for Seventh Episode",
+    "dek": "The tvN office romantic comedy starring Im Si Wan and Seol In Ah maintained its dominance as the most-watched show in its time slot.",
+    "body": [
+      {
+        "h": "Maintaining the Top Spot",
+        "p": [
+          "The popular television series Love in Disguise has once again proven its appeal to viewers by securing the highest viewership figures in its broadcast window. According to data provided by Nielsen Korea, the seventh installment of the program achieved an average nationwide rating of 5.5 percent on November 9. This performance solidified its position as the premier broadcast across all general programming and cable networks during its airing time.",
+          "This latest achievement marks a significant milestone for the production, as it preserves an unbroken streak of first-place finishes. Ever since its initial broadcast, every single episode of the series has claimed the top rank in its respective time slot among cable and general channels, showcasing a remarkably loyal audience base."
+        ]
+      },
+      {
+        "h": "Consistent Performance in the Ratings",
+        "p": [
+          "The trajectory of the show's viewership has remained remarkably stable within the mid-five-percent threshold. The broadcast debuted on October 19 to an opening score of 5.6 percent before experiencing a minor fluctuation that saw numbers dip to 4.7 percent and 4.9 percent for subsequent outings. However, the program quickly rebounded to establish its highest watermark to date at 6.0 percent with the fourth episode on October 27.",
+          "Following that peak, the romantic comedy has sustained its momentum comfortably. Episodes five and six brought in 5.0 percent and 5.5 percent respectively, matching the latter figure with the most recent broadcast. Prior to the airing of the seventh episode, the primary cast members delighted fans by releasing a charming joint photograph on social media."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The narrative centers around an intricate and suspenseful premise involving a sheltered heir from a wealthy third-generation chaebol family who suddenly finds himself investigated as the main suspect in the tragic passing of his former secretary. To navigate this perilous situation, the storyline introduces a former special forces operative turned police officer who adopts a male disguise to infiltrate his estate as his new bodyguard and secretary.",
+          "This unusual setup forms the foundation of the office romantic comedy. The core narrative features a blend of mystery, workplace tension, and romance, driven by the interactions between the primary characters and supported by a talented ensemble cast."
+        ]
+      },
+      {
+        "h": "Cast and Production Details",
+        "p": [
+          "The series features a prominent leading duo consisting of Im Si Wan and Seol In Ah, whose on-screen chemistry has drawn substantial attention from followers of the genre. In addition to the main leads, the project includes supporting performances by Kim Jung Hyun and Yeonwoo, who add further depth to the unfolding drama.",
+          "Structured as a twelve-part television project, the series broadcasts new episodes at the beginning of the week on Mondays and Tuesdays through the network tvN. With the seventh chapter now completed, the broadcast enters the latter half of its run with five episodes remaining before its conclusion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Love in Disguise secured a 5.5 percent nationwide rating for its seventh episode, maintaining its position as the most-watched program in its time slot across cable and general networks. The tvN series, starring Im Si Wan and Seol In Ah, has now topped its slot for seven consecutive episodes since its October premiere and has five installments remaining in its twelve-episode run."
+        ]
+      }
+    ],
+    "facts": [
+      "Love in Disguise episode 7 aired on November 9, 2026.",
+      "Episode 7 recorded an average nationwide rating of 5.5 percent.",
+      "The series premiered on October 19, 2026, with a 5.6 percent rating.",
+      "Episode 4 set a series high of 6.0 percent on October 27, 2026.",
+      "The drama has a total of 12 episodes and airs on Mondays and Tuesdays on tvN."
+    ],
+    "entities": {
+      "people": [
+        "Im Si Wan",
+        "Seol In Ah",
+        "Kim Jung Hyun",
+        "Yeonwoo"
+      ],
+      "titles": [
+        "Love in Disguise"
+      ]
+    },
+    "keywords": [
+      "Love in Disguise",
+      "Im Si Wan",
+      "Seol In Ah",
+      "Love in Disguise ratings"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/KnnA5X_2d.jpg",
+        "caption": "Love in Disguise Continues Winning Streak with Solid Ratings for Seventh Episode",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 23:07:38 +0000"
+  },
+  "46zo5c": {
+    "id": "46zo5c",
+    "type": "news",
+    "headline": "Navya Naveli Nanda Shares Unseen Family Moments from Diwali Celebrations Featuring Agastya and Aaradhya",
+    "dek": "Navya Naveli Nanda delighted her social media followers by posting a festive photo collection highlighting rare family moments, including a heartwarming snapshot of Agastya Nanda and Aaradhya Bachchan.",
+    "body": [
+      {
+        "h": "Diwali Festivities Shared Online",
+        "p": [
+          "The festival of lights brought joy and celebration to households across the country, prompting many public figures to share glimpses of their private gatherings. Among them, Navya Naveli Nanda treated her Instagram followers to a special photo dump documenting how her family observed the auspicious occasion.",
+          "Her social media update quickly drew attention for offering an intimate look at the celebrations, showcasing candid moments that fans rarely get to witness outside of formal public appearances."
+        ]
+      },
+      {
+        "h": "A Rare Snapshot of Cousins",
+        "p": [
+          "The standout highlight of the uploaded photo album was an unseen picture capturing Agastya Nanda sharing a warm embrace with his cousin, Aaradhya Bachchan.",
+          "Such candid frames featuring the younger generation of the family together are exceptionally uncommon, making the heartwarming image a major point of discussion among followers and admirers of the film industry families."
+        ]
+      },
+      {
+        "h": "Family Celebrations with Sparklers",
+        "p": [
+          "Beyond the affectionate cousin moment, the festive collection included other lively snapshots capturing the spirit of the holiday within the household.",
+          "The images featured Navya's mother, Shweta Bachchan, alongside her uncle, Abhishek Bachchan, enjoying the celebrations together while lighting traditional sparklers to mark the joyful occasion."
+        ]
+      },
+      {
+        "h": "Moments with Childhood Friends",
+        "p": [
+          "In addition to family members, the photo gallery highlighted close personal bonds outside of immediate relatives.",
+          "Another frame captured Navya posing cheerfully alongside her long-time childhood friend, Ananya Panday, adding a joyful touch of youthful camaraderie to the celebratory post."
+        ]
+      },
+      {
+        "h": "A Heartfelt Social Media Caption",
+        "p": [
+          "Accompanying the series of cheerful photographs, Navya kept her message simple yet deeply affectionate for her followers to read.",
+          "She expressed her happiness by captioning the festive post with the words, Happiest of Diwali’s with my very own, reflecting the warmth and togetherness of the family gathering."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Navya Naveli Nanda published a Diwali photo album on Instagram featuring rare and unseen moments of her family celebrating the festival. The highlights included an affectionate hug between Agastya Nanda and Aaradhya Bachchan, alongside pictures of Shweta Bachchan, Abhishek Bachchan, and Ananya Panday."
+        ]
+      }
+    ],
+    "facts": [
+      "Navya Naveli Nanda published a Diwali photo dump on Instagram on November 9, 2026.",
+      "The album included a rare picture of Agastya Nanda hugging Aaradhya Bachchan.",
+      "Shweta Bachchan and Abhishek Bachchan were featured celebrating with sparklers.",
+      "Navya posed with her childhood friend Ananya Panday in one of the photos.",
+      "Navya captioned the post, Happiest of Diwali’s with my very own."
+    ],
+    "entities": {
+      "people": [
+        "Navya Naveli Nanda",
+        "Agastya Nanda",
+        "Aaradhya Bachchan",
+        "Amitabh Bachchan",
+        "Shweta Bachchan",
+        "Abhishek Bachchan",
+        "Ananya Panday",
+        "Alia Bhatt",
+        "Ranbir Kapoor",
+        "Raha"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Navya Naveli Nanda Diwali",
+      "Agastya Nanda Aaradhya Bachchan",
+      "Navya Naveli Nanda Instagram",
+      "Shweta Bachchan Abhishek Bachchan Diwali"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/aaradhyaagastyanavya1794227220.jpg",
+        "caption": "Navya Naveli Nanda Shares Unseen Family Moments from Diwali Celebrations Featuring Agastya and Aaradhya",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-09T18:01:12+05:30"
+  },
+  "d3pvcs": {
+    "id": "d3pvcs",
+    "type": "news",
+    "headline": "FBI Star Jeremy Sisto Brings Jubal Valentine to CIA Crossover Event",
+    "dek": "Actor Jeremy Sisto is crossing over from FBI to the CBS spinoff CIA for a two-episode guest arc, bringing his character Jubal Valentine into the sister show's investigations.",
+    "body": [
+      {
+        "h": "The Crossover Announcement",
+        "p": [
+          "Fans of the CBS crime drama lineup are receiving a special treat as actor Jeremy Sisto crosses over to the network's spinoff series CIA. The 52-year-old television star, known for portraying Assistant Special Agent in Charge Jubal Valentine on FBI, is bringing his established persona directly into the sister show.",
+          "The network has confirmed that this special television event extends beyond a single evening. Sisto is slated for a two-episode guest arc, allowing audiences to watch the character navigate investigations across both Monday night programs."
+        ]
+      },
+      {
+        "h": "Episode Details and Dates",
+        "p": [
+          "The first of the two scheduled appearances takes place on November 9 in an episode titled 'Legacy'. In this installment, airing at 9 p.m. ET/PT on CBS, the characters investigate a deadly explosion on Manhattan’s Upper East Side that kills an international arms dealer. The plot centers on tracking an assassin named Felix Vincente while character Bill Goodman faces a tough decision.",
+          "Sisto returns for the following week's broadcast titled 'Inside Men', scheduled for November 16 at the same time slot. That narrative follows Bill and Colin as they go undercover to foil a plot involving a livestreamed violent attack, while Bill conceals a secret from Colin."
+        ]
+      },
+      {
+        "h": "Status on FBI",
+        "p": [
+          "Viewers worried about the actor's main television home can rest easy, as there are no announced plans for Sisto to exit FBI. He remains firmly part of the cast for Season 9, treating these network appearances strictly as special guest roles.",
+          "His presence on the spinoff highlights the shared fictional universe established by the network, assuring fans that his primary role on the Monday night drama is completely secure."
+        ]
+      },
+      {
+        "h": "Previous Franchise Crossovers",
+        "p": [
+          "This television event is part of a broader pattern of shared storytelling between the two popular CBS dramas. The interconnected world was previously highlighted during the October 5 season premieres.",
+          "During those broadcasts, Necar Zadegan appeared on FBI portraying CIA Deputy Chief of Station Nikki Reynard, while John Boyd brought his FBI character Stuart Scola over to CIA. Sisto also previously appeared in the original series premiere back in February."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Information",
+        "p": [
+          "For audiences wanting to follow the narrative live, FBI airs on Mondays at 8 p.m. ET/PT on CBS, immediately preceding CIA at 9 p.m. ET/PT. Both programs are broadcast through local network affiliates.",
+          "Additionally, viewers can stream the episodes on Paramount+. Premium subscribers have access to live viewing through local affiliates, whereas Essential subscribers can stream the content on demand beginning the following day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Jeremy Sisto is bringing his FBI character Jubal Valentine to the CBS spinoff CIA for a two-episode guest arc starting November 9. While continuing his role in Season 9 of FBI, Sisto's crossover appearances in episodes titled 'Legacy' and 'Inside Men' continue a trend of shared storytelling between the two Monday night crime dramas."
+        ]
+      }
+    ],
+    "facts": [
+      "Jeremy Sisto is 52 years old.",
+      "Jeremy Sisto plays Jubal Valentine on FBI.",
+      "The crossover episodes air on November 9 and November 16, 2026.",
+      "The first episode featuring Sisto is titled 'Legacy'.",
+      "The second episode featuring Sisto is titled 'Inside Men'.",
+      "Necar Zadegan previously appeared on FBI as Nikki Reynard.",
+      "John Boyd previously brought Stuart Scola to CIA."
+    ],
+    "entities": {
+      "people": [
+        "Jeremy Sisto",
+        "Felix Vincente",
+        "Bill Goodman",
+        "Colin",
+        "Necar Zadegan",
+        "Nikki Reynard",
+        "John Boyd",
+        "Stuart Scola"
+      ],
+      "titles": [
+        "FBI",
+        "CIA",
+        "Legacy",
+        "Inside Men"
+      ]
+    },
+    "keywords": [
+      "Jeremy Sisto CIA",
+      "FBI CIA crossover",
+      "Jubal Valentine CIA",
+      "Jeremy Sisto FBI Season 9"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/jeremy-sisto-cia.jpeg",
+        "caption": "FBI Star Jeremy Sisto Brings Jubal Valentine to CIA Crossover Event",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 22:47:53 +0000"
   }
 };
