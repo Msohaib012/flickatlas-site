@@ -91569,5 +91569,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 23:00:00 +0000"
+  },
+  "1qn808c": {
+    "id": "1qn808c",
+    "type": "news",
+    "headline": "Ramayana crosses Rs 500 crore worldwide after a record-breaking Diwali Sunday",
+    "dek": "Nitesh Tiwari's Ramayana: Rise of a Legend sets a new festival-day box office record, bringing in over Rs 56 crore on Sunday and racing past the Rs 499 crore mark globally.",
+    "body": [
+      {
+        "h": "Diwali Sunday Triumph",
+        "p": [
+          "Nitesh Tiwari's directorial venture Ramayana: Rise of a Legend encountered its major box office trial on Diwali Sunday and emerged with a massive victory. The mythological epic pulled in a staggering Rs 56.15 crore nett domestically on the festival day alone.",
+          "This exceptional haul comfortably surpassed previous Diwali benchmarks set by major Bollywood releases. Industry trackers noted that the single-day festival collection outpaced Salman Khan's Tiger 3 from 2023, Rohit Shetty's Singham Again from 2024, and Ayushmann Khurrana's Thaama."
+        ]
+      },
+      {
+        "h": "Stellar Four-Day Totals",
+        "p": [
+          "Having opened its theatrical run three days ahead of the festival, the big-budget production quickly accumulated an impressive domestic total. By the conclusion of its fourth day, the film reached an India nett collection of Rs 238.85 crore.",
+          "This performance narrowly edged past the four-day domestic total achieved by Prabhas-starrer Adipurush, which stood at Rs 237 crore during its corresponding initial window. Ramayana's domestic gross touched Rs 285.20 crore alongside a strong overseas gross of Rs 214 crore."
+        ]
+      },
+      {
+        "h": "Global Milestone",
+        "p": [
+          "Combined domestic and international earnings pushed the worldwide gross collection to an immense Rs 499.20 crore. The film stands merely a fraction away from officially crossing the monumental Rs 500 crore threshold within its first four days of release.",
+          "Given its positioning as one of the most expensive Indian films ever made, these figures reflect the massive anticipation and commercial weight carried by the project globally since its theatrical arrival."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown",
+        "p": [
+          "The nationwide Sunday collection of Rs 56.15 crore was distributed across 21,770 shows, translating to roughly 23.53 lakh tickets sold. The Hindi version drove the majority of the business, contributing Rs 36.75 crore across 17,755 shows.",
+          "Regional versions brought in varied numbers, with Kannada collecting Rs 7.25 crore, Telugu following at Rs 6.25 crore, and Tamil and Malayalam contributing Rs 3.15 crore and Rs 2.75 crore respectively. Despite Yash taking on the role of Ravana, the Kannada version faced slower momentum compared to expectations."
+        ]
+      },
+      {
+        "h": "Day-Wise Gross Performance",
+        "p": [
+          "The trajectory of the film's first four days displayed a rising curve culminating in the lucrative Sunday numbers. Day one started with an India gross of Rs 77.50 crore, followed by Rs 57.30 crore on day two.",
+          "Day three saw an upward jump to Rs 83.45 crore, while day four added another Rs 66.95 crore in gross collections, cementing a grand total gross of Rs 285.20 crore domestically before entering its first weekday."
+        ]
+      },
+      {
+        "h": "Opening Comparisons",
+        "p": [
+          "Ramayana's initial opening day collection of Rs 64.85 crore registered as the fourth-highest opening for a Bollywood film. It positioned itself ahead of notable hits like Pathaan, Animal, and Drishyam 2.",
+          "Although trailing behind Adipurush's opening day numbers initially, the extended weekend window and the heavy Diwali Sunday surge allowed Ramayana to eventually pull ahead of its predecessor's early milestone."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "The grand cinematic adaptation features Ranbir Kapoor starring as Lord Rama, Sai Pallavi portraying Sita, Yash essaying Ravana, and Ravie Dubey as Lakshman. The project is planned as a two-part epic.",
+          "Produced by Namit Malhotra's Prime Focus Studios alongside DNEG and Yash's Monster Mind Creations, the first part premiered worldwide on November 5, 2026, with the second instalment slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend achieved a record-breaking Diwali Sunday collection of Rs 56.15 crore nett in India, pushing its worldwide gross to Rs 499.20 crore within four days. The Nitesh Tiwari film edged past previous festival benchmarks and early earnings of comparable epics while maintaining strong multi-language distribution across global cinemas."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana collected Rs 56.15 crore nett in India on Diwali Sunday.",
+      "Worldwide gross reached Rs 499.20 crore by day 4.",
+      "Tiger 3 collected Rs 44.50 crore nett in 2023 on Diwali.",
+      "Singham Again earned Rs 43.50 crore in 2024.",
+      "Thaama earned Rs 24 crore on Diwali last year.",
+      "Adipurush collected Rs 237 crore in its first four days.",
+      "Ramayana finished its fourth day with Rs 238.85 crore nett.",
+      "Domestic gross stands at Rs 285.20 crore.",
+      "Overseas gross stands at Rs 214 crore.",
+      "Sunday collection came from 21,770 shows with 23.53 lakh tickets sold.",
+      "Hindi version brought in Rs 36.75 crore from 17,755 shows.",
+      "Kannada version contributed Rs 7.25 crore, Telugu Rs 6.25 crore, Tamil Rs 3.15 crore, and Malayalam Rs 2.75 crore.",
+      "Day 1 gross was Rs 77.50 crore, Day 2 was Rs 57.30 crore, Day 3 was Rs 83.45 crore, and Day 4 was Rs 66.95 crore.",
+      "First-day collection was Rs 64.85 crore.",
+      "Pathaan opened at Rs 57 crore, Animal at Rs 63 crore, Drishyam 2 at Rs 62 crore, and Adipurush at Rs 86.75 crore.",
+      "First part released worldwide on November 5, 2026.",
+      "Second instalment is scheduled for Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Salman Khan",
+        "Rohit Shetty",
+        "Ayushmann Khurrana",
+        "Prabhas",
+        "Yash",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Tiger 3",
+        "Singham Again",
+        "Thaama",
+        "Adipurush",
+        "Pathaan",
+        "Animal",
+        "Drishyam 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office Day 4",
+      "Ramayana Rise of a Legend",
+      "Ramayana collection Diwali Sunday",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-part-2-release-051141634-16x9.jpg?VersionId=jR.VTSyZcHhzyHq8HzzcKcaCrjj0lj48",
+        "caption": "Ramayana crosses Rs 500 crore worldwide after a record-breaking Diwali Sunday",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 06:09:55 +0530"
+  },
+  "vqx6v1": {
+    "id": "vqx6v1",
+    "type": "news",
+    "headline": "Spy x Family Season 4 and New Theatrical Film Confirmed for 2027 Release",
+    "dek": "Japanese studio Toho Co., Ltd. has announced that the popular anime series Spy x Family will return for a fourth season alongside a brand-new feature film in 2027.",
+    "body": [
+      {
+        "h": "Double Major Releases Planned for 2027",
+        "p": [
+          "Fans of the global anime sensation Spy x Family have much to look forward to with the official announcement of a fourth television season and a brand-new theatrical film. Japanese studio and exhibitor Toho Co., Ltd. has slated both major projects for a simultaneous 2027 launch window in Japan. This dual rollout marks a significant expansion for the beloved franchise as it continues its massive international run.",
+          "The announcement confirms that the fictional Forger family will make their grand return to both small and large screens five years after the franchise first debuted on television in 2022. While Toho has kept specific plotting and exact calendar release dates under wraps for the time being, the confirmation alone has sparked immense excitement among international streaming and cinema audiences alike."
+        ]
+      },
+      {
+        "h": "First Look Teaser Visual Revealed",
+        "p": [
+          "To celebrate the major production update, Toho released the very first promotional teaser visual for the upcoming fourth season. The newly unveiled image gives eager viewers their first official glimpse of the Forger family reunited in an animated setting. In the artwork, characters Loid, Yor, Anya, and their canine companion Bond are depicted strolling casually down a European-styled urban street.",
+          "Adding a layer of atmospheric detail to the teaser, newspaper pages can be seen blowing past the characters along the pavement. The visual heavily reinforces the signature aesthetic of the series, which is faithfully adapted from the original manga created by Endo Tatsuya."
+        ]
+      },
+      {
+        "h": "The Premise Behind the Mask",
+        "p": [
+          "The narrative core of the franchise revolves around a completely fabricated household whose members maintain the illusion of an ordinary domestic life while harboring extraordinary secrets. At the helm of this bizarre arrangement is Loid Forger, a master spy who adopts the code name Twilight. Loid builds the fake family as part of a classified mission requiring him to infiltrate an elite school and approach a prominent politician to preserve world peace.",
+          "However, Loid remains entirely oblivious to the fact that his chosen spouse harbors dangerous secrets of her own. Yor, his supposed devoted wife, operates as a lethal and highly trained professional assassin. Meanwhile, their adopted young daughter Anya possesses the supernatural ability to read minds, meaning she is completely aware of both parents' covert professions. To further complicate the household, their pet dog Bond holds the uncanny power to foresee future events."
+        ]
+      },
+      {
+        "h": "Expanding the Cinematic Universe",
+        "p": [
+          "The upcoming feature film represents the latest theatrical expansion for the thriving property. Toho has promised that further story details, production updates, and precise calendar dates for both the television season and the cinematic outing will be shared at a later stage.",
+          "The multi-media approach aligns with Toho's long-standing strategy as a major entertainment powerhouse, operating across production, distribution, live theater, and real estate development since its founding in 1932."
+        ]
+      },
+      {
+        "h": "Toho Legacy and Anime Portfolio",
+        "p": [
+          "As the corporate home behind the upcoming 2027 projects, Toho Co., Ltd. brings immense industry legacy to the table. The studio's international anime business operates primarily under the prominent Toho Animation label, which also serves as the home base for other massive global hits such as My Hero Academia and Jujutsu Kaisen.",
+          "Beyond contemporary animation, Toho's legendary historical film library spans decades of cinematic history. The company famously houses the iconic Godzilla franchise as well as classic cinematic masterpieces like Kurosawa Akira's Seven Samurai."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Toho Co., Ltd. has officially announced that the anime franchise Spy x Family will release both its fourth television season and a brand-new theatrical film in Japan in 2027. The upcoming projects will arrive five years after the original broadcast debut in 2022, accompanied by a newly released teaser visual showcasing the secret-keeping Forger family."
+        ]
+      }
+    ],
+    "facts": [
+      "Spy x Family Season 4 and a new theatrical film are set for 2027.",
+      "The news was announced on November 8, 2026.",
+      "The anime first aired on television in 2022.",
+      "The series is adapted from the manga by Endo Tatsuya.",
+      "Toho Co., Ltd. was founded in 1932."
+    ],
+    "entities": {
+      "people": [
+        "Naman Ramachandran",
+        "Endo Tatsuya",
+        "Kurosawa Akira"
+      ],
+      "titles": [
+        "Spy x Family",
+        "My Hero Academia",
+        "Jujutsu Kaisen",
+        "Godzilla",
+        "Seven Samurai",
+        "Cheers",
+        "Taxi",
+        "Psychic Predators",
+        "Chiikawa",
+        "Final Interview",
+        "Godzilla Minus Zero",
+        "Cat in the Hat",
+        "La Bola Negra",
+        "Now You See Me 4",
+        "Misty Green"
+      ]
+    },
+    "keywords": [
+      "Spy x Family Season 4",
+      "Spy x Family 2027 film",
+      "Toho Co Ltd anime",
+      "Endo Tatsuya manga"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Spy-x-Kids.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Spy x Family Season 4 and New Theatrical Film Confirmed for 2027 Release",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 23:51:22 +0000"
+  },
+  "1bg242z": {
+    "id": "1bg242z",
+    "type": "news",
+    "headline": "Suriya Starrer Cop Action Comedy Surpasses Rs 116 Crore Globally in Opening Weekend",
+    "dek": "Directed by Jithu Madhavan, the movie Scene has recorded massive ticket sales during the Diwali festive season across multiple language versions.",
+    "body": [
+      {
+        "h": "Strong Opening Weekend Performance",
+        "p": [
+          "The theatrical release of the cop action comedy Scene has witnessed an exceptional start at the box office. Making its way to cinema halls on Friday, the film successfully crossed the Rs. 116 crore milestone in worldwide gross earnings over its initial opening weekend.",
+          "The feature also surpassed the Rs. 70 crore threshold in total domestic gross collections. Benefiting greatly from the Diwali festive period, the production captured strong audience numbers from its very first day."
+        ]
+      },
+      {
+        "h": "Third Day Box Office Breakdown",
+        "p": [
+          "According to tracking data provided by trade analyst Sacnilk, the feature pulled in Rs. 23.25 crore in net domestic earnings on its third day across 6,001 total shows. The Tamil language edit accounted for Rs. 19.25 crore through 4,557 screenings.",
+          "Meanwhile, the Telugu language version brought in Rs. 4 crore by running across 1,444 shows on the exact same day. These figures pushed the cumulative domestic net total to Rs. 62.75 crore, alongside an India gross standing at Rs. 72.90 crore."
+        ]
+      },
+      {
+        "h": "Domestic Language Share and Regional Totals",
+        "p": [
+          "The domestic run of the film is heavily anchored by its original Tamil language version, which has accumulated Rs. 51.90 crore domestically thus far. The Telugu dubbed version has similarly contributed a notable sum of Rs. 10.85 crore to the overall tally.",
+          "Regional state-level metrics indicate that the feature brought in solid numbers on its third day alone, generating Rs. 2.65 crore within Karnataka and securing Rs. 5.50 crore from audiences in Kerala."
+        ]
+      },
+      {
+        "h": "Overseas Market Earnings",
+        "p": [
+          "Beyond domestic borders, the international appeal of the project has remained robust. The feature secured Rs. 10 crore in overseas markets on Sunday alone.",
+          "This international surge brought the cumulative overseas gross collections to a notable total of Rs. 43.75 crore, cementing its status as a major global draw for the lead star."
+        ]
+      },
+      {
+        "h": "Day-Wise Collection Progression",
+        "p": [
+          "The trajectory of the release displayed consistent growth day after day. It launched with Rs. 19.15 crore on Day 1, followed by a slight increase to Rs. 20.35 crore on Day 2.",
+          "Day 3 recorded the highest single-day domestic net of the weekend at Rs. 23.25 crore, which ultimately sealed the total domestic net at Rs. 62.75 crore and pushed worldwide gross collections past the Rs. 116.65 crore mark."
+        ]
+      },
+      {
+        "h": "Festive Occupancy Rates",
+        "p": [
+          "The feature debuted with Rs. 22.25 crore in domestic gross on Friday, rising to Rs. 23.65 crore on Saturday. Overall theatre occupancy hit 80.04% on Sunday.",
+          "Morning shows started with 53.15% occupancy, while afternoon screenings climbed to 89%. Evening and night shows maintained high momentum at 88.15% and 89.85% respectively."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Background Context",
+        "p": [
+          "Scene serves as the third theatrical appearance for the lead actor this calendar year. Following prior projects like Karuppu and Vishwanath and Sons, the star has found considerable commercial success with this venture.",
+          "Helmed by Aavesham fame director Jithu Madhavan, the movie features a cast that includes Nazriya Nazim and Naslen, the latter of whom makes his Tamil cinema debut in this blend of comedy and action."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The cop action comedy Scene has crossed Rs. 116 crore worldwide and earned Rs. 62.75 crore net in India during its opening weekend. Directed by Jithu Madhavan and starring Suriya, the film capitalized on the Diwali festive period with high theatre occupancy and strong multi-language earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide gross crossed Rs. 116 crore during the first weekend.",
+      "India net collection reached Rs. 62.75 crore.",
+      "Day 3 India net collection was Rs. 23.25 crore across 6,001 shows.",
+      "Tamil version Day 3 collection was Rs. 19.25 crore from 4,557 shows.",
+      "Telugu version Day 3 collection was Rs. 4 crore from 1,444 shows.",
+      "Overseas gross total reached Rs. 43.75 crore.",
+      "Day 1 collection was Rs. 19.15 crore.",
+      "Day 2 collection was Rs. 20.35 crore."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen"
+      ],
+      "titles": [
+        "Scene",
+        "Aavesham",
+        "Karuppu",
+        "Vishwanath and Sons"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene movie",
+      "Scene day 3 collection",
+      "Jithu Madhavan Scene film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135667089,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya Starrer Cop Action Comedy Surpasses Rs 116 Crore Globally in Opening Weekend",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T05:41:05+05:30"
+  },
+  "n7c0d0": {
+    "id": "n7c0d0",
+    "type": "news",
+    "headline": "Nicolas Cage Explains Why He Is Relieved by Spider-Noir Cancellation",
+    "dek": "The actor shares that he has no regrets about Amazon ending the series after one season, citing creative risks and a desire to avoid repeating characters.",
+    "body": [
+      {
+        "h": "The End of Spider-Noir",
+        "p": [
+          "Prime Video made the decision to cancel Spider-Noir after only a single season on the platform. While fans of the comic book adaptation expressed surprise at the abrupt ending, lead actor Nicolas Cage felt quite differently about the outcome.",
+          "Rather than feeling disappointed, the acclaimed performer admitted that he felt an immediate sense of relief when he learned the streaming service would not be moving forward with additional episodes."
+        ]
+      },
+      {
+        "h": "Avoiding Repetition and Creative Risk",
+        "p": [
+          "In a recent interview with IGN, Cage explained his perspective on why stopping after one season is ultimately a positive outcome. He noted that playing the idiosyncratic private investigator was a high-risk creative endeavor.",
+          "The actor emphasized that repeating the character across subsequent seasons could have caused the performance to wear out its welcome. By keeping the run brief, the freshman season remains fresh and preserved in its original form."
+        ]
+      },
+      {
+        "h": "Looking Forward to True Detective",
+        "p": [
+          "Cage compared the single-season format of his upcoming television work favorably to the demands of multi-season commitments. He pointed out that his upcoming role in the fifth season of HBO's True Detective follows a similar anthology structure.",
+          "Working on a self-contained story allows him to explore new characters without the pressure of reprising the same role year after year. He expressed contentment knowing that the first season of his previous series stands complete."
+        ]
+      },
+      {
+        "h": "AI Controversy and Studio Relations",
+        "p": [
+          "The cancellation follows prior tensions between the star and the studio regarding artificial intelligence policies. During a New York Comic Con panel last month, Cage publicly criticized Amazon for its heavy investments in OpenAI technology.",
+          "The actor revealed that he refused to sign a waiver permitting the studio to use AI on Spider-Noir. He acknowledged that his stance likely means he will not collaborate with the studio again in the future."
+        ]
+      },
+      {
+        "h": "Viewership and Awards Success",
+        "p": [
+          "Despite its short run, the series managed to attract significant viewer attention and critical acclaim. According to Nielsen streaming content ratings, the show accumulated 2.6 billion viewing minutes over its initial six weeks.",
+          "Furthermore, the production earned substantial recognition from the television industry, securing 11 Emmy nominations and ultimately taking home 5 wins."
+        ]
+      },
+      {
+        "h": "Upcoming Projects",
+        "p": [
+          "Even with the conclusion of his venture into the Spider-Verse, Cage maintains a busy schedule with multiple upcoming titles. He is set to star alongside Antonio Banderas in the fifth season of True Detective.",
+          "Additionally, he appears in the upcoming biopic Madden, which chronicles the journey of John Madden from football coaching to creating the iconic video game franchise and broadcasting career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nicolas Cage expressed relief over the cancellation of Spider-Noir after a single season, stating he prefers not to repeat characters or wear out his welcome. The decision follows previous friction with Amazon over artificial intelligence waivers, though the show previously earned strong ratings and multiple Emmy awards."
+        ]
+      }
+    ],
+    "facts": [
+      "Amazon canceled Spider-Noir after one season.",
+      "Spider-Noir earned 2.6 billion viewing minutes in its first six weeks according to Nielsen.",
+      "Spider-Noir received 11 Emmy nominations and 5 wins.",
+      "Nicolas Cage is starring in the fifth season of HBO's True Detective alongside Antonio Banderas.",
+      "Nicolas Cage stars in the biopic Madden."
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "Ben Reilly",
+        "Antonio Banderas",
+        "John Madden",
+        "Al Davis"
+      ],
+      "titles": [
+        "Spider-Noir",
+        "True Detective",
+        "Madden",
+        "National Treasure"
+      ]
+    },
+    "keywords": [
+      "Nicolas Cage Spider-Noir",
+      "Spider-Noir cancellation",
+      "Nicolas Cage True Detective",
+      "Amazon Spider-Noir AI waiver"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/TCDSPNO_ZU019.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Nicolas Cage Explains Why He Is Relieved by Spider-Noir Cancellation",
+        "source": "Variety"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 00:57:48 +0000"
   }
 };
