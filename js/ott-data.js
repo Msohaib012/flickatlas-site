@@ -141,6 +141,14 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "country": "FR",
+      "date": "2026-11-09",
+      "date_kind": "digital",
+      "id": 1814456,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "IN",
       "date": "2026-11-08",
       "date_kind": "digital",
@@ -246,6 +254,19 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "ES",
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1815736,
+      "providers": [
+        {
+          "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+          "name": "Disney+"
         }
       ],
       "type": "movie"

@@ -91162,5 +91162,412 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sun, 08 Nov 2026 23:42:41 +0000"
+  },
+  "197kg2m": {
+    "id": "197kg2m",
+    "type": "news",
+    "headline": "Katrina Kaif and Vicky Kaushal Reveal Son Vihaan Kaushal's Face on Diwali",
+    "dek": "Popular Bollywood couple Katrina Kaif and Vicky Kaushal have shared the very first photo of their one-year-old son, Vihaan Kaushal, treating their fans to a special Diwali surprise.",
+    "body": [
+      {
+        "h": "First Public Glint of Baby Vihaan",
+        "p": [
+          "Celebrity couple Katrina Kaif and Vicky Kaushal have finally given their followers the moment they were waiting for by unveiling the face of their little boy, Vihaan Kaushal. The family photograph, shared on the auspicious occasion of Diwali, instantly sparked widespread excitement and went viral across social media platforms.",
+          "In the newly released picture, the young prince of the family can be seen smiling cheerfully and posing directly for the camera. The sheer adorableness of the toddler captured the hearts of admirers immediately, drawing thousands of affectionate reactions online."
+        ]
+      },
+      {
+        "h": "Festive Attire and Family Twinning",
+        "p": [
+          "For the festive reveal, the family opted for coordinated traditional ethnic wear. Little Vihaan looked extremely charming dressed in a traditional kurta-pyjama accompanied by a bright yellow Nehru jacket, adding to his delightful appearance.",
+          "Meanwhile, mother Katrina Kaif matched her son by wearing a stunning yellow suit. She completed her elegant look with traditional earrings, a middle-parted hairstyle, and a glowing subtle makeup look, while Vicky Kaushal looked dapper in his traditional kurta-pyjama outfit."
+        ]
+      },
+      {
+        "h": "Heartfelt Diwali Greetings",
+        "p": [
+          "Alongside the precious family portrait, the parents shared warm festive wishes with their supporters. Their joint caption expressed gratitude and spread joy, reading that it was their most wonderful Diwali while wishing everyone abundant love, light, and happiness from Vicky, Katrina, and Vihaan.",
+          "The timing of the photo made the festive celebration even more memorable for admirers who have closely followed the family journey since the couple's grand wedding."
+        ]
+      },
+      {
+        "h": "Background of the Couple's Journey",
+        "p": [
+          "Katrina and Vicky solidified their relationship after a private dating period by hosting a grand, multi-day wedding celebration in 2021. The high-profile union drew massive media attention and adoration from fans across the globe.",
+          "Roughly four years after walking down the aisle, the couple welcomed their baby boy on November 7, 2025, naming him Vihaan Kaushal and embarking on a new chapter of parenthood."
+        ]
+      },
+      {
+        "h": "One Year of Waiting Ends",
+        "p": [
+          "Prior to this Diwali reveal, the couple had kept their son away from the public eye, making the one-year milestone feel particularly significant. Revealing his face after twelve months of careful shielding became a major surprise gift for admirers.",
+          "The emotional response from supporters highlighted the immense popularity and affection that both actors command individually and as a family unit."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Katrina Kaif and Vicky Kaushal shared the first photograph of their one-year-old son Vihaan Kaushal on the occasion of Diwali. The family posed in matching traditional attire, marking a memorable public debut for the toddler after his birth in November 2025."
+        ]
+      }
+    ],
+    "facts": [
+      "Katrina Kaif and Vicky Kaushal married in 2021 after a secret dating period.",
+      "Their son, Vihaan Kaushal, was born on November 7, 2025.",
+      "The couple shared the first photo of their son on Diwali, exactly one year after his birth.",
+      "The family wore yellow and traditional kurta-pyjama outfits in the shared photograph."
+    ],
+    "entities": {
+      "people": [
+        "Katrina Kaif",
+        "Vicky Kaushal",
+        "Vihaan Kaushal"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Katrina Kaif Vicky Kaushal son",
+      "Vihaan Kaushal first photo",
+      "Katrina Kaif Diwali photo",
+      "Vicky Kaushal son Vihaan"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af052910cbd9-katrina-kaif-vicky-kaushal-son-first-photo-084432389-16x9.jpg",
+        "caption": "Katrina Kaif and Vicky Kaushal Reveal Son Vihaan Kaushal's Face on Diwali",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T00:51:21Z"
+  },
+  "51oohc": {
+    "id": "51oohc",
+    "type": "news",
+    "headline": "Korea Box Office: Anime Phenomenon Chiikawa Staves Off Final Interview for Top Spot",
+    "dek": "Japanese animated feature Chiikawa the Movie: The Secret of the Mermaid Island maintains its dominance at the South Korean box office for a fourth consecutive weekend, fending off new challengers including corporate thriller Final Interview.",
+    "body": [
+      {
+        "h": "Chiikawa Leads the Box Office Again",
+        "p": [
+          "The Japanese animated sensation Chiikawa the Movie: The Secret of the Mermaid Island successfully defended its leadership position at the South Korean box office over the weekend spanning November 6 to November 8. Securing its fourth consecutive weekend crown, the fantasy feature brought in $1.1 million from 149,050 admissions across 977 screens, capturing a 23.5% slice of the weekend market.",
+          "Distributed by Toho and directed by Kei Oikawa, the film draws its inspiration from the popular manga created by Nagano. Since its initial release on September 30, the animated hit has built a massive cumulative gross of $21 million, backed by 2,788,843 total admissions."
+        ]
+      },
+      {
+        "h": "Final Interview Debuts in Second Place",
+        "p": [
+          "Next Entertainment World's corporate mystery thriller Final Interview entered the box office race in second place. The claustrophobic feature pulled in $787,344 from 104,476 admissions across 957 screens, taking 16.7% of theatrical receipts for the frame.",
+          "Directed by Kim Jung-hoon and adapted from Akinari Asakura's bestselling novel, the story follows six finalists vying for a single corporate position. Tasked with evaluating one another during a two-hour deliberation, the process turns chaotic when envelopes containing their darkest secrets are exposed. The movie features an ensemble cast starring Cho Yi-hyun, Kim Jae-won, Shin Seung-ho, Kang You-seok, Kwak Dong-yeon, and Bae Gang-hee, pushing its mid-week launch total to $1.2 million from 166,796 admissions."
+        ]
+      },
+      {
+        "h": "Heart of the Beast Holds Third",
+        "p": [
+          "Sony Pictures and TriStar's wilderness survival thriller Heart of the Beast claimed the third-place position during its sophomore frame. The action-adventure venture earned $667,817 from 90,679 admissions across 851 screens, securing 14.17% of the market share.",
+          "Headlined by Brad Pitt, the film's strong hold lifted its overall cumulative total to $2.7 million from 379,763 viewers since kicking off its theatrical run on October 28."
+        ]
+      },
+      {
+        "h": "Detective Conan Special Enters at Fourth",
+        "p": [
+          "Toho's anime special Detective Conan: The Counterfeit Case of Ultra 30 made its debut in fourth place. The mystery project generated $592,765 from 79,999 admissions across 409 screens, representing 12.58% of the weekend's ticket sales.",
+          "Marking a 30th-anniversary milestone, the narrative follows Conan Edogawa as he investigates an organized counterfeit banknote operation tied to a murder case, bringing its cumulative earnings to $803,051 from 108,164 admissions since bowing on November 5."
+        ]
+      },
+      {
+        "h": "Mid-Tier Openings and Continuing Runs",
+        "p": [
+          "Warner Bros. Pictures Animation's The Cat in the Hat opened in fifth place with $200,431 from 29,259 admissions across 608 screens, pushing its total to $216,246. Aniplex's anime fantasy Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- secured sixth place with $211,771 in revenue from 25,069 tickets, benefiting from premium ticketing across 187 screens.",
+          "Further down the chart, the anime re-release Attack on Titan: Crimson Arrows claimed seventh place, while Searchlight Pictures' Wild Horse Nine debuted in eighth. Director Hur Jin-ho's political crime thriller The Assassin(s) placed ninth in its seventh weekend, bringing its staggering cumulative total to $25 million from 3,476,553 admissions since September 23. Rounding out the top 10, the comedy Ugly Duckling Ms. Maeng pushed its cumulative gross to $688,175."
+        ]
+      },
+      {
+        "h": "Overall Market Growth",
+        "p": [
+          "The broader South Korean theatrical ecosystem experienced an upward tick in overall revenues for the weekend. The collective gross across all films reached $6.2 million.",
+          "This total marks an increase from the previous weekend's figures, which stood at $5.3 million, demonstrating healthy box office activity driven by both holdover anime blockbusters and fresh thriller debuts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chiikawa the Movie: The Secret of the Mermaid Island retained the top spot at the South Korean box office for a fourth consecutive weekend, earning $1.1 million. Meanwhile, corporate thriller Final Interview debuted strongly in second place behind solid mid-week ticket sales.",
+          "The overall weekend market collective gross rose to $6.2 million, showcasing steady momentum across diverse cinematic offerings."
+        ]
+      }
+    ],
+    "facts": [
+      "Chiikawa the Movie: The Secret of the Mermaid Island earned $1.1 million over the weekend of November 6-8, 2026.",
+      "Chiikawa has accumulated a total of $21 million from 2,788,843 admissions since its September 30 release.",
+      "Final Interview opened in second place with $787,344 from 104,476 admissions.",
+      "Heart of the Beast lifted its cumulative total to $2.7 million.",
+      "The overall weekend market gross was $6.2 million."
+    ],
+    "entities": {
+      "people": [
+        "Kei Oikawa",
+        "Nagano",
+        "Kim Jung-hoon",
+        "Akinari Asakura",
+        "Cho Yi-hyun",
+        "Kim Jae-won",
+        "Shin Seung-ho",
+        "Kang You-seok",
+        "Kwak Dong-yeon",
+        "Bae Gang-hee",
+        "Brad Pitt",
+        "Conan Edogawa",
+        "Akiyuki Shinbo",
+        "Yukihiro Miyamoto",
+        "Hur Jin-ho",
+        "Yu Hae-jin",
+        "Park Hae-il",
+        "Lee Min-ho",
+        "Park Chung-hee",
+        "Lee Sun-bin",
+        "Yoo Jae-myung"
+      ],
+      "titles": [
+        "Chiikawa the Movie: The Secret of the Mermaid Island",
+        "Final Interview",
+        "Heart of the Beast",
+        "Detective Conan: The Counterfeit Case of Ultra 30",
+        "The Cat in the Hat",
+        "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+        "Attack on Titan: Crimson Arrows",
+        "Wild Horse Nine",
+        "The Assassin(s)",
+        "Ugly Duckling Ms. Maeng"
+      ]
+    },
+    "keywords": [
+      "Chiikawa box office",
+      "Final Interview movie",
+      "Heart of the Beast Brad Pitt",
+      "Detective Conan The Counterfeit Case of Ultra 30",
+      "Korea box office Nov 6-8"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/10/Chiikawa-the-Movie-The-Secret-of-Mermaid-Island.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Korea Box Office: Anime Phenomenon Chiikawa Staves Off Final Interview for Top Spot",
+        "source": "Variety"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 23:42:33 +0000"
+  },
+  "1k0xlef": {
+    "id": "1k0xlef",
+    "type": "news",
+    "headline": "Ramayana Set For Hong Kong Release After Surpassing Rs 350 Crore Worldwide",
+    "dek": "Ranbir Kapoor, Sai Pallavi and Yash starrer Ramayana Part 1 is expanding its international reach to Hong Kong following a strong box office opening.",
+    "body": [
+      {
+        "h": "Global Expansion To Hong Kong",
+        "p": [
+          "The theatrical journey of Ramayana is expanding further into international territories with an upcoming release in Hong Kong scheduled for November 12, 2026. Official ticketing portals have opened bookings across multiple cinema locations in the region, including Mong Kok, Langham Place, Premiere Elements, Tsuen Wan and Kwai Fong.",
+          "For this overseas market expansion, the movie will be screened in the Hindi language accompanied by both Chinese and English subtitles. Industry watchers anticipate that ticket sales will continue to grow as Hong Kong remains a substantial market for Indian cinema releases."
+        ]
+      },
+      {
+        "h": "Box Office Milestones And Earnings",
+        "p": [
+          "In just three days since its domestic and international premiere on November 5, 2026, the magnum opus crossed the significant milestone of Rs 350 crore worldwide. The total global earnings for the Ranbir Kapoor-starrer have climbed to Rs 384 crore.",
+          "Breaking down the figures, the film accumulated a net total of Rs 182.70 crore in India alongside domestic gross collections of Rs 218.25 crore. Meanwhile, its overseas gross collections have touched Rs 165.75 crore, bolstered by a strong third-day worldwide collection of Rs 69.80 crore and an international gross of Rs 68.50 crore on the same day."
+        ]
+      },
+      {
+        "h": "Cast And Creative Leadership",
+        "p": [
+          "Directed by Nitesh Tiwari, the cinematic project features a prominent ensemble cast. Ranbir Kapoor takes on the role of Lord Rama, Sai Pallavi portrays Sita, and Yash stars as Ravana.",
+          "The sprawling epic also includes performances from Ravie Dubey, Sunny Deol, Anupam Kher, Arun Govil, Lara Dutta, Indira Krishnan, Rakul Preet Singh, Kajal Aggarwal, Vivek Oberoi, Adinath Kothare, Sheeba Chadha and Ajinkya Deo among its supporting artists."
+        ]
+      },
+      {
+        "h": "Production Scale And Two-Part Structure",
+        "p": [
+          "Structured as a massive two-part cinematic event, Ramayana Part 1 is marketed in the global arena under the title Ramayana: Rise Of A Legend. Reports indicate that the grand production has been mounted on a reported budget of Rs 4000 crore.",
+          "The film is jointly produced by Namit Malhotra and Yash. Following the current theatrical run of the first installment, the makers have already scheduled the release of the second part for Diwali 2028."
+        ]
+      },
+      {
+        "h": "Official Synopsis And Themes",
+        "p": [
+          "The official synopsis provided for international audiences sets up the core conflict of the narrative. It describes a historical era of gods and kings where the balance of multiple worlds hangs in the balance.",
+          "The plot centers on Prince Rama, who is bound by duty, sacrifice, and righteousness as he prepares to confront Ravana, described as an immortal ruler driven by pride, vengeance, and a power capable of shattering the cosmos."
+        ]
+      },
+      {
+        "h": "Reception And Critical Response",
+        "p": [
+          "Upon hitting theaters on November 5, 2026, the first installment of the epic drew positive responses from both general audiences and film critics alike. The initial numbers reflect strong theatrical footfalls during its opening days.",
+          "With favorable reviews driving word-of-mouth momentum, the production continues to hold strong numbers across domestic and global exhibition sectors as it prepares for its upcoming overseas deployment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part 1 is scheduled to release in Hong Kong on November 12, 2026, with Hindi dialogue and Chinese and English subtitles after crossing the Rs 350 crore mark worldwide. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the film has achieved a total worldwide collection of Rs 384 crore following its November 5 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari.",
+      "The film stars Ranbir Kapoor, Sai Pallavi, and Yash.",
+      "The film released in India and other countries on November 5, 2026.",
+      "Ramayana is releasing in Hong Kong on November 12, 2026.",
+      "The film crossed the Rs 350 crore mark worldwide in three days.",
+      "Total worldwide earnings have reached Rs 384 crore.",
+      "Domestic net collections stand at Rs 182.70 crore.",
+      "Domestic gross collections reached Rs 218.25 crore.",
+      "Global gross collections reached Rs 165.75 crore.",
+      "Third day worldwide collection was Rs 69.80 crore.",
+      "Third day international gross was Rs 68.50 crore.",
+      "The film is produced by Namit Malhotra and Yash.",
+      "The budget is reported at Rs 4000 crore.",
+      "The second installment is scheduled for Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Vivek Oberoi",
+        "Adinath Kothare",
+        "Sheeba Chadha",
+        "Ajinkya Deo"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise Of A Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana Hong Kong release",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156482915,thumbsize-161378,width-1280,height-720,resizemode-75/156482915.jpg",
+        "caption": "Ramayana Set For Hong Kong Release After Surpassing Rs 350 Crore Worldwide",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T00:51:21Z"
+  },
+  "1utcggn": {
+    "id": "1utcggn",
+    "type": "news",
+    "headline": "2026 Critics Choice Documentary Awards Announce Winners at Edison Ballroom",
+    "dek": "The 11th annual Critics Choice Documentary Awards took place in New York City, honoring standout non-fiction features and series with Ross Mathews hosting the evening.",
+    "body": [
+      {
+        "h": "The 11th Annual Ceremony Takes Center Stage",
+        "p": [
+          "The non-fiction film community gathered at the Edison Ballroom in New York City for the 11th annual Critics Choice Documentary Awards. Comedian and television personality Ross Mathews served as the master of ceremonies for the evening, guiding the live-streamed event across multiple digital platforms including YouTube, X, Facebook, and the official Critics Choice website.",
+          "The ceremony functions as a major bellwether for the documentary branch of the Academy as well as broader winter awards campaigns. Industry observers watched closely to see which contenders would secure early momentum heading deeper into the awards season."
+        ]
+      },
+      {
+        "h": "Frontrunners and Heavy Nominations",
+        "p": [
+          "Leading the charge into the Sunday night gala was Ava DuVernay's 14th, which secured a remarkable six nominations from the voting body. The Netflix feature competed across several high-profile categories including Best Documentary Feature, Best Director, Best Editing, and Best Political Documentary.",
+          "Hot on its heels was You Can See Everything, a joint effort by Nathan Fielder and Lance Oppenheim. Backed by A24, the film picked up five nominations and generated substantial discussion regarding its wider Oscar ambitions."
+        ]
+      },
+      {
+        "h": "Oscar Aspirations and Historical Precedent",
+        "p": [
+          "A24 positioned You Can See Everything for contention in both Best Documentary Feature and the overall Best Picture category at the upcoming Academy Awards. Industry analysts noted that no documentary has ever secured a nomination for Best Picture in Academy history.",
+          "Historical data reveals that the Critics Choice Documentary Awards often diverge from ultimate Oscar outcomes. Only two prior winners of the top CCA prize—namely O.J.: Made in America and Summer of Soul—went on to capture the corresponding Academy Award."
+        ]
+      },
+      {
+        "h": "Key Winners and Category Victories",
+        "p": [
+          "David Greaves claimed the prize for Best First Documentary Feature with Once Upon a Time in Harlem, a Neon release that also triumphed in the Best Historical Documentary category. Meanwhile, Nuisance Bear secured the trophy for Best Science or Nature Documentary.",
+          "In the music categories, EPiC: Elvis Presley in Concert triumphed as Best Music Documentary, while Ari Balouzian earned the award for Best Music Score for his work on You Can See Everything."
+        ]
+      },
+      {
+        "h": "Political and Specialized Documentary Triumphs",
+        "p": [
+          "The political documentary field featured fierce competition, ultimately resulting in a victory for Naza, directed by Yuval Abraham and Rachel Szor. The Neon acquisition was widely cited by prognosticators as a formidable player in the documentary race.",
+          "Other specialized categories highlighted achievements in narration and short-form storytelling. John Wilson took home the award for Best Narration for his writing and performance in The History of Concrete."
+        ]
+      },
+      {
+        "h": "Sports, Series, and Additional Honors",
+        "p": [
+          "National Geographic Documentary Films found success in the sports category, with Everest: The Other Side taking home the win for Best Sports Documentary. The project's cinematography team was also recognized in broader technical categories.",
+          "The expansive slate of winners reflected the diverse output of streaming services and independent distributors throughout the eligibility window, providing smaller projects with crucial visibility."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 11th annual Critics Choice Documentary Awards unfolded at the Edison Ballroom in New York City with Ross Mathews hosting the live ceremony. Top contenders like 14th and You Can See Everything competed for major category wins while industry figures eyed potential Academy Award trajectories."
+        ]
+      }
+    ],
+    "facts": [
+      "The 11th annual Critics Choice Documentary Awards took place on Sunday night at the Edison Ballroom in New York City.",
+      "Ross Mathews served as the emcee for the ceremony.",
+      "Ava DuVernay's 14th led with six nominations.",
+      "You Can See Everything earned five nominations.",
+      "Only two of the 10 previous Critics Choice Best Documentary Feature winners went on to win the Oscar: O.J.: Made in America and Summer of Soul."
+    ],
+    "entities": {
+      "people": [
+        "Ross Mathews",
+        "Denton Davidson",
+        "Nathan Fielder",
+        "Lance Oppenheim",
+        "Ava DuVernay",
+        "Yuval Abraham",
+        "Rachel Szor",
+        "David Greaves",
+        "John Wilson",
+        "Ari Balouzian"
+      ],
+      "titles": [
+        "14th",
+        "You Can See Everything",
+        "Naza",
+        "Once Upon a Time in Harlem",
+        "Nuisance Bear",
+        "The History of Concrete",
+        "EPiC: Elvis Presley in Concert",
+        "Everest: The Other Side",
+        "O.J.: Made in America",
+        "Summer of Soul"
+      ]
+    },
+    "keywords": [
+      "Critics Choice Documentary Awards",
+      "You Can See Everything",
+      "14th Ava DuVernay",
+      "Naza documentary"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/split-image-1920-11.jpg?w=650",
+        "caption": "2026 Critics Choice Documentary Awards Announce Winners at Edison Ballroom",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Sun, 08 Nov 2026 23:00:00 +0000"
   }
 };

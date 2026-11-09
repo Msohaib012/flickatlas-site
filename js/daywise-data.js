@@ -437,6 +437,11 @@ window.FA_DAYWISE = {
       "collection": 3170,
       "shows": 11,
       "occupancy": 58.0
+    },
+    {
+      "date": "2026-11-08",
+      "day": "Day 17",
+      "collection": 2113
     }
   ],
   "1153576": [
@@ -1574,10 +1579,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-08",
       "day": "Day 25",
-      "collection": 106709,
-      "shows": 669,
-      "occupancy": 44.5,
+      "collection": 118014,
+      "shows": 665,
+      "occupancy": 45.2,
       "tickets": 64219
+    },
+    {
+      "date": "2026-11-09",
+      "day": "Day 26",
+      "collection": 3170,
+      "shows": 24,
+      "occupancy": 41.0,
+      "tickets": 1833
     }
   ],
   "1269325": [
@@ -1908,10 +1921,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-08",
       "day": "Day 38",
-      "collection": 8980,
+      "collection": 8769,
       "shows": 64,
       "occupancy": 35.2,
       "tickets": 3303
+    },
+    {
+      "date": "2026-11-09",
+      "day": "Day 39",
+      "collection": 1057,
+      "shows": 7,
+      "occupancy": 26.0,
+      "tickets": 249
     }
   ],
   "1497970": [
@@ -4205,8 +4226,9 @@ window.FA_DAYWISE = {
       "date": "2026-11-08",
       "day": "Day 4",
       "collection": 3909139,
-      "shows": 15375,
-      "occupancy": 35.6
+      "shows": 18572,
+      "occupancy": 36.8,
+      "overseas": 4754358
     }
   ],
   "1607833": [
@@ -4393,8 +4415,9 @@ window.FA_DAYWISE = {
       "date": "2026-11-08",
       "day": "Day 3",
       "collection": 1498151,
-      "shows": 4089,
-      "occupancy": 64.4
+      "shows": 5045,
+      "occupancy": 67.6,
+      "overseas": 1056524
     }
   ],
   "1612811": [
@@ -4416,8 +4439,8 @@ window.FA_DAYWISE = {
       "date": "2026-11-08",
       "day": "Day 3",
       "collection": 9509,
-      "shows": 452,
-      "occupancy": 8.0
+      "shows": 566,
+      "occupancy": 9.0
     }
   ],
   "1327835": [
@@ -4439,8 +4462,8 @@ window.FA_DAYWISE = {
       "date": "2026-11-08",
       "day": "Day 3",
       "collection": 257792,
-      "shows": 1151,
-      "occupancy": 50.0
+      "shows": 1478,
+      "occupancy": 54.1
     }
   ],
   "1475799": [
