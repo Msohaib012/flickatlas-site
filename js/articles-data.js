@@ -94665,5 +94665,378 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Mon, 9 Nov 2026 07:00:00 +0000"
+  },
+  "1gk4m4a": {
+    "id": "1gk4m4a",
+    "type": "news",
+    "headline": "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
+    "dek": "Fans of the Korean drama Love In Disguise can stream Episode 7 on Amazon Prime Video in India today, featuring a gripping mix of undercover investigation and developing romance.",
+    "body": [
+      {
+        "h": "Introduction To Episode 7",
+        "p": [
+          "Followers of Korean television are eagerly anticipating the next chapter of the romantic drama Love In Disguise as it steadily builds momentum. With the main characters growing closer, this upcoming installment promises fresh developments in their evolving dynamic.",
+          "The seventh chapter officially premieres today, November 9. Audiences eager to follow the storyline can access details regarding platforms, schedules, cast members, and narrative expectations."
+        ]
+      },
+      {
+        "h": "Plot Premise And Source Material",
+        "p": [
+          "The Korean series blends elements of romance, suspense, and undercover inquiry. The narrative originates from the Kakao web novel titled Why You Don't Know It's a Girl? created by authors Lee A-yeon and Ryu Do-ha.",
+          "The storyline kicks off when a personal secretary to a wealthy heir dies mysteriously. This event pulls the perfectionist corporate leader into a complex homicide investigation handled by local law enforcement."
+        ]
+      },
+      {
+        "h": "Lead Characters And Undercover Mission",
+        "p": [
+          "Yim Si-wan portrays Yoon Yi-jun, the meticulous heir of Taegang Group whose orderly life is upended by tragedy. Seol In-ah takes on the role of Kang Jae-hee, a detective assigned to crack the mystery.",
+          "To keep a close eye on Yi-jun and monitor his activities, Jae-hee seizes an opportunity when he searches for a male executive secretary who also functions as a bodyguard. She disguises herself as a man to infiltrate his workplace while hiding her true identity and connection to the case."
+        ]
+      },
+      {
+        "h": "Romance Meets Investigation",
+        "p": [
+          "As the detective manages her dual responsibilities, she must ensure that no one uncovers her secret agenda. Spending extended periods together shifts their professional boundary into uncharted territory.",
+          "Jae-hee navigates unexpected situations and growing affection, adding emotional complications to her official duties. This blend of clandestine operations and blossoming romance heightens anticipation for subsequent twists."
+        ]
+      },
+      {
+        "h": "Release Schedule And Platform Details",
+        "p": [
+          "The romantic series maintains a Monday-Tuesday release cadence, delivering two new chapters weekly. The complete run consists of 12 chapters, with the finale scheduled for November 24.",
+          "Episode 7 broadcasts on tvN in South Korea at 8:50 PM KST today. Viewers in India can watch the latest chapter on Amazon Prime Video starting at 5:20 PM IST on the same date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Love In Disguise releases its seventh episode today, November 9, with Indian viewers able to watch it on Amazon Prime Video. The Korean drama stars Yim Si-wan and Seol In-ah in a story combining murder mystery and undercover romance."
+        ]
+      }
+    ],
+    "facts": [
+      "Love In Disguise Episode 7 releases on November 9, 2026",
+      "The series has a total of 12 episodes",
+      "The finale is scheduled for November 24, 2026",
+      "South Korean broadcast is at 8:50 PM KST on tvN",
+      "Indian streaming starts at 5:20 PM IST on Amazon Prime Video",
+      "Yim Si-wan plays Yoon Yi-jun",
+      "Seol In-ah plays Kang Jae-hee",
+      "The drama is based on Why You Don't Know It's a Girl? by Lee A-yeon and Ryu Do-ha"
+    ],
+    "entities": {
+      "people": [
+        "Yim Si-wan",
+        "Seol In-ah",
+        "Lee A-yeon",
+        "Ryu Do-ha",
+        "Yoon Yi-jun",
+        "Kang Jae-hee"
+      ],
+      "titles": [
+        "Love In Disguise",
+        "Why You Don't Know It's a Girl?"
+      ]
+    },
+    "keywords": [
+      "Love In Disguise Episode 7",
+      "Love In Disguise Prime Video",
+      "Yim Si-wan Seol In-ah",
+      "Love In Disguise release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/loveindisguiseep1timed1-51511794216744.jpg",
+        "caption": "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 15:05:20 +0530"
+  },
+  "6hty5z": {
+    "id": "6hty5z",
+    "type": "news",
+    "headline": "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
+    "dek": "Rajinikanth's blockbuster sequel approaches its digital debut on Prime Video, leaving regional milestones out of reach as new festive competitors take over screens.",
+    "body": [
+      {
+        "h": "The Road to Regional Milestones",
+        "p": [
+          "Rajinikanth's action vehicle Jailer 2 appears unlikely to touch the historic 100 crore gross mark in both Karnataka and the Telugu states. Despite coming within striking distance of these figures during its theatrical run, the remaining window for the film to close the gap is rapidly disappearing.",
+          "The Nelson Dilipkumar directorial stands as one of Tamil cinema's most powerful performers outside of its home territory. However, the introduction of fresh Diwali titles has heavily compressed its theatrical footprint."
+        ]
+      },
+      {
+        "h": "Unprecedented South Indian Consistency",
+        "p": [
+          "Before its recent slowdown, the sequel achieved an exceptional level of commercial uniformity across southern India. It earned the distinction of becoming the first Indian movie to independently surpass 75 crore gross in Tamil Nadu, Karnataka, Kerala, and Andhra Pradesh-Telangana.",
+          "This strong performance highlighted the wide theatrical pull of Rajinikanth across various linguistic markets. The fourth-week deceleration, however, has left minimal space for any further expansion."
+        ]
+      },
+      {
+        "h": "State-Wise Box Office Breakdown",
+        "p": [
+          "Figures recorded through November 8, 2026, after 25 days in cinemas, detail a massive total India gross of 550.15 crore rupees, with a worldwide gross reaching 827.00 crore rupees.",
+          "Individual state contributions display 217.75 crore rupees from Tamil Nadu, 96.96 crore rupees from Andhra Pradesh and Telangana, 94.87 crore rupees from Karnataka, and 79.50 crore rupees from Kerala, alongside 61.07 crore rupees coming from the rest of India."
+        ]
+      },
+      {
+        "h": "Shrinking Screen Count and Competition",
+        "p": [
+          "Hitting the remaining targets in Karnataka and the Telugu regions proves difficult due to a dramatic drop in available screenings. Namit Malhotra's Ramayana has captured substantial showcasing across those areas, while Suriya's Scene creates extra rivalry within Tamil and Telugu circuits.",
+          "Consequently, the nationwide daily show count for the Rajinikanth starrer plummeted from over 8,000 screenings during its third week to fewer than 700 over the recent weekend."
+        ]
+      },
+      {
+        "h": "The Impact of the Prime Video Release",
+        "p": [
+          "An upcoming digital debut on Prime Video on November 12 introduces another restriction to the ongoing box-office journey. The platform maintained the standard four-week theatrical window despite the exceptional commercial achievements of the sequel.",
+          "Exhibitors previously voiced interest in stretching the theatrical run, but the established release schedule provides limited room to capitalize further on the festive season."
+        ]
+      },
+      {
+        "h": "Legacy of a Major Tamil Blockbuster",
+        "p": [
+          "Even though certain regional landmarks may remain out of reach, the commercial trajectory of the project remains a landmark accomplishment for Kollywood. The capability to draw massive crowds across all four southern markets reinforces the star power of its lead actor.",
+          "Future Tamil releases will find these benchmarks challenging to surpass, securing the film a formidable spot in box-office history regardless of its impending streaming premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 is set to miss the 100 crore gross milestone in Karnataka and the Telugu states as its theatrical run concludes. With a transition to Prime Video scheduled for November 12 and heavy competition from new festive releases shrinking its show counts, the film wraps up its massive box-office run having accumulated 827.00 crore rupees worldwide."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 has a total worldwide gross of 827.00 crore rupees as of November 8, 2026.",
+      "The film's total India gross stands at 550.15 crore rupees after 25 days.",
+      "Tamil Nadu grossed 217.75 crore rupees, Andhra Pradesh-Telangana grossed 96.96 crore rupees, Karnataka grossed 94.87 crore rupees, and Kerala grossed 79.50 crore rupees.",
+      "The movie is scheduled to premiere on Prime Video on November 12, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Namit Malhotra",
+        "Suriya"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Ramayana",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 collection",
+      "Jailer 2 OTT release date",
+      "Jailer 2 Karnataka Telugu states"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028442.jpg",
+        "caption": "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 09:03:00 +0000"
+  },
+  "1lxrtrz": {
+    "id": "1lxrtrz",
+    "type": "news",
+    "headline": "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
+    "dek": "The celebrated Olympic satire starring Hugh Bonneville, Olivia Colman, and narrated by David Tennant is arriving on Netflix this November.",
+    "body": [
+      {
+        "h": "Netflix Welcomes the Olympic Satire",
+        "p": [
+          "Audiences seeking brilliant television comedy will soon have a major title to stream as Twenty Twelve makes its way to Netflix. The popular mockumentary series has been featured prominently in the platform's worth the wait section, generating significant anticipation among comedy fans. Viewers can mark their calendars for November 17, when the program officially becomes available on the service.",
+          "The timing brings back a beloved piece of television satire that originally accompanied a major global sporting milestone. Created by John Morton, the show first premiered in March 2011 to coincide precisely with the 500-day countdown to the opening ceremony of the London Olympic Games."
+        ]
+      },
+      {
+        "h": "Meet the Olympic Deliverance Commission",
+        "p": [
+          "At the narrative center of the show is the fictional Olympic Deliverance Commission, an organization tasked with overseeing preparations for the massive sporting event. Hugh Bonneville leads the ensemble cast as Ian Fletcher, the idealistic head of the commission who constantly finds himself navigating administrative absurdities. He is frequently undermined by his talkative public relations specialist, Siobhan Sharpe, played by Jessica Hynes.",
+          "The administrative chaos is further amplified by other department heads trying to manage various logistics. Amelia Bullmore portrays Kay Hope, the head of sustainability who struggles with practical solutions, such as attempting to gift an unwanted skateboard park to youths who already possess one."
+        ]
+      },
+      {
+        "h": "An All-Star British Ensemble",
+        "p": [
+          "The series boasts a remarkable roster of British talent who deliver sharp comedic performances throughout its run. Olivia Colman stars as Ian's dependable personal assistant, while Vincent Franklin takes on the role of head of contracts, and Karl Theobald plays the head of infrastructure.",
+          "Adding a distinct framing device to the proceedings, acclaimed actor David Tennant provides the witty narration that guides viewers through the bureaucratic mishaps of the fictional commission."
+        ]
+      },
+      {
+        "h": "Legacy and Related Projects",
+        "p": [
+          "The creative world established in the mockumentary did not end with the conclusion of the games. Characters played by Hynes and Bonneville later transitioned into a sequel series titled W1A, which turned its satirical lens toward BBC management. Meanwhile, Bonneville recently reprised a version of his leadership persona for Twenty Twenty Six, focusing on the lead-up to the FIFA World Cup.",
+          "Critics have long praised the production for its sharp writing and execution. Roger Catlin of Salon described the program as the funniest British satire since The Office and true comedy gold, while Simmy Richman of The Independent highlighted it as a brilliantly underloved piece of television."
+        ]
+      },
+      {
+        "h": "Olivia Colman's Award-Winning Career",
+        "p": [
+          "The series holds a special place in the television history of its lead actors, particularly for Olivia Colman. Her standout work on the program earned her the BAFTA TV Award for Best Female Comedy Performance, showcasing her exceptional talent in early small-screen projects.",
+          "In the years following her success in the mockumentary, Colman has built an extraordinary film and television career, securing an Academy Award win and multiple nominations. Fans discovering her earlier work on Netflix can also track her recent cinematic releases, such as the unconventional romance Wicker alongside Alexander Skarsgård."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The acclaimed British mockumentary Twenty Twelve is scheduled to arrive on Netflix on November 17. Created by John Morton, the series stars Hugh Bonneville and Olivia Colman as they navigate the bureaucratic absurdities of planning the London Olympic Games."
+        ]
+      }
+    ],
+    "facts": [
+      "Twenty Twelve arrives on Netflix on 17 November.",
+      "The series was created by John Morton.",
+      "It originally aired in March 2011 to coincide with the 500-day countdown to the 2012 Olympics in London.",
+      "Hugh Bonneville stars as Ian Fletcher.",
+      "Jessica Hynes plays Siobhan Sharpe.",
+      "Amelia Bullmore plays Kay Hope.",
+      "Olivia Colman stars as Ian's personal assistant and won a BAFTA TV Award for Best Female Comedy Performance for the role.",
+      "Vincent Franklin plays the head of contracts.",
+      "Karl Theobald plays the head of infrastructure.",
+      "David Tennant provides the mockumentary's narration.",
+      "W1A is the sequel series to Twenty Twelve.",
+      "Twenty Twenty Six focused on the lead-up to the 2026 FIFA World Cup.",
+      "Olivia Colman stars in Wicker opposite Alexander Skarsgård."
+    ],
+    "entities": {
+      "people": [
+        "Olivia Colman",
+        "Hugh Bonneville",
+        "John Morton",
+        "Jessica Hynes",
+        "Joanna Lumley",
+        "Amelia Bullmore",
+        "Vincent Franklin",
+        "Karl Theobald",
+        "David Tennant",
+        "Roger Catlin",
+        "Simmy Richman",
+        "Joseph Heller",
+        "Alexander Skarsgård"
+      ],
+      "titles": [
+        "Twenty Twelve",
+        "People Like Us",
+        "The Office",
+        "W1A",
+        "Twenty Twenty Six",
+        "The Thick of It",
+        "Yes, Prime Minister",
+        "Dad's Army",
+        "Catch 22",
+        "Wicker",
+        "Home and Away",
+        "Emmerdale",
+        "Corrie",
+        "Strictly Come Dancing",
+        "Love Island",
+        "Ibelin"
+      ]
+    },
+    "keywords": [
+      "Twenty Twelve Netflix",
+      "Hugh Bonneville Twenty Twelve",
+      "Olivia Colman Twenty Twelve",
+      "John Morton comedy series"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/dd706446-96b3-4ed1-bf5b-73c91f99f739.jpg?crop=1.00xw:0.897xh;0,0.0314xh&amp;resize=1200:*",
+        "caption": "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 09:46:00 +0000"
+  },
+  "1k4zn41": {
+    "id": "1k4zn41",
+    "type": "news",
+    "headline": "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet",
+    "dek": "Actor Suriya addressed speculation regarding his political future during the success meet of his recent Diwali release 'Scene', clarifying that he has no immediate plans to join politics but is closely monitoring political developments.",
+    "body": [
+      {
+        "h": "Addressing Political Speculation",
+        "p": [
+          "Renowned actor Suriya has officially put an end to rumors regarding his potential entry into the political arena. Speaking directly to media and fans, the star clarified that he harbors no immediate ambitions to launch a political career. These discussions surrounding his possible transition into politics have gained substantial traction in Tamil Nadu, particularly following Chief Minister Vijay's recent entry into the political sphere."
+        ]
+      },
+      {
+        "h": "Observations at the 'Scene' Success Meet",
+        "p": [
+          "The clarification was delivered during an official event in Chennai on November 8, celebrating the success of his latest Diwali cinematic release titled 'Scene'. Addressing the gathered crowd, Suriya remarked that while he is staying out of the political race for now, it does not stem from any animosity toward the field. Instead, he openly stated that he is quietly and closely watching political happenings."
+        ]
+      },
+      {
+        "h": "The Necessity of Proper Understanding",
+        "p": [
+          "Elaborating further on his viewpoint, the actor underscored the importance of preparation and knowledge before stepping into public service leadership. He firmly asserted that he would never venture into the political domain without fully understanding the system and its complex pathways. Suriya noted that anyone aspiring to serve the public through politics must first comprehend the immense responsibilities and challenges involved."
+        ]
+      },
+      {
+        "h": "Views on Education and Social Change",
+        "p": [
+          "Shifting focus to societal progress, Suriya highlighted education as the foundational tool required to resolve many of society's deeply rooted problems. He urged political leaders to place greater emphasis on educational reforms. Furthermore, addressing the issue of systemic corruption, the actor stated that true reform cannot be achieved solely by a third party, and that every individual must actively fight that internal battle."
+        ]
+      },
+      {
+        "h": "Clarifying Agaram Foundation's Mission",
+        "p": [
+          "The actor also touched upon his ongoing philanthropic and educational initiatives managed through the Agaram Foundation. He stressed that the impactful work carried out by the organization is completely devoid of any political motives or hidden agendas. Rather than defining their efforts as mere service, he characterized helping students access proper education as an inherent responsibility."
+        ]
+      },
+      {
+        "h": "Box Office Success of 'Scene'",
+        "p": [
+          "Amidst the political discussions, Suriya's latest silver-screen outing has been drawing massive attention. Directed by Jithu Madhavan, the Diwali release 'Scene' features Suriya in the lead role alongside co-stars Nazriya Nazim and Naslen. The film has been performing remarkably well at the box office, generating strong audience reception and significantly amplifying the momentum of his recent statements."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Suriya clarified at the 'Scene' success meet that he has no plans to enter politics yet, though he is quietly observing political developments. He emphasized the importance of understanding the field before entering and noted that his Agaram Foundation work is driven by responsibility rather than political ambition."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya stated he is not going to enter politics and is quietly watching politics.",
+      "The statement was made at an event in Chennai on November 8, related to the Diwali release 'Scene'.",
+      "'Scene' is directed by Jithu Madhavan and stars Suriya, Nazriya Nazim, and Naslen.",
+      "Suriya is actively involved in educational initiatives through the Agaram Foundation."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Vijay",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen"
+      ],
+      "titles": [
+        "Scene",
+        "Agaram Foundation"
+      ]
+    },
+    "keywords": [
+      "Suriya Scene movie",
+      "Suriya political entry",
+      "Scene success meet",
+      "Jithu Madhavan Scene film",
+      "Suriya Agaram Foundation"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135676846,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T14:34:02+05:30"
   }
 };

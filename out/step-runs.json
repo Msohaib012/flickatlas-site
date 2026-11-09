@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T08:51:41Z",
-    "run_id": "42464624810",
-    "status": "success",
-    "checked": {
-     "candidates": 270,
-     "detail": "RSS/Atom items across 137 sources; 6 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Hrithik Roshan attends LACMA Art + Film Gala 2026, becomes first mainstream Indian actor to grace event",
-      "Ramayana Kerala Box Office Collection Day 4 Prediction: Ranbir Kapoor And Yash Film Set To Beat Jawan, Pathaan",
-      "Ramayana Box Office Collection Day 3: Ranbir's Film Sees 45% Hike; Kicks Baahubali 2 Out Of Top 10 List",
-      "Ramayana: Makers Issues Warning Against Leaked Clips; Threaten To Take Legal Action Against Offenders",
-      "Stranger Things Prequel Other Worlds Could Finally Explain The Mystery Behind Vecna’s Powers",
-      "Ramayana Box Office Day 4 Advance Booking & Prediction: 10.86 Lakh Tickets Sold for Diwali – Ranbir Kapoor & Yash Loading A Smashing Sunday!",
-      "Ramayana Box Office Collection Day 3: Enters Ranbir Kapoor’s Top 5 Grossers In India, Becomes Yash’s 3rd Highest-Grosser",
-      "5 Tamil Films & Shows That Redefined Transgender Representation: From Kanchana To Dorothy",
-      "You Can See Everything North America Box Office: Surpasses This Is It & Another Hit To Enter The Top 5 Biggest Documentaries Ever!",
-      "Mookuthi Amman 2 Box Office: How Much Does Nayanthara Starrer Need To Enter The Safe Zone?",
-      "Scene Box Office Day 3 Advance Booking: Suriya’s Film Sells Over 6.5 Lakh Tickets, Set To Score Higher Than Day 2",
-      "The Cat In The Hat North America Box Office: Can The Animated Reboot Pull Off A Box Office Comeback After A Slow Start?",
-      "Diwali Box Office Records: Biggest Diwali Openings, Language by Language",
-      "Priyanka shares family pics from her LA Diwali bash with Nick and Malti",
-      "Diwali 2026: Big B, Sidharth, KJo and other celebs wish on the occasion",
-      "‘Kaaka’: Chiranjeevi unveils rugged new look in Diwali poster",
-      "Tom Blyth says that Ralph Fiennes did not need any help with his role in ‘The Hunger Games: Sunrise on the Reaping'",
-      "Chiranjeevi, Jr NTR, Dhanush and others share Diwali 2026 wishes",
-      "'The End of Oak Street' streaming release: What to know about Anne Hathaway's film",
-      "Ami says dubbing for Sai in 'Ramayana''felt almost divine'"
-     ],
-     "updated": [],
-     "count": 260,
-     "detail": "260 stories, 1 duplicates removed, 10 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-08T09:50:46Z",
     "run_id": "42468874790",
     "status": "success",
@@ -907,32 +868,48 @@
      "detail": "272 stories, 2 duplicates removed, 8 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T10:03:54Z",
-    "run_id": "42469677354",
+    "run_at": "2026-11-09T09:51:39Z",
+    "run_id": "42596466728",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 223,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Missing Sita-Lakshmana Forest Fight Scene From International Cut of Ramayana Sparks Online Debate",
-      "Classic Action Film Praised by Quentin Tarantino Arrives on Free Streaming",
-      "Makers of Ranbir Kapoor and Yash's Ramayana Issue Strict Legal Warning Over Unauthorised Theatre Recordings",
-      "Katrina Kaif and Vicky Kaushal Share First Family Photo With Son Vihaan on Diwali"
+      "Amitabh, Deepika Or Sunny Deol! Swaroopa Ghosh Reveals Why She Can't Pick A Favourite Co-Star- EXCLUSIVE",
+      "Love In Disguise Episode 7 Release Time Today: When & Where To Stream Ep 7? What To Expect From K-drama?",
+      "Diwali 2026 EXCLUSIVE: Siya Ke Ram's Yukti Kapoor Reveals Biggest Lesson She Learnt From Sita: Loyalty Is...",
+      "Ramayana Box Office Collection Day 4: Scores A Record Opening Weekend For A Diwali Release, Ranks 4th Among Bollywood’s All-Time Opening Weekends",
+      "Jailer 2 Set to Miss 100 Crore Gross in Karnataka and Telugu States as Early OTT Release Nears",
+      "Ramayana Day 6 Advance Booking Crosses 3 Lakh Tickets in National Chains as Bengaluru Leads Ahead of Post-Diwali Weekday Test",
+      "Ramayana designer delivered Ranbir's armor an hour before shoot",
+      "Suriya rules out political entry, says, 'I am quietly watching politics'",
+      "Justin Timberlake attends charity event with his niece and his two sons",
+      "Bhumi Pednekar raises alarm over ‘hazardous’ AQI in Mumbai post Diwali, says people were bursting crackers even at 3 AM",
+      "BTS' V gets curious about Diwali after Indian fans introduce him to festival, wishes them 'Diwali Mubarak'",
+      "Adnan Sami slams Mumbai Airport's Pranaam service over staff's ‘rude’ behaviour, says they didn't inform him of 5-hour flight delay",
+      "Ramayana surprises its biggest critics. 5 things internet got spectacularly wrong",
+      "Comedian Ravi Gupta flips the script on Ramayana, turns mockery into praise",
+      "Diwali 2026: Priyanka Chopra-Nick Jonas’ Elegant Celebration To Alia Bhatt-Ranbir Kapoor, Bachchan’s Homely Gatherings, A Glimpse At Bollywood Celebrating The Festival Of Light",
+      "Diwali 2026: Katrina Kaif, Vicky Kaushal Reveal Son Vihaan’s Face For The FIRST Time; Call Celebration, “Our Brightest Diwali Yet”",
+      "OG Harry Potter Stars Officially React to Replacement Cast as Hit Spin-Off Series Returns",
+      "‘Hogwarts Legacy 2’ Is Officially Happening",
+      "Dave Chappelle’s Charlie Kirk Joke Sparks Huge Backlash, ‘Disgusting’ Says Wife Erika",
+      "5 Best New Paramount+ Series To Binge-Watch This Week (November 9–13, 2026)"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 216,
+     "detail": "216 stories, 0 duplicates removed, 7 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1451,27 +1428,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-09T09:52:03Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
+      "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
+      "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
+      "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-08T10:03:54Z",
-    "run_id": "42469677354",
-    "status": "success",
-    "checked": {
-     "candidates": 271,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 257, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1885,33 +1867,27 @@
      "detail": "now 261, coming 14"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-09T09:52:03Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": {
+     "candidates": 275,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 261, coming 14"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-08T09:17:05Z",
-    "run_id": "42464624810",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "vcgdkw",
-      "3qi9tf",
-      "zh1kf0",
-      "8r68m8",
-      "14zcyxn",
-      "2p8cd0"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2323,19 +2299,35 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-09T09:59:12Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1qlmi5k",
+      "18cz6ls",
+      "7zrtld",
+      "15qljzq",
+      "jitjjt",
+      "6cnve0",
+      "149emoy",
+      "c8dwrt"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T09:50:46Z",
-    "run_id": "42468874790",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2725,19 +2717,27 @@
      "detail": "+0 new rows, 6 updated rows, 618 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T09:59:09Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": {
+     "candidates": 632,
+     "detail": "624 collected staging rows from readers; 217 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 620 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2974,36 +2974,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-08T09:39:09Z",
-    "run_id": "42467892252",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Bano Episode 25 — Watch Online on Geo TV",
-      "Zehar-e-Mohabbat Episode 23 — Watch Online on HUM TV",
-      "Nashtar Episode 28 — Watch Online on Geo TV",
-      "Dar-E-Nijaat Episode 29 — Watch Online on ARY Digital",
-      "Aangan Episode 12 — Watch Online on HUM TV",
-      "Khushi Episode 56 — Watch Online on HUM TV",
-      "Uswah Episode 46 — Watch Online on Geo TV",
-      "Izzat Episode 49 — Watch Online on ARY Digital"
-     ],
-     "updated": [],
-     "count": 8,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3493,44 +3476,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-08T09:39:09Z",
-    "run_id": "42467892252",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-09T09:59:12Z",
+    "run_id": "42596466728",
     "status": "success",
     "checked": {
-     "candidates": 23,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 13 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 25",
-      "Zehar-e-Mohabbat Ep 23",
-      "Nashtar Ep 28",
-      "Dar-E-Nijaat Ep 29",
-      "Aangan Ep 12",
-      "Khushi Ep 56",
-      "Uswah Ep 46",
-      "Izzat Ep 49"
+      "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
+      "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
+      "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
+      "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet"
      ],
-     "updated": [
-      "Dar-E-Nijaat Ep 29",
-      "Uswah Ep 46",
-      "Nashtar Ep 28",
-      "Bano Ep 25",
-      "Khushi Ep 56",
-      "Aangan Ep 12",
-      "Zehar-e-Mohabbat Ep 23",
-      "Izzat Ep 49"
-     ],
-     "count": 16
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3808,19 +3779,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4142,31 +4113,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-08T08:52:05Z",
-    "run_id": "42464624810",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 260 still unprocessed; today by category: movies 4/6, tv_dramas 7/4, episodes 0/2, box_office 7/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 0/3, awards 1/2, music_ost 1/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Heads to Hong Kong After Eyeing Rs 500 Crore Worldwide, Bookings Begin",
-      "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
-      "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
-      "Hrithik Roshan makes history as first mainstream Indian actor at LACMA Art + Film Gala"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4660,26 +4619,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-09T09:52:03Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 216 still unprocessed; today by category: movies 5/6, tv_dramas 4/4, episodes 0/2, box_office 10/6, celebrities_events 6/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 3/3, awards 1/2, music_ost 0/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
+      "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
+      "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
+      "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-08T08:53:21Z",
-    "run_id": "42464624810",
-    "status": "success",
-    "checked": {
-     "candidates": 45,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4993,24 +4957,26 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-09T09:53:46Z",
+    "run_id": "42596466728",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 46,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 375,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5350,24 +5316,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 21,
+     "count": 373,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5632,19 +5598,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5894,19 +5860,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6141,19 +6107,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6440,19 +6406,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6693,19 +6659,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6935,19 +6901,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7200,30 +7166,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-07T00:53:22Z",
-    "run_id": "42320669325",
-    "status": "success",
-    "checked": {
-     "candidates": 498,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 34; attempt cooldown deferred: 464"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7706,19 +7661,30 @@
      "count": 9
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-09T09:52:53Z",
+    "run_id": "42596466728",
+    "status": "success",
+    "checked": {
+     "candidates": 520,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 452"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7958,19 +7924,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-08T09:17:15Z",
-    "run_id": "42464624810",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8225,8 +8191,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-09T09:59:21Z",
+    "run_id": "42596466728",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-09T08:44:39Z"
+ "updated_at": "2026-11-09T09:59:21Z"
 }
