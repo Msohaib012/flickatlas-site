@@ -97913,5 +97913,507 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 16:49:24 +0000"
+  },
+  "1k7d2uy": {
+    "id": "1k7d2uy",
+    "type": "news",
+    "headline": "Bano Episode 27 — Watch Online on Geo TV",
+    "dek": "Bano episode 27 aired on 2026-11-09 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 27 aired on 2026-11-09 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=0P8SyMPErY0"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Bano aur Shehryar ki nayi zindagi ki shuruat ko dikhaya gaya hai. Shehryar aur Bano jab ghar aate hain to Shehryar ki maa aur Bano ka samna hota hai, jahan maa Bano aur uske bhai ki waja se pareshan hai. Mehru apne baap se kehti hai ke woh Shehryar ke bina nahi reh sakti aur unhein iska koi hal nikalna chahiye. Doosri taraf, Murtaza ki maa usko Dolly se shadi karne ke liye force karti hai, jis par Murtaza apne gale mein tie daal kar khudkoshi ki koshish karta hai, lekin maa ghabra kar usko rok leti hai. Bano aur Shehryar ke beech pyaar bhari baatein hoti hain aur Bano ghar ki maid se bhi milti hai jo uski bhalai chahti thi. Episode ke aakhir mein Bano aur Shehryar ke office ka scene dikhaya jata hai jahan Shehryar office pohanchta hai aur Bano office mein apna kaam kar rahi hoti hai, aur episode yahin khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 27 aired on 2026-11-09.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=0P8SyMPErY0",
+      "YouTube views: 210,865.",
+      "Episode summary added 2026-11-09."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/0P8SyMPErY0/hqdefault.jpg",
+        "caption": "Bano Episode 27",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-09T17:01:37Z"
+  },
+  "oekp1r": {
+    "id": "oekp1r",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 13 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 13 aired on 2026-11-09 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 13 aired on 2026-11-09 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=VIrzTs9T_wY"
+        ]
+      },
+      {
+        "h": "About Lagan Lagi",
+        "p": [
+          "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Ashar aur Kiran hospital jaate hain jahan Kiran ki pregnancy ke tests kiye jaate hain. Doctor kehti hai ke test reports ke baad hi confirm hoga lekin Kiran kafi pareshan aur dar rahi hoti hai. Dusri taraf, ek family gathering mein Zaryab aur Kashaf ki shadi ke liye baat chal rahi hoti hai. Daniyal aur Taniya ke darmiyan bhi baat cheet hoti hai jahan Taniya Daniyal ko apne kaam aur personal life ko balance karne ka kehti hai aur uske badle hue rawaiye par baat karti hai. Sofiya ki tabiyat kharab hoti hai jis par Ashar pareshan hota hai aur doctor ke paas le jata hai. Episode ke aakhir mein Sunaira aur Daniyal ke darmiyan kuch gile shikwe door hote hain aur Daniyal apni galti ka ehsaas karte hue maafi mangta hai aur rishtay ko aage badhane ki koshish karta hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 13 aired on 2026-11-09.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=VIrzTs9T_wY",
+      "YouTube views: 3,715.",
+      "TMDB: Lagan Lagi (id 337316).",
+      "Episode summary added 2026-11-09."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/VIrzTs9T_wY/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 13",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-09T17:00:03Z"
+  },
+  "ej8sk1": {
+    "id": "ej8sk1",
+    "type": "news",
+    "headline": "Hurmat Episode 11 — Watch Online on HUM TV",
+    "dek": "Hurmat episode 11 aired on 2026-11-09 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 11 aired on 2026-11-09 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=F5OuvSrlJF0"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Hurmat apne doston ke sath university mein hoti hai aur Faraz usse milne aata hai, jise woh ye keh kar mana karti hai ke uski mangni ho chuki hai. Tabish police station mein inspector Wahab ko daathta hai ke usne Hurmat ke sath badtameezi kyun ki aur usse maafi mangne ko kehta hai. Baad mein Tabish Hurmat ko college se ghar drop karta hai, jahan woh uske aur apni umar aur soch ke fark par baat karta hai. Hurmat apni ammi ko batati hai ke uski mangni toot gayi hai, jis par ammi bohat pareshan hoti hain. Tabish ghar aakar apne kamre mein gusse mein Jenga ke blocks tod deta hai aur un par \"New Beginning\" likhta hai. Ammi Tabish ke ghar aakar usse baat karti hain ke woh Hurmat se shadi kyun nahi karega, aur Tabish kehta hai ke woh ab kisi par dobara trust nahi kar sakta aur apni personal space share nahi karega. Akhir mein Hurmat Zeeshan ke sath restaurant mein milti hai aur Zeeshan uske sath khana khata hai aur woh khush nazar aati hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 11 aired on 2026-11-09.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=F5OuvSrlJF0",
+      "YouTube views: 637,081.",
+      "Episode summary added 2026-11-09."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/F5OuvSrlJF0/hqdefault.jpg",
+        "caption": "Hurmat Episode 11",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-09T16:00:32Z"
+  },
+  "qqufdk": {
+    "id": "qqufdk",
+    "type": "news",
+    "headline": "Heart Of The Beast Worldwide Box Office: Brad Pitt Starrer Poised To Fall Just $5 Million Short Of Its Break-Even Target?",
+    "dek": "Brad Pitt's Heart of the Beast is nearing the end of its global theatrical run and is projected to miss its break-even target by a narrow margin.",
+    "body": [
+      {
+        "h": "Global Theatrical Run Nears Conclusion",
+        "p": [
+          "The theatrical journey of Heart of the Beast is approaching its final stages on the global stage. While the feature has not completely stalled in cinemas, its active box office period is winding down.",
+          "Current projections indicate that the Brad Pitt starrer will finish its worldwide exhibition just shy of its primary financial milestones, leaving industry observers to evaluate its overall commercial outcome."
+        ]
+      },
+      {
+        "h": "Critical Reception Versus Ticket Sales",
+        "p": [
+          "Despite securing favorable reviews and positive ratings from both professional critics and general audiences, the movie struggled to translate that goodwill into high box office receipts.",
+          "It currently stands as one of the top 20 highest-grossing films featuring its lead actor, yet its monetary return has failed to match the critical acclaim it managed to gather during its run."
+        ]
+      },
+      {
+        "h": "Chasing the $200 Million Milestone",
+        "p": [
+          "According to data from Box Office Mojo, the survival drama is inching closer to the significant $200 million threshold globally. In its seventh three-day weekend in North America, it brought in $1.2 million.",
+          "That domestic figure marked a 25.5 percent decrease from the preceding weekend, occurring even as the film lost 535 theater locations on a single Friday, bringing its domestic cumulative total to $67.2 million."
+        ]
+      },
+      {
+        "h": "Domestic and International Breakdown",
+        "p": [
+          "When combining its domestic earnings with the latest overseas gross, the feature boasts a total worldwide collection of $188.7 million. International markets account for $121.5 million of that sum.",
+          "With a domestic cume of $67.2 million alongside the overseas figures, the picture remains under $15 million away from officially crossing the $200 million worldwide marker."
+        ]
+      },
+      {
+        "h": "Analysis of the Break-Even Target",
+        "p": [
+          "Industry estimates point to a final global finish of around $200 million for the picture. Given its reported production budget of $82 million, financial analysts apply the standard 2.5x rule to determine profitability.",
+          "Under this metric, the release needs to generate approximately $205 million globally to break even, meaning a $200 million finish leaves it roughly $5 million short of covering its costs."
+        ]
+      },
+      {
+        "h": "Plot and Production Background",
+        "p": [
+          "The narrative centers on Special Forces veteran James Belmont alongside his combat dog, Odin. Following a severe plane crash, the duo becomes stranded deep within the Alaskan wilderness.",
+          "They are forced to endure harsh elements and engage in a difficult battle for survival. The production stars Brad Pitt and JK Simmons, and was released to theaters on September 25."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brad Pitt's film Heart of the Beast is wrapping up its theatrical run with a worldwide total nearing $200 million against an $82 million production budget. Industry projections indicate the movie will fall about $5 million short of its $205 million break-even target despite positive reviews."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt",
+      "JK Simmons",
+      "Heart of the Beast",
+      "September 25",
+      "$82 million",
+      "$205 million",
+      "$200 million",
+      "$188.7 million",
+      "$67.2 million",
+      "$121.5 million",
+      "$1.2 million"
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "JK Simmons",
+        "James Belmont",
+        "Odin"
+      ],
+      "titles": [
+        "Heart of the Beast"
+      ]
+    },
+    "keywords": [
+      "Heart of the Beast box office",
+      "Brad Pitt Heart of the Beast",
+      "Heart of the Beast worldwide collection",
+      "Heart of the Beast budget"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/heart-of-the-beast-worldwide-box-office-brad-pitt-starrer-poised-to-fall-just-5-million-short-of-its-break-even-target.jpg",
+        "caption": "Heart Of The Beast Worldwide Box Office: Brad Pitt Starrer Poised To Fall Just $5 Million Short Of Its Break-Even Target",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 17:20:07 +0000"
+  },
+  "19775sx": {
+    "id": "19775sx",
+    "type": "news",
+    "headline": "Inside the Star-Studded Guest Lineup of Usher and Chris Brown's Massive R&B Tour",
+    "dek": "Discover the incredible surprise performers who have joined Usher and Chris Brown on stage throughout their blockbuster North American trek.",
+    "body": [
+      {
+        "h": "A Once-in-a-Generation R&B Collaboration",
+        "p": [
+          "Two of the defining R&B architects of the 21st century joined forces this year to launch a massive, high-energy co-headlining trek across North America. Kicking off in Denver on June 26, the tour has consistently filled stadiums all summer long with enthusiastic crowds.",
+          "Both headliners have delivered prolific displays combining smooth vocals, intricate choreography, acrobatic stunts, and hit anthems spanning their respective music catalogs."
+        ]
+      },
+      {
+        "h": "Tour Expansion and Viral Moments",
+        "p": [
+          "Due to overwhelming popularity, Live Nation announced an eight-show extension on August 19, bringing the expansive trek to a total of 59 scheduled dates. The extended route includes previously unvisited markets such as Baltimore, Cincinnati, and Indianapolis before concluding in Tampa, Florida, in December.",
+          "The journey has also generated unexpected viral highlights online, including a widely discussed moment during a Nashville stop when Usher escorted an apparently uninterested audience member off the stage."
+        ]
+      },
+      {
+        "h": "Comparing Legends: The Michael and Prince Analogy",
+        "p": [
+          "Reflecting on the magnitude of their collaboration two decades into their respective careers, Usher spoke about the partnership during an August appearance on the Joe Jada podcast. He compared their joint venture to an imaginary scenario where Michael Jackson and Prince decided to team up at the height of their artistic power.",
+          "The co-headlining venture has successfully achieved something unprecedented in modern live performance, bridging the legacies of two enduring superstars."
+        ]
+      },
+      {
+        "h": "Stellar Stadium Surprises in New York",
+        "p": [
+          "MetLife Stadium hosted an incredible array of guest appearances across multiple nights, treating fans to unforgettable collaborative performances. On August 7, the venue saw energetic sets from Lil Baby, 50 Cent, Jadakiss, and Fat Joe.",
+          "The following night on August 8 featured additional heavy-hitting appearances by A Boogie Wit Da Hoodie, Mary J. Blige, Method Man, Future, and Ashanti. Later in the fall, on October 15, the stadium welcomed Shyne, Fabolous, and Meek Mill to the stage."
+        ]
+      },
+      {
+        "h": "Atlanta Takeovers and Venue Highlights",
+        "p": [
+          "The star-studded tour also made unforgettable stops at other major venues, including The Dome at America's Center, where Nelly performed on July 21. Later, SoFi Stadium welcomed Ye on September 25 for a series of standout song performances.",
+          "Mercedes-Benz Stadium in Atlanta hosted massive multi-artist nights on November 5, November 6, and November 8, featuring T.I., Young Dro, Bow Wow, Monica, Jermaine Dupri, Xscape, Muni Long, Dru Hill, Da Brat, Tyrese, YoungBloodZ, Jeezy, Summer Walker, Lloyd, NE-YO, and Sexyy Red."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Usher and Chris Brown have teamed up for a massive 59-date North American tour featuring an extensive lineup of surprise guest performers at major stadium stops. The collaboration, which has expanded into additional markets through December, highlights two decades of R&B legacy through unforgettable live shows."
+        ]
+      }
+    ],
+    "facts": [
+      "The tour kicked off in Denver on June 26.",
+      "Live Nation announced an eight-show extension on August 19.",
+      "The expansive trek includes 59 dates in total.",
+      "Usher spoke on the Joe Jada podcast in August.",
+      "Nelly performed at The Dome at America's Center on July 21.",
+      "Ye performed at SoFi Stadium on September 25."
+    ],
+    "entities": {
+      "people": [
+        "Usher",
+        "Chris Brown",
+        "Michael Jackson",
+        "Prince",
+        "Nelly",
+        "Lil Baby",
+        "50 Cent",
+        "Jadakiss",
+        "Fat Joe",
+        "A Boogie Wit Da Hoodie",
+        "Mary J. Blige",
+        "Method Man",
+        "Future",
+        "Ashanti",
+        "Ye",
+        "Shyne",
+        "Fabolous",
+        "Meek Mill",
+        "T.I.",
+        "Young Dro",
+        "Bow Wow",
+        "Monica",
+        "Jermaine Dupri",
+        "Xscape",
+        "Muni Long",
+        "Dru Hill",
+        "Da Brat",
+        "Tyrese",
+        "YoungBloodZ",
+        "Jeezy",
+        "Summer Walker",
+        "Lloyd",
+        "NE-YO",
+        "Sexyy Red"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Usher Chris Brown tour",
+      "Usher Chris Brown surprise guests",
+      "Usher Chris Brown tour dates",
+      "R&B tour guests"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/06/Chris-Brown-Usher-2026-Credit-Justin-Ongeri-billboard-1800.jpg?w=1024",
+        "caption": "Inside the Star-Studded Guest Lineup of Usher and Chris Brown's Massive R&B Tour",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 17:52:18 +0000"
+  },
+  "1wndq8": {
+    "id": "1wndq8",
+    "type": "news",
+    "headline": "Bigg Boss 20: Scout OP's Mother Opens Up About The Shocking Qazi Touqeer Spitting Incident",
+    "dek": "In an exclusive interview, the mother of popular gamer and contestant Tanmay Singh, known as Scout OP, discusses her distress over the controversial spitting incident involving Qazi Touqeer inside the Bigg Boss 20 house.",
+    "body": [
+      {
+        "h": "Introduction To The Controversy",
+        "p": [
+          "The current season of the high-profile reality television show hosted by Salman Khan has continuously drawn massive attention from viewers across the country. Tensions and changing equations run high within the house, creating constant drama for fans who follow the daily updates. Among the prominent participants this season is popular gamer and YouTuber Tanmay Singh, widely recognized by his online moniker Scout OP.",
+          "As his journey unfolds on television, his family members have begun speaking out about his experiences inside the locked compound. Recently, his mother, Sasmita Singh, shared her personal perspective on how her son has been navigating the challenging environment of the reality series, touching upon several emotional moments that caught her completely off guard."
+        ]
+      },
+      {
+        "h": "The Disturbing Incident Involving Qazi Touqeer",
+        "p": [
+          "One specific event during the season left a deep impact on Tanmay's mother when she watched it broadcast on screen. An altercation occurred involving fellow contestant Qazi Touqeer, during which Qazi allegedly spat in Tanmay's ear and behaved in a manner described as disrespectful.",
+          "Witnessing her son receive such treatment on national television proved to be a deeply distressing experience for the family. Sasmita Singh admitted that seeing this particular episode unfold was extremely painful for her as a mother, raising immediate concerns about the boundaries of behavior within the house."
+        ]
+      },
+      {
+        "h": "Surprise Over Tanmay's Restrained Reaction",
+        "p": [
+          "What surprised the family even more than the provocative act itself was the way Tanmay chose to respond to the provocation. Knowing his usual personality and vocal nature, expectations pointed toward a much sharper and more defensive counter-reaction from the popular content creator.",
+          "Instead of speaking his mind or retaliating aggressively as he might have done previously, Scout OP maintained a surprising level of restraint. His mother noted that watching him stay quiet in such an inflammatory situation was entirely unexpected and forced her to re-evaluate his coping mechanisms."
+        ]
+      },
+      {
+        "h": "Evaluating Personal Growth And Patience",
+        "p": [
+          "The unusual calmness displayed by the gamer has sparked questions regarding whether the rigorous atmosphere of the reality series is altering his temperament. Sasmita Singh wondered aloud whether weeks spent inside the house have naturally instilled greater patience in her son.",
+          "Alternatively, she pondered if he is consciously adopting a strategic, diplomatic approach to resolve conflicts without escalating matters. Regardless of the underlying motive, observing this quieter side of him remains a novel experience for those who know him best."
+        ]
+      },
+      {
+        "h": "Values Of Self-Respect And Dignity",
+        "p": [
+          "While competing in a high-stakes television show naturally involves chasing the ultimate victory, family priorities extend far beyond the winner's trophy. Sasmita Singh emphasized that her primary guidance to her son has always centered on mutual respect alongside the preservation of personal dignity.",
+          "She wants him to recognize the importance of standing up against perceived injustices whenever necessary, provided he does so without compromising his own character. Maintaining his self-regard through every trial inside the house remains paramount."
+        ]
+      },
+      {
+        "h": "Hopes For The Remainder Of The Journey",
+        "p": [
+          "As the competition progresses and alliances shift within the house, the primary wish of Scout OP's family is for him to complete his journey honorably. Winning the title would be a notable achievement, but walking away with head held high holds far greater value.",
+          "Ultimately, his mother hopes that when the doors finally open for him to leave, he will look back at his tenure with pride in how he managed difficult personalities and maintained his composure under pressure."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Scout OP's mother recently opened up in an exclusive interview about a distressing incident on Bigg Boss 20 where Qazi Touqeer allegedly spat in her son's ear. She expressed her surprise at Tanmay's unusually calm and restrained reaction to the disrespectful behavior, noting that she ultimately wants him to prioritize his self-respect over winning the trophy."
+        ]
+      }
+    ],
+    "facts": [
+      "Scout OP's real name is Tanmay Singh.",
+      "Tanmay Singh's mother is Sasmita Singh.",
+      "Salman Khan hosts Bigg Boss 20.",
+      "Qazi Touqeer allegedly spat in Tanmay's ear during an incident on the show.",
+      "The interview was conducted by Filmibeat Assistant Editor Aakash Kumar."
+    ],
+    "entities": {
+      "people": [
+        "Tanmay Singh",
+        "Sasmita Singh",
+        "Qazi Touqeer",
+        "Salman Khan",
+        "Aakash Kumar"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Scout OP Bigg Boss 20",
+      "Tanmay Singh mother interview",
+      "Qazi Touqeer spitting incident",
+      "Bigg Boss 20 Scout OP Qazi Touqeer",
+      "Sasmita Singh Filmibeat interview"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scoutmotherexclusivebiggboss20d1-61631794244661.jpg",
+        "caption": "Bigg Boss 20: Scout OP's Mother Opens Up About The Shocking Qazi Touqeer Spitting Incident",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 23:10:51 +0530"
+  },
+  "17g07r8": {
+    "id": "17g07r8",
+    "type": "news",
+    "headline": "Ole Miss Under Investigation Following Viral Video of Students Making Monkey Noises at Black Peers' Apartment",
+    "dek": "A disturbing clip shared on social media shows university students exhibiting racist behavior outside an apartment housing Black students, prompting swift condemnation and an official inquiry from the administration.",
+    "body": [
+      {
+        "h": "The Disturbing Incident Unfolds on Camera",
+        "p": [
+          "A shocking video circulating online has captured a distressing episode of racial harassment on a college campus. The footage, recorded by a security device, documents three female students walking past an apartment occupied by Black students during the late hours of a Friday night.",
+          "As the group passes the doorway, two of the individuals openly mimic monkey sounds and physical gestures directed specifically at the home. Meanwhile, the third companion remains silent, merely glancing toward the entrance while continuing along her way without intervening or reporting the conduct."
+        ]
+      },
+      {
+        "h": "Social Media Outrage and Identification",
+        "p": [
+          "The upsetting recording gained widespread traction after being uploaded to TikTok by student Jakiyra Metcalf. In her caption, she directly tagged the educational institution to demand accountability and public acknowledgement of the unacceptable actions taking place within the community.",
+          "In the comment section of her post, the uploader made a startling discovery known to the residents. She revealed that the individuals captured participating in the harassment actually reside directly above the victims as their upstairs neighbors."
+        ]
+      },
+      {
+        "h": "University Administration Response",
+        "p": [
+          "School officials issued a strong statement following the rapid spread of the clip across digital platforms. A university spokesperson made it clear that the institution completely condemns the hurtful, offensive, and unacceptable conduct displayed in the recording.",
+          "The administration confirmed that an active investigation is already underway to address the situation thoroughly. Additionally, representatives reached out directly to the targeted students to offer institutional resources, information, and support systems."
+        ]
+      },
+      {
+        "h": "Commitment to Campus Safety",
+        "p": [
+          "In their official communication, leadership emphasized their dedication to upholding a secure and welcoming environment for every member of the student body. They outlined ongoing internal processes aimed at guaranteeing the overall well-being and security of the entire campus community.",
+          "The school continues to review the digital evidence provided by the students to determine appropriate next steps regarding those involved in the incident."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A viral video captured two university students making monkey noises outside their Black peers' apartment while a third companion remained silent. The footage was shared on TikTok by Jakiyra Metcalf, leading university officials to condemn the actions, launch an investigation, and offer support to the targeted students."
+        ]
+      }
+    ],
+    "facts": [
+      "The incident occurred on Friday night.",
+      "Three girls were caught walking past the apartment on a ring camera.",
+      "Two of the women made monkey noises and gestures toward the door.",
+      "Jakiyra Metcalf posted the clip on TikTok.",
+      "The individuals on camera are upstairs neighbors of the victims."
+    ],
+    "entities": {
+      "people": [
+        "Jakiyra Metcalf"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Ole Miss students",
+      "Ole Miss monkey noises",
+      "Jakiyra Metcalf TikTok",
+      "Ole Miss viral video"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/b5/16by9/2026/11/09/b593a55538ed47fbbe12a8e055d2af2c_xl.png",
+        "caption": "Ole Miss Under Investigation Following Viral Video of Students Making Monkey Noises at Black Peers' Apartment",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-09T09:32:54-08:00"
   }
 };
