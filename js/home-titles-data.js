@@ -22287,5 +22287,573 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-16",
     "popularity": 0.3721
+  },
+  "1807995": {
+    "id": 1807995,
+    "type": "movie",
+    "title": "Postcards for Christmas",
+    "poster_path": "/aC3i0Dnm3hEDKuqVnMVPbP76rRg.jpg",
+    "backdrop_path": "/sAdFWmFSKDs5fzXRLpIW9QG4nct.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Hannah Norton moves to Mistletoe Valley for the holidays to work at the post office alongside her best friend from college. She discovers that the post office is full of undeliverable mail, including several love letters from the same man. Hannah sets out to solve the mystery - with the help of Ford Montgomery, a DJ at a local radio station.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-08",
+    "popularity": 2.8881
+  },
+  "313738": {
+    "id": 313738,
+    "type": "tv",
+    "title": "One of a Kind Romance",
+    "poster_path": "/l9oQ1Ql8DJqYnrDyU85fAPYTmrD.jpg",
+    "backdrop_path": "/pSsJ2qQypNVzLNYKV6ixORDW7kM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A romance driven by personal desire that unfolds when top actor Tak Mu-i and idol Ryu Min enter the ordinary daily life of job seeker Gong Yu-il.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "published_at": "2026-11-09",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-09",
+    "popularity": 3.0436
+  },
+  "499371": {
+    "id": 499371,
+    "type": "movie",
+    "title": "Titanic",
+    "poster_path": "/96HzElhMpJ1FxMNwWFULRiE49kX.jpg",
+    "backdrop_path": "/mKqBgSkWbU1TH3kYTSFJz1SGJOj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [
+      {
+        "name": "Chaupal Amazon Channel",
+        "logo_path": "/1r7E9yOISXYPFN6ZkqtRUeJV1vs.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-13",
+    "popularity": 0.5696
+  },
+  "1487113": {
+    "id": 1487113,
+    "type": "movie",
+    "title": "Sardaarji 3",
+    "poster_path": "/ncLqJpmFlTxHbgeVRrdKZrHGfUl.jpg",
+    "backdrop_path": "/kZ2pgjmDZPnCJgjhEwU2ad97v1B.jpg",
+    "vote_average": 7.0,
+    "vote_count": 2,
+    "overview": "Legendary ghosthunter Jaggi returns with his ghost buddy Pinky to take on a haunted English castle. As the spirit defies all rules and a dark secret comes to light, Jaggi faces his toughest challenge yet. Will he discover the truth before it's too late?",
+    "industry": "bollywood",
+    "original_language": "pa",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "pa"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2025-06-27",
+    "popularity": 1.3308
+  },
+  "1796445": {
+    "id": 1796445,
+    "type": "movie",
+    "title": "A Minute of Silence",
+    "poster_path": "/hw3rYX0nQl39mtlZbg2aKLIaZzT.jpg",
+    "backdrop_path": "/2UWgVeqyEGXAaKipHGn089PIjCH.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On 14 March 1978, 17-year-old Rico Carpaye was killed by far-right militants on the island of Réunion. Those responsible went unpunished. Nearly 50 years later, this desktop documentary unravels the story behind the silence surrounding the crime.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "RE"
+    ],
+    "production_countries": [
+      "RE",
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.2914
+  },
+  "1773357": {
+    "id": 1773357,
+    "type": "movie",
+    "title": "Holiday Unplugged",
+    "poster_path": "/84OvOD0gKJEiyyt0MxGguQSOqGT.jpg",
+    "backdrop_path": "/1qF3J2YtdmgN7eO8WUg817qVvFE.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After losing treasured videos of her late husband, a widowed mother plans a screen-free Christmas while secretly searching for the originals and finding unexpected romance along the way.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-07",
+    "popularity": 5.4488
+  },
+  "1819380": {
+    "id": 1819380,
+    "type": "movie",
+    "title": "Tony Xavier",
+    "poster_path": "/9VkKHghIehT3Hmvi94CBOK485b9.jpg",
+    "backdrop_path": "/miimJ0Eji3cmhw3t2C334GhPIJw.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A Chartered Accountant who acknowledges that his death is close at hand and becomes isolated in life altogether, loses his mental state and seeks refuge in the pleasure of eliminating the happiness of people around him forever, with a pinch of sadistic desires.",
+    "industry": "bollywood",
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-05",
+    "popularity": 2.124
+  },
+  "1796353": {
+    "id": 1796353,
+    "type": "movie",
+    "title": "Bahía Honda",
+    "poster_path": "/AhZgFI3ei0OG5Hp1feGZWpAvda6.jpg",
+    "backdrop_path": "/ihux3cRN1NRbsMO3fAZtQ9YRg5q.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Laboring in a Cuban ship graveyard, an almost apocalyptic world of fire and creaking sheets of steel, Pitufo dreams of a better life. An atmospheric, magical glimpse into a life on society's margins.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "CU"
+    ],
+    "production_countries": [
+      "CU",
+      "FR",
+      "NO"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.9813
+  },
+  "1765587": {
+    "id": 1765587,
+    "type": "movie",
+    "title": "A Ghost at Gilmore House",
+    "poster_path": "/d4r98JUrwpIbzRIWf7kXmAvY1Bq.jpg",
+    "backdrop_path": null,
+    "vote_average": 2.0,
+    "vote_count": 1,
+    "overview": "As part of a school project, Rachel begins investigating the fifty-year-old murder of infamous paranormal investigator Lucy Carter, a case the supernatural community has long attributed to an angry spirit. But as Rachel delves deeper into Lucy’s past, long-buried secrets begin to surface, raising questions about what really happened that night.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-05",
+    "popularity": 2.8136
+  },
+  "1795686": {
+    "id": 1795686,
+    "type": "movie",
+    "title": "In un battito",
+    "poster_path": "/cuYB8P1i9iySjMop9HJaGlMywE6.jpg",
+    "backdrop_path": "/cv5YYwBqEjEd42B7cA45G8IGzLl.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The film follows the months after December 1, 2024, when Edoardo Bove suddenly collapses on the pitch during Fiorentina’s match against Inter. The incident disrupts what seemed to be a clear path for one of Italian football’s brightest young talents and marks the beginning of an entirely new chapter in his life. From that moment on, Edoardo faces a suddenly uncertain future: will he play again? Will he still be able to do so in Italy? And who is Edoardo beyond football?",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.4078
+  },
+  "1615596": {
+    "id": 1615596,
+    "type": "movie",
+    "title": "Best Pancakes in the County",
+    "poster_path": "/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
+    "backdrop_path": "/34eWzsWpZa17DqT8KeL5InlvRK7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Over the course of one explosive night, a small-town diner becomes the epicenter of a deadly standoff involving rogue federal agents, a fast-talking con man with a dangerous past, and a waitress harboring secrets of her own.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-03",
+    "popularity": 4.1928
+  },
+  "1786551": {
+    "id": 1786551,
+    "type": "movie",
+    "title": "Aroma",
+    "poster_path": "/kKb1s1g0kZMcYodOQ3OaQ98rkeP.jpg",
+    "backdrop_path": "/3f33ktqbpTaUJL6QEElLk0urevr.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Yang, a nurse with an unusually selective sense of smell, can tolerate only disinfectant and lemon—until she encounters the scent of Fang, a man in a vegetative state. As she imagines her way into his memories, guilt and forbidden desires, the boundaries between intimacy, projection and death begin to dissolve. Moving between waking life and dream, Aroma is a dark contemporary fairy tale about the body, desire, and love that refuses to disappear when the body does.",
+    "industry": "world",
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "production_countries": [
+      "KR",
+      "US",
+      "FR"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.7399
+  },
+  "1773826": {
+    "id": 1773826,
+    "type": "movie",
+    "title": "La Befana",
+    "poster_path": "/1g5r2B6RF0rUkbDcdL6TGwHm91E.jpg",
+    "backdrop_path": "/2QuKk3iLxnwxVhj9z0XdCCAmdgV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 1.0648
+  },
+  "1771047": {
+    "id": 1771047,
+    "type": "movie",
+    "title": "A Match for Mr. Christmas",
+    "poster_path": "/2dSl2lGLY4xK26uke4Ofh1PFuQ1.jpg",
+    "backdrop_path": "/vw1jNsQ8OpxGywlsSNqwg8Tcldd.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A no-nonsense PR executive Lori agrees to help a charmingly irresponsible toy empire heir Emmett find love and prove he’s the right man to take over the company when his father retires – all by Christmas. But after a string of hilariously failed dates, she discovers the perfect match might be the one she never planned on: herself.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.9074
+  },
+  "1748010": {
+    "id": 1748010,
+    "type": "movie",
+    "title": "The Neighbourhood is Changing",
+    "poster_path": "/5YPKXnTQgxzQQb9FqVtCxiiKZO4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Documentary on the making and legacy of Mulberry Street featuring new interviews with cast and crew",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.5626
+  },
+  "1733772": {
+    "id": 1733772,
+    "type": "movie",
+    "title": "¿Quién hace la...? - 1979",
+    "poster_path": "/oul01lzUxrjqP84Y5ROq5FyFFfp.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "At the end of the 70s, Eduardo Kabral continues with his TV show presenting all the members of his crew.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "production_countries": [
+      "MX"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.5355
+  },
+  "1698273": {
+    "id": 1698273,
+    "type": "movie",
+    "title": "Trifecta",
+    "poster_path": "/sro25wiAQiKsShaENQa5hEmHm1H.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the night of her 21st birthday, a sexually frustrated virgin tries to convince her celibate boyfriend to have sex with her.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "AU"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.2044
+  },
+  "1688811": {
+    "id": 1688811,
+    "type": "movie",
+    "title": "Midnight Knocks at the Door",
+    "poster_path": "/tsukLHj8O7P22FRbfR0jc4fvhVz.jpg",
+    "backdrop_path": "/eLG5Kr607EHt87Za4CVV81J9LTG.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Stripped of color and clothes, ready to be cleansed. A young man's midnight bath becomes a surreal nightmare the moment he realizes he is not alone.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR",
+      "PL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.369
+  },
+  "1644267": {
+    "id": 1644267,
+    "type": "movie",
+    "title": "Entrevista com a Bruxa",
+    "poster_path": "/6RZvTnIHPEaJCj0dUaTFmbsg2uM.jpg",
+    "backdrop_path": "/5gzDoUxM5Bn8RE2SMdVRQJETDxP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.6699
+  },
+  "1624945": {
+    "id": 1624945,
+    "type": "movie",
+    "title": "One Sweet Hour",
+    "poster_path": "/dz8VMnHlt6LZ4gMhK5KVWxBUUfG.jpg",
+    "backdrop_path": "/sYUKZYBM8TAhadV83EmNJiOAVqx.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An ageing Elvis impersonator finally faces up to his demons as he travels through the Irish midlands with his long-lost brother, who has recently quit his life in a monastery.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "IE"
+    ],
+    "production_countries": [
+      "IE"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.7018
   }
 };

@@ -183,6 +183,30 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-07",
+      "date_kind": "release",
+      "id": 1773357,
+      "providers": [
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "FR",
       "date": "2026-11-07",
       "date_kind": "digital",

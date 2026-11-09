@@ -98415,5 +98415,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-09T09:32:54-08:00"
+  },
+  "ycz0vj": {
+    "id": "ycz0vj",
+    "type": "news",
+    "headline": "Suriya's Scene Surpasses Rs 116 Crore Worldwide in Opening Weekend",
+    "dek": "Directed by Jithu Madhavan and starring Suriya, Scene has pulled in robust numbers across domestic and overseas markets during its first three days.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "Suriya's latest cinematic outing has wrapped up its initial three-day run with formidable global figures. The action-comedy has pulled in a massive worldwide gross of Rs 116.65 crore.",
+          "International territories have contributed heavily to this stellar tally, pushing the cumulative earnings well past the hundred-crore mark right out of the gate."
+        ]
+      },
+      {
+        "h": "Domestic Collections and Sunday Surge",
+        "p": [
+          "Within the domestic market, the feature recorded a gross of Rs 72.90 crore alongside net earnings touching Rs 62.75 crore. Sunday brought a notable uptick in business for the film.",
+          "Audiences turned out in high numbers on November 8, generating a domestic net collection of Rs 23.25 crore. This marked a solid 14.3 per cent growth compared to the figures seen on Saturday."
+        ]
+      },
+      {
+        "h": "Occupancy Rates and Show Counts",
+        "p": [
+          "The theatrical run saw robust attendance metrics across the country over the weekend. On Sunday alone, the project recorded an overall occupancy of 70.7 per cent spanning 6,001 shows.",
+          "This followed a Saturday that maintained 62.5 per cent occupancy across 5,687 shows, bringing the cumulative total to 17,855 shows across India for the entire opening weekend."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown",
+        "p": [
+          "Domestic earnings were spearheaded primarily by the Tamil version, which brought in a substantial Rs 51.90 crore net.",
+          "Meanwhile, the Telugu version contributed an additional Rs 10.85 crore net to the domestic tally, showcasing a strong multi-language appeal."
+        ]
+      },
+      {
+        "h": "Overseas Market Performance",
+        "p": [
+          "International audiences played a crucial part in the opening weekend success, driving an overseas gross of Rs 43.75 crore.",
+          "This figure accounts for roughly 37.5 per cent of the total worldwide business, highlighting the considerable global pull of the leading cast."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Character Details",
+        "p": [
+          "Helmed by Jithu Madhavan, the project marks the director's inaugural Tamil venture following his work on Malayalam titles. The main cast features Suriya alongside Nazriya Nazim and Naslen.",
+          "Suriya portrays Inbaraj, a police officer tracking a case mirroring the Perfume Killer case, while Nazriya plays his trusted partner Maya. The production also features a special cameo by Jyotika and is backed by Zhagaram Studios and 2D Entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's action-comedy Scene concluded its opening weekend with a worldwide gross of Rs 116.65 crore, driven by strong domestic numbers and robust international contributions. The Jithu Madhavan directorial demonstrated consistent daily growth, culminating in a peak Sunday collection and high theatre occupancy across multiple language versions."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya's Scene grossed Rs 116.65 crore globally in its first three days.",
+      "The film's India gross collection stands at Rs 72.90 crore.",
+      "Domestic net earnings reached Rs 62.75 crore.",
+      "The film collected Rs 23.25 crore net on Sunday, November 8.",
+      "Saturday's net collection was Rs 20.35 crore.",
+      "Opening-day collection stood at Rs 19.15 crore net.",
+      "Overall occupancy on Sunday was 70.7 per cent across 6,001 shows.",
+      "Overall occupancy on Saturday was 62.5 per cent across 5,687 shows.",
+      "Total show count across India reached 17,855 during the opening three days.",
+      "Tamil version domestic earnings reached Rs 51.90 crore net.",
+      "Telugu version added Rs 10.85 crore to the total.",
+      "Overseas gross stands at Rs 43.75 crore.",
+      "Nazriya Nazim makes her return to Tamil cinema after 12 years."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nazriya Nazim",
+        "Naslen",
+        "Jithu Madhavan",
+        "Jyotika",
+        "Jai",
+        "Rohit Panikker",
+        "Mithun Chakraborty",
+        "Allu Arjun",
+        "Nayanthara",
+        "Keerthy Suresh",
+        "Upasana"
+      ],
+      "titles": [
+        "Scene",
+        "Romancham",
+        "Aavesham",
+        "Thirumanam Enum Nikkah"
+      ]
+    },
+    "keywords": [
+      "Suriya Scene",
+      "Scene box office",
+      "Scene Rs 116 crore",
+      "Jithu Madhavan Scene"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/scene11794215655.jpg",
+        "caption": "Suriya's Scene Surpasses Rs 116 Crore Worldwide in Opening Weekend",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-09T14:55:55+05:30"
+  },
+  "wvc0a5": {
+    "id": "wvc0a5",
+    "type": "news",
+    "headline": "One-of-a-Kind Romance Opens Its Drama Hangout for Episodes 1-12",
+    "dek": "Fans can now join the conversation as the TVING romantic comedy series starring Joy and Kim Hyun-jin launches its dedicated hangout space for episodes 1 through 12.",
+    "body": [
+      {
+        "h": "Introduction to the Drama Hangout",
+        "p": [
+          "Viewers and fans of Korean television dramas have a new community space to discuss the latest broadcast developments. The platform has officially opened a dedicated discussion area for the romantic comedy series titled One-of-a-Kind Romance.",
+          "This interactive space covers the early portion of the broadcast run, specifically focusing on the first twelve episodes. Enthusiasts can share their thoughts, predictions, and real-time reactions as the narrative unfolds on screen."
+        ]
+      },
+      {
+        "h": "Plot and Premise Overview",
+        "p": [
+          "The narrative centers around an unlikely professional pairing between an ambitious author and a prominent celebrity. A struggling novelist finds unexpected employment managing one of the most recognizable actors in the South Korean entertainment industry.",
+          "Although their initial encounters are marked by friction and negative first impressions, professional proximity eventually alters their dynamic. Working closely together bridges the gap between them, gradually transforming their professional obligation into mutual appreciation and romantic affection."
+        ]
+      },
+      {
+        "h": "Starring Cast Members",
+        "p": [
+          "The romantic comedy brings together popular performers in its lead roles. K-pop artist and actress Joy, widely recognized as a member of Red Velvet, takes on a prominent starring role in the series.",
+          "She stars alongside actor Kim Hyun-jin, who portrays the famous actor managed by the struggling novelist. Their on-screen chemistry forms the emotional anchor of the romantic storyline."
+        ]
+      },
+      {
+        "h": "Platform and Broadcast Details",
+        "p": [
+          "The television series streams primarily on the digital platform TVING. It occupies a notable spot within the streaming service's weekly lineup of serialized content.",
+          "The current discussion hub invites audiences to engage with the show during its active broadcast schedule, encouraging viewers to exchange opinions on specific plot developments."
+        ]
+      },
+      {
+        "h": "Community Engagement and Spoilers",
+        "p": [
+          "The newly launched hangout serves as a central hub for community interaction. Participants are encouraged to converse freely about narrative arcs, character growth, and romantic developments.",
+          "Because the discussion space is designed for active viewers, administrators have issued standard advisories regarding potential plot reveals. Followers navigating the community are advised to anticipate details concerning recent episodes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The TVING romantic comedy series One-of-a-Kind Romance has opened a community discussion space for its first twelve episodes. The show stars Red Velvet member Joy and Kim Hyun-jin in a story about a struggling novelist who becomes the manager of a famous actor."
+        ]
+      }
+    ],
+    "facts": [
+      "One-of-a-Kind Romance is a rom-com series airing on TVING.",
+      "The drama stars Joy from Red Velvet and actor Kim Hyun-jin.",
+      "The story follows a struggling novelist who becomes a manager to a famous actor.",
+      "A Drama Hangout was opened for episodes 1-12 of the series."
+    ],
+    "entities": {
+      "people": [
+        "Joy",
+        "Kim Hyun-jin"
+      ],
+      "titles": [
+        "One-of-a-Kind Romance"
+      ]
+    },
+    "keywords": [
+      "One-of-a-Kind Romance",
+      "Joy",
+      "Kim Hyun-jin",
+      "One-of-a-Kind Romance TVING"
+    ],
+    "images": [
+      {
+        "url": "https://dramabeans.com/wp-content/uploads/2026/11/OneOfAKindRomance-reviewb.jpg",
+        "caption": "One-of-a-Kind Romance Opens Its Drama Hangout for Episodes 1-12",
+        "source": "Dramabeans"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:00:43 +0000"
+  },
+  "6efqgn": {
+    "id": "6efqgn",
+    "type": "news",
+    "headline": "Anbil Avan OTT Release Date Updates: When And Where To Watch The Ashok Selvan Starrer Online",
+    "dek": "Discover the latest updates surrounding the digital premiere of the Tamil romantic action thriller Anbil Avan, starring Ashok Selvan and Preity Mukhundhan.",
+    "body": [
+      {
+        "h": "Introduction to the Digital Premiere",
+        "p": [
+          "The Tamil romantic action thriller Anbil Avan has captured significant attention following reports regarding its upcoming digital streaming debut. Audiences eagerly await official confirmation about the platform and exact time the movie will become accessible for home viewing.",
+          "Reports indicate that the digital premiere could take place roughly six weeks after the feature originally debuted in cinemas, maintaining a standard theatrical window for the production."
+        ]
+      },
+      {
+        "h": "Theatrical Background and Release Timeline",
+        "p": [
+          "Directed by R. Kaarthikeyan, the film originally landed in movie theaters on October 2, 2026. The theatrical run allowed audiences to experience the large-scale action sequences and romantic drama on the big screen.",
+          "With theatrical screenings progressing, discussions have naturally shifted toward the digital release timeline, positioning the streaming debut as a major milestone for fans unable to catch the title in cinemas."
+        ]
+      },
+      {
+        "h": "Plot and Narrative Premise",
+        "p": [
+          "The story centers on Suriya and Iyal, a newly married couple who choose to build a life together despite facing strong family disapproval. Having spent seven years in a relationship, the hotel management graduates decide to quit their jobs at a five-star establishment to chase Iyal's ambition of establishing a vintage, plant-filled homestay.",
+          "After relocating to a hill station, they persuade a former queen to sell them her historic bungalow. However, their peaceful aspirations are upended when they inadvertently become entangled in a local network of corruption involving a lawyer, an MLA, and a police inspector."
+        ]
+      },
+      {
+        "h": "Cast and Character Highlights",
+        "p": [
+          "Ashok Selvan leads the cast in the male protagonist role, delivering an engaging performance alongside Preity Mukhundhan, who stars opposite him as the female lead.",
+          "The supporting lineup features prominent actors including Sabumon Abdusamad, Kadirbalu, and Maha Delhi Ganesh, each portraying pivotal characters that influence the narrative arc."
+        ]
+      },
+      {
+        "h": "Directorial Debut and Creative Team",
+        "p": [
+          "The project marks the directorial debut of R. Kaarthikeyan, who also collaborated on the screenplay alongside Vignesh Raja, Ashok Selvan, and Ashameera Aiyappan. The original story was conceived by Vignesh Raja.",
+          "Production was managed by K. Karunamoorthy, Ashok Selvan, and Abinaya Selvam, with Ayngaran International and Happy High Pictures associated as production banners."
+        ]
+      },
+      {
+        "h": "Technical Craft and Crew Brilliance",
+        "p": [
+          "Govind Vasantha crafted the musical score and background themes, while Gowtham Rajendran managed the cinematography and Selva RK oversaw the editing.",
+          "Action choreography was designed by Peter Hein, and Manikandan Srinivasan served as the art director. Additional credits include Binita Ramanathan for costumes, Vijay Rathinam for sound design, A.M. Rahmathulla for audiography, G. Balaji as colorist, and Gopi Prasannaa for publicity design."
+        ]
+      },
+      {
+        "h": "Expected Streaming Schedule",
+        "p": [
+          "According to a report published by The Times of India, the film is anticipated to make its digital debut on November 13, 2026. This timeline places the streaming release approximately six weeks following its cinematic arrival.",
+          "Viewers should note that an official announcement detailing the streaming platform and available audio languages remains pending. Until the makers or streaming partners issue formal confirmation, November 13 stands as the reported target date."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that the Tamil romantic action thriller Anbil Avan, starring Ashok Selvan and Preity Mukhundhan, is slated for a digital streaming premiere on November 13, 2026. Directed by R. Kaarthikeyan, the film originally arrived in theaters on October 2, 2026, though official announcements regarding the streaming platform and language availability are still awaited."
+        ]
+      }
+    ],
+    "facts": [
+      "Anbil Avan was released in theatres on October 2, 2026.",
+      "The film is reported to premiere digitally on November 13, 2026.",
+      "Ashok Selvan and Preity Mukhundhan play the lead roles.",
+      "R. Kaarthikeyan is the director of the film."
+    ],
+    "entities": {
+      "people": [
+        "Ashok Selvan",
+        "Preity Mukhundhan",
+        "R. Kaarthikeyan",
+        "Sabumon Abdusamad",
+        "Kadirbalu",
+        "Maha Delhi Ganesh",
+        "Vignesh Raja",
+        "Ashameera Aiyappan",
+        "K. Karunamoorthy",
+        "Abinaya Selvam",
+        "Govind Vasantha",
+        "Gowtham Rajendran",
+        "Selva RK",
+        "Peter Hein",
+        "Manikandan Srinivasan",
+        "Binita Ramanathan",
+        "Vijay Rathinam",
+        "A.M. Rahmathulla",
+        "G. Balaji",
+        "Gopi Prasannaa"
+      ],
+      "titles": [
+        "Anbil Avan"
+      ]
+    },
+    "keywords": [
+      "Anbil Avan OTT release date",
+      "Ashok Selvan Anbil Avan",
+      "Preity Mukhundhan film",
+      "R Kaarthikeyan director"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/anbilavan-20611794248738.jpg",
+        "caption": "Anbil Avan OTT Release Date Updates: When And Where To Watch The Ashok Selvan Starrer Online",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 00:05:49 +0530"
+  },
+  "1isxxto": {
+    "id": "1isxxto",
+    "type": "news",
+    "headline": "Ramayana Vs Dhurandhar 2 Box Office: Ranbir Kapoor Or Ranveer Singh – Who Had Greater ROI After Opening Day?",
+    "dek": "Compare the opening-day box office collections and return on investment of Ranbir Kapoor's Ramayana and Ranveer Singh's Dhurandhar 2.",
+    "body": [
+      {
+        "h": "Introduction To The Box Office Clash",
+        "p": [
+          "A fascinating financial contrast has emerged in Bollywood between Ranbir Kapoor's ambitious mythological spectacle and Ranveer Singh's high-octane action sequel, Dhurandhar 2. While both feature prominent star power and massive scale, their initial box office performances relative to their reported budgets present starkly different economic realities.",
+          "When comparing opening-day numbers against total investments, the financial efficiency of each project reveals distinct strategies in modern Indian cinema. Industry trackers and audiences alike have closely monitored these figures to understand how high-budget productions perform out of the gate."
+        ]
+      },
+      {
+        "h": "Dhurandhar 2 Opening Day Performance",
+        "p": [
+          "Directed by Aditya Dhar, Dhurandhar 2: The Revenge made a massive impact at the box office upon its release on March 19, 2026. According to Sacnilk, the action thriller pulled in a remarkable Rs 102.55 crore in India net collections on its opening day.",
+          "The film's domestic gross reached Rs 123 crore, while its worldwide opening-day gross climbed to approximately Rs 226.60 crore. Bolstered by paid previews on March 18, the feature established a formidable early lead in domestic earnings."
+        ]
+      },
+      {
+        "h": "Ramayana Opening Day Performance",
+        "p": [
+          "Starring Ranbir Kapoor, Sai Pallavi, and Yash, Nitesh Tiwari's Ramayana arrived in theatres on November 5, 2026. The mythological venture recorded a strong opening-day India net collection of Rs 64.85 crore.",
+          "The film's domestic gross stood at Rs 77.50 crore, with a worldwide opening-day gross touching Rs 128.75 crore. Unlike its competitor, Ramayana demonstrated a balanced pan-India appeal across multiple linguistic versions."
+        ]
+      },
+      {
+        "h": "Language-Wise Revenue Breakdown",
+        "p": [
+          "Dhurandhar 2 relied overwhelmingly on its Hindi version, which contributed Rs 99.10 crore to its opening-day total. Regional contributions included Rs 2.12 crore from Telugu, Rs 1.16 crore from Tamil, Rs 9 lakh from Malayalam, and Rs 8 lakh from Kannada, alongside Rs 43 crore from pre-release paid previews.",
+          "In contrast, Ramayana achieved broader geographical distribution across regional markets. Its opening figures included Rs 47.50 crore from Hindi, Rs 7.25 crore from Kannada, Rs 6 crore from Telugu, Rs 2.60 crore from Tamil, and Rs 1.50 crore from Malayalam."
+        ]
+      },
+      {
+        "h": "The Budget Factor And Financial Scale",
+        "p": [
+          "The most critical divergence between the two titles lies in their financial scale and reported production costs. The two-part Ramayana project carries a reported overall investment of approximately Rs 4,000 crore, covering both instalments, production, and promotional expenses.",
+          "On the other hand, the reported combined production cost for Dhurandhar and Dhurandhar 2 stands at a much more modest Rs 255 crore. This vast disparity in financial exposure profoundly shapes the return on investment calculations for both movies."
+        ]
+      },
+      {
+        "h": "Opening-Day Return On Investment",
+        "p": [
+          "When evaluating opening-day net collections against total reported budgets, Dhurandhar 2 recovered approximately 40.22 per cent of its combined franchise investment on day one. Its efficient cost structure allowed for a rapid percentage recovery.",
+          "Meanwhile, Ramayana recovered roughly 1.62 per cent of its expansive two-film budget through its opening-day domestic net figures. This highlights the heavy financial responsibility carried by an expansive cinematic universe designed for long-term global reach."
+        ]
+      },
+      {
+        "h": "Significance And Long-Term Prospects",
+        "p": [
+          "While Dhurandhar 2 clearly wins the opening-day ROI percentage battle, analysts note that Ramayana's journey extends far beyond a single day. Its global visual effects ambitions and international theatrical potential remain key factors in its ultimate commercial success.",
+          "Additionally, extended holiday periods, sustained audience reception, and non-theatrical revenues like streaming, satellite, and music rights will play a decisive role in determining the final financial verdict for both heavyweights."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's Ramayana and Ranveer Singh's Dhurandhar 2 debuted with impressive box office numbers but faced vastly different budget realities. Although Dhurandhar 2 secured a significantly higher opening-day budget recovery due to its lower cost, Ramayana launched a much larger multi-part cinematic undertaking whose ultimate financial success depends on its entire theatrical and ancillary run."
+        ]
+      }
+    ],
+    "facts": [
+      "Dhurandhar 2 released on March 19, 2026.",
+      "Dhurandhar 2 collected Rs 102.55 crore India net on its opening day.",
+      "Ramayana released on November 5, 2026.",
+      "Ramayana collected Rs 64.85 crore India net on its opening day.",
+      "The combined budget of the Dhurandhar franchise is approximately Rs 255 crore.",
+      "The two-part Ramayana project has a reported investment of approximately Rs 4,000 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Ranveer Singh",
+        "Sai Pallavi",
+        "Yash",
+        "Aditya Dhar",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Dhurandhar 2: The Revenge",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Dhurandhar 2 opening day",
+      "Ranbir Kapoor Ramayana collection",
+      "Ranveer Singh Dhurandhar 2 ROI"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156484406,thumbsize-2507075,width-1280,height-720,resizemode-75/156484406.jpg",
+        "caption": "Ramayana Vs Dhurandhar 2 Box Office: Ranbir Kapoor Or Ranveer Singh – Who Had Greater ROI After Opening Day?",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T18:52:38Z"
   }
 };
