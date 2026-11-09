@@ -99193,5 +99193,364 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 18:00:49 +0000"
+  },
+  "14yj792": {
+    "id": "14yj792",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Day 6 Box Office Collection Updates",
+    "dek": "An overview of the box office performance, regional collections, and theatre occupancy for Ramayana: Part 1 as the epic film continues its theatrical run.",
+    "body": [
+      {
+        "h": "Introduction to the Theatrical Run",
+        "p": [
+          "The cinematic release of Ramayana: Part 1 has generated substantial conversation across the entertainment industry as box office tracking continues into its first week. Industry analysts and trade trackers are closely monitoring the daily figures, audience turnout, and regional language performance to gauge the overall commercial reception of this grand mythological project.",
+          "As the film moves through its initial weekday screenings, attention remains focused on whether the momentum established during the opening weekend can be sustained across various domestic and international territories."
+        ]
+      },
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "The film kicked off its box office journey on Day 1 with an impressive all-language collection of 62.5 crore rupees net, which included 45 crore rupees from the Hindi version alone, alongside contributions from Kannada, Telugu, Tamil, and Malayalam markets. Day 2 saw a slight adjustment with 47.75 crore rupees net, before roaring back on Day 3 with a massive surge to 70.75 crore rupees net.",
+          "Day 4 brought in 55 crore rupees net across all languages, while Day 5 recorded a phenomenal total of 108.75 crore rupees net, driven by strong numbers in the Hindi belt and steady regional earnings."
+        ]
+      },
+      {
+        "h": "Occupancy Trends in Hindi Version",
+        "p": [
+          "Audience engagement for the Hindi version of Ramayana: Part 1 fluctuated across morning, afternoon, and night shows during the first few days. On Day 1, overall occupancy reached 30.17 percent, peaking during night shows at 45 to 50 percent.",
+          "Day 2 registered an overall occupancy of 22.83 percent, which steadily improved to 38.67 percent on Day 3. Following a Day 4 overall occupancy of 27.5 percent, Day 5 witnessed a dramatic spike to a remarkable 67.5 percent overall, with morning shows starting strong at 50 percent and afternoon shows hitting 80 percent."
+        ]
+      },
+      {
+        "h": "Regional Language Breakdown",
+        "p": [
+          "Beyond the primary Hindi market, Ramayana: Part 1 has drawn audiences from several regional language sectors contributing to the overall box office tally. On the opening day, the Kannada version brought in 7.5 crore rupees, Telugu contributed 6 crore rupees, Tamil earned 2.5 crore rupees, and Malayalam added 1.5 crore rupees.",
+          "These regional contributions remained relatively steady throughout the subsequent days, with Kannada collections peaking around 7.25 crore rupees and Telugu touching 6.25 crore rupees on select days, showcasing a pan-Indian appeal."
+        ]
+      },
+      {
+        "h": "Total Earnings and Global Figures",
+        "p": [
+          "Based on early estimates and industry reports, the cumulative India net collection for Ramayana: Part 1 has reached 344.75 crore rupees, with the Hindi version accounting for 259 crore rupees of that total. The India gross stands at an estimated 406.8 crore rupees.",
+          "On the international front, overseas markets have contributed 23.95 million dollars, translating to approximately 226.35 crore rupees. This brings the estimated worldwide gross collection to a staggering 633.15 crore rupees."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has accumulated an estimated India net total of 344.75 crore rupees and a worldwide gross of 633.15 crore rupees by its sixth day of release. The film demonstrated strong theatrical occupancy and regional language earnings, particularly highlighted by a massive surge on its fifth day."
+        ]
+      }
+    ],
+    "facts": [
+      "Date of report: November 10, 2026",
+      "Day 1 all-languages collection: 62.5 crore rupees net",
+      "Day 2 all-languages collection: 47.75 crore rupees net",
+      "Day 3 all-languages collection: 70.75 crore rupees net",
+      "Day 4 all-languages collection: 55 crore rupees net",
+      "Day 5 all-languages collection: 108.75 crore rupees net",
+      "Total India net collection: 344.75 crore rupees",
+      "Total India gross collection: 406.8 crore rupees",
+      "Overseas collection: 23.95 million dollars (226.35 crore rupees)",
+      "Worldwide total collection: 633.15 crore rupees"
+    ],
+    "entities": {
+      "people": [
+        "Ankur Baruah"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Part 1 collection",
+      "Ramayana Part 1 Day 6",
+      "Ramayana Part 1 occupancy"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlSy-lwaFNfOw4ob5CkaoKi6K8Rn5LgxlG5Xp_LnGre7OyNHAdw9fx4qm77xgRMLYDqbzDrYeUq5KIujzZj51X0FgvpqwdH_Pc-HqMUd59T3PX5XlI33gEJf-x1kq4EIgtYoizie6lY53AcGWBwpcxayHOW_pHPolsq8tuRL1PUpCSOiQLfAVw5e5Mbc4/w1600/ramayana-part-1-day-6-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Day 6 Box Office Collection Updates",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-10T01:38:07.892+05:30"
+  },
+  "3r1cd0": {
+    "id": "3r1cd0",
+    "type": "news",
+    "headline": "Hideo Kojima Gives High Praise to Netflix Spy Thriller Black Doves Season 2",
+    "dek": "Renowned video game auteur Hideo Kojima shares his enthusiastic review of the second season of Netflix's spy action thriller Black Doves, calling it an absolute treat that surpasses its predecessor.",
+    "body": [
+      {
+        "h": "Hideo Kojima Shares His Official Verdict",
+        "p": [
+          "Renowned Japanese video game designer Hideo Kojima has shared his official thoughts on the second season of Netflix's spy action thriller series. Taking to social media, the acclaimed creator behind the Metal Gear franchise delivered high praise for the newly released episodes.",
+          "Kojima revealed that he enjoyed the second season so much that he binge-watched the remaining episodes in a single sitting. He noted that while the first installment was great, the follow-up takes the narrative to an entirely new level."
+        ]
+      },
+      {
+        "h": "Praise for the Cast and Action-Packed Finale",
+        "p": [
+          "In his detailed review, Kojima singled out several key members of the ensemble for their standout performances. He highlighted leads Keira Knightley and Ben Whishaw as simply outstanding, alongside Kathryn Hunter as the handler of hired killers and Ella Lily Hyland as an assassin.",
+          "The celebrated game developer commended the production for its emotional depth and brilliant writing. He specifically pointed to the action-packed finale and expressed his strong desire for the platform to greenlight another season."
+        ]
+      },
+      {
+        "h": "Premise of the Netflix Spy Series",
+        "p": [
+          "Created by Joe Barton, the series follows Helen Webb, played by Keira Knightley, who lives a double life as a spy while married to Britain's Prime Minister. When her secret lover is murdered by the underworld, her shadowy employer sends in an old friend named Sam, played by Ben Whishaw, to protect her.",
+          "The sprawling cast also features Sarah Lancashire, Andrew Buchan, Andrew Koji, Omari Douglas, Sam Troughton, and numerous other supporting actors who bring the dark world of espionage and secrets to life."
+        ]
+      },
+      {
+        "h": "Critical Reception and Rotten Tomatoes Scores",
+        "p": [
+          "The second season has generated notable discussion among critics and audiences alike, holding a 94 percent score on Rotten Tomatoes, which marks an improvement over the first season's 92 percent rating. Reviewers have lauded its blend of dark comedy, espionage twists, and bloody action sequences.",
+          "At the same time, audience response reflects a 69 percent score for the second season, compared to 64 percent for the first. Critical perspectives vary, with some reviewers comparing its tonal shifts to different eras of traditional spy franchises."
+        ]
+      },
+      {
+        "h": "Kojima's Influence and Film Appreciation",
+        "p": [
+          "Hideo Kojima is widely recognized for infusing his video games with a distinct cinematic flair driven by his lifelong passion for film. He frequently utilizes social media to share his personal reviews and thoughts on various newly released entertainment media.",
+          "His endorsement of the streaming hit brings additional attention to the project, potentially encouraging more viewers to explore the espionage drama as both available seasons remain accessible on the platform."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Video game auteur Hideo Kojima shared a glowing review of Netflix's spy action thriller Black Doves season 2, praising its emotional depth, action finale, and lead performances by Keira Knightley and Ben Whishaw. The series, created by Joe Barton, holds strong critical ratings on Rotten Tomatoes alongside its second-season streaming release."
+        ]
+      }
+    ],
+    "facts": [
+      "Hideo Kojima shared his review of Black Doves season 2 on X",
+      "Black Doves season 2 was released on Netflix on November 5",
+      "Black Doves was created by Joe Barton",
+      "Keira Knightley stars as Helen Webb and Ben Whishaw stars as Sam",
+      "Black Doves season 2 holds a 94% Rotten Tomatoes score and a 69% audience score"
+    ],
+    "entities": {
+      "people": [
+        "Hideo Kojima",
+        "Keira Knightley",
+        "Ben Whishaw",
+        "Kathryn Hunter",
+        "Ella Lily Hyland",
+        "Joe Barton",
+        "Sarah Lancashire",
+        "Andrew Buchan",
+        "Andrew Koji",
+        "Omari Douglas",
+        "Sam Troughton"
+      ],
+      "titles": [
+        "Black Doves",
+        "Metal Gear",
+        "Casino Royale",
+        "Spectre"
+      ]
+    },
+    "keywords": [
+      "Black Doves season 2",
+      "Hideo Kojima Black Doves",
+      "Keira Knightley Ben Whishaw",
+      "Black Doves Netflix review"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/hideo-kojima-posing-at-the-uk-premiere-of-furiosa-a-mad-max-saga-at-bfi-imax.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Hideo Kojima Gives High Praise to Netflix Spy Thriller Black Doves Season 2",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 20:14:35 GMT"
+  },
+  "1j56i1a": {
+    "id": "1j56i1a",
+    "type": "news",
+    "headline": "Pawan Kalyan and Anna Konidala Announce Separation After 13 Years of Marriage",
+    "dek": "Andhra Pradesh Deputy Chief Minister Pawan Kalyan and his wife Anna Konidala have officially confirmed their separation through a joint statement, concluding 13 years of marital life.",
+    "body": [
+      {
+        "h": "The Official Separation Announcement",
+        "p": [
+          "Andhra Pradesh Deputy Chief Minister Pawan Kalyan and his wife Anna Konidala surprised the public by releasing a joint statement confirming their separation. The announcement was made on Monday, November 9, which was a day after the Diwali festivities.",
+          "The Tollywood actor turned politician and his wife chose to part ways after sharing 13 years of marriage. Their joint message was directed towards family, friends, and well-wishers to inform them of the personal transition."
+        ]
+      },
+      {
+        "h": "Mutual Understanding and Lack of Specific Reasons",
+        "p": [
+          "While the sudden news shocked many admirers, the couple chose not to disclose any specific reasons behind the breakdown of their marriage. Their official communication did not mention any details regarding legal proceedings either.",
+          "Instead, the statement emphasized that the separation decision was reached collectively through mutual understanding and respect. Both individuals maintained a dignified silence on the exact catalysts that led to the end of their relationship."
+        ]
+      },
+      {
+        "h": "Focus on Children and Continued Friendship",
+        "p": [
+          "Despite concluding their marital journey, Pawan and Anna assured the public that they intend to maintain a cordial bond moving forward. They explicitly stated that they remain good friends and are fully committed to being devoted parents.",
+          "The former couple highlighted that the happiness and well-being of their children will permanently remain their foremost priority. They urged well-wishers to understand their perspective during this delicate phase."
+        ]
+      },
+      {
+        "h": "Appeal for Public Privacy",
+        "p": [
+          "Alongside their statement about coparenting, the pair issued a direct plea for personal privacy. They thanked everyone who had offered them support throughout the years as they now navigate their lives separately.",
+          "The public and media were requested to respect the boundaries of their family during this transitional period. The couple expressed gratitude to those willing to honor their need for space."
+        ]
+      },
+      {
+        "h": "A Look Back at Pawan Kalyan's Past Marriages",
+        "p": [
+          "The recent announcement has naturally redirected public attention toward Pawan Kalyan's marital history. His first marriage was to Nandini in 1997, and that relationship officially concluded in 2008.",
+          "Following that, he entered a relationship with actress Renu Desai in 2009 after several years together, though their divorce was eventually finalized in 2012. He then married Anna Konidala in September 2013 under the Special Marriage Act, following reports that they met during the production of the Telugu film Teen Maar."
+        ]
+      },
+      {
+        "h": "Throwback Image Ressurfaces on Social Media",
+        "p": [
+          "Following the public disclosure of their split, internet users began circulating old memories of the former couple. A throwback photograph capturing Pawan Kalyan and Anna resurfaced across social media platforms.",
+          "The archived picture quickly went viral online, drawing substantial attention from fans and followers across digital networks as news of the separation spread."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Andhra Pradesh Deputy Chief Minister Pawan Kalyan and Anna Konidala announced their separation in a joint statement released on Monday, November 9, after 13 years of marriage. While omitting the specific reasons for their split and any legal details, the pair stressed that they remain good friends focused on their children and requested privacy during the transition."
+        ]
+      }
+    ],
+    "facts": [
+      "Pawan Kalyan is the Andhra Pradesh Deputy Chief Minister",
+      "Anna Konidala is Pawan Kalyan's third wife",
+      "The separation announcement was made on Monday, November 9",
+      "The couple was married for 13 years",
+      "Pawan Kalyan's first marriage was to Nandini in 1997 and ended in 2008",
+      "Pawan Kalyan married actress Renu Desai in 2009 and divorced in 2012",
+      "Pawan Kalyan married Anna in September 2013 under the Special Marriage Act",
+      "The couple reportedly met during the making of the Telugu film Teen Maar"
+    ],
+    "entities": {
+      "people": [
+        "Pawan Kalyan",
+        "Anna Konidala",
+        "Nandini",
+        "Renu Desai"
+      ],
+      "titles": [
+        "Teen Maar"
+      ]
+    },
+    "keywords": [
+      "Pawan Kalyan Anna Konidala",
+      "Pawan Kalyan divorce reason",
+      "Anna Konidala separation",
+      "Pawan Kalyan third wife"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/pawankalyandivorcereason-69221794254867.jpg",
+        "caption": "Pawan Kalyan and Anna Konidala Announce Separation After 13 Years of Marriage",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 01:47:04 +0530"
+  },
+  "g74e35": {
+    "id": "g74e35",
+    "type": "news",
+    "headline": "Prime Video Unveils Final Blade Runner 2099 Trailer Highlighting a Replicant-Ruled Los Angeles",
+    "dek": "The final preview for Amazon's upcoming sci-fi limited series introduces a reborn urban landscape where humanity has lost its dominant standing.",
+    "body": [
+      {
+        "h": "The Final Preview Arrives",
+        "p": [
+          "Prime Video has released the final promotional trailer for its highly anticipated limited series Blade Runner 2099. The footage invites viewers back into a smoke-filled, neon-lit version of Los Angeles, setting a dark and introspective tone.",
+          "Opening with a provocative inquiry about human nature, the trailer establishes a ruthless environment where personal identity is constantly challenged and survival is never guaranteed."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Set fifty years after the events of Blade Runner 2049, the narrative follows a reimagined Los Angeles shaped by forces other than humanity. Hunter Schafer stars as Cora, a fugitive trying to escape her past by taking on the mantle of a Blade Runner.",
+          "Cora is forced into an uneasy partnership with Olwen, played by Michelle Yeoh. Olwen is a Replicant nearing the end of her lifespan, and together they hunt down a runaway harboring secrets capable of destabilizing the fragile city."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Cast",
+        "p": [
+          "The eight-episode limited series is created by Silka Luisa and is a collaborative effort between Amazon MGM Studios and Alcon Television Group. The project brings together a prominent cast led by Michelle Yeoh and Hunter Schafer.",
+          "Both lead actors lend fresh energy to the established sci-fi universe, expanding on a cinematic legacy that already includes two acclaimed feature films."
+        ]
+      },
+      {
+        "h": "Exploring a Post-Conflict World",
+        "p": [
+          "During an appearance at San Diego Comic-Con earlier this year, creator Silka Luisa discussed her long-standing fascination with the replicant characters from the original film. She noted that she often found herself rooting for them over human characters.",
+          "Rather than depicting the active conflict, Luisa revealed that the series imagines a massive war between humans and replicants has already taken place, choosing instead to examine the aftermath and the resulting societal shift."
+        ]
+      },
+      {
+        "h": "A Future Without Human Dominance",
+        "p": [
+          "Blade Runner 2099 projects a future where biological humanity is no longer at the top of the food chain. The narrative explores philosophical questions regarding what happens when human tenure as the dominant species comes to an end.",
+          "Luisa noted that the themes presented in the original franchise feel increasingly relevant as real-world technology edges closer to the science fiction promised decades ago."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Fans waiting to explore this new era of the franchise will not have to wait much longer. Blade Runner 2099 is officially scheduled to premiere on Amazon Prime Video on November 25, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has released the final trailer for Blade Runner 2099, an eight-episode limited series created by Silka Luisa. Starring Michelle Yeoh and Hunter Schafer, the project explores a replicant-dominated Los Angeles fifty years after the events of Blade Runner 2049 and premieres on November 25, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Blade Runner 2099 is an eight-episode limited series created by Silka Luisa.",
+      "The series is set 50 years after the events of Blade Runner 2049.",
+      "Hunter Schafer plays a fugitive named Cora who becomes a Blade Runner.",
+      "Michelle Yeoh plays Olwen, a Replicant days from death.",
+      "The series premieres on Amazon Prime Video on November 25, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Steve Seigh",
+        "Silka Luisa",
+        "Michelle Yeoh",
+        "Hunter Schafer"
+      ],
+      "titles": [
+        "Blade Runner 2099",
+        "Everything Everywhere All at Once",
+        "Wicked",
+        "The Brothers Sun",
+        "Euphoria",
+        "Mother Mary",
+        "Cuckoo",
+        "Blade Runner 2049"
+      ]
+    },
+    "keywords": [
+      "Blade Runner 2099",
+      "Hunter Schafer Blade Runner",
+      "Michelle Yeoh Prime Video",
+      "Blade Runner 2099 trailer"
+    ],
+    "images": [
+      {
+        "url": "https://www.joblo.com/wp-content/uploads/2026/07/blade_runner_2099_hunter.jpg",
+        "caption": "Prime Video Unveils Final Blade Runner 2099 Trailer Highlighting a Replicant-Ruled Los Angeles",
+        "source": "JoBlo"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 19:30:00 +0000"
   }
 };
