@@ -95038,5 +95038,418 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-09T14:34:02+05:30"
+  },
+  "1iazw4": {
+    "id": "1iazw4",
+    "type": "news",
+    "headline": "Ramayana costume designer recalls rush to deliver Ranbir Kapoor's armor",
+    "dek": "Ajay Kumar opens up about the immense craftsmanship, material hurdles, and tight deadlines involved in creating Ranbir Kapoor's armor for Nitesh Tiwari's upcoming cinematic adaptation.",
+    "body": [
+      {
+        "h": "Crafting the Visual World of Ramayana",
+        "p": [
+          "The massive cinematic undertaking titled Ramayana: Part 1 has drawn immense attention for its scale, detailed research, and intricate technical planning. Directed by filmmaker Nitesh Tiwari, the production relies heavily on authentic craftsmanship to recreate a legendary epic universe.",
+          "Bringing this vision to life required a meticulous collaboration between the acting talent and the behind-the-scenes technical crews. Every costume piece was subjected to rigorous scrutiny to ensure it fit the historical and mythological aesthetic envisioned by the director."
+        ]
+      },
+      {
+        "h": "Ajay Kumar Confronts His Biggest Challenge",
+        "p": [
+          "Costume and armor designer Ajay Kumar recently shared insights into the grueling process of fabricating the princely garments worn by the lead character during the narrative's first half.",
+          "Although Kumar boasts a fifteen-year background in the industry, tackling specialized armor construction proved to be an entirely different hurdle. Transforming initial heavy prototypes into sleek, wearable pieces tested his professional limits."
+        ]
+      },
+      {
+        "h": "Overcoming Material and Thickness Hurdles",
+        "p": [
+          "The primary obstacle lay in modifying the thickness of the wearable gear. While initial sample creations measured between eight to ten millimeters thick, the final required specifications demanded a much thinner profile of two to four millimeters.",
+          "Achieving this balance using rubber material required a painstaking two-week manufacturing window. The technical limitations pushed the design team to innovate rapidly under intense pressure."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor's Direct Feedback",
+        "p": [
+          "Actor Ranbir Kapoor personally evaluated the initial prototypes and offered constructive suggestions to improve the final look. He requested a more refined silhouette that hugged the skin closely instead of flaring outward.",
+          "The star specifically asked that the pieces stay well away from his shoulder and neckline areas. Similar adjustments were subsequently requested by co-star Ravie Dubey, who portrays Lakshman in the feature."
+        ]
+      },
+      {
+        "h": "A Race Against Time in the Vanity",
+        "p": [
+          "With critical adjustments demanded by the lead actor, Kumar faced a punishing turnaround window of only two days to execute the alterations. The frantic schedule culminated in a high-stakes delivery happening merely sixty minutes before filming began.",
+          "Entering the star's vanity room, the nervous designer requested a trial fitting. He understood that the actor's comfort and emotional connection to the character hinged entirely on the execution of these garments."
+        ]
+      },
+      {
+        "h": "Actor's Trust Seals the Design",
+        "p": [
+          "Despite the extreme time crunch, Kapoor maintained steady confidence throughout the process, allowing the creator the space needed to complete the work. Trying on the modified gear, the actor gave an immediate green light.",
+          "The successful fitting validated the intense efforts poured into the project. Expressing satisfaction, the lead star confirmed that the designer had captured the precise royal aesthetic required for the role."
+        ]
+      },
+      {
+        "h": "An All-Star Cast Enters the Epic",
+        "p": [
+          "Helmed by Nitesh Tiwari, the sprawling movie boasts an extensive ensemble cast portraying key figures from the epic narrative. Alongside the primary leads, the production features prominent actors in supporting roles.",
+          "The stellar lineup includes Sai Pallavi as Sita, Yash as Ravana, Arun Govil as King Dashrath, Indira Krishnan as Kaushalya, Lara Dutta as Kaikeyi, Sheeba Chaddha as Manthara, Rakul Preet Singh as Surpanakha, and Kajal Aggarwal as Mandodari."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Costume designer Ajay Kumar recently discussed the demanding process of creating Ranbir Kapoor's armor for the upcoming film directed by Nitesh Tiwari. After overcoming material hurdles and incorporating the actor's feedback on thickness and fit, Kumar successfully delivered the final gear just an hour before the shoot."
+        ]
+      }
+    ],
+    "facts": [
+      "Ajay Kumar designed the armor for Ranbir Kapoor in Ramayana: Part 1.",
+      "Nitesh Tiwari is the director of Ramayana: Part 1.",
+      "Ranbir Kapoor plays Lord Rama in the film.",
+      "Yash plays Ravana in the film.",
+      "Sai Pallavi plays Sita in the film.",
+      "Ravie Dubey plays Laxman in the film.",
+      "Arun Govil plays King Dashrath in the film.",
+      "Indira Krishnan plays Kaushalya in the film.",
+      "Lara Dutta plays Kaikeyi in the film.",
+      "Sheeba Chaddha plays Manthara in the film.",
+      "Rakul Preet Singh plays Surpanakha in the film.",
+      "Kajal Aggarwal plays Mandodari in the film."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Kumar",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Sheeba Chaddha",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana film armor design",
+      "Ajay Kumar costume designer",
+      "Ranbir Kapoor Ramayana look",
+      "Nitesh Tiwari Ramayana cast"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135677361,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana costume designer recalls rush to deliver Ranbir Kapoor's armor",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T14:57:30+05:30"
+  },
+  "1462qr5": {
+    "id": "1462qr5",
+    "type": "news",
+    "headline": "Sol Kyung Gu Addresses Possible Love Oscar Campaign and Working With Lee Chang Dong",
+    "dek": "Actor Sol Kyung Gu shares his thoughts on the international Oscar campaign for Possible Love, reuniting with director Lee Chang Dong, and his grueling promotional schedule.",
+    "body": [
+      {
+        "h": "Handling the Oscar Buzz",
+        "p": [
+          "Actor Sol Kyung Gu recently addressed the growing Oscar attention surrounding his latest film, Possible Love. Selected as South Korea's official submission for the Best International Feature Film category at the upcoming 99th Academy Awards, the movie has sparked significant international interest. Despite the widespread excitement, the seasoned star remains remarkably grounded regarding the high-profile awards race.",
+          "During an interview on November 9, 2026, Sol Kyung Gu offered a humorous take on his involvement in the promotional circuit. He noted that he simply follows instructions regarding his travel and appearances, awaiting the crucial shortlist announcement in December before the campaign truly intensifies."
+        ]
+      },
+      {
+        "h": "An Unprecedented Promotional Tour",
+        "p": [
+          "The demanding nature of international campaigning has brought entirely new experiences to Sol Kyung Gu's long career. Traveling extensively abroad to secure a spot on the Academy's shortlist, the actor admitted that the rigorous schedule has proven exceptionally tiring.",
+          "Reflecting on the heavy workload while keeping spirits high, he jokingly remarked that director Lee Chang Dong maintains such a resolute demeanor that any personal fatigue or minor ailments must remain entirely unspoken during the promotional push."
+        ]
+      },
+      {
+        "h": "Embracing the Streaming Era",
+        "p": [
+          "Possible Love debuted in South Korean theaters on September 23 before arriving on Netflix on November 6, 2026. Initially, Sol Kyung Gu felt a sense of disappointment that the project would miss out on receiving a full, traditional theatrical distribution run across the country.",
+          "However, he ultimately expressed profound gratitude toward the streaming platform for bringing the project to life. Emphasizing the sheer difficulty of getting certain films financed and produced, he considers the movie's existence and broad accessibility a true victory."
+        ]
+      },
+      {
+        "h": "Reuniting With Lee Chang Dong",
+        "p": [
+          "The project marks another collaboration between the actor and acclaimed filmmaker Lee Chang Dong, following their previous acclaimed works Peppermint Candy and Oasis. When the opportunity to join the cast was first presented, Sol Kyung Gu accepted immediately without a moment's hesitation, despite simultaneously juggling production on Mousetrap.",
+          "He confessed that missing out on the role due to scheduling conflicts would have broken his heart, especially seeing another actor step into the part through a casting announcement later on."
+        ]
+      },
+      {
+        "h": "Working Alongside Star-Studded Co-Stars",
+        "p": [
+          "The film also features powerful performances from a stellar supporting and co-starring lineup. Sol Kyung Gu praised his co-star Jeon Do Yeon, with whom he previously shared the screen in Birthday and Kill Boksoon, calling her an exceptionally comfortable partner and the absolute best actress who carried the entire film.",
+          "Additionally, he credited actor Jo In Sung with playing a major role in keeping the atmosphere on set positive, collaborative, and enjoyable for the entire cast and crew."
+        ]
+      },
+      {
+        "h": "Plot and International Acclaim",
+        "p": [
+          "Possible Love explores the intricate lives of two distinct couples, consisting of a laid-off worker alongside his wife, and a documentary director alongside her husband. When these individuals cross paths to collaborate on a documentary, they are forced to confront starkly different realities and hidden desires.",
+          "The feature has already achieved significant critical acclaim prior to its Oscar submission, having successfully won the prestigious Silver Lion Grand Jury Prize at the 83rd Venice International Film Festival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sol Kyung Gu discussed the ongoing Oscar campaign for Possible Love, South Korea's submission to the 99th Academy Awards directed by Lee Chang Dong. He reflected on his grueling international promotional travels and expressed gratitude for the Netflix release after its September theatrical premiere. The film reunites him with Jeon Do Yeon and Jo In Sung, following its major victory of the Silver Lion Grand Jury Prize at the 83rd Venice International Film Festival."
+        ]
+      }
+    ],
+    "facts": [
+      "Sol Kyung Gu starred in Hyper Knife and The Whirlwind",
+      "Possible Love was selected as Korea's submission for Best International Feature Film at the 99th Academy Awards",
+      "The interview took place on November 9, 2026",
+      "Possible Love opened in Korean theaters on September 23",
+      "Possible Love began streaming on Netflix on November 6",
+      "Sol Kyung Gu previously worked with Lee Chang Dong on Peppermint Candy and Oasis",
+      "Jeon Do Yeon co-starred with Sol Kyung Gu in Birthday and Kill Boksoon",
+      "Possible Love won the Silver Lion Grand Jury Prize at the 83rd Venice International Film Festival"
+    ],
+    "entities": {
+      "people": [
+        "Sol Kyung Gu",
+        "Lee Chang Dong",
+        "Jeon Do Yeon",
+        "Jo In Sung"
+      ],
+      "titles": [
+        "Possible Love",
+        "Hyper Knife",
+        "The Whirlwind",
+        "Peppermint Candy",
+        "Oasis",
+        "Mousetrap",
+        "Birthday",
+        "Kill Boksoon"
+      ]
+    },
+    "keywords": [
+      "Sol Kyung Gu Possible Love",
+      "Possible Love Oscar race",
+      "Lee Chang Dong Possible Love",
+      "Jeon Do Yeon Possible Love"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/onnVoL_2d.jpg",
+        "caption": "Sol Kyung Gu Addresses Possible Love Oscar Campaign and Working With Lee Chang Dong",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 09:03:32 +0000"
+  },
+  "1o4i4wa": {
+    "id": "1o4i4wa",
+    "type": "news",
+    "headline": "Ramayana surprises its biggest critics: 5 things the internet got wrong",
+    "dek": "Ramayana's theatrical release has overturned pre-release doubts regarding its visuals and casting, impressing audiences with strong performances and intimate emotional moments.",
+    "body": [
+      {
+        "h": "The Pre-Release Backlash",
+        "p": [
+          "Long before its November 5 release, the internet had already formed a harsh opinion about Ramayana. Social media was flooded with complaints about artificial-looking visual effects and a reported Rs 4,000 crore budget that invited widespread ridicule.",
+          "Casting choices also drew intense scrutiny, with critics questioning Ranbir Kapoor's suitability to play Rama, Sai Pallavi's casting as Sita, and the much-hyped musical collaboration between AR Rahman and Hans Zimmer, turning the highly anticipated cinematic spectacle into one of the most written-off films before it even hit screens."
+        ]
+      },
+      {
+        "h": "Visual Effects Surpass Expectations",
+        "p": [
+          "The primary pre-release criticism focused on artificial environments and creatures that many compared to cheap AI-generated imagery based on early promotional footage.",
+          "However, the finished film delivered a different experience, heavily aided by the eight-time Academy Award-winning visual effects studio DNEG. Standout sequences such as the Jatayu-Ravana encounter and the Tadaka action set pieces successfully established a large-scale mythological world, even though a few Asuras and polished CGI backgrounds still appeared somewhat artificial."
+        ]
+      },
+      {
+        "h": "Finding an Emotional Core",
+        "p": [
+          "A major fear ahead of release was that Ramayana would become a hollow spectacle focused solely on battles and divine weapons rather than its characters' relationships. Fortunately, the film discovered an emotional foundation through intimate, quieter moments.",
+          "Interactions such as Rama's relationship with Kaikeyi, a tender father-son moment with Dasharatha, and casual forest conversations with Lakshmana provided genuine warmth and reminded audiences of the human bonds beneath the epic conflict."
+        ]
+      },
+      {
+        "h": "Sai Pallavi Silences Critics",
+        "p": [
+          "Sai Pallavi faced considerable online discussion concerning her appearance, styling, and general suitability to portray Sita, a figure deeply embedded in India's cultural memory.",
+          "In the theatrical release, she brought grace, compassion, and agency to the character without relying on excessive theatricality or exaggerated expressions, largely justifying her casting through a restrained and dignified performance."
+        ]
+      },
+      {
+        "h": "An Ensemble Cast Shines",
+        "p": [
+          "While pre-release discussions were dominated by the central trio of Ranbir Kapoor, Sai Pallavi, and Yash, the wider supporting cast delivered crucial weight to the world of Lanka and Ayodhya.",
+          "Arun Govil brought emotional gravity as King Dasharatha, Ravie Dubey surprised viewers as an impulsive and loyal Lakshmana, and actors like Lara Dutta, Sheeba Chaddha, Rakul Preet Singh, Kajal Aggarwal, Shobana, and Vivek Oberoi successfully fleshed out the surrounding characters."
+        ]
+      },
+      {
+        "h": "Ranbir and Yash Take Different Paths",
+        "p": [
+          "Ranbir Kapoor faced heavy skepticism regarding whether he could embody Rama's restraint and dignity, choosing to play the role with stillness, composed body language, and minimal theatrics.",
+          "On the other hand, Yash emerged as a major crowd-puller as Ravana, leaning into a more theatrical and intensely dramatic interpretation that quickly dominated online conversations compared to Ranbir's more subdued portrayal."
+        ]
+      },
+      {
+        "h": "The Soundtrack Stumbles",
+        "p": [
+          "Despite many positive surprises, the film's music stood out as a persistent weakness that failed to match the grand scale of the visuals.",
+          "The soundtrack collaboration between AR Rahman and Hans Zimmer fell short of expectations, with tracks like Mangal Rang and Ravana Tandav receiving mixed responses from listeners who desired a more powerful and traditional musical treatment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The theatrical release of Ramayana successfully overturned numerous pre-release doubts by delivering impressive visual effects, strong ensemble performances, and touching emotional moments. While criticisms regarding its soundtrack remained valid, the film proved that promotional footage could not accurately predict the quality of a completed cinematic project."
+        ]
+      }
+    ],
+    "facts": [
+      "The theatrical release of Ramayana happened after November 5, 2026.",
+      "The film was reported to have a Rs 4,000 crore budget.",
+      "DNEG is an eight-time Academy Award-winning visual effects company.",
+      "AR Rahman and Hans Zimmer collaborated on the music.",
+      "Arun Govil played Rama in Ramanand Sagar's 1987 television adaptation and plays Dasharatha in the film."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "AR Rahman",
+        "Hans Zimmer",
+        "Lara Dutta",
+        "Dasharatha",
+        "Kaikeyi",
+        "Rama",
+        "Lakshmana",
+        "Surpanakha",
+        "Mandodari",
+        "Kaikasi",
+        "Vidyutjihva",
+        "Kumbhakarna",
+        "Vibhishana",
+        "Yash",
+        "Arun Govil",
+        "Ramanand Sagar",
+        "Sheeba Chaddha",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Shobana",
+        "Vivek Oberoi",
+        "T Maruthi Acharya",
+        "T Naga Maruthi Acharya"
+      ],
+      "titles": [
+        "Ramayana",
+        "Mangal Rang",
+        "Ravana Tandav"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Ramayana",
+      "Sai Pallavi Sita",
+      "Yash Ravana",
+      "Ramayana visual effects"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/naveen-kumar-gowda-ranbir-kapoor-ravi-dubey-sai-pallavi-060253775-16x9_0.png?VersionId=KudqTdvgZ69kPn.SDJzQCmIVAAFgW0sm",
+        "caption": "Ramayana surprises its biggest critics: 5 things the internet got wrong",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 14:50:59 +0530"
+  },
+  "1flhg9": {
+    "id": "1flhg9",
+    "type": "news",
+    "headline": "TWICE Nayeon Solo Album Credits Spark Fan Discussion Over Writer Link to Chaeyoung",
+    "dek": "The release of the tracklist for TWICE member Nayeon's upcoming solo project has drawn unexpected attention due to the inclusion of a specific songwriter linked to past fan speculation.",
+    "body": [
+      {
+        "h": "Upcoming Solo Comeback Tracklist Details Revealed",
+        "p": [
+          "Anticipation has been building for the solo return of TWICE member Nayeon as details regarding her forthcoming musical project began circulating online. The revealed tracklist outlines a three-song release titled Na-Sty, generating immediate excitement across fan communities.",
+          "The upcoming mini-release features three distinct tracks, showcasing both collaborative efforts and self-composed music by the K-pop star. Fans quickly poured over the details to analyze the creative direction of the project."
+        ]
+      },
+      {
+        "h": "The Three Tracks Featured on the Release",
+        "p": [
+          "The tracklist officially introduces Baby Angel as the primary title track for Nayeon's solo venture. This is followed by the second track, Shiver, which highlights Nayeon's direct involvement as she took charge of both the lyrics and composition.",
+          "Rounding out the three-song lineup is the third track titled Boy. While the musical style promises to fit Nayeon's signature sound, the background credits for the third song inadvertently steered conversations in an unexpected direction."
+        ]
+      },
+      {
+        "h": "Songwriter Credits Trigger Fan Speculation",
+        "p": [
+          "Attention quickly shifted toward the credited writers listed on the project, specifically pointing to Lil Cherry's involvement in the production. The name immediately rang bells within the fandom, prompting a flurry of online discussions.",
+          "Followers of the girl group connected Lil Cherry to previous unconfirmed rumors and online speculation involving fellow TWICE member Chaeyoung. Social media platforms lit up with comments expressing surprise over the professional crossover."
+        ]
+      },
+      {
+        "h": "Revisiting Past Fandom Lore",
+        "p": [
+          "The sudden appearance of the writer's name caused some veteran community members to reflect on older discussions surrounding Chaeyoung. Past internet rumors had previously linked the two individuals in speculative conversations that circulated widely among followers.",
+          "Some online users pointed out ironic parallels between the track titles and past releases, noting connections to earlier solo debuts within the group. The resurfacing of these old topics demonstrated how deeply observant K-pop fans can be regarding artist associations."
+        ]
+      },
+      {
+        "h": "Reactions and Humor Across Social Media",
+        "p": [
+          "As screenshots of the tracklist spread, fans flooded platforms like X with humorous commentary and disbelief. Questions arose regarding whether Nayeon was aware of the past speculation when deciding to work with the writer.",
+          "Despite the chatter, the overarching sentiment among many followers was sheer astonishment at the coincidence. The intersection of past rumors and current professional credits provided ample entertainment for the online fandom."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The release of the tracklist for TWICE member Nayeon's upcoming solo project sparked online discussion due to the inclusion of writer Lil Cherry. Fans quickly connected the songwriter to past speculation involving fellow member Chaeyoung, turning the album credits into a trending topic."
+        ]
+      }
+    ],
+    "facts": [
+      "Nayeon is a member of the group TWICE.",
+      "The upcoming release is titled Na-Sty and contains 3 songs.",
+      "The tracks are Baby Angel, Shiver, and Boy.",
+      "Nayeon wrote and composed the track Shiver.",
+      "Lil Cherry is credited as a writer on the album.",
+      "Online speculation previously linked Lil Cherry to TWICE member Chaeyoung around 2019."
+    ],
+    "entities": {
+      "people": [
+        "Nayeon",
+        "Chaeyoung",
+        "Lil Cherry"
+      ],
+      "titles": [
+        "Na-Sty",
+        "Baby Angel",
+        "Shiver",
+        "Boy"
+      ]
+    },
+    "keywords": [
+      "TWICE Nayeon album",
+      "Lil Cherry Chaeyoung",
+      "Na-Sty tracklist",
+      "Nayeon solo comeback"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/FD2870-4-4.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1794279600&amp;KeyName=kb&amp;Signature=xigxfVKSrcnorNuf1aIf-X8XCV0=",
+        "caption": "TWICE Nayeon Solo Album Credits Spark Fan Discussion Over Writer Link to Chaeyoung",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 09:50:03 +0000"
   }
 };
