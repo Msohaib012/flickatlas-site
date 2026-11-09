@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T05:51:28Z",
-    "run_id": "42452331460",
-    "status": "success",
-    "checked": {
-     "candidates": 233,
-     "detail": "RSS/Atom items across 137 sources; 11 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Salman Khan Gets Candid About Possibility Of His Biopic: Bahut Saare Log Doob Jayenge",
-      "Ramayana North America Box Office: Beats Drishyam 3 To Become Bollywood’s 2nd Highest-Grosser Of 2026 In Less Than 3 Days!",
-      "Janhvi Kapoor recalls Sridevi's reaction to her nose job",
-      "Makers of Ranbir Kapoor, Yash starrer warn of legal action over theatre recordings",
-      "'Mela': Mammootty and team bring fireworks",
-      "Sylvester Stallone says Pelé broke his finger on the set of ‘Escape to Victory'",
-      "Dolly Parton’s manager drops all charges against Bryan Seaver",
-      "'Ramayana: Rise of a Legend': Ranbir's stunt double Luke Ioannou shares unseen set pictures",
-      "Scene worldwide box office collection day 2: Suriya's star power ensures film crosses  ₹80 crore, beating Karuppu and Vishwanath & Sons",
-      "Janhvi Kapoor reveals Sridevi was unsure of her acting career, jokes her mother saw ‘potential’ in her after she got a nose job",
-      "7 moments that make Ramayana a visual spectacle",
-      "Kamal Haasan's Sandiyar title sparks caste row, Puthiya Tamilagam founder objects",
-      "Amitabh Bachchan, Shah Rukh Khan To Sanjay Dutt, 5 Bollywood’s Most Iconic Diwali Moments On Screen",
-      "The 5 Greatest Beatles Songs Written by John Lennon",
-      "The 10 Scariest Horror Books of All Time, According to Goodreads",
-      "Disney+'s Near-Perfect Sci-Fi Series Is Officially One of the Biggest Shows on Streaming With 490 Million Views",
-      "Hogwarts Legacy 2 Officially Unveiled By Warner Bros.",
-      "Final Fantasy 10: Eternal Calm Officially Releases This Month",
-      "Dungeon Crawler Carl Meets Vampire Survivors In 9/10 100-Hour Free RPG",
-      "Prime Video's New Fantasy Series Dangerously Skips The First 3 Chapters Of The Source Material"
-     ],
-     "updated": [],
-     "count": 231,
-     "detail": "233 stories, 1 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-08T06:51:32Z",
     "run_id": "42456371709",
     "status": "success",
@@ -907,32 +868,48 @@
      "detail": "161 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T07:51:19Z",
-    "run_id": "42460417774",
+    "run_at": "2026-11-09T06:51:43Z",
+    "run_id": "42575540459",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 207,
+     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer scores Biggest Single Day Overseas for Indian cinema",
-      "Millie Bobby Brown and David Harbour Reunite for a New Netflix Series",
-      "Bellamkonda Sai Sreenivas and Neha Shetty showcase dynamic dance moves in 'Tyson Naidu' lead single",
-      "How HBO's 36-Episode Sci-Fi Series Westworld Became a Cautionary Tale for Mystery Box Storytelling"
+      "Ahaan Panday’s Beparwah co-star, Aaishvary Thackeray, loses Rs. 19,000 to cyber fraud; files police complaint",
+      "Jensen Huang Controversy: Jensen-Alice's Old 'Kiss' Video Goes Viral Amid Affair Scandal; WHO's His Wife?",
+      "ENT News LIVE Updates Today (Nov 9, 2026): Ramayana Crosses 230Cr; Alia Celebrates 1st Diwali At Her New Home",
+      "Ramayana North America Box Office: Enters Bollywood’s Top 10 Grossers Of All Time In 3 Days, Beats Dunki",
+      "Scene BMS Ticket Sales Record Hat-Trick of 5 Lakh Plus Days as Suriya's Film Misses Top 5 Tamil Opening Weekends",
+      "Ramayana Creates BookMyShow History With 1.10 Lakh Plus Tickets in an Hour, Surpasses Dhurandhar 2 and Pushpa 2",
+      "Ramayana Overseas Box Office Opens Strong as IMAX Contributes 11% Worldwide, Sets New Indian Cinema Record",
+      "North America Leads Godzilla Minus Zero To Win Global Weekend As Ramayana Takes Second Spot With Staggering 500+ Crore",
+      "Krishnasamy warns Kamal Haasan against using the 'Sandiyar' title",
+      "Arnold Schwarzenegger's son Joseph Baena makes strong professional natural bodybuilding debut",
+      "Who is Gaurav Gupta, who recently appeared on ‘Bigg Boss 20'?",
+      "'Arasan' Diwali glimpse: Silambarasan TR introduced as Daas",
+      "Suriya and Jyotika thank audiences for ‘Scene’ success",
+      "Aneet Padda celebrates Diwali with Saiyaara co-star Ahaan Panday's mom Deanne Panday and family",
+      "Ramayana to Sooryavanshi: How Diwali releases have fared at the Indian box office",
+      "Makers of Ranbir Kapoor-starrer 'Ramayana' issue warning against unauthorised recording of the film",
+      "Farah Khan slams ‘clickbait’ videos about fire at her Mumbai residence, urges online portals to be responsible",
+      "Breaks my heart: Celina Jaitly marks Diwali away from sons, shares emotional message",
+      "Adnan Sami blasts Mumbai Airport T2 service, calls staff extremely rude",
+      "Anirudh-Kavya Maran wedding: Rajinikanth, MK Stalin, Udhayanidhi head to Greece"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 193,
+     "detail": "194 stories, 0 duplicates removed, 13 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1438,27 +1415,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-09T06:53:19Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Fallout 4 Receives Major Content Expansion With Under The Stars Mod",
+      "Silambarasan TR stars as Daas in Vetri Maaran's Arasan Diwali promotional video",
+      "Park Bo Gum Secures National Hairdresser License Before The Village Barber 2 Premiere",
+      "Nvidia CEO Jensen Huang Faces Intense Scrutiny Following Personal Controversy"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-08T07:51:19Z",
-    "run_id": "42460417774",
-    "status": "success",
-    "checked": {
-     "candidates": 271,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 257, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1864,26 +1846,27 @@
      "detail": "now 261, coming 14"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-08T05:51:58Z",
-    "run_id": "42452331460",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-09T06:53:19Z",
+    "run_id": "42575540459",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 275,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 261, coming 14"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2284,27 +2267,33 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-09T07:01:43Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "18cz6ls",
+      "8knce",
+      "8br78w",
+      "ifceqz",
+      "c8dwrt",
+      "1x5yt3l"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T06:55:52Z",
-    "run_id": "42456371709",
-    "status": "success",
-    "checked": {
-     "candidates": 625,
-     "detail": "619 collected staging rows from readers; 211 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 614 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2678,19 +2667,27 @@
      "detail": "+0 new rows, 3 updated rows, 621 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T07:01:08Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": {
+     "candidates": 632,
+     "detail": "624 collected staging rows from readers; 215 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 621 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2927,32 +2924,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-08T06:55:58Z",
-    "run_id": "42456371709",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Worldwide Box Office Collection Day 3: Saturday Surge Takes Ranbir Kapoor's Film Past ₹375 Crore, Beats Adipurush, Pathaan And Animal",
-      "Could Robert Pattinson's Batman Legacy and Overexposure Hurt His Chances of Playing James Bond?",
-      "How Netflix’s A Series of Unfortunate Events Mastered Real-World Worldbuilding in 25 Episodes",
-      "Ramayana Deleted Viral Scene: Rama Rescues Sita, Lakshman From Wolves; Fans React On Social Media"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3436,19 +3420,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-09T07:01:43Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Fallout 4 Receives Major Content Expansion With Under The Stars Mod",
+      "Park Bo Gum Secures National Hairdresser License Before The Village Barber 2 Premiere",
+      "Nvidia CEO Jensen Huang Faces Intense Scrutiny Following Personal Controversy",
+      "Silambarasan TR stars as Daas in Vetri Maaran's Arasan Diwali promotional video"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-08T06:56:07Z",
-    "run_id": "42456371709",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3751,19 +3748,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4085,31 +4082,65 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-08T05:51:49Z",
-    "run_id": "42452331460",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T06:52:12Z",
+    "run_id": "42575540459",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 231 still unprocessed; today by category: movies 1/6, tv_dramas 5/4, episodes 0/2, box_office 4/6, celebrities_events 2/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 0/3, awards 1/2, music_ost 1/2, viral 0/2"
+     "candidates": 514,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 36,
+      "pk_movies": 18
+     },
+     "picked": 20,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Scene Worldwide Box Office Day 2: Suriya Starrer Crosses ₹80 Crore Mark",
-      "VisionQuest Racks Up 490 Million Streams on Nielsen Charts",
-      "Sunny Deol Praises Ramayana, Calls the Epic Better Than Hollywood Productions",
-      "A2O SOUL Teases New Music Video For Debut Track Dancing In The Dark"
+      "My Son’s Sugar Mama (1815447)",
+      "Climat, que justice soit faite ! (1821357)",
+      "The Nameless Ballad (1511829)",
+      "Heaven (1821181)",
+      "On Behalf of My Son (1307474)",
+      "L'art de perdre en politique (1821168)",
+      "The Holiday Spark (1796880)",
+      "The Noah Movie; Epilogue: The Last Don (1820144)",
+      "erōtikós (1815438)",
+      "The Neighbourhood is Changing: Revisiting Mulberry Street (1812543)",
+      "Os Mortos-Vivos: Algo a Temer (1809555)",
+      "The Monster I Made (1805456)",
+      "Cuts (1805451)",
+      "In Your Heart Movie Version (1803408)",
+      "Hollow Ones (1803222)",
+      "The Fraying (1802622)",
+      "Schattenfangen (1797144)",
+      "Mo Amor (1796931)",
+      "No Man's Air (1796461)",
+      "My Own Personal Gulag (1796456)"
      ],
      "updated": [],
-     "count": 4
+     "count": 20
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4603,19 +4634,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-09T06:53:19Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 193 still unprocessed; today by category: movies 2/6, tv_dramas 3/4, episodes 0/2, box_office 8/6, celebrities_events 5/5, upcoming_releases 4/4, ott_streaming 2/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Fallout 4 Receives Major Content Expansion With Under The Stars Mod",
+      "Silambarasan TR stars as Daas in Vetri Maaran's Arasan Diwali promotional video",
+      "Park Bo Gum Secures National Hairdresser License Before The Village Barber 2 Premiere",
+      "Nvidia CEO Jensen Huang Faces Intense Scrutiny Following Personal Controversy"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4929,24 +4972,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-09T06:54:34Z",
+    "run_id": "42575540459",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 46,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 452,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5286,24 +5331,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 376,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5573,19 +5618,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 25,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5835,19 +5885,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 75,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6082,19 +6137,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "metadata_refresh": [
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6381,19 +6441,76 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T06:52:52Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": {
+     "candidates": 50,
+     "valid": 50,
+     "failed": 0,
+     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Sur la piste du casoar (1814456)",
+      "The Sound of Malan Flowers Blooming (1811142)",
+      "Broken English Theater (1809947)",
+      "Synchronicity (1809943)",
+      "The Wedding Bangles (1809936)",
+      "In the Name of the Father (1809932)",
+      "The Innocence of Water (1809924)",
+      "A Pilgrimage of Dreams (1809921)",
+      "Ethical Witchery (1808255)",
+      "Game Theory (1800425)",
+      "Stellar Romance (1796751)",
+      "Connection Lost (1794828)",
+      "Algo Más Para Decir (1793964)",
+      "Cecilia,  una luz de mañana (1784105)",
+      "Three Little Pigs (1782975)",
+      "Pickpockets (1775236)",
+      "Allowed to Birth: The Journey of a Global Midwife (1773656)",
+      "Folded dreams (1768753)",
+      "The Bully Club (1767217)",
+      "CORRUPT (1813944)",
+      "Weaving Our Wisdom (1812988)",
+      "Unboxing (1812553)",
+      "清气满乾坤 (1811193)",
+      "Roaming over the Horseback (1811168)",
+      "blood & soil (1810065)",
+      "One Night in June (1809842)",
+      "Night Watchman (1809838)",
+      "AKIAK (1809836)",
+      "Once Again: The Start of it All (1809833)",
+      "Covers (1809831)",
+      "Memory of a Sunset (1809676)",
+      "It's Not Tomorrow Yet (1809662)",
+      "Reflected (1809659)",
+      "Perfume (1809658)",
+      "Argentina Stone (1809595)",
+      "Child of Sinaï (1809422)",
+      "Mog's Bad Thing (1807629)",
+      "Leave It Where You Found It (1805507)",
+      "The Magic of It All: The Story of Strawbs (1804642)",
+      "Between Creases (1803705)",
+      "Chroma (1803701)",
+      "Unhealed Wounds (1803696)",
+      "I'm Still Flying (1803690)",
+      "All Sacrifices Made for the Love Over Yonder (1803688)",
+      "Motu Patlu & the Mystery of Nagmani (1817236)",
+      "Saheb Bhai ki khoi Redmi (1820980)",
+      "Dead Net (1805289)"
+     ],
+     "count": 47
+    },
+    "reason": null
    }
   ],
   "providers_backfill": [
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6634,19 +6751,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6876,42 +6993,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-08T05:51:57Z",
-    "run_id": "42452331460",
-    "status": "success",
-    "checked": {
-     "candidates": 15,
-     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "Aadarsha Kutumbam House No: 47 Day 6 Box Office Collection",
-      "Allu Arjun and Rishab Shetty Praise Ranbir Kapoor Starrer Ramayana",
-      "Ramayana: Rise of a Legend Opens Worldwide With Record-Breaking Numbers and Mass",
-      "The Legal Battle Between 'The Pitt' Producers And The Michael Crichton Estate Is",
-      "'Ramayana' Anticipated to Net Rs 75-100 Crore on Opening Day as Experts Forecast",
-      "Salman Khan residence firing: Accused shooter denied physical bail but permitted",
-      "BBC Confirms Release Window for Strike Season 7",
-      "Matthew McConaughey and Woody Harrelson Discuss Future of Apple TV Series Brothe",
-      "Ramayana Box Office Outlook: Can Ranbir Kapoor's Magnum Opus Match Pushpa 2, RRR",
-      "Godzilla Minus Zero Projected for Historic Domestic Debut",
-      "Nintendo's Remade Classic Lands Among the Highest-Rated Games",
-      "Ramayana Opens Strong With Massive Worldwide Advance Bookings",
-      "Toshiyuki Morikawa to Voice Robert Downey Jr as Doctor Doom in Japanese Dub of A",
-      "God of War Laufey PS5 Release Date Pushed Back to May 2027",
-      "Ramayana: Part 1 Day 1 Box Office Collection Early Estimates And Occupancy"
-     ],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7164,30 +7258,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-06T19:52:38Z",
-    "run_id": "42283160979",
-    "status": "success",
-    "checked": {
-     "candidates": 464,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 451"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7672,19 +7755,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-09T06:53:36Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": {
+     "candidates": 520,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 507"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -7924,19 +8018,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 293,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-08T05:52:06Z",
-    "run_id": "42452331460",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8191,8 +8290,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-09T07:01:53Z",
+    "run_id": "42575540459",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7811,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-09T05:51:36Z"
+ "updated_at": "2026-11-09T07:01:53Z"
 }

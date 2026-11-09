@@ -1,74 +1,74 @@
 {
   "connected": true,
-  "generated": "2026-11-09T05:51:36Z",
+  "generated": "2026-11-09T07:01:50Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 1,
+    "pageviews": 9,
+    "sessions": 1,
+    "avg_session_seconds": 216.7
   },
   "last7": {
     "users": 97,
-    "pageviews": 441,
-    "sessions": 155,
-    "avg_session_seconds": 182.7
+    "pageviews": 450,
+    "sessions": 156,
+    "avg_session_seconds": 183.0
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 136,
-      "avg_time_seconds": 253.1
+      "views": 137,
+      "avg_time_seconds": 251.3
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 34,
-      "avg_time_seconds": 66.0
+      "views": 35,
+      "avg_time_seconds": 63.1
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 20,
-      "avg_time_seconds": 29.2
+      "views": 21,
+      "avg_time_seconds": 27.8
     },
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 18,
-      "avg_time_seconds": 24.8
+      "views": 19,
+      "avg_time_seconds": 25.8
     },
     {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 15,
+      "views": 16,
       "avg_time_seconds": 5.8
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 24.4
+      "views": 16,
+      "avg_time_seconds": 23.6
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 5.2
+      "views": 15,
+      "avg_time_seconds": 5.1
     },
     {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 14.8
+      "views": 14,
+      "avg_time_seconds": 14.2
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 13,
+      "views": 14,
       "avg_time_seconds": 5.7
     },
     {
@@ -88,7 +88,7 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 60,
+      "sessions": 61,
       "users": 21
     },
     {

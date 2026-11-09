@@ -17805,7 +17805,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Stepping into a dark room to become part of the system, a young girl is subjected to a three-stage trial by a mysterious man in a suit. To earn her place, she must complete the system's 'CORRUPT' (YOZ) phases.",
     "industry": "world",
-    "popularity": 0.3544,
+    "popularity": 0.3302,
     "original_language": "tr",
     "origin_country": [
       "TR"
@@ -17881,7 +17881,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Indigenous men go in the bush to discuss the problems facing the people in this day and age.",
     "industry": "world",
-    "popularity": 0.172,
+    "popularity": 0.1292,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -17917,7 +17917,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.3026,
+    "popularity": 0.3043,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -17956,7 +17956,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 1.5286,
+    "popularity": 1.4797,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -17992,7 +17992,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "On the vast, desolate grassland, injured Mongolian rider Sichintu is forced to end his horse-racing career and return home. Faced with the fate that his beloved horse may be sold, the departure of old friends, and uncertainty about the future, he finally makes a choice true to his heart. He leaps onto the horse’s back once more, reuniting with all that he once lost.",
     "industry": "world",
-    "popularity": 0.4438,
+    "popularity": 0.4408,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -18028,7 +18028,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A young man attends a rally.",
     "industry": "world",
-    "popularity": 3.5889,
+    "popularity": 2.5132,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -18066,7 +18066,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "One Night In June is a dark drama that introduces Lydia and John, as they face a crossroads in their relationship. Through lies, betrayal and vengeful rage they both commit acts they cannot un-do. John is left with an ultimatum that will change his and Lydia's life forever. This gripping short film confronts the nature of the human experience. Our mistakes, our choices, how they impact the ones we love, and the extreme consequences we face.",
     "industry": "world",
-    "popularity": 1.5291,
+    "popularity": 1.2063,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -18104,7 +18104,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "James takes on the job of a night watchman, unknowingly replacing a man who died just one week prior.",
     "industry": "world",
-    "popularity": 0.8027,
+    "popularity": 0.6665,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -18142,7 +18142,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A young indigenous woman in 1860's Alaska crosses paths with an injured bandit, who is being hunted by someone from the woman's past.",
     "industry": "world",
-    "popularity": 1.0842,
+    "popularity": 0.7706,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -18182,7 +18182,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In the year 2509, Dr. Obi Iheuche, a brilliant scientist and devoted father, is racing against time to save his terminally ill daughter. As Obi secretly develops a device capable of altering time itself, his work draws the attention of the institution for which he works. This film is an Afro-futurist meditation on fatherhood, memory, and the cost of love under unforgiving systems.",
     "industry": "world",
-    "popularity": 1.3245,
+    "popularity": 0.9427,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -18220,7 +18220,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A lonely drunk grows a desire to help another after discovering a seemingly confused naked man in his home.",
     "industry": "world",
-    "popularity": 0.1005,
+    "popularity": 0.1087,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -18258,7 +18258,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An elderly man visits a cemetery after being summoned by his brother, who died several years ago. The meeting turns out to be a ruse orchestrated by Death itself, which has come to claim him because his time has come.",
     "industry": "world",
-    "popularity": 0.3776,
+    "popularity": 0.4592,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -18294,7 +18294,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "After her divorce, Lola tries to rebuild her life amidst raising her children and dealing with the pressures of those around her. An unexpected encounter leads her to explore long-held desires and understand that letting go can also be a way to start over again.",
     "industry": "world",
-    "popularity": 1.5478,
+    "popularity": 1.3615,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -18332,7 +18332,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A man wakes up and slowly discovers he is trapped in a mirror world.",
     "industry": "world",
-    "popularity": 1.392,
+    "popularity": 1.0767,
     "original_language": "en",
     "origin_country": [
       "CA"
@@ -18370,7 +18370,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "María Gabriela Epumer was a woman of innovative talent who created and performed rock music in the 1980s and 90s as a member of Viuda e Hijas de Roque Enroll, as Charly García's guitarist, and as a solo artist. Twenty years after her untimely death, Perfume access to 50 hours of footage she filmed herself?ranging from massive concerts to deeply intimate moments in recording studios and at home.",
     "industry": "world",
-    "popularity": 1.9771,
+    "popularity": 1.3599,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -18410,7 +18410,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Argentina Stone explores how The Rolling Stones inspired one of the most powerful urban subcultures in Latin America. Through archival footage and testimonies from key figures of Argentine rock, the film traces the birth, rise, and legacy of the rolinga movement - a tribe that transformed admiration for a band into a way of life.",
     "industry": "world",
-    "popularity": 2.2615,
+    "popularity": 1.9749,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -18450,7 +18450,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In the Sinai desert, within sight of Sharm el-Sheikh's glittering resorts, nine-year-old Bedouin boy Jarah faces a very different future. His family sends him to camel herder Mohamed to train as a jockey for Zalaga, the region's most prestigious camel race. Victory promises honour for his family and freedom for the boy.",
     "industry": "world",
-    "popularity": 0.5327,
+    "popularity": 0.6208,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -18708,7 +18708,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Follows Mog, a tabby cat, who does a bad thing during a cat show hosted by her family in their garden, hides in the attic feeling sorry for herself, and must find a way to save the day.",
     "industry": "world",
-    "popularity": 1.5007,
+    "popularity": 1.3428,
     "original_language": "en",
     "origin_country": [
       "GB"
@@ -18799,7 +18799,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "An unearthed Polaroid comes with a visitor.",
     "industry": "world",
-    "popularity": 0.0579,
+    "popularity": 0.0664,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -18867,7 +18867,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A Cape Town recording session becomes the final chapter in the extraordinary story of British folk-rock legends Strawbs, as frontman David Cousins confronts illness and prepares for the band's farewell performance.",
     "industry": "world",
-    "popularity": 0.1348,
+    "popularity": 0.123,
     "original_language": "en",
     "origin_country": [
       "GB",
@@ -18973,7 +18973,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Through his late brother’s love of origami, a teenager discovers how a simple fold can connect memory, science, medicine, and hope.",
     "industry": "world",
-    "popularity": 0.2334,
+    "popularity": 0.1194,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -19048,7 +19048,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Three female artists share their stories to paint a perfect picture on how art can be a tool for self-expression and healing.",
     "industry": "world",
-    "popularity": 0.1351,
+    "popularity": 0.1118,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -19124,7 +19124,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A sentimental journey of a desi family navigating the loss of a husband and father as they regain control over their lives.",
     "industry": "world",
-    "popularity": 0.0743,
+    "popularity": 0.0879,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -19209,7 +19209,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "It’s not easy to turn your back on your family and just say ‘Okay, I can do it,' but one grandma's love for a fairy gave her the strength she needed to go through an immigration journey from Iran to the United States.",
     "industry": "world",
-    "popularity": 0.1238,
+    "popularity": 0.1254,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -19286,7 +19286,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A troubled Filipino teen looks to his friends and family for self-understanding and empathizes with their hardships, using this newfound knowledge of his Filipino identity to let his individuality and ethnicity co-exist while wishing his loved ones a pursuit for their own peace.",
     "industry": "world",
-    "popularity": 0.0659,
+    "popularity": 0.0904,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -19323,7 +19323,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "",
     "industry": "world",
-    "popularity": 0.1685,
+    "popularity": 0.6107,
     "original_language": "fr",
     "origin_country": [
       "FR"
@@ -19340,7 +19340,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "FR"
     ],
@@ -19450,7 +19450,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Adapted from a true story of the Beijing Winter Olympics, the film tells the touching story of the Malanhua Children’s Choir. With the help of An Ran, the performance management supervisor for the Opening and Closing Ceremonies, the Winter Olympics team, and Principal Liu from the mountain village primary school, the children overcame numerous hardships to leave their mountain home and step onto the stage of the Beijing Winter Olympics Opening and Closing Ceremonies, singing *Ode to the Olympic* in Greek. Meanwhile, the film reveals more little-known warm and inspiring stories behind the Opening and Closing Ceremonies of the Beijing Winter Olympics and Paralympics, presenting a multi-faceted portrait of the Beijing Winter Olympics Spirit and the Olympic Spirit.",
     "industry": "world",
-    "popularity": 0.4981,
+    "popularity": 0.7655,
     "original_language": "zh",
     "origin_country": [
       "CN"
@@ -19467,7 +19467,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -19560,7 +19560,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Broken English Theater is a documentary-style comedy that revisits the bizarre legacy of Gerardo Directori, a Buenos Aires theater director who, in the early 2000s, ran a company dedicated to staging \"educational\" plays in English for language students, despite not speaking the language himself.",
     "industry": "world",
-    "popularity": 0.6325,
+    "popularity": 0.7278,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -19575,7 +19575,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -19643,7 +19643,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two solitary walkers cross paths at night in a deserted city. As they draw closer, the city changes. Rhythm, synchrony, and direction come to the fore. The walkers and the city intertwine in a single movement.",
     "industry": "world",
-    "popularity": 0.6224,
+    "popularity": 0.6427,
     "original_language": "xx",
     "origin_country": [
       "AR",
@@ -19661,7 +19661,7 @@ window.FA_PUBLISHED = {
       "Animation"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR",
       "FR"
@@ -19729,7 +19729,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Argentina, 1967. On her fifteenth birthday, María mourns the end of her childhood while glimpsing an unfulfilling future as a middle-class woman. Tension escalates when her older cousin Bárbara pushes her to the breaking point.",
     "industry": "world",
-    "popularity": 0.8005,
+    "popularity": 1.3738,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -19747,7 +19747,7 @@ window.FA_PUBLISHED = {
       "Comedy"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -19808,7 +19808,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Three estranged brothers reunite at a notary's office to settle their late father's estate. What begins as a routine procedure turns into an emotional battlefield, where the true inheritance is silence.",
     "industry": "world",
-    "popularity": 0.5253,
+    "popularity": 0.4274,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -19823,7 +19823,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -19892,7 +19892,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In a community in Jujuy, where access to water is a privilege, Pamela works for Amelia, who is responsible for the town's water crisis. As the neighbors confront her, a children's game pushes the conflict beyond its limits.",
     "industry": "world",
-    "popularity": 0.4174,
+    "popularity": 0.6145,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -19907,7 +19907,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -19975,7 +19975,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "In the Azores, Tom and Lila collect dreams from island inhabitants. Through nocturnal stories and volcanic landscapes, an invisible dialogue emerges between territory, memory, and the unconscious.",
     "industry": "world",
-    "popularity": 0.4753,
+    "popularity": 0.3095,
     "original_language": "pt",
     "origin_country": [
       "AR",
@@ -19992,7 +19992,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AR",
       "GB",
@@ -20072,7 +20072,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Witches, Dahlia and Ivy, have been performing the same ritual for over five centuries. To spice things up, Ivy invites baby witch, Oleander, to join them, but Dahlia is not sure she's ready to change her routine.",
     "industry": "world",
-    "popularity": 0.8959,
+    "popularity": 1.5876,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -20090,7 +20090,7 @@ window.FA_PUBLISHED = {
       "Fantasy"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -20155,7 +20155,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "​Trapped in a forbidden affair with his stepmother, a man under the growing influence of an AI companion enters a deadly game in a desperate attempt to earn his father's recognition.",
     "industry": "world",
-    "popularity": 1.9495,
+    "popularity": 1.0497,
     "original_language": "el",
     "origin_country": [
       "GR"
@@ -20173,7 +20173,7 @@ window.FA_PUBLISHED = {
       "Crime"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "GR"
     ],
@@ -20286,7 +20286,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Their first meeting transforms an extraordinary space expedition into an unforgettable love story. As they explore strange planets, witness the birth of stars, and uncover secrets hidden within the fabric of time, their love begins to challenge the laws of the universe itself.  But their relationship faces an impossible choice: save the woman he loves, preserve the future of an entire civilization, or risk changing the destiny of the cosmos forever.  Can love survive across galaxies, dimensions, and time itself?  Somewhere among the stars, two souls may discover that love is the most powerful force in the universe.",
     "industry": "world",
-    "popularity": 0.7365,
+    "popularity": 0.4086,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -20301,7 +20301,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "Across Galaxies. Beyond Time. Forever in Love",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "G",
@@ -20354,7 +20354,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "After winning a scholarship, Bruno, a lonely young man, travels to Buenos Aires for the first time and sets out to meet Tomás, the virtual friend who accompanied him throughout his childhood but with whom he lost contact. To do so, he must follow the trail of photographs that Tomás used to send him in the past, reliving his day-to-day life until he reaches his house. The thread of images and past chats will be the key to understanding why the friendship broke down and, when the photographs lead down a dark path beyond the house, why his tragic fate came to be.",
     "industry": "world",
-    "popularity": 1.1572,
+    "popularity": 0.4593,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -20372,7 +20372,7 @@ window.FA_PUBLISHED = {
       "Fantasy"
     ],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es"
@@ -20433,7 +20433,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Algo más para decir revisits images produced by the Cine Escuela Argentino project, an initiative launched by the Ministry of Education between 1947 and 1952 to support classroom instruction across the country.  The short film offers a journey through these images—acting as a window into the past—to observe what remains, what has changed, and what no longer exists.",
     "industry": "world",
-    "popularity": 0.8471,
+    "popularity": 0.5414,
     "original_language": "es",
     "origin_country": [
       "AR"
@@ -20448,7 +20448,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "Planned",
+    "status": "Released",
     "production_countries": [
       "AR"
     ],
@@ -20457,7 +20457,7 @@ window.FA_PUBLISHED = {
     ],
     "certification": "",
     "release_date": "2026-11-09",
-    "date_kind": "release",
+    "date_kind": "festival",
     "runtime": 7,
     "providers": []
   },
@@ -20510,7 +20510,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Following her tragic death at just 27, Cecilia left behind a legacy of songs that today, 50 years later, continue to soar through our collective pop consciousness. Her boldness, her talent, and her legacy have inspired many of the female singers who came after her. This is her story.",
     "industry": "world",
-    "popularity": 2.6159,
+    "popularity": 0.7343,
     "original_language": "en",
     "origin_country": [
       "ES"
@@ -20525,7 +20525,7 @@ window.FA_PUBLISHED = {
     "revenue": 0,
     "genres": [],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [
       "es"
@@ -20588,7 +20588,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Two teenagers' darkly comic mission to steal a pig's head sends them on a nocturnal journey through the heart of Hong Kong, culminating in a poignant act of resistance to honor an absent friend.",
     "industry": "world",
-    "popularity": 0.2779,
+    "popularity": 0.1157,
     "original_language": "cn",
     "origin_country": [
       "HK"
@@ -20605,7 +20605,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "HK"
     ],
@@ -20674,7 +20674,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "The flirty rivalry between a lone-wolf pickpocket and a charismatic rookie escalates into a spiteful turf war. Tempted by the score of a lifetime, the former enemies are forced to partner up. But when feelings get involved, their well-laid plans quickly fall apart.",
     "industry": "world",
-    "popularity": 2.0129,
+    "popularity": 0.5685,
     "original_language": "en",
     "origin_country": [
       "AU"
@@ -20693,7 +20693,7 @@ window.FA_PUBLISHED = {
       "Romance"
     ],
     "tagline": "This town ain't big enough for the both of them.",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "AU"
     ],
@@ -20701,7 +20701,7 @@ window.FA_PUBLISHED = {
       "en"
     ],
     "certification": "M",
-    "release_date": "2026-11-09",
+    "release_date": "2026-10-31",
     "date_kind": "festival",
     "runtime": 110,
     "providers": []
@@ -20758,7 +20758,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Across cultures and continents, birth has become shaped by systems of control and intervention. A documentary on the maternal health crisis.",
     "industry": "world",
-    "popularity": 0.4055,
+    "popularity": 0.2076,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -20775,7 +20775,7 @@ window.FA_PUBLISHED = {
       "Documentary"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [],
     "spoken_languages": [],
     "certification": "",
@@ -20841,7 +20841,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A 10-year-old student quietly struggles under the overwhelming pressure of school, watching his childhood dreams slowly fold away",
     "industry": "world",
-    "popularity": 0.4514,
+    "popularity": 0.169,
     "original_language": "en",
     "origin_country": [
       "US"
@@ -20858,7 +20858,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "Dreams folded under pressure",
-    "status": "In Production",
+    "status": "Released",
     "production_countries": [
       "IQ"
     ],
@@ -20926,7 +20926,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Seventeen-year-old Sue is sentenced to two years in a juvenile detention facility after becoming violent to protect her bullied friend Lynn. The girls first became friends in a secret online group called 'The Bully Club', where bullied and ostracised teens find support and understanding from each other. For a while, it was the only good thing in Sue and Lynn's lives and gave them a chance to escape their other problems.",
     "industry": "world",
-    "popularity": 0.9535,
+    "popularity": 0.504,
     "original_language": "ko",
     "origin_country": [
       "KR"
@@ -20943,7 +20943,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "production_countries": [
       "KR"
     ],
@@ -32586,7 +32586,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "Motu and Patlu chase John into a time portal after he steals a precious diamond locket, sending them 900 years into the past into the ancient city of Andherius.",
     "industry": "bollywood",
-    "popularity": 0.2733,
+    "popularity": 0.3669,
     "original_language": "hi",
     "origin_country": [
       "IN"
@@ -32613,7 +32613,7 @@ window.FA_PUBLISHED = {
     "certification": "",
     "release_date": "2026-11-08",
     "date_kind": "release",
-    "runtime": 0,
+    "runtime": 66,
     "providers": []
   },
   "1820614": {
@@ -33391,14 +33391,14 @@ window.FA_PUBLISHED = {
   "1820980": {
     "id": 1820980,
     "type": "movie",
-    "title": "Saheb Bhai ki khoi Redmi",
+    "title": "Saheb's stolen Redmi",
     "poster_path": "/oXSintlDKZhcRlqvUqjTwjn7EtK.jpg",
     "backdrop_path": null,
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "When Saheb loses his beloved Redmi phone, a precious gift from his girlfriend, he is left devastated. Desperate to get it back, he seeks help from his three friends—Lal, Bahadur and Shastri. Despite their initial reluctance, the trio joins him in a chaotic search filled with hilarious encounters and unexpected drama. When their efforts fail, they turn to Baba, a quirky astrologer, for help. Eventually, they find the damaged phone and visit a mechanic, who suggests an unusual alternative: stealing a phone from the notorious Lambu Don. What follows is a madcap adventure of comedy, drama and dance, leading to an unexpected twist!",
     "industry": "bollywood",
-    "popularity": 0,
+    "popularity": 0.4464,
     "original_language": "hi",
     "origin_country": [
       "IN"
@@ -33481,7 +33481,7 @@ window.FA_PUBLISHED = {
     "vote_count": 0,
     "overview": "A promising young tennis player finds her dreams threatened when she is targeted by a mysterious figure who is out for her blood.",
     "industry": "world",
-    "popularity": 1.5582,
+    "popularity": 1.4908,
     "original_language": "en",
     "origin_country": [
       "AU"
@@ -34297,5 +34297,797 @@ window.FA_PUBLISHED = {
         "type": "flatrate"
       }
     ]
+  },
+  "1815447": {
+    "id": 1815447,
+    "type": "movie",
+    "title": "My Son’s Sugar Mama",
+    "poster_path": "/qJnUdd4DzWsLTx1GyejjyEAMmhH.jpg",
+    "backdrop_path": "/bN8aeUMlWBrYUUXpmb8ydGVfBYM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A protective mother discovers a wealthy, older woman is showering her young son with gifts and money. As she sets out to expose her, she discovers the woman's obsession with her son is far more dangerous than she ever could have imagined.",
+    "industry": "world",
+    "popularity": 2.0756,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "TV Movie"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": []
+  },
+  "1821357": {
+    "id": 1821357,
+    "type": "movie",
+    "title": "Climat, que justice soit faite !",
+    "poster_path": "/cAM3twCGRkwleKLO66YvZzxVwmT.jpg",
+    "backdrop_path": "/xAnyVXjsyWnVzXlgDxClcgM917b.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1553,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "en"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1511829": {
+    "id": 1511829,
+    "type": "movie",
+    "title": "The Nameless Ballad",
+    "poster_path": "/zFolmuL4eySgeQD9nehG2nUaFRw.jpg",
+    "backdrop_path": "/nSgF1ZENtBmGtGlLEETgVUd3aai.jpg",
+    "vote_average": 4.083,
+    "vote_count": 6,
+    "overview": "Under pressure from his record label, a young musician in crisis takes refuge in an isolated Italian villa to find inspiration for his next album. But the discovery of an ancient piano and a forgotten diary drags him into a spiral of twisted obsessions, supernatural visions and ghostly presences that finally push him to the brink of madness.",
+    "industry": "world",
+    "popularity": 1.8623,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "Death is a powerful muse.",
+    "status": "Released",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "certification": "",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 87,
+    "providers": []
+  },
+  "1821181": {
+    "id": 1821181,
+    "type": "movie",
+    "title": "Heaven",
+    "poster_path": "/pe8ZTF1viKRwxNrdYhXP5qbGS7m.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On 3 February 2018, Luca Traini opens fire in the streets of Macerata, wounding six people. Two of them, Kofi Wilson and Omar Fadera, had reached Italy after a dangerous journey from Ghana and Gambia, risking their lives in the desert and in Libya. They believed they were finally safe in Macerata: “Maybe I’m in Heaven,” Kofi says. But they were not.",
+    "industry": "world",
+    "popularity": 0.1359,
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it",
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 61,
+    "providers": []
+  },
+  "1307474": {
+    "id": 1307474,
+    "type": "movie",
+    "title": "On Behalf of My Son",
+    "poster_path": "/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
+    "backdrop_path": "/tJ2MxAJVk4T2YwGar46S8uq3bzp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
+    "industry": "world",
+    "popularity": 1.979,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-05",
+    "date_kind": "release",
+    "runtime": 148,
+    "providers": []
+  },
+  "1821168": {
+    "id": 1821168,
+    "type": "movie",
+    "title": "L'art de perdre en politique",
+    "poster_path": "/uKjplLSYkmcRZRxWmYkUNpLsapb.jpg",
+    "backdrop_path": "/vjzQcU452a6BqrVPXYb1phv97gC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.1941,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "TP",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1796880": {
+    "id": 1796880,
+    "type": "movie",
+    "title": "The Holiday Spark",
+    "poster_path": "/imbX2GqQgeX1mAKI297qHdxRlMa.jpg",
+    "backdrop_path": "/oQyFYI8HdaKkB1gNaehbs8D0dIP.jpg",
+    "vote_average": 6.0,
+    "vote_count": 5,
+    "overview": "Firefight Dean enlists illustrator Laura to help plan a holiday party for his firehouse. As they plan the epic party, both begin to question their views on romance and the possibility of love at first spark.",
+    "industry": "world",
+    "popularity": 2.8444,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "uzCEBtZnP60",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-02",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1820144": {
+    "id": 1820144,
+    "type": "movie",
+    "title": "The Noah Movie; Epilogue: The Last Don",
+    "poster_path": "/5M73Kz8Gv4UrjZ4QsyoVjDh0lLW.jpg",
+    "backdrop_path": "/pB4AanyLWkYqoSAOtMsrJ3bYFAD.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "4 years after the events of “The Noah Movie: The Complete Epic”,  Noah Feliz is operating quietly in New York City.  Things go wrong quickly once again when he almost gets killed at a friendly dinner hosted by fellow don, Salvatore Giorgio. See how it all ends in this fantastic conclusion to an amazing crime saga.",
+    "industry": "world",
+    "popularity": 0.3075,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Action",
+      "Thriller"
+    ],
+    "tagline": "THE EPIC CONCLUSION TO AN EPIC CRIME SAGA",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "PG-13",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 29,
+    "providers": []
+  },
+  "1815438": {
+    "id": 1815438,
+    "type": "movie",
+    "title": "erōtikós",
+    "poster_path": "/w1Lk1jynfYEAmQxuLfpZX8TIcSo.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "erōtikós is a documentary that expands upon the mythologies of Eros, addressing love, sexuality, and eroticism through clinical, aesthetic, and political lenses.",
+    "industry": "world",
+    "popularity": 0.3622,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1812543": {
+    "id": 1812543,
+    "type": "movie",
+    "title": "The Neighbourhood is Changing: Revisiting Mulberry Street",
+    "poster_path": "/hmlg6e1L6Xk9ZtxxOSo1sgE8eoh.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 2005, a group of up-and-coming filmmakers based in Lower Manhattan set out to make an independent horror film called Mulberry Street, in which a virus turns ordinary New Yorkers into rat people. 20 years later, they reflect on the making of the film and what it has to say about the evolution of New York City.",
+    "industry": "world",
+    "popularity": 1.258,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "18",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 76,
+    "providers": []
+  },
+  "1809555": {
+    "id": 1809555,
+    "type": "movie",
+    "title": "Os Mortos-Vivos: Algo a Temer",
+    "poster_path": "/fXwfLY1L6Lvzata2Rv1Cet4CFPV.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.121,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [],
+    "certification": "16",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1805456": {
+    "id": 1805456,
+    "type": "movie",
+    "title": "The Monster I Made",
+    "poster_path": "/m2b0gRyMdDsbB5Rb8FVlGwxoht4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "June stays endlessly busy and tethered to her devices to keep her demons at bay. But when she forgets to plug in her phone before falling asleep, she’s forced to face the monster her denial has unleashed.",
+    "industry": "world",
+    "popularity": 0.49,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 11,
+    "providers": []
+  },
+  "1805451": {
+    "id": 1805451,
+    "type": "movie",
+    "title": "Cuts",
+    "poster_path": "/mi9oZuBasUOxx4WxaJrraNd3SuM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set on Halloween night, CUTS follows a group of young friends who cross paths with a mysterious figure wearing a cracked clown mask. What they mistake for an elaborate Halloween prank quickly descends into a brutal fight for survival.",
+    "industry": "world",
+    "popularity": 0.1206,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 8500,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 10,
+    "providers": []
+  },
+  "1803408": {
+    "id": 1803408,
+    "type": "movie",
+    "title": "In Your Heart Movie Version",
+    "poster_path": "/ggDTfb2ptIO81LasYBlH2b1Eupt.jpg",
+    "backdrop_path": "/2vL5GEZYjzYbykHqy5S7mX6R21W.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Childhood friends Ling Zi Ming and Cheng Yi, along with bickering duo Lu Xiang Lin and Yue Yu Zhi, have grown up side by side. The four boys share the happiest days of their youth together, but along the way, subtle changes begin to emerge in their feelings for one another. They once believed they would never have to say goodbye, yet as they grow older, their paths gradually lead them in different directions...",
+    "industry": "world",
+    "popularity": 0.7038,
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1803222": {
+    "id": 1803222,
+    "type": "movie",
+    "title": "Hollow Ones",
+    "poster_path": "/leANzObhPQt8h0eZ8p3asiadhyu.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A lonely house on a farm is haunted by a scarecrow, but what lives inside the house is far more dangerous.",
+    "industry": "world",
+    "popularity": 0.6983,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 7000,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 12,
+    "providers": []
+  },
+  "1802622": {
+    "id": 1802622,
+    "type": "movie",
+    "title": "The Fraying",
+    "poster_path": "/pqcGSqs6AdSwIIdSEtyCpfp8m6t.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As a burdened teen girl’s hallucinations intensify, she confides in her devout mother, unaware of a buried truth resurfacing to fracture the reality within their home.",
+    "industry": "world",
+    "popularity": 0.0594,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 3,
+    "providers": []
+  },
+  "1797144": {
+    "id": 1797144,
+    "type": "movie",
+    "title": "Schattenfangen",
+    "poster_path": "/myv2pLKZQYvZffZn9utcuAcMGZd.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Eclipse of the moon. The shadow of the earth gets projected onto the moon's surface. The Super-8 camera tries to catch it. A playful imprint on the emulsion, brought back to light by hand in the darkroom.",
+    "industry": "world",
+    "popularity": 0.133,
+    "original_language": "xx",
+    "origin_country": [
+      "DE",
+      "AT"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "xx"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 4,
+    "providers": []
+  },
+  "1796931": {
+    "id": 1796931,
+    "type": "movie",
+    "title": "Mo Amor",
+    "poster_path": "/6uObZyxJkhj4pofWDvqA3RvBMVp.jpg",
+    "backdrop_path": "/w0lbDPvH8teklMHUqAiwrGBdioh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A photographer turns a modern fairy tale into a deeply personal story of love, identity, and transformation. Princess Niina is adored by three suitors, yet remains restless, searching for something she cannot quite name. Then she sheds her crown and reveals her true self. Inviting her former lovers to a secluded summer home, the stage is set for a strange reunion where memory, myth, and reality begin to intertwine, old wounds resurface, and love takes unexpected forms.",
+    "industry": "world",
+    "popularity": 0.4772,
+    "original_language": "et",
+    "origin_country": [
+      "EE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "EE"
+    ],
+    "spoken_languages": [
+      "et"
+    ],
+    "certification": "",
+    "release_date": "2027-02-12",
+    "date_kind": "release",
+    "runtime": 78,
+    "providers": []
+  },
+  "1796461": {
+    "id": 1796461,
+    "type": "movie",
+    "title": "No Man's Air",
+    "poster_path": "/dNcdoshtDuX33yuKohTVrfFm2Pa.jpg",
+    "backdrop_path": "/hd2qdS7s7b8p2qOXlBjJ0gziPEx.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Cyprus, July 1974. President Makarios has been ousted in a coup, and a Turkish invasion is imminent. A pilot recounts the very last flight to Nicosia Airport: should he land or not?",
+    "industry": "world",
+    "popularity": 0.3648,
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "The last flight to Nicosia Airport with captain Adamos Marneros",
+    "status": "Post Production",
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 42,
+    "providers": []
+  },
+  "1796456": {
+    "id": 1796456,
+    "type": "movie",
+    "title": "My Own Personal Gulag",
+    "poster_path": "/65iVmCV2szwokPcP0EEaR9EJDkw.jpg",
+    "backdrop_path": "/nqVvSjQkOil4RaSH0bkD67cLoW0.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An essay film exploring the gap between the propaganda and reality of Soviet labor camps. Composed entirely of archival footage that often evokes a reality all its own, it juxtaposes conflicting accounts from figures including Gorky and Solzhenitsyn.",
+    "industry": "world",
+    "popularity": 0.3721,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-09",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "certification": "",
+    "release_date": "2026-11-16",
+    "date_kind": "festival",
+    "runtime": 84,
+    "providers": []
   }
 };

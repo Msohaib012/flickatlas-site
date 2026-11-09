@@ -93544,5 +93544,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 04:00:18 GMT"
+  },
+  "1jcpdi0": {
+    "id": "1jcpdi0",
+    "type": "news",
+    "headline": "Fallout 4 Receives Major Content Expansion With Under The Stars Mod",
+    "dek": "A dedicated fan group has released a massive new dungeon and quest mod for Fallout 4, bringing fresh adventures to the long-standing open-world RPG.",
+    "body": [
+      {
+        "h": "Introduction To Under The Stars",
+        "p": [
+          "The Fallout franchise continues to enjoy a surge in popularity, driven by the ongoing success of the television adaptation and enduring classics like Fallout 4. For players seeking fresh experiences in the commonwealth, a dedicated group of enthusiasts has introduced a substantial new modification named Under The Stars.",
+          "Officially designated as CSEP Presents - Under The STARS - Dungeon and Quest Mod, this community-made expansion functions essentially as a DLC-sized addition. It provides a wealth of new content for a title that has been active for over a decade."
+        ]
+      },
+      {
+        "h": "Exploring The Sunken Bunker",
+        "p": [
+          "At the heart of the new modification is a vast subterranean facility uncovered near the glowing sea. Players who travel to the lower section of this hazardous region, situated west of the Sentinel Site, will automatically trigger a brand-new map quest labeled Sunken Bunker.",
+          "This journey leads adventurers deep into treacherous underground corridors filled with dark secrets and concealed horrors. The expansion is designed to test veteran players as they navigate these uncharted subterranean depths."
+        ]
+      },
+      {
+        "h": "Features And Content",
+        "p": [
+          "Beyond the sprawling dungeon environment, the modification introduces several gameplay enhancements and collectible items. Players can solve intricate puzzles throughout the facility and uncover fully voiced holotapes that expand upon the narrative.",
+          "Additionally, the add-on rewards successful explorers with a unique outfit and protective helmet, alongside two powerful brand-new weapons to aid in survival across the wasteland."
+        ]
+      },
+      {
+        "h": "Release And Reception",
+        "p": [
+          "The project officially launched on NexusMods on November 1, 2026, followed quickly by a subsequent update on November 3. Within a very short span, the release accumulated over four thousand downloads and nearly two hundred endorsements from the community.",
+          "Notably, the development team prioritized maintaining strict adherence to established lore. Furthermore, the creators emphasized that the entire expansion was built completely without the use of artificial intelligence."
+        ]
+      },
+      {
+        "h": "The Commonwealth Story Expansion Project",
+        "p": [
+          "The creators behind the project, known as The Commonwealth Story Expansion Project Team, have a strong history of producing notable add-ons for the game. Their previous works include Fallout 4: Detour, which introduced a new town and corresponding missions, as well as Brothers in Arms: Return Of The Outcasts.",
+          "The group has also crafted smaller-scale experiences, such as Pete the Friendly Phantom, which added a Halloween-themed companion quest to the open-world environment."
+        ]
+      },
+      {
+        "h": "Revitalizing The Wasteland Experience",
+        "p": [
+          "With Bethesda's eventual Fallout 5 still far in the future, community-driven projects play a crucial role in maintaining engagement. Expansions like Under The Stars offer an ideal avenue for players experiencing fatigue with the base game to rediscover the universe.",
+          "Available now for download on NexusMods, the expansion delivers a compelling reason for fans to return to the radioactive landscapes of the commonwealth."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A fan development team has launched a new dungeon and quest modification for Fallout 4 called Under The Stars. The expansion adds an underground facility, fresh puzzles, voiced holotapes, and unique gear for players to discover."
+        ]
+      }
+    ],
+    "facts": [
+      "Fallout 4 was released on November 10, 2015.",
+      "The Under The Stars mod was released on NexusMods on November 1, 2026, with an update on November 3, 2026.",
+      "The mod has over 4,000 downloads and almost 200 endorsements.",
+      "The Amazon Prime Video show's third season is expected in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Austin King"
+      ],
+      "titles": [
+        "Fallout",
+        "Fallout 4",
+        "Fallout 76",
+        "Fallout 5",
+        "Fallout 4: Detour",
+        "Brothers in Arms: Return Of The Outcasts",
+        "Pete the Friendly Phantom"
+      ]
+    },
+    "keywords": [
+      "Fallout 4 Under The Stars mod",
+      "Commonwealth Story Expansion Project",
+      "Fallout 4 Sunken Bunker quest",
+      "Under The Stars NexusMods"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/fallout-under-the-stars-mod-of-character-in-front-of-poster.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Fallout 4 Receives Major Content Expansion With Under The Stars Mod",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 06:00:18 GMT"
+  },
+  "6xsnjr": {
+    "id": "6xsnjr",
+    "type": "news",
+    "headline": "Silambarasan TR stars as Daas in Vetri Maaran's Arasan Diwali promotional video",
+    "dek": "The creators of the gangster drama Arasan unveiled a festive promotional video featuring Silambarasan TR as a character named Daas, alongside details of the upcoming film's production and crew.",
+    "body": [
+      {
+        "h": "Festive Character Reveal",
+        "p": [
+          "Makers of the upcoming action film Arasan treated audiences to a special festive promotional video during the holiday season. The newly dropped footage shines a spotlight on lead actor Silambarasan TR, showcasing his entry into the gritty universe built by the filmmaker.",
+          "This promotional release serves as an important update for followers eagerly tracking the project. It provides an early look at the gritty aesthetic and tonal direction of the venture, heightening anticipation across Tamil cinema forums."
+        ]
+      },
+      {
+        "h": "The 'Fire' Glimpse and Music",
+        "p": [
+          "Titled 'Fire,' the newly shared video clip features Silambarasan swinging a sickle during intense, high-energy sequences. The aggressive choreography highlights the fierce nature of the narrative being crafted for the big screen.",
+          "Accompanying the visuals is an energetic gaana track featuring the repeated lyrical hook, 'Fire-u Fire-u Fire-u, Daas annan vandhaale fire-u.' While Anirudh Ravichander remains attached to the movie as its official composer, this specific promotional clip utilizes music created by Thejas Krishna, widely recognized as 808Krshna."
+        ]
+      },
+      {
+        "h": "Production Updates and Cast Announcements",
+        "p": [
+          "Producer Kalaipuli S Thanu has shared that an expanded promotional asset titled 'Arasan World' will debut shortly. Meanwhile, principal photography continues to make headway with shoots occurring in Chennai and other locations.",
+          "The feature boasts a robust ensemble cast that includes Vijay Sethupathi, Priyanka Mohan, Yogi Babu, Andrea Jeremiah, Samuthirakani, Vikranth, Kishore, and Ameer. Recent promotional material has further solidified the involvement of major names like Vijay Sethupathi."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Talent",
+        "p": [
+          "A seasoned technical crew supports the director in bringing the gangster story to life. R Velraj oversees the cinematography, ensuring the visual tone matches the dark themes of the script.",
+          "Additional key crew members include editor R Ramar, art director Jacki, and stunt choreographer Peter Hein. Their combined expertise is expected to anchor the film's action sequences and pacing."
+        ]
+      },
+      {
+        "h": "Release Timeline and Expectations",
+        "p": [
+          "Initial milestones for the feature began in October 2025 with the launch of its first look. Production schedules are actively underway, and internal industry reports point toward a potential Pongal festival theatrical launch, though an exact calendar date remains unconfirmed.",
+          "Silambarasan has previously communicated strong optimism regarding the project, suggesting that the final product will bring pride to the Tamil film industry. Following this commitment, director Vetri Maaran is also slated to collaborate with Dhanush on another project titled 'Thamizh Murugan.'"
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A festive promotional video for the gangster drama Arasan introduced Silambarasan TR as Daas in a high-energy sequence featuring a gaana track. The movie features a large ensemble cast and is currently under production with sights set on a future holiday release."
+        ]
+      }
+    ],
+    "facts": [
+      "Silambarasan TR plays a character named Daas in Arasan.",
+      "The film is directed by Vetri Maaran and produced by Kalaipuli S Thanu.",
+      "The 'Fire' promotional glimpse features music by Thejas Krishna (808Krshna).",
+      "The cast includes Vijay Sethupathi, Priyanka Mohan, Yogi Babu, Andrea Jeremiah, Samuthirakani, Vikranth, Kishore, and Ameer."
+    ],
+    "entities": {
+      "people": [
+        "Silambarasan TR",
+        "Vetri Maaran",
+        "Kalaipuli S Thanu",
+        "Vijay Sethupathi",
+        "Priyanka Mohan",
+        "Yogi Babu",
+        "Andrea Jeremiah",
+        "Samuthirakani",
+        "Vikranth",
+        "Kishore",
+        "Ameer",
+        "Thejas Krishna",
+        "Anirudh Ravichander",
+        "R Velraj",
+        "R Ramar",
+        "Jacki",
+        "Peter Hein",
+        "Dhanush"
+      ],
+      "titles": [
+        "Arasan",
+        "Thamizh Murugan"
+      ]
+    },
+    "keywords": [
+      "Arasan movie",
+      "Silambarasan TR Arasan",
+      "Vetri Maaran Arasan",
+      "Arasan Diwali glimpse"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135671907,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Silambarasan TR stars as Daas in Vetri Maaran's Arasan Diwali promotional video",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T10:50:19+05:30"
+  },
+  "1vywq2m": {
+    "id": "1vywq2m",
+    "type": "news",
+    "headline": "Park Bo Gum Secures National Hairdresser License Before The Village Barber 2 Premiere",
+    "dek": "The acclaimed actor has added a national technical qualification to his credentials, expanding his styling repertoire for the upcoming tvN variety program.",
+    "body": [
+      {
+        "h": "Achieving New Professional Credentials",
+        "p": [
+          "Park Bo Gum has officially successfully completed the national technical qualification examination for hairdressers, a notoriously rigorous test featuring a pass rate between 20 to 30 percent. This new accomplishment builds upon the barber license he previously acquired while serving in the military, giving him dual professional certifications.",
+          "With both qualifications now under his belt, the entertainer is fully prepared to elevate his craft on screen. Fans eagerly anticipate seeing him expand his technical expertise beyond basic styling when his reality program returns to television screens."
+        ]
+      },
+      {
+        "h": "Expanding Styling Skills for the New Season",
+        "p": [
+          "During the inaugural season of the tvN reality series, the celebrity restricted his styling services primarily to standard haircuts and hair coloring treatments. However, armed with his newly minted credentials, viewers will witness him attempt complex perms for the very first time.",
+          "Speaking about his aspirations for the upcoming run, the star expressed a heartfelt wish that the transformations bring magical joy to customers. He noted that the new shop atmosphere is expected to radiate a distinct, comforting warmth compared to the previous installment."
+        ]
+      },
+      {
+        "h": "Show Lineup and Cast Updates",
+        "p": [
+          "The second season introduces significant cast adjustments, highlighted by Go Kyung Pyo stepping into the role of the group's eldest member. Go Kyung Pyo and Park Bo Gum share a longstanding fifteen-year friendship dating back to their early days in the entertainment industry.",
+          "While Lee Sang Yi returns from the original cast to maintain familiar chemistry, former youngest member Kwak Dong Yeon is absent due to his current military enlistment obligations. In promotional footage, the remaining cast members fondly reminisced about giving Kwak Dong Yeon a parting haircut prior to his service."
+        ]
+      },
+      {
+        "h": "Relocating to a Coastal Setting",
+        "p": [
+          "For the upcoming episodes, the cast has established their second pop-up salon in a picturesque small seaside community located in Tongyeong, South Gyeongsang Province. This scenic coastal backdrop provides a fresh aesthetic and a tranquil environment for the participants and their patrons.",
+          "The shift in location promises unique interactions with local residents and travelers alike, creating memorable television moments against a serene maritime landscape."
+        ]
+      },
+      {
+        "h": "Promotional Material and Broadcast Details",
+        "p": [
+          "To build anticipation for the return, tvN published an opening ceremony promotional video that showcases the notable personal and professional growth of the main stylist. The footage highlights the strong camaraderie among the cast members as they prepare for opening day.",
+          "The highly anticipated second season is officially scheduled to premiere on November 29 at 7:45 p.m. KST on the tvN network, following extensive coverage of the star-studded lineup."
+        ]
+      },
+      {
+        "h": "Background of the Multi-Talented Star",
+        "p": [
+          "Park Bo Gum is widely recognized for his acclaimed performances across various television dramas and projects, establishing himself as a prominent figure in the Korean entertainment landscape.",
+          "His extensive television credits include leading roles in popular titles such as Good Boy, Record of Youth, Reply 1988, and Love in the Moonlight, cementing his status as a versatile and beloved performer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Park Bo Gum has earned a national hairdresser license ahead of the November 29 premiere of tvN's variety program The Village Barber Season 2. The upcoming season features cast changes including Go Kyung Pyo and takes place in a seaside village in Tongyeong."
+        ]
+      }
+    ],
+    "facts": [
+      "Park Bo Gum passed the national technical qualification exam for hairdressers",
+      "The hair license exam has an average pass rate of only 20 to 30 percent",
+      "Park Bo Gum previously earned a barber license during his military service",
+      "The Village Barber Season 2 premieres on November 29 at 7:45 p.m. KST on tvN",
+      "Go Kyung Pyo joined as the new eldest of the group",
+      "Park Bo Gum and Go Kyung Pyo have been close friends for 15 years",
+      "Lee Sang Yi returns from the first season",
+      "Kwak Dong Yeon is away due to his military enlistment",
+      "The second shop is located in a small seaside village in Tongyeong, South Gyeongsang Province",
+      "Park Bo Gum starred in Good Boy, Record of Youth, Reply 1988, and Love in the Moonlight"
+    ],
+    "entities": {
+      "people": [
+        "Park Bo Gum",
+        "Go Kyung Pyo",
+        "Lee Sang Yi",
+        "Kwak Dong Yeon"
+      ],
+      "titles": [
+        "The Village Barber",
+        "The Village Barber Season 2",
+        "Good Boy",
+        "Record of Youth",
+        "Reply 1988",
+        "Love in the Moonlight"
+      ]
+    },
+    "keywords": [
+      "Park Bo Gum hair license",
+      "The Village Barber Season 2",
+      "Park Bo Gum tvN variety show",
+      "Go Kyung Pyo The Village Barber"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/YAAo0o_2d.jpg",
+        "caption": "Park Bo Gum Secures National Hairdresser License Before The Village Barber 2 Premiere",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 05:28:12 +0000"
+  },
+  "3plspc": {
+    "id": "3plspc",
+    "type": "news",
+    "headline": "Nvidia CEO Jensen Huang Faces Intense Scrutiny Following Personal Controversy",
+    "dek": "Nvidia co-founder and chief executive Jensen Huang has confirmed an extramarital affair amid allegations linking the woman involved to Chinese intelligence operations.",
+    "body": [
+      {
+        "h": "The Controversy Unfolds",
+        "p": [
+          "Nvidia chief executive Jensen Huang has found himself at the center of a major public storm following reports regarding his private life. The speculation intensified significantly after allegations emerged connecting him to Chinese businesswoman Alice Huang while he remained married to Lori Huang.",
+          "The situation escalated rapidly as the personal matter intersected with geopolitical concerns. Reports indicated that US intelligence officials harbor suspicions regarding the woman's background and potential ties to foreign intelligence services."
+        ]
+      },
+      {
+        "h": "Admission and Apology",
+        "p": [
+          "In the wake of the growing controversy, Jensen Huang addressed the situation directly through a formal letter sent to Nvidia employees. He acknowledged his infidelity and expressed deep remorse for the pain caused to his family and colleagues.",
+          "Within his statement to the staff, the CEO took complete responsibility for his actions. He noted that there existed no excuse for his behavior and extended an apology to his wife, children, and the broader company community."
+        ]
+      },
+      {
+        "h": "Background on Alice Huang",
+        "p": [
+          "The individual at the center of the scrutiny, Alice Huang, also known as Huang Lee, is a former television reporter who subsequently held a senior role at Megaspeed International. The Singapore-based technology firm operates as a customer of Nvidia.",
+          "According to reports stemming from US intelligence memos, intelligence agencies suspected her of potential recruitment by China's Ministry of State Security. The alleged objective involved gathering insights on the Nvidia chief and potentially swaying corporate decisions regarding advanced artificial intelligence chip exports."
+        ]
+      },
+      {
+        "h": "Corporate and Political Response",
+        "p": [
+          "Following the disclosures, Nvidia's board of directors initiated an independent review by establishing a committee composed of independent directors. The corporate entity stated it currently possesses no indication that sensitive proprietary information or national security secrets suffered any compromise.",
+          "In the political sphere, congressional committee chairmen requested that Huang attend a closed-door briefing session scheduled for November 18. Lawmakers aim to address broader questions concerning corporate security and potential foreign intelligence exposure."
+        ]
+      },
+      {
+        "h": "Marriage and Longstanding History",
+        "p": [
+          "Jensen Huang met his spouse, Lori Mills Huang, during their student years at Oregon State University in 1980. Both studied electrical engineering, eventually tying the knot in the year 1985 and raising two children, Spencer and Madison.",
+          "The couple established the Jen-Hsun and Lori Huang Foundation in 2007 to fund education, scientific research, and healthcare initiatives. Their philanthropic contributions include a significant donation directed toward their alma mater."
+        ]
+      },
+      {
+        "h": "Resfaced Footage and Public Reactions",
+        "p": [
+          "As the news gained widespread traction online, archival video clips and photographs began circulating widely across social media platforms. Footage captured in Taipei from previous years showed the executive alongside Alice Huang at various public outings.",
+          "Public figures and commentators offered mixed responses to the unfolding narrative. While political figures like President Trump maintained a measured stance while praising the CEO's professional contributions, the heavy public exposure placed intense pressure on the executive's personal life."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nvidia CEO Jensen Huang acknowledged an extramarital relationship with Alice Huang, a former technology executive whom US intelligence officials suspect of having ties to Chinese intelligence. The executive issued an apology to his wife and colleagues as Nvidia's board launched an independent review and congressional leaders requested a briefing on the matter."
+        ]
+      }
+    ],
+    "facts": [
+      "Jensen Huang's net worth is estimated at approximately $162.2 billion by Forbes.",
+      "Jensen and Lori Huang married in 1985 after meeting at Oregon State University in 1980.",
+      "The couple established the Jen-Hsun and Lori Huang Foundation in 2007.",
+      "Alice Huang is a former executive at Singapore-based technology company Megaspeed.",
+      "Congressional committee chairmen requested a closed-door briefing on November 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jensen Huang",
+        "Lori Huang",
+        "Alice Huang",
+        "Spencer",
+        "Madison",
+        "Emily Chang",
+        "Donald Trump",
+        "Bruce Snyder",
+        "Linda Nil Taskin",
+        "Subodh Kumar",
+        "Aiden Frontier"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Jensen Huang",
+      "Lori Huang",
+      "Alice Huang",
+      "Nvidia CEO affair"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-09t121017-693-75661794206425.jpg",
+        "caption": "Nvidia CEO Jensen Huang Faces Intense Scrutiny Following Personal Controversy",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 12:10:54 +0530"
   }
 };

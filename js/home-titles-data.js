@@ -11251,7 +11251,7 @@ window.FA_PUBLISHED = {
     "status": "In Production",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.3544
+    "popularity": 0.3302
   },
   "1813038": {
     "id": 1813038,
@@ -11299,7 +11299,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.172
+    "popularity": 0.1292
   },
   "1812553": {
     "id": 1812553,
@@ -11324,7 +11324,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.3026
+    "popularity": 0.3043
   },
   "1811193": {
     "id": 1811193,
@@ -11347,7 +11347,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.5286
+    "popularity": 1.4797
   },
   "1811168": {
     "id": 1811168,
@@ -11370,7 +11370,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4438
+    "popularity": 0.4408
   },
   "1810065": {
     "id": 1810065,
@@ -11397,7 +11397,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 3.5889
+    "popularity": 2.5132
   },
   "1809842": {
     "id": 1809842,
@@ -11424,7 +11424,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.5291
+    "popularity": 1.2063
   },
   "1809838": {
     "id": 1809838,
@@ -11451,7 +11451,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.8027
+    "popularity": 0.6665
   },
   "1809836": {
     "id": 1809836,
@@ -11478,7 +11478,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.0842
+    "popularity": 0.7706
   },
   "1809833": {
     "id": 1809833,
@@ -11505,7 +11505,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.3245
+    "popularity": 0.9427
   },
   "1809831": {
     "id": 1809831,
@@ -11532,7 +11532,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.1005
+    "popularity": 0.1087
   },
   "1809676": {
     "id": 1809676,
@@ -11557,7 +11557,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.3776
+    "popularity": 0.4592
   },
   "1809662": {
     "id": 1809662,
@@ -11584,7 +11584,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.5478
+    "popularity": 1.3615
   },
   "1809659": {
     "id": 1809659,
@@ -11611,7 +11611,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.392
+    "popularity": 1.0767
   },
   "1809658": {
     "id": 1809658,
@@ -11638,7 +11638,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.9771
+    "popularity": 1.3599
   },
   "1809595": {
     "id": 1809595,
@@ -11665,7 +11665,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 2.2615
+    "popularity": 1.9749
   },
   "1809422": {
     "id": 1809422,
@@ -11693,7 +11693,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.5327
+    "popularity": 0.6208
   },
   "1813677": {
     "id": 1813677,
@@ -11859,7 +11859,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.5007
+    "popularity": 1.3428
   },
   "1813355": {
     "id": 1813355,
@@ -11916,7 +11916,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.0579
+    "popularity": 0.0664
   },
   "1796321": {
     "id": 1796321,
@@ -11963,7 +11963,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.1348
+    "popularity": 0.123
   },
   "1773374": {
     "id": 1773374,
@@ -12040,7 +12040,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.2334
+    "popularity": 0.1194
   },
   "1803692": {
     "id": 1803692,
@@ -12090,7 +12090,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.1351
+    "popularity": 0.1118
   },
   "1652389": {
     "id": 1652389,
@@ -12142,7 +12142,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.0743
+    "popularity": 0.0879
   },
   "1756307": {
     "id": 1756307,
@@ -12199,7 +12199,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.1238
+    "popularity": 0.1254
   },
   "1733243": {
     "id": 1733243,
@@ -12252,7 +12252,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.0659
+    "popularity": 0.0904
   },
   "1814456": {
     "id": 1814456,
@@ -12276,10 +12276,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.1685
+    "popularity": 0.6107
   },
   "1365224": {
     "id": 1365224,
@@ -12355,10 +12355,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.4981
+    "popularity": 0.7655
   },
   "1773378": {
     "id": 1773378,
@@ -12441,10 +12441,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.6325
+    "popularity": 0.7278
   },
   "1796328": {
     "id": 1796328,
@@ -12498,10 +12498,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.6224
+    "popularity": 0.6427
   },
   "1547311": {
     "id": 1547311,
@@ -12552,10 +12552,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.8005
+    "popularity": 1.3738
   },
   "1792914": {
     "id": 1792914,
@@ -12604,10 +12604,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.5253
+    "popularity": 0.4274
   },
   "939541": {
     "id": 939541,
@@ -12658,10 +12658,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.4174
+    "popularity": 0.6145
   },
   "1731816": {
     "id": 1731816,
@@ -12719,10 +12719,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.4753
+    "popularity": 0.3095
   },
   "1664264": {
     "id": 1664264,
@@ -12782,10 +12782,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.8959
+    "popularity": 1.5876
   },
   "1458300": {
     "id": 1458300,
@@ -12836,10 +12836,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 1.9495
+    "popularity": 1.0497
   },
   "741533": {
     "id": 741533,
@@ -12913,10 +12913,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.7365
+    "popularity": 0.4086
   },
   "1797215": {
     "id": 1797215,
@@ -12961,10 +12961,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 1.1572
+    "popularity": 0.4593
   },
   "1756268": {
     "id": 1756268,
@@ -13014,11 +13014,11 @@ window.FA_PUBLISHED = {
       "xx"
     ],
     "published_at": "2026-11-02",
-    "date_kind": "release",
-    "status": "Planned",
+    "date_kind": "festival",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.8471
+    "popularity": 0.5414
   },
   "1801940": {
     "id": 1801940,
@@ -13068,10 +13068,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 2.6159
+    "popularity": 0.7343
   },
   "1685339": {
     "id": 1685339,
@@ -13124,10 +13124,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.2779
+    "popularity": 0.1157
   },
   "1603262": {
     "id": 1603262,
@@ -13180,10 +13180,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
-    "release_date": "2026-11-09",
-    "popularity": 2.0129
+    "release_date": "2026-10-31",
+    "popularity": 0.5685
   },
   "1811114": {
     "id": 1811114,
@@ -13231,10 +13231,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.4055
+    "popularity": 0.2076
   },
   "1590723": {
     "id": 1590723,
@@ -13285,10 +13285,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-02",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.4514
+    "popularity": 0.169
   },
   "1251608": {
     "id": 1251608,
@@ -13343,10 +13343,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-02",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.9535
+    "popularity": 0.504
   },
   "1815145": {
     "id": 1815145,
@@ -20672,7 +20672,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.2733
+    "popularity": 0.3669
   },
   "1820614": {
     "id": 1820614,
@@ -21185,7 +21185,7 @@ window.FA_PUBLISHED = {
   "1820980": {
     "id": 1820980,
     "type": "movie",
-    "title": "Saheb Bhai ki khoi Redmi",
+    "title": "Saheb's stolen Redmi",
     "poster_path": "/oXSintlDKZhcRlqvUqjTwjn7EtK.jpg",
     "backdrop_path": null,
     "vote_average": 0.0,
@@ -21207,7 +21207,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0
+    "popularity": 0.4464
   },
   "1806725": {
     "id": 1806725,
@@ -21262,7 +21262,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 1.5582
+    "popularity": 1.4908
   },
   "1567605": {
     "id": 1567605,
@@ -21764,5 +21764,528 @@ window.FA_PUBLISHED = {
     ],
     "first_air_date": "2025-07-13",
     "popularity": 15.5263
+  },
+  "1815447": {
+    "id": 1815447,
+    "type": "movie",
+    "title": "My Son’s Sugar Mama",
+    "poster_path": "/qJnUdd4DzWsLTx1GyejjyEAMmhH.jpg",
+    "backdrop_path": "/bN8aeUMlWBrYUUXpmb8ydGVfBYM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A protective mother discovers a wealthy, older woman is showering her young son with gifts and money. As she sets out to expose her, she discovers the woman's obsession with her son is far more dangerous than she ever could have imagined.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-06",
+    "popularity": 2.0756
+  },
+  "1821357": {
+    "id": 1821357,
+    "type": "movie",
+    "title": "Climat, que justice soit faite !",
+    "poster_path": "/cAM3twCGRkwleKLO66YvZzxVwmT.jpg",
+    "backdrop_path": "/xAnyVXjsyWnVzXlgDxClcgM917b.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.1553
+  },
+  "1511829": {
+    "id": 1511829,
+    "type": "movie",
+    "title": "The Nameless Ballad",
+    "poster_path": "/zFolmuL4eySgeQD9nehG2nUaFRw.jpg",
+    "backdrop_path": "/nSgF1ZENtBmGtGlLEETgVUd3aai.jpg",
+    "vote_average": 4.083,
+    "vote_count": 6,
+    "overview": "Under pressure from his record label, a young musician in crisis takes refuge in an isolated Italian villa to find inspiration for his next album. But the discovery of an ancient piano and a forgotten diary drags him into a spiral of twisted obsessions, supernatural visions and ghostly presences that finally push him to the brink of madness.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-05",
+    "popularity": 1.8623
+  },
+  "1821181": {
+    "id": 1821181,
+    "type": "movie",
+    "title": "Heaven",
+    "poster_path": "/pe8ZTF1viKRwxNrdYhXP5qbGS7m.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On 3 February 2018, Luca Traini opens fire in the streets of Macerata, wounding six people. Two of them, Kofi Wilson and Omar Fadera, had reached Italy after a dangerous journey from Ghana and Gambia, risking their lives in the desert and in Libya. They believed they were finally safe in Macerata: “Maybe I’m in Heaven,” Kofi says. But they were not.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it",
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.1359
+  },
+  "1307474": {
+    "id": 1307474,
+    "type": "movie",
+    "title": "On Behalf of My Son",
+    "poster_path": "/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
+    "backdrop_path": "/tJ2MxAJVk4T2YwGar46S8uq3bzp.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley’s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims’ families and apologize, while confronting her own grief and uncertainty.",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-05",
+    "popularity": 1.979
+  },
+  "1821168": {
+    "id": 1821168,
+    "type": "movie",
+    "title": "L'art de perdre en politique",
+    "poster_path": "/uKjplLSYkmcRZRxWmYkUNpLsapb.jpg",
+    "backdrop_path": "/vjzQcU452a6BqrVPXYb1phv97gC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.1941
+  },
+  "1796880": {
+    "id": 1796880,
+    "type": "movie",
+    "title": "The Holiday Spark",
+    "poster_path": "/imbX2GqQgeX1mAKI297qHdxRlMa.jpg",
+    "backdrop_path": "/oQyFYI8HdaKkB1gNaehbs8D0dIP.jpg",
+    "vote_average": 6.0,
+    "vote_count": 5,
+    "overview": "Firefight Dean enlists illustrator Laura to help plan a holiday party for his firehouse. As they plan the epic party, both begin to question their views on romance and the possibility of love at first spark.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-02",
+    "popularity": 2.8444
+  },
+  "1820144": {
+    "id": 1820144,
+    "type": "movie",
+    "title": "The Noah Movie; Epilogue: The Last Don",
+    "poster_path": "/5M73Kz8Gv4UrjZ4QsyoVjDh0lLW.jpg",
+    "backdrop_path": "/pB4AanyLWkYqoSAOtMsrJ3bYFAD.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "4 years after the events of “The Noah Movie: The Complete Epic”,  Noah Feliz is operating quietly in New York City.  Things go wrong quickly once again when he almost gets killed at a friendly dinner hosted by fellow don, Salvatore Giorgio. See how it all ends in this fantastic conclusion to an amazing crime saga.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.3075
+  },
+  "1815438": {
+    "id": 1815438,
+    "type": "movie",
+    "title": "erōtikós",
+    "poster_path": "/w1Lk1jynfYEAmQxuLfpZX8TIcSo.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "erōtikós is a documentary that expands upon the mythologies of Eros, addressing love, sexuality, and eroticism through clinical, aesthetic, and political lenses.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.3622
+  },
+  "1812543": {
+    "id": 1812543,
+    "type": "movie",
+    "title": "The Neighbourhood is Changing: Revisiting Mulberry Street",
+    "poster_path": "/hmlg6e1L6Xk9ZtxxOSo1sgE8eoh.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 2005, a group of up-and-coming filmmakers based in Lower Manhattan set out to make an independent horror film called Mulberry Street, in which a virus turns ordinary New Yorkers into rat people. 20 years later, they reflect on the making of the film and what it has to say about the evolution of New York City.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 1.258
+  },
+  "1809555": {
+    "id": 1809555,
+    "type": "movie",
+    "title": "Os Mortos-Vivos: Algo a Temer",
+    "poster_path": "/fXwfLY1L6Lvzata2Rv1Cet4CFPV.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.121
+  },
+  "1805456": {
+    "id": 1805456,
+    "type": "movie",
+    "title": "The Monster I Made",
+    "poster_path": "/m2b0gRyMdDsbB5Rb8FVlGwxoht4.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "June stays endlessly busy and tethered to her devices to keep her demons at bay. But when she forgets to plug in her phone before falling asleep, she’s forced to face the monster her denial has unleashed.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.49
+  },
+  "1805451": {
+    "id": 1805451,
+    "type": "movie",
+    "title": "Cuts",
+    "poster_path": "/mi9oZuBasUOxx4WxaJrraNd3SuM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Set on Halloween night, CUTS follows a group of young friends who cross paths with a mysterious figure wearing a cracked clown mask. What they mistake for an elaborate Halloween prank quickly descends into a brutal fight for survival.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.1206
+  },
+  "1803408": {
+    "id": 1803408,
+    "type": "movie",
+    "title": "In Your Heart Movie Version",
+    "poster_path": "/ggDTfb2ptIO81LasYBlH2b1Eupt.jpg",
+    "backdrop_path": "/2vL5GEZYjzYbykHqy5S7mX6R21W.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Childhood friends Ling Zi Ming and Cheng Yi, along with bickering duo Lu Xiang Lin and Yue Yu Zhi, have grown up side by side. The four boys share the happiest days of their youth together, but along the way, subtle changes begin to emerge in their feelings for one another. They once believed they would never have to say goodbye, yet as they grow older, their paths gradually lead them in different directions...",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "CN"
+    ],
+    "production_countries": [
+      "CN"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.7038
+  },
+  "1803222": {
+    "id": 1803222,
+    "type": "movie",
+    "title": "Hollow Ones",
+    "poster_path": "/leANzObhPQt8h0eZ8p3asiadhyu.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A lonely house on a farm is haunted by a scarecrow, but what lives inside the house is far more dangerous.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.6983
+  },
+  "1802622": {
+    "id": 1802622,
+    "type": "movie",
+    "title": "The Fraying",
+    "poster_path": "/pqcGSqs6AdSwIIdSEtyCpfp8m6t.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As a burdened teen girl’s hallucinations intensify, she confides in her devout mother, unaware of a buried truth resurfacing to fracture the reality within their home.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.0594
+  },
+  "1797144": {
+    "id": 1797144,
+    "type": "movie",
+    "title": "Schattenfangen",
+    "poster_path": "/myv2pLKZQYvZffZn9utcuAcMGZd.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Eclipse of the moon. The shadow of the earth gets projected onto the moon's surface. The Super-8 camera tries to catch it. A playful imprint on the emulsion, brought back to light by hand in the darkroom.",
+    "industry": "world",
+    "original_language": "xx",
+    "origin_country": [
+      "DE",
+      "AT"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "xx"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.133
+  },
+  "1796931": {
+    "id": 1796931,
+    "type": "movie",
+    "title": "Mo Amor",
+    "poster_path": "/6uObZyxJkhj4pofWDvqA3RvBMVp.jpg",
+    "backdrop_path": "/w0lbDPvH8teklMHUqAiwrGBdioh.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A photographer turns a modern fairy tale into a deeply personal story of love, identity, and transformation. Princess Niina is adored by three suitors, yet remains restless, searching for something she cannot quite name. Then she sheds her crown and reveals her true self. Inviting her former lovers to a secluded summer home, the stage is set for a strange reunion where memory, myth, and reality begin to intertwine, old wounds resurface, and love takes unexpected forms.",
+    "industry": "world",
+    "original_language": "et",
+    "origin_country": [
+      "EE"
+    ],
+    "production_countries": [
+      "EE"
+    ],
+    "spoken_languages": [
+      "et"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2027-02-12",
+    "popularity": 0.4772
+  },
+  "1796461": {
+    "id": 1796461,
+    "type": "movie",
+    "title": "No Man's Air",
+    "poster_path": "/dNcdoshtDuX33yuKohTVrfFm2Pa.jpg",
+    "backdrop_path": "/hd2qdS7s7b8p2qOXlBjJ0gziPEx.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Cyprus, July 1974. President Makarios has been ousted in a coup, and a Turkish invasion is imminent. A pilot recounts the very last flight to Nicosia Airport: should he land or not?",
+    "industry": "world",
+    "original_language": "nl",
+    "origin_country": [
+      "NL"
+    ],
+    "production_countries": [
+      "NL"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.3648
+  },
+  "1796456": {
+    "id": 1796456,
+    "type": "movie",
+    "title": "My Own Personal Gulag",
+    "poster_path": "/65iVmCV2szwokPcP0EEaR9EJDkw.jpg",
+    "backdrop_path": "/nqVvSjQkOil4RaSH0bkD67cLoW0.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An essay film exploring the gap between the propaganda and reality of Soviet labor camps. Composed entirely of archival footage that often evokes a reality all its own, it juxtaposes conflicting accounts from figures including Gorky and Solzhenitsyn.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [
+      "ru"
+    ],
+    "published_at": "2026-11-09",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-16",
+    "popularity": 0.3721
   }
 };
