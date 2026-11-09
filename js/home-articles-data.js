@@ -36,6 +36,38 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-09T18:52:38Z"
   },
+  "111rs1q": {
+    "id": "111rs1q",
+    "type": "news",
+    "headline": "Sunshine Through The Rain Episodes 10-11 Release Timings: What to Expect from the New Cdrama Chapters Today",
+    "dek": "As the Chinese urban romance Sunshine Through The Rain nears the halfway point of its run, fans can expect new developments in the love triangle and emotional revelations between Chen Yan and Zheng Yu.",
+    "entities": {
+      "people": [
+        "Winwin",
+        "Yang Chao Yue",
+        "Chen Yan",
+        "Zheng Yu",
+        "Xie Yu Di"
+      ],
+      "titles": [
+        "Sunshine Through The Rain"
+      ]
+    },
+    "keywords": [
+      "Sunshine Through The Rain",
+      "Winwin Yang Chao Yue",
+      "Sunshine Through The Rain episodes 10 11",
+      "Sunshine Through The Rain release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-09t130655-715-60921794210292.jpg",
+        "caption": "Sunshine Through The Rain Episodes 10-11 Release Timings: What to Expect from the New Cdrama Chapters Today",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 00:10:15 +0530"
+  },
   "6efqgn": {
     "id": "6efqgn",
     "type": "news",
@@ -82,6 +114,129 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 00:05:49 +0530"
+  },
+  "1m2ctgd": {
+    "id": "1m2ctgd",
+    "type": "news",
+    "headline": "How Artisans in Rural Assam Handcrafted the Special Armour for Ranbir Kapoor's Epic Film",
+    "dek": "A small team of traditional craftspeople in Assam's Barpeta district spent over three years designing and creating intricate wearable armour for Nitesh Tiwari's mythological feature.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Ravie Dubey",
+        "Jaynal Abdin",
+        "Abdul Malek",
+        "Ajay",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana film armour",
+      "Ranbir Kapoor Ramayana",
+      "Jaynal Abdin Barpeta Assam",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135690868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "How Artisans in Rural Assam Handcrafted the Special Armour for Ranbir Kapoor's Epic Film",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T23:36:30+05:30"
+  },
+  "11534un": {
+    "id": "11534un",
+    "type": "news",
+    "headline": "Why Godzilla Minus Zero Surpasses Minus One As The Ultimate Kaiju Feature",
+    "dek": "A lifelong Godzilla enthusiast explains how the sequel elevates human drama, IMAX immersion, and emotional resonance to new heights.",
+    "entities": {
+      "people": [
+        "Kōichi Shikishima",
+        "Ryunosuke Kamiki",
+        "Noriko",
+        "Minami Hamabe",
+        "Akiko",
+        "Sae Nagatani",
+        "Kanji Murakami",
+        "Min Tanaka",
+        "Kenji Noda",
+        "Hidetaka Yoshioka",
+        "Makoto Aoyama",
+        "Masami Nagasawa",
+        "Rich Knight",
+        "Jason David Frank"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "MonsterVerse",
+        "The Prestige",
+        "Avatar",
+        "Legend Of The White Dragon",
+        "Godzilla, Mothra, and King Ghidorah: Giant Monsters All-Out Attack",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus One",
+      "King Ghidorah",
+      "Ryunosuke Kamiki",
+      "Minami Hamabe"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/rRPHXjp9Agg7vJSbYz98be-2000-80.jpg",
+        "caption": "Why Godzilla Minus Zero Surpasses Minus One As The Ultimate Kaiju Feature",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:05:00 +0000"
+  },
+  "1img69e": {
+    "id": "1img69e",
+    "type": "news",
+    "headline": "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans",
+    "dek": "Actor Jack Black and music legend Celine Dion were recently spotted letting loose together at a Metallica concert hosted at the state-of-the-art Sphere venue in Las Vegas.",
+    "entities": {
+      "people": [
+        "Jack Black",
+        "Celine Dion",
+        "James Hetfield",
+        "Lars Ulrich"
+      ],
+      "titles": [
+        "Metallica",
+        "Tenacious D",
+        "School of Rock",
+        "Blackened",
+        "...And Justice for All",
+        "The Super Mario Galaxy Movie",
+        "Jumanji: Open World",
+        "A Minecraft Movie Squared"
+      ]
+    },
+    "keywords": [
+      "Jack Black Metallica",
+      "Celine Dion Metallica Sphere",
+      "Jack Black Las Vegas Sphere",
+      "Metallica Sphere Las Vegas"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/WJ9qSAzdp9VFovpx6xW29b-2000-80.jpg",
+        "caption": "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:00:49 +0000"
   },
   "wvc0a5": {
     "id": "wvc0a5",
@@ -4383,48 +4538,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-08T15:00:05Z"
-  },
-  "gwm9fu": {
-    "id": "gwm9fu",
-    "type": "news",
-    "headline": "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential",
-    "dek": "Fans of the smash-hit Yellowstone spin-off must exercise patience as the creative team gears up for the second season following a record-breaking premiere run.",
-    "entities": {
-      "people": [
-        "Taylor Sheridan",
-        "Kelly Reilly",
-        "Cole Hauser",
-        "Finn Little",
-        "Raoul Max Trujillo",
-        "Annette Bening",
-        "Natalie Alyn Lind",
-        "Jai Courtney",
-        "Juan Pablo Raba",
-        "Matt Thunell",
-        "Benjamin Cavell",
-        "Chad Feehan",
-        "Ash Santos"
-      ],
-      "titles": [
-        "Dutton Ranch",
-        "Yellowstone",
-        "Marshals"
-      ]
-    },
-    "keywords": [
-      "Dutton Ranch Season 2",
-      "Paramount+ Dutton Ranch",
-      "Kelly Reilly Cole Hauser",
-      "Dutton Ranch release date"
-    ],
-    "images": [
-      {
-        "url": "https://decider.com/wp-content/uploads/2026/10/dr.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
-        "caption": "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential",
-        "source": "Decider"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 10:00:00 -0500"
   },
   "137eag": {
     "id": "137eag",

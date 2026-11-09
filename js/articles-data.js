@@ -98811,5 +98811,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-09T18:52:38Z"
+  },
+  "111rs1q": {
+    "id": "111rs1q",
+    "type": "news",
+    "headline": "Sunshine Through The Rain Episodes 10-11 Release Timings: What to Expect from the New Cdrama Chapters Today",
+    "dek": "As the Chinese urban romance Sunshine Through The Rain nears the halfway point of its run, fans can expect new developments in the love triangle and emotional revelations between Chen Yan and Zheng Yu.",
+    "body": [
+      {
+        "h": "Reaching the Halfway Point",
+        "p": [
+          "The Chinese drama Sunshine Through The Rain is quickly approaching the midpoint of its broadcast run. Featuring Winwin and Yang Chao Yue in the principal roles, the series adopts a popular urban romance format based on school rivals turning into lovers.",
+          "Audience interest has steadily climbed thanks to the engaging narrative and the charming chemistry between the lead characters as their story unfolds on screen."
+        ]
+      },
+      {
+        "h": "Plot Developments and Love Triangle Tensions",
+        "p": [
+          "The upcoming episodes will see growing complexity in the central relationships. Xie Yu Di's persistent obsession with Zheng Yu continues to create friction, while Chen Yan's romantic feelings for her begin to deepen.",
+          "An intensifying love triangle has left viewers eagerly anticipating the next turns in the plot as character dynamics shift and personal stakes rise."
+        ]
+      },
+      {
+        "h": "Hospital Twists and Medical Revelations",
+        "p": [
+          "Previews indicate that upcoming chapters will feature an unexpected hospital visit. After Chen Yan develops a fever from the rain, Zheng Yu accompanies him to see a doctor for medical attention.",
+          "During the consultation, a conversation about allergies reveals that Chen Yan is allergic to eggs and has been taking medication, a detail that Zheng Yu overhears and uses to suggest they spend more time understanding each other."
+        ]
+      },
+      {
+        "h": "Confrontations and Protective Gestures",
+        "p": [
+          "Tensions also flare when Chen Yan engages in a physical altercation with Xie Yu after sensitive details about Zheng Yu's mother are brought up in front of classmates.",
+          "Zheng Yu later tends to Chen Yan's injury and expresses her gratitude for his willingness to stand up for her against the remarks made by their schoolmate."
+        ]
+      },
+      {
+        "h": "Schedule and Streaming Platform Details",
+        "p": [
+          "The latest chapters are scheduled to release today on MGTV. SVIP subscribers will gain entry to Episodes 10 and 11, whereas VIP members will have access to streaming for Episodes 9 and 10.",
+          "Official releases are timed for 12:00 PM Beijing Time, which corresponds to 9:30 AM Indian Standard Time."
+        ]
+      },
+      {
+        "h": "Alternative Viewing Options",
+        "p": [
+          "Viewers looking for alternate access can occasionally find fan-uploaded versions featuring English subtitles on Dailymotion following the official premiere.",
+          "Fans searching for these alternative uploads typically look up specific phrases related to the episode titles to watch the subtitled content online."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Chinese drama Sunshine Through The Rain is releasing its latest episodes on MGTV with new developments in the relationship between Winwin and Yang Chao Yue's characters. Upcoming scenes highlight medical disclosures, interpersonal conflicts at school, and scheduled streaming times for subscribers."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunshine Through The Rain episodes 10-11 release date is November 10, 2026",
+      "Winwin and Yang Chao Yue star in Sunshine Through The Rain",
+      "Episodes 10-11 premiere at 12:00 PM Beijing Time (9:30 AM IST)",
+      "Episodes are released on MGTV"
+    ],
+    "entities": {
+      "people": [
+        "Winwin",
+        "Yang Chao Yue",
+        "Chen Yan",
+        "Zheng Yu",
+        "Xie Yu Di"
+      ],
+      "titles": [
+        "Sunshine Through The Rain"
+      ]
+    },
+    "keywords": [
+      "Sunshine Through The Rain",
+      "Winwin Yang Chao Yue",
+      "Sunshine Through The Rain episodes 10 11",
+      "Sunshine Through The Rain release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-09t130655-715-60921794210292.jpg",
+        "caption": "Sunshine Through The Rain Episodes 10-11 Release Timings: What to Expect from the New Cdrama Chapters Today",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 00:10:15 +0530"
+  },
+  "11534un": {
+    "id": "11534un",
+    "type": "news",
+    "headline": "Why Godzilla Minus Zero Surpasses Minus One As The Ultimate Kaiju Feature",
+    "dek": "A lifelong Godzilla enthusiast explains how the sequel elevates human drama, IMAX immersion, and emotional resonance to new heights.",
+    "body": [
+      {
+        "h": "A Lifelong Passion For The Franchise",
+        "p": [
+          "For anyone dedicated to the lore of the iconic radioactive monster, finding a film that outdoes previous installments is a rare thrill. Having followed every era of the franchise, from classic entries to animated iterations, expectations were sky-high when approaching the cinematic landscape following earlier successes.",
+          "Despite a deep appreciation for past titles, the follow-up picture manages to redefine expectations completely. Longtime enthusiasts who have tracked the character across cinematic history will find that this latest chapter establishes an entirely new benchmark for the franchise."
+        ]
+      },
+      {
+        "h": "Deepening The Human Drama",
+        "p": [
+          "Much of the acclaim surrounding the predecessor stemmed from its focus on everyday people rather than just monster destruction. The sequel leans even further into this narrative choice, placing intricate personal struggles right at the forefront of the storytelling.",
+          "The core family dynamic features Kōichi Shikishima and Noriko as a married couple raising their adopted daughter Akiko. Complications arise as Noriko assists at an orphanage filled with children who lost their parents to wartime tragedy and monster attacks, creating palpable friction around Akiko."
+        ]
+      },
+      {
+        "h": "Exploring The Weight Of Survivor's Guilt",
+        "p": [
+          "New faces join the returning roster to expand the emotional depth of the narrative. Kanji Murakami struggles with profound remorse over losing his family during the bombing of Hiroshima, adding a heavy historical parallel to the proceedings.",
+          "Meanwhile, Kenji Noda returns in a leadership role with the Large-Scale Disaster Response Bureau alongside Makoto Aoyama, a meteorologist connecting monster appearances to weather patterns. Both characters grapple with their own burdens, exploring whether guilt can be channeled to protect others or if it drags individuals down."
+        ]
+      },
+      {
+        "h": "An Unmatched IMAX Experience",
+        "p": [
+          "Beyond the dramatic elements, the visual presentation demands the largest screen possible. The production utilizes large-format screening spaces so effectively that viewing it anywhere else feels incomplete.",
+          "The sheer volume and colossal scale of the creatures make theatrical immersion vital. Particular sequences, such as a relentless aerial pursuit involving a major antagonist, deliver palpable tension that resonates physically throughout the auditorium."
+        ]
+      },
+      {
+        "h": "A Landmark Kaiju Confrontation",
+        "p": [
+          "The centerpiece of the production is a monumental clash involving the primary monster and King Ghidorah. When the central antagonist enters the fray, it commands total attention with intense, visceral combat choreography.",
+          "Although the titular beast endures a brutal beating initially, a triumphant rally backed by a soaring musical score and a massive atomic breath sequence delivers a masterclass in blockbuster action."
+        ]
+      },
+      {
+        "h": "Emotional Resonance And Tears",
+        "p": [
+          "Unlike earlier entries, this installment evokes genuine emotional tears through its heavy themes and character interactions. Moments of sheer terror during aerial attacks blend seamlessly with quiet, heartbreaking farewells at the orphanage.",
+          "These poignant developments cement the feature not just as a spectacle of destruction, but as a deeply affecting human story that lingers long after the credits roll."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A dedicated franchise follower argues that the sequel to a celebrated monster movie successfully surpasses its predecessor through expanded human drama and intense cinematic framing. By combining emotional character arcs centering on survivor's guilt with an unprecedented IMAX presentation and a landmark battle against King Ghidorah, the production redefines the legendary series."
+        ]
+      }
+    ],
+    "facts": [
+      "Kōichi Shikishima is played by Ryunosuke Kamiki",
+      "Noriko is played by Minami Hamabe",
+      "Akiko is played by Sae Nagatani",
+      "Kanji Murakami is played by Min Tanaka",
+      "Kenji Noda is played by Hidetaka Yoshioka",
+      "Makoto Aoyama is played by Masami Nagasawa",
+      "Godzilla Minus One was a favorite movie of 2023"
+    ],
+    "entities": {
+      "people": [
+        "Kōichi Shikishima",
+        "Ryunosuke Kamiki",
+        "Noriko",
+        "Minami Hamabe",
+        "Akiko",
+        "Sae Nagatani",
+        "Kanji Murakami",
+        "Min Tanaka",
+        "Kenji Noda",
+        "Hidetaka Yoshioka",
+        "Makoto Aoyama",
+        "Masami Nagasawa",
+        "Rich Knight",
+        "Jason David Frank"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "MonsterVerse",
+        "The Prestige",
+        "Avatar",
+        "Legend Of The White Dragon",
+        "Godzilla, Mothra, and King Ghidorah: Giant Monsters All-Out Attack",
+        "The Odyssey"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus One",
+      "King Ghidorah",
+      "Ryunosuke Kamiki",
+      "Minami Hamabe"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/rRPHXjp9Agg7vJSbYz98be-2000-80.jpg",
+        "caption": "Why Godzilla Minus Zero Surpasses Minus One As The Ultimate Kaiju Feature",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:05:00 +0000"
+  },
+  "1m2ctgd": {
+    "id": "1m2ctgd",
+    "type": "news",
+    "headline": "How Artisans in Rural Assam Handcrafted the Special Armour for Ranbir Kapoor's Epic Film",
+    "dek": "A small team of traditional craftspeople in Assam's Barpeta district spent over three years designing and creating intricate wearable armour for Nitesh Tiwari's mythological feature.",
+    "body": [
+      {
+        "h": "Traditional Craftsmanship Meets Big-Budget Cinema",
+        "p": [
+          "The making of Nitesh Tiwari's grand mythological production brought together high-end cinematic ambition and ancient regional artistry. Hidden away in a small settlement in Assam, a dedicated group of craftspeople contributed significantly to the visual texture of the film by building specialized wearable equipment.",
+          "While major film productions typically rely on industrial or urban prop houses, this particular assignment found its way to rural artisans whose expertise in working with natural materials proved invaluable for the project's distinct aesthetic requirements."
+        ]
+      },
+      {
+        "h": "The Journey from Barpeta to the Production Team",
+        "p": [
+          "Master artisan Jaynal Abdin spearheaded a fifteen-member team residing in Jania Banglipara village. The opportunity arrived through local channels when Abdul Malek of the regional organization Gram Unnayan was approached with initial design documents and reference drawings.",
+          "After reviewing the paperwork, Abdin confirmed his team's capability to undertake the assignment. Representatives from the production side subsequently visited the village, with one team member remaining on-site to assist with proper measurements and necessary adjustments."
+        ]
+      },
+      {
+        "h": "Overcoming Technical Hurdles With Materials",
+        "p": [
+          "Constructing durable and wearable gear for intense cinematic sequences presented severe practical obstacles. The initial prototypes crafted solely from stiff cane suffered from fit complications around the neck and shoulder areas.",
+          "Once trial pieces were tested on the lead actor, the pure cane structure proved overly rigid and restrictive for fluid physical movement. Consequently, the creators consulted with costume designer Ajay to test alternative combinations."
+        ]
+      },
+      {
+        "h": "Innovating a Cane and Rubber Solution",
+        "p": [
+          "Following the failed initial trials, the production supplied alternative resources including black and green rubber. Pure rubber weaving also failed to yield the desired structural integrity on its own.",
+          "Abdin ultimately proposed a hybrid construction method utilizing equal parts cane and rubber. This blended approach successfully balanced structural durability with the flexibility required for action-heavy sequences."
+        ]
+      },
+      {
+        "h": "Logistics and Airport Deliveries",
+        "p": [
+          "The manufacturing process spanned roughly three and a half years on an intermittent basis, with production requests arriving unpredictably over months of silence followed by urgent short-notice demands.",
+          "To meet strict filming deadlines in Mumbai, completed pieces were transported directly from the village to Guwahati Airport. Designated handlers received the shipments at the terminal, ensuring fast dispatch to the studio unit."
+        ]
+      },
+      {
+        "h": "Strict Secrecy and Ultimate Recognition",
+        "p": [
+          "Throughout the extended manufacturing timeline, the fifteen local craftspeople operated under strict confidentiality agreements. They were kept unaware of the final project's true identity, receiving only assurances that their craftsmanship would eventually earn them distinction.",
+          "With the film hitting theaters on November 5, the artisans finally learned where their handiwork ended up. Abdin expressed deep pride on behalf of his entire team, his home village of Jania Banglipara, and the wider Barpeta district."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A fifteen-member artisan team led by Jaynal Abdin in Assam's Barpeta district spent three and a half years handcrafting thirty to thirty-five pieces of cane-and-rubber armour for Nitesh Tiwari's film Ramayana. Working in secrecy without knowing the project's identity beforehand, the local craftspeople successfully resolved early fitting issues to supply wearable gear for the production.",
+          "The finished items were shipped directly through Guwahati Airport to meet urgent shooting requirements, bringing regional recognition to Jania Banglipara following the movie's November release."
+        ]
+      }
+    ],
+    "facts": [
+      "The film Ramayana was released on November 5",
+      "The armour took three-and-a-half years to make",
+      "15 artisans from Jania Banglipara village in Assam's Barpeta district handcrafted the pieces",
+      "Master artisan Jaynal Abdin led the team",
+      "The project reached Abdin via Abdul Malek of Gram Unnayan",
+      "30 to 35 pieces of cane-and-rubber armour were sent",
+      "The film is directed by Nitesh Tiwari",
+      "The cast includes Ranbir Kapoor, Ravie Dubey, Sai Pallavi, and Yash"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Ravie Dubey",
+        "Jaynal Abdin",
+        "Abdul Malek",
+        "Ajay",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana film armour",
+      "Ranbir Kapoor Ramayana",
+      "Jaynal Abdin Barpeta Assam",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135690868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "How Artisans in Rural Assam Handcrafted the Special Armour for Ranbir Kapoor's Epic Film",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T23:36:30+05:30"
+  },
+  "1img69e": {
+    "id": "1img69e",
+    "type": "news",
+    "headline": "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans",
+    "dek": "Actor Jack Black and music legend Celine Dion were recently spotted letting loose together at a Metallica concert hosted at the state-of-the-art Sphere venue in Las Vegas.",
+    "body": [
+      {
+        "h": "An Iconic Venue and a Legendary Band",
+        "p": [
+          "The state-of-the-art Sphere venue in Las Vegas recently played host to a high-energy performance by the world-famous metal band Metallica. Known for their elaborate pyrotechnics and massive visual productions, the group delivered a memorable evening for the massive crowd in attendance.",
+          "Among the enthusiastic audience members was actor and musician Jack Black, who is well-known for his own musical background with Tenacious D and his passion for heavy metal music. His total immersion in the concert experience served as a striking example of unbridled enthusiasm for live entertainment."
+        ]
+      },
+      {
+        "h": "Jack Black Loses Control to the Music",
+        "p": [
+          "Sporting a scruffy beard and a backwards baseball cap, the School of Rock star was captured on video completely losing himself in the performance. He was fully engaged as frontman James Hetfield belted out lyrics from the classic track Blackened off the landmark album ...And Justice for All.",
+          "Observers noted that his free-spirited dancing and visible joy offered a refreshing reminder of the enduring power of live music. Rather than sitting back, the actor leaned heavily into the frenetic atmosphere generated by the iconic metal act."
+        ]
+      },
+      {
+        "h": "The Unexpected Presence of Celine Dion",
+        "p": [
+          "Adding an entirely unforeseen twist to the evening, legendary vocalist Celine Dion was spotted just a few seats away from Jack Black. The iconic singer, who is deeply familiar with the entertainment landscape of Sin City following her historic run of residency shows at Caesars Palace, appeared entirely caught up in the heavy metal energy.",
+          "Footage from the event showed Dion enthusiastically headbanging alongside Black and playfully air drumming along to the beats of drummer Lars Ulrich. Her unexpected appearance at a Metallica show quickly became a major talking point for fans and media outlets alike."
+        ]
+      },
+      {
+        "h": "A Surprising Concert Pairing",
+        "p": [
+          "While seeing an enthusiastic rock fan like Jack Black headbanging at a heavy metal gig feels entirely natural, spotting a pop and vocal legend like Celine Dion in the same section was genuinely shocking. Observers pointed out that while spotting Dion at a classic pop or nostalgia show in Las Vegas would be routine, her presence at a Metallica concert broke all expectations.",
+          "The juxtaposition of the two iconic entertainers rocking out side by side created a viral moment that delighted fans across social media platforms, highlighting the unexpected ways different corners of the entertainment industry can intersect."
+        ]
+      },
+      {
+        "h": "Jack Black’s Busy Upcoming Schedule",
+        "p": [
+          "The high-energy night out provided a much-needed outlet for Jack Black ahead of what promises to be a remarkably demanding professional calendar. The performer enjoyed a massive box office triumph earlier in the spring with the release of The Super Mario Galaxy Movie.",
+          "Looking ahead, his schedule remains packed with high-profile projects, including the upcoming theatrical release of Jumanji: Open World on Christmas Day, as well as participation in A Minecraft Movie Squared slated for future release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jack Black and Celine Dion were recently seen enjoying a Metallica performance at the Sphere venue in Las Vegas, surprising fans with their energetic participation. The unexpected pairing of the two iconic stars generated widespread attention as Black prepares for a busy slate of upcoming film releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Jack Black attended a Metallica concert at the Sphere in Las Vegas.",
+      "Celine Dion was spotted a couple of seats away from Jack Black at the same concert.",
+      "The band performed the song Blackened from the album ...And Justice for All.",
+      "Jack Black starred in The Super Mario Galaxy Movie earlier in the spring.",
+      "Jumanji: Open World is scheduled to hit theaters on Christmas Day.",
+      "A Minecraft Movie Squared is part of the upcoming film schedule."
+    ],
+    "entities": {
+      "people": [
+        "Jack Black",
+        "Celine Dion",
+        "James Hetfield",
+        "Lars Ulrich"
+      ],
+      "titles": [
+        "Metallica",
+        "Tenacious D",
+        "School of Rock",
+        "Blackened",
+        "...And Justice for All",
+        "The Super Mario Galaxy Movie",
+        "Jumanji: Open World",
+        "A Minecraft Movie Squared"
+      ]
+    },
+    "keywords": [
+      "Jack Black Metallica",
+      "Celine Dion Metallica Sphere",
+      "Jack Black Las Vegas Sphere",
+      "Metallica Sphere Las Vegas"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/WJ9qSAzdp9VFovpx6xW29b-2000-80.jpg",
+        "caption": "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:00:49 +0000"
   }
 };
