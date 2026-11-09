@@ -317,11 +317,19 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "US",
       "date": "2026-11-06",
       "date_kind": "digital",
       "id": 1798383,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+          "name": "Disney Plus"
+        },
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -1960,18 +1968,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "date": "2026-06-26",
-      "date_kind": "release",
-      "id": 1169516,
-      "providers": [
-        {
-          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-          "name": "Hulu"
-        }
-      ],
-      "type": "movie"
-    },
-    {
       "date": "2026-06-25",
       "date_kind": "release",
       "id": 950028,
@@ -2499,18 +2495,6 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-01-08",
-      "date_kind": "release",
-      "id": 1022453,
-      "providers": [
-        {
-          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-          "name": "Hulu"
         }
       ],
       "type": "movie"

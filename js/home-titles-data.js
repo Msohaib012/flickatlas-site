@@ -7084,7 +7084,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-30",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-06",
     "popularity": 1.5987
   },
@@ -7493,14 +7506,7 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-31",
     "date_kind": "release",
     "status": "Released",
-    "providers": [
-      {
-        "name": "Hulu",
-        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-        "region": "US",
-        "type": "flatrate"
-      }
-    ],
+    "providers": [],
     "release_date": "2026-01-08",
     "popularity": 3.5971
   },
@@ -7718,14 +7724,7 @@ window.FA_PUBLISHED = {
     "published_at": "2026-10-31",
     "date_kind": "release",
     "status": "Released",
-    "providers": [
-      {
-        "name": "Hulu",
-        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-        "region": "US",
-        "type": "flatrate"
-      }
-    ],
+    "providers": [],
     "release_date": "2026-06-26",
     "popularity": 3.4896
   },

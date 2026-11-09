@@ -91976,5 +91976,427 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 00:57:48 +0000"
+  },
+  "8knce": {
+    "id": "8knce",
+    "type": "news",
+    "headline": "Godzilla Minus Zero and Ramayana Dominate Global Box Office Rankings",
+    "dek": "Several major international titles and US openers battle for supremacy at the worldwide box office, led by strong openings from Japanese and Indian blockbusters.",
+    "body": [
+      {
+        "h": "Global Box Office Leaders",
+        "p": [
+          "The worldwide theatrical market experienced a massive surge as multiple new releases vied for audience attention across various territories. Leading the charge at the top of the weekend charts were two massive international productions that pulled in extraordinary numbers. Their strong performances highlighted the growing power of non-Hollywood releases on a global scale.",
+          "Audience turnout was bolstered by regional festivities and simultaneous multi-country rollouts. Exhibitors reported heavy foot traffic in numerous territories as crowds rushed to catch the newest cinematic spectacles on the big screen."
+        ]
+      },
+      {
+        "h": "Godzilla Minus Zero Stomps to the Top",
+        "p": [
+          "The latest installment in the iconic monster franchise captured the number one position worldwide with an impressive estimated gross. Distributed by Gkids in North America, the sequel secured a historic opening for a live-action foreign language release in the region before pulling in substantial grosses internationally.",
+          "Directed by Takashi Yamazaki, the Toho production serves as a follow-up to an earlier acclaimed franchise entry. Returning cast members and groundbreaking Imax formatting helped drive the monster feature to record-breaking heights across more than one hundred territories."
+        ]
+      },
+      {
+        "h": "Ramayana Explodes During Diwali",
+        "p": [
+          "Capitalizing on the festive holiday season, an epic fantasy adventure claimed the second spot on the global charts. The Hindi-language production achieved record-breaking numbers in several international markets, benefiting from widespread celebratory viewings.",
+          "Helmed by director Nitesh Tiwari and featuring a star-studded cast, the massive three-hour enterprise drew immense crowds in both domestic and overseas territories, securing impressive records in the United Kingdom and beyond."
+        ]
+      },
+      {
+        "h": "The Cat In The Hat Leads US Openers",
+        "p": [
+          "Among domestic debuts arriving from Hollywood, an animated family comedy secured the third position globally. The film brought in a modest worldwide opening across numerous international markets.",
+          "Based on the classic children's book characters, the animated adaptation featured a prominent voice cast and faced comparisons to previous successful Dr Seuss adaptations released by major studios over the years."
+        ]
+      },
+      {
+        "h": "Strong Showings for Concert Films and Dark Comedies",
+        "p": [
+          "Specialty releases and alternative content also carved out significant space on the weekend charts. A live-streaming concert film documenting a popular South Korean boy band pulled in substantial revenue across dozens of territories.",
+          "Meanwhile, dark comedies and dramatic features from acclaimed filmmakers found appreciative audiences, reflecting diverse viewing preferences among global cinema-goers during the busy exhibition window."
+        ]
+      },
+      {
+        "h": "Regional Hits and International Expansion",
+        "p": [
+          "Regional releases further enriched the weekend box office landscape with strong localized earnings. An Indian action comedy performed admirably in markets celebrating current holiday festivities, rounding out the upper tier of the global chart.",
+          "As these various titles continue their theatrical runs, distributors anticipate further expansions into additional territories in the coming weeks to sustain their box office momentum."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero and Ramayana: Rise Of A Legend led the global box office weekend alongside several new domestic and international releases. The monster sequel and the Indian epic achieved record-breaking openings in multiple territories, outperforming new Hollywood family films and specialty concert screenings."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero took a projected $63m worldwide.",
+      "Ramayana: Rise Of A Legend grossed an estimated $52.2m globally.",
+      "The Cat In The Hat made $30.5m worldwide.",
+      "Stray Kids Run It Live Viewing earned $13.9m.",
+      "Wild Horse Nine opened with $12.6m worldwide."
+    ],
+    "entities": {
+      "people": [
+        "John Hazelton",
+        "Takashi Yamazaki",
+        "Ryunosuke Kamiki",
+        "Minami Habame",
+        "Hidetaka Yoshioka",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Alessandro Carloni",
+        "Bill Hader",
+        "Matt Berry",
+        "Quinta Brunson",
+        "Mike Myers",
+        "Martin McDonagh",
+        "John Malkovich",
+        "Sam Rockwell",
+        "Steve Buscemi",
+        "Joel David Smallbone",
+        "Ben Smallbone",
+        "Jithu Madhavan",
+        "Suriya",
+        "Nazriya Nazim",
+        "Naslen"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Ramayana: Rise Of A Legend",
+        "The Cat In The Hat",
+        "Stray Kids Run It Live Viewing",
+        "Clayface",
+        "Wild Horse Nine",
+        "Scene",
+        "Wildwood",
+        "Drummer Boy",
+        "You Can See Everything",
+        "Godzilla Minus One",
+        "The Lorax",
+        "The Grinch",
+        "La Bola Negra",
+        "I Play Rocky",
+        "George Michael: The Faith Tour",
+        "Wicker",
+        "Primetime",
+        "Sunshine Women's Choir",
+        "Hero! Hito!",
+        "The Rope Curse 4",
+        "Strawberries"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Ramayana Rise Of A Legend",
+      "The Cat In The Hat",
+      "Wild Horse Nine",
+      "global box office"
+    ],
+    "images": [
+      {
+        "url": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/5/6/1491656_collage_31720_crop.jpg",
+        "caption": "Godzilla Minus Zero and Ramayana Dominate Global Box Office Rankings",
+        "source": "Screen Daily"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 01:31:00 GMT"
+  },
+  "1dbl3t": {
+    "id": "1dbl3t",
+    "type": "news",
+    "headline": "Suriya and Jyotika Celebrate Scene Crossing Rs 100 Crore Worldwide This Diwali",
+    "dek": "The production venture by Suriya and Jyotika has surpassed the Rs 100-crore mark globally, prompting heartfelt expressions of gratitude from the star couple.",
+    "body": [
+      {
+        "h": "Reaching the Nine-Figure Milestone",
+        "p": [
+          "The theatrical run for the latest cinematic release Scene has achieved a significant financial landmark by crossing the Rs 100-crore threshold globally. Backed by actors Suriya and Jyotika, the project has resonated strongly with viewers heading to cinemas during the festive season. This major box-office victory was cemented following robust weekend ticket sales.",
+          "The project demonstrated impressive momentum right out of the gate. Within its opening two days in theatres, the feature managed to pull in more than Rs 80 crore worldwide according to tracking data from Sacnilk. A substantial Sunday addition of Rs 21.75 crore successfully pushed the cumulative global figures past the prestigious nine-figure milestone."
+        ]
+      },
+      {
+        "h": "Heartfelt Gratitude From the Producers",
+        "p": [
+          "Following the official confirmation of the box-office milestone, lead producer and actor Suriya took to social media to share a celebratory picture alongside Jyotika. Accompanying the photograph was an emotional message directed squarely at the loyal viewership. The couple expressed deep appreciation for the warmth and affection displayed by fans across multiple languages and geographical borders.",
+          "The public note emphasized how audience trust encourages the team to continuously expand their creative boundaries. Suriya conveyed that the overwhelming turnout in cinemas meant a great deal to both himself and Jyotika before signing off with festive Diwali greetings for everyone who supported the feature on the big screen."
+        ]
+      },
+      {
+        "h": "Behind the Production Banners",
+        "p": [
+          "The triumphant commercial run holds extra personal and professional meaning for the married duo, who championed the venture through their respective production houses, Zhagaram Studios and 2D Entertainment. Their active involvement in backing the project has clearly paid off as word-of-mouth continues to drive footfall in auditoriums everywhere.",
+          "Adding to the excitement of the release, Jyotika herself makes a surprise cameo appearance within the narrative. This unexpected cinematic surprise has been met with significant enthusiasm and warmth by patrons discovering it during their theatrical viewings."
+        ]
+      },
+      {
+        "h": "Plot and Investigation Details",
+        "p": [
+          "The narrative centers around a character named Inbaraj, whose latest professional investigation takes a disturbing and complicated turn. The protagonist finds himself tracking a fresh case that bears an unsettling resemblance to the notorious 'Perfume Killer' mystery he had previously solved in his career.",
+          "Assisting Inbaraj through the twists and turns of the investigation is Maya, portrayed by Nazriya Nazim as his trusted partner and vital ally as the plot thickens on screen."
+        ]
+      },
+      {
+        "h": "Nazriya Nazim Makes Her Tamil Cinema Return",
+        "p": [
+          "The film's casting lineup brings notable milestones for several key artists involved in the production, prominently featuring Nazriya Nazim. Her appearance in the feature marks an official return to Tamil-language cinema after a lengthy absence of twelve years away from the industry.",
+          "Prior to this current project, her final appearance in a Tamil release was in the 2014 feature Thirumanam Enum Nikkah, where she starred opposite actor Jai before taking a prolonged hiatus from the regional film scene."
+        ]
+      },
+      {
+        "h": "Directorial Debut and Antagonist Performance",
+        "p": [
+          "Behind the camera, the project serves as the directorial debut for Jithu Madhavan within the Tamil film industry, establishing his presence with a commercially successful outing. His direction has successfully guided the thriller elements of the investigative narrative to widespread financial rewards.",
+          "On the acting front, Naslen takes on the role of the primary antagonist, earning considerable praise from critics and viewers alike. This performance represents a deliberate departure from the typical boy-next-door characters that audiences previously associated him with in earlier works such as Premalu and Thanneer Mathan Dinangal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Jyotika celebrated their production Scene crossing Rs 100 crore worldwide this Diwali after a strong opening weekend powered by strong ticket sales. The film features a cast including Nazriya Nazim and Naslen under the direction of Jithu Madhavan."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene crossed Rs 100 crore worldwide",
+      "The film earned over Rs 80 crore worldwide within its first two days",
+      "It added Rs 21.75 crore on Sunday",
+      "Nazriya Nazim marks a return to Tamil cinema after 12 years",
+      "Her last Tamil release was Thirumanam Enum Nikkah in 2014"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jyotika",
+        "Jithu Madhavan",
+        "Inbaraj",
+        "Nazriya Nazim",
+        "Maya",
+        "Jai",
+        "Naslen"
+      ],
+      "titles": [
+        "Scene",
+        "Thirumanam Enum Nikkah",
+        "Premalu",
+        "Thanneer Mathan Dinangal"
+      ]
+    },
+    "keywords": [
+      "Scene Rs 100 crore",
+      "Suriya Jyotika Scene",
+      "Nazriya Nazim Scene",
+      "Jithu Madhavan Scene"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/suriya--jyotika-094331772-16x9_0.jpg?VersionId=XLUtHVIX4oO5xn59h.TfbT_oIKU1LK8k",
+        "caption": "Suriya and Jyotika Celebrate Scene Crossing Rs 100 Crore Worldwide This Diwali",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 08:20:18 +0530"
+  },
+  "1p8ob5f": {
+    "id": "1p8ob5f",
+    "type": "news",
+    "headline": "Drishyam 3: The Conclusion Box Office Collection Day 37: Ajay Devgn's Film Crosses Rs 587 Cr Worldwide",
+    "dek": "Ajay Devgn's thriller continues its strong theatrical run, outperforming Mohanlal's Malayalam version globally.",
+    "body": [
+      {
+        "h": "Global Box Office Milestones",
+        "p": [
+          "Ajay Devgn's thriller film continues to maintain a solid presence at theaters worldwide during its extended theatrical run. After completing thirty-seven days on the big screen, the project has successfully accumulated a massive total of Rs 587.52 cr in global earnings.",
+          "The impressive worldwide figures place the Hindi version far ahead of competing releases. Its overall collection stands at more than double the business recorded by Mohanlal's Malayalam version of the same story, which wrapped up its global run with Rs 239.83 cr."
+        ]
+      },
+      {
+        "h": "Domestic and International Breakdown",
+        "p": [
+          "A closer look at the earnings reveals that the domestic market drove the majority of the film's success. According to tracking data, the feature brought in Rs 379.39 cr in net domestic earnings, pushing its total domestic gross to Rs 454.32 cr.",
+          "Overseas territories also contributed significantly to the final tally, adding another Rs 133.20 cr from international audiences. This overseas contribution accounts for roughly 22.7% of the total worldwide gross achieved by the movie."
+        ]
+      },
+      {
+        "h": "Day 37 Theatrical Performance",
+        "p": [
+          "Even in the later stages of its theatrical run, the feature experienced a notable uptick in single-day revenue. On its thirty-seventh day in cinemas, the Hindi version brought in Rs 9 lakh at the domestic box office.",
+          "This particular daily figure marked an eighty percent increase compared to the previous day's collections. Across its entire run so far, the thriller has been screened across 2,82,110 shows."
+        ]
+      },
+      {
+        "h": "Weekly Box Office Trajectory",
+        "p": [
+          "The journey at the box office began with a massive first week that yielded Rs 245.50 cr in India net collections. Momentum continued with an additional Rs 87.50 cr during the second week and Rs 28.85 cr in the third week.",
+          "As expected, weekly numbers tapered off gradually in the subsequent weeks, contributing Rs 11.15 cr in the fourth week and Rs 6.25 cr in the fifth. The sixth week added a modest Rs 14 lakh in net earnings, reflecting a slow but steady conclusion to the theatrical run."
+        ]
+      },
+      {
+        "h": "Comparison With the Malayalam Version",
+        "p": [
+          "Meanwhile, the earlier Malayalam counterpart starring Mohanlal recorded its own specific metrics during a similar timeframe on its thirty-seventh day. That regional version brought in an estimated India net collection of Rs 5 lakh, with domestic gross earnings matching that amount.",
+          "The Malayalam instalment screened across 43 shows with an occupancy rate hovering around 26.9%. It finished its domestic tracking with Rs 97.45 cr in India net collections before attaining its final worldwide gross."
+        ]
+      },
+      {
+        "h": "Plot and Direction Context",
+        "p": [
+          "The blockbuster Hindi adaptation was directed by Abhishek Pathak and brings back the central character Vijay Salgaonkar. The narrative plunges the protagonist into fresh confrontations involving suspicion, revenge, and a renewed police investigation.",
+          "Conversely, the Malayalam version was directed by Jeethu Joseph and centered primarily around the character Georgekutty. While both versions achieved coveted blockbuster verdicts, their creative approaches and regional box office paths differed notably."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajay Devgn's Drishyam 3: The Conclusion has crossed Rs 587 cr globally after 37 days in theaters, easily outpacing Mohanlal's Malayalam version. Despite slowing daily revenues, both films have secured strong blockbuster verdicts."
+        ]
+      }
+    ],
+    "facts": [
+      "Global earnings stand at Rs 587.52 cr after 37 days.",
+      "Mohanlal's Malayalam version grossed Rs 239.83 cr worldwide.",
+      "India net earnings reached Rs 379.39 cr.",
+      "Domestic gross stands at Rs 454.32 cr.",
+      "Overseas markets contributed Rs 133.20 cr.",
+      "Day 37 collection in India was Rs 9 lakh, an 80% increase from the previous day.",
+      "Total shows screened so far equal 2,82,110.",
+      "First-week India net collection was Rs 245.50 cr.",
+      "Second-week collection added Rs 87.50 cr.",
+      "Third-week collection added Rs 28.85 cr.",
+      "Fourth-week collection added Rs 11.15 cr.",
+      "Fifth-week collection added Rs 6.25 cr.",
+      "Sixth-week collection added Rs 14 lakh in India net earnings.",
+      "Mohanlal's version collected an estimated India net of Rs 5 lakh on Day 37 across 43 shows with 26.9% occupancy.",
+      "Malayalam version accumulated Rs 97.45 cr in India net collections.",
+      "Hindi version was directed by Abhishek Pathak.",
+      "Malayalam version was directed by Jeethu Joseph."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Mohanlal",
+        "Abhishek Pathak",
+        "Jeethu Joseph",
+        "Vijay Salgaonkar",
+        "Meera Deshmukh",
+        "Georgekutty"
+      ],
+      "titles": [
+        "Drishyam 3: The Conclusion",
+        "Drishyam 3"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 The Conclusion box office",
+      "Ajay Devgn Drishyam 3 collection",
+      "Mohanlal Drishyam 3 worldwide gross",
+      "Drishyam 3 Day 37 collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135667289,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Drishyam 3: The Conclusion Box Office Collection Day 37: Ajay Devgn's Film Crosses Rs 587 Cr Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T06:20:11+05:30"
+  },
+  "1xqv2d": {
+    "id": "1xqv2d",
+    "type": "news",
+    "headline": "TVING Releases Main Trailer for Upcoming Drama Series The Substitute",
+    "dek": "The official main trailer has been revealed for the upcoming TVING streaming drama The Substitute, starring Bae Hyun-Sung, Cha Kang-Yoon, and Park Yoon-Ho.",
+    "body": [
+      {
+        "h": "Main Trailer Debut for The Substitute",
+        "p": [
+          "Audiences are getting a closer look at the forthcoming streaming series as TVING drops the official main trailer for The Substitute. The newly released preview offers a dramatic glimpse into the intense narrative arc of the show. Featuring core performances from its main cast, the trailer highlights key dialogue exchanges that set up the central conflict of the television drama.",
+          "The promotional video weaves together several dramatic moments, showcasing the high-stakes atmosphere established by the production. Viewers are introduced to the primary characters and their clashing motivations through a series of rapid dialogue snippets."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "The upcoming series features a talented young lead cast including Bae Hyun-Sung, Cha Kang-Yoon, and Park Yoon-Ho. Each actor steps into a distinct role that drives the plot forward within a competitive and pressurized high school environment.",
+          "Character dynamics form the backbone of the narrative tension, particularly through interactions that test loyalty, survival instincts, and personal boundaries among the students."
+        ]
+      },
+      {
+        "h": "Plot Synopsis and Setting",
+        "p": [
+          "The story is set within an exclusive private high school predominantly attended by students from wealthy backgrounds. Nam Jae-Yeob, portrayed by Bae Hyun-Sung, maintains the outward appearance of an ideal model student with exceptional looks and academic scores, though this polished persona is entirely a facade.",
+          "Meanwhile, Kang Geon-Tae, played by Cha Kang-Yoon, attends the same institution as a scholarship student from a low-income family. Despite holding the top academic rank in the school, Geon-Tae is socially isolated, with Joo Hee-Dong, played by Park Yoon-Ho, serving as his sole friend."
+        ]
+      },
+      {
+        "h": "Blackmail and Dangerous Choices",
+        "p": [
+          "To survive his challenging circumstances, Kang Geon-Tae makes a critical choice that ultimately transforms into his greatest vulnerability. This pivotal decision alters the trajectory of his academic and personal life.",
+          "Capitalizing on this vulnerability, Nam Jae-Yeob discovers Geon-Tae's secret and resorts to blackmail, forcing him to take a university entrance exam as a substitute."
+        ]
+      },
+      {
+        "h": "Insights from Trailer Dialogue",
+        "p": [
+          "The main trailer features several revealing lines of dialogue that emphasize the psychological weight carried by the characters. Cha Kang-Yoon's character expresses a fundamental desire for a normal life and higher education, stating a wish to get into Seoul University and earn money honestly.",
+          "In contrast, other exchanges highlight feelings of inadequacy and manipulation, with Bae Hyun-Sung's character reflecting on internal brokenness while exercising a position of leverage over his peers."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Information",
+        "p": [
+          "Fans of Korean drama series will not have to wait much longer to watch the complete story unfold on screen. The upcoming drama is scheduled to premiere and become available for streaming starting on November 23, 2026, in South Korea.",
+          "The series will air exclusively via the TVING platform, adding to the network's growing lineup of original dramatic content."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "TVING has released the main trailer for its upcoming drama series The Substitute, which is scheduled to premiere in South Korea on November 23, 2026. The series stars Bae Hyun-Sung, Cha Kang-Yoon, and Park Yoon-Ho in a story about a wealthy private high school student who blackmails a top-ranking scholarship student to take an entrance exam for him."
+        ]
+      }
+    ],
+    "facts": [
+      "The Substitute is a TVING drama series.",
+      "The main trailer for The Substitute was released.",
+      "The cast of The Substitute includes Bae Hyun-Sung, Cha Kang-Yoon, and Park Yoon-Ho.",
+      "The Substitute will be available to stream from November 23, 2026 in South Korea.",
+      "Nam Jae-Yeob is played by Bae Hyun-Sung.",
+      "Kang Geon-Tae is played by Cha Kang-Yoon.",
+      "Joo Hee-Dong is played by Park Yoon-Ho."
+    ],
+    "entities": {
+      "people": [
+        "Bae Hyun-Sung",
+        "Cha Kang-Yoon",
+        "Park Yoon-Ho",
+        "Nam Jae-Yeob",
+        "Kang Geon-Tae",
+        "Joo Hee-Dong"
+      ],
+      "titles": [
+        "The Substitute"
+      ]
+    },
+    "keywords": [
+      "The Substitute",
+      "Bae Hyun-Sung",
+      "Cha Kang-Yoon",
+      "TVING drama"
+    ],
+    "images": [
+      {
+        "url": "https://blog.asianwiki.com/wp-content/uploads/2026/11/The_Substitute-tp01.jpg",
+        "caption": "TVING Releases Main Trailer for Upcoming Drama Series The Substitute",
+        "source": "AsianWiki"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 01:21:29 +0000"
   }
 };

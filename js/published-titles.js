@@ -11481,7 +11481,20 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-06",
     "date_kind": "release",
     "runtime": 44,
-    "providers": []
+    "providers": [
+      {
+        "name": "Disney Plus",
+        "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1797861": {
     "id": 1797861,
@@ -12102,14 +12115,7 @@ window.FA_PUBLISHED = {
     "release_date": "2026-01-08",
     "date_kind": "release",
     "runtime": 186,
-    "providers": [
-      {
-        "name": "Hulu",
-        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-        "region": "US",
-        "type": "flatrate"
-      }
-    ]
+    "providers": []
   },
   "847742": {
     "id": 847742,
@@ -12415,14 +12421,7 @@ window.FA_PUBLISHED = {
     "release_date": "2026-06-26",
     "date_kind": "release",
     "runtime": 170,
-    "providers": [
-      {
-        "name": "Hulu",
-        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
-        "region": "US",
-        "type": "flatrate"
-      }
-    ]
+    "providers": []
   },
   "1190511": {
     "id": 1190511,
