@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-07T23:51:37Z",
-    "run_id": "42427054211",
-    "status": "success",
-    "checked": {
-     "candidates": 234,
-     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "A Full House Actor Had ‘Too Big A Pack’ To Be Wearing Biker Shorts In One Kimmy Gibbler Scene",
-      "I've Loved Remi Wolf Since Off Campus, But I Just Found Out She Got Pretty Far On American Idol",
-      "I Play Rocky Is Coming, And Ryan Gosling Gave It His Stamp Of Approval",
-      "Ernie Johnson’s Take On That Emotional Inside The NBA Tribute From Charles Barkley Has Me In My Feelings",
-      "Before ‘Band of Brothers,’ Tom Hanks Produced a Forgotten HBO Miniseries That Aged Perfectly",
-      "Tom Cruise’s High-Flying $135M Thriller Officially Lands on a New Streamer",
-      "Jon Bernthal's 100-Minute Taylor Sheridan Thriller Officially Being Removed From Netflix",
-      "Netflix Officially Adds Sylvester Stallone’s Explosive ’90s Survival Thriller",
-      "On Day 1, Record-Breaking Sci-Fi Thriller Scores the Biggest Box Office Opening of Its Kind in History",
-      "The 10 Greatest Final Scenes in Movie History, Ranked",
-      "Stranger Things' New Spinoff Title, Other Worlds, Explained & How It Reveals The Plot",
-      "20 Years Later, Peanuts Fans Just Rediscovered Its Most Profound Quote About Death",
-      "Civil War Movie's America Map & State Alliances Explained",
-      "Jason Bourne 6 Writer Confirms When Matt Damon Is Ready For Sequel With New Update",
-      "Prime Video’s 3-Season Gritty Crime Thriller Is The Perfect NCIS Replacement",
-      "Stephen King's 13-Part Remake Of A Lovecraftian Classic Is A Shadow Of The Original",
-      "The Lord Of The Rings: The King's Gambit Officially Arrives 2027",
-      "‘Pokemon’ Anime Studio OLM Trains AI Coloring Tool on Just Three Frames in Japan Government-Backed Project",
-      "U2’s The Edge Wrote an ‘Elf’ Sequel, But It ‘Petered Out and Never Happened,’ Says Andy Richter",
-      "‘Club Kid’ Scene-Stealer Kirby Howell-Baptiste on Playing a Drugged-Up Party Girl Who Turns Jordan Firstman’s World Upside Down: She’s ‘A Complete Tornado’"
-     ],
-     "updated": [],
-     "count": 220,
-     "detail": "225 stories, 0 duplicates removed, 9 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-08T00:50:55Z",
     "run_id": "42431595149",
     "status": "success",
@@ -907,27 +868,48 @@
      "detail": "205 stories, 1 duplicates removed, 12 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-09T03:51:36Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": {
+     "candidates": 180,
+     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Samay Raina Shares Diwali 2026 Pic With Rumoured GF Medha; Actress's Unseen Photo With His Mom Grabs Attention",
+      "Navya Naveli Nanda's Diwali album features Aaradhya and Agastya",
+      "Inside Juhu Sea-Facing Home: Katrina, Vicky open doors to elegant space; son Vihaan finally seen",
+      "Inside Naga Chaitanya and Sobhita Dhulipala’s Jubilee Hills villa",
+      "Inside Bachchan family's Diwali celebration: Aaradhya Bachchan bonds with cousin Agastya Nanda; Abhishek Bachchan, Shweta play with firecrackers",
+      "BB4 Tamil's Balaji Murugadoss questions narcotics raid, seeks CM Vijay's response",
+      "If KGF was 'fluke' and Toxic revealed 'truth', what is Ramayana for Yash?",
+      "Be responsible: Farah Khan calls out clickbait reports of fire at her home on Diwali",
+      "90 Day Fiancé: The Other Way Just Hit On Andi And Nigel's Biggest Issue, And I Don't See Them Getting Over It",
+      "Project Hail Mary’s 2 Best Scenes Almost Got Cut by Its Own Creator",
+      "HGTV’s Alison Victoria Explains Why She Fired Someone on Sin City Rehab: ‘F— Yes’",
+      "Love Island UK Loses Host After 9 Seasons, Maya Jama Breaks Silence",
+      "Sony’s Ramayana Opens No. 2 at Worldwide Box Office, but Only No. 5 Domestically",
+      "Heated Rivalry Fans Get Massive Surprise With Elaborate 3 Project Reveal",
+      "8 Great Fantasy Book Series With 10/10 Endings",
+      "How Every Teenage Mutant Ninja Turtle Officially Dies In TMNT: The Last Ronin",
+      "Prime Video's 13-Hour Cop Thriller Is Western Noir At Its Very Best",
+      "The Lord Of The Rings: The Rings Of Power Cast & Character Guide (Including Season 3 Additions)",
+      "Dino Crisis: Modern Edition Is A Resident Evil-Style Overhaul",
+      "Netflix Officially Hits Rare Rotten Tomatoes Streak With Returning Comedy Series"
+     ],
+     "updated": [],
+     "count": 172,
+     "detail": "176 stories, 0 duplicates removed, 4 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-08T05:50:09Z",
-    "run_id": "42448409758",
-    "status": "success",
-    "checked": {
-     "candidates": 10,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 2,
-     "detail": "+0 articles, +0 box-office rows, 2 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1433,27 +1415,32 @@
      "detail": "+4 articles, +1 box-office rows, 5 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-09T03:52:01Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Comedian Samay Raina and Actress Medha Shankr Spark Intense Dating Speculation With Diwali 2026 Celebration Photos",
+      "Bigg Boss 4 Tamil Star Balaji Murugadoss Questions Late-Night Narcotics Raid at Residence",
+      "Melania Trump Returns With Prime Video Docuseries Following Earlier Film",
+      "Daler Mehndi Breaks Silence After Navratri Concert Controversy"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-08T01:51:47Z",
-    "run_id": "42435978526",
-    "status": "success",
-    "checked": {
-     "candidates": 268,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 254, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1859,26 +1846,27 @@
      "detail": "now 261, coming 14"
     },
     "reason": null
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-08T00:56:45Z",
-    "run_id": "42431595149",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-09T03:52:01Z",
+    "run_id": "42558559008",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 275,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 261, coming 14"
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2273,27 +2261,26 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T04:56:54Z",
-    "run_id": "42444370830",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-09T03:52:06Z",
+    "run_id": "42558559008",
     "status": "success",
     "checked": {
-     "candidates": 624,
-     "detail": "618 collected staging rows from readers; 210 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 118,
-     "detail": "+2 new rows, 116 updated rows, 500 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2667,19 +2654,27 @@
      "detail": "+0 new rows, 5 updated rows, 618 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T03:52:01Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": {
+     "candidates": 630,
+     "detail": "623 collected staging rows from readers; 214 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 620 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -2916,32 +2911,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-08T03:33:51Z",
-    "run_id": "42435978526",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Why Netflix Series Territory Outshines Modern Western Epics",
-      "Mammootty Makes Tamil Cinema Comeback After Seven Years With OM",
-      "Kim Ji Won's 'Doctor X: Mafia in White' Surpasses 20 Percent Peak Viewership",
-      "'Ramayana: Rise of a Legend' Experiences Strong Saturday Growth Across Theaters"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3420,19 +3402,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-09T03:52:05Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Melania Trump Returns With Prime Video Docuseries Following Earlier Film",
+      "Daler Mehndi Breaks Silence After Navratri Concert Controversy",
+      "Comedian Samay Raina and Actress Medha Shankr Spark Intense Dating Speculation With Diwali 2026 Celebration Photos",
+      "Bigg Boss 4 Tamil Star Balaji Murugadoss Questions Late-Night Narcotics Raid at Residence"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-08T00:56:53Z",
-    "run_id": "42431595149",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3735,19 +3730,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4069,31 +4064,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-07T23:52:00Z",
-    "run_id": "42427054211",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 220 still unprocessed; today by category: movies 16/6, tv_dramas 13/4, episodes 0/2, box_office 10/6, celebrities_events 12/5, upcoming_releases 4/4, ott_streaming 11/4, trailers 2/3, awards 3/2, music_ost 3/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Robert Pattinson And Nicholas Hoult Reportedly Test For James Bond Franchise Reboot",
-      "Emmerdale Star Lisa Riley Teases Massive Shock for Festive Episode",
-      "How Namit Malhotra's Fanboy Pitch Brought Hans Zimmer and AR Rahman Together For Ramayana",
-      "Godzilla Minus Zero Smashes Records With Historic U.S. Opening Day"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4587,19 +4570,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-09T03:52:00Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 172 still unprocessed; today by category: movies 0/6, tv_dramas 1/4, episodes 0/2, box_office 7/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Comedian Samay Raina and Actress Medha Shankr Spark Intense Dating Speculation With Diwali 2026 Celebration Photos",
+      "Bigg Boss 4 Tamil Star Balaji Murugadoss Questions Late-Night Narcotics Raid at Residence",
+      "Melania Trump Returns With Prime Video Docuseries Following Earlier Film",
+      "Daler Mehndi Breaks Silence After Navratri Concert Controversy"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -4913,24 +4908,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 391,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5270,19 +5260,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 417,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5547,19 +5542,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5814,19 +5814,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6061,19 +6061,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6360,19 +6360,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6613,19 +6613,19 @@
      "count": 539
     },
     "reason": null
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6855,19 +6855,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7120,6 +7120,39 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-09T03:52:05Z",
+    "run_id": "42558559008",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "keyword refresh: 15 articles, sources {'gemini': 15}"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Mason Thames Confirmed to Voice Dick Grayson in DC Studios Animated Feature Dyna",
+      "Abhishek Bachchan and Aishwarya Rai Capture Attention With Hand-in-Hand Arrival ",
+      "Godzilla Minus Zero Roars With $6M Previews While Cat in the Hat Pulls In $1M",
+      "Sandeep Reddy Vanga Applauds Ranbir Kapoor And Yash In Nitesh Tiwari's Ramayana",
+      "Aishwarya Rai Bachchan and Abhishek Bachchan Steal the Show at Manish Malhotra's",
+      "How Entertainment Fans Can Save on T-Mobile 5G Home Internet Plans",
+      "Sundar C Admits To Last-Minute Fine-Tuning And Sleepless Nights Ahead Of Mookuth",
+      "‘Ramayana: Rise of a Legend’ Opens at Rs 64.85 Crore Net on Day 1 in India",
+      "Jailer 2 Box Office Collection Day 22: Rajinikanth Starrer Crosses Rs 823 Crore ",
+      "The New York Times Reportedly Enters Exclusive Talks to Acquire Letterboxd",
+      "Chris Pratt Set to Return as James Reece in Prime Video Adaptation of Savage Son",
+      "Channel 4 Cancels Married at First Sight U.K. Following Severe Misconduct Invest",
+      "Prime Video Unveils First Look Teaser for Adaptations of Graphic Novels in Crimi",
+      "Russell Brand Found Guilty of Historic Sexual Assault and Rape Charges in London",
+      "Joel Coen and Frances McDormand Back Netflix Documentary The Bend in the River"
+     ],
+     "count": 15
+    },
+    "reason": null
    }
   ],
   "overseas_sweep": [
@@ -7634,16 +7667,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-08T00:56:53Z",
     "run_id": "42431595149",
     "status": "skipped",
@@ -7880,19 +7903,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-07T23:52:12Z",
-    "run_id": "42427054211",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8152,8 +8175,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-09T03:52:14Z",
+    "run_id": "42558559008",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-09T03:07:25Z"
+ "updated_at": "2026-11-09T03:52:14Z"
 }

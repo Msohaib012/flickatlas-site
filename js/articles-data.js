@@ -65760,10 +65760,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Russell Brand",
-      "Russell Brand convicted",
-      "Russell Brand court",
-      "Southwark Crown Court"
+      "Russell Brand guilty sexual assault",
+      "Russell Brand rape conviction Southwark Crown Court",
+      "Russell Brand court verdict London",
+      "Russell Brand trial jury"
     ],
     "images": [
       {
@@ -65884,10 +65884,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Criminal series Prime Video",
-      "Ed Brubaker Sean Phillips Criminal",
-      "Charlie Hunnam Adria Arjona Criminal",
-      "Criminal release date January 2027"
+      "Criminal Prime Video series",
+      "Criminal graphic novel adaptation",
+      "Charlie Hunnam Adria Arjona Emilia Clarke Criminal",
+      "Ed Brubaker Sean Phillips Criminal Prime Video"
     ],
     "images": [
       {
@@ -65986,10 +65986,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Bend in the River",
-      "Joel Coen Netflix movie",
-      "Frances McDormand documentary",
-      "Robb Moss The Bend in the River"
+      "The Bend in the River documentary",
+      "Joel Coen Frances McDormand The Bend in the River",
+      "Robb Moss documentary Netflix",
+      "The Bend in the River trailer"
     ],
     "images": [
       {
@@ -66174,9 +66174,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Jailer 2 box office collection",
-      "Rajinikanth Jailer 2 earnings",
-      "Jailer 2 worldwide collection",
-      "Jailer 2 Tamil Telugu collection"
+      "Rajinikanth Jailer 2 worldwide",
+      "Jailer 2 Rs 823 crore",
+      "Rajinikanth action thriller Jailer 2"
     ],
     "images": [
       {
@@ -66251,10 +66251,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Letterboxd acquisition",
-      "The New York Times Letterboxd",
-      "Letterboxd $330 million",
-      "Letterboxd users"
+      "The New York Times Letterboxd acquisition",
+      "New York Times buys Letterboxd",
+      "Letterboxd $330 million acquisition",
+      "The New York Times talks to Letterboxd"
     ],
     "images": [
       {
@@ -66348,11 +66348,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Mookuthi Amman 2",
-      "Sundar C",
-      "Nayanthara",
-      "Ishari Ganesh",
-      "C Joseph Vijay"
+      "Sundar C Mookuthi Amman 2",
+      "Mookuthi Amman 2 release date",
+      "Sundar C Terminator premise sequel",
+      "Mookuthi Amman 2 pre release anxiety"
     ],
     "images": [
       {
@@ -66445,9 +66444,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Chris Pratt Savage Son",
-      "James Reece Savage Son",
-      "The Terminal List season two",
-      "Jack Carr Savage Son"
+      "Chris Pratt James Reece Prime Video",
+      "Savage Son Jack Carr adaptation",
+      "Chris Pratt The Terminal List universe"
     ],
     "images": [
       {
@@ -66539,10 +66538,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Ramayana box office collection",
-      "Ranbir Kapoor Yash film",
-      "Ramayana Day 1 collection"
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Rise of a Legend Day 1 India",
+      "Nitesh Tiwari Ramayana opening",
+      "Ranbir Kapoor Sai Pallavi Yash Ramayana"
     ],
     "images": [
       {
@@ -66644,10 +66643,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film",
-      "Sandeep Reddy Vanga Ramayana review",
-      "Ranbir Kapoor Yash Ramayana",
-      "Nitesh Tiwari Ramayana"
+      "Sandeep Reddy Vanga Ramayana",
+      "Ranbir Kapoor Yash Ramayana Nitesh Tiwari",
+      "Sandeep Reddy Vanga praises Ramayana",
+      "Ramayana lead performances"
     ],
     "images": [
       {
@@ -66730,10 +66729,10 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "T-Mobile 5G Home Internet",
-      "T-Mobile internet plans",
-      "T-Mobile home internet deals",
-      "T-Mobile streaming discount"
+      "T-Mobile 5G Home Internet plans",
+      "T-Mobile home internet entertainment fans",
+      "T-Mobile internet $30 per month",
+      "Save on T-Mobile home internet"
     ],
     "images": [
       {
@@ -66845,10 +66844,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Aishwarya Rai Bachchan",
-      "Abhishek Bachchan",
-      "Manish Malhotra Diwali party",
-      "King movie"
+      "Aishwarya Rai Bachchan Abhishek Bachchan Manish Malhotra",
+      "Aishwarya and Abhishek Diwali party Mumbai",
+      "Manish Malhotra Diwali celebration Mumbai",
+      "Aishwarya Rai Bachchan red saree Diwali"
     ],
     "images": [
       {
@@ -67038,10 +67037,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Godzilla Minus Zero film",
-      "Takashi Yamazaki Godzilla Minus Zero",
-      "Godzilla Minus Zero previews box office",
-      "The Cat in the Hat Warner Bros"
+      "Godzilla Minus Zero previews",
+      "Takashi Yamazaki Godzilla Minus Zero box office",
+      "Godzilla Minus Zero $6M previews",
+      "GKIDs Godzilla Minus Zero"
     ],
     "images": [
       {
@@ -67149,10 +67148,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Abhishek Bachchan Aishwarya Rai Diwali bash",
-      "Manish Malhotra Diwali party",
-      "Abhishek Bachchan Aishwarya Rai hand in hand",
-      "Abhishek Bachchan King movie release"
+      "Abhishek Bachchan Aishwarya Rai Diwali party",
+      "Manish Malhotra Diwali party Mumbai",
+      "Abhishek and Aishwarya Manish Malhotra bash",
+      "Aishwarya Rai Bachchan hand in hand"
     ],
     "images": [
       {
@@ -67255,11 +67254,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Mason Thames",
-      "Dynamic Duo movie",
-      "Dick Grayson",
-      "Peter Safran",
-      "DC Studios"
+      "Mason Thames Dynamic Duo",
+      "Mason Thames Dick Grayson",
+      "Peter Safran Dynamic Duo",
+      "DC Studios Dynamic Duo casting"
     ],
     "images": [],
     "published": "Fri, 06 Nov 2026 03:50:36 +0000"
@@ -68364,10 +68362,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Married at First Sight UK",
-      "Channel 4 Married at First Sight",
-      "Second Married at First Sight",
-      "Matt Murray Whitney Hughes"
+      "Married at First Sight U.K. canceled",
+      "Channel 4 cancels Married at First Sight",
+      "Married at First Sight UK BBC Panorama",
+      "Married at First Sight misconduct investigations"
     ],
     "images": [
       {
@@ -92398,5 +92396,364 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 01:21:29 +0000"
+  },
+  "o0hb6h": {
+    "id": "o0hb6h",
+    "type": "news",
+    "headline": "Comedian Samay Raina and Actress Medha Shankr Spark Intense Dating Speculation With Diwali 2026 Celebration Photos",
+    "dek": "Popular comedian and YouTuber Samay Raina has reignited ongoing relationship rumors with 12th Fail actress Medha Shankr following a star-studded Diwali celebration in Mumbai.",
+    "body": [
+      {
+        "h": "Diwali 2026 Celebrations",
+        "p": [
+          "Comedian and YouTuber Samay Raina recently hosted an intimate and star-studded Diwali celebration at his residence in Mumbai. The gathering brought together numerous notable personalities from the entertainment and digital creator space, turning into a major talking point across social media platforms.",
+          "Among the prominent attendees spotted at the festive bash were Varun Dhawan, Zakir Khan, Munawar Faruqui, Kiku Sharda, Ashish Chanchlani, Veer Pahariya, Chandan Prabhakar, ScoutOP's girlfriend Kaashvi, and Shaaron Verma."
+        ]
+      },
+      {
+        "h": "The Viral Medha Shankr Connection",
+        "p": [
+          "While the guest list featured several familiar faces, actress Medha Shankr drew the maximum attention throughout the evening. Rumors regarding a potential romance between the stand-up comic and the 12th Fail star have circulated online for quite some time, and the recent festivities brought those speculations back into the spotlight.",
+          "Samay Raina shared glimpses of his Diwali celebration via his Instagram stories, which included a picture of himself posing alongside Medha. For the festive occasion, Medha wore a striking deep red Anarkali suit, while Samay opted for a traditional cream-coloured kurta-pyjama ensemble."
+        ]
+      },
+      {
+        "h": "Unseen Photo With Samay's Mother",
+        "p": [
+          "Adding further fuel to the ongoing dating rumors, another candid photograph from the gathering surfaced online. Shared by Shakshi Shetty, the snapshot captured Medha Shankr posing alongside Samay Raina's mother, Sweety Raina.",
+          "While Medha did not post any pictures from the party on her personal Instagram account, the emergence of her picture with the comedian's mother quickly went viral and intensified fan speculation about the nature of their relationship."
+        ]
+      },
+      {
+        "h": "Koffee With Karan Clues",
+        "p": [
+          "The latest photographic evidence follows a recent television appearance that initially prompted widespread curiosity about Samay's relationship status. In late October 2026, during an episode of Koffee With Karan Season 9, actor Varun Dhawan called the comedian during a segment of the show.",
+          "During the unscripted phone interaction, Samay casually mentioned that he was spending time chilling with his girlfriend. Although the comedian stopped short of revealing any specific name during the call, fans and digital media quickly began speculating that he was referring to Medha Shankr."
+        ]
+      },
+      {
+        "h": "Public Reaction and Social Media Buzz",
+        "p": [
+          "The combination of the Koffee With Karan phone call and the recent Diwali party photographs has kept fans heavily engaged across platforms like X and Instagram. Netizens have closely analyzed every available detail from the shared stories and posts.",
+          "The ongoing conversation highlights the immense public interest in the personal lives of digital creators and mainstream actors alike, with followers eagerly awaiting further confirmation from either Samay or Medha."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Comedian and YouTuber Samay Raina has reignited relationship rumors with actress Medha Shankr after sharing photos from his Mumbai Diwali celebration. The buzz follows a previous hint dropped on Koffee With Karan Season 9, complemented by a viral image of Medha posing alongside Samay's mother, Sweety Raina."
+        ]
+      }
+    ],
+    "facts": [
+      "Samay Raina hosted a Diwali 2026 bash at his Mumbai residence.",
+      "Guests at the party included Varun Dhawan, Zakir Khan, Munawar Faruqui, Kiku Sharda, Ashish Chanchlani, Veer Pahariya, Chandan Prabhakar, Kaashvi, and Shaaron Verma.",
+      "Medha Shankr wore a deep red Anarkali suit at the celebration.",
+      "Samay Raina wore a cream-coloured kurta-pyjama.",
+      "A photo surfaced showing Medha Shankr posing with Samay's mother, Sweety Raina.",
+      "Varun Dhawan called Samay Raina during an episode of Koffee With Karan Season 9 in late October 2026 where Samay mentioned he was with his girlfriend."
+    ],
+    "entities": {
+      "people": [
+        "Samay Raina",
+        "Medha Shankr",
+        "Varun Dhawan",
+        "Zakir Khan",
+        "Munawar Faruqui",
+        "Kiku Sharda",
+        "Ashish Chanchlani",
+        "Veer Pahariya",
+        "Chandan Prabhakar",
+        "Kaashvi",
+        "Shaaron Verma",
+        "Shakshi Shetty",
+        "Sweety Raina"
+      ],
+      "titles": [
+        "12th Fail",
+        "Koffee With Karan Season 9"
+      ]
+    },
+    "keywords": [
+      "Samay Raina Medha Shankr",
+      "Samay Raina Diwali 2026",
+      "Medha Shankr Diwali party",
+      "Samay Raina girlfriend"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-09t091956-723-56861794196202.jpg",
+        "caption": "Comedian Samay Raina and Actress Medha Shankr Spark Intense Dating Speculation With Diwali 2026 Celebration Photos",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 09:20:51 +0530"
+  },
+  "gz23rk": {
+    "id": "gz23rk",
+    "type": "news",
+    "headline": "Bigg Boss 4 Tamil Star Balaji Murugadoss Questions Late-Night Narcotics Raid at Residence",
+    "dek": "Balaji Murugadoss has publicly questioned an Anti-Narcotics Task Force search at his home following Diwali, demanding answers and a response from Tamil Nadu Chief Minister Vijay.",
+    "body": [
+      {
+        "h": "The Unexpected Raid After Diwali",
+        "p": [
+          "Following the conclusion of Diwali celebrations, actor and television personality Balaji Murugadoss experienced an unexpected police intrusion at his home. A squad consisting of fifteen personnel from the Anti-Narcotics Task Force arrived at his residence late at night to carry out a search operation.",
+          "The sudden late-night visit immediately thrust the reality television star into the spotlight, prompting him to take his grievances to social media. He publicly voiced his frustration over the manner in which the operation was conducted and sought immediate clarification from state authorities."
+        ]
+      },
+      {
+        "h": "Allegations Regarding the Search Warrant",
+        "p": [
+          "Among the key issues raised by Murugadoss was the absence of proper legal paperwork during the police visit. He alleged that the visiting anti-narcotics team failed to present a formal search warrant upon their arrival at his doorstep.",
+          "Despite the lack of a warrant, the actor permitted the personnel to enter his premises. He noted that he chose to cooperate fully with the authorities simply because he had nothing to hide from the investigation."
+        ]
+      },
+      {
+        "h": "Appeal to Chief Minister Vijay",
+        "p": [
+          "Frustrated by the lack of transparency from the visiting officers, Murugadoss took to his official X handle to share a video detailing the incident. He publicly tagged Tamil Nadu Chief Minister C Joseph Vijay while demanding to know the identity of the complainant.",
+          "The actor stated that he repeatedly asked the officers for the rationale behind the visit and the source of the complaint, but his inquiries went unanswered. He expressed readiness to undergo a blood test while sharply criticizing the state police department for the secrecy surrounding the operation."
+        ]
+      },
+      {
+        "h": "Official Silence and Awaiting Updates",
+        "p": [
+          "As the public controversy grew following his online posts, the police department maintained silence regarding the incident. Authorities have not yet issued any official statement to address the actor's serious allegations.",
+          "Further updates concerning the existence of a formal complaint, the identities of the officers involved, and the specific sequence of events that triggered the sudden search are still awaited by the public."
+        ]
+      },
+      {
+        "h": "Background in Reality Television",
+        "p": [
+          "Balaji Murugadoss first captured widespread public attention during his stint on television as a contestant on Bigg Boss Tamil Season 4. He successfully finished that run as the first runner-up in a season hosted by veteran actor Kamal Haasan.",
+          "Demonstrating his strong fan following, he later returned to the franchise and successfully lifted the winner's trophy in the inaugural season of Bigg Boss Ultimate."
+        ]
+      },
+      {
+        "h": "Modelling and Cinema Career",
+        "p": [
+          "Before making his mark in the entertainment and television industry, Murugadoss built a successful career in modelling. His early achievements include winning the Rubaru Mister International India title in 2018.",
+          "Although he announced a temporary departure from cinema in July 2024 due to professional frustrations, he subsequently appeared in the crime drama film Fire, released in 2025 and directed by JSK Sathish Kumar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Balaji Murugadoss raised public questions after 15 anti-narcotics personnel searched his home following Diwali without providing a warrant or identifying the complainant. He subsequently sought a response from Tamil Nadu Chief Minister Vijay while expressing his frustration on social media."
+        ]
+      }
+    ],
+    "facts": [
+      "Balaji Murugadoss is a Bigg Boss 4 Tamil fame actor.",
+      "15 anti-narcotics personnel searched his home after Diwali.",
+      "The search occurred late at night around November 9, 2026.",
+      "Balaji Murugadoss sought a response from Tamil Nadu Chief Minister C Joseph Vijay.",
+      "He was the first runner-up of Bigg Boss Tamil Season 4 hosted by Kamal Haasan.",
+      "He won the inaugural season of Bigg Boss Ultimate.",
+      "He won the Rubaru Mister International India 2018 title.",
+      "He appeared in the 2025 crime drama film Fire directed by JSK Sathish Kumar."
+    ],
+    "entities": {
+      "people": [
+        "Balaji Murugadoss",
+        "Vijay",
+        "Kamal Haasan",
+        "JSK Sathish Kumar",
+        "Anurag Bohra"
+      ],
+      "titles": [
+        "Bigg Boss Tamil",
+        "Bigg Boss 4 Tamil",
+        "Bigg Boss Ultimate",
+        "Fire"
+      ]
+    },
+    "keywords": [
+      "Balaji Murugadoss",
+      "Bigg Boss 4 Tamil",
+      "CM Vijay",
+      "Fire film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/bb4-tamils-balaji-murugadoss-questions-narcotics-raid--seeks-cm-vijays-response-094139577-16x9_0.png?VersionId=HL2qrxuX_LYgYGAnYVKhEW2FhXpA2ajY",
+        "caption": "Bigg Boss 4 Tamil Star Balaji Murugadoss Questions Late-Night Narcotics Raid at Residence",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 09:12:07 +0530"
+  },
+  "497i": {
+    "id": "497i",
+    "type": "news",
+    "headline": "Melania Trump Returns With Prime Video Docuseries Following Earlier Film",
+    "dek": "Melania Trump is releasing a new two-part docuseries on Prime Video titled Melania, The Series, following the release of her earlier documentary movie.",
+    "body": [
+      {
+        "h": "The New Docuseries Announcement",
+        "p": [
+          "Melania Trump is returning with a brand new project, shifting from a feature-length format to an episodic release. The upcoming production, titled Melania, The Series, is a two-part docuseries created in collaboration with Amazon MGM Studios.",
+          "The newly dropped trailer gives audiences a first look at the production, which is scheduled to land on the streaming platform this month. This follows her previous documentary feature that faced a mixed public and critical reception earlier in the year."
+        ]
+      },
+      {
+        "h": "Official Synopsis and Episode Breakdown",
+        "p": [
+          "According to the official synopsis released by Prime Video, the series intends to showcase untold stories and give viewers a unique look into the life of the First Lady of the United States. The narrative specifically highlights the chaotic and extraordinary days following the 47th Presidential Inauguration.",
+          "The two episodes have distinct titles and focal points. The first episode, titled Family Trust, centers on her preparing to take on the role of America's First Lady while safeguarding her inner circle amidst the pressures of political power. The second episode, Pride Honor, follows her immediate call to action and the rollout of her mission for the American people right after the inauguration."
+        ]
+      },
+      {
+        "h": "Release Details and Streaming Info",
+        "p": [
+          "Fans and curious viewers will not have to wait long to watch the project unfold. Melania, The Series is officially slated to make its streaming debut on Friday, November 20th.",
+          "Subscribers will be able to watch the two-part show exclusively on Prime Video. The platform is also home to her previous documentary movie for those looking to revisit her earlier screen appearance."
+        ]
+      },
+      {
+        "h": "Context Surrounding the Previous Documentary",
+        "p": [
+          "The announcement of this new series arrives on the heels of a polarizing year for her media appearances. Earlier this year, her initial documentary movie was heavily panned by critics upon release.",
+          "Despite the negative critical consensus, the documentary managed to surpass box office expectations during its opening weekend. However, its overall earnings still fell considerably short of the hefty sum Amazon paid to acquire it."
+        ]
+      },
+      {
+        "h": "Public Commentary and Executive Defense",
+        "p": [
+          "The high-profile involvement of Amazon drew notable public scrutiny earlier this year. In May, Amazon CEO Jeff Bezos publicly defended the earlier documentary project, pushing back against accusations that the acquisition was an attempt to purchase political influence inside the Trump administration.",
+          "The project also drew candid remarks from within the family. Donald Trump publicly commented on the previous feature, admitting that the docuseries-style portrayal was ultimately not beneficial for their relationship."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Melania Trump is releasing a two-part docuseries titled Melania, The Series on Prime Video on November 20th, 2026. The project follows her critically-panned documentary movie from earlier in the year and explores her life around the 47th Presidential Inauguration."
+        ]
+      }
+    ],
+    "facts": [
+      "Melania Trump is 56 years old.",
+      "Melania, The Series is a two-part docuseries.",
+      "The series releases on Prime Video on Friday, November 20th, 2026.",
+      "The first episode is titled Family Trust.",
+      "The second episode is titled Pride Honor.",
+      "Jeff Bezos defended the previous documentary movie in May.",
+      "The previous documentary movie earned more than expected at the opening weekend box office."
+    ],
+    "entities": {
+      "people": [
+        "Melania Trump",
+        "Jeff Bezos",
+        "Donald Trump",
+        "AJ Pitts"
+      ],
+      "titles": [
+        "Melania, The Series",
+        "Family Trust",
+        "Pride Honor"
+      ]
+    },
+    "keywords": [
+      "Melania The Series",
+      "Melania Trump Prime Video",
+      "Melania Trump docuseries trailer",
+      "Melania Trump documentary movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/melania-series.jpg",
+        "caption": "Melania Trump Returns With Prime Video Docuseries Following Earlier Film",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 02:45:50 +0000"
+  },
+  "bobeua": {
+    "id": "bobeua",
+    "type": "news",
+    "headline": "Daler Mehndi Breaks Silence After Navratri Concert Controversy",
+    "dek": "Punjabi singer Daler Mehndi has issued his first public statement following a viral video row during Navratri, expressing gratitude to his brother Mika Singh, wife Taran, and fans for their unwavering support.",
+    "body": [
+      {
+        "h": "The Controversy Arises",
+        "p": [
+          "Punjabi singer Daler Mehndi found himself at the center of a major public controversy during a Navratri fair in Uttarakhand. During the festive event, local MLA Subodh Uniyal intervened and stopped the artist's concert, alleging that the veteran performer took the stage under the influence of alcohol.",
+          "The incident quickly drew intense media scrutiny and circulated widely across digital platforms, plunging the celebrated musician into an unexpected test of public relations during a major cultural celebration."
+        ]
+      },
+      {
+        "h": "First Public Statement on Diwali",
+        "p": [
+          "Breaking his silence on the matter, Daler Mehndi released an official statement on his social media handle during the auspicious occasion of Diwali. Choosing the festival of lights to share his thoughts, the singer posted a heartfelt note accompanied by a heart emoji.",
+          "The message addressed his followers directly, offering a glimpse into how deeply the ordeal affected him as an artist who has spent decades entertaining live audiences across the globe."
+        ]
+      },
+      {
+        "h": "Reflecting on a Three-Decade Career",
+        "p": [
+          "In his public note, the veteran performer highlighted the longevity of his career, noting that he had never encountered a situation of this magnitude in thirty years of singing. He expressed profound gratitude for the steadfast loyalty of his admirers.",
+          "He remarked that the way people spoke up for him and maintained their faith in his character left him nearly speechless, acknowledging that words fell short of capturing his appreciation."
+        ]
+      },
+      {
+        "h": "Gratitude to Mika Singh and Family",
+        "p": [
+          "A key highlight of the singer's statement was his special mention of close family members who stood as formidable shields around him. He explicitly thanked his brother, fellow singer Mika Singh, describing him as a strong force to reckon with during the crisis.",
+          "In addition to Mika Singh, Mehndi extended his appreciation to his wife Taran and other relatives, along with supporters from the broader entertainment industry who rallied behind him when the controversy peaked."
+        ]
+      },
+      {
+        "h": "Embracing the Spirit of Togetherness",
+        "p": [
+          "Reflecting on the philosophical aspects of the ordeal, the musician invoked the concept of Ik Onkar. He emphasized that the true spirit of humanity lies in unity, mutual respect, and standing together through trying times.",
+          "He shared that the experience gave him a much deeper understanding of companionship, realizing that true family extends far beyond biological ties to include those who stand beside individuals when they need support the most."
+        ]
+      },
+      {
+        "h": "Political Clash Over Apology Claims",
+        "p": [
+          "The fallout from the Navratri incident also involved conflicting reports regarding a potential resolution. Earlier, Mika Singh publicly announced that the dispute had been put to rest, claiming that MLA Subodh Uniyal had offered an apology to Daler Mehndi.",
+          "However, those claims were swiftly refuted by the politician himself. Subodh Uniyal publicly denied ever issuing an apology to the singer, maintaining that the reports circulated by Mika Singh were false."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Daler Mehndi has released his first statement regarding the Navratri concert controversy involving Uttarakhand MLA Subodh Uniyal. He thanked his family, including brother Mika Singh and wife Taran, for their support during the ordeal while political tensions surrounding the incident persisted."
+        ]
+      }
+    ],
+    "facts": [
+      "Daler Mehndi issued his first statement on November 8, 2026.",
+      "The controversy occurred during a Navratri fair in Uttarakhand.",
+      "Uttarakhand MLA Subodh Uniyal stopped the concert and alleged the singer was under the influence of alcohol.",
+      "Daler Mehndi thanked his brother Mika Singh, wife Taran, and fans for their support.",
+      "Mika Singh previously claimed that Subodh Uniyal apologised, which the minister denied."
+    ],
+    "entities": {
+      "people": [
+        "Daler Mehndi",
+        "Mika Singh",
+        "Taran",
+        "Subodh Uniyal",
+        "Sumit Rajguru"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Daler Mehndi statement",
+      "Daler Mehndi Navratri video",
+      "Mika Singh Subodh Uniyal",
+      "Daler Mehndi controversy"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156483170,thumbsize-125656,width-1280,height-720,resizemode-75/156483170.jpg",
+        "caption": "Daler Mehndi Breaks Silence After Navratri Concert Controversy",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T03:52:00Z"
   }
 };
