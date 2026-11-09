@@ -99935,5 +99935,408 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 21:00:00 +0000"
+  },
+  "1wbvbzj": {
+    "id": "1wbvbzj",
+    "type": "news",
+    "headline": "Ramayana Breaks Dhurandhar 2 and Pushpa 2 Records With Massive Hourly Ticket Sales on BookMyShow",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana: Part 1 has set a brand new milestone on BookMyShow by selling over 1.40 lakh tickets in a single hour, surpassing previous records held by Dhurandhar 2 and Pushpa 2.",
+    "body": [
+      {
+        "h": "Record-Breaking Hourly Ticket Sales",
+        "p": [
+          "The Ranbir Kapoor and Yash starrer Ramayana: Part 1 has achieved a monumental milestone on BookMyShow during the Diwali weekend. The mythological venture shattered all existing benchmarks for hourly ticket sales on the platform, comfortably outperforming major blockbusters like Dhurandhar 2 and Pushpa 2.",
+          "Directed by Nitesh Tiwari, the epic mythological feature experienced a phenomenal resurgence at the box office on its fifth day. Making the most of the festive holiday period, the film dominated online ticket aggregators with unprecedented hourly booking numbers."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Champions",
+        "p": [
+          "Before this surge, the record for the highest hourly ticket sales on BookMyShow was held by Dhurandhar 2, which had registered approximately 1.09 lakh ticket sales within an hour. Prior to that, Pushpa 2 held the crown with about 1.07 lakh hourly bookings.",
+          "According to fresh reports from BookMyShow, Ramayana established a new benchmark by selling over 1.40 lakh tickets inside a single hour. This impressive feat pushed past both Dhurandhar 2 and Pushpa 2 by a considerable margin."
+        ]
+      },
+      {
+        "h": "Capitalizing on Festival Holidays",
+        "p": [
+          "The surge in bookings became prominently visible on a Monday morning. Between 9 AM and 10 AM, the movie sold roughly 91,500 tickets, marking a massive 67 percent jump compared to the 54,760 tickets sold during the exact same time slot on Sunday.",
+          "This unstoppable momentum also saw the film breeze past Shah Rukh Khan's Jawan, which previously held a record of 86,000 hourly tickets, solidifying the title's dominant position among Indian mass entertainers."
+        ]
+      },
+      {
+        "h": "Consistent Box Office Milestones",
+        "p": [
+          "Even before setting the hourly booking record, the feature had been consistently rewriting milestones throughout its theatrical run. During its first four days in cinemas, Ramayana maintained a steady streak of selling over 10 lakh tickets daily on BookMyShow.",
+          "This achievement places the feature into an elite group, making it only the sixth film in the history of Indian cinema to sustain such monumental daily booking figures across its opening four-day run."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "Helmed by director Nitesh Tiwari, Ramayana: Part 1 boasts an expansive star-studded lineup of prominent Indian film actors. The movie features Ranbir Kapoor as Lord Rama, Sai Pallavi as Mata Sita, Ravi Dubey as Lakshmana, and Yash in a key role.",
+          "Additional notable performances in the ensemble include Sunny Deal, Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Adinath Kothare, Arun Govil, Kunal Kapoor, Indira Krishnan, and Lara Dutta."
+        ]
+      },
+      {
+        "h": "Production and Collaborations",
+        "p": [
+          "The grand cinematic project is brought to life through a collaborative effort between Namit Malhotra's Prime Focus Studios, DNEG, and Yash's Monster Mind Creations. Together, these production banners have delivered a visual spectacle that continues to set new standards at the box office.",
+          "With festival holidays providing an additional boost, the movie's theatrical run is expanding rapidly, capturing the attention of audiences across the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has set a new hourly ticket sales record on BookMyShow by selling over 1.40 lakh tickets in one hour, surpassing earlier records held by Dhurandhar 2 and Pushpa 2. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the film capitalized on festival holidays to achieve massive box office momentum."
+        ]
+      }
+    ],
+    "facts": [
+      "Released around Diwali 2026",
+      "Ramayana sold 1.40 lakh tickets in one hour on BookMyShow",
+      "Dhurandhar 2 previously held the hourly record with 1.09 lakh tickets",
+      "Pushpa 2 previously held the hourly record with 1.07 lakh tickets",
+      "Directed by Nitesh Tiwari",
+      "Starring Ranbir Kapoor, Yash, Sai Pallavi, and Ravi Dubey"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Kunal Kapoor",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Shah Rukh Khan",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Jawan",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana BookMyShow record",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana box office"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af1a10fced03-ramayana-box-office-collection-093142770-16x9.jpg",
+        "caption": "Ramayana Breaks Dhurandhar 2 and Pushpa 2 Records With Massive Hourly Ticket Sales on BookMyShow",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T22:51:50Z"
+  },
+  "tfn3fz": {
+    "id": "tfn3fz",
+    "type": "news",
+    "headline": "Suriya's Crime Comedy 'Scene' Crosses Rs 100 Crore Worldwide in Opening Weekend",
+    "dek": "Directed by Jithu Madhavan and starring Suriya, Nazriya Nazim, and Naslen, the movie achieved a massive worldwide gross within three days of its release.",
+    "body": [
+      {
+        "h": "Phenomenal Opening Weekend Milestone",
+        "p": [
+          "The theatrical run of the crime comedy Scene has achieved a major financial milestone within its first three days. The feature crossed the Rs 100 crore worldwide gross mark, delivering an impressive opening weekend performance for its lead star.",
+          "Marking Suriya's third release of the year, the movie pulled in massive audience turnouts across domestic and international territories. The unique narrative, character performances, and unexpected plot twists contributed heavily to its rapid commercial ascent."
+        ]
+      },
+      {
+        "h": "Detailed Box Office Breakdown",
+        "p": [
+          "Financial tracking for the film highlights strong momentum right from its debut. The project brought in an opening day India gross of Rs 22.25 crore on Friday, followed by Rs 23.65 crore on Saturday. Occupancy rates within the country climbed from 55 percent on day one to 62.5 percent on day two, despite some screening reductions.",
+          "International markets proved crucial to the film's success, contributing Rs 10 crore on day three alone to push the total international gross to Rs 43.75 crore. Combined with earlier figures, the worldwide gross reached Rs 116.65 crore following its initial run."
+        ]
+      },
+      {
+        "h": "Strong Overseas and North American Reach",
+        "p": [
+          "International audiences embraced the project enthusiastically, with overseas collections making up 42.4 percent of the global gross after the first 48 hours. The feature successfully crossed the $1 million threshold in North America during this timeframe.",
+          "This overseas triumph came despite direct competition at the box office from Namit Malhotra's Ramayana, proving the widespread appeal of the Tamil release across international borders."
+        ]
+      },
+      {
+        "h": "Director Jithu Madhavan's Tamil Debut",
+        "p": [
+          "The project serves as filmmaker Jithu Madhavan's directorial debut in Tamil cinema. Known previously for helming Malayalam features like Aavesham, the director crafted an off-beat crime comedy tone that resonated widely with regional audiences.",
+          "The film features a central cast including Suriya as police officer Inbaraj—who investigates a case mirroring a past 'Perfume Killer' mystery—alongside Nazriya Nazim and Naslen, delivering strong performances that critics and fans praised."
+        ]
+      },
+      {
+        "h": "Suriya and Jyotika Share Gratitude",
+        "p": [
+          "Following the overwhelming response, actor Suriya took to social media to express appreciation to viewers worldwide. He posted a photograph alongside his wife Jyotika, conveying thanks for the love and trust shown by fans across various languages.",
+          "In his message, the actor noted that the warmth from audiences gives the team courage to continue exploring new creative horizons, while also extending festive Diwali greetings to his supporters."
+        ]
+      },
+      {
+        "h": "Production Backing and Special Appearances",
+        "p": [
+          "The feature was backed by production houses Zhagaram Studios and 2D Entertainment, managed by Suriya and Jyotika. In addition to her behind-the-scenes role, Jyotika made a surprise cameo appearance in the film.",
+          "With its strong performance over the celebratory weekend, the crime comedy successfully surpassed the box office figures of Nayanthara's Mookuthi Amman 2, which had launched in theaters on the exact same day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's crime comedy Scene crossed the Rs 100 crore worldwide gross mark within its opening weekend. The Jithu Madhavan-directed feature received strong domestic and international traction, prompting the lead star to share a message of gratitude alongside Jyotika."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene crossed the Rs 100 crore worldwide mark within three days.",
+      "The film grossed Rs 79.65 crore worldwide in its first two days.",
+      "India gross was Rs 22.25 crore on Friday and Rs 23.65 crore on Saturday.",
+      "Domestic occupancy rose from 55 percent to 62.5 percent.",
+      "International gross reached Rs 43.75 crore, including Rs 10 crore on Day 3.",
+      "Worldwide gross reached Rs 116.65 crore.",
+      "The film crossed $1 million in North America within 48 hours."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jyotika",
+        "Nazriya Nazim",
+        "Naslen",
+        "Jithu Madhavan",
+        "Namit Malhotra",
+        "Nayanthara"
+      ],
+      "titles": [
+        "Scene",
+        "Ramayana",
+        "Aavesham",
+        "Mookuthi Amman 2"
+      ]
+    },
+    "keywords": [
+      "Scene movie box office",
+      "Suriya Scene film collection",
+      "Scene Rs 100 crore worldwide",
+      "Jithu Madhavan Scene Tamil movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156483799,thumbsize-566387,width-1280,height-720,resizemode-75/156483799.jpg",
+        "caption": "Suriya's Crime Comedy 'Scene' Crosses Rs 100 Crore Worldwide in Opening Weekend",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T22:51:50Z"
+  },
+  "1qxy7cx": {
+    "id": "1qxy7cx",
+    "type": "news",
+    "headline": "Saba Ali Khan Reveals Why Sharmila Tagore Converted to Islam for Mansoor Ali Khan Pataudi",
+    "dek": "Saba Ali Khan has opened up about the real reason behind her mother Sharmila Tagore changing her religion to marry Mansoor Ali Khan Pataudi, explaining the family dynamics and legal necessities involved.",
+    "body": [
+      {
+        "h": "The Real Reason Behind Sharmila Tagore's Conversion",
+        "p": [
+          "When veteran Bollywood actress Sharmila Tagore tied the knot with legendary Indian cricketer and former national team captain Mansoor Ali Khan Pataudi, she chose to embrace Islam. Alongside her conversion, she adopted the name Ayesha. While this remained a personal choice for the actress, it quickly drew intense public scrutiny and controversy at the time.",
+          "The intense backlash reached a point where both Sharmila Tagore and Mansoor Ali Khan received death threats due to their marriage and the religious transition. Decades later, the couple's daughter, Saba Ali Khan Pataudi, has broken her silence on the matter to clarify the actual motives behind her mother's decision."
+        ]
+      },
+      {
+        "h": "Clearing Up Family Demands and Traditions",
+        "p": [
+          "In a recent interview with Siddharth Kannan, Saba Ali Khan explained that religious conversion was essentially a requirement during those days. She noted that the conversion ensured their children would be legally recognized as legitimate, thereby making the entire union legally sound under prevailing circumstances.",
+          "Saba elaborated that Islamic traditions dictate specific rules when a non-Muslim marries someone who follows Islam. Without a formal conversion by the non-Muslim partner, the marriage might not have received proper recognition. She candidly admitted that her paternal grandmother would never have agreed to the match under any other circumstances."
+        ]
+      },
+      {
+        "h": "No Negative Impact on a Thriving Bollywood Career",
+        "p": [
+          "Despite the religious shift and the surrounding controversies, Saba emphasized that the change did not hinder Sharmila Tagore's cinematic career in the slightest. The veteran actress continued working in films without facing professional roadblocks or official restrictions on her craft.",
+          "Furthermore, Saba highlighted that Mansoor Ali Khan Pataudi was a broad-minded and progressive individual. Neither he nor his family members ever pressured Sharmila to alter her name on official documents like her passport, ensuring her professional identity and career momentum remained completely uninterrupted."
+        ]
+      },
+      {
+        "h": "A Liberal and Inclusive Upbringing",
+        "p": [
+          "Saba also shed light on the liberal environment within their household, noting that most family members do not strictly adhere to just one religious path. While Saba herself follows Islam like her late father, she grew up celebrating multiple major festivals including Diwali, Holi, and Eid.",
+          "Reflecting on her parents' parenting style, Saba shared that both Mansoor and Sharmila always granted their children total freedom to choose their own paths in life, fostering a culture of mutual respect and cultural openness within the Pataudi family."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Saba Ali Khan Pataudi recently revealed that her mother Sharmila Tagore converted to Islam and took the name Ayesha primarily to satisfy family traditions and ensure legal legitimacy when marrying Mansoor Ali Khan Pataudi. Despite facing threats and controversies, the conversion did not affect Tagore's successful acting career, thanks to her husband's open-minded support and the family's inclusive approach to celebrating various festivals."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharmila Tagore converted to Islam and took the name Ayesha upon marrying Mansoor Ali Khan Pataudi.",
+      "Mansoor Ali Khan Pataudi was a famous Indian cricketer and former captain of the Indian cricket team.",
+      "Saba Ali Khan Pataudi is the daughter of Sharmila Tagore and Mansoor Ali Khan Pataudi.",
+      "Saba Ali Khan revealed the conversion details during an interview with Siddharth Kannan on November 9, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Sharmila Tagore",
+        "Mansoor Ali Khan Pataudi",
+        "Saba Ali Khan",
+        "Siddharth Kannan"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Sharmila Tagore",
+      "Saba Ali Khan",
+      "Mansoor Ali Khan Pataudi",
+      "Sharmila Tagore islam conversion"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af1b209c43c6-why-sharmila-tagore-convert-094408821-16x9.jpg",
+        "caption": "Saba Ali Khan Reveals Why Sharmila Tagore Converted to Islam for Mansoor Ali Khan Pataudi",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T22:51:50Z"
+  },
+  "d4m91t": {
+    "id": "d4m91t",
+    "type": "news",
+    "headline": "Cupertino Episode 6 Explores AI Life-and-Death Decisions and Tech Industry Greed",
+    "dek": "The legal drama Cupertino airs its sixth episode titled Harper, focusing on a high-stakes medical algorithm dispute, digital scams, and corporate ruthlessness.",
+    "body": [
+      {
+        "h": "Prime-Time Scheduling and Network Confidence",
+        "p": [
+          "CBS made the strategic decision to air the sixth episode of Cupertino during a prominent Sunday evening slot rather than its typical Thursday schedule. Following an afternoon of football and an installment of 60 Minutes, the network gave the show a major push to attract fresh viewership.",
+          "The network clearly demonstrated strong faith in the series by surrounding the premiere with multiple Cupertino reruns. This special scheduling choice highlighted an effort to capture a broader audience during peak network television viewing hours."
+        ]
+      },
+      {
+        "h": "The Central Medical Algorithm Dispute",
+        "p": [
+          "The narrative centers on an unconventional Price, Siffre and Associates client named Harper, who shares a living situation with Christy. Michael and Olivia successfully secured an emergency order from Judge Hornstein to force an insurer to cover Harper's urgent liver transplant.",
+          "Just moments before the surgical procedure begins, a competing patient cuts ahead on the donor list because an automated software system rejected Harper. This triggers a frantic four-hour race featuring two opposing legal teams debating the reliability of computerized medical triage."
+        ]
+      },
+      {
+        "h": "Virtual Arguments and Traffic-Bound Lawyers",
+        "p": [
+          "Written by Keith Eisner and directed by Rosemary Rodriguez, the episode utilizes a clever framing device where the entire legal battle unfolds over digital video calls. The attorneys and the judge are trapped in post-football game traffic while handling testimony remotely.",
+          "Complications multiply as Judge Hornstein shares a ride-share vehicle that picks up extra passengers, while opposing counsel Ry Vance participates from a self-driving taxi. The storytelling regularly highlights the petty annoyances of modern gadgets, from malfunctioning navigation systems to dying batteries."
+        ]
+      },
+      {
+        "h": "Flipping Sides on Artificial Intelligence",
+        "p": [
+          "As the emergency hearing progresses, both legal sides end up arguing in favor of and against the algorithmic decision-making software. Initially, Olivia and Michael put Vik Malhotra on the stand to argue that the technology possesses inherent biases against young women with modest incomes.",
+          "The debate shifts dramatically when courtroom testimony reveals that a human physician actually overruled the system, prompting a complete reversal in legal strategy. The opposing witness, Dr. Dexter Stimson, faces intense scrutiny after it is discovered he frequently overrides the software following substantial charitable donations."
+        ]
+      },
+      {
+        "h": "Subplots Involving Scams and Corporate Poaching",
+        "p": [
+          "Running parallel to the courtroom drama, Olivia deals with her brother Jacob during their car ride from the airport, suspecting he has fallen victim to an overseas pig-butchering scam. Meanwhile, Michael rides with his ex and legal rival Nichole, who weighs a lucrative employment offer from a boutique Silicon Valley firm named Pandas and Associates.",
+          "Both subplots underscore how modern digital innovations and utopian technological promises have degraded into financial exploitation and cold corporate ambition. Nichole's potential new employer represents the polished face of corporate defense for major tech conglomerates."
+        ]
+      },
+      {
+        "h": "Michael's Cynical View of the Legal Market",
+        "p": [
+          "Throughout the first half-dozen chapters of Cupertino, Michael increasingly treats his firm's pursuit of justice as a purely profit-driven enterprise. Pointing out the steep decline in white-collar criminal prosecutions over the past decade, he views systemic corruption as an untapped commercial market.",
+          "This pragmatic cynicism contrasts sharply with traditional idealism, highlighted by a telling moment of physical distance when Michael remains completely unmoved during a celebratory group embrace after Harper's surgery commences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "CBS aired the sixth episode of Cupertino on a Sunday night following football and 60 Minutes to draw in new viewers with a high-stakes legal dispute over a medical AI transplant algorithm. While lawyers argued remotely from traffic-bound vehicles, subplots involving a digital romance scam and corporate recruitment showcased the dark side of modern technology."
+        ]
+      }
+    ],
+    "facts": [
+      "Cupertino season 1 episode 6 is titled Harper.",
+      "Judge Hornstein is portrayed by Peter Riegert.",
+      "The episode features a legal dispute over a liver transplant algorithm.",
+      "White-collar crime prosecutions dropped from 350 a year to 95 a year over a decade."
+    ],
+    "entities": {
+      "people": [
+        "Elizabeth Fisher",
+        "Peter Riegert",
+        "Keith Eisner",
+        "Rosemary Rodriguez",
+        "Harper Irvin",
+        "Albert Ensler",
+        "Ry Vance",
+        "Vik Malhotra",
+        "Marjorie Wellington",
+        "Elon Musk",
+        "Dexter Stimson",
+        "Jacob",
+        "Gilles Geary",
+        "Nichole",
+        "Busy Philipps",
+        "Natalia",
+        "Christy",
+        "Nichole Ferebee",
+        "Druski",
+        "Malkovich",
+        "Damon",
+        "Scott",
+        "Ariana Grande",
+        "James Gunn",
+        "Peter Safran",
+        "Siddhant Adlakha",
+        "Morrey",
+        "P!nk",
+        "Olivia Cooke",
+        "Russell Brand",
+        "Michelle Branch",
+        "Devon Ivie",
+        "Ebon Moss-Bachrach",
+        "Gillian Jacobs",
+        "Michelle Williams"
+      ],
+      "titles": [
+        "Cupertino",
+        "Harper",
+        "60 Minutes",
+        "Saturday Night Live",
+        "Cinematrix",
+        "The Gilded Age",
+        "Focker-in-Law",
+        "The Tonight Show",
+        "Ramayana",
+        "Love Is Blind",
+        "House of the Dragon",
+        "Lonely in the Future",
+        "Telematrix"
+      ]
+    },
+    "keywords": [
+      "Cupertino Harper",
+      "Cupertino episode 6",
+      "CBS Cupertino show",
+      "Price Siffre and Associates"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/41b/c83/c8bcff53dfcf04a1828eee28a8dbc54805-cupertino-5.1x.rsocial.w1200.jpg",
+        "caption": "Cupertino Episode 6 Explores AI Life-and-Death Decisions and Tech Industry Greed",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-09T02:00:15.759Z"
   }
 };
