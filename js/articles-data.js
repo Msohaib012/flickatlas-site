@@ -93154,5 +93154,395 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 04:24:31 +0000"
+  },
+  "wuxxb4": {
+    "id": "wuxxb4",
+    "type": "news",
+    "headline": "Shruti Haasan Joins Cast of Dulquer Salmaan Starrer Aakasamlo Oka Tara As Rohini",
+    "dek": "The makers of the upcoming inspirational drama have revealed a special character poster featuring Shruti Haasan ahead of the film's scheduled theatrical release on November 20.",
+    "body": [
+      {
+        "h": "Introduction to the Upcoming Project",
+        "p": [
+          "The much-anticipated inspirational drama Aakasamlo Oka Tara continues to build significant pre-release momentum with fresh casting announcements. As excitement builds for the theatrical debut, the creative team has kept audiences engaged by unveiling key details about the main ensemble.",
+          "Positioned as a feel-good cinematic journey, the project aims to resonate with viewers through a deeply emotional narrative. Fans have eagerly monitored every update surrounding the production as it heads toward its late November rollout."
+        ]
+      },
+      {
+        "h": "Character Reveal for Shruti Haasan",
+        "p": [
+          "In celebration of the festive Diwali season, the production team officially introduced actress Shruti Haasan to the audience through a dedicated character poster. She is set to portray an important individual named Rohini in the narrative.",
+          "The promotional material described her persona as a vital spark designed to ignite ambitions within the story. The studio highlighted her energetic performance style while wishing fans a prosperous and celebratory holiday."
+        ]
+      },
+      {
+        "h": "Plot and Protagonist Background",
+        "p": [
+          "The central storyline follows a young woman named Ammulu, who is portrayed on screen by debutant Satvika Veeravalli. Raised within a conservative household, she excels academically yet faces immense pressure to abandon higher learning for traditional domestic expectations.",
+          "Her existence takes a transformative turn upon crossing paths with Krishna, a character brought to life by leading man Dulquer Salmaan. He steps in as a pillar of encouragement, urging her to pursue lofty goals that once felt completely out of reach."
+        ]
+      },
+      {
+        "h": "Overcoming Societal and Family Obstacles",
+        "p": [
+          "Promotional teasers have offered a glimpse into the immense hurdles Ammulu must clear to forge her own path. Family restrictions and rigid societal norms form a formidable barrier against her personal growth and academic aspirations.",
+          "Through these trials, the bond between the lead characters forms the emotional core of the feature. Krishna serves as a steadfast source of resilience, helping the protagonist navigate her challenging journey toward self-actualization."
+        ]
+      },
+      {
+        "h": "Core Cast and Crew Members",
+        "p": [
+          "The film anchors its performances on a diverse roster featuring Dulquer Salmaan alongside newcomer Satvika Veeravalli and the newly announced Shruti Haasan. Their collaborative efforts drive the dramatic tension of the screenplay.",
+          "Behind the camera, the production relies on a talented technical crew. The musical score is crafted by GV Prakash, while the visual language is shaped by cinematographer Sujith Sarang and editor Praveen KL."
+        ]
+      },
+      {
+        "h": "Design and Theatrical Schedule",
+        "p": [
+          "Attention to detail remains evident in the aesthetic presentation of the feature, guided by production designer Shwetha Sabu Cyril and art director Vamsi Krishna. Costume work has been meticulously handled by designer Pallavi Singh to reflect the authentic backgrounds of the characters.",
+          "Everything is currently on track for the feature to arrive in cinema halls on November 20. Audiences won't have to wait much longer to witness how these intertwined lives unfold on the big screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shruti Haasan has been officially introduced as Rohini in the upcoming inspirational drama Aakasamlo Oka Tara, starring Dulquer Salmaan and Satvika Veeravalli. Directed by Pavan Sadineni, the film is scheduled for a theatrical release on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "Shruti Haasan plays Rohini in Aakasamlo Oka Tara.",
+      "Dulquer Salmaan stars as Krishna in the film.",
+      "Satvika Veeravalli plays Ammulu in her debut.",
+      "Pavan Sadineni is the director of the film.",
+      "GV Prakash is the music composer.",
+      "The film is scheduled to release on November 20."
+    ],
+    "entities": {
+      "people": [
+        "Shruti Haasan",
+        "Dulquer Salmaan",
+        "Satvika Veeravalli",
+        "Pavan Sadineni",
+        "GV Prakash",
+        "Sujith Sarang",
+        "Praveen KL",
+        "Shwetha Sabu Cyril",
+        "Vamsi Krishna",
+        "Pallavi Singh"
+      ],
+      "titles": [
+        "Aakasamlo Oka Tara"
+      ]
+    },
+    "keywords": [
+      "Aakasamlo Oka Tara",
+      "Shruti Haasan",
+      "Dulquer Salmaan",
+      "Satvika Veeravalli",
+      "Pavan Sadineni"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135671070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shruti Haasan Joins Cast of Dulquer Salmaan Starrer Aakasamlo Oka Tara As Rohini",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T10:10:19+05:30"
+  },
+  "leqqw7": {
+    "id": "leqqw7",
+    "type": "news",
+    "headline": "MCU Theory Connects Doctor Doom and The Scarlet Witch for Future Crossover",
+    "dek": "Recent fan theories suggest that Marvel Studios might be laying the groundwork for a major storyline involving Doctor Doom and the return of the Scarlet Witch.",
+    "body": [
+      {
+        "h": "The Mysterious Absence of Wanda Maximoff",
+        "p": [
+          "Since her dramatic sacrifice at Mount Wundagore in 2022's Doctor Strange in the Multiverse of Madness, the Scarlet Witch has remained absent from the primary continuity of the Marvel Cinematic Universe.",
+          "Her corruption by the Darkhold and subsequent destruction of the magical tome left fans questioning whether her character arc had truly come to an end or if a future comeback was inevitable."
+        ]
+      },
+      {
+        "h": "Continuing the Maximoff Family Saga on Disney+",
+        "p": [
+          "Even without Wanda present, the narrative surrounding the Maximoff family has continued to expand significantly across various television projects on Disney+.",
+          "Shows like WandaVision, Agatha All Along, and VisionQuest have kept the memory and lineage of the family alive by exploring the fates of Billy and Tommy Maximoff alongside the original Vision."
+        ]
+      },
+      {
+        "h": "The Reunion of Billy, Tommy, and Vision",
+        "p": [
+          "Recent television events have seen Billy and Tommy's souls transferred into new human bodies as teenagers, mirroring their complex origins from Marvel comic book storylines.",
+          "With VisionQuest approaching its finale, the emotional reunion of the synthezoid father and his twin sons feels closer than ever, setting the stage for a family reconciliation."
+        ]
+      },
+      {
+        "h": "Doctor Doom and the Latverian Witches",
+        "p": [
+          "Attention has turned toward the theatrical side of the franchise with the upcoming release of Avengers: Doomsday, which introduces Robert Downey Jr. as Doctor Doom.",
+          "Promotional material for the crossover event has highlighted mysterious masked Latverian Witches serving Doom, wearing colored robes that have sparked speculation among fans."
+        ]
+      },
+      {
+        "h": "Comic Precedents in Children's Crusade",
+        "p": [
+          "Speculation draws heavily from Marvel's classic Children's Crusade comic book storyline, where Doctor Doom takes in an amnesiac Wanda Maximoff following her traumatic breakdown.",
+          "Adapting elements of this narrative could provide a natural path for the MCU to redeem Wanda's darker turns and reintroduce her into the overarching Multiverse Saga."
+        ]
+      },
+      {
+        "h": "Potential for a Major Narrative Launchpad",
+        "p": [
+          "Integrating Doctor Doom into a potential Scarlet Witch storyline would tie the magical elements of the universe directly into the grand scale of the upcoming Avengers films.",
+          "Whether revealed in Doomsday or the subsequent Avengers: Secret Wars, such a twist would offer a solid foundation for the franchise's next major narrative phase."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Recent theories suggest that Marvel Studios may be planning a storyline connecting Doctor Doom and the Scarlet Witch in upcoming projects like Avengers: Doomsday. This speculation builds upon ongoing family reunions in series like VisionQuest and classic comic book precedents."
+        ]
+      }
+    ],
+    "facts": [
+      "Kevin Erdmann wrote the original article published on November 8, 2026.",
+      "Elizabeth Olsen plays the Scarlet Witch in the MCU.",
+      "Doctor Strange in the Multiverse of Madness was released in 2022.",
+      "Avengers: Doomsday is scheduled to release on December 18, 2026.",
+      "Robert Downey Jr. plays Doctor Doom in Avengers: Doomsday.",
+      "The finale of VisionQuest begins streaming on November 10th on Disney+."
+    ],
+    "entities": {
+      "people": [
+        "Kevin Erdmann",
+        "Robert Downey Jr.",
+        "Elizabeth Olsen",
+        "Paul Bettany",
+        "Joe Locke",
+        "Ruaridh Mollica",
+        "Agatha Harkness",
+        "Anthony Russo",
+        "Joe Russo",
+        "Stephen McFeely",
+        "Michael Waldron",
+        "Chris McKenna",
+        "Erik Sommers",
+        "Kevin Feige",
+        "Louis D'Esposito",
+        "Jonathan Schwartz",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Doctor Strange in the Multiverse of Madness",
+        "VisionQuest",
+        "Agatha All Along",
+        "WandaVision",
+        "Avengers: Infinity War",
+        "Avengers: Secret Wars",
+        "Spider-Man: Brand New Day",
+        "Fantastic Four",
+        "Black Panther",
+        "Thor",
+        "X-Men"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday Doctor Doom",
+      "Scarlet Witch MCU return",
+      "VisionQuest Disney plus",
+      "Childrens Crusade Marvel theory"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/elizabeth-olsen-s-scarlet-witch-turns-around-in-avengers-infinity-war.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "MCU Theory Connects Doctor Doom and The Scarlet Witch for Future Crossover",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 04:46:25 GMT"
+  },
+  "u7rkdc": {
+    "id": "u7rkdc",
+    "type": "news",
+    "headline": "Sylvester Stallone Reveals He Wants Andrew Garfield to Play a Villain in Tulsa King",
+    "dek": "Sylvester Stallone shares his desire to cast Andrew Garfield as a villain in the upcoming season of Tulsa King, discussing their unexpected bond and recent interview.",
+    "body": [
+      {
+        "h": "Production Underway for Tulsa King Season 5",
+        "p": [
+          "Production for the fifth season of Sylvester Stallone's television series Tulsa King has officially started, bringing the veteran actor back to his gritty, hard-hitting role. Stallone expressed genuine enthusiasm for stepping back into the character as the show continues its successful run on streaming platforms.",
+          "The ongoing expansion of the series highlights its continued popularity among viewers. With work on the fifth season already in motion, anticipation is steadily building for how the narrative will progress."
+        ]
+      },
+      {
+        "h": "Stallone Envisions Andrew Garfield as a Villain",
+        "p": [
+          "During a recent appearance on the interview program The Rest Is Entertainment, Sylvester Stallone opened up about his future casting aspirations for Tulsa King. He specifically named acclaimed star Andrew Garfield as an actor he would love to see join the show in a villainous role.",
+          "Stallone explained that casting the Spider-Man actor as an antagonist would introduce a completely fresh and unique dynamic to the series. Rather than relying on a traditional, physically imposing villain, Stallone suggested a more thoughtful, potentially AI-driven threat that his character would struggle to stop."
+        ]
+      },
+      {
+        "h": "An Unlikely Bond Between Two Stars",
+        "p": [
+          "Reflecting on his relationship with Andrew Garfield, Stallone admitted that he initially thought the two would never get along or collaborate. He noted that actors often tend to be solitary, standoffish creatures by nature, making a personal and professional connection seem unlikely.",
+          "However, after spending time together, the two performers ended up hitting it off quite well. This unexpected camaraderie paved the way for Stallone to seriously consider Garfield for a high-profile antagonist role in his television project."
+        ]
+      },
+      {
+        "h": "Shared Moments on The Graham Norton Show",
+        "p": [
+          "Before discussing his casting ideas, the two actors crossed paths during an appearance on The Graham Norton Show. During their conversation, Garfield mentioned his preparation to play Roy Horn from the famous duo Siegfried and Roy in an upcoming project.",
+          "Stallone added to the discussion by sharing that he had personally known Roy Horn in real life. Their interaction also touched upon Stallone's legendary journey into Hollywood stardom and the milestone moments of his career."
+        ]
+      },
+      {
+        "h": "Reflecting on Hollywood Milestones",
+        "p": [
+          "During their television interview, Andrew Garfield asked Sylvester Stallone about his age when he achieved his breakthrough fame with the iconic film Rocky. Stallone recalled that he was very close to turning thirty at the time of his big break.",
+          "The veteran actor noted that Hollywood traditionally had a strict cutoff point for newcomers, making it exceedingly difficult for actors to establish themselves if they had not made it by age twenty-eight or twenty-nine. Stallone shared that he was twenty-nine and three-quarters when he reached that crucial tipping point."
+        ]
+      },
+      {
+        "h": "Current Streaming Details of Tulsa King",
+        "p": [
+          "The fourth season of Tulsa King premiered on October 16 and consisted of a ten-episode run, with its final episode slated for release on December 18, 2026. Fans looking to follow the series can watch it primarily on Paramount+, while it is also available for viewing on Prime Video."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sylvester Stallone revealed during an interview that he wants Andrew Garfield to join the cast of Tulsa King as a thoughtful or AI-driven villain for an upcoming season. The two actors previously bonded during an appearance on The Graham Norton Show, where they discussed Hollywood milestones and upcoming acting projects. Meanwhile, production on the series continues as previous seasons stream on Paramount+ and Prime Video."
+        ]
+      }
+    ],
+    "facts": [
+      "Sylvester Stallone wants Andrew Garfield to play a villain in Tulsa King.",
+      "The fourth season of Tulsa King premiered on October 16, 2026.",
+      "Season 4 of Tulsa King has a total of 10 episodes, with the final one scheduled for December 18, 2026.",
+      "Sylvester Stallone was 29 and three-quarters old when he made it in Hollywood with Rocky."
+    ],
+    "entities": {
+      "people": [
+        "Sylvester Stallone",
+        "Andrew Garfield",
+        "Roy Horn",
+        "Graham Norton"
+      ],
+      "titles": [
+        "Tulsa King",
+        "Spider-Man",
+        "The Graham Norton Show",
+        "The Rest Is Entertainment",
+        "Rocky"
+      ]
+    },
+    "keywords": [
+      "Sylvester Stallone Tulsa King",
+      "Andrew Garfield Tulsa King",
+      "Sylvester Stallone Andrew Garfield",
+      "Tulsa King season"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135670216,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sylvester Stallone Reveals He Wants Andrew Garfield to Play a Villain in Tulsa King",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T09:23:49+05:30"
+  },
+  "1yg8jsw": {
+    "id": "1yg8jsw",
+    "type": "news",
+    "headline": "Star Wars Jedi Knight: Dark Forces 2 Receives Stunning Unreal Engine 5 Fan Remake",
+    "dek": "A dedicated fan developer has unveiled a remarkable Unreal Engine 5 remake of the classic Star Wars Jedi Knight: Dark Forces 2, complete with a playable public beta.",
+    "body": [
+      {
+        "h": "Introduction to the Remake Project",
+        "p": [
+          "A breathtaking fan-made remake of the classic title Star Wars Jedi Knight: Dark Forces 2 has captured the attention of the gaming community. Built utilizing advanced modern engine technology, the project aims to breathe new life into one of the most celebrated titles in the expansive sci-fi franchise.",
+          "While numerous fan projects often fade away or fail to capture the essence of their source material, this endeavor has successfully transitioned into a fully functional and publicly accessible beta version, giving enthusiasts an exciting way to revisit a beloved classic."
+        ]
+      },
+      {
+        "h": "Legacy of the Original Classic",
+        "p": [
+          "Originally launched on October 9, 1997, by developer and publisher LucasArts, the original game firmly established itself as a landmark achievement. It featured brilliant level design, memorable live-action cutscenes, and an engaging narrative.",
+          "Furthermore, its implementation of lightsaber combat set a high standard for the genre, paving the way for future instalments in the video game canon and cementing its status as an absolute must-play for followers of the franchise."
+        ]
+      },
+      {
+        "h": "Addressing Visual Aging",
+        "p": [
+          "Despite its stellar reputation and timeless gameplay mechanics, the nearly three-decade-old title has inevitably shown signs of age. When stretched across modern widescreen monitors and high-resolution displays, the limitations of its original era become glaringly apparent.",
+          "The desire to correct these visual shortcomings without altering the core experience motivated developers to harness contemporary tools, ensuring the classic adventure can be experienced with modern graphical fidelity."
+        ]
+      },
+      {
+        "h": "The Power of Unreal Engine 5",
+        "p": [
+          "Modern technology and photorealistic engines do not always successfully translate older titles, frequently risking the loss of original charm. However, this project leverages the advanced lighting, high-quality assets, and deep fidelity of Unreal Engine 5 to genuinely elevate the experience.",
+          "Spearheaded by fan developer Ruppertle, the project evolved from an earlier Unreal Engine beta released in 2025 into a polished UE5 port that properly honors the nearly thirty-year-old masterpiece."
+        ]
+      },
+      {
+        "h": "What Is Included in the Beta",
+        "p": [
+          "The Version 1.03 beta is surprisingly robust, offering players a substantial amount of content to explore right now. This includes four completely playable stages out of the original twenty-one levels, with every location and enemy type faithfully restored.",
+          "In addition to the main campaign stages, the public release features five Survival levels, a dedicated Sandbox mode, and an interactive 3D Model Viewer that lets users inspect updated character models up close."
+        ]
+      },
+      {
+        "h": "Availability and Future Outlook",
+        "p": [
+          "In a rare move for high-profile fan remakes, the beta is completely free and accessible to the general public through Ruppertle's official Patreon page without requiring a paid subscription.",
+          "Given that there are currently no official announcements regarding an authorized remake from copyright holders, this community-driven effort is expected to remain active and continue expanding for the foreseeable future."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A dedicated fan developer named Ruppertle has created a free, publicly available Unreal Engine 5 beta remake of the classic 1997 title Star Wars Jedi Knight: Dark Forces 2. The project features four playable levels, survival modes, and modernized visuals that faithfully update the nearly thirty-year-old game without corporate backing."
+        ]
+      }
+    ],
+    "facts": [
+      "Star Wars Jedi Knight: Dark Forces 2 was originally released on October 9, 1997.",
+      "The original game was developed and published by LucasArts.",
+      "The Unreal Engine remake is being created by a developer named Ruppertle.",
+      "A beta version of the remake was first released in 2025 before being ported to Unreal Engine 5.",
+      "The Version 1.03 beta includes four playable campaign levels, five Survival levels, a Sandbox mode, and a 3D Model Viewer.",
+      "The beta is available to download for free on Ruppertle's official Patreon."
+    ],
+    "entities": {
+      "people": [
+        "Tom Wilson",
+        "Ruppertle"
+      ],
+      "titles": [
+        "Star Wars Jedi Knight: Dark Forces 2",
+        "Star Wars Jedi: Fallen Order",
+        "Star Wars"
+      ]
+    },
+    "keywords": [
+      "Star Wars Jedi Knight Dark Forces 2",
+      "Star Wars Jedi Knight Dark Forces Unreal Engine 5 remake",
+      "Ruppertle Star Wars beta",
+      "Dark Forces 2 remake download"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/star-wars-jedi-knight-dark-forces-2-cover.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Star Wars Jedi Knight: Dark Forces 2 Receives Stunning Unreal Engine 5 Fan Remake",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 04:00:18 GMT"
   }
 };
