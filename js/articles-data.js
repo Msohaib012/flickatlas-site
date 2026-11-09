@@ -94279,5 +94279,391 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Mon, 09 Nov 2026 03:40:00 EST"
+  },
+  "dbizo8": {
+    "id": "dbizo8",
+    "type": "news",
+    "headline": "Emraan Hashmi's Gunmaaster G9 Trailer Scheduled for November 11 Ahead of November 27 Release",
+    "dek": "The creators of Gunmaaster G9 have officially scheduled the main theatrical trailer drop for November 11, building up to the film's worldwide cinematic debut later in the month.",
+    "body": [
+      {
+        "h": "Trailer Launch Announcement",
+        "p": [
+          "The creative team behind the upcoming cinematic project Gunmaaster G9 has officially confirmed that the main theatrical preview will debut on November 11. This major promotional milestone arrives shortly before the feature film lands in cinemas worldwide on November 27.",
+          "Fans have been tracking updates closely as the marketing campaign transitions from initial musical teases to narrative-driven previews. The upcoming clip is expected to shed light on the core plot and supporting characters."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Helmed by director Aditya Datt, the romantic action feature boasts a prominent principal cast. Actor Emraan Hashmi leads the project alongside Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh.",
+          "Behind the camera, the production is backed by Deepak Mukut, Sangeeta Ahir, and Hunar Mukut under the banner of SRE Studio LLP. Additionally, the project is presented by Soham Rockstar Entertainment, with distribution handled by PEN Marudhar domestically and Phars Films internationally."
+        ]
+      },
+      {
+        "h": "Plot and Character Overview",
+        "p": [
+          "Emraan Hashmi steps into the role of Eshwar, described as an ordinary dairy farmer whose quiet existence is completely upended when his family and loved ones face grave dangers. Earlier promotional snippets showcased his high-octane fight sequences alongside romantic interludes.",
+          "The director has previously emphasized that the physical confrontations within the story stem directly from deep emotional conflicts, intertwining the romance between the leads with the overarching peril."
+        ]
+      },
+      {
+        "h": "Reunion of a Hit Creative Trio",
+        "p": [
+          "A major talking point surrounding the project is the reunion of key creative forces who previously collaborated two decades ago. Director Aditya Datt, leading man Emraan Hashmi, and composer Himesh Reshammiya are working together again after their memorable stint on Aashiq Banaya Aapne in 2005.",
+          "This returning partnership aims to recapture the distinct vibe of that earlier era while translating it into a modern action-romance format that appeals to contemporary audiences."
+        ]
+      },
+      {
+        "h": "Musical Promotion Strategy",
+        "p": [
+          "Rather than relying solely on high-energy action cuts, the promotional rollout has leaned heavily on melodic offerings composed by Himesh Reshammiya. Tracks such as Afsaana Banaaya Aapne, Do Din Ki Zindagi, and Dard-E-Dil Dard-E-Jigar have already been shared with the public.",
+          "These musical numbers have established the romantic stakes of the narrative, giving viewers an early taste of the emotional layer running underneath the violent conflicts faced by the protagonist."
+        ]
+      },
+      {
+        "h": "Fresh On-Screen Pairings",
+        "p": [
+          "Alongside nostalgic collaborations, the movie introduces brand-new dynamic pairings to the big screen. Most notably, the project marks the very first time Emraan Hashmi and Genelia Deshmukh are sharing cinematic space as romantic leads.",
+          "This fresh casting choice has generated additional curiosity among fans eager to see how their chemistry translates during both the lighthearted romantic scenes and the tense narrative beats."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming release of the Gunmaaster G9 trailer on November 11 marks a key phase in the film's promotional journey ahead of its November 27 theatrical premiere. Directed by Aditya Datt and starring Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh, the romantic action project also reunites key members behind the 2005 hit Aashiq Banaya Aapne."
+        ]
+      }
+    ],
+    "facts": [
+      "Emraan Hashmi stars as Eshwar in Gunmaaster G9.",
+      "The theatrical trailer of Gunmaaster G9 releases on November 11, 2026.",
+      "The worldwide theatrical release date for Gunmaaster G9 is November 27, 2026.",
+      "Aditya Datt is the director of Gunmaaster G9.",
+      "Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh star in the film alongside Emraan Hashmi.",
+      "Himesh Reshammiya composed the music for the film.",
+      "The core creative trio previously collaborated on Aashiq Banaya Aapne in 2005."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Aditya Datt",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Abhishek Singh",
+        "Himesh Reshammiya",
+        "Deepak Mukut",
+        "Sangeeta Ahir",
+        "Hunar Mukut"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9 trailer",
+      "Emraan Hashmi Gunmaaster G9",
+      "Aditya Datt Gunmaaster G9",
+      "Genelia Deshmukh film"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028440.jpg",
+        "caption": "Emraan Hashmi's Gunmaaster G9 Trailer Scheduled for November 11 Ahead of November 27 Release",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 08:22:25 +0000"
+  },
+  "1qlmi5k": {
+    "id": "1qlmi5k",
+    "type": "news",
+    "headline": "Assam cane craft shaped Ranbir and Ravie's armour in Ramayana",
+    "dek": "Costume designer Ajay Kumar reveals how traditional Assamese craftsmanship, including Sarpat cane and jute, was used to design the armour for Nitesh Tiwari's epic film.",
+    "body": [
+      {
+        "h": "Traditional Craftsmanship in Epic Design",
+        "p": [
+          "The creation of costumes for Nitesh Tiwari's cinematic adaptation of Ramayana has gone far beyond conventional designs, incorporating indigenous Indian artistry to breathe life into the epic. Costume designer Ajay Kumar recently shared insights into the intricate process behind building the protective gear worn by leading actors Ranbir Kapoor and Ravie Dubey.",
+          "Rather than relying strictly on standard cinematic wardrobe materials, the creative team looked toward regional heritage to anchor the film's aesthetic. This approach integrated time-honored crafting techniques directly into the massive production's pipeline, highlighting authentic cultural methods on a grand scale."
+        ]
+      },
+      {
+        "h": "Journey to Assam for Raw Materials",
+        "p": [
+          "To achieve the desired look and structural authenticity, Ajay Kumar and his crew personally traveled to Assam to oversee the fabrication process. They utilized locally sourced regional materials such as Sarpat cane, natural jute, and carved wood elements to build the physical foundation of the protective gear.",
+          "The designer emphasized that bringing this vision to life demanded extraordinary persistence and patience from everyone involved. He credited his support team as the vital backbone that helped navigate the rigorous logistical and creative hurdles encountered throughout the venture."
+        ]
+      },
+      {
+        "h": "Collaboration with Local Artisans",
+        "p": [
+          "A key element of the wardrobe development involved partnering directly with skilled regional craftspeople. Ajay collaborated closely with Barpeta-based artisan Jaynal Abdin to formulate the specific structural weave required for the garments.",
+          "Once the foundational weaving was completed locally, the pieces were transported to Mumbai for final detailing and finishing touches. This bridge between rural expertise and metropolitan film production created a distinct fusion of indigenous skill and cinematic utility."
+        ]
+      },
+      {
+        "h": "Down-to-the-Wire Deadlines",
+        "p": [
+          "The production timeline proved exceptionally demanding, with tight turnaround windows pushing the design crew to their absolute limits. The pressure culminated during the final phases of construction just before filming commenced.",
+          "According to the design team, Ranbir Kapoor's signature costume pieces were completed a mere hour before cameras started rolling. This high-stress environment tested the resilience and adaptability of both the designer and his local artisan partners."
+        ]
+      },
+      {
+        "h": "Cast and Crew of the Epic",
+        "p": [
+          "Directed by filmmaker Nitesh Tiwari and backed by producers Namit Malhotra and Yash, Ramayana arrived in Indian cinemas on November 5. The high-profile project boasts an expansive ensemble cast featuring top-tier cinematic talent.",
+          "Ranbir Kapoor stars as Lord Rama alongside Sai Pallavi as Sita, while Yash takes on the role of Ravana. Meanwhile, Ravie Dubey portrays Lakshman, supported by notable performers including Arun Govil, Lara Dutta, Rakul Preet Singh, Kajal Aggarwal, Indira Krishnan, and Kunal Kapoor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Costume designer Ajay Kumar utilized traditional Assamese cane craft, jute, and wood to create the armour for Ranbir Kapoor and Ravie Dubey in Nitesh Tiwari's film Ramayana. Working with Barpeta artisan Jaynal Abdin, the team completed the signature pieces just before filming began for the theatrical release on November 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Costume designer Ajay Kumar worked with Assam artisan Jaynal Abdin to create armour for Nitesh Tiwari's Ramayana.",
+      "The armour used Sarpat cane as its base, with jute embellishments and wooden elements.",
+      "Ranbir's signature armour was completed just an hour before filming began.",
+      "Ramayana released in cinemas in India on November 5.",
+      "The film stars Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Kumar",
+        "Jaynal Abdin",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Indira Krishnan",
+        "Kunal Kapoor"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ranbir Kapoor",
+      "Ravie Dubey",
+      "Assam cane craft",
+      "Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ranbir-kapoor--ravie-dubey-091811850-16x9_0.jpg?VersionId=rKxecBfso2yMFqv7861a4jp9cA_l3TJ3",
+        "caption": "Assam cane craft shaped Ranbir and Ravie's armour in Ramayana",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 13:54:33 +0530"
+  },
+  "199mjq7": {
+    "id": "199mjq7",
+    "type": "news",
+    "headline": "Sharwanand’s period action drama 'Bhogi' faces theatrical delay after CBFC intervention",
+    "dek": "The promotional campaign and theatrical arrival of Sampath Nandi's upcoming directorial 'Bhogi' have been temporarily stalled following the Censor Board's decision to refer the movie to a revising committee.",
+    "body": [
+      {
+        "h": "Theatrical Launch Delayed",
+        "p": [
+          "The anticipated release of the Telugu period action drama 'Bhogi', starring actor Sharwanand and directed by filmmaker Sampath Nandi, has encountered an unexpected hurdle. Rather than granting a standard clearance certificate, the Central Board of Film Certification has chosen to forward the feature to its revising committee, resulting in an indefinite postponement of its scheduled theatrical arrival.",
+          "This regulatory turn of events has forced the studio and production team to halt all immediate distribution plans. Insiders indicate that the makers will determine their next operational steps only after securing official certification from the board, at which point a fresh release timeline will be communicated to the public."
+        ]
+      },
+      {
+        "h": "Promotional Events Put On Hold",
+        "p": [
+          "In tandem with the delay in certification, the makers elected to suspend all promotional activities for the project. A grand pre-release gathering and trailer launch originally slated to take place at the Park Hyatt in Hyderabad were cancelled at the last moment due to unexpected technical complications.",
+          "The production team issued an official statement expressing sincere regret to supporters who had anticipated the evening's festivities. Organizers assured fans that a rescheduled date for the promotional event and the official trailer unveiling would be announced once current hurdles are successfully resolved."
+        ]
+      },
+      {
+        "h": "Setting And Narrative Background",
+        "p": [
+          "Written and directed within a historical framework, 'Bhogi' transports viewers back to the early 1960s, framing its narrative along the geographical border shared by Maharashtra and Adilabad. The story is structured to highlight a rural society defined by deep-rooted traditions, intricate interpersonal relationships, and unique social dynamics.",
+          "Prior to the current regulatory setback, the film's promotional rollout had successfully captured public attention. A previously issued teaser established a distinct atmospheric tone, while initial musical tracks released to digital platforms garnered favorable responses from listeners."
+        ]
+      },
+      {
+        "h": "Cast And Visual Transformation",
+        "p": [
+          "Leading man Sharwanand underwent a noticeable physical transformation for the project, adopting a rugged, rustic persona suited to the period setting. He is joined on screen by female leads Anupama Parameswaran and Dimple Hayathi, both of whom play pivotal roles in the narrative arc.",
+          "The production places heavy emphasis on authentic period detailing, supported by art direction from Kiran Kumar Manne and cinematography overseen by Kishor Kumar. Action choreography has been spearheaded by Dilip Subbarayan to anchor the film's gritty action sequences."
+        ]
+      },
+      {
+        "h": "Musical And Technical Collaboration",
+        "p": [
+          "The sonic landscape of 'Bhogi' is anchored by composer Bheems Ceciroleo, whose released compositions have already found appreciation among music enthusiasts. Veteran lyricist Chandrabose contributed the words for the soundtrack, working alongside the composer to shape the film's rural mood.",
+          "Technical departments have collaborated closely to build the atmosphere of 1960s rural India, ensuring that every element from the background score to the visual framing aligns with the director's creative vision for the regional project."
+        ]
+      },
+      {
+        "h": "Future Outlook And Next Steps",
+        "p": [
+          "With the project currently under review by the revising committee, the cast and crew remain in a holding pattern regarding their commercial rollout. Industry observers anticipate that once the certification review concludes, the team will quickly finalize a new slate of promotional dates.",
+          "Supporters and trade analysts alike continue to monitor developments closely as the production navigates the final bureaucratic stages required to bring the period drama safely to cinemas."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The theatrical release and promotional rollout of the Telugu period action drama 'Bhogi', starring Sharwanand and directed by Sampath Nandi, have been postponed after the Central Board of Film Certification referred the film to its revising committee. Consequently, the makers called off a scheduled trailer launch and pre-release event in Hyderabad, stating that a revised schedule will be shared once the certification process concludes."
+        ]
+      }
+    ],
+    "facts": [
+      "Sharwanand stars in the Telugu period action drama Bhogi",
+      "Sampath Nandi is the director of Bhogi",
+      "The Central Board of Film Certification referred the film to its revising committee",
+      "The pre-release event and trailer launch at Park Hyatt, Hyderabad were postponed",
+      "The film is set in the early 1960s along the Maharashtra-Adilabad border",
+      "Anupama Parameswaran and Dimple Hayathi play the female leads",
+      "Bheems Ceciroleo composed the music, with lyrics by Chandrabose",
+      "Kishor Kumar is the cinematographer, Kiran Kumar Manne is the art director, and Dilip Subbarayan handled action choreography"
+    ],
+    "entities": {
+      "people": [
+        "Sharwanand",
+        "Sampath Nandi",
+        "Anupama Parameswaran",
+        "Dimple Hayathi",
+        "Bheems Ceciroleo",
+        "Chandrabose",
+        "Kishor Kumar",
+        "Kiran Kumar Manne",
+        "Dilip Subbarayan"
+      ],
+      "titles": [
+        "Bhogi"
+      ]
+    },
+    "keywords": [
+      "Bhogi film release",
+      "Sharwanand Bhogi movie",
+      "CBFC revising committee Bhogi",
+      "Sampath Nandi Bhogi"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135675382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sharwanand’s period action drama 'Bhogi' faces theatrical delay after CBFC intervention",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T13:25:14+05:30"
+  },
+  "khuokp": {
+    "id": "khuokp",
+    "type": "news",
+    "headline": "Audiences Told to 'Brace Themselves' Before Watching Dystopian Netflix Thriller",
+    "dek": "The gripping and stomach-churning dystopian film has captured global attention, leaving viewers torn between intense fascination and revulsion.",
+    "body": [
+      {
+        "h": "The Dystopian Thriller Captivating Viewers",
+        "p": [
+          "A harrowing dystopian film currently available on Netflix has captured widespread attention, prompting critics and fans alike to advise newcomers to brace themselves before pressing play. The intense suspense drama has left audiences completely spellbound, though many admit they find themselves torn between adoration and revulsion due to its extreme narrative.",
+          "While certain admirers have drawn conceptual parallels to classic anthology programs like The Twilight Zone, others confess that the picture lingers heavily in their minds long after the credits roll, even vowing never to watch it a second time. Despite these mixed personal reactions, there remains a unanimous consensus that the feature demands the viewer's full attention."
+        ]
+      },
+      {
+        "h": "Origins and Creative Team",
+        "p": [
+          "Originally produced in Spanish, the acclaimed feature first came to light in 2019 and has since mesmerized international audiences who find themselves unable to look away from its unexpected plot turns. The project is helmed by director Galder Gaztelu-Urrutia, while the screenplay was skillfully adapted from an original stage production written by David Desola and Pedro Rivero.",
+          "Devotees of the picture often describe it as absolute gold, though they frequently caution potential viewers that it might not be the best choice for anyone who has eaten recently. The production elements and performances combine to create a uniquely unsettling atmosphere that stays with the viewer."
+        ]
+      },
+      {
+        "h": "Festival Debut and Global Streaming Launch",
+        "p": [
+          "The suspenseful drama originally made its international debut at the Toronto International Film Festival in 2019, where it successfully claimed the coveted People's Choice Award for Midnight Madness. This strong festival showing served as a crucial launchpad, securing a global streaming agreement that brought the movie to a worldwide subscriber base.",
+          "Following its initial Spanish cinema release on November 8, 2019, the feature generated $1.1 million in ticket sales before eventually landing on Netflix on March 20, 2020. This streaming release coincided precisely with the onset of global lockdowns during the coronavirus outbreak, amplifying its relevance."
+        ]
+      },
+      {
+        "h": "Premise and Conceptual Core",
+        "p": [
+          "The official premise of the story is set within a grim prison environment where inmates are fed via a descending platform. Those residing on the upper levels consume more than their fair share of food, while individuals situated on the lower levels are left to starve on meager scraps.",
+          "Faced with this deeply unequal system, one determined man decides to challenge the status quo and attempt to change the rigid structure. This vertical arrangement serves as a stark allegory for social stratification and human nature under duress."
+        ]
+      },
+      {
+        "h": "Cast and Physical Dedication",
+        "p": [
+          "The suspense feature stars a talented ensemble cast including Iván Massagué, Antonia San Juan, Zorion Eguileor, Emilio Buale Coka, and Alexandra Masangkay. Their performances ground the grim narrative in raw human emotion and physical realism.",
+          "Notably, lead actor Iván Massagué underwent a dramatic physical transformation for the role, shedding 12 kg during the six-week filming period. This dedication helped genuinely capture his character's declining physical condition as the story progressed through its sequential shooting schedule."
+        ]
+      },
+      {
+        "h": "Production Design and Pandemic Resonance",
+        "p": [
+          "The stark, minimalist prison cells seen throughout the feature were constructed specifically for production at a Red Cross facility situated in a port located in Bilbao, northern Spain. This controlled environment heightened the claustrophobic tension of the narrative.",
+          "Upon its release during the global health crisis, the film struck a distinct chord with viewers because its themes of resource scarcity mirrored real-world headlines about excessive hoarding of toilet rolls, food, and other household necessities."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A 2019 Spanish dystopian thriller directed by Galder Gaztelu-Urrutia has gained massive attention on Netflix for its harrowing and stomach-churning narrative about a vertical prison system. The film, which stars Iván Massagué and won a prize at the Toronto International Film Festival, resonated deeply with audiences during pandemic lockdowns due to its themes of societal selfishness and resource hoarding."
+        ]
+      }
+    ],
+    "facts": [
+      "The Platform is a 2019 dystopian thriller originally in Spanish.",
+      "The film was directed by Galder Gaztelu-Urrutia.",
+      "The screenplay was crafted from a stage production by David Desola and Pedro Rivero.",
+      "The movie debuted at the Toronto International Film Festival in 2019.",
+      "It won the People's Choice Award for Midnight Madness at TIFF.",
+      "The Spanish cinema release took place on November 8, 2019.",
+      "It generated $1.1 million in ticket sales before its streaming release.",
+      "The film landed on Netflix on March 20, 2020.",
+      "Lead actor Iván Massagué shed 12 kg during the six-week filming period.",
+      "Filming took place at a Red Cross facility in a Bilbao port in northern Spain."
+    ],
+    "entities": {
+      "people": [
+        "Galder Gaztelu-Urrutia",
+        "David Desola",
+        "Pedro Rivero",
+        "Iván Massagué",
+        "Antonia San Juan",
+        "Zorion Eguileor",
+        "Emilio Buale Coka",
+        "Alexandra Masangkay",
+        "Parul Sharma"
+      ],
+      "titles": [
+        "The Platform",
+        "The Twilight Zone",
+        "Good Morning Britain",
+        "This Morning",
+        "Loose Women",
+        "EastEnders",
+        "Emmerdale",
+        "Coronation Street",
+        "Love Island",
+        "I'm A Celebrity",
+        "Strictly Come Dancing"
+      ]
+    },
+    "keywords": [
+      "The Platform Netflix thriller",
+      "Galder Gaztelu-Urrutia film",
+      "Iván Massagué The Platform",
+      "dystopian Netflix movie 2020"
+    ],
+    "images": [],
+    "published": "Mon, 9 Nov 2026 07:00:00 +0000"
   }
 };

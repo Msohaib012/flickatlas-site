@@ -24,6 +24,161 @@ window.FA_HOME_ARTICLES = {
     "images": [],
     "published": "Mon, 09 Nov 2026 03:40:00 EST"
   },
+  "1qlmi5k": {
+    "id": "1qlmi5k",
+    "type": "news",
+    "headline": "Assam cane craft shaped Ranbir and Ravie's armour in Ramayana",
+    "dek": "Costume designer Ajay Kumar reveals how traditional Assamese craftsmanship, including Sarpat cane and jute, was used to design the armour for Nitesh Tiwari's epic film.",
+    "entities": {
+      "people": [
+        "Ajay Kumar",
+        "Jaynal Abdin",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Kajal Aggarwal",
+        "Indira Krishnan",
+        "Kunal Kapoor"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ranbir Kapoor",
+      "Ravie Dubey",
+      "Assam cane craft",
+      "Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ranbir-kapoor--ravie-dubey-091811850-16x9_0.jpg?VersionId=rKxecBfso2yMFqv7861a4jp9cA_l3TJ3",
+        "caption": "Assam cane craft shaped Ranbir and Ravie's armour in Ramayana",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 13:54:33 +0530"
+  },
+  "dbizo8": {
+    "id": "dbizo8",
+    "type": "news",
+    "headline": "Emraan Hashmi's Gunmaaster G9 Trailer Scheduled for November 11 Ahead of November 27 Release",
+    "dek": "The creators of Gunmaaster G9 have officially scheduled the main theatrical trailer drop for November 11, building up to the film's worldwide cinematic debut later in the month.",
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Aditya Datt",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Abhishek Singh",
+        "Himesh Reshammiya",
+        "Deepak Mukut",
+        "Sangeeta Ahir",
+        "Hunar Mukut"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9 trailer",
+      "Emraan Hashmi Gunmaaster G9",
+      "Aditya Datt Gunmaaster G9",
+      "Genelia Deshmukh film"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028440.jpg",
+        "caption": "Emraan Hashmi's Gunmaaster G9 Trailer Scheduled for November 11 Ahead of November 27 Release",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 08:22:25 +0000"
+  },
+  "199mjq7": {
+    "id": "199mjq7",
+    "type": "news",
+    "headline": "Sharwanand’s period action drama 'Bhogi' faces theatrical delay after CBFC intervention",
+    "dek": "The promotional campaign and theatrical arrival of Sampath Nandi's upcoming directorial 'Bhogi' have been temporarily stalled following the Censor Board's decision to refer the movie to a revising committee.",
+    "entities": {
+      "people": [
+        "Sharwanand",
+        "Sampath Nandi",
+        "Anupama Parameswaran",
+        "Dimple Hayathi",
+        "Bheems Ceciroleo",
+        "Chandrabose",
+        "Kishor Kumar",
+        "Kiran Kumar Manne",
+        "Dilip Subbarayan"
+      ],
+      "titles": [
+        "Bhogi"
+      ]
+    },
+    "keywords": [
+      "Bhogi film release",
+      "Sharwanand Bhogi movie",
+      "CBFC revising committee Bhogi",
+      "Sampath Nandi Bhogi"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135675382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Sharwanand’s period action drama 'Bhogi' faces theatrical delay after CBFC intervention",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T13:25:14+05:30"
+  },
+  "khuokp": {
+    "id": "khuokp",
+    "type": "news",
+    "headline": "Audiences Told to 'Brace Themselves' Before Watching Dystopian Netflix Thriller",
+    "dek": "The gripping and stomach-churning dystopian film has captured global attention, leaving viewers torn between intense fascination and revulsion.",
+    "entities": {
+      "people": [
+        "Galder Gaztelu-Urrutia",
+        "David Desola",
+        "Pedro Rivero",
+        "Iván Massagué",
+        "Antonia San Juan",
+        "Zorion Eguileor",
+        "Emilio Buale Coka",
+        "Alexandra Masangkay",
+        "Parul Sharma"
+      ],
+      "titles": [
+        "The Platform",
+        "The Twilight Zone",
+        "Good Morning Britain",
+        "This Morning",
+        "Loose Women",
+        "EastEnders",
+        "Emmerdale",
+        "Coronation Street",
+        "Love Island",
+        "I'm A Celebrity",
+        "Strictly Come Dancing"
+      ]
+    },
+    "keywords": [
+      "The Platform Netflix thriller",
+      "Galder Gaztelu-Urrutia film",
+      "Iván Massagué The Platform",
+      "dystopian Netflix movie 2020"
+    ],
+    "images": [],
+    "published": "Mon, 9 Nov 2026 07:00:00 +0000"
+  },
   "3plspc": {
     "id": "3plspc",
     "type": "news",
@@ -4512,153 +4667,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-08T00:51:31Z"
-  },
-  "1qrmfu2": {
-    "id": "1qrmfu2",
-    "type": "news",
-    "headline": "Amitabh Bachchan Falls Ill, Causing A Week-Long Halt To Kaun Banega Crorepati 18 Production",
-    "dek": "Production on the latest season of the popular television quiz show has been temporarily paused following medical advice given to its legendary host.",
-    "entities": {
-      "people": [
-        "Amitabh Bachchan",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Nag Ashwin",
-        "Prabhas",
-        "Kamal Haasan",
-        "Deepika Padukone"
-      ],
-      "titles": [
-        "Kaun Banega Crorepati 18",
-        "Kabhi Khushi Kabhie Gham",
-        "Ramayana",
-        "Kalki 2898 AD"
-      ]
-    },
-    "keywords": [
-      "Amitabh Bachchan",
-      "Kaun Banega Crorepati 18",
-      "Kaun Banega Crorepati shoot halted",
-      "Ramayana cast on KBC"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156480341,thumbsize-34338,width-1280,height-720,resizemode-75/156480341.jpg",
-        "caption": "Amitabh Bachchan Falls Ill, Causing A Week-Long Halt To Kaun Banega Crorepati 18 Production",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-08T00:51:31Z"
-  },
-  "c9orgc": {
-    "id": "c9orgc",
-    "type": "news",
-    "headline": "Diljit Dosanjh Refuses to Cancel Indore Concert Following Security Threats",
-    "dek": "Punjabi singer Diljit Dosanjh has confirmed that his Aura India Tour stop in Indore will proceed as scheduled on November 15, despite recent bomb threats and security warnings.",
-    "entities": {
-      "people": [
-        "Diljit Dosanjh",
-        "Sonal Pandya"
-      ],
-      "titles": [
-        "Aura India Tour"
-      ]
-    },
-    "keywords": [
-      "Diljit Dosanjh Indore concert",
-      "Aura India Tour dates",
-      "Diljit Dosanjh bomb threat",
-      "Diljit Dosanjh Latin Grammys"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156479719,thumbsize-592105,width-1280,height-720,resizemode-75/156479719.jpg",
-        "caption": "Diljit Dosanjh Refuses to Cancel Indore Concert Following Security Threats",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-08T00:51:31Z"
-  },
-  "139vg1r": {
-    "id": "139vg1r",
-    "type": "news",
-    "headline": "Robert Pattinson And Nicholas Hoult Reportedly Test For James Bond Franchise Reboot",
-    "dek": "Fresh updates indicate that Robert Pattinson and Nicholas Hoult have completed screen tests to portray the iconic secret agent 007 in the upcoming franchise reboot.",
-    "entities": {
-      "people": [
-        "Robert Pattinson",
-        "Nicholas Hoult",
-        "Denis Villeneuve",
-        "Daniel Craig",
-        "Callum Turner",
-        "Jack Lowden",
-        "Josh O'Connor",
-        "Harry Styles",
-        "Theo James",
-        "Steven Spielberg",
-        "Barbara Broccoli",
-        "Michael G. Wilson"
-      ],
-      "titles": [
-        "No Time to Die",
-        "Casino Royale",
-        "Pride and Prejudice",
-        "Slow Horses",
-        "Disclosure Day"
-      ]
-    },
-    "keywords": [
-      "James Bond casting",
-      "Robert Pattinson James Bond",
-      "Nicholas Hoult 007",
-      "Denis Villeneuve James Bond film"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156479514,thumbsize-693018,width-1280,height-720,resizemode-75/156479514.jpg",
-        "caption": "Robert Pattinson And Nicholas Hoult Reportedly Test For James Bond Franchise Reboot",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-07T23:52:00Z"
-  },
-  "ilkj0i": {
-    "id": "ilkj0i",
-    "type": "news",
-    "headline": "How Namit Malhotra's Fanboy Pitch Brought Hans Zimmer and AR Rahman Together For Ramayana",
-    "dek": "Producer Namit Malhotra opens up about his sincere admiration for music legends Hans Zimmer and AR Rahman and how it led to an unprecedented collaboration for the upcoming epic Ramayana.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Hans Zimmer",
-        "AR Rahman",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana : Rise of a Legend"
-      ]
-    },
-    "keywords": [
-      "Ramayana film music",
-      "Namit Malhotra Hans Zimmer AR Rahman",
-      "Ramayana Nitesh Tiwari Ranbir Kapoor Yash",
-      "Ramayana Rise of a Legend"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156478406,thumbsize-227877,width-1280,height-720,resizemode-75/156478406.jpg",
-        "caption": "How Namit Malhotra's Fanboy Pitch Brought Hans Zimmer and AR Rahman Together For Ramayana",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-07T23:52:00Z"
   },
   "1uxna1r": {
     "id": "1uxna1r",
