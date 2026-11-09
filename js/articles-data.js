@@ -93920,5 +93920,364 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 12:10:54 +0530"
+  },
+  "ve32nm": {
+    "id": "ve32nm",
+    "type": "news",
+    "headline": "Kamal Haasan faces severe backlash over Sandiyar title announcement",
+    "dek": "Veteran actor and politician Kamal Haasan has run into a major controversy after choosing the title Sandiyar for his upcoming film, drawing a fierce warning from political leader Krishnasamy two decades after the original dispute.",
+    "body": [
+      {
+        "h": "Title Announcement Triggers Controversy",
+        "p": [
+          "Renowned actor and politician Kamal Haasan has sparked a fresh wave of public debate following the announcement of his upcoming film project. Unveiled to the public on November 7, coinciding with the actor's birthday, the movie was introduced with the title Sandiyar.",
+          "Even before the release of any production details, teaser footage, or official plot outlines, the chosen name immediately captured media attention for all the wrong reasons. The decision to use this specific moniker has resurrected an old political and social debate in Tamil Nadu, reminding citizens of past controversies involving the veteran star."
+        ]
+      },
+      {
+        "h": "Strong Political Opposition From Krishnasamy",
+        "p": [
+          "The announcement drew swift condemnation from New Tamilagam Party president Krishnasamy. Voicing vehement opposition, he publicly cautioned the filmmakers that proceeding with the project under the current name would invite intense resistance.",
+          "Krishnasamy argued that using the word Sandiyar carries the heavy potential of inciting caste-based friction and violent unrest, particularly within the southern districts of the state. He directly appealed to Kamal Haasan, reminding him of his dual standing as both a Member of Parliament and a political party leader who should exercise greater responsibility."
+        ]
+      },
+      {
+        "h": "The 2003 Precedent and Virumaandi",
+        "p": [
+          "This brewing controversy serves as a direct echo of events that transpired twenty-three years ago. In 2003, Kamal Haasan originally selected the exact same title for an upcoming cinematic venture, which immediately provoked widespread protests across southern Tamil Nadu due to concerns over community disharmony.",
+          "Faced with mounting societal pressure and public demonstrations at the time, the makers ultimately altered the name to Virumaandi, following the counsel of then Chief Minister J Jayalalithaa. The retitled project eventually released and won appreciation for its narrative depth and character performances, embedding the title change into regional cinema lore."
+        ]
+      },
+      {
+        "h": "Direct Ultimatums and Legal Threats",
+        "p": [
+          "Krishnasamy made it emphatically clear that his party's resistance would extend far beyond verbal objections or routine political statements. He asserted that an organized campaign using every available avenue, including formal legal actions, would be deployed to halt the production.",
+          "In his most severe remark, the New Tamilagam Party president issued a direct ultimatum stating that if the project moves forward with the disputed title, Kamal Haasan would face expulsion from the state, intensifying the stakes surrounding the cinematic venture."
+        ]
+      },
+      {
+        "h": "Appeals for State Intervention",
+        "p": [
+          "Beyond addressing the actor directly, political figures have sought governmental intervention to defuse the situation before it escalates further. Krishnasamy publicly called upon Tamil Nadu Chief Minister Vijay to step into the matter.",
+          "The expectation behind this appeal is that state leadership will counsel the actor and the production team to abandon the controversial moniker. Observers note that such high-level pressure significantly increases the likelihood of a formal response or a title reconsideration from the film's creators."
+        ]
+      },
+      {
+        "h": "Public Debate and Expected Reactions",
+        "p": [
+          "The sudden revival of a twenty-three-year-old controversy has deeply divided public opinion across digital platforms and local circles. Thousands of internet users have actively participated in online polls and discussion forums to voice their stance on whether the title should be retained or scrapped.",
+          "As public discourse intensifies and political pressure mounts from various factions, industry analysts anticipate an official statement from Kamal Haasan or his production team to address the mounting concerns and clarify the future of the project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kamal Haasan has faced intense backlash after naming his newly announced film Sandiyar, a title that previously sparked caste-related controversies twenty-three years ago before being renamed Virumaandi. New Tamilagam Party president Krishnasamy strongly condemned the choice, warning of severe legal and political opposition and urging Chief Minister Vijay to intervene."
+        ]
+      }
+    ],
+    "facts": [
+      "Kamal Haasan announced his upcoming film titled Sandiyar on November 7.",
+      "The title announcement was made on Kamal Haasan's birthday.",
+      "New Tamilagam Party president Krishnasamy strongly objected to the title.",
+      "Krishnasamy warned that the title could trigger caste clashes and violence in southern districts.",
+      "Krishnasamy urged Tamil Nadu Chief Minister Vijay to intervene.",
+      "In 2003, Kamal Haasan's film originally named Sandiyar was renamed Virumaandi.",
+      "The 2003 title change happened on the advice of then Chief Minister J Jayalalithaa."
+    ],
+    "entities": {
+      "people": [
+        "Kamal Haasan",
+        "Krishnasamy",
+        "Vijay",
+        "J Jayalalithaa"
+      ],
+      "titles": [
+        "Sandiyar",
+        "Virumaandi"
+      ]
+    },
+    "keywords": [
+      "Kamal Haasan Sandiyar",
+      "Krishnasamy Sandiyar warning",
+      "Kamal Haasan movie title controversy",
+      "Sandiyar Virumaandi name change"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135673423,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Kamal Haasan faces severe backlash over Sandiyar title announcement",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T11:51:59+05:30"
+  },
+  "1x5ref6": {
+    "id": "1x5ref6",
+    "type": "news",
+    "headline": "Clayface Crosses Major Box Office Milestone Despite Theater Count Reductions",
+    "dek": "DC Studios’ Clayface has cleared its break-even point globally, pulling in $109 million despite losing hundreds of theaters in its third week.",
+    "body": [
+      {
+        "h": "Reaching the Break-Even Milestone",
+        "p": [
+          "DC Studios has secured a notable theatrical win with its latest release, Clayface. Just two weeks into its commercial run, the horror thriller has successfully cleared its primary financial hurdle by crossing its break-even point globally.",
+          "The project has accumulated $56.6 million domestically alongside $52.4 million from international markets. This brings its overall worldwide haul to $109 million, comfortably surpassing its reported production budget range of $40 million to $44 million."
+        ]
+      },
+      {
+        "h": "Critical Reception and Scale",
+        "p": [
+          "Unlike standard franchise blockbusters, the R-rated feature functions much closer to a traditional horror film. This unique approach has resonated well with general audiences and film critics alike, earning the production a Certified Fresh score of 78% on Rotten Tomatoes.",
+          "Despite positive word-of-mouth, the film is beginning to experience a contraction in its theatrical footprint. After launching across 3,458 locations, the picture was dropped from over 530 screens as it entered its third week in cinemas."
+        ]
+      },
+      {
+        "h": "Weekend Performance and Competition",
+        "p": [
+          "During its recent weekend frame, the title managed to add roughly $7 million domestically, pushing its domestic cumulative total close to the $60 million threshold.",
+          "Competition at the box office remains steep, with Godzilla Minus Zero claiming the leading position by pulling in $31.6 million from 3,254 theaters. Industry metrics suggest that Clayface has likely reached its peak commercial momentum."
+        ]
+      },
+      {
+        "h": "Director Legacy and Comparisons",
+        "p": [
+          "The global earnings for Clayface have already outpaced previous projects directed by James Watkins. It has successfully surpassed Speak No Evil, which finished its worldwide run with $77 million on a $15 million budget.",
+          "Additionally, the film is positioned to soon overtake Watkins’ earlier work The Woman in Black, which grossed approximately $130 million globally. It is also on a steady path to eclipse Supergirl from the same year, which concluded its global run near $125 million while carrying a significantly higher production cost."
+        ]
+      },
+      {
+        "h": "Cast and Alternate Continuity",
+        "p": [
+          "The new DCU film features a principal cast that includes Tom Rhys Harries, Naomi Ackie, Max Minghella, and Eddie Marsan. Their performances anchor a narrative set entirely within an alternate Gotham City.",
+          "This specific setting operates completely separate from the continuity established in Matt Reeves’ The Batman. Such narrative separation provides DC Studios with creative freedom to potentially pursue additional lower-budget features centered around members of Batman’s rogues’ gallery, although official confirmation for those future projects has not been provided."
+        ]
+      },
+      {
+        "h": "Significance for Comic Book Cinema",
+        "p": [
+          "The commercial trajectory of Clayface serves as a demonstration that modest budgets paired with favorable critical reviews can sustain a comic book adaptation. By avoiding the inflated costs typical of modern superhero spectacles, the production secured profitability despite losing hundreds of screens.",
+          "As the theatrical run continues, the milestone underscores shifting audience appetites toward genre-blending comic book storytelling that prioritizes atmospheric horror over sprawling cinematic universe obligations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "DC Studios horror thriller Clayface has surpassed its break-even point with a global box office total of $109 million. The achievement arrives despite the R-rated film losing over 530 theaters entering its third week in cinemas."
+        ]
+      }
+    ],
+    "facts": [
+      "Clayface global box office is $109 million",
+      "Domestic box office is $56.6 million",
+      "International box office is $52.4 million",
+      "Production budget is $40 million to $44 million",
+      "Rotten Tomatoes score is 78%",
+      "Initial theater count was 3,458 locations",
+      "Theaters dropped exceeded 530",
+      "Domestic total is nearly $60 million",
+      "Godzilla Minus Zero earned $31.6 million",
+      "Godzilla Minus Zero theater count was 3,254",
+      "Speak No Evil worldwide collection was $77 million",
+      "Speak No Evil budget was $15 million",
+      "The Woman in Black grossed around $130 million",
+      "Supergirl worldwide finish was near $125 million",
+      "Release timeline is two weeks into its theatrical run"
+    ],
+    "entities": {
+      "people": [
+        "James Watkins",
+        "Tom Rhys Harries",
+        "Naomi Ackie",
+        "Max Minghella",
+        "Eddie Marsan",
+        "Matt Reeves",
+        "Devanshi Basu"
+      ],
+      "titles": [
+        "Clayface",
+        "Godzilla Minus Zero",
+        "Speak No Evil",
+        "The Woman in Black",
+        "Supergirl",
+        "The Batman"
+      ]
+    },
+    "keywords": [
+      "Clayface box office",
+      "Clayface DC Studios",
+      "Tom Rhys Harries Clayface",
+      "James Watkins Clayface"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/clayfacedc.webp?resize=1200,630",
+        "caption": "Clayface Crosses Major Box Office Milestone Despite Theater Count Reductions",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 05:10:00 +0000"
+  },
+  "1cu8tt5": {
+    "id": "1cu8tt5",
+    "type": "news",
+    "headline": "Comedian Gaurav Gupta Sparks Outrage on Bigg Boss 20 Diwali Special",
+    "dek": "Stand-up comedian Gaurav Gupta made a guest appearance on the reality television show Bigg Boss season 20 for a special Diwali episode, where his comedy set led to heated arguments among contestants.",
+    "body": [
+      {
+        "h": "Introduction to the Reality Show Guest Appearance",
+        "p": [
+          "During a celebratory episode for Diwali, the reality television program Bigg Boss season 20 welcomed a guest performer to entertain the housemates. The remaining contestants, dressed in festive attire for the occasion, were joined by stand-up comedian Gaurav Gupta. His unexpected presence on the stage quickly captured attention as he prepared to deliver a comedic routine aimed directly at the people residing inside the house.",
+          "While guest appearances on the program typically offer lighthearted relief, this particular segment took a turbulent turn. The comedian used his time on stage to perform targeted skits and roast various individuals, creating an atmosphere that rapidly shifted from festive joy to severe tension among the participants."
+        ]
+      },
+      {
+        "h": "Background of Comedian Gaurav Gupta",
+        "p": [
+          "Gaurav Gupta is primarily recognized within the entertainment industry for his observational comedy style. Operating out of Delhi, he maintains a dual professional life, working as a dentist while simultaneously pursuing his career as a stand-up comic. His comedic material frequently revolves around family dynamics and cultural observations specific to the Baniya community.",
+          "Before his television appearance, Gupta established a digital footprint through viral short-form video clips. He also gained early recognition by participating in and winning local open mic competitions such as Radio One LOL, Piano Man, and Chalta Hai Comedy, eventually releasing an OTT stand-up special titled Market Down Hai."
+        ]
+      },
+      {
+        "h": "Digital Reach and International Touring",
+        "p": [
+          "The comedian's online presence includes an official YouTube channel where he uploads the majority of his performance content. At the time of reporting, this channel commands roughly 1.113 million subscribers alongside a cumulative total exceeding 313 million page views.",
+          "In addition to his digital platforms, Gupta maintains an active following on social media, registering 1.8 million followers across 899 posts on his Instagram account. His growing popularity has also facilitated international touring schedules, taking his Baniya-themed comedy skits to audiences across the United Kingdom and Europe."
+        ]
+      },
+      {
+        "h": "The Controversial Diwali Roast",
+        "p": [
+          "During his time on the Bigg Boss 20 stage, Gupta focused a significant portion of his routine on housemates ScoutOP and Love Gill. He poked fun at their interpersonal relationship, mentioned massage sessions, and brought up Scout's girlfriend, remarks that immediately tested the patience of the individuals involved.",
+          "The comedian further tested boundaries by commenting on the brother and sister dynamic shared by the contestants. He suggested that Scout held two remote controls for the game by dealing with Love Gill and Kaashvi, and delivered remarks about Scout's physical appearance before and after interacting with Love Gill."
+        ]
+      },
+      {
+        "h": "Contestant Retaliation and On-Screen Clashes",
+        "p": [
+          "The routine escalated further when Gupta explicitly referenced Scout's relationship with Kaashvi. Comparing the reality competition to a video game, the comedian advised that participants should only keep a single controller in their hands, noting that Scout had previously told Love Gill that he saw Kaashvi in her.",
+          "These remarks provoked immediate pushback from the housemates. Scout firmly denied the claims made during the set, and both he and Love Gill openly called out the guest performer, accusing him of insensitivity and suggesting that he required professional therapy."
+        ]
+      },
+      {
+        "h": "Viral Fallout and Public Opinion",
+        "p": [
+          "The friction between the comedian and the contestants did not stay confined to the television broadcast. Segments and clips capturing the verbal sparring matches quickly circulated across internet platforms, sparking intense discussions and going viral online.",
+          "Viewers and followers of the program weighed in on the incident through various online polls. Opinion remained divided regarding whether the comedic routine crossed professional lines or if the reactions from the housemates were blown out of proportion."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Stand-up comedian and dentist Gaurav Gupta made a guest appearance on the Diwali special episode of Bigg Boss season 20. His routine roasting contestants ScoutOP and Love Gill triggered major backlash, resulting in heated on-screen arguments and viral internet clips."
+        ]
+      }
+    ],
+    "facts": [
+      "Gaurav Gupta appeared on Bigg Boss season 20 for a Diwali special episode.",
+      "Gupta is a Delhi-based dentist and stand-up comedian known for his Baniya-themed routines and the OTT special Market Down Hai.",
+      "His YouTube channel has approximately 1.113 million subscribers and over 313 million page views.",
+      "His Instagram account has 1.8 million followers and 899 posts.",
+      "During his set, Gupta roasted contestants ScoutOP, Love Gill, and Kaashvi, leading to protests from Scout and Love Gill."
+    ],
+    "entities": {
+      "people": [
+        "Gaurav Gupta",
+        "ScoutOP",
+        "Love Gill",
+        "Kaashvi"
+      ],
+      "titles": [
+        "Bigg Boss",
+        "Market Down Hai"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Gaurav Gupta",
+      "ScoutOP",
+      "Love Gill"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135671958,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Comedian Gaurav Gupta Sparks Outrage on Bigg Boss 20 Diwali Special",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T11:00:55+05:30"
+  },
+  "ggxpk3": {
+    "id": "ggxpk3",
+    "type": "news",
+    "headline": "Blackpink Member Jisoo Goes Unrecognized on Bus and Discusses Trainee Journey",
+    "dek": "During a recent appearance on the program Whenever Possible, Blackpink member Jisoo shared surprising anecdotes about travelling completely unnoticed on public transportation and reflecting on her late entry into the trainee system.",
+    "body": [
+      {
+        "h": "Unrecognized on Public Transit",
+        "p": [
+          "In an unexpected moment shared during her recent variety program appearance, Blackpink star Jisoo revealed that she managed to ride on a bus completely unrecognized by her fellow passengers. Despite being a globally recognized music icon and cultural powerhouse, her presence on public transit went entirely unnoticed, surprising fans and viewers alike.",
+          "This rare encounter highlights a surprisingly ordinary side of celebrity life, demonstrating how even world-famous idols can occasionally blend seamlessly into everyday crowds without attracting public attention or causing a stir."
+        ]
+      },
+      {
+        "h": "Reflecting on a Late Trainee Start",
+        "p": [
+          "Aside from her bus anecdote, Jisoo opened up about her unique path to stardom during her time on Whenever Possible, specifically addressing her late start as a trainee. Entering the highly competitive training system later than many of her peers presented its own distinct challenges.",
+          "Overcoming these hurdles required immense dedication and resilience, shaping her journey before eventually debuting as an integral member of the globally renowned girl group Blackpink."
+        ]
+      },
+      {
+        "h": "Appearance on Whenever Possible",
+        "p": [
+          "The revelations came to light during Jisoo's feature on the television program Whenever Possible, where guests often share candid stories and personal experiences from their lives and careers. Her openness on the show offered fans a deeper glimpse into her personality and past experiences.",
+          "Through these discussions, viewers gained fresh insights into the experiences that molded her career trajectory, bridging the gap between her massive global fame and her down-to-earth demeanor."
+        ]
+      },
+      {
+        "h": "The Blackpink Legacy",
+        "p": [
+          "As a member of Blackpink, Jisoo continues to influence the global entertainment landscape significantly, contributing to the group's unprecedented international success and record-breaking achievements in the music industry.",
+          "Her ability to remain grounded—evident in moments like riding the bus undetected—further endears her to a massive worldwide fanbase that continues to follow every milestone of her career closely."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Significance",
+        "p": [
+          "The stories shared on the broadcast quickly generated widespread conversation among followers and entertainment enthusiasts, sparking discussions about her unique background and humble nature.",
+          "Moments like these reinforce the strong bond between artists and their supporters, providing a relatable narrative that contrasts sharply with the glamorous imagery typically associated with top-tier musical acts."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Blackpink member Jisoo recently shared notable personal anecdotes during an appearance on the program Whenever Possible, revealing that she once went entirely unrecognized while riding a public bus. Additionally, she discussed her experiences starting out as a trainee later than usual, offering fans a unique look into her journey before achieving global stardom."
+        ]
+      }
+    ],
+    "facts": [
+      "Jisoo is a member of Blackpink",
+      "Jisoo appeared on the program Whenever Possible",
+      "Jisoo went unrecognized on a bus",
+      "Jisoo revealed a late trainee start"
+    ],
+    "entities": {
+      "people": [
+        "Jisoo"
+      ],
+      "titles": [
+        "Blackpink",
+        "Whenever Possible"
+      ]
+    },
+    "keywords": [
+      "Blackpink Jisoo bus",
+      "Jisoo Whenever Possible",
+      "Jisoo late trainee start",
+      "Jisoo",
+      "Blackpink"
+    ],
+    "images": [],
+    "published": "Mon, 09 Nov 2026 03:40:00 EST"
   }
 };
