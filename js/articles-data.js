@@ -97021,5 +97021,501 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 18:33:34 +0530"
+  },
+  "bfece0": {
+    "id": "bfece0",
+    "type": "news",
+    "headline": "Khushi Episode 58 — Watch Online on HUM TV",
+    "dek": "Khushi episode 58 aired on 2026-11-09 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 58 aired on 2026-11-09 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=d3mWoR2cgHc"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi aur Saim ki nok-jhonk se shuruwat hoti hai jab Saim Khushi se baat karne ki koshish karta hai aur unke darmiyan halki-fulki baat-cheet hoti hai. Phir scene hospital ka aata hai jahan Khushi apni bachaane wali ki tabiyat ke baare mein pareshan hoti hai aur wahan Ammar aur doosre log bhi aate hain. Khushi aur Ammar ki family dynamics aur unke darmiyan kuch tension bhi dikhayi deti hai. Saim aur Khushi phir kitchen mein aate hain jahan cooking ke dauran mazahiya aur emotional moments hote hain. Ek aur scene mein, Ammar aur Khushi ki family ke beech kuch baatein hoti hain aur Ammar Khushi ko samjhane ki koshish karta hai, lekin Khushi thori upset rehti hai. Episode kaafi saare emotional ups and downs aur family interactions ke sath aage barhta hai aur ek serious note par khatam hota hai jahan agle episode ke liye tension bani rehti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 58 aired on 2026-11-09.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=d3mWoR2cgHc",
+      "YouTube views: 176,179.",
+      "Episode summary added 2026-11-09."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
+        "caption": "Khushi Episode 58",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-09T15:00:36Z"
+  },
+  "14xa8jv": {
+    "id": "14xa8jv",
+    "type": "news",
+    "headline": "Uswah Episode 48 — Watch Online on Geo TV",
+    "dek": "Uswah episode 48 aired on 2026-11-09 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 48 aired on 2026-11-09 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=QXXJ7tme94Q"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Uswah ke ghar waale pareshan hain kyunki unki ammi ka operation hona hai lekin doctor ne 50 lakh jama karwane ko kaha hai aur is baat par Zaid aur Uswah ke darmiyan bahas hoti hai ke paise kahan se layenge. Phir Fariha aati hai aur kehti hai ke agar Zaid divorce de de tou woh Uswah ko paise de degi lekin Zaid nahi manta. Uswah pareshan ho kar Zaid se kehti hai ke ammi ke ilaj ke liye zaroori hai. Baad mein Uswah hospital jati hai jahan ammi ka operation kamyab ho jata hai aur woh hosh mein aa jati hain. Iske baad Uswah jab ghar aati hai tou Fariha aur Zaid ki baaton se Uswah ko ehsas hota hai ke Fariha ne madad ki hai lekin woh yeh bhi sochti hai ke Zaid ke dil mein Fariha ke liye feelings hain aur woh Fariha ko divorce nahi dena chahta. Episode ke aakhir mein Uswah ammi se milne hospital jati hai jahan Zaid bhi phool lekar aata hai aur Uswah wahan khadi yeh sab dekh kar udaas aur khamosh ho jati hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 48 aired on 2026-11-09.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=QXXJ7tme94Q",
+      "YouTube views: 626,474.",
+      "Episode summary added 2026-11-09."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/QXXJ7tme94Q/hqdefault.jpg",
+        "caption": "Uswah Episode 48",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-09T15:00:20Z"
+  },
+  "1xtkduh": {
+    "id": "1xtkduh",
+    "type": "news",
+    "headline": "Dastoor Episode 80 — Watch Online on Green TV",
+    "dek": "Dastoor episode 80 aired on 2026-11-09 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 80 aired on 2026-11-09 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=WKylwvhK17s"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Mustufa ko pata chalta hai ke Amara ka car accident ho gaya hai aur woh is dunya mein nahi rahi. Yeh khabar sun kar Mustufa, Shaza aur unke ghar wale bohat sadma mein chale jate hain. Mustufa yeh khabar Shaza ko sunata hai aur use sabr rakhne aur khud ko sambhalne ke liye kehta hai kyun ke Amara ki maut ke baad unka ghar aur rishta khokla ho gaya hai. Amara ke ghar wale aur dost bhi is gham mein doob jate hain. Episode ke aakhir mein Shaza aur uski family is tragic haadse ke baad apne dukh ko bardasht karne ki koshish karte hain, aur episode ek emotional note par khatam hota hai jahan sabhi Amara ki yaad mein rorahay hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 80 aired on 2026-11-09.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=WKylwvhK17s",
+      "YouTube views: 96,633.",
+      "Episode summary added 2026-11-09."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/WKylwvhK17s/hqdefault.jpg",
+        "caption": "Dastoor Episode 80",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-09T14:45:32Z"
+  },
+  "rjgpdk": {
+    "id": "rjgpdk",
+    "type": "news",
+    "headline": "Samantha Ruth Prabhu shares casual baby bump photo and calls it her maternity shoot",
+    "dek": "Actress Samantha Ruth Prabhu has posted a relaxed new Instagram picture displaying her baby bump, offering fans another update on her pregnancy journey with husband Raj Nidimoru.",
+    "body": [
+      {
+        "h": "Casual Maternity Snapshot",
+        "p": [
+          "Actress Samantha Ruth Prabhu has shared a fresh glimpse into her pregnancy journey, opting for a relaxed and casual approach instead of a traditional studio maternity session. Taking to Instagram, the actress posted a photograph of herself lounging comfortably on a large white sofa.",
+          "In the image, she is seen wearing dark sunglasses, a red printed outfit, and white trousers. With her legs stretched out against the cushions, she gently cradles her baby bump, accompanying the post with a short caption that playfully states, 'Consider this my maternity shoot.'"
+        ]
+      },
+      {
+        "h": "Embracing Motherhood Away From Sets",
+        "p": [
+          "The latest social media update offers followers a window into this new chapter of Samantha's life as she prepares to embrace motherhood. The actress has been sharing occasional updates about her pregnancy, keeping fans informed about her experiences away from her hectic professional commitments.",
+          "This laid-back approach contrasts with carefully staged portraits, reflecting a cozy and personal moment during her pregnancy timeline."
+        ]
+      },
+      {
+        "h": "Marriage and Pregnancy Announcement",
+        "p": [
+          "Samantha is expecting her first child with filmmaker and husband Raj Nidimoru. The couple got married on December 1, 2025, during an intimate ceremony at the Isha Yoga Centre in Coimbatore, Tamil Nadu, following the Bhuta Shuddhi Vivaha tradition with a limited number of guests.",
+          "Later, the actress officially announced her pregnancy in June 2026 amid the success celebrations of her Telugu film Maa Inti Bangaaram in Hyderabad. She also indicated plans to step away from professional work temporarily after wrapping up her existing projects."
+        ]
+      },
+      {
+        "h": "A Distinguished Film Career",
+        "p": [
+          "Samantha remains an established and celebrated name across the Tamil and Telugu film industries. She first entered the acting scene with Gautham Vasudev Menon's 2010 Telugu romantic drama Ye Maaya Chesave alongside Naga Chaitanya, a performance that won her the Filmfare Award for Best Female Debut - South.",
+          "Over the years, she built an impressive resume with commercially successful titles such as Dookudu, Eega, Attarintiki Daredi, Theri, Mersal, and Rangasthalam. Her diverse acting choices also shone in acclaimed movies like Mahanati, Oh! Baby, Super Deluxe, and Majili."
+        ]
+      },
+      {
+        "h": "Venturing Into OTT and Production",
+        "p": [
+          "Beyond traditional cinema, Samantha carved a strong niche in the digital streaming space. She drew widespread attention for her intense portrayal of Raji in the second season of the popular action series The Family Man, and later appeared in Citadel: Honey Bunny.",
+          "In addition to acting, she expanded her creative horizons by venturing into film production with the 2025 horror-comedy feature Subham, maintaining her active presence in the entertainment landscape prior to her upcoming break."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Samantha Ruth Prabhu shared a casual new Instagram photo displaying her baby bump and joking that it serves as her maternity shoot. She is expecting her first child with her husband, filmmaker Raj Nidimoru, following their December 2025 wedding and her pregnancy announcement in June 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Samantha Ruth Prabhu is expecting her first child with husband Raj Nidimoru.",
+      "The couple married on December 1, 2025, at the Isha Yoga Centre in Coimbatore, Tamil Nadu.",
+      "Samantha announced her pregnancy in June 2026 during the success celebrations of Maa Inti Bangaaram in Hyderabad.",
+      "She made her acting debut in the 2010 Telugu film Ye Maaya Chesave.",
+      "She produced the 2025 horror comedy film Subham."
+    ],
+    "entities": {
+      "people": [
+        "Samantha Ruth Prabhu",
+        "Raj Nidimoru",
+        "Gautham Vasudev Menon",
+        "Naga Chaitanya"
+      ],
+      "titles": [
+        "Maa Inti Bangaaram",
+        "Ye Maaya Chesave",
+        "Dookudu",
+        "Eega",
+        "Attarintiki Daredi",
+        "Theri",
+        "Mersal",
+        "Rangasthalam",
+        "Mahanati",
+        "Oh! Baby",
+        "Super Deluxe",
+        "Majili",
+        "The Family Man",
+        "Citadel: Honey Bunny",
+        "Subham"
+      ]
+    },
+    "keywords": [
+      "Samantha Ruth Prabhu pregnancy",
+      "Samantha Ruth Prabhu baby bump",
+      "Raj Nidimoru Samantha",
+      "Maa Inti Bangaaram Samantha"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/samantharuthprabhu-62621794237857.jpg",
+        "caption": "Samantha Ruth Prabhu shares casual baby bump photo and calls it her maternity shoot",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 21:03:48 +0530"
+  },
+  "ubwyez": {
+    "id": "ubwyez",
+    "type": "news",
+    "headline": "Stray Kids Reveal Massive 2027 'RUN IT' World Tour Spanning 12 Countries",
+    "dek": "The global music powerhouse has announced a massive stadium tour featuring nearly thirty performances across Asia, North America, and Europe, though member Lee Know will sit out specific legs to fulfill mandatory military duties.",
+    "body": [
+      {
+        "h": "Announcing the 2027 'RUN IT' Tour",
+        "p": [
+          "The acclaimed musical ensemble Stray Kids has officially revealed their plans for an extensive global concert series set to take place throughout 2027. Titled 'RUN IT', the upcoming venture will see the performers take over massive open-air venues across the planet.",
+          "Fans around the world responded with immense enthusiasm following the November announcement, which promises a high-energy production matching the group's legendary stage presence."
+        ]
+      },
+      {
+        "h": "Asia Kickoff and Early Dates",
+        "p": [
+          "The massive undertaking begins in January with high-profile dates in Thailand, setting the stage for a busy early spring schedule. The group will perform multiple nights in key Asian markets before heading into major stadium bookings.",
+          "After the initial performances in Bangkok and Singapore, the itinerary moves toward large-scale Japanese venues, including multi-night stands in Yokohama and Osaka during April and May."
+        ]
+      },
+      {
+        "h": "Expanding Across North America",
+        "p": [
+          "Following their Asian dates, the group will travel across the Pacific to launch a comprehensive North American leg starting in Seattle during mid-May. The schedule includes stops at prominent sports stadiums in major cities like Vancouver, Los Angeles, and Chicago.",
+          "The North American routing is packed with high-capacity outdoor venues, culminating in a final regional performance in late June at a major stadium in New Jersey."
+        ]
+      },
+      {
+        "h": "European and United Kingdom Dates",
+        "p": [
+          "The final leg of the journey will bring the global icons to various cultural hubs across Europe and the United Kingdom during July. Audiences in cities such as Paris, London, Munich, and Vienna will get to witness the spectacular production firsthand.",
+          "The massive enterprise is slated to conclude at a historic venue in Milan, Italy, wrapping up a comprehensive summer run across the continent."
+        ]
+      },
+      {
+        "h": "Lee Know's Military Service Absence",
+        "p": [
+          "While the remaining members prepare to execute the full itinerary, one notable participant will be missing from specific portions of the global trek. Lee Know will sit out the North American and European legs as he begins his mandatory military service.",
+          "The announcement marks a significant milestone as he becomes the first member of the group to serve, leading to the seven remaining performers carrying forward the scheduled dates during his absence."
+        ]
+      },
+      {
+        "h": "Venue Scale and Legacy",
+        "p": [
+          "By focusing exclusively on stadium-sized venues, this concert series represents a major step up in scale for the ensemble. The decision to book nearly thirty massive arenas highlights their massive drawing power and global footprint.",
+          "This ambitious outing cements their status as a defining force in contemporary music, proving their ability to sell out iconic locations internationally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Stray Kids announced their 2027 'RUN IT' world tour featuring nearly 30 stadium shows across 12 countries, starting in January and concluding in July. Member Lee Know will miss the North American and European legs due to mandatory military service, leaving the remaining seven members to complete those dates."
+        ]
+      }
+    ],
+    "facts": [
+      "Stray Kids announced their 2027 'RUN IT' world tour on November 9, 2026.",
+      "The tour features nearly 30 stadium shows across 12 countries.",
+      "Lee Know will sit out the North American and European legs to begin his mandatory military service.",
+      "The tour kicks off in Bangkok, Thailand, on January 16 and 17, 2027.",
+      "The final concert is scheduled for July 31, 2027, at San Siro Stadium in Milan, Italy."
+    ],
+    "entities": {
+      "people": [
+        "SoulKim",
+        "Lee Know"
+      ],
+      "titles": [
+        "Stray Kids",
+        "RUN IT"
+      ]
+    },
+    "keywords": [
+      "Stray Kids world tour",
+      "RUN IT tour 2027",
+      "Stray Kids stadium shows",
+      "Lee Know military service"
+    ],
+    "images": [],
+    "published": "Mon, 09 Nov 2026 10:22:00 EST"
+  },
+  "vrk2ou": {
+    "id": "vrk2ou",
+    "type": "news",
+    "headline": "Did Marvel Just Spoil The VisionQuest Episode 8 Finale With Its Latest Trailer?",
+    "dek": "Ahead of the upcoming Disney+ series finale, a new promotional preview appears to give away a major character return and tie into future MCU projects.",
+    "body": [
+      {
+        "h": "The Impending Finale Of VisionQuest",
+        "p": [
+          "The final chapter of the Disney+ series is rapidly approaching, bringing the narrative arc of the WandaVision trilogy to a definitive close. As the story reaches its climax, the synthezoid protagonist prepares for a high-stakes showdown against his surrogate father, Ultron, who schemes to manipulate human consciousness.",
+          "While viewers typically anticipate that streaming platforms will guard their biggest twists until the actual broadcast, the latest promotional material suggests otherwise. Enthusiasts tracking the show have noted that the newest footage may have inadvertently stripped away the element of surprise regarding the resolution of the plot."
+        ]
+      },
+      {
+        "h": "Teasing The Maximoff Family Reunion",
+        "p": [
+          "In addition to the central conflict against Ultron, the promotional clip heavily highlights an emotional Maximoff family reunion. The footage indicates that Tommy Maximoff will fight alongside the protagonist, joining the struggle as a unified family unit.",
+          "However, right after this poignant dialogue, the preview explicitly flashes the phrase one final surprise. The subsequent shot depicts Tommy entering an enigmatic space illuminated by candles, heavily implying that another long-rumored family member is waiting inside."
+        ]
+      },
+      {
+        "h": "Unmasking The Clues About Billy Maximoff",
+        "p": [
+          "Keen-eyed observers quickly connected the candle-lit room to Billy Maximoff, whose return has been the subject of widespread speculation among fans. Additional visual evidence near the conclusion of the video further solidifies this theory.",
+          "Towards the end of the promotional segment, the main character is seemingly re-energized by two distinct sets of magical hands. One pair channels golden energy, while the other exhibits blue energy accompanied by black nail polish—a signature combination recognized by audiences who watched Agatha All Along."
+        ]
+      },
+      {
+        "h": "Connecting To The Broader Marvel Cinematic Universe",
+        "p": [
+          "The potential reappearance of the Maximoff twins could serve as a vital stepping stone into the wider narrative landscape of the overarching franchise. With Robert Downey Jr. slated to portray Dr. Doom in upcoming cinematic ventures, the brothers could find themselves entangled in much larger cosmic stakes.",
+          "Source material from comic storylines, such as The Children’s Crusade, features the twins on a quest to locate their mother, Wanda Maximoff, which directly intersects with the villainous doctor. Furthermore, earlier chapters of the current television run have already planted subtle Easter eggs, including a disc case referencing a countdown to the antagonist in an apartment setting."
+        ]
+      },
+      {
+        "h": "Fan Reactions And Anticipation",
+        "p": [
+          "The decision by the studio to include such telling hints has sparked mixed reactions within the community. While some viewers are thrilled by the explicit confirmation of familial reunions, others feel that the promotional department revealed too much too soon.",
+          "Regardless of the controversy surrounding the preview, anticipation remains exceptionally high as the streaming platform prepares to air the final installment and resolve the lingering mysteries of the current arc."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The latest promotional trailer for the Disney+ series has seemingly revealed major plot developments and character returns ahead of the upcoming finale. Visual clues in the footage point toward a significant magical reunion, potentially connecting the television narrative to broader cinematic storylines in the franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest episode 8 is the final episode of the series.",
+      "The episode is titled Forever.",
+      "Vision is set to face Ultron in the finale.",
+      "Tommy Maximoff fights alongside Vision in the finale.",
+      "A Countdown to Doom disc case was featured in episode 2.",
+      "Robert Downey Jr. is cast as Dr. Doom in Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Wanda Maximoff",
+        "Tommy Maximoff",
+        "Billy Maximoff",
+        "Vision",
+        "Ultron",
+        "Dr. Doom"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "Agatha All Along",
+        "Avengers: Doomsday",
+        "The Children’s Crusade"
+      ]
+    },
+    "keywords": [
+      "VisionQuest episode 8",
+      "VisionQuest trailer",
+      "Billy Maximoff VisionQuest",
+      "WandaVision trilogy"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/how-is-mcu-ruining-visionquest-episode-8-finale-before-its-release.jpg",
+        "caption": "Did Marvel Just Spoil The VisionQuest Episode 8 Finale With Its Latest Trailer?",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 15:24:10 +0000"
+  },
+  "s07sh": {
+    "id": "s07sh",
+    "type": "news",
+    "headline": "100 Days of Deception Crosses Milestone Ratings as Park Jinyoung Leads Buzz Charts",
+    "dek": "The tvN spy romance drama reaches new heights with its latest episode while capturing international streaming charts and domestic online discussions.",
+    "body": [
+      {
+        "h": "Milestone Viewership Numbers for Cable Spy Drama",
+        "p": [
+          "The historical spy romance series 100 Days of Deception has officially surpassed a major viewership milestone for cable television. Tenth episode figures recorded an average nationwide rating of 10.7 percent across South Korea, marking a substantial increase from its initial premiere broadcast.",
+          "The program captured first place in its designated time slot across all channels, outperforming public broadcast competitors. Furthermore, it secured the top position among the crucial twenty to forty-nine demographic targeted by the network."
+        ]
+      },
+      {
+        "h": "Steady Growth Across Weekly Broadcasts",
+        "p": [
+          "Audience engagement grew progressively over subsequent weeks rather than experiencing a sudden surge. The narrative progression from the debut episode demonstrated consistent upward momentum in household viewership metrics.",
+          "Peak figures during the pivotal tenth broadcast reached twelve percent nationwide alongside a higher capital region average. Saturday broadcasts additionally displayed healthy growth patterns week after week."
+        ]
+      },
+      {
+        "h": "Actor Popularity and Online Buzz Rankings",
+        "p": [
+          "Cast members achieved notable recognition on industry popularity indices alongside the show's broadcast success. Good Data Corporation rankings placed the lead actor at the number one position among television performers for the designated weekly cycle.",
+          "The leading actress secured the second position on the same chart, establishing a rare double placement for the primary cast. The series itself maintained the leading spot on the weekly conversation index for consecutive weeks."
+        ]
+      },
+      {
+        "h": "Historical Setting and Character Dynamics",
+        "p": [
+          "The narrative unfolds during the historical occupation era in Gyeongseong, centering around complex espionage operations. Characters include an undercover pickpocket posing as an interpreter and an elite translator caught between conflicting loyalties.",
+          "Performances were shaped by deliberate physical choices and restrained emotional delivery to reflect the rigid discipline of the era. Additional resistance figures and political administrators round out the core ensemble driving the unfolding plot."
+        ]
+      },
+      {
+        "h": "Turning Points in Episode Ten",
+        "p": [
+          "Recent broadcast developments featured a disrupted assassination attempt during an official administrative banquet. An explosive device hidden near a celebration cake led to unexpected protective actions between the main characters.",
+          "An investigative thread involving a misplaced accessory brought hidden identities closer to exposure. The installment concluded with a direct confrontation that threatened to unravel months of careful concealment."
+        ]
+      },
+      {
+        "h": "Creative Team and Production Background",
+        "p": [
+          "Production duties involved experienced directors known for previous acclaimed television projects alongside established series writers. The multi-episode special project marks a significant commemorative milestone for the broadcasting network.",
+          "Cast members dedicated months to physical and emotional preparation for the demanding historical shoot. Lead performers expressed gratitude for the collaborative environment provided by the production crew."
+        ]
+      },
+      {
+        "h": "Global Streaming Footprint and International Reach",
+        "p": [
+          "International availability on major subscription platforms allowed the historical narrative to connect with viewers worldwide. Global non-English television charts reflected strong viewing hours and completed view counts during initial availability windows.",
+          "Viewership extended across numerous international territories, proving that period-setting narratives can successfully capture global audiences through streaming distribution."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The tvN spy drama 100 Days of Deception achieved a 10.7 percent nationwide rating for its tenth episode while securing top spots on domestic buzz charts for Park Jinyoung and Kim You Jung. Based in 1932 Gyeongseong, the series continues to draw strong local viewership and international streaming numbers as it heads toward its final episodes."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode 10 of 100 Days of Deception achieved an average nationwide rating of 10.7% on November 8, 2026.",
+      "Episode 1 had a 5.3% debut on October 10.",
+      "Park Jinyoung took No. 1 on Good Data Corporation's most buzzworthy actor list, with Kim You Jung at No. 2.",
+      "The drama is a 16-episode series written by Ryu Bo Ri and directed by Yoo In Shik, with Kim Yoon Jin co-directing.",
+      "The series is set in 1932 Gyeongseong."
+    ],
+    "entities": {
+      "people": [
+        "Park Jinyoung",
+        "Kim You Jung",
+        "Kim Ji Won",
+        "Kim Hyun Joo",
+        "Lee Moo Saeng",
+        "Kam Woo Sung",
+        "Jin Sun Kyu",
+        "Ryu Bo Ri",
+        "Yoo In Shik",
+        "Kim Yoon Jin"
+      ],
+      "titles": [
+        "100 Days of Deception",
+        "Doctor X",
+        "Extraordinary Attorney Woo",
+        "Do You Like Brahms?"
+      ]
+    },
+    "keywords": [
+      "100 Days of Deception",
+      "Park Jinyoung",
+      "Kim You Jung",
+      "100 Days of Deception ratings",
+      "tvN K-drama"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/09/nexus-image_56kb-1.webp",
+        "caption": "100 Days of Deception Crosses Milestone Ratings as Park Jinyoung Leads Buzz Charts",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 15:37:45 +0000"
   }
 };

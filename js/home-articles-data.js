@@ -36,6 +36,214 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Mon, 09 Nov 2026 18:42:36 +0200"
   },
+  "s07sh": {
+    "id": "s07sh",
+    "type": "news",
+    "headline": "100 Days of Deception Crosses Milestone Ratings as Park Jinyoung Leads Buzz Charts",
+    "dek": "The tvN spy romance drama reaches new heights with its latest episode while capturing international streaming charts and domestic online discussions.",
+    "entities": {
+      "people": [
+        "Park Jinyoung",
+        "Kim You Jung",
+        "Kim Ji Won",
+        "Kim Hyun Joo",
+        "Lee Moo Saeng",
+        "Kam Woo Sung",
+        "Jin Sun Kyu",
+        "Ryu Bo Ri",
+        "Yoo In Shik",
+        "Kim Yoon Jin"
+      ],
+      "titles": [
+        "100 Days of Deception",
+        "Doctor X",
+        "Extraordinary Attorney Woo",
+        "Do You Like Brahms?"
+      ]
+    },
+    "keywords": [
+      "100 Days of Deception",
+      "Park Jinyoung",
+      "Kim You Jung",
+      "100 Days of Deception ratings",
+      "tvN K-drama"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/09/nexus-image_56kb-1.webp",
+        "caption": "100 Days of Deception Crosses Milestone Ratings as Park Jinyoung Leads Buzz Charts",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 15:37:45 +0000"
+  },
+  "rjgpdk": {
+    "id": "rjgpdk",
+    "type": "news",
+    "headline": "Samantha Ruth Prabhu shares casual baby bump photo and calls it her maternity shoot",
+    "dek": "Actress Samantha Ruth Prabhu has posted a relaxed new Instagram picture displaying her baby bump, offering fans another update on her pregnancy journey with husband Raj Nidimoru.",
+    "entities": {
+      "people": [
+        "Samantha Ruth Prabhu",
+        "Raj Nidimoru",
+        "Gautham Vasudev Menon",
+        "Naga Chaitanya"
+      ],
+      "titles": [
+        "Maa Inti Bangaaram",
+        "Ye Maaya Chesave",
+        "Dookudu",
+        "Eega",
+        "Attarintiki Daredi",
+        "Theri",
+        "Mersal",
+        "Rangasthalam",
+        "Mahanati",
+        "Oh! Baby",
+        "Super Deluxe",
+        "Majili",
+        "The Family Man",
+        "Citadel: Honey Bunny",
+        "Subham"
+      ]
+    },
+    "keywords": [
+      "Samantha Ruth Prabhu pregnancy",
+      "Samantha Ruth Prabhu baby bump",
+      "Raj Nidimoru Samantha",
+      "Maa Inti Bangaaram Samantha"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/samantharuthprabhu-62621794237857.jpg",
+        "caption": "Samantha Ruth Prabhu shares casual baby bump photo and calls it her maternity shoot",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 21:03:48 +0530"
+  },
+  "vrk2ou": {
+    "id": "vrk2ou",
+    "type": "news",
+    "headline": "Did Marvel Just Spoil The VisionQuest Episode 8 Finale With Its Latest Trailer?",
+    "dek": "Ahead of the upcoming Disney+ series finale, a new promotional preview appears to give away a major character return and tie into future MCU projects.",
+    "entities": {
+      "people": [
+        "Robert Downey Jr.",
+        "Wanda Maximoff",
+        "Tommy Maximoff",
+        "Billy Maximoff",
+        "Vision",
+        "Ultron",
+        "Dr. Doom"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "Agatha All Along",
+        "Avengers: Doomsday",
+        "The Children’s Crusade"
+      ]
+    },
+    "keywords": [
+      "VisionQuest episode 8",
+      "VisionQuest trailer",
+      "Billy Maximoff VisionQuest",
+      "WandaVision trilogy"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/how-is-mcu-ruining-visionquest-episode-8-finale-before-its-release.jpg",
+        "caption": "Did Marvel Just Spoil The VisionQuest Episode 8 Finale With Its Latest Trailer?",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 15:24:10 +0000"
+  },
+  "ubwyez": {
+    "id": "ubwyez",
+    "type": "news",
+    "headline": "Stray Kids Reveal Massive 2027 'RUN IT' World Tour Spanning 12 Countries",
+    "dek": "The global music powerhouse has announced a massive stadium tour featuring nearly thirty performances across Asia, North America, and Europe, though member Lee Know will sit out specific legs to fulfill mandatory military duties.",
+    "entities": {
+      "people": [
+        "SoulKim",
+        "Lee Know"
+      ],
+      "titles": [
+        "Stray Kids",
+        "RUN IT"
+      ]
+    },
+    "keywords": [
+      "Stray Kids world tour",
+      "RUN IT tour 2027",
+      "Stray Kids stadium shows",
+      "Lee Know military service"
+    ],
+    "images": [],
+    "published": "Mon, 09 Nov 2026 10:22:00 EST"
+  },
+  "bfece0": {
+    "id": "bfece0",
+    "type": "news",
+    "headline": "Khushi Episode 58 — Watch Online on HUM TV",
+    "dek": "Khushi episode 58 aired on 2026-11-09 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/d3mWoR2cgHc/hqdefault.jpg",
+        "caption": "Khushi Episode 58",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-09T15:00:36Z"
+  },
+  "14xa8jv": {
+    "id": "14xa8jv",
+    "type": "news",
+    "headline": "Uswah Episode 48 — Watch Online on Geo TV",
+    "dek": "Uswah episode 48 aired on 2026-11-09 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/QXXJ7tme94Q/hqdefault.jpg",
+        "caption": "Uswah Episode 48",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-09T15:00:20Z"
+  },
+  "1xtkduh": {
+    "id": "1xtkduh",
+    "type": "news",
+    "headline": "Dastoor Episode 80 — Watch Online on Green TV",
+    "dek": "Dastoor episode 80 aired on 2026-11-09 — watch the full episode on Green TV.",
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/WKylwvhK17s/hqdefault.jpg",
+        "caption": "Dastoor Episode 80",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-09T14:45:32Z"
+  },
   "8uonpo": {
     "id": "8uonpo",
     "type": "news",
@@ -4262,318 +4470,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Sun, 08 Nov 2026 15:16:14 +0530"
   },
-  "mpboln": {
-    "id": "mpboln",
-    "type": "news",
-    "headline": "Missing Sita-Lakshmana Forest Fight Scene From International Cut of Ramayana Sparks Online Debate",
-    "dek": "An action sequence from the international version of Nitesh Tiwari's Ramayana: Rise of a Legend featuring Sita and Lakshmana has surfaced online, leaving Indian viewers questioning why it was cut from the domestic release.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Ravi Dubey",
-        "Sunny Deol",
-        "Arun Govil",
-        "Lara Dutta",
-        "Rakul Preet Singh",
-        "Kajal Aggarwal",
-        "Vivek Oberoi",
-        "Khara",
-        "Dushana",
-        "Trishira",
-        "Surpanakha",
-        "Rama",
-        "Sita",
-        "Lakshmana",
-        "Hanuman",
-        "Ravana",
-        "Donald Trump",
-        "T Naga Maruthi Acharya"
-      ],
-      "titles": [
-        "Ramayana: Rise of a Legend",
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana",
-      "Ranbir Kapoor",
-      "Sai Pallavi",
-      "Yash",
-      "Ramayana Rise of a Legend"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/naveen-kumar-gowda-ranbir-kapoor-ravi-dubey-sai-pallavi-084134881-16x9_0.jpg?VersionId=9cE8q1cQMT2RHp_B_3_CVXFGfv4iroNJ",
-        "caption": "Missing Sita-Lakshmana Forest Fight Scene From International Cut of Ramayana Sparks Online Debate",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 15:11:56 +0530"
-  },
-  "15qljzq": {
-    "id": "15qljzq",
-    "type": "news",
-    "headline": "Apple TV Spy Thriller Slow Horses Achieves Major Streaming Milestone Amid James Bond Casting Speculation",
-    "dek": "Led by Gary Oldman and Jack Lowden, the acclaimed espionage series Slow Horses continues to dominate streaming charts while its lead actor addresses 007 rumors.",
-    "entities": {
-      "people": [
-        "Adam Blevins",
-        "Gary Oldman",
-        "Jack Lowden",
-        "Daniel Craig"
-      ],
-      "titles": [
-        "Severance",
-        "Pluribus",
-        "Ted Lasso",
-        "The Morning Show",
-        "Slow Horses",
-        "James Bond"
-      ]
-    },
-    "keywords": [
-      "Slow Horses",
-      "Jack Lowden James Bond",
-      "Gary Oldman Slow Horses",
-      "Apple TV streaming"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/james-bond-daniel-craig-spectre.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Apple TV Spy Thriller Slow Horses Achieves Major Streaming Milestone Amid James Bond Casting Speculation",
-        "source": "Collider"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 09:40:12 GMT"
-  },
-  "1x4c5l5": {
-    "id": "1x4c5l5",
-    "type": "news",
-    "headline": "Ashok Selvan Character Revealed as Karna in Nagarjuna's Milestone Film",
-    "dek": "Director Ra Karthik shared the first look poster of actor Ashok Selvan as Karna from the upcoming Telugu project King100 on the actor's thirty-seventh birthday.",
-    "entities": {
-      "people": [
-        "Nagarjuna",
-        "Ashok Selvan",
-        "Ra Karthik",
-        "Tabu",
-        "Aishwarya Rajesh",
-        "Sushmitha Bhat",
-        "Devi Sri Prasad",
-        "Raja Mahadhevan",
-        "Naveen Nooli",
-        "Satheeskumar",
-        "Shah Rukh Khan"
-      ],
-      "titles": [
-        "King100",
-        "Nitham Oru Vaanam",
-        "King"
-      ]
-    },
-    "keywords": [
-      "King100 film",
-      "Ashok Selvan Karna",
-      "Nagarjuna King100",
-      "Ra Karthik movie",
-      "Tabu Mahanthi Jhansi Rani"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135655882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Ashok Selvan Character Revealed as Karna in Nagarjuna's Milestone Film",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-08T14:59:20+05:30"
-  },
-  "1bdy37g": {
-    "id": "1bdy37g",
-    "type": "news",
-    "headline": "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
-    "dek": "Korean stars Song Hye Kyo and Hyeri have sparked online discussion after recent posts highlighted them wearing the exact same pale pink designer dress at separate public appearances.",
-    "entities": {
-      "people": [
-        "Song Hye Kyo",
-        "Hyeri",
-        "Gong Yoo"
-      ],
-      "titles": [
-        "Full House",
-        "Descendants of the Sun",
-        "The Glory",
-        "Reply 1988",
-        "Friendly Rivalry",
-        "Dark Nuns",
-        "My Roommate Is a Gumiho",
-        "Tantara"
-      ]
-    },
-    "keywords": [
-      "Song Hye Kyo",
-      "Hyeri",
-      "Song Hye Kyo pink dress",
-      "Hyeri 2022 KBS Drama Awards",
-      "Tantara Netflix series"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/8QQxOQ_2d.jpg",
-        "caption": "Song Hye Kyo and Hyeri Spotted Wearing Identical Pink Dress Years Apart",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 08:49:16 +0000"
-  },
-  "y011d9": {
-    "id": "y011d9",
-    "type": "news",
-    "headline": "Pankaj Tripathi Discusses Conflict, Character Studies, and Bringing Kaleen Bhaiya to the Big Screen",
-    "dek": "In an exclusive interview, acclaimed actor Pankaj Tripathi opens up about reprising his iconic role for the upcoming Mirzapur movie, his real-life peaceful nature, and why friction is essential for compelling drama.",
-    "entities": {
-      "people": [
-        "Pankaj Tripathi",
-        "Rachit Gupta"
-      ],
-      "titles": [
-        "Mirzapur",
-        "Gangs of Wasseypur",
-        "Ludo",
-        "Luka Chuppi",
-        "Criminal Justice",
-        "Gurgaon",
-        "Masaan",
-        "Ohh My Dog"
-      ]
-    },
-    "keywords": [
-      "Pankaj Tripathi Mirzapur film",
-      "Kaleen Bhaiya big screen",
-      "Pankaj Tripathi interview",
-      "Mirzapur movie untold story"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/oct/pankajtripathiso1791977182.jpg",
-        "caption": "Pankaj Tripathi Discusses Conflict, Character Studies, and Bringing Kaleen Bhaiya to the Big Screen",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-08T13:56:10+05:30"
-  },
-  "pu0c4v": {
-    "id": "pu0c4v",
-    "type": "news",
-    "headline": "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
-    "dek": "Filmmaker Nitesh Tiwari believes Homer drew inspiration from the Ramayana while writing The Odyssey, noting striking similarities in iconic narrative sequences involving sacred bows.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Homer",
-        "Christopher Nolan",
-        "Namit Malhotra",
-        "Yash",
-        "Ranbir Kapoor",
-        "Sai Pallavi"
-      ],
-      "titles": [
-        "The Odyssey",
-        "Ramayana",
-        "Ramayana: Part One"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part One",
-      "Nitesh Tiwari Ramayana",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana box office collection"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/homer-was-inspired-by-ramayana-nitesh-tiwari-on-odyssey-parallels-with-indian-epic-085504254-16x9_0.jpg?VersionId=ChIkT6Gx4yglmcopej6Ebx.T.zc5LuLc",
-        "caption": "Nitesh Tiwari Draws Parallels Between Homer's The Odyssey and the Ancient Indian Epic Ramayana",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 13:26:33 +0530"
-  },
-  "1755t76": {
-    "id": "1755t76",
-    "type": "news",
-    "headline": "Divya Dutta Reflects on Three Decades of Cinema, Iconic Roles, and the Magic of Silence",
-    "dek": "In an exclusive retrospective interview, veteran actor Divya Dutta opens up about her journey in Hindi cinema, her unforgettable collaborations with legendary filmmakers, and the profound lessons she has learned across a career spanning over thirty years.",
-    "entities": {
-      "people": [
-        "Divya Dutta",
-        "Neeraj Pandey",
-        "Yash Chopra",
-        "Bachchan saab",
-        "Diya",
-        "Madhuri Dixit",
-        "Irrfan Khan",
-        "Amole Gupte",
-        "Vidyut Jammwal",
-        "Rakeysh Om Prakash Mehra",
-        "Jalebi",
-        "Milkha Singh",
-        "Sriram Raghavan",
-        "Varun Dhawan",
-        "Nawaz",
-        "Pooja",
-        "Aparnaa Singh",
-        "Mandeep",
-        "Tanuj",
-        "Tahira Kashyap",
-        "Hrishikesh Mukherjee",
-        "Nandita Das",
-        "Kulwant Kaur",
-        "Saadat Hasan Manto",
-        "Ranvir Shorey",
-        "Neeraj Kabi",
-        "Manoj Bajpayee",
-        "Boman Irani",
-        "Shehnaaz Gill",
-        "Suman Sharma"
-      ],
-      "titles": [
-        "Veer-Zaara",
-        "Bhaag Milkha Bhaag",
-        "Delhi-6",
-        "Stanley Ka Dabba",
-        "Badlapur",
-        "Manto",
-        "Special 26",
-        "Kabhi Kabhie",
-        "Deewaar",
-        "Lamhe",
-        "Chandni",
-        "Waqt",
-        "Aaja Nachle",
-        "Irada",
-        "Sharmajee Ki Beti",
-        "Thanda Gosht",
-        "Echoes of Valour",
-        "Last Man in Tower"
-      ]
-    },
-    "keywords": [
-      "Divya Dutta interview",
-      "Divya Dutta Filmfare",
-      "Divya Dutta National Award Irada",
-      "Divya Dutta movies career"
-    ],
-    "images": [
-      {
-        "url": "https://filmfare.wwmindia.com/content/2026/nov/divyaduttaso1793969223.jpg",
-        "caption": "Divya Dutta Reflects on Three Decades of Cinema, Iconic Roles, and the Magic of Silence",
-        "source": "Filmfare"
-      }
-    ],
-    "published": "2026-11-08T13:23:59+05:30"
-  },
   "1uxna1r": {
     "id": "1uxna1r",
     "type": "news",
@@ -5203,71 +5099,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-03T15:00:23Z"
-  },
-  "pb5ty1": {
-    "id": "pb5ty1",
-    "type": "news",
-    "headline": "Uswah Episode 42 — Watch Online on Geo TV",
-    "dek": "Uswah episode 42 aired on 2026-11-03 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Uswah"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/aYZUENZSIN0/hqdefault.jpg",
-        "caption": "Uswah Episode 42",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-03T15:00:10Z"
-  },
-  "kdbaty": {
-    "id": "kdbaty",
-    "type": "news",
-    "headline": "Khushi Episode 52 — Watch Online on HUM TV",
-    "dek": "Khushi episode 52 aired on 2026-11-03 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Khushi"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/TlyRLKSgN8c/hqdefault.jpg",
-        "caption": "Khushi Episode 52",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-03T15:00:02Z"
-  },
-  "1y7vh82": {
-    "id": "1y7vh82",
-    "type": "news",
-    "headline": "Dastoor Episode 74 — Watch Online on Green TV",
-    "dek": "Dastoor episode 74 aired on 2026-11-03 — watch the full episode on Green TV.",
-    "entities": {
-      "titles": [
-        "Dastoor"
-      ],
-      "people": [
-        "Hibba Aziz",
-        "Danial Afzal Khan",
-        "Areej Mohyudin",
-        "Faraz Farooqui",
-        "Azra Mohyeddin"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/fFv0iJn82yc/hqdefault.jpg",
-        "caption": "Dastoor Episode 74",
-        "source": "Green TV"
-      }
-    ],
-    "published": "2026-11-03T14:45:00Z"
   }
 };
