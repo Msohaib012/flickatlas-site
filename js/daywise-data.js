@@ -327,10 +327,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-09",
       "day": "Day 18",
-      "collection": 17961,
-      "shows": 96,
-      "occupancy": 43.5,
-      "tickets": 6016
+      "collection": 26941,
+      "shows": 116,
+      "occupancy": 48.6,
+      "tickets": 8518
     }
   ],
   "1400940": [
@@ -1370,6 +1370,14 @@ window.FA_DAYWISE = {
       "shows": 24,
       "occupancy": 23.3,
       "tickets": 1580
+    },
+    {
+      "date": "2026-11-09",
+      "day": "Day 25",
+      "collection": 1057,
+      "shows": 9,
+      "occupancy": 19.6,
+      "tickets": 740
     }
   ],
   "1234139": [
@@ -1595,10 +1603,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-09",
       "day": "Day 26",
-      "collection": 44374,
-      "shows": 305,
-      "occupancy": 44.7,
-      "tickets": 30060
+      "collection": 71104,
+      "shows": 372,
+      "occupancy": 45.5,
+      "tickets": 37740
     }
   ],
   "1269325": [
@@ -1937,10 +1945,10 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-09",
       "day": "Day 39",
-      "collection": 7924,
-      "shows": 34,
-      "occupancy": 54.8,
-      "tickets": 2998
+      "collection": 11622,
+      "shows": 43,
+      "occupancy": 58.2,
+      "tickets": 3950
     }
   ],
   "1497970": [

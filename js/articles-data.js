@@ -95862,5 +95862,385 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 11:17:39 +0000"
+  },
+  "1s8kqgx": {
+    "id": "1s8kqgx",
+    "type": "news",
+    "headline": "Kunal Kohli slams residents for bursting loud firecrackers outside Mumbai hospital",
+    "dek": "Filmmaker Kunal Kohli slammed residents for bursting loud firecrackers outside Khar Hinduja Hospital on Diwali night while he brought his mother for an emergency visit.",
+    "body": [
+      {
+        "h": "Emergency Hospital Visit on Diwali",
+        "p": [
+          "Filmmaker Kunal Kohli experienced a distressing Diwali evening when he had to rush his mother to Khar Hinduja Hospital in Mumbai for urgent medical attention. Rather than finding a calm environment conducive to medical care, he encountered individuals setting off extremely loud firecrackers directly outside the medical facility's gates.",
+          "The blatant disregard for patients inside the hospital prompted the director to speak out publicly about the incident, bringing attention to the lack of civic responsibility displayed during festival celebrations."
+        ]
+      },
+      {
+        "h": "Dismissive Response From Locals",
+        "p": [
+          "When Kunal Kohli politely approached the local residents to request that they move their loud fireworks away from the hospital entrance, his appeals were met with complete indifference and defensive defiance.",
+          "According to the filmmaker, one man dismissed his concerns entirely by claiming that the hospital was located in the wrong place and boasted that the residents had been established in the area for four decades before continuing to detonate loud explosive devices."
+        ]
+      },
+      {
+        "h": "Public Appeal and Official Tagging",
+        "p": [
+          "Frustrated by the lack of empathy and cooperation, Kunal turned to social media to voice his anger and disappointment over the ordeal. He specifically tagged the Brihanmumbai Municipal Corporation in his online post to highlight how civic rules and basic courtesy were being blatantly ignored.",
+          "The filmmaker's public grievance drew immediate attention from followers and fellow industry figures who sympathized with the plight of vulnerable patients trapped inside hospitals amid deafening noise."
+        ]
+      },
+      {
+        "h": "Bhumi Pednekar Echoes Environmental Concerns",
+        "p": [
+          "Actor Bhumi Pednekar also utilized her social media platform to raise serious concerns regarding the deteriorating air quality and excessive noise pollution following the Diwali celebrations. She shared observations about streets littered with waste, houses catching fire, and relentless firecracker noise continuing well into the early morning hours.",
+          "The actor emphasized that the aftermath of such celebrations poses severe hazards, particularly for children, senior citizens, animals, and individuals suffering from existing respiratory ailments."
+        ]
+      },
+      {
+        "h": "Impact on Vulnerable Groups",
+        "p": [
+          "Highlighting the unequal impact of festive pollution, Bhumi pointed out that those who cannot speak for themselves—such as stray and domestic animals—suffer immensely from the sudden bursts of loud noise and thick smog. She noted that fine particulate matter released by crackers severely degrades air quality.",
+          "Both celebrities advocated for more mindful and compassionate ways of celebrating festivals that respect the well-being of the entire community rather than causing distress to the sick and vulnerable."
+        ]
+      },
+      {
+        "h": "Spike in Mumbai Pollution Levels",
+        "p": [
+          "The widespread bursting of crackers across various urban areas resulted in a measurable surge in environmental pollution levels. In Mumbai, monitoring stations registered a sharp decline in atmospheric purity following the festive night.",
+          "Data from the city's air monitoring network showed that nine out of twenty-five stations reported poor air quality on Monday morning, pushing the overall Air Quality Index to 171, which falls into the moderate pollution category."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Kunal Kohli criticized local residents for bursting loud firecrackers outside Khar Hinduja Hospital in Mumbai while taking his mother for emergency treatment on Diwali night. His appeal to stop the noise was met with defensive pushback, prompting him to tag the Brihanmumbai Municipal Corporation online. Concurrently, actor Bhumi Pednekar raised alarms about post-Diwali air pollution and noise, while Mumbai's overall Air Quality Index worsened to 171."
+        ]
+      }
+    ],
+    "facts": [
+      "Kunal Kohli took his mother to Khar Hinduja Hospital in Mumbai for an emergency on Diwali night, Nov 9, 2026.",
+      "A local resident told Kunal Kohli that the hospital was in the wrong place and that they had been there for 40 years.",
+      "Bhumi Pednekar raised concerns over Mumbai's air quality and firecracker waste.",
+      "Nine of Mumbai's 25 air quality monitoring stations recorded poor air quality on Monday morning.",
+      "Mumbai's overall Air Quality Index stood at 171, placing it in the moderate category."
+    ],
+    "entities": {
+      "people": [
+        "Kunal Kohli",
+        "Bhumi Pednekar",
+        "Vibha Maru"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Kunal Kohli Khar Hinduja Hospital",
+      "Kunal Kohli firecrackers Diwali",
+      "Bhumi Pednekar Mumbai air quality",
+      "Mumbai AQI Diwali pollution"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/Kunal_Kohli_1794220759110_eWlW_1794220759239_ezD6_dc738b41-2df4-457c-9974-43c125bdba29_krYW.jpg",
+        "caption": "Kunal Kohli slams residents for bursting loud firecrackers outside Mumbai hospital",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 16:17:28 +0530"
+  },
+  "zmly1h": {
+    "id": "zmly1h",
+    "type": "news",
+    "headline": "Cillian Murphy and Tom Holland's Historical Adventure In the Heart of the Sea Climbs Netflix Charts",
+    "dek": "The 2015 historical drama starring Cillian Murphy, Tom Holland, and Chris Hemsworth has officially secured a spot among the most-watched movies on Netflix in the UK.",
+    "body": [
+      {
+        "h": "Streaming Success on Netflix",
+        "p": [
+          "A historical adventure film originally released years ago has suddenly found a fresh wave of popularity after arriving on Netflix. Viewers on the streaming platform have quickly embraced the picture, driving it up the popularity charts.",
+          "Since its addition to the library, the feature has captured the attention of audiences and climbed to become the fifth most-watched movie in the UK."
+        ]
+      },
+      {
+        "h": "Plot and True Historical Background",
+        "p": [
+          "The narrative is rooted in a real-life maritime catastrophe from 1820 involving an American whaling ship. The cinematic adaptation draws inspiration from Nathaniel Philbrick's non-fiction publication titled In the Heart of the Sea: The Tragedy of the Whaleship Essex.",
+          "Set against the backdrop of 1850, the storyline follows a desperate crew fighting for survival after a massive albino bull sperm whale attacks and sinks their vessel at sea."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Early Career Milestones",
+        "p": [
+          "The adventure features a prominent ensemble cast that includes major stars such as Cillian Murphy, Tom Holland, and Chris Hemsworth, alongside Benjamin Walker and Michelle Fairley.",
+          "At the time of the film's original release, the actors were at very different stages of their careers. Cillian Murphy had only completed two seasons of Peaky Blinders, and Tom Holland was still a year away from his debut as the Marvel superhero Spider-Man."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "Behind the camera, the production was steered by renowned director Ron Howard. He worked from a screenplay written by Charles Leavitt.",
+          "The project also involved a large team of producers, including Brian Grazer, Will Ward, Joe Roth, Paula Weinstein, and Ron Howard himself, with distribution handled by Warner Bros."
+        ]
+      },
+      {
+        "h": "Audience Reception and Reviews",
+        "p": [
+          "Audience members and reviewers have shared largely positive thoughts about the survival drama, awarding it a rating of 6.9 out of 10 based on a collection of reviews.",
+          "Reviewers highlighted the effective color cinematography, the thrilling musical score, and the strong performances delivered by the cast in bringing the historical tragedy to life."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2015 historical adventure In the Heart of the Sea has become a trending title on Netflix in the UK after joining the platform. Directed by Ron Howard and starring Cillian Murphy and Tom Holland, the film adapts a real 1820 whaling ship tragedy."
+        ]
+      }
+    ],
+    "facts": [
+      "In the Heart of the Sea was added to Netflix on 5 November.",
+      "The film is the fifth most-watched movie in the UK on Netflix.",
+      "The movie is based on Nathaniel Philbrick's 2000 non-fiction book In the Heart of the Sea: The Tragedy of the Whaleship Essex.",
+      "The real-life whaling ship sank in Essex in 1820.",
+      "The film adaptation is set in 1850.",
+      "Cillian Murphy played second mate Matthew Joy.",
+      "Tom Holland portrayed cabin boy Thomas Nickerson.",
+      "Chris Hemsworth, Benjamin Walker, and Michelle Fairley also star in the film.",
+      "Ron Howard directed the film from a screenplay by Charles Leavitt.",
+      "IMDB users rated the movie 6.9/10 from 375 reviews."
+    ],
+    "entities": {
+      "people": [
+        "Cillian Murphy",
+        "Tom Holland",
+        "Nathaniel Philbrick",
+        "Matthew Joy",
+        "Thomas Nickerson",
+        "Chris Hemsworth",
+        "Benjamin Walker",
+        "Michelle Fairley",
+        "Ron Howard",
+        "Charles Leavitt",
+        "Brian Grazer",
+        "Will Ward",
+        "Joe Roth",
+        "Paula Weinstein"
+      ],
+      "titles": [
+        "In the Heart of the Sea",
+        "In the Heart of the Sea: The Tragedy of the Whaleship Essex",
+        "Peaky Blinders",
+        "Spider-Man",
+        "Game of Thrones",
+        "Legends"
+      ]
+    },
+    "keywords": [
+      "In the Heart of the Sea Netflix",
+      "Cillian Murphy Tom Holland movie",
+      "In the Heart of the Sea true story",
+      "Ron Howard film streaming"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/cillian-murphy-in-the-heart-of-the-sea-68b161440a99f.jpg?crop=1.00xw:0.928xh;0,0&amp;resize=1200:*",
+        "caption": "Cillian Murphy and Tom Holland's Historical Adventure In the Heart of the Sea Climbs Netflix Charts",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 11:16:00 +0000"
+  },
+  "gychlr": {
+    "id": "gychlr",
+    "type": "news",
+    "headline": "Louisa Jacobson Discusses Marian's Complicated Journey in 'The Gilded Age' Season 4",
+    "dek": "Actress Louisa Jacobson opens up about the emotional and historical challenges her character Marian faces following a pivotal moment with Larry Russell in the latest season.",
+    "body": [
+      {
+        "h": "Introduction to Marian's New Direction",
+        "p": [
+          "Viewers of the period drama have long followed Marian Brook as she attempts to balance her own personal desires with the rigid expectations of New York's high society. The fourth season introduces a major turning point that forces her into a difficult conflict where personal happiness clashes directly with her social reputation.",
+          "Actress Louisa Jacobson, who portrays Marian on screen, recently discussed her initial reaction to the character's new narrative arc. She admitted that certain developments in the scripts left her feeling frustrated before she came to appreciate the dramatic weight of the storytelling."
+        ]
+      },
+      {
+        "h": "A Moment of Freedom and Unexpected Complications",
+        "p": [
+          "The season premiere grants Marian a rare opportunity to escape the strict social confines that have traditionally governed her life. She visits a downtown venue to go dancing alongside Oscar and Enid Van Rhijn, displaying a joyful and carefree side of her personality that audiences rarely get to witness.",
+          "However, this joyful atmosphere shifts abruptly when she reconnects with Larry Russell, played by Harry Richardson. Following their shared dance, Larry offers her a ride home, but a sudden storm interrupts the journey and forces them to take shelter at a hotel where they ultimately spend the night together."
+        ]
+      },
+      {
+        "h": "The Morning After and Emotional Turmoil",
+        "p": [
+          "When morning arrives, Marian wakes up gripped by intense panic and quickly departs from the hotel. What initially presented itself as a promising romantic development instantly transforms into a source of deep anxiety and uncertainty for the young character.",
+          "Jacobson noted that reading about the morning after felt genuinely tragic. She confessed that the turn of events initially frustrated her because it upended expectations of a straightforward romance, though she ultimately welcomed the chance to explore the heavy emotional fallout."
+        ]
+      },
+      {
+        "h": "Navigating Strict 19th Century Morality",
+        "p": [
+          "The actress emphasized that the storyline operates against the backdrop of strict Victorian standards regarding female purity and moral conduct. Engaging in an unapproved relationship could severely ruin a woman's standing within high society and devastate her future prospects.",
+          "Bringing that harsh historical reality to life became a defining responsibility for Jacobson. She explained that she chose to fully lean into the emotional complexity of the character's internalised judgment and fear of societal judgment."
+        ]
+      },
+      {
+        "h": "Larry Russell's Perspective and Miscalculation",
+        "p": [
+          "The situation unfolds very differently for the male protagonist, as Larry fails to immediately grasp the magnitude of the consequences facing Marian. Harry Richardson explained that his character harbours genuine romantic intentions rather than treating the encounter casually.",
+          "Because Larry lacks an acute awareness of the severe social risks involved, his actions amount to a serious miscalculation. This disparity highlights the vast difference in their social positions and adds profound depth to their ongoing dynamic."
+        ]
+      },
+      {
+        "h": "Broader Conflicts Across the Russell and Van Rhijn Households",
+        "p": [
+          "Marian and Larry's storyline forms only one piece of the expansive narrative canvas in the fourth season. Official network summaries indicate that Bertha Russell, portrayed by Carrie Coon, must handle the heavy fallout of her expanding societal influence.",
+          "Simultaneously, Agnes van Rhijn, played by Christine Baranski, strives to restore her former status, while Peggy Scott, played by Denée Benton, navigates the delicate process of earning approval from her future family members."
+        ]
+      },
+      {
+        "h": "Background and Legacy of Louisa Jacobson",
+        "p": [
+          "Louisa Jacobson is an American performer who trained extensively at the Yale School of Drama and is recognised as the youngest daughter of actor Meryl Streep and sculptor Don Gummer. Her breakout television role came in 2022 when she stepped into the shoes of Marian Brook.",
+          "Through her work on the critically acclaimed period drama, Jacobson has anchored vital explorations of female independence. The demanding trajectory of season four provides her with an expanded platform to highlight Marian's vulnerability and resilience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Louisa Jacobson shared her initial frustrations regarding Marian Brook's dramatic storyline in the fourth season of The Gilded Age. The narrative explores the severe 19th century social consequences and internal panic following a night spent with Larry Russell, highlighting the vast divide in how both characters perceive the situation."
+        ]
+      }
+    ],
+    "facts": [
+      "Louisa Jacobson plays Marian Brook in The Gilded Age.",
+      "Harry Richardson plays Larry Russell.",
+      "Carrie Coon plays Bertha Russell.",
+      "Christine Baranski plays Agnes van Rhijn.",
+      "Den&eacute;e Benton plays Peggy Scott.",
+      "The Gilded Age premiered in 2022."
+    ],
+    "entities": {
+      "people": [
+        "Louisa Jacobson",
+        "Harry Richardson",
+        "Carrie Coon",
+        "Christine Baranski",
+        "Den&eacute;e Benton",
+        "Meryl Streep",
+        "Don Gummer"
+      ],
+      "titles": [
+        "The Gilded Age"
+      ]
+    },
+    "keywords": [
+      "The Gilded Age season 4",
+      "Louisa Jacobson Marian Brook",
+      "Larry Russell Gilded Age",
+      "Harry Richardson Gilded Age"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135673929,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Louisa Jacobson Discusses Marian's Complicated Journey in 'The Gilded Age' Season 4",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T17:00:00+05:30"
+  },
+  "18k3h99": {
+    "id": "18k3h99",
+    "type": "news",
+    "headline": "Ramayana Drives Massive Collections Across South India During Opening Weekend",
+    "dek": "Nitesh Tiwari's mythological epic featuring Ranbir Kapoor, Sai Pallavi, and Yash has achieved remarkable commercial milestones across southern markets in its initial four days.",
+    "body": [
+      {
+        "h": "Opening Weekend Performance in Southern Markets",
+        "p": [
+          "The mythological drama Ramayana has captured the attention of moviegoers across South India, generating significant financial returns during its initial theatrical run. Industry tracking indicates that the feature accumulated an estimated Rs 96 crore net across the southern region during its first four days of release, covering the extended opening weekend up to Sunday, November 8, 2026.",
+          "Released on November 5, the film has leveraged the festive Diwali holiday period alongside strong occupancy rates to cement its commercial presence. With minimal direct competition from other regional titles, the project has enjoyed a clear run in theatres."
+        ]
+      },
+      {
+        "h": "Yash's Impact on Karnataka Box Office",
+        "p": [
+          "A major share of the regional earnings stems from Karnataka, where the production brought in nearly Rs 43 crore, accounting for almost half of the entire South Indian tally. This performance places Karnataka among the highest-earning territories nationwide, trailing only Maharashtra.",
+          "Kannada star Yash portrays the character of Ravana, a casting choice that has heavily propelled local ticket sales. Specifically, the Kannada-language version alone brought in Rs 6.70 crore on Sunday, marking a 14.53 percent growth compared to the Rs 5.85 crore generated on Saturday."
+        ]
+      },
+      {
+        "h": "Contributions from Telugu, Tamil, and Malayalam Territories",
+        "p": [
+          "Beyond Karnataka, the feature recorded solid figures across neighboring states including Tamil Nadu, Andhra Pradesh, Telangana, and Kerala. Trade estimations suggest that the combined Telugu, Tamil, and Malayalam versions added approximately Rs 43 crore to the cumulative regional box office sum.",
+          "High spectator turnouts and festive scheduling played a vital role in keeping cinema halls packed. The combined star power of the leading cast members helped sustain momentum across these diverse linguistic regions."
+        ]
+      },
+      {
+        "h": "Key Cast Members and Visual Appeal",
+        "p": [
+          "Directed by Nitesh Tiwari, the venture has drawn widespread commentary for its grand scale, visual effects, and storytelling. The principal cast features Ranbir Kapoor, Sai Pallavi as Sita, and Yash as Ravana.",
+          "Performances from these lead actors have been a primary talking point among audiences and critics alike, aiding word-of-mouth promotion and driving consistent footfall into cinemas throughout the opening stretch."
+        ]
+      },
+      {
+        "h": "Regional Distribution Network",
+        "p": [
+          "A strategic distribution network facilitated the wide southern rollout. Think Studios managed the theatrical distribution across Tamil Nadu, while producer Dil Raju oversaw the Telugu version release.",
+          "In Karnataka, actor Yash personally secured the theatrical rights. Meanwhile, E4 Entertainments partnered with AVA Productions to handle the distribution duties within Kerala."
+        ]
+      },
+      {
+        "h": "Outlook for the First Week",
+        "p": [
+          "Having secured an estimated Rs 96 crore net in just four days across southern territories, the cinematic epic stands in a strong commercial position. Favorable audience reception and the prominent involvement of regional favorites provide a solid foundation for the upcoming weekdays.",
+          "The project will now aim to maintain its box office trajectory as it navigates the remainder of its first week in distribution."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana grossed an estimated Rs 96 crore net across South India in its first four days following its November 5 release, with Karnataka alone contributing nearly Rs 43 crore. The mythological epic benefited from the Diwali holiday period and featured key performances by Ranbir Kapoor, Sai Pallavi, and Yash."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned an estimated Rs 96 crore net across South India in its first four days.",
+      "Karnataka contributed nearly Rs 43 crore to the South Indian total.",
+      "The film was released on November 5, 2026.",
+      "The extended opening weekend ran up to Sunday, November 8, 2026.",
+      "The Kannada version earned Rs 6.70 crore on Sunday.",
+      "The Kannada version's Sunday collection registered a 14.53 per cent increase over Saturday's collection of Rs 5.85 crore.",
+      "Telugu, Tamil, and Malayalam versions collectively contributed around Rs 43 crore.",
+      "Think Studios distributed the film in Tamil Nadu.",
+      "Dil Raju distributed the Telugu version.",
+      "Yash acquired theatrical distribution rights for Karnataka.",
+      "E4 Entertainments in association with AVA Productions distributed the film in Kerala."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Dil Raju"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ranbir Kapoor",
+      "Sai Pallavi",
+      "Yash"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayanacollections1794224308.jpg",
+        "caption": "Ramayana Drives Massive Collections Across South India During Opening Weekend",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-09T17:12:10+05:30"
   }
 };

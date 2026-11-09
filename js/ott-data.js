@@ -65,6 +65,14 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "IN",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1389379,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "US",
       "date": "2026-11-17",
       "date_kind": "digital",
@@ -78,6 +86,19 @@ window.FA_OTT = {
       "date_kind": "digital",
       "id": 1561834,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-20",
+      "date_kind": "digital",
+      "id": 1307474,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -599,6 +620,14 @@ window.FA_OTT = {
           "name": "Philo"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-02",
+      "date_kind": "digital",
+      "id": 1796880,
+      "providers": [],
       "type": "movie"
     },
     {

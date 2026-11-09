@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T10:41:47Z",
-    "run_id": "42472472976",
-    "status": "success",
-    "checked": {
-     "candidates": 235,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Worldwide Box Office Day 3: Ranbir’s Film Beats Dhurandhar 2, Jawan; Creates New Record In Overseas",
-      "Director Vinod Kapri Alleges Over 75% Shows Of Pyre Cut Down Post Ramayana Release: We Deserve A Fair Chance",
-      "Scene Worldwide Box Office Day 2: Enters Suriya’s Top 10 Grossers Of All Time!",
-      "drama only exists through conflict pankaj tripathi on his contrasting personalities on and off s 86581.html",
-      "i learnt the magic of silence divya dutta cherishes memories and learnings from some of her best 87044.html",
-      "radhikka madan on what love lust and relationships mean to her 87031.html",
-      "music director viju shah reminisces about some mast mast memories 87022.html",
-      "light camera family top 10 movies to watch this diwali 87066.html",
-      "'Ramayana' box office collection day 4 (LIVE)",
-      "‘King100’: Ashok Selvan’s first look as Karna unveiled on 37th birthday",
-      "Saira Banu shares nostalgic Diwali post on her 'annual photograph tradition' with Dilip Kumar",
-      "Ayushmann threat message: Sender tells actor he would have same fate as Tiger Shroff",
-      "Rajinikanth celebrates Diwali with fans outside Chennai home",
-      "Amitabh Bachchan says he is facing discomfort in writing letters to thank fans for their gifts, extends them wishes on Diwali",
-      "Priyanka-Nick bring slice of India to their LA Diwali bash, actor shares unseen pics",
-      "divyanka tripathi vivek dahiya reveal twin names baby daivik vaidvik know meanings tmovg dskc 2690930 2026 11 08",
-      "esha deol arrived with ex husband bharat takhtani at diwali celebration divorce after 12 years 2 kids coparenting tmovf dskc 2691049 2026 11 08",
-      "harbhajan singh geeta basra diwali celebration couple gets romantic diwali puja muhurat vidhi tmovf 2691086 2026 11 08",
-      "cricketer hardik pandya performed pooja celebrates diwali with ladylove mahika sharma son agastya video tmovf dskc 2690983 2026 11 08",
-      "actor mp manoj tiwari proposed wife surabhi cried couple romantic video ex wife divorce kids tmovf dskc 2688206 2026 11 08"
-     ],
-     "updated": [],
-     "count": 221,
-     "detail": "235 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-08T12:51:41Z",
     "run_id": "42482115446",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "323 stories, 0 duplicates removed, 17 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T12:52:07Z",
-    "run_id": "42482115446",
+    "run_at": "2026-11-09T12:48:12Z",
+    "run_id": "42619910346",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 508,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "BTS Member V Wishes Indian ARMY Diwali Mubarak On Weverse",
-      "Justin Timberlake Addresses Longstanding Rumors Regarding 2006 Hit Song",
-      "Pankaj Tripathi Discusses Conflict, Character Studies, and Bringing Kaleen Bhaiya to the Big Screen",
-      "Stephen King's Eight-Episode Horror Series Offers a Fast Binge That Outpaces the Films"
+      "photos navya naveli nandas diwali album features a rare picture of agastya and aaradhya together 87077.html",
+      "ramayana south box office collections ranbir kapoor sai pallavi and yashs film sets new record 87076.html",
+      "farah khan slams portals peddling fake videos of fire at her mumbai home 87075.html",
+      "suriyas scene ends opening weekend on a high with rs 116 crore worldwide 87074.html",
+      "everything we are watching this week november 9 15 i play rocky soty after dark more 87070.html",
+      "exclusive neha dhupia on 52 blue being outspoken and why working mothers are changing the rules 87056.html",
+      "exclusive mihir ahuja on operation safed sagar years of auditions and finding his footing 87055.html",
+      "exclusive kritika kamra on her honeymoon across europe married life keeping individuality alive 85924.html",
+      "allu arjun nayanthara keerthy suresh and upasana give a sneak peek into their diwali celebrations 87073.html",
+      "exclusive nandita roy shiboprosad mukherjee on bohurupi 2 politics in bengali cinema more 87052.html",
+      "pictures alia bhatts diwali photo dump captures precious family moments with ranbir kapoor raha 87071.html",
+      "rashmika mandanna and vijay deverakonda celebrate diwali in japan with family 87072.html",
+      "alia bhatt ranbir kapoor performed laxmi puja in 250 crores bungalow inside photos 4 years old raha kapoor transformation tmovf 2691272 2026 11 09",
+      "kangana ranaut performed pooja lavish house temple inside photos royal interior bjp mp diwali celebration video tmovf 2691306 2026 11 09",
+      "ms dhoni wife sakshi dhoni kissed him shikhar dhawan gets romantic with irish wife yuvraj singh hazel keech private photos tmovf 2691482 2026 11 09",
+      "sagarika ghatge zaheer khan laxmi puja diwali celebration with kid temple secularism interfaith wedding tmovh 2691559 2026 11 09",
+      "samay raina confirms affair with medha shankar diwali party new home tour celebs spotted varun dhawan tmovh 2691283 2026 11 09",
+      "cricketer hardik pandya gf maheika sharma transformation spotted with pv sindhu performed puja fans surprised tmovf dskc 2691672 2026 11 09",
+      "gen z celebrities diwali celebration ananya pandey pratibha ranta rasha thadani saurav joshi abhishek sharma srss dskc 2691572 2026 11 09",
+      "kareena kapoor diwali lool qurana ayat panna look bhopali turban 200 year old kalgi royal photos tmovg dskc 2691764 2026 11 09"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 396,
+     "detail": "405 stories, 3 duplicates removed, 103 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1485,45 +1462,32 @@
      "detail": "+4 articles, +0 box-office rows, 5 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-09T12:49:06Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Kunal Kohli slams residents for bursting loud firecrackers outside Mumbai hospital",
+      "Cillian Murphy and Tom Holland's Historical Adventure In the Heart of the Sea Climbs Netflix Charts",
+      "Louisa Jacobson Discusses Marian's Complicated Journey in 'The Gilded Age' Season 4",
+      "Ramayana Drives Massive Collections Across South India During Opening Weekend"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-08T12:52:26Z",
-    "run_id": "42482115446",
-    "status": "success",
-    "checked": {
-     "candidates": 273,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 259, coming 14"
-    },
-    "reason": null
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-08T13:52:26Z",
-    "run_id": "42486865316",
-    "status": "success",
-    "checked": {
-     "candidates": 273,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 259, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1919,19 +1883,45 @@
      "detail": "now 261, coming 14"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-09T12:49:29Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": {
+     "candidates": 278,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 262, coming 16"
+    },
+    "reason": null
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-09T12:49:29Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": {
+     "candidates": 278,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 262, coming 16"
+    },
+    "reason": null
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2375,27 +2365,34 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-09T12:52:01Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "gychlr",
+      "7zrtld",
+      "6cnve0",
+      "149emoy",
+      "1x5yt3l",
+      "5o9vmi",
+      "7srbl7"
+     ],
+     "updated": [],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T12:22:02Z",
-    "run_id": "42473810882",
-    "status": "success",
-    "checked": {
-     "candidates": 625,
-     "detail": "620 collected staging rows from readers; 211 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 8,
-     "detail": "+0 new rows, 8 updated rows, 612 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2793,19 +2790,27 @@
      "detail": "+0 new rows, 5 updated rows, 619 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T12:51:50Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": {
+     "candidates": 632,
+     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 8,
+     "detail": "+1 new rows, 7 updated rows, 617 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3042,19 +3047,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3570,19 +3575,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-09T12:52:00Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Kunal Kohli slams residents for bursting loud firecrackers outside Mumbai hospital",
+      "Cillian Murphy and Tom Holland's Historical Adventure In the Heart of the Sea Climbs Netflix Charts",
+      "Ramayana Drives Massive Collections Across South India During Opening Weekend",
+      "Louisa Jacobson Discusses Marian's Complicated Journey in 'The Gilded Age' Season 4"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3860,19 +3878,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4194,31 +4212,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-08T10:42:12Z",
-    "run_id": "42472472976",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 221 still unprocessed; today by category: movies 5/6, tv_dramas 7/4, episodes 0/2, box_office 8/6, celebrities_events 6/5, upcoming_releases 2/4, ott_streaming 4/4, trailers 0/3, awards 1/2, music_ost 1/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ashok Selvan Character Revealed as Karna in Nagarjuna's Milestone Film",
-      "Apple TV Spy Thriller Slow Horses Achieves Major Streaming Milestone Amid James Bond Casting Speculation",
-      "Ramayana: Part 1 Body Double JD Sharma Reveals Yash Performed His Own Stunts and Tandav",
-      "Lucy Hale and Ian Harding Reveal Future Project Hopes Following Their Onscreen Reunion"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4724,26 +4730,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-09T12:49:06Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 396 still unprocessed; today by category: movies 7/6, tv_dramas 6/4, episodes 0/2, box_office 14/6, celebrities_events 7/5, upcoming_releases 5/4, ott_streaming 6/4, trailers 3/3, awards 2/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Kunal Kohli slams residents for bursting loud firecrackers outside Mumbai hospital",
+      "Cillian Murphy and Tom Holland's Historical Adventure In the Heart of the Sea Climbs Netflix Charts",
+      "Louisa Jacobson Discusses Marian's Complicated Journey in 'The Gilded Age' Season 4",
+      "Ramayana Drives Massive Collections Across South India During Opening Weekend"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-08T10:43:36Z",
-    "run_id": "42472472976",
-    "status": "success",
-    "checked": {
-     "candidates": 45,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5064,24 +5075,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 387,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5426,19 +5432,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 380,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5708,19 +5719,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5970,19 +5981,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 78,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6217,19 +6233,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6516,19 +6532,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6769,19 +6785,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "failed",
-    "checked": null,
-    "changed": null,
-    "reason": "error"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7011,19 +7027,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7272,6 +7288,16 @@
     "category": "Trending News",
     "run_at": "2026-11-09T11:54:40Z",
     "run_id": "42612187104",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7788,16 +7814,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-08T13:40:48Z",
     "run_id": "42482115446",
     "status": "skipped",
@@ -8034,19 +8050,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-08T11:31:33Z",
-    "run_id": "42472472976",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8301,8 +8317,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-09T12:52:10Z",
+    "run_id": "42619910346",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7401,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-09T11:54:40Z"
+ "updated_at": "2026-11-09T12:52:10Z"
 }
