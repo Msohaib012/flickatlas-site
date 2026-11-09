@@ -96242,5 +96242,379 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-09T17:12:10+05:30"
+  },
+  "kwx5g4": {
+    "id": "kwx5g4",
+    "type": "news",
+    "headline": "Theatrical Frenzy Leads to Midnight Screenings for Ranbir Kapoor and Yash Starrer",
+    "dek": "Cinemas across Mumbai, Pune, and Ahmedabad are adjusting to massive demand by scheduling extra screenings well past midnight, including a 4:50 am slot.",
+    "body": [
+      {
+        "h": "Extraordinary Demand Leads to Unusual Screening Times",
+        "p": [
+          "The theatrical run of the mythological epic featuring Ranbir Kapoor and Yash has triggered unprecedented enthusiasm among moviegoers. Exhibition venues in multiple urban centers are struggling with overwhelming audience turnouts, prompting theater owners to introduce unconventional post-midnight showtimes to cope with the influx.",
+          "Typically, screenings during the graveyard shift between midnight and early morning are reserved for the opening weekend of major cinematic events when advance ticket sales surpass all expectations. However, the current scheduling strategy for this specific blockbuster follows a notably different pattern influenced by the holiday calendar."
+        ]
+      },
+      {
+        "h": "Timing and Holiday Challenges",
+        "p": [
+          "The feature arrived in cinemas on Thursday, November 5, coinciding with the days leading up to Diwali. Traditionally, this pre-festival window experiences lower theater attendance because families and individuals are occupied with festive preparations, purchasing gifts, and conducting celebrations.",
+          "Consequently, a significant portion of the target audience missed out on watching the production during its initial theatrical window. As the holiday officially commenced, public interest surged drastically, resulting in packed houses and severe seating capacity shortages across various multiplex properties."
+        ]
+      },
+      {
+        "h": "Late-Night Screenings Across Mumbai",
+        "p": [
+          "Mumbai has emerged as the epicenter of this nocturnal moviegoing trend, with numerous locations adding late-night options for 3D formats. Properties such as Movietime Cubic Mall, MovieMax Sion, and Cinepolis Lake Shore Thane have scheduled screenings stretching past midnight to accommodate waiting patrons.",
+          "More extreme examples include Maxus Borivali and PVR Chakala introducing shows deep into the night. Notably, Maxus Bhayander set a striking benchmark by scheduling a 3D screening at an astonishing 4:50 am, alongside other unconventional timings at 12:50 am and 2:05 am."
+        ]
+      },
+      {
+        "h": "Variety in Formats and Locations",
+        "p": [
+          "The midnight momentum is not restricted to 3D presentations, as exhibitors have also rolled out late-night options for 2D and 4DX formats. Locations like INOX Malad, INOX Raghuleela in Kandivali, and PVR Lido have integrated early-morning 2D shows into their schedules to satisfy continuous demand.",
+          "For premium experiential formats, Cinepolis Lake Shore Thane arranged a 4DX screening at 12:10 am. Despite the widespread availability of post-midnight slots, IMAX screens have notably remained dark during the 12:00 am to 6:00 am window across the country."
+        ]
+      },
+      {
+        "h": "Expansion Into Pune and Ahmedabad",
+        "p": [
+          "The nocturnal viewing trend quickly expanded beyond Mumbai into other major urban hubs. In Pune, Cinepolis Aundh and MovieMax Amanora Town Centre introduced past-midnight screenings, while MovieMax Gold pushed further with a 2:10 am showtime.",
+          "Ahmedabad demonstrated a similar pattern across multiple properties. Venues including Connplex Prahladnagar, Connplex Gandhinagar, and PVR Satyamev Emporio added late-night 3D options, while various other locations facilitated 2D late-hour slots for enthusiastic crowds."
+        ]
+      },
+      {
+        "h": "Exhibitor Measures Highlight Scale of Interest",
+        "p": [
+          "The deployment of such extensive post-midnight scheduling highlights the extreme enthusiasm surrounding the project and the extraordinary lengths theater operators are willing to pursue. By stretching operating hours deep into the early morning, exhibitors are striving to capture every possible segment of the holiday audience.",
+          "This strategic adaptation underscores the strong pull of the lead cast and the sheer magnitude of the festive box-office rush, proving that dedicated fans are willing to alter their sleep schedules entirely to experience the spectacle."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cinemas in Mumbai, Pune, and Ahmedabad have added an exceptional number of post-midnight and early-morning shows, including a 4:50 am slot, to manage capacity issues during the Diwali holiday rush for the Ranbir Kapoor and Yash starrer. Although pre-festival days saw lower footfalls, subsequent holiday demand pushed exhibitors to introduce these unconventional screening times across various formats while IMAX remained excluded from the graveyard shift."
+        ]
+      }
+    ],
+    "facts": [
+      "The film was released on Thursday, November 5.",
+      "On Tuesday, November 10, Movietime Cubic Mall scheduled a 3D show at 12:35 am.",
+      "MovieMax Sion scheduled two shows at 1:15 am and 2:10 am.",
+      "Maxus Bhayander scheduled three 3D shows at 12:50 am, 2:05 am, and 4:50 am."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Shiamak Davar",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana - Part I"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana midnight shows",
+      "Ramayana Diwali box office"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Ramayana-midnight.jpg",
+        "caption": "Theatrical Frenzy Leads to Midnight Screenings for Ranbir Kapoor and Yash Starrer",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:42:36 +0200"
+  },
+  "1hub4zx": {
+    "id": "1hub4zx",
+    "type": "news",
+    "headline": "Yash Addresses Ravana Glorification Debate for Ramayana: Rise of a Legend",
+    "dek": "Actor Yash opens up about playing Ravana in the upcoming epic Ramayana: Rise of a Legend, addressing debates over the character's prominence and his transformation into the role.",
+    "body": [
+      {
+        "h": "Behind-the-Scenes Reveal",
+        "p": [
+          "The creative team behind the upcoming cinematic epic Ramayana: Rise of a Legend recently released a special behind-the-scenes video detailing actor Yash's striking transformation into the character of Ravana. The promotional clip showcases extensive discussions among key creative figures regarding the casting choices and the complex thought process required to bring the revered ancient epic to life on the big screen.",
+          "This promotional release arrives during an ongoing public discourse concerning how Ravana is handled in the narrative. Several observers have raised questions regarding whether the production might inadvertently elevate the antagonist's prominence or potentially overshadow the central figure of Lord Rama."
+        ]
+      },
+      {
+        "h": "Casting a Major Star as the Antagonist",
+        "p": [
+          "Producer Namit Malhotra discussed the unique hurdles of casting someone with Yash's immense star power in the role of Ravana, traditionally viewed as one of the most widely disliked figures in cultural history. Malhotra highlighted the fascinating juxtaposition between Yash's dedicated fan base and the notoriously negative perception historically associated with the character he portrays.",
+          "Co-star Ranbir Kapoor weighed in on the casting decision as well, noting that portraying Ravana in his truest form demands a commanding presence. Kapoor emphasized that the role required an actor possessing a distinct larger-than-life aura and immense star power, qualities that Yash naturally brings to the project."
+        ]
+      },
+      {
+        "h": "Initial Hesitation and Personal Motivation",
+        "p": [
+          "Yash admitted that his choice to step into the shoes of the antagonist initially shocked many of his close friends and family members. They questioned why a popular actor would willingly select a role historically recognized as a pure villain, expressing concern that audiences accustomed to celebrating him might struggle to appreciate his performance.",
+          "Despite those early warnings, the actor maintained a clear perspective on his career choices and the requirements of the narrative. Yash noted that while his personal stardom is important, no individual involved in the project is larger than the timeless story of the epic itself."
+        ]
+      },
+      {
+        "h": "Exploring Multiple Dimensions of Ravana",
+        "p": [
+          "Producer Malhotra stressed that the film aims to showcase the various facets of Ravana's complex personality, encouraging audiences to view this celebrated evil character for who he truly was. The cinematic adaptation intends to dive deep into the layers that made the historical figure unique rather than relying on flat, one-dimensional tropes.",
+          "Director Nitesh Tiwari also highlighted the remarkable intellect and background of the character. Tiwari described the antagonist as a formidable warrior, an expert astrologer, and a devout follower of Lord Shiva who was nearly immortal, prompting a reflection on where things ultimately went wrong for him."
+        ]
+      },
+      {
+        "h": "A Conflict of Mind and Heart",
+        "p": [
+          "Offering his own philosophical take on the dynamic between the two central figures, Yash explained that the antagonist should not be viewed as a straightforward villain. He likened Lord Rama to the emotional heart and Ravana to the analytical brain, pointing out the perpetual internal conflict that exists between human thought and emotion.",
+          "Ranbir Kapoor praised his co-star's profound comprehension of the script, calling Yash's perspective a fresh and intricate interpretation of the character. This thoughtful approach helped bridge the gap between traditional storytelling and modern cinematic depth."
+        ]
+      },
+      {
+        "h": "Costume Design and Immediate Connection",
+        "p": [
+          "Recalling his earliest conversations with producer Namit Malhotra, Yash realized they shared an identical dream for the project, which served as the ultimate starting point for his involvement. He mentioned that putting on the elaborate costumes, particularly the crown, instantly helped him mentally connect with the role and feel like Ravana.",
+          "Director Tiwari lauded Yash's striking screen presence, observing that the actor completely immersed himself in the character. According to the filmmaker, whenever Yash appears on screen, his commanding presence instantly draws the viewer's absolute attention."
+        ]
+      },
+      {
+        "h": "Project Scale and Release Plans",
+        "p": [
+          "Producer Malhotra concluded by stating that his grand vision for the epic seamlessly aligned with Yash's ambition to accomplish the seemingly impossible. This shared creative drive ultimately solidified their collaboration on the ambitious cinematic venture.",
+          "Ramayana: Rise of a Legend is structured as a two-part cinematic event directed by Nitesh Tiwari and produced by Namit Malhotra alongside Yash. The feature stars Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana, with the first installment scheduled to hit theaters on November 5."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of Ramayana: Rise of a Legend released a behind-the-scenes video showcasing Yash's transformation into Ravana amid ongoing debates regarding the character's portrayal. Key figures including Yash, Ranbir Kapoor, Nitesh Tiwari, and Namit Malhotra discussed the casting choices, the complexity of the antagonist, and the upcoming two-part epic's theatrical release starting November 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash plays Ravana in the film Ramayana: Rise of a Legend.",
+      "Ranbir Kapoor plays Lord Rama in the film.",
+      "Sai Pallavi plays Sita in the film.",
+      "Nitesh Tiwari is the director of the film.",
+      "Namit Malhotra and Yash are the producers of the film.",
+      "The first installment of the two-part epic is scheduled to release in cinemas on November 5."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Yash Ravana Ramayana",
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Lord Rama",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ravanas-rs-1-crore-throne-made-of-melted-gold-ramayana-art-director-reveals-all-054256953-16x9_1.png?VersionId=S01i44hg8.RcUto6r7CZYTxPRPWkm1nC",
+        "caption": "Yash Addresses Ravana Glorification Debate for Ramayana: Rise of a Legend",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 18:37:48 +0530"
+  },
+  "xjast2": {
+    "id": "xjast2",
+    "type": "news",
+    "headline": "Yu Shu Xin Captivates Fans and Dominates Weibo With 1920s Shanghai Heiress Aesthetic",
+    "dek": "Popular Chinese star Yu Shu Xin captured the top spot on Weibo's trending entertainment charts after showcasing a vintage 1920s Shanghai heiress aesthetic.",
+    "body": [
+      {
+        "h": "Weibo Trend Captivates Chinese Social Media",
+        "p": [
+          "Chinese celebrity Yu Shu Xin recently commanded massive online attention by securing the number one position on Weibo's entertainment trending chart. The widespread excitement was sparked by a series of striking photographs featuring the actress in a distinct 1920s Shanghai heiress aesthetic.",
+          "The specific hashtag representing this viral style, translated as \"Yu Shu Xin Republic-era heiress,\" quickly climbed to the peak of the platform on November 9, 2026. Fans and casual browsers alike shared the images rapidly across digital networks, making her appearance one of the most discussed topics of the day."
+        ]
+      },
+      {
+        "h": "A Bold Departure in Vintage Fashion",
+        "p": [
+          "For this particular styling, Yu moved away from her typically sweet and edgy fashion choices to embrace traditional glamour. Instead of wearing a conventional, plain qipao, she opted for a sophisticated halter-neck qipao-style top crafted in a deep green hue.",
+          "The garment featured intricate mother-of-pearl and metal chest detailing, which she paired with a lustrous gold satin skirt complete with a daring side slit. To complete the opulent ensemble, she added a luxurious white fur shawl, traditional short finger waves reminiscent of historical calendar-poster beauties, striking red lips, and an antique gold folding fan."
+        ]
+      },
+      {
+        "h": "Public Reaction and Fashion Commentary",
+        "p": [
+          "Online commentators and netizens immediately showered the actress with praise, frequently drawing comparisons to historical socialites from early twentieth-century Shanghai. Many enthusiastic fans remarked that her convincing presentation made her instantly ready to lead a historical Republic-era television drama.",
+          "Prominent Chinese fashion writers also weighed in on the look, pointing out that this vintage aesthetic marked a significant aesthetic shift from the styles she usually displays in public appearances and media projects."
+        ]
+      },
+      {
+        "h": "Background of the Rising Star",
+        "p": [
+          "Yu Shu Xin has built a substantial following through several high-profile entertainment projects over the years. She first captured broader public attention through her involvement in the drama Next Stop, Happiness and her participation in the 2020 survival reality show Youth With You 2.",
+          "Her career reached new heights of stardom following her celebrated portrayal of the character Xiao Lan Hua, establishing her as a leading name in the contemporary Chinese television and streaming landscape."
+        ]
+      },
+      {
+        "h": "Established Career Milestones",
+        "p": [
+          "Prior to dominating the social media trends with her vintage fashion choices, Yu cemented her status as a prominent actress through major genre hits. Her prominent roles in acclaimed fantasy series have continually kept her in the spotlight for international drama enthusiasts.",
+          "Works such as Love Between Fairy and Devil and Love Game in Eastern Fantasy have notably contributed to her enduring popularity and massive online fan base across various digital platforms."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yu Shu Xin secured the number one spot on Weibo's entertainment trending chart on November 9, 2026, by debuting a 1920s Shanghai heiress look. The star of Love Between Fairy and Devil and Love Game in Eastern Fantasy swapped her usual sweet aesthetic for a green halter-neck qipao, gold skirt, and vintage styling that delighted fans and fashion writers alike."
+        ]
+      }
+    ],
+    "facts": [
+      "Yu Shu Xin reached No. 1 on Weibo's entertainment trending chart on November 9, 2026.",
+      "The trending hashtag was \"Yu Shu Xin Republic-era heiress\".",
+      "She wore a deep green halter-neck qipao-style top, a gold satin skirt with a side slit, and a white fur shawl.",
+      "Her previous prominent acting credits include Next Stop, Happiness, Love Between Fairy and Devil, and Love Game in Eastern Fantasy.",
+      "She also appeared in the survival show Youth With You 2 in 2020."
+    ],
+    "entities": {
+      "people": [
+        "Yu Shu Xin",
+        "YKang",
+        "Xiao Lan Hua"
+      ],
+      "titles": [
+        "Love Between Fairy and Devil",
+        "Love Game in Eastern Fantasy",
+        "Next Stop, Happiness",
+        "Youth With You 2"
+      ]
+    },
+    "keywords": [
+      "Yu Shu Xin Weibo trend",
+      "Yu Shu Xin Republic-era heiress",
+      "Love Between Fairy and Devil",
+      "Love Game in Eastern Fantasy"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/Dyy2rn_2d.jpg",
+        "caption": "Yu Shu Xin Captivates Fans and Dominates Weibo With 1920s Shanghai Heiress Aesthetic",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 13:10:25 +0000"
+  },
+  "1qi963w": {
+    "id": "1qi963w",
+    "type": "news",
+    "headline": "Drummer Boy North America Box Office: Makes History For Angel Studios With 3rd Biggest Live-Action Debut Ever!",
+    "dek": "Joel David Smallbone's historical music romance Drummer Boy has exceeded expectations at the North American box office with a strong $9.2 million opening weekend.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Debut",
+        "p": [
+          "The historical drama Drummer Boy, headlined by Joel David Smallbone, has achieved a notable debut at the North American box office. Industry trackers had anticipated strong numbers, and the film successfully landed in the top 3 of regional box office rankings.",
+          "The project has managed to secure one of the most prominent opening weekends ever recorded for a live-action release from Angel Studios. This performance highlights the growing commercial appeal of the studio's theatrical offerings."
+        ]
+      },
+      {
+        "h": "Opening Weekend Numbers and Theater Count",
+        "p": [
+          "According to data from Box Office Mojo, Drummer Boy surpassed initial industry projections by pulling in an opening weekend total of $9.2 million. This financial milestone was achieved across a substantial footprint of 2,850 theaters throughout North America.",
+          "The weekend haul was heavily supported by positive word-of-mouth from audiences. Viewers awarded the historical music romance a solid 94% approval rating on Rotten Tomatoes, setting a positive trajectory for its ongoing theatrical run."
+        ]
+      },
+      {
+        "h": "Competition at the Box Office",
+        "p": [
+          "Securing a spot in the top 3 is considered a commendable achievement given the fierce competition during its opening weekend. The historical drama had to contend against major theatrical forces, including a monster movie like Godzilla and a high-budget animated film.",
+          "Despite facing such formidable counter-programming, the feature held its ground remarkably well. Its ability to attract audiences amidst heavy studio competition underscores its distinct appeal in the current market."
+        ]
+      },
+      {
+        "h": "Comparison With Other Angel Studios Releases",
+        "p": [
+          "The film's $9.2 million opening weekend comfortably outperformed the debut figures of several other prominent studio titles. Among the releases it surpassed are Solo Mio at $7.2 million, Cabrini at $7.2 million, Runner at $6.2 million, and Homestead at $6.1 million.",
+          "Within the history of Angel Studios' live-action catalog, only a few titles have posted higher opening figures. These include David at $22 million, Young Washington at $20.8 million, Sound of Freedom at $19.7 million, and The King of Kings at $19.4 million, though the latter is an animated release."
+        ]
+      },
+      {
+        "h": "Premise and Themes of the Historical Drama",
+        "p": [
+          "Set against the dramatic backdrop of the American Revolution, the narrative follows a young drummer boy, an enslaved woman, and a divided family. Each character struggles to find personal freedom amidst America's fight for independence.",
+          "Their individual journeys unfold through historical battles, personal losses, and the powerful medium of music. The story deeply explores core themes such as faith, forgiveness, and the enduring hope for a life free from oppression."
+        ]
+      },
+      {
+        "h": "Release Context and Projections",
+        "p": [
+          "Drummer Boy officially debuted in theaters on November 6. The initial box office figures rely on current estimates and various tracking sources rather than independently verified tallies.",
+          "Industry analysts remain optimistic about the film's financial viability throughout its theatrical window. Strong audience reception points toward sustained momentum in the weeks following its release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Joel David Smallbone stars in the historical music romance Drummer Boy, which achieved a top 3 finish at the North American box office with an opening weekend of $9.2 million across 2,850 theaters. Released on November 6, the film surpassed several studio projects like Solo Mio and Cabrini to secure the third-biggest live-action debut in Angel Studios history."
+        ]
+      }
+    ],
+    "facts": [
+      "Joel David Smallbone leads the film Drummer Boy.",
+      "Drummer Boy opened with $9.2 million at the North American box office.",
+      "The film played across 2,850 theaters in North America.",
+      "Drummer Boy received a 94% audience score on Rotten Tomatoes.",
+      "Solo Mio opened with $7.2 million.",
+      "Cabrini opened with $7.2 million.",
+      "Runner opened with $6.2 million.",
+      "Homestead opened with $6.1 million.",
+      "David opened with $22 million.",
+      "Young Washington opened with $20.8 million.",
+      "Sound of Freedom opened with $19.7 million.",
+      "The King of Kings opened with $19.4 million.",
+      "Drummer Boy was released on November 6."
+    ],
+    "entities": {
+      "people": [
+        "Joel David Smallbone"
+      ],
+      "titles": [
+        "Drummer Boy",
+        "Solo Mio",
+        "Cabrini",
+        "Runner",
+        "Homestead",
+        "David",
+        "Young Washington",
+        "Sound of Freedom",
+        "The King of Kings"
+      ]
+    },
+    "keywords": [
+      "Drummer Boy film",
+      "Joel David Smallbone Drummer Boy",
+      "Drummer Boy box office",
+      "Angel Studios Drummer Boy"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/drummer-boy-north-america-box-office-angel-studios-scores-big-as-historical-music-romance-beats-expectations-01.jpg",
+        "caption": "Drummer Boy North America Box Office: Makes History For Angel Studios With 3rd Biggest Live-Action Debut Ever!",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 13:02:54 +0000"
   }
 };
