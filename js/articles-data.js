@@ -99552,5 +99552,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 19:30:00 +0000"
+  },
+  "5kuq9t": {
+    "id": "5kuq9t",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor, Yash Film Nears Rs 500 Crore Club",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana: Part 1 is unstoppable, crossing the Rs 400 crore milestone globally within four days and closing in on the Rs 500 crore mark.",
+    "body": [
+      {
+        "h": "Box Office Triumph",
+        "p": [
+          "The theatrical run of Ramayana: Part 1 has taken the entertainment industry by storm, performing phenomenally since its release. Audiences, critics, and film celebrities alike have showered appreciation on the mythological epic directed by Nitesh Tiwari.",
+          "With extraordinary momentum across domestic and international territories, the movie wrapped up its first four days in cinemas with massive financial returns, pushing it to the brink of a major milestone."
+        ]
+      },
+      {
+        "h": "Global and Domestic Figures",
+        "p": [
+          "According to tracking data from Sacnilk, the feature added Rs 56.15 crore to its tally in India on its fourth day alone. This single day performance elevated the total domestic gross earnings to Rs 285.20 crore.",
+          "Simultaneously, the international market contributed heavily with Rs 45 crore overseas, bringing the total foreign collection to Rs 214 crore. Combined, the worldwide box office figures reached Rs 499.20 crore, needing just Rs 80 lakh more to officially enter the Rs 500 crore club."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "The grand production features a prominent ensemble cast led by Ranbir Kapoor as Lord Rama and Bhagwan Parshuram, Yash as Ravana, and Sai Pallavi as Goddess Sita.",
+          "Aside from the primary trio, the supporting cast includes Ravie Dubey, Lara Dutta, Kunal Kapoor, Rakul Preet Singh, and Vivek Oberoi, bringing scale to the multi-part project."
+        ]
+      },
+      {
+        "h": "Scale and Production",
+        "p": [
+          "Both parts of the ambitious cinematic adaptation of the epic have been constructed on a staggering budget totaling Rs 4000 crore. The sheer magnitude of the production is reflected in its visual presentation and extensive cast.",
+          "While the film continues its theatrical run, a digital home has already been secured for later viewing, with confirmation that it will eventually stream on JioHotstar though an official premiere date remains unannounced."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor on the Role",
+        "p": [
+          "In a behind-the-scenes promotional feature, lead actor Ranbir Kapoor reflected on the weight of portraying Lord Rama. He emphasized that the character's defining strength lies not in his weaponry, but in his capacity for forgiveness.",
+          "The actor noted that taking on the assignment felt less like accepting a standard movie offer and more like shouldering a profound duty, where success depended on honoring the faith audiences place in the source material."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana: Part 1 has achieved massive financial success globally within four days of its November 5 theatrical release, reaching a worldwide gross of Rs 499.20 crore. Backed by a massive budget and a star-studded cast featuring Ranbir Kapoor, Yash, and Sai Pallavi, the film is on the verge of hitting the Rs 500 crore milestone while also planning a future digital release on JioHotstar."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 was released on November 5, 2026.",
+      "The film earned Rs 56.15 crore on day four in India.",
+      "Domestic gross earnings reached Rs 285.20 crore.",
+      "Overseas collections reached Rs 214 crore.",
+      "Total worldwide collection stood at Rs 499.20 crore on day four.",
+      "The total budget for both parts of Ramayana is Rs 4000 crore.",
+      "The film will stream on JioHotstar in the future."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Lara Dutta",
+        "Kunal Kapoor",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Part 1 collection",
+      "Nitesh Tiwari Ramayana movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156483907,thumbsize-137594,width-1280,height-720,resizemode-75/156483907.jpg",
+        "caption": "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor, Yash Film Nears Rs 500 Crore Club",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T21:52:11Z"
+  },
+  "a05hig": {
+    "id": "a05hig",
+    "type": "news",
+    "headline": "VisionQuest Season 1 Finale: Release Date, Time, and What to Expect",
+    "dek": "Everything you need to know about the final episode of Marvel's VisionQuest on Disney+, including release schedules, episode counts, and future season prospects.",
+    "body": [
+      {
+        "h": "The Conclusion of the WandaVision Trilogy",
+        "p": [
+          "Marvel's latest streaming venture is reaching its dramatic climax. The kooky conclusion to the WandaVision trilogy is almost here, drawing massive fan interest as it wraps up its debut run.",
+          "Viewers have eagerly followed the narrative arc across the platform, setting the stage for an explosive final chapter that promises major surprises."
+        ]
+      },
+      {
+        "h": "Episode Count and Finale Details",
+        "p": [
+          "Season 1 of the series consists of a total of eight episodes. The seventh chapter has already dropped, leaving only the final installment left to air.",
+          "The upcoming eighth episode bears the title 'Forever.' Promotional material for this final chapter teases a unique combination of overarching vision and unexpected plot twists."
+        ]
+      },
+      {
+        "h": "Release Schedule and Streaming Time",
+        "p": [
+          "Fans tuning in for the conclusion will want to mark their calendars. The season finale is scheduled to premiere on Tuesday, November 10 at 9:01 p.m. ET.",
+          "The episode will be available exclusively for streaming on Disney+, where the previous seven installments are currently hosted for catch-up viewing."
+        ]
+      },
+      {
+        "h": "Is This the End or Will There Be a Season 2?",
+        "p": [
+          "While marketed as a limited series, promotional phrasing has sparked intense speculation. Marvel's promotional spots refer to the broadcast as a 'season finale' rather than a 'series finale,' prompting questions about potential continuation.",
+          "Creator and showrunner Terry Matalas addressed the possibility of a second season during a March 2026 interview. He noted that the decision rests with Marvel and Disney, while acknowledging that the characters inhabit a distinct corner of the universe and could theoretically return."
+        ]
+      },
+      {
+        "h": "Subscription Options and Platform Pricing",
+        "p": [
+          "Audiences hoping to catch the finale can choose from several Disney+ subscription tiers. The ad-supported plan is priced at $12.49 per month, while ad-free options run $21.49 monthly or $214.99 annually.",
+          "Bundled packages combining Disney+ with services like Hulu and Max are also available for viewers looking to combine multiple streaming libraries."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The eighth and final episode of VisionQuest's first season premieres on Disney+ on Tuesday, November 10 at 9:01 p.m. ET. While creator Terry Matalas leaves the door open for future installments, no official Season 2 has been confirmed yet."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest Season 1 consists of eight episodes.",
+      "Episode 8 is titled 'Forever.'",
+      "The season finale premieres on Tuesday, November 10 at 9:01 p.m. ET on Disney+.",
+      "Terry Matalas is the creator and showrunner of VisionQuest.",
+      "Disney+ subscriptions cost $12.49/month with ads and $21.49/month or $214.99/year without ads."
+    ],
+    "entities": {
+      "people": [
+        "Terry Matalas",
+        "Paul Bettany"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision"
+      ]
+    },
+    "keywords": [
+      "VisionQuest",
+      "VisionQuest Episode 8",
+      "Disney plus",
+      "Terry Matalas"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/10/visionquest-2.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "VisionQuest Season 1 Finale: Release Date, Time, and What to Expect",
+        "source": "Decider"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 16:00:00 -0500"
+  },
+  "112ihut": {
+    "id": "112ihut",
+    "type": "news",
+    "headline": "Kamal Haasan Net Worth: Exploring The Legendary Star's Reported Rs 450 Crore Empire",
+    "dek": "As veteran actor Kamal Haasan begins shooting for his upcoming project Sandiyar, we delve into his estimated Rs 450 crore financial empire, featuring luxury cars, valuable real estate, and massive film remuneration.",
+    "body": [
+      {
+        "h": "Introduction To The Superstar's Wealth",
+        "p": [
+          "Kamal Haasan remains one of the absolute titans of Indian cinema, boasting a career that spans several decades. Born on November 7, 1954, the veteran performer has transitioned remarkably from a child artist to a celebrated superstar primarily anchored in Tamil cinema.",
+          "Beyond his regional stronghold, he has successfully worked across multiple Indian film industries, including Hindi, Telugu, and Malayalam cinema. As he commences shooting for his upcoming venture Sandiyar, public interest has naturally gravitated toward the scale of his massive financial standing."
+        ]
+      },
+      {
+        "h": "Estimated Net Worth And Financial Scale",
+        "p": [
+          "Reports circulating across various media platforms estimate Kamal Haasan's total net worth to be approximately Rs 450 crore. This extensive financial empire has been built over many years of dedicated work in the entertainment industry, encompassing diverse revenue streams.",
+          "While these figures are derived from public information and media reports rather than official declarations, they highlight the immense commercial value and enduring market stature of the 72-year-old actor."
+        ]
+      },
+      {
+        "h": "Lucrative Acting Fees And Remuneration",
+        "p": [
+          "Acting remains the primary source of wealth for the veteran star, who commands some of the highest remuneration figures in South Indian cinema. According to reports from CNBC TV18, he typically charges around Rs 100 crore per project.",
+          "Demonstrating his formidable box office pull, reports from News Minute further indicate that he demanded a staggering Rs 150 crore to reprise his iconic character in the sequel Indian 2."
+        ]
+      },
+      {
+        "h": "Raaj Kamal Films International Ventures",
+        "p": [
+          "In addition to his acting income, Kamal Haasan has established a strong foothold on the business side of filmmaking through his own production banner. He founded Raaj Kamal Films International in the year 1981.",
+          "The production house launched its cinematic journey with Raja Paarvai in 1981, subsequently backing notable projects over the years such as Amavasya Chandrudu, Kadamai Kanniyam Kattupaadu, and Magalir Mattum."
+        ]
+      },
+      {
+        "h": "Luxury Cars And Garage Collection",
+        "p": [
+          "The superstar's affinity for luxury is clearly reflected in his impressive collection of high-end vehicles. His garage houses some of the most expensive rides available on the market.",
+          "Notable vehicles owned by the actor include a Lexus LX 570 valued at Rs 2.8 crore and a sophisticated BMW 730LD priced at approximately Rs 1.37 crore, among other luxury acquisitions."
+        ]
+      },
+      {
+        "h": "Extensive Real Estate Portfolio In Chennai",
+        "p": [
+          "Real estate forms a substantial component of the actor's reported Rs 450 crore empire, with multiple high-value assets located primarily in Chennai. According to reports cited by News Minute, he owns agricultural land valued at Rs 17.79 crore.",
+          "Additionally, the star possesses two luxurious residential flats priced at a combined total of Rs 19.5 crore, alongside commercial properties whose market value is estimated to be around Rs 92.05 crore."
+        ]
+      },
+      {
+        "h": "Current Work Front And Upcoming Projects",
+        "p": [
+          "Kamal Haasan continues to maintain an active schedule in cinema. He was last seen on the big screen in the Mani Ratnam-directed action drama Thug Life, which received a theatrical release on June 5, 2025.",
+          "Looking ahead, his upcoming slate includes Seyon, a Tamil film directed by Sivakumar Murugesan featuring Bhagyashri Borse, Raj B. Shetty, and Bala Saravanan, alongside S U Arun Kumar's action thriller Sandiyar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Kamal Haasan has built an estimated Rs 450 crore financial empire through his illustrious career in Indian cinema, commanding massive acting fees and owning valuable properties and luxury vehicles.",
+          "With production ventures like Raaj Kamal Films International and upcoming cinematic projects such as Sandiyar and Seyon, the 72-year-old superstar maintains his dominant presence in the entertainment industry."
+        ]
+      }
+    ],
+    "facts": [
+      "Kamal Haasan was born on November 7, 1954.",
+      "Kamal Haasan's net worth is estimated at Rs 450 crore.",
+      "He charges Rs 100 crore per project according to CNBC TV18.",
+      "He demanded Rs 150 crore to reprise his character in Indian 2.",
+      "He started his production house Raaj Kamal Films International in 1981.",
+      "The first film under his banner was Raja Paarvai in 1981.",
+      "He owns a Lexus LX 570 worth Rs 2.8 crore and a BMW 730LD valued at Rs 1.37 crore.",
+      "He owns agricultural land worth Rs 17.79 crore, two flats priced at Rs 19.5 crore, and commercial properties valued at Rs 92.05 crore.",
+      "Thug Life was released theatrically on June 5, 2025.",
+      "Seyon is directed by Sivakumar Murugesan and made on a budget of Rs 35 crore.",
+      "Sandiyar is an action thriller directed by S U Arun Kumar."
+    ],
+    "entities": {
+      "people": [
+        "Kamal Haasan",
+        "Mani Ratnam",
+        "Sivakumar Murugesan",
+        "Bhagyashri Borse",
+        "Raj B. Shetty",
+        "Bala Saravanan",
+        "S U Arun Kumar",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "Sandiyar",
+        "Thug Life",
+        "Indian 2",
+        "Seyon",
+        "Raja Paarvai",
+        "Amavasya Chandrudu",
+        "Kadamai Kanniyam Kattupaadu",
+        "Magalir Mattum"
+      ]
+    },
+    "keywords": [
+      "Kamal Haasan net worth",
+      "Sandiyar film",
+      "Raaj Kamal Films International",
+      "Kamal Haasan properties cars",
+      "Thug Life movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156484778,thumbsize-746955,width-1280,height-720,resizemode-75/156484778.jpg",
+        "caption": "Kamal Haasan Net Worth: Exploring The Legendary Star's Reported Rs 450 Crore Empire",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T21:52:11Z"
+  },
+  "18yu46s": {
+    "id": "18yu46s",
+    "type": "news",
+    "headline": "Coronation Street Teases Emotional Reconciliation Between Abi and Kevin",
+    "dek": "Recent episodes of Coronation Street highlight Abi's deep regret and lingering feelings for Kevin after a special focused gathering of friends.",
+    "body": [
+      {
+        "h": "Abi Contemplates Reconnecting With Kevin",
+        "p": [
+          "In the final moments of a recent installment of Coronation Street, viewers watched as Abi stood outside Kevin's home. She raised her hand to knock on the door before losing her nerve and walking away from the property.",
+          "The mechanic has been battling intense regret after her infidelity with Carl, Kevin's nephew. This hesitant visit strongly indicates that she might be yearning to mend their broken relationship, though she remains visibly torn about taking the next step."
+        ]
+      },
+      {
+        "h": "Cast Perspectives And Future Obstacles",
+        "p": [
+          "Back in September, actor Sally Carman-Duttine expressed her enthusiasm for an eventual reunion between her character Abi and Kevin. However, any potential path toward forgiveness will not be straightforward.",
+          "Reports indicate that Abi is poised to stumble back into several problematic behavioral patterns as the festive season approaches, which could complicate her personal life further."
+        ]
+      },
+      {
+        "h": "The Special Debbie's Angels Episode",
+        "p": [
+          "Just before the poignant scene at Kevin's door, the narrative centered around a special standalone episode titled 'Debbie's Angels'. Hotel owner Debbie organized a social gathering involving five of her closest friends.",
+          "The afternoon event brought together Debbie, Abi, Bernie, Christina, Sally, and Glenda. What was meant to be a lighthearted get-together quickly evolved into an emotional session filled with reflection on long-standing tensions and past mistakes."
+        ]
+      },
+      {
+        "h": "Shared Vulnerability And Past Regrets",
+        "p": [
+          "During the gathering, a deeply personal conversation unfolded between Abi and Christina. Christina expressed her heartache over being separated from her granddaughter Lucy and her deceased daughter Rachel, whom she had placed for adoption as a teenager.",
+          "In a moment of matching vulnerability, Abi opened up about her own past, sharing that she had also given up her twins, Charlie and Lexi, because she lacked the proper mindset to raise them during that period of her life."
+        ]
+      },
+      {
+        "h": "Emotional Outbursts And Friendships",
+        "p": [
+          "The heavy atmosphere eventually triggered a dramatic reaction from Christina, who directed harsh insults at Glenda regarding her childless status before storming off from the group. Abi and Glenda subsequently teamed up to track her down.",
+          "During their search, Glenda confessed her longing for companionship. Abi offered an encouraging pep talk, urging her friend to recognize her own worth and stop undermining herself."
+        ]
+      },
+      {
+        "h": "Candlelit Reflections And Gratitude",
+        "p": [
+          "The search party successfully located Christina alongside Sally, leading to a tearful apology and reconciliation. The women then regrouped to light candles and voice the things they felt genuinely thankful for.",
+          "During this reflective exercise, Abi highlighted her ongoing sobriety, her supportive friends, and her son Alfie. She described Alfie as her ultimate chance to finally get parenting right."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Coronation Street recently focused on an emotional special episode featuring Debbie and her friends, leading to deep personal reflections and revelations about past adoptions. At the close of the episode, Abi showed clear signs of regret regarding her relationship with Kevin as she nearly knocked on his door. Fans can continue following these dramatic storylines as the show airs on weekday evenings."
+        ]
+      }
+    ],
+    "facts": [
+      "Sally Carman-Duttine plays Abi in Coronation Street",
+      "The special episode is titled Debbie's Angels",
+      "Abi gave up her twins Charlie and Lexi for adoption in the past",
+      "Abi has a son named Alfie",
+      "Coronation Street airs on weeknights at 8.30pm on ITV1 and streams on ITVX"
+    ],
+    "entities": {
+      "people": [
+        "Sally Carman-Duttine",
+        "Abi",
+        "Kevin",
+        "Carl",
+        "Debbie",
+        "Bernie",
+        "Christina",
+        "Sally",
+        "Glenda",
+        "Lucy",
+        "Rachel",
+        "Charlie",
+        "Lexi",
+        "Alfie"
+      ],
+      "titles": [
+        "Coronation Street",
+        "Debbie's Angels"
+      ]
+    },
+    "keywords": [
+      "Coronation Street Abi Kevin",
+      "Sally Carman-Duttine Coronation Street",
+      "Debbies Angels Coronation Street",
+      "Abi and Kevin relationship"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/782c5246-f547-43f5-8510-aa1d31d515b6.jpg?crop=0.749xw:0.675xh;0.0912xw,0.0526xh&amp;resize=1200:*",
+        "caption": "Coronation Street Teases Emotional Reconciliation Between Abi and Kevin",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 21:00:00 +0000"
   }
 };

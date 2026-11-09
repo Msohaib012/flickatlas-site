@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T21:19:59Z",
-    "run_id": "42524621209",
-    "status": "success",
-    "checked": {
-     "candidates": 199,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "If You’re Looking For A Christmas Movie Outside Of Netflix And Hallmark, Hulu Has You Covered This Week",
-      "Tom Hiddleston's Near-Perfect Apple TV Miniseries Gets Better With Every Episode",
-      "‘Black Widow’ Meets ‘Killing Eve’ in HBO Max’s Official Smash Hit",
-      "John Wayne’s Final Movie Is Officially Getting a New Streaming Release",
-      "32 Years Later, an Unmade Godzilla Movie Finally Comes to Life in a 'Minus Zero' Deep Cut",
-      "7 Sci-Fi TV Masterpieces That Feel Like Documentaries In 2026",
-      "BBC's Classic WWII Series From 45 Years Ago Is Getting A Reboot",
-      "PlayStation 6 Unveiling Date Leaked Ahead Of Official Confirmation",
-      "‘Passing Strange’ Comes to Pasadena Playhouse: Creators Stew and Heidi Rodewald on the Rock Musical Reaching L.A. Almost Two Decades After Tony-Winning Broadway Run",
-      "Maya Jama Exits ‘Love Island U.K.’ as Host After 9 Seasons: ‘All Good Things Must Come to an End’",
-      "Charlie Kirk’s Widow Calls Jokes About Him “Beyond Disgusting” After Outcry Over Dave Chappelle Stand-Up",
-      "Stephen Colbert Evacuated From Harvard Event Due to Fire Alarm After Being Accused of Crossing Picket Line",
-      "Ben Affleck’s Animals Proves the Perils of AI Shortcuts in Hollywood",
-      "What Time is ‘The Gilded Age’ On Tonight?",
-      "Red Velvet's Joy Debuts Short Hair Before One-Of-A-Kind Romance Return",
-      "Jun Ji Hyun's Unseen Vogue Photos Show Off Kickboxing-Toned Arms",
-      "My Love from the Star's Director Brings Love and Wifi in the Palace",
-      "Seolhyun Runs 11 km in Pouring Rain Ahead of Netflix's Tantara",
-      "xikers Achieves Career High With 1st-Week Sales For “ROUTE ZERO : The CALLING”",
-      "ILLIT Breaks Their 1st-Week Sales Record With “BREAK EVEN”"
-     ],
-     "updated": [],
-     "count": 187,
-     "detail": "199 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-08T22:51:32Z",
     "run_id": "42532228089",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "379 stories, 0 duplicates removed, 57 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T21:20:27Z",
-    "run_id": "42524621209",
+    "run_at": "2026-11-09T21:51:50Z",
+    "run_id": "42706301078",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 322,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Why Tom Hiddleston and Claire Danes' Victorian Period Drama Continues to Captivate Viewers",
-      "Music Director Viju Shah Reminisces About Electronic Soundscapes",
-      "Hulu Premieres The 12 Dates Of Christmas Starring Lucy Hale and Ian Harding",
-      "Abhay Arora Discusses Transforming Into Lord Parshuram for Ramayana: Part 1"
+      "Buyers Posted Scathing Reviews Aimed At ‘Kimberly’ After SKIMS’ Advent Calendar Underwhelmed",
+      "Netflix’s A Dog’s Perfect Christmas Made Me Cry, But Not For The Reasons I Thought",
+      "PSA: Henry Cavill's Back With The Mustache For Movember (And Totally Pulls It Off)",
+      "3 Elite Netflix Series to Binge This Week (Nov 9-13)",
+      "TV's Biggest ‘Lincoln Lawyer’ Replacement Officially Takes Over Netflix",
+      "NBC’s 2-Season Post-Apocalyptic Sci-Fi Is the Perfect ‘The Last of Us’ Replacement",
+      "Star Trek’s Cold War Thriller Officially Sets New Release 35 Years Later",
+      "A 'Game of Thrones' Star's Divisive Thriller Officially Gets Its Streaming Redemption 2 Years Later",
+      "Sam Neill Posthumously Appears in Hilarious The Fox Trailer, Olivia Colman & More Also Star",
+      "The Conjuring’s Vera Farmiga Joins New Supernatural Horror Movie as Fans Want Last Rites Sequel",
+      "Sinners Star Joins Denzel Washington in Mission: Impossible Director’s New Thriller Movie",
+      "Brad Pitt Dog Movie Heart of the Beast Sets Digital & Blu-ray Release Dates With New Content",
+      "Resident Evil’s Massive Streaming Success Has Fans Thinking a Big Sequel Announcement Is Coming",
+      "Gwyneth Paltrow’s Next Netflix Show Is a Big Departure From Her Typical Roles",
+      "Guardians of the Galaxy Vol. 4 Seems Likely After James Gunn’s DC Exit, Fans Believe",
+      "Nicholas Hoult’s Unexpected Role Arrives in New Movie Trailer as James Bond Casting Heats Up",
+      "Watch: Disney's Holiday Short 'The Invisible Horse' by Dougal Wilson",
+      "HBO Max & Paramount+ Bundle Officially Confirms Release Window",
+      "Netflix Officially Adapting One of the Most Iconic Board Games of All Time in New Live-Action Movie",
+      "'The Walking Dead' Gets a Martial Arts Twist in Netflix's 2-Part Apocalypse Series"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 303,
+     "detail": "306 stories, 0 duplicates removed, 16 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-09T21:52:11Z",
+    "run_id": "42706301078",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor, Yash Film Nears Rs 500 Crore Club",
+      "VisionQuest Season 1 Finale: Release Date, Time, and What to Expect",
+      "Kamal Haasan Net Worth: Exploring The Legendary Star's Reported Rs 450 Crore Empire",
+      "Coronation Street Teases Emotional Reconciliation Between Abi and Kevin"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-08T23:52:31Z",
-    "run_id": "42537096746",
-    "status": "success",
-    "checked": {
-     "candidates": 275,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 261, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 263, coming 16"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-08T21:20:29Z",
-    "run_id": "42524621209",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-09T21:52:11Z",
+    "run_id": "42706301078",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 279,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 263, coming 16"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2451,27 +2434,26 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T21:20:27Z",
-    "run_id": "42524621209",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-09T21:52:13Z",
+    "run_id": "42706301078",
     "status": "success",
     "checked": {
-     "candidates": 625,
-     "detail": "620 collected staging rows from readers; 211 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 617 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2885,19 +2867,27 @@
      "detail": "+0 new rows, 7 updated rows, 618 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T21:52:11Z",
+    "run_id": "42706301078",
+    "status": "success",
+    "checked": {
+     "candidates": 632,
+     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 621 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3134,32 +3124,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-08T21:20:29Z",
-    "run_id": "42524621209",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Why Tom Hiddleston and Claire Danes' Victorian Period Drama Continues to Captivate Viewers",
-      "Hulu Premieres The 12 Dates Of Christmas Starring Lucy Hale and Ian Harding",
-      "Abhay Arora Discusses Transforming Into Lord Parshuram for Ramayana: Part 1",
-      "Music Director Viju Shah Reminisces About Electronic Soundscapes"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3696,19 +3673,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-09T21:52:12Z",
+    "run_id": "42706301078",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor, Yash Film Nears Rs 500 Crore Club",
+      "VisionQuest Season 1 Finale: Release Date, Time, and What to Expect",
+      "Kamal Haasan Net Worth: Exploring The Legendary Star's Reported Rs 450 Crore Empire",
+      "Coronation Street Teases Emotional Reconciliation Between Abi and Kevin"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3982,19 +3972,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4316,31 +4306,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-08T21:20:27Z",
-    "run_id": "42524621209",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 187 still unprocessed; today by category: movies 12/6, tv_dramas 14/4, episodes 0/2, box_office 15/6, celebrities_events 12/5, upcoming_releases 3/4, ott_streaming 7/4, trailers 0/3, awards 2/2, music_ost 4/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Why Tom Hiddleston and Claire Danes' Victorian Period Drama Continues to Captivate Viewers",
-      "Music Director Viju Shah Reminisces About Electronic Soundscapes",
-      "Hulu Premieres The 12 Dates Of Christmas Starring Lucy Hale and Ian Harding",
-      "Abhay Arora Discusses Transforming Into Lord Parshuram for Ramayana: Part 1"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4846,19 +4824,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-09T21:52:10Z",
+    "run_id": "42706301078",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 303 still unprocessed; today by category: movies 11/6, tv_dramas 12/4, episodes 0/2, box_office 24/6, celebrities_events 16/5, upcoming_releases 5/4, ott_streaming 10/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor, Yash Film Nears Rs 500 Crore Club",
+      "VisionQuest Season 1 Finale: Release Date, Time, and What to Expect",
+      "Kamal Haasan Net Worth: Exploring The Legendary Star's Reported Rs 450 Crore Empire",
+      "Coronation Street Teases Emotional Reconciliation Between Abi and Kevin"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5179,24 +5169,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 448,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5541,19 +5526,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 383,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5828,19 +5818,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6090,19 +6085,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6337,19 +6332,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6636,19 +6631,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6889,19 +6884,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7131,19 +7126,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7392,6 +7387,16 @@
     "category": "Trending News",
     "run_at": "2026-11-09T20:56:04Z",
     "run_id": "42696783813",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7907,16 +7912,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-08T23:03:32Z",
     "run_id": "42532228089",
     "status": "skipped",
@@ -8153,19 +8148,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-08T21:20:37Z",
-    "run_id": "42524621209",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8415,8 +8410,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-09T21:52:23Z",
+    "run_id": "42706301078",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-09T20:56:04Z"
+ "updated_at": "2026-11-09T21:52:23Z"
 }
