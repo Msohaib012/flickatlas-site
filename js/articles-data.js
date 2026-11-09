@@ -97517,5 +97517,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 15:37:45 +0000"
+  },
+  "bjzoib": {
+    "id": "bjzoib",
+    "type": "news",
+    "headline": "Samantha Ruth Prabhu Shares Casual Baby Bump Photo In Lieu Of Traditional Maternity Shoot",
+    "dek": "Telugu actor Samantha Ruth Prabhu opted for a relaxed couch lounging photo instead of a high-fashion maternity shoot, delighting her followers.",
+    "body": [
+      {
+        "h": "A Casual Approach To Maternity Photography",
+        "p": [
+          "In a departure from the conventional, highly styled celebrity pregnancy photoshoots, prominent actor Samantha Ruth Prabhu has chosen a much more casual route. Instead of elaborate gowns and professional studio lighting, she offered her social media followers a glimpse of her pregnancy through an everyday, laid-back image.",
+          "The candid photograph features the expectant mother lounging comfortably on a living room couch. Rather than staging a formal setup, she kept her attire simple yet stylish, wearing a vibrant red top paired with white trousers and dark sunglasses while gently resting her hand upon her growing baby bump."
+        ]
+      },
+      {
+        "h": "Playful Social Media Caption",
+        "p": [
+          "Accompanying the relaxed image was a characteristically witty and short caption that immediately caught the attention of internet users. Instead of a long emotional reflection, the actor humorously defined the snapshot for her audience by writing, 'Consider this my maternity shoot.'",
+          "This lighthearted statement resonated strongly with fans who appreciated the lack of pretense. By poking fun at traditional celebrity tropes surrounding pregnancy announcements, she turned a simple couch snapshot into an endearing viral moment."
+        ]
+      },
+      {
+        "h": "Warm Outpouring From Fans",
+        "p": [
+          "The comment section of the post quickly filled up with affectionate messages, witty remarks, and congratulatory notes from her massive following. Many admirers praised her effortless style and down-to-earth approach during this significant personal milestone.",
+          "Among the thousands of reactions, one enthusiastic follower dubbed her the 'coolest mommy-to-be ever.' Other fans chimed in with playful banter, suggesting that her unborn child was already stealing the spotlight or predicting the arrival of a 'junior samantha' in the near future."
+        ]
+      },
+      {
+        "h": "Marriage And Family Beginnings",
+        "p": [
+          "This exciting chapter follows the marriage of Samantha and her husband, Raj Nidimoru, who tied the knot in a private ceremony. Their wedding took place at the Isha Yoga Centre located in the city of Coimbatore.",
+          "Continuing their celebrations close to their roots, the couple also participated in a traditional baby shower ceremony. Known locally as Seemantham, this meaningful ritual was similarly hosted at the Isha Foundation in Coimbatore."
+        ]
+      },
+      {
+        "h": "Announcement And Career Intermission",
+        "p": [
+          "The public pregnancy announcement was made earlier in the year during a celebratory event. In June 2026, while attending the success meet for her cinematic project in Hyderabad, she shared the happy news directly with the media and her supporters.",
+          "During the same interaction, she informed her fanbase that she would be stepping away from professional commitments temporarily. She explained that taking a structured break after finishing her current projects would allow her to dedicate her full attention to motherhood before eventually returning to the big screen."
+        ]
+      },
+      {
+        "h": "Recent Cinematic Success",
+        "p": [
+          "Before stepping back from her active filming schedule, the actor delivered a major commercial success with her venture titled 'Maa Inti Bangaaram'. Alongside starring in the leading role, she also took on co-production responsibilities for the project.",
+          "The film performed exceptionally well in theaters, eventually crossing the significant milestone of Rs 100 crore at the box office. Her last appearance on the big screen thus marked a high point in her professional career just prior to her pregnancy journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Samantha Ruth Prabhu shared a casual couch photograph of her baby bump with a playful caption instead of a traditional glamorous maternity shoot. Fans responded warmly to the relaxed post, celebrating her upcoming journey into motherhood alongside her husband Raj Nidimoru following her recent cinematic success with 'Maa Inti Bangaaram'."
+        ]
+      }
+    ],
+    "facts": [
+      "Samantha Ruth Prabhu is expecting her first child with husband Raj Nidimoru.",
+      "The couple got married at the Isha Yoga Centre in Coimbatore on December 1, 2025.",
+      "The traditional baby shower, known as Seemantham, took place at the Isha Foundation in Coimbatore.",
+      "She announced her pregnancy in June 2026 at the Hyderabad success meet of her film 'Maa Inti Bangaaram'.",
+      "'Maa Inti Bangaaram' crossed Rs 100 crore at the box office."
+    ],
+    "entities": {
+      "people": [
+        "Samantha Ruth Prabhu",
+        "Raj Nidimoru",
+        "Samantha Prabhu"
+      ],
+      "titles": [
+        "Maa Inti Bangaaram",
+        "Khushi",
+        "Oo Antava"
+      ]
+    },
+    "keywords": [
+      "Samantha Ruth Prabhu baby bump",
+      "Samantha Ruth Prabhu maternity shoot",
+      "Maa Inti Bangaaram box office",
+      "Samantha Prabhu Raj Nidimoru marriage"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135688002,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Samantha Ruth Prabhu Shares Casual Baby Bump Photo In Lieu Of Traditional Maternity Shoot",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-09T22:01:16+05:30"
+  },
+  "wb9rp5": {
+    "id": "wb9rp5",
+    "type": "news",
+    "headline": "Paul Giamatti and Simon Pegg Team Up for Seaside Horror Film 'Boutique'",
+    "dek": "Paul Giamatti and Simon Pegg are slated to star in Jim Gavin's upcoming directorial debut, a gothic horror film titled 'Boutique' centered around a lethal secret society.",
+    "body": [
+      {
+        "h": "Introduction to 'Boutique'",
+        "p": [
+          "The entertainment industry is buzzing with the announcement of an upcoming horror feature titled 'Boutique'. The project has generated considerable excitement as the American Film Market prepares to commence.",
+          "With a talented cast and an intriguing premise, this seaside horror venture is shaping up to be one of the most talked-about upcoming titles in independent cinema."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Acclaimed American actor Paul Giamatti and British comedy star Simon Pegg have officially signed on to headline the cast of 'Boutique'. Both actors bring immense prestige and diverse acting backgrounds to the project.",
+          "Behind the camera, Jim Gavin is taking the reins to write and direct the film. Gavin is widely recognized for his previous work creating the AMC television series 'Lodge 49'."
+        ]
+      },
+      {
+        "h": "Plot and Setting Details",
+        "p": [
+          "The narrative of 'Boutique' has been described by industry insiders as a gothic fever dream. The story transports audiences to a picturesque yet deeply unsettling English seaside community.",
+          "At the center of the plot is an American traveler, portrayed by Paul Giamatti, who finds himself entangled with a local secret society. Unbeknownst to him, this clandestine group is responsible for a terrifying series of murders."
+        ]
+      },
+      {
+        "h": "A Creative Reunion",
+        "p": [
+          "The collaboration on 'Boutique' marks a professional reunion for Paul Giamatti and Jim Gavin. Previously, Giamatti served as an executive producer on Gavin's television project 'Lodge 49'.",
+          "That earlier AMC series famously starred actor Wyatt Russell in the main role. Their established creative rapport brings a strong sense of trust and shared vision to this new cinematic endeavor."
+        ]
+      },
+      {
+        "h": "Directorial Debut Milestone",
+        "p": [
+          "For Jim Gavin, 'Boutique' represents a major career milestone as his very first feature film as a director. Having proven his storytelling capabilities in television, Gavin is now stepping onto the cinematic stage.",
+          "The transition from writing for serialized television to commanding a feature-length horror film highlights his expanding ambitions within the entertainment landscape."
+        ]
+      },
+      {
+        "h": "Market Timing and Anticipation",
+        "p": [
+          "The official unveiling of 'Boutique' coincides perfectly with the launch of the American Film Market. Projects announced during this window often generate substantial global pre-sales and distribution interest.",
+          "Fans of both Paul Giamatti and Simon Pegg will undoubtedly be watching closely for further casting updates, production schedules, and eventual release date announcements."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paul Giamatti and Simon Pegg will star in the upcoming horror film 'Boutique', directed by Jim Gavin in his feature directorial debut. The gothic seaside project features Giamatti as an American encountering a murderous secret society in England, marking a creative reunion for Giamatti and Gavin following their work on 'Lodge 49'."
+        ]
+      }
+    ],
+    "facts": [
+      "Paul Giamatti and Simon Pegg will star in 'Boutique'.",
+      "Jim Gavin is writing and directing 'Boutique'.",
+      "The American Film Market begins on November 10, 2026.",
+      "Jim Gavin created the AMC series 'Lodge 49'."
+    ],
+    "entities": {
+      "people": [
+        "Paul Giamatti",
+        "Simon Pegg",
+        "Jim Gavin",
+        "Wyatt Russell"
+      ],
+      "titles": [
+        "Boutique",
+        "Lodge 49",
+        "Debut",
+        "Only What We Carry"
+      ]
+    },
+    "keywords": [
+      "Boutique film",
+      "Paul Giamatti Boutique",
+      "Simon Pegg horror movie",
+      "Jim Gavin director"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/09104918/BOUTIQUE_PAUL-GIAMATTI_SIMON-PEGG_SEASIDE-HORROR-MOVIE_.jpg",
+        "caption": "Paul Giamatti and Simon Pegg Team Up for Seaside Horror Film 'Boutique'",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 16:16:06 +0000"
+  },
+  "1qw9sjn": {
+    "id": "1qw9sjn",
+    "type": "news",
+    "headline": "Ramayana Eyes Over ₹105 Crore India Net on Day 5 to Become Second Bollywood Film After Dhurandhar 2 With ₹100 Crore Single Day",
+    "dek": "Namit Malhotra's Ramayana crosses ₹300 crore India net in five days and eyes a historic single-day milestone, challenging Dhurandhar 2 while surpassing Jawan, Pathaan and Animal's daily peaks.",
+    "body": [
+      {
+        "h": "Milestone Box Office Figures",
+        "p": [
+          "The theatrical run of Ramayana has reached a major milestone by crossing ₹300 crore in India net collections across all languages within just five days. With cumulative figures touching ₹332.34 crore net by Monday, November 9, the Nitesh Tiwari directorial has matched the pace of Jawan while trailing only Dhurandhar 2 among Hindi-origin releases.",
+          "While initial ticket sales experienced slight variations due to the pre-Diwali release schedule, the theatrical venture has maintained impressive momentum. The provisional figures indicate a strong upward trajectory that highlights the commercial pull of the multilingual versions, including Kannada, Telugu, Tamil, and Malayalam language editions."
+        ]
+      },
+      {
+        "h": "Challenging Single-Day Records",
+        "p": [
+          "The extended Diwali holiday has triggered a massive surge in attendance, with projections pointing toward a fifth-day India net collection of over ₹105 crore. If these estimates are confirmed, the production will stand as only the second Bollywood film after Dhurandhar 2 to breach the ₹100 crore single-day net benchmark in domestic theaters.",
+          "This performance is particularly notable because the peak collection arrives on the fifth theatrical day rather than during the opening weekend rush. Previous blockbusters like Jawan, Animal, and Pathaan recorded their highest single-day totals earlier in their respective runs, whereas this title has gained substantial traction as the festive period progresses."
+        ]
+      },
+      {
+        "h": "Comparison With Industry Benchmarks",
+        "p": [
+          "A review of box office pacing places Ramayana in elite company alongside previous record-setters. Dhurandhar 2 currently holds the top position for reaching the ₹300 crore milestone in three days, while Ramayana and Jawan share the second rank by achieving the same feat in five days.",
+          "In terms of single-day highs, Dhurandhar 2 reached a peak of ₹114.85 crore on its fourth day after opening with ₹102.55 crore net. The projected ₹105 crore-plus fifth-day earnings for Ramayana would outstrip the opening figures of several major predecessors and edge close to all-time single-day records."
+        ]
+      },
+      {
+        "h": "Release Context and Timing",
+        "p": [
+          "The release pattern of the film deviates from standard blockbuster formulas by deferring its largest surge to a weekday powered by holiday festivities. While previous major hits capitalized heavily on advance weekend demand, the extended Diwali window has provided a unique catalyst for theatrical growth.",
+          "The project entered cinemas on Thursday, November 5, quickly accumulating a robust domestic baseline of ₹259.10 crore net before expanding past ₹332 crore. Concurrently, its global footprint expanded as worldwide gross figures surpassed ₹534.15 crore during the opening frame."
+        ]
+      },
+      {
+        "h": "Multilingual and Regional Impact",
+        "p": [
+          "The domestic triumph relies significantly on contributions from various regional versions distributed across the country. Audiences across southern and northern territories have responded favorably, pushing total collections higher than standard single-language releases.",
+          "This pan-Indian reach has allowed the feature to maintain strong occupancy rates and secure a dominant share of weekend theatrical revenue. Analysts note that such cross-language support remains vital for achieving rapid multi-hundred-crore milestones in the modern industry."
+        ]
+      },
+      {
+        "h": "Provisional Data and Tracking",
+        "p": [
+          "The figures circulating across industry trackers remain subject to final audits and official studio confirmations. Live tracking systems indicate exceptional numbers, but exact totals for the fifth day are expected to be officially verified in subsequent updates.",
+          "Stakeholders continue to monitor box office registers closely as the title enters its first post-holiday weekday test. The outcome of these ongoing assessments will determine the final standing of the release among contemporary Bollywood blockbusters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana has crossed ₹300 crore in India net collections within five days and is projected to earn over ₹105 crore on its fifth day. This performance places it behind only Dhurandhar 2 as the second Bollywood film to achieve a ₹100 crore single-day domestic net collection."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released on Thursday, November 5, 2026.",
+      "The film crossed ₹300 crore India net in five days, reaching ₹332.34 crore net by Monday, November 9, 2026.",
+      "Projected fifth-day India net collection is over ₹105 crore.",
+      "India net before the milestone update was ₹259.10 crore, and worldwide gross reached ₹534.15 crore.",
+      "Dhurandhar 2 holds the single-day peak record with ₹114.85 crore on Day 4 and an opening day of ₹102.55 crore."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Jawan",
+        "Pathaan",
+        "Animal",
+        "Gadar 2",
+        "Stree 2",
+        "Dhurandhar",
+        "Drishyam 3: The Conclusion",
+        "Chhaava",
+        "Pushpa 2",
+        "Godzilla Minus Zero"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana box office",
+      "Dhurandhar 2",
+      "Namit Malhotra Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028451.jpg",
+        "caption": "Ramayana Eyes Over ₹105 Crore India Net on Day 5 to Become Second Bollywood Film After Dhurandhar 2 With ₹100 Crore Sing",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 16:19:50 +0000"
+  },
+  "lvyxsq": {
+    "id": "lvyxsq",
+    "type": "news",
+    "headline": "Kanye West Breaks Record for Biggest Rap Concert in U.S. History Again in Dallas",
+    "dek": "Ye draws 83,132 fans at AT&T Stadium, setting a new milestone and grossing over $18 million in a single night.",
+    "body": [
+      {
+        "h": "Breaking Attendance Records in Dallas",
+        "p": [
+          "Kanye West has once again surpassed his own personal best by hosting the largest rap concert in United States history. Performing at the AT&T Stadium in Dallas, the artist drew a massive crowd of 83,132 fans. According to his representative, this single-night performance generated over $18 million in gross revenue, cementing its place as the fifth-highest-grossing concert in U.S. history overall.",
+          "The event took place this past Saturday and marks a continuation of a massive touring streak for the rapper throughout the year. The sheer scale of the attendance numbers highlights his enduring commercial pull despite years of controversy and public scrutiny."
+        ]
+      },
+      {
+        "h": "A Pattern of Breaking His Own Records",
+        "p": [
+          "This milestone represents the third time this year that the artist, who legally changed his name to Ye, has broken his own record for U.S. rap concert attendance. Earlier in the year, his Halloween night concert at Houston's Reliant Stadium brought in an impressive 80,210 fans. Prior to that, his two April shows at SoFi Stadium in Los Angeles each saw him sell over 74,000 tickets across two separate nights.",
+          "These consecutive high-capacity events demonstrate a growing momentum for his live performances, consistently outperforming other major hip-hop acts in terms of stadium attendance across the country."
+        ]
+      },
+      {
+        "h": "Dazzling Visual Spectacles on Stage",
+        "p": [
+          "True to his reputation for ambitious live productions, the Dallas concert featured a continuation of Ye's long history of visually striking spectacles. The setlist was packed with classic hits from his golden era, featuring special guest appearances and a centerpiece stage design. He performed atop a glowing half-orb illuminated to look like the Earth.",
+          "This setup served as a direct progression from earlier tours, which previously saw him performing on top of a fake mountain or on a moving stage suspended entirely from arena ceilings, keeping fans visually captivated throughout the night."
+        ]
+      },
+      {
+        "h": "The Road Back to U.S. Stages",
+        "p": [
+          "The recent string of stadium shows represents Ye's first performances in the United States since 2021. For several years, his shocking antisemitic comments and online posts severely alienated a large portion of his fanbase as well as major business partners, leading to a long hiatus from domestic touring.",
+          "In January, he issued a formal apology via a full-page advertisement in the Wall Street Journal, asking for forgiveness and attributing his previous outbursts to his bipolar type-1 diagnosis. He described a four-month-long manic episode of psychotic, paranoid, and impulsive behavior that heavily impacted his personal and professional life."
+        ]
+      },
+      {
+        "h": "Fan Forgiveness Versus Public Backlash",
+        "p": [
+          "While a significant portion of the public and various critics have remained skeptical or outright refused to accept his apologies, the massive attendance figures prove that tens of thousands of dedicated fans have chosen to forgive him and support his return to live music.",
+          "To put his numbers into perspective, other heavyweights in the hip-hop industry draw significantly smaller stadium crowds. For comparison, the most-attended of Jay-Z's three July concerts at New York's Yankee Stadium drew just under 46,000 fans."
+        ]
+      },
+      {
+        "h": "Independent Promotion Strategy",
+        "p": [
+          "One of the most notable aspects of Ye's current touring resurgence is the operational approach behind the scenes. Unlike most major arena acts of this scale, his concerts are independently promoted entirely without the backing of massive corporate partners like Live Nation or AEG Presents.",
+          "This independent framework places complete control over the production and ticket sales in his team's hands, making the record-breaking financial and attendance achievements even more remarkable within the modern live entertainment industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kanye West broke his own record for the largest rap concert in U.S. history by drawing 83,132 fans to Dallas' AT&T Stadium and generating over $18 million in a single night. This milestone follows previous record-breaking shows in Houston and Los Angeles earlier in the year, marking his major return to domestic touring following years of controversy."
+        ]
+      }
+    ],
+    "facts": [
+      "Kanye West drew 83,132 fans at AT&T Stadium in Dallas",
+      "The concert generated more than $18 million in reported gross revenue in a single night",
+      "It is the fifth-highest-grossing concert in U.S. history",
+      "It is the third time this year Ye has broken his own record",
+      "His Houston concert at Reliant Stadium brought in 80,210 fans on Halloween night",
+      "His two April shows at SoFi Stadium in Los Angeles saw over 74,000 tickets sold on each night",
+      "The most-attended of Jay-Z's July concerts at Yankee Stadium was just under 46,000",
+      "Ye's concerts are independently promoted without Live Nation or AEG Presents"
+    ],
+    "entities": {
+      "people": [
+        "Kanye West",
+        "Ye",
+        "Jay-Z",
+        "Jem Aswad",
+        "Richard Lloyd",
+        "Ava DuVernay",
+        "Drew McIntyre",
+        "John Cena",
+        "Russell Brand",
+        "Druski",
+        "Elizabeth Holmes",
+        "Moe Howard",
+        "Paul Howard",
+        "Dave Chappelle",
+        "Charlie Kirk",
+        "Erika Kirk",
+        "James Talarico",
+        "Emma Stone",
+        "Andrew Wallenstein",
+        "Ben Affleck",
+        "Pete Davidson",
+        "Hillary Clinton",
+        "Jennifer Hudson",
+        "Tom Cruise",
+        "Chris Rock"
+      ],
+      "titles": [
+        "Orgasmatron",
+        "Agent of Shadows",
+        "Avengers: Doomsday",
+        "Godzilla Minus Zero",
+        "Ramayana: Rise of a Legend",
+        "Cat in the Hat",
+        "La Bola Negra",
+        "Misty Green"
+      ]
+    },
+    "keywords": [
+      "Kanye West concert Dallas",
+      "Kanye West AT&T Stadium",
+      "biggest rap concert US history",
+      "Kanye West 83132 fans"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/IMG_7441-e1794242837788.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Kanye West Breaks Record for Biggest Rap Concert in U.S. History Again in Dallas",
+        "source": "Variety"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 16:49:24 +0000"
   }
 };

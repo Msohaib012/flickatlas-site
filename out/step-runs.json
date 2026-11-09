@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T16:51:02Z",
-    "run_id": "42501929421",
-    "status": "success",
-    "checked": {
-     "candidates": 305,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Diwali 2026: Priyanka Chopra, Amitabh Bachchan, Katrina Kaif, And Other Celebrities Extend Festive Wishes",
-      "Ramayana: Yash's Body Double JD Sharma Reveals Toxic Actor Performed Fight Scenes & Tandav Himself",
-      "How Brendan Fraser Helped Dwayne Johnson Land His First Hollywood Break in The Mummy Franchise?",
-      "Who Is Captain Mixon? Meet the Dexter: Resurrection Actor Everyone Is Mistaking for Dave Chappelle",
-      "Ramayana Day 5 Advance Booking Beats Opening Day, 100 Crore Plus India Gross Day in Sight",
-      "Ramayana Crosses ₹200 Crore India Net in Live Tracking as South Gross Tops Adipurush's Non-Telugu Markets by 3.4 Times",
-      "Akshay Kumar posts intimate home aarti video",
-      "Sunita is confident her marriage with Govida will sustain amid cheating allegations",
-      "Big B skips bulletproof glass: Amitabh greets Diwali crowd",
-      "In 2012, Ashton Kutcher bought space tickets for $200,000 and later sold them back on Mila Kunis’ advice",
-      "In 2025, Nicki Minaj paid off a $503,318 debt at the last minute to save her $20M mansion from an auction",
-      "Pics: Big B ditches bulletproof glass for Sunday Darshan on Diwali after threats",
-      "Tom Holland Had A ‘Real Fear’ Of Vomiting In His Spidey Suit. How It Got Fixed",
-      "Is ‘What Goes Around…’ Really About Britney Spears? Someone Finally Asked Justin Timberlake",
-      "Noah Wyle Just Blew Up The Spot Of Background Actors On The Pitt, And LOL",
-      "Brad Pitt’s 101-Minute Survival Thriller Officially Comes Home in 48 Hours",
-      "‘Yellowstone’ Star’s 98-Minute Western Officially Rides Onto Digital",
-      "8 Masterpiece Detective Shows That Are Better Than 'Sherlock'",
-      "Liam Hemsworth’s $2.9 Billion Movies & More Peacock Releases This Week",
-      "Harrison Ford's Non-Stop 130-Minute Action Thriller Masterpiece Lands New Free Streaming Home"
-     ],
-     "updated": [],
-     "count": 293,
-     "detail": "305 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-08T17:13:33Z",
     "run_id": "42503781839",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "459 stories, 4 duplicates removed, 27 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-08T16:51:35Z",
-    "run_id": "42501929421",
+    "run_at": "2026-11-09T16:51:57Z",
+    "run_id": "42658800206",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 419,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Amitabh Bachchan Remoye Bulletproof Glass For Sunday Darshan Despite Threats",
-      "Andy Weir's Project Hail Mary Receives Special Deluxe Edition Book Release",
-      "Akshay Kumar Celebrates Diwali with Family and Honors Late Parents",
-      "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential"
+      "Ramayana EXCLUSIVE! Nitish Sharma Aka Shatrughna On His One Regret: 'I Didn't Get To Share Screen With Yash'",
+      "Atlee & Priya Celebrate 12 Years Of Marriage; Share Emotional Messages About Love, Friendship And Family",
+      "The Young And The Restless Once Filmed & Aired An Actress’ Real-Life Facelift Surgery On TV",
+      "7 South OTT Releases to Watch This Week: Rajinikanth’s Jailer 2 to Vijay Deverakonda, Rashmika Mandanna’s Ranabaali",
+      "Suriya’s next film with Mandaadi director Mathimaran to be titled Padagotti? Here’s what we know",
+      "Bigg Boss Malayalam 8: Nowfina exits from Mohanlal’s show following Diwali celebrations",
+      "Ramayana Part One Box Office Early Estimates: Ranbir Kapoor and Yash starrer earns Rs. 105 Cr+ on Monday in India",
+      "Bigg Boss Tamil 10: Akshita and Asmitha exit Vijay Sethupathi’s show while Jason sacrifices his ‘Free Pass’",
+      "Top First Four Day Box Office Collections at Indian Box Office: Pushpa 2 continues to rule, Where does Ramayana stands?",
+      "Top 15 Opening Weekend (3 days) of All Time At Indian Box Office: Ramayana takes 9th spot while facing heavy pre-Diwali effect",
+      "Ramayana Part One Early Box Office Trend: Ranbir Kapoor and Yash starrer EXPLODES on Monday, Eyes Rs. 100 Cr plus day",
+      "Anirudh Ravichander and Kavya Maran Marriage: Rajinikanth jets off to Greece for wedding celebration",
+      "Ranabaali OTT Release: When and where to watch Vijay Deverakonda, Rashmika Mandanna’s period action drama",
+      "Scene Worldwide Box Office Collection: Suriya starrer storms MASSIVE Rs 120 crore globally in first weekend",
+      "11 South Films To Watch in Theaters This Week: Arjun Das starrer John Doe to Mouli’s DNK and Anaswara Rajan’s Itllu Arjuna",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer impresses overseas, Scores Rs. 500 Cr opening weekend worldwide",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer posts Rs. 234 Cr weekend in India, Outstanding in South India",
+      "Ramayana Eyes Over ₹105 Crore India Net on Day 5 to Become Second Bollywood Film After Dhurandhar 2 With ₹100 Crore Single Day",
+      "Fans react to Samantha's laid back maternity shoot picture: 'Coolest mommy-to-be ever'",
+      "Kajol shares a candid Diwali video with Ajay; writes, 'The best times are those...'"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 405,
+     "detail": "411 stories, 1 duplicates removed, 8 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-09T16:52:27Z",
+    "run_id": "42658800206",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Samantha Ruth Prabhu Shares Casual Baby Bump Photo In Lieu Of Traditional Maternity Shoot",
+      "Paul Giamatti and Simon Pegg Team Up for Seaside Horror Film 'Boutique'",
+      "Ramayana Eyes Over ₹105 Crore India Net on Day 5 to Become Second Bollywood Film After Dhurandhar 2 With ₹100 Crore Single Day",
+      "Kanye West Breaks Record for Biggest Rap Concert in U.S. History Again in Dallas"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-08T18:52:28Z",
-    "run_id": "42511994476",
-    "status": "success",
-    "checked": {
-     "candidates": 275,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 261, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 262, coming 16"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-08T16:52:59Z",
-    "run_id": "42501929421",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-09T16:52:27Z",
+    "run_id": "42658800206",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 278,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 262, coming 16"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2423,27 +2406,33 @@
      "count": 5
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-09T16:53:48Z",
+    "run_id": "42658800206",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "bjzoib",
+      "rjgpdk",
+      "8knce",
+      "8br78w",
+      "149emoy",
+      "1e5l2x2"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T16:52:57Z",
-    "run_id": "42501929421",
-    "status": "success",
-    "checked": {
-     "candidates": 625,
-     "detail": "620 collected staging rows from readers; 211 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 7,
-     "detail": "+0 new rows, 7 updated rows, 613 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2857,19 +2846,27 @@
      "detail": "+0 new rows, 3 updated rows, 622 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T16:53:46Z",
+    "run_id": "42658800206",
+    "status": "success",
+    "checked": {
+     "candidates": 632,
+     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "+0 new rows, 7 updated rows, 618 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3106,32 +3103,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-08T16:52:58Z",
-    "run_id": "42501929421",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Amitabh Bachchan Remoye Bulletproof Glass For Sunday Darshan Despite Threats",
-      "Andy Weir's Project Hail Mary Receives Special Deluxe Edition Book Release",
-      "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential",
-      "Akshay Kumar Celebrates Diwali with Family and Honors Late Parents"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3669,19 +3653,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-09T16:53:47Z",
+    "run_id": "42658800206",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Paul Giamatti and Simon Pegg Team Up for Seaside Horror Film 'Boutique'",
+      "Ramayana Eyes Over ₹105 Crore India Net on Day 5 to Become Second Bollywood Film After Dhurandhar 2 With ₹100 Crore Single Day",
+      "Kanye West Breaks Record for Biggest Rap Concert in U.S. History Again in Dallas",
+      "Samantha Ruth Prabhu Shares Casual Baby Bump Photo In Lieu Of Traditional Maternity Shoot"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3957,19 +3954,19 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4291,31 +4288,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-08T16:51:34Z",
-    "run_id": "42501929421",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 293 still unprocessed; today by category: movies 8/6, tv_dramas 10/4, episodes 0/2, box_office 11/6, celebrities_events 8/5, upcoming_releases 3/4, ott_streaming 4/4, trailers 0/3, awards 2/2, music_ost 3/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Amitabh Bachchan Remoye Bulletproof Glass For Sunday Darshan Despite Threats",
-      "Andy Weir's Project Hail Mary Receives Special Deluxe Edition Book Release",
-      "Akshay Kumar Celebrates Diwali with Family and Honors Late Parents",
-      "Dutton Ranch Season 2: Everything We Know About Release Plans, Cast, and Crossover Potential"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4821,19 +4806,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-09T16:52:26Z",
+    "run_id": "42658800206",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 405 still unprocessed; today by category: movies 9/6, tv_dramas 8/4, episodes 0/2, box_office 19/6, celebrities_events 13/5, upcoming_releases 5/4, ott_streaming 7/4, trailers 3/3, awards 2/2, music_ost 1/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Samantha Ruth Prabhu Shares Casual Baby Bump Photo In Lieu Of Traditional Maternity Shoot",
+      "Paul Giamatti and Simon Pegg Team Up for Seaside Horror Film 'Boutique'",
+      "Ramayana Eyes Over ₹105 Crore India Net on Day 5 to Become Second Bollywood Film After Dhurandhar 2 With ₹100 Crore Single Day",
+      "Kanye West Breaks Record for Biggest Rap Concert in U.S. History Again in Dallas"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5154,24 +5151,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 366,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5516,19 +5508,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 396,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5808,19 +5805,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6070,19 +6067,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6317,19 +6314,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6616,19 +6613,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6869,19 +6866,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7111,19 +7108,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7372,6 +7369,16 @@
     "category": "Trending News",
     "run_at": "2026-11-09T16:05:21Z",
     "run_id": "42648697743",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7887,16 +7894,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-08T17:21:59Z",
     "run_id": "42503781839",
     "status": "skipped",
@@ -8133,19 +8130,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-08T16:53:07Z",
-    "run_id": "42501929421",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8395,8 +8392,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-09T16:53:55Z",
+    "run_id": "42658800206",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-09T16:05:21Z"
+ "updated_at": "2026-11-09T16:53:55Z"
 }
