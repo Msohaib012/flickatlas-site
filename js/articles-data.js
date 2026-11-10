@@ -107275,5 +107275,427 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 15:41:41 +0000"
+  },
+  "1sq352f": {
+    "id": "1sq352f",
+    "type": "news",
+    "headline": "Ramayana Secures Highest First Monday Gross in North America With $1.37 Million",
+    "dek": "Namit Malhotra's film breaks a major overseas record on a regular working day, overtaking Dhurandhar 2 despite sharing screens with Godzilla Minus Zero.",
+    "body": [
+      {
+        "h": "Setting a New Benchmark in North America",
+        "p": [
+          "Namit Malhotra's production Ramayana has reached a major milestone during its initial theatrical run overseas, capturing the highest first-Monday gross for an Indian release in North America. The Nitesh Tiwari directorial accumulated an impressive $1.37 million on its first Monday.",
+          "This figure outpaced the previous record-holder, Dhurandhar 2, which previously stood at the top of the North American Monday charts with $1.14 million. The accomplishment highlights robust weekday traction in international territories following the opening weekend."
+        ]
+      },
+      {
+        "h": "Competing Against Godzilla Minus Zero",
+        "p": [
+          "The box office triumph is even more striking given the intense competition the movie faced upon release. Godzilla Minus Zero debuted in North American theatres during the same window, leveraging decades of global franchise popularity to command a large share of premium exhibition screens.",
+          "Despite sharing the spotlight with the Japanese blockbuster, Ramayana carved out a massive presence. It secured a historic worldwide IMAX opening for an Indian production, bringing in approximately $6 million from the premium format over its initial weekend."
+        ]
+      },
+      {
+        "h": "Outperforming Holiday-Released Predecessors",
+        "p": [
+          "A notable aspect of the record-breaking Monday is that it occurred on a standard working day rather than during a holiday period. Previous record-setters in the region often leaned heavily on calendar advantages to boost their weekday figures.",
+          "For instance, Dangal recorded its strong first Monday on December 26, 2016, aligning with the Christmas holiday, while Dunki landed directly on Christmas Day in 2023. Ramayana achieved its higher benchmark without any such seasonal holiday boost in North America."
+        ]
+      },
+      {
+        "h": "International Distribution and Marketing Strategy",
+        "p": [
+          "Much of the film's overseas momentum stems from a coordinated global promotional push managed by Sony Pictures. The international campaign was rolled out well in advance, utilizing platforms like CinemaCon and San Diego Comic-Con to build anticipation.",
+          "By taking the promotional campaign directly to international markets with high-profile cast appearances, the creators positioned the venture as a grand cinematic event for global audiences rather than relying entirely on conventional domestic outreach."
+        ]
+      },
+      {
+        "h": "Cultural Familiarity and Broad Audience Appeal",
+        "p": [
+          "While international marketing played a critical role, a major driver of early attendance was the deep cultural familiarity the epic tale holds for overseas diaspora communities. For many families living abroad, the narrative provided a direct link to their heritage.",
+          "At the same time, large-scale visual presentation and advanced visual effects helped draw viewers beyond the core demographic, ensuring wider appeal across diverse international moviegoers."
+        ]
+      },
+      {
+        "h": "Global Five-Day Performance",
+        "p": [
+          "Driven by strong overseas demand and Sony Pictures' distribution network, the feature reached an estimated $28 million internationally within its first five days in theatres. This robust international trajectory complements its domestic earnings.",
+          "With steady attendance figures continuing past the opening weekend, the project has solidified its position as one of the most prominent international releases of the current box-office season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana achieved the highest first-Monday gross for an Indian release in North America by earning $1.37 million, surpassing Dhurandhar 2. The record was set on a regular working day amidst competition from Godzilla Minus Zero."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned $1.37 million on its first Monday in North America.",
+      "Dhurandhar 2 previously held the record with $1.14 million.",
+      "Ramayana's first-Monday gross was approximately 20.2% higher than Dhurandhar 2's benchmark.",
+      "Dangal's first Monday gross in North America was $996K.",
+      "Dunki's first Monday gross in North America was $941K.",
+      "Kalki 2898 AD's first Monday gross in North America was $838K.",
+      "Ramayana reached an estimated $28 million internationally in five days.",
+      "Godzilla Minus Zero opened to more than $30 million in North America during its first weekend.",
+      "Ramayana earned around $6 million from IMAX during its opening weekend.",
+      "Ramayana was released on Thursday, November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Christa Lincy",
+        "Venky"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Godzilla Minus Zero",
+        "Dangal",
+        "Dunki",
+        "Kalki 2898 AD",
+        "Jawan",
+        "Pushpa 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ramayana North America Monday record",
+      "Ramayana vs Dhurandhar 2",
+      "Ramayana overseas collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028474.jpg",
+        "caption": "Ramayana Secures Highest First Monday Gross in North America With $1.37 Million",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 16:19:45 +0000"
+  },
+  "v43y5s": {
+    "id": "v43y5s",
+    "type": "news",
+    "headline": "Ranking the Pure Thrillers of Steven Spielberg From Worst to Best",
+    "dek": "While best known for sweeping sci-fi and broad adventures, acclaimed director Steven Spielberg has crafted several masterclasses in tension. We take a look at his six pure thrillers, ranked from his earliest television roots to his definitive cinematic masterpieces.",
+    "body": [
+      {
+        "h": "Introduction to Spielberg's Thrillers",
+        "p": [
+          "When film enthusiasts think of Steven Spielberg, science fiction is usually the first genre that comes to mind. As the visionary behind some of the most iconic visual languages in sci-fi history, his Amblin-style releases have captured generations of audiences with a profound sense of wonder and emotional resonance. Yet, across a career spanning multiple decades, the legendary filmmaker has explored virtually every corner of the cinematic landscape, ranging from lighthearted comedies to poignant historical biopics.",
+          "Beneath the surface of his diverse filmography lies a distinct collection of pure thrillers. While high-concept blockbusters like Jurassic Park and Minority Report rely heavily on science-fiction elements, Spielberg has also directed movies dedicated entirely to elevating the audience's blood pressure. These pictures strip away fantastical concepts to focus purely on suspense, psychological warfare, and white-knuckle dread."
+        ]
+      },
+      {
+        "h": "6. Duel (1971)",
+        "p": [
+          "More than fifty years after its debut, Steven Spielberg's very first feature offers a fascinating look into his early creative years. Produced on a modest budget and originally created as an ABC television movie rather than a theatrical release, Duel lacked major studio backing and massive star power. Nevertheless, the minimalist premise of a traveling salesman hunted down on a desolate desert highway by an unseen truck driver delivers remarkable results.",
+          "Shot in just thirteen days, the picture boasts a relentless pace that transforms a rusted 1955 Peterbilt tanker into a terrifying monster-like entity. Dennis Weaver anchors the narrative with a frantic lead performance as an ordinary man pushed to his absolute limit by relatable fear. Even without the glossy finish of later blockbusters, this early project proved Spielberg's innate talent for crafting fast-paced, suspenseful cinema under severe constraints."
+        ]
+      },
+      {
+        "h": "5. The Post (2017)",
+        "p": [
+          "Stepping away from highway chases and monster attacks, The Post builds its tension like a ticking time bomb through political pressure and urgent journalism. Set in 1971, the historical drama follows the Washington Post team as they scramble to publish the leaked Pentagon Papers while facing intense legal threats from the Nixon administration. Spielberg expertly injects urgent energy into bureaucratic hurdles and chaotic phone calls, keeping viewers engaged despite the known historical outcome.",
+          "At the core of the film are two phenomenal lead performances by Meryl Streep as publisher Katharine Graham and Tom Hanks as driven editor Ben Bradlee. Their dynamic grounds the high-stakes political maneuvering in deeply human stakes. The movie serves as a smart, calculated look at a notorious chapter in modern American history without relying on traditional action sequences."
+        ]
+      },
+      {
+        "h": "4. Munich (2005)",
+        "p": [
+          "Munich sits firmly in the realm of political cinema, shunning easy heroic resolutions in favor of a deeply unsettling, slow-burn narrative. The film chronicles the covert Israeli retaliation campaign following the tragic 1972 Munich Olympics massacre. Eric Bana delivers a masterclass in restrained acting as Avner Kaufman, leading a clandestine unit that includes strong supporting turns from Daniel Craig and Ciaran Hinds.",
+          "Janusz Kaminski utilizes a beautifully muted, muddy color palette to frame the morally complex and provocative storyline. As Kaufman and his team execute their targets, the boundary between justice and vengeance blurs significantly. The picture invites viewers to examine the heavy psychological toll of eye-for-an-eye violence, drawing on the high-tension structural techniques Spielberg mastered in earlier monster features."
+        ]
+      },
+      {
+        "h": "3. Catch Me If You Can (2002)",
+        "p": [
+          "Nearly twenty-five years after its premiere, Catch Me If You Can remains one of the director's most charming and distinct efforts. Trading high-stakes terror for a lighter, comedic touch, Spielberg crafts a stylish cat-and-mouse game centered around psychological warfare. Leonardo DiCaprio stars as real-life con artist Frank Abagnale Jr., bringing complete charisma and effortless charm to a multitude of elaborate identities.",
+          "Pitted against DiCaprio is Tom Hanks as the dogged FBI agent Carl Hanratty, creating a sleek blend of a 1960s caper and a stylish chase movie. Beneath the surface entertainment lie classic Spielbergian themes, including a fractured family dynamic and a young man's desperate quest to honor his father's legacy. It stands out as a masterclass in lighthearted escapism within the thriller genre."
+        ]
+      },
+      {
+        "h": "2. Bridge of Spies (2015)",
+        "p": [
+          "The true story of an ordinary suburban lawyer navigating the legal battles to free two American political prisoners during the Cold War might sound unconventional for a thriller. Yet, Bridge of Spies utilizes this premise to deliver subtle genius and slow-build suspense. Tom Hanks portrays James B. Donovan, a man thrust onto the hidden front lines of international espionage when he is appointed to defend captured Russian spy Rudolf Abel.",
+          "Mark Rylance delivers an exceptional performance as the pragmatic spy who humanizes the opposing side, challenging Donovan to reconsider the concept of sympathetic enemies. Spielberg's precise direction guides the narrative with an escalation so seamless that audiences find themselves holding their breath by the time the climactic prisoner exchange arrives."
+        ]
+      },
+      {
+        "h": "1. Jaws (1975)",
+        "p": [
+          "Often misclassified purely as a horror movie, Jaws stands tall as Steven Spielberg's first true masterpiece and the absolute pinnacle of his thriller catalog. While animal attacks anchor the plot, the film functions fundamentally as a thriller infused with procedural elements and a deeply personal hero's journey for Roy Scheider. Thanks to production constraints that forced the director to keep Bruce the shark hidden off-screen, the movie became a triumph of restrained, suspenseful storytelling.",
+          "Unlike noir thrillers that rely on dark, claustrophobic environments to induce fear, Jaws brilliantly utilizes the isolation of the open sea and bright daylight. The chilling combination of a menacing threat and a seaside town politically complicit in the danger creates an endlessly watchable experience. More than four decades later, it remains the definitive thriller of Spielberg's legendary career."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Steven Spielberg's extensive filmography contains six standout pictures that qualify as pure thrillers, focusing squarely on raising audience tension without sci-fi elements. Ranging from his early television debut Duel and historical dramas like The Post and Bridge of Spies to the cat-and-mouse charm of Catch Me If You Can and the sunlit terror of Jaws, these films showcase his unmatched range. Ultimately, Jaws takes the crown as his finest achievement in the genre, outshining political narratives like Munich and small-scale experiments alike."
+        ]
+      }
+    ],
+    "facts": [
+      "Steven Spielberg has directed six pure thrillers since the 1970s.",
+      "Duel was released in 1971 as an ABC TV movie and was shot in 13 days.",
+      "The Post is set in 1971 and was released in 2017.",
+      "Munich depicts the aftermath of the 1972 Munich Olympics massacre and was released in 2005.",
+      "Catch Me If You Can was released in 2002.",
+      "Bridge of Spies was released in 2015.",
+      "Jaws was released in 1975."
+    ],
+    "entities": {
+      "people": [
+        "Simon Gallagher",
+        "Steven Spielberg",
+        "Dennis Weaver",
+        "Meryl Streep",
+        "Katharine Graham",
+        "Tom Hanks",
+        "Ben Bradlee",
+        "Eric Bana",
+        "Daniel Craig",
+        "Ciaran Hinds",
+        "Janusz Kaminski",
+        "Avner Kaufman",
+        "Leonardo DiCaprio",
+        "Frank Abagnale Jr.",
+        "Carl Hanratty",
+        "James B Donovan",
+        "Rudolf Abel",
+        "Mark Rylance",
+        "Roy Scheider",
+        "Richard Matheson",
+        "Eddie Firestone"
+      ],
+      "titles": [
+        "Duel",
+        "Jurassic Park",
+        "Minority Report",
+        "Jaws",
+        "The Post",
+        "Munich",
+        "Catch Me If You Can",
+        "Bridge of Spies"
+      ]
+    },
+    "keywords": [
+      "Steven Spielberg thrillers",
+      "Jaws Steven Spielberg movie",
+      "Duel 1971 film",
+      "Catch Me If You Can thriller",
+      "Bridge of Spies Spielberg"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/avner-eric-bana-sitting-on-a-chair-holding-a-gun-in-munich.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ranking the Pure Thrillers of Steven Spielberg From Worst to Best",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 16:30:20 GMT"
+  },
+  "3qk5lh": {
+    "id": "3qk5lh",
+    "type": "news",
+    "headline": "David Bowie’s Sci-Fi Classic The Man Who Fell to Earth Lands 50th Anniversary 4K UHD and Blu-ray Release",
+    "dek": "Lionsgate Limited is launching a loaded Collector's Edition of the 1976 science fiction film starring David Bowie to celebrate its milestone anniversary.",
+    "body": [
+      {
+        "h": "Milestone Anniversary Edition Announced",
+        "p": [
+          "David Bowie's iconic 1976 science fiction feature is returning to the home entertainment market to mark its fiftieth anniversary. Fans of the cinematic classic will soon have access to a special release packed with archival footage, new bonus features, and exclusive interviews.",
+          "The anniversary package is scheduled to arrive on December 15, distributed exclusively through Lionsgate Limited. Collectors looking to add the physical or digital release to their libraries can purchase the 4K UHD, Blu-ray, and Digital Collector’s Edition for $42.99."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "Directed by Nicolas Roeg, the movie features David Bowie in the central role as Thomas Jerome Newton. Newton is an extraterrestrial traveller who journeys from a distant planet to Earth in search of water for his drought-stricken home world.",
+          "However, his mission is complicated by his growing integration into human society. As he becomes deeply involved with human life, the ties to his original mission face severe threats of being entirely derailed."
+        ]
+      },
+      {
+        "h": "Stellar Cast and Literary Origins",
+        "p": [
+          "Alongside David Bowie, the science fiction drama boasts a notable ensemble cast featuring Rip Torn, Candy Clark, and Buck Henry. Their performances helped cement the picture's enduring status in speculative cinema.",
+          "The feature film draws its narrative foundation from Walter Tevis’ celebrated novel of the same name. The adaptation successfully translated the book's thematic depth onto the silver screen under Roeg's direction."
+        ]
+      },
+      {
+        "h": "Collector's Edition Technical Details",
+        "p": [
+          "The upcoming Collector's Edition presents the feature in 4K resolution enhanced with Dolby Vision. Physical media enthusiasts will also appreciate the exclusive SteelBook artwork created by artist Alice X. Zhang.",
+          "The 4K and Blu-ray packages offer a widescreen presentation utilizing a 2.35:1 aspect ratio. For audio options, buyers can choose between English 2.0 PCM and English 2.0 DTS-HD Master Audio on the Blu-ray disc."
+        ]
+      },
+      {
+        "h": "Extensive Bonus Features and Interviews",
+        "p": [
+          "The home video package includes a vast array of supplemental material exploring the production and legacy of the film. Among the historical finds is a 1977 French television interview capturing Bowie discussing his creative process.",
+          "Additional conversations feature costume designer May Routh displaying original costume sketches, alongside stills photographer David James sharing rare behind-the-scenes photographs. Further insights come from producer Michael Deeley, director Nicolas Roeg, writer Paul Mayersberg, cinematographer Tony Richmond, and actress Candy Clark."
+        ]
+      },
+      {
+        "h": "Special Featurettes and Fan Perspectives",
+        "p": [
+          "Filmmaker Sam Taylor-Johnson also appears in the collection, offering a retrospective discussion about the movie from the perspective of an admirer. Another highlight is a featurette titled The Lost Soundtracks.",
+          "The Lost Soundtracks incorporates interviews with composer Paul Buckmaster and author Chris Campion. A dedicated trailer and various behind-the-scenes extras round out the package, giving viewers an intimate look at the creative minds behind the project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lionsgate Limited is releasing a 50th-anniversary 4K UHD, Blu-ray, and Digital Collector's Edition of David Bowie's 1976 sci-fi film The Man Who Fell to Earth on December 15 for $42.99. The special package includes extensive bonus content, archival interviews, and unique artwork celebrating the legacy of Nicolas Roeg's iconic movie."
+        ]
+      }
+    ],
+    "facts": [
+      "The Man Who Fell to Earth was released in 1976.",
+      "The 50th anniversary edition releases on December 15.",
+      "The Collector's Edition costs $42.99.",
+      "The film was directed by Nicolas Roeg."
+    ],
+    "entities": {
+      "people": [
+        "David Bowie",
+        "Nicolas Roeg",
+        "Alice X. Zhang",
+        "May Routh",
+        "David James",
+        "Michael Deeley",
+        "Paul Mayersberg",
+        "Tony Richmond",
+        "Candy Clark",
+        "Sam Taylor-Johnson",
+        "Paul Buckmaster",
+        "Chris Campion",
+        "Walter Tevis",
+        "Rip Torn",
+        "Buck Henry",
+        "Surya Singh"
+      ],
+      "titles": [
+        "The Man Who Fell to Earth"
+      ]
+    },
+    "keywords": [
+      "The Man Who Fell to Earth",
+      "David Bowie",
+      "Nicolas Roeg",
+      "Lionsgate Limited",
+      "The Man Who Fell to Earth 4K"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/david-bowie.jpg?resize=1200,630",
+        "caption": "David Bowie’s Sci-Fi Classic The Man Who Fell to Earth Lands 50th Anniversary 4K UHD and Blu-ray Release",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 16:00:26 +0000"
+  },
+  "19hv84j": {
+    "id": "19hv84j",
+    "type": "news",
+    "headline": "Yash's Heavy Ravana Wardrobe In Ramayana Reached 33 Kilograms",
+    "dek": "Costume designer Saniya Sardhariya details the extensive craftsmanship behind the heavy garments and unique jewelry created for Yash in Nitesh Tiwari's mythological epic.",
+    "body": [
+      {
+        "h": "Introduction To The Epic Wardrobe",
+        "p": [
+          "The cinematic adaptation titled Ramayana: Part 1 has sparked widespread conversations across the entertainment industry for its grand visual scale. Directed by Nitesh Tiwari, the feature film brings together a notable ensemble cast featuring prominent actors in legendary roles. Beyond the primary narrative and box office milestones, the intricate details of the character designs have emerged as a major talking point among audiences and critics alike."
+        ]
+      },
+      {
+        "h": "Yash's Demanding Transformation",
+        "p": [
+          "Kannada superstar Yash has drawn considerable attention for his commanding screen presence as the antagonist Ravana. Transforming into the powerful demon king required immense physical and technical preparation, particularly regarding his elaborate garments. Costume designer Saniya Sardhariya recently shed light on the rigorous process of developing these heavy physical ensembles for the production.",
+          "While standard outfits utilized throughout the filming process generally ranged between sixteen and twenty kilograms including their paired accessories, certain specific sequences demanded much heavier attire. The heaviest looks were specifically tailored for major sequences such as scenes set in Lanka, royal wedding segments, and the wedding sequence of Surpankha."
+        ]
+      },
+      {
+        "h": "Weighing The Heavy Ensembles",
+        "p": [
+          "In a detailed discussion regarding the costume design, Saniya Sardhariya noted that the heaviest attire designed for Yash reached an astonishing thirty-three kilograms. Bringing the fearsome monarch to life meant enduring significant physical weight during long hours of filming.",
+          "In addition to the layered garments and fabric weight, the royal headwear added another layer of physical demand. The crown worn by Ravana alone measured approximately one point eight kilograms, contributing substantially to the overall heaviness of the royal attire."
+        ]
+      },
+      {
+        "h": "Opulent Accessories And Craftsmanship",
+        "p": [
+          "The ornamentation played an equally vital role in establishing the visual identity of the character. Tribe Amrapali, led by creative director and CEO Tarang Arora, supplied the customized and handcrafted jewelry utilized in the production. The design team focused heavily on reflecting the ruler's immense wealth and complex personal nature.",
+          "Because the character ruled over a golden kingdom, the accessories needed to project extreme opulence. Designers intentionally incorporated contradictory design philosophies into the ornaments to showcase the duality of the monarch's personality."
+        ]
+      },
+      {
+        "h": "Symbolism Within The Jewelry",
+        "p": [
+          "The jewelry featured diverse symbolic motifs that shifted according to the specific phase of the storyline and the character's emotional state. Artisans integrated serpent forms, fierce demon faces, and animal features into the pieces to highlight his multifaceted disposition.",
+          "Special attention was also dedicated to honoring the character's deep devotion to Lord Shiva through explicit iconography such as the trishul. These contrasting artistic elements were woven across individual pieces, even varying visibly from one hand of the character to the other."
+        ]
+      },
+      {
+        "h": "Box Office Momentum",
+        "p": [
+          "While the artisanal details of the wardrobe continue to capture public interest, the film has simultaneously achieved extraordinary commercial success. The feature recorded a massive surge on its first Monday, pulling in massive collections across domestic and international markets.",
+          "Industry trackers noted that the single-day earnings significantly outperformed the initial Monday figures of several major prior blockbusters, underscoring strong viewer turnout despite mixed initial critical reactions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Costume designer Saniya Sardhariya revealed that Yash's elaborate Ravana costumes for Ramayana: Part 1 weighed up to 33 kg, with the crown alone accounting for 1.8 kg. This detailed wardrobe design complemented the film's strong box office performance and record-breaking Monday earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash's Ravana costume weighed up to 33 kg.",
+      "The crown worn by Ravana weighed 1.8 kg.",
+      "Most of Yash's costumes weighed between 16 and 20 kg including jewelry.",
+      "Ramayana: Part 1 collected Rs 107.50 crore net in India on its first Monday.",
+      "The first five days net collection in India reached Rs 346.35 crore.",
+      "Worldwide gross reached Rs 663.90 crore."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Saniya Sardhariya",
+        "Tarang Arora",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Dangal",
+        "Baahubali 2",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana costume",
+      "Saniya Sardhariya Ravana weight",
+      "Ramayana box office collection",
+      "Tribe Amrapali Ravana jewelry"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135716120,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Yash's Heavy Ravana Wardrobe In Ramayana Reached 33 Kilograms",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T21:52:52+05:30"
   }
 };
