@@ -100677,5 +100677,432 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 22:47:53 +0000"
+  },
+  "1igqa9b": {
+    "id": "1igqa9b",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 5: Ranbir Kapoor and Yash Starrer Crosses Rs 100 Crore in Single Day",
+    "dek": "The mythological epic Ramayana Part 1 shattered box office records on its first Monday, pulling in a massive Rs 107.50 crore after the Diwali holiday.",
+    "body": [
+      {
+        "h": "First Monday Box Office Carnage",
+        "p": [
+          "The Indian box office witnessed an extraordinary surge on Monday, November 9, as Ramayana Part 1 unleashed its true commercial potential following the Diwali celebrations. The mythological epic, starring Ranbir Kapoor, Sai Pallavi, and Yash, delivered an unprecedented performance on its fifth day in theaters.",
+          "Rather than experiencing the typical post-holiday dip, the feature went on a complete rampage, crossing the magical Rs 100 crore mark in India alone within a single day. This milestone established a brand-new benchmark for single-day earnings in the domestic market."
+        ]
+      },
+      {
+        "h": "Language-Wise Earnings Breakdown",
+        "p": [
+          "The Hindi version of the Nitesh Tiwari directorial spearheaded this monumental box office wave, contributing the lion's share with Rs 87.25 crore as families flooded cinemas in large numbers.",
+          "Regional versions also performed remarkably well across the country. The Kannada version secured second place with Rs 7.50 crore, followed closely by the Telugu version at Rs 6 crore. Meanwhile, the Tamil and Malayalam versions added Rs 4 crore and Rs 2.75 crore respectively to the overall single-day tally."
+        ]
+      },
+      {
+        "h": "Smashed Records and Previous Benchmarks",
+        "p": [
+          "With the stellar collection of Rs 107.50 crore on its first Monday, Ramayana officially recorded the biggest-ever Monday for any Bollywood film in history. It comfortably surpassed the previous record held by Ranveer Singh's Dhurandhar 2, which had earned Rs 64 crore on its strongest day.",
+          "Trade analysts had anticipated strong numbers backed by a massive advance booking of Rs 45 crore net for the day, but the actual footfalls exceeded all prior expectations and created a theatrical storm."
+        ]
+      },
+      {
+        "h": "Total Collection and Five-Day Gross",
+        "p": [
+          "Following this extraordinary Monday surge, Ramayana easily powered past the Rs 300 crore net milestone in just five days flat. Its cumulative net domestic collection now stands at an impressive Rs 346.35 crore.",
+          "When factoring in all territories and formats, the film's gross earnings have reached a staggering Rs 413.90 crore, underlining the widespread nationwide appeal of the Namit Malhotra-backed mythological venture."
+        ]
+      },
+      {
+        "h": "Day-Wise Trajectory So Far",
+        "p": [
+          "The theatrical journey of the epic began on a high note with Rs 64.85 crore on its opening day, followed by Rs 48.05 crore on Day 2. The weekend saw further growth as collections climbed to Rs 69.80 crore on Day 3 and Rs 56.15 crore on Day 4.",
+          "Culminating with the record-shattering Rs 107.50 crore on Day 5, the film's trajectory highlights a rare and consistent upward momentum throughout its opening extended week."
+        ]
+      },
+      {
+        "h": "Outlook for the Post-Diwali Week",
+        "p": [
+          "Industry experts project that Ramayana will continue to harness the post-Diwali holiday period over the subsequent couple of days. Projections indicate that the feature is well on its way to getting close to the Rs 500 crore mark by the end of its first week.",
+          "Given the extraordinarily high budget associated with the production, maintaining this momentum through Tuesday and Wednesday will remain crucial for the Ranbir Kapoor, Sai Pallavi, and Yash starrer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor, Sai Pallavi, and Yash starrer Ramayana Part 1 recorded the biggest single-day collection for a Bollywood film by earning Rs 107.50 crore on its first Monday, November 9, 2026. The Nitesh Tiwari directorial pushed its five-day net collection to Rs 346.35 crore and gross earnings to Rs 413.90 crore, heavily driven by strong family audiences and robust numbers across all regional versions."
+        ]
+      }
+    ],
+    "facts": [
+      "Date of report: November 9, 2026",
+      "Day 5 single-day collection: Rs 107.50 crore",
+      "Hindi version Day 5 collection: Rs 87.25 crore",
+      "Kannada version Day 5 collection: Rs 7.50 crore",
+      "Telugu version Day 5 collection: Rs 6 crore",
+      "Tamil version Day 5 collection: Rs 4 crore",
+      "Malayalam version Day 5 collection: Rs 2.75 crore",
+      "Total net collection in 5 days: Rs 346.35 crore",
+      "Total gross earnings: Rs 413.90 crore",
+      "Advance booking net for Monday: Rs 45 crore",
+      "Day 1 collection: Rs 64.85 crore",
+      "Day 2 collection: Rs 48.05 crore",
+      "Day 3 collection: Rs 69.80 crore",
+      "Day 4 collection: Rs 56.15 crore",
+      "Previous Monday record holder: Dhurandhar 2 with Rs 64 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranveer Singh",
+        "Mudit Bhatnagar",
+        "Mahesh Bhatt"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Ramayana: Rise of a Legend",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Day 5 collection",
+      "Ramayana Rs 107 crore Monday"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156487344,thumbsize-58375,width-1280,height-720,resizemode-75/156487344.jpg",
+        "caption": "Ramayana Box Office Day 5: Ranbir Kapoor and Yash Starrer Crosses Rs 100 Crore in Single Day",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T00:52:18Z"
+  },
+  "15l31vb": {
+    "id": "15l31vb",
+    "type": "news",
+    "headline": "2026 LACMA Art+Film Gala Breaks Fundraising Records with Hollywood's Biggest Stars",
+    "dek": "The 15th annual celebration at the Los Angeles County Museum of Art brought out A-list actors and filmmakers, honoring Denis Villeneuve and Vija Celmins while raising nearly $7 million.",
+    "body": [
+      {
+        "h": "The Star-Studded Celebration",
+        "p": [
+          "The 15th annual LACMA Art+Film Gala transformed the Los Angeles County Museum of Art into a dazzling hub for global cinema and visual arts. Bringing together major figures from the entertainment and creative industries, the Saturday night gathering offered a high-profile platform celebrating the intersection of film and fine art.",
+          "A vast assembly of over 600 attendees arrived at the museum grounds, posing against the glowing backdrop of Chris Burden's famous Urban Light installation. The venue set a stunning stage for an evening dedicated to recognizing extraordinary cultural contributions."
+        ]
+      },
+      {
+        "h": "Honorees and Visionary Leadership",
+        "p": [
+          "This year's gala placed a special focus on celebrating two monumental creative talents. Filmmaker Denis Villeneuve and artist Vija Celmins were officially honored for their exceptional impact on cinema and the visual arts respectively.",
+          "The prestigious event was co-chaired by actor Leonardo DiCaprio alongside LACMA trustee Eva Chow. Their stewardship helped guide the celebration, continuing a long-standing tradition of uniting Hollywood influence with museum patronage."
+        ]
+      },
+      {
+        "h": "Record-Breaking Fundraising Success",
+        "p": [
+          "Beyond the glamour of the evening, the gathering achieved a historic financial milestone. The Nov. 7 event successfully raised nearly $7 million, establishing an all-time fundraising record for the annual benefit.",
+          "This remarkable monetary achievement highlights the growing philanthropic commitment of the entertainment community toward supporting cultural institutions and public arts programming."
+        ]
+      },
+      {
+        "h": "Gucci Partnership and Museum Support",
+        "p": [
+          "Luxury fashion house Gucci served as the official presenter of the gala, continuing a collaborative partnership that began at the event's inception in 2011. The enduring alliance has provided vital backing for the museum's ongoing initiatives.",
+          "Monetary proceeds generated from the record-breaking fundraiser will directly benefit the institution's operational scope. Funds are designated to expand film programming, fund new exhibitions, secure acquisitions, and drive educational outreach."
+        ]
+      },
+      {
+        "h": "Red Carpet Highlights and Notable Guests",
+        "p": [
+          "A massive roster of famous actors, musicians, and public figures walked the arrivals carpet, showcasing high-end fashion and striking stylistic choices. Among the prominent names stepping out for the celebration were Kim Kardashian, Nicole Kidman, Andrew Garfield, and Anya Taylor-Joy.",
+          "Additional stars joining the festivities included Viola Davis, Monica Barbaro, Odessa A'zion, Quinta Brunson, Julia Garner, and numerous others from across the international entertainment landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 15th annual LACMA Art+Film Gala brought major Hollywood figures together to honor Denis Villeneuve and Vija Celmins while raising a record-breaking $7 million. Co-chaired by Leonardo DiCaprio and Eva Chow, the Gucci-presented event supported the museum's film and educational initiatives."
+        ]
+      }
+    ],
+    "facts": [
+      "The 15th annual LACMA Art+Film Gala took place on Saturday night, November 7, 2026.",
+      "The event raised nearly $7 million, setting a fundraising record.",
+      "Denis Villeneuve and Vija Celmins were honored at the gala.",
+      "Leonardo DiCaprio and Eva Chow co-chaired the event.",
+      "The gala drew more than 600 guests.",
+      "Gucci presented the event, partnering with the museum since 2011."
+    ],
+    "entities": {
+      "people": [
+        "Vija Celmins",
+        "Denis Villeneuve",
+        "Leonardo DiCaprio",
+        "Eva Chow",
+        "Kim Kardashian",
+        "Nicole Kidman",
+        "Andrew Garfield",
+        "Anya Taylor-Joy",
+        "Viola Davis",
+        "Monica Barbaro",
+        "Odessa A'zion",
+        "Quinta Brunson",
+        "Julia Garner",
+        "Chris Burden"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "LACMA Art Film Gala",
+      "Denis Villeneuve",
+      "Leonardo DiCaprio",
+      "Vija Celmins"
+    ],
+    "images": [
+      {
+        "url": "https://www.thewrap.com/wp-content/uploads/2026/11/Untitled-October-30-2026-at-13.49.31-2-1.png",
+        "caption": "2026 LACMA Art+Film Gala Breaks Fundraising Records with Hollywood's Biggest Stars",
+        "source": "TheWrap"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 00:46:19 +0000"
+  },
+  "1jtuo3c": {
+    "id": "1jtuo3c",
+    "type": "news",
+    "headline": "Suriya and Naslen's 'Scene' Approaches Rs 150 Crore Worldwide on Day Four",
+    "dek": "The theatrical run of 'Scene' continues to gain massive momentum, closing in on the Rs 150 crore global milestone while the Tamil language release maintains a strong lead in domestic earnings.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone in Sight",
+        "p": [
+          "The collaborative venture starring Suriya and Naslen is rapidly advancing toward a significant international financial milestone. Maintaining its strong theatrical momentum, the feature continues to draw crowds globally as it inches closer to the Rs 150 crore worldwide gross threshold.",
+          "Industry trackers note that the picture has performed exceptionally well across multiple territories, driven by enthusiastic audience turnouts and steady ticket sales throughout its ongoing exhibition window."
+        ]
+      },
+      {
+        "h": "Domestic and International Breakdown",
+        "p": [
+          "On its fourth day of release, the film pulled in a substantial net collection across domestic markets alongside a solid international contribution. Overseas markets added significantly to the overall tally, elevating the cumulative international gross to impressive heights.",
+          "When merging the domestic revenues with overseas numbers, the feature's worldwide collection reached near-record levels for its opening week trajectory, reflecting widespread viewer interest."
+        ]
+      },
+      {
+        "h": "Tamil Version Leads Domestic Earnings",
+        "p": [
+          "The domestic performance was heavily propelled by the Tamil version, which served as the primary contributor to overall ticket sales. Audiences across primary screening centres turned out in large numbers for the regional release.",
+          "In comparison, the Telugu dubbed version also contributed a notable share to the cumulative domestic earnings, though the Tamil language track remained the dominant force by a wide margin."
+        ]
+      },
+      {
+        "h": "Strong Theatre Occupancy Rates",
+        "p": [
+          "Exhibition spaces reported robust occupancy levels for the Tamil version throughout the day, with afternoon and evening shows witnessing peak attendance. Morning screenings also recorded healthy turnouts across various circuits.",
+          "While the Telugu version experienced slightly lower overall numbers, its evening and night screenings maintained steady audience engagement, pointing to consistent traction across different linguistic demographics."
+        ]
+      },
+      {
+        "h": "State-Wise Contribution Patterns",
+        "p": [
+          "Tamil Nadu emerged as the leading contributor in the regional gross collection reports, capturing a majority share of the tracked domestic figures. Neighbouring states also added steady numbers to the overall regional ledger.",
+          "Other key markets across the country contributed supplementary amounts, rounding out a healthy pan-South collection report for the film's fourth theatrical day."
+        ]
+      },
+      {
+        "h": "Plot Premise and Character Dynamics",
+        "p": [
+          "The narrative centres on an eccentric police officer named Inbaraj, portrayed by Suriya, who finds himself compelled to revisit an unresolved mystery from his earlier career. This investigation forces him into collaboration with a chaotic group.",
+          "Alongside Suriya, the film features performances by Naslen and Nazriya Nazim, marking the first time Suriya and director Jithu Madhavan have teamed up for a cinematic project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Naslen's film 'Scene' is rapidly approaching a global collection of Rs 150 crore driven by strong ticket sales and high theatre occupancy. The Tamil version dominates domestic earnings, supported by notable contributions from the Telugu version and solid international markets."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya and Naslen star in the film 'Scene'",
+      "The film is directed by Jithu Madhavan",
+      "The combined India net collection stands at Rs 84.40 cr",
+      "Domestic gross has reached Rs 98.05 cr",
+      "International gross stands at Rs 51.50 cr",
+      "Worldwide collection reached Rs 149.55 cr",
+      "Total tickets sold during the four-day run reached 62,78,409",
+      "The Tamil version contributed Rs 70 cr to total India net collection",
+      "The Telugu version added Rs 14.40 cr to total India net collection"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Inbaraj"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene movie",
+      "Naslen Scene film",
+      "Scene worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135695794,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya and Naslen's 'Scene' Approaches Rs 150 Crore Worldwide on Day Four",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T05:29:05+05:30"
+  },
+  "npa4ab": {
+    "id": "npa4ab",
+    "type": "news",
+    "headline": "Olivia Cooke Exits Social Media Ahead of House of the Dragon Season 3",
+    "dek": "The actress who plays Queen Alicent Hightower opened up about toxicity, misogyny, and racism within the fantasy series' fanbase.",
+    "body": [
+      {
+        "h": "Stepping Away from the Spotlight",
+        "p": [
+          "The intense environment cultivated by internet communities led actress Olivia Cooke to deactivate her Instagram account before the third season of her hit fantasy series. Known for portraying the complex character Queen Alicent Hightower, the performer admitted that the digital space had grown thoroughly unnourishing due to the relentless negativity surrounding the production.",
+          "Rather than engaging with online discussions, she chose to protect her mental peace, keeping the discourse away from her daily life."
+        ]
+      },
+      {
+        "h": "Confronting Fanbase Ugliness",
+        "p": [
+          "In a candid discussion with publication sources, Cooke did not hold back regarding the toxic elements present within the show's viewer base. She explicitly pointed out that the community harbors significant amounts of misogyny and racism, alongside wild theories that bear no connection to what actually transpires on screen.",
+          "The performer noted that she consciously works to ensure this negativity consumes as little of her mental energy as possible."
+        ]
+      },
+      {
+        "h": "Navigating Contentious Storylines",
+        "p": [
+          "Playing Queen Alicent has required the actress to tackle deeply provocative narrative arcs, especially as the third season brought forward bizarre and taboo developments. Among these was a controversial sequence involving an incestuous daydream following a kiss with her on-screen son, pushing viewer reactions to new heights.",
+          "These bold narrative choices frequently ignite fierce debates across social channels, adding further fuel to an already volatile online audience."
+        ]
+      },
+      {
+        "h": "Co-Stars Also Face Audience Backlash",
+        "p": [
+          "Cooke is not the only member of the ensemble to experience the dark side of internet fandom; her fellow cast member Milly Alcock previously dealt with hostile segments of the audience. Viewers often engaged in toxic behavior by pitting younger cast members against their adult counterparts, creating unnecessary friction among supporters.",
+          "Co-creator Ryan Condal strongly condemned these comparisons, describing them as entirely unfair to performers who delivered exceptional work under difficult circumstances."
+        ]
+      },
+      {
+        "h": "The Monster of Modern Celebrity Culture",
+        "p": [
+          "Reflecting on the broader implications of fame, the star criticized how modern celebrity status has snowballed into an overwhelming monster driven by metrics and follower counts. She emphasized that television projects and cinematic creations are fundamentally meant to be artful expressions of creativity and escapism rather than tools for securing brand deals.",
+          "She advocated for stepping away from the relentless digital train to remember the true artistic value of storytelling."
+        ]
+      },
+      {
+        "h": "Positive Collaboration Behind the Scenes",
+        "p": [
+          "In contrast to the hostility found online, Cooke highlighted the positive and nurturing atmosphere fostered on set by director Clare Kilner. She praised the filmmaker for demonstrating that leadership does not require aggressive testosterone-driven behavior, but rather kindness and genuine care for every department.",
+          "This supportive working environment has provided a much-needed sanctuary away from the intense scrutiny of the public eye."
+        ]
+      },
+      {
+        "h": "Series Legacy and Critical Acclaim",
+        "p": [
+          "Since premiering on HBO in 2022, the medieval fantasy prequel has built a massive global footprint accompanied by substantial critical recognition. The program has accumulated three Golden Globe nominations, securing one win for best television series drama, alongside fourteen Emmy nominations and two wins for costume and makeup achievements.",
+          "Despite its widespread critical acclaim and industry accolades, the production continues to grapple with the polarized and occasionally toxic reactions of its most vocal internet communities."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Olivia Cooke chose to step away from social media prior to the third season of her hit series due to widespread misogyny and racism within the viewer community. Her co-stars have faced similar hostility, prompting creators to defend the cast against toxic fan comparisons while the actress continues to prioritize her mental well-being over digital engagement."
+        ]
+      }
+    ],
+    "facts": [
+      "Nov 9, 2026",
+      "Olivia Cooke plays Queen Alicent Hightower",
+      "House of the Dragon is an HBO prequel series",
+      "Season 3 dropped in June",
+      "Milly Alcock is a co-star",
+      "Ryan Condal is a co-creator",
+      "Clare Kilner is a director",
+      "The series first aired on HBO in 2022",
+      "The show earned 3 Golden Globe nominations and 1 win for best television series, drama",
+      "The show has been nominated for 14 Emmys and won 2"
+    ],
+    "entities": {
+      "people": [
+        "Olivia Cooke",
+        "Payton Turkeltaub",
+        "Nicolas Cage",
+        "Dave Chappelle",
+        "Erika Kirk",
+        "Milly Alcock",
+        "Ryan Condal",
+        "Clare Kilner",
+        "Sarah Snook",
+        "Barry Keoghan",
+        "Costa D’Angelo",
+        "Samantha Morton",
+        "Rob Feeley",
+        "James Gunn",
+        "Peter Safran",
+        "Jeremy Latcham",
+        "Paul McCartney",
+        "Maya Jama",
+        "Russell Brand",
+        "Druski",
+        "Elizabeth Holmes",
+        "Paul Howard",
+        "Moe Howard",
+        "Pink",
+        "Andrew Wallenstein",
+        "Ben Affleck",
+        "Pete Davidson",
+        "Hillary Clinton",
+        "Jennifer Hudson",
+        "Tom Cruise",
+        "Chris Rock"
+      ],
+      "titles": [
+        "House of the Dragon",
+        "Spider-Noir",
+        "The Birds",
+        "How I Look",
+        "East of Eden",
+        "The Odyssey",
+        "De Gaulle",
+        "Love Is Blind",
+        "Godzilla Minus Zero",
+        "Ramayana: Rise of a Legend",
+        "La Bola Negra",
+        "Misty Green",
+        "Dreamgirls"
+      ]
+    },
+    "keywords": [
+      "House of the Dragon",
+      "Olivia Cooke",
+      "Queen Alicent Hightower",
+      "Ryan Condal"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1411361044.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Olivia Cooke Exits Social Media Ahead of House of the Dragon Season 3",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 00:29:19 +0000"
   }
 };

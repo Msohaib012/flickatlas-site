@@ -2,22 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "US",
-      "date": "2026-11-10",
-      "date_kind": "digital",
-      "id": 1263337,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "US",
-      "date": "2026-11-10",
-      "date_kind": "digital",
-      "id": 1376400,
-      "providers": [],
-      "type": "movie"
-    },
-    {
       "country": "IN",
       "date": "2026-11-11",
       "date_kind": "digital",
@@ -69,6 +53,14 @@ window.FA_OTT = {
       "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1389379,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "AU",
+      "date": "2026-11-14",
+      "date_kind": "digital",
+      "id": 1812547,
       "providers": [],
       "type": "movie"
     },
@@ -162,11 +154,104 @@ window.FA_OTT = {
   ],
   "now": [
     {
+      "country": "US",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1263337,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1376400,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "SE",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1802472,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1794501,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1814871,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1813392,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1815145,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "RS",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1813722,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1657630,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "FR",
       "date": "2026-11-09",
       "date_kind": "digital",
       "id": 1814456,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "CA",
+      "date": "2026-11-08",
+      "date_kind": "digital",
+      "id": 1807995,
+      "providers": [
+        {
+          "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+          "name": "Crave"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -299,6 +384,22 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-06",
+      "date_kind": "digital",
+      "id": 1538457,
+      "providers": [
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
+          "name": "Sonyliv Amazon Channel"
         }
       ],
       "type": "movie"
@@ -479,6 +580,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "GB",
+      "date": "2026-11-05",
+      "date_kind": "digital",
+      "id": 1765587,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-05",
+      "date_kind": "digital",
+      "id": 1819380,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "date": "2026-11-04",
       "date_kind": "release",
       "id": 312006,
@@ -604,6 +721,14 @@ window.FA_OTT = {
           "name": "Netflix"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-03",
+      "date_kind": "digital",
+      "id": 1615596,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -991,22 +1116,6 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-10-29",
-      "date_kind": "release",
-      "id": 1657630,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        },
-        {
-          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
-          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -1631,22 +1740,6 @@ window.FA_OTT = {
     {
       "date": "2026-09-25",
       "date_kind": "release",
-      "id": 1538457,
-      "providers": [
-        {
-          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
-          "name": "Sony Liv"
-        },
-        {
-          "logo_path": "/944iNBWJZwKT1lfO3y2oEqquQjG.png",
-          "name": "Sonyliv Amazon Channel"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "date": "2026-09-25",
-      "date_kind": "release",
       "id": 333483,
       "providers": [
         {
@@ -1682,6 +1775,14 @@ window.FA_OTT = {
           "name": "Amazon Prime Video with Ads"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "GE",
+      "date": "2026-09-22",
+      "date_kind": "digital",
+      "id": 1777957,
+      "providers": [],
       "type": "movie"
     },
     {
