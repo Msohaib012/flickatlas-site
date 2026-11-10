@@ -101509,5 +101509,395 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 00:40:43 +0000"
+  },
+  "ihwl07": {
+    "id": "ihwl07",
+    "type": "news",
+    "headline": "Ramayana Box Office Collection Day 5: Ranbir Kapoor Starrer Mints Rs 107.5cr on First Monday",
+    "dek": "Directed by Nites Tiwari, Ramayana has set a new benchmark by recording the highest first Monday collection in Indian cinema history.",
+    "body": [
+      {
+        "h": "The Grand Return of Ranbir Kapoor",
+        "p": [
+          "Actor Ranbir Kapoor has made his long-awaited comeback to the silver screen after a three-year hiatus following the massive success of Animal. Fans have expressed immense enthusiasm as he takes on the revered role of Lord Ram in the big-budget cinematic venture Ramayana.",
+          "Helmed by acclaimed director Nites Tiwari, the film ranks among the most expensive productions in Indian cinema history. Its grand scale and high-profile casting choices have generated immense excitement across the country since its initial announcement."
+        ]
+      },
+      {
+        "h": "A Star-Studded Ensemble Cast",
+        "p": [
+          "The mythological epic boasts a stellar ensemble cast featuring several prominent names from Indian cinema. Alongside Ranbir Kapoor, the movie stars Yash, Sai Pallavi, Rakul Preet Singh, Arun Govil, Ravi Dubey, Vivek Oberoi, Anupam Kher, and Sunny Deol.",
+          "The presence of such a diverse and celebrated lineup has significantly amplified the appeal of the feature across multiple regional language markets, contributing to its widespread theatrical reach."
+        ]
+      },
+      {
+        "h": "Opening Weekend Performance",
+        "p": [
+          "After generating mixed reactions from initial audiences upon release, Ramayana secured a strong start at the box office, marking Ranbir Kapoor's highest opening numbers to date. The feature gained strong momentum as the weekend approached.",
+          "By the conclusion of its opening weekend, the film accumulated a robust total of Rs 238.85 crore, setting the stage for an extraordinary performance in the weekdays ahead."
+        ]
+      },
+      {
+        "h": "Historic First Monday Collections",
+        "p": [
+          "Industry analysts and trade observers closely monitored how the movie would fare on its first Monday. Defying expectations, the feature delivered a historic performance on day 5, bringing in a massive single-day collection of Rs 107.5 crore.",
+          "This record-breaking total comprised earnings of Rs 87.25 crore in Hindi, Rs 7.5 crore in Kannada, Rs 6 crore in Telugu, Rs 4 crore in Tamil, and Rs 2.75 crore in Malayalam, elevating its cumulative nett collection to Rs 346.35 crore and gross collection to Rs 413.9 crore."
+        ]
+      },
+      {
+        "h": "Surpassing Competitors",
+        "p": [
+          "With its phenomenal day 5 earnings, Ramayana comfortably outperformed other major cinematic titles. It surpassed the first Monday collections of both Ranveer Singh's Dhurandhar 2 and Allu Arjun's Pushpa 2.",
+          "Records indicate that Dhurandhar 2 had previously earned Rs 65 crore while Pushpa 2 collected Rs 64.45 crore on their respective first Mondays, meaning the new release earned over 1.6 times more than both films."
+        ]
+      },
+      {
+        "h": "Advance Bookings for Day 6",
+        "p": [
+          "The theatrical momentum shows no signs of slowing down as advance booking figures for day 6 (first Tuesday) continue to impress. The film has already secured Rs 34.62 crore through the sale of 8.92 lakh advance tickets.",
+          "This advance collection breakdown features Rs 26.93 crore in Hindi, Rs 3.31 crore in Kannada, Rs 2.06 crore in Telugu, Rs 1.46 crore in Tamil, and Rs 86.56 lakhs in Malayalam."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's Ramayana has achieved a historic milestone by recording the highest first Monday box office collection in Indian cinema history with Rs 107.5 crore on day 5. Directed by Nites Tiwari, the epic surpassed competing titles like Dhurandhar 2 and Pushpa 2 to reach a total nett collection of Rs 346.35 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor returned to the big screen after three years following Animal.",
+      "Ramayana is directed by Nites Tiwari.",
+      "The opening weekend collection of Ramayana was Rs 238.85 crore.",
+      "Day 5 (first Monday) collection of Ramayana was Rs 107.5 crore.",
+      "Day 5 Hindi collection was Rs 87.25 crore, Kannada was Rs 7.5 crore, Telugu was Rs 6 crore, Tamil was Rs 4 crore, and Malayalam was Rs 2.75 crore.",
+      "Total nett collection reached Rs 346.35 crore and gross collection reached Rs 413.9 crore.",
+      "Dhurandhar 2 earned Rs 65 crore on its first Monday.",
+      "Pushpa 2 earned Rs 64.45 crore on its first Monday.",
+      "Day 6 advance booking generated Rs 34.62 crore with 8.92 lakh tickets sold."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Ravi Dubey",
+        "Vivek Oberoi",
+        "Anupam Kher",
+        "Sunny Deol",
+        "Nites Tiwari",
+        "Ranveer Singh",
+        "Allu Arjun"
+      ],
+      "titles": [
+        "Animal",
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pushpa 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana day 5",
+      "Ramayana first Monday collection",
+      "Ramayana vs Dhurandhar 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday5feature-87291794274845.jpg",
+        "caption": "Ramayana Box Office Collection Day 5: Ranbir Kapoor Starrer Mints Rs 107.5cr on First Monday",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 07:13:02 +0530"
+  },
+  "1ys4kam": {
+    "id": "1ys4kam",
+    "type": "news",
+    "headline": "Kumar Vishwas Calls Himself Chosen By God For Ramayana, Drops Studio BTS With AR Rahman And Shreya Ghoshal",
+    "dek": "Lyricist Kumar Vishwas opened up about his deep connection to Nitesh Tiwari's Ramayana, sharing an emotional note and a behind-the-scenes studio video featuring iconic music and creative talents.",
+    "body": [
+      {
+        "h": "The Journey of Nitesh Tiwari's Ramayana",
+        "p": [
+          "Director Nitesh Tiwari's grand two-part film adaptation of the ancient Indian epic has welcomed a warm reception from theatregoers following its release just ahead of Diwali. The cinematic project brings the timeless literary work back to life on the big screen, exploring classic themes of righteousness, devotion, and a historic battle between good and evil.",
+          "The movie boasts a prominent main cast featuring Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as the asura king Ravana. Additionally, the ensemble features Sunny Deol stepping into the role of Hanuman alongside Ravi Dubey who plays Lakshman."
+        ]
+      },
+      {
+        "h": "Kumar Vishwas Expresses Deep Spiritual Connection",
+        "p": [
+          "Lyricist Kumar Vishwas recently shared an emotional reflection regarding his longstanding association with the project, expressing his belief that he was personally chosen by the divine for this journey. He noted that working on the adaptation felt like a direct blessing stemming from years of personal devotion, faith, and surrender to Shri Ram.",
+          "In his public note, Vishwas expressed profound gratitude to Bhagwan Ram for letting him contribute to such an extraordinary production. He highlighted how humbling it was to see audiences not just listen to his lyrical creations, but genuinely feel and comprehend their deeper meanings."
+        ]
+      },
+      {
+        "h": "Behind-The-Scenes Glimpse From The Studio",
+        "p": [
+          "Giving fans a peek into the making of the film's auditory landscape, Kumar Vishwas posted an exclusive behind-the-scenes video taken directly inside the recording studio. The footage captures the intense creative sessions where the team labored over hours of meticulous work to find the ideal tone and melody for every single sequence.",
+          "The studio clip showcases several notable creative personalities collaborating closely behind the microphone and mixing boards. Viewers spotted figures such as Namit Malhotra, director Nitesh Tiwari, Shreya Ghoshal, and Vishal Dadlani hard at work within the captured footage."
+        ]
+      },
+      {
+        "h": "Collaborating With Musical Legends",
+        "p": [
+          "The lyrical content of the epic feature was crafted entirely by Kumar Vishwas, who penned the words for compositions created by renowned artists AR Rahman and Hans Zimmer. The combination of these globally celebrated musicians and the poetic Hindi lyrics formed a foundational pillar for the emotional weight of the project.",
+          "Working alongside such massive creative minds offered Vishwas a rare opportunity to witness an ancient vision materialize through modern cinematic magic. The studio footage serves as a testament to the collective dedication poured into crafting the audio identity of the movie."
+        ]
+      },
+      {
+        "h": "Gratitude Towards Creative Collaborators",
+        "p": [
+          "Reflecting on the collaborative process, Vishwas emphasized that certain journeys in life are never strictly planned out by human hands. Instead, he views his involvement in the adaptation as a path explicitly mapped out by divine forces.",
+          "He extended heartfelt appreciation to the various filmmakers, composers, and co-workers who helped bring the ambitious undertaking to fruition. Seeing the public embrace the musical numbers with immense love remains a highlight of his artistic career."
+        ]
+      },
+      {
+        "h": "Epic Scope and Mythological Roots",
+        "p": [
+          "The underlying source material for the film stands as one of the oldest and most revered literary works in human history. The narrative centers around Lord Rama, recognized as an incarnation of Lord Vishnu, embarking on a righteous path to rescue his abducted wife Sita.",
+          "The central conflict culminates in a legendary confrontation against Ravana, the powerful ruler who holds Sita captive. Through meticulous visual design and grand storytelling, the two-part film aims to translate these age-old spiritual themes for contemporary audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lyricist Kumar Vishwas shared an emotional note and a behind-the-scenes studio video for Nitesh Tiwari's Ramayana, featuring artists like AR Rahman and Shreya Ghoshal. Vishwas expressed that he felt chosen by God for the project, which stars Ranbir Kapoor, Sai Pallavi, and Yash in key roles."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released in theatres just before Diwali",
+      "The film is directed by Nitesh Tiwari",
+      "Ranbir Kapoor plays Lord Rama",
+      "Sai Pallavi plays Sita",
+      "Yash plays Ravana",
+      "Sunny Deol plays Hanuman",
+      "Ravi Dubey plays Lakshman",
+      "Kumar Vishwas wrote the lyrics for songs composed by AR Rahman and Hans Zimmer"
+    ],
+    "entities": {
+      "people": [
+        "Kumar Vishwas",
+        "AR Rahman",
+        "Shreya Ghoshal",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Namit Malhotra",
+        "Vishal Dadlani",
+        "Hans Zimmer",
+        "Sunny Deol",
+        "Ravi Dubey"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Kumar Vishwas Ramayana",
+      "Ramayana studio BTS",
+      "AR Rahman Ramayana lyrics"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135696411,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Kumar Vishwas Calls Himself Chosen By God For Ramayana, Drops Studio BTS With AR Rahman And Shreya Ghoshal",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T07:00:16+05:30"
+  },
+  "va0z4g": {
+    "id": "va0z4g",
+    "type": "news",
+    "headline": "Mahesh Bhatt Proud of Ranbir Kapoor's Portrayal in Ramayana: The Rise of a Legend",
+    "dek": "Renowned filmmaker Mahesh Bhatt is reportedly overwhelmed by Ranbir Kapoor's performance in the epic film Ramayana: The Rise of a Legend, with family members sharing emotional reactions as the movie sets box office records.",
+    "body": [
+      {
+        "h": "Mahesh Bhatt Expresses Pride",
+        "p": [
+          "Veteran filmmaker Mahesh Bhatt has found himself deeply moved by the cinematic adaptation of the epic tale Ramayana: The Rise of a Legend. Known for sharing his unfiltered thoughts on contemporary cinema, the director was reportedly filled with immense pride regarding his son-in-law Ranbir Kapoor's leading role as Lord Rama.",
+          "The filmmaker's sentiments came to light through actress Soni Razdan, who shared a warm snapshot of the two men dressed in black at a Diwali gathering on her social media platform. Accompanied by a proud caption invoking the deity, the update highlighted the strong familial bond and the director's admiration for the leading man's dedication."
+        ]
+      },
+      {
+        "h": "An Emotional Experience in the Cinema Hall",
+        "p": [
+          "For Mahesh Bhatt, watching the grand project unfold on the silver screen proved to be an overwhelming emotional journey. In a previous media interaction, the director confessed that specific sequences in the narrative left him struggling to hold back his tears in front of fellow creators and audience members.",
+          "He recalled how the poignant sequence depicting Lord Rama being sent into exile for fourteen years just before the film's interval choked him up entirely. Sitting alongside young writers and filmmakers who recognized his connection to the star, he attempted to keep his composure when the lights returned, noting that profound artistic experiences often render individuals speechless."
+        ]
+      },
+      {
+        "h": "Alia Bhatt Shares Her Appreciation",
+        "p": [
+          "The praise for the lead actor extended immediately within the family circle, with actress Alia Bhatt expressing heartfelt admiration for her husband's intense commitment. She posted a touching photograph captured behind the scenes featuring Ranbir alongside their daughter Raha.",
+          "Her public message emphasized the immense effort her partner poured into the project while maintaining his dedication as a father. She extended her appreciation to everyone involved in crafting the cinematic journey, describing the epic venture as a story that transcends individual contributions."
+        ]
+      },
+      {
+        "h": "Box Office Records and Milestone Collections",
+        "p": [
+          "Beyond the critical acclaim and familial support, the high-budget mythological drama has achieved extraordinary commercial milestones following its theatrical debut. Benefiting from post-Diwali momentum, the feature recorded phenomenal figures during its initial weekday run.",
+          "The project pulled in a staggering collection of Rs 107 crore on its first Monday at the ticket windows. This massive single-day haul propelled the worldwide cumulative earnings of the big-budget enterprise well past the Rs 500 crore threshold globally."
+        ]
+      },
+      {
+        "h": "Cast and Future Additions",
+        "p": [
+          "The scale of the production is reflected in its extensive ensemble cast, which brings together several notable performers from across the entertainment industry. Alongside the primary lead, the cinematic venture features contributions from Ravie Dubey, Arun Govil, Lara Dutta, and Indira Krishnan among others.",
+          "Following the immense commercial success and widespread audience engagement of the inaugural chapter, makers have already looked ahead to the continuation of the narrative. Audiences can anticipate the arrival of the subsequent installment, titled Ramayana Part 2, scheduled to release during the Diwali festival in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Mahesh Bhatt expressed deep pride and emotion over Ranbir Kapoor's performance as Lord Rama in Ramayana: The Rise of a Legend, as shared by Soni Razdan and Alia Bhatt. Meanwhile, the big-budget epic crossed Rs 500 crore globally after setting a Monday box office record of Rs 107 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: The Rise of a Legend features Ranbir Kapoor as Lord Rama",
+      "Soni Razdan shared Mahesh Bhatt's reaction on an Instagram story",
+      "Mahesh Bhatt was moved to tears watching the exile scene before the interval",
+      "Alia Bhatt shared a picture of Ranbir Kapoor and their daughter Raha from the sets",
+      "Ramayana earned Rs 107 crore on its first Monday",
+      "The film has crossed Rs 500 crore worldwide",
+      "Ramayana Part 2 is set to release on Diwali 2028",
+      "The cast includes Ravie Dubey, Arun Govil, Lara Dutta, and Indira Krishnan"
+    ],
+    "entities": {
+      "people": [
+        "Mahesh Bhatt",
+        "Ranbir Kapoor",
+        "Soni Razdan",
+        "Alia Bhatt",
+        "Raha",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Indira Krishnan"
+      ],
+      "titles": [
+        "Ramayana: The Rise of a Legend",
+        "Ramayana Part 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana: The Rise of a Legend",
+      "Ranbir Kapoor Ramayana",
+      "Mahesh Bhatt Ramayana",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135696546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mahesh Bhatt Proud of Ranbir Kapoor's Portrayal in Ramayana: The Rise of a Legend",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T07:19:26+05:30"
+  },
+  "gmrl1k": {
+    "id": "gmrl1k",
+    "type": "news",
+    "headline": "Sarah Michelle Gellar and Freddie Prinze Jr.'s Son Rocky Reaches Driving Milestone",
+    "dek": "The 14-year-old son of celebrity couple Sarah Michelle Gellar and Freddie Prinze Jr. recently shared photos of himself behind the wheel of a Porsche as he pursues his racing ambitions.",
+    "body": [
+      {
+        "h": "Hitting the Accelerator",
+        "p": [
+          "Rocky Prinze, the 14-year-old son of prominent actors Sarah Michelle Gellar and Freddie Prinze Jr., has taken a major step forward in his automotive pursuits. The teenager recently got behind the wheel of a gray Porsche coupe, sharing the monumental experience with his social media followers.",
+          "Accompanying the pictures posted on November 6, Rocky included an inspirational quote by automotive founder Ferdinand Porsche about building the car of one's dreams. The young enthusiast captioned the joint post with his father simply as his first time driving one, marking a significant moment in his growing racing journey."
+        ]
+      },
+      {
+        "h": "Fueling Racing Ambitions",
+        "p": [
+          "Racing has been a focal point for the teenager over the past year, with his family offering unwavering support for his Formula 1 aspirations. Earlier in March, Freddie Prinze Jr. posted video footage of his son speeding around a track, proudly highlighting the hard work Rocky has put into his craft.",
+          "Sarah Michelle Gellar has also encouraged followers to track her son's competitive progress as he accelerates into this new chapter. The proud parents have openly discussed leveraging industry connections—such as utilizing contacts like prominent racer Patrick Dempsey—to help foster their son's grand motorsport dreams."
+        ]
+      },
+      {
+        "h": "Childhood Dreams Realized",
+        "p": [
+          "A passion for fast vehicles is nothing new for the young driver, who has harbored high-speed goals from a very young age. In a throwback social media post from August, Rocky shared a school project from his kindergarten years where he proudly stated his affinity for racing cars.",
+          "Reflecting on his progression, his mother previously celebrated his milestone 13th birthday by noting that he has grown into one of the fastest racers in his state. Balancing his polite demeanor with his competitive edge, Rocky continues to impress those around him on and off the track."
+        ]
+      },
+      {
+        "h": "Family Dynamics and Milestones",
+        "p": [
+          "Alongside their son's racing journey, Sarah Michelle Gellar and Freddie Prinze Jr. frequently share glimpses of life with their older daughter, Charlotte. Born three years and one day prior to her brother, Charlotte turned 17 in September, prompting heartfelt tributes from her mother about her being a built-in best friend.",
+          "The tight-knit family often shares memories from their various travels and celebrations together. From vacations in Italy and Hawaii to celebrating birthdays and milestones, the celebrity couple remains deeply involved in supporting both of their children's distinct ambitions."
+        ]
+      },
+      {
+        "h": "Praising the Next Generation",
+        "p": [
+          "The proud parents have consistently used social media to honor their children's individual paths and growing talents. When celebrating Rocky's 14th birthday in September 2026, Sarah expressed her awe at watching him chase his dreams with such dedicated enthusiasm and a speedy delivery.",
+          "Similarly, tributes to Charlotte have highlighted her artistic inclinations, including past moments where she studied lines from her father's binder after being cast in a children's theatrical production of The Lion King, showing that performing arts run deep in the household alongside motorsport ambitions."
+        ]
+      },
+      {
+        "h": "Memories Captured on Camera",
+        "p": [
+          "While the family generally maintains a protective stance over their children's privacy, special moments occasionally make their way into the public eye. Memorable highlights from past years include a special concert experience where Charlotte met Taylor Swift, alongside cozy family cooking sessions designed to unplug from Hollywood life.",
+          "Whether commemorating first days of school, red carpet appearances at screenings like Do Revenge, or quiet family getaways, Gellar and Prinze Jr. continue to document the joys of watching their children grow through every lap of life."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fourteen-year-old Rocky Prinze, son of Sarah Michelle Gellar and Freddie Prinze Jr., recently shared photos of himself driving a Porsche as he continues pursuing his ambitions in racing. His parents remain actively supportive of his Formula 1 aspirations, celebrating his journey alongside milestones with their older daughter, Charlotte."
+        ]
+      }
+    ],
+    "facts": [
+      "Rocky Prinze is 14 years old.",
+      "Rocky posted photos with a gray Porsche coupe to Instagram on November 6.",
+      "Freddie Prinze Jr. posted a video of Rocky on a track in March.",
+      "Charlotte is 17 years old.",
+      "Patrick Dempsey is a prominent racer who worked with Sarah Michelle Gellar."
+    ],
+    "entities": {
+      "people": [
+        "Sarah Michelle Gellar",
+        "Freddie Prinze Jr.",
+        "Rocky Prinze",
+        "Charlotte",
+        "Ferdinand Porsche",
+        "Patrick Dempsey",
+        "Taylor Swift"
+      ],
+      "titles": [
+        "She's All That",
+        "Buffy the Vampire Slayer",
+        "I Know What You Did Last Summer",
+        "Cruel Intentions",
+        "Do Revenge",
+        "Scooby-Doo",
+        "Ringer",
+        "The Lion King"
+      ]
+    },
+    "keywords": [
+      "Sarah Michelle Gellar son Rocky Porsche",
+      "Freddie Prinze Jr son racing",
+      "Rocky Prinze driving Porsche",
+      "Sarah Michelle Gellar children Charlotte Rocky"
+    ],
+    "images": [
+      {
+        "url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261109/73d11d6e-5d2c-474e-9ce9-afd830749c36_1794276073.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "caption": "Sarah Michelle Gellar and Freddie Prinze Jr.'s Son Rocky Reaches Driving Milestone",
+        "source": "E! News"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 02:16:24 GMT"
   }
 };

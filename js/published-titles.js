@@ -27097,7 +27097,14 @@ window.FA_PUBLISHED = {
     "release_date": "2026-11-12",
     "date_kind": "release",
     "runtime": 98,
-    "providers": []
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "1800853": {
     "id": 1800853,

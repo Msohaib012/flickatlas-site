@@ -17241,7 +17241,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-05",
     "date_kind": "release",
     "status": "Post Production",
-    "providers": [],
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-12",
     "popularity": 0.1714
   },
