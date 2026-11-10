@@ -75140,10 +75140,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Nice Guys",
-      "Ryan Gosling",
-      "Russell Crowe",
-      "Apple TV movie chart"
+      "Ryan Gosling comedy Apple TV",
+      "The Nice Guys Ryan Gosling Russell Crowe",
+      "Ryan Gosling Holland March",
+      "The Nice Guys Apple TV charts"
     ],
     "images": [
       {
@@ -75225,10 +75225,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Salman Khan Ramayana",
-      "Maatrubhumi trailer launch",
-      "Salman Khan Maatrubhumi release date",
-      "Ramayana box office opening"
+      "Salman Khan Ramayana comments",
+      "Salman Khan Maatrubhumi trailer launch",
+      "Salman Khan Lord Ram VFX",
+      "Salman Khan Mumbai event"
     ],
     "images": [
       {
@@ -75329,10 +75329,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Sharon Stone black leather",
+      "Sharon Stone Hannah Waddingham Women in Film Honors",
       "Hannah Waddingham Crystal Award",
-      "Women in Film Honors",
-      "Salma Hayek Jane Fonda Humanitarian Award"
+      "Sharon Stone leather outfit",
+      "Women in Film Beverly Hills ceremony"
     ],
     "images": [
       {
@@ -75420,10 +75420,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Naslen film Scene",
-      "Scene day 1 collection",
-      "Scene vs Vishwanath and Sons"
+      "Suriya Naslen Scene worldwide figures",
+      "Scene movie opening day collection",
+      "Suriya Scene box office debut",
+      "Jithu Madhavan Scene film"
     ],
     "images": [
       {
@@ -75534,10 +75534,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Greatest Prime Video",
-      "Jaleen Best The Greatest",
-      "Michael B. Jordan Ben Watkins",
-      "Prime Video shows November"
+      "Prime Video November weekend viewing",
+      "Amazon Prime Video streaming choices",
+      "November 7-8 2026 streaming",
+      "The Greatest biographical series"
     ],
     "images": [
       {
@@ -75642,10 +75642,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Mookuthi Amman 2 movie review",
+      "Mookuthi Amman 2 review",
       "Nayanthara Mookuthi Amman 2",
-      "Sundar C Mookuthi Amman 2",
-      "Regina Cassandra Mookuthi Amman 2"
+      "Sundar C mythological fantasy sequel",
+      "Mookuthi Amman 2 Diwali release"
     ],
     "images": [
       {
@@ -75856,10 +75856,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Scene film",
-      "Jithu Madhavan Tamil debut",
-      "Scene movie day 1 collection"
+      "Suriya Scene movie day one",
+      "Jithu Madhavan Scene box office",
+      "Scene Tamil movie Diwali",
+      "Suriya Scene collection"
     ],
     "images": [
       {
@@ -75962,10 +75962,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Nitesh Tiwari film",
-      "Ranbir Kapoor Rama",
-      "Yash Ravana"
+      "Ramayana Rise of a Legend review",
+      "Nitesh Tiwari Ramayana movie",
+      "Yash Ranbir Kapoor Ramayana",
+      "Ramayana film Valmiki poem"
     ],
     "images": [
       {
@@ -76061,9 +76061,9 @@ window.FA_ARTICLES = {
     },
     "keywords": [
       "Farah Khan Shreya Ghoshal Main Hoon Na",
-      "Shreya Ghoshal Main Hoon Na songs",
-      "Farah Khan Main Hoon Na debut",
-      "Anu Malik Main Hoon Na music"
+      "Shreya Ghoshal Bollywood industry doubts",
+      "Farah Khan directorial debut",
+      "Main Hoon Na music recording"
     ],
     "images": [
       {
@@ -76153,10 +76153,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Keanu Reeves John Wick",
-      "animated John Wick prequel",
-      "Lionsgate John Wick movie",
-      "Shannon Tindle Ryan Kaz Firpo"
+      "Keanu Reeves John Wick prequel",
+      "John Wick animated movie",
+      "Keanu Reeves Impossible Task",
+      "Lionsgate John Wick prequel"
     ],
     "images": [],
     "published": "Sat, 07 Nov 2026 02:12:37 +0000"
@@ -76241,10 +76241,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film box office",
-      "Ramayana Rise of a Legend",
-      "Ranbir Kapoor Ramayana",
-      "Nitesh Tiwari Ramayana"
+      "Ramayana Box Office Day 2",
+      "Ramayana Rise of a Legend collection",
+      "Nitesh Tiwari Ramayana worldwide",
+      "Ranbir Kapoor Yash Ramayana"
     ],
     "images": [
       {
@@ -76347,11 +76347,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Chang Chen",
-      "Taiwan Creative Content Fest",
-      "Golden Horse Awards",
-      "Lucky Lu",
-      "Taiwan Emerging Actors Showcase"
+      "Chang Chen TCCF showcase",
+      "Chang Chen Taiwan emerging actors",
+      "Taipei Golden Horse Film Festival",
+      "Lucky Lu Chang Chen"
     ],
     "images": [
       {
@@ -76440,11 +76439,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Salman Khan Maatrubhumi movie",
-      "Maatrubhumi trailer launch",
-      "Salman Khan 11 rupees ticket",
-      "Apoorva Lakhia Maatrubhumi",
-      "Chitrangda Singh Maatrubhumi"
+      "Salman Khan Maatrubhumi",
+      "Salman Khan 11 rupee tickets",
+      "Maatrubhumi senior citizens discount",
+      "Salman Khan trailer launch event"
     ],
     "images": [
       {
@@ -76554,10 +76552,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "EA retro PC games",
-      "Wing Commander anniversary edition",
-      "Ultima series re-release",
-      "Origin Systems games Steam"
+      "Electronic Arts classic PC games",
+      "Wing Commander re-release",
+      "Ultima anniversary editions",
+      "Richard Garriott Origin Systems"
     ],
     "images": [
       {
@@ -78929,11 +78927,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Dexter Resurrection",
-      "Dexter Fallen",
-      "Charley Brown",
-      "Ray Ballard",
-      "Five Borough Killer"
+      "Dexter Resurrection Season 1 Episode 2",
+      "Dexter Resurrection Fallen recap",
+      "Bay Harbor Butcher Harrison",
+      "Dexter Resurrection TV series"
     ],
     "images": [
       {
@@ -101899,5 +101896,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 02:16:24 GMT"
+  },
+  "83ej18": {
+    "id": "83ej18",
+    "type": "news",
+    "headline": "Mukesh Khanna Slams Ramayana Makers Over Mata Sita Warrior Portrayal",
+    "dek": "Veteran actor Mukesh Khanna has sharply criticized the creators of Nitesh Tiwari's Ramayana for depicting Mata Sita as a warrior, arguing that the portrayal contradicts Valmiki's epic.",
+    "body": [
+      {
+        "h": "Mukesh Khanna Criticizes Ramayana Adaptation",
+        "p": [
+          "Veteran actor Mukesh Khanna has voiced strong objections to Nitesh Tiwari's cinematic adaptation of the epic Ramayana. Known for his candid and often controversial opinions on mythological projects, Khanna used his YouTube channel Bheeshm International to call out the film's creative choices.",
+          "The actor specifically targeted the depiction of Mata Sita engaging in combat, arguing that such sequences distort the traditional text and impose unauthorized personal narratives onto a sacred historical text."
+        ]
+      },
+      {
+        "h": "Objection To Action Sequence and Creative Liberties",
+        "p": [
+          "In the first part of the film, Sai Pallavi's character Mata Sita is shown fighting demons in a manner reminiscent of a modern heroine or historical figures like Rani Lakshmibai. Khanna questioned this artistic liberty, emphasizing that Valmiki's Ramayana depicts Sita as a devoted wife characterized by service rather than martial prowess.",
+          "He noted that if Sita had been a fighter, she would have resisted Ravana during her abduction instead of being taken away quietly. Khanna admitted he had not watched the film itself, basing his critique entirely on promotional material and public reactions."
+        ]
+      },
+      {
+        "h": "Dispute Over Source Material and Justifications",
+        "p": [
+          "The controversy escalated when producer Namit Malhotra defended the combat sequence, clarifying that it drew inspiration from the Adbhuta Ramayan rather than Valmiki's text. Khanna expressed shock and outrage at this justification, maintaining that Valmiki's work stands as the definitive account of the epic.",
+          "Challenging the filmmakers, the actor questioned why liberties of this scale are taken with Hindu scriptures compared to religious texts of other faiths. He condemned the changes and directed strong words at the production team."
+        ]
+      },
+      {
+        "h": "Financial Focus Versus Story Authenticity",
+        "p": [
+          "Beyond creative alterations, Khanna accused the production team of prioritizing commercial recovery over narrative fidelity. He remarked that public discourse has shifted entirely toward box office figures and recouping massive budgets rather than preserving the authentic telling of the story.",
+          "The film has reportedly operated on a substantial budget of Rs 4,000 crore, leading to intense industry discussions surrounding its financial performance and return on investment."
+        ]
+      },
+      {
+        "h": "Box Office Success and Cast Details",
+        "p": [
+          "Despite facing criticism from figures like Mukesh Khanna, Nitesh Tiwari's Ramayana has achieved significant commercial success at the box office. The epic has successfully crossed the Rs 400 crore milestone in domestic collections.",
+          "The project features a high-profile ensemble cast including Ranbir Kapoor, Yash, Sai Pallavi, and Ravie Dubey in pivotal roles. Furthermore, plans are already underway for the franchise, with the second part slated for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "Viral Reaction and Silence From Makers",
+        "p": [
+          "Khanna's video commentary has circulated widely across various social media platforms, sparking intense debate among internet users and audiences. While the public has engaged in heated discussions regarding his remarks, the filmmakers have yet to issue an official response.",
+          "As the dialogue surrounding authenticity versus creative adaptation continues online, the project remains a major focal point for both entertainment news and box office tracking."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Mukesh Khanna criticized the makers of Nitesh Tiwari's Ramayana for depicting Mata Sita as a warrior, claiming it distorts Valmiki's epic. While the producer defended the scene using the Adbhuta Ramayan, Khanna condemned the creative liberties amid the film's major box office run."
+        ]
+      }
+    ],
+    "facts": [
+      "Mukesh Khanna criticized Ramayana makers in a YouTube video on Bheeshm International.",
+      "Nitesh Tiwari is the director of Ramayana.",
+      "Namit Malhotra is the producer of Ramayana.",
+      "Sai Pallavi plays the character of Sita in Ramayana Part 1.",
+      "Ramayana has a budget of Rs 4,000 crore.",
+      "Ramayana has crossed the Rs 400 crore mark at the Indian box office.",
+      "Ramayana Part 2 is scheduled to release on Diwali 2028.",
+      "The cast of Ramayana includes Ranbir Kapoor, Yash, Sai Pallavi, and Ravie Dubey."
+    ],
+    "entities": {
+      "people": [
+        "Mukesh Khanna",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Ranbir Kapoor",
+        "Yash",
+        "Ravie Dubey",
+        "Valmiki",
+        "Sumit Rajguru"
+      ],
+      "titles": [
+        "Ramayana",
+        "Shaktimaan",
+        "Adbhuta Ramayan"
+      ]
+    },
+    "keywords": [
+      "Mukesh Khanna Ramayana",
+      "Ramayana Mata Sita warrior",
+      "Nitesh Tiwari Ramayana film",
+      "Namit Malhotra Ramayana budget"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156487276,thumbsize-747154,width-1280,height-720,resizemode-75/156487276.jpg",
+        "caption": "Mukesh Khanna Slams Ramayana Makers Over Mata Sita Warrior Portrayal",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T03:52:16Z"
+  },
+  "1p6hl1b": {
+    "id": "1p6hl1b",
+    "type": "news",
+    "headline": "Ramayana Makes History as First Indian Film to Top U.K., Ireland Box Office",
+    "dek": "Sony's mythological adventure 'Ramayana: Rise of a Legend' claims the top spot at the U.K. and Ireland box office, leading a crowded slate of new releases.",
+    "body": [
+      {
+        "h": "A Historic Milestone for Indian Cinema",
+        "p": [
+          "Sony's animated mythological adventure 'Ramayana: Rise of a Legend' has officially rewritten box office history. The feature successfully captured the number one spot across the U.K. and Ireland, marking a major milestone as the very first Indian feature film to lead the territory's weekend box office charts. The title pulled in an impressive collection to outpace a heavily contested field of new cinematic arrivals.",
+          "Prior to this breakthrough achievement, the highest peaks reached by Indian cinema in the region had stopped just short of the summit. The previous ceiling was second place, a record jointly held by several prominent titles over recent years, establishing a solid foundation that 'Ramayana: Rise of a Legend' ultimately surpassed."
+        ]
+      },
+      {
+        "h": "Predecessors and Previous Records",
+        "p": [
+          "The journey of Indian cinema breaking into the upper echelons of the U.K. and Ireland box office includes several notable milestones. S.S. Rajamouli's blockbuster 'RRR' first touched the second-place ceiling in 2022. That achievement was subsequently mirrored by Shah Rukh Khan starrers 'Pathaan' and 'Jawan' in 2023, as well as Ranveer Singh's 'Dhurandhar: The Revenge' earlier in the year.",
+          "While those powerhouse releases managed to secure strong placements near the top of the charts, none crossed the threshold into the number one position until the arrival of 'Ramayana: Rise of a Legend', setting a new benchmark for cross-border appeal and theatrical performance."
+        ]
+      },
+      {
+        "h": "The Wider Box Office Landscape",
+        "p": [
+          "Beyond the historic chart-topper, the rest of the U.K. and Ireland box office featured a diverse collection of debuts and holdovers. Disney's 'Wild Horse Nine' secured the second position during its opening frame, while Anime Ltd.'s 'Godzilla Minus Zero' made a strong entry in third place. Further down the chart, Black Bear's period comedy 'Wicker' slid to fourth place in its sophomore frame.",
+          "Other notable performers across the top ten included Universal's concert presentation 'George Michael: The Faith Tour', A24's 'Primetime', Lionsgate U.K.'s 'Ghosts: The Possession of Button House', and Warner Bros.' horror thriller 'Clayface'. Additionally, titles like 'I Play Rocky' and the 'Stray Kids World Tour 'Run It' Live Viewing' rounded out the upper tiers."
+        ]
+      },
+      {
+        "h": "Upcoming Programming and Rollouts",
+        "p": [
+          "Looking ahead to the upcoming theatrical calendar, mid-week programming features specialized event cinema before a fresh wave of wide commercial rollouts arrives on Friday. Notable upcoming titles include Susanna White's legal drama 'Prima Facie', alongside platform releases like 'How To Rob A Bank', 'Ebenezer', and 'Being Heumann'.",
+          "International, festival, and specialized presentations are also scheduled to debut, ranging from wartime dramas to musical event screenings and repertory re-releases, maintaining a busy operational cycle for cinemas across the region."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony's animated mythological adventure 'Ramayana: Rise of a Legend' has become the first Indian feature film to debut at the top of the U.K. and Ireland box office. It surpassed the previous regional ceiling of second place held by past titles like 'RRR', 'Pathaan', 'Jawan', and 'Dhurandhar: The Revenge' while leading a competitive slate of new theatrical releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend collected £2.1 million ($2.8 million) in its debut.",
+      "Previous second-place Indian films in the U.K. and Ireland include RRR in 2022, Pathaan and Jawan in 2023, and Dhurandhar: The Revenge.",
+      "Wild Horse Nine secured second position with $1.9 million.",
+      "Godzilla Minus Zero debuted in third place with $1.8 million.",
+      "Wicker moved to fourth place with $1.5 million, raising its running total to $5.7 million."
+    ],
+    "entities": {
+      "people": [
+        "Naman Ramachandran",
+        "S.S. Rajamouli",
+        "Shah Rukh Khan",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Godzilla Minus Zero",
+        "RRR",
+        "Pathaan",
+        "Jawan",
+        "Dhurandhar: The Revenge",
+        "Wild Horse Nine",
+        "Wicker",
+        "George Michael: The Faith Tour",
+        "Primetime",
+        "Ghosts: The Possession of Button House",
+        "Clayface",
+        "I Play Rocky",
+        "Stray Kids World Tour 'Run It' Live Viewing"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana U_K Ireland box office",
+      "Godzilla Minus Zero box office",
+      "Ramayana first Indian film top UK box office"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Ramayana-Godzilla.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Ramayana Makes History as First Indian Film to Top U.K., Ireland Box Office",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 03:25:16 +0000"
+  },
+  "ldnhx4": {
+    "id": "ldnhx4",
+    "type": "news",
+    "headline": "Exploring the 10 Funniest Cow Comics From Gary Larson's The Far Side That Stand the Test of Time",
+    "dek": "Decades after its original run ended in 1995, Gary Larson's iconic comic series The Far Side continues to captivate readers with its uniquely absurd and dark humor, particularly regarding its extensive collection of memorable cow cartoons.",
+    "body": [
+      {
+        "h": "The Enduring Appeal of Gary Larson's Surreal Humor",
+        "p": [
+          "The Far Side has maintained its massive cultural footprint long after its publication concluded in 1995. Known for its deliciously absurd perspective and willingness to mock a wide variety of quirky topics, the series frequently dialed up its surreality by inserting animals into thoroughly mundane, humanlike predicaments.",
+          "Among all the creatures featured across the extensive run, Gary Larson's creative obsession with cows stands out as remarkably well-documented. These bovines received humanizing treatments that connected effortlessly with audiences, ensuring that many specific strips would endure far beyond their original newspaper print dates."
+        ]
+      },
+      {
+        "h": "Navigating the Past: Timeless Gags Versus Dated References",
+        "p": [
+          "Naturally, not every single strip featuring cows has aged with absolute uniformity. Certain gags anchored heavily in 1980s pop culture references, such as Carmen Miranda motifs, can feel noticeably dated to modern readers born closer to the current century.",
+          "Despite occasional cultural shifts, a vast majority of the cow cartoons remain relatable, delightfully weird, and structurally hilarious. These specific panels showcase Larson at the height of his satirical powers, blending surreal concepts with everyday observations."
+        ]
+      },
+      {
+        "h": "Cow Tourists and Hay Bars: Clever Puns and Cultural Quirks",
+        "p": [
+          "One standout strip published in May 1988 takes a wider panoramic view to poke fun at tourists who stand out in unfamiliar territory. Armed with a camera and a specialized dictionary, these upright-walking cows sport loud outfits while bewildered buffalo look on from the sidelines.",
+          "Another clever entry from October 1991 tackles the agricultural dynamic between cows and chickens. By introducing a witty pun on a familiar venue type, Larson transformed a standard farmyard coexistence into an amusing watering hole setting."
+        ]
+      },
+      {
+        "h": "Revenge Fantasies and Sudden Cognitive Awakening",
+        "p": [
+          "In a darkly comedic 1992 strip, cows plot a surreal act of retribution against Farmer MacDougal and his wife using an automated milking apparatus. The ensuing police investigation into the strange machinery adds an extra layer of macabre absurdity to the narrative.",
+          "An even earlier panel from October 1981 captures the exact moment a grazing cow achieves sudden cognitive consciousness. Looking down at the grass with profound disappointment, the cartoon mirrors modern meme culture regarding the abrupt realization of existence."
+        ]
+      },
+      {
+        "h": "Concealing Identities and Practicing Stoic Philosophy",
+        "p": [
+          "Maintaining the illusion of being ordinary, unintelligent livestock requires considerable effort, as highlighted in a 1984 strip where cows actively monitor their surroundings before standing on two legs. The prospect of towering over humans provides ample motivation for keeping their true capabilities under wraps.",
+          "Meanwhile, another panel blends Epicurean philosophy with the classic idiom encouraging people to appreciate simple pleasures. By taking a moment to stop and literally consume the surrounding flora, the cows demonstrate a serene mindfulness that human philosophers might envy."
+        ]
+      },
+      {
+        "h": "Domestic Struggles and Primitive Inventions",
+        "p": [
+          "Managing energetic offspring is a universal struggle across species, prompting Larson to devise an improvised playpen solution for a stressed mother cow in December 1990. Using an overturned table combined with electrified cables running across the legs, the comic offers a hilariously hazardous parenting tip.",
+          "A 1987 strip featuring cavemen and nervous cows explores the fictitious origin of milkshakes. While the characters bounce a cow to achieve the desired beverage effect, they inadvertently invent a primitive precursor to the life safety net."
+        ]
+      },
+      {
+        "h": "Fringe Beliefs and Power Stances in the Pasture",
+        "p": [
+          "Religious satire also made its way into the pasture with a 1987 strip introducing the concept of cowintologists. Poking fun at aggressive canvassing and fringe belief systems, the cartoon imagines a bovine alternative to earthly spiritual movements.",
+          "Finally, an August 1988 panel titled Power Stance flips the traditional milking dynamic on its head. With a cow standing proudly upright and resting its hooves firmly on the unsettled farmer's chest, the strip brilliantly questions who is truly serving whom."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Gary Larson's legendary comic series The Far Side continues to be celebrated for its brilliant and surreal cow-themed cartoons. Decades after their initial publication, these classic strips remain beloved for their dark humor and clever parodies of everyday situations."
+        ]
+      }
+    ],
+    "facts": [
+      "The Far Side ended its original run in 1995.",
+      "The cow tourist comic was published on May 5, 1988.",
+      "The hay bar comic was published on October 25, 1991.",
+      "The auto milker comic was published on January 7, 1992.",
+      "The grass awakening comic was published on October 16, 1981.",
+      "The two-legged cow concealment comic was published on January 6, 1984.",
+      "The roses comic was published on March 28, 1983.",
+      "The calf playpen comic was published on December 28, 1990.",
+      "The milkshake comic was published on June 18, 1987.",
+      "The cowintology comic was published on January 17, 1987.",
+      "The power stance comic was published on August 27, 1988.",
+      "The Far Side features over 4300 comic strips."
+    ],
+    "entities": {
+      "people": [
+        "Gary Larson",
+        "J.R. Waugh",
+        "Farmer MacDougal",
+        "Hammurabi",
+        "Carmen Miranda",
+        "Robert Wood"
+      ],
+      "titles": [
+        "The Far Side",
+        "Shonen Jump",
+        "Rick Morty"
+      ]
+    },
+    "keywords": [
+      "The Far Side",
+      "Gary Larson",
+      "The Far Side cow comics",
+      "best Far Side comic strips"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/the-far-side-funniest-cow-comics-aged-perfectly.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Exploring the 10 Funniest Cow Comics From Gary Larson's The Far Side That Stand the Test of Time",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 03:30:18 GMT"
+  },
+  "1ktpzav": {
+    "id": "1ktpzav",
+    "type": "news",
+    "headline": "Renowned Malayalam Cinematographer Shaji Kumar Passes Away at 57",
+    "dek": "The acclaimed cinematographer, known for his work on blockbusters like Pulimurugan and Naran, died at the age of 57 while shooting a project in Alappuzha.",
+    "body": [
+      {
+        "h": "Passing of a Renowned Cinematographer",
+        "p": [
+          "The Malayalam film industry mourns the loss of veteran cinematographer Shaji Kumar, who passed away at the age of 57. Industry sources confirmed his death, which occurred while he was actively involved in a film shoot.",
+          "His sudden demise has sent shockwaves through the regional cinema community, prompting an outpouring of grief and condolences from colleagues, directors, and actors who worked with him throughout his career."
+        ]
+      },
+      {
+        "h": "Final Days and Medical Emergency",
+        "p": [
+          "Shaji Kumar was in Alappuzha working on an upcoming film starring actor Dileep when he fell ill at his hotel room on a Saturday night. He immediately communicated his physical discomfort to the film's director, Ullas Krishna.",
+          "Following the alert, he was rushed to a nearby medical facility before being transferred to a private hospital. Although his initial recovery showed promise and he was able to converse normally, his health took a sharp turn for the worse on Sunday night."
+        ]
+      },
+      {
+        "h": "A Distinguished Career in Malayalam Cinema",
+        "p": [
+          "Beginning his professional journey as a disciple of veteran cinematographer Vipin Mohan, Kumar initially worked on multiple projects before establishing himself as an independent director of photography. He transitioned seamlessly from traditional film cameras to modern digital setups.",
+          "Known for his exceptional grasp of lighting, framing, and color composition, he became a trusted visual storyteller for numerous hit movies across several decades in the industry."
+        ]
+      },
+      {
+        "h": "Collaborations with Leading Directors and Stars",
+        "p": [
+          "Throughout his extensive career, Kumar partnered with a wide range of prominent filmmakers, including Joshiy, Shaji Kailas, V M Vinu, M Padmakumar, and Vaishakh. He also built strong professional relationships with younger directors like Tharun Moorthy.",
+          "His impressive filmography features major commercial successes and prominent star-driven projects, solidifying his reputation as one of the most reliable cinematographers in Malayalam cinema."
+        ]
+      },
+      {
+        "h": "Notable Works and Lasting Filmography",
+        "p": [
+          "Kumar's rich body of work includes widely recognized blockbusters and popular titles such as Naran, Pulimurugan, Ramaleela, Odiyan, Madhura Raja, Ittymaani: Made in China, Night Drive, Pathonpatham Noottandu, Bandra, and Once Upon a Time in Kochi.",
+          "Among his recent cinematography assignments were Athimanoharam, directed by Tharun Moorthy and starring Mohanlal, as well as Suresh Gopi's film Ottakomban and Thudarum."
+        ]
+      },
+      {
+        "h": "Industry Tributes and Personal Background",
+        "p": [
+          "Following the news of his passing, organizations such as the FEFKA Directors' Union shared tributes acknowledging his invaluable contributions to the visual language of Malayalam films.",
+          "Originally hailing from Thiruvananthapuram, Kumar had resided in Perumbavoor for many years. He is survived by his wife, Smitha, and their two sons, Aryan and Sooryan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renowned Malayalam cinematographer Shaji Kumar passed away at the age of 57 while shooting for an upcoming film starring Dileep in Alappuzha. His illustrious career included collaborations with major stars like Mohanlal and Suresh Gopi on notable films such as Pulimurugan and Naran, leaving behind a grieving film community and his surviving family members."
+        ]
+      }
+    ],
+    "facts": [
+      "Shaji Kumar died at the age of 57.",
+      "He fell ill while shooting for Dileep's upcoming film in Alappuzha.",
+      "He informed director Ullas Krishna about his physical discomfort on Saturday night.",
+      "He passed away after his health deteriorated on Sunday night.",
+      "He is survived by his wife Smitha and sons Aryan and Sooryan.",
+      "He was a disciple of cinematographer Vipin Mohan.",
+      "His filmography includes Pulimurugan, Naran, Ramaleela, Odiyan, Madhura Raja, Ittymaani: Made in China, Night Drive, Pathonpatham Noottandu, Bandra, Once Upon a Time in Kochi, and Thudarum."
+    ],
+    "entities": {
+      "people": [
+        "Shaji Kumar",
+        "Dileep",
+        "Smitha",
+        "Aryan",
+        "Sooryan",
+        "Ullas Krishna",
+        "Vipin Mohan",
+        "Joshiy",
+        "Shaji Kailas",
+        "V M Vinu",
+        "M Padmakumar",
+        "Vaishakh",
+        "Tharun Moorthy",
+        "Mohanlal",
+        "Suresh Gopi"
+      ],
+      "titles": [
+        "Pulimurugan",
+        "Naran",
+        "Thudarum",
+        "Athimanoharam",
+        "Ottakomban",
+        "Ramaleela",
+        "Odiyan",
+        "Madhura Raja",
+        "Ittymaani: Made in China",
+        "Night Drive",
+        "Pathonpatham Noottandu",
+        "Bandra",
+        "Once Upon a Time in Kochi"
+      ]
+    },
+    "keywords": [
+      "Shaji Kumar cinematographer",
+      "Shaji Kumar Malayalam cinema",
+      "Shaji Kumar Dileep film",
+      "Shaji Kumar Pulimurugan"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Malayalam_cinema_1794280178408_WIwl_1794280178579_l0pF_f320989b-0f35-48bd-85cb-fe0e561a6b87_mSse.png",
+        "caption": "Renowned Malayalam Cinematographer Shaji Kumar Passes Away at 57",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:45:38 +0530"
   }
 };
