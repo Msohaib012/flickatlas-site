@@ -1,6 +1,6 @@
 {
   "connected": true,
-  "generated": "2026-11-10T20:07:04Z",
+  "generated": "2026-11-10T20:53:57Z",
   "realtime": {
     "active_users": 0
   },
@@ -12,22 +12,22 @@
   },
   "last7": {
     "users": 40,
-    "pageviews": 254,
+    "pageviews": 255,
     "sessions": 86,
-    "avg_session_seconds": 145.1
+    "avg_session_seconds": 145.8
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 90,
-      "avg_time_seconds": 139.9
+      "avg_time_seconds": 140.0
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
       "views": 25,
-      "avg_time_seconds": 68.4
+      "avg_time_seconds": 71.9
     },
     {
       "path": "/box-office",
@@ -48,6 +48,12 @@
       "avg_time_seconds": 7.1
     },
     {
+      "path": "/most-awaited",
+      "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
+      "views": 13,
+      "avg_time_seconds": 4.6
+    },
+    {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
       "views": 13,
@@ -64,12 +70,6 @@
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
       "views": 12,
       "avg_time_seconds": 14.9
-    },
-    {
-      "path": "/most-awaited",
-      "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 5.0
     },
     {
       "path": "/search",

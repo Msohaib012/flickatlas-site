@@ -108955,5 +108955,381 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-10T12:01:37+05:30"
+  },
+  "wvpj33": {
+    "id": "wvpj33",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Box Office Collection Reaches Major Milestones By Day 6",
+    "dek": "An overview of the box office performance, day-wise occupancy rates, and language-wise earnings for Ramayana: Part 1 during its first week in theaters.",
+    "body": [
+      {
+        "h": "Introduction to the First Week Box Office Run",
+        "p": [
+          "The theatrical release of Ramayana: Part 1 has drawn immense attention from audiences and industry trackers alike. As the film progresses through its initial week, analysts have closely monitored every single day of earnings to gauge its overall box office trajectory.",
+          "While early reports and estimates outline the daily collections across various regions, the seventh day figures remain pending as tracking continues. The data provides a comprehensive look at how the movie has performed since its debut."
+        ]
+      },
+      {
+        "h": "Language-Wise Earnings Breakdown",
+        "p": [
+          "Ramayana: Part 1 has pulled in revenues from multiple language versions across India. On its opening day, the film collected 62.5 crore rupees net overall, with the Hindi version contributing 45 crore rupees, Kannada earning 7.5 crore rupees, Telugu bringing in 6 crore rupees, Tamil generating 2.5 crore rupees, and Malayalam accounting for 1.5 crore rupees.",
+          "Subsequent days continued to display strong multi-language participation. By the sixth day, total net collections had scaled significantly, maintaining steady contributions from the Hindi market alongside consistent regional language figures."
+        ]
+      },
+      {
+        "h": "Day-Wise Net Collections Analysis",
+        "p": [
+          "The theatrical journey began with a massive 62.5 crore rupees net on Day 1, followed by 48.75 crore rupees net on the second day. Day 3 saw an upward surge with collections hitting 70.75 crore rupees net.",
+          "The momentum continued with 55 crore rupees net on Day 4. A massive jump occurred on Day 5, where earnings reached 111.25 crore rupees net, and Day 6 sustained high numbers with 95 crore rupees net, bringing the total estimated net earnings for the first six days to 443.25 crore rupees."
+        ]
+      },
+      {
+        "h": "Hindi Version Occupancy Trends",
+        "p": [
+          "The occupancy rates for the Hindi version fluctuated across different show timings throughout the week. On Day 1, theater occupancy stood at 18 to 20 percent in the morning, 23 to 25 percent in the afternoon, and 45 to 50 percent at night, averaging an overall 30.17 percent.",
+          "Occupancy saw notable spikes later in the week, particularly on Day 5 and Day 6. Day 5 recorded morning occupancy at 50 percent, afternoon at 80 percent, and night between 70 and 75 percent, resulting in a 67.5 percent overall rate."
+        ]
+      },
+      {
+        "h": "Global and Domestic Gross Totals",
+        "p": [
+          "In addition to domestic net figures, the film has accumulated substantial gross earnings. The total India net collection stands at an estimated 443.25 crore rupees, while the India gross total has reached 523 crore rupees.",
+          "On the international front, overseas markets contributed 27.75 million dollars, translating to approximately 262 crore rupees. Combined, these figures push the worldwide gross total for Ramayana: Part 1 to an estimated 785 crore rupees."
+        ]
+      },
+      {
+        "h": "Understanding the Data and Estimates",
+        "p": [
+          "Box office figures for the film are derived from a combination of early estimates, industry reports, and various tracking sources. These numbers serve as provisional indicators of the movie's commercial performance.",
+          "As figures remain subject to variation compared to official producer statements, industry observers continue to evaluate the final metrics for the initial week of release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has recorded an estimated total net collection of 443.25 crore rupees across its first six days at the domestic box office. Backed by strong language-wise earnings and impressive overseas contributions, the film's worldwide gross has reached 785 crore rupees."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 Day 1 collection was 62.5 cr",
+      "Ramayana: Part 1 Day 2 collection was 48.75 cr",
+      "Ramayana: Part 1 Day 3 collection was 70.75 cr",
+      "Ramayana: Part 1 Day 4 collection was 55 cr",
+      "Ramayana: Part 1 Day 5 collection was 111.25 cr",
+      "Ramayana: Part 1 Day 6 collection was 95 cr",
+      "Total 6 days India Net is 443.25 cr",
+      "India Gross is 523 cr",
+      "Overseas collection is 27.75 million dollars",
+      "Worldwide total is 785 cr"
+    ],
+    "entities": {
+      "people": [
+        "Ankur Baruah"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Part 1 collection",
+      "Ramayana Part 1 day wise collection",
+      "Ramayana Part 1 occupancy"
+    ],
+    "images": [
+      {
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHVsReyM3WxJs_Dqgz52HhUQzDAtl8cz1D4eMCf09k_dVOoKZtF0AjGz_tT8NHX7OYatfZ-4Wt4WaeB9C1DRkR8DlJGHPrl4OOBVC6Z63YNGITk1lwukC9dzd2juCXkdLz5WPMzBl5v9M6AKL1l4zamizMzw6dQcptT0oGE-B3fswI4EGB8mvWbcpfaD0/w1600/ramayana-part-1-day-7-box-office-collection.jpg",
+        "caption": "Ramayana: Part 1 Box Office Collection Reaches Major Milestones By Day 6",
+        "source": "AddaToday"
+      }
+    ],
+    "published": "2026-11-11T01:28:40.784+05:30"
+  },
+  "1vtobxr": {
+    "id": "1vtobxr",
+    "type": "news",
+    "headline": "Pawan Kalyan and Anna Konidela Announce Separation After 13 Years of Marriage",
+    "dek": "The actor and Andhra Pradesh Deputy Chief Minister confirmed their decision to part ways in a joint statement, saying children's well-being remain their priority.",
+    "body": [
+      {
+        "h": "The Official Announcement",
+        "p": [
+          "Actor and Andhra Pradesh Deputy Chief Minister Pawan Kalyan along with his wife, Anna Konidela, have publicly revealed their choice to end their marriage. In a joint statement released late on a Monday night, the pair confirmed their separation after spanning 13 years together.",
+          "The announcement surprised many supporters and well-wishers across the region. Despite ending their romantic journey, the couple stressed that they intend to maintain a cordial bond moving forward."
+        ]
+      },
+      {
+        "h": "Prioritising Co-Parenting",
+        "p": [
+          "Within their shared statement, the duo emphasised that their main focus continues to be the happiness and welfare of their two children. They noted that they remain devoted parents committed to raising them together.",
+          "Furthermore, they highlighted that mutual respect and friendship will guide their future interactions as they navigate this new chapter of their family life."
+        ]
+      },
+      {
+        "h": "Requesting Privacy",
+        "p": [
+          "As they undergo this major personal transition, the pair formally requested privacy from the public and the media. They asked for understanding, kindness, and respect during a sensitive period for their family.",
+          "They also took the opportunity to express heartfelt gratitude to everyone who has supported them throughout their shared journey over the past decade and more."
+        ]
+      },
+      {
+        "h": "Silence on Specific Reasons",
+        "p": [
+          "The joint message did not delve into any specific reasons behind the breakdown of the marriage. No details regarding legal proceedings or formal arrangements were disclosed in the release.",
+          "Instead, the communication remained entirely focused on their ongoing commitment to co-parenting and maintaining mutual goodwill without inviting speculation."
+        ]
+      },
+      {
+        "h": "Background and Marriage History",
+        "p": [
+          "Pawan Kalyan and Anna Lezhneva were officially married on September 30, 2013, after a relationship that began several years prior. Anna is a Russian national who crossed paths with the actor during the production of a movie.",
+          "They reportedly met on the sets of the film Teen Maar in the year 2011. Although initial rumors suggested she appeared in the project as a foreign extra, Anna later clarified she was never part of the cast."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pawan Kalyan and Anna Konidela have announced their separation after 13 years of marriage in a joint statement issued late on a Monday night. The couple emphasized that co-parenting their two children and maintaining mutual respect remain their top priorities while asking for privacy during this transition."
+        ]
+      }
+    ],
+    "facts": [
+      "Pawan Kalyan and Anna Konidela announced their separation on Nov 10, 2026.",
+      "They were married for 13 years after tying the knot on September 30, 2013.",
+      "The couple share two children together.",
+      "Anna Lezhneva is a Russian national who met Pawan Kalyan on the sets of the film Teen Maar in 2011."
+    ],
+    "entities": {
+      "people": [
+        "Pawan Kalyan",
+        "Anna Konidela",
+        "Anna Lezhneva"
+      ],
+      "titles": [
+        "Teen Maar"
+      ]
+    },
+    "keywords": [
+      "Pawan Kalyan",
+      "Anna Konidela",
+      "Pawan Kalyan divorce",
+      "Anna Lezhneva",
+      "Teen Maar"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/pawankalyanwife1794278948.jpg",
+        "caption": "Pawan Kalyan and Anna Konidela Announce Separation After 13 Years of Marriage",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-10T08:22:17+05:30"
+  },
+  "frm23": {
+    "id": "frm23",
+    "type": "news",
+    "headline": "Below Deck Season 13 Episode 5 Brings Mounting Workplace Tension and Romance",
+    "dek": "An exploration of crew friction, chaotic romances, and personal struggles aboard the Azul V in the latest installment of Bravo's hit reality series.",
+    "body": [
+      {
+        "h": "Introduction to Episode Five",
+        "p": [
+          "The thirteenth season of Bravo's flagship reality series reaches a compelling turning point in its fifth installment, titled Knot So Innocent. As the crew of the Azul V navigates demanding charters, simmering personal conflicts threaten to derail operations both on and off the boat.",
+          "Viewers witness a mix of professional insecurities and chaotic romantic entanglements, giving this particular episode a broader and more engaging scope than previous weeks of the current run."
+        ]
+      },
+      {
+        "h": "Matt and Kaylee's Tumultuous Dynamic",
+        "p": [
+          "Deckhand Matt continues to stir up trouble with his arrogant attitude and alcohol-fueled outbursts, particularly targeting coworker Kaylee. Despite his abrasive delivery and questionable behavior, Matt occasionally hits harsh truths, such as noting that a mere week is not enough time to fall in love.",
+          "Meanwhile, Kaylee maintains an unfazed demeanor through Matt's boasts about his intelligence and past infidelities, even going so far as to brush off his toxic remarks while dreaming of a future together."
+        ]
+      },
+      {
+        "h": "Romance and Friction Among the Crew",
+        "p": [
+          "Romantic tensions extend beyond Matt and Kaylee as James and Rosa navigate a shaky connection. While James admits he cannot commit to anything more than a brief fling, Rosa deals with mounting personal trust issues regarding Rainbeau.",
+          "At the same time, Alex and Sen maintain a relatively stable relationship amidst the surrounding chaos, though their interactions still face scrutiny from coworkers watching closely from the sidelines."
+        ]
+      },
+      {
+        "h": "Power Struggles on Deck",
+        "p": [
+          "A clear power struggle brews between deckhand Matt and bosun Alex, with Matt openly criticizing Alex's leadership style and making disrespectful remarks. Although Alex handles the friction with relative patience, Captain Kerry notes that Alex remains on thin ice following minor mistakes like overflowing the hot tub.",
+          "Fraser keeps a watchful eye on Matt's destructive behavior, recognizing that unchecked authority could lead to even greater disruptions if Matt were to successfully usurp Alex's position."
+        ]
+      },
+      {
+        "h": "Chef Moe Faces Exhaustion",
+        "p": [
+          "Chef Moe struggles under immense personal and professional pressure during the charter. Being away from home proves difficult, compounded by the emotional weight of his mother selling his childhood home and feeling isolated as a person of color in a predominantly white industry.",
+          "His exhaustion spills over into the galley service, resulting in rushed dishes like salads served on grilled croissants and deconstructed lava cakes, prompting supportive check-ins from Fraser and Captain Kerry."
+        ]
+      },
+      {
+        "h": "A Welcome Charter Break",
+        "p": [
+          "The arrival of primary guest Janessa and her group provides a much-needed reprieve from previous difficult charters. The polite guests and well-behaved teens allow the crew to refocus their energies on delivering smooth service.",
+          "During this charter, the guests take a special private tour of James Bond Island in honor of Janessa's late husband Steve, adding a touching and memorable moment to the itinerary."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The fifth episode of Below Deck Season 13 highlights escalating tensions on the Azul V as crew members grapple with demanding guests, messy romances, and workplace power struggles. From Matt's abrasive behavior toward Kaylee to Moe's personal burnout in the galley, the latest installment delivers significant drama for followers of the Bravo reality franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Below Deck Season 13 Episode 5 is titled Knot So Innocent.",
+      "Matt claimed his IQ places him in the top seven percent of the world.",
+      "The yacht featured in the season is the Azul V.",
+      "Primary guest Janessa honored her late husband Steve by visiting James Bond Island."
+    ],
+    "entities": {
+      "people": [
+        "Matt",
+        "Kaylee",
+        "Moe",
+        "Rainbeau",
+        "James",
+        "Rosa",
+        "Sen",
+        "Alex",
+        "Fraser",
+        "Kerry",
+        "Janessa",
+        "Steve",
+        "Madison",
+        "Paris"
+      ],
+      "titles": [
+        "Below Deck",
+        "The Man With the Golden Gun"
+      ]
+    },
+    "keywords": [
+      "Below Deck Knot So Innocent",
+      "Below Deck Season 13 Episode 5",
+      "Azul V crew drama",
+      "Matt and Kaylee Below Deck"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/717/ce4/8a6ee711b9373dfbab5458a1af3af8646e-belowd-6.1x.rsocial.w1200.png",
+        "caption": "Below Deck Season 13 Episode 5 Brings Mounting Workplace Tension and Romance",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-10T03:38:18.789Z"
+  },
+  "10lgmxm": {
+    "id": "10lgmxm",
+    "type": "news",
+    "headline": "Alexander Skarsgård, Hunter Schafer, Maya Hawke, and Harry Melling Cast in The Confessions",
+    "dek": "The acclaimed ensemble will star in the cautionary psycho-dramedy directed by Guy Maddin, Galen Johnson, and Evan Johnson, with Ari Aster producing.",
+    "body": [
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "A major new feature titled The Confessions has announced its high-profile lead cast, bringing together Alexander Skarsgård, Hunter Schafer, Maya Hawke, and Harry Melling. The actors are set to take the helm of this upcoming project, which is already generating significant industry buzz following its announcement.",
+          "Each of the principal cast members brings notable recent credits to the production. Alexander Skarsgård is known for Wicker, Hunter Schafer for Blade Runner 2099, Maya Hawke for Stranger Things, and Harry Melling for Pillion."
+        ]
+      },
+      {
+        "h": "Behind the Camera: Directors and Producers",
+        "p": [
+          "The film is written and directed by the Canadian filmmaking trio consisting of Guy Maddin, Galen Johnson, and Evan Johnson. The creative collective is widely recognized for their distinct, surrealist, and genre-bending storytelling approaches.",
+          "On the production side, the film is backed by Square Peg, the production banner run by Ari Aster and Lars Knudsen. Aster expressed immense admiration for the Canadian directors, calling them some of his favorite filmmakers in the world."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The Confessions is officially described by its creators as a cautionary psycho-dramedy. The narrative centers on a group of condemned nuns who bear witness to an accursed, globe-spanning love triangle involving a missing sea captain and his poet wife.",
+          "The filmmakers offered an eccentric characterization of the film's tone, describing it partly as a religio-maritime rough-music psychomachy and partly as a hallucinated saltwater shaming parade."
+        ]
+      },
+      {
+        "h": "Collaborative History and Studio Support",
+        "p": [
+          "This project serves as the direct follow-up to the filmmaking trio's political satire Rumours, which premiered out of competition at the Cannes Film Festival in 2024. Square Peg previously collaborated with the directors on that venture and boarded the new project during its early development stage.",
+          "Additional production muscle comes from Daniel Bekerman's Scythia Films. The feature is produced by Square Peg in the United States alongside Scythia Films and Thin Stuff in Canada, with financial and institutional support provided by Telefilm Canada."
+        ]
+      },
+      {
+        "h": "Sales and Distribution Partners",
+        "p": [
+          "The project is currently being introduced to international buyers at the American Film Market (AFM). CAA Media Finance and WME Independent are co-representing the rights for North America.",
+          "Meanwhile, French sales company Charades has taken on the responsibility of managing international sales. For domestic distribution, Elevation Pictures has secured the rights to release the film in Canada."
+        ]
+      },
+      {
+        "h": "Production Banner Legacies",
+        "p": [
+          "The companies supporting The Confessions boast impressive catalogues of past work. Square Peg's notable production credits include Bugonia, Midsommar, and The Drama.",
+          "Scythia Films brings experience from titles like The Witch, The Apprentice, and Falling. Thin Stuff's previous credits include Rumours, A.Rimbaud, and Strong Son."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alexander Skarsgård, Hunter Schafer, Maya Hawke, and Harry Melling will star in the cautionary psycho-dramedy The Confessions, directed by Guy Maddin, Galen Johnson, and Evan Johnson. Produced by Square Peg and launched at AFM by major sales agencies, the film follows condemned nuns observing a turbulent love triangle."
+        ]
+      }
+    ],
+    "facts": [
+      "Alexander Skarsgård, Hunter Schafer, Maya Hawke, and Harry Melling are set to star in The Confessions.",
+      "The film is directed by Guy Maddin, Galen Johnson, and Evan Johnson.",
+      "Ari Aster and Lars Knudsen's Square Peg is producing the project.",
+      "The film follows Rumours, which premiered at Cannes in 2024.",
+      "CAA Media Finance, WME Independent, and Charades are handling sales at AFM."
+    ],
+    "entities": {
+      "people": [
+        "Alexander Skarsgård",
+        "Hunter Schafer",
+        "Maya Hawke",
+        "Harry Melling",
+        "Guy Maddin",
+        "Galen Johnson",
+        "Evan Johnson",
+        "Ari Aster",
+        "Lars Knudsen",
+        "Daniel Bekerman",
+        "Fritzi Adelman"
+      ],
+      "titles": [
+        "The Confessions",
+        "Rumours",
+        "Wicker",
+        "Blade Runner 2099",
+        "Stranger Things",
+        "Pillion",
+        "Bugonia",
+        "Midsommar",
+        "The Drama",
+        "The Witch",
+        "The Apprentice",
+        "Falling",
+        "A.Rimbaud",
+        "Strong Son"
+      ]
+    },
+    "keywords": [
+      "The Confessions film",
+      "Alexander Skarsgård The Confessions",
+      "Guy Maddin The Confessions",
+      "Ari Aster Square Peg"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Los-Angeles-Premiere-Of-Black-Bears-Wicker-US-ENTERTAINMENT-GALA-AMPAS-Getty-Images-Portrait-Studio-Presented-By-IMDb-And-IMDbPro-At-The-Intercontinental-Hotel-Toronto-2026-6th-Annual-Academy-Museum-Gala-Arrivals-1000.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Alexander Skarsgård, Hunter Schafer, Maya Hawke, and Harry Melling Cast in The Confessions",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 20:19:39 +0000"
   }
 };
