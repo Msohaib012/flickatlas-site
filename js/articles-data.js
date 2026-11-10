@@ -109331,5 +109331,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 20:19:39 +0000"
+  },
+  "1jf6jar": {
+    "id": "1jf6jar",
+    "type": "news",
+    "headline": "Mel Gibson Scores Major Streaming Hit With Action Thriller Hunting Season",
+    "dek": "Mel Gibson returns to the screen in the action thriller Hunting Season, quickly climbing to the top spot on Prime Video.",
+    "body": [
+      {
+        "h": "A New Action Outing on Prime Video",
+        "p": [
+          "Hollywood veteran Mel Gibson is back in the spotlight with his recent action thriller, which has quickly climbed to the number one spot on Prime Video. At 70 years old, the Oscar-winning actor steps back into familiar territory as a dedicated father and reclusive survivalist.",
+          "The project has resonated strongly with digital audiences, capturing the top streaming position in just three days. It marks another high-profile entry in the actor's ongoing career resurgence."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Titled Hunting Season, the narrative follows a mysterious young woman who washes ashore near a local river. She is discovered by a feisty twelve-year-old girl and her fiercely protective father, completely altering their daily lives.",
+          "Their home soon becomes a battleground when a ruthless drug lord arrives, stopping at nothing to eliminate the stranger. The father must lock and load to defend his family from the violent threats closing in around them."
+        ]
+      },
+      {
+        "h": "Cast and Crew Behind the Project",
+        "p": [
+          "The film is directed by Raja Collins and features a screenplay written by Adam Hampton. Alongside Gibson, the cast includes Sophia Hublitz, Shelly Hennig, and Jordi Molla.",
+          "Clocking in at 99 minutes, the movie leans into a slightly slower burn than typical modern blockbusters, focusing instead on tension and grounded family protection."
+        ]
+      },
+      {
+        "h": "Comparing Action Persona Legacies",
+        "p": [
+          "In this latest role, Gibson channels the intense survivalist energy that previously defined his work in the Mad Max and Lethal Weapon franchises. Observers have noted similarities to his performance in the underrated Blood Father.",
+          "The role positions Gibson alongside other aging action stars, drawing direct comparisons to Liam Neeson's iconic parental protector archetype in the popular Taken franchise."
+        ]
+      },
+      {
+        "h": "Critical Reception Versus Audience Scores",
+        "p": [
+          "Review aggregator reception was notably mixed, with critics awarding the film a \"rotten\" approval rating of 53 percent. Reviewers pointed out the deliberate pacing and familiar genre tropes.",
+          "Conversely, general viewers embraced the project with a solid 62 percent audience score on the Popcornmeter. Fans expressed enthusiasm seeing the Braveheart star return to a traditional justice-seeking role."
+        ]
+      },
+      {
+        "h": "Broader Career Resurgence",
+        "p": [
+          "Following a period of near-unemployability in mid-2000s Hollywood due to well-documented controversies, Gibson has steadily rebuilt his presence in the industry. Recent years have seen him take on roles in Flight Risk, Monster Summer, and Boneyard.",
+          "This momentum extends beyond streaming thrillers, with high-profile theatrical projects currently in development. These upcoming works demonstrate a sustained demand for his involvement in major studio films."
+        ]
+      },
+      {
+        "h": "Upcoming Sequels and Franchise Returns",
+        "p": [
+          "Looking ahead, Gibson is set to direct the upcoming two-part biblical sequel The Resurrection of the Christ: Part One and The Resurrection of the Christ: Part Two, scheduled for release in May 2027 and May 2028 respectively.",
+          "Additionally, plans remain in motion for Lethal Weapon 5. Gibson revealed the sequel will feature himself and Danny Glover as older, slower versions of Martin Riggs and Roger Murtaugh, handling less complicated yet deeply character-driven stakes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mel Gibson has secured the top spot on Prime Video with his latest 99-minute action thriller, Hunting Season, after a swift three-day climb. Despite receiving mixed reviews from critics, the film found favorable traction with audiences eager to see the veteran actor back in a protective father role. This streaming success coincides with broader career developments, including upcoming theatrical sequels like The Resurrection of the Christ and Lethal Weapon 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Mel Gibson is 70 years old.",
+      "Hunting Season has a runtime of 99 minutes.",
+      "Hunting Season achieved the top spot on Prime Video in three days.",
+      "Hunting Season received a 53% critical score and a 62% audience score on the Popcornmeter.",
+      "Hunting Season is directed by Raja Collins and written by Adam Hampton.",
+      "The cast of Hunting Season includes Sophia Hublitz, Shelly Hennig, and Jordi Molla.",
+      "The Resurrection of the Christ: Part One is scheduled for release on May 6, 2027.",
+      "The Resurrection of the Christ: Part Two is scheduled for release on May 25, 2028."
+    ],
+    "entities": {
+      "people": [
+        "Mel Gibson",
+        "Liam Neeson",
+        "Raja Collins",
+        "Adam Hampton",
+        "Sophia Hublitz",
+        "Shelly Hennig",
+        "Jordi Molla",
+        "Mark Wahlberg",
+        "Jim Caviezel",
+        "Shane Black",
+        "Danny Glover"
+      ],
+      "titles": [
+        "Taken",
+        "Mad Max",
+        "Lethal Weapon",
+        "Blood Father",
+        "Hunting Season",
+        "Braveheart",
+        "Flight Risk",
+        "Monster Summer",
+        "Boneyard",
+        "The Passion of the Christ",
+        "The Resurrection of the Christ: Part One",
+        "The Resurrection of the Christ: Part Two",
+        "Lethal Weapon 5"
+      ]
+    },
+    "keywords": [
+      "Hunting Season film",
+      "Mel Gibson Prime Video",
+      "Hunting Season streaming",
+      "Mel Gibson action thriller",
+      "Hunting Season cast"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/hunting-season_tyvau6.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Mel Gibson Scores Major Streaming Hit With Action Thriller Hunting Season",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 20:00:17 GMT"
+  },
+  "11eh52e": {
+    "id": "11eh52e",
+    "type": "news",
+    "headline": "Nitish Bharadwaj Criticises Ranbir Kapoor's Ramayana After Predicting Oscar Win",
+    "dek": "Veteran actor Nitish Bharadwaj has withdrawn his initial praise for Ramayana: Part 1, stating that the film misrepresents history and values.",
+    "body": [
+      {
+        "h": "Initial Praise and Sudden Reversal",
+        "p": [
+          "Nitish Bharadwaj, widely recognized for playing Lord Krishna in the classic Mahabharat series, has recently reversed his earlier stance regarding Nitesh Tiwari's cinematic project. Initially, following the premiere of the promotional trailer, the veteran actor expressed extreme optimism and predicted that the film would secure an Oscar victory for Best Foreign Film. However, after viewing the completed feature, Bharadwaj altered his perspective completely.",
+          "Instead of maintaining his previous endorsement, the seasoned artist voiced sharp criticism toward the production. He argued publicly that the movie falls short of what is required to properly represent Indian cinema on international platforms."
+        ]
+      },
+      {
+        "h": "Concerns Over Narrative and Character Portrayal",
+        "p": [
+          "The primary grievance highlighted by the Mahabharat actor centers around how the narrative handles core characters and moral foundations. He noted that the depiction of the antagonist Ravana as an exceptionally liberal, socially just, and fair individual disrupts the fundamental ethical framework of the ancient epic.",
+          "According to his perspective, such storytelling choices undermine the very purpose of the avatar, which was originally meant to uphold righteousness, spiritual duties, and established societal boundaries."
+        ]
+      },
+      {
+        "h": "Substance Versus Visual Spectacle",
+        "p": [
+          "Addressing the technical elements of the production, Bharadwaj emphasized that high-end visual effects can never compensate for a lack of philosophical depth. He stressed that grand cinematic spectacles must always remain anchored to the core values and spiritual essence inherent in the traditional epic.",
+          "His critique points to a perceived disconnect between the heavy reliance on modern CGI and the deep civilizational consciousness associated with Sanatan Bharat."
+        ]
+      },
+      {
+        "h": "Cultural Legacy and Representation",
+        "p": [
+          "The veteran performer further elaborated on the heavy responsibility filmmakers carry when handling heritage material. In his view, cultural legacies demand careful and respectful interpretation rather than alterations that challenge traditional moral lessons.",
+          "Because of these narrative choices, he firmly declared that the project does not merit serving as an international ambassador for the country's cinematic output."
+        ]
+      },
+      {
+        "h": "Cast and Character Details",
+        "p": [
+          "Nitesh Tiwari's directorial venture features a prominent ensemble cast portraying legendary figures from the epic. Ranbir Kapoor steps into the role of Lord Rama, while Sai Pallavi portrays Goddess Sita, and Yash takes on the character of Ravana.",
+          "Additional key cast members include Ravie Dubey as Lord Lakshman, Arun Govil as King Dashratha, Indira Krishna as Mata Kaushalya, and Lara Dutta as Kaikeyi, alongside Sheeba Chadha appearing as Manthara."
+        ]
+      },
+      {
+        "h": "Box Office Milestones",
+        "p": [
+          "Commercially, the theatrical release has achieved substantial financial success since premiering on November 5. Domestic earnings have crossed the threshold of Rs 350 crore at the Indian box office.",
+          "Simultaneously, the film has cruised past the Rs 500 crore milestone globally and continues tracking toward a targeted Rs 700 crore worldwide collection."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitish Bharadwaj has criticized Ramayana: Part 1 after initially predicting an Oscar win, arguing that the film misrepresents history and values. Despite this critique from the veteran actor, the Ranbir Kapoor and Yash starrer continues to perform strongly at the box office."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitish Bharadwaj played Lord Krishna in Mahabharat.",
+      "Ramayana: Part 1 was released theatrically on November 5, 2026.",
+      "The film collected over Rs 350 crore at the Indian box office.",
+      "The movie surpassed the Rs 500 crore mark worldwide.",
+      "Ranbir Kapoor plays Lord Rama, Sai Pallavi plays Goddess Sita, and Yash plays Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Nitish Bharadwaj",
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Indira Krishna",
+        "Lara Dutta",
+        "Sheeba Chadha"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Mahabharat",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Nitish Bharadwaj Ramayana",
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156489155,thumbsize-975547,width-1280,height-720,resizemode-75/156489155.jpg",
+        "caption": "Nitish Bharadwaj Criticises Ranbir Kapoor's Ramayana After Predicting Oscar Win",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T21:51:52Z"
+  },
+  "p0vu7c": {
+    "id": "p0vu7c",
+    "type": "news",
+    "headline": "Marvel Rivals Season 11 Doomsday Trailer Introduces X-Men Hero Nightcrawler",
+    "dek": "The popular hero shooter's latest promotional footage brings X-Men fan-favorite Nightcrawler into the roster for the upcoming update.",
+    "body": [
+      {
+        "h": "Introduction to Season 11 Doomsday",
+        "p": [
+          "NetEase Games has revealed a fresh promotional video for its popular hero shooter title, drawing considerable attention from comic book enthusiasts. The footage showcases the arrival of a prominent mutant character just ahead of a major upcoming cinematic release. This addition forms a central part of the game's upcoming seasonal refresh.",
+          "The forthcoming update centers on a massive narrative event involving an incursion that forces New York and Nueva York to merge. Alongside the primary character debut, the preview also hints at another major figure making an appearance later in the season cycle."
+        ]
+      },
+      {
+        "h": "Trailer Plot and Dramatic Events",
+        "p": [
+          "The promotional video begins in a peaceful iteration of New York City before sudden disaster strikes. A runaway school bus collides with a vehicle, hurling it toward an unsuspecting pedestrian walking along the sidewalk. The mutant hero swiftly intervenes by teleporting into the area to rescue the child from harm.",
+          "As the footage continues, the environment collapses into total chaos as the incursion unfolds across the metropolis. While attempting to save numerous bystanders, the character suffers a severe setback when an airplane strikes him mid-teleport. The sequence concludes with fiery debris raining down as a familiar heroic theme plays, followed by a teaser of a dormant figure awakening in a hibernation chamber."
+        ]
+      },
+      {
+        "h": "Nightcrawler Gameplay Mechanics",
+        "p": [
+          "In addition to the main cinematic preview, developers released a dedicated character reveal footage detailing the mutant hero's capabilities. Within the title's roster, the character functions as a Strategist role. His toolkit allows him to project energy that heals teammates while simultaneously enabling rapid teleportation to allies.",
+          "Furthermore, the hero possesses utility that lets him pull distant teammates directly to his location to help them escape dangerous situations. His ultimate ability reverses this dynamic by dragging adversaries closer to him, thereby setting up tactical opportunities for coordinated team assaults."
+        ]
+      },
+      {
+        "h": "Upcoming Additions and Release Schedule",
+        "p": [
+          "The teaser footage has also generated excitement regarding subsequent updates planned for the title. While the mutant hero will be fully playable at the launch of the seasonal patch, another anticipated figure is slated to arrive during a mid-season update.",
+          "The Lord of Darkness is expected to join the character lineup in the subsequent patch update. Players will not have to wait long to experience these additions, as the upcoming season launches across all supported platforms later this week."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A newly released trailer for a popular hero shooter showcases the introduction of a beloved X-Men mutant as a playable character for its upcoming seasonal update. The promotional footage highlights dramatic rescue sequences and teases a future vampire-themed addition while confirming the launch date for later this week."
+        ]
+      }
+    ],
+    "facts": [
+      "Nightcrawler is joining the hero roster as part of Season 11: Doomsday.",
+      "Season 11 is set to launch on November 13.",
+      "Dracula is expected to arrive in Season 11.5.",
+      "The update revolves around an incursion that brings New York and Nueva York together.",
+      "Nightcrawler joins Marvel Rivals as a Strategist."
+    ],
+    "entities": {
+      "people": [
+        "Manoj Chekkilla"
+      ],
+      "titles": [
+        "Marvel Rivals",
+        "Marvel Rivals Season 11: Doomsday",
+        "Nightcrawler: Hope and Brimstone"
+      ]
+    },
+    "keywords": [
+      "Marvel Rivals Season 11",
+      "Marvel Rivals Season 11 Doomsday",
+      "Nightcrawler Marvel Rivals",
+      "Marvel Rivals Doomsday trailer"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Deepesh-personal-1200-_-675-2026-11-11T012906.111.png?resize=1200,630",
+        "caption": "Marvel Rivals Season 11 Doomsday Trailer Introduces X-Men Hero Nightcrawler",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 20:10:20 +0000"
+  },
+  "w1ugoy": {
+    "id": "w1ugoy",
+    "type": "news",
+    "headline": "Tollywood Stars Share Glances Into Diwali 2026 Celebrations",
+    "dek": "Prominent Tollywood actors including Sobhita Dhulipala, Sreeleela, and Varun Tej took to social media to share glimpses of their festive celebrations.",
+    "body": [
+      {
+        "h": "Introduction to Tollywood Diwali Celebrations",
+        "p": [
+          "Tollywood celebrities welcomed the festival of lights in 2026 through a combination of private family rituals and grand social gatherings. Stars utilized various social media platforms to give followers a peek into their personal festivities.",
+          "From quiet moments shared within households to high-profile industry events, the celebrations highlighted how regional film personalities marked the traditional occasion."
+        ]
+      },
+      {
+        "h": "Sobhita Dhulipala and the Akkineni Family",
+        "p": [
+          "Sobhita Dhulipala posted updates featuring her celebrations alongside her husband Naga Chaitanya and members of the Akkineni family.",
+          "Her shared photo collection showcased traditional elements such as diyas, decorative sparklers, and family portraits while extending greetings to her supporters."
+        ]
+      },
+      {
+        "h": "High-Profile Gatherings in Hyderabad",
+        "p": [
+          "A prominent industrialist in Hyderabad hosted a star-studded Diwali party attended by major figures from the regional film industry.",
+          "Mahesh Babu arrived alongside his wife Namrata Shirodkar, joining Ram Charan at the upscale gathering. HanuMan actor Teja Sajja was also spotted among the invitees, bringing further star presence to the event."
+        ]
+      },
+      {
+        "h": "Sreeleela's Traditional Family Time",
+        "p": [
+          "Following her attendance at a festive party hosted by Manish Malhotra, actress Sreeleela opted for a more private observance at home with her relatives.",
+          "She captioned her social media update by referring to her family as her very important persons, offering snapshots of her spending quality time with loved ones."
+        ]
+      },
+      {
+        "h": "Allu Family Gathering",
+        "p": [
+          "Allu Arjun's brother Sirish published a collection of photographs documenting their household's festive observance.",
+          "A focal point of the shared media was a portrait featuring Allu Arjun, Sirish, and their brother Bobby alongside their father Allu Aravind."
+        ]
+      },
+      {
+        "h": "Varun Tej and Lavanya Tripathi",
+        "p": [
+          "Varun Tej marked the occasion in the company of his wife Lavanya Tripathi and their child.",
+          "The actor's shared photographs also featured his parents participating in the domestic holiday traditions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Tollywood celebrities documented their Diwali 2026 celebrations through social media, showcasing a mix of intimate family gatherings and large industry events. Figures such as Sobhita Dhulipala, Sreeleela, Varun Tej, and members of the Allu family shared personal moments, while stars like Mahesh Babu and Ram Charan attended a major party in Hyderabad."
+        ]
+      }
+    ],
+    "facts": [
+      "Published on Nov 10, 2026, 15:04 IST",
+      "Sobhita Dhulipala celebrated with husband Naga Chaitanya and the Akkineni family",
+      "Mahesh Babu attended with wife Namrata Shirodkar",
+      "Ram Charan attended the Hyderabad industrialist party",
+      "Teja Sajja attended the Hyderabad party",
+      "Sreeleela attended Manish Malhotra's Diwali party",
+      "Sirish shared pictures of Allu Arjun, Sirish, Bobby, and Allu Aravind",
+      "Varun Tej celebrated with wife Lavanya Tripathi and their child"
+    ],
+    "entities": {
+      "people": [
+        "Sobhita Dhulipala",
+        "Sreeleela",
+        "Varun Tej",
+        "Naga Chaitanya",
+        "Mahesh Babu",
+        "Namrata Shirodkar",
+        "Ram Charan",
+        "Teja Sajja",
+        "Manish Malhotra",
+        "Allu Arjun",
+        "Sirish",
+        "Bobby",
+        "Allu Aravind",
+        "Lavanya Tripathi"
+      ],
+      "titles": [
+        "HanuMan"
+      ]
+    },
+    "keywords": [
+      "Sobhita Dhulipala Diwali",
+      "Sreeleela Diwali celebrations",
+      "Varun Tej Lavanya Tripathi",
+      "Tollywood stars Diwali 2026"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/tollywooddiwalicelebrations1794302896.jpg",
+        "caption": "Tollywood Stars Share Glances Into Diwali 2026 Celebrations",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-10T15:04:32+05:30"
   }
 };
