@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T17:54:12Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 433,
-     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Bigg Boss 20 EXCLUSIVE! Scout OP Aka Tanmay's Mother Reveals What Hurt Her Most: 'It Was Extremely Upsetting'",
-      "Heart Of The Beast Worldwide Box Office: Brad Pitt Starrer Poised To Fall Just $5 Million Short Of Its Break-Even Target?",
-      "Vivek Agnihotri says his sofa caught fire due to Diwali rocket: 'Culture doesn’t permit us...'",
-      "Quote of the day by Ryan Reynolds",
-      "Scene box office collection day 4: Suriya's film remains steady on Monday after Diwali, crosses  ₹84 crore",
-      "I Knew The Warner Bros. Merger Would Lead To Major Changes, But I Didn’t See James Gunn Being Replaced",
-      "Survivor's Lewis Has Me Rethinking Ever Playing After WTF Story About 'Recycling' Corn",
-      "Merritt Wever Regrets Not Taking Her Most Intense 'Primetime' Scene Even Further",
-      "James Gunn and Peter Safran Officially Exit DC Studios",
-      "‘Resident Evil’ Officially Removed From 2,500 Theaters After Hitting Final Box Office Milestone",
-      "HBO’s ‘Harry Potter’ Reboot Officially Reveals New Look at the Golden Trio",
-      "Peacock's Best Spy Thriller Takes Less Than 7 Hours to Binge",
-      "Forget ‘Misery,’ Rachel Dratch’s New Movie Gives Obsessive Fandom a Darkly Funny Twist",
-      "‘Dragon Ball’ Officially Scores a Major Streaming Hit With Its Latest Release",
-      "One Night Only Peacock Streaming Release Date Set for Julia Fox’s Sex Comedy Movie",
-      "Batman: DCU Fans Fear The Brave and the Bold Is Getting Canceled, Here’s Why",
-      "Heated Rivalry Fans Can Now Feel Hudson Williams & Connor Storrie’s NSFW Moments in 4DX",
-      "Liam Neeson’s New Action Movie Critics Hated Becomes a Prime Video Streaming Sensation",
-      "1408 2: Stephen King Horror Movie’s Casting Update Leaves Fans With One Huge Question",
-      "James Bond Fans Know Who New 007 Should Be After Robert Pattinson & Nicholas Hoult Update"
-     ],
-     "updated": [],
-     "count": 417,
-     "detail": "422 stories, 1 duplicates removed, 11 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-09T18:51:47Z",
     "run_id": "42677632356",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "438 stories, 1 duplicates removed, 11 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T17:57:45Z",
-    "run_id": "42668521013",
+    "run_at": "2026-11-10T17:51:01Z",
+    "run_id": "42869047340",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 428,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Heart Of The Beast Worldwide Box Office: Brad Pitt Starrer Poised To Fall Just $5 Million Short Of Its Break-Even Target?",
-      "Inside the Star-Studded Guest Lineup of Usher and Chris Brown's Massive R&B Tour",
-      "Bigg Boss 20: Scout OP's Mother Opens Up About The Shocking Qazi Touqeer Spitting Incident",
-      "Ole Miss Under Investigation Following Viral Video of Students Making Monkey Noises at Black Peers' Apartment"
+      "Ramayana Eyes Another 150 Crore Worldwide On Day 6 as It Sets All Time Record",
+      "Hema Malini hails 'Ramayana' after watching with 'least expectations': 'Pleasantly surprised'",
+      "Taylor Swift's Still Disputing With Ohio Neighbors. What’s Really Going On",
+      "Fan Reactions On James Gunn’s Goodbye Post Made Lanterns And DC Points I’m Also Concerned About",
+      "‘Wildwood’ Officially Faces an Uphill Box Office Battle",
+      "Christopher Meloni Officially Returns to ‘Law & Order: SVU’ This Week for Episode 600",
+      "Lord of the Rings Officially Returns This Week",
+      "Star Trek Officially Returns to Kirk’s Enterprise as TV Future Stalls",
+      "The Most Controversial NC-17 Masterpieces Ever Is Officially Releasing in 4K",
+      "Clive Owen’s New Movie Officially Unveils First Look at an Infamous Moment in Pre-World War II Germany",
+      "Netflix’s ‘The Gilded Age’ Replacement Officially Returns This Week for Final Season",
+      "The Original Star Wars Trilogy Officially Returns With a Brand-New Release",
+      "Julia Fox & Paris Hilton’s New Christmas Comedy Movie Gets Hilarious Prime Video Trailer",
+      "Stephen Fry, Big MCU Star, & More Cast in New War Movie With a Big Twist",
+      "DCU Movie Reboot Reportedly Set After James Gunn’s Shocking Departure",
+      "Dustin Hoffman Nearly Quit Movie That Won Him an Oscar for a Good Reason: ‘Ridiculous’",
+      "Jack O’Connell & Guy Pearce Take on Iconic Media Empire in Danny Boyle’s Ink Trailer",
+      "Ken Russell’s The Devils Uncut Scores 4K UHD X-Rated Release After Theatrical Success",
+      "Maika Monroe & Jason Isaacs on What Makes Victorian Psycho So Twisted | Interview",
+      "Watch: Edgar Wright's 'Market Mayhem' Action Short for Apple Pay"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 413,
+     "detail": "428 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T17:53:22Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
+      "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
+      "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
+      "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-09T19:05:11Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 279,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 263, coming 16"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,35 +1906,27 @@
      "detail": "now 276, coming 15"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T17:53:22Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": {
+     "candidates": 291,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 276, coming 15"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T18:01:26Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "bjzoib",
-      "rjgpdk",
-      "6xsnjr",
-      "8knce",
-      "8br78w",
-      "1ccjy40",
-      "149emoy",
-      "1e5l2x2"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2418,27 +2392,32 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T18:00:26Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "lubpd7",
+      "ve32nm",
+      "ovm810",
+      "1rudn53",
+      "1755t76"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T18:01:24Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 632,
-     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 622 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2852,19 +2831,27 @@
      "detail": "+0 new rows, 8 updated rows, 624 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T18:00:23Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": {
+     "candidates": 641,
+     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3101,35 +3088,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T18:01:26Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Heart Of The Beast Worldwide Box Office: Brad Pitt Starrer Poised To Fall Just $5 Million Short Of Its Break-Even Target?",
-      "Inside the Star-Studded Guest Lineup of Usher and Chris Brown's Massive R&B Tour",
-      "Bigg Boss 20: Scout OP's Mother Opens Up About The Shocking Qazi Touqeer Spitting Incident",
-      "Ole Miss Under Investigation Following Viral Video of Students Making Monkey Noises at Black Peers' Apartment",
-      "Bano Episode 27 — Watch Online on Geo TV",
-      "Lagan Lagi Episode 13 — Watch Online on ARY Digital",
-      "Hurmat Episode 11 — Watch Online on HUM TV"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3665,34 +3636,34 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T17:57:25Z",
-    "run_id": "42668521013",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T18:00:26Z",
+    "run_id": "42869047340",
     "status": "success",
     "checked": {
-     "candidates": 17,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 6 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Bano Ep 27",
-      "Lagan Lagi Ep 13",
-      "Hurmat Ep 11"
+      "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement",
+      "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
+      "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
+      "Lagan Lagi Episode 14 — Watch Online on ARY Digital",
+      "Hurmat Episode 12 — Watch Online on HUM TV",
+      "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend"
      ],
-     "updated": [
-      "Hurmat Ep 11",
-      "Bano Ep 27",
-      "Lagan Lagi Ep 13"
-     ],
-     "count": 6
+     "updated": [],
+     "count": 6,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3955,19 +3926,32 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T17:51:47Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": {
+     "candidates": 18,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 8 new detected"
+    },
+    "changed": {
+     "added": [
+      "Lagan Lagi Ep 14",
+      "Hurmat Ep 12"
+     ],
+     "updated": [
+      "Hurmat Ep 12",
+      "Lagan Lagi Ep 14"
+     ],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4289,31 +4273,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T17:57:45Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 417 still unprocessed; today by category: movies 9/6, tv_dramas 9/4, episodes 0/2, box_office 20/6, celebrities_events 13/5, upcoming_releases 5/4, ott_streaming 7/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Heart Of The Beast Worldwide Box Office: Brad Pitt Starrer Poised To Fall Just $5 Million Short Of Its Break-Even Target?",
-      "Inside the Star-Studded Guest Lineup of Usher and Chris Brown's Massive R&B Tour",
-      "Bigg Boss 20: Scout OP's Mother Opens Up About The Shocking Qazi Touqeer Spitting Incident",
-      "Ole Miss Under Investigation Following Viral Video of Students Making Monkey Noises at Black Peers' Apartment"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4819,26 +4791,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T17:53:22Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 413 still unprocessed; today by category: movies 12/6, tv_dramas 8/4, episodes 1/2, box_office 18/6, celebrities_events 16/5, upcoming_releases 2/4, ott_streaming 6/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
+      "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
+      "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
+      "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T17:59:59Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5152,24 +5129,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T17:54:38Z",
+    "run_id": "42869047340",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 502,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5514,19 +5493,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 497,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5811,19 +5795,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6073,19 +6057,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6320,19 +6304,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6619,19 +6603,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6872,19 +6856,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7114,19 +7098,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7379,30 +7363,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-08T20:52:35Z",
-    "run_id": "42522151604",
-    "status": "success",
-    "checked": {
-     "candidates": 513,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 16; attempt cooldown deferred: 497"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7887,19 +7860,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-10T17:53:40Z",
+    "run_id": "42869047340",
+    "status": "success",
+    "checked": {
+     "candidates": 527,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 514"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8139,19 +8123,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T18:01:34Z",
-    "run_id": "42668521013",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8401,8 +8385,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T16:55:28Z"
+ "updated_at": "2026-11-10T18:00:35Z"
 }

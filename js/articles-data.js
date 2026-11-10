@@ -107697,5 +107697,502 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-10T21:52:52+05:30"
+  },
+  "e7b7dd": {
+    "id": "e7b7dd",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 14 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 14 aired on 2026-11-10 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 14 aired on 2026-11-10 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=cTYJjHGFprQ"
+        ]
+      },
+      {
+        "h": "About Lagan Lagi",
+        "p": [
+          "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Ammi aur Zunaira ki bat-cheet hoti hai jahan Ammi Zunaira ko aaram karne ka kehti hain aur ghar ke kaamo ki fikar na karne ka mashwara deti hain. Zunaira preshan hoti hai ke woh sab kuch kaise manage karegi. Iske baad, Zunaira apne husband Daniel ke kamre mein jaati hai aur usko paani deti hai, saath hi usko smoking chhorne ki request karti hai kyunki usko isse allergy hai. Daniel pyaar se uski baat maan leta hai. Daniel aur uski Ammi ka car mein scene hota hai jahan woh Daniel ke kaam aur attitude ke baare mein baat karte hain.\n\nEk aur scene mein, Daniel aur Zunaira jewelry shop jaate hain jahan Daniel Zunaira ko ek mehangi diamond bangle pasand karta hai jiski keemat 15 lakh rupees hoti hai. Zunaira mana karti hai ke yeh bohot mehangi hai, lekin Daniel kehta hai ke woh iski haqdar hai aur usko pehna deta hai. Daniel ki Ammi ko jab is mehangi shopping ka pata chalta hai toh woh bohot gussa hoti hain aur Daniel par barasti hain ke usne office ke account se itne paise kyun kharch kiye. Ammi kehti hain ke Daniel aur Zunaira ki wajah se unka business loss mein ja raha hai aur woh is rishte se na khush nazar aati hain.\n\nEpisode ke end mein, Zunaira ghar par Daniel ke birthday ki planning kar rahi hoti hai aur laptop par invitiation card design kar rahi hoti hai, jabke Daniel bed par leta hua smoking kar raha hota hai aur udaas nazar aata hai. Zunaira WhatsApp par Daniel ko message bhejti hai lekin phir delete kar deti hai, aur episode yahin khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 14 aired on 2026-11-10.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=cTYJjHGFprQ",
+      "YouTube views: 4,358.",
+      "TMDB: Lagan Lagi (id 337316).",
+      "Episode summary added 2026-11-10."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/cTYJjHGFprQ/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 14",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-10T17:05:39Z"
+  },
+  "1wgu9wm": {
+    "id": "1wgu9wm",
+    "type": "news",
+    "headline": "Hurmat Episode 12 — Watch Online on HUM TV",
+    "dek": "Hurmat episode 12 aired on 2026-11-10 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Hurmat Episode 12 aired on 2026-11-10 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=MeirQRJls1A"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Hurmat ghar pe hai aur uski ammi aur khala aapas mein baat karti hain ke Hurmat ka rishta Tabish se toot chuka hai, aur is baat pe ammi kaafi preshan hain jabke Hurmat kehti hai ke woh kisi aur se shadi nahi karna chahti. Tabish ke ghar walon ki taraf se bhi pareshani hai, aur Tabish ki ammi apne bete ke ravaiye se bohot fikar mand hain kyunki Tabish raat bhar ghar se bahar rehta hai aur aawargi karta hai. Tabish ka baap usko samjhata hai ke woh apni zati zindagi aur career pe dhyan de. University mein Farzana, Hurmat aur uski dost ke sath exam ki tayari aur baatein hoti hain. Aakhir mein Tabish Commissioner ke paas jata hai jo usko uski zimmedariyon ka ehsaas dilate hain aur aisi harkaton se bachne ko kehte hain, aur episode yahin khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Hurmat Episode 12 aired on 2026-11-10.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=MeirQRJls1A",
+      "YouTube views: 743,885.",
+      "Episode summary added 2026-11-10."
+    ],
+    "entities": {
+      "titles": [
+        "Hurmat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/MeirQRJls1A/hqdefault.jpg",
+        "caption": "Hurmat Episode 12",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-10T16:00:02Z"
+  },
+  "saqv8b": {
+    "id": "saqv8b",
+    "type": "news",
+    "headline": "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
+    "dek": "Decades after facing censorship bans and the dreaded X rating, Ken Russell's psychological horror classic is finally receiving a definitive home media release featuring extensive bonus content and multiple cuts.",
+    "body": [
+      {
+        "h": "The Long Road to Home Media Release",
+        "p": [
+          "Horror cinema has frequently challenged societal boundaries, with pioneering films often facing severe backlash upon their initial debuts. While macabre staples like The Exorcist and The Texas Chain Saw Massacre eventually transcended their early controversies to become legendary, other titles spent decades trapped in obscurity. Ken Russell's 1971 psychological horror epic, The Devils, endured a notoriously difficult history marked by international bans and strict censorship before finally finding a path to modern restoration.",
+          "For over half a century, finding a clean copy of the movie on physical media proved exceedingly difficult. Warner Bros. Clockwork changed that trajectory by granting the feature a proper theatrical 4K restoration earlier this year, complete with an NC-17 rating. Building upon that triumphant return to the big screen, the historic film is now officially making its way to home video formats for dedicated enthusiasts."
+        ]
+      },
+      {
+        "h": "Pre-Order Details and Edition Options",
+        "p": [
+          "Physical media collectors can now secure pre-orders for two distinct versions of the feature. Both a standard 4K Ultra HD edition and an expansive three-disc 4K UHD and Blu-ray Collector's Edition have been announced for physical release. Fans eager to add the legendary title to their shelves can expect these packages to officially ship on April 20, 2027.",
+          "The upcoming home video packages feature the definitive director's cut, meticulously restored using the original camera negative alongside the 2004 reconstruction overseen by Ken Russell himself. This ensures that viewers will experience the artistic vision as the filmmaker originally intended, free from the heavy-handed edits imposed by historical censorship boards."
+        ]
+      },
+      {
+        "h": "Extensive Bonus Features and Collector Content",
+        "p": [
+          "Both physical editions are packed with substantial supplementary material designed to contextualize the film's legacy. The standard 4K Ultra HD release includes approximately four hours of bonus content, featuring audio commentaries, an insightful archival Q&A from 2004 with Ken Russell and Mark Kermode, and a brand-new interview where filmmaker Guillermo del Toro reflects on Russell's profound impact on cinema.",
+          "For the most dedicated followers, the three-disc Collector's Edition expands the supplemental material to more than 14 hours. This premium set includes three separate Blu-ray presentations of the movie, allowing viewers to analyze the director's cut alongside the historical UK X-Rated version and the US R-Rated version."
+        ]
+      },
+      {
+        "h": "Historical Controversy and Censorship",
+        "p": [
+          "Upon its initial launch, the feature provoked immense outrage due to its provocative sexual imagery and intense violence, which many authorities deemed sacrilegious. It earned restrictive X ratings in both the United States and the United Kingdom while facing outright bans across multiple nations. The controversy even prompted direct condemnation from the Vatican following its screening at the 33rd Venice International Film Festival.",
+          "Censorship boards acted aggressively to suppress the original artistic vision. In the United States, distributors severely trimmed the runtime and entirely excised the ending to secure clearance. This heavy tampering obscured Russell's intended message for decades, transforming the film into a forbidden myth among horror aficionados."
+        ]
+      },
+      {
+        "h": "Plot and Literary Inspiration",
+        "p": [
+          "Warner Bros. Clockwork's restoration initiative seeks to present the complete narrative as originally conceived by the director. The storyline draws inspiration from Aldous Huxley's non-fiction historical book titled The Devils of Loudun. Set in seventeenth-century France, the plot chronicles the tragic downfall of Father Grandier, a charismatic Catholic priest serving as an influential protector of Loudun against the political maneuvering of Cardinal Richelieu.",
+          "The central conflict ignites when Sister Jeanne, an obsessive and sexually repressed nun, inadvertently fosters the widespread belief that Father Grandier has engaged in witchcraft and demonic possession. As mass hysteria grips the community, the resulting panic threatens the stability of the entire region and seals the doomed fate of the charismatic priest."
+        ]
+      },
+      {
+        "h": "Cast and Creative Force",
+        "p": [
+          "The powerful performances at the center of the narrative drove much of its original impact and enduring legacy. Oliver Reed delivers a commanding portrayal of the doomed Father Grandier, capturing his charm and eventual persecution. Opposite him, Vanessa Redgrave embodies the tormented Sister Jeanne, whose repressed desires inadvertently unleash local paranoia.",
+          "The supporting cast features Christopher Logue as the formidable Cardinal Richelieu, adding depth to the complex political web surrounding the religious hysteria. Under Ken Russell's fearless direction, these performances helped cement the feature's status as a daring piece of historical psychological horror."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ken Russell's controversial 1971 psychological horror film The Devils is officially scheduled for a physical home media release on April 20, 2027, following a recent 4K theatrical restoration by Warner Bros. Clockwork. Fans can pre-order both a standard 4K UHD edition and an expansive three-disc Collector's Edition featuring multiple cuts and extensive bonus materials."
+        ]
+      }
+    ],
+    "facts": [
+      "The Devils was originally released in 1971.",
+      "The film was directed by Ken Russell.",
+      "The 4K home media release is scheduled to ship on April 20, 2027.",
+      "The project was restored by Warner Bros. Clockwork.",
+      "The film stars Oliver Reed as Father Grandier and Vanessa Redgrave as Sister Jeanne."
+    ],
+    "entities": {
+      "people": [
+        "Ryan O'Rourke",
+        "Mike Flanagan",
+        "William Friedkin",
+        "Tobe Hooper",
+        "Ken Russell",
+        "Guillermo del Toro",
+        "Mark Kermode",
+        "Aldous Huxley",
+        "Oliver Reed",
+        "Christopher Logue",
+        "Vanessa Redgrave"
+      ],
+      "titles": [
+        "The Exorcist",
+        "The Texas Chain Saw Massacre",
+        "The Devils",
+        "The Devils of Loudun"
+      ]
+    },
+    "keywords": [
+      "The Devils 4K release date",
+      "Ken Russell The Devils Blu ray",
+      "The Devils Collector Edition Warner Bros",
+      "Oliver Reed The Devils 1971"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/2-ken-russell-s-the-devils-key-set-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 16:00:12 GMT"
+  },
+  "1bzghhh": {
+    "id": "1bzghhh",
+    "type": "news",
+    "headline": "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
+    "dek": "Namit Malhotra's cinematic epic maintains extraordinary momentum at the box office, projecting a massive worldwide haul on its sixth day and shattering multiple ticket sales milestones.",
+    "body": [
+      {
+        "h": "Sustained Global Momentum",
+        "p": [
+          "The grand theatrical venture continues to display staggering performance numbers across domestic and international markets. Observers project that the global gross for the feature on its sixth day of release will land near the 150 crore mark.",
+          "This ongoing momentum highlights the drawing power of the feature beyond the initial festive window, keeping it firmly on a path toward monumental box office milestones."
+        ]
+      },
+      {
+        "h": "Historic Daily Benchmarks",
+        "p": [
+          "Positioned under the direction of Nitesh Tiwari, the movie stands on the verge of establishing a brand-new precedent for Indian cinema. It aims to become the very first domestic feature to secure over 100 crore in worldwide earnings across six consecutive days.",
+          "Such steady performance sets it apart from previous major releases, demonstrating a consistent daily pulling power rather than relying entirely on opening-day hype."
+        ]
+      },
+      {
+        "h": "Domestic and Overseas Projections",
+        "p": [
+          "Early assessments for the Tuesday collections point toward an estimated 110 crore generated from the domestic market alone. Meanwhile, overseas territories are anticipated to contribute an additional 35 to 40 crore to the global tally.",
+          "Prior to these latest figures, the feature had already accumulated a robust 675 crore and above worldwide throughout its first five days in cinemas. This initial haul comprised 413.90 crore from domestic screens and 262 crore from international territories, though overseas numbers remain preliminary."
+        ]
+      },
+      {
+        "h": "Approaching the Thousand Crore Milestone",
+        "p": [
+          "With the projected numbers factored into the equation, the cumulative six-day worldwide total is expected to edge close to the 825 crore threshold.",
+          "This rapid accumulation places the title within striking distance of the coveted 1000 crore club, cementing its status as one of the most successful commercial outings in recent years."
+        ]
+      },
+      {
+        "h": "Unprecedented Ticket Sales on BookMyShow",
+        "p": [
+          "Beyond financial earnings, the film is creating history through digital ticketing platforms. It has officially become the first Indian release to cross one million ticket sales on BookMyShow for six days in a row.",
+          "This feat builds directly upon its stellar performance during the Diwali Monday frame, when it recorded roughly 16.60 lakh ticket purchases on the platform, marking the highest single-day count ever achieved by an Indian motion picture."
+        ]
+      },
+      {
+        "h": "Resilience Past the Festive Surge",
+        "p": [
+          "Industry analysts note that maintaining seven-figure daily bookings through Tuesday is a remarkable achievement, especially as the standard festive momentum usually begins to wane by this point.",
+          "The title could potentially extend this streak further, eyeing the possibility of hitting one million daily bookings on seven distinct days."
+        ]
+      },
+      {
+        "h": "Factors Fueling the Success",
+        "p": [
+          "Several elements have contributed to this sustained box office dominance, including a wide multilingual distribution strategy that caters to diverse audiences.",
+          "Strong family turnouts and substantial business generated from international circuits have further reinforced its position during this extended holiday corridor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana continues its historic box office run by targeting a 150 crore worldwide gross on its sixth day, pushing its total close to 825 crore globally. Directed by Nitesh Tiwari, the film has also broken digital ticketing records by securing over one million BookMyShow sales for six consecutive days."
+        ]
+      }
+    ],
+    "facts": [
+      "Namit Malhotra's Ramayana sixth-day worldwide collection is projected to reach around 150 crore gross.",
+      "The film is targeting approximately 110 crore India gross and 35-40 crore overseas on Tuesday, November 10.",
+      "The film had accumulated an estimated 675+ crore worldwide in its first five days, including 413.90 crore from India and 262 crore from overseas.",
+      "Ramayana has become the first Indian film to sell more than one million tickets on BookMyShow for six consecutive days.",
+      "On Diwali Monday, the film registered approximately 16.60 lakh BMS ticket sales.",
+      "The film was released on Thursday, November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "RRR",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ramayana Day 6 collection",
+      "Ramayana BookMyShow record",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028473.jpg",
+        "caption": "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 16:07:09 +0000"
+  },
+  "1lntnyh": {
+    "id": "1lntnyh",
+    "type": "news",
+    "headline": "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
+    "dek": "Veteran actor Hema Malini shares her thoughts on Nitesh Tiwari's latest cinematic retelling of Ramayana, expressing pleasant surprise over its visual presentation and principal cast.",
+    "body": [
+      {
+        "h": "Initial Skepticism Turned to Surprise",
+        "p": [
+          "Veteran actor Hema Malini recently shared her review of Nitesh Tiwari's ambitious mythological film after catching a screening in a local cinema hall. Given that the epic narrative is universally familiar even to young children, she admitted entering the auditorium with very minimal expectations regarding how the classic tale could be newly adapted.",
+          "To her astonishment, the final product completely shifted her perspective. She noted that she was thoroughly impressed by the creative direction and overall execution brought to the screen."
+        ]
+      },
+      {
+        "h": "Aesthetic Presentation and Visual Effects",
+        "p": [
+          "A major highlight of Malini's feedback centered around the movie's grand production design and cutting-edge computer-generated imagery. She mentioned that the stunning special effects left her breathless and deeply engaged in anticipation of how the plot would unfold.",
+          "The integration of modern technical advancements created an entirely unique visual experience tailored specifically for audiences in India, setting a fresh benchmark for mythological adaptations."
+        ]
+      },
+      {
+        "h": "Praise for the Lead Cast",
+        "p": [
+          "Beyond technical wizardry, the veteran actor focused heavily on the selection of performers chosen to portray iconic mythological figures. She found the casting choices to be exceptionally fitting for the scale and tone of the epic drama.",
+          "Observing the surrounding crowd inside the theatre, she noticed how viewers were thoroughly immersed, feeling as though they had traveled back in time to bear witness to historical events firsthand."
+        ]
+      },
+      {
+        "h": "Wider Industry Acclaim",
+        "p": [
+          "Malini is far from the only notable industry figure to voice appreciation for the project. A diverse group of filmmakers and artists, including SS Rajamouli, Madhur Bhandarkar, Ram Gopal Varma, and Badshah, have also shared favorable remarks about the feature.",
+          "Earlier, musician and rapper Badshah took to social media to commend the film's casting director, Mukesh Chhabra, crediting him with possessing an incredible eye for matching performers to appropriate roles."
+        ]
+      },
+      {
+        "h": "Specific Cast Selections Highlighted",
+        "p": [
+          "Industry peers specifically praised certain casting decisions as master strokes of creative vision. Particular appreciation was directed toward the choice of supporting talent within the ensemble.",
+          "For instance, the portrayal of Kekai and the inclusion of Ravi Dubey as Lakshmana drew particular praise from commentators for their striking suitability to the narrative."
+        ]
+      },
+      {
+        "h": "Project Background and Structure",
+        "p": [
+          "Titled 'Ramayana: Rise of a Legend', the production is envisioned as a two-part cinematic retelling of the traditional epic. The first installment made its theatrical debut on 5 November 2026, while the subsequent second part is currently scheduled for release in 2028.",
+          "The directorial duties are handled by Nitesh Tiwari, while financial backing and production responsibilities are shared by Namit Malhotra and Yash."
+        ]
+      },
+      {
+        "h": "Character Portrayals On Screen",
+        "p": [
+          "The high-profile project features a star-studded main cast stepping into legendary roles. Ranbir Kapoor leads the feature as Lord Rama, alongside Sai Pallavi as Sita and Yash in the role of Ravana.",
+          "Additionally, the ensemble includes Sunny Deol taking on the part of Hanuman and Ravi Dubey portraying Lakshmana as part of the extensive character lineup."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Hema Malini praised Nitesh Tiwari's Ramayana: Rise of a Legend after viewing it in theaters with minimal expectations, highlighting its impressive special effects and apt casting choices. Her positive review joins widespread appreciation from other industry figures regarding the film's technical execution and the ensemble performances of its lead actors."
+        ]
+      }
+    ],
+    "facts": [
+      "Hema Malini watched Ramayana: Rise of a Legend and shared her review on 10 November 2026.",
+      "The film Ramayana: Rise of a Legend was released in theatres on 5 November 2026.",
+      "Part 2 of the Ramayana retelling is slated for 2028.",
+      "Nitesh Tiwari directed the film, and it is backed by Namit Malhotra and Yash.",
+      "The cast includes Ranbir Kapoor as Lord Rama, Yash as Ravana, Sai Pallavi as Sita, Sunny Deol as Hanuman, and Ravi Dubey as Lakshmana."
+    ],
+    "entities": {
+      "people": [
+        "Hema Malini",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "SS Rajamouli",
+        "Madhur Bhandarkar",
+        "Ram Gopal Varma",
+        "Badshah",
+        "Mukesh Chhabra",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Movie",
+      "Hema Malini Ramayana",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana Rise of a Legend",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135715237,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T21:15:46+05:30"
+  },
+  "1xewdfm": {
+    "id": "1xewdfm",
+    "type": "news",
+    "headline": "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement",
+    "dek": "A comprehensive breakdown of Sony Pictures' theatrical releases transitioning to Netflix globally starting in 2027, alongside the complete schedule of titles, streaming windows, and regional availability details.",
+    "body": [
+      {
+        "h": "The Shift to a Global Streaming Partnership",
+        "p": [
+          "Netflix has served as the inaugural streaming destination for Sony Pictures theatrical films within the United States since 2022, but a major expansion is set to change the landscape. Beginning with titles released in theaters from January 2027 onward, this arrangement will transition into a worldwide deal. Rather than remaining limited to the US and a select few regions, Netflix will become the primary streaming home globally.",
+          "Announced in January 2026, the updated agreement is structured to run through 2032. Because existing regional contracts must first expire across different international territories, the global availability will roll out gradually, with full implementation anticipated by early 2029. Additionally, subscription tier limitations have already been lifted, allowing ad-supported subscribers access to these titles."
+        ]
+      },
+      {
+        "h": "Understanding the Theatrical-to-Streaming Timeline",
+        "p": [
+          "The standard distribution lifecycle for a Sony Pictures movie typically begins with a theatrical run, followed by digital rental and purchase availability. While this window traditionally spans roughly 120 days, the studio has frequently shortened this duration for underperforming titles. Once the home viewing window concludes, Netflix exclusively hosts the content for an 18-month duration known as the Pay-1 window.",
+          "Under the terms of the upcoming 2027 global transition, upcoming theatrical projects will follow this exact framework on an international scale. However, older regional agreements will continue to govern specific 2026 releases, keeping them exclusive to Netflix US. Furthermore, Sony-distributed anime films are excluded from this pact entirely, as those productions are designated for Crunchyroll."
+        ]
+      },
+      {
+        "h": "Major 2026 Releases and US-Exclusive Windows",
+        "p": [
+          "Several high-profile theatrical projects arriving through late 2026 fall under the legacy regional contracts, meaning they will debut strictly on Netflix US. Among these is Insidious: Out of the Further, slated to arrive in November 2026 with an expected stay lasting until May 2028. Another notable title, Spider-Man: Brand New Day, anticipates a late 2026 or early 2027 arrival depending on potential extensions to its digital sales window.",
+          "Other 2026 theatrical entries heading toward the US platform include Zach Cregger's Resident Evil, Aaron Sorkin's The Social Reckoning, Taika Waititi's Klara and the Sun based on Kazuo Ishiguro's novel, and Jake Kasdan's final franchise installment Jumanji: Open World. These titles will populate the library throughout late 2026 and early 2027 before the global agreement takes full effect."
+        ]
+      },
+      {
+        "h": "The 2027 Global Lineup Highlights",
+        "p": [
+          "The milestone shift to worldwide streaming kicks off prominently with titles hitting theaters in early 2027. Michael Morris's adaptation of Kristin Hannah's bestseller, The Nightingale, starring Dakota Fanning and Elle Fanning, is expected to serve as the first major global release under the updated terms, targeting a mid-2027 streaming debut.",
+          "Another massive addition to the global slate is Nintendo's live-action adaptation of The Legend of Zelda, directed by Wes Ball. Following a schedule adjustment, the film is set for an April 2027 theatrical release and a subsequent streaming window between late July and late August 2027. Other major global titles include the J.J. Abrams-produced horror adaptation Skeletons and Marielle Heller's The Comebacker."
+        ]
+      },
+      {
+        "h": "Special Regional Exceptions and Sony Animation",
+        "p": [
+          "Not every 2027 release will automatically be available worldwide, as some projects involve fragmented licensing. For instance, Roshan Sethi's thriller The Surgeon, starring Michelle Yeoh and Martin Freeman, was acquired out of TIFF for select regions only. Consequently, Netflix will only stream it in territories where Sony holds rights, such as North America, Latin America, Italy, China, and Hong Kong.",
+          "Meanwhile, projects from Sony Pictures Animation operate under a separate framework outside the primary Pay-1 deal. Direct collaborations between Netflix and the animation division include ongoing projects and sequels, though specific streaming destinations for titles like Wish Dragon 2 remain unconfirmed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony Pictures and Netflix have expanded their streaming partnership into a global agreement running from 2027 through 2032. While 2026 theatrical releases will remain exclusive to Netflix US under legacy contracts, films debuting in theaters from January 2027 onward will roll out worldwide on the platform."
+        ]
+      }
+    ],
+    "facts": [
+      "Sony Pictures and Netflix signed a global Pay-1 deal announced in January 2026, running from 2027 through 2032.",
+      "Netflix unlocked Sony titles for Standard with Ads subscribers in April 2026.",
+      "Insidious: Out of the Further arrives on Netflix US on November 21st, 2026.",
+      "The Legend of Zelda is scheduled for a theatrical release on April 30th, 2027, directed by Wes Ball.",
+      "The Nightingale is directed by Michael Morris and stars Dakota Fanning and Elle Fanning."
+    ],
+    "entities": {
+      "people": [
+        "Zach Cregger",
+        "Aaron Sorkin",
+        "Taika Waititi",
+        "Jake Kasdan",
+        "Michael Morris",
+        "Dakota Fanning",
+        "Elle Fanning",
+        "Wes Ball",
+        "Michelle Yeoh",
+        "Martin Freeman",
+        "Marielle Heller"
+      ],
+      "titles": [
+        "Resident Evil",
+        "The Legend of Zelda",
+        "Insidious: Out of the Further",
+        "Spider-Man: Brand New Day",
+        "The Social Reckoning",
+        "Klara and the Sun",
+        "Jumanji: Open World",
+        "The Nightingale",
+        "The Surgeon",
+        "Skeletons",
+        "The Comebacker"
+      ]
+    },
+    "keywords": [
+      "Sony Pictures Netflix 2027 deal",
+      "The Legend of Zelda movie Netflix",
+      "Resident Evil 2026 Netflix release",
+      "Spider-Man Brand New Day Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/sony-pictures-movies-coming-to-netflix-2027.jpg",
+        "caption": "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 16:35:56 +0000"
   }
 };
