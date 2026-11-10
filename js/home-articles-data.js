@@ -161,6 +161,41 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-10T08:51:57Z"
   },
+  "q76cae": {
+    "id": "q76cae",
+    "type": "news",
+    "headline": "Diljit Dosanjh Clarifies Indore Concert Rumours, Confirms November 15 Appearance",
+    "dek": "Punjabi artist Diljit Dosanjh has firmly dismissed speculation regarding the cancellation of his upcoming live performance in Indore, assuring fans of his 101% arrival.",
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Rajneesh Sinha",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Patiala Peg",
+        "5 Taara",
+        "Jeeb Vicho Afeem",
+        "Case",
+        "Jatt Uthe Fire Karda",
+        "Aura India tour"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Indore concert",
+      "Diljit Dosanjh November 15",
+      "Aura India tour",
+      "Diljit Dosanjh songs notice Indore"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Diljit_Dosanjh_1794299096407_ubue_1794299096508_eBGj_74be4f9e-54eb-493d-b70f-c1d8856ade06_pAOT.jpg",
+        "caption": "Diljit Dosanjh Clarifies Indore Concert Rumours, Confirms November 15 Appearance",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:12:53 +0530"
+  },
   "edmou2": {
     "id": "edmou2",
     "type": "news",
@@ -195,6 +230,77 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 14:11:45 +0530"
+  },
+  "18l6a9a": {
+    "id": "18l6a9a",
+    "type": "news",
+    "headline": "Fall Out Boy Launch Twilight of the Punks Tour and New Single ACES",
+    "dek": "The band has announced a massive 36-date global stadium and arena run for 2027 alongside their brand-new single ACES, marking 25 years together.",
+    "entities": {
+      "people": [
+        "Neal Avron",
+        "Brendan Walter"
+      ],
+      "titles": [
+        "ACES",
+        "Save Rock and Roll",
+        "American Beauty/American Psycho",
+        "M A N I A",
+        "So Much (For) Stardust",
+        "Love From the Other Side"
+      ]
+    },
+    "keywords": [
+      "Fall Out Boy",
+      "Twilight of the Punks Tour",
+      "Fall Out Boy ACES single",
+      "Fall Out Boy tour 2027"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/FOB-Approved-Press-Press-Photo-2026-2027-Credit_-Pamela-Littky-1-e1794299933258.jpg?w=1024",
+        "caption": "Fall Out Boy Launch Twilight of the Punks Tour and New Single ACES",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:37:06 +0000"
+  },
+  "1qz9fon": {
+    "id": "1qz9fon",
+    "type": "news",
+    "headline": "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
+    "dek": "The theatrical debut of Sharwanand and Anupama Parameswaran's Bhogi has been delayed following the examining committee's decision to refer the movie to the revising committee.",
+    "entities": {
+      "people": [
+        "Sharwanand",
+        "Anupama Parameswaran",
+        "Sampath Nandi",
+        "Tamannaah Bhatia",
+        "Hebah Patel",
+        "C Joseph Vijay",
+        "H Vinoth"
+      ],
+      "titles": [
+        "Bhogi",
+        "Odela 2",
+        "Jana Nayagan"
+      ]
+    },
+    "keywords": [
+      "Bhogi film",
+      "Sharwanand Bhogi release",
+      "Anupama Parameswaran Bhogi",
+      "Sampath Nandi Bhogi",
+      "CBFC revising committee Bhogi"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Bhogi_movie_1794296646715_SmVP_1794296679547_HyGz_510b5534-3c1c-454c-b01e-330e052a4afe_7F6f.jpeg",
+        "caption": "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:02:07 +0530"
   },
   "1x04q29": {
     "id": "1x04q29",
@@ -231,6 +337,38 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 14:00:07 +0530"
+  },
+  "411ze1": {
+    "id": "411ze1",
+    "type": "news",
+    "headline": "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
+    "dek": "Prime Video is rolling out the third season of The Lord of the Rings: The Rings of Power in rapid-fire batches, kicking off with the first four episodes on November 11, 2026.",
+    "entities": {
+      "people": [
+        "J.R.R. Tolkien",
+        "Sauron",
+        "Morgoth",
+        "Frodo"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Rings of Power",
+        "The Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "The Rings of Power season 3",
+      "Rings of Power release time",
+      "Prime Video fantasy series",
+      "Sauron One Ring"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/the-lord-of-the-rings-the-rings-of-power_a4pyhn-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:00:18 GMT"
   },
   "lubpd7": {
     "id": "lubpd7",
@@ -4466,174 +4604,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-09T10:50:19+05:30"
-  },
-  "1x5ref6": {
-    "id": "1x5ref6",
-    "type": "news",
-    "headline": "Clayface Crosses Major Box Office Milestone Despite Theater Count Reductions",
-    "dek": "DC Studios’ Clayface has cleared its break-even point globally, pulling in $109 million despite losing hundreds of theaters in its third week.",
-    "entities": {
-      "people": [
-        "James Watkins",
-        "Tom Rhys Harries",
-        "Naomi Ackie",
-        "Max Minghella",
-        "Eddie Marsan",
-        "Matt Reeves",
-        "Devanshi Basu"
-      ],
-      "titles": [
-        "Clayface",
-        "Godzilla Minus Zero",
-        "Speak No Evil",
-        "The Woman in Black",
-        "Supergirl",
-        "The Batman"
-      ]
-    },
-    "keywords": [
-      "Clayface box office",
-      "Clayface DC Studios",
-      "Tom Rhys Harries Clayface",
-      "James Watkins Clayface"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/clayfacedc.webp?resize=1200,630",
-        "caption": "Clayface Crosses Major Box Office Milestone Despite Theater Count Reductions",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 05:10:00 +0000"
-  },
-  "leqqw7": {
-    "id": "leqqw7",
-    "type": "news",
-    "headline": "MCU Theory Connects Doctor Doom and The Scarlet Witch for Future Crossover",
-    "dek": "Recent fan theories suggest that Marvel Studios might be laying the groundwork for a major storyline involving Doctor Doom and the return of the Scarlet Witch.",
-    "entities": {
-      "people": [
-        "Kevin Erdmann",
-        "Robert Downey Jr.",
-        "Elizabeth Olsen",
-        "Paul Bettany",
-        "Joe Locke",
-        "Ruaridh Mollica",
-        "Agatha Harkness",
-        "Anthony Russo",
-        "Joe Russo",
-        "Stephen McFeely",
-        "Michael Waldron",
-        "Chris McKenna",
-        "Erik Sommers",
-        "Kevin Feige",
-        "Louis D'Esposito",
-        "Jonathan Schwartz",
-        "Pedro Pascal",
-        "Chris Hemsworth",
-        "Vanessa Kirby"
-      ],
-      "titles": [
-        "Avengers: Doomsday",
-        "Doctor Strange in the Multiverse of Madness",
-        "VisionQuest",
-        "Agatha All Along",
-        "WandaVision",
-        "Avengers: Infinity War",
-        "Avengers: Secret Wars",
-        "Spider-Man: Brand New Day",
-        "Fantastic Four",
-        "Black Panther",
-        "Thor",
-        "X-Men"
-      ]
-    },
-    "keywords": [
-      "Avengers Doomsday Doctor Doom",
-      "Scarlet Witch MCU return",
-      "VisionQuest Disney plus",
-      "Childrens Crusade Marvel theory"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/elizabeth-olsen-s-scarlet-witch-turns-around-in-avengers-infinity-war.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "MCU Theory Connects Doctor Doom and The Scarlet Witch for Future Crossover",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 04:46:25 GMT"
-  },
-  "wuxxb4": {
-    "id": "wuxxb4",
-    "type": "news",
-    "headline": "Shruti Haasan Joins Cast of Dulquer Salmaan Starrer Aakasamlo Oka Tara As Rohini",
-    "dek": "The makers of the upcoming inspirational drama have revealed a special character poster featuring Shruti Haasan ahead of the film's scheduled theatrical release on November 20.",
-    "entities": {
-      "people": [
-        "Shruti Haasan",
-        "Dulquer Salmaan",
-        "Satvika Veeravalli",
-        "Pavan Sadineni",
-        "GV Prakash",
-        "Sujith Sarang",
-        "Praveen KL",
-        "Shwetha Sabu Cyril",
-        "Vamsi Krishna",
-        "Pallavi Singh"
-      ],
-      "titles": [
-        "Aakasamlo Oka Tara"
-      ]
-    },
-    "keywords": [
-      "Aakasamlo Oka Tara",
-      "Shruti Haasan",
-      "Dulquer Salmaan",
-      "Satvika Veeravalli",
-      "Pavan Sadineni"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135671070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Shruti Haasan Joins Cast of Dulquer Salmaan Starrer Aakasamlo Oka Tara As Rohini",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-09T10:10:19+05:30"
-  },
-  "m3r8xc": {
-    "id": "m3r8xc",
-    "type": "news",
-    "headline": "Vijay Deverakonda and Rashmika Mandanna Share Japan Family Holiday Photos",
-    "dek": "Actors Vijay Deverakonda and Rashmika Mandanna posted festive photos from their family Diwali trip to Japan, shortly after responding to social media criticism over their Koffee With Karan 9 appearance.",
-    "entities": {
-      "people": [
-        "Vijay Deverakonda",
-        "Rashmika Mandanna",
-        "Anand Deverakonda"
-      ],
-      "titles": [
-        "Koffee With Karan 9",
-        "Ranabaali",
-        "Rowdy Janardhana",
-        "Mysaa",
-        "Raaka"
-      ]
-    },
-    "keywords": [
-      "Vijay Deverakonda Rashmika Mandanna Japan Diwali",
-      "Rashmika Mandanna Koffee With Karan 9",
-      "Vijay Deverakonda family holiday",
-      "Ranabaali film"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vijay-deverakonda-rashmika-mandanna-japan-092640796-16x9_0.jpg?VersionId=IcD3IZv5fuvdRIPMVb16EpSHZCueKZYV",
-        "caption": "Vijay Deverakonda and Rashmika Mandanna Share Japan Family Holiday Photos",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 10:04:20 +0530"
   },
   "ighrs2": {
     "id": "ighrs2",

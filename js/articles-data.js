@@ -104721,5 +104721,376 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 09:11:37 GMT"
+  },
+  "1qz9fon": {
+    "id": "1qz9fon",
+    "type": "news",
+    "headline": "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
+    "dek": "The theatrical debut of Sharwanand and Anupama Parameswaran's Bhogi has been delayed following the examining committee's decision to refer the movie to the revising committee.",
+    "body": [
+      {
+        "h": "Release Pushed Back",
+        "p": [
+          "The theatrical arrival of the upcoming feature Bhogi has encountered an unexpected delay. Originally scheduled to debut in cinemas on November 12, the project was pushed back at the eleventh hour.",
+          "Makers are currently awaiting further updates from the Censor Board, leaving fans and trade analysts uncertain about when the feature will finally reach the big screen."
+        ]
+      },
+      {
+        "h": "Censor Board Referral",
+        "p": [
+          "The delay stems from the Central Board of Film Certification. After evaluating the footage, the examining committee opted to forward the project to the revising committee.",
+          "Industry insiders note that securing clearance through this channel may require additional time, resulting in the indefinite postponement of the original screening schedule."
+        ]
+      },
+      {
+        "h": "Cancelled Promotional Events",
+        "p": [
+          "Trouble began mounting ahead of the premiere when promotional activities were abruptly halted. The scheduled trailer launch and pre-release event at Park Hyatt, Hyderabad, were called off.",
+          "The team released a notice attributing the sudden cancellation to unforeseen technical issues, expressing regret to supporters who had anticipated the evening."
+        ]
+      },
+      {
+        "h": "Production House and Ticketing Status",
+        "p": [
+          "The production banner Sri Sathya Sai Arts has yet to issue an official statement regarding the revised timeline. Discussions and clearances remain ongoing behind the scenes.",
+          "Despite the halt, ticketing platforms such as BookMyShow and District continued to list the project for its original November 12 slot, though ticket sales had not yet opened to the public."
+        ]
+      },
+      {
+        "h": "Cast and Director Background",
+        "p": [
+          "The movie is directed by Sampath Nandi and features leading performances by Sharwanand alongside Anupama Parameswaran.",
+          "Director Sampath Nandi previously helmed the 2025 release Odela 2, which featured Tamannaah Bhatia and Hebah Patel in prominent roles."
+        ]
+      },
+      {
+        "h": "Broader Regulatory Context",
+        "p": [
+          "This regulatory hurdle arrives shortly after the Censor Board issued a fresh advisory stating that incomplete motion pictures will not be considered for certification, and that titles and dates remain subject to change.",
+          "Similar scrutiny affected other recent titles, such as Tamil Nadu chief minister C Joseph Vijay's final project Jana Nayagan directed by H Vinoth, which faced lengthy delays before its eventual release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The theatrical release of Bhogi has been postponed at the last minute after the Central Board of Film Certification referred the film to the revising committee following an evaluation by the examining committee. This delay follows the abrupt cancellation of the trailer launch and pre-release event due to technical issues, leaving the filmmakers awaiting clearance and yet to announce a new date."
+        ]
+      }
+    ],
+    "facts": [
+      "Bhogi was originally scheduled to be released on November 12",
+      "Sharwanand and Anupama Parameswaran play the leads in Bhogi",
+      "The film is directed by Sampath Nandi",
+      "The production house is Sri Sathya Sai Arts",
+      "The trailer launch and pre-release event were scheduled for November 7 at Park Hyatt, Hyderabad",
+      "Sampath Nandi's last film was Odela 2 starring Tamannaah Bhatia and Hebah Patel in 2025"
+    ],
+    "entities": {
+      "people": [
+        "Sharwanand",
+        "Anupama Parameswaran",
+        "Sampath Nandi",
+        "Tamannaah Bhatia",
+        "Hebah Patel",
+        "C Joseph Vijay",
+        "H Vinoth"
+      ],
+      "titles": [
+        "Bhogi",
+        "Odela 2",
+        "Jana Nayagan"
+      ]
+    },
+    "keywords": [
+      "Bhogi film",
+      "Sharwanand Bhogi release",
+      "Anupama Parameswaran Bhogi",
+      "Sampath Nandi Bhogi",
+      "CBFC revising committee Bhogi"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Bhogi_movie_1794296646715_SmVP_1794296679547_HyGz_510b5534-3c1c-454c-b01e-330e052a4afe_7F6f.jpeg",
+        "caption": "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:02:07 +0530"
+  },
+  "411ze1": {
+    "id": "411ze1",
+    "type": "news",
+    "headline": "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
+    "dek": "Prime Video is rolling out the third season of The Lord of the Rings: The Rings of Power in rapid-fire batches, kicking off with the first four episodes on November 11, 2026.",
+    "body": [
+      {
+        "h": "The Return Of Middle-earth",
+        "p": [
+          "The fantasy series The Lord of the Rings: The Rings of Power is gearing up to release its third season on Prime Video. As a prequel to J.R.R. Tolkien's legendary Lord of the Rings trilogy, the television project takes place thousands of years before the events involving Frodo and the One Ring.",
+          "Over the course of its run so far, the narrative has traced the rise of the Dark Lord Sauron following the defeat of his master, Morgoth, during the First Age of Middle-earth. The ongoing plot details his methodical creation of the iconic weapons designed to secure his dominion."
+        ]
+      },
+      {
+        "h": "A Brand New Release Strategy",
+        "p": [
+          "While previous seasons of The Rings of Power adhered to a traditional weekly release schedule stretched across multiple months, the platform is altering its approach for the upcoming outing. Season 3 will be distributed across three distinct batches, ensuring the entire third installment wraps up within a three-week window.",
+          "The rollout begins with a massive four-episode premiere. Subsequent installments will follow in pairs over the remaining weeks of November, allowing subscribers to consume the unfolding narrative much faster than in past years."
+        ]
+      },
+      {
+        "h": "Exact Launch Timings For Episodes 1-4",
+        "p": [
+          "Viewers eager to jump into the new chapter will not have to wait long. The first four episodes of The Lord of the Rings: The Rings of Power season 3 are scheduled to drop on Wednesday, November 11, 2026.",
+          "The premiere will occur simultaneously across key time zones, specifically hitting the streaming platform at 12:00 AM Pacific Time and 3:00 AM Eastern Time, giving fans immediate access to binge the first half of the season."
+        ]
+      },
+      {
+        "h": "Sauron's Expanding Influence",
+        "p": [
+          "The decision to adopt a more condensed release model matches the escalating stakes within the story. Season 2 concluded with the Dark Lord successfully forging the dreaded rings, and season 3 will see him actively distributing them to mortals.",
+          "This development will finally reveal on screen which mortal figures are destined to transform into Sauron's nine dreaded Ringwraiths, offering a fresh layer of lore for the audience to digest."
+        ]
+      },
+      {
+        "h": "The Creation Of The One Ring",
+        "p": [
+          "Perhaps the most anticipated element of the upcoming episodes is the long-awaited creation of the One Ring to Rule Them All. This artifact sits at the very heart of the wider franchise, yet its precise origins have remained largely shrouded in mystery.",
+          "Portraying this milestone event from Tolkien's legendarium marks uncharted territory for screen adaptations, providing viewers with a monumental plot point to anticipate as the season unfolds."
+        ]
+      },
+      {
+        "h": "All-Out War In Middle-earth",
+        "p": [
+          "Beyond magical artifacts, season 3 promises to shift the tone of the series closer to what audiences recognize from the original trilogy. A five-year time jump brings an end to temporary peace, thrusting the characters directly into the brutal War of the Elves and Sauron.",
+          "Fans can anticipate large-scale battles, desperate heroic maneuvers, and intense conflicts that mirror the high-stakes struggles characteristic of the Third Age of Middle-earth."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video is changing its distribution model for The Lord of the Rings: The Rings of Power season 3 by releasing episodes in fast-paced batches through November 2026. The premiere of the first four episodes arrives on November 11, setting the stage for Sauron's distribution of the rings and the outbreak of total war."
+        ]
+      }
+    ],
+    "facts": [
+      "The Lord of the Rings: The Rings of Power season 3 premieres on Prime Video on November 11, 2026.",
+      "Episodes 1-4 release at 12:00 AM PT and 3:00 AM ET on November 11, 2026.",
+      "Two additional episodes release on November 18, 2026, and the final two release on November 25, 2026.",
+      "Season 3 features a five-year time jump and depicts the War of the Elves and Sauron."
+    ],
+    "entities": {
+      "people": [
+        "J.R.R. Tolkien",
+        "Sauron",
+        "Morgoth",
+        "Frodo"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Rings of Power",
+        "The Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "The Rings of Power season 3",
+      "Rings of Power release time",
+      "Prime Video fantasy series",
+      "Sauron One Ring"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/the-lord-of-the-rings-the-rings-of-power_a4pyhn-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:00:18 GMT"
+  },
+  "q76cae": {
+    "id": "q76cae",
+    "type": "news",
+    "headline": "Diljit Dosanjh Clarifies Indore Concert Rumours, Confirms November 15 Appearance",
+    "dek": "Punjabi artist Diljit Dosanjh has firmly dismissed speculation regarding the cancellation of his upcoming live performance in Indore, assuring fans of his 101% arrival.",
+    "body": [
+      {
+        "h": "Addressing the Rumours",
+        "p": [
+          "Rumours had recently circulated suggesting that Punjabi singer-actor Diljit Dosanjh might step back from his scheduled performance in Indore due to underlying safety concerns and controversies. Addressing these speculations head-on during a live session on Instagram, the performer put all doubts to rest by explicitly confirming that he will indeed travel to the city for the event.",
+          "Refuting claims of a cancellation, he assured his supporters that he remains fully committed to the concert date. He expressed amusement at how certain media outlets tend to sensationalise stories by adding unverified layers, and directly urged his fanbase to disregard the noise and trust his personal confirmation."
+        ]
+      },
+      {
+        "h": "Local Delights and High Energy",
+        "p": [
+          "Beyond confirming his attendance, the artist shared lighthearted details about his upcoming itinerary in Indore. He humorously promised that the very first thing he intends to do upon arrival is indulge in the city's famous local breakfast delicacy, poha.",
+          "He explained that enjoying this traditional meal would give him the necessary energy boost to deliver a high-octane performance. Maintaining an enthusiastic tone throughout his interaction, he reassured everyone that he will be arriving at full steam to connect with his audience."
+        ]
+      },
+      {
+        "h": "Official Notice and Setlist Concerns",
+        "p": [
+          "The speculation around the event follows an official communication issued on November 6 by the women and child development department's District Child Protection Officer. The management of the venue received instructions to keep specific tracks off the performance setlist, citing concerns over lyrics that mention alcohol, weapons, or intoxicants.",
+          "District Officer Rajneesh Sinha explained to ANI that the directive stemmed from a letter originating in Chandigarh, following guidelines from the Punjab and Haryana High Court. Because the concert allows attendees aged five and above, authorities expressed worry that certain lyrical themes could negatively influence younger children."
+        ]
+      },
+      {
+        "h": "Specific Tracks Under Scrutiny",
+        "p": [
+          "The official notice explicitly highlighted several popular songs by the artist that should ideally be avoided during the live show. Among the tracks listed by the authorities were Patiala Peg, 5 Taara, Jeeb Vicho Afeem also known as Case, and Jatt Uthe Fire Karda.",
+          "Despite the administrative notice regarding these specific numbers, neither Diljit Dosanjh nor his management team have released a direct public statement addressing these song restrictions prior to his social media clarification."
+        ]
+      },
+      {
+        "h": "The Aura India Tour Context",
+        "p": [
+          "The Indore stop is part of the artist's ongoing Aura India tour, which commenced on October 30 with a massive opening concert at New Delhi's Jawaharlal Nehru Stadium. That initial launch also encountered similar security discussions and scrutiny before heavy security measures were successfully deployed.",
+          "Following his appearance in Indore on November 15 at the Twenty One Business Park, the singer has a series of upcoming musical shows lined up across multiple major Indian cities, including Mumbai, Bengaluru, and Chandigarh."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh has dismissed rumours of cancelling his November 15 concert in Indore, confirming on Instagram that he will definitely perform and enjoy some local poha. The event previously faced scrutiny when local authorities issued a notice advising the exclusion of certain songs featuring references to weapons or intoxicants.",
+          "Despite these administrative concerns and tour preparations that follow his New Delhi opening, the artist maintains that his tour will proceed as planned across multiple cities."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh confirmed on Tuesday that he is coming to Indore for his concert.",
+      "The Indore concert is scheduled for November 15.",
+      "The venue for the Indore concert is Twenty One Business Park.",
+      "The notice regarding the setlist was issued on November 6.",
+      "The notice was issued by the women and child development department's District Child Protection Officer, Rajneesh Sinha.",
+      "Songs listed in the notice include Patiala Peg, 5 Taara, Jeeb Vicho Afeem aka Case, and Jatt Uthe Fire Karda.",
+      "The Aura India tour kicked off at New Delhi's Jawaharlal Nehru Stadium on October 30."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Rajneesh Sinha",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Patiala Peg",
+        "5 Taara",
+        "Jeeb Vicho Afeem",
+        "Case",
+        "Jatt Uthe Fire Karda",
+        "Aura India tour"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Indore concert",
+      "Diljit Dosanjh November 15",
+      "Aura India tour",
+      "Diljit Dosanjh songs notice Indore"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Diljit_Dosanjh_1794299096407_ubue_1794299096508_eBGj_74be4f9e-54eb-493d-b70f-c1d8856ade06_pAOT.jpg",
+        "caption": "Diljit Dosanjh Clarifies Indore Concert Rumours, Confirms November 15 Appearance",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:12:53 +0530"
+  },
+  "18l6a9a": {
+    "id": "18l6a9a",
+    "type": "news",
+    "headline": "Fall Out Boy Launch Twilight of the Punks Tour and New Single ACES",
+    "dek": "The band has announced a massive 36-date global stadium and arena run for 2027 alongside their brand-new single ACES, marking 25 years together.",
+    "body": [
+      {
+        "h": "Announcing the 2027 Global Trek",
+        "p": [
+          "Fall Out Boy have officially declared their upcoming global concert series, titled the Twilight of the Punks Tour. Promoted by Live Nation, the massive trek spans 36 dates across stadiums and arenas throughout Europe, the United Kingdom, and North America.",
+          "The international schedule arrives alongside their brand-new single ACES, serving as their initial original release in more than three years via Atlantic Records."
+        ]
+      },
+      {
+        "h": "European and UK Leg Details",
+        "p": [
+          "The international leg of the journey kicks off on May 17 at Prague's O2 Arena. It will travel across 15 dates covering 11 countries in Europe and the UK.",
+          "Performances are scheduled in cities like Budapest, Milan, Madrid, Lyon, Brussels, Mönchengladbach, Glasgow, Dublin, and Manchester before hitting a peak on June 5 at London's Tottenham Hotspur Stadium and concluding on June 13 at the Atlas Arena in Łódź, Poland. A Day to Remember and Neck Deep will serve as supporting acts throughout these dates."
+        ]
+      },
+      {
+        "h": "North American Stadium Run",
+        "p": [
+          "Following the overseas dates, the North American leg brings 21 stadium performances. The run begins on July 13 at Globe Life Field in Arlington, Texas, and wraps up on August 26 at Providence Park in Portland, Oregon.",
+          "The itinerary features high-profile stops at Toronto's Rogers Stadium, Boston's Fenway Park, Citi Field in Queens, and Dodger Stadium in Los Angeles. Notably, the tour includes a hometown show at Chicago's Soldier Field, marking their first headline stadium date in the city where the group formed. The Offspring and The Story So Far will join all North American shows, with Good Charlotte performing on every date except August 6 and 7."
+        ]
+      },
+      {
+        "h": "The New Single ACES",
+        "p": [
+          "The fresh track ACES was produced and mixed by longtime collaborator Neal Avron. Its accompanying music video was directed by Brendan Walter.",
+          "This release coincides with the band celebrating 25 years together as a group, marking a major milestone in their long-running musical career."
+        ]
+      },
+      {
+        "h": "Interactive Online Campaign",
+        "p": [
+          "The roll-out for the new era featured an elaborate and inventive online campaign. In late October, Fall Out Boy began teasing fans with posts about a fictional Twilight Town Mall before entirely rebuilding their web presence into an interactive shopping directory.",
+          "They introduced the Two Quarters Arcade, built alongside Brooklyn agency LOOP, allowing fans to remotely operate a real claw machine to win a band-branded plush. The interactive digital activation drew nearly a million site visits, generated 6.1 million minutes of watch time, and temporarily crashed their servers."
+        ]
+      },
+      {
+        "h": "Ticket Sales and Presale Schedule",
+        "p": [
+          "General ticket sales begin on Thursday, November 12 at 10 a.m. local time in North America and noon local time in Europe and the UK. Select European markets including Lyon, Brussels, Paris, and Łódź will open ticket sales the following day on Friday, November 13.",
+          "An artist presale launches Wednesday, November 11, alongside a Reserved by Spotify presale across select North American markets."
+        ]
+      },
+      {
+        "h": "Legacy and Past Successes",
+        "p": [
+          "Fall Out Boy boast an impressive chart history, having earned four No. 1 albums on the Billboard 200, three of which were consecutive: Save Rock and Roll, American Beauty/American Psycho, and M A N I A, the latter of which secured a Grammy nomination for best rock album.",
+          "Their 2023 album So Much (For) Stardust opened at No. 1 on Top Rock Albums, while its lead single Love From the Other Side became their first No. 1 on Alternative Airplay. Previously, in 2021, they co-headlined the Hella Mega Tour alongside Green Day and Weezer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fall Out Boy have announced a 36-date global stadium and arena tour for 2027 titled the Twilight of the Punks Tour alongside the release of their first single in over three years, ACES. The rollout included a viral interactive online arcade campaign and precedes ticket sales opening in mid-November."
+        ]
+      }
+    ],
+    "facts": [
+      "Fall Out Boy announced the Twilight of the Punks Tour on November 9.",
+      "The tour consists of 36 dates across Europe, the U.K., and North America in 2027.",
+      "The new single ACES is released via Atlantic Records.",
+      "The European and U.K. leg opens on May 17 at Prague's O2 Arena and wraps June 13 at Atlas Arena in Łódź.",
+      "The North American leg opens July 13 at Globe Life Field in Arlington, Texas, and closes August 26 at Providence Park in Portland, Oregon.",
+      "General ticket sales begin on Thursday, November 12.",
+      "The band has four No. 1 albums on the Billboard 200."
+    ],
+    "entities": {
+      "people": [
+        "Neal Avron",
+        "Brendan Walter"
+      ],
+      "titles": [
+        "ACES",
+        "Save Rock and Roll",
+        "American Beauty/American Psycho",
+        "M A N I A",
+        "So Much (For) Stardust",
+        "Love From the Other Side"
+      ]
+    },
+    "keywords": [
+      "Fall Out Boy",
+      "Twilight of the Punks Tour",
+      "Fall Out Boy ACES single",
+      "Fall Out Boy tour 2027"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/FOB-Approved-Press-Press-Photo-2026-2027-Credit_-Pamela-Littky-1-e1794299933258.jpg?w=1024",
+        "caption": "Fall Out Boy Launch Twilight of the Punks Tour and New Single ACES",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:37:06 +0000"
   }
 };

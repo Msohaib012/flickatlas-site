@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T10:51:02Z",
-    "run_id": "42604173143",
-    "status": "success",
-    "checked": {
-     "candidates": 216,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Amitabh, Deepika Or Sunny Deol! Swaroopa Ghosh Reveals Why She Can't Pick A Favourite Co-Star- EXCLUSIVE",
-      "Diwali 2026 EXCLUSIVE: Siya Ke Ram's Yukti Kapoor Reveals Biggest Lesson She Learnt From Sita: Loyalty Is...",
-      "Ramayana Box Office Collection Day 4: Scores A Record Opening Weekend For A Diwali Release, Ranks 4th Among Bollywood’s All-Time Opening Weekends",
-      "Ramayana Day 6 Advance Booking Crosses 3 Lakh Tickets in National Chains as Bengaluru Leads Ahead of Post-Diwali Weekday Test",
-      "Ramayana designer delivered Ranbir's armor an hour before shoot",
-      "Justin Timberlake attends charity event with his niece and his two sons",
-      "Bhumi Pednekar raises alarm over ‘hazardous’ AQI in Mumbai post Diwali, says people were bursting crackers even at 3 AM",
-      "BTS' V gets curious about Diwali after Indian fans introduce him to festival, wishes them 'Diwali Mubarak'",
-      "Adnan Sami slams Mumbai Airport's Pranaam service over staff's ‘rude’ behaviour, says they didn't inform him of 5-hour flight delay",
-      "Ramayana surprises its biggest critics. 5 things internet got spectacularly wrong",
-      "Comedian Ravi Gupta flips the script on Ramayana, turns mockery into praise",
-      "Diwali 2026: Priyanka Chopra-Nick Jonas’ Elegant Celebration To Alia Bhatt-Ranbir Kapoor, Bachchan’s Homely Gatherings, A Glimpse At Bollywood Celebrating The Festival Of Light",
-      "Diwali 2026: Katrina Kaif, Vicky Kaushal Reveal Son Vihaan’s Face For The FIRST Time; Call Celebration, “Our Brightest Diwali Yet”",
-      "OG Harry Potter Stars Officially React to Replacement Cast as Hit Spin-Off Series Returns",
-      "Dave Chappelle’s Charlie Kirk Joke Sparks Huge Backlash, ‘Disgusting’ Says Wife Erika",
-      "5 Best New Paramount+ Series To Binge-Watch This Week (November 9–13, 2026)",
-      "Fifth Season Secures Euro Deals For ITV Drama ‘The Blame’",
-      "Nicola Coughlan Says Society Not Doing Enough To Tackle Toxic Masculinity On Eve Of Launch Of Powerful Channel 4 Drama ‘I Am Helen’",
-      "Amazon MGM Studios moves into French theatrical distribution with ‘The Thomas Crown Affair’",
-      "POLL: What are you watching Tonight? - 9th November 2026"
-     ],
-     "updated": [],
-     "count": 210,
-     "detail": "216 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-09T11:51:30Z",
     "run_id": "42612187104",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "333 stories, 2 duplicates removed, 15 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T10:51:26Z",
-    "run_id": "42604173143",
+    "run_at": "2026-11-10T10:16:16Z",
+    "run_id": "42797637657",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 328,
+     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana costume designer recalls rush to deliver Ranbir Kapoor's armor",
-      "Sol Kyung Gu Addresses Possible Love Oscar Campaign and Working With Lee Chang Dong",
-      "Ramayana surprises its biggest critics: 5 things the internet got wrong",
-      "TWICE Nayeon Solo Album Credits Spark Fan Discussion Over Writer Link to Chaeyoung"
+      "Last Man In Tower EXCL! Divya Dutta Says She May Have 'Withdrawal Symptoms' After Working With Manoj Bajpayee",
+      "Mahadev Star Ragini Chaubey On Actors' Responsibility In Mythological Shows: We Must Not Hurt...- EXCLUSIVE",
+      "Yeh Rishta Kya Kehlata Hai Written Update Nov 10: Maira's Exam In Danger As Scribe Goes Missing - BIG TWIST",
+      "Drishyam 3 Box Office: Post-Diwali Spirit Brings Dhamakedaar 150% Jump On 6th Monday – Only 1.52 Crore Away From The Final Milestone!",
+      "Jailer 2 Worldwide Box Office: 5 Ultimate Records Owned By Rajinikanth’s Roaring Sequel!",
+      "Disco Box Office Collection Day 4: Crashes On 1st Monday, Set To Wrap Lifetime Under 2 Crore",
+      "Ramayana Overseas Box Office Record: Beats Dhurandhar 2’s 4-Day Weekend By A Huge Margin, Settles As 2nd Biggest Below Pathaan!",
+      "Other Mommy Worldwide Box Office: Beats A Big-Budget Masters Of The Universe With Just A Fraction Of Its Spending!",
+      "Salman Khan Confirms Maatrubhumi Trailer Release on November 10 With a Striking New Poster",
+      "Paul McCartney becomes a billionaire",
+      "'Scene' vs 'Mookuthi Amman 2' BO Day 5 [Live]: Suriya's film lead",
+      "Is Priya Bhavani Shankar getting married to her long-time boyfriend?",
+      "Nick Jonas grooves to Sai Abhyankkar's viral Tamil song 'Radhimaa'",
+      "Arun Govil didn't want to play Dashrath in Ramayana, says Nitesh Tiwari wanted a connection with Ramanand Sagar's Ramayan",
+      "Diljit Dosanjh puts Indore concert cancellation rumours to rest, says ‘101% coming’ on November 15",
+      "Sharwanand, Anupama Parameswaran's Bhogi release postponed last minute after cancelled trailer release as CBFC sends film to revising committee",
+      "Ramayana box office collection day 6 (updated live): Ranbir Kapoor, Yash film sees another record-breaking day, outpaces Dhurandhar 2 to cross  ₹350 cr",
+      "Renu Desai questions relentless bursting of firecrackers since 3 days with no concern for safety",
+      "13-year marriage, Instagram confessions and separation: Pawan Kalyan-Anna's story",
+      "Burnt my balcony, room: Actor Gurfateh Pirzada shares Diwali crackers aftermath"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 316,
+     "detail": "328 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:16:46Z",
+    "run_id": "42797637657",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
+      "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
+      "Diljit Dosanjh Clarifies Indore Concert Rumours, Confirms November 15 Appearance",
+      "Fall Out Boy Launch Twilight of the Punks Tour and New Single ACES"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-09T12:49:29Z",
-    "run_id": "42619910346",
-    "status": "success",
-    "checked": {
-     "candidates": 278,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 262, coming 16"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,35 +1906,27 @@
      "detail": "now 276, coming 15"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T10:16:46Z",
+    "run_id": "42797637657",
+    "status": "success",
+    "checked": {
+     "candidates": 291,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 276, coming 15"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T10:56:28Z",
-    "run_id": "42604173143",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1iazw4",
-      "1o4i4wa",
-      "7zrtld",
-      "15qljzq",
-      "jitjjt",
-      "6cnve0",
-      "149emoy",
-      "c8dwrt"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2443,27 +2417,26 @@
      "count": 7
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T10:56:27Z",
-    "run_id": "42604173143",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T10:16:48Z",
+    "run_id": "42797637657",
     "status": "success",
     "checked": {
-     "candidates": 632,
-     "detail": "624 collected staging rows from readers; 217 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 621 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2877,19 +2850,27 @@
      "detail": "+0 new rows, 3 updated rows, 628 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T10:16:46Z",
+    "run_id": "42797637657",
+    "status": "success",
+    "checked": {
+     "candidates": 641,
+     "detail": "629 collected staging rows from readers; 221 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 628 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3126,32 +3107,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T10:56:28Z",
-    "run_id": "42604173143",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sol Kyung Gu Addresses Possible Love Oscar Campaign and Working With Lee Chang Dong",
-      "Ramayana surprises its biggest critics: 5 things the internet got wrong",
-      "TWICE Nayeon Solo Album Credits Spark Fan Discussion Over Writer Link to Chaeyoung",
-      "Ramayana costume designer recalls rush to deliver Ranbir Kapoor's armor"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3688,19 +3656,33 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:16:47Z",
+    "run_id": "42797637657",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
+      "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
+      "Diljit Dosanjh Clarifies Indore Concert Rumours, Confirms November 15 Appearance",
+      "Fall Out Boy Launch Twilight of the Punks Tour and New Single ACES",
+      "Mahaveer Jain Films Unveils New Logo Dedicated to Maa Saraswati and Inspired by Rajshri Legacy"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3974,19 +3956,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4308,31 +4290,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T10:51:26Z",
-    "run_id": "42604173143",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 210 still unprocessed; today by category: movies 7/6, tv_dramas 4/4, episodes 0/2, box_office 10/6, celebrities_events 6/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 3/3, awards 2/2, music_ost 1/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana costume designer recalls rush to deliver Ranbir Kapoor's armor",
-      "Sol Kyung Gu Addresses Possible Love Oscar Campaign and Working With Lee Chang Dong",
-      "Ramayana surprises its biggest critics: 5 things the internet got wrong",
-      "TWICE Nayeon Solo Album Credits Spark Fan Discussion Over Writer Link to Chaeyoung"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4838,19 +4808,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:16:46Z",
+    "run_id": "42797637657",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 316 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 10/6, celebrities_events 10/5, upcoming_releases 1/4, ott_streaming 5/4, trailers 1/3, awards 1/2, music_ost 1/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
+      "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
+      "Diljit Dosanjh Clarifies Indore Concert Rumours, Confirms November 15 Appearance",
+      "Fall Out Boy Launch Twilight of the Punks Tour and New Single ACES"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5171,24 +5153,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 413,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5533,19 +5510,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 371,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5830,19 +5812,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6092,19 +6074,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6339,19 +6321,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6638,19 +6620,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6891,19 +6873,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7133,19 +7115,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7394,6 +7376,16 @@
     "category": "Trending News",
     "run_at": "2026-11-10T10:01:07Z",
     "run_id": "42794077399",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7911,16 +7903,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-09T11:54:40Z",
     "run_id": "42612187104",
     "status": "skipped",
@@ -8157,19 +8139,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T10:56:37Z",
-    "run_id": "42604173143",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8419,8 +8401,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T10:01:07Z"
+ "updated_at": "2026-11-10T10:16:56Z"
 }
