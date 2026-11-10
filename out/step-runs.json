@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T15:51:48Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": {
-     "candidates": 486,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Samantha Ruth Prabhu Pregnancy Photos: Actress Flaunts Baby Bump In New Photo, Calls It Her Maternity Shoot",
-      "Scene Kerala Box Office Collection Day 3: Suriya Film Crosses ₹16 Cr, Enters All-Time Top 5 Tamil Openings",
-      "How Is MCU Ruining VisionQuest Episode 8 Finale Before Its Release?",
-      "Box Office: Suriya Crosses 600 Crore Worldwide In 2026; Is 700 Crore The Next Target?",
-      "5 Best Jennifer Garner Movies Ranked: From 13 Going On 30 To Elektra",
-      "Kriti Sanon celebrates Diwali with family, rumoured BF Kabir Bahia, Nupur and Stebin Ben",
-      "'Ramayana' actor Sonia Balani says playing Urmila was 'beyond my imagination'",
-      "'Primetime' OTT release: How to watch Robert Pattinson's thriller online",
-      "In 2019, Joe Jonas bought this Encino mansion now listed for $17.995 million",
-      "Kumar Vishwas calls writing lyrics for Ramayana a divine experience, shares BTS video with AR Rahman and Shreya Ghoshal",
-      "Kajol shares candid Diwali moment with Ajay Devgn, says best times often go undocumented",
-      "Mahesh Babu reviews Suriya's Scene, calls it 'cool, smart and so much fun'",
-      "Samantha shares casual baby bump photo, calls it her maternity shoot",
-      "How 007 Director Denis Villeneuve Trolled Audiences Amid The James Bond Casting Brouhaha",
-      "We’ve Seen The Taylor Swift And Karlie Kloss Chiefs Videos, But I Can’t Get Over The Fan Reactions",
-      "Billy Evans Just Admitted To A Wild You Can See Everything Deleted Scene I Didn’t See Coming",
-      "As Matt Damon Comes Off His Big Odyssey Year, He’s Getting Real About The Low Points Of His Career",
-      "Steven Spielberg’s 140-Minute Sci-Fi Blockbuster Officially Surges on Streaming",
-      "Guy Ritchie’s Brand-New ’The Gentlemen’s Season 3 Cast Officially Revealed in First Images",
-      "KJ Apa Returns to Romance in a New Love-Triangle Movie Tomorrow"
-     ],
-     "updated": [],
-     "count": 441,
-     "detail": "459 stories, 4 duplicates removed, 27 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-09T16:51:57Z",
     "run_id": "42658800206",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "444 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T15:57:31Z",
-    "run_id": "42648697743",
+    "run_at": "2026-11-10T15:51:47Z",
+    "run_id": "42848575164",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 540,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Samantha Ruth Prabhu shares casual baby bump photo and calls it her maternity shoot",
-      "Stray Kids Reveal Massive 2027 'RUN IT' World Tour Spanning 12 Countries",
-      "Did Marvel Just Spoil The VisionQuest Episode 8 Finale With Its Latest Trailer?",
-      "100 Days of Deception Crosses Milestone Ratings as Park Jinyoung Leads Buzz Charts"
+      "Ramayana Kerala Box Office Collection Day 6 Prediction: Ranbir Kapoor-Yash's Film Beats Dhurandhar 2 Record",
+      "Scene Karnataka Box Office Collection Day 5 Prediction: Suriya's Film Nears ₹12 Cr, Set To Enter Profit Zone",
+      "Bigg Boss 20 Episode 66 OTT Release Time Today: Arishfa-Love Fight; When Will New Ep Premiere On JioHotstar",
+      "Sandra Bullock’s 90s Movie Became A Cult Classic Despite Earning Just $51 Million At The Box Office For 3 Reasons",
+      "After Tiger Shroff's gunfire incident, Mumbai Police issues security advisory to actors",
+      "'Ramayana' actor Indira's reacts to Sai's fight sequence: 'Never saw Sita as warrior'",
+      "Saba reveals why mom Sharmila converted to Islam when she married Tiger Pataudi",
+      "Karan Johar STANDS BY newlyweds Rashmika - Vijay after 'KWK 9' trolling",
+      "In 2001, Paul McCartney started Adopt-A-Minefield campaign to promote complete eradication of landmines",
+      "Atlee gives a glowing review to Suriya's Scene, calls film a refreshing commercial entertainer; says Naslen is superstar in the making",
+      "Mahabharat's Nitish Bharadwaj takes U-turn after Oscar prediction for Ramayana",
+      "Simu Liu’s Out Here Working Out Shirtless For Marvel (And Trolling SNL’s Shane Gillis In The Process)",
+      "I Just Learned A Ben Affleck Batman Movie Led Jennifer Garner To One Fond Marriage Memory",
+      "Jimmy Kimmel (Apparently) Has A ‘Peanut-Sized Brain’ According To Latest White House Correspondence",
+      "Amanda Seyfried Confessed The Dropout Cast Hassled Her About Elizabeth Holmes’ Doc (Before Anyone Saw The Twist)",
+      "I Totally Called Why Survivor 51’s Kristin Freed Those Grubs (Despite Online Criticism)",
+      "Chris Pratt Lost Chuck To Zachary Levi. Years Later, Jurassic World Gave Him A Full-Circle Moment",
+      "Club Kid's My Favorite Movie This Year (So Far), And I'm Obsessed With Its Take On Gay Nightlife",
+      "‘Heated Rivalry’ Officially Beats ‘Street Fighter’ in One Surprising Box Office Metric",
+      "‘MobLand’ Meets ‘Ocean’s Eleven’ in Apple TV’s 8-Part Heist Thriller That Reinvents the Genre"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 495,
+     "detail": "505 stories, 1 duplicates removed, 35 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T15:56:29Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
+      "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
+      "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
+      "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-09T17:57:45Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 278,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 262, coming 16"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,32 +1906,27 @@
      "detail": "now 276, coming 15"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T15:56:29Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": {
+     "candidates": 291,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 276, coming 15"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T16:05:15Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "rjgpdk",
-      "8knce",
-      "8br78w",
-      "149emoy",
-      "1e5l2x2"
-     ],
-     "updated": [],
-     "count": 5
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2427,27 +2404,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T15:58:46Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "ve32nm",
+      "1rudn53",
+      "1755t76"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T16:05:12Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": {
-     "candidates": 632,
-     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 622 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2861,19 +2841,27 @@
      "detail": "+0 new rows, 3 updated rows, 629 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T15:58:43Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": {
+     "candidates": 641,
+     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3110,35 +3098,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T16:05:14Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Samantha Ruth Prabhu shares casual baby bump photo and calls it her maternity shoot",
-      "Stray Kids Reveal Massive 2027 'RUN IT' World Tour Spanning 12 Countries",
-      "Did Marvel Just Spoil The VisionQuest Episode 8 Finale With Its Latest Trailer?",
-      "100 Days of Deception Crosses Milestone Ratings as Park Jinyoung Leads Buzz Charts",
-      "Khushi Episode 58 — Watch Online on HUM TV",
-      "Uswah Episode 48 — Watch Online on Geo TV",
-      "Dastoor Episode 80 — Watch Online on Green TV"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3674,34 +3646,35 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T15:56:34Z",
-    "run_id": "42648697743",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T15:58:46Z",
+    "run_id": "42848575164",
     "status": "success",
     "checked": {
-     "candidates": 17,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 4 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Khushi Ep 58",
-      "Uswah Ep 48",
-      "Dastoor Ep 80"
+      "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
+      "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
+      "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From",
+      "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
+      "Izzat Episode 52 — Watch Online on ARY Digital",
+      "Khushi Episode 59 — Watch Online on HUM TV",
+      "Dastoor Episode 81 — Watch Online on Green TV"
      ],
-     "updated": [
-      "Uswah Ep 48",
-      "Khushi Ep 58",
-      "Dastoor Ep 80"
-     ],
-     "count": 6
+     "updated": [],
+     "count": 7,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3964,19 +3937,34 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T15:55:10Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": {
+     "candidates": 18,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 7 new detected"
+    },
+    "changed": {
+     "added": [
+      "Izzat Ep 52",
+      "Khushi Ep 59",
+      "Dastoor Ep 81"
+     ],
+     "updated": [
+      "Khushi Ep 59",
+      "Dastoor Ep 81",
+      "Izzat Ep 52"
+     ],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4298,31 +4286,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T15:57:30Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 441 still unprocessed; today by category: movies 8/6, tv_dramas 8/4, episodes 0/2, box_office 18/6, celebrities_events 11/5, upcoming_releases 5/4, ott_streaming 7/4, trailers 3/3, awards 2/2, music_ost 1/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Samantha Ruth Prabhu shares casual baby bump photo and calls it her maternity shoot",
-      "Stray Kids Reveal Massive 2027 'RUN IT' World Tour Spanning 12 Countries",
-      "Did Marvel Just Spoil The VisionQuest Episode 8 Finale With Its Latest Trailer?",
-      "100 Days of Deception Crosses Milestone Ratings as Park Jinyoung Leads Buzz Charts"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4828,26 +4804,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T15:56:28Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 495 still unprocessed; today by category: movies 9/6, tv_dramas 8/4, episodes 1/2, box_office 15/6, celebrities_events 16/5, upcoming_releases 1/4, ott_streaming 5/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
+      "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
+      "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
+      "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T15:59:24Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5161,24 +5142,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T15:57:55Z",
+    "run_id": "42848575164",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 496,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5523,24 +5506,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 11,
+     "count": 529,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5820,19 +5803,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6082,19 +6070,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6329,19 +6317,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6628,19 +6616,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6881,19 +6869,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7123,19 +7111,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7388,29 +7376,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-08T18:53:18Z",
-    "run_id": "42511994476",
-    "status": "success",
-    "checked": {
-     "candidates": 513,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 458"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)"
-     ],
-     "updated": [],
-     "count": 9
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7895,19 +7873,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-10T15:56:48Z",
+    "run_id": "42848575164",
+    "status": "success",
+    "checked": {
+     "candidates": 527,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 513"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8147,19 +8136,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T16:05:21Z",
-    "run_id": "42648697743",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8409,8 +8398,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T14:52:42Z"
+ "updated_at": "2026-11-10T15:58:55Z"
 }

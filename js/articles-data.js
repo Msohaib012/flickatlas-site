@@ -106746,5 +106746,534 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-10T18:10:12+05:30"
+  },
+  "3z1ex0": {
+    "id": "3z1ex0",
+    "type": "news",
+    "headline": "Izzat Episode 52 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 52 aired on 2026-11-10 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 52 aired on 2026-11-10 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=mdAlMtf__So"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Rutba aur Rayan ka jhagda hota hai kyunki Rutba Rayan ke phone na uthane par bohat pareshan hoti hai. Rayan apni location share kar deta hai taqke Rutba usko track kar sake. Dusri taraf, Rutba apni maa se baat karti hai aur usse anas ke bare mein batati hai ke woh larkiyon ko ghuma raha hai aur usne ek larki ke sath gaari mein dekha hai. Anas ke dost, Mohsin aur uske bhai ki meeting police wale ke sath hoti hai jahan woh us truck ki baat karte hain jo har roz subah nikalta hai aur phir achanak gayab ho jata hai. Woh is baat ka pata lagane ki koshish karte hain ke woh truck kahan jata hai. Baad mein, Rutba ke dada, Hasan Anjum ka accident ho jata hai aur unhe hospital laya jata hai jahan unki halat critical hoti hai. Doctor kehta hai ke unki surgery kamyaab ho gayi hai lekin unhe abhi bhi duaa ki zarurat hai. Episode ke aakhir mein, Mohsin, Shanze ki mangni ke silsile mein baat karne ki koshish karta hai lekin larki ke ghar wale inkaar kar dete hain aur episode yahi khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 52 aired on 2026-11-10.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=mdAlMtf__So",
+      "YouTube views: 3,021.",
+      "Episode summary added 2026-11-10."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/mdAlMtf__So/hqdefault.jpg",
+        "caption": "Izzat Episode 52",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-10T15:00:37Z"
+  },
+  "167p7cr": {
+    "id": "167p7cr",
+    "type": "news",
+    "headline": "Khushi Episode 59 — Watch Online on HUM TV",
+    "dek": "Khushi episode 59 aired on 2026-11-10 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 59 aired on 2026-11-10 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=JXhP2wgDR3k"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Khushi aur uski Ammi ke beech batcheet hoti hai jismein Ammi Khushi ko samjhati hain ke unki umar mein shadi ki baat karna theek nahi hai kyunke log kya kahenge. Is dauran Taimi aur Meharin ka rishta tay hone ki baat chalti hai jise lekar Khushi aur uski Ammi ke darmiyan kafi behas hoti hai. Ammi pareshan hoti hain ke is rishtay se log kya sochenge jabke Khushi unhe samjhati hai ke Islam mein iski ijazat hai aur unhe logon ki parwa nahi karni chahiye. Dusri taraf, Taimi aur uske walidain ke beech bhi isi mozu par baat hoti hai jahan ghar ke dusre fard bhi is faislay par hairan aur pareshan nazar aate hain. Episode ke ikhtitam par ghar mein is rishtay ko lekar bohot ghons-machoos aur tense mahol ban jata hai jahan sabhi ki rai mukhtalif hoti hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 59 aired on 2026-11-10.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=JXhP2wgDR3k",
+      "YouTube views: 171,658.",
+      "Episode summary added 2026-11-10."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/JXhP2wgDR3k/hqdefault.jpg",
+        "caption": "Khushi Episode 59",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-10T15:00:05Z"
+  },
+  "1p9xeg3": {
+    "id": "1p9xeg3",
+    "type": "news",
+    "headline": "Dastoor Episode 81 — Watch Online on Green TV",
+    "dek": "Dastoor episode 81 aired on 2026-11-10 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 81 aired on 2026-11-10 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=tF0qFiz2Kng"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Aliena aur Shabanah ke ghar mein sab Amara ke inteqal par ghamzada hain. Shabanah ko ammi ke sath baith kar hausla rakhne ki talqeen ki jati hai. Aliha ko lagta hai ke yeh sab kismat ka khel hai aur log kitni jaldi badal jate hain. \n\nBaad mein Aliena apne walid se bat karti hai aur use Amara ke achanak inteqal aur Aliyaan ke abhi tak ghar na lautne ki khabar milti hai, jisse sab pareshan ho jate hain. Shabanah aur uske shohar Aliyaan aur Amara ke taluqat aur unki zindagi ke bare mein baat karte hain. Shabanah ko Amara ki jawani maut par gahra sadma hai aur woh is par afsos ka izhar karti hai.\n\nScene mein dikhaya jata hai ke Aliyaan Amara ko gari se takra kar marne ka ghum apne andar samete hua hai aur woh waqia yaad karta hai jab Amara ki maut hui thi. \n\nEk aur scene mein, Aliha aur Shabanah phir se milti hain aur Aliha Shabanah ko batati hai ke woh Aliyaan ke sath hai aur use is mushkil waqt mein akela nahi choregi.\n\nEpisode ke aakhir mein, Aliena aur Aliyaan police station pahunchte hain jahan inspector unhe batata hai ke Amara ka accident seedha nahi lagta kyunke jis waqt accident hua, us waqt ki CCTV footage gayab hai, jo case ko ek naya mod deti hai aur episode yahin ek suspense par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 81 aired on 2026-11-10.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=tF0qFiz2Kng",
+      "YouTube views: 87,473.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-10."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/tF0qFiz2Kng/hqdefault.jpg",
+        "caption": "Dastoor Episode 81",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-10T14:45:36Z"
+  },
+  "b0zuzu": {
+    "id": "b0zuzu",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana: Part 1 shatters previous regional benchmarks in Kerala, racing past the lifetime gross of Dhurandhar 2 in under a week.",
+    "body": [
+      {
+        "h": "Breaking Records in Kerala",
+        "p": [
+          "The theatrical run of Ramayana: Part 1 in Kerala has achieved a major milestone by eclipsing the final gross earnings of Dhurandhar 2. Industry tracking indicates that the epic adaptation reached this significant regional milestone within just six days of its initial release.",
+          "The film's performance in the southern state highlights a strong reception among local audiences, translating into extraordinary box office velocity that outpaced earlier benchmarks set by competing titles."
+        ]
+      },
+      {
+        "h": "Strong Early Earnings",
+        "p": [
+          "According to reports shared by box office analyst Jerin Georgekutty, the Nitesh Tiwari directorial accumulated approximately ₹17.75 crore gross across Kerala during its first five days in theaters.",
+          "Sustaining its momentum into the sixth day, the feature was projected to pull in an additional ₹3.70 crore to ₹3.90 crore on Tuesday, bringing the combined six-day total to roughly ₹21.50 crore."
+        ]
+      },
+      {
+        "h": "Surpassing Dhurandhar 2",
+        "p": [
+          "By crossing the ₹19.75 crore lifetime benchmark previously held by Dhurandhar 2, Ramayana: Part 1 has rewritten regional box office records for Bollywood releases in Kerala.",
+          "This rapid ascent past a well-established competitor underscores the immense theatrical draw and widespread appeal of the high-profile multilingual epic."
+        ]
+      },
+      {
+        "h": "Cast and Crew Behind the Epic",
+        "p": [
+          "Ramayana: Part 1 is a Hindi epic mythological film directed by Nitesh Tiwari, who co-wrote the screenplay alongside Shridhar Raghavan. The storyline draws from Valmiki's Ramayana, adapting the opening three kandas to trace Rama's life from his childhood up to his fourteen-year exile.",
+          "The production features Ranbir Kapoor as Rama, Sai Pallavi as Sita, and Yash in the role of Ravana, supported by an extensive ensemble cast including Ravi Dubey, Sunny Deol, Anupam Kher, and Lara Dutta."
+        ]
+      },
+      {
+        "h": "Production and Scale",
+        "p": [
+          "Produced by Namit Malhotra and Yash alongside co-producer Monster Mind Creations, the project brought together international and domestic talents. Hans Zimmer and A.R. Rahman collaborated on the musical score, marking Zimmer's debut in Indian cinema, with lyrics penned by Kumar Vishwas.",
+          "Global distribution is handled by Sony Pictures Entertainment with presentation by Prime Focus Studios in association with Monster Mind Creations. Furthermore, the film utilizes visual effects by DNEG and was shot specifically for IMAX."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has crossed the ₹19.75 crore lifetime gross of Dhurandhar 2 in Kerala within six days, reaching a projected total of ₹21.50 crore. Box office tracker Jerin Georgekutty reported the milestone, highlighting the film's strong commercial run driven by its star-studded cast and massive scale."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 surpassed the lifetime gross collection of Dhurandhar 2 within six days of its theatrical release.",
+      "Dhurandhar 2 held a previous Kerala benchmark of ₹19.75 crore.",
+      "Jerin Georgekutty reported on Tuesday, November 10, that Ramayana: Part 1 accumulated approximately ₹17.75 crore gross in Kerala during its first five days.",
+      "Day 6 collections on Tuesday were expected to bring in another ₹3.70 crore to ₹3.90 crore, pushing the six-day total to approximately ₹21.50 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Jerin Georgekutty",
+        "Nitesh Tiwari",
+        "Shridhar Raghavan",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "A. R. Rahman",
+        "Kumar Vishwas"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Kerala collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana beats Dhurandhar 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayana-84451794324367.jpg",
+        "caption": "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 20:59:20 +0530"
+  },
+  "ql0glq": {
+    "id": "ql0glq",
+    "type": "news",
+    "headline": "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
+    "dek": "Prime Video has set a February 17 release date for the second season of the college dramedy created, written, and executive produced by Benito Skinner.",
+    "body": [
+      {
+        "h": "Season 2 Release Details",
+        "p": [
+          "The college dramedy series Overcompensating is officially returning for its spring semester, with Season 2 scheduled to premiere on Prime Video on February 17. Benito Skinner leads the production as creator, writer, and executive producer.",
+          "The narrative follows Skinner portraying a fictionalized version of himself, a closeted former homecoming king and football player navigating higher education and personal identity alongside his best friend Carmen, played by Wally Baram."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Guidance for the protagonist comes from his older sister, played by Mary Beth Barone. According to the official logline, the upcoming episodes find Benny and his peers entering their second semester of college.",
+          "The characters will juggle new romantic interests, awkward encounters, personal awakenings, and the challenges of collegiate sports. The show maintains its focus on exploring the lengths people go to overcompensate while figuring out who they are."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "Alongside Skinner, Baram, and Barone, the returning cast features Adam DiMarco, Rish Shah, Holmes, Owen Thiele, Kyle MacLachlan, Connie Britton, Lukas Gage, and Nell Verlaque.",
+          "Production is handled by A24, Strong Baby, and Amazon MGM Studios. Scott King acts as showrunner and executive producer alongside other notable industry names."
+        ]
+      },
+      {
+        "h": "Executive Producing Lineup",
+        "p": [
+          "Additional executive producers for the sophomore season include representatives from A24 and Jonah Hill, Matt Dines, and Ali Goodwin representing Strong Baby.",
+          "Pop artist Charli XCX also returns to her role as an executive producer for the series, adding to the collaborative creative team behind the project."
+        ]
+      },
+      {
+        "h": "Background of the Series",
+        "p": [
+          "Set against the backdrop of a 2010s college environment, the show has drawn attention for its deeply personal and comedic approach to youth, identity, and social navigation.",
+          "The first season established the core friendship dynamics and family relationships that continue to drive the narrative forward into the spring semester."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video has announced that Season 2 of Overcompensating will premiere on February 17, bringing back creator and star Benito Skinner alongside his main cast members.",
+          "The upcoming episodes will focus on the characters navigating new romances and collegiate sports during their second semester."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 2 of Overcompensating premieres on Prime Video on Feb. 17",
+      "Benito Skinner is the creator, writer, and executive producer",
+      "Wally Baram plays best friend Carmen",
+      "Mary Beth Barone plays the older sister",
+      "Returning cast members include Adam DiMarco, Rish Shah, Holmes, Owen Thiele, Kyle MacLachlan, Connie Britton, Lukas Gage, and Nell Verlaque",
+      "Production companies include A24, Strong Baby, and Amazon MGM Studios"
+    ],
+    "entities": {
+      "people": [
+        "Benito Skinner",
+        "Wally Baram",
+        "Mary Beth Barone",
+        "Adam DiMarco",
+        "Rish Shah",
+        "Holmes",
+        "Owen Thiele",
+        "Kyle MacLachlan",
+        "Connie Britton",
+        "Lukas Gage",
+        "Nell Verlaque",
+        "Scott King",
+        "Jonah Hill",
+        "Matt Dines",
+        "Ali Goodwin",
+        "Charli XCX"
+      ],
+      "titles": [
+        "Overcompensating"
+      ]
+    },
+    "keywords": [
+      "Overcompensating Season 2",
+      "Benito Skinner Prime Video",
+      "Overcompensating release date",
+      "Wally Baram Mary Beth Barone"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-2.46.31-PM.png?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 15:26:00 +0000"
+  },
+  "6tqsuw": {
+    "id": "6tqsuw",
+    "type": "news",
+    "headline": "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
+    "dek": "Actor Nitish Bharadwaj has withdrawn his praise for Nitesh Tiwari's Ramayana: Rise of a Legend, expressing sharp concerns over the characterisation of Ravana and the dilution of the epic's spiritual essence.",
+    "body": [
+      {
+        "h": "Nitish Bharadwaj Retracts Praise",
+        "p": [
+          "Actor Nitish Bharadwaj, celebrated for his iconic portrayal of Lord Krishna in the 1988 television series Mahabharat, has executed a dramatic reversal regarding Nitesh Tiwari's cinematic project. Initially predicting an international accolade such as an Oscar for the film, Bharadwaj has officially rescinded his early applause.",
+          "His recent public statement on social media highlights profound dissatisfaction with the narrative direction taken by the filmmakers. The actor stated that he could no longer support the adaptation, signalling a major shift in tone from his initial enthusiasm."
+        ]
+      },
+      {
+        "h": "Objections to the Portrayal of Ravana",
+        "p": [
+          "The core of Bharadwaj's grievance lies in how the antagonist, Ravana, is depicted within the new cinematic adaptation. Played by actor Yash, Ravana is reportedly presented as a liberal, fair, and socially just figure.",
+          "Bharadwaj argued that such creative choices fundamentally disrupt the moral structure of the epic. In his view, altering the antagonist's traditional framework compromises the underlying spiritual message intended by the original text."
+        ]
+      },
+      {
+        "h": "Defence of Spiritual Values",
+        "p": [
+          "Emphasising the cultural weight of the text, Bharadwaj noted that the narrative is deeply woven into the spiritual consciousness of the region. He maintained that the central figures of the story carry specific duties and symbolic value that should not be casually rewritten for modern sensibilities.",
+          "The actor stressed that the divine avatar of Mahavishnu was intended to establish order and uphold righteousness. According to his critique, reshaping key figures dilutes the fundamental purpose of the epic's message."
+        ]
+      },
+      {
+        "h": "VFX Cannot Replace Philosophy",
+        "p": [
+          "Addressing the cinematic scale of the project, Bharadwaj asserted that technical grandeur and advanced visual effects cannot substitute for authentic philosophical depth. He questioned whether high-end production values alone could faithfully project cultural heritage onto global stages.",
+          "This perspective marks a stark departure from his earlier remarks, where he had praised the visual aesthetics, cinematography, and overall creative direction upon the release of the promotional trailer."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Nitesh Tiwari's Ramayana: Rise of a Legend features a prominent ensemble cast, including Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Ravie Dubey as Lakshman alongside Yash as Ravana. The first part of the project opened in cinemas on November 5, 2026.",
+          "The production has also planned future expansions, with a sequel slated for a Diwali 2028 release. Additionally, a post-credits sequence has already introduced Sunny Deol as Lord Hanuman to set up the narrative for the upcoming installment."
+        ]
+      },
+      {
+        "h": "Shift From Earlier Optimism",
+        "p": [
+          "Before issuing his recent critique, Bharadwaj had expressed considerable hope for the project's success and the involvement of its lead star. At the time of the trailer launch, he commended the sonic identity and casting choices.",
+          "He had previously urged Ranbir Kapoor to focus on projects that foster cultural representation, contrasting his hopes for this epic with other contemporary cinematic releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Nitish Bharadwaj has withdrawn his initial praise and Oscar predictions for Nitesh Tiwari's Ramayana: Rise of a Legend due to concerns over the portrayal of Ravana and the film's spiritual depth. The first instalment of the epic feature opened in cinemas in November 2026 with a star-studded cast including Ranbir Kapoor and Yash."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitish Bharadwaj played Lord Krishna in BR Chopra's 1988 television series Mahabharat.",
+      "Nitesh Tiwari is the director of Ramayana: Rise of a Legend.",
+      "Ranbir Kapoor stars as Lord Rama.",
+      "Sai Pallavi stars as Goddess Sita.",
+      "Ravie Dubey stars as Lakshman.",
+      "Yash stars as Ravana.",
+      "The first instalment of Ramayana: Rise of a Legend opened in cinemas on November 5, 2026.",
+      "The sequel of Ramayana: Rise of a Legend is scheduled to release on Diwali 2028.",
+      "Sunny Deol is introduced as Lord Hanuman in the post-credits scene."
+    ],
+    "entities": {
+      "people": [
+        "Nitish Bharadwaj",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Yash",
+        "Sunny Deol",
+        "BR Chopra"
+      ],
+      "titles": [
+        "Mahabharat",
+        "Ramayana: Rise of a Legend",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Nitish Bharadwaj Ramayana",
+      "Ramayana Rise of a Legend",
+      "Nitish Bharadwaj Oscar prediction",
+      "Yash Ravana Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mahabharats-nitish-bharadwaj-takes-u-turn-after-oscar-prediction-for-ramayana-100348410-16x9_0.jpg?VersionId=uOwyxW9ArEI3rEkEqp0Jc.yINxvAqC_1",
+        "caption": "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 20:30:37 +0530"
+  },
+  "wjirn2": {
+    "id": "wjirn2",
+    "type": "news",
+    "headline": "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From",
+    "dek": "Special Agent Bill Goodman reaches his darkest hour in the latest chapter of CIA Season 2, titled Legacy, as family secrets and an off-the-books investigation push him past his ethical boundaries.",
+    "body": [
+      {
+        "h": "The Upper East Side Bombing Catalyst",
+        "p": [
+          "The sixth episode of CIA Season 2, titled \"Legacy,\" opened on CBS on November 9, 2026, launching its narrative with a violent explosion in the Upper East Side. The blast eliminated an international arms dealer named Rakib Al-Harthy, whom the Central Intelligence Agency had been actively tracking.",
+          "Investigators quickly tied the lethal bombing to Felix Vincente, a fugitive former CIA asset and wanted criminal who previously operated under the command of Bill Goodman's late father, Robert Goodman. This violent incident immediately blurred the lines between official agency duties and Bill's private family inquiries."
+        ]
+      },
+      {
+        "h": "The Confrontation and Death of Carl Shannon",
+        "p": [
+          "Pursuing Vincente led Special Agent Bill Goodman directly to Carl Shannon, a retired CIA operative and his father's former partner. During the encounter, Carl inadvertently revealed inside information regarding Vincente's bomb-making methods—knowledge that only an active handler would possess.",
+          "When Carl reached for a firearm, Bill reacted defensively and shot him dead. Panicking over the unauthorized killing, Bill enlisted Colin to arrange a cleanup crew, while discovering a hidden phone that proved Carl had maintained a secretive, ongoing connection with Vincente long after official files were closed."
+        ]
+      },
+      {
+        "h": "Station Chief Nikki Reynard Faces Official Obstructions",
+        "p": [
+          "While Bill pursued his family demons, station chief Nikki Reynard encountered bureaucratic roadblocks within her own department. Having lost members of her team to Vincente's attacks, Nikki sought to neutralize the fugitive, only to be ordered to stand down by her superiors.",
+          "Agency higher-ups declared that Vincente was off-limits for official arrest because his CIA training made him a valuable future asset. This directive forced Nikki into an uncomfortable position, watching subordinates operate outside the rules while she was legally bound to keep her hands tied."
+        ]
+      },
+      {
+        "h": "Undercover Operations and Colin's Interference",
+        "p": [
+          "The unofficial hunt gained traction through Logan Wood, a wedding planner who communicated with Vincente via unsent email drafts. After staging a fake shooting to pressure her into cooperating, the team sent Toni undercover to infiltrate Vincente's criminal network.",
+          "The operation was ultimately compromised when Colin observed a red lighter test by Vincente and mistakenly feared a sniper laser, stepping in to rescue Toni. While this protected her physically, it blew her undercover cover and allowed Vincente to escape once again."
+        ]
+      },
+      {
+        "h": "The Train Confrontation and Bill's Deception",
+        "p": [
+          "Following a high-stakes foot chase that culminated on a public railway platform, Bill cornered Vincente at gunpoint. Although Colin arrived in time to talk Bill down from executing or torturing the fugitive on the spot, the compromise was merely an elaborate ruse.",
+          "Rather than turning Vincente over to federal authorities like FBI Assistant Special Agent in Charge Jubal Valentine, Bill secretly transported the captive to an undisclosed location, binding him and demanding answers about his father's past under duress."
+        ]
+      },
+      {
+        "h": "Character Standpoints Moving Forward",
+        "p": [
+          "As the chapter concluded, each major player was left dealing with profound fallout. Bill crossed a definitive moral threshold by lying to his closest partner, murdering a retired agent, and detaining a federal target off the books in an escalating identity crisis.",
+          "Meanwhile, Colin remained oblivious to Bill's deception, Toni dealt with the frustration of a collapsed operation caused by her ex-partner's intervention, and Nikki sat with classified knowledge she could neither act on nor ignore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "CBS aired the sixth episode of CIA Season 2 on November 9, 2026, focusing on Special Agent Bill Goodman's descent into illicit tactics while tracking the fugitive Felix Vincente. The installment featured a fatal confrontation with a former operative, a compromised undercover sting involving Toni and Colin, and a final act of betrayal that sets up a dark trajectory for the remainder of the season."
+        ]
+      }
+    ],
+    "facts": [
+      "CIA Season 2 Episode 6 is titled Legacy.",
+      "The episode aired on CBS on November 9, 2026.",
+      "Rakib Al-Harthy was an international arms dealer killed in the Upper East Side explosion.",
+      "Felix Vincente is a former CIA asset and wanted fugitive.",
+      "Carl Shannon was Robert Goodman's former partner at the CIA.",
+      "Logan Wood was a wedding planner who secretly supplied Vincente.",
+      "Jubal Valentine is an FBI Assistant Special Agent in Charge."
+    ],
+    "entities": {
+      "people": [
+        "Bill Goodman",
+        "Felix Vincente",
+        "Rakib Al-Harthy",
+        "Robert Goodman",
+        "Carl Shannon",
+        "Colin",
+        "Nikki Reynard",
+        "Jubal Valentine",
+        "Logan Wood",
+        "Toni",
+        "Nick Gehlfuss"
+      ],
+      "titles": [
+        "CIA",
+        "Legacy"
+      ]
+    },
+    "keywords": [
+      "CIA Season 2 Episode 6",
+      "Bill Goodman Legacy",
+      "Felix Vincente CIA",
+      "CBS CIA series"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-10T155314.238.webp",
+        "caption": "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 15:41:41 +0000"
   }
 };
