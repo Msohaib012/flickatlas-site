@@ -105092,5 +105092,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 08:37:06 +0000"
+  },
+  "huvwnr": {
+    "id": "huvwnr",
+    "type": "news",
+    "headline": "Ramayana Part 1 Nears Rs 400 Crore After Strong Sixth Day at Box Office",
+    "dek": "Ranbir Kapoor and Sai Pallavi's epic mythological venture Ramayana Part 1 approaches the Rs 400 crore milestone following massive collections in its opening week.",
+    "body": [
+      {
+        "h": "Phenomenal Theatrical Journey Begins",
+        "p": [
+          "Ramayana Part 1 has taken the theatrical landscape by storm following its release on November 5. Directed by Nitesh Tiwari, the big-budget cinematic retelling of the ancient epic has captured the attention of moviegoers spanning across north, south, east, and west regions of India.",
+          "The project has established a commanding presence in cinema halls nationwide, drawing immense crowds and dominating box office trends within its first week of exhibition."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The film features a prominent lineup of actors led by Ranbir Kapoor, Sai Pallavi, and Yash, who portray the pivotal roles of Lord Ram, Goddess Sita, and Ravana respectively.",
+          "Supporting performances are delivered by an extensive supporting cast including Ravie Dubey, Arun Govil, Lara Dutta, Rakul Preet Singh, Sheeba Chaddha, and Indira Krishnan."
+        ]
+      },
+      {
+        "h": "Record-Breaking Opening and First Monday Surge",
+        "p": [
+          "According to tracking data from Sacnilk, the feature marked its entry into cinemas with an opening India net collection of Rs 64.85 crore.",
+          "Following a steady opening weekend, the venture experienced a historic first Monday, recording its highest single-day figures to date with a staggering Rs 107.50 crore net across 23,911 shows, representing a 91.5 percent jump."
+        ]
+      },
+      {
+        "h": "First Tuesday Collections and Language Breakdown",
+        "p": [
+          "The momentum continued into the first Tuesday, with live updates showing approximately Rs 41.15 crore net collected across 14,013 shows as of 5:00 PM.",
+          "The Day 6 earnings reflect contributions from multiple languages, bringing in Rs 33.99 crore from 12,162 Hindi shows, Rs 4.13 crore from 582 Kannada shows, Rs 1.57 crore from 419 Tamil shows, and Rs 1.46 crore from 850 Telugu shows."
+        ]
+      },
+      {
+        "h": "Total Earnings and Milestone Projections",
+        "p": [
+          "With the latest figures incorporated, the cumulative India net collection for Ramayana Part 1 has climbed to Rs 387.50 crore, bringing the enterprise thrillingly close to the Rs 400 crore threshold.",
+          "Concurrently, the total India gross collection has reached an estimated Rs 462.46 crore as the production progresses through its initial week."
+        ]
+      },
+      {
+        "h": "Surpassing Adipurush Lifetime Figures",
+        "p": [
+          "In terms of comparative performance, the Nitesh Tiwari directorial has already outpaced the lifetime box office tallies of the Prabhas-starrer Adipurush.",
+          "While Adipurush concluded its theatrical run with an India net collection of Rs 288.15 crore and a gross earning between Rs 350 crore and Rs 393 crore, Ramayana Part 1 has comfortably surpassed those benchmarks in less than a week."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part 1 continues its phenomenal box office run following its November 5 release under director Nitesh Tiwari. The Ranbir Kapoor-starrer has crossed significant milestones, surpassing Adipurush's lifetime collections and inching toward the Rs 400 crore net mark across India."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date: November 5",
+      "Day 1 India net collection: Rs 64.85 cr",
+      "Day 5 India net collection: Rs 346.35 cr",
+      "Day 5 India gross collection: Rs 413.90 cr",
+      "Day 6 net collection as of 5 PM: Rs 41.15 cr",
+      "Total India net collection as of Day 6: Rs 387.50 cr",
+      "Total India gross collection as of Day 6: Rs 462.46 cr",
+      "Adipurush lifetime India net collection: Rs 288.15 cr"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Indira Krishnan",
+        "Prabhas"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 6 collection",
+      "Ramayana Part 1 Nitesh Tiwari"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-10t164321-109-73001794309207.jpg",
+        "caption": "Ramayana Part 1 Nears Rs 400 Crore After Strong Sixth Day at Box Office",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 17:00:16 +0530"
+  },
+  "8dv8t": {
+    "id": "8dv8t",
+    "type": "news",
+    "headline": "Tallinn Film Festival Entry 'Aroma' Explores Sensory Fantasy and Unconscious Desires in Exclusive Trailer",
+    "dek": "Writer-director Xue Ma’s third feature film is set to world premiere at the Tallinn Black Nights Film Festival, blending smell, memory, and dreams into an offbeat cinematic puzzle.",
+    "body": [
+      {
+        "h": "An Offbeat World Premiere at Tallinn",
+        "p": [
+          "The upcoming feature film Aroma, directed by Xue Ma, is scheduled to make its world premiere at the 30th edition of Estonia’s Tallinn Black Nights Film Festival. The movie has been selected for the competitive Rebels With a Cause Competition section of the prominent international event, showcasing its distinct artistic approach.",
+          "This project marks the third feature film helmed by Xue Ma, following her previous directorial works White River and Sonata of Wave. Its selection for the Tallinn festival highlights its unconventional tone and thematic ambition."
+        ]
+      },
+      {
+        "h": "Olfactory Obsessions and Comatose Mysteries",
+        "p": [
+          "The narrative of Aroma centers on a protagonist named Yang, whose daily existence is overwhelmingly governed by her sense of smell due to a rare condition. While most everyday odors prove unbearable to her, she finds comfort exclusively in the scent of disinfectant and lemons.",
+          "Her routine is upended when a strange and unfamiliar scent leads her to a man named Fang. However, Fang is currently in a coma, yet he remains trapped inside an inner life where childhood memories, fantasy elements, and forbidden desires intertwine."
+        ]
+      },
+      {
+        "h": "Blurring Lines Between Realities and Dreams",
+        "p": [
+          "As the story unfolds, boundaries begin to disintegrate for both Yang and Fang, merging the worlds of the living, the lost, the dreamed, and the imagined. Fang's sister, who previously worked to support them as a masseuse, reappears within this surreal landscape as a woman dressed in red.",
+          "The writer-director treats reality and dreams as interconnected aspects of human existence rather than opposing forces. In her view, dreams can often feel more authentic than daily life because they represent a private world free from external pretense."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Visual Aesthetics",
+        "p": [
+          "The main cast of Aroma features Jiali Zhao taking on the role of Yang, alongside Weihao Xu portraying the comatose Fang. Additional performances in the film are delivered by supporting cast members Ze Ying and Lu Huang.",
+          "Visually and technically, the production relies heavily on the work of cinematographer Ash Chen, whose hypnotic visual style gives texture to unstable memories. The editing duties for the feature were handled by Maxime Pozzi-Garcia and Fre X. Sun."
+        ]
+      },
+      {
+        "h": "A Stylized Feast for the Senses",
+        "p": [
+          "Festival organizers and promotional materials describe the feature as a dark fairy tale that transforms scent into an invisible bridge connecting reality with the subconscious. The cinematography moves audiences deliberately from a state of clinical stillness into a glowing, dangerous dream-world.",
+          "The filmmaker deliberately experimented with cinematic language to evoke multiple senses, aiming to share a collective sensory experience encompassing visuals, sound, touch, and smell to drive emotional resonance."
+        ]
+      },
+      {
+        "h": "Universal Themes of Isolation and Post-Pandemic Reality",
+        "p": [
+          "Director Xue Ma emphasizes that the core themes of the film—such as loneliness and the deep yearning for genuine intimacy—transcend specific language barriers and cultural frameworks. She notes that many individuals, particularly within Asian societies, often mask their true emotional needs behind a facade.",
+          "Furthermore, the creative perspective is shaped by the current post-pandemic era, a period characterized by societal confusion, drifting uncertainty, and heightened awareness of individual isolation beneath everyday masks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Writer-director Xue Ma's third feature film, Aroma, is set to world premiere at the 30th Tallinn Black Nights Film Festival in the Rebels With a Cause section. The movie stars Jiali Zhao and Weihao Xu, exploring themes of sensory perception, dreams, and human isolation."
+        ]
+      }
+    ],
+    "facts": [
+      "Aroma is Xue Ma's third feature film after White River and Sonata of Wave.",
+      "The film will world premiere at the 30th edition of Estonia’s Tallinn Black Nights Film Festival on Nov. 16, 2026.",
+      "Jiali Zhao stars as Yang and Weihao Xu portrays Fang.",
+      "Ze Ying and Lu Huang also feature in the cast.",
+      "Ash Chen is the cinematographer, with editing by Maxime Pozzi-Garcia and Fre X. Sun."
+    ],
+    "entities": {
+      "people": [
+        "Georg Szalai",
+        "Yang",
+        "Fang",
+        "Xue Ma",
+        "Jiali Zhao",
+        "Weihao Xu",
+        "Ze Ying",
+        "Lu Huang",
+        "Ash Chen",
+        "Maxime Pozzi-Garcia",
+        "Fre X. Sun"
+      ],
+      "titles": [
+        "Aroma",
+        "White River",
+        "Sonata of Wave"
+      ]
+    },
+    "keywords": [
+      "Aroma film",
+      "Xue Ma Aroma",
+      "Tallinn Black Nights Film Festival Aroma",
+      "Jiali Zhao Weihao Xu"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Aroma-film-still-1-POFF-H-2026.jpeg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Tallinn Film Festival Entry 'Aroma' Explores Sensory Fantasy and Unconscious Desires in Exclusive Trailer",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 11:45:00 +0000"
+  },
+  "2bmlhq": {
+    "id": "2bmlhq",
+    "type": "news",
+    "headline": "Divyanka Tripathi and Vivek Dahiya escape apartment fire, mourn building guard who died of suffocation",
+    "dek": "Television actors Divyanka Tripathi and Vivek Dahiya shared an emotional tribute after a fire at their apartment building claimed the life of their security guard, Dhanpat Mahatu.",
+    "body": [
+      {
+        "h": "Building Fire Terrifies Residents",
+        "p": [
+          "Television stars Divyanka Tripathi and Vivek Dahiya recently experienced a terrifying ordeal when a fire broke out at their apartment building on a Saturday night just before Diwali. The incident took place at Runwal Tower located in Andheri West, originating in a 17th-floor apartment. While the couple and their family managed to escape safely, the event left a lasting impact on all the residents living in the complex.",
+          "The Mumbai Fire Brigade reported that the emergency call came in at approximately 9:50 pm on Saturday. According to officials, the blaze started in flat number 1702, which belonged to Sharad Agarwal. Investigators suspect that a lit diya left for a puja ignited the flames in the living room while the homeowners were out for dinner."
+        ]
+      },
+      {
+        "h": "Tragic Loss of Security Guard",
+        "p": [
+          "Despite the successful evacuation of several residents, the fire claimed the life of a 56-year-old liftman and security guard named Dhanpat Mahatu. Chief fire officer Ravindra Ambulgekar noted that Dhanpat unfortunately attempted to use the lift instead of the staircase as smoke quickly spread throughout the building.",
+          "Firefighters eventually rescued him via the staircase and transported him to Kokilaben Hospital before shifting him to Cooper Hospital. Sadly, he was declared dead at around 2:00 am on Sunday due to smoke suffocation after being found unconscious in the lift lobby."
+        ]
+      },
+      {
+        "h": "Safe Escape for Actors and Family",
+        "p": [
+          "Divyanka Tripathi and Vivek Dahiya were present at home when the disaster struck, as a planned evening outing had been delayed. This unexpected timing allowed them to notice the danger promptly and flee the premises alongside their twin boys, family members, and domestic staff.",
+          "The actors shared visuals from their windows showing fierce flames emerging from another apartment. After exiting the building, they took temporary refuge at a friend's home while monitoring the developing crisis and hoping for the safety of everyone involved."
+        ]
+      },
+      {
+        "h": "Emotional Instagram Tribute",
+        "p": [
+          "Taking to Instagram, Divyanka and Vivek posted a heartfelt joint message honoring Dhanpat Mahatu, whom they affectionately called 'Dhanpat uncle'. They described him as an integral part of their everyday lives who had personally welcomed and blessed their twin boys when they first brought them home.",
+          "The couple expressed deep sorrow that the future moments they had envisioned—such as him watching their sons grow up—would now remain unfulfilled dreams. They emphasized that his sudden passing left a profound emptiness in their hearts that overshadowed the festive celebrations."
+        ]
+      },
+      {
+        "h": "Details of the Investigation",
+        "p": [
+          "Chief fire officer Ravindra Ambulgekar confirmed that the firefighting system within the C wing of Runwal Tower functioned correctly, allowing teams to successfully bring the blaze under control. Another resident, Gaurav Maini, mentioned that Dhanpat had faithfully served the building for nine years and was widely appreciated by the community.",
+          "Following safety inspections, utilities such as electricity, gas supply, and lifts were gradually restored to the building over the following days. However, residents noted that true normalcy failed to return due to the heavy emotional toll of the tragedy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Television actors Divyanka Tripathi and Vivek Dahiya safely escaped a dangerous apartment fire at their Andheri West building alongside their twins. Tragically, the incident resulted in the death of their building's security guard, Dhanpat Mahatu, due to smoke suffocation. The couple later shared an emotional public tribute mourning his loss and remembering his kindness."
+        ]
+      }
+    ],
+    "facts": [
+      "The fire occurred on a Saturday night before Diwali on November 10, 2026.",
+      "The incident took place at Runwal Tower in Andheri West.",
+      "The fire originated in flat number 1702, belonging to Sharad Agarwal.",
+      "The deceased guard was 56-year-old Dhanpat Mahatu.",
+      "Dhanpat Mahatu was declared dead at Cooper Hospital at around 2 am on Sunday.",
+      "Dhanpat Mahatu had worked at the building for nine years."
+    ],
+    "entities": {
+      "people": [
+        "Divyanka Tripathi",
+        "Vivek Dahiya",
+        "Dhanpat Mahatu",
+        "Sharad Agarwal",
+        "Ravindra Ambulgekar",
+        "Gaurav Maini",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "Runwal Tower"
+      ]
+    },
+    "keywords": [
+      "Divyanka Tripathi Vivek Dahiya fire",
+      "Runwal Tower Andheri West fire",
+      "Divyanka Tripathi security guard",
+      "Dhanpat Mahatu"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Divyanka_1794308604700_rDDu_1794308604844_tEXz_d92ee44f-1399-4b95-b043-9a6d7a8785e0_r1Ua.jpg",
+        "caption": "Divyanka Tripathi and Vivek Dahiya escape apartment fire, mourn building guard who died of suffocation",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 16:29:32 +0530"
+  },
+  "1dawzui": {
+    "id": "1dawzui",
+    "type": "news",
+    "headline": "Amy Robach and T.J. Holmes Make Television Comeback on Name That Tune",
+    "dek": "The well-known television personalities returned to the screen together just days after their respective ex-spouses tied the knot.",
+    "body": [
+      {
+        "h": "The Television Return",
+        "p": [
+          "Amy Robach and T.J. Holmes recently made their joint return to television, appearing together as contestants on a November episode of Name That Tune. The couple stepped into the game show spotlight to face off against one another in a friendly competition for charitable causes.",
+          "During the episode, T.J. played to raise funds for the Chloe and Maude Foundation, while Amy competed to support the Under 40 Foundation. Both participants brought equal energy to the stage as they navigated the musical challenges."
+        ]
+      },
+      {
+        "h": "On-Screen Gameplay and Romantic Moments",
+        "p": [
+          "The pair went head-to-head during the Big-a-Note round, where contestants are tasked with identifying popular wedding songs. At that point in the game, both players were tied with three thousand dollars each.",
+          "Interestingly, neither Amy nor T.J. managed to recognize the popular Ed Sheeran track Thinking Out Loud, leaving the question unanswered. However, once Robin Thicke performed the full version of the song, T.J. pulled his wife close for a tender dance on stage, prompting host Jane Krakowski to remark that romance was clearly in the air."
+        ]
+      },
+      {
+        "h": "Background on Their Departure From GMA3",
+        "p": [
+          "Before this television appearance, the duo was widely known for anchoring GMA3 together alongside their former co-star Dr. Jennifer Ashton starting in 2020. Amy had built a long tenure with ABC News beginning in 2012, while T.J. joined the network in 2014.",
+          "Their time at the network came to an end in January 2023. At that time, People released a statement from an ABC spokesman explaining that after productive conversations regarding various options, all parties mutually agreed it was best for Amy and T.J. to move on from ABC News while acknowledging their past contributions and talent."
+        ]
+      },
+      {
+        "h": "Relationship Timeline and Private Marriage",
+        "p": [
+          "The public first became aware of the couple's romance when paparazzi photographed them embracing while both were still married to their previous partners, though it was not yet public knowledge that they had already separated from those spouses.",
+          "After navigating considerable public attention following their departure from morning television, the couple celebrated a private wedding in Arkansas on September 19, 2026."
+        ]
+      },
+      {
+        "h": "Speculation Surrounding Future Projects",
+        "p": [
+          "Speculation about a potential return to regular broadcasting intensified following rumors that CBS executives were considering bringing the duo back to host a brand-new morning show.",
+          "When asked about the possibility of returning to a network during an exclusive chat with HELLO! at iHeartRadio KIIS FM's Jingle Ball at the Intuit Dome, T.J. offered a brief and intriguing response by simply saying, \"Per chance.\""
+        ]
+      },
+      {
+        "h": "Timing Coinciding With Exes' Wedding",
+        "p": [
+          "This television comeback occurred shortly after their respective former spouses held their own wedding ceremony on November 1. Marilee Fiebig and Andrew Shue exchanged vows at a farm in New Jersey.",
+          "Andrew was previously married to Amy, while Marilee was previously married to T.J., with both of those prior divorces having been finalized in 2023. Andrew had announced in October that he and Marilee quietly became engaged earlier in the spring following a relationship that initially became public in December 2023."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Amy Robach and T.J. Holmes appeared together as contestants on Name That Tune, marking their television return following their departure from GMA3 in 2023. Their appearance on the game show took place shortly after their respective former spouses, Marilee Fiebig and Andrew Shue, got married in November."
+        ]
+      }
+    ],
+    "facts": [
+      "Amy Robach and T.J. Holmes appeared on Name That Tune on November 9, 2026.",
+      "T.J. competed for the Chloe and Maude Foundation and Amy raised money for the Under 40 Foundation.",
+      "Both players had $3,000 during the Big-a-Note round.",
+      "Amy and T.J. stepped back from hosting GMA3 in 2023.",
+      "Amy worked for ABC News since 2012 and T.J. since 2014, anchoring GMA3 together since 2020 with Dr. Jennifer Ashton.",
+      "They married privately in Arkansas on September 19, 2026.",
+      "Marilee Fiebig and Andrew Shue married on November 1, 2026, at a New Jersey farm.",
+      "Both previous divorces were finalized in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Amy Robach",
+        "T.J. Holmes",
+        "Jane Krakowski",
+        "Ed Sheeran",
+        "Robin Thicke",
+        "Dr. Jennifer Ashton",
+        "Marilee Fiebig",
+        "Andrew Shue"
+      ],
+      "titles": [
+        "Name That Tune",
+        "GMA3",
+        "Thinking Out Loud"
+      ]
+    },
+    "keywords": [
+      "Amy Robach T.J. Holmes Name That Tune",
+      "Amy Robach T.J. Holmes TV comeback",
+      "T.J. Holmes Amy Robach GMA3",
+      "Marilee Fiebig Andrew Shue wedding"
+    ],
+    "images": [
+      {
+        "url": "https://images.hellomagazine.com/horizon/landscape/1200/a27ffa1fdc29-gettyimages-2126118300-1.jpg",
+        "caption": "Amy Robach and T.J. Holmes Make Television Comeback on Name That Tune",
+        "source": "HELLO! Magazine"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 10:23:39 GMT"
   }
 };
