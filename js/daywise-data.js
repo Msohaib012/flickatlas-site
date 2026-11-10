@@ -327,18 +327,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-09",
       "day": "Day 18",
-      "collection": 31167,
-      "shows": 132,
-      "occupancy": 49.2,
-      "tickets": 9771
+      "collection": 49657,
+      "shows": 198,
+      "occupancy": 60.5,
+      "tickets": 16012
     },
     {
       "date": "2026-11-10",
       "day": "Day 19",
-      "collection": 7396,
-      "shows": 72,
-      "occupancy": 24.9,
-      "tickets": 2604
+      "collection": 19546,
+      "shows": 108,
+      "occupancy": 41.7,
+      "tickets": 6618
     }
   ],
   "1400940": [
@@ -1388,9 +1388,9 @@ window.FA_DAYWISE = {
       "date": "2026-11-09",
       "day": "Day 25",
       "collection": 1057,
-      "shows": 12,
-      "occupancy": 18.0,
-      "tickets": 812
+      "shows": 22,
+      "occupancy": 23.1,
+      "tickets": 1408
     }
   ],
   "1234139": [
@@ -1616,18 +1616,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-09",
       "day": "Day 26",
-      "collection": 98996,
-      "shows": 496,
-      "occupancy": 48.0,
-      "tickets": 43708
+      "collection": 129635,
+      "shows": 660,
+      "occupancy": 50.2,
+      "tickets": 71012
     },
     {
       "date": "2026-11-10",
       "day": "Day 27",
-      "collection": 17433,
-      "shows": 169,
-      "occupancy": 24.8,
-      "tickets": 8941
+      "collection": 32435,
+      "shows": 306,
+      "occupancy": 31.2,
+      "tickets": 20775
     }
   ],
   "1269325": [
@@ -1966,18 +1966,18 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-09",
       "day": "Day 39",
-      "collection": 15848,
-      "shows": 49,
-      "occupancy": 57.2,
-      "tickets": 4414
+      "collection": 20391,
+      "shows": 72,
+      "occupancy": 64.8,
+      "tickets": 6794
     },
     {
       "date": "2026-11-10",
       "day": "Day 40",
-      "collection": 3170,
-      "shows": 23,
-      "occupancy": 33.9,
-      "tickets": 1278
+      "collection": 7396,
+      "shows": 36,
+      "occupancy": 48.8,
+      "tickets": 2806
     }
   ],
   "1497970": [

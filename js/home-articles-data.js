@@ -37,6 +37,45 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 10 Nov 2026 12:43:58 +0200"
   },
+  "sqqoyu": {
+    "id": "sqqoyu",
+    "type": "news",
+    "headline": "James Gunn Explains Reasons Behind Stepping Down From DC Studios Leadership Role",
+    "dek": "The acclaimed filmmaker shares why the immense corporate responsibilities and administrative burdens made his tenure as co-head of DC Studios difficult to maintain.",
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Peter Safran",
+        "Jenn",
+        "Jeremy Latcham",
+        "Sakshi Singh",
+        "Sonu Nigam",
+        "Nevaan Nigam"
+      ],
+      "titles": [
+        "Peacemaker",
+        "Superman",
+        "Clayface",
+        "Man of Tomorrow",
+        "Supergirl"
+      ]
+    },
+    "keywords": [
+      "James Gunn DC Studios",
+      "James Gunn stepping down",
+      "James Gunn Peter Safran",
+      "Jeremy Latcham DC Studios",
+      "James Gunn statement"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/10112939/image-38.jpeg",
+        "caption": "James Gunn Explains Reasons Behind Stepping Down From DC Studios Leadership Role",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-10T08:51:57Z"
+  },
   "lubpd7": {
     "id": "lubpd7",
     "type": "news",
@@ -83,6 +122,50 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 07:16:16 +0000"
+  },
+  "1vymat9": {
+    "id": "1vymat9",
+    "type": "news",
+    "headline": "The Witcher: No Man's Land Tabletop Game Sets November 17 Launch Date",
+    "dek": "Monster Fight Club and CD Projekt Red are bringing Geralt of Rivia and Letho of Gulet to a new miniature-based skirmish game on Gamefound.",
+    "entities": {
+      "people": [
+        "Nicholas Becher",
+        "Henry Cavill",
+        "Andrzej Sapkowski",
+        "Geralt of Rivia",
+        "Letho of Gulet",
+        "King Foltest",
+        "Yennefer",
+        "Dandelion"
+      ],
+      "titles": [
+        "The Witcher",
+        "The Witcher 3: Wild Hunt",
+        "The Witcher 2: Assassins of Kings",
+        "The Last Wish",
+        "The Hexer",
+        "The Witcher: Blood Origin",
+        "GWENT: Rogue Mage",
+        "GWENT: The Witcher Card Game",
+        "Thronebreaker: The Witcher Tales",
+        "The Witcher 4"
+      ]
+    },
+    "keywords": [
+      "The Witcher No Man's Land",
+      "Monster Fight Club Witcher game",
+      "The Witcher tabletop game",
+      "Letho of Gulet No Man's Land"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-witcher_ixyxes.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Witcher: No Man's Land Tabletop Game Sets November 17 Launch Date",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 07:00:18 GMT"
   },
   "76m87r": {
     "id": "76m87r",
@@ -200,6 +283,82 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 11:48:12 +0530"
+  },
+  "swcst3": {
+    "id": "swcst3",
+    "type": "news",
+    "headline": "The Young and the Restless Cast Updates: Returning Faces and Writers Change for November 9-13",
+    "dek": "Discover the latest cast comings and goings on The Young and the Restless for the week of November 9 to 13, featuring several high-profile returns and a brand-new writing team.",
+    "entities": {
+      "people": [
+        "Lauralee Bell",
+        "Michael Damian",
+        "Cait Fairbanks",
+        "Beth Maitland",
+        "Melissa Ordway",
+        "Jamey Giddens",
+        "Dan O'Connor",
+        "Devon",
+        "Abby Winters",
+        "Tessa",
+        "Mariah",
+        "Claire",
+        "Audra",
+        "Jack",
+        "Victor",
+        "Nikki",
+        "Diane",
+        "Daniel"
+      ],
+      "titles": [
+        "The Young and the Restless"
+      ]
+    },
+    "keywords": [
+      "The Young and the Restless cast November 9",
+      "Lauralee Bell Christine Blair Romalotti",
+      "Cait Fairbanks Tessa Porter return",
+      "Jamey Giddens Dan OConnor head writers"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-10-Nov-2026-11-26-AM-4092.jpg?resize=1200,630",
+        "caption": "The Young and the Restless Cast Updates: Returning Faces and Writers Change for November 9-13",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 06:00:04 +0000"
+  },
+  "qya8kx": {
+    "id": "qya8kx",
+    "type": "news",
+    "headline": "Godzilla Minus Zero IMAX Box Office: Roars To A Historic Global Debut, Sets An All-Time Record For Japanese Movies",
+    "dek": "Godzilla Minus Zero has established a historic milestone by securing the largest global IMAX opening weekend ever recorded for a Japanese cinematic release.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Resident Evil",
+        "Toy Story 5",
+        "The Fantastic Four: First Steps",
+        "Hero",
+        "Godzilla Minus One"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero box office",
+      "Godzilla Minus Zero IMAX debut",
+      "Godzilla Minus Zero global opening",
+      "Godzilla Minus Zero Japanese movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/godzilla-minus-zero-imax-box-office-creates-history-with-a-record-breaking-global-debut-01.jpg",
+        "caption": "Godzilla Minus Zero IMAX Box Office: Roars To A Historic Global Debut, Sets An All-Time Record For Japanese Movies",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 05:57:12 +0000"
   },
   "epwk6": {
     "id": "epwk6",
@@ -4472,149 +4631,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-09T09:23:49+05:30"
-  },
-  "bobeua": {
-    "id": "bobeua",
-    "type": "news",
-    "headline": "Daler Mehndi Breaks Silence After Navratri Concert Controversy",
-    "dek": "Punjabi singer Daler Mehndi has issued his first public statement following a viral video row during Navratri, expressing gratitude to his brother Mika Singh, wife Taran, and fans for their unwavering support.",
-    "entities": {
-      "people": [
-        "Daler Mehndi",
-        "Mika Singh",
-        "Taran",
-        "Subodh Uniyal",
-        "Sumit Rajguru"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Daler Mehndi statement",
-      "Daler Mehndi Navratri video",
-      "Mika Singh Subodh Uniyal",
-      "Daler Mehndi controversy"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156483170,thumbsize-125656,width-1280,height-720,resizemode-75/156483170.jpg",
-        "caption": "Daler Mehndi Breaks Silence After Navratri Concert Controversy",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-09T03:52:00Z"
-  },
-  "o0hb6h": {
-    "id": "o0hb6h",
-    "type": "news",
-    "headline": "Comedian Samay Raina and Actress Medha Shankr Spark Intense Dating Speculation With Diwali 2026 Celebration Photos",
-    "dek": "Popular comedian and YouTuber Samay Raina has reignited ongoing relationship rumors with 12th Fail actress Medha Shankr following a star-studded Diwali celebration in Mumbai.",
-    "entities": {
-      "people": [
-        "Samay Raina",
-        "Medha Shankr",
-        "Varun Dhawan",
-        "Zakir Khan",
-        "Munawar Faruqui",
-        "Kiku Sharda",
-        "Ashish Chanchlani",
-        "Veer Pahariya",
-        "Chandan Prabhakar",
-        "Kaashvi",
-        "Shaaron Verma",
-        "Shakshi Shetty",
-        "Sweety Raina"
-      ],
-      "titles": [
-        "12th Fail",
-        "Koffee With Karan Season 9"
-      ]
-    },
-    "keywords": [
-      "Samay Raina Medha Shankr",
-      "Samay Raina Diwali 2026",
-      "Medha Shankr Diwali party",
-      "Samay Raina girlfriend"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-09t091956-723-56861794196202.jpg",
-        "caption": "Comedian Samay Raina and Actress Medha Shankr Spark Intense Dating Speculation With Diwali 2026 Celebration Photos",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 09:20:51 +0530"
-  },
-  "gz23rk": {
-    "id": "gz23rk",
-    "type": "news",
-    "headline": "Bigg Boss 4 Tamil Star Balaji Murugadoss Questions Late-Night Narcotics Raid at Residence",
-    "dek": "Balaji Murugadoss has publicly questioned an Anti-Narcotics Task Force search at his home following Diwali, demanding answers and a response from Tamil Nadu Chief Minister Vijay.",
-    "entities": {
-      "people": [
-        "Balaji Murugadoss",
-        "Vijay",
-        "Kamal Haasan",
-        "JSK Sathish Kumar",
-        "Anurag Bohra"
-      ],
-      "titles": [
-        "Bigg Boss Tamil",
-        "Bigg Boss 4 Tamil",
-        "Bigg Boss Ultimate",
-        "Fire"
-      ]
-    },
-    "keywords": [
-      "Balaji Murugadoss",
-      "Bigg Boss 4 Tamil",
-      "CM Vijay",
-      "Fire film"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/bb4-tamils-balaji-murugadoss-questions-narcotics-raid--seeks-cm-vijays-response-094139577-16x9_0.png?VersionId=HL2qrxuX_LYgYGAnYVKhEW2FhXpA2ajY",
-        "caption": "Bigg Boss 4 Tamil Star Balaji Murugadoss Questions Late-Night Narcotics Raid at Residence",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 09:12:07 +0530"
-  },
-  "18cz6ls": {
-    "id": "18cz6ls",
-    "type": "news",
-    "headline": "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor and Yash Starrer Surpasses ₹500 Crore Mark",
-    "dek": "Ramayana has officially sprinted past the lifetime box office figures of Adipurush in just four days, propelled by a strong weekend and favorable word of mouth.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Namit Malhotra",
-        "Prabhas",
-        "Abhimanyu Mathur"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana Part 1",
-        "Adipurush"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana box office collection",
-      "Nitesh Tiwari Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/Ramayana_box_office_1794194222611_V9ow_1794194227947_pVCm_04ba0d3a-f7b7-4dd6-ace4-044edf1972b7_Ui2O.jpg",
-        "caption": "Ramayana Worldwide Box Office Collection Day 4: Ranbir Kapoor and Yash Starrer Surpasses ₹500 Crore Mark",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 09:00:22 +0530"
   },
   "ighrs2": {
     "id": "ighrs2",

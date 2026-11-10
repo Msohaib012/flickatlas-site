@@ -103944,5 +103944,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 07:16:16 +0000"
+  },
+  "qya8kx": {
+    "id": "qya8kx",
+    "type": "news",
+    "headline": "Godzilla Minus Zero IMAX Box Office: Roars To A Historic Global Debut, Sets An All-Time Record For Japanese Movies",
+    "dek": "Godzilla Minus Zero has established a historic milestone by securing the largest global IMAX opening weekend ever recorded for a Japanese cinematic release.",
+    "body": [
+      {
+        "h": "Record-Breaking IMAX Debut",
+        "p": [
+          "The Japanese feature Godzilla Minus Zero has officially made waves across international theatrical circuits by achieving an unprecedented opening weekend in premium large-format screenings. Exhibiting massive pull among moviegoers, the title shattered previous benchmarks to claim the highest worldwide IMAX opening weekend collection ever registered for a Japanese motion picture.",
+          "Industry tracking indicates that the feature pulled in massive figures entirely from specialized large-screen venues, underscoring strong audience demand for premium formats. This milestone places the release in an elite tier of international cinematic debuts."
+        ]
+      },
+      {
+        "h": "Global Revenue Breakdown",
+        "p": [
+          "In terms of specific regional earnings, the project brought in an estimated $21.3 million from IMAX venues globally during its initial weekend run. This total comprises $12.7 million generated domestically across North America alongside an impressive $8.6 million derived from overseas markets.",
+          "Furthermore, these strong figures were accomplished despite the feature rolling out in a relatively limited footprint of just 24 markets worldwide, highlighting the intense concentration of viewer interest in those territories."
+        ]
+      },
+      {
+        "h": "Surpassing Major Hollywood Titles",
+        "p": [
+          "The unprecedented performance allowed the Japanese production to compete directly with major Hollywood tentpole releases. Its opening weekend numbers in premium auditoriums came remarkably close to the $26.6 million IMAX debut achieved by The Fantastic Four: First Steps.",
+          "In addition, the film successfully outpaced the opening weekend large-format grosses of several prominent Hollywood counterparts, registering higher figures than both Toy Story 5 at $18.4 million and Resident Evil at $14.5 million."
+        ]
+      },
+      {
+        "h": "North American Box Office Dominance",
+        "p": [
+          "Beyond specialized format achievements, the movie dominated the broader North American theatrical charts by opening at the number one position. In doing so, it successfully broke a record held for over two decades by the film Hero.",
+          "Additional projections indicate that the title is poised to swiftly eclipse the total lifetime domestic gross of its predecessor, Godzilla Minus One, within the North American market."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "Set against a devastated backdrop, the narrative unfolds in Japan two years after the titular monster reduced the nation to rubble. Citizens are shown striving to reconstruct their shattered lives and rediscover ordinary routines amidst the devastation.",
+          "However, just as society begins to experience a hard-fought era of tranquility, a fresh menace materializes, plunging the country back into peril where the survival of everything remains uncertain."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Godzilla Minus Zero achieved a historic global IMAX debut, collecting $21.3 million worldwide and setting an all-time record for Japanese films. The feature also secured the top spot at the North American box office while outperforming several high-profile Hollywood titles in premium formats."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero was released on November 6.",
+      "The film collected an estimated $21.3 million from IMAX theaters worldwide.",
+      "North American IMAX earnings reached $12.7 million.",
+      "Overseas IMAX earnings reached $8.6 million.",
+      "The movie debuted in 24 markets.",
+      "Total opening weekend box office collection reached $30.6 million."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Resident Evil",
+        "Toy Story 5",
+        "The Fantastic Four: First Steps",
+        "Hero",
+        "Godzilla Minus One"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero box office",
+      "Godzilla Minus Zero IMAX debut",
+      "Godzilla Minus Zero global opening",
+      "Godzilla Minus Zero Japanese movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/godzilla-minus-zero-imax-box-office-creates-history-with-a-record-breaking-global-debut-01.jpg",
+        "caption": "Godzilla Minus Zero IMAX Box Office: Roars To A Historic Global Debut, Sets An All-Time Record For Japanese Movies",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 05:57:12 +0000"
+  },
+  "1vymat9": {
+    "id": "1vymat9",
+    "type": "news",
+    "headline": "The Witcher: No Man's Land Tabletop Game Sets November 17 Launch Date",
+    "dek": "Monster Fight Club and CD Projekt Red are bringing Geralt of Rivia and Letho of Gulet to a new miniature-based skirmish game on Gamefound.",
+    "body": [
+      {
+        "h": "The Upcoming Tabletop Adaptation",
+        "p": [
+          "Fans of the expansive fantasy universe will soon have a new way to experience tactical combat. The Witcher: No Man's Land has officially scheduled its Gamefound crowdfunding campaign to begin on November 17, 2026, at 10 AM ET, marking the first opportunity for supporters to preorder the physical release.",
+          "Developed through a partnership between Monster Fight Club and CD Projekt Red, the project translates the dark fantasy lore established in the novels and video games into a miniature-based skirmish experience."
+        ]
+      },
+      {
+        "h": "Familiar Faces and Iconic Rivalries",
+        "p": [
+          "The tabletop release draws heavily from established character histories, most notably featuring Letho of Gulet. The notorious kingslayer, introduced in The Witcher 2: Assassins of Kings, acts as a primary figure leading a professional warband against Geralt and his allies.",
+          "The complicated past between Geralt and Letho—including Letho's involvement in the assassination of King Foltest—provides a narrative foundation for the competitive factions included in the core release."
+        ]
+      },
+      {
+        "h": "Roots in Literature and Video Games",
+        "p": [
+          "Beyond the video game connections, the project incorporates direct nods to Andrzej Sapkowski's original books. A striga miniature is confirmed to appear, serving as a direct callback to Geralt's legendary adventure in The Last Wish.",
+          "Additional recognizable figures from the broader franchise, such as Yennefer and Dandelion, are integrated into the expansion lineup to round out the available character roster."
+        ]
+      },
+      {
+        "h": "Scenario-Based Gameplay and Mechanics",
+        "p": [
+          "Rather than forcing participants through a singular predetermined narrative path, No Man's Land utilizes a scenario-based format. Players can construct distinct warbands, track down monsters, and engage in cooperative or competitive skirmishes.",
+          "Combat leverages Monster Fight Club's existing [RE]action System, which allows individuals to respond to opposing maneuvers dynamically without waiting for traditional turn rounds. Furthermore, characters grow less effective as they accumulate injuries during combat encounters."
+        ]
+      },
+      {
+        "h": "Starter Set Contents",
+        "p": [
+          "The initial two-player starter box comes packed with physical components to begin playing immediately. Contents include separate warbands for Geralt and Letho, miniatures for a griffin and a striga, a dedicated playmat, scenery pieces, character cards, tokens, dice, and the official rulebook.",
+          "Developers have left room for expansion, indicating that additional content and miniatures will likely be introduced following the initial launch."
+        ]
+      },
+      {
+        "h": "Unconfirmed Details and Lore Scope",
+        "p": [
+          "While the tabletop title borrows heavily from existing stories, developers have not confirmed an overarching canonical storyline or a direct adaptation of previous video game plots.",
+          "Exact pricing figures and a definitive shipping delivery date have not been disclosed, with organizers promising further information when the Gamefound campaign officially goes live."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Witcher: No Man's Land is launching its Gamefound crowdfunding campaign on November 17, 2026. Developed by Monster Fight Club and CD Projekt Red, the skirmish game pits Geralt of Rivia against Letho of Gulet using a dynamic reaction-based combat system."
+        ]
+      }
+    ],
+    "facts": [
+      "The Witcher: No Man's Land launches its Gamefound campaign on November 17, 2026, at 10AM ET.",
+      "The game is developed by Monster Fight Club in partnership with CD Projekt Red.",
+      "Letho of Gulet from The Witcher 2: Assassins of Kings leads a warband in the game.",
+      "A striga miniature from The Last Wish is included in the game.",
+      "The combat uses Monster Fight Club's [RE]action System."
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Becher",
+        "Henry Cavill",
+        "Andrzej Sapkowski",
+        "Geralt of Rivia",
+        "Letho of Gulet",
+        "King Foltest",
+        "Yennefer",
+        "Dandelion"
+      ],
+      "titles": [
+        "The Witcher",
+        "The Witcher 3: Wild Hunt",
+        "The Witcher 2: Assassins of Kings",
+        "The Last Wish",
+        "The Hexer",
+        "The Witcher: Blood Origin",
+        "GWENT: Rogue Mage",
+        "GWENT: The Witcher Card Game",
+        "Thronebreaker: The Witcher Tales",
+        "The Witcher 4"
+      ]
+    },
+    "keywords": [
+      "The Witcher No Man's Land",
+      "Monster Fight Club Witcher game",
+      "The Witcher tabletop game",
+      "Letho of Gulet No Man's Land"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/10/the-witcher_ixyxes.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Witcher: No Man's Land Tabletop Game Sets November 17 Launch Date",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 07:00:18 GMT"
+  },
+  "swcst3": {
+    "id": "swcst3",
+    "type": "news",
+    "headline": "The Young and the Restless Cast Updates: Returning Faces and Writers Change for November 9-13",
+    "dek": "Discover the latest cast comings and goings on The Young and the Restless for the week of November 9 to 13, featuring several high-profile returns and a brand-new writing team.",
+    "body": [
+      {
+        "h": "Introduction to Weekly Cast Updates",
+        "p": [
+          "Followers of the long-running daytime serial The Young and the Restless are closely monitoring the cast dynamics as new episodes unfold throughout the week. Soap opera updates for the period spanning November 9 through November 13 highlight an exciting lineup of returning stars.",
+          "Rather than focusing on exits, the current schedule emphasizes familiar actors stepping back into Genoa City. These appearances coincide with significant narrative developments and a transition behind the scenes."
+        ]
+      },
+      {
+        "h": "Christine Blair Romalotti and Danny Romalotti Return",
+        "p": [
+          "Among the prominent comings this week is Lauralee Bell, who steps back into her well-known role as Christine Blair Romalotti. Viewers can expect her character to maintain an active presence across multiple episodes.",
+          "Additionally, Michael Damian rejoins the cast as Danny Romalotti. Both Danny and Christine find themselves surprised by an unexpected visitor on Friday, November 13, leading to shared scenes between the two characters."
+        ]
+      },
+      {
+        "h": "Tessa Porter Makes Her Comeback",
+        "p": [
+          "Cait Fairbanks officially reprises her role as Tessa Porter, marking her first onscreen appearance since April after resuming the filming process in September. Her return brings her back into the heart of Genoa City.",
+          "Tessa is slated to share important scenes with Mariah on Wednesday, November 11. This particular broadcast also marks a notable shift behind the camera with new head writers taking charge."
+        ]
+      },
+      {
+        "h": "Writing Team Transition",
+        "p": [
+          "The arrival of Tessa back into the narrative coincides with a major behind-the-scenes adjustment for the serial. Jamey Giddens and Dan O'Connor officially begin their tenure as the program's new head writers.",
+          "This creative shift aims to inject fresh perspectives into ongoing storylines as multiple characters face fresh conflicts and emotional challenges."
+        ]
+      },
+      {
+        "h": "Traci Abbott and Abby Winters Storylines",
+        "p": [
+          "Beth Maitland makes a welcome return as Traci Abbott, shortly after securing a Daytime Emmy award in the category of Outstanding Supporting Actress. Traci appears on Tuesday, November 10, where she receives a special request from Devon.",
+          "Meanwhile, Melissa Ordway continues her run as Abby Winters. Abby's health emerges as a primary source of anxiety, prompting her to share her symptoms and worries directly with Devon in a potentially dramatic arc."
+        ]
+      },
+      {
+        "h": "Absence of Departures and Additional Twists",
+        "p": [
+          "Producers have confirmed that no official cast departures are scheduled for the November 9 to 13 timeframe. The core emphasis remains squarely on welcoming back established performers and progressing serialized plots.",
+          "Aside from the comings and goings, the weekly schedule promises plenty of friction. Claire continues to antagonize Audra, Jack and Victor dredge up their complicated shared history, and Nikki alongside Diane nudge Daniel toward making a difficult choice."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Young and the Restless features several returning cast members including Lauralee Bell, Michael Damian, Cait Fairbanks, and Beth Maitland for the week of November 9 to 13. Concurrently, Jamey Giddens and Dan O'Connor begin their run as the program's new head writers while no exits are announced."
+        ]
+      }
+    ],
+    "facts": [
+      "Lauralee Bell returns as Christine Blair Romalotti",
+      "Michael Damian returns as Danny Romalotti",
+      "Cait Fairbanks reprises her role as Tessa Porter",
+      "Beth Maitland returns as Traci Abbott",
+      "Melissa Ordway continues appearing as Abby Winters",
+      "Jamey Giddens and Dan O'Connor begin their run as head writers",
+      "No confirmed cast departures have been announced for November 9 to 13"
+    ],
+    "entities": {
+      "people": [
+        "Lauralee Bell",
+        "Michael Damian",
+        "Cait Fairbanks",
+        "Beth Maitland",
+        "Melissa Ordway",
+        "Jamey Giddens",
+        "Dan O'Connor",
+        "Devon",
+        "Abby Winters",
+        "Tessa",
+        "Mariah",
+        "Claire",
+        "Audra",
+        "Jack",
+        "Victor",
+        "Nikki",
+        "Diane",
+        "Daniel"
+      ],
+      "titles": [
+        "The Young and the Restless"
+      ]
+    },
+    "keywords": [
+      "The Young and the Restless cast November 9",
+      "Lauralee Bell Christine Blair Romalotti",
+      "Cait Fairbanks Tessa Porter return",
+      "Jamey Giddens Dan OConnor head writers"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-10-Nov-2026-11-26-AM-4092.jpg?resize=1200,630",
+        "caption": "The Young and the Restless Cast Updates: Returning Faces and Writers Change for November 9-13",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 06:00:04 +0000"
+  },
+  "sqqoyu": {
+    "id": "sqqoyu",
+    "type": "news",
+    "headline": "James Gunn Explains Reasons Behind Stepping Down From DC Studios Leadership Role",
+    "dek": "The acclaimed filmmaker shares why the immense corporate responsibilities and administrative burdens made his tenure as co-head of DC Studios difficult to maintain.",
+    "body": [
+      {
+        "h": "The Leadership Transition at DC Studios",
+        "p": [
+          "James Gunn and Peter Safran are concluding their four-year leadership chapter at the helm of DC Studios. The major executive shift arrives shortly after a massive corporate merger between Warner Bros. Discovery and Paramount to establish a new entity under Skydance Corp.",
+          "During their time steering the cinematic universe, the duo implemented a comprehensive decade-long roadmap to revive and rebuild the superhero franchise across various media."
+        ]
+      },
+      {
+        "h": "Weighing Creative Ambitions Against Corporate Duties",
+        "p": [
+          "In a detailed statement shared via his official Instagram account on Monday, James Gunn opened up about the personal and professional toll that running a massive entertainment studio exacted on his daily life.",
+          "The filmmaker noted that while shaping legendary comic book characters was immensely rewarding, the heavy administrative tasks left him with virtually no time to properly disconnect from his professional duties."
+        ]
+      },
+      {
+        "h": "Juggling Executive Pressures and Personal Life",
+        "p": [
+          "James Gunn admitted that he struggled significantly with the corporate aspects of the position, expressing gratitude toward Peter Safran for handling a large portion of those bureaucratic challenges.",
+          "He further explained that dividing his focus between hands-on creative projects and broad executive oversight proved exceptionally difficult, ultimately reducing the quality time he could spend with his loved ones, including his partner Jenn."
+        ]
+      },
+      {
+        "h": "Highlights of a Four-Year Tenure",
+        "p": [
+          "Despite the exhaustion brought on by the demanding schedule, James Gunn reflected warmly on his executive tenure, pointing to several prominent productions that defined their leadership period.",
+          "Key projects highlighted during this era included Peacemaker, Superman, and Clayface, all of which helped shape the contemporary direction of the shared superhero universe."
+        ]
+      },
+      {
+        "h": "Box Office Achievements and Milestones",
+        "p": [
+          "The four-year oversight under James Gunn and Peter Safran yielded notable commercial successes on the global theatrical stage, reinforcing audience interest in the revitalized comic book property.",
+          "Their tenure featured the worldwide release of Superman, which pulled in over $618 million globally, alongside Supergirl and Clayface, with the latter reportedly generating more than $109 million worldwide."
+        ]
+      },
+      {
+        "h": "Future Creative Involvements in the DC Universe",
+        "p": [
+          "Stepping down from the executive suite does not signal a complete exit from the franchise, as James Gunn intends to continue contributing to the universe purely from a filmmaking standpoint.",
+          "He confirmed ongoing involvement with upcoming titles, such as Man of Tomorrow, which serves as the follow-up to his Superman film, alongside a brand new secret project that he and Peter Safran recently started writing."
+        ]
+      },
+      {
+        "h": "New Leadership Appointed Under Skydance",
+        "p": [
+          "Following the departure of James Gunn and Peter Safran from their managerial posts, Skydance Corp. stepped in to name a fresh successor for the studio's executive hierarchy.",
+          "Jeremy Latcham has officially assumed the role of DC Studios president and chief creative officer, allowing the previous co-heads to refocus their full attention entirely on creative production."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Gunn and Peter Safran are stepping down from their co-head positions at DC Studios after a four-year tenure, following a corporate merger involving Warner Bros. Discovery and Paramount under Skydance Corp. James Gunn cited heavy corporate demands and a lack of personal time as the main reasons for his departure, while Jeremy Latcham takes over as the new president and chief creative officer."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Peter Safran are stepping down as co-heads of DC Studios after a four-year leadership chapter.",
+      "The corporate merger involved Warner Bros. Discovery and Paramount to form a new entity under Skydance.",
+      "James Gunn shared his statement on his official Instagram account on Monday.",
+      "Jeremy Latcham was appointed as DC Studios president and chief creative officer.",
+      "Superman collected over $618 million worldwide during their tenure.",
+      "Clayface reportedly earned more than $109 million globally."
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Peter Safran",
+        "Jenn",
+        "Jeremy Latcham",
+        "Sakshi Singh",
+        "Sonu Nigam",
+        "Nevaan Nigam"
+      ],
+      "titles": [
+        "Peacemaker",
+        "Superman",
+        "Clayface",
+        "Man of Tomorrow",
+        "Supergirl"
+      ]
+    },
+    "keywords": [
+      "James Gunn DC Studios",
+      "James Gunn stepping down",
+      "James Gunn Peter Safran",
+      "Jeremy Latcham DC Studios",
+      "James Gunn statement"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/10112939/image-38.jpeg",
+        "caption": "James Gunn Explains Reasons Behind Stepping Down From DC Studios Leadership Role",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-10T08:51:57Z"
   }
 };
