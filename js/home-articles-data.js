@@ -171,6 +171,164 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 10 Nov 2026 08:45:38 +0530"
   },
+  "1709ulu": {
+    "id": "1709ulu",
+    "type": "news",
+    "headline": "Ramayana Sets Box Office Record With Massive First Monday Earnings",
+    "dek": "The Ranbir Kapoor and Yash starrer Ramayana achieved an unprecedented milestone by raking in Rs 107.5 crore on its fifth day, marking the highest first Monday collection in Indian cinematic history.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Pawan Kalyan",
+        "Anna Lezhneva"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana first Monday collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Pawan Kalyan Anna Lezhneva divorce"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/entliveupdatesnov10feature-14451794280176.jpg",
+        "caption": "Ramayana Sets Box Office Record With Massive First Monday Earnings",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:41:21 +0530"
+  },
+  "20xcv9": {
+    "id": "20xcv9",
+    "type": "news",
+    "headline": "Nick Jonas dances to Sai Abhyankkar's Tamil hit Radhimaa during Diwali",
+    "dek": "Nick Jonas and the Jonas Brothers surprised Indian fans by grooving to Sai Abhyankkar's viral Tamil track Radhimaa in a festive Instagram post.",
+    "entities": {
+      "people": [
+        "Nick Jonas",
+        "Sai Abhyankkar",
+        "Joe Jonas",
+        "Kevin Jonas",
+        "Priyanka Chopra",
+        "Bhagyashri Borse",
+        "Vivek",
+        "Thejo Bharathwaj"
+      ],
+      "titles": [
+        "Radhimaa",
+        "Katchi Sera",
+        "Aasa Kooda",
+        "Pavazha Malli"
+      ]
+    },
+    "keywords": [
+      "Nick Jonas Radhimaa",
+      "Sai Abhyankkar Tamil hit",
+      "Nick Jonas Diwali dance",
+      "Radhimaa song views"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/nick-jonas-dancing-to-radhimaa-100221395-16x9_0.jpg?VersionId=7PVCOdrCvd.WUrFz8FQh9Cwn1sT6nEbG",
+        "caption": "Nick Jonas dances to Sai Abhyankkar's Tamil hit Radhimaa during Diwali",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:37:25 +0530"
+  },
+  "84v5n9": {
+    "id": "84v5n9",
+    "type": "news",
+    "headline": "‘The Voice’ Season 30 Reveals Top 13 Singers as America Saves Oldest Contestant in Series History",
+    "dek": "Following Cut Week eliminations, the final spot in the Top 13 for Fall 2026 was claimed via the public vote on November 9.",
+    "entities": {
+      "people": [
+        "David Niederhoffer",
+        "Adam Levine",
+        "Kelly Clarkson",
+        "Queen Latifah",
+        "Riley Green",
+        "Lexi Stephens",
+        "Connor Closs",
+        "Dakota Cohen",
+        "Koumba Diallo",
+        "Anna McElroy",
+        "Brianna Cameron",
+        "BigCountry",
+        "Mia Knight",
+        "Lillie Kolich",
+        "Cade Mower",
+        "Ferryn Brinkley",
+        "Joe Henley",
+        "Kyle Davis",
+        "Jaz Sinclair",
+        "Ross Lynch",
+        "Julia Garner",
+        "Madonna",
+        "Sammy Kershaw",
+        "Bradley Jaden",
+        "Rachel Zegler",
+        "Keira Knightley"
+      ],
+      "titles": [
+        "The Voice",
+        "Wanted",
+        "Love Actually"
+      ]
+    },
+    "keywords": [
+      "The Voice Fall 2026",
+      "Kyle Davis The Voice",
+      "The Voice Top 13",
+      "The Voice season 30"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/voice-top12.jpg",
+        "caption": "‘The Voice’ Season 30 Reveals Top 13 Singers as America Saves Oldest Contestant in Series History",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 02:57:11 +0000"
+  },
+  "1fck7k4": {
+    "id": "1fck7k4",
+    "type": "news",
+    "headline": "Twilight: Midnight Sun Animated Series Greenlit at Netflix",
+    "dek": "Stephenie Meyer's bestselling companion novel Twilight: Midnight Sun is heading to Netflix as a two-season adult animated adaptation.",
+    "entities": {
+      "people": [
+        "Stephenie Meyer",
+        "Sinead Daly",
+        "Kevin Beggs",
+        "Sadie Stanley",
+        "Julian Grey",
+        "Kristen Stewart",
+        "Robert Pattinson"
+      ],
+      "titles": [
+        "Twilight: Midnight Sun",
+        "Breaking Dawn – Part 2",
+        "Raised By Wolves",
+        "The Walking Dead: World Beyond",
+        "Karate Kid: Legends",
+        "Fear the Walking Dead",
+        "Twilight"
+      ]
+    },
+    "keywords": [
+      "Twilight Midnight Sun Netflix",
+      "Twilight Midnight Sun animated series",
+      "Stephenie Meyer Midnight Sun",
+      "Sinead Daly Twilight"
+    ],
+    "images": [],
+    "published": "Tue, 10 Nov 2026 02:44:09 +0000"
+  },
   "gmrl1k": {
     "id": "gmrl1k",
     "type": "news",
@@ -4440,208 +4598,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-08T23:52:31Z"
-  },
-  "1e45muy": {
-    "id": "1e45muy",
-    "type": "news",
-    "headline": "Ramayana Part Two: Sunny Deol As Hanuman, Raghav Juyal As Meghnad, And All The New Characters Joining The Epic Sequel",
-    "dek": "Discover the fresh faces and expanded mythological ensemble stepping into the highly anticipated sequel, scheduled for a theatrical launch on Diwali 2028.",
-    "entities": {
-      "people": [
-        "Sunny Deol",
-        "Raghav Juyal",
-        "Suhail Nayyar",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Ravi Dubey",
-        "Yash",
-        "Rakul Preet Singh",
-        "Kajal Agarwal",
-        "Harish Uthaman",
-        "Tanmayi Savadi"
-      ],
-      "titles": [
-        "Ramayana Part 2",
-        "Ramayana Part Two",
-        "Ramayana Part 1",
-        "Rise of a Legend"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 2",
-      "Sunny Deol Hanuman",
-      "Raghav Juyal Meghnad",
-      "Suhail Nayyar Sugriv",
-      "Ramayana Part Two characters"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156483077,thumbsize-325976,width-1280,height-720,resizemode-75/156483077.jpg",
-        "caption": "Ramayana Part Two: Sunny Deol As Hanuman, Raghav Juyal As Meghnad, And All The New Characters Joining The Epic Sequel",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-08T23:52:31Z"
-  },
-  "vqx6v1": {
-    "id": "vqx6v1",
-    "type": "news",
-    "headline": "Spy x Family Season 4 and New Theatrical Film Confirmed for 2027 Release",
-    "dek": "Japanese studio Toho Co., Ltd. has announced that the popular anime series Spy x Family will return for a fourth season alongside a brand-new feature film in 2027.",
-    "entities": {
-      "people": [
-        "Naman Ramachandran",
-        "Endo Tatsuya",
-        "Kurosawa Akira"
-      ],
-      "titles": [
-        "Spy x Family",
-        "My Hero Academia",
-        "Jujutsu Kaisen",
-        "Godzilla",
-        "Seven Samurai",
-        "Cheers",
-        "Taxi",
-        "Psychic Predators",
-        "Chiikawa",
-        "Final Interview",
-        "Godzilla Minus Zero",
-        "Cat in the Hat",
-        "La Bola Negra",
-        "Now You See Me 4",
-        "Misty Green"
-      ]
-    },
-    "keywords": [
-      "Spy x Family Season 4",
-      "Spy x Family 2027 film",
-      "Toho Co Ltd anime",
-      "Endo Tatsuya manga"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/Spy-x-Kids.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Spy x Family Season 4 and New Theatrical Film Confirmed for 2027 Release",
-        "source": "Variety"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 23:51:22 +0000"
-  },
-  "uqdru0": {
-    "id": "uqdru0",
-    "type": "news",
-    "headline": "Ojai Film Festival Announces 2026 Winners Led by Everybody Digs Bill Evans and In Memoriam",
-    "dek": "The 27th annual Ojai Film Festival concluded its run by revealing its complete list of honorees, featuring top feature film wins for Grant Gee's Everybody Digs Bill Evans and Rob Burnett's In Memoriam alongside several distinguished artist recognitions.",
-    "entities": {
-      "people": [
-        "Grant Gee",
-        "Rob Burnett",
-        "Anders Danielsen Lie",
-        "Scott LaFaro",
-        "Marc Maron",
-        "Melissa McCarthy",
-        "Ben Falcone",
-        "Bill Pullman",
-        "Paul Schrader",
-        "Eduardo Moral Escudero",
-        "Marie-Clémentine Dusabejambo",
-        "Jeremy Seifert",
-        "Evan-Marie Petit",
-        "Jake Addison Melfi",
-        "Owen Dubeck",
-        "Benavram Akal",
-        "Elizabeth Dement",
-        "Josh Loeb",
-        "Steve Beebe",
-        "Randall Einhorn"
-      ],
-      "titles": [
-        "Everybody Digs Bill Evans",
-        "In Memoriam",
-        "Anchor Baby",
-        "BEN'IMANA",
-        "It All Comes Back",
-        "To Write Love",
-        "Papertown",
-        "Pillowzzz",
-        "Arlene",
-        "In Spite of Ourselves",
-        "The Ballad of Lieutenant Dan"
-      ]
-    },
-    "keywords": [
-      "Ojai Film Festival",
-      "Everybody Digs Bill Evans",
-      "In Memoriam film",
-      "Grant Gee film",
-      "Rob Burnett film"
-    ],
-    "images": [
-      {
-        "url": "https://deadline.com/wp-content/uploads/2026/11/Ojai-Film-Fest.jpg?w=1000",
-        "caption": "Ojai Film Festival Announces 2026 Winners Led by Everybody Digs Bill Evans and In Memoriam",
-        "source": "Deadline"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 23:42:41 +0000"
-  },
-  "51oohc": {
-    "id": "51oohc",
-    "type": "news",
-    "headline": "Korea Box Office: Anime Phenomenon Chiikawa Staves Off Final Interview for Top Spot",
-    "dek": "Japanese animated feature Chiikawa the Movie: The Secret of the Mermaid Island maintains its dominance at the South Korean box office for a fourth consecutive weekend, fending off new challengers including corporate thriller Final Interview.",
-    "entities": {
-      "people": [
-        "Kei Oikawa",
-        "Nagano",
-        "Kim Jung-hoon",
-        "Akinari Asakura",
-        "Cho Yi-hyun",
-        "Kim Jae-won",
-        "Shin Seung-ho",
-        "Kang You-seok",
-        "Kwak Dong-yeon",
-        "Bae Gang-hee",
-        "Brad Pitt",
-        "Conan Edogawa",
-        "Akiyuki Shinbo",
-        "Yukihiro Miyamoto",
-        "Hur Jin-ho",
-        "Yu Hae-jin",
-        "Park Hae-il",
-        "Lee Min-ho",
-        "Park Chung-hee",
-        "Lee Sun-bin",
-        "Yoo Jae-myung"
-      ],
-      "titles": [
-        "Chiikawa the Movie: The Secret of the Mermaid Island",
-        "Final Interview",
-        "Heart of the Beast",
-        "Detective Conan: The Counterfeit Case of Ultra 30",
-        "The Cat in the Hat",
-        "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-        "Attack on Titan: Crimson Arrows",
-        "Wild Horse Nine",
-        "The Assassin(s)",
-        "Ugly Duckling Ms. Maeng"
-      ]
-    },
-    "keywords": [
-      "Chiikawa box office",
-      "Final Interview movie",
-      "Heart of the Beast Brad Pitt",
-      "Detective Conan The Counterfeit Case of Ultra 30",
-      "Korea box office Nov 6-8"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/10/Chiikawa-the-Movie-The-Secret-of-Mermaid-Island.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Korea Box Office: Anime Phenomenon Chiikawa Staves Off Final Interview for Top Spot",
-        "source": "Variety"
-      }
-    ],
-    "published": "Sun, 08 Nov 2026 23:42:33 +0000"
   },
   "ighrs2": {
     "id": "ighrs2",

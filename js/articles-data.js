@@ -102300,5 +102300,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 08:45:38 +0530"
+  },
+  "1709ulu": {
+    "id": "1709ulu",
+    "type": "news",
+    "headline": "Ramayana Sets Box Office Record With Massive First Monday Earnings",
+    "dek": "The Ranbir Kapoor and Yash starrer Ramayana achieved an unprecedented milestone by raking in Rs 107.5 crore on its fifth day, marking the highest first Monday collection in Indian cinematic history.",
+    "body": [
+      {
+        "h": "Festive Season Energy in the Industry",
+        "p": [
+          "November has begun on a brilliant note across India, propelled by vibrant Diwali celebrations that have dominated social media feeds. Numerous celebrities shared glimpses of their family gatherings and star-studded parties, captivating fans everywhere.",
+          "Amid the festive fervor, the entertainment sector remained exceptionally active. Important updates regarding celebrity lives, major film projects, box office milestones, and upcoming releases continued to capture public attention."
+        ]
+      },
+      {
+        "h": "Ramayana Achieves Historic Milestones",
+        "p": [
+          "The theatrical run of Ramayana reached new heights as the feature film shattered previous records following its theatrical launch. Audiences turned up in massive numbers as the working week began, driving unprecedented ticket sales.",
+          "Industry trackers noted that the phenomenal audience turnout established a completely new benchmark for weekday earnings in the domestic market, solidifying the movie's status as a massive commercial success."
+        ]
+      },
+      {
+        "h": "Record-Breaking First Monday Numbers",
+        "p": [
+          "On day five of its theatrical run, which marked its first Monday in cinemas, the epic drama pulled off an astonishing collection of Rs 107.5 crore.",
+          "This extraordinary single-day earnings figure officially stands as the highest first Monday and day five collection ever recorded in the history of Indian cinema."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Major Appeal",
+        "p": [
+          "The monumental commercial triumph is heavily driven by its high-profile leading cast, featuring prominent actors Ranbir Kapoor and Yash in pivotal roles.",
+          "The powerhouse combination of these two major stars has generated intense excitement among moviegoers, contributing directly to the historic box office figures."
+        ]
+      },
+      {
+        "h": "Personal Life Updates in Celebrity News",
+        "p": [
+          "Alongside the blockbuster box office developments, the entertainment landscape also saw significant personal news involving prominent figures in the regional film industry.",
+          "Pawan Kalyan and his third wife, Anna Lezhneva, formally announced their separation, bringing an end to their thirteen-year marriage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana made history by recording an unprecedented Rs 107.5 crore collection on its first Monday, setting a new box office record for day five earnings in India. Concurrently, Pawan Kalyan and Anna Lezhneva announced their separation after 13 years of marriage during a festive period marked by major industry updates."
+        ]
+      }
+    ],
+    "facts": [
+      "November 10, 2026",
+      "Ramayana crossed 340Cr total collection",
+      "Rs 107.5cr collected on day 5 / first Monday",
+      "Pawan Kalyan and Anna Lezhneva announced separation after 13 years of marriage",
+      "Ranbir Kapoor and Yash star in Ramayana"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Pawan Kalyan",
+        "Anna Lezhneva"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana first Monday collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Pawan Kalyan Anna Lezhneva divorce"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/entliveupdatesnov10feature-14451794280176.jpg",
+        "caption": "Ramayana Sets Box Office Record With Massive First Monday Earnings",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:41:21 +0530"
+  },
+  "84v5n9": {
+    "id": "84v5n9",
+    "type": "news",
+    "headline": "‘The Voice’ Season 30 Reveals Top 13 Singers as America Saves Oldest Contestant in Series History",
+    "dek": "Following Cut Week eliminations, the final spot in the Top 13 for Fall 2026 was claimed via the public vote on November 9.",
+    "body": [
+      {
+        "h": "Entering the Live Rounds",
+        "p": [
+          "The singing competition television program has officially entered the live performance phase of its thirtieth season. Twelve competitors had already secured their positions following the previous week's Cut Week broadcasts, leaving the final thirteenth spot dependent entirely on public participation.",
+          "Viewers tuned in eagerly to discover which remaining performer would complete the roster. The results were broadcast during the November 9 episode, setting the stage for the upcoming live shows."
+        ]
+      },
+      {
+        "h": "The Coach Selection Process",
+        "p": [
+          "During Cut Week, the four celebrity mentors were tasked with narrowing down their respective teams. Coaches Adam Levine, Kelly Clarkson, Queen Latifah, and Riley Green each started with seven remaining artists in their stables.",
+          "Every coach chose two of their artists to advance instantly to the next stage. The remaining five contestants had to perform once more, after which the mentors selected one additional artist each to proceed to the live shows."
+        ]
+      },
+      {
+        "h": "Team Adam Roster",
+        "p": [
+          "Coach Adam Levine finalized his group by advancing three strong performers to the next tier of the competition. Lexi Stephens and Connor Closs were chosen by Adam to immediately progress during the earlier part of the selection cycle.",
+          "Dakota Cohen rounded out Adam's lineup after delivering a standout performance during the Cut Week rounds, securing her spot among the top tier of artists."
+        ]
+      },
+      {
+        "h": "Team Kelly Lineup",
+        "p": [
+          "Coach Kelly Clarkson shaped her division by utilizing both automatic advancements and secondary performances. Koumba Diallo and Anna McElroy were selected by Kelly to immediately move forward into the next phase of the series.",
+          "Brianna Cameron earned her place on Team Kelly after performing during the secondary Cut Week eliminations, completing Kelly's primary team before the public vote results were tallied."
+        ]
+      },
+      {
+        "h": "Team Queen and Team Riley",
+        "p": [
+          "Coach Queen Latifah advanced BigCountry and Mia Knight immediately following initial evaluations. Lillie Kolich subsequently earned Queen's final slot following her performance during the secondary Cut Week showcase.",
+          "Meanwhile, Coach Riley Green selected Cade Mower and Ferryn Brinkley for immediate advancement. Joe Henley secured the final spot on Riley's roster after performing during the secondary elimination rounds."
+        ]
+      },
+      {
+        "h": "America's Historic Save",
+        "p": [
+          "The sixteenth remaining act who missed out on coach advancement was left to the mercy of the public vote. Viewers chose to save Kyle Davis from Team Kelly, who had previously been eliminated during Cut Week.",
+          "Kyle's successful public rescue advanced him directly into the Top 13. He is scheduled to perform during the upcoming live episode on November 16."
+        ]
+      },
+      {
+        "h": "A Milestone Achievement",
+        "p": [
+          "Kyle Davis achieved a remarkable milestone by securing his place in the competition. At sixty-one years of age, he is officially recognized as the oldest contestant to ever compete on the program.",
+          "His journey from elimination to public salvation has captured significant attention from viewers and fans alike, establishing a new demographic benchmark for the long-running reality singing series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Season 30 of the television singing competition revealed its complete Top 13 roster on November 9 following coach selections and a public vote. The final contestant to join the group was Kyle Davis, who made series history as the oldest competitor ever after America voted to save him.",
+          "Kyle and the rest of the Top 13 artists are now preparing to take the stage for the upcoming live performances scheduled for November 16."
+        ]
+      }
+    ],
+    "facts": [
+      "The Voice season 30 entered the live rounds on November 9, 2026.",
+      "The Top 13 singers were revealed following a public save.",
+      "The coaches for the season are Adam Levine, Kelly Clarkson, Queen Latifah, and Riley Green.",
+      "Kyle Davis was saved by America and is the oldest contestant in the show's history at 61 years old.",
+      "Kyle Davis will perform during the November 16 live episode."
+    ],
+    "entities": {
+      "people": [
+        "David Niederhoffer",
+        "Adam Levine",
+        "Kelly Clarkson",
+        "Queen Latifah",
+        "Riley Green",
+        "Lexi Stephens",
+        "Connor Closs",
+        "Dakota Cohen",
+        "Koumba Diallo",
+        "Anna McElroy",
+        "Brianna Cameron",
+        "BigCountry",
+        "Mia Knight",
+        "Lillie Kolich",
+        "Cade Mower",
+        "Ferryn Brinkley",
+        "Joe Henley",
+        "Kyle Davis",
+        "Jaz Sinclair",
+        "Ross Lynch",
+        "Julia Garner",
+        "Madonna",
+        "Sammy Kershaw",
+        "Bradley Jaden",
+        "Rachel Zegler",
+        "Keira Knightley"
+      ],
+      "titles": [
+        "The Voice",
+        "Wanted",
+        "Love Actually"
+      ]
+    },
+    "keywords": [
+      "The Voice Fall 2026",
+      "Kyle Davis The Voice",
+      "The Voice Top 13",
+      "The Voice season 30"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/voice-top12.jpg",
+        "caption": "‘The Voice’ Season 30 Reveals Top 13 Singers as America Saves Oldest Contestant in Series History",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 02:57:11 +0000"
+  },
+  "20xcv9": {
+    "id": "20xcv9",
+    "type": "news",
+    "headline": "Nick Jonas dances to Sai Abhyankkar's Tamil hit Radhimaa during Diwali",
+    "dek": "Nick Jonas and the Jonas Brothers surprised Indian fans by grooving to Sai Abhyankkar's viral Tamil track Radhimaa in a festive Instagram post.",
+    "body": [
+      {
+        "h": "Diwali Celebrations With a Musical Twist",
+        "p": [
+          "Nick Jonas and his brothers Joe and Kevin Jonas brought a unique cross-cultural flair to their recent festive greetings. In a video shared on Instagram, the famous siblings and their bandmates were captured breaking into an energetic dance routine.",
+          "Rather than sticking to standard festive tracks, the group chose a popular contemporary South Indian single to soundtrack their holiday post. The unexpected choice immediately caught the attention of viewers worldwide."
+        ]
+      },
+      {
+        "h": "Grooving to Radhimaa",
+        "p": [
+          "The track that powered the dance video is Radhimaa, an upbeat Tamil independent single composed by young music sensation Sai Abhyankkar. The song has steadily built an enormous digital audience since its release.",
+          "In the social media clip, Nick and his teammates appear fully immersed in the rhythm as the catchy tune plays in the background, offering a playful peek into their personal celebrations."
+        ]
+      },
+      {
+        "h": "Composer Sai Abhyankkar Reacts",
+        "p": [
+          "The cross-border reach of the track did not go unnoticed by its creator. Sai Abhyankkar, who not only composed the music but also featured in the official music video alongside actor Bhagyashri Borse, was quick to respond.",
+          "Delighted by the international shoutout, the young composer left a warm comment on Nick's post featuring a heart emoji, marking a memorable moment for Tamil independent music."
+        ]
+      },
+      {
+        "h": "The National Jiju Connection",
+        "p": [
+          "Nick Jonas has long enjoyed a warm relationship with Indian audiences, who affectionately refer to him as India's National Jiju due to his marriage to actor Priyanka Chopra.",
+          "This latest gesture added a fresh regional layer to that affectionate moniker. Fans quickly connected the dots, especially as the song features the notable phrase 'thangamaana paiyan', which translates to golden boy."
+        ]
+      },
+      {
+        "h": "A History of Embracing Indian Music",
+        "p": [
+          "For followers of the American singer, dipping into the world of Indian tracks is a familiar pattern. Nick has frequently shared clips of himself listening to or dancing to popular Hindi film songs ahead of major concert tours.",
+          "Shifting his musical focus toward a Tamil indie hit marked a delightful departure from his usual routine, giving South Indian music enthusiasts a special reason to celebrate."
+        ]
+      },
+      {
+        "h": "About the Viral Hit",
+        "p": [
+          "Radhimaa was released on August 24, with lyrics penned by Vivek and a music video directed by Thejo Bharathwaj. The single quickly amassed massive streaming numbers, reaching 117 million views on YouTube by the time of publication.",
+          "The track adds to Sai Abhyankkar's rapidly expanding catalogue of hits, which previously includes viral sensations like Katchi Sera, Aasa Kooda, and Pavazha Malli."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nick Jonas and the Jonas Brothers celebrated Diwali by dancing to Sai Abhyankkar's viral Tamil indie track Radhimaa in an Instagram video. The gesture delighted fans and drew a warm response from the composer, adding a playful Tamil twist to Nick's popular National Jiju persona."
+        ]
+      }
+    ],
+    "facts": [
+      "Nick Jonas danced to Radhimaa during Diwali celebrations",
+      "Sai Abhyankkar composed, sang, and produced Radhimaa",
+      "Radhimaa was released on August 24",
+      "The song features actor Bhagyashri Borse",
+      "The music video was directed by Thejo Bharathwaj",
+      "The track reached 117 million views on YouTube",
+      "Vivek wrote the lyrics for Radhimaa"
+    ],
+    "entities": {
+      "people": [
+        "Nick Jonas",
+        "Sai Abhyankkar",
+        "Joe Jonas",
+        "Kevin Jonas",
+        "Priyanka Chopra",
+        "Bhagyashri Borse",
+        "Vivek",
+        "Thejo Bharathwaj"
+      ],
+      "titles": [
+        "Radhimaa",
+        "Katchi Sera",
+        "Aasa Kooda",
+        "Pavazha Malli"
+      ]
+    },
+    "keywords": [
+      "Nick Jonas Radhimaa",
+      "Sai Abhyankkar Tamil hit",
+      "Nick Jonas Diwali dance",
+      "Radhimaa song views"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/nick-jonas-dancing-to-radhimaa-100221395-16x9_0.jpg?VersionId=7PVCOdrCvd.WUrFz8FQh9Cwn1sT6nEbG",
+        "caption": "Nick Jonas dances to Sai Abhyankkar's Tamil hit Radhimaa during Diwali",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 08:37:25 +0530"
+  },
+  "1fck7k4": {
+    "id": "1fck7k4",
+    "type": "news",
+    "headline": "Twilight: Midnight Sun Animated Series Greenlit at Netflix",
+    "dek": "Stephenie Meyer's bestselling companion novel Twilight: Midnight Sun is heading to Netflix as a two-season adult animated adaptation.",
+    "body": [
+      {
+        "h": "The Return of the Twilight Franchise",
+        "p": [
+          "Fifteen years after the release of the final cinematic installment in the original film saga, the popular vampire franchise is preparing for a major comeback on screen. Netflix has officially issued a two-season order for an adult animated series adaptation based on Stephenie Meyer's companion book.",
+          "This upcoming project marks a significant expansion for the supernatural universe, shifting the medium from live-action feature films to episodic adult animation. Fans who followed the original movies will soon experience the narrative in an entirely different format."
+        ]
+      },
+      {
+        "h": "Exploring Midnight Sun and Edward's Perspective",
+        "p": [
+          "Published in the year 2020, the source material reimagines the events of the very first novel in the series from a completely different viewpoint. Instead of following the human protagonist, the story delves into the mind of the vampire Edward Cullen.",
+          "The narrative explores his complex inner thoughts, his struggles with his immortal nature, and his intense romance with Bella Swan. This fresh angle offers audiences a deeper look into the established lore and character motivations."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "The adaptation is being written by Sinead Daly, whose previous writing credits include television projects such as Raised By Wolves and The Walking Dead: World Beyond. Alongside her writing duties, Daly will also serve as an executive producer.",
+          "Author Stephenie Meyer is heavily involved in the creative direction of the show, acting as an executive producer alongside the writing team. Her hands-on approach ensures that the animated adaptation stays true to the spirit of the original literary work."
+        ]
+      },
+      {
+        "h": "Official Confirmation and Executive Expectations",
+        "p": [
+          "The green light for the two-season order was officially confirmed by Kevin Beggs, the Chairman of Lionsgate Television Group. The announcement was made during a corporate earnings call held by Lionsgate.",
+          "During the call, Beggs expressed strong confidence in the project, noting that the studio maintains high expectations for the series. He also highlighted the collaborative nature of the production, emphasizing Stephenie Meyer and her team's active involvement alongside Netflix and Lionsgate."
+        ]
+      },
+      {
+        "h": "Reported Voice Cast and Character Roles",
+        "p": [
+          "While awaiting official confirmation from either Netflix or Lionsgate, industry reports have begun circulating regarding the voice cast for the main characters. According to these reports, Sadie Stanley and Julian Grey are lined up to voice the central duo.",
+          "Sadie Stanley, known for Karate Kid: Legends, is reportedly slated to voice Bella Swan, while Julian Grey of Fear the Walking Dead is expected to voice Edward Cullen. These animated roles follow the iconic portrayals by Kristen Stewart and Robert Pattinson in the live-action films."
+        ]
+      },
+      {
+        "h": "Legacy of the Cinematic Saga",
+        "p": [
+          "The transition to animation comes a decade and a half after the conclusion of the live-action movie adaptations, which wrapped up with Breaking Dawn – Part 2. That film series defined a major era of pop culture and YA adaptations in cinema.",
+          "By bringing Midnight Sun to the small screen as an adult animated series, the franchise opens itself up to both nostalgic longtime fans and a new audience looking for a deeper exploration of the vampire romance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has ordered a two-season adult animated series based on Stephenie Meyer's novel Twilight: Midnight Sun, with Sinead Daly writing and executive producing. Lionsgate Television Group Chairman Kevin Beggs confirmed the green light, noting high expectations and close collaboration with the author and her team."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix granted a two-season adult animated series order for Twilight: Midnight Sun.",
+      "Twilight: Midnight Sun was published in 2020.",
+      "Sinead Daly is writing the adaptation and executive producing.",
+      "Kevin Beggs is the Chairman of Lionsgate Television Group.",
+      "Sadie Stanley and Julian Grey are reported to voice Bella Swan and Edward Cullen."
+    ],
+    "entities": {
+      "people": [
+        "Stephenie Meyer",
+        "Sinead Daly",
+        "Kevin Beggs",
+        "Sadie Stanley",
+        "Julian Grey",
+        "Kristen Stewart",
+        "Robert Pattinson"
+      ],
+      "titles": [
+        "Twilight: Midnight Sun",
+        "Breaking Dawn – Part 2",
+        "Raised By Wolves",
+        "The Walking Dead: World Beyond",
+        "Karate Kid: Legends",
+        "Fear the Walking Dead",
+        "Twilight"
+      ]
+    },
+    "keywords": [
+      "Twilight Midnight Sun Netflix",
+      "Twilight Midnight Sun animated series",
+      "Stephenie Meyer Midnight Sun",
+      "Sinead Daly Twilight"
+    ],
+    "images": [],
+    "published": "Tue, 10 Nov 2026 02:44:09 +0000"
   }
 };
