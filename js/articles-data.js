@@ -106317,5 +106317,434 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 19:10:07 +0530"
+  },
+  "q65r46": {
+    "id": "q65r46",
+    "type": "news",
+    "headline": "Angel Studios Scores Box Office Success With New Period Musical Release",
+    "dek": "Angel Studios secures a much-needed commercial win as its period musical Drummer Boy outperforms previous genre experiments during its opening weekend.",
+    "body": [
+      {
+        "h": "Weekend Box Office Overview",
+        "p": [
+          "The domestic box office top five featured a mix of international hits and surprising domestic performances over the weekend. Japan's Godzilla Minus Zero secured the top position with a record-breaking thirty-two million dollar gross, while India's Ramayana: Rise of a Legend rounded out the list in fifth place. Three homegrown features claimed the intermediate rankings, highlighting various elements of American culture.",
+          "Among the notable titles in the top five was a period musical distributed by Angel Studios, which managed to shatter expectations. This unexpected commercial win provided the studio with a significant boost following several underperforming theatrical releases earlier in the year."
+        ]
+      },
+      {
+        "h": "Angel Studios And Previous Releases",
+        "p": [
+          "Angel Studios has built a strong reputation through faith-based programming, achieving major successes with Sound of Freedom as well as animated projects like The King of Kings and David. Seeking to expand its reach toward mainstream audiences, the studio shifted focus toward star-driven genre features carrying religious undertones.",
+          "However, these earlier mainstream attempts faced commercial struggles. The action-comedy Runner, featuring Alan Ritchson and Owen Wilson, fell short of expectations, and the Western remake Angel and the Badman failed to gain substantial traction upon release."
+        ]
+      },
+      {
+        "h": "Drummer Boy Opening Weekend Performance",
+        "p": [
+          "Reversing the trend of previous experiments, the studio's latest release, Drummer Boy, delivered a solid opening weekend haul. The film brought in nine point four million dollars during its initial three days in domestic theaters.",
+          "The feature was screened across two thousand eight hundred and fifty locations, translating to a per-theater average of three thousand two hundred and sixty-eight dollars. This per-theater average successfully surpassed several holdover releases, including Clayface, Wildwood, and Street Fighter."
+        ]
+      },
+      {
+        "h": "Comparison With Recent Titles",
+        "p": [
+          "Drummer Boy notably outperformed both of Angel Studios' earlier theatrical experiments from the same year. While the action-comedy starring Alan Ritchson generated six point four million dollars in its first weekend, the Western remake starring Zachary Levi pulled in two point one million dollars over its initial three days.",
+          "The stronger opening of Drummer Boy marks a welcome financial recovery for the distributor, proving that historical and musical storytelling can successfully capture audience interest in the current theatrical market."
+        ]
+      },
+      {
+        "h": "Audience Reception And Ratings",
+        "p": [
+          "Viewer reception for Drummer Boy has been exceptionally positive since its theatrical launch. The film currently holds a ninety-four percent audience score on Rotten Tomatoes, indicating strong word-of-mouth approval among moviegoers.",
+          "In contrast, critical reception presented a more mixed perspective, with the feature securing a fifty-five percent critics score on the same platform. Nonetheless, the high audience appreciation has clearly translated into solid ticket sales during the opening frame."
+        ]
+      },
+      {
+        "h": "Cast And Production Details",
+        "p": [
+          "Directed by Ben Smallbone and Joel David Smallbone, Drummer Boy is set against the backdrop of the American Revolutionary War. The narrative centers on a soldier and his brother navigating the conflict.",
+          "The ensemble cast features performances from Lucas Leach, Melora Hardin, Ioan Gruffudd, and co-director Joel David Smallbone. Additional cast members listed in the credits include India Brown as Emmaline, alongside Jeremiah Clem, Benjamin Clem, and Rachel Clem, with the screenplay written by Richard L. Ramsey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Angel Studios secured a strong box office win as its period musical Drummer Boy grossed nine point four million dollars in its opening weekend across two thousand eight hundred and fifty theaters. The film outperformed the studio's earlier genre releases, Runner and Angel and the Badman, while earning a ninety-four percent audience score on Rotten Tomatoes."
+        ]
+      }
+    ],
+    "facts": [
+      "Drummer Boy was released on November 6, 2026.",
+      "Drummer Boy grossed $9.4 million in its opening weekend.",
+      "The film played in 2,850 theaters.",
+      "The per-theater average for Drummer Boy was $3,268.",
+      "Drummer Boy holds a 94% audience score and a 55% critics' score on Rotten Tomatoes.",
+      "Runner generated $6.4 million in its first weekend.",
+      "Angel and the Badman grossed $2.1 million in its first three days.",
+      "Godzilla Minus Zero grossed $32 million on the weekend box-office chart."
+    ],
+    "entities": {
+      "people": [
+        "Rohan Naahar",
+        "Francois Ozon",
+        "David Fincher",
+        "Elizabeth Holmes",
+        "Alan Ritchson",
+        "Owen Wilson",
+        "Ben Smallbone",
+        "Joel David Smallbone",
+        "Lucas Leach",
+        "Melora Hardin",
+        "Ioan Gruffudd",
+        "Richard L. Ramsey",
+        "India Brown",
+        "Emmaline",
+        "Jeremiah Clem",
+        "Benjamin Clem",
+        "Rachel Clem",
+        "Zachary Levi"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Ramayana: Rise of a Legend",
+        "The Cat in the Hat",
+        "You Can See Everything",
+        "Sound of Freedom",
+        "The King of Kings",
+        "David",
+        "Runner",
+        "Angel and the Badman",
+        "Drummer Boy",
+        "Clayface",
+        "Wildwood",
+        "Street Fighter"
+      ]
+    },
+    "keywords": [
+      "Drummer Boy film",
+      "Angel Studios Drummer Boy",
+      "Drummer Boy box office",
+      "Ben Smallbone Drummer Boy"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/drummer-boy-lucas-leach-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Angel Studios Scores Box Office Success With New Period Musical Release",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 12:30:12 GMT"
+  },
+  "1a8lq4z": {
+    "id": "1a8lq4z",
+    "type": "news",
+    "headline": "Karan Johar Speaks Out Against Online Hate Directed at Popular Celebrity Couples",
+    "dek": "Filmmaker Karan Johar has strongly condemned the severe online scrutiny and unsolicited advice targeting actor couples Vijay Deverakonda, Rashmika Mandanna, Ranveer Singh, and Deepika Padukone following their appearances on his talk show.",
+    "body": [
+      {
+        "h": "Defending Celebrity Relationships",
+        "p": [
+          "Renowned filmmaker and chat show host Karan Johar has stepped forward to condemn the intense online trolling directed at several prominent actor couples. His remarks address the severe backlash and unsolicited relationship policing that famous personalities frequently endure on social media platforms.",
+          "The controversy stems from candid personal confessions made by the actors during their respective appearances on the celebrity interview program Koffee With Karan Season 9. Instead of appreciating the openness, internet commentators subjected the stars to heavy criticism and micro-analysis regarding their personal lives."
+        ]
+      },
+      {
+        "h": "Backlash Over Koffee With Karan Appearances",
+        "p": [
+          "During a recent interview with The Hollywood Reporter India, the director specifically addressed the intense discussions surrounding Vijay Deverakonda and Rashmika Mandanna after their joint episode. He acknowledged that public figures naturally attract commentary, but drew a sharp boundary when internet users began prescribing rules for how these individuals should conduct their private relationships.",
+          "Karan questioned the authority assumed by social media users who attempt to dictate personal choices. He sharply criticized the invasive nature of the commentary, asking whether internet critics believed they were acting as legal counsel, relationship therapists, or family members."
+        ]
+      },
+      {
+        "h": "Standing Up For Ranveer and Deepika",
+        "p": [
+          "In addition to supporting Vijay and Rashmika, the 54-year-old director defended Ranveer Singh and Deepika Padukone against harsh online judgments. The criticism arose from transparency the couple demonstrated during the previous season regarding their past dating histories.",
+          "Karan emphasized that the couple merely chose to be completely honest about their lives and expressed disbelief that such sincerity should be met with judgment. He noted that transparency ought to be appreciated rather than penalized, highlighting that the two performers remain deeply in love despite the critical discourse."
+        ]
+      },
+      {
+        "h": "Condemning Family Involvement",
+        "p": [
+          "The filmmaker expressed deep dismay over internet users dragging family members into online debates and digital disputes. He stressed that fans and commentators must recognize and respect personal boundaries instead of weaponizing family dynamics for online engagement.",
+          "He pointed out that modern digital monetization models heavily rely on clickbait culture and continuous micro-analysis. He compared this relentless scrutiny to formal film criticism, though he maintained that analyzing a public persona does not grant anyone the right to dictate a couple's future endgame."
+        ]
+      },
+      {
+        "h": "Reassuring Personal Happiness",
+        "p": [
+          "Concluding his remarks on the matter, Karan offered reassurance regarding the actual state of both relationships. He asserted firmly that both pairs continue to thrive happily in their personal lives away from the noise of social media.",
+          "He reiterated that Vijay and Rashmika form an exceptionally happy couple, just as Ranveer and Deepika share a wonderfully joyful bond, rendering the external online policing completely unfounded and unnecessary."
+        ]
+      },
+      {
+        "h": "Upcoming Show Episodes",
+        "p": [
+          "Meanwhile, the celebrity chat show continues its scheduled run with new guest appearances. Actor couple Sidharth Malhotra and Kiara Advani are set to appear as the next guests on Koffee With Karan Season 9.",
+          "New episodes of the popular talk show premiere weekly on Wednesdays at 7 pm, streaming directly on the digital platform JioHotstar."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Karan Johar has strongly condemned severe online trolling and relationship policing directed at celebrity couples Vijay Deverakonda, Rashmika Mandanna, Ranveer Singh, and Deepika Padukone following their confessions on Koffee With Karan Season 9. Defending their honesty and criticizing the involvement of family members in digital debates, the host emphasized that both pairs are exceptionally happy in their personal lives."
+        ]
+      }
+    ],
+    "facts": [
+      "Karan Johar is 54 years old.",
+      "The remarks were made in an interview with The Hollywood Reporter India on November 10, 2026.",
+      "Sidharth Malhotra and Kiara Advani are scheduled guests on Koffee With Karan Season 9.",
+      "Episodes stream on JioHotstar on Wednesdays at 7 pm."
+    ],
+    "entities": {
+      "people": [
+        "Karan Johar",
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Ranveer Singh",
+        "Deepika Padukone",
+        "Sidharth Malhotra",
+        "Kiara Advani",
+        "Anurag Bohra",
+        "Donald Trump"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Koffee With Karan Season 9",
+        "Rocky Aur Rani Kii Prem Kahaani"
+      ]
+    },
+    "keywords": [
+      "Karan Johar",
+      "Koffee With Karan Season 9",
+      "Vijay Deverakonda Rashmika Mandanna",
+      "Ranveer Singh Deepika Padukone"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/kjo-defends-vijay-rashmika--ranveer-deepika-against-extremely-regressive-trolling-104200235-16x9_0.jpg?VersionId=ABspASBbLnL08tjVHMBxoyP7cG_.A72Q",
+        "caption": "Karan Johar Speaks Out Against Online Hate Directed at Popular Celebrity Couples",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 19:12:40 +0530"
+  },
+  "ra1pvr": {
+    "id": "ra1pvr",
+    "type": "news",
+    "headline": "Overlooked Holiday Gems: Perfect Christmas Movies No One Is Talking About",
+    "dek": "Beyond the traditional holiday mainstays lies a rich cinematic landscape of lesser-discussed Christmas films, spanning gritty film noirs, classic Westerns, and haunting animated adaptations.",
+    "body": [
+      {
+        "h": "The Yuletide Spectrum Beyond the Classics",
+        "p": [
+          "With the arrival of the winter holiday season, audiences traditionally gravitate toward familiar cinematic mainstays ranging from It's a Wonderful Life to Die Hard. These seasonal favorites evoke a wide emotional spectrum, from warm and comforting feelings to darker, more cynical moods.",
+          "However, a significant collection of equally exceptional holiday films exists outside the mainstream conversation. These overlooked selections offer a diverse mix of tones, catering to every type of viewer regardless of their holiday disposition."
+        ]
+      },
+      {
+        "h": "Western Frontiers in 3 Godfathers",
+        "p": [
+          "The Western genre rarely embraces traditional holiday warmth, typically favoring dusty or frigid settings over festive cheer. Despite this convention, director John Ford and star John Wayne utilized the Christmas season for their biblically inspired feature 3 Godfathers.",
+          "Based on a short story by Peter B. Kyne that received multiple prior adaptations, the narrative reimagines the tale of the Three Wise Men within the American Old West. Three outlaws on the run encounter a dying woman who gives birth, extracting a promise from the men to care for the infant."
+        ]
+      },
+      {
+        "h": "Escape and Redemption in We're No Angels",
+        "p": [
+          "Continuing the theme of criminal trios during the holidays, We're No Angels delivers a darkly comical story of redemption and goodwill. The film marked the final collaboration between director Michael Curtiz and lead actor Humphrey Bogart.",
+          "Co-starring Peter Ustinov and Aldo Ray, the narrative follows three escaped convicts from Devil's Island who seek refuge in a French Guiana colonial town. As they execute their getaway plans, the locals gradually soften the hardened criminals' hearts."
+        ]
+      },
+      {
+        "h": "Gritty Noir in Blast of Silence",
+        "p": [
+          "Shifting away from heartwarming narratives, Blast of Silence approaches the season through a cynical film noir lens. Directed by and starring Allen Baron, the low-budget production was filmed on location in New York City.",
+          "The story follows a mob hitman named Frankie who returns home for the holidays to execute a contract. Encounters with past acquaintances stir up internal conflicts, utilizing the juxtaposition of bright holiday lights and dark shadows to create a bleak seasonal thriller."
+        ]
+      },
+      {
+        "h": "Haunting Animation in A Christmas Carol",
+        "p": [
+          "Charles Dickens' classic tale has inspired numerous cinematic adaptations, yet Richard Williams' Academy Award-winning animated short film remains underappreciated. The 25-minute production features Alistair Sim and Michael Hordern reprising their respective roles as Scrooge and Marley.",
+          "Utilizing hand-drawn animation inspired by 19th-century illustrations, the short film captures the darkness and danger inherent in the original ghost story. Director Richard Williams is widely recognized for his work as the animation director on Who Framed Roger Rabbit."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A selection of lesser-discussed holiday films offers alternative viewing options for the winter season, spanning Westerns, dark comedies, noir thrillers, and animated adaptations. These overlooked titles feature notable collaborations involving filmmakers and actors such as John Ford, John Wayne, Humphrey Bogart, and Richard Williams."
+        ]
+      }
+    ],
+    "facts": [
+      "3 Godfathers was released in 1948 and directed by John Ford.",
+      "We're No Angels was released in 1955 and directed by Michael Curtiz.",
+      "Blast of Silence was released in 1961 and directed by Allen Baron.",
+      "Richard Williams directed the 1971 animated short film adaptation of A Christmas Carol."
+    ],
+    "entities": {
+      "people": [
+        "William Smith",
+        "Pedro Armendariz",
+        "John Wayne",
+        "Harry Carey Jr.",
+        "John Ford",
+        "Peter B. Kyne",
+        "Michael Curtiz",
+        "Humphrey Bogart",
+        "Peter Ustinov",
+        "Aldo Ray",
+        "Allen Baron",
+        "Charles Dickens",
+        "Alistair Sim",
+        "George C. Scott",
+        "Richard Williams",
+        "Michael Hordern",
+        "Tom Hooper",
+        "Anne Hathaway",
+        "Jonathan Larson"
+      ],
+      "titles": [
+        "It's a Wonderful Life",
+        "Die Hard",
+        "3 Godfathers",
+        "The Three Godfathers",
+        "We're No Angels",
+        "Blast of Silence",
+        "A Christmas Carol",
+        "Who Framed Roger Rabbit",
+        "Hamilton",
+        "Wicked",
+        "Les Misérables",
+        "Rent",
+        "Wicked: For Good",
+        "tick, tick… BOOM!"
+      ]
+    },
+    "keywords": [
+      "3 Godfathers 1948",
+      "We're No Angels 1955",
+      "Blast of Silence film",
+      "A Christmas Carol 1971 Richard Williams"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/11/klaus-netflix.jpg?w=1200&amp;h=675&amp;fit=crop",
+        "caption": "Overlooked Holiday Gems: Perfect Christmas Movies No One Is Talking About",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 12:52:12 GMT"
+  },
+  "2qfjtq": {
+    "id": "2qfjtq",
+    "type": "news",
+    "headline": "Yash Shares Goofy Behind-The-Scenes Photo In Ravana Costume To Celebrate Deepavali And 'Ramayana: Rise of a Legend' Success",
+    "dek": "Actor Yash marked Deepavali by sharing a playful family post and thanking fans for the overwhelming response to Nitesh Tiwari's 'Ramayana: Rise of a Legend', in which he portrays Ravana.",
+    "body": [
+      {
+        "h": "Celebrating Deepavali With Fans",
+        "p": [
+          "Actor Yash took to social media to share a festive greeting with his supporters, wishing everyone a very happy Deepavali. Alongside his holiday message, he expressed his sincere gratitude for the tremendous affection shown toward his latest cinematic venture.",
+          "The post served as a direct acknowledgment of the audience's warm reception, providing a personal touch from the star during the festive season."
+        ]
+      },
+      {
+        "h": "A Playful Behind-The-Scenes Look",
+        "p": [
+          "The shared update included a lighthearted behind-the-scenes photograph taken on the sets of 'Ramayana: Rise of a Legend'. In the image, Yash is seen wearing the tattered outfit of his character before becoming the king of Lanka, striking an intense pose.",
+          "Adding a humorous element to the post, his children can be seen playfully mimicking their father's stern facial expressions and posture, delighting followers online."
+        ]
+      },
+      {
+        "h": "A Return To Personal Sharing",
+        "p": [
+          "This update marks a notable return to personal social media sharing for the actor, who had maintained a distance from public platforms following the lukewarm response to his Kannada film 'Toxic' in August.",
+          "Prior to this Deepavali post, his online activity had been strictly limited to promotional material for his role in the mythological epic, making this family-oriented share a welcome change for supporters."
+        ]
+      },
+      {
+        "h": "Box Office Milestone And Global Reach",
+        "p": [
+          "According to data from the trade website Sacnilk, 'Ramayana: Rise of a Legend' has performed strongly since its theatrical release on November 5, coinciding with the Diwali festival period.",
+          "The mythological drama achieved a worldwide gross collection of Rs 673.90 crore within its first five days in cinemas, picking up significant momentum after a mixed initial critical response."
+        ]
+      },
+      {
+        "h": "Plot And Epic Narrative",
+        "p": [
+          "Directed by Nitesh Tiwari and co-written with Shridhar Raghavan, the film is rooted in Valmiki's epic narrative. It charts Ravana's rise as the king of Lanka alongside the journey of Rama as the prospective king of Ayodhya.",
+          "The storyline covers key early events including Rama and Sita's wedding, her decision to join him on a 14-year vanavas, and the subsequent abduction by Ravana that sets up the conflict for the continuation."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Crew",
+        "p": [
+          "The large-scale production features Ranbir Kapoor in the role of Rama, Sai Pallavi as Sita, and Ravi Dubey portraying Lakshmana. Yash plays the antagonist Ravana while also serving as a co-producer alongside Namit Malhotra.",
+          "Additional voice and future cast contributions include Anupam Kher as the voice of Jatayu, with Sunny Deol slated to appear as Hanuman in the upcoming Part 2, scheduled for a Diwali 2028 release."
+        ]
+      },
+      {
+        "h": "Industry Reactions And Support",
+        "p": [
+          "The actor's festive post drew warm reactions from numerous industry colleagues, including director Nitesh Tiwari and 'Toxic' co-star Akshay Oberoi, who left heart emojis in the comment section.",
+          "Other prominent figures such as Nayanthara, Sobhita Dhulipala, Bhumi Pednekar, and Dulquer Salmaan also liked the update, signaling strong peer support for Yash following his recent professional hurdles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Yash celebrated Deepavali by posting a playful behind-the-scenes photo in his Ravana costume alongside his children, thanking fans for supporting 'Ramayana: Rise of a Legend'. The Nitesh Tiwari directorial has grossed Rs 673.90 crore globally in five days while receiving enthusiastic industry and audience engagement."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend released in theatres on 5 November",
+      "Yash plays Ravana and works as a co-producer",
+      "Toxic released in August",
+      "Ramayana grossed Rs 673.90 crore worldwide in five days",
+      "Part 2 is due in Diwali 2028"
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Radhika Pandit",
+        "Arya",
+        "Yatharv",
+        "Nitesh Tiwari",
+        "Akshay Oberoi",
+        "Nayanthara",
+        "Sobhita Dhulipala",
+        "Bhumi Pednekar",
+        "Dulquer Salmaan",
+        "Shridhar Raghavan",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Anupam Kher",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Toxic",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Yash Ravana costume",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135711196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Yash Shares Goofy Behind-The-Scenes Photo In Ravana Costume To Celebrate Deepavali And 'Ramayana: Rise of a Legend' Succ",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T18:10:12+05:30"
   }
 };
