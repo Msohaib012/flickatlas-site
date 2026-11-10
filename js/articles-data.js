@@ -102689,5 +102689,420 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Tue, 10 Nov 2026 02:44:09 +0000"
+  },
+  "b4eh0e": {
+    "id": "b4eh0e",
+    "type": "news",
+    "headline": "Yash Wore Heavy Costumes and a 1.8 kg Crown for His Role as Ravana in Ramayana",
+    "dek": "Costume designer Saniya Sardhariya has revealed that actor Yash wore elaborate outfits weighing up to 33 kg for Nitesh Tiwari's upcoming mythological epic Ramayana.",
+    "body": [
+      {
+        "h": "Elaborate Wardrobe for a Mythological Epic",
+        "p": [
+          "Bringing a grand mythological epic to the silver screen demands extraordinary attention to detail, particularly regarding the garments worn by central characters. For Nitesh Tiwari's cinematic adaptation of the Ramayana, creating the distinctive visual identity of Ravana required extensive craftsmanship and physical endurance from the lead actor.",
+          "Costume stylist and designer Saniya Sardhariya recently shed light on the intense physical requirements of outfitting Yash for his portrayal of Ravana, noting that the wardrobe played a fundamental role in establishing the character's formidable presence onscreen."
+        ]
+      },
+      {
+        "h": "Costume Weights Ranging Up to 33 Kilograms",
+        "p": [
+          "According to the designer, the standard outfits fashioned for Yash generally tipped the scales between 16 and 20 kilograms, which already included the weight of associated jewelry. However, specific sequences called for significantly more elaborate and heavy attire.",
+          "Particularly demanding ensembles, such as the look associated with Lanka, the character's wedding attire, and the outfit worn during Surpanakha's wedding, reached staggering weights close to 30 to 33 kilograms."
+        ]
+      },
+      {
+        "h": "The Challenge of Crafting the Crown",
+        "p": [
+          "Among all wardrobe elements, designing Ravana's crown proved to be the most formidable hurdle for the creative team. Because balancing weight on the head creates immediate physical restriction, the department experimented extensively with various mock 3D prototypes.",
+          "After careful planning and reverse-engineering designs to reduce excess mass, the team achieved a final crown weight of 1.8 kilograms, which remained a heavy burden for the actor despite exhaustive attempts to make it even lighter."
+        ]
+      },
+      {
+        "h": "Actor's Physical Endurance and Humor",
+        "p": [
+          "Carrying heavy garments for extended shooting hours naturally restricted Yash's mobility and proved physically draining. Despite the immense discomfort, the actor maintained a positive attitude throughout the filming process.",
+          "Rather than letting the exhaustion dampen the atmosphere, Yash playfully teased the crew about the sharp elements embedded in his heavy attire, turning the wardrobe challenges into a source of amusement on set."
+        ]
+      },
+      {
+        "h": "Overview of the Film Production",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana boasts a star-studded cast featuring Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman. The project is backed by producer Namit Malhotra.",
+          "The musical landscape for the film is being shaped by acclaimed composers AR Rahman and Hans Zimmer, with the first installment slated for a theatrical release during Diwali 2026 and the second part expected in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Costume designer Saniya Sardhariya revealed that actor Yash wore heavy outfits weighing between 16 and 33 kg, alongside a 1.8 kg crown, for his role as Ravana in Nitesh Tiwari's Ramayana. Despite the physical strain and restricted movement caused by the elaborate garments, the actor maintained his spirits on set while preparing for the film's scheduled Diwali 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash played the role of Ravana in Ramayana",
+      "Costumes weighed between 16 and 20 kg normally, and up to 33 kg for specific scenes",
+      "The crown worn by Yash weighed 1.8 kg",
+      "Nitesh Tiwari is the director of Ramayana",
+      "Ranbir Kapoor plays Lord Rama",
+      "Sai Pallavi plays Sita",
+      "Ravie Dubey plays Lakshman",
+      "Namit Malhotra is the producer",
+      "AR Rahman and Hans Zimmer are the music directors",
+      "The first part of the film is scheduled for a Diwali 2026 release",
+      "The second part of the film is expected in 2028",
+      "Saniya Sardhariya is the costume designer"
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Saniya Sardhariya",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Namit Malhotra",
+        "AR Rahman",
+        "Hans Zimmer",
+        "Vibha Maru",
+        "Surpanakha"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana costume",
+      "Ravana costume weight Ramayana",
+      "Saniya Sardhariya Ramayana",
+      "Ramayana release date 2026"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Yash_1794285767948_16QP_1794285768064_Eazo_8da3bd03-2eac-43fd-9440-e321a231e8e5_PYsQ.png",
+        "caption": "Yash Wore Heavy Costumes and a 1.8 kg Crown for His Role as Ravana in Ramayana",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 10:29:40 +0530"
+  },
+  "15f9mrb": {
+    "id": "15f9mrb",
+    "type": "news",
+    "headline": "Christopher Nolan's The Odyssey Officially Confirms Digital and Physical Media Release Date",
+    "dek": "Christopher Nolan's blockbuster hit The Odyssey has officially locked in its digital and physical home release date following a historic theatrical run.",
+    "body": [
+      {
+        "h": "Digital and Physical Home Release Confirmed",
+        "p": [
+          "The epic cinematic adaptation directed by Christopher Nolan has officially locked in its upcoming home release details. The project is confirmed to launch digitally and on physical media formats on November 17, with pre-orders currently open across Amazon and various participating platforms.",
+          "While prior reports hinted at this exact schedule, the timeline has now received official validation amid additional announcements regarding its upcoming theatrical return."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Re-Release",
+        "p": [
+          "In tandem with the home entertainment announcement, the blockbuster is scheduled to return to movie theaters on December 11. The feature will screen across 1,000 screens, providing audiences with another opportunity to experience the epic in premium formats such as IMAX and IMAX 70mm.",
+          "The theatrical run has already enjoyed prolonged success, having been extended multiple times since its initial July 17 premiere due to overwhelming audience demand and strong ticket sales."
+        ]
+      },
+      {
+        "h": "Historic Box Office Milestones",
+        "p": [
+          "The feature has achieved massive financial success, pulling in a worldwide total of $1.8 billion to rank as one of the highest-grossing films of 2026, sitting just behind Spider-Man: Brand New Day at $2.5 billion.",
+          "Additionally, it has captured the crown as the highest-grossing IMAX movie of all time, set a new worldwide record for Universal by surpassing Jurassic World and its $1.67 billion haul, and established itself as the highest-grossing R-rated movie ever."
+        ]
+      },
+      {
+        "h": "Critical Reception and Scores",
+        "p": [
+          "Critical response has been exceptionally positive since its theatrical debut. It holds a Certified Fresh rating of 94% on Rotten Tomatoes based on 515 critic reviews.",
+          "Audience reception has been equally strong, securing a Verified Hot score of 96% from a pool exceeding 25,000 verified ratings, alongside praise describing it as one of the most remarkable accomplishments of the filmmaker's career."
+        ]
+      },
+      {
+        "h": "Adaptation and Cast",
+        "p": [
+          "Based closely on the classical text by Homer, the narrative follows Odysseus as he attempts to return home to his family following the Trojan War. The ensemble features Matt Damon as Odysseus, Anne Hathaway as Penelope, and Tom Holland as Telemachus.",
+          "The extensive supporting lineup features Robert Pattinson, John Leguizamo, Charlize Theron, Samantha Morton, Zendaya, Himesh Patel, Elliot Page, Lupita Nyong'o, Jon Bernthal, and Benny Safie."
+        ]
+      },
+      {
+        "h": "Early Awards Season Buzz",
+        "p": [
+          "With the home entertainment launch arriving just ahead of the upcoming voting period, the production is generating substantial awards chatter. Matt Damon is widely viewed as a frontrunner to secure a Best Actor nomination at the 2027 Oscars.",
+          "Additional anticipated nominations include categories such as Best Picture, Best Director for Christopher Nolan, Best Supporting Actor nods, Best Adapted Screenplay, Best Original Score by Ludwig Göransson, and Best Cinematography by Hoyte van Hoytema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Christopher Nolan's The Odyssey has officially confirmed its digital and physical release for November 17, alongside a planned return to select theaters on December 11. The adaptation has achieved historic financial milestones, including $1.8 billion worldwide and top IMAX records, while drawing widespread critical acclaim and early Academy Awards buzz.",
+          "A streaming date on Peacock has not yet been formally established."
+        ]
+      }
+    ],
+    "facts": [
+      "Christopher Nolan's The Odyssey has grossed $1.8 billion worldwide.",
+      "Spider-Man: Brand New Day earned $2.5 billion worldwide.",
+      "The digital and physical media release date is November 17.",
+      "The movie returns to 1,000 theater screens on December 11.",
+      "The initial theatrical release date was July 17.",
+      "Jurassic World earned $1.67 billion.",
+      "The Rotten Tomatoes critics score is 94% from 515 reviews.",
+      "The Rotten Tomatoes audience score is 96% from over 25,000 verified ratings.",
+      "Matt Damon stars as Odysseus, Anne Hathaway as Penelope, and Tom Holland as Telemachus."
+    ],
+    "entities": {
+      "people": [
+        "Christopher Nolan",
+        "Matthew Rudoy",
+        "Alex Harrison",
+        "Homer",
+        "Matt Damon",
+        "Anne Hathaway",
+        "Tom Holland",
+        "Robert Pattinson",
+        "John Leguizamo",
+        "Charlize Theron",
+        "Samantha Morton",
+        "Zendaya",
+        "Himesh Patel",
+        "Elliot Page",
+        "Lupita Nyong'o",
+        "Jon Bernthal",
+        "Benny Safie",
+        "Ludwig Göransson",
+        "Hoyte van Hoytema",
+        "Emma Thomas"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Star Wars",
+        "The Boys",
+        "Game of Thrones",
+        "Spider-Man: Brand New Day",
+        "Jurassic World",
+        "The Dark Knight"
+      ]
+    },
+    "keywords": [
+      "The Odyssey digital release date",
+      "Christopher Nolan The Odyssey box office",
+      "The Odyssey streaming Peacock",
+      "Matt Damon The Odyssey 2027 Oscars"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/matt-damon-as-odysseus-holding-a-bow-and-running-in-the-odyssey.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Christopher Nolan's The Odyssey Officially Confirms Digital and Physical Media Release Date",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 04:06:12 GMT"
+  },
+  "zl75s1": {
+    "id": "zl75s1",
+    "type": "news",
+    "headline": "Mike Flanagan's Prime Video Series Carrie Reworks Stephen King's Novel With Major Twists",
+    "dek": "Exploring the notable differences between Stephen King's 1974 novel and Mike Flanagan's 2026 Prime Video series adaptation of Carrie, featuring expanded supernatural elements and an open ending.",
+    "body": [
+      {
+        "h": "Introduction to the 2026 Prime Video Adaptation",
+        "p": [
+          "The Prime Video series Carrie, released in 2026 and spearheaded by creator Mike Flanagan, has emerged as one of the most talked-about adaptations of Stephen King's work. While it faithfully revisits the core narrative of Carrie White and her devastating prom night, the show introduces several significant departures from the 1974 novel.",
+          "Blending classic horror elements with modern storytelling choices, the series manages to retain faithful nods to the source material while subverting expectations through an expanded cast and updated timelines."
+        ]
+      },
+      {
+        "h": "Childhood Upbringing and School Life",
+        "p": [
+          "One of the most prominent structural departures in the Prime Video adaptation involves Carrie's early education and upbringing. In Stephen King's original text, Carrie attends public school throughout her life, enduring constant bullying that molds her into a socially awkward and deeply resentful teenager.",
+          "Conversely, the television series establishes that she was homeschooled until her father tragically passed away in an accident. This background leaves her less experienced with the outside world yet more eager to form connections, highlighted by a rewritten dynamic with her neighbor Stella where book exchanges replace awkward conversations about anatomy."
+        ]
+      },
+      {
+        "h": "Modern Bullying and Digital Harassment",
+        "p": [
+          "The adaptation also shifts the nature of teenage cruelty to fit a contemporary setting. While the 1979-set novel features harassment primarily driven directly by characters like Chris, the series incorporates modern social media into the bullying narrative.",
+          "In this updated version, Chris utilizes an anonymous meme account to target Carrie alongside other students, demonstrating how digital environments amplify teenage isolation and cruelty."
+        ]
+      },
+      {
+        "h": "Expansion of Supernatural Powers",
+        "p": [
+          "Stephen King's novel briefly references the TK gene—a scientifically documented hereditary trait causing telekinesis that manifests exclusively in women, which Carrie likely inherited from her grandmother. However, Mike Flanagan expands this concept extensively in the television project.",
+          "Rather than possessing powers in isolation, Carrie's mother Margaret White also displays supernatural abilities in the series. Furthermore, the narrative introduces characters like Adelaide, Caitlin who can read minds, and Emaline who serves as an astral projector, allowing Carrie to receive assistance during the infamous prom destruction."
+        ]
+      },
+      {
+        "h": "Narrative Style and Found-Footage Elements",
+        "p": [
+          "To honor the literary roots of the property, the series integrates the documentary-style framing utilized in Stephen King's writings. Viewers are immediately introduced to the unfolding tragedy through realistic emergency 9-1-1 calls and survivor interviews.",
+          "This stylistic choice grounds the supernatural chaos in a pseudo-factual framework, echoing the investigative tone of the original novel and heightening the tension before the narrative unfolds."
+        ]
+      },
+      {
+        "h": "A Shifted Conclusion and Potential Future",
+        "p": [
+          "Perhaps the most radical departure from the source material lies in the resolution of the story. While the original book and prior film versions conclude with Carrie's tragic and definitive demise, the Prime Video series opts for an open-ended finale.",
+          "By leaving her ultimate fate unresolved, the adaptation opens the door for a potential second season, charting uncharted territory for the iconic horror character."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mike Flanagan's 2026 Prime Video series adaptation of Carrie introduces significant alterations to Stephen King's 1974 novel, ranging from a homeschooled upbringing and digital bullying to an expanded supernatural circle and an open ending. The television project reinterprets classic horror lore while setting up the possibility of a second season."
+        ]
+      }
+    ],
+    "facts": [
+      "Mike Flanagan created the Prime Video series Carrie, released in 2026.",
+      "Stephen King's original novel was published in 1974 and set in 1979 in the book's context.",
+      "The series introduces a homeschooled background for Carrie following her father's death.",
+      "New characters with supernatural abilities in the series include Adelaide, Caitlin, and Emaline."
+    ],
+    "entities": {
+      "people": [
+        "Mike Flanagan",
+        "Stephen King",
+        "Carrie White",
+        "Margaret White",
+        "Stella",
+        "Chris",
+        "Adelaide",
+        "Caitlin",
+        "Emaline"
+      ],
+      "titles": [
+        "Carrie"
+      ]
+    },
+    "keywords": [
+      "Carrie Prime Video series",
+      "Mike Flanagan Carrie",
+      "Carrie Stephen King book changes",
+      "Carrie TV show 2026"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-biggest-changes-mike-flanagans-prime-video-series-carrie-makes-to-stephen-kings-book.jpg",
+        "caption": "Mike Flanagan's Prime Video Series Carrie Reworks Stephen King's Novel With Major Twists",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 04:34:55 +0000"
+  },
+  "1oaf2gg": {
+    "id": "1oaf2gg",
+    "type": "news",
+    "headline": "VisionQuest Finale Set for Disney Plus Release With High Anticipation and Surprises",
+    "dek": "Marvel concludes its WandaVision trilogy with the eighth episode of VisionQuest, promising a final surprise, a post-credits tease, and global streaming access.",
+    "body": [
+      {
+        "h": "Release Details and Schedule",
+        "p": [
+          "The eighth and final episode of the Marvel series VisionQuest, titled Forever, is scheduled to launch on Disney+ on Tuesday, November 10, 2026. US audiences can tune in at 6 PM PT or 9 PM ET. International viewers across various global markets will see the episode land on Wednesday, November 11, due to regional time zone differences.",
+          "The show originally planned for an October 14, 2026 Wednesday premiere before Marvel shifted the launch one day earlier to October 13. The episodic rollout featured paired releases for the first six weeks, followed by a solo seventh episode to pave the way for this definitive conclusion."
+        ]
+      },
+      {
+        "h": "The Mysterious Final Teaser",
+        "p": [
+          "A promotional 30-second trailer from Marvel Studios hinted at an undisclosed final surprise within the closing chapter. The footage highlights character Tommy Maximoff stepping into a candlelit room surrounded by runes and reacting to an off-screen individual.",
+          "Fans quickly speculated that the unseen person is Billy Maximoff, setting up a potential family reunion. While the studio caption teased a final surprise, executives have kept official plot details tightly under wraps."
+        ]
+      },
+      {
+        "h": "Character Returns and Cast Dynamics",
+        "p": [
+          "Reports indicate that Joe Locke will reprise his role as Billy Maximoff to share the screen with Ruaridh Mollica, who plays Tommy. The brothers have not appeared together since the events of WandaVision, making this anticipated reunion a central talking point.",
+          "Paul Bettany returns as the titular character, alongside performances by James Spader as Ultron and a mysterious Client. The ensemble cast also features T’Nia Miller as Jocasta, Orla Brady as F.R.I.D.A.Y., and Emily Hampshire as E.D.I.T.H."
+        ]
+      },
+      {
+        "h": "The Post-Credits Scene Speculation",
+        "p": [
+          "Keeping with the structure of previous installments, the first seven episodes of the season omitted end-credit sequences. However, the finale includes a single mid-credits scene designed to leave a lasting impression.",
+          "Speculation strongly links this final scene to the upcoming theatrical release of Avengers: Doomsday on December 18, 2026. Easter eggs throughout the season, including a Countdown to Doom label in Ultron's room, have fueled fan theories regarding Doctor Doom."
+        ]
+      },
+      {
+        "h": "Recap of the Penultimate Episode",
+        "p": [
+          "The seventh episode, titled Immolation, delivered several crucial plot developments before the finale. Vision journeyed into his subconscious mind, accepting his memories and confirming his identity across the Avengers films, the Hex, and White Vision.",
+          "In the same episode, Ultron pushed F.R.I.D.A.Y. off a balcony, leaving her immediate status uncertain. The installment also unmasked Paladin's client as an unnamed character voiced by James Spader."
+        ]
+      },
+      {
+        "h": "Global Viewing and Companion Podcast",
+        "p": [
+          "Viewers require an active Disney+ subscription to watch the finale as it streams exclusively on the platform. The release timing varies from evening hours in the United States to early morning hours across the United Kingdom, India, and Australia.",
+          "To accompany the release, an official companion podcast launches on November 10, hosted by Iman Vellani and Frank Alvarez. The audio program features guest appearances by Paul Bettany, James Spader, Ruaridh Mollica, and showrunner Terry Matalas."
+        ]
+      },
+      {
+        "h": "Audience Reception and Early Buzz",
+        "p": [
+          "Early viewer responses on social media platforms like X have been overwhelmingly positive. Fans praised the production as a trippy and near-perfect conclusion to the overarching trilogy.",
+          "Discussion boards and fan communities continue to dissect every frame of the promotional trailers in anticipation of answers regarding Billy, Wanda, and the broader MCU connections."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final episode of VisionQuest titled Forever arrives on Disney+ on November 10, 2026, bringing the WandaVision trilogy to a close. The episode features anticipated character returns, a teased mid-credits scene tied to future MCU projects, and answers regarding the fates of key figures in the story."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest finale Forever releases on Disney+ on November 10, 2026.",
+      "The US release time for the finale is 6 PM PT / 9 PM ET.",
+      "Avengers: Doomsday arrives in theaters on December 18, 2026.",
+      "James Spader voices Ultron and portrays the mysterious Client.",
+      "Paul Bettany plays Vision, Phineas Horton, and J.I.M."
+    ],
+    "entities": {
+      "people": [
+        "Sougata Nandi",
+        "Tommy Maximoff",
+        "Billy Maximoff",
+        "Joe Locke",
+        "Ruaridh Mollica",
+        "Terry Matalas",
+        "Paul Bettany",
+        "James Spader",
+        "T’Nia Miller",
+        "Orla Brady",
+        "Emily Hampshire",
+        "Phineas Horton",
+        "Iman Vellani",
+        "Frank Alvarez",
+        "Wanda Maximoff"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "Agatha All Along",
+        "Avengers: Doomsday",
+        "Avengers: Age of Ultron",
+        "Forever",
+        "Immolation"
+      ]
+    },
+    "keywords": [
+      "VisionQuest finale",
+      "Paul Bettany VisionQuest",
+      "Joe Locke Billy Maximoff",
+      "VisionQuest Disney Plus release",
+      "James Spader Ultron"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-09T161745.071.webp",
+        "caption": "VisionQuest Finale Set for Disney Plus Release With High Anticipation and Surprises",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 04:51:46 +0000"
   }
 };
