@@ -105470,5 +105470,369 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 10:23:39 GMT"
+  },
+  "1mo2439": {
+    "id": "1mo2439",
+    "type": "news",
+    "headline": "Diljit Dosanjh's Mumbai Concert Security Details Revealed Following Bomb Threat",
+    "dek": "Organisers confirm that smartphones will not be prohibited at Diljit Dosanjh's upcoming Mumbai event, though safety measures and entry checks are being substantially enhanced after a security alert.",
+    "body": [
+      {
+        "h": "Concert Phone Policy Clarified",
+        "p": [
+          "As anticipation builds for Diljit Dosanjh's upcoming live performance in Mumbai, recent concerns regarding whether mobile devices would be permitted at the venue have been addressed. Organisers have confirmed that smartphones and personal phones will not be banned from the event.",
+          "Rather than enforcing a phone-free environment, event planners are focusing on implementing rigorous device screenings. Fans planning to attend can bring their phones along, but they should anticipate more detailed physical checks upon arrival."
+        ]
+      },
+      {
+        "h": "Origin of the Security Alert",
+        "p": [
+          "The heightened security measures come in the wake of a bomb threat received ahead of the concert. Multiple emails were reportedly sent to Mumbai Mayor Ritu Tawde, pointing to the singer's scheduled performance as a potential target.",
+          "In response to the electronic warnings, law enforcement agencies swiftly conducted thorough inspections across the concert grounds at the Mahalaxmi Racecourse. Although initial sweeps did not uncover any suspicious items, officials have maintained a state of high alert."
+        ]
+      },
+      {
+        "h": "Expanded Entry Points and Venue Checks",
+        "p": [
+          "To handle the crowds safely and efficiently on November 27, event management is expanding the infrastructure for public entry. Instead of the typical three access points, security checks will now be distributed across five distinct entry gates.",
+          "Additionally, the entire concert venue is scheduled to undergo a comprehensive security sweep on the day prior to the performance. This ensures that every corner of the Mahalaxmi Racecourse is thoroughly verified well before the audience arrives."
+        ]
+      },
+      {
+        "h": "Crowd Control and Traffic Restrictions",
+        "p": [
+          "Law enforcement and organisers are taking operational cues from the successful security protocols implemented during the singer's previous concert in Delhi-NCR on October 30. Between 1,500 and 2,000 private security personnel are slated for deployment to manage entry queues, assist at help kiosks, and direct pedestrian flow.",
+          "Traffic management plans also include the establishment of a dedicated no-car zone spanning 500 to 700 metres around the venue. Vehicular restrictions will be strictly enforced to keep the immediate perimeter clear and secure."
+        ]
+      },
+      {
+        "h": "Personal Protection for the Artist",
+        "p": [
+          "Alongside general venue security, direct protection for Diljit Dosanjh has been significantly reinforced. Plainclothes police officers will be stationed in his immediate vicinity throughout his time in the city.",
+          "Furthermore, hotel security has been amplified, and event organisers have issued strict instructions withholding any information regarding his exact travel times, flight arrivals, or accommodation details from the public and paparazzi."
+        ]
+      },
+      {
+        "h": "RuPay Aura India Tour 2026 Context",
+        "p": [
+          "The Mumbai event forms a major stop on the artist's ongoing multi-city concert series across the country. The comprehensive schedule encompasses performances spanning six different metropolitan locations.",
+          "The nationwide tour commenced in Delhi-NCR on October 30, followed by subsequent stops in Indore on November 15 and Ahmedabad on November 21. Following the Mumbai performance on November 27, the tour will proceed to Bengaluru on November 29 and conclude its run in Lucknow on December 5."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Organisers have confirmed that phones will remain permitted at Diljit Dosanjh's Mumbai concert on November 27, though security has been tightened following a bomb threat sent to Mumbai Mayor Ritu Tawde. Authorities have planned expanded entry gates, extensive private security deployment, and strict traffic restrictions while keeping the artist's schedule confidential."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh's Mumbai concert is scheduled for November 27, 2026.",
+      "Mumbai Mayor Ritu Tawde reportedly received several emails identifying the concert as a potential target.",
+      "Police conducted checks at the Mahalaxmi Racecourse and found nothing suspicious.",
+      "Security checks will take place at five entry gates instead of three.",
+      "Between 1,500 and 2,000 private security personnel are expected to be deployed.",
+      "A 500 to 700-metre no-car zone will be created with traffic restrictions.",
+      "The tour started with Delhi-NCR on October 30.",
+      "Other tour dates include Indore on November 15, Ahmedabad on November 21, Mumbai on November 27, Bengaluru on November 29, and Lucknow on December 5."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Ritu Tawde",
+        "Fenil Seta"
+      ],
+      "titles": [
+        "RuPay Aura India Tour 2026"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Mumbai concert",
+      "RuPay Aura India Tour 2026",
+      "Diljit Dosanjh concert security arrangements",
+      "Diljit Dosanjh bomb threat"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/09125001/image-34.jpeg",
+        "caption": "Diljit Dosanjh's Mumbai Concert Security Details Revealed Following Bomb Threat",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-10T12:52:12Z"
+  },
+  "1cxk2oi": {
+    "id": "1cxk2oi",
+    "type": "news",
+    "headline": "RESCENE Breaks Previous First-Week Sales Record Exponentially With PULSE",
+    "dek": "K-pop girl group RESCENE achieves a massive career milestone, multiplying their previous first-week sales record nearly six times over with their latest mini album.",
+    "body": [
+      {
+        "h": "Introduction to the Milestone",
+        "p": [
+          "The popular K-pop music group RESCENE has achieved a massive milestone in their career by dramatically surpassing their previous sales figures with their newest musical project. The group recently launched their fourth mini album, capturing the attention of music lovers worldwide.",
+          "This latest comeback has immediately resonated with their dedicated fan base, translating into unprecedented commercial momentum right out of the gate and setting a new benchmark for the talented ensemble."
+        ]
+      },
+      {
+        "h": "Understanding the Album PULSE",
+        "p": [
+          "The newly released mini album, titled PULSE, marks the fourth major mini album release in the group's discography. Fans and industry watchers had high expectations following their previous successful eras.",
+          "PULSE quickly proved to be a dominant force on the charts, fueled by strong anticipation and a rapid surge in physical purchases from supporters eager to collect the latest physical editions."
+        ]
+      },
+      {
+        "h": "Breaking Down the Hanteo Chart Data",
+        "p": [
+          "According to official data provided by the Hanteo Chart, RESCENE moved an impressive total of 602,688 copies of PULSE throughout its initial week on shelves. The tracking period for this monumental achievement spanned from November 3 to November 9.",
+          "This extraordinary figure cements the project as the most commercially successful first-week release the group has ever put out, blowing past their historical performance metrics."
+        ]
+      },
+      {
+        "h": "Explosive First-Day Launch",
+        "p": [
+          "The momentum for PULSE began immediately on day one, when the mini album racked up a staggering 131,893 copies sold within the first twenty-four hours alone. That single-day total was already higher than the entire first-week tally of their past work.",
+          "Such an aggressive opening day set a formidable pace, signaling to the wider industry that RESCENE's fan base had expanded exponentially since their last musical drop."
+        ]
+      },
+      {
+        "h": "Surpassing Past Records",
+        "p": [
+          "Before the arrival of PULSE, RESCENE held a previous personal best first-week sales record belonging to their third mini album, titled lip bomb. That earlier project had accumulated a respectable total of 104,406 copies during its opening week.",
+          "By comparing the old record of 104,406 copies to the new total of 602,688 copies, the group managed to multiply their previous benchmark by nearly six times, marking a phenomenal leap in commercial growth."
+        ]
+      },
+      {
+        "h": "Significance and Industry Impact",
+        "p": [
+          "Achieving a nearly sixfold increase between consecutive album cycles is a rare feat in the competitive landscape of the music industry. It highlights both the rapid expansion of RESCENE's fandom and the strong loyalty of their supporters.",
+          "This dramatic spike in physical album sales firmly positions RESCENE as an ascending power in the current music scene, generating excitement for what they will accomplish next."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music group RESCENE set a new personal career milestone by selling 602,688 copies of their fourth mini album PULSE during its opening week from November 3 to 9. This performance shattered their previous first-week record held by lip bomb by nearly six times."
+        ]
+      }
+    ],
+    "facts": [
+      "RESCENE released their fourth mini album PULSE",
+      "PULSE sold 602,688 copies during its first week from November 3 to 9",
+      "PULSE sold 131,893 copies on its first day",
+      "RESCENE's previous third mini album was titled lip bomb",
+      "lip bomb achieved a previous first-week sales record of 104,406 copies",
+      "M Lim authored the report on November 10, 2026"
+    ],
+    "entities": {
+      "people": [
+        "M Lim"
+      ],
+      "titles": [
+        "PULSE",
+        "lip bomb"
+      ]
+    },
+    "keywords": [
+      "RESCENE PULSE",
+      "RESCENE mini album sales",
+      "PULSE Hanteo Chart",
+      "RESCENE lip bomb record"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/10200643/rescene-2026-1.jpg",
+        "caption": "RESCENE Breaks Previous First-Week Sales Record Exponentially With PULSE",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 11:07:11 +0000"
+  },
+  "1srom1": {
+    "id": "1srom1",
+    "type": "news",
+    "headline": "Ramayana Worldwide Box Office: Yash Becomes Only Indian Actor To Hit 1000 Crore In A Single Year For The 2nd Time Post-COVID",
+    "dek": "Yash has achieved a historic milestone at the global box office for the year 2026, driven by the strong performance of Ramayana and Toxic.",
+    "body": [
+      {
+        "h": "The Global Box Office Rampage",
+        "p": [
+          "Director Nitesh Tiwari's mythological visual spectacle Ramayana has been dominating worldwide box office circuits with an unstoppable theatrical run. The big-budget feature is rapidly approaching the massive milestone of a seven-hundred-crore gross collection globally.",
+          "Within just five days of hitting the big screen, the grand feature has accumulated an impressive worldwide gross total that continues to climb higher with each passing day."
+        ]
+      },
+      {
+        "h": "First Monday Milestone For Yash",
+        "p": [
+          "Riding through its crucial first Monday on November 9, the epic production brought a phenomenal personal achievement for lead actor Yash. By combining the remarkable five-day worldwide figures of Ramayana with the lifetime collections of his earlier 2026 action thriller Toxic, the Kannada star secured a massive cumulative annual haul.",
+          "This exceptional commercial feat places the actor in a very elite group of performers who command monumental box office power across international territories."
+        ]
+      },
+      {
+        "h": "A Rare Post-COVID Record",
+        "p": [
+          "Yash has officially earned the distinction of being the only Indian actor in the post-COVID era to cross the coveted one-thousand-crore global milestone in a single calendar year on two separate occasions. His previous record-breaking solo release, KGF Chapter 2, single-handedly shattered global norms by amassing over twelve hundred crore gross worldwide.",
+          "Now, by pairing Geetu Mohandas's gritty directorial venture Toxic with Nitesh Tiwari's mythological epic in 2026, he has once again crossed the four-digit threshold within a single year."
+        ]
+      },
+      {
+        "h": "Comparing With Industry Peers",
+        "p": [
+          "Industry tracking reveals that alongside Yash, actor Prabhas stands as the only other performer to achieve the one-thousand-crore single-year worldwide box office milestone twice across his career, having done so previously in 2017 and 2023.",
+          "This distinguished club highlights the unprecedented global pull that select Indian cinema icons hold, successfully pulling massive audiences to theatres across multiple language industries."
+        ]
+      },
+      {
+        "h": "Rapid Ascent Towards Eight Hundred Crore",
+        "p": [
+          "With Ramayana inching towards the seven-hundred-crore threshold in just five days, analysts note that the film has cemented its status as a major theatrical hurricane. Post-Diwali weekday pre-sales have continued to break national benchmarks across major territories.",
+          "Industry projections indicate that the grand mythological adaptation is well on its way to comfortably surpassing the eight-hundred-crore mark before its official opening week concludes."
+        ]
+      },
+      {
+        "h": "Detailed Box Office Breakdown",
+        "p": [
+          "The official five-day figures for the film outline a dominant performance across both domestic and international markets. The project has registered an India net collection alongside a substantially higher gross tally.",
+          "Furthermore, overseas gross contributions have added immense weight to the global total, reflecting strong audience enthusiasm outside domestic borders."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Yash has become the only Indian star post-COVID to hit the one-thousand-crore global milestone in a single calendar year for the second time, driven by his 2026 films Ramayana and Toxic. Nitesh Tiwari's mythological epic reached a worldwide gross of 671.55 crore within its first five days by November 9, putting it on track to cross the eight-hundred-crore mark soon."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana reached a 5-day worldwide gross collection of 671.55 crore on November 9, 2026.",
+      "Yash's cumulative global box office haul for 2026 stands at 1005.04 crore, combining Ramayana and Toxic.",
+      "Toxic earned a lifetime worldwide gross of 333.49 crore in 2026.",
+      "KGF: Chapter 2 grossed 1228.59 crore worldwide in 2022.",
+      "Ramayana India Net Collection stands at 357.25 crore.",
+      "Ramayana India Gross Collection stands at 421.55 crore.",
+      "Ramayana Overseas Gross Collection stands at 250 crore."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Nitesh Tiwari",
+        "Geetu Mohandas",
+        "Prabhas",
+        "Ranbir Kapoor",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Toxic",
+        "KGF: Chapter 2",
+        "Dhurandhar 2",
+        "Pathaan",
+        "Aadu 3"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Yash 1000 crore milestone",
+      "Toxic lifetime collection",
+      "Ramayana worldwide collection",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ramayana-worldwide-box-office-makes-yash-the-only-indian-actor-to-hit-this-record-twice-001.jpg",
+        "caption": "Ramayana Worldwide Box Office: Yash Becomes Only Indian Actor To Hit 1000 Crore In A Single Year For The 2nd Time Post-C",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 11:42:59 +0000"
+  },
+  "v1kc07": {
+    "id": "v1kc07",
+    "type": "news",
+    "headline": "AEN Releases High-Energy KGMA Choreography Footage Following Milestone First Trophy",
+    "dek": "Fresh off a major win at the Korea Grand Music Awards, rookie global powerhouse AEN has dropped detailed performance videos highlighting their distinctive styles.",
+    "body": [
+      {
+        "h": "Celebrating a Rapid Milestone",
+        "p": [
+          "The newly launched global collective AEN has given fans an exciting visual treat by publishing behind-the-scenes dance practice footage from their recent appearance at a major awards ceremony. Jointly launched through the collaborative efforts of STARSHIP Entertainment and Amuse, the septet reached a major career milestone by securing their very first competitive trophy during the event.",
+          "Significantly, this early triumph occurred before the group even reached their 100th day since officially launching into the music industry. Grateful for the rapid support, the members used their moment in the spotlight to directly thank their dedicated fanbase, known as Aneee, for helping them achieve such an impressive early accomplishment on the global stage."
+        ]
+      },
+      {
+        "h": "Stunning Gocheok Sky Dome Performances",
+        "p": [
+          "The newly unveiled footage captures the striking live sets that the performers delivered at the prominent Gocheok Sky Dome located in Seoul. Opening with the infectious chorus of their track 'Clockwise' taken from their introductory mini-album titled 'A NEW ERA OF NOW', the members immediately commanded the sprawling venue with their intense presence.",
+          "Dressed uniformly in pristine white ensembles from head to toe, the seven artists executed sharp, perfectly synchronized group formations that radiated boundless enthusiasm. They seamlessly transitioned straight into their primary debut title single, 'X to Z (Next to me)', proving their absolute command over complex choreography and live vocal stability."
+        ]
+      },
+      {
+        "h": "A Striking Shift in Mood and Style",
+        "p": [
+          "In addition to their original tracks, the group treated followers to a dedicated dance version of their acclaimed cover stage featuring MONSTA X's fierce track 'Love Killa'. Deviating completely from their previous bright white aesthetic, the performers adopted sleek, all-black suit styling that instantly transformed the mood of the presentation.",
+          "Leaning into the aesthetic of the original composition, the members incorporated distinctive gloves as a focal accessory to highlight their precise hand movements. Through measured facial expressions and razor-sharp angles, the septet successfully reinterpreted the fatal atmosphere of the song entirely through their own unique artistic lens."
+        ]
+      },
+      {
+        "h": "Contrasting Visuals Show Dual Charm",
+        "p": [
+          "The simultaneous release of these two distinct clips allowed followers to appreciate the versatile appeal and dual charms possessed by the rookie stars. While their white uniform set leaned heavily into large-scale, high-octane group formations, the dark suit iteration forced a closer look at intricate details and nuanced performance skills.",
+          "By showcasing both dynamic stamina and moody restraint back-to-back, the members underscored their readiness to handle diverse conceptual directions. This careful curation of performance content has quickly drawn praise from industry observers who note the group's rapid artistic maturation."
+        ]
+      },
+      {
+        "h": "Conquering the Overseas K-Pop Scene",
+        "p": [
+          "The trophy that sparked this celebration was none of other than the K-pop Overseas Artist accolade presented at the 2026 Korea Grand Music Awards. This specific honor is traditionally granted to rising performers who manage to generate substantial international traction and tangible career results while actively promoting abroad.",
+          "Achieving this international recognition so early in their lifecycle highlights the strong global foothold the group has managed to carve out since their initial formation. Their expanding reach points toward a promising trajectory as they continue to build an international following."
+        ]
+      },
+      {
+        "h": "Packed Year-End and Upcoming Itinerary",
+        "p": [
+          "Following these major festivities, the group faces a remarkably busy schedule extending deep into the upcoming calendar year. Their immediate commitments include a high-profile performance scheduled for the Melon Music Awards on November 14, followed closely by an appearance at the major Japanese music festival 'COUNTDOWN JAPAN 26/27' hosted at Makuhari Messe on December 30.",
+          "Looking further ahead into the new year, the septet has also scheduled their very first dedicated fan concert event titled 'AEN FANCON 2027 ",
+          "AFTER SCHOOL",
+          "'. This multi-day engagement will take place at KT Zepp Yokohama in Japan on January 15 and 16, 2027, giving international supporters an extended opportunity to experience their live sets up close."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rookie global act AEN celebrated their first-ever career trophy by releasing special choreography videos stemming from their appearance at the Korea Grand Music Awards at Gocheok Sky Dome in Seoul. The group, which won the K-pop Overseas Artist accolade prior to their 100th debut day, showcased contrasting concepts through white uniform and black suit performances while mapping out an extensive schedule of year-end shows and upcoming fan concerts in Japan."
+        ]
+      }
+    ],
+    "facts": [
+      "AEN is a global group launched by STARSHIP Entertainment and Amuse.",
+      "AEN won the K-pop Overseas Artist award at the '2026 Korea Grand Music Awards' (KGMA).",
+      "The award was won before the group's 100th day since debut.",
+      "The performances took place at Gocheok Sky Dome in Seoul.",
+      "The first mini album of AEN is titled 'A NEW ERA OF NOW', featuring the track 'Clockwise' and debut title track 'X to Z (Next to me)'.",
+      "AEN covered MONSTA X's song 'Love Killa'.",
+      "The fandom of AEN is named Aneee.",
+      "AEN is scheduled to perform at the '2026 Melon Music Awards' (MMA) on November 14.",
+      "AEN will perform at 'COUNTDOWN JAPAN 26/27' at Makuhari Messe in Japan on December 30.",
+      "AEN will hold the fan concert 'AEN FANCON 2027 \"AFTER SCHOOL\"' at KT Zepp Yokohama in Japan on January 15 and 16, 2027."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "A NEW ERA OF NOW",
+        "Clockwise",
+        "X to Z (Next to me)",
+        "Love Killa",
+        "AEN FANCON 2027 \"AFTER SCHOOL\""
+      ]
+    },
+    "keywords": [
+      "AEN KGMA choreography videos",
+      "AEN first award 100th day",
+      "A NEW ERA OF NOW Clockwise",
+      "AEN K-pop Overseas Artist award",
+      "AEN FANCON 2027 AFTER SCHOOL"
+    ],
+    "images": [],
+    "published": "Tue, 10 Nov 2026 05:40:00 EST"
   }
 };
