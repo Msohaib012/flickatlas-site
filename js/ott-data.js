@@ -170,34 +170,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "SE",
-      "date": "2026-11-10",
-      "date_kind": "digital",
-      "id": 1802472,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "GB",
-      "date": "2026-11-10",
-      "date_kind": "digital",
-      "id": 1794501,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
-      "date": "2026-11-10",
-      "date_kind": "digital",
-      "id": 1814871,
-      "providers": [],
-      "type": "movie"
-    },
-    {
       "country": "US",
       "date": "2026-11-10",
       "date_kind": "digital",
       "id": 1813392,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "SE",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1802472,
       "providers": [],
       "type": "movie"
     },
@@ -214,6 +198,22 @@ window.FA_OTT = {
       "date": "2026-11-10",
       "date_kind": "digital",
       "id": 1813722,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1814871,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "GB",
+      "date": "2026-11-10",
+      "date_kind": "digital",
+      "id": 1794501,
       "providers": [],
       "type": "movie"
     },

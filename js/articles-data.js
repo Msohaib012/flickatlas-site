@@ -103104,5 +103104,427 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 04:51:46 +0000"
+  },
+  "183ide8": {
+    "id": "183ide8",
+    "type": "news",
+    "headline": "When I Meet The Moon Episodes 13-14 Release Schedule, Streaming Details and Plot Preview",
+    "dek": "Lin Yi and Lu Yu Xiao's romantic Chinese drama When I Meet The Moon returns with Episodes 13 and 14, bringing fresh emotional twists, streaming information, and timing schedules for fans.",
+    "body": [
+      {
+        "h": "Introduction to the Popular Chinese Drama",
+        "p": [
+          "The romantic Chinese drama When I Meet The Moon continues to capture significant interest across online fandoms. Starring Lin Yi and Lu Yu Xiao in the lead roles, the series has drawn praise for the undeniable chemistry shared by its main pair.",
+          "Adapted from the novel Folding Moon written by Zhu Yi, the show builds upon the author's legacy of inspiring other well-known television projects such as Hidden Love, When I Fly Towards You, and The First Frost."
+        ]
+      },
+      {
+        "h": "Recent Plot Developments and Character Dynamics",
+        "p": [
+          "The narrative shifts into deeper emotional territory following an eventful turn in the relationship between Yun Li and Shi Ze. After receiving a confession from Yun Li, Shi Ze opts to push her away and offers apologies, having been heavily influenced by comments from Jiang Yuan's father alongside his own fears of causing her pain.",
+          "Preview footage for the upcoming chapters indicates further friction, notably when Yun Li reacts with frustration toward Shi Ze regarding his poor health habits. Upon bringing him porridge due to stomach pain, she discovers a bag of beer cans and promptly removes the food."
+        ]
+      },
+      {
+        "h": "Hidden Feelings and Kept Mementos",
+        "p": [
+          "Amidst the tension caused by his health habits and emotional distance, Shi Ze continues to conceal his true sentiments from Yun Li. Although he preserves a moon present previously given to him by Yun Li, he claims to have misplaced it when questioned directly.",
+          "Despite these ongoing emotional barriers, viewers anticipate more endearing interactions between the two central characters as the overarching narrative continues to unfold on screen."
+        ]
+      },
+      {
+        "h": "Official Streaming Platform and Timings",
+        "p": [
+          "For authorized viewership, Episodes 13 and 14 premiere exclusively on iQIYI for VIP subscribers. International audiences, including viewers in India, can access the latest chapters equipped with English subtitles.",
+          "The official release time is set for 6:00 PM Beijing Time, which corresponds to 3:30 PM Indian Standard Time."
+        ]
+      },
+      {
+        "h": "Alternative Viewing and Offline Download Options",
+        "p": [
+          "Audiences seeking alternative streaming methods occasionally locate fan-uploaded copies featuring English subtitles on Dailymotion shortly after the primary digital broadcast concludes.",
+          "Meanwhile, users holding an active iQIYI VIP subscription can utilize the application's native download features. By navigating to the series page within the app, selecting the desired episode, and tapping the download icon, subscribers can save files for convenient offline viewing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "When I Meet The Moon releases Episodes 13 and 14 on iQIYI, featuring stars Lin Yi and Lu Yu Xiao in the hit romantic Chinese drama adapted from Zhu Yi's novel. The latest chapters air at 6:00 PM Beijing Time, bringing viewers new plot developments involving Yun Li and Shi Ze."
+        ]
+      }
+    ],
+    "facts": [
+      "Episodes 13 and 14 release on November 10, 2026",
+      "The drama stars Lin Yi and Lu Yu Xiao",
+      "The series is based on Zhu Yi's novel Folding Moon",
+      "Episodes premiere at 6:00 PM Beijing Time and 3:30 PM IST",
+      "Episodes stream officially on iQIYI"
+    ],
+    "entities": {
+      "people": [
+        "Lin Yi",
+        "Lu Yu Xiao",
+        "Zhu Yi",
+        "Jiang Yuan"
+      ],
+      "titles": [
+        "When I Meet The Moon",
+        "Folding Moon",
+        "Hidden Love",
+        "When I Fly Towards You",
+        "The First Frost"
+      ]
+    },
+    "keywords": [
+      "When I Meet The Moon",
+      "Lin Yi Lu Yu Xiao",
+      "When I Meet The Moon episodes 13 14",
+      "iQIYI cdrama"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-09t190425-437-80451794240990.jpg",
+        "caption": "When I Meet The Moon Episodes 13-14 Release Schedule, Streaming Details and Plot Preview",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 09:30:24 +0530"
+  },
+  "wzx703": {
+    "id": "wzx703",
+    "type": "news",
+    "headline": "Spy x Family Season 4 and New Theatrical Film Officially Confirmed for 2027",
+    "dek": "Toho Animation announces both a fourth television season and a second feature film for the beloved anime franchise, slated for release in 2027 following the conclusion of Season 3.",
+    "body": [
+      {
+        "h": "Double Announcement at the Tokyo Event",
+        "p": [
+          "Fans of the popular anime and manga franchise received massive news during a special fan gathering in Japan. Toho Animation officially stated that the series will continue with both a brand-new television season and a theatrical movie.",
+          "The revelations were made public at Belle Salle Takadanobaba in Shinjuku, Tokyo, during a dedicated fan celebration. This marks one of the most substantial ongoing production commitments for the property since its debut."
+        ]
+      },
+      {
+        "h": "Production Teams and Returning Cast",
+        "p": [
+          "The creative personnel responsible for previous instalments will remain at the helm for the upcoming television run. WIT Studio and CloverWorks continue their collaborative partnership to co-produce the fourth season.",
+          "On the performance side, the primary voice actors are returning to voice their respective characters. Takuya Eguchi reprises his role as Loid, Atsumi Tanezaki returns as Anya, Saori Hayami voices Yor, and Kenichiro Matsuda portrays Bond."
+        ]
+      },
+      {
+        "h": "First Teaser Visual and Clues",
+        "p": [
+          "To accompany the announcement, character designer Satoshi Kadowaki prepared a fresh promotional teaser visual. The artwork depicts the core family members strolling together through a European-styled urban street.",
+          "Scattered newspapers and printed flyers appear around the characters in the illustration. Japanese media reports indicate that these stray printed scraps contain subtle hints and elements relevant to the upcoming plotlines."
+        ]
+      },
+      {
+        "h": "The Box Office Legacy of Code: White",
+        "p": [
+          "The franchise is no stranger to cinematic success, having previously released a feature film that performed remarkably well in cinemas. That earlier motion picture opened across Japanese venues in late 2023.",
+          "It went on to accumulate billions of yen domestically alongside millions of ticket sales both locally and internationally, establishing a strong foundation for the newly commissioned second movie."
+        ]
+      },
+      {
+        "h": "Story Context After Season 3",
+        "p": [
+          "The third season recently concluded its broadcast run consisting of thirteen episodes. Its concluding narrative arc focused heavily on a high-stakes school bus hijacking involving young students at Eden Academy.",
+          "Meanwhile, the source manga has progressed further into advanced arcs, introducing significant developments regarding the central political antagonist and placing the main characters under renewed secrecy pressure."
+        ]
+      },
+      {
+        "h": "Audience Reception and Wait Times",
+        "p": [
+          "Reactions across social media platforms following the announcement were largely enthusiastic, with international and domestic viewers expressing eagerness for the continuation. The wait between seasons represents a relatively brief interval compared to previous gaps.",
+          "While exact premiere dates, specific plot summaries, and international streaming licenses remain unconfirmed, followers anticipate that the rollout will mirror past distribution patterns."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Toho Animation confirmed that the Spy x Family franchise will receive both a fourth television season and a second movie in 2027. The announcement features returning production staff and voice talent, building upon the success of prior seasons and the previous feature film."
+        ]
+      }
+    ],
+    "facts": [
+      "Toho Animation confirmed Spy x Family Season 4 and a second theatrical film on November 8, 2026.",
+      "Season 3 wrapped its 13-episode run in December 2025.",
+      "The announcement took place at Belle Salle Takadanobaba in Shinjuku, Tokyo.",
+      "The first Spy x Family film, Code: White, opened in Japan on December 22, 2023, earning ¥6.32 billion.",
+      "The original manga is created by Tatsuya Endo and serialized on Shueisha’s Shonen Jump+ app since March 2019."
+    ],
+    "entities": {
+      "people": [
+        "Satoshi Kadowaki",
+        "Yasuhiro Akamatsu",
+        "Hiroki Shinagawa",
+        "Aya Takaba",
+        "Kazuaki Shimada",
+        "Tatsuya Endo",
+        "Takuya Eguchi",
+        "Atsumi Tanezaki",
+        "Saori Hayami",
+        "Kenichiro Matsuda",
+        "Donovan Desmond"
+      ],
+      "titles": [
+        "Spy x Family",
+        "Code: White"
+      ]
+    },
+    "keywords": [
+      "Spy x Family Season 4",
+      "Spy x Family 2027 movie",
+      "Toho Animation Spy x Family",
+      "Code White box office"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-09T163624.808.webp",
+        "caption": "Spy x Family Season 4 and New Theatrical Film Officially Confirmed for 2027",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 04:13:00 +0000"
+  },
+  "1pfl8c5": {
+    "id": "1pfl8c5",
+    "type": "news",
+    "headline": "Ankur Rathee Discusses NRI Portrayal and Global Identity in Exclusive Interview",
+    "dek": "Actor Ankur Rathee opens up about the cultural disconnect in how Indian Americans are viewed in the US versus India, his role in Best Of The Best, and dodging stereotypes.",
+    "body": [
+      {
+        "h": "Introduction to Ankur Rathee's Perspective",
+        "p": [
+          "In a recent exclusive interview, actor Ankur Rathee discussed the nuanced depiction of Indian Americans in international cinema and television projects. Speaking about his career balancing work across Hollywood and Indian cinema, Rathee shared his personal insights into identity and diaspora culture.",
+          "The conversation highlighted his role in Netflix's South Asian title Best Of The Best, which has brought him widespread attention and a growing global fan base."
+        ]
+      },
+      {
+        "h": "Navigating Cultural Nuances of the Indian Diaspora",
+        "p": [
+          "Rathee addressed the common criticisms from audiences in India regarding how non-resident Indians are portrayed on screen. He noted that critics often feel these characters are detached from their traditional roots and cultural practices.",
+          "Defending the diaspora experience, the actor explained that growing up in a foreign country shapes a completely unique subculture. He emphasized that an altered connection to heritage does not make it any less meaningful or authentic."
+        ]
+      },
+      {
+        "h": "The Identity Tug-of-War",
+        "p": [
+          "Reflecting on his upbringing in the United States, Rathee highlighted the constant identity tension he experienced growing up. Because he did not fit into traditional white American stereotypes, people around him in the US invariably saw him as Indian.",
+          "Conversely, he pointed out that audiences and individuals living in India often do not view him as truly Indian due to his American upbringing. This duality creates a unique psychological and cultural space that frequently influences NRI character depictions."
+        ]
+      },
+      {
+        "h": "Breaking Free From Stereotypes",
+        "p": [
+          "Addressing concerns about being typecast in international markets, Rathee firmly dismissed the notion that he faces severe stereotyping. Instead, he finds that his global visibility has opened doors to a much broader spectrum of roles.",
+          "Demonstrating his versatility, the actor explained that he is trusted to play both authentic Indians from India and Indian Americans from the United States, showcasing varied talents including dancing and acting."
+        ]
+      },
+      {
+        "h": "Upcoming Projects and Collaborations",
+        "p": [
+          "Beyond his recent Netflix success, Rathee is actively busy with multiple professional commitments across the entertainment industry. He is currently shooting for the second season of the series Single Papa.",
+          "In Single Papa, Rathee stars alongside Kunal Kemmu and shares the screen with Prajakta Koli, playing her partner. The upcoming show is slated for a premiere in the year 2027."
+        ]
+      },
+      {
+        "h": "Career Growth Across Continents",
+        "p": [
+          "Rathee's ability to seamlessly transition between Hollywood projects and Indian cinema highlights a growing trend of cross-continental casting. His experiences provide a rare look into the challenges and rewards faced by modern actors navigating dual cultural identities.",
+          "With a expanding international portfolio and strong appreciation for his performances, the actor continues to redefine what it means to be a global artist today."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Ankur Rathee discussed the challenges of representing the Indian diaspora in international media during an exclusive interview. He also shared details about his current work on Single Papa and his role in the Netflix title Best Of The Best."
+        ]
+      }
+    ],
+    "facts": [
+      "Ankur Rathee was interviewed exclusively by Zoom.",
+      "Best Of The Best is a South Asian title on Netflix.",
+      "Ankur Rathee is shooting for the second season of Single Papa.",
+      "Single Papa features Kunal Kemmu and Prajakta Koli, with Ankur playing Koli's partner.",
+      "Single Papa is expected to premiere in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Ankur Rathee",
+        "Kunal Kemmu",
+        "Prajakta Koli",
+        "Tanmayi Savadi"
+      ],
+      "titles": [
+        "Best Of The Best",
+        "Single Papa"
+      ]
+    },
+    "keywords": [
+      "Ankur Rathee",
+      "Best Of The Best",
+      "Single Papa",
+      "Ankur Rathee interview"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156487417,thumbsize-403125,width-1280,height-720,resizemode-75/156487417.jpg",
+        "caption": "Ankur Rathee Discusses NRI Portrayal and Global Identity in Exclusive Interview",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T06:52:23Z"
+  },
+  "epwk6": {
+    "id": "epwk6",
+    "type": "news",
+    "headline": "Until We Meet Again Dominates 51st Hochi Film Awards Nominations",
+    "dek": "Meguro Ren and Hamabe Minami's drama secures seven nods, leading the race for Japan's prestigious early film honors.",
+    "body": [
+      {
+        "h": "Hochi Film Awards Nominations Announced",
+        "p": [
+          "The 51st Hochi Film Awards have officially revealed their list of nominees, setting the stage for Japan's prominent cinematic honors. Sports Hiroshi made the official announcement on November 9, 2026, highlighting the top contenders for the upcoming ceremony.",
+          "As the first major awards stop in the Japanese film season, these accolades draw significant attention from critics and audiences alike. The winners will be selected by a dedicated committee and revealed later in November, ahead of the December ceremony."
+        ]
+      },
+      {
+        "h": "Until We Meet Again Takes the Lead",
+        "p": [
+          "Headlining the nomination list is the romantic drama Until We Meet Again, which secured seven nods across seven separate categories. The film stars Meguro Ren of Snow Man and Hamabe Minami, both of whom earned individual recognition in the acting races.",
+          "Directed by Miki Takahiro, the picture centers on a funeral planner and a funeral company intern who team up to craft the ideal final send-off. The movie pulled in 4.7 billion yen at the box office and dominated the readers vote by winning five categories."
+        ]
+      },
+      {
+        "h": "A Wide Open Race This Year",
+        "p": [
+          "Following last year's record-shattering dominance by the mega-hit National Treasure, observers describe this year's competition as wide open. National Treasure previously set the bar as the highest-grossing live-action Japanese film ever.",
+          "Other strong contenders are closely trailing the frontrunner. Hakucho to Komori and You, Like a Star earned seven nominations in six categories each, while Godzilla Minus Zero picked up seven nods across five categories."
+        ]
+      },
+      {
+        "h": "Notable Acting Contenders",
+        "p": [
+          "The acting categories feature a mix of established stars and double nominees. Hamabe Minami secured a second nomination for Best Supporting Actress for Godzilla Minus Zero, while Matsumura Hokuto of SixTONES is up for both Best Actor and Best Supporting Actor.",
+          "The Best Actor lineup also features performances from Ikematsu Sosuke, Isomura Hayato, Ichinose Wataru, Emoto Tasuku, Oda Yuji, Kamiki Ryunosuke, Sakaguchi Kentaro, Nakamura Tomoya, Nishijima Hidetoshi, Meguro Ren, Motoki Masahiro, and Yokohama Ryusei."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Director Highlights",
+        "p": [
+          "In the supporting and directing fields, the nominations spotlight acclaimed talent. Prominent directors like Kore-eda Hirokazu, Hamaguchi Ryusuke, and Kurosawa Kiyoshi are competing for Best Director.",
+          "Supporting categories feature industry veterans and rising stars alike, including Harada Mieko, who remains the only person in the awards' 50-year history to win across three different categories."
+        ]
+      },
+      {
+        "h": "International and Animated Highlights",
+        "p": [
+          "The readers vote also extended recognition to international and animated features. The Devil Wears Prada 2 was chosen as the top pick for Best International Film.",
+          "Meanwhile, Chiikawa the Movie: The Secret of the Mermaid Island took home the readers vote for Best Animated Film after bringing in over 18 billion yen at the box office."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Until We Meet Again leads the 51st Hochi Film Awards nominations with seven nods following its strong box office run and success in the readers vote. The selection committee will announce the winners later this month ahead of the December ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "The 51st Hochi Film Awards announced its nominees on November 9, 2026.",
+      "Until We Meet Again leads the nominations with seven nods in seven categories.",
+      "Until We Meet Again earned 4.7 billion yen at the box office.",
+      "National Treasure earned more than 20.8 billion yen last year.",
+      "Chiikawa the Movie: The Secret of the Mermaid Island earned more than 18 billion yen."
+    ],
+    "entities": {
+      "people": [
+        "Meguro Ren",
+        "Hamabe Minami",
+        "Miki Takahiro",
+        "Harada Taizo",
+        "Nagasaku Hiromi",
+        "Kubo Shiori",
+        "Kishi Yoshiyuki",
+        "Fujii Michihito",
+        "Yamazaki Takashi",
+        "Matsumura Hokuto",
+        "Imada Mio",
+        "Yokohama Ryusei",
+        "Hirose Suzu",
+        "Ikematsu Sosuke",
+        "Isomura Hayato",
+        "Ichinose Wataru",
+        "Emoto Tasuku",
+        "Oda Yuji",
+        "Kamiki Ryunosuke",
+        "Sakaguchi Kentaro",
+        "Nakamura Tomoya",
+        "Nishijima Hidetoshi",
+        "Motoki Masahiro",
+        "Ayase Haruka",
+        "Okamoto Tao",
+        "Katayama Yuki",
+        "Kawaguchi Haruna",
+        "Kishii Yukino",
+        "Koyae Aoi",
+        "Nikaido Fumi",
+        "Non",
+        "Matsuoka Mayu",
+        "Matsu Takako",
+        "Kore-eda Hirokazu",
+        "Hamaguchi Ryusuke",
+        "Kurosawa Kiyoshi",
+        "Sakuma Daisuke",
+        "Suda Masaki",
+        "Hasegawa Hiroki",
+        "Kudo Kankuro",
+        "Nagasawa Masami",
+        "Harada Mieko",
+        "Nagao Kento"
+      ],
+      "titles": [
+        "Until We Meet Again",
+        "National Treasure",
+        "Hakucho to Komori",
+        "You, Like a Star",
+        "Godzilla Minus Zero",
+        "The Night Before the War",
+        "Mentor",
+        "April s Margins",
+        "Samurai Vengeance",
+        "Bayside Shakedown",
+        "I Don t Know You",
+        "Your Quiz",
+        "Sometimes I Confess",
+        "Black Prison",
+        "Why Do People Write Love Letters?",
+        "Sheep in a Box",
+        "Suddenly Feeling Unwell",
+        "FUJIKO",
+        "My Life Diary",
+        "All the Lovers in the Night",
+        "Children I Don t Know",
+        "Parallel and Perpendicular",
+        "Male Friend",
+        "Nagi Diary",
+        "The Devil Wears Prada 2",
+        "Chiikawa the Movie: The Secret of the Mermaid Island"
+      ]
+    },
+    "keywords": [
+      "Until We Meet Again film",
+      "Meguro Ren Until We Meet Again",
+      "Hochi Film Awards 2026",
+      "Hamabe Minami Until We Meet Again"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/DyyX45_2d.jpg",
+        "caption": "Until We Meet Again Dominates 51st Hochi Film Awards Nominations",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 05:38:44 +0000"
   }
 };

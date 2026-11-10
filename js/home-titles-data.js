@@ -11226,7 +11226,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.543
+    "popularity": 0.5208
   },
   "1813944": {
     "id": 1813944,
@@ -11251,7 +11251,7 @@ window.FA_PUBLISHED = {
     "status": "In Production",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.3302
+    "popularity": 0.3156
   },
   "1813038": {
     "id": 1813038,
@@ -11259,8 +11259,8 @@ window.FA_PUBLISHED = {
     "title": "Getting Rid of Grunt",
     "poster_path": "/dgDzXDp57rDQOUCI7Q70OU6rVjY.jpg",
     "backdrop_path": "/datO8crTH2GoSCVzONPhZSqpBfo.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "vote_average": 10.0,
+    "vote_count": 1,
     "overview": "Two housemates have to work together to get rid of a one-night stand, who refuses to leave, and refuses to talk.",
     "industry": "world",
     "original_language": "en",
@@ -11276,7 +11276,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-08",
-    "popularity": 0.4784
+    "popularity": 0.6691
   },
   "1812988": {
     "id": 1812988,
@@ -12258,10 +12258,10 @@ window.FA_PUBLISHED = {
     "id": 1814456,
     "type": "movie",
     "title": "Sur la piste du casoar",
-    "poster_path": "/5V0YiIpy2GJpU1xNjtU0vu4X1ew.jpg",
-    "backdrop_path": "/xUNCDq8dbsA0sieXtaZn5IFGwvJ.jpg",
-    "vote_average": 0.0,
-    "vote_count": 0,
+    "poster_path": "/yAnWPF9pGvWC9g0soG9auYh49tU.jpg",
+    "backdrop_path": "/nmqY2aF1ZmQoyvzvioEtoZAWeqa.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
     "overview": "",
     "industry": "world",
     "original_language": "fr",
@@ -12358,7 +12358,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.7655
+    "popularity": 0.7356
   },
   "1773378": {
     "id": 1773378,
@@ -12444,7 +12444,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.7278
+    "popularity": 0.6735
   },
   "1796328": {
     "id": 1796328,
@@ -12501,7 +12501,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.6427
+    "popularity": 0.605
   },
   "1547311": {
     "id": 1547311,
@@ -12555,7 +12555,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 1.3738
+    "popularity": 1.5002
   },
   "1792914": {
     "id": 1792914,
@@ -12661,7 +12661,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.6145
+    "popularity": 0.5061
   },
   "1731816": {
     "id": 1731816,
@@ -12785,7 +12785,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 1.5876
+    "popularity": 1.6644
   },
   "1458300": {
     "id": 1458300,
@@ -12839,7 +12839,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 1.0497
+    "popularity": 1.3498
   },
   "741533": {
     "id": 741533,
@@ -12916,7 +12916,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.4086
+    "popularity": 0.592
   },
   "1797215": {
     "id": 1797215,
@@ -12964,7 +12964,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.4593
+    "popularity": 0.4614
   },
   "1756268": {
     "id": 1756268,
@@ -13018,7 +13018,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.5414
+    "popularity": 0.5023
   },
   "1801940": {
     "id": 1801940,
@@ -13071,7 +13071,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.7343
+    "popularity": 1.0369
   },
   "1685339": {
     "id": 1685339,
@@ -13127,7 +13127,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.1157
+    "popularity": 0.128
   },
   "1603262": {
     "id": 1603262,
@@ -13234,7 +13234,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.2076
+    "popularity": 0.3592
   },
   "1590723": {
     "id": 1590723,
@@ -13288,7 +13288,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-09",
-    "popularity": 0.169
+    "popularity": 0.1074
   },
   "1251608": {
     "id": 1251608,
@@ -13368,10 +13368,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.2729
+    "popularity": 0.3106
   },
   "1792170": {
     "id": 1792170,
@@ -13422,10 +13422,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.3894
+    "popularity": 0.1591
   },
   "1678120": {
     "id": 1678120,
@@ -13475,10 +13475,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.2382
+    "popularity": 0.3602
   },
   "1552079": {
     "id": 1552079,
@@ -13529,10 +13529,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.1033
+    "popularity": 0.2069
   },
   "1803749": {
     "id": 1803749,
@@ -13579,10 +13579,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.3435
+    "popularity": 1.0978
   },
   "1578978": {
     "id": 1578978,
@@ -13629,10 +13629,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.2662
+    "popularity": 0.2115
   },
   "1487046": {
     "id": 1487046,
@@ -13663,8 +13663,8 @@ window.FA_PUBLISHED = {
     "id": 1812547,
     "type": "movie",
     "title": "Extra-Terrestrial Haunting",
-    "poster_path": "/3zwrlVPhWNwDqvhZ66tP49PofCC.jpg",
-    "backdrop_path": null,
+    "poster_path": "/9UPL6ccTJ61ayJBUxWAOuSCEEPp.jpg",
+    "backdrop_path": "/zhj85HLHzeDJgIn7Fx5n3d1WEbG.jpg",
     "vote_average": 0.0,
     "vote_count": 0,
     "overview": "A group of dedicated ghost hunters are dismayed when their desperate attempt to summon ghosts goes wrong, and all they encounter are aliens.",
@@ -13683,8 +13683,8 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "status": "In Production",
     "providers": [],
-    "release_date": "2026-11-10",
-    "popularity": 0.3342
+    "release_date": "2026-11-14",
+    "popularity": 0.2725
   },
   "1561834": {
     "id": 1561834,
@@ -13731,10 +13731,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.9028
+    "popularity": 0.7788
   },
   "1496696": {
     "id": 1496696,
@@ -13783,10 +13783,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.5105
+    "popularity": 0.3255
   },
   "1437925": {
     "id": 1437925,
@@ -13840,10 +13840,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 1.021
+    "popularity": 0.8669
   },
   "1430841": {
     "id": 1430841,
@@ -13919,10 +13919,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.3179
+    "popularity": 0.276
   },
   "1773368": {
     "id": 1773368,
@@ -14017,10 +14017,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 1.0791
+    "popularity": 0.97
   },
   "1767284": {
     "id": 1767284,
@@ -14103,10 +14103,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.544
+    "popularity": 0.382
   },
   "1162823": {
     "id": 1162823,
@@ -14159,10 +14159,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 1.0325
+    "popularity": 0.4252
   },
   "1803727": {
     "id": 1803727,
@@ -14210,10 +14210,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 1.8896
+    "popularity": 0.8564
   },
   "1468846": {
     "id": 1468846,
@@ -14265,10 +14265,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 1.2413
+    "popularity": 0.6561
   },
   "1217954": {
     "id": 1217954,
@@ -14319,10 +14319,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.8808
+    "popularity": 0.4673
   },
   "1803733": {
     "id": 1803733,
@@ -14371,10 +14371,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 1.9321
+    "popularity": 1.5328
   },
   "1544163": {
     "id": 1544163,
@@ -14425,10 +14425,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 1.3125
+    "popularity": 1.2344
   },
   "1798047": {
     "id": 1798047,
@@ -14452,10 +14452,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.4839
+    "popularity": 0.5807
   },
   "1757700": {
     "id": 1757700,
@@ -14505,10 +14505,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.4623
+    "popularity": 0.3618
   },
   "1783268": {
     "id": 1783268,
@@ -14555,10 +14555,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.2036
+    "popularity": 0.1169
   },
   "1804239": {
     "id": 1804239,
@@ -14608,10 +14608,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "Post Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 2.143
+    "popularity": 0.7087
   },
   "1635771": {
     "id": 1635771,
@@ -14660,10 +14660,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.8036
+    "popularity": 0.4754
   },
   "1767773": {
     "id": 1767773,
@@ -14712,10 +14712,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.549
+    "popularity": 0.1054
   },
   "1797392": {
     "id": 1797392,
@@ -14769,10 +14769,10 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "In Production",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.5006
+    "popularity": 0.0801
   },
   "1788052": {
     "id": 1788052,
@@ -14794,10 +14794,10 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-03",
     "date_kind": "festival",
-    "status": "Planned",
+    "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 2.0981
+    "popularity": 0.5177
   },
   "1777957": {
     "id": 1777957,
@@ -14824,7 +14824,7 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [],
     "release_date": "2026-11-10",
-    "popularity": 0.2555
+    "popularity": 0.0701
   },
   "1300968": {
     "id": 1300968,
@@ -22344,7 +22344,7 @@ window.FA_PUBLISHED = {
     "status": "Returning Series",
     "providers": [],
     "first_air_date": "2026-11-09",
-    "popularity": 3.0436
+    "popularity": 9.6697
   },
   "499371": {
     "id": 499371,
@@ -22862,5 +22862,528 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-16",
     "popularity": 0.7018
+  },
+  "1822061": {
+    "id": 1822061,
+    "type": "movie",
+    "title": "KI - Die letzte Erfindung der Menschheit?",
+    "poster_path": "/8XGTTCMCvIjF7enyJNxVoP0gG4e.jpg",
+    "backdrop_path": "/lGyhKoaHoWJOqZxicwFGok318Oy.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "de",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [
+      "DE"
+    ],
+    "spoken_languages": [
+      "de",
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0
+  },
+  "1437511": {
+    "id": 1437511,
+    "type": "movie",
+    "title": "How to Rob a Bank",
+    "poster_path": "/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "backdrop_path": "/xghtLO90cQPybH85aw1C3bZ2P3.jpg",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "overview": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-11",
+    "popularity": 15.6804
+  },
+  "1822057": {
+    "id": 1822057,
+    "type": "movie",
+    "title": "Instagram/TikTok, la guerre des réseaux",
+    "poster_path": "/32FgpuKLSFxS5r7tATCAo2j4NS5.jpg",
+    "backdrop_path": "/1hPZ3aDJ8Lx1VKJxWyhnVSkGRLL.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr",
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.1941
+  },
+  "1821193": {
+    "id": 1821193,
+    "type": "movie",
+    "title": "Storia di un bimbo mucca",
+    "poster_path": "/lJFe1VD0ZqB8feSvarBF1QdEdGv.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Elisabetta Falanga sets out to reconstruct the childhood of her partner, Abido, in Morocco in order to understand his sudden return to religion. But their conversations end up exposing the prejudices and differences that run through their life as a couple.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT",
+      "MA"
+    ],
+    "production_countries": [
+      "IT",
+      "MA"
+    ],
+    "spoken_languages": [
+      "it",
+      "ar"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.2795
+  },
+  "1819503": {
+    "id": 1819503,
+    "type": "movie",
+    "title": "Long Haired Businessmen",
+    "poster_path": "/phWRi6pqPV2X5zSUZpxTIijSSy8.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kevin, Kyle, and Seth are long-haired, buzzword-fluent middle managers with a passion for staying looped in and on the same page. When the ruthless Torrence Group acquires their company and sics Gen-Z efficiency experts on them, the trio must survive team-building gone haywire, a scheme to replace them with AI, and a corporate conspiracy to eliminate middle management entirely - armed with nothing but jargon, synergy, and one sacred truth: the weekend’s never long enough.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.2484
+  },
+  "1817352": {
+    "id": 1817352,
+    "type": "movie",
+    "title": "A Cangaceira",
+    "poster_path": "/kTyiwbTjwXchbUcjHZLULpWDdKD.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.1451
+  },
+  "1817008": {
+    "id": 1817008,
+    "type": "movie",
+    "title": "Se Eu Tivesse Seus Olhos,",
+    "poster_path": "/vMMPwdZ3G73NNdtbvwebECwuShG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.1807
+  },
+  "1816482": {
+    "id": 1816482,
+    "type": "movie",
+    "title": "Qué lejos están las fuentes y los pájaros",
+    "poster_path": "/nY5GmWsVPC8jvy0l9crxgBQjM48.jpg",
+    "backdrop_path": "/1LEShf8LE6C0GgTTWMQz4LS0VFz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A child touches an insect and, without realizing it, sets a journey in motion: birds and fountains guide the transformation of a world that takes shape and then falls apart. Amid the remnants of a fading splendor, the forces of the earth persist, and everything returns, like an echo, between what once was and what will never be again.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "CL"
+    ],
+    "production_countries": [
+      "CL"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.2227
+  },
+  "1815558": {
+    "id": 1815558,
+    "type": "movie",
+    "title": "bonus track desesperada",
+    "poster_path": "/7OpU73ByxITPYuSrDM2t67qNR3z.jpg",
+    "backdrop_path": "/Aowxe112syTWCuN91zmQ54AO0S1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "An urban bus beyond the limits of Xixón leads the film to a foggy periphery where everyday life begins to acquire a strange quality of mystery and loneliness. The journey is interrupted with a jazz concert in one of those cafeterias that occupy a recognizable place in the universe of Seles, while the assembly adopts the logic of a happy visual and sound improvisation.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.3141
+  },
+  "1815552": {
+    "id": 1815552,
+    "type": "movie",
+    "title": "asturias es jazz",
+    "poster_path": "/lAxsULbVLkYLfm3uDKg0xZW34Ug.jpg",
+    "backdrop_path": "/3XlBU8FNUH3wjCuWM6HsHWV8cXV.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Cafes, bars, stores for transfer, lottery administrations, rainy streets and other people's conversations are drawing an urban and popular Asturias, far away from any tourist postcard. Images captured almost on the fly, overprinted texts, radio fragments, interviews and sound materials follow one another with the characteristic freedom of his cinema.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES",
+      "AR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.2631
+  },
+  "1806788": {
+    "id": 1806788,
+    "type": "movie",
+    "title": "Human.ID",
+    "poster_path": "/jEEoUD8DcRr0vuBasrhZRuDwC1F.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Human.ID is an immersive XR documentary that plunges viewers into a near-future digital ecosystem where adaptive AI systems analyze, question, and redefine the boundaries of human identity and consciousness.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.4377
+  },
+  "1805492": {
+    "id": 1805492,
+    "type": "movie",
+    "title": "Freeborn",
+    "poster_path": "/74bi0cUg0rTfJc4QcCanMi4Q2LD.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the aftermath of a devastating civil war and amid the ruins of a fractured America, a father risks everything to protect his daughter from an oppressive new regime - setting the stage for a battle that will decide the fate of humanity.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.2439
+  },
+  "1805475": {
+    "id": 1805475,
+    "type": "movie",
+    "title": "Sapped",
+    "poster_path": "/ktJaqwzLnoSDd3lR1J1w81CIAUT.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Lucas, a laid-off Canadian steelworker, heads into the woods for a solo camping trip but winds up aboard a UFO. Face-to-face with a snarky alien threatening to obliterate Canada, Lucas gets one chance to convince his captor that his homeland is worth saving.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.026
+  },
+  "1805464": {
+    "id": 1805464,
+    "type": "movie",
+    "title": "Cadence",
+    "poster_path": "/zMiqp45nFbQGLjgN0sIdRwgD0zA.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Cadence, an elite runner, discovers how far she will go to succeed. Subjected to a corrupt experiment that harvests adrenaline from her nightmares to enhance her performance, she faces an impossible choice when her dream is threatened: her sport or her morality.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.8716
+  },
+  "1802475": {
+    "id": 1802475,
+    "type": "movie",
+    "title": "GW:s mord - Mordet på Wilma",
+    "poster_path": "/hiwaHO37kEXFmC3O6v6MzGORSzN.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After breaking up with her boyfriend, 17-year-old Wilma is gone. Neighbors hear desperate screams. Two weeks later, the police make a gruesome discovery inside a suitcase.",
+    "industry": "world",
+    "original_language": "sv",
+    "origin_country": [
+      "SE"
+    ],
+    "production_countries": [
+      "SE"
+    ],
+    "spoken_languages": [
+      "sv"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.696
+  },
+  "1801870": {
+    "id": 1801870,
+    "type": "movie",
+    "title": "Second Chance Holiday",
+    "poster_path": "/lSDX9TKJ0y4Jn5CDR0qLral5G2Z.jpg",
+    "backdrop_path": "/ocYYXEi2THSMFG25QR2SLtVH2jb.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Dating expert Chelsey (Ayesha Curry) is determined to break her so-called “curse” of always getting dumped during the holiday season. But when fate reunites her with her high school flame (Matthew Daddario), she wonders if her bad luck might just be the universe’s way of leading her back to her first love.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 12.4367
+  },
+  "1800864": {
+    "id": 1800864,
+    "type": "movie",
+    "title": "Intolerant",
+    "poster_path": "/4bwV9yH6BEb1UwSxZxrzH3tg8FK.jpg",
+    "backdrop_path": "/7W0UXgrGVw7oecjfrDKKvzEzjX.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Paula is having an important day at work, but a mishap with her coffee order sets off a chain of surreal and absurd events. As she struggles to navigate the chaos, she fights to prove her worth and make her voice heard.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "DE"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 1.0643
+  },
+  "1798903": {
+    "id": 1798903,
+    "type": "movie",
+    "title": "KILL/SAVE",
+    "poster_path": "/sFT8SPdPwgYCtnESmMJt9zAqR81.jpg",
+    "backdrop_path": "/wxFZkoIejP9gzxrgEpZguyk0D03.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a locked-down megacity where reality is optional, a lonely programmer risks his mind to rescue his girlfriend from a virtual prison — only to face a truth that challenges the very meaning of salvation and free will.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US",
+      "ES"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 2.6863
+  },
+  "1798642": {
+    "id": 1798642,
+    "type": "movie",
+    "title": "Collaborators",
+    "poster_path": "/oVdqlDczzzXXFiGofAuuVFg15Aw.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Three HR colleagues have to deal with an unexpected, last-minute request on a late Friday afternoon.",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "pt"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.1641
+  },
+  "1798439": {
+    "id": 1798439,
+    "type": "movie",
+    "title": "Den sista turisten i Europa",
+    "poster_path": "/xdSUT7yR8D9SwH3mlZ7RjIgehFV.jpg",
+    "backdrop_path": "/cPg1iO0dTcYNw3KlGhs0ruzdFIO.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "sv",
+    "origin_country": [
+      "SE",
+      "NO"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "sv",
+      "no"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.5727
   }
 };

@@ -1,10 +1,10 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-10T00:51:55Z",
-   "last_run": "2026-11-10T00:51:55Z",
+   "last_attempt_at": "2026-11-10T06:51:24Z",
+   "last_run": "2026-11-10T06:51:24Z",
    "last_status": "success",
-   "last_success": "2026-11-10T00:51:55Z",
+   "last_success": "2026-11-10T06:51:24Z",
    "consecutive_failures": 0,
    "detail": "valid top 20 snapshot"
   },
@@ -41,28 +41,28 @@
    "detail": "132 digital titles; registry 831; checked 64 this run"
   },
   "wp_boxoffice": {
-   "last_attempt_at": "2026-11-10T00:56:08Z",
-   "last_run": "2026-11-10T00:56:08Z",
+   "last_attempt_at": "2026-11-10T06:52:31Z",
+   "last_run": "2026-11-10T06:52:31Z",
    "last_status": "success",
-   "last_success": "2026-11-10T00:56:08Z",
+   "last_success": "2026-11-10T06:52:31Z",
    "consecutive_failures": 0,
-   "detail": "validated 16 rows; 0 staging files changed"
+   "detail": "validated 17 rows; 1 staging files changed"
   },
   "bollybourse_boxoffice": {
-   "last_attempt_at": "2026-11-10T00:56:48Z",
-   "last_run": "2026-11-10T00:56:48Z",
+   "last_attempt_at": "2026-11-10T06:53:04Z",
+   "last_run": "2026-11-10T06:53:04Z",
    "last_status": "success",
-   "last_success": "2026-11-10T00:56:48Z",
+   "last_success": "2026-11-10T06:53:04Z",
    "consecutive_failures": 0,
-   "detail": "validated 83 rows; 1 staging files changed"
+   "detail": "validated 84 rows; 1 staging files changed"
   },
   "filmibeat_boxoffice": {
-   "last_attempt_at": "2026-11-10T00:56:59Z",
-   "last_run": "2026-11-10T00:56:59Z",
+   "last_attempt_at": "2026-11-10T06:53:13Z",
+   "last_run": "2026-11-10T06:53:13Z",
    "last_status": "success",
-   "last_success": "2026-11-10T00:56:59Z",
+   "last_success": "2026-11-10T06:53:13Z",
    "consecutive_failures": 0,
-   "detail": "validated 16 rows; 0 staging files changed"
+   "detail": "validated 15 rows; 0 staging files changed"
   },
   "bollywoodhungama_boxoffice": {
    "last_attempt_at": "2026-11-10T06:03:43Z",
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-10T06:03:43Z"
+ "updated_at": "2026-11-10T06:53:13Z"
 }
