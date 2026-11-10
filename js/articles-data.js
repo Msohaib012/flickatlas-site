@@ -104335,5 +104335,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-10T08:51:57Z"
+  },
+  "edmou2": {
+    "id": "edmou2",
+    "type": "news",
+    "headline": "Nitish Bharadwaj Criticises Ramayana After Initial Praise",
+    "dek": "Mahabharat actor Nitish Bharadwaj has reversed his stance on the film Ramayana, stating that it misrepresents Indian history and alters the epic's moral framework.",
+    "body": [
+      {
+        "h": "Initial Praise and High Expectations",
+        "p": [
+          "Following the release of the promotional trailer for the movie Ramayana, actor Nitish Bharadwaj was among the first prominent celebrities to voice his strong support. Best known for portraying Lord Krishna in the legendary television series Mahabharat, the actor expressed immense enthusiasm for the project.",
+          "At that stage, his optimism was so high that he publicly forecasted the film would secure an Oscar for Best Foreign Film. He also offered high praise for the direction and visual design elements showcased in the trailer."
+        ]
+      },
+      {
+        "h": "Sudden Reversal After Screening",
+        "p": [
+          "The perspective of the Mahabharat actor shifted dramatically after he actually watched the completed feature in theatres. Rather than maintaining his previous endorsement, he voiced sharp disapproval of the final product.",
+          "Consequently, he officially removed his earlier social media statements that had lauded the project, noting that he could no longer find any positive aspects to mention about the cinematic venture."
+        ]
+      },
+      {
+        "h": "Concerns Over the Portrayal of Ravana",
+        "p": [
+          "The core of the veteran actor's critique centered on the narrative treatment of the story's main antagonist, Ravana. Played by actor Yash in the film, the character is depicted as an exceptionally fair, liberal, and socially just figure.",
+          "According to the critique, reinterpreting the antagonist in this manner fundamentally alters the established moral framework of the epic. The actor argued that such modifications undermine the central purpose of the divine avatar's mission."
+        ]
+      },
+      {
+        "h": "Spiritual Significance Versus Visual Spectacle",
+        "p": [
+          "The commentary emphasized that the traditional narrative is deeply integrated into the civilizational and spiritual consciousness of Sanatan Bharat. Therefore, the core identities of the heroes, heroine, and villain cannot be casually changed.",
+          "He asserted that impressive computer-generated imagery and visual effects can never serve as a valid substitute for the deep philosophical meaning, spiritual essence, and core values embedded in the ancient text."
+        ]
+      },
+      {
+        "h": "Disapproval of International Representation",
+        "p": [
+          "Due to these perceived narrative shifts, the actor questioned whether the film is appropriate to represent Indian cinema on the global stage. He maintained that a project presenting a distorted view of the country's history does not deserve international accolades.",
+          "His remarks drew clear lines between technical cinematic execution and the perceived fidelity required when adapting foundational cultural epics for modern audiences."
+        ]
+      },
+      {
+        "h": "Production and Release Details",
+        "p": [
+          "Directed by Nitesh Tiwari, the multi-part cinematic adaptation features Ranbir Kapoor in the role of Lord Rama alongside Sai Pallavi as Sita and Yash as Ravana. The production is overseen by Namit Malhotra.",
+          "The first instalment arrived in cinema halls on November 5, 2026, with the subsequent part slated for a theatrical rollout in the year 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Nitish Bharadwaj initially praised the trailer of Ramayana and predicted Oscar success, but later criticised the released film for misrepresenting history. He specifically objected to the portrayal of Ravana and withdrew his earlier supportive social media posts."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitish Bharadwaj played Lord Krishna in the 1988 television series Mahabharat.",
+      "Ramayana was directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "The first instalment of Ramayana was released on November 5, 2026.",
+      "The second part of Ramayana is scheduled for 2028.",
+      "Ranbir Kapoor stars as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Nitish Bharadwaj",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Mahabharat",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Nitish Bharadwaj",
+      "Ramayana film",
+      "Nitesh Tiwari",
+      "Ranbir Kapoor",
+      "Yash"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Yash_1794299089832_A2Cz_1794299090045_sCdl_c064e715-396c-4ac9-874d-d0770baf98e8_fnmJ.jpg",
+        "caption": "Nitish Bharadwaj Criticises Ramayana After Initial Praise",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:11:45 +0530"
+  },
+  "190fksm": {
+    "id": "190fksm",
+    "type": "news",
+    "headline": "PAW Patrol: The Dino Movie Sets Paramount+ Streaming Release Date",
+    "dek": "The latest animated adventure in the franchise is making its way to digital platforms very soon after a successful theatrical run.",
+    "body": [
+      {
+        "h": "Coming Soon to Streaming",
+        "p": [
+          "Families and fans of the animated franchise will soon be able to watch the latest big-screen adventure directly from their homes. The hit film is scheduled to arrive on digital platforms later this week.",
+          "Paramount has confirmed that the digital release will bring the entire cinematic trio of the franchise to the platform for viewers to enjoy."
+        ]
+      },
+      {
+        "h": "Theatrical Roots and Creators",
+        "p": [
+          "The animated adventure originally debuted in movie theaters through Paramount Pictures worldwide and Elevation Pictures in Canada.",
+          "The project was brought to life by director Cal Brunker, who also co-wrote the screenplay alongside Bob Barlen."
+        ]
+      },
+      {
+        "h": "Plot and New Characters",
+        "p": [
+          "The storyline centers on Ryder and the heroic pups as their aircraft crash-lands on a mysterious, uncharted island inhabited by dinosaurs. During their expedition, they encounter Rex, a Bernese Mountain Dog who uses a wheelchair and has inhabited the island for a couple of years.",
+          "Simultaneously, Mayor Humdinger targets the island to plunder its diamond reserves, inadvertently sparking a dangerous volcanic eruption that the team must handle."
+        ]
+      },
+      {
+        "h": "Star-Studded Voice Ensemble",
+        "p": [
+          "The voice cast features young talent in primary roles, including Carter Young as Marshall, Mckenna Grace as Skye, and Henry Bolan as Ryder.",
+          "Additionally, the ensemble expands with notable figures such as Terry Crews, Jennifer Hudson, Snoop Dogg, Paris Hilton, Bill Nye, Jameela Jamil, Fortune Feimster, and Meredith MacNeill."
+        ]
+      },
+      {
+        "h": "Production and Global Box Office",
+        "p": [
+          "Spin Master Entertainment produced the animated feature utilizing a budget of $40 million.",
+          "Commercially, the film achieved significant success, grossing $160 million worldwide, with substantial contributions from domestic territories as well as major international markets like France, China, Germany, and the United Kingdom."
+        ]
+      },
+      {
+        "h": "Critical Reception and Music",
+        "p": [
+          "Critics responded favorably to the project, awarding it an 83% score on Rotten Tomatoes based on 35 reviews, while general audiences surveyed by CinemaScore granted it an \"A\" grade.",
+          "The musical score was composed by Pinar Toprak and performed by the Royal Scottish National Orchestra, complemented by tracks from the Backstreet Boys and Ava Max."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "PAW Patrol: The Dino Movie is arriving on Paramount+ on November 12, following its theatrical release earlier in August 2026.",
+          "The film features a voice cast including Carter Young, Mckenna Grace, and Snoop Dogg, and has grossed $160 million worldwide on a $40 million budget."
+        ]
+      }
+    ],
+    "facts": [
+      "November 12, 2026",
+      "August 14, 2026",
+      "September 2023",
+      "March 2025",
+      "$40 million",
+      "$160 million",
+      "$53.2 million",
+      "83%"
+    ],
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "Cal Brunker",
+        "Bob Barlen",
+        "Rex",
+        "Mayor Humdinger",
+        "Carter Young",
+        "Mckenna Grace",
+        "Henry Bolan",
+        "Terry Crews",
+        "Jennifer Hudson",
+        "Snoop Dogg",
+        "Paris Hilton",
+        "Bill Nye",
+        "Jameela Jamil",
+        "Fortune Feimster",
+        "Meredith MacNeill",
+        "Pinar Toprak",
+        "James Gunn",
+        "Peter Safran",
+        "Pom Klementieff",
+        "Samuel L. Jackson",
+        "Taylor Sheridan"
+      ],
+      "titles": [
+        "PAW Patrol: The Dino Movie",
+        "Masters of the Universe",
+        "Batman: The Brave and the Bold",
+        "Superman",
+        "Paw Patrol 4"
+      ]
+    },
+    "keywords": [
+      "PAW Patrol The Dino Movie",
+      "Paramount streaming release date",
+      "Cal Brunker",
+      "Carter Young Mckenna Grace"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/PAW-Patrol.jpg?resize=1200,630",
+        "caption": "PAW Patrol: The Dino Movie Sets Paramount+ Streaming Release Date",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 09:09:55 +0000"
+  },
+  "1x04q29": {
+    "id": "1x04q29",
+    "type": "news",
+    "headline": "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
+    "dek": "Original Sita actor Dipika Chikhlia opens up about the costume debates surrounding Nitesh Tiwari's Ramayana, contrasting modern filmmaking with her own experiences.",
+    "body": [
+      {
+        "h": "The Trailer Debut And Initial Backlash",
+        "p": [
+          "When the promotional trailer for Nitesh Tiwari's cinematic adaptation of Ramayana premiered in July, it immediately generated intense public discussions across social media platforms. Viewers and fans of the mythological epic scrutinized the styling, wardrobe choices, and overall aesthetic applied to the female characters in the film.",
+          "Many audience members expressed disappointment, arguing that the modern presentation of the traditional outfits failed to capture the ancient royal aura they anticipated. These pointed critiques set the stage for an ongoing debate regarding creative liberties in modern adaptations of historical and religious epics."
+        ]
+      },
+      {
+        "h": "Box Office Success Amid Continued Discussions",
+        "p": [
+          "Months after the initial wave of criticism regarding its visual choices, Ramayana Part 1 made its official theatrical debut and secured a strong commercial run at the box office. Despite the impressive ticket sales and theatrical turnout, conversations concerning the hair, makeup, and costume designs have persisted among moviegoers.",
+          "The juxtaposition of high box office earnings alongside ongoing aesthetic debates highlights how deeply invested audiences remain in the authentic visual portrayal of legendary characters from the epic."
+        ]
+      },
+      {
+        "h": "Dipika Chikhlia Breaks Her Silence",
+        "p": [
+          "Stepping into the ongoing conversation, the original television Sita, Dipika Chikhlia, recently shared her perspectives during an exclusive media interaction. Known for defining the visual standard of the character for an entire generation, her commentary offered a nostalgic yet grounded view of the controversy.",
+          "Chikhlia addressed the stylistic departures seen in the new cinematic adaptation, noting that every creative team operates under a distinct vision that dictates wardrobe and styling decisions."
+        ]
+      },
+      {
+        "h": "Reflecting On The Classic Television Era",
+        "p": [
+          "Recalling her tenure on the iconic television series Ramayan, the veteran actress emphasized just how radically the behind-the-scenes production process has shifted over the decades. She revealed that she personally took charge of designing her own garments during the shooting of the classic show.",
+          "According to Chikhlia, the cast and crew handled nearly every aspect of their presentation independently back then, contrasting those grassroots methods with today's massive, highly structured studio systems."
+        ]
+      },
+      {
+        "h": "Evolution Toward Corporate Professionalism",
+        "p": [
+          "The seasoned performer described the contemporary film industry as significantly more corporate and professional compared to the television landscape of her era. To illustrate this fundamental shift in production culture, she used an analogy about personal control versus delegated responsibility.",
+          "Comparing the older method to driving a car oneself and the modern studio approach to hiring a dedicated driver, she underscored that modern filmmakers rely on specialized departments to execute their grand visions."
+        ]
+      },
+      {
+        "h": "Trusting The Modern Creative Teams",
+        "p": [
+          "While acknowledging the distinct approaches to production, Chikhlia expressed confidence that the contemporary filmmakers carefully selected specialized professionals to handle the wardrobe department. She maintained an optimistic outlook that the assigned creative personnel would execute their duties effectively.",
+          "The actress also noted that because she has not yet watched the feature film in theaters, she preferred to reserve any definitive artistic judgments until she views the final product."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Original Sita actress Dipika Chikhlia has commented on the costume and styling controversies surrounding Nitesh Tiwari's newly released Ramayana Part 1. Contrasting modern corporate filmmaking with her hands-on experience designing her own wardrobe for the classic television series, she expressed hope in the choices made by the current production team."
+        ]
+      }
+    ],
+    "facts": [
+      "The Ramayana trailer dropped in July.",
+      "Ramayana Part 1 arrived in theatres and is enjoying a strong box-office run.",
+      "Dipika Chikhlia spoke in an exclusive conversation with Filmibeat Sub Editor Mimtaz.",
+      "The story was published on Tuesday, November 10, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Dipika Chikhlia",
+        "Nitesh Tiwari",
+        "Mimtaz",
+        "Ranbir Kapoor",
+        "Lara Dutta",
+        "Sai Pallavi",
+        "Ankit Patel"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayan",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Dipika Chikhlia Ramayana costume",
+      "Nitesh Tiwari Ramayana Part 1",
+      "Ramayana costume controversy",
+      "Dipika Chikhlia interview Filmibeat"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-10t135931-073-43221794299377.jpg",
+        "caption": "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:00:07 +0530"
+  },
+  "b9xsib": {
+    "id": "b9xsib",
+    "type": "news",
+    "headline": "Sleenova SleepMask Review: The $100 Blackout Sound Mask Redefining Nightly Rest",
+    "dek": "An in-depth review of the Sleenova SleepMask, a high-tech blackout and audio device featuring flat ear-speakers, preloaded soundscapes, and an intuitive companion app.",
+    "body": [
+      {
+        "h": "Introduction to the Sleenova SleepMask",
+        "p": [
+          "For light sleepers who frequently rely on audiobooks or podcasts to drift off, finding a comfortable night-time audio solution can be an ongoing challenge. Traditional sleep accessories often slip off, put uncomfortable pressure on the ears, or fail to block ambient light completely. The Sleenova SleepMask enters the market as a novel solution designed to bridge the gap between complete darkness and soothing nighttime sound.",
+          "Equipped with built-in speakers and total light blocking capabilities, this device aims to eliminate common sleep frustrations. Reviewers have highlighted its ability to stay securely in place throughout the night while delivering an immersive audio experience without the bulk or discomfort of conventional headphones."
+        ]
+      },
+      {
+        "h": "Design, Comfort, and Light Blocking",
+        "p": [
+          "One of the standout attributes of the Sleenova SleepMask is its thoughtful ergonomic construction. Featuring padding above, below, and around the eyes with softer material over the nose, it avoids the constricting feeling common in traditional sleep masks. The 3D eye cup design ensures total darkness, making it highly effective for shift workers or anyone dealing with ambient bedroom light.",
+          "Secured simply with Velcro, the mask sits flat against the head, allowing side sleepers to rest comfortably without feeling the hardware. The materials used are breathable, super-soft, and durable, ensuring that the wearer's face does not overheat during use."
+        ]
+      },
+      {
+        "h": "Audio Features and Setup",
+        "p": [
+          "The audio system relies on exceptionally flat ear-speakers embedded within the fabric, catering to various head shapes and sizes. Users can easily connect the mask to their phones via Bluetooth to play podcasts, music, or audiobooks right out of the box. Setup is straightforward and plug-and-play, avoiding the arduous configuration processes typical of modern gadgets.",
+          "For those who prefer built-in options, the companion app offers additional functions such as preloaded soundscapes, binaural beats, alarms, and a nap mode. Developed alongside a Swedish acoustics lab, the audio output is engineered to sound full and immersive even at low volumes."
+        ]
+      },
+      {
+        "h": "Controls and Convenience",
+        "p": [
+          "Managing audio playback while wearing the mask is made simple through a small control box tucked discreetly near the forehead. The buttons for power, volume adjustment, and pausing are easy to locate by touch without creating a heavy or intrusive lump against the skin.",
+          "Additionally, the device promotes phone-free sleep by allowing users to rely on locally stored soundscapes. This design choice helps curb late-night screen time while maintaining a steady, gentle sonic environment for uninterrupted rest."
+        ]
+      },
+      {
+        "h": "Portability and Maintenance",
+        "p": [
+          "For travelers, the mask comes packaged with a lightweight, soft pouch that makes packing for flights or road trips effortless. The pouch also serves as a convenient storage solution when moving between locations.",
+          "When it comes to cleaning, the device requires basic maintenance. Users must remove the electronic components before machine washing the fabric on a cold cycle, followed by drying it flat to preserve the breathable materials."
+        ]
+      },
+      {
+        "h": "Pricing, Warranty, and Availability",
+        "p": [
+          "The Sleenova SleepMask made waves after being highlighted at the 2026 IFA Design Awards in Germany. It is offered in black and gray color options for a standard price of $129.99, though it has been made available at a promotional price of $109.99.",
+          "Customers are given a 30-night trial period to test the product's effectiveness. Furthermore, the purchase includes an 18-month warranty, which can be extended by setting up an account through the official mobile application."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Sleenova SleepMask offers a comfortable, light-blocking sleep solution equipped with flat Bluetooth speakers and preloaded soundscapes. Highlighted at the 2026 IFA Design Awards, the device retails for around $100 and aims to provide an immersive, phone-free rest experience for side and light sleepers."
+        ]
+      }
+    ],
+    "facts": [
+      "The Sleenova SleepMask was highlighted at the 2026 IFA Design Awards in Germany.",
+      "The normal price of the mask is $129.99, while the available price is $109.99.",
+      "The device comes with an 18-month warranty.",
+      "It features a 30-night trial period for users to test it out."
+    ],
+    "entities": {
+      "people": [
+        "Bronwyn Thompson"
+      ],
+      "titles": [
+        "Sleenova SleepMask",
+        "Sleenova SoundMask",
+        "The Minimal Phone 2",
+        "BluHub",
+        "MegCell Pulse"
+      ]
+    },
+    "keywords": [
+      "Sleenova SleepMask",
+      "Sleenova SoundMask",
+      "sleep mask review",
+      "blackout sound mask"
+    ],
+    "images": [
+      {
+        "url": "https://assets.newatlas.com/dims4/default/74d86e4/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F48%2F89%2F807c68f54443938de96fedd50b86%2Fslee6.jpg&na.image_optimisation=0",
+        "caption": "Sleenova SleepMask Review: The $100 Blackout Sound Mask Redefining Nightly Rest",
+        "source": "New Atlas"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 09:11:37 GMT"
   }
 };

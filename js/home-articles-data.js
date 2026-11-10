@@ -37,6 +37,91 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 10 Nov 2026 12:43:58 +0200"
   },
+  "b9xsib": {
+    "id": "b9xsib",
+    "type": "news",
+    "headline": "Sleenova SleepMask Review: The $100 Blackout Sound Mask Redefining Nightly Rest",
+    "dek": "An in-depth review of the Sleenova SleepMask, a high-tech blackout and audio device featuring flat ear-speakers, preloaded soundscapes, and an intuitive companion app.",
+    "entities": {
+      "people": [
+        "Bronwyn Thompson"
+      ],
+      "titles": [
+        "Sleenova SleepMask",
+        "Sleenova SoundMask",
+        "The Minimal Phone 2",
+        "BluHub",
+        "MegCell Pulse"
+      ]
+    },
+    "keywords": [
+      "Sleenova SleepMask",
+      "Sleenova SoundMask",
+      "sleep mask review",
+      "blackout sound mask"
+    ],
+    "images": [
+      {
+        "url": "https://assets.newatlas.com/dims4/default/74d86e4/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F48%2F89%2F807c68f54443938de96fedd50b86%2Fslee6.jpg&na.image_optimisation=0",
+        "caption": "Sleenova SleepMask Review: The $100 Blackout Sound Mask Redefining Nightly Rest",
+        "source": "New Atlas"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 09:11:37 GMT"
+  },
+  "190fksm": {
+    "id": "190fksm",
+    "type": "news",
+    "headline": "PAW Patrol: The Dino Movie Sets Paramount+ Streaming Release Date",
+    "dek": "The latest animated adventure in the franchise is making its way to digital platforms very soon after a successful theatrical run.",
+    "entities": {
+      "people": [
+        "Anubhav Chaudhry",
+        "Cal Brunker",
+        "Bob Barlen",
+        "Rex",
+        "Mayor Humdinger",
+        "Carter Young",
+        "Mckenna Grace",
+        "Henry Bolan",
+        "Terry Crews",
+        "Jennifer Hudson",
+        "Snoop Dogg",
+        "Paris Hilton",
+        "Bill Nye",
+        "Jameela Jamil",
+        "Fortune Feimster",
+        "Meredith MacNeill",
+        "Pinar Toprak",
+        "James Gunn",
+        "Peter Safran",
+        "Pom Klementieff",
+        "Samuel L. Jackson",
+        "Taylor Sheridan"
+      ],
+      "titles": [
+        "PAW Patrol: The Dino Movie",
+        "Masters of the Universe",
+        "Batman: The Brave and the Bold",
+        "Superman",
+        "Paw Patrol 4"
+      ]
+    },
+    "keywords": [
+      "PAW Patrol The Dino Movie",
+      "Paramount streaming release date",
+      "Cal Brunker",
+      "Carter Young Mckenna Grace"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/PAW-Patrol.jpg?resize=1200,630",
+        "caption": "PAW Patrol: The Dino Movie Sets Paramount+ Streaming Release Date",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 09:09:55 +0000"
+  },
   "sqqoyu": {
     "id": "sqqoyu",
     "type": "news",
@@ -75,6 +160,77 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-10T08:51:57Z"
+  },
+  "edmou2": {
+    "id": "edmou2",
+    "type": "news",
+    "headline": "Nitish Bharadwaj Criticises Ramayana After Initial Praise",
+    "dek": "Mahabharat actor Nitish Bharadwaj has reversed his stance on the film Ramayana, stating that it misrepresents Indian history and alters the epic's moral framework.",
+    "entities": {
+      "people": [
+        "Nitish Bharadwaj",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Mahabharat",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Nitish Bharadwaj",
+      "Ramayana film",
+      "Nitesh Tiwari",
+      "Ranbir Kapoor",
+      "Yash"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Yash_1794299089832_A2Cz_1794299090045_sCdl_c064e715-396c-4ac9-874d-d0770baf98e8_fnmJ.jpg",
+        "caption": "Nitish Bharadwaj Criticises Ramayana After Initial Praise",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:11:45 +0530"
+  },
+  "1x04q29": {
+    "id": "1x04q29",
+    "type": "news",
+    "headline": "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
+    "dek": "Original Sita actor Dipika Chikhlia opens up about the costume debates surrounding Nitesh Tiwari's Ramayana, contrasting modern filmmaking with her own experiences.",
+    "entities": {
+      "people": [
+        "Dipika Chikhlia",
+        "Nitesh Tiwari",
+        "Mimtaz",
+        "Ranbir Kapoor",
+        "Lara Dutta",
+        "Sai Pallavi",
+        "Ankit Patel"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayan",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Dipika Chikhlia Ramayana costume",
+      "Nitesh Tiwari Ramayana Part 1",
+      "Ramayana costume controversy",
+      "Dipika Chikhlia interview Filmibeat"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-10t135931-073-43221794299377.jpg",
+        "caption": "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 14:00:07 +0530"
   },
   "lubpd7": {
     "id": "lubpd7",
@@ -4478,159 +4634,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 10:04:20 +0530"
-  },
-  "ovm810": {
-    "id": "ovm810",
-    "type": "news",
-    "headline": "Alan Ritchson's Action-Thriller War Machine Emerges as a Standout Netflix Release",
-    "dek": "Discover how the gritty sci-fi film War Machine has captured audience attention and established Alan Ritchson among the top performers of the year.",
-    "entities": {
-      "people": [
-        "Alan Ritchson",
-        "Patrick Hughes",
-        "Tom Holland",
-        "Inde Navarrette",
-        "Jai Courtney",
-        "Stephan James",
-        "Dennis Quaid",
-        "Esai Morales"
-      ],
-      "titles": [
-        "War Machine",
-        "Reacher",
-        "Spider-Man: Brand New Day",
-        "The Odyssey",
-        "Obsession",
-        "The Hitman's Bodyguard",
-        "Motor City"
-      ]
-    },
-    "keywords": [
-      "Alan Ritchson War Machine",
-      "War Machine Netflix film",
-      "Patrick Hughes War Machine",
-      "War Machine sci fi thriller"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/reacher-season-4-alan-ritchson-1.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Alan Ritchson's Action-Thriller War Machine Emerges as a Standout Netflix Release",
-        "source": "Collider"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 04:31:12 GMT"
-  },
-  "r4xq5l": {
-    "id": "r4xq5l",
-    "type": "news",
-    "headline": "VisionQuest Finale Teases Mindspace Reunion Between Vision and Ultron in New Clip",
-    "dek": "Marvel Studios has released a brand-new clip from the upcoming VisionQuest season finale, highlighting a tense and emotional confrontation between Vision and the dangerous AI Ultron.",
-    "entities": {
-      "people": [
-        "Anubhav Chaudhry",
-        "James Spader",
-        "Paul Bettany",
-        "Terry Matalas",
-        "Joe Locke",
-        "Iman Vellani",
-        "Frank Alvarez",
-        "Mollica",
-        "Stephen King",
-        "Ed Harris",
-        "Inde Navarrette",
-        "Simon Pegg",
-        "Steven Yeun"
-      ],
-      "titles": [
-        "VisionQuest",
-        "WandaVision",
-        "Hot Fuzz",
-        "Highlander",
-        "Predator",
-        "Invincible",
-        "Obsession"
-      ]
-    },
-    "keywords": [
-      "VisionQuest finale",
-      "Ultron Vision reunion",
-      "VisionQuest Forever episode",
-      "Marvel Studios VisionQuest"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/MixCollage-09-Nov-2026-09-39-AM-6333.jpg?resize=1200,630",
-        "caption": "VisionQuest Finale Teases Mindspace Reunion Between Vision and Ultron in New Clip",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 04:24:31 +0000"
-  },
-  "1yg8jsw": {
-    "id": "1yg8jsw",
-    "type": "news",
-    "headline": "Star Wars Jedi Knight: Dark Forces 2 Receives Stunning Unreal Engine 5 Fan Remake",
-    "dek": "A dedicated fan developer has unveiled a remarkable Unreal Engine 5 remake of the classic Star Wars Jedi Knight: Dark Forces 2, complete with a playable public beta.",
-    "entities": {
-      "people": [
-        "Tom Wilson",
-        "Ruppertle"
-      ],
-      "titles": [
-        "Star Wars Jedi Knight: Dark Forces 2",
-        "Star Wars Jedi: Fallen Order",
-        "Star Wars"
-      ]
-    },
-    "keywords": [
-      "Star Wars Jedi Knight Dark Forces 2",
-      "Star Wars Jedi Knight Dark Forces Unreal Engine 5 remake",
-      "Ruppertle Star Wars beta",
-      "Dark Forces 2 remake download"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/star-wars-jedi-knight-dark-forces-2-cover.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Star Wars Jedi Knight: Dark Forces 2 Receives Stunning Unreal Engine 5 Fan Remake",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 04:00:18 GMT"
-  },
-  "u7rkdc": {
-    "id": "u7rkdc",
-    "type": "news",
-    "headline": "Sylvester Stallone Reveals He Wants Andrew Garfield to Play a Villain in Tulsa King",
-    "dek": "Sylvester Stallone shares his desire to cast Andrew Garfield as a villain in the upcoming season of Tulsa King, discussing their unexpected bond and recent interview.",
-    "entities": {
-      "people": [
-        "Sylvester Stallone",
-        "Andrew Garfield",
-        "Roy Horn",
-        "Graham Norton"
-      ],
-      "titles": [
-        "Tulsa King",
-        "Spider-Man",
-        "The Graham Norton Show",
-        "The Rest Is Entertainment",
-        "Rocky"
-      ]
-    },
-    "keywords": [
-      "Sylvester Stallone Tulsa King",
-      "Andrew Garfield Tulsa King",
-      "Sylvester Stallone Andrew Garfield",
-      "Tulsa King season"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135670216,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Sylvester Stallone Reveals He Wants Andrew Garfield to Play a Villain in Tulsa King",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-09T09:23:49+05:30"
   },
   "ighrs2": {
     "id": "ighrs2",

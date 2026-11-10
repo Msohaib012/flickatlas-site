@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T09:51:39Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": {
-     "candidates": 223,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Amitabh, Deepika Or Sunny Deol! Swaroopa Ghosh Reveals Why She Can't Pick A Favourite Co-Star- EXCLUSIVE",
-      "Love In Disguise Episode 7 Release Time Today: When & Where To Stream Ep 7? What To Expect From K-drama?",
-      "Diwali 2026 EXCLUSIVE: Siya Ke Ram's Yukti Kapoor Reveals Biggest Lesson She Learnt From Sita: Loyalty Is...",
-      "Ramayana Box Office Collection Day 4: Scores A Record Opening Weekend For A Diwali Release, Ranks 4th Among Bollywood’s All-Time Opening Weekends",
-      "Jailer 2 Set to Miss 100 Crore Gross in Karnataka and Telugu States as Early OTT Release Nears",
-      "Ramayana Day 6 Advance Booking Crosses 3 Lakh Tickets in National Chains as Bengaluru Leads Ahead of Post-Diwali Weekday Test",
-      "Ramayana designer delivered Ranbir's armor an hour before shoot",
-      "Suriya rules out political entry, says, 'I am quietly watching politics'",
-      "Justin Timberlake attends charity event with his niece and his two sons",
-      "Bhumi Pednekar raises alarm over ‘hazardous’ AQI in Mumbai post Diwali, says people were bursting crackers even at 3 AM",
-      "BTS' V gets curious about Diwali after Indian fans introduce him to festival, wishes them 'Diwali Mubarak'",
-      "Adnan Sami slams Mumbai Airport's Pranaam service over staff's ‘rude’ behaviour, says they didn't inform him of 5-hour flight delay",
-      "Ramayana surprises its biggest critics. 5 things internet got spectacularly wrong",
-      "Comedian Ravi Gupta flips the script on Ramayana, turns mockery into praise",
-      "Diwali 2026: Priyanka Chopra-Nick Jonas’ Elegant Celebration To Alia Bhatt-Ranbir Kapoor, Bachchan’s Homely Gatherings, A Glimpse At Bollywood Celebrating The Festival Of Light",
-      "Diwali 2026: Katrina Kaif, Vicky Kaushal Reveal Son Vihaan’s Face For The FIRST Time; Call Celebration, “Our Brightest Diwali Yet”",
-      "OG Harry Potter Stars Officially React to Replacement Cast as Hit Spin-Off Series Returns",
-      "‘Hogwarts Legacy 2’ Is Officially Happening",
-      "Dave Chappelle’s Charlie Kirk Joke Sparks Huge Backlash, ‘Disgusting’ Says Wife Erika",
-      "5 Best New Paramount+ Series To Binge-Watch This Week (November 9–13, 2026)"
-     ],
-     "updated": [],
-     "count": 216,
-     "detail": "216 stories, 0 duplicates removed, 7 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-09T10:51:02Z",
     "run_id": "42604173143",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "299 stories, 0 duplicates removed, 54 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T09:52:03Z",
-    "run_id": "42596466728",
+    "run_at": "2026-11-10T09:51:44Z",
+    "run_id": "42794077399",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 348,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
-      "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
-      "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
-      "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet"
+      "Last Man In Tower EXCL! Divya Dutta Says She May Have 'Withdrawal Symptoms' After Working With Manoj Bajpayee",
+      "EXCL! Dipika Chikhlia Compares Old & New Ramayana Looks Amid Costume Row; Recalls Designing Her 'Own Clothes'",
+      "Mahadev Star Ragini Chaubey On Actors' Responsibility In Mythological Shows: We Must Not Hurt...- EXCLUSIVE",
+      "Yeh Rishta Kya Kehlata Hai Written Update Nov 10: Maira's Exam In Danger As Scribe Goes Missing - BIG TWIST",
+      "Drishyam 3 Box Office: Post-Diwali Spirit Brings Dhamakedaar 150% Jump On 6th Monday – Only 1.52 Crore Away From The Final Milestone!",
+      "Jailer 2 Worldwide Box Office: 5 Ultimate Records Owned By Rajinikanth’s Roaring Sequel!",
+      "Disco Box Office Collection Day 4: Crashes On 1st Monday, Set To Wrap Lifetime Under 2 Crore",
+      "Ramayana Overseas Box Office Record: Beats Dhurandhar 2’s 4-Day Weekend By A Huge Margin, Settles As 2nd Biggest Below Pathaan!",
+      "Other Mommy Worldwide Box Office: Beats A Big-Budget Masters Of The Universe With Just A Fraction Of Its Spending!",
+      "Salman Khan Confirms Maatrubhumi Trailer Release on November 10 With a Striking New Poster",
+      "Ramayana Day 6 Box Office Needs Just ₹10 Crore More Hindi Net to Match Jawan's ₹300 Crore Pace",
+      "'Ramayana' box office collection day 6 (LIVE)",
+      "Paul McCartney becomes a billionaire",
+      "Pawan Kalyan family tree: About his parents, siblings, weddings, & children",
+      "'Scene' vs 'Mookuthi Amman 2' BO Day 5 [Live]: Suriya's film lead",
+      "Is Priya Bhavani Shankar getting married to her long-time boyfriend?",
+      "Nick Jonas grooves to Sai Abhyankkar's viral Tamil song 'Radhimaa'",
+      "Arun Govil didn't want to play Dashrath in Ramayana, says Nitesh Tiwari wanted a connection with Ramanand Sagar's Ramayan",
+      "Diljit Dosanjh puts Indore concert cancellation rumours to rest, says ‘101% coming’ on November 15",
+      "Mahabharat star Nitish Bharadwaj goes from predicting Oscar for Ramayana to criticising it, says film misrepresents India's history"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 328,
+     "detail": "333 stories, 2 duplicates removed, 15 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T09:52:34Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Nitish Bharadwaj Criticises Ramayana After Initial Praise",
+      "PAW Patrol: The Dino Movie Sets Paramount+ Streaming Release Date",
+      "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
+      "Sleenova SleepMask Review: The $100 Blackout Sound Mask Redefining Nightly Rest"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-09T11:52:11Z",
-    "run_id": "42612187104",
-    "status": "success",
-    "checked": {
-     "candidates": 275,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 261, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,35 +1906,27 @@
      "detail": "now 276, coming 15"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T09:52:34Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": {
+     "candidates": 291,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 276, coming 15"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T09:59:12Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1qlmi5k",
-      "18cz6ls",
-      "7zrtld",
-      "15qljzq",
-      "jitjjt",
-      "6cnve0",
-      "149emoy",
-      "c8dwrt"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2444,27 +2418,34 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T10:00:55Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "npa4ab",
+      "7pgtfo",
+      "1d1jo4e",
+      "ok6yry",
+      "atpdk1",
+      "onqcvz",
+      "1aodtn8"
+     ],
+     "updated": [],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T09:59:09Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": {
-     "candidates": 632,
-     "detail": "624 collected staging rows from readers; 217 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 620 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2878,19 +2859,27 @@
      "detail": "+0 new rows, 10 updated rows, 621 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T10:00:52Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": {
+     "candidates": 641,
+     "detail": "629 collected staging rows from readers; 221 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 628 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3127,32 +3116,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T09:59:12Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
-      "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
-      "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
-      "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3689,19 +3665,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:00:54Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Nitish Bharadwaj Criticises Ramayana After Initial Praise",
+      "PAW Patrol: The Dino Movie Sets Paramount+ Streaming Release Date",
+      "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
+      "Sleenova SleepMask Review: The $100 Blackout Sound Mask Redefining Nightly Rest"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3975,19 +3964,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4309,31 +4298,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T09:52:03Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 216 still unprocessed; today by category: movies 5/6, tv_dramas 4/4, episodes 0/2, box_office 10/6, celebrities_events 6/5, upcoming_releases 5/4, ott_streaming 5/4, trailers 3/3, awards 1/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Love In Disguise Episode 7 Release Time Today: Everything To Know About OTT Streaming",
-      "Jailer 2 Faces Hurdles to Hit 100 Crore Gross in Karnataka and Telugu States Amid OTT Arrival",
-      "Critically Acclaimed British Mockumentary Twenty Twelve Heads to Netflix",
-      "Suriya Clarifies Political Stance, Stresses Careful Observation During 'Scene' Success Meet"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4839,26 +4816,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T09:52:34Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 328 still unprocessed; today by category: movies 5/6, tv_dramas 7/4, episodes 0/2, box_office 10/6, celebrities_events 9/5, upcoming_releases 1/4, ott_streaming 4/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Nitish Bharadwaj Criticises Ramayana After Initial Praise",
+      "PAW Patrol: The Dino Movie Sets Paramount+ Streaming Release Date",
+      "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
+      "Sleenova SleepMask Review: The $100 Blackout Sound Mask Redefining Nightly Rest"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T09:53:46Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5172,24 +5154,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T09:53:52Z",
+    "run_id": "42794077399",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 46,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 373,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5534,19 +5518,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 386,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5826,19 +5815,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6088,19 +6082,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6335,19 +6329,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6634,19 +6628,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6887,19 +6881,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7129,19 +7123,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7394,30 +7388,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-08T12:52:43Z",
-    "run_id": "42482115446",
-    "status": "success",
-    "checked": {
-     "candidates": 513,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 500"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7901,19 +7884,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-10T09:52:54Z",
+    "run_id": "42794077399",
+    "status": "success",
+    "checked": {
+     "candidates": 526,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 16; attempt cooldown deferred: 510"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8153,19 +8147,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T09:59:21Z",
-    "run_id": "42596466728",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8415,8 +8409,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T08:58:29Z"
+ "updated_at": "2026-11-10T10:01:07Z"
 }
