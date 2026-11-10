@@ -242,6 +242,58 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-08",
+      "date_kind": "release",
+      "id": 1773353,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-08",
+      "date_kind": "release",
+      "id": 1776532,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "CA",
       "date": "2026-11-08",
       "date_kind": "digital",
@@ -448,6 +500,34 @@ window.FA_OTT = {
       "date_kind": "digital",
       "id": 1578488,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-06",
+      "date_kind": "release",
+      "id": 1773363,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
+        {
+          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+          "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -1801,6 +1881,18 @@ window.FA_OTT = {
       "date": "2026-09-18",
       "date_kind": "digital",
       "id": 1451944,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-09-11",
+      "date_kind": "release",
+      "id": 1616419,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
@@ -3590,6 +3682,22 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2022-09-01",
+      "date_kind": "release",
+      "id": 84773,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2022-06-30",
       "date_kind": "release",
       "id": 120911,
@@ -3713,6 +3821,22 @@ window.FA_OTT = {
         {
           "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
           "name": "Crunchyroll Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2003-01-26",
+      "date_kind": "release",
+      "id": 1489,
+      "providers": [
+        {
+          "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+          "name": "Hulu"
+        },
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
         }
       ],
       "type": "tv"

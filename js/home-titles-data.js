@@ -23385,5 +23385,635 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-17",
     "popularity": 0.5727
+  },
+  "1773353": {
+    "id": 1773353,
+    "type": "movie",
+    "title": "A Season of Promises",
+    "poster_path": "/yiazMVDZ5Y5OTC1ouO6bbSRhNLn.jpg",
+    "backdrop_path": "/f3AvCv0AioQmDVWynZfVT3Sc2Ln.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Heidi and Sophie are sisters who couldn't be more different – Heidi is buttoned-up and laser-focused on landing the play-by-play job for the local pro hockey team while Sophie is following her dream of making it in stand-up comedy while waitressing. Though a years-ago rift following their mother's passing has pulled the sisters apart, what they do share is a deep love for their father, Ed. When a fainting episode lands Ed in the hospital, Heidi and Sophie rush to his side. Hating seeing their father in that state – and still alone four years after losing their mother – the sisters decide to set aside their differences and team up to play Cupid at Christmas. As Heidi and Sophie work together to prepare Ed for the dating world in the hope he'll find someone special in time for the holiday, they each go on their own journeys that bring them unexpected joy, love and peace for Christmas.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA",
+      "US"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-08",
+    "popularity": 5.0214
+  },
+  "1822468": {
+    "id": 1822468,
+    "type": "movie",
+    "title": "Vandycorn",
+    "poster_path": "/l1hfFhUaIE4yv2Eta3ItJmnv2L6.jpg",
+    "backdrop_path": "/iK6Oar6xcbgBtHWs7zRSASYI1ym.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As recent heir of the Vandycorn company, Cash J. Butters explores cheaper ways to run the family business.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0
+  },
+  "1776532": {
+    "id": 1776532,
+    "type": "movie",
+    "title": "An Ozark Mountain Christmas",
+    "poster_path": "/epsYl1pEpDUMdc7D99SPaMQIgY0.jpg",
+    "backdrop_path": "/kBgalj3fhUVcxtUcH3hhk7D5GVg.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When a dedicated young designer at a crossroads reluctantly follows her sister home to the nostalgic heart of the Ozarks for Christmas, she finds herself rediscovering not only her family’s legacy for commitment to craft, but also the quiet faith and purpose she has lost in the rush of modern life. With the help of Paul, Clara will reconnect with work rooted in care and community.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-08",
+    "popularity": 3.0983
+  },
+  "1796907": {
+    "id": 1796907,
+    "type": "movie",
+    "title": "Arrow For a Stone Heart",
+    "poster_path": "/toDNQLtqQ8kGVbqXPd4BBjLVQXl.jpg",
+    "backdrop_path": "/gQ5VcIPU4yz1FcYgYaxQPBF3UZA.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "On the outskirts of São Paulo city, a train cuts through an indigenous territory. Within this territory, Jera dreams, and in her dreams the city invades her village. In the same community, Rete, an animal that can move through different dimensions, remembers the history of an ancient river, swallowed by the city centuries ago.",
+    "industry": "world",
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "gn"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.3223
+  },
+  "1712441": {
+    "id": 1712441,
+    "type": "movie",
+    "title": "Dance with the Jackals 8",
+    "poster_path": "/8kFjeaCLpTlL5AnjmrArZaIRo2i.jpg",
+    "backdrop_path": "/7asPMrTH5HZqIMlIKui9sLkiILx.jpg",
+    "vote_average": 1.0,
+    "vote_count": 1,
+    "overview": "Having overcome various dangers together for years, the Jackals gang are trying to establish a new life when they are mysteriously kidnapped and find themselves on their way to Germany, right in the middle of a human trafficking network. In this absurd journey, orchestrated by Şerafettin Top Müller, the Jackals must confront their past grievances and survive within an international criminal organization they unknowingly became involved in.",
+    "industry": "world",
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [
+      "TR"
+    ],
+    "spoken_languages": [
+      "tr"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-06",
+    "popularity": 2.1157
+  },
+  "1796503": {
+    "id": 1796503,
+    "type": "movie",
+    "title": "Rivers of Memory",
+    "poster_path": "/7KhGMQoGcFEYifbnRxodsnoCZeg.jpg",
+    "backdrop_path": "/fbIraboElDMeVn5kkbo68X8CrfM.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Along the coast of Odisha, India, the sea is slowly swallowing entire villages. Once-fertile land is turning into barren plains, and an older generation is being left behind, with the memories of the past.",
+    "industry": "bollywood",
+    "original_language": "or",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "or"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.5822
+  },
+  "1773363": {
+    "id": 1773363,
+    "type": "movie",
+    "title": "Merry Memories",
+    "poster_path": "/wQU38W3O614P6QABFAPRvz5SmRv.jpg",
+    "backdrop_path": "/8rnfj1cLsP7G99V4TT6i3kkM2M2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When her nephew is assigned a Christmas scrapbook project for his deployed mother, organized accountant Michaela is forced to partner with charming teacher Bryan to help bring the season to life. What begins as a carefully planned holiday checklist quickly turns into a string of heartfelt, unexpected adventures that draw them closer together. But with Bryan preparing to leave town after Christmas, Michaela must decide if she’s finally ready to let love disrupt her perfectly ordered life.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "CA",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Philo",
+        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-06",
+    "popularity": 2.0552
+  },
+  "1790950": {
+    "id": 1790950,
+    "type": "movie",
+    "title": "Tiché Vody",
+    "poster_path": "/2H6yro9mKg19vrvRi2lWqggtXRc.jpg",
+    "backdrop_path": "/wmLpWwPsm0zj0UDLHZGHy8Kmkhq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In this portrait, a creative rise gradually collides with a personal fall, followed by a search for the strength to carry on. It follows his journey from the making of the album S.A.M.O. to the preparation of his biggest concert to date. Through different periods and situations, the film brings us closer to Saul's personality, his way of thinking, his relationship with music, and the people around him. In this way, the film captures not only the creation of music, but also the person at a time of profound personal and creative transformation.",
+    "industry": "world",
+    "original_language": "sk",
+    "origin_country": [
+      "SK"
+    ],
+    "production_countries": [
+      "SK"
+    ],
+    "spoken_languages": [
+      "sk"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.1803
+  },
+  "1790560": {
+    "id": 1790560,
+    "type": "movie",
+    "title": "Happy Ending",
+    "poster_path": "/tBniKokS9EhsmWu5sTFOjRlt5A8.jpg",
+    "backdrop_path": "/1QsH9in9NSQDhNjcjqbcDOz1VWm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Elaheh, a literature student, lost her father three years ago during the protests against Ali Khamenei's regime. Now she is piecing her life back together, working illegally as a masseuse in a private flat. Whispers of Elaheh's magical hands spread through Tehran. Men with ties to the government book appointments, some enticed by the prospect of a \"happy ending\". Elaheh never wears a hijab and speaks openly about her hair, but takes only the risks she can measure. She dreams of escaping suffocating Tehran and stealing a kiss from her boyfriend, Soheil, in the heart of Berlin.",
+    "industry": "world",
+    "original_language": "fa",
+    "origin_country": [
+      "IR"
+    ],
+    "production_countries": [
+      "IR"
+    ],
+    "spoken_languages": [
+      "fa"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.5404
+  },
+  "1788493": {
+    "id": 1788493,
+    "type": "movie",
+    "title": "The Death of Eskel McLaughlin",
+    "poster_path": "/gANz69f5iEJDGQQwmL050QB2h3W.jpg",
+    "backdrop_path": "/jwnoVkzwFhRTVtxZmPnB2rZCPAt.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The sequel to 'The Adventures of Eskel McLaughlin'. Join Eskel McLaughlin on a new case, in a high-stakes political thriller where the future of Wales is a stake.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.0528
+  },
+  "1786177": {
+    "id": 1786177,
+    "type": "movie",
+    "title": "On Top of the Cliff",
+    "poster_path": "/zXjdTuybKa9Qh4k8nAi2Jl0dHje.jpg",
+    "backdrop_path": "/z3N74nXObpOSdjUmllh97ZidPvl.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In 1950s Lima, a Catholic girls' boarding school clings to a cliff above the Pacific Ocean. Ana, 16, pursues holiness obsessively, secretly mortifying her body. When Rebecca, a rebellious foreigner, arrives at the school, Ana’s leadership starts to crack. As fascination turns into jealousy and desire clashes with faith, discipline takes on a dangerous charge.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "PE",
+      "CH",
+      "MX"
+    ],
+    "production_countries": [
+      "MX",
+      "PE",
+      "CH"
+    ],
+    "spoken_languages": [
+      "es",
+      "fr"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.4279
+  },
+  "1783607": {
+    "id": 1783607,
+    "type": "movie",
+    "title": "A los traidores",
+    "poster_path": "/e0nGSHh5tVajnFKeDqcvdSrPW8R.jpg",
+    "backdrop_path": "/jftF8QThZIBPQfOR2LnpzPsf1GO.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      "ES"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-10",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.4015
+  },
+  "1783442": {
+    "id": 1783442,
+    "type": "movie",
+    "title": "Hell's No Place for a Pretty Face",
+    "poster_path": "/pljaNGsFfW8BYY58uQBJxqhStHi.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two pornstars cross the country robbing porn theaters",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Planned",
+    "providers": [],
+    "release_date": "2026-11-17",
+    "popularity": 0.6785
+  },
+  "1400837": {
+    "id": 1400837,
+    "type": "movie",
+    "title": "Other Mommy",
+    "poster_path": "/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+    "vote_average": 5.781,
+    "vote_count": 203,
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-07",
+    "popularity": 62.5888
+  },
+  "1616419": {
+    "id": 1616419,
+    "type": "movie",
+    "title": "The Good Lawyer",
+    "poster_path": "/rVkMvD7CpBueGmNIz2uVgluhTjS.jpg",
+    "backdrop_path": "/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+    "vote_average": 7.1,
+    "vote_count": 7,
+    "overview": "Léonard Landry, a flamboyant criminal defence lawyer, overdoses in the middle of the courtroom. After undergoing rehab, he has one week to save his career and prepare for his own trial, reluctantly assisted by a tenacious intern, Noé. This marks the beginning of a frantic race involving legal manoeuvres, temptations and dramatic twists.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-09-11",
+    "popularity": 26.8133
+  },
+  "84773": {
+    "id": 84773,
+    "type": "tv",
+    "title": "The Lord of the Rings: The Rings of Power",
+    "poster_path": "/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+    "backdrop_path": "/achmETPRJZc9QVXsMPgHwYEyNar.jpg",
+    "vote_average": 7.215,
+    "vote_count": 4018,
+    "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2022-09-01",
+    "popularity": 190.1257
+  },
+  "1489": {
+    "id": 1489,
+    "type": "tv",
+    "title": "Jimmy Kimmel Live!",
+    "poster_path": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+    "backdrop_path": "/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
+    "vote_average": 5.3,
+    "vote_count": 222,
+    "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-10",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Hulu",
+        "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2003-01-26",
+    "popularity": 101.4576
+  },
+  "341224": {
+    "id": 341224,
+    "type": "tv",
+    "title": "Nayi Manzil (TV Series)",
+    "poster_path": "/rjm4h2nqQyAUFcmCHsuoWWopFXU.jpg",
+    "backdrop_path": null,
+    "vote_average": 5.0,
+    "vote_count": 1,
+    "overview": "Nayi Manzil is a fast-paced Urdu-language tech drama series that explores the cutthroat world of South Asian startups, digital transformation, and the sacrifices required to build an empire from scratch. Set against the backdrop of Pakistan's evolving tech landscape, the show blends the high-stakes financial tension of Succession with the disruptive entrepreneurial spirit of Silicon Valley.",
+    "industry": "pakistani",
+    "original_language": "en",
+    "origin_country": [
+      "JP",
+      "PK",
+      "KR",
+      "US"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "zh",
+      "en",
+      "ja",
+      "ko",
+      "ur"
+    ],
+    "published_at": "2026-11-10",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-10-26",
+    "popularity": 0.4755
+  },
+  "1610188": {
+    "id": 1610188,
+    "type": "movie",
+    "title": "Crazy Kalyanam",
+    "poster_path": "/dt6VT9GSCH6PSnTvngbF0IEnAho.jpg",
+    "backdrop_path": "/4E7AhaPeYQbJQtumREm9IDo16bm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The story focuses on a village girl, played by Anupama Parameswaran, who faces struggles regarding her inability to get married, which drives the comedic and family-oriented plot.",
+    "industry": "bollywood",
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "published_at": "2026-11-10",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-10-16",
+    "popularity": 1.6406
   }
 };

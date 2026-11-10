@@ -108194,5 +108194,373 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 16:35:56 +0000"
+  },
+  "1euqxzn": {
+    "id": "1euqxzn",
+    "type": "news",
+    "headline": "Ramayana Surpasses 600 Crore Rupees Worldwide Within Five Days of Release",
+    "dek": "The mythological epic Ramayana sets a new post-Diwali box office benchmark, crossing major global revenue milestones and recording massive ticket sales shortly after its theatrical debut.",
+    "body": [
+      {
+        "h": "Global Revenue Milestone",
+        "p": [
+          "The cinematic adaptation Ramayana has achieved a massive commercial milestone, crossing the 600 crore rupees threshold in worldwide gross earnings in just five days. The production has drawn substantial crowds internationally, reflecting strong ticket demand across multiple markets.",
+          "This rapid accumulation of global revenue places the title among the highest-earning recent releases, outpacing expectations set during its initial rollout."
+        ]
+      },
+      {
+        "h": "Domestic and Hindi Version Performance",
+        "p": [
+          "Within the domestic market, total earnings reached 413 crore rupees, propelled by a substantial surge in audience turnout on Monday. Specifically, the Hindi-language version contributed 107.50 crore rupees in net box office collections over the same timeframe.",
+          "The strong weekday hold demonstrates robust viewer retention following the opening weekend, signaling sustained interest across various regional circuits."
+        ]
+      },
+      {
+        "h": "Breaking Previous Records",
+        "p": [
+          "The feature successfully surpassed the previous post-Diwali box office record previously held by Tiger 3. This achievement highlights a shift in festive theatrical benchmarks for the industry.",
+          "Additionally, ticket booking platforms experienced heavy traffic, recording 1.4 lakh ticket sales within a single hour during the opening phases of availability."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "Audiences and critics alike have praised the lead performances delivered by Yash, Ranbir Kapoor, Sai Pallavi, and Ravi Dubey. Their portrayals have been central to the positive word-of-mouth driving ticket sales.",
+          "The ensemble cast brings significant star power to the epic narrative, contributing heavily to the widespread appeal of the project across demographic groups."
+        ]
+      },
+      {
+        "h": "Visual Effects and Production",
+        "p": [
+          "A notable component of the film's theatrical presentation is its extensive use of computer-generated imagery and digital environments. Visual effects were handled by Prime Focus DNEG.",
+          "The technical execution of the mythical elements has drawn considerable attention from moviegoers, enhancing the grand scale required for the source material."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana crossed 600 crore rupees in worldwide gross earnings within five days, surpassing the post-Diwali record previously held by Tiger 3. The film earned 413 crore rupees domestically alongside 107.50 crore rupees net for the Hindi version, backed by performances from its lead cast and visual effects by Prime Focus DNEG."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed 600 crore rupees worldwide gross within five days of release.",
+      "The Hindi version earned 107.50 crore rupees net.",
+      "Domestic earnings reached 413 crore rupees.",
+      "The film surpassed the previous post-Diwali record held by Tiger 3.",
+      "The production sold 1.4 lakh tickets in an hour.",
+      "Cast members include Yash, Ranbir Kapoor, Sai Pallavi, and Ravi Dubey.",
+      "Visual effects were handled by Prime Focus DNEG.",
+      "The article was updated on November 10, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravi Dubey"
+      ],
+      "titles": [
+        "Ramayana",
+        "Tiger 3"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Ramayana box office collection",
+      "Ramayana worldwide gross",
+      "Ranbir Kapoor Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202611/ramayanaboxofficehit-s0-original-sixteen-to-nine.jpg?VersionId=lyZ0cf4A7v30BtLnrrlYDVqoiWRSI3xW",
+        "caption": "Ramayana Surpasses 600 Crore Rupees Worldwide Within Five Days of Release",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 23:04:26 +0530"
+  },
+  "12pw89d": {
+    "id": "12pw89d",
+    "type": "news",
+    "headline": "Salman Khan's Maatrubhumi Trailer Explores War's Human Cost",
+    "dek": "The official preview for Maatrubhumi: May War Rest in Peace has been released, showcasing Salman Khan in an action-oriented patriotic role alongside Chitrangada Singh.",
+    "body": [
+      {
+        "h": "Introduction to the Trailer",
+        "p": [
+          "The production team behind the upcoming project officially launched the preview material on Tuesday evening. This initial footage provides audiences with a detailed look into a narrative centered around national devotion, personal sacrifice, and the heavy toll that armed conflict takes on humanity.",
+          "Bollywood superstar Salman Khan leads the cast as an Indian soldier, stepping into high-intensity combat scenarios while maintaining a deeply emotional core throughout the promotional material."
+        ]
+      },
+      {
+        "h": "Setting and Thematic Focus",
+        "p": [
+          "Positioned against the backdrop of the India-China dispute, the narrative deliberately shifts its lens away from standard combat tropes. Instead, the project prioritizes human emotion and the shared suffering experienced by individuals on opposing sides of the border.",
+          "The creative vision emphasizes that love for one's country and the pursuit of tranquility can exist simultaneously, highlighting the severe repercussions of geopolitical disputes on ordinary families."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "Alongside the lead actor, actress Chitrangada Singh joins the project portraying the spouse of Khan's character. Her inclusion introduces a vital emotional layer to the unfolding dramatic elements.",
+          "The extended preview, lasting roughly four and a half minutes, also incorporates stunning scenic backdrops to enhance the grand scale of the cinematic presentation."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Crew",
+        "p": [
+          "Apoorva Lakhia serves as the director for this cinematic venture, guiding the storytelling through complex emotional landscapes and large-scale action set pieces.",
+          "The production benefits from a robust technical and musical team contributing to the dramatic score and overall auditory experience that supports the intense visual narrative."
+        ]
+      },
+      {
+        "h": "Release Details and Delays",
+        "p": [
+          "Fans have experienced a lengthy wait for this project, as the theatrical arrival has faced numerous postponements prior to the current schedule.",
+          "The film is now officially locked in to reach cinemas on December 4, bringing the long-awaited project to the big screen."
+        ]
+      },
+      {
+        "h": "Significance for Fans",
+        "p": [
+          "The newly unveiled footage offers a departure from typical commercial cinema styles, promising a distinctive viewing experience for followers of the leading actor.",
+          "By focusing on the universal suffering caused by warfare and families torn apart away from front lines, the project aims to deliver a message that resonates deeply with viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official trailer for Salman Khan's Maatrubhumi: May War Rest in Peace has debuted, showcasing a patriotic narrative directed by Apoorva Lakhia. Scheduled for a December 4 theatrical release, the film co-stars Chitrangada Singh and focuses on the human costs of the India-China conflict."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer of Maatrubhumi: May War Rest in Peace was released on Tuesday evening, November 10, 2026.",
+      "The film is directed by Apoorva Lakhia.",
+      "Salman Khan plays an Indian soldier in the film.",
+      "Chitrangada Singh plays Salman Khan's wife in the film.",
+      "The film is slated to hit the screens on December 4 after being postponed many times.",
+      "The trailer runs for around four-and-a-half minutes.",
+      "The film is set against the backdrop of the India-China conflict."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Chitrangada Singh"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest in Peace"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi trailer",
+      "Apoorva Lakhia Maatrubhumi",
+      "Chitrangada Singh Maatrubhumi"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/maatrubhumi-trailer-103901321-16x9_0.jpeg?VersionId=8ZHBVAW4F6Cou6_74sCLXoR10Cyp63Ee",
+        "caption": "Salman Khan's Maatrubhumi Trailer Explores War's Human Cost",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 23:10:14 +0530"
+  },
+  "zzl5pv": {
+    "id": "zzl5pv",
+    "type": "news",
+    "headline": "A24 Documentary You Can See Everything Crosses Major Box Office Milestone",
+    "dek": "Co-directed by Nathan Fielder and Lance Oppenheim, the three-hour documentary about Elizabeth Holmes has surged past $80 million in North America.",
+    "body": [
+      {
+        "h": "A Surprising Box Office Phenomenon",
+        "p": [
+          "A24 has captured the attention of theatergoers with its ambitious three-hour documentary feature, You Can See Everything. The project has defied conventional expectations for non-fiction cinema by sustaining immense commercial momentum since its October 16 release.",
+          "Audiences have turned out in droves across North America, driving the feature to a remarkable milestone of $80 million at the domestic box office. This strong performance highlights a growing appetite for daring cinematic storytelling that stretches standard runtime limits."
+        ]
+      },
+      {
+        "h": "Creative Vision and Leadership",
+        "p": [
+          "The project is co-directed by Nathan Fielder and Lance Oppenheim, two distinct creative voices known for pushing structural boundaries. Their collaboration has resulted in a mind-bending examination of the days leading up to the incarceration of disgraced Theranos founder Elizabeth Holmes.",
+          "Critics and early viewers have praised the documentary for its unprecedented framing and psychological depth. Reviewers have lauded it as one of the most original cinematic experiences in recent memory, capable of making viewers question their perception of reality."
+        ]
+      },
+      {
+        "h": "Historical Box Office Standing",
+        "p": [
+          "With its current earnings, You Can See Everything has secured a prestigious spot in box office history books. It now stands as the second-highest-grossing non-music documentary ever released in North America.",
+          "The film trails only Michael Moore's polarizing 2005 release Fahrenheit 9/11, which finished its domestic theatrical run with $119 million. Achieving this ranking without yet opening in most international territories underscores the sheer scale of its domestic success."
+        ]
+      },
+      {
+        "h": "Momentum Toward the Nine-Figure Mark",
+        "p": [
+          "Industry analysts are closely monitoring the picture as it continues to pull in steady crowds during subsequent weekends. Maintaining its current theatrical footprint makes crossing the $100 million threshold an increasingly likely outcome in the near future.",
+          "Word of mouth has played a crucial role in sustaining this box office momentum. Cultural resonance and critical acclaim have allowed the documentary to compete effectively against traditional blockbusters playing in multiplexes."
+        ]
+      },
+      {
+        "h": "Oscar Race Contender Discussions",
+        "p": [
+          "Beyond its financial success, the documentary has entered conversations regarding next year's Academy Awards. Industry observers view it as a formidable presence in the upcoming awards season.",
+          "While major narrative features like Christopher Nolan's historical epic The Odyssey dominate early discussions, this documentary represents an unconventional challenger capable of shaking up traditional categories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A24's three-hour documentary You Can See Everything, co-directed by Nathan Fielder and Lance Oppenheim, has surpassed $80 million at the North American box office. Chronicling the days before Elizabeth Holmes went to prison, the film has become the second-highest-grossing non-music documentary in domestic box office history."
+        ]
+      }
+    ],
+    "facts": [
+      "You Can See Everything is a three-hour documentary co-directed by Nathan Fielder and Lance Oppenheim.",
+      "The film focuses on the days before the incarceration of Theranos founder Elizabeth Holmes.",
+      "You Can See Everything was released on October 16.",
+      "The documentary has grossed $80 million at the North American box office.",
+      "It is now the second-highest-grossing non-music documentary ever in North America, behind Fahrenheit 9/11.",
+      "Fahrenheit 9/11 earned $119 million."
+    ],
+    "entities": {
+      "people": [
+        "Nathan Fielder",
+        "Lance Oppenheim",
+        "Elizabeth Holmes",
+        "Michael Moore",
+        "Christopher Nolan",
+        "Samuel R. Murrian"
+      ],
+      "titles": [
+        "You Can See Everything",
+        "Fahrenheit 9/11",
+        "The Odyssey",
+        "Fjord",
+        "Wild Horse Nine",
+        "La Bola Negra",
+        "Project Hail Mary",
+        "Parasite",
+        "Everything Everywhere All at Once",
+        "Oppenheimer",
+        "Birdman",
+        "No Country for Old Men"
+      ]
+    },
+    "keywords": [
+      "You Can See Everything film",
+      "Nathan Fielder Lance Oppenheim documentary",
+      "Elizabeth Holmes movie box office",
+      "You Can See Everything box office 80 million"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/a24-logo.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "A24 Documentary You Can See Everything Crosses Major Box Office Milestone",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 17:40:12 GMT"
+  },
+  "128ng8o": {
+    "id": "128ng8o",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Eyes Rs 62 Crore Milestone in Tamil Nadu on Day 5",
+    "dek": "The Jithu Madhavan directorial Scene continues its strong theatrical journey, projecting significant earnings on its fifth day in Tamil Nadu.",
+    "body": [
+      {
+        "h": "Steady Theatrical Momentum",
+        "p": [
+          "The action comedy film Scene has continued its theatrical run with a remarkably steady performance within the state of Tamil Nadu. Following its initial theatrical arrival during the festive period, the production has successfully maintained its audience momentum past the opening weekend. Trade estimates indicate that the feature is positioned to secure another notable financial haul as its fifth day on the big screen concludes.",
+          "Industry tracker Jerin Georgekutty shared insights regarding the ongoing theatrical trajectory of the movie. The projections highlight the enduring appeal of the feature among local audiences as it transitions smoothly from its opening weekend numbers into the standard weekday window."
+        ]
+      },
+      {
+        "h": "Day 5 Projected Earnings",
+        "p": [
+          "Current trade projections suggest that the feature will pull in between Rs 7 crore and Rs 7.50 crore within Tamil Nadu on Tuesday, November 10. This anticipated single day collection further solidifies the steady nature of the theatrical run during the initial week.",
+          "The expected earnings for this specific day contribute heavily to the overarching financial milestones being tracked by industry experts. The consistent footfall on a weekday demonstrates stable audience interest across various screening locations."
+        ]
+      },
+      {
+        "h": "Approaching the Rs 62 Crore Mark",
+        "p": [
+          "Should these current trade predictions materialize accurately, the combined five day box office haul for the feature in Tamil Nadu is expected to approach the significant milestone of Rs 62 crore. This cumulative figure includes approximately Rs 1.15 crore originating specifically from Puducherry.",
+          "Prior to these latest projections, tracker data indicated that the film had accumulated roughly Rs 55 crore in the state upon completing its first four days. Meanwhile, official sources have already confirmed that the regional collections have crossed the Rs 60 crore threshold."
+        ]
+      },
+      {
+        "h": "The Path to Rs 100 Crore",
+        "p": [
+          "Industry analysts have floated the possibility that the feature could ultimately cross the Rs 100 crore gross milestone in Tamil Nadu. For this ambitious projection to become a reality, the current box office momentum must persist steadily through the conclusion of the upcoming weekend.",
+          "At present, this remains an optimistic trade projection rather than an officially guaranteed milestone. The ultimate outcome will rely heavily on how the movie performs throughout the remaining weekdays and the strength of its second weekend collections."
+        ]
+      },
+      {
+        "h": "Release and Cast Background",
+        "p": [
+          "The film officially arrived in cinemas on November 6, capitalising on the Diwali holiday frame. Headlined by Suriya, the narrative also features performances by Nazriya Nazim, Naslen, Anandraj, Lal, and Raj Priyan among other supporting cast members.",
+          "The project serves as the directorial debut for Malayalam filmmaker Jithu Madhavan within the Tamil cinema industry. Additionally, the movie introduces actor Naslen and music composer Sushin Shyam to the regional film landscape."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "Written and directed by Jithu Madhavan, the action comedy was backed financially by producers Suriya and Jyothika under the banners of Zhagaram Studios and 2D Entertainment. The creative crew features Sushin Shyam handling the musical score and Vineeth Augustian managing cinematography.",
+          "Editing duties were carried out by Ajmal Sabu, while Vishnu Govind took charge of the audiography. The Tamil dialogues for the cinematic release were penned by Dravid Selvam."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's action comedy Scene is projected to bring in between Rs 7 crore and Rs 7.50 crore in Tamil Nadu on its fifth day, pushing its five-day total close to Rs 62 crore. Backed by strong trade momentum following its November 6 Diwali release, the film is eyed for a potential Rs 100 crore milestone in the state if current trends persist."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released in theatres on November 6",
+      "Day 5 collection is projected between Rs 7 crore and Rs 7.50 crore in Tamil Nadu on Tuesday, November 10",
+      "Combined five-day collection is expected to approach Rs 62 crore including Rs 1.15 crore from Puducherry",
+      "Four-day collections reached around Rs 55 crore according to trade estimations while official sources confirmed it passed Rs 60 crore",
+      "The film was released during the Diwali weekend"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jerin Georgekutty",
+        "Jithu Madhavan",
+        "Nazriya Nazim",
+        "Naslen",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Sushin Shyam",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Vishnu Govind",
+        "Dravid Selvam",
+        "Jyothika"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene movie",
+      "Scene Tamil Nadu collection",
+      "Jithu Madhavan Scene film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene-97241794330171.jpg",
+        "caption": "Suriya Starrer Scene Eyes Rs 62 Crore Milestone in Tamil Nadu on Day 5",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 22:34:34 +0530"
   }
 };
