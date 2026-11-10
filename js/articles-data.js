@@ -105834,5 +105834,488 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "Tue, 10 Nov 2026 05:40:00 EST"
+  },
+  "upfexe": {
+    "id": "upfexe",
+    "type": "news",
+    "headline": "Izzat Episode 51 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 51 aired on 2026-11-09 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 51 aired on 2026-11-09 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=qHluUf_FYYg"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein dikhaya gaya hai ke Aryan aur Parnia ek doosre se phone par baat karte hain aur Parnia apne pyaar ka izhar karti hai. Aryan Parnia ko yeh yakeen dilata hai ke woh hamesha uske sath rahega. Parnia apne ghar walon ke sath shaadi ki tayaariyon mein masroof hoti hai aur khush nazar aati hai. Dusri taraf, police station mein munshi aur SP Aryan ke sath mil kar case ki mazeed tehqeeqat karte hain. Aryan office mein cctv footage check karta hai jismein kuch shaqi log nazar aate hain. Parnia raat ko apne ghar mein baith kar Aryan ki tasveer dekhti hai aur udaas ho jati hai jab use Aryan ki taraf se koi jawab nahi milta. Episode ke aakhir mein Aryan ek restaurant mein baitha hota hai jahan woh apne dost ke sath baat kar raha hota hai aur kehta hai ke woh apne dushmano ko jeene to deta hai lekin sukoon se nahi jeene deta. Episode yahin par khatam ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 51 aired on 2026-11-09.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=qHluUf_FYYg",
+      "YouTube views: 30,514.",
+      "Episode summary added 2026-11-10."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/qHluUf_FYYg/hqdefault.jpg",
+        "caption": "Izzat Episode 51",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-09T15:00:39Z"
+  },
+  "1k3alog": {
+    "id": "1k3alog",
+    "type": "news",
+    "headline": "Guy Moot Makes History as First Publisher to Win Music Industry Trusts Award",
+    "dek": "The Warner Chappell Music CEO and chair received the prestigious U.K. honor at a London ceremony presented by Mark Ronson.",
+    "body": [
+      {
+        "h": "A Historic Milestone for Music Publishing",
+        "p": [
+          "Guy Moot, the chair and CEO of Warner Chappell Music, has etched his name in the record books by becoming the first music publisher to ever receive the esteemed Music Industry Trusts Award. This recognition marks a significant turning point for publishing executives, who traditionally operate behind the scenes compared to their counterparts on the recorded music side.",
+          "The annual accolade serves to highlight individuals who have made an extraordinary impact on the United Kingdom music landscape. Moot was officially presented with the honor during a gala event held at London’s Grosvenor House Hotel."
+        ]
+      },
+      {
+        "h": "Ceremony and Presentation Highlights",
+        "p": [
+          "Musician and longtime friend Mark Ronson took to the stage to present the trophy to Moot, adding a personal touch to the evening's celebrations. The gathering drew a notable crowd of industry figures, including legendary guitarist Jimmy Page, Tinie Tempah, songwriters Amy Allen and John Ryan, Celeste, and Louise Redknapp.",
+          "Beyond honoring Moot's achievements, the ceremony served as a vital fundraiser for two prominent U.K. music charities: The BRIT Trust and Nordoff and Robbins, the latter of which functions as the country's leading music therapy provider."
+        ]
+      },
+      {
+        "h": "Three Decades in the Industry",
+        "p": [
+          "The recognition acknowledges Moot's illustrious career spanning more than 30 years, which originally began in record stores before evolving into high-level executive positions. Throughout his professional journey, he has remained a steadfast advocate for songwriters, particularly at Warner Chappell Music, the global publishing division of the Warner Music Group.",
+          "Reflecting on his career during his acceptance speech, Moot dedicated the milestone to the creative minds he collaborates with daily, emphasizing that the industry fundamentally relies on the people who write the songs."
+        ]
+      },
+      {
+        "h": "Leadership at Warner Chappell Music",
+        "p": [
+          "Moot initially joined Warner Chappell Music as co-chair and CEO alongside Carianne Marshall in 2019, before transitioning to the company's sole chair and CEO earlier this year. During his tenure, he has overseen pivotal deals with contemporary hitmakers such as Dua Lipa, Ed Sheeran, RAYE, and Charli xcx.",
+          "In addition to working with modern stars, Moot has secured major catalogue agreements for legendary artists including David Bowie, George Michael, and Madonna, further cementing the publisher's dominant position in the global market."
+        ]
+      },
+      {
+        "h": "Charitable Impact of the MITS Award",
+        "p": [
+          "Established in 1992, the Music Industry Trusts Award has maintained a long-standing tradition of supporting charitable causes within the creative sector. Over the past three decades, the initiative has successfully raised more than £7 million for its beneficiary organizations.",
+          "During the event, speakers highlighted how organizations like Nordoff and Robbins and The BRIT School demonstrate the healing and transformative power of music, underscoring the importance of keeping doors open for upcoming generations of creators."
+        ]
+      },
+      {
+        "h": "Joining an Elite Group of Honorees",
+        "p": [
+          "By accepting the 2026 MITS award, Moot joins an illustrious roster of past recipients who have shaped the entertainment business. Previous honorees include Annie Lennox, Kylie Minogue, Sir Elton John, Bernie Taupin, Lucian Grainge, and Michael Eavis.",
+          "The list also features notable industry figures such as Pete Tong, Roger Daltrey, Rob Stringer, Emma Banks, Jamal Edwards, Jason Iley, and last year's recipient, Global founder and executive president Ashley Tabor-King."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Warner Chappell Music CEO Guy Moot became the first music publisher to win the Music Industry Trusts Award at a ceremony in London presented by Mark Ronson. The honor recognizes his 30-year career and advocacy for songwriters while raising funds for U.K. music charities."
+        ]
+      }
+    ],
+    "facts": [
+      "Guy Moot is the chair and CEO of Warner Chappell Music",
+      "Guy Moot is the first music publisher to win the Music Industry Trusts Award",
+      "The ceremony took place at London's Grosvenor House Hotel on Monday, Nov. 9",
+      "Mark Ronson presented the award to Guy Moot",
+      "The event raised funds for The BRIT Trust and Nordoff and Robbins",
+      "The MITS award was established in 1992",
+      "The MITS has raised more than £7 million for its beneficiary charities over three decades",
+      "Guy Moot was appointed co-chair and CEO alongside Carianne Marshall in 2019"
+    ],
+    "entities": {
+      "people": [
+        "Guy Moot",
+        "Mark Ronson",
+        "Carianne Marshall",
+        "Annie Lennox",
+        "Kylie Minogue",
+        "Sir Elton John",
+        "Bernie Taupin",
+        "Lucian Grainge",
+        "Michael Eavis",
+        "Pete Tong",
+        "Roger Daltrey",
+        "Rob Stringer",
+        "Emma Banks",
+        "Jamal Edwards",
+        "Jason Iley",
+        "Ashley Tabor-King",
+        "Jimmy Page",
+        "Tinie Tempah",
+        "Amy Allen",
+        "John Ryan",
+        "Celeste",
+        "Louise Redknapp",
+        "Dua Lipa",
+        "Ed Sheeran",
+        "RAYE",
+        "Charli xcx",
+        "David Bowie",
+        "George Michael",
+        "Madonna"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Guy Moot",
+      "Music Industry Trusts Award",
+      "Warner Chappell Music",
+      "Mark Ronson"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/guy-moot-and-mark-ronson-cr-john-marshall-jm-enternational-billboard-1800.jpg?w=1024",
+        "caption": "Guy Moot Makes History as First Publisher to Win Music Industry Trusts Award",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 13:13:20 +0000"
+  },
+  "84xsvg": {
+    "id": "84xsvg",
+    "type": "news",
+    "headline": "Salman Khan Confirms Trailer Release Date and Timing for War Drama Maatrubhumi",
+    "dek": "Superstar Salman Khan has announced that the trailer for his upcoming war drama Maatrubhumi: May War Rest In Peace will premiere this evening.",
+    "body": [
+      {
+        "h": "Trailer Launch Announcement",
+        "p": [
+          "Superstar Salman Khan has officially given fans a definitive update regarding the much-anticipated promotional footage for his upcoming cinematic project. After keeping audiences waiting for substantial news concerning the war drama, the actor confirmed via social media that the first official preview will arrive today.",
+          "The announcement has generated immense excitement across digital platforms, bringing clarity not only to the promotional timeline but also shedding light on the project's theatrical rollout."
+        ]
+      },
+      {
+        "h": "Where to Watch Online",
+        "p": [
+          "Viewers eager to catch the first official look at the project can access the digital premiere across Salman Khan's official social media profiles. The video is also expected to launch on his official YouTube channel.",
+          "In addition to personal channels, official digital announcements and studio handles are set to distribute the preview in high definition for fans waiting online."
+        ]
+      },
+      {
+        "h": "Expected Premiere Timings",
+        "p": [
+          "While the superstar confirmed that the launch is scheduled for this evening, an exact minute-by-minute timetable was not specified in the initial announcement.",
+          "Industry trends and expected schedules suggest the preview could land between 7 PM and 8 PM IST, prompting fans to monitor official accounts closely."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "Directed by Apoorva Lakhia, the war drama features Salman Khan and Chitrangda Singh in the primary lead roles. The narrative draws deep inspiration from the 2020 Galwan Valley clash between Indian and Chinese troops.",
+          "The ensemble cast also features names such as Anoop Shahi, Zeyn Shaw, AbhishrriSen, Jason Tham, The Ankur Bhatia, Harshil Shah, Heera Sohal, Vipin Bhardwaj, and Tanya Desai."
+        ]
+      },
+      {
+        "h": "Title Clarification and Production Journey",
+        "p": [
+          "The feature was previously referred to during production as Battle of Galwan, but Salman Khan clarified that this was never the official confirmed title and was merely utilized for the clap during filming. The final title, Maatrubhumi, was derived from a song within the movie.",
+          "Production faced earlier shifts in schedule. The release was postponed to allow additional time for refining the visual effects to the necessary standard, and Chitrangda Singh sustaining an injury also impacted the initial shooting timeline."
+        ]
+      },
+      {
+        "h": "Theatrical Release Details",
+        "p": [
+          "Backed by Salman Khan Films and Salma Khan, alongside Jio Studios and Jyoti Deshpande, the feature is scheduled to make its theatrical debut on December 4, 2026.",
+          "Music for the project is composed by Himesh Reshammiya and Ravi Basrur, building anticipation for both the audio tracks and the forthcoming cinematic release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan announced that the trailer for his war drama Maatrubhumi: May War Rest In Peace will premiere this evening. Directed by Apoorva Lakhia and co-starring Chitrangda Singh, the film arrives in cinemas on December 4, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan announced the trailer release for November 10, 2026.",
+      "The film is titled Maatrubhumi: May War Rest In Peace.",
+      "The movie is directed by Apoorva Lakhia.",
+      "Salman Khan and Chitrangda Singh star in the lead roles.",
+      "The project is inspired by the 2020 Galwan Valley clash.",
+      "The theatrical release is scheduled for December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Apoorva Lakhia",
+        "Salma Khan",
+        "Anoop Shahi",
+        "Zeyn Shaw",
+        "AbhishrriSen",
+        "Jason Tham",
+        "The Ankur Bhatia",
+        "Harshil Shah",
+        "Heera Sohal",
+        "Vipin Bhardwaj",
+        "Tanya Desai",
+        "Himesh Reshammiya",
+        "Ravi Basrur",
+        "Jyoti Deshpande"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest In Peace",
+        "Battle of Galwan"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi trailer release time",
+      "Salman Khan Maatrubhumi",
+      "Chitrangda Singh Maatrubhumi",
+      "Maatrubhumi release date",
+      "Apoorva Lakhia Maatrubhumi"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/salmanmaatrubhumtrailerreleasetimed1-92691794314914.jpg",
+        "caption": "Salman Khan Confirms Trailer Release Date and Timing for War Drama Maatrubhumi",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 18:21:01 +0530"
+  },
+  "1h1f0ph": {
+    "id": "1h1f0ph",
+    "type": "news",
+    "headline": "Indian Paranormal Horror Film 'Numinous' Wraps Production and Heads to American Film Market",
+    "dek": "Principal photography has concluded on the Hindi and English-language horror feature Numinous, which is adapted from paranormal investigator Jay Alani's actual case files.",
+    "body": [
+      {
+        "h": "Production Wrap and AFM Showcase",
+        "p": [
+          "Principal photography has officially wrapped on the upcoming Hindi and English-language horror feature titled Numinous. The project is now preparing to make its next major industry move as Bangkok-based sales and distribution company Fearfolks steps in to present the movie's very first look at the American Film Market.",
+          "The announcement of the production wrap introduces a fresh international contender into the horror landscape. Industry participants at the market will get their initial preview of the footage, setting the stage for subsequent global sales efforts."
+        ]
+      },
+      {
+        "h": "Real-Life Paranormal Roots",
+        "p": [
+          "The narrative of Numinous is directly adapted from the documented case files of its director and star, Jay Alani. Alani operates as a real-life paranormal investigator and filmmaker often compared to Ed Warren, alongside his work as a podcast host and bestselling author.",
+          "The storyline begins when local law enforcement responds to a property located in remote Himachal Pradesh. Inside the gutted structure, authorities discover a dead body seated completely upright, prompting a skeptical family to dispute the official conclusions and call in an expert investigator whose probe pushes past conventional crime."
+        ]
+      },
+      {
+        "h": "Cast and Creative Vision",
+        "p": [
+          "Alongside Alani, the film features supporting performances from Gaurav K. Sharma, known for his previous work in Gangs of Waseypur and Madras Cafe, and Mihir Rajda, recognized from Family Kirana Store.",
+          "Speaking about his creative goals for the feature, Alani expressed a desire to pull viewers directly into a chilling scenario. Fearfolks CEO Hans Audric Estialbo praised Alani's fearless approach to the horror genre, anticipating strong resonance among modern audiences globally."
+        ]
+      },
+      {
+        "h": "Rise of Indian Horror",
+        "p": [
+          "Numinous arrives at a time when Indian horror cinema is experiencing significant commercial dominance and international festival attention. Recent box office powerhouses include Stree 2, the Bhool Bhulaiyaa franchise, and the supernatural thriller Shaitaan.",
+          "On the festival circuit, Malayalam folk-horror Bramayugam was screened at the Academy Museum of Motion Pictures, while Sister Midnight secured a debut at Cannes, demonstrating expanding global interest in regional Indian genre storytelling."
+        ]
+      },
+      {
+        "h": "Jay Alani's Background",
+        "p": [
+          "Filmmaker Jay Alani has built a widespread multi-platform presence prior to this feature film. His credentials include TEDx talks, podcasts, international media appearances, and millions of views across digital platforms for his documented investigations.",
+          "As an author, his published written works include Haunted, The Paranormal Boy, and The Haunted Doorway, establishing a robust literary foundation that informs his cinematic storytelling."
+        ]
+      },
+      {
+        "h": "Fearfolks Distribution Track Record",
+        "p": [
+          "Bangkok-based Fearfolks brings notable international distribution experience to the table for Numinous. The company previously handled the release of Thailand's highest-grossing horror franchise, Death Whisperer, in India, and distributed A24's Mother Mary.",
+          "Additionally, Fearfolks holds upcoming distribution duties for the Blumhouse production River and Neon's Artificial within Thailand, cementing its position in cross-border genre distribution."
+        ]
+      },
+      {
+        "h": "Release Timeline",
+        "p": [
+          "Following its first-look presentation at the American Film Market, Numinous has been scheduled for a theatrical release in late 2027.",
+          "The lengthy post-production window allows the team to refine its blend of Hindi and English dialogue and atmospheric supernatural elements ahead of its eventual public debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Hindi and English-language horror film Numinous has concluded principal photography and will showcase its first look at the American Film Market via distributor Fearfolks. Directed by and starring paranormal investigator Jay Alani, the movie draws from his actual case files and is slated for a late 2027 release."
+        ]
+      }
+    ],
+    "facts": [
+      "Numinous is a Hindi and English-language horror film.",
+      "Principal photography has wrapped on Numinous.",
+      "Fearfolks is presenting the first look at the American Film Market.",
+      "Jay Alani is the director, star, and a paranormal investigator.",
+      "The story is set in remote Himachal Pradesh.",
+      "Gaurav K. Sharma and Mihir Rajda co-star in the film.",
+      "Stree 2 posted $91 million globally.",
+      "The third installment of Bhool Bhulaiyaa crossed $44.9 million.",
+      "Shaitaan took $22.7 million at the box office.",
+      "Jay Alani authored Haunted, The Paranormal Boy, and The Haunted Doorway.",
+      "Numinous is slated for release in late 2027."
+    ],
+    "entities": {
+      "people": [
+        "Jay Alani",
+        "Gaurav K. Sharma",
+        "Mihir Rajda",
+        "Hans Audric Estialbo",
+        "Ed Warren"
+      ],
+      "titles": [
+        "Numinous",
+        "Gangs of Waseypur",
+        "Madras Cafe",
+        "Family Kirana Store",
+        "Stree 2",
+        "Bhool Bhulaiyaa",
+        "Shaitaan",
+        "Bramayugam",
+        "Sister Midnight",
+        "Haunted",
+        "The Paranormal Boy",
+        "The Haunted Doorway",
+        "Death Whisperer",
+        "Mother Mary",
+        "River",
+        "Artificial"
+      ]
+    },
+    "keywords": [
+      "Numinous film",
+      "Jay Alani Numinous",
+      "Fearfolks American Film Market",
+      "Indian paranormal horror movie"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Numinouse-first-look.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Indian Paranormal Horror Film 'Numinous' Wraps Production and Heads to American Film Market",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 13:00:00 +0000"
+  },
+  "ikvb9g": {
+    "id": "ikvb9g",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Dominates Karnataka Box Office With Over Rs 73 Crore Gross In Five Days",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana: Part 1 continues its powerful box office trajectory, crossing Rs 690 crore worldwide and establishing strong regional numbers across India.",
+    "body": [
+      {
+        "h": "Strong Five-Day Box Office Run",
+        "p": [
+          "Ramayana: Part 1 has maintained an aggressive and steady pace at the box office since its worldwide theatrical debut on November 5. The ambitious cinematic project has drawn massive audiences across multiple regions, quickly crossing significant monetary thresholds globally.",
+          "Box office trackers have closely monitored the film's trajectory, noting that the feature has capitalized on strong momentum during its opening week in theatres."
+        ]
+      },
+      {
+        "h": "Karnataka Emerges As A Top Territory",
+        "p": [
+          "Among the various domestic markets contributing to the film's financial success, Karnataka has established itself as one of the most prominent territories. Data shared by box office tracker Jerin Georgekutty reveals that the movie accumulated over Rs 73 crore gross within the state alone during its initial five days.",
+          "The exact Karnataka figures place the collection at Rs 73.78 crore gross after completing five days in local cinemas, cementing the region's importance to the overall theatrical performance."
+        ]
+      },
+      {
+        "h": "State-Wise Domestic Breakdown",
+        "p": [
+          "Across India, several states have posted substantial figures for the Ranbir Kapoor and Yash-starrer, keeping Karnataka positioned comfortably as the second-highest contributor domestically. Maharashtra leads the national charts with a reported gross of Rs 85.66 crore during the same five-day timeframe.",
+          "Following Maharashtra and Karnataka, other major performing areas include Gujarat with Rs 38.02 crore, Uttar Pradesh with Rs 31.11 crore, and Telangana bringing in Rs 29.89 crore. Rounding out the top reported domestic markets are Delhi at Rs 21.16 crore and Tamil Nadu at Rs 20.11 crore."
+        ]
+      },
+      {
+        "h": "Global Milestones And Record Sales",
+        "p": [
+          "On a worldwide scale, Ramayana: Part 1 crossed the impressive milestone of Rs 690 crore gross after five days of theatrical screenings. The global tally received a substantial boost from a notable increase in collections on Monday, November 9, which contributed an estimated Rs 134 crore gross from India alone.",
+          "Additionally, the film set notable milestones on digital ticketing platforms, recording its highest-ever hourly ticket sales on BookMyShow during that same Monday surge."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast And Creative Team",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Part 1 serves as the opening instalment of a planned two-part adaptation of Valmiki's epic. The grand production features a massive ensemble cast including Ranbir Kapoor as Rama, Yash as Ravana, Sai Pallavi as Sita, Ravi Dubey as Lakshman, and Sunny Deol as Hanuman.",
+          "The extensive supporting lineup features prominent actors such as Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Kunal Kapoor, Arun Govil, and Lara Dutta. The screenplay was collaboratively adapted by Nitesh Tiwari and Shridhar Raghavan."
+        ]
+      },
+      {
+        "h": "Production And Music Credits",
+        "p": [
+          "Behind the scenes, the project is produced by Namit Malhotra and presented by Prime Focus Studios in association with Monster Mind Creations. International distribution duties for the film are managed by Sony Pictures Entertainment.",
+          "The film's audio landscape is equally notable, bringing together legendary composer A. R. Rahman and renowned musician Hans Zimmer, marking Zimmer's official debut in Indian cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has crossed Rs 690 crore gross worldwide after five days in theatres, fueled by strong ticket sales and substantial domestic contributions. Karnataka stands as the second-highest performing state market in India with Rs 73.78 crore gross, trailing only Maharashtra."
+        ]
+      }
+    ],
+    "facts": [
+      "Worldwide gross crossed Rs 690 crore after five days",
+      "Karnataka box office collection reached Rs 73.78 crore gross after five days",
+      "Maharashtra leads domestic collections with Rs 85.66 crore gross",
+      "Gujarat collected Rs 38.02 crore gross",
+      "Uttar Pradesh collected Rs 31.11 crore gross",
+      "Telangana collected Rs 29.89 crore gross",
+      "Delhi collected Rs 21.16 crore gross",
+      "Tamil Nadu collected Rs 20.11 crore gross",
+      "India gross contributed approximately Rs 134 crore to the day's total on Monday, November 9",
+      "Theatrical release date was November 5"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Jerin Georgekutty",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Ravi Dubey",
+        "Sunny Deol",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Kunal Kapoor",
+        "Arun Govil",
+        "Lara Dutta",
+        "Shridhar Raghavan",
+        "Hans Zimmer",
+        "A. R. Rahman",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Karnataka Collection",
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayana-37161794317932.jpg",
+        "caption": "Ramayana: Part 1 Dominates Karnataka Box Office With Over Rs 73 Crore Gross In Five Days",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 19:10:07 +0530"
   }
 };
