@@ -110107,5 +110107,380 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 21:24:05 +0000"
+  },
+  "ntpluw": {
+    "id": "ntpluw",
+    "type": "news",
+    "headline": "Kashika Kapoor Discusses The Pressures Of BewafaSe And Her Role In CASTE",
+    "dek": "In an exclusive discussion, actor Kashika Kapoor shares the frantic rehearsal schedule behind her latest music video and details her upcoming project.",
+    "body": [
+      {
+        "h": "Introduction To New Projects",
+        "p": [
+          "Actor Kashika Kapoor, known for her appearance in Aayushmati Geeta Matric Pass, has been capturing attention through her recent creative endeavors. Following her cinematic debut, she ventured into the music video space with BewafaSe.",
+          "Beyond her current musical release, the emerging talent opened up about her professional path in an exclusive conversation, detailing her experiences navigating the entertainment sector and teasing her forthcoming movie project."
+        ]
+      },
+      {
+        "h": "The Challenge Of BewafaSe",
+        "p": [
+          "Preparing for the music video presented an intense logistical hurdle for the performer. Freshly arriving from a trip to Moscow, Kapoor discovered she had a remarkably tight window of only twenty-four hours to practice her choreography before heading to Goa for production.",
+          "The limited preparation time caused significant internal anxiety. Because she places high demands on her own polish and execution, the prospect of mastering all the required dance steps in a single day left her deeply stressed."
+        ]
+      },
+      {
+        "h": "Balancing Dance And Acting",
+        "p": [
+          "While dramatic performance feels completely instinctive to her, choreography demanded dedicated concentration. She chose to channel her primary focus into polishing the dance sequences to ensure high quality.",
+          "She reasoned that practice is essential for an effective physical performance, whereas her acting relies on organic emotional impulses that flow naturally during production."
+        ]
+      },
+      {
+        "h": "Channeling Personal Heartbreak",
+        "p": [
+          "Portraying sorrow in the music video required tapping into genuine emotional memory. The artist noted that everyone encounters heartbreak or has broken someone's heart at some stage in life.",
+          "By recalling those authentic experiences from her own past, she successfully translated that raw feeling into her character. When asked about her favorite song dealing with heartbreak, she pointed to Ae Dil Hai Mushkil."
+        ]
+      },
+      {
+        "h": "Excitement For CASTE",
+        "p": [
+          "Shifting focus to her cinematic future, Kapoor discussed her involvement in the upcoming movie CASTE. The script immediately caught her attention due to its substantial subject matter and the chance to experiment with an unfamiliar character type.",
+          "She noted that the project addresses themes relevant to an entire community and the nation as a whole, making it an opportunity she simply could not turn down."
+        ]
+      },
+      {
+        "h": "Horror Elements In CASTE",
+        "p": [
+          "The actor revealed unique details concerning her narrative arc, explaining that her character undergoes a dramatic possession sequence. This terrifying transformation introduces distinct horror elements to the storyline.",
+          "Despite the supernatural twists, she described the project as a comprehensive family drama intended for collective viewing, designed to leave audiences with meaningful takeaways."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Kashika Kapoor discussed the intense twenty-four-hour rehearsal window she faced for her music video BewafaSe after returning from Moscow. She also shared insights into her upcoming family drama film CASTE, which features horror themes and character possession."
+        ]
+      }
+    ],
+    "facts": [
+      "Kashika Kapoor made her Bollywood debut with Aayushmati Geeta Matric Pass.",
+      "Kashika Kapoor had only one day to rehearse for the music video BewafaSe after returning from Moscow.",
+      "Kashika Kapoor's favorite heartbreak song is Ae Dil Hai Mushkil.",
+      "Kashika Kapoor stars in the upcoming film CASTE, which features horror elements and character possession."
+    ],
+    "entities": {
+      "people": [
+        "Kashika Kapoor",
+        "Abhishek Ranjit",
+        "Divya Dutta",
+        "Manoj Bajpayee",
+        "Swara Bhasker"
+      ],
+      "titles": [
+        "BewafaSe",
+        "CASTE",
+        "Aayushmati Geeta Matric Pass",
+        "Last Man In Tower",
+        "Ae Dil Hai Mushkil"
+      ]
+    },
+    "keywords": [
+      "Kashika Kapoor BewafaSe",
+      "Kashika Kapoor CASTE film",
+      "BewafaSe music video",
+      "Aayushmati Geeta Matric Pass"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/kashikakapoorinterview-31241794347695.jpg",
+        "caption": "Kashika Kapoor Discusses The Pressures Of BewafaSe And Her Role In CASTE",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 03:40:50 +0530"
+  },
+  "h0tbml": {
+    "id": "h0tbml",
+    "type": "news",
+    "headline": "Dancing with the Stars Season 35 Finale Date and Remaining Episodes Schedule Revealed",
+    "dek": "ABC's hit reality dance competition Dancing with the Stars is heading toward its conclusion, with only three episodes left in the current schedule before crowning a champion.",
+    "body": [
+      {
+        "h": "The Journey to the Finale",
+        "p": [
+          "Viewers tuning into ABC's popular reality competition can expect an exciting conclusion as the current season reaches its final weeks. With only three episodes remaining on the calendar, the race for the championship is heating up significantly.",
+          "The remaining lineup provides a clear path forward for the remaining celebrity contestants and their professional dance partners as they battle for supremacy on the ballroom floor."
+        ]
+      },
+      {
+        "h": "Grammy Night Kicks Off the Stretch",
+        "p": [
+          "The final phase of the competition begins with an all-new broadcast featuring a special musical theme. Remaining contestants will perform routines choreographed to popular and award-winning tunes.",
+          "This themed broadcast sets the stage for the intense elimination rounds that will determine who advances further into the competition."
+        ]
+      },
+      {
+        "h": "Remaining Theme Weeks Schedule",
+        "p": [
+          "The final stretch of the season features distinct weekly themes designed to test the versatility and skill of every participating celebrity. Week 9 brings the music-celebrated performances.",
+          "Following that installment, Week 10 shifts into high gear with the highly anticipated semi-finals, paving the way directly into the ultimate championship broadcast."
+        ]
+      },
+      {
+        "h": "Season 35 Finale Date",
+        "p": [
+          "The grand conclusion for Dancing with the Stars season 35 is officially scheduled to take place on Tuesday, November 24, 2026.",
+          "This finale arrives just two days before the Thanksgiving holiday, marking a festive end to the current run of episodes."
+        ]
+      },
+      {
+        "h": "The Ultimate Prize",
+        "p": [
+          "Throughout the final weeks of competition, the remaining stars vie for the ultimate symbol of victory in the ballroom. The coveted Mirror Ball trophy will be officially awarded to the winner during the season finale broadcast.",
+          "Competitors must bring their absolute best routines forward to convince both the judges and the voting audience to secure this prestigious title."
+        ]
+      },
+      {
+        "h": "Coverage and Additional Highlights",
+        "p": [
+          "Fans following the competition closely can look forward to continuous coverage tracking each remaining week of the season. Updates will cover everything from song choices to specific dance styles.",
+          "Additional informational features, such as deep dives into how the scoring system works straight from a former professional dancer, help audiences understand the mechanics behind the judges' decisions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dancing with the Stars season 35 has only three episodes left, starting with Grammy Night on November 10, 2026, followed by the semifinals and the November 24 finale.",
+          "The winning celebrity will claim the Mirror Ball trophy just ahead of Thanksgiving, concluding the current ABC television schedule."
+        ]
+      }
+    ],
+    "facts": [
+      "Dancing with the Stars season 35 has three episodes left as of November 10, 2026.",
+      "Grammy Night takes place on Tuesday, November 10, 2026.",
+      "The semifinals are scheduled for Tuesday, November 17, 2026.",
+      "The season finale takes place on Tuesday, November 24, 2026.",
+      "The winner receives the Mirror Ball trophy on November 24, 2026."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Dancing with the Stars"
+      ]
+    },
+    "keywords": [
+      "Dancing with the Stars",
+      "DWTS season 35 finale",
+      "Dancing with the Stars schedule",
+      "DWTS Grammy Night"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/dwts-finale-date.jpg",
+        "caption": "Dancing with the Stars Season 35 Finale Date and Remaining Episodes Schedule Revealed",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 21:00:48 +0000"
+  },
+  "m3p2ee": {
+    "id": "m3p2ee",
+    "type": "news",
+    "headline": "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
+    "dek": "Co-star Kathryn Hahn shares insights into Nicolas Cage's deep physical and internal transformation to play NFL legend John Madden in the upcoming biographical film.",
+    "body": [
+      {
+        "h": "The Complete Transformation of Nicolas Cage",
+        "p": [
+          "Actor Nicolas Cage underwent a profound physical and internal transformation to portray iconic NFL figure John Madden in the biographical film Madden. His co-star, Kathryn Hahn, shared that the heavy prosthetics helped him embody the legendary figure so thoroughly that she felt she never truly interacted with the real Cage during the entire production.",
+          "Hahn noted that the process went far deeper than surface-level appearance. According to her, the immersive nature of the makeup and performance allowed Cage to channel the spirit of Madden entirely from within."
+        ]
+      },
+      {
+        "h": "Portraying Virginia and John Madden",
+        "p": [
+          "In the biographical drama, Kathryn Hahn steps into the role of Virginia, the wife of John Madden. Hahn emphasized the importance of looking beyond the public persona to explore the private dynamics and domestic hurdles faced by the couple.",
+          "By focusing on the less visible aspects of their family life, the film strives to elevate the subjects above two-dimensional caricatures. Hahn believes this humanized perspective is what ultimately drives the emotional core of the story."
+        ]
+      },
+      {
+        "h": "Behind the Scenes with Director David O. Russell",
+        "p": [
+          "The sports biographical feature is directed by filmmaker David O. Russell. The production brings together a high-profile ensemble cast to chronicle various chapters of Madden's remarkable life and career.",
+          "The narrative touches upon several foundational eras, including Madden's tenure as the head coach of the Oakland Raiders and his subsequent journey toward shaping modern sports entertainment."
+        ]
+      },
+      {
+        "h": "From Oakland Raiders to Video Game Icon",
+        "p": [
+          "The plot traces John Madden's trajectory from leading the Oakland Raiders to victory in the Super Bowl under team owner Al Davis. It highlights his pivotal involvement with Electronic Arts in developing the massively successful Madden NFL gaming franchise.",
+          "Following his retirement from coaching, Madden transitioned into a celebrated three-decade broadcasting career, cementing his status as one of the most familiar and influential voices in American football before retiring entirely in 2009."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Historical Dynamics",
+        "p": [
+          "The feature film also stars Christian Bale as Oakland Raiders owner Al Davis and Sienna Miller as Davis's wife, Carol Davis. The inclusion of these central historical figures weaves multiple layers into the sports drama.",
+          "Sienna Miller admitted that she was previously unfamiliar with Madden and Davis due to growing up in Britain. However, researching the roles allowed her to appreciate the deep devotion shared between Al and Carol Davis throughout their lives."
+        ]
+      },
+      {
+        "h": "Release Strategy Across Platforms",
+        "p": [
+          "Audiences won't have to wait much longer to experience the biographical film, as it has a staggered release rollout planned. The project is scheduled to debut in select theaters.",
+          "Following its theatrical run in select venues, the sports feature will expand its reach globally by launching on Prime Video for home viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Nicolas Cage adopted heavy prosthetics and a profound internal approach to portray NFL legend John Madden in the biographical film directed by David O. Russell. Co-star Kathryn Hahn highlighted the humanizing focus on the Maddens' marriage, while the cast also features Christian Bale and Sienna Miller ahead of the film's theatrical and Prime Video releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicolas Cage plays John Madden in the film Madden.",
+      "Kathryn Hahn plays John Madden's wife Virginia.",
+      "The film is directed by David O. Russell.",
+      "John Madden was a Super Bowl-winning coach of the Oakland Raiders under owner Al Davis.",
+      "Christian Bale plays Al Davis and Sienna Miller plays Carol Davis.",
+      "The film arrives in select theaters on Wednesday and on Prime Video on November 18."
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "Kathryn Hahn",
+        "John Madden",
+        "David O. Russell",
+        "Al Davis",
+        "Christian Bale",
+        "Sienna Miller",
+        "Carol Davis",
+        "Agatha Harkness",
+        "Danielle Broadway"
+      ],
+      "titles": [
+        "Madden",
+        "Madden NFL",
+        "WandaVision",
+        "Agatha All Along"
+      ]
+    },
+    "keywords": [
+      "Nicolas Cage Madden film",
+      "Kathryn Hahn John Madden",
+      "David O. Russell Madden movie",
+      "Christian Bale Al Davis"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood1_1753008085297_1753008115348.jpeg",
+        "caption": "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 02:25:20 +0530"
+  },
+  "1e6kkpi": {
+    "id": "1e6kkpi",
+    "type": "news",
+    "headline": "Former and Current Netflix Executives Raise Alarms Over Ted Sarandos Strategy",
+    "dek": "Disenchanted current and former Netflix insiders are organizing in opposition to Co-CEO Ted Sarandos, pointing to cultural shifts and declining stock values.",
+    "body": [
+      {
+        "h": "Executive Upheaval and Internal Dissent",
+        "p": [
+          "Major changes at Netflix have left the workforce reeling following the departure of high-profile figures like Bela Bajaria and the arrival of Peter Rice as content chief. While these exits generated widespread anxiety among staff, deeper organizational tensions have begun to surface behind closed doors.",
+          "A growing faction of former and current senior executives has banded together to voice strong opposition to Co-CEO Ted Sarandos and his long-term strategic vision for the streaming platform."
+        ]
+      },
+      {
+        "h": "The Two Camps of Disgruntled Staff",
+        "p": [
+          "Discussions taking place across informal networks and gathering spots reveal that the dissenting insiders generally divide into two distinct perspectives regarding the current state of the business.",
+          "One group expresses deep concern over the double-digit slide in company stock value, which directly impacts their personal wealth and the broader financial outlook, while the other laments a perceived abandonment of the company's traditional ruthless performance culture."
+        ]
+      },
+      {
+        "h": "Shifting Away From Original Culture",
+        "p": [
+          "Critics argue that the streamer has strayed from its historical kill-or-be-killed ethos, transforming instead into a conventional Hollywood studio dominated by internal politics and personal proximity to top leadership.",
+          "Insiders frequently claim that Sarandos has gone Hollywood, prioritizing prestigious programming, major celebrity names, and traditional industry prestige over the metrics-driven discipline that once defined the platform."
+        ]
+      },
+      {
+        "h": "Financial Realities and Stock Pressures",
+        "p": [
+          "Despite the internal complaints and a share price sitting significantly lower than levels recorded a year prior, the company maintains strong underlying financial fundamentals, including healthy operating margins and minimal debt.",
+          "Nevertheless, analysts and disgruntled employees warn that continued downward stock momentum combined with a lackluster awards season could trigger much broader leadership challenges for the executive team."
+        ]
+      },
+      {
+        "h": "Potential Interventions and Co-Founder Involvement",
+        "p": [
+          "Although the opposition movement remains in a preliminary stage without formal governance challenges, some dissidents have discussed attempting an intervention to persuade co-founder Reed Hastings to intervene.",
+          "Former executives such as Cindy Holland, Todd Yellin, and Lisa Nishimura have been floated as potential messengers who might command enough respect from Hastings to prompt a reevaluation of leadership priorities."
+        ]
+      },
+      {
+        "h": "Leadership Dynamics and Future Outlook",
+        "p": [
+          "While primary criticism focuses squarely on Sarandos due to his long tenure and creative direction, Co-CEO Greg Peters faces scrutiny over separate initiatives involving video games and advertising tech.",
+          "Despite the brewing grassroots opposition among white-collar alumni, representatives for the streaming giant maintain that leadership relations remain strong and no structural changes are currently planned."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A network of current and former Netflix executives is expressing significant opposition to Co-CEO Ted Sarandos over strategic shifts and falling stock values. While the dissenters contemplate reaching out to co-founder Reed Hastings for a potential intervention, sources close to the company maintain that leadership remains united."
+        ]
+      }
+    ],
+    "facts": [
+      "Bela Bajaria and 1,000 Netflix staffers were let go.",
+      "Peter Rice joined as Netflix content chief.",
+      "Netflix shares are down more than 45% compared with a year ago.",
+      "Netflix shares closed at $62.10 on October 30.",
+      "Netflix shares ended Tuesday trading at $63.26.",
+      "Ted Sarandos has been at Netflix for 26 years.",
+      "Reed Hastings stepped away as executive chairman officially in June.",
+      "Cindy Holland left her role as Netflix Original Content VP in 2020.",
+      "Todd Yellin transitioned from the C-Suite in 2022.",
+      "Lisa Nishimura exited Netflix in 2023 after 16 years."
+    ],
+    "entities": {
+      "people": [
+        "Ted Sarandos",
+        "Bela Bajaria",
+        "Peter Rice",
+        "Dan Lin",
+        "Reed Hastings",
+        "Greg Peters",
+        "Jay Hoag",
+        "Cindy Holland",
+        "Todd Yellin",
+        "Lisa Nishimura",
+        "Kara Swisher",
+        "David Ellison"
+      ],
+      "titles": [
+        "52nd State"
+      ]
+    },
+    "keywords": [
+      "Ted Sarandos Netflix strategy",
+      "Netflix executive purge",
+      "Ted Sarandos unrest",
+      "Netflix stock slide"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2023/10/netflix-earnings.jpg?w=1024",
+        "caption": "Former and Current Netflix Executives Raise Alarms Over Ted Sarandos Strategy",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 22:46:20 +0000"
   }
 };

@@ -34,6 +34,45 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "2026-11-10T22:52:35Z"
   },
+  "1e6kkpi": {
+    "id": "1e6kkpi",
+    "type": "news",
+    "headline": "Former and Current Netflix Executives Raise Alarms Over Ted Sarandos Strategy",
+    "dek": "Disenchanted current and former Netflix insiders are organizing in opposition to Co-CEO Ted Sarandos, pointing to cultural shifts and declining stock values.",
+    "entities": {
+      "people": [
+        "Ted Sarandos",
+        "Bela Bajaria",
+        "Peter Rice",
+        "Dan Lin",
+        "Reed Hastings",
+        "Greg Peters",
+        "Jay Hoag",
+        "Cindy Holland",
+        "Todd Yellin",
+        "Lisa Nishimura",
+        "Kara Swisher",
+        "David Ellison"
+      ],
+      "titles": [
+        "52nd State"
+      ]
+    },
+    "keywords": [
+      "Ted Sarandos Netflix strategy",
+      "Netflix executive purge",
+      "Ted Sarandos unrest",
+      "Netflix stock slide"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2023/10/netflix-earnings.jpg?w=1024",
+        "caption": "Former and Current Netflix Executives Raise Alarms Over Ted Sarandos Strategy",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 22:46:20 +0000"
+  },
   "1a28kst": {
     "id": "1a28kst",
     "type": "news",
@@ -75,6 +114,42 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 22:33:43 +0000"
+  },
+  "ntpluw": {
+    "id": "ntpluw",
+    "type": "news",
+    "headline": "Kashika Kapoor Discusses The Pressures Of BewafaSe And Her Role In CASTE",
+    "dek": "In an exclusive discussion, actor Kashika Kapoor shares the frantic rehearsal schedule behind her latest music video and details her upcoming project.",
+    "entities": {
+      "people": [
+        "Kashika Kapoor",
+        "Abhishek Ranjit",
+        "Divya Dutta",
+        "Manoj Bajpayee",
+        "Swara Bhasker"
+      ],
+      "titles": [
+        "BewafaSe",
+        "CASTE",
+        "Aayushmati Geeta Matric Pass",
+        "Last Man In Tower",
+        "Ae Dil Hai Mushkil"
+      ]
+    },
+    "keywords": [
+      "Kashika Kapoor BewafaSe",
+      "Kashika Kapoor CASTE film",
+      "BewafaSe music video",
+      "Aayushmati Geeta Matric Pass"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/kashikakapoorinterview-31241794347695.jpg",
+        "caption": "Kashika Kapoor Discusses The Pressures Of BewafaSe And Her Role In CASTE",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 03:40:50 +0530"
   },
   "11eh52e": {
     "id": "11eh52e",
@@ -207,6 +282,72 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 21:21:10 +0000"
+  },
+  "h0tbml": {
+    "id": "h0tbml",
+    "type": "news",
+    "headline": "Dancing with the Stars Season 35 Finale Date and Remaining Episodes Schedule Revealed",
+    "dek": "ABC's hit reality dance competition Dancing with the Stars is heading toward its conclusion, with only three episodes left in the current schedule before crowning a champion.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "Dancing with the Stars"
+      ]
+    },
+    "keywords": [
+      "Dancing with the Stars",
+      "DWTS season 35 finale",
+      "Dancing with the Stars schedule",
+      "DWTS Grammy Night"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/dwts-finale-date.jpg",
+        "caption": "Dancing with the Stars Season 35 Finale Date and Remaining Episodes Schedule Revealed",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 21:00:48 +0000"
+  },
+  "m3p2ee": {
+    "id": "m3p2ee",
+    "type": "news",
+    "headline": "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
+    "dek": "Co-star Kathryn Hahn shares insights into Nicolas Cage's deep physical and internal transformation to play NFL legend John Madden in the upcoming biographical film.",
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "Kathryn Hahn",
+        "John Madden",
+        "David O. Russell",
+        "Al Davis",
+        "Christian Bale",
+        "Sienna Miller",
+        "Carol Davis",
+        "Agatha Harkness",
+        "Danielle Broadway"
+      ],
+      "titles": [
+        "Madden",
+        "Madden NFL",
+        "WandaVision",
+        "Agatha All Along"
+      ]
+    },
+    "keywords": [
+      "Nicolas Cage Madden film",
+      "Kathryn Hahn John Madden",
+      "David O. Russell Madden movie",
+      "Christian Bale Al Davis"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood1_1753008085297_1753008115348.jpeg",
+        "caption": "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 02:25:20 +0530"
   },
   "10lgmxm": {
     "id": "10lgmxm",
@@ -4632,165 +4773,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Mon, 09 Nov 2026 18:05:00 +0000"
-  },
-  "1img69e": {
-    "id": "1img69e",
-    "type": "news",
-    "headline": "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans",
-    "dek": "Actor Jack Black and music legend Celine Dion were recently spotted letting loose together at a Metallica concert hosted at the state-of-the-art Sphere venue in Las Vegas.",
-    "entities": {
-      "people": [
-        "Jack Black",
-        "Celine Dion",
-        "James Hetfield",
-        "Lars Ulrich"
-      ],
-      "titles": [
-        "Metallica",
-        "Tenacious D",
-        "School of Rock",
-        "Blackened",
-        "...And Justice for All",
-        "The Super Mario Galaxy Movie",
-        "Jumanji: Open World",
-        "A Minecraft Movie Squared"
-      ]
-    },
-    "keywords": [
-      "Jack Black Metallica",
-      "Celine Dion Metallica Sphere",
-      "Jack Black Las Vegas Sphere",
-      "Metallica Sphere Las Vegas"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.mos.cms.futurecdn.net/WJ9qSAzdp9VFovpx6xW29b-2000-80.jpg",
-        "caption": "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans",
-        "source": "CinemaBlend"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 18:00:49 +0000"
-  },
-  "wvc0a5": {
-    "id": "wvc0a5",
-    "type": "news",
-    "headline": "One-of-a-Kind Romance Opens Its Drama Hangout for Episodes 1-12",
-    "dek": "Fans can now join the conversation as the TVING romantic comedy series starring Joy and Kim Hyun-jin launches its dedicated hangout space for episodes 1 through 12.",
-    "entities": {
-      "people": [
-        "Joy",
-        "Kim Hyun-jin"
-      ],
-      "titles": [
-        "One-of-a-Kind Romance"
-      ]
-    },
-    "keywords": [
-      "One-of-a-Kind Romance",
-      "Joy",
-      "Kim Hyun-jin",
-      "One-of-a-Kind Romance TVING"
-    ],
-    "images": [
-      {
-        "url": "https://dramabeans.com/wp-content/uploads/2026/11/OneOfAKindRomance-reviewb.jpg",
-        "caption": "One-of-a-Kind Romance Opens Its Drama Hangout for Episodes 1-12",
-        "source": "Dramabeans"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 18:00:43 +0000"
-  },
-  "19775sx": {
-    "id": "19775sx",
-    "type": "news",
-    "headline": "Inside the Star-Studded Guest Lineup of Usher and Chris Brown's Massive R&B Tour",
-    "dek": "Discover the incredible surprise performers who have joined Usher and Chris Brown on stage throughout their blockbuster North American trek.",
-    "entities": {
-      "people": [
-        "Usher",
-        "Chris Brown",
-        "Michael Jackson",
-        "Prince",
-        "Nelly",
-        "Lil Baby",
-        "50 Cent",
-        "Jadakiss",
-        "Fat Joe",
-        "A Boogie Wit Da Hoodie",
-        "Mary J. Blige",
-        "Method Man",
-        "Future",
-        "Ashanti",
-        "Ye",
-        "Shyne",
-        "Fabolous",
-        "Meek Mill",
-        "T.I.",
-        "Young Dro",
-        "Bow Wow",
-        "Monica",
-        "Jermaine Dupri",
-        "Xscape",
-        "Muni Long",
-        "Dru Hill",
-        "Da Brat",
-        "Tyrese",
-        "YoungBloodZ",
-        "Jeezy",
-        "Summer Walker",
-        "Lloyd",
-        "NE-YO",
-        "Sexyy Red"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Usher Chris Brown tour",
-      "Usher Chris Brown surprise guests",
-      "Usher Chris Brown tour dates",
-      "R&B tour guests"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/06/Chris-Brown-Usher-2026-Credit-Justin-Ongeri-billboard-1800.jpg?w=1024",
-        "caption": "Inside the Star-Studded Guest Lineup of Usher and Chris Brown's Massive R&B Tour",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 17:52:18 +0000"
-  },
-  "1wndq8": {
-    "id": "1wndq8",
-    "type": "news",
-    "headline": "Bigg Boss 20: Scout OP's Mother Opens Up About The Shocking Qazi Touqeer Spitting Incident",
-    "dek": "In an exclusive interview, the mother of popular gamer and contestant Tanmay Singh, known as Scout OP, discusses her distress over the controversial spitting incident involving Qazi Touqeer inside the Bigg Boss 20 house.",
-    "entities": {
-      "people": [
-        "Tanmay Singh",
-        "Sasmita Singh",
-        "Qazi Touqeer",
-        "Salman Khan",
-        "Aakash Kumar"
-      ],
-      "titles": [
-        "Bigg Boss 20"
-      ]
-    },
-    "keywords": [
-      "Scout OP Bigg Boss 20",
-      "Tanmay Singh mother interview",
-      "Qazi Touqeer spitting incident",
-      "Bigg Boss 20 Scout OP Qazi Touqeer",
-      "Sasmita Singh Filmibeat interview"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/scoutmotherexclusivebiggboss20d1-61631794244661.jpg",
-        "caption": "Bigg Boss 20: Scout OP's Mother Opens Up About The Shocking Qazi Touqeer Spitting Incident",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Mon, 09 Nov 2026 23:10:51 +0530"
   },
   "1k7d2uy": {
     "id": "1k7d2uy",

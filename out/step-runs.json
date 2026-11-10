@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T23:51:33Z",
-    "run_id": "42723677129",
-    "status": "success",
-    "checked": {
-     "candidates": 359,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "In 2018, Emma Watson donated USD 1 million to fund after the #MeToo and TIME'S UP UK movements",
-      "Olaf Has His Own Sleigh At Disneyland Now, And It’s Too Freaking Cute",
-      "Ian McKellen's Comments About Late Friend Patrick Stewart Are Making Me Emotional",
-      "I Wondered Why Toy Story 5’s Buzz Army Spent So Much Time In The Woods. Now We Know",
-      "3 Best Movies on Prime Video This Week (Nov 9-13)",
-      "Clint Eastwood’s True-Crime Thriller Is Officially Netflix’s Next ‘Mindhunter’",
-      "Chris Hemsworth’s ‘Heat’ Replacement Officially Steals a New Prime Video Milestone",
-      "As a Lord of the Rings Fan, Here's How I'd Rank Every Book",
-      "Christopher Nolan’s R-Rated Fantasy Movie Officially Sets Streaming Release Date",
-      "Masters of the Universe Writers Are Directing Netflix’s Live-Action Movie of Beloved 1990s IP",
-      "Batman: The Brave and the Bold’s Release Date Window Revealed, But There’s a Catch",
-      "Superman DCU Star Says They ‘Get’ Why James Gunn Is Stepping Down: ‘No Panic Here’",
-      "Vin Diesel Shows Off His Ripped Physique Ahead of Fast Forever",
-      "Man of Tomorrow Update Reveals if Wonder Woman’s in DCU Movie After James Gunn Exit",
-      "Better Man’s Robbie Williams Addresses Viral Olivia Rodrigo Situation, View Statement",
-      "Ridley Scott Forced to Miss Oscar Award Acceptance Event Following Medical Procedure",
-      "Jeremy Latcham’s Past Kevin Feige Comment Goes Viral After He Replaces DC’s James Gunn",
-      "Clueless TV Show Gets Hopeful Update From Breckin Meyer Following Several Cancellations",
-      "Billy Evans Reveals Wild Nathan Fielder Wrestling Scene Cut From You Can See Everything",
-      "DC Fans Think They’ll Never See This Hero Again After Man of Tomorrow as James Gunn Exits"
-     ],
-     "updated": [],
-     "count": 328,
-     "detail": "342 stories, 0 duplicates removed, 17 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T00:51:55Z",
     "run_id": "42731364264",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "383 stories, 0 duplicates removed, 35 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T23:51:52Z",
-    "run_id": "42723677129",
+    "run_at": "2026-11-10T23:39:36Z",
+    "run_id": "42925105088",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 364,
+     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
     },
     "changed": {
      "added": [
-      "Emma Watson's 2018 Donation Report Reveals Massive Impact on UK Anti-Harassment Fund",
-      "Love in Disguise Continues Winning Streak with Solid Ratings for Seventh Episode",
-      "Navya Naveli Nanda Shares Unseen Family Moments from Diwali Celebrations Featuring Agastya and Aaradhya",
-      "FBI Star Jeremy Sisto Brings Jubal Valentine to CIA Crossover Event"
+      "EXCLUSIVE! Kashika Kapoor On Biggest Challenge Behind BewafaSe: Was Freaking Out As I Had Only One Day To...",
+      "Nicolas Cage transformed ‘from within’ for ‘Madden,’ co-star Kathryn Hahn says",
+      "Ex-60 Minutes EP On His Biggest Concerns Amid Bari Weiss’ Leadership: ‘That Would Have Freaked Me Out’",
+      "Wait, Did Anthony Mackie Just Spoil A Surprise Avengers: Doomsday Character?",
+      "Lanterns Showrunner Responds To James Gunn's DC Departure Amid Season 2 Questions",
+      "While We Wait For Alan Ritchson And Arnold Schwarzenegger's New Movie, Jingle All The Way Is Streaming For Free",
+      "Steven Spielberg’s 10-Part Sci-Fi Thriller Is Perfect for ‘Person of Interest’ Fans",
+      "7 Romance Shows That Are 10/10 Masterpieces",
+      "The 10 Most Intense Movie Scenes of All Time, Ranked",
+      "Taika Waititi’s Sci-Fi Disaster Officially Removed From Cinemas After Earning Just $15 Per Theater",
+      "‘John Wick’ Mastermind Unleashes Brutal Samurai Action in New Thriller Trailer",
+      "‘Elsbeth’ Is Ready to Play a ‘Ted Lasso’ Star’s Game in First Look at This Week’s New Episode",
+      "Westworld Actor Jonathan Tucker Recalls Rescuing Neighbors From Home Invasion: ‘Horrifying’",
+      "Dennis Quaid’s Christmas Dog Movie Fetches More Netflix Streaming Views Than Anyone Expected",
+      "Shaquille O’Neal Gets Bizarre New TV Show From ABC Featuring a Nearly Impossible Task",
+      "Hellboy’s Jack Kesy Faces a Deadly Ocean Threat in First Look at New Shark Thriller",
+      "Léa Seydoux Reveals Surprising Mission: Impossible Filming Revelation About Tom Cruise",
+      "HBO’s Harry Potter Snape Actor Explains Why He Joined The Show Amid J.K. Rowling Backlash",
+      "Popular Paramount TV Show Getting Spin-off After Recent Mckenna Grace Movie",
+      "Taika Waititi Fantasy Movie Loses Distributor After Writer Accused of Sexual Harassment"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 356,
+     "detail": "364 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T23:40:16Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Kashika Kapoor Discusses The Pressures Of BewafaSe And Her Role In CASTE",
+      "Dancing with the Stars Season 35 Finale Date and Remaining Episodes Schedule Revealed",
+      "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
+      "Former and Current Netflix Executives Raise Alarms Over Ted Sarandos Strategy"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T00:52:40Z",
-    "run_id": "42731364264",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 282, coming 15"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T23:51:55Z",
-    "run_id": "42723677129",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T23:40:16Z",
+    "run_id": "42925105088",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 297,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 282, coming 15"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2401,27 +2384,33 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T23:42:02Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1isxxto",
+      "vrk2ou",
+      "dbizo8",
+      "3plspc",
+      "1bdwic5",
+      "1490r1h"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T23:51:53Z",
-    "run_id": "42723677129",
-    "status": "success",
-    "checked": {
-     "candidates": 632,
-     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 622 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2835,19 +2824,27 @@
      "detail": "+0 new rows, 3 updated rows, 629 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T23:42:00Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": {
+     "candidates": 641,
+     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3084,33 +3081,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T23:51:54Z",
-    "run_id": "42723677129",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Love in Disguise Continues Winning Streak with Solid Ratings for Seventh Episode",
-      "FBI Star Jeremy Sisto Brings Jubal Valentine to CIA Crossover Event",
-      "Emma Watson's 2018 Donation Report Reveals Massive Impact on UK Anti-Harassment Fund",
-      "Navya Naveli Nanda Shares Unseen Family Moments from Diwali Celebrations Featuring Agastya and Aaradhya",
-      "TWICE Member Nayeon Announces Solo Comeback with NA-STY and Title Track Baby Angel"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3648,19 +3631,33 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T23:42:02Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Kashika Kapoor Discusses The Pressures Of BewafaSe And Her Role In CASTE",
+      "Dancing with the Stars Season 35 Finale Date and Remaining Episodes Schedule Revealed",
+      "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
+      "Former and Current Netflix Executives Raise Alarms Over Ted Sarandos Strategy",
+      "Ram Kamal Mukherjee Secures Best Director at International Indian Film Festival of Toronto"
+     ],
+     "updated": [],
+     "count": 5,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3936,19 +3933,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4269,31 +4266,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T23:51:52Z",
-    "run_id": "42723677129",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 328 still unprocessed; today by category: movies 11/6, tv_dramas 15/4, episodes 0/2, box_office 26/6, celebrities_events 19/5, upcoming_releases 5/4, ott_streaming 10/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Emma Watson's 2018 Donation Report Reveals Massive Impact on UK Anti-Harassment Fund",
-      "Love in Disguise Continues Winning Streak with Solid Ratings for Seventh Episode",
-      "Navya Naveli Nanda Shares Unseen Family Moments from Diwali Celebrations Featuring Agastya and Aaradhya",
-      "FBI Star Jeremy Sisto Brings Jubal Valentine to CIA Crossover Event"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4799,19 +4784,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T23:40:16Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 356 still unprocessed; today by category: movies 17/6, tv_dramas 12/4, episodes 1/2, box_office 22/6, celebrities_events 22/5, upcoming_releases 3/4, ott_streaming 8/4, trailers 5/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Kashika Kapoor Discusses The Pressures Of BewafaSe And Her Role In CASTE",
+      "Dancing with the Stars Season 35 Finale Date and Remaining Episodes Schedule Revealed",
+      "Nicolas Cage transformed from within for Madden, says Kathryn Hahn",
+      "Former and Current Netflix Executives Raise Alarms Over Ted Sarandos Strategy"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5125,24 +5122,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T23:41:29Z",
+    "run_id": "42925105088",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 339,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5487,19 +5486,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 375,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5784,19 +5788,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6046,19 +6050,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6293,19 +6297,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6592,19 +6596,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6845,19 +6849,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7087,19 +7091,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7352,30 +7356,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-09T02:55:58Z",
-    "run_id": "42553121715",
-    "status": "success",
-    "checked": {
-     "candidates": 520,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 506"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7858,19 +7851,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-10T23:40:35Z",
+    "run_id": "42925105088",
+    "status": "success",
+    "checked": {
+     "candidates": 527,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 512"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8110,19 +8114,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T23:52:04Z",
-    "run_id": "42723677129",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8372,8 +8376,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T22:52:44Z"
+ "updated_at": "2026-11-10T23:42:14Z"
 }
