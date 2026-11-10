@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T22:51:00Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": {
-     "candidates": 303,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Buyers Posted Scathing Reviews Aimed At ‘Kimberly’ After SKIMS’ Advent Calendar Underwhelmed",
-      "Netflix’s A Dog’s Perfect Christmas Made Me Cry, But Not For The Reasons I Thought",
-      "PSA: Henry Cavill's Back With The Mustache For Movember (And Totally Pulls It Off)",
-      "3 Elite Netflix Series to Binge This Week (Nov 9-13)",
-      "TV's Biggest ‘Lincoln Lawyer’ Replacement Officially Takes Over Netflix",
-      "NBC’s 2-Season Post-Apocalyptic Sci-Fi Is the Perfect ‘The Last of Us’ Replacement",
-      "Star Trek’s Cold War Thriller Officially Sets New Release 35 Years Later",
-      "A 'Game of Thrones' Star's Divisive Thriller Officially Gets Its Streaming Redemption 2 Years Later",
-      "Sam Neill Posthumously Appears in Hilarious The Fox Trailer, Olivia Colman & More Also Star",
-      "The Conjuring’s Vera Farmiga Joins New Supernatural Horror Movie as Fans Want Last Rites Sequel",
-      "Sinners Star Joins Denzel Washington in Mission: Impossible Director’s New Thriller Movie",
-      "Brad Pitt Dog Movie Heart of the Beast Sets Digital & Blu-ray Release Dates With New Content",
-      "Resident Evil’s Massive Streaming Success Has Fans Thinking a Big Sequel Announcement Is Coming",
-      "Gwyneth Paltrow’s Next Netflix Show Is a Big Departure From Her Typical Roles",
-      "Guardians of the Galaxy Vol. 4 Seems Likely After James Gunn’s DC Exit, Fans Believe",
-      "Nicholas Hoult’s Unexpected Role Arrives in New Movie Trailer as James Bond Casting Heats Up",
-      "Watch: Disney's Holiday Short 'The Invisible Horse' by Dougal Wilson",
-      "'The Walking Dead' Gets a Martial Arts Twist in Netflix's 2-Part Apocalypse Series",
-      "HBO’s Steamy Smash Hit Is So Good, 2 More Seasons and a Movie Are on the Way",
-      "Stephen King's 'Stranger Things' Substitute Sci-Fi Thriller Is Streaming Hit After New Season Debut"
-     ],
-     "updated": [],
-     "count": 287,
-     "detail": "303 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-09T23:51:33Z",
     "run_id": "42723677129",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "316 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T22:51:50Z",
-    "run_id": "42715426223",
+    "run_at": "2026-11-10T22:51:59Z",
+    "run_id": "42918211617",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 418,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Breaks Dhurandhar 2 and Pushpa 2 Records With Massive Hourly Ticket Sales on BookMyShow",
-      "Suriya's Crime Comedy 'Scene' Crosses Rs 100 Crore Worldwide in Opening Weekend",
-      "Saba Ali Khan Reveals Why Sharmila Tagore Converted to Islam for Mansoor Ali Khan Pataudi",
-      "Cupertino Episode 6 Explores AI Life-and-Death Decisions and Tech Industry Greed"
+      "EXCLUSIVE! Kashika Kapoor On Biggest Challenge Behind BewafaSe: Was Freaking Out As I Had Only One Day To...",
+      "Paul McCartney Net Worth 2026: How the Legendary Beatle Finally Joined The Billion-Dollar Club",
+      "Nicolas Cage transformed ‘from within’ for ‘Madden,’ co-star Kathryn Hahn says",
+      "Ex-60 Minutes EP On His Biggest Concerns Amid Bari Weiss’ Leadership: ‘That Would Have Freaked Me Out’",
+      "Wait, Did Anthony Mackie Just Spoil A Surprise Avengers: Doomsday Character?",
+      "Lanterns Showrunner Responds To James Gunn's DC Departure Amid Season 2 Questions",
+      "While We Wait For Alan Ritchson And Arnold Schwarzenegger's New Movie, Jingle All The Way Is Streaming For Free",
+      "Steven Spielberg’s 10-Part Sci-Fi Thriller Is Perfect for ‘Person of Interest’ Fans",
+      "7 Romance Shows That Are 10/10 Masterpieces",
+      "The 10 Most Intense Movie Scenes of All Time, Ranked",
+      "Taika Waititi’s Sci-Fi Disaster Officially Removed From Cinemas After Earning Just $15 Per Theater",
+      "‘John Wick’ Mastermind Unleashes Brutal Samurai Action in New Thriller Trailer",
+      "‘Elsbeth’ Is Ready to Play a ‘Ted Lasso’ Star’s Game in First Look at This Week’s New Episode",
+      "Netflix’s New No. 1 Show Revisits a Disappearance That Shocked the World",
+      "Westworld Actor Jonathan Tucker Recalls Rescuing Neighbors From Home Invasion: ‘Horrifying’",
+      "Dennis Quaid’s Christmas Dog Movie Fetches More Netflix Streaming Views Than Anyone Expected",
+      "Shaquille O’Neal Gets Bizarre New TV Show From ABC Featuring a Nearly Impossible Task",
+      "Hellboy’s Jack Kesy Faces a Deadly Ocean Threat in First Look at New Shark Thriller",
+      "Léa Seydoux Reveals Surprising Mission: Impossible Filming Revelation About Tom Cruise",
+      "HBO’s Harry Potter Snape Actor Explains Why He Joined The Show Amid J.K. Rowling Backlash"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 364,
+     "detail": "383 stories, 0 duplicates removed, 35 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T22:52:35Z",
+    "run_id": "42918211617",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Paul McCartney Net Worth: How the Legendary Beatle Built His Billion-Dollar Fortune",
+      "Bailee Madison To Lead Indie Film 'In The Blue'",
+      "Kiara Advani Reveals Karan Johar Threw Shahid Kapoor Off Stage at Her Wedding on Koffee with Karan 9",
+      "Adobe Premiere Mobile App Adds Major Music Catalogs Through Label Deals"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T00:52:40Z",
-    "run_id": "42731364264",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,33 +1906,27 @@
      "detail": "now 282, coming 15"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T22:52:35Z",
+    "run_id": "42918211617",
+    "status": "success",
+    "checked": {
+     "candidates": 297,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 282, coming 15"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T23:03:45Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1j56i1a",
-      "3r1cd0",
-      "qqufdk",
-      "11utocu",
-      "pqml1n",
-      "1apf8m9"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2408,27 +2384,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T23:03:43Z",
-    "run_id": "42715426223",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T22:52:37Z",
+    "run_id": "42918211617",
     "status": "success",
     "checked": {
-     "candidates": 632,
-     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 621 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2842,19 +2817,27 @@
      "detail": "+0 new rows, 3 updated rows, 629 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T22:52:35Z",
+    "run_id": "42918211617",
+    "status": "success",
+    "checked": {
+     "candidates": 641,
+     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3091,32 +3074,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T23:03:45Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Breaks Dhurandhar 2 and Pushpa 2 Records With Massive Hourly Ticket Sales on BookMyShow",
-      "Suriya's Crime Comedy 'Scene' Crosses Rs 100 Crore Worldwide in Opening Weekend",
-      "Saba Ali Khan Reveals Why Sharmila Tagore Converted to Islam for Mansoor Ali Khan Pataudi",
-      "Cupertino Episode 6 Explores AI Life-and-Death Decisions and Tech Industry Greed"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3655,19 +3625,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T22:52:37Z",
+    "run_id": "42918211617",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Adobe Premiere Mobile App Adds Major Music Catalogs Through Label Deals",
+      "Paul McCartney Net Worth: How the Legendary Beatle Built His Billion-Dollar Fortune",
+      "Bailee Madison To Lead Indie Film 'In The Blue'",
+      "Kiara Advani Reveals Karan Johar Threw Shahid Kapoor Off Stage at Her Wedding on Koffee with Karan 9"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3943,19 +3926,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4276,31 +4259,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T22:51:50Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 287 still unprocessed; today by category: movies 11/6, tv_dramas 13/4, episodes 0/2, box_office 26/6, celebrities_events 17/5, upcoming_releases 5/4, ott_streaming 10/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Breaks Dhurandhar 2 and Pushpa 2 Records With Massive Hourly Ticket Sales on BookMyShow",
-      "Suriya's Crime Comedy 'Scene' Crosses Rs 100 Crore Worldwide in Opening Weekend",
-      "Saba Ali Khan Reveals Why Sharmila Tagore Converted to Islam for Mansoor Ali Khan Pataudi",
-      "Cupertino Episode 6 Explores AI Life-and-Death Decisions and Tech Industry Greed"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4806,26 +4777,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T22:52:35Z",
+    "run_id": "42918211617",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 364 still unprocessed; today by category: movies 16/6, tv_dramas 11/4, episodes 1/2, box_office 22/6, celebrities_events 20/5, upcoming_releases 3/4, ott_streaming 8/4, trailers 5/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Paul McCartney Net Worth: How the Legendary Beatle Built His Billion-Dollar Fortune",
+      "Bailee Madison To Lead Indie Film 'In The Blue'",
+      "Kiara Advani Reveals Karan Johar Threw Shahid Kapoor Off Stage at Her Wedding on Koffee with Karan 9",
+      "Adobe Premiere Mobile App Adds Major Music Catalogs Through Label Deals"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T22:53:05Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5139,24 +5115,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 403,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5501,19 +5472,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 388,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5793,19 +5769,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6055,19 +6036,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6302,19 +6283,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6601,19 +6582,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6854,19 +6835,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7096,19 +7077,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7357,6 +7338,16 @@
     "category": "Trending News",
     "run_at": "2026-11-10T21:58:51Z",
     "run_id": "42908913535",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7873,16 +7864,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-09T23:52:04Z",
     "run_id": "42723677129",
     "status": "skipped",
@@ -8119,19 +8100,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T23:03:57Z",
-    "run_id": "42715426223",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8381,8 +8362,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T21:58:51Z"
+ "updated_at": "2026-11-10T22:52:44Z"
 }

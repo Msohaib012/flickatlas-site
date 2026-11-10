@@ -109719,5 +109719,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-10T15:04:32+05:30"
+  },
+  "1a28kst": {
+    "id": "1a28kst",
+    "type": "news",
+    "headline": "Paul McCartney Net Worth: How the Legendary Beatle Built His Billion-Dollar Fortune",
+    "dek": "Exploring the decades-long career, smart publishing investments, and diverse revenue streams that propelled music icon Paul McCartney into the exclusive billionaire club.",
+    "body": [
+      {
+        "h": "Introduction to the Billion-Dollar Milestone",
+        "p": [
+          "Spanning over six decades in the music industry, British singer-songwriter Paul McCartney has established a financial legacy that extends far beyond his iconic tenure with The Beatles.",
+          "Recent financial evaluations place his estimated net worth at approximately $1.4 billion, cementing his status as one of the wealthiest musicians globally."
+        ]
+      },
+      {
+        "h": "Early Life and Musical Beginnings",
+        "p": [
+          "Born in Liverpool, England, on June 18, 1942, James Paul McCartney grew up in a working-class environment where he developed an early affinity for music, penning his first tunes as a teenager.",
+          "His trajectory shifted dramatically in 1957 when he crossed paths with John Lennon, eventually joining The Quarrymen, the precursor to the legendary band that would forever transform popular music."
+        ]
+      },
+      {
+        "h": "The Beatles and Wings Era",
+        "p": [
+          "Alongside bandmates John Lennon, George Harrison, and Ringo Starr, McCartney achieved international superstardom following the 1963 release of the debut album Please Please Me.",
+          "Following the group's breakup in 1970, he launched a successful solo career and formed the band Wings alongside his wife Linda McCartney, producing major chart-topping hits."
+        ]
+      },
+      {
+        "h": "Publishing Empire and MPL Communications",
+        "p": [
+          "A cornerstone of his massive fortune is MPL Communications, a music publishing company founded by McCartney in 1969 to maintain greater control over his creative earnings.",
+          "The publishing firm, valued significantly by financial analysts, manages thousands of musical compositions and continues to generate tens of millions in annual revenue."
+        ]
+      },
+      {
+        "h": "Royalties, Catalogs, and Live Performances",
+        "p": [
+          "McCartney continues to draw substantial yearly income from Apple Corps, Beatles songwriting copyrights, and ongoing streaming and physical music sales.",
+          "Despite being in his eighties, he remains a powerhouse on stage, having completed extensive concert runs like his multi-year Got Back tour."
+        ]
+      },
+      {
+        "h": "Real Estate, Art, and Endorsements",
+        "p": [
+          "Beyond his musical assets, the legendary artist has accumulated valuable real estate holdings across the United Kingdom and the Hamptons, alongside a notable art collection featuring works by famous painters.",
+          "Unlike many modern celebrities, he has remained selective with commercial collaborations, partnering sparingly with automotive, financial, and technology brands."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paul McCartney has built a staggering financial empire worth approximately $1.4 billion through decades of music publishing, songwriting royalties, and live performances.",
+          "His wealth stems from strategic business ventures like MPL Communications, his stake in Apple Corps, and enduring catalog assets rather than his work with The Beatles alone."
+        ]
+      }
+    ],
+    "facts": [
+      "Paul McCartney was born on June 18, 1942.",
+      "His estimated net worth is approximately $1.4 billion as of November 2026.",
+      "He has won 19 Grammy Awards and written or co-written 32 Billboard Hot 100 number-one songs.",
+      "His Got Back tour included 79 performances between 2022 and 2025."
+    ],
+    "entities": {
+      "people": [
+        "Paul McCartney",
+        "John Lennon",
+        "George Harrison",
+        "Ringo Starr",
+        "Linda McCartney",
+        "Nancy Shevell",
+        "Jay-Z",
+        "Taylor Swift",
+        "Pablo Picasso",
+        "René Magritte"
+      ],
+      "titles": [
+        "Please Please Me",
+        "McCartney",
+        "Band on the Run",
+        "Live and Let Die",
+        "Silly Love Songs",
+        "The Boys of Dungeon Lane"
+      ]
+    },
+    "keywords": [
+      "Paul McCartney net worth",
+      "Paul McCartney billionaire",
+      "MPL Communications Paul McCartney",
+      "The Beatles royalties Paul McCartney"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/paul-mccartney-net-worth-001.jpg",
+        "caption": "Paul McCartney Net Worth: How the Legendary Beatle Built His Billion-Dollar Fortune",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 22:33:43 +0000"
+  },
+  "127khvl": {
+    "id": "127khvl",
+    "type": "news",
+    "headline": "Bailee Madison To Lead Indie Film 'In The Blue'",
+    "dek": "Bailee Madison has been cast as the lead in the dark comedy-thriller 'In The Blue', directed by Delilah Napier and Lucy Powers.",
+    "body": [
+      {
+        "h": "Bailee Madison Cast in Lead Role",
+        "p": [
+          "Bailee Madison has officially signed on to star as the lead in the upcoming dark comedy-thriller titled In the Blue. Known for her work in Pretty Little Liars: Original Sin, Madison will take center stage in this new cinematic project.",
+          "The film is being brought to life by the writer-director duo Delilah Napier and Lucy Powers, who created the original vision that attracted the production team."
+        ]
+      },
+      {
+        "h": "Production and Creative Team",
+        "p": [
+          "Uri Singer is producing the indie feature under his Passage Pictures banner alongside Isabella Zanobini. Additionally, Christa Campbell and Michael Peen are serving as producers and are co-financing the feature through XTA Media.",
+          "Behind the camera, the creative department features Carlos Cardona as the Director of Photography and Mona Mekkawi working as the production designer."
+        ]
+      },
+      {
+        "h": "Plot and Character Details",
+        "p": [
+          "In the Blue follows the story of Brie, an aspiring actor and tutor played by Bailee Madison. She is offered a significant amount of money to help her tutoring client, Seth, finish his college applications while on his family's holiday yacht trip.",
+          "Seth is portrayed by Maddox Blackwell, while Adam Goldberg plays Seth's father, David, who is hosting the voyage. Once the characters are out on the water, the luxury excursion transforms into a claustrophobic nightmare as old resentments boil over and family tensions escalate dangerously."
+        ]
+      },
+      {
+        "h": "Stellar Ensemble Cast Joins the Project",
+        "p": [
+          "Aside from Madison, Blackwell, and Goldberg, the production has assembled a diverse and talented supporting cast. The additional ensemble members include Sasha Lane, Nat Faxon, Veronica Falcón, Betsy Brandt, and Fran Kranz.",
+          "Specific details regarding the characters that Lane, Faxon, Brandt, Falcón, and Kranz will portray are currently being kept under wraps by the filmmakers."
+        ]
+      },
+      {
+        "h": "Producer and Filmmaker Enthusiasm",
+        "p": [
+          "Producer Uri Singer expressed immense enthusiasm regarding the newly formed cast. He shared his excitement about bringing the unique vision of the writers and directors to life alongside such a capable group of actors.",
+          "The combination of an accomplished ensemble and a tense psychological premise has generated early interest in the indie thriller."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bailee Madison is set to star in the indie dark comedy-thriller In the Blue, written and directed by Delilah Napier and Lucy Powers. She will be joined by actors including Adam Goldberg, Maddox Blackwell, and Nat Faxon in a story that turns a family yacht trip into a claustrophobic nightmare."
+        ]
+      }
+    ],
+    "facts": [
+      "Bailee Madison is cast as the lead in In the Blue.",
+      "Delilah Napier and Lucy Powers are the writer-director duo for In the Blue.",
+      "Uri Singer's Passage Pictures is producing the film.",
+      "Maddox Blackwell plays Seth and Adam Goldberg plays David.",
+      "Other cast members include Sasha Lane, Nat Faxon, Veronica Falcón, Betsy Brandt, and Fran Kranz."
+    ],
+    "entities": {
+      "people": [
+        "Bailee Madison",
+        "Delilah Napier",
+        "Lucy Powers",
+        "Uri Singer",
+        "Maddox Blackwell",
+        "Adam Goldberg",
+        "Sasha Lane",
+        "Nat Faxon",
+        "Veronica Falcón",
+        "Betsy Brandt",
+        "Fran Kranz",
+        "Isabella Zanobini",
+        "Christa Campbell",
+        "Michael Peen",
+        "Carlos Cardona",
+        "Mona Mekkawi"
+      ],
+      "titles": [
+        "In the Blue",
+        "Pretty Little Liars: Original Sin"
+      ]
+    },
+    "keywords": [
+      "Bailee Madison In the Blue",
+      "In the Blue film cast",
+      "Delilah Napier Lucy Powers",
+      "Uri Singer Passage Pictures"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/cast-in-the-blue.jpg?w=1024",
+        "caption": "Bailee Madison To Lead Indie Film 'In The Blue'",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 21:21:10 +0000"
+  },
+  "4mzg4": {
+    "id": "4mzg4",
+    "type": "news",
+    "headline": "Kiara Advani Reveals Karan Johar Threw Shahid Kapoor Off Stage at Her Wedding on Koffee with Karan 9",
+    "dek": "Kiara Advani and Sidharth Malhotra bring playful banter to Koffee with Karan 9, where Kiara shares a hilarious anecdote about Karan Johar shoving Shahid Kapoor off the stage during their wedding celebrations.",
+    "body": [
+      {
+        "h": "The New Koffee with Karan 9 Episode",
+        "p": [
+          "Celebrity couple Kiara Advani and Sidharth Malhotra are the latest guests to appear on the popular chat show Koffee with Karan 9. Following Saif Ali Khan and Kareena Kapoor Khan, this upcoming episode marks the first time Sidharth and Kiara make a joint appearance on the famous couch. The conversational show is hosted by filmmaker Karan Johar and streams on platforms such as JioHotstar and Peacock.",
+          "The newly released promo highlights the couple's vibrant energy and playful banter. Fans get a glimpse into the lighthearted dynamic between the host and his guests, setting high expectations for the full-length episode scheduled to air at 7 pm on November 11."
+        ]
+      },
+      {
+        "h": "A Fairytale Wedding in Rajasthan",
+        "p": [
+          "During the conversation, Kiara Advani reminisced about memorable and amusing incidents from her wedding with Sidharth Malhotra. The couple officially tied the knot on February 7, 2023, in a lavish ceremony held in Jaisalmer, Rajasthan.",
+          "Their destination wedding was heavily covered by media, but the Koffee with Karan appearance brings out fresh, unseen personal anecdotes that highlight the fun and chaos behind the scenes of their grand celebration."
+        ]
+      },
+      {
+        "h": "When Karan Johar Pushed Shahid Kapoor Off Stage",
+        "p": [
+          "In a standout moment from the episode's promo, Kiara playfully teased Karan Johar by asking whether she and Sidharth should reveal the specific song he danced to at their wedding. She then dropped a hilarious revelation about the celebrations.",
+          "According to the actress, Karan completely took over the dance floor and even threw Shahid Kapoor off the stage when Shahid tried to join him for a performance. Kiara recalled that Shahid thought he would go up and give Karan company, only to be promptly removed, leaving both the host and the guests in splits."
+        ]
+      },
+      {
+        "h": "Balancing Work and Personal Life",
+        "p": [
+          "As the conversation shifted, Karan Johar asked the couple if there were any specific characters from their filmographies they would want to replay in their personal lives. Sidharth quickly chimed in with a witty response.",
+          "The actor stated that they prefer not to bring their work home and certainly do not want to carry it into their bedroom, emphasizing a clear boundary between their demanding acting careers and their domestic life."
+        ]
+      },
+      {
+        "h": "Expecting Their Second Child",
+        "p": [
+          "The episode also touched upon their growing family and daily life. When Karan asked about ensuring date nights do not end strictly with dessert, Kiara gestured toward her baby bump and remarked that it was enough.",
+          "The couple welcomed their first child, a daughter named Sarayaah, in July 2025. Exactly a year later, they announced they are expecting their second child, sharing their joy on Instagram by stating they were blessed once again with the greatest gift and expressing full hearts filled with love and gratitude."
+        ]
+      },
+      {
+        "h": "Karan Johar on the Future of the Show",
+        "p": [
+          "Amidst the excitement for the new season, Karan Johar recently opened up in an interview with The Hollywood Reporter India regarding his long-term future on the chat show format. He acknowledged that Koffee with Karan is an intellectual property that could technically be hosted by anyone.",
+          "However, he clarified that he has immense love for the show and deep respect for the platform that gave him this opportunity season after season. He confirmed he is not leaving the zone entirely, though he noted he will not be returning in this exact chat avatar anytime soon."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kiara Advani and Sidharth Malhotra appear together on an upcoming episode of Koffee with Karan 9, streaming on JioHotstar and Peacock on November 11. During the promo, Kiara humorously recalls how Karan Johar threw Shahid Kapoor off the stage during her Jaisalmer wedding in February 2023. Additionally, the couple speaks about their growing family following the birth of their daughter Sarayaah in July 2025 and their recent announcement of a second child."
+        ]
+      }
+    ],
+    "facts": [
+      "Kiara Advani and Sidharth Malhotra appeared on Koffee with Karan 9.",
+      "The wedding took place on February 7, 2023, in Jaisalmer, Rajasthan.",
+      "Kiara Advani and Sidharth Malhotra welcomed their daughter Sarayaah in July 2025.",
+      "The Koffee with Karan 9 episode streams on November 11 at 7 pm on JioHotstar and Peacock."
+    ],
+    "entities": {
+      "people": [
+        "Kiara Advani",
+        "Sidharth Malhotra",
+        "Karan Johar",
+        "Shahid Kapoor",
+        "Sarayaah",
+        "Saif Ali Khan",
+        "Kareena Kapoor Khan"
+      ],
+      "titles": [
+        "Koffee with Karan"
+      ]
+    },
+    "keywords": [
+      "Kiara Advani Sidharth Malhotra Koffee with Karan 9",
+      "Karan Johar Shahid Kapoor wedding stage",
+      "Sidharth Malhotra Kiara Advani wedding Jaisalmer",
+      "Koffee with Karan 9 new episode JioHotstar"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156488996,thumbsize-1219623,width-1280,height-720,resizemode-75/156488996.jpg",
+        "caption": "Kiara Advani Reveals Karan Johar Threw Shahid Kapoor Off Stage at Her Wedding on Koffee with Karan 9",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T22:52:35Z"
+  },
+  "nfmhii": {
+    "id": "nfmhii",
+    "type": "news",
+    "headline": "Adobe Premiere Mobile App Adds Major Music Catalogs Through Label Deals",
+    "dek": "The free video editing application for mobile devices has integrated massive song libraries from Universal Music Group and Warner Music Group for creators.",
+    "body": [
+      {
+        "h": "New Integration for Mobile Creators",
+        "p": [
+          "Content producers working on short-form video formats now have access to a vast collection of popular songs directly within their editing workflow. The free Adobe Premiere mobile application has introduced hundreds of thousands of licensed tracks stemming from major agreements with Universal Music Group and Warner Music Group. This integration is tailored specifically for making content destined for popular platforms such as TikTok, Instagram Reels, and YouTube Shorts.",
+          "At launch, the newly added music library is immediately accessible to users residing in Canada, the United States, Australia, and New Zealand. Creators can effortlessly search for songs by title or artist, filter selections according to duration or genre, bookmark preferred tracks, and check out curated label playlists."
+        ]
+      },
+      {
+        "h": "Popular Tracks Available at Launch",
+        "p": [
+          "The newly introduced catalog features a wide array of well-known songs from top-tier artists across the industry. Among the top-trending tracks included right out of the gate are Chappell Roan's 'Good Luck, Babe!', Olivia Dean's 'So Easy (To Fall In Love)', Sombr's 'Homewrecker', Justin Bieber's 'Daisies', and Lady Gaga's 'The Dead Dance'.",
+          "Additional prominent songs available to mobile users comprise Ava Max's 'Sweet but Psycho', Vance Joy's 'Riptide', OneRepublic's 'Counting Stars', and Teddy Swims' 'Lose Control'. Users are able to take a selected track and incorporate up to sixty seconds of it directly into their video projects, complete with customizable templates."
+        ]
+      },
+      {
+        "h": "Addressing Creator Pain Points",
+        "p": [
+          "According to Jay LeBoeuf, who serves as Adobe's head of AI audio for creators, the company has not previously built out a dedicated music infrastructure. Speaking at the Adobe MAX 2026 creativity conference held in Miami Beach, LeBoeuf highlighted that mobile video editors previously lacked a seamless method for integrating popular music during the editing phase.",
+          "A survey conducted by the Berklee College of Music and funded by Adobe revealed that a vast majority of creators, specifically 83.7 percent, form their video concepts around a pre-selected song. However, these same creators frequently reported running into copyright hurdles and often had to settle for generic royalty-free alternatives instead."
+        ]
+      },
+      {
+        "h": "Licensing Terms and Restrictions",
+        "p": [
+          "While the new music integration offers substantial creative freedom, there are specific limitations regarding its application. The tracks licensed from Universal Music Group and Warner Music Group are cleared strictly for personal and non-commercial use by Premiere mobile app users.",
+          "Despite this restriction, Adobe notes that the music is generally cleared for use on platforms like YouTube Shorts. For professional projects requiring commercially cleared audio, users still maintain access to Adobe Stock Audio within the ecosystem."
+        ]
+      },
+      {
+        "h": "Perspectives from Music Labels",
+        "p": [
+          "Executives from both major music corporations expressed enthusiasm regarding the partnership and its potential for audience reach. Bryan Stone, senior vice president of business development at Universal Music Group, pointed out that this collaboration marks the only creative application where the label has established a licensing pact lacking a social component.",
+          "Rachel Scarpati, vice president of digital strategy and business development at Warner Music Group, emphasized that the arrangement integrates the company's catalog directly into the artistic process. She noted that this expansion allows fans to experience and engage with music far beyond conventional listening environments."
+        ]
+      },
+      {
+        "h": "Additional App Features and Capabilities",
+        "p": [
+          "Beyond the newly acquired music tracks, the Premiere mobile application is equipped with a variety of advanced editing utilities. These include studio-quality audio functions like Enhance Audio, which is designed to eliminate distracting background noise from recordings.",
+          "The software also incorporates creative generative AI capabilities powered by Adobe Firefly, allowing users to produce assets such as images, videos, and sound effects. The app remains free to download and use without watermarks, though optional credits can be purchased for advanced generative AI features."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Adobe has integrated hundreds of thousands of songs from Universal Music Group and Warner Music Group into its free mobile video editing application. The feature allows creators in select regions to add popular tracks directly to short-form videos while navigating personal-use licensing terms. Company executives from both tech and music sectors view the partnership as a major step in solving creator copyright challenges."
+        ]
+      }
+    ],
+    "facts": [
+      "The Adobe Premiere mobile app added hundreds of thousands of tracks licensed from Universal Music Group and Warner Music Group.",
+      "The music tracks are initially available to users in the U.S., Canada, Australia, and New Zealand.",
+      "A survey funded by Adobe and conducted by the Berklee College of Music showed that 83.7% of creators build a video around a selected song.",
+      "Users can add up to 60 seconds of a selected track directly to their video."
+    ],
+    "entities": {
+      "people": [
+        "Todd Spangler",
+        "Olivia Dean",
+        "Sombr",
+        "Chappell Roan",
+        "Justin Bieber",
+        "Lady Gaga",
+        "Ava Max",
+        "Vance Joy",
+        "OneRepublic",
+        "Teddy Swims",
+        "Jay LeBoeuf",
+        "Bryan Stone",
+        "Rachel Scarpati"
+      ],
+      "titles": [
+        "So Easy (To Fall In Love)",
+        "Homewrecker",
+        "Good Luck, Babe!",
+        "Daisies",
+        "The Dead Dance",
+        "Sweet but Psycho",
+        "Riptide",
+        "Counting Stars",
+        "Lose Control",
+        "Adobe Premiere"
+      ]
+    },
+    "keywords": [
+      "Adobe Premiere mobile app",
+      "Universal Music Group Adobe",
+      "Warner Music Group Adobe Premiere",
+      "Adobe Premiere mobile music tracks"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Adobe-Premiere-Mobile-Music-Tracks.png?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Adobe Premiere Mobile App Adds Major Music Catalogs Through Label Deals",
+        "source": "Variety"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 21:24:05 +0000"
   }
 };
