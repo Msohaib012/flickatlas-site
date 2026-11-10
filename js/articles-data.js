@@ -103526,5 +103526,423 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 05:38:44 +0000"
+  },
+  "76m87r": {
+    "id": "76m87r",
+    "type": "news",
+    "headline": "Ramayana Day 5 Box Office: Ranbir Kapoor and Yash Starrer Crosses Rs 600 Crore Worldwide",
+    "dek": "Nitesh Tiwari's mythological drama Ramayana has scripted history at the box office, racing past the Rs 600 crore mark globally after a phenomenal first Monday run.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Phenomenon",
+        "p": [
+          "The mythological epic Ramayana has taken the global box office by storm, establishing itself as one of the most commercially successful cinematic ventures of 2026. Headlined by a prominent cast featuring Ranbir Kapoor, Sai Pallavi, and Yash, the feature has drawn massive crowds despite opening to mixed reviews from both audiences and critics alike.",
+          "Helmed by director Nitesh Tiwari, the high-budget production has proven to be an unstoppable force. Its strong theatrical run spans multiple language versions, capturing the attention of moviegoers not just domestically in India but across international territories as well."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Beyond its lead trio of Ranbir Kapoor, Sai Pallavi, and Yash, the film boasts a massive ensemble cast. Notable names such as Ravie Dubey, Sunny Deol, Rakul Preet Singh, Arun Govil, Adinath Kothare, Lara Dutta, Vivek Oberoi, and Sheeba Chadha contribute to the project's grand scale.",
+          "On the administrative and creative front, the project is co-produced by Namit Malhotra and Yash. As one of the most heavily anticipated and expensive releases of 2026, it generated substantial buzz long before its actual theatrical debut."
+        ]
+      },
+      {
+        "h": "Pre-Release Records and Momentum",
+        "p": [
+          "Even before lighting up theater screens around the world, Ramayana was busy rewriting record books. The feature secured the second-highest advance booking collection in recent times while simultaneously delivering the highest opening for lead star Ranbir Kapoor.",
+          "Furthermore, its opening weekend figures ranked among the highest ever recorded. This immense early momentum set the stage for sustained box office dominance as the theatrical run entered its first weekdays."
+        ]
+      },
+      {
+        "h": "Day 5 Worldwide Milestones",
+        "p": [
+          "Achieving a monumental career milestone on its fifth day of release, the film officially entered the coveted Rs 600 crore club. According to reports published by Sacnilk, the total worldwide collection reached an astounding Rs 663.9 crore by day 5.",
+          "This rapid ascent makes it the second-fastest movie to surpass the Rs 600 crore threshold, trailing only Dhurandhar 2 in that specific historical metric."
+        ]
+      },
+      {
+        "h": "Overseas Performance and Earnings",
+        "p": [
+          "International markets have played a vital role in fueling the film's financial triumph. By the conclusion of its fifth day in theaters, the cumulative overseas collection alone touched an impressive Rs 250 crore.",
+          "This steady influx of international revenue combined with robust domestic numbers to cement the title's status as a global box office juggernaut."
+        ]
+      },
+      {
+        "h": "Record-Breaking First Monday Numbers",
+        "p": [
+          "Defying traditional weekday drops, Ramayana recorded its highest single-day collection ever on day 5, which marked its first Monday. The feature pulled in a massive Rs 107.5 crore on that single day alone, outperforming major box office heavyweights like Dhurandhar 2 and Pushpa 2 in first Monday collections in India.",
+          "This exceptional single-day surge brought the overall nett collection in India to Rs 346.35 crore, while gross domestic collections stood at Rs 413.9 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown",
+        "p": [
+          "The phenomenal day 5 earnings of Rs 107.5 crore came from a diverse multi-language distribution network across the country. The Hindi version led the charge by bringing in Rs 87.25 crore.",
+          "Regional markets also contributed significantly to the daily tally, with the Kannada version earning Rs 7.5 crore, the Telugu version adding Rs 6 crore, the Tamil version contributing Rs 4 crore, and the Malayalam version chipping in with Rs 2.75 crore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the mythological drama Ramayana has crossed the Rs 600 crore mark globally to reach Rs 663.9 crore after five days in theaters. Powered by a record-breaking first Monday collection of Rs 107.5 crore in India and an overseas total of Rs 250 crore, the high-budget co-production has cemented its place in box office history."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned Rs 25cr overseas on day 5, taking the total overseas collection to Rs 250cr.",
+      "The total worldwide collection after 5 days stands at Rs 663.9cr.",
+      "Ramayana earned Rs 107.5cr on day 5 including Rs 87.25cr in Hindi, Rs 7.5cr in Kannada, Rs 6cr in Telugu, Rs 4cr in Tamil and Rs 2.75cr in Malayalam.",
+      "The overall collection of Ramayana reached Rs 346.35cr nett and Rs 413.9cr gross."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Adinath Kothare",
+        "Lara Dutta",
+        "Vivek Oberoi",
+        "Sheeba Chadha",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pushpa 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana worldwide collection day 5",
+      "Ramayana 600cr club"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday5wwfeature-75581794293493.jpg",
+        "caption": "Ramayana Day 5 Box Office: Ranbir Kapoor and Yash Starrer Crosses Rs 600 Crore Worldwide",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 12:23:07 +0530"
+  },
+  "1a3zkxt": {
+    "id": "1a3zkxt",
+    "type": "news",
+    "headline": "Emraan Hashmi Starrer Gunmaaster G9 Sets Up Grand Trailer Debut in Pune",
+    "dek": "The makers of the upcoming action entertainer Gunmaaster G9 choose Pune over Mumbai for a high-profile promotional launch event featuring the entire star cast.",
+    "body": [
+      {
+        "h": "Stepping Away From Mumbai Norms",
+        "p": [
+          "Major promotional activities and promotional launches within the Hindi film industry typically center around Mumbai. However, the production crew behind the upcoming feature Gunmaaster G9 decided to chart an alternative route for their promotional campaign.",
+          "Opting for an unconventional location, the producers chose to host their major promotional launch in a prominent theater setting outside the traditional capital of Bollywood."
+        ]
+      },
+      {
+        "h": "Choosing the Pune Center",
+        "p": [
+          "The decision to stage the grand unveiling in Pune stems from strong local enthusiasm and past commercial performance. Pune represents one of the strongest regional markets and holds a massive dedicated following for the lead actor.",
+          "Recognizing this strong regional backing, the organizers felt that taking the entire principal cast to the city would create a much stronger connection with regional admirers."
+        ]
+      },
+      {
+        "h": "Venue Details and Cast Presence",
+        "p": [
+          "The special promotional gathering is scheduled to take place at a well-known entertainment complex situated within the Kothrud neighborhood of Pune.",
+          "With the entire principal cast slated to appear in person, industry insiders anticipate the gathering will stand out as one of the most memorable promotional milestones of the current year."
+        ]
+      },
+      {
+        "h": "Censor Board Approval and Technical Specs",
+        "p": [
+          "Prior to the public rollout, the promotional clip underwent evaluation by the Central Board of Film Certification. The board cleared the promotional video with an adult rating.",
+          "The approved preview runs for a total duration of two minutes and forty seconds, giving a polished preview of what audiences can expect when the full feature arrives."
+        ]
+      },
+      {
+        "h": "Plot Insights and Tone",
+        "p": [
+          "Earlier promotional teasers and musical tracks have already established the atmospheric setting and introduced key characters. This upcoming preview aims to deliver a comprehensive look at the storyline.",
+          "Viewers can anticipate plenty of high-energy sequences and crowd-pleasing moments designed to appeal directly to mainstream cinema lovers."
+        ]
+      },
+      {
+        "h": "Cast and Production Team",
+        "p": [
+          "Helmed by director Aditya Datt, the action-heavy project features a prominent ensemble cast. Alongside the lead actor, the film showcases performances by Genelia Deshmukh and Aparshakti Khurana.",
+          "The musical score is composed by Himesh Reshammiya, while production duties are handled by Deepak Mukut, Sangeeta Ahir, and Hunar Mukut."
+        ]
+      },
+      {
+        "h": "Upcoming Theatrical Arrival",
+        "p": [
+          "With the official theatrical release scheduled for later this month on November 27, anticipation remains high following the positive reception of previous promotional assets and a recent character poster.",
+          "The team aims to capitalize on this momentum as the final countdown to the cinematic premiere enters its final three weeks."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming action film Gunmaaster G9 is shifting its promotional trailer launch from Mumbai to a multiplex in Pune's Kothrud area to engage a major fan base. Directed by Aditya Datt and starring Emraan Hashmi, Genelia Deshmukh, and Aparshakti Khurana, the film is set for a theatrical release on November 27."
+        ]
+      }
+    ],
+    "facts": [
+      "Emraan Hashmi stars in Gunmaaster G9",
+      "The trailer launch event will be held at City Pride in Pune's Kothrud area",
+      "The trailer was passed by the CBFC with an 'A' certificate on November 5",
+      "The trailer runtime is 2 minutes and 40 seconds",
+      "Gunmaaster G9 releases in cinemas on November 27",
+      "The film is directed by Aditya Datt",
+      "Music is composed by Himesh Reshammiya",
+      "The film is produced by Deepak Mukut, Sangeeta Ahir, and Hunar Mukut"
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Aditya Datt",
+        "Himesh Reshammiya",
+        "Deepak Mukut",
+        "Sangeeta Ahir",
+        "Hunar Mukut"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Awarapan 2"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9",
+      "Emraan Hashmi",
+      "Gunmaaster G9 trailer launch",
+      "Aditya Datt",
+      "Pune multiplex event"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/EXCLUSIVE-Gunmaaster-G9s-trailer-to-be-launched-in-a-grand-fashion-at-a-Pune-multiplex.jpg",
+        "caption": "Emraan Hashmi Starrer Gunmaaster G9 Sets Up Grand Trailer Debut in Pune",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 12:43:58 +0200"
+  },
+  "17fnmjb": {
+    "id": "17fnmjb",
+    "type": "news",
+    "headline": "Ramayana Smashes Records With Phenomenal Monday Box Office Collection",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana achieved an unprecedented Monday box office milestone, outperforming major blockbusters like Baahubali 2, Dhurandhar 2, and Pushpa 2.",
+    "body": [
+      {
+        "h": "An Exceptional Monday Surge",
+        "p": [
+          "Mondays typically present a major hurdle for theatrical releases, as audiences retreat to standard weekday routines following the initial weekend rush. Most cinematic projects experience sharp revenue declines once the weekend concludes, making weekday performance a crucial indicator of a film's long-term endurance. However, exceptional releases occasionally defy this conventional pattern through strong word-of-mouth momentum and holiday advantages.",
+          "The Nitesh Tiwari directorial venture capitalized brilliantly on post-Diwali festive holidays to register the highest Monday earnings in the history of Indian cinema. By leveraging the extended holiday period, the mythological epic turned a traditionally slow weekday into a historic commercial triumph."
+        ]
+      },
+      {
+        "h": "Shattering All-Time Monday Records",
+        "p": [
+          "On its fifth day in cinema halls, the feature witnessed a massive 91 percent surge in domestic collections compared to standard weekday projections. The domestic net collection reached an unprecedented ₹107.50 crore, comfortably surpassing previous benchmarks set by industry giants.",
+          "This stellar figure outstripped the previous record held by Baahubali 2, which had collected ₹80 crore net across all languages on its initial Monday. Furthermore, the film eclipsed the top Bollywood Monday figures, leaving behind earlier heavy hitters."
+        ]
+      },
+      {
+        "h": "Surpassing Bollywood Competitors",
+        "p": [
+          "Within Hindi cinema, the previous milestone belonged to Dhurandhar 2, which secured ₹60 crore net on its first Monday earlier in the year. Ramayana successfully claimed that top spot, alongside beating Salman Khan's Tiger 3, which previously held the festive Monday record with ₹58 crore during Diwali 2023.",
+          "While titles like Baahubali 2 and Dhurandhar 2 achieved their high Monday earnings on ordinary working days, the mythological drama directly benefited from the Govardhan Puja holiday, propelling its ticket sales to unprecedented heights."
+        ]
+      },
+      {
+        "h": "Dominating Ticketing Platforms",
+        "p": [
+          "The ticket booking momentum reflected the extraordinary public interest surrounding the project. In 2024, Pushpa 2 set a remarkable benchmark by selling 1.07 lakh tickets per hour on BookMyShow on its opening day, a feat later matched only by Dhurandhar 2.",
+          "The Nitesh Tiwari directorial easily outpaced these previous high-water marks. Around noon on its historic Monday, the platform recorded a staggering 1.4 lakh ticket sales per hour, establishing a fresh standard for digital advance bookings."
+        ]
+      },
+      {
+        "h": "Stellar Global and Domestic Totals",
+        "p": [
+          "Domestically, the feature accumulated ₹107.50 crore net, translating to ₹131 crore in gross figures for the single day. In international territories, where the post-Diwali holiday benefit did not apply, the project still brought in an impressive $2.7 million from overseas markets.",
+          "Combined domestic and international earnings pushed the single-day haul to an incredible ₹156 crore, making it one of the largest single-day figures recorded by an Indian film on a non-release weekday."
+        ]
+      },
+      {
+        "h": "Production Background and Cast",
+        "p": [
+          "Backed by Namit Malhotra’s Prime Focus Studios alongside DNEG and Yash’s Monster Mind Creations, the project serves as the first installment of a planned two-part cinematic duology. The narrative features Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman.",
+          "The opening part debuted globally on November 5, 2026, while the subsequent chapter is scheduled for a festive Diwali release in 2028. The production has amassed a worldwide gross of ₹663 crore over five days and eyes the ₹1000 crore milestone."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Ranbir Kapoor and Yash-starrer Ramayana registered the biggest Monday in Indian cinema history with a massive ₹156 crore single-day collection. Bolstered by post-Diwali holidays, the film surpassed box office records previously held by major hits like Baahubali 2, Dhurandhar 2, and Pushpa 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana earned ₹107.50 crore net domestically on its first Monday.",
+      "The film's total single-day haul reached ₹156 crore including international markets.",
+      "Baahubali 2 previously held the first Monday record with ₹80 crore net.",
+      "Dhurandhar 2 earned ₹60 crore net on its first Monday.",
+      "Tiger 3 earned ₹58 crore net on Diwali 2023.",
+      "Pushpa 2 sold 1.07 lakh tickets per hour on BookMyShow on its opening day.",
+      "Ramayana reached 1.4 lakh tickets per hour on BookMyShow.",
+      "The film released worldwide on November 5, 2026.",
+      "The second part is set for release on Diwali 2028.",
+      "The film has earned ₹663 crore gross worldwide in five days."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Salman Khan",
+        "Allu Arjun",
+        "Abhimanyu Mathur"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Baahubali 2",
+        "Tiger 3",
+        "The Kashmir Files",
+        "Hanuman Ansh",
+        "Pushpa 2: The Rule"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana Monday collection",
+      "Ramayana beats Dhurandhar 2",
+      "Ramayana box office ₹156 crore"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Screenshot_1794290344608_gpJP_1794290344720_ejqb_3b689426-cb46-44dc-8f63-ab14b416f1d3_f308.png",
+        "caption": "Ramayana Smashes Records With Phenomenal Monday Box Office Collection",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 11:48:12 +0530"
+  },
+  "lubpd7": {
+    "id": "lubpd7",
+    "type": "news",
+    "headline": "Samuel L. Jackson Action Thriller The Beast Sets Digital Release Date on Prime Video",
+    "dek": "Renny Harlin's action movie The Beast, starring Samuel L. Jackson and Joel Kinnaman, is making its way to Prime Video for digital purchase.",
+    "body": [
+      {
+        "h": "Digital Release Details",
+        "p": [
+          "The high-stakes presidential action thriller The Beast has officially locked down its digital release date following a brief theatrical run. Fans who missed out on seeing the movie on the big screen can soon watch the feature from the comfort of their homes.",
+          "Prime Video will host the digital release, making the movie available for digital purchase starting on November 17."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative follows Samuel L. Jackson in the role of the President of the United States. A militia of unidentified hostiles coordinates a coup against the nation, plunging the presidency into immediate peril.",
+          "To survive the unfolding crisis, the President must uncover the extent of The Beast’s highly classified offensive capabilities. The storyline blends high-stakes presidential action with a contained thriller format."
+        ]
+      },
+      {
+        "h": "Cast and Crew",
+        "p": [
+          "The 99-minute feature stars Samuel L. Jackson alongside Joel Kinnaman, who plays Agent Taft. Additional cast members include Guy Burnet and Colin Morgan.",
+          "The script was written by Umair Aleem. Jacques Jouffret served as cinematographer, and Tuomas Kantelinen composed the musical score."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "Renny Harlin directed the film, stepping into the role as filming neared its wrap in Spain in November 2024. James Madigan had originally signed on to direct when the project was first announced in September 2023.",
+          "Production on the feature officially began in October 2024 in Madrid and the Canary Islands. Keith Kjarval, Wayne Marc Godfrey, Nicki Cortese, John Logan Pierson, and Peter Berg produced the project."
+        ]
+      },
+      {
+        "h": "Renny Harlin's 2026 Slate",
+        "p": [
+          "Director Renny Harlin is well-known in the genre for helming iconic action films like Die Hard 2, Cliffhanger, and Deep Blue Sea. He has also remained prolific with recent projects including The Bricklayer and The Strangers trilogy.",
+          "The arrival of The Beast marks a significant milestone for the director as his third film release of 2026, sitting alongside The Strangers: Chapter 3 and Deep Water."
+        ]
+      },
+      {
+        "h": "Theatrical Journey and Reception",
+        "p": [
+          "The feature initially had its theatrical release on October 9, 2026, through Aura Entertainment. The distributor had previously acquired the U.S. rights to the project at the 2026 Cannes Film Festival.",
+          "Since its theatrical debut, the movie has garnered attention from audiences and currently holds a 5.1 rating on IMDb based on viewer votes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Renny Harlin's action thriller The Beast is transitioning to home viewing with an upcoming digital release on Prime Video. The film features Samuel L. Jackson as the U.S. President and Joel Kinnaman as Agent Taft."
+        ]
+      }
+    ],
+    "facts": [
+      "The Beast arrives on digital on November 17, 2026.",
+      "The film stars Samuel L. Jackson as the President of the United States and Joel Kinnaman as Agent Taft.",
+      "The feature has a runtime of 99 minutes.",
+      "The theatrical release took place on October 9, 2026, through Aura Entertainment.",
+      "The film holds a 5.1 rating on IMDb."
+    ],
+    "entities": {
+      "people": [
+        "Samuel L. Jackson",
+        "Joel Kinnaman",
+        "Guy Burnet",
+        "Colin Morgan",
+        "Umair Aleem",
+        "Renny Harlin",
+        "James Madigan",
+        "Keith Kjarval",
+        "Wayne Marc Godfrey",
+        "Nicki Cortese",
+        "John Logan Pierson",
+        "Peter Berg",
+        "Tuomas Kantelinen",
+        "Jacques Jouffret"
+      ],
+      "titles": [
+        "The Beast",
+        "Die Hard 2",
+        "Cliffhanger",
+        "Deep Blue Sea",
+        "The Bricklayer",
+        "The Strangers",
+        "Deep Water"
+      ]
+    },
+    "keywords": [
+      "The Beast film",
+      "Samuel L. Jackson The Beast",
+      "Renny Harlin The Beast",
+      "The Beast digital release"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/12_f6bdfb.jpg.webp?resize=1200,630",
+        "caption": "Samuel L. Jackson Action Thriller The Beast Sets Digital Release Date on Prime Video",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 07:16:16 +0000"
   }
 };

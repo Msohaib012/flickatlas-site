@@ -1,75 +1,75 @@
 {
   "connected": true,
-  "generated": "2026-11-10T06:05:11Z",
+  "generated": "2026-11-10T07:55:26Z",
   "realtime": {
     "active_users": 0
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 1,
+    "pageviews": 13,
+    "sessions": 1,
+    "avg_session_seconds": 556.9
   },
   "last7": {
     "users": 76,
-    "pageviews": 309,
-    "sessions": 124,
-    "avg_session_seconds": 126.2
+    "pageviews": 322,
+    "sessions": 125,
+    "avg_session_seconds": 129.6
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 92,
-      "avg_time_seconds": 127.5
+      "views": 95,
+      "avg_time_seconds": 131.4
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 29,
-      "avg_time_seconds": 67.6
-    },
-    {
-      "path": "/movies",
-      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 27.6
+      "views": 31,
+      "avg_time_seconds": 68.6
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 16.9
+      "views": 16,
+      "avg_time_seconds": 17.5
+    },
+    {
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
+      "views": 16,
+      "avg_time_seconds": 29.8
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 6.7
+      "views": 15,
+      "avg_time_seconds": 6.4
     },
     {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 13.9
+      "views": 14,
+      "avg_time_seconds": 13.7
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 5.9
+      "views": 14,
+      "avg_time_seconds": 5.7
     },
     {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 5.6
+      "views": 14,
+      "avg_time_seconds": 5.4
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 24.2
+      "views": 14,
+      "avg_time_seconds": 22.7
     },
     {
       "path": "/search",
@@ -82,7 +82,7 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 55,
+      "sessions": 56,
       "users": 19
     },
     {
