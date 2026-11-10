@@ -108562,5 +108562,398 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 22:34:34 +0530"
+  },
+  "1yvmb0t": {
+    "id": "1yvmb0t",
+    "type": "news",
+    "headline": "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
+    "dek": "As NCIS: Origins reaches the halfway point of its third season, a new sneak peek reveals the exact moment Leroy Jethro Gibbs first utters his iconic line.",
+    "body": [
+      {
+        "h": "The Evolution of Leroy Jethro Gibbs",
+        "p": [
+          "Since its premiere, the crime procedural series NCIS: Origins has chronicled the early days of Leroy Jethro Gibbs at the Camp Pendleton office. Working under the guidance of Mike Franks, the young version of the future franchise icon has navigated various formative and challenging moments.",
+          "The prequel narrative has previously explored major elements of Gibbs' backstory, including his marriage to Diane, his darker secrets surrounding the murder of Pedro Hernandez, and even the roots of his signature head slap later used on Tony DiNozzo."
+        ]
+      },
+      {
+        "h": "Season 3 Formula Changes and Current Missions",
+        "p": [
+          "Season 3 has introduced a significantly altered structure by dividing its attention between the 1990s timeline and present-day Gibbs. The older iteration of the character is currently involved in a hazardous off-the-books mission connected directly to his past.",
+          "Tonight's episode, titled 'Baila Esta Cumbia,' picks up immediately after the events of Episode 4. Gibbs continues working alongside Ellie Bishop on an intense interrogation to uncover the identity of the person who attacked him at the start of the season."
+        ]
+      },
+      {
+        "h": "The 1993 Investigation and Lala's Connection",
+        "p": [
+          "Back in the 1993 timeline, the investigative team finds itself deeply entangled in a case involving a con woman. This particular investigation hits very close to home for team member Lala.",
+          "As the agents prepare to deploy for the field, Gibbs deploys a specific verbal cue that will eventually become his trademark long after his days at Camp Pendleton come to an end."
+        ]
+      },
+      {
+        "h": "Exclusive Sneak Peek Reveals the Catchphrase Origin",
+        "p": [
+          "An exclusive sneak peek highlights the team attempting to narrow down the location of a shooting following the discovery of a crash site. An unidentified woman had bled out inside an SUV, prompting Gibbs to trace ownership of the vehicle.",
+          "The trail leads to a horse ranch within the circle of potential search locations, where the victim had been staying after relocating from Connecticut. Armed with this initial lead, Gibbs initiates the deployment with his very first utterance of the phrase 'Let's roll.'"
+        ]
+      },
+      {
+        "h": "Reactions from Franks and Lala",
+        "p": [
+          "The confident delivery of the soon-to-be-legendary catchphrase immediately garners a positive reaction from those present. Mike Franks responds with a smile, while Lala offers an approving compliment.",
+          "This encouraging reception prompts the young agent to adopt the phrase as his standard way of kicking off missions for many years to come."
+        ]
+      },
+      {
+        "h": "Halfway Through a Shortened Season 3",
+        "p": [
+          "Episode 5 marks the exact halfway point of Season 3, which features a shorter run of episodes. The adjusted schedule accommodates the addition of the newcomer series NCIS: New York to the Tuesday night lineup alongside the flagship show and NCIS: Sydney.",
+          "Despite the abbreviated episode count, the current season has proven highly eventful for Gibbs, featuring reunions with familiar faces like Bishop, DiNozzo, and young Ducky, alongside a voice cameo from the late former director Leon Vance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "NCIS: Origins returns tonight with Episode 5 of Season 3, featuring an exclusive look at the origin of Gibbs' signature 'Let's roll' catchphrase during a 1993 investigation with Lala. The milestone episode arrives as the shortened third season reaches its halfway mark on CBS."
+        ]
+      }
+    ],
+    "facts": [
+      "NCIS: Origins Season 3, Episode 5 premieres on CBS on November 10, 2026.",
+      "Leroy Jethro Gibbs is played by Austin Stowell in the prequel series and Mark Harmon in the present-day framing.",
+      "Mike Franks is portrayed by Kyle Schmid.",
+      "Episode 5 marks the halfway point of the shortened Season 3.",
+      "The episode features Gibbs using his first-ever 'Let's roll' catchphrase during an investigation involving a horse ranch."
+    ],
+    "entities": {
+      "people": [
+        "Austin Stowell",
+        "Kyle Schmid",
+        "Mark Harmon",
+        "Emily Wickersham",
+        "Mariel Molino",
+        "Michael Weatherly",
+        "Adam Campbell",
+        "Rocky Carroll",
+        "Leroy Jethro Gibbs",
+        "Mike Franks",
+        "Pedro Hernandez",
+        "Diane",
+        "Tony DiNozzo",
+        "Ellie Bishop",
+        "Lala",
+        "Leon Vance",
+        "Ducky"
+      ],
+      "titles": [
+        "NCIS: Origins",
+        "NCIS: New York",
+        "NCIS: Sydney",
+        "Baila Esta Cumbia"
+      ]
+    },
+    "keywords": [
+      "NCIS Origins Season 3",
+      "Leroy Jethro Gibbs Let's Roll",
+      "NCIS Origins Baila Esta Cumbia",
+      "Austin Stowell NCIS Origins"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/copy-of-collider-template-2026-11-10t084850-914.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
+        "source": "Collider"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 19:00:12 GMT"
+  },
+  "ncgl2m": {
+    "id": "ncgl2m",
+    "type": "news",
+    "headline": "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
+    "dek": "Nitesh Tiwari's directorial Ramayana overcomes early skepticism to register a historic Monday collection, crossing significant milestones domestically and globally.",
+    "body": [
+      {
+        "h": "The Box Office Phenomenon",
+        "p": [
+          "Nitesh Tiwari's cinematic adaptation of Ramayana has delivered a historic performance at the ticket counters, completely dismantling doubts from trade analysts and skeptics. Instead of succumbing to the traditional weekday drop, the feature capitalized on festive momentum to register an unprecedented surge in attendance.",
+          "The theatrical run transformed into a massive celebration as audiences flocked to auditoriums in droves, establishing new benchmarks for holiday releases and proving the undeniable appeal of large-scale mythological storytelling on the big screen."
+        ]
+      },
+      {
+        "h": "Record-Breaking Monday Collections",
+        "p": [
+          "On its fifth day of theatrical release, the production achieved a monumental single-day net collection of Rs. 107.50 crore across 23,911 shows in the domestic market. This staggering figure shattered expectations and rewrote standard box office trajectories for contemporary cinema.",
+          "The extraordinary performance on this specific day propelled the total domestic net earnings to a remarkable Rs. 346.35 crore, while driving the overall all-India gross to a towering Rs. 413.90 crore within less than a week of hitting the screens."
+        ]
+      },
+      {
+        "h": "Language-Wise Breakdown and Regional Strength",
+        "p": [
+          "While the Hindi version spearheaded the financial charge by securing an astounding Rs. 87.25 crore from nearly 20,000 individual screenings, the dubbed regional tracks also demonstrated impressive staying power across various territories.",
+          "Regional contributions added significant weight to the cumulative figures, with the Kannada version bringing in Rs. 7.50 crore, the Telugu version adding Rs. 6 crores, the Tamil version contributing Rs. 4 crore, and the Malayalam version clocking Rs. 2.75 crore."
+        ]
+      },
+      {
+        "h": "Overcoming the Weekend Lull",
+        "p": [
+          "The trajectory leading up to this massive milestone experienced a temporary deceleration on Sunday due to Lakshmi Puja rituals, which naturally drew family audiences away and pulled collections down to Rs. 56.15 crore following a sturdy Saturday haul of Rs. 69.80 crore.",
+          "Despite this brief dip, industry observers correctly anticipated an immediate rebound as holiday celebrations commenced, setting the stage for the historic financial explosion that followed."
+        ]
+      },
+      {
+        "h": "Trade Expert Analysis and Predictions",
+        "p": [
+          "Noted trade analyst Taran Adarsh had accurately foreseen the dramatic turnaround, pointing out that robust advance bookings and overwhelmingly positive audience feedback would fuel a game-changing phase for the feature.",
+          "Adarsh highlighted that mass circuits, which had not yet unleashed their maximum potential, would activate during the festive period and push financial limits upward, a prediction that materialized precisely as anticipated."
+        ]
+      },
+      {
+        "h": "Global Reach and International Numbers",
+        "p": [
+          "The enthusiasm surrounding the project extended far beyond domestic borders, capturing immense attention from overseas audiences who contributed an additional Rs. 25 crores on Monday alone.",
+          "Powered by this strong international performance, the worldwide gross for the epic soared to an astonishing Rs. 663.90 crore in just five days of global exhibition."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Comparative Scale",
+        "p": [
+          "The enormous visual spectacle is anchored by prominent leading names including Ranbir Kapoor and Sai Pallavi, alongside a stellar ensemble featuring Yash, Sunny Deol, and Ravi Dubey in pivotal roles.",
+          "Mounted on a reported, unprecedented budget of Rs. 4,000 crore, the project drew immediate comparisons to past attempts like 2023's Adipurush—which fell drastically to Rs. 10 crores on its fifth day—thereby establishing a vastly superior legacy for high-budget adaptations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana recorded a massive single-day domestic net collection of Rs. 107.50 crore on its fifth day, pushing its overall domestic net to Rs. 346.35 crore and global gross to Rs. 663.90 crore.",
+          "Featuring a star-studded cast including Ranbir Kapoor, Sai Pallavi, Yash, Sunny Deol, and Ravi Dubey, the epic comfortably surpassed previous genre benchmarks and defied initial trade skepticism."
+        ]
+      }
+    ],
+    "facts": [
+      "Published date: Nov 10, 2026",
+      "Director: Nitesh Tiwari",
+      "Day 5 single-day net collection in India: Rs. 107.50 crore",
+      "Total shows on Day 5 in India: 23,911",
+      "Domestic net total: ₹346.35 crore",
+      "All-India gross: Rs. 413.90 crore",
+      "Overseas Monday collection: Rs. 25 crores",
+      "Global gross in five days: Rs. 663.90 crore",
+      "Hindi version Monday collection: Rs. 87.25 crore",
+      "Hindi version shows: nearly 20,000",
+      "Kannada version collection: Rs. 7.50 crore",
+      "Telugu version collection: Rs. 6 crores",
+      "Tamil version collection: Rs. 4 crore",
+      "Malayalam version collection: Rs. 2.75 crore",
+      "Sunday collection: Rs. 56.15 crore",
+      "Saturday collection: Rs. 69.80 crore",
+      "Reported budget: Rs. 4,000 crore",
+      "Adipurush day five collection in 2023: Rs. 10 crores"
+    ],
+    "entities": {
+      "people": [
+        "Khushi Mundhwa",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Taran Adarsh",
+        "Yash",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Farah Khan"
+      ],
+      "titles": [
+        "Ramayana",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana collection Rs 346 crore"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana31794288836.jpg",
+        "caption": "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-10T12:26:40+05:30"
+  },
+  "1kxbadj": {
+    "id": "1kxbadj",
+    "type": "news",
+    "headline": "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
+    "dek": "Andrew H. Murray's new novel merges the absurd multiverse humor of Douglas Adams and Terry Pratchett into an inventive science fiction comedy.",
+    "body": [
+      {
+        "h": "A Fresh Voice in Sci-Fi Comedy",
+        "p": [
+          "The science fiction genre has long welcomed stories that embrace a lighter, more humorous touch, following in the footsteps of literary classics like Douglas Adams' The Hitchhiker's Guide to the Galaxy and Terry Pratchett's Discworld series. While many sci-fi stories lean toward darker or heavier themes, authors often use a specific brand of chaotic humor to explore larger philosophical ideas.",
+          "Andrew H. Murray steps into this tradition with his newly released novel, Everything Happens So Much. Releasing today, November 10, the book combines absurdity and philosophical observation in a way that recalls some of the genre's finest comedic works."
+        ]
+      },
+      {
+        "h": "Meet Esme Good",
+        "p": [
+          "The story centers on Esme Good, an ordinary young woman trapped in an unexciting life marked by a dead-end job and an unremarkable city. Seeking a much-needed break from the monotony of her daily routine, she turns to unique substances known as The Elsewheres.",
+          "These potions allow Esme to briefly disappear from her reality into alternate versions of herself for fifteen-minute intervals. While these brief glimpses into other lives offer temporary excitement, they also spark a lingering fear that she might be living her absolute worst possible life."
+        ]
+      },
+      {
+        "h": "Multiverse Chaos and Uncharted Territory",
+        "p": [
+          "Balancing her standard everyday existence with quick dips into alternate realities soon lands Esme at the center of an unexpected incident. This event elevates her importance within her own universe, triggering consequences that ripple across her alternate selves.",
+          "Murray weaves an ironic narrative voice through Esme's journey, eventually leading her into uncharted territory where she unwittingly fulfills a prophecy. This unpredictable trajectory keeps readers guessing about what will happen next."
+        ]
+      },
+      {
+        "h": "Drawing Inspiration from Literary Giants",
+        "p": [
+          "Comparisons between Murray's work and The Hitchhiker's Guide to the Galaxy extend beyond cosmic journeys to a shared appreciation for absurdist humor. Although Murray approaches absurdity differently than Adams, his open admiration for the legendary author heavily influences his distinctive writing style.",
+          "In addition to Adams' influence, Murray incorporates elements reminiscent of Terry Pratchett's strange and comical Discworld universe. By blending alternate reality fiction with genuine slapstick elements, the novel introduces a fresh comedic tone to contemporary science fiction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Andrew H. Murray's novel Everything Happens So Much debuts today, November 10, bringing an absurdist multiverse comedy to readers. The book follows an ordinary woman named Esme Good as she uses potions called The Elsewheres to escape her mundane life, ultimately leading to unforeseen cosmic consequences."
+        ]
+      }
+    ],
+    "facts": [
+      "Everything Happens So Much is written by Andrew H. Murray.",
+      "The novel debuts on November 10.",
+      "The main character of the novel is Esme Good.",
+      "Esme uses potions called The Elsewheres to access alternate realities for 15-minute intervals."
+    ],
+    "entities": {
+      "people": [
+        "Andrew H. Murray",
+        "Douglas Adams",
+        "Terry Pratchett",
+        "Esme Good"
+      ],
+      "titles": [
+        "The Hitchhiker's Guide to the Galaxy",
+        "Discworld",
+        "Everything Happens So Much"
+      ]
+    },
+    "keywords": [
+      "Everything Happens So Much",
+      "Andrew H. Murray",
+      "Everything Happens So Much novel",
+      "Andrew H. Murray book release"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/the-hitchhikers-guide-to-the-galaxy_0jhzfv.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 19:00:18 GMT"
+  },
+  "obez1s": {
+    "id": "obez1s",
+    "type": "news",
+    "headline": "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge",
+    "dek": "In an unexpected shift for Hollywood and the comic book industry, James Gunn and Peter Safran have stepped down from their leadership positions at DC Studios, making way for former Marvel executive Jeremy Latcham to assume the role of president and chief creative officer.",
+    "body": [
+      {
+        "h": "Leadership Shakeup at DC Studios",
+        "p": [
+          "A major leadership transition has taken place within the upper echelons of DC Studios, catching fans and industry insiders completely by surprise. Former co-CEOs James Gunn and Peter Safran have officially vacated their administrative positions, marking a sudden end to their tenure at the helm.",
+          "Stepping into the newly vacated space is Jeremy Latcham, a former Marvel executive who has now been appointed by Skydance as the president and chief creative officer of DC Studios to guide its future endeavors."
+        ]
+      },
+      {
+        "h": "The Gunn and Safran Legacy",
+        "p": [
+          "Before taking charge of DC's overarching cinematic landscape, James Gunn built a massive following through his distinct directorial voice, helming dark-comedy sketches like Slither in 2000 and Super in 2010 before moving on to blockbuster superhero territory.",
+          "His work on the critically and commercially triumphant Guardians of the Galaxy trilogy cemented his industry status, eventually leading him to direct the standalone Suicide Squad in 2021 and take over the newly forming DCU alongside Peter Safran in 2022."
+        ]
+      },
+      {
+        "h": "Creative Milestones and Projects",
+        "p": [
+          "During their time leading the studio, Gunn and Safran oversaw an ambitious slate of content that reshaped the comic book adaptation landscape. Their tenure balanced completing Guardians of the Galaxy Vol. 3 in 2023 while concurrently drafting scripts for upcoming cinematic entries.",
+          "Reflecting on their journey, Gunn highlighted standout moments such as releasing Superman and Clayface, developing Peacemaker, reading scripts for The People Vs, and immersing himself in the production of Man of Tomorrow."
+        ]
+      },
+      {
+        "h": "Weighing the Corporate Costs",
+        "p": [
+          "While the creative highs were numerous, Gunn did not shy away from addressing the difficulties that came with running a major studio. He noted a strong dislike for the corporate demands of the executive role, praising Safran for taking the brunt of those responsibilities.",
+          "Gunn explained that his ADHD hyperfocus struggled significantly with dividing attention between deeply passionate projects and administrative studio duties, leading to a profound sense of relief regarding his return to filmmaking."
+        ]
+      },
+      {
+        "h": "Future Involvement With DC",
+        "p": [
+          "Despite stepping away from their executive duties, Gunn and Safran are not entirely finished with the superhero genre or the comic book company. They have various ongoing commitments, including the upcoming release of Man of Tomorrow this summer.",
+          "Furthermore, Gunn remains engaged with the studio on an additional DC project that he is currently writing, leaving the door open for future creative collaborations depending on how things develop."
+        ]
+      },
+      {
+        "h": "Broadening the Cinematic Landscape",
+        "p": [
+          "The recent restructuring arrives at a time when DC Studios was actively building momentum through consecutive high-profile releases. Recent offerings like the Penguin series and Clayface, alongside plans for Man of Tomorrow, have kept fan expectations high.",
+          "Whether this monumental administrative shift will steer the sprawling comic book franchise toward a prosperous era or introduce unforeseen complications remains to be seen as the industry watches closely."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Gunn and Peter Safran have stepped down from their roles as co-CEOs of DC Studios, with Skydance appointing former Marvel executive Jeremy Latcham as the new president and chief creative officer. While Gunn expressed relief at returning to pure filmmaking and highlighted past projects like Superman and Man of Tomorrow, he and Safran will still remain involved with upcoming DC projects."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn and Peter Safran stepped down as co-CEOs of DC Studios",
+      "Jeremy Latcham was appointed as the new president and chief creative officer of DC Studios",
+      "James Gunn directed Slither in 2000 and Super in 2010",
+      "James Gunn directed the Guardians of the Galaxy trilogy and Suicide Squad in 2021",
+      "James Gunn and Peter Safran took over the newly forming DCU in 2022",
+      "James Gunn wrote Superman in 2025"
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Peter Safran",
+        "Jeremy Latcham",
+        "Pete Davidson"
+      ],
+      "titles": [
+        "Slither",
+        "Super",
+        "Guardians of the Galaxy",
+        "Suicide Squad",
+        "Superman",
+        "Clayface",
+        "Peacemaker",
+        "The People Vs",
+        "Man of Tomorrow",
+        "The Penguin",
+        "How to Rob a Bank"
+      ]
+    },
+    "keywords": [
+      "James Gunn DC Studios",
+      "Jeremy Latcham DC Studios",
+      "Peter Safran",
+      "Man of Tomorrow"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/james217942822551794282263.jpg",
+        "caption": "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-10T12:01:37+05:30"
   }
 };

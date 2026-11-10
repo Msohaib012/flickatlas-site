@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T19:04:27Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 351,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sunshine Through The Rain Eps 10-11 Release Timings: Will Chen Yan’s Allergy Bring Him Closer To Zheng Yu?",
-      "Did you know armour in Ranbir Kapoor's 'Ramayana' took three-and-a-half years to make?",
-      "Jeremy Latcham: From building the Marvel Cinematic Universe to leading DC Studios",
-      "As A Godzilla Megafan, Here's Why Godzilla Minus Zero Is Better Than Minus One",
-      "Jack Black At Metallica Is Inspo For How I Want To Live The Rest Of My Life",
-      "Daniel Craig’s 2011 Mystery Thriller Is Officially Making an HBO Max Comeback",
-      "A Brand-New J.R.R Tolkien Lord of the Rings Book Is Officially Releasing This Month",
-      "10 Best Agatha Christie Books Like 'Only Murders in the Building'",
-      "'Extraction' Director Joins the World’s Wildest Short Film Festival",
-      "'Peaky Blinders' Creator's Forgotten Apple TV Sci-Fi Thriller Officially Surges on Streaming",
-      "Jon Bernthal's 6-Episode Crime Thriller Is One of HBO’s Best Miniseries",
-      "Chloe Fineman Cast in New Comedy Movie That’s GTA VI Meets The Big Lebowski After SNL Exit",
-      "Scarlett Johansson Is the Reason Bobby Flay & Brooke Williamson Started Dating, Here’s Why",
-      "Johnny Depp Shares Unexpected Thing He and Pirates Co-Star Orlando Bloom Have in Common",
-      "GTA VI Update Gives Cardi B, Travis Scott, & More a Bigger Role That Goes Beyond Radio Stations",
-      "Nick Jonas Gets Candid About Lifelong Health Battle: ‘Scared to Death’",
-      "Jonathan Bailey’s New Movie After Wicked 2 Is Exactly Like This Beloved Tom Hanks Film",
-      "Dwayne Johnson’s Jumanji: Open World Unveils 4 Epic New Posters for Franchise’s Final Movie",
-      "Nick Offerman Movie Is More Popular on HBO Max Than Alexander Skarsgård’s Fantasy Epic",
-      "Final Spectacular Trailer for 'Blade Runner 2099' Sci-Fi Sequel Series"
-     ],
-     "updated": [],
-     "count": 315,
-     "detail": "351 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-09T20:51:49Z",
     "run_id": "42696783813",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "461 stories, 1 duplicates removed, 16 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T19:05:11Z",
-    "run_id": "42679734593",
+    "run_at": "2026-11-10T19:51:44Z",
+    "run_id": "42889284734",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 467,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Sunshine Through The Rain Episodes 10-11 Release Timings: What to Expect from the New Cdrama Chapters Today",
-      "Why Godzilla Minus Zero Surpasses Minus One As The Ultimate Kaiju Feature",
-      "How Artisans in Rural Assam Handcrafted the Special Armour for Ranbir Kapoor's Epic Film",
-      "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans"
+      "Last Man In Tower Review: 5 Things I Loved About Manoj Bajpayee's Film On ZEE5 And You Might Too",
+      "Bigg Boss 20 Highlights: Kanika Mann Slams Qazi Touqeer For Provoking Manish Goel, But WHY?",
+      "Vishwajeet Pradhan Celebrates Diwali With Wife Sonalika & Children In Melbourne. Deets Inside",
+      "Bigg Boss 20 Epi 66 Written Update: Manish Goel Gets Emotional As He Slams Qazi Touqeer: Aap Mujhe Samajh...",
+      "Dhinchak Pooja Is Pregnant! Bigg Boss 11 Fame ‘Cringe’ Singer Flaunts Baby Bump In Viral Announcement Post",
+      "People Praise Andy Serkis For His Gollum LOTR Work. It Does Take A Terrible Toll",
+      "Mahershala Ali’s New Near-Perfect Action Thriller Officially Removed From 800 Theaters",
+      "Clayface: Tom Used REAL Scissors to Cut His Fake Face | Collider BTS",
+      "‘NCIS: Origins’ Officially Returns Tonight With Gibbs’ First-Ever “Let’s Roll”",
+      "Classic Tom Hanks 90s Movie Gets Remake at Warner Bros.",
+      "Blumhouse Finds Its Next Horror Movie Franchise in a Disturbing Comic Book Universe",
+      "Avengers: Doomsday’s New Synopsis Sets Up a Multiverse War With 5 MCU Superhero Teams",
+      "DC Studios’ New Boss Will Have the Opposite Approach to Dealing With Fans That James Gunn Had",
+      "Lanterns Season 2: Showrunner Gives Update on DCU Show’s Future After James Gunn’s Exit",
+      "American Baby Trailer Previews New Teen Pregnancy Movie With Arrival Star | Exclusive",
+      "Why Hilary Duff’s 'Younger' Was Canceled After 7 Seasons",
+      "'Stranger Things' Star Millie Bobby Brown Sets Next Major Netflix Movie With 'SNL' Director",
+      "All 10 Of Wolverine’s Children In Marvel’s Main Universe",
+      "Kurt Russell Teases New Taylor Sheridan Western Series' \"Even Better\" Season 2 Story & Twists",
+      "Prime Video's $113 Million Fantasy Epic Has One Of Its Best Casts"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 325,
+     "detail": "327 stories, 0 duplicates removed, 140 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +1 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T19:52:23Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
+      "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
+      "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
+      "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-09T21:52:11Z",
-    "run_id": "42706301078",
-    "status": "success",
-    "checked": {
-     "candidates": 279,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 263, coming 16"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,35 +1906,27 @@
      "detail": "now 282, coming 15"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T19:52:23Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 297,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 282, coming 15"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T19:15:26Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "qqufdk",
-      "bjzoib",
-      "rjgpdk",
-      "6xsnjr",
-      "11utocu",
-      "pqml1n",
-      "1ccjy40",
-      "1apf8m9"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2415,27 +2389,32 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T20:06:52Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "lubpd7",
+      "ve32nm",
+      "ovm810",
+      "1rudn53",
+      "1bdwic5"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T19:07:58Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 632,
-     "detail": "625 collected staging rows from readers; 217 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 622 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2849,26 +2828,27 @@
      "detail": "+0 new rows, 4 updated rows, 628 unchanged"
     },
     "reason": null
-   }
-  ],
-  "gemini_reviews": [
+   },
    {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T19:15:22Z",
-    "run_id": "42679734593",
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T19:59:01Z",
+    "run_id": "42889284734",
     "status": "success",
     "checked": {
-     "candidates": 685,
-     "detail": "released movies without a review; Tavily searches: 366"
+     "candidates": 641,
+     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "gemini_reviews": [
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3098,32 +3078,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T20:06:49Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 721,
+     "detail": "released movies without a review; Tavily searches: 428"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T19:15:25Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sunshine Through The Rain Episodes 10-11 Release Timings: What to Expect from the New Cdrama Chapters Today",
-      "Why Godzilla Minus Zero Surpasses Minus One As The Ultimate Kaiju Feature",
-      "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans",
-      "How Artisans in Rural Assam Handcrafted the Special Armour for Ranbir Kapoor's Epic Film"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3661,26 +3635,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T20:06:51Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
+      "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
+      "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
+      "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T19:04:31Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 18,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 4 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3949,19 +3929,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T19:51:47Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 19,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 7 new detected"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4282,31 +4269,19 @@
      "count": 19
     },
     "reason": null
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T19:05:10Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 315 still unprocessed; today by category: movies 11/6, tv_dramas 11/4, episodes 0/2, box_office 22/6, celebrities_events 14/5, upcoming_releases 5/4, ott_streaming 8/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Sunshine Through The Rain Episodes 10-11 Release Timings: What to Expect from the New Cdrama Chapters Today",
-      "Why Godzilla Minus Zero Surpasses Minus One As The Ultimate Kaiju Feature",
-      "How Artisans in Rural Assam Handcrafted the Special Armour for Ranbir Kapoor's Epic Film",
-      "Jack Black and Celine Dion Spotting at Las Vegas Sphere Metallica Concert Surprises Fans"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4812,26 +4787,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T19:52:23Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 325 still unprocessed; today by category: movies 13/6, tv_dramas 9/4, episodes 1/2, box_office 21/6, celebrities_events 17/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
+      "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
+      "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
+      "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T19:07:14Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5145,24 +5125,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T19:53:34Z",
+    "run_id": "42889284734",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 382,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5507,24 +5489,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 56,
+     "count": 393,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5804,19 +5786,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 58,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6066,19 +6053,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6313,19 +6300,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6612,19 +6599,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6865,19 +6852,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7107,19 +7094,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7372,30 +7359,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-08T22:52:11Z",
-    "run_id": "42532228089",
-    "status": "success",
-    "checked": {
-     "candidates": 513,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 500"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7880,19 +7856,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-10T19:52:41Z",
+    "run_id": "42889284734",
+    "status": "success",
+    "checked": {
+     "candidates": 527,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 514"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8132,19 +8119,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T19:15:35Z",
-    "run_id": "42679734593",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8394,8 +8381,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T18:11:34Z"
+ "updated_at": "2026-11-10T20:07:04Z"
 }
