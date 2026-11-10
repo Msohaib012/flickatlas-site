@@ -101104,5 +101104,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 00:29:19 +0000"
+  },
+  "1oss6pn": {
+    "id": "1oss6pn",
+    "type": "news",
+    "headline": "Russell Brand Sentenced to Ten and a Half Years in Prison Following Guilty Verdict",
+    "dek": "Actor and comedian Russell Brand received a ten-and-a-half-year prison sentence in a London court after being found guilty of multiple charges including rape and sexual assault.",
+    "body": [
+      {
+        "h": "The Sentencing Details",
+        "p": [
+          "Actor and comedian Russell Brand has been handed a ten-and-a-half-year prison term following a high-profile legal trial in London. The sentencing comes after a guilty verdict delivered on Thursday, November 5, 2026, at Southwark Crown Court.",
+          "During the proceedings, the judge outlined the severity of the offenses, resulting in a significant custodial sentence where legal reports indicate the entertainer may serve two-thirds of the term behind bars."
+        ]
+      },
+      {
+        "h": "Courtroom Verdict Breakdown",
+        "p": [
+          "The court found Russell Brand guilty on three distinct counts of sexual assault and one count of rape. However, he was acquitted on two other separate rape charges and an additional count of attempted indecent assault.",
+          "While facing a potential prison sentence ranging from nineteen years to life, the final ruling established the ten-and-a-half-year duration for the proven charges."
+        ]
+      },
+      {
+        "h": "Reactions in the Courtroom",
+        "p": [
+          "Following the announcement of the sentence, the Forgetting Sarah Marshall actor maintained a subdued demeanor, mirroring his reaction to the initial verdict the previous week. Observers noted that he mouthed the words 'I love you' to his wife, Laura Gallacher.",
+          "Laura Gallacher was subsequently seen departing Southwark Crown Court, with legal representatives noting that she was entirely devastated by the outcome. Meanwhile, Brand communicated 'I'm OK' and 'I'm good' to his lawyers alongside a thumbs-up gesture before being led into police custody after conditional bail was denied."
+        ]
+      },
+      {
+        "h": "Judge and Victim Statements",
+        "p": [
+          "Mr Justice Bennathan condemned the comedian during the sentencing phase, explicitly labeling him a sexual predator who maintained a pattern of dishonesty over the years. The judge additionally remarked that the entertainer's entourage had indulged his unacceptable behavior.",
+          "Testimonies from the anonymous victims detailed profound emotional and psychological impacts. One woman expressed a fear of contracting HIV following the assault and noted she continues to live with enduring trauma, while another characterized the offender as entirely lacking remorse."
+        ]
+      },
+      {
+        "h": "Background and Investigations",
+        "p": [
+          "The legal fallout stems from allegations involving three women across various locations between 1999 and 2009. The Metropolitan Police have confirmed that inquiries continue regarding further allegations brought forward by two additional women.",
+          "Overall, approximately six different individuals have come forward with accusations of sex crimes since 1999, all of which the comedian has consistently and vehemently denied."
+        ]
+      },
+      {
+        "h": "Media Catalyst and Prior Complaints",
+        "p": [
+          "The comprehensive legal case against Russell Brand gained intense public and media scrutiny following a 2003 investigative docuseries titled Dispatches, produced jointly by the Sunday Times and Channel 4.",
+          "Additionally, separate investigations in the United Kingdom uncovered historical informal complaints concerning the comedian's conduct stretching back two decades during his tenure working on BBC sets for programs such as Big Brother's Big Mouth, Kings of Comedy, and Big Brother's Celebrity Hijack."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor and comedian Russell Brand has been sentenced to ten and a half years in prison at a London court following a guilty verdict on charges of rape and sexual assault. Judge Mr Justice Bennathan condemned his actions during the sentencing at Southwark Crown Court, where Brand mouthed expressions of affection to his wife, Laura Gallacher, before being taken into custody."
+        ]
+      }
+    ],
+    "facts": [
+      "Russell Brand received a ten-and-a-half-year sentence",
+      "The verdict was delivered on Thursday, November 5, 2026",
+      "He was found guilty on three counts of sexual assault and one count of rape",
+      "The trial took place at Southwark Crown Court in London",
+      "Six different women have accused him of sex crimes since 1999"
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Laura Gallacher",
+        "Mr Justice Bennathan",
+        "Sonal Pandya",
+        "Kin Cheung"
+      ],
+      "titles": [
+        "Forgetting Sarah Marshall",
+        "Dispatches",
+        "Big Brother's Big Mouth",
+        "Kings of Comedy",
+        "Big Brother's Celebrity Hijack"
+      ]
+    },
+    "keywords": [
+      "Russell Brand sentence",
+      "Russell Brand rape case",
+      "Russell Brand guilty verdict",
+      "Laura Gallacher Russell Brand",
+      "Southwark Crown Court trial"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156487021,thumbsize-762956,width-1280,height-720,resizemode-75/156487021.jpg",
+        "caption": "Russell Brand Sentenced to Ten and a Half Years in Prison Following Guilty Verdict",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T01:51:22Z"
+  },
+  "1o5kgbe": {
+    "id": "1o5kgbe",
+    "type": "news",
+    "headline": "Skydance Co-CEOs Criticize Warner Bros Film Slate During First Earnings Call as a Mega-Studio",
+    "dek": "During their Q3 earnings presentation, Skydance leaders David Ellison and Ynon Kreiz highlighted billions in franchises alongside a projected $200 million hit to Q4 profit driven by underperforming Warner Bros titles.",
+    "body": [
+      {
+        "h": "Skydance Addresses Warner Bros Acquisition and Film Slate Headwinds",
+        "p": [
+          "Skydance co-CEOs David Ellison and Ynon Kreiz addressed the company's recent purchase of Warner Bros during their Q3 earnings call. Ellison pointed to approximately $40 billion in film franchises that significantly strengthen the overall studio portfolio.",
+          "Despite positive momentum from the merger, executives drew attention to upcoming losses tied to the Warner Bros 2026 film slate. Ellison noted that Paramount is currently on firmer financial footing on the feature side compared to Warner Bros."
+        ]
+      },
+      {
+        "h": "Financial Impact and Projected Q4 Profit Hit",
+        "p": [
+          "Because the merger closed only five weeks ago during the fourth quarter, the earnings call did not include fully consolidated Warner Bros figures. However, leadership outlined clear financial headwinds originating from soft movie studio performances.",
+          "CFO Dennis Cinelli detailed a $200 million headwind to adjusted EBITDA in Q4, which encompasses films released quarter-to-date and those scheduled for the future. A significant driver of this shortfall was cited as the Tom Cruise-starring political satire Digger."
+        ]
+      },
+      {
+        "h": "Comparing Studio Slate Performance and Box Office Results",
+        "p": [
+          "Ellison contrasted the performance by stating that the 2026 Paramount film slate is expected to generate $500 million more in lifetime profits than the previous year. Meanwhile, Warner Bros has experienced global box office misfires throughout the year, including Supergirl, The Bride, and Digger.",
+          "Despite these feature-side struggles, the Burbank lot remains slightly ahead of Paramount at the domestic box office year-to-date from January 1 through November 9, pulling in $569 million compared to Paramount's $537 million."
+        ]
+      },
+      {
+        "h": "Strategic Playbook and Cost-Cutting Measures",
+        "p": [
+          "To address the underperformance, Skydance plans to apply the same strategic playbook used at Paramount. This includes greenlighting projects more selectively, prioritizing profitable streaming growth over raw subscriber counts, optimizing linear assets, and driving cost-structure efficiency.",
+          "The leadership team expressed confidence in achieving $6 billion in total synergies from the mega-studio merger while keeping Paramount on track for its 2026 guidance and high-end adjusted EBITDA range."
+        ]
+      },
+      {
+        "h": "DC Studios Leadership Shakeup",
+        "p": [
+          "In a major structural shift announced alongside the financial report, DC Studios heads James Gunn and Peter Safran departed their roles. They are being replaced by former Marvel executive Jeremy Latcham.",
+          "Latcham previously departed Disney-owned Marvel Studios in 2017 before the releases of major blockbusters like Black Panther, Avengers: Infinity War, and Avengers: Endgame."
+        ]
+      },
+      {
+        "h": "Future Theatrical Slate and Upcoming Titles",
+        "p": [
+          "Looking ahead, Skydance leadership maintained optimism for select upcoming theatrical offerings across the combined studio pipeline. Ellison specifically praised New Line's upcoming 2027 Christmas event title, Lord of the Rings: The Hunt for Gollum, calling it a compelling prospect.",
+          "Additional notable titles mentioned in industry discussions surrounding the studio slate include Legendary's upcoming Dune: Part Three, which is anticipated to bring strong blockbuster success despite wider year-end losses for Warner Bros."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Skydance co-CEOs David Ellison and Ynon Kreiz discussed the financial health of their newly merged studio during a Q3 earnings call, highlighting $40 billion in franchises alongside a $200 million Q4 profit headwind driven by Warner Bros film underperformance. The leadership team also announced a leadership shakeup at DC Studios with Jeremy Latcham replacing James Gunn and Peter Safran."
+        ]
+      }
+    ],
+    "facts": [
+      "Skydance co-CEOs David Ellison and Ynon Kreiz held their Q3 earnings call on November 9, 2026.",
+      "The Warner Bros merger closed five weeks prior to the earnings call during the fourth quarter.",
+      "Skydance expects a $200 million headwind to adjusted EBITDA in Q4.",
+      "The Tom Cruise-starring film Digger cost $160 million before global P&A and yielded $50.3 million in worldwide box office.",
+      "Domestic box office figures from January 1 to November 9 stood at $569 million for Warner Bros and $537 million for Paramount."
+    ],
+    "entities": {
+      "people": [
+        "David Ellison",
+        "Ynon Kreiz",
+        "Dennis Cinelli",
+        "James Gunn",
+        "Peter Safran",
+        "Jeremy Latcham",
+        "Tom Cruise"
+      ],
+      "titles": [
+        "Digger",
+        "Supergirl",
+        "The Bride",
+        "Lord of the Rings: The Hunt for Gollum",
+        "Dune: Part Three",
+        "Black Panther",
+        "Avengers: Infinity War",
+        "Avengers: Endgame"
+      ]
+    },
+    "keywords": [
+      "Skydance Warner Bros earnings",
+      "David Ellison Ynon Kreiz",
+      "DC Studios Jeremy Latcham",
+      "Digger box office losses"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/David-Ellison-and-Ynon-Kreiz.jpg?w=1024",
+        "caption": "Skydance Co-CEOs Criticize Warner Bros Film Slate During First Earnings Call as a Mega-Studio",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Mon, 09 Nov 2026 23:53:21 +0000"
+  },
+  "1lg1nmf": {
+    "id": "1lg1nmf",
+    "type": "news",
+    "headline": "New OTT Releases For November 9 To 13, 2026: Rings Of Power, Jailer 2, Ranabaali, And More",
+    "dek": "Discover the latest movies and TV shows making their digital debut across major streaming platforms like Netflix, Amazon Prime Video, and JioHotstar during Diwali week.",
+    "body": [
+      {
+        "h": "Diwali Week OTT Lineup",
+        "p": [
+          "Audiences tuning in for holiday entertainment can choose from a diverse selection of fresh titles arriving on digital streaming platforms between November 9 and November 13, 2026.",
+          "Major services including Netflix, Amazon Prime Video, Zee5, Apple TV, and JioHotstar are rolling out high-profile feature films, fantasy prequels, and tense thriller series."
+        ]
+      },
+      {
+        "h": "Fantasy And Action Blockbusters",
+        "p": [
+          "Amazon Prime Video brings back the expansive world of Middle-earth with a brand new installment of The Lord of the Rings: Rings of Power, premiering on November 11. This season follows the Dark Lord Sauron as he attempts to forge the One Ring in the fires of Mount Doom while Elves and Dwarves fight to preserve their remaining territories.",
+          "Meanwhile, action enthusiasts can stream Jailer 2 starting November 12 on Amazon Prime Video. Director Nelson Dilipkumar reunites with Rajinikanth for another high-octane chapter featuring Tiger Muthuvel Pandian, alongside an ensemble cast that includes SJ Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Vidya Balan, and special appearances by Mohanlal and Hrithik Roshan."
+        ]
+      },
+      {
+        "h": "Riveting Dramas And Period Epics",
+        "p": [
+          "Netflix welcomes the period drama Ranabaali on November 13. Directed by Rahul Sankrityan and set in 1870s South India during the Great Famine, the film follows a warrior fighting a ruthless British commissioner played by Arnold Vosloo.",
+          "Also on Netflix, Meghna Gulzar's crime drama Daayra drops on November 13. Kareena Kapoor Khan stars as DCP Ajooni Kohli alongside Prithviraj Sukumaran as DCP Raman Kumar, with the two officers finding themselves on opposing sides of a complex rape case."
+        ]
+      },
+      {
+        "h": "Compelling Web Series And Thrillers",
+        "p": [
+          "JioHotstar introduces Student of the Year: After Dark on November 13. Directed by Reema Maya, this dark web series spin-off stars Shanaya Kapoor in a double role as she investigates the death of her twin sister at St Teresa.",
+          "Over on Zee5, the late Sangeeth Sivan's thriller Blind Game premieres on November 11. Starring Arjun Rampal and Priyamani, the plot centers on a police officer under suspicion, a missing Rs 5 crore sum, and a circle of friends."
+        ]
+      },
+      {
+        "h": "International And Festival Features",
+        "p": [
+          "Netflix expands its offering with The Body on November 11, an eight-part teen psychodrama infused with Catholic horror starring Kristina Bogic, Sara Boustany, Jackson Kelly, and Sofia Wylie.",
+          "On November 13, Jessica Chastain stars in Heartland as a retired country music singer searching for her missing niece Charlie, a role played by real-life singer-songwriter Carter Faith. The Netflix thriller also features Garrett Hedlund and Ross Lynch."
+        ]
+      },
+      {
+        "h": "Biographical And Political Stories",
+        "p": [
+          "Apple TV welcomes Being Heumann on November 13, directed by Coda filmmaker Sian Heder. Based on real events, the project features Mark Ruffalo as an American politician clashing with disability rights activist Judith Heumann, played by Ruth Madeley.",
+          "These varied additions provide viewers with plenty of options ranging from historical epics and intense crime thrillers to supernatural horror and grand fantasy adventures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Major streaming platforms are debuting a wide range of movies and TV shows between November 9 and 13, 2026, coinciding with the Diwali holiday week. Key titles arriving online include fantasy and action projects like Rings of Power and Jailer 2, alongside dramas such as Ranabaali, Daayra, and Being Heumann."
+        ]
+      }
+    ],
+    "facts": [
+      "Releases span from November 9 to November 13, 2026",
+      "Blind Game features a missing amount of Rs 5 crore",
+      "Daayra was released in theatres on September 18, 2026",
+      "Ranabaali is set in 1870s South India and was released in theatres on October 16, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Sonal Pandya",
+        "JRR Tolkein",
+        "Kristina Bogic",
+        "Sara Boustany",
+        "Jackson Kelly",
+        "Sofia Wylie",
+        "Sangeeth Sivan",
+        "Arjun Rampal",
+        "Priyamani",
+        "Jessica Chastain",
+        "Carter Faith",
+        "Garrett Hedlund",
+        "Ross Lynch",
+        "Sian Heder",
+        "Mark Ruffalo",
+        "Judith Heumann",
+        "Ruth Madeley",
+        "Charlie Vickers",
+        "Nelson Dilipkumar",
+        "Rajinikanth",
+        "SJ Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Vidya Balan",
+        "Mohanlal",
+        "Hrithik Roshan",
+        "Karan Johar",
+        "Reema Maya",
+        "Shanaya Kapoor",
+        "Meghna Gulzar",
+        "Kareena Kapoor Khan",
+        "Prithviraj Sukumaran",
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Rahul Sankrityan",
+        "Arnold Vosloo"
+      ],
+      "titles": [
+        "The Lord of the Rings: Rings of Power",
+        "The Body",
+        "Blind Game",
+        "Heartland",
+        "Being Heumann",
+        "Coda",
+        "Jailer 2",
+        "Student of the Year",
+        "Student of the Year: After Dark",
+        "Daayra",
+        "Ranabaali"
+      ]
+    },
+    "keywords": [
+      "Jailer 2",
+      "Ranabaali",
+      "Daayra",
+      "The Lord of the Rings: Rings of Power"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156486411,thumbsize-1711352,width-1280,height-720,resizemode-75/156486411.jpg",
+        "caption": "New OTT Releases For November 9 To 13, 2026: Rings Of Power, Jailer 2, Ranabaali, And More",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-10T01:51:22Z"
+  },
+  "1pawfer": {
+    "id": "1pawfer",
+    "type": "news",
+    "headline": "Skydance Games Undergoes Workforce Reductions Amid Corporate Restructuring",
+    "dek": "Skydance Games cuts staff and scales back projects following the recent merger with Warner Bros. Discovery.",
+    "body": [
+      {
+        "h": "Merger Aftermath Triggers Staff Reductions",
+        "p": [
+          "Skydance Games has recently experienced staff departures, making it the latest division to undergo downsizing and restructuring following its merger with Warner Bros. Discovery. A company representative stated that the operational shifts are part of ongoing efforts to position the studio for long-term growth and success.",
+          "Management explained that the company evaluated its investment areas and decided to scale down specific projects. Consequently, several roles have been affected by these operational decisions."
+        ]
+      },
+      {
+        "h": "Corporate Background and Leadership",
+        "p": [
+          "The current entity was shaped last summer through the combination of Skydance and Paramount gaming operations, which subsequently became Skydance Games after the Warner Bros. Discovery merger was finalized on October 6. The division is overseen by Tony Driscoll, president of Skydance games and experiences.",
+          "Co-CEOs David Ellison and Ynon Kreiz previously informed Wall Street to anticipate at least $6 billion in cost synergies resulting from the consolidation, which encompasses workforce reductions across the organization."
+        ]
+      },
+      {
+        "h": "Office Policies and Voluntary Buyouts",
+        "p": [
+          "Prior to the latest personnel cuts, Skydance introduced a voluntary buyout program across the wider company. This coincided with a transition toward a mandatory five-day-a-week in-office work policy.",
+          "The studio's leadership team also presented their first quarterly earnings report since the deal was officially closed, outlining financial projections and strategic adjustments."
+        ]
+      },
+      {
+        "h": "Broader Industry Consolidation",
+        "p": [
+          "The gaming sector has witnessed considerable consolidation trends over recent months. For instance, Microsoft initiated voluntary buyout offers directed at 25 percent of its workforce, impacting departments including the Xbox division.",
+          "These wider industry adjustments reflect ongoing efforts by major media and technology conglomerates to streamline operations and manage overhead expenses."
+        ]
+      },
+      {
+        "h": "Employee and Colleague Reactions",
+        "p": [
+          "Following the announcement, several team members took to professional networks to share their experiences and support affected colleagues. Rebecca Vessal, a senior gameplay and game AI programmer at Skydance Games, noted that a significant portion of her team at Skydance Interactive was let go.",
+          "Engineer David Vera also posted on the platform regarding the departure of numerous art, design, and engineering professionals, publicly recommending his former colleagues for open positions at other game development studios."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Skydance Games implemented staff reductions and scaled down projects following its recent corporate merger with Warner Bros. Discovery. Executives David Ellison and Ynon Kreiz previously promised billions in cost synergies, while affected employees and developers shared reactions and support on professional networks."
+        ]
+      }
+    ],
+    "facts": [
+      "Skydance Games experienced staff layoffs in November 2026 following its merger with Warner Bros. Discovery.",
+      "The Warner Bros. Discovery merger closed on October 6.",
+      "Tony Driscoll serves as the president of Skydance games and experiences.",
+      "David Ellison and Ynon Kreiz are the co-CEOs who promised at least $6 billion in cost synergies.",
+      "Microsoft previously offered voluntary buyouts to 25 percent of its workforce, including the Xbox division."
+    ],
+    "entities": {
+      "people": [
+        "Tony Driscoll",
+        "David Ellison",
+        "Ynon Kreiz",
+        "Rebecca Vessal",
+        "David Vera"
+      ],
+      "titles": [
+        "Xbox",
+        "Skydance Games",
+        "Skydance Interactive"
+      ]
+    },
+    "keywords": [
+      "Skydance Games layoffs",
+      "Warner Bros Discovery merger",
+      "Tony Driscoll Skydance",
+      "David Ellison Ynon Kreiz"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1410882222.jpg?w=1024",
+        "caption": "Skydance Games Undergoes Workforce Reductions Amid Corporate Restructuring",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 00:40:43 +0000"
   }
 };

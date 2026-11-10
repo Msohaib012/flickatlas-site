@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T01:09:56Z",
-    "run_id": "42543956346",
-    "status": "success",
-    "checked": {
-     "candidates": 184,
-     "detail": "RSS/Atom items across 137 sources; 10 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "'Ramayana:' day 4: Ranbir, Sai, Yash's film approaches Rs 500 cr worldwide",
-      "Taylor Swift and Karlie Kloss cheer together for Travis Kelce at the latest Chiefs game over the weekend",
-      "‘Scene’ BO day 3: Suriya’s film crosses Rs 116 crore worldwide in opening weekend",
-      "Kareena Kapoor says she is ‘very against botox’ and vouches for self preservation rather than going going under the knife",
-      "HT Exclusive: Vinod Kapri on almost quitting filmmaking after Pyre's OTT rejection,  ₹7,000 bank balance and losing 70% shows after Ramayana release",
-      "Ramayana box office Day 4: Film is Rs 500 crore strong after smashing Diwali record",
-      "Two Boy Meets World Stars Have A Spinoff Idea, And As A Fan, I Really Need It To Happen",
-      "Ramayana Producer On How Being A ‘Fanboy’ Of Chris Nolan Films Inspired One Thing About The Epic",
-      "8 Sci-Fi Shows That Get Better the Stranger They Become, Ranked by Weirdness",
-      "HBO’s 9/10 Period Hit Officially Sets a New Series Record With Its Premiere",
-      "‘Seinfeld’ Meets ‘Schitt’s Creek’ in BritBox’s Near-Perfect British Series",
-      "Apple TV’s New Crime Thriller Officially Surges to No. 1",
-      "DC’s Psychological Thriller Officially Removed From 532 Theaters",
-      "7 Western Shows That Are Better Than 'Yellowstone'",
-      "HBO’s Most Unconventional Series Is Officially Surging on Streaming",
-      "‘Rivals’ Season 2's Return Teases Its Most Ambitious Shakeup Yet | Review",
-      "8 Best Hard Sci-Fi Movies of the Last 10 Years",
-      "Jake Gyllenhaal's 153-Minute Crime Thriller Takes No Prisoners on New Streaming Home",
-      "'Game of Thrones' Is No Longer TV’s Greatest High Fantasy Series Thanks to a 94% Hit",
-      "Petit Planet Officially Breaks From HoYoverse's Free-To-Play Formula"
-     ],
-     "updated": [],
-     "count": 178,
-     "detail": "182 stories, 0 duplicates removed, 2 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-09T02:51:36Z",
     "run_id": "42553121715",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "258 stories, 11 duplicates removed, 106 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-09T01:10:22Z",
-    "run_id": "42543956346",
+    "run_at": "2026-11-10T01:50:58Z",
+    "run_id": "42738605102",
     "status": "success",
     "checked": {
-     "candidates": 10,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 253,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana crosses Rs 500 crore worldwide after a record-breaking Diwali Sunday",
-      "Spy x Family Season 4 and New Theatrical Film Confirmed for 2027 Release",
-      "Suriya Starrer Cop Action Comedy Surpasses Rs 116 Crore Globally in Opening Weekend",
-      "Nicolas Cage Explains Why He Is Relieved by Spider-Noir Cancellation"
+      "Pawan Kalyan and Anna Konidela announce separation",
+      "arhaan khan stepmother sshura sweet birthday wish sipaara little sister tmovg dskc 2691991 2026 11 09",
+      "bigg boss bangla sourav ganguly on rajveer nandini romance aggressive gameplay eviction tmovg dskc 2691955 2026 11 09",
+      "hrithik roshan becomes first indian actor to attend lacma art film gala with joins kylie jenner kim kardashian tmovg dskc 2691904 2026 11 09",
+      "ramayana controversy yash ravan role glorify 20 years back show raavan faced same backlash tmovh dskc 2691732 2026 11 09",
+      "vivek agnihotri balcony sofa catches fire diwali rocket filmmaker demands accountability tmovg dskc 2691926 2026 11 09",
+      "anirudh ravichander kavya maran wedding date to rumoured guest list tmovg dskc 2691978 2026 11 09",
+      "bojpuri superstar amrapali dubey bigg boss 20 flop game salman khan advice tmovf dskc 2690219 2026 11 09",
+      "govardhan puja bundelkhand mauniya diwari tradition lord krishna facts mmtm 2691983 2026 11 09",
+      "deepika padukone ranveer singh daughter devi to katrina kaif vicky kaushal son vihaan 7 celebrity kids who celebrated their first diwali photo gallery 156486673",
+      "kareena kapoor saif ali khan paint a nawabi family portrait with sons taimur and jeh on diwali article 156487111",
+      "loved ravie dubey as lakshman in ramayana 6 performances by actor you cant miss photo gallery 156486493",
+      "mere paas ram hai ranbir kapoor father in law mahesh bhatt is proud of damaad after watching ramayana article 156487457",
+      "om shanti om nani ki panjiri hai dobara bani toh writer mayur puri on shah rukh khan deepika padukone film sequel exclusive article 156486288",
+      "ramayana mukesh khanna blasts makers for mata sita warrior portrayal sharam aani chahiye aapko article 156487262",
+      "robert pattinson to callum turner 6 actors in running to replace daniel craig as next james bond photo gallery 156487292",
+      "russell brand rape case comedian sentenced to 10 years and six months after guilty verdict article 156487020",
+      "samantha ruth prabhu flaunts baby bump while relaxing on couch consider this my maternity shoot article 156486990",
+      "bigg boss 20 episode 65 highlights qazi touqeer accuses manish goel of touching him inappropriately in activity article 156487249",
+      "best of the best actor ankur rathee americans see me as indian audience in india doesnt exclusive article 156487414"
      ],
      "updated": [],
-     "count": 9,
-     "detail": "+4 articles, +0 box-office rows, 5 rows updated"
+     "count": 241,
+     "detail": "253 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-10T01:51:22Z",
+    "run_id": "42738605102",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Russell Brand Sentenced to Ten and a Half Years in Prison Following Guilty Verdict",
+      "Skydance Co-CEOs Criticize Warner Bros Film Slate During First Earnings Call as a Mega-Studio",
+      "New OTT Releases For November 9 To 13, 2026: Rings Of Power, Jailer 2, Ranabaali, And More",
+      "Skydance Games Undergoes Workforce Reductions Amid Corporate Restructuring"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-09T03:52:01Z",
-    "run_id": "42558559008",
-    "status": "success",
-    "checked": {
-     "candidates": 275,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 261, coming 14"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 276, coming 15"
     },
     "reason": null
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-09T01:10:25Z",
-    "run_id": "42543956346",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-10T01:51:22Z",
+    "run_id": "42738605102",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 291,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 276, coming 15"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2458,27 +2441,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T01:10:23Z",
-    "run_id": "42543956346",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-10T01:51:24Z",
+    "run_id": "42738605102",
     "status": "success",
     "checked": {
-     "candidates": 630,
-     "detail": "623 collected staging rows from readers; 214 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 618 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2892,19 +2874,27 @@
      "detail": "+4 new rows, 7 updated rows, 620 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T01:51:22Z",
+    "run_id": "42738605102",
+    "status": "success",
+    "checked": {
+     "candidates": 638,
+     "detail": "629 collected staging rows from readers; 217 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 628 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3141,33 +3131,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-09T01:10:24Z",
-    "run_id": "42543956346",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana crosses Rs 500 crore worldwide after a record-breaking Diwali Sunday",
-      "Spy x Family Season 4 and New Theatrical Film Confirmed for 2027 Release",
-      "Nicolas Cage Explains Why He Is Relieved by Spider-Noir Cancellation",
-      "Suriya Starrer Cop Action Comedy Surpasses Rs 116 Crore Globally in Opening Weekend",
-      "A.R. Rahman Steps Up as the Fresh Face of Brooke Bond Taj Mahal Tea"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3704,19 +3680,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-10T01:51:23Z",
+    "run_id": "42738605102",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Russell Brand Sentenced to Ten and a Half Years in Prison Following Guilty Verdict",
+      "Skydance Co-CEOs Criticize Warner Bros Film Slate During First Earnings Call as a Mega-Studio",
+      "New OTT Releases For November 9 To 13, 2026: Rings Of Power, Jailer 2, Ranabaali, And More",
+      "Skydance Games Undergoes Workforce Reductions Amid Corporate Restructuring"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3990,19 +3979,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4324,31 +4313,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-09T01:10:22Z",
-    "run_id": "42543956346",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 178 still unprocessed; today by category: movies 0/6, tv_dramas 1/4, episodes 0/2, box_office 4/6, celebrities_events 1/5, upcoming_releases 1/4, ott_streaming 0/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana crosses Rs 500 crore worldwide after a record-breaking Diwali Sunday",
-      "Spy x Family Season 4 and New Theatrical Film Confirmed for 2027 Release",
-      "Suriya Starrer Cop Action Comedy Surpasses Rs 116 Crore Globally in Opening Weekend",
-      "Nicolas Cage Explains Why He Is Relieved by Spider-Noir Cancellation"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4854,19 +4831,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-10T01:51:21Z",
+    "run_id": "42738605102",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 241 still unprocessed; today by category: movies 0/6, tv_dramas 1/4, episodes 0/2, box_office 3/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Russell Brand Sentenced to Ten and a Half Years in Prison Following Guilty Verdict",
+      "Skydance Co-CEOs Criticize Warner Bros Film Slate During First Earnings Call as a Mega-Studio",
+      "New OTT Releases For November 9 To 13, 2026: Rings Of Power, Jailer 2, Ranabaali, And More",
+      "Skydance Games Undergoes Workforce Reductions Amid Corporate Restructuring"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5187,24 +5176,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 407,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5549,19 +5533,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 405,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5841,19 +5830,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6103,19 +6092,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6350,19 +6339,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6649,19 +6638,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6902,19 +6891,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7144,19 +7133,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7405,6 +7394,16 @@
     "category": "Trending News",
     "run_at": "2026-11-10T00:58:51Z",
     "run_id": "42731364264",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7922,16 +7921,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-09T03:07:25Z",
     "run_id": "42553121715",
     "status": "skipped",
@@ -8168,19 +8157,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-09T01:10:33Z",
-    "run_id": "42543956346",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8430,8 +8419,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-10T01:51:35Z",
+    "run_id": "42738605102",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-10T00:58:51Z"
+ "updated_at": "2026-11-10T01:51:35Z"
 }
