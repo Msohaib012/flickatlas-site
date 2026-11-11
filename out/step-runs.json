@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T17:51:01Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": {
-     "candidates": 428,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Eyes Another 150 Crore Worldwide On Day 6 as It Sets All Time Record",
-      "Hema Malini hails 'Ramayana' after watching with 'least expectations': 'Pleasantly surprised'",
-      "Taylor Swift's Still Disputing With Ohio Neighbors. What’s Really Going On",
-      "Fan Reactions On James Gunn’s Goodbye Post Made Lanterns And DC Points I’m Also Concerned About",
-      "‘Wildwood’ Officially Faces an Uphill Box Office Battle",
-      "Christopher Meloni Officially Returns to ‘Law & Order: SVU’ This Week for Episode 600",
-      "Lord of the Rings Officially Returns This Week",
-      "Star Trek Officially Returns to Kirk’s Enterprise as TV Future Stalls",
-      "The Most Controversial NC-17 Masterpieces Ever Is Officially Releasing in 4K",
-      "Clive Owen’s New Movie Officially Unveils First Look at an Infamous Moment in Pre-World War II Germany",
-      "Netflix’s ‘The Gilded Age’ Replacement Officially Returns This Week for Final Season",
-      "The Original Star Wars Trilogy Officially Returns With a Brand-New Release",
-      "Julia Fox & Paris Hilton’s New Christmas Comedy Movie Gets Hilarious Prime Video Trailer",
-      "Stephen Fry, Big MCU Star, & More Cast in New War Movie With a Big Twist",
-      "DCU Movie Reboot Reportedly Set After James Gunn’s Shocking Departure",
-      "Dustin Hoffman Nearly Quit Movie That Won Him an Oscar for a Good Reason: ‘Ridiculous’",
-      "Jack O’Connell & Guy Pearce Take on Iconic Media Empire in Danny Boyle’s Ink Trailer",
-      "Ken Russell’s The Devils Uncut Scores 4K UHD X-Rated Release After Theatrical Success",
-      "Maika Monroe & Jason Isaacs on What Makes Victorian Psycho So Twisted | Interview",
-      "Watch: Edgar Wright's 'Market Mayhem' Action Short for Apple Pay"
-     ],
-     "updated": [],
-     "count": 413,
-     "detail": "428 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T18:08:21Z",
     "run_id": "42871867022",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "325 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T17:53:22Z",
-    "run_id": "42869047340",
+    "run_at": "2026-11-11T15:32:22Z",
+    "run_id": "43049280852",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 310,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
-      "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
-      "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
-      "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement"
+      "KWK S9: Sidharth Recalls His First Reaction To Kiara's Second Pregnancy: This Time Even We Were Surprised",
+      "Sidharth Malhotra-Aditya Dhar To Team Up? Karan Johar Reveals About Their Film That Was Meant to Happen",
+      "‘Siddhu10’: Siddhu Jonnalagadda teams up with debutant director for new love story",
+      "Roshan Meka to star in Pan-India superhero film with Indraganti Mohanakrishna",
+      "Arshdeep Singh announces engagement to Samreen Kaur with heartfelt note",
+      "When Goddess Sita became Mahakali to save Lord Rama: The story of Sahasra Ravana",
+      "Florence Pugh Wore One More Perfect East Of Eden Dress For A Cover, And It’s Not To Be Missed",
+      "As A DWTS Newbie, I Didn't Realize How Important Fan Votes Were Until That Shocking Exit",
+      "Now That James Gunn's DC Universe Might Be Cooked, I Have A Suggestion",
+      "The Only Two Places Survivor Is Not Allowed To Film Castaways On The Island",
+      "Fans Are Naming Great TV Shows With One Bad Character, & Buffy Isn’t The Only Classic Coming Up",
+      "Sylvester Stallone Officially Ends His 20-Year Rivalry With Arnold Schwarzenegger",
+      "‘Boston Blue’ Officially Brings In a ‘CSI’ Legend This Friday",
+      "Harry Potter Officially Abandons ‘Sorcerer’s Stone’ After 28 Years",
+      "‘Lioness’ Is No Longer TV’s Greatest Spy Thriller Thanks to Netflix’s 93% RT Hit",
+      "Nathan Fillion Replaces 'The Rookie' With New Crime Thriller Based on His Own Book",
+      "Netflix Finds New 6-Part Crime Thriller Hit — And It's Officially Taking Over on Streaming",
+      "44 Years Later, Spock's Best 'Star Trek' Line Is Still the Greatest Quote in Sci-Fi History",
+      "10 Strongest Aurors In Harry Potter, Ranked By Magical Power",
+      "Hogwarts Legacy Replacement With 9/10 Reviews Officially Launches November 16"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 301,
+     "detail": "310 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 0 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T15:39:32Z",
+    "run_id": "43049280852",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
+      "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
+      "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
+      "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T21:51:52Z",
-    "run_id": "42908913535",
-    "status": "success",
-    "checked": {
-     "candidates": 297,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 282, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,32 +1906,27 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T15:39:32Z",
+    "run_id": "43049280852",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T18:00:26Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "lubpd7",
-      "ve32nm",
-      "ovm810",
-      "1rudn53",
-      "1755t76"
-     ],
-     "updated": [],
-     "count": 5
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2432,27 +2409,26 @@
      "count": 5
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T18:00:23Z",
-    "run_id": "42869047340",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T15:44:34Z",
+    "run_id": "43049280852",
     "status": "success",
     "checked": {
-     "candidates": 641,
-     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2866,19 +2842,27 @@
      "detail": "+0 new rows, 4 updated rows, 634 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T15:44:32Z",
+    "run_id": "43049280852",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4,
+     "detail": "+0 new rows, 4 updated rows, 634 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3115,34 +3099,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T18:00:26Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement",
-      "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
-      "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
-      "Lagan Lagi Episode 14 — Watch Online on ARY Digital",
-      "Hurmat Episode 12 — Watch Online on HUM TV",
-      "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend"
-     ],
-     "updated": [],
-     "count": 6,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3673,32 +3642,36 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T17:51:47Z",
-    "run_id": "42869047340",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T15:44:33Z",
+    "run_id": "43049280852",
     "status": "success",
     "checked": {
-     "candidates": 18,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 8 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Lagan Lagi Ep 14",
-      "Hurmat Ep 12"
+      "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
+      "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
+      "Khushi Episode 60 — Watch Online on HUM TV",
+      "Izzat Episode 53 — Watch Online on ARY Digital",
+      "Uswah Episode 49 — Watch Online on Geo TV",
+      "Dastoor Episode 82 — Watch Online on Green TV",
+      "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
+      "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project"
      ],
-     "updated": [
-      "Hurmat Ep 12",
-      "Lagan Lagi Ep 14"
-     ],
-     "count": 4
+     "updated": [],
+     "count": 8,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3942,19 +3915,35 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T15:37:19Z",
+    "run_id": "43049280852",
+    "status": "success",
+    "checked": {
+     "candidates": 19,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 11 new detected; 1 summary failure(s): Khushi Ep 60"
+    },
+    "changed": {
+     "added": [
+      "Khushi Ep 60",
+      "Izzat Ep 53",
+      "Uswah Ep 49",
+      "Dastoor Ep 82"
+     ],
+     "updated": [
+      "Uswah Ep 49",
+      "Dastoor Ep 82",
+      "Izzat Ep 53"
+     ],
+     "count": 7
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4275,31 +4264,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T17:53:22Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 413 still unprocessed; today by category: movies 12/6, tv_dramas 8/4, episodes 1/2, box_office 18/6, celebrities_events 16/5, upcoming_releases 2/4, ott_streaming 6/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
-      "Ramayana Targets Massive Day 6 Worldwide Gross as Record-Breaking Theatrical Run Continues",
-      "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
-      "Sony Pictures Movies Headed to Netflix in 2027 Under New Global Agreement"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4805,26 +4782,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T15:39:31Z",
+    "run_id": "43049280852",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "news queue items drafted this run; 301 still unprocessed; today by category: movies 8/6, tv_dramas 11/4, episodes 1/2, box_office 11/6, celebrities_events 14/5, upcoming_releases 8/4, ott_streaming 9/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
+      "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
+      "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
+      "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T17:54:38Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5131,24 +5113,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 497,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5493,19 +5470,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 565,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5805,19 +5787,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6067,19 +6054,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6314,19 +6301,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6610,19 +6597,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6863,19 +6850,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7105,19 +7092,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7366,6 +7353,16 @@
     "category": "Trending News",
     "run_at": "2026-11-11T15:01:19Z",
     "run_id": "43043610969",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7886,16 +7883,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-10T18:11:34Z",
     "run_id": "42871867022",
     "status": "success",
@@ -8132,19 +8119,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8394,8 +8381,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T15:44:43Z",
+    "run_id": "43049280852",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T15:01:19Z"
+ "updated_at": "2026-11-11T15:44:43Z"
 }

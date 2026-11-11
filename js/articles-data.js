@@ -117255,5 +117255,570 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 14:30:18 GMT"
+  },
+  "6znfk3": {
+    "id": "6znfk3",
+    "type": "news",
+    "headline": "Khushi Episode 60 — Watch Online on HUM TV",
+    "dek": "Khushi episode 60 aired on 2026-11-11 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 60 aired on 2026-11-11 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=cHZAOtsnhuA"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 60 aired on 2026-11-11.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=cHZAOtsnhuA",
+      "YouTube views: 87,511."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/cHZAOtsnhuA/hqdefault.jpg",
+        "caption": "Khushi Episode 60",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-11T15:00:22Z"
+  },
+  "1ijsin2": {
+    "id": "1ijsin2",
+    "type": "news",
+    "headline": "Izzat Episode 53 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 53 aired on 2026-11-11 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 53 aired on 2026-11-11 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=OyuMCezzEss"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Mazhar hospital mein bistar par behosh laita hai, jahan uski bewi aur doosre log mojood hain. Mazhar ki tabiyat nazuk hai, woh oxygen mask pehne hue hai aur uske sar par patti bandhi hui hai. Rayan hospital mein aata hai aur chupke se Mazhar ke ward mein dakhil hota hai. Rayan Mazhar ke qareeb jaakar usse baatein karta hai aur taanz karta hai ke jab paisay dene ki baari aayi toh usne yeh haal kar diya, aur kehta hai ke agar yeh baat uski biwi ko pata chale toh kya hoga. Rayan mazahiya andaaz mein Mazhar ke mauth aur uski family ke baare mein baat karta hai aur aakhri mein oxygen mask hata deta hai jisse Mazhar ki saans rukne lagti hai. Doosri taraf, Rutba ghar par pareshan hai aur Rayan ke saath apni taluqat aur uski bewafai ke khayalat mein ghum hai. Aakhir mein, episode ek flashback aur emotional scene par khatam hota hai jahan Rutba aur uske ghar wale Mazhar ki haalat par ghamgeen hain aur woh apne kiye par pachtawa mehsoos karte hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 53 aired on 2026-11-11.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=OyuMCezzEss",
+      "YouTube views: 1,415.",
+      "Episode summary added 2026-11-11."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/OyuMCezzEss/hqdefault.jpg",
+        "caption": "Izzat Episode 53",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-11T15:00:14Z"
+  },
+  "m4g716": {
+    "id": "m4g716",
+    "type": "news",
+    "headline": "Uswah Episode 49 — Watch Online on Geo TV",
+    "dek": "Uswah episode 49 aired on 2026-11-11 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 49 aired on 2026-11-11 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=LebY87wVUok"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein, Uswah apnay gharwalon aur Essa ke paas jati hai, jahan woh sab us ka shukriya ada karte hain kyunke usnay apni maa ke operation ke liye paisay diye thay. Uswah ki maa bhi us ka shukriya ada karti hai aur dua deti hai. Baad mein, Uswah jab Essa ke ghar car se utarti hai, toh Essa wahan mojud hota hai. Uswah usay shukriya ada karti hai aur kehti hai ke usay umeed nahi thi ke woh uski maa ke hospital aayega. Essa saaf kehta hai ke yeh sab usne kisi mohabbat ki wajah se nahi kiya balki sirf yeh samajh kar ke yeh theek tha. \n\nWahan Fariah, jo ke lawyer aur papers ke sath tayar baithi hai, Uswah se kehti hai ke woh papers par sign karde kyunki usne pehle commitment ki thi. Uswah chupchap sign kar deti hai. Baad mein, Uswah kamray mein aakar akele roti hai aur darwaze ke paas baith jati hai. Uswah aur Essa ki aapas mein talq guftagu hoti hai jahan Essa usay kehta hai ke agar woh itni hi pareshan hai toh woh uski zindagi aur ghar se door chali jaye. \n\nGhar par, Uswah ki phuppo aur baqi log baat karte hain ke Uswah ko college dobara shuru karna chahiye, aur aik scene mein Fariyah apnay sasural walo aur maa ke sath yeh khushi manati hai ke Uswah ne papers sign kardiye hain. \n\nEpisode ke aakhiri hissay mein, raat ke waqt Uswah namaz kee halat mein dua maang rahi hoti hai aur ro rahi hoti hai. Woh Allah se kehti hai ke is shakhs (Essa) ko usne apni kismat mein likhwaya hai aur uski mohabbat bhi usi ke dil mein dali hai, lekin usko iska haq nahi mil raha. Door se Essa khamoshi se yeh sab dekhta hai aur phir wahan se chala jata hai. Episode isi jazbati manzar par khatam hota hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 49 aired on 2026-11-11.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=LebY87wVUok",
+      "YouTube views: 298,735.",
+      "Episode summary added 2026-11-11."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/LebY87wVUok/hqdefault.jpg",
+        "caption": "Uswah Episode 49",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-11T15:00:10Z"
+  },
+  "1plxujy": {
+    "id": "1plxujy",
+    "type": "news",
+    "headline": "Dastoor Episode 82 — Watch Online on Green TV",
+    "dek": "Dastoor episode 82 aired on 2026-11-11 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 82 aired on 2026-11-11 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=D7Qmj60rSFU"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Sheza police station mein inspector ko yeh batati hai ke Amara ka accident nahi balkay qatal hua hai aur woh iski mukammal investigation chahti hai. Sheza police ko Zebo-un-Nisa, Salman Ahmed aur unke bete Aaliyan par shak zahir karti hai, jis par inspector kehta hai ke unke paas abhi koi saboot nahi hai lekin agar koi saboot mila toh zaroor karwayi hogi. Zebo-un-Nisa ko jab is FIR ki khabar milti hai toh woh pareshan ho jati hai kyunke unke khilaf FIR darj ho chuki hoti hai. Aaliyan aur Alina ke darmiyan bhi Amara ke qatal ki FIR aur iski wajah se hone wali tension par behs hoti hai, jahan Aaliyan kehta hai ke ab sab kuch samne aa chuka hai. Mustafa bhi Sheza se naraz hota hai ke usne bina mashware ke police station mein FIR darj karwa di aur dadi par ilzaam lagaya. Akhir mein, Sheza apni saas se milti hai jahan woh kehti hai ke ab woh kisi bhi halat mein peeche nahi hategi aur Amara ke qatil ko saza dila kar hi rahegi."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 82 aired on 2026-11-11.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=D7Qmj60rSFU",
+      "YouTube views: 57,189.",
+      "TMDB: Dastoor (id 329481).",
+      "Episode summary added 2026-11-11."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/D7Qmj60rSFU/hqdefault.jpg",
+        "caption": "Dastoor Episode 82",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-11T14:45:35Z"
+  },
+  "5qoyr3": {
+    "id": "5qoyr3",
+    "type": "news",
+    "headline": "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
+    "dek": "Newly expectant parents Sidharth Malhotra and Kiara Advani appeared on Koffee With Karan Season 9 to discuss their surprise second pregnancy and share personal reactions with host Karan Johar.",
+    "body": [
+      {
+        "h": "A Memorable Couch Appearance",
+        "p": [
+          "Host Karan Johar welcomed Sidharth Malhotra and immigrant parents-to-be Kiara Advani for a new installment of Koffee With Karan Season 9. This television engagement marks the first joint media appearance for the couple since they publicly shared the news of their upcoming second child.",
+          "The broadcast offered audiences an intimate look into the personal lives of the actors, who discussed the joyful milestone openly with the popular host and viewers."
+        ]
+      },
+      {
+        "h": "The Surprise Announcement Background",
+        "p": [
+          "A month prior to the television appearance, Kiara Advani surprised fans by announcing the family's expanding household through social media. She uploaded an image showing her hands alongside that of their child Saraayah holding tiny baby socks.",
+          "The announcement post was accompanied by a caption expressing profound gratitude for receiving the wonderful gift once again, capturing the hearts of millions of supporters across platforms."
+        ]
+      },
+      {
+        "h": "Kiara Advani's Perspective on the News",
+        "p": [
+          "During the conversation on the talk show, Kiara Advani opened up about her initial feelings upon discovering she was expecting again. She described the development as part of a higher plan while noting that she was still processing the reality.",
+          "The actress characterized the arrival as completely unexpected and a remarkably pleasant surprise that transformed their everyday routine."
+        ]
+      },
+      {
+        "h": "Sidharth Malhotra Shares His Excitement",
+        "p": [
+          "Sidharth Malhotra recounted his own astonishment when the couple first learned about the upcoming addition weeks prior. Having grown up in a joint household surrounded by siblings and cousins, he expressed immense enthusiasm about their daughter Saraayah getting a brother or sister.",
+          "The actor emphasized his love for a lively, cheerful Punjabi home environment and remarked that they feel truly blessed by the unfolding chapter."
+        ]
+      },
+      {
+        "h": "Karan Johar's Real-Time Reaction",
+        "p": [
+          "Host Karan Johar revealed that he found out about the pregnancy on the very day the episode was being filmed. He described receiving a photo message from Kiara regarding their wardrobe choices before noticing the announcement image.",
+          "Overwhelmed by the update, the filmmaker humorously recalled screaming out of pure joy upon realizing the significant news."
+        ]
+      },
+      {
+        "h": "Relationship Timeline and Family Milestones",
+        "p": [
+          "The couple initially connected and began their romantic relationship while filming the motion picture Shershaah. Their relationship culminated when they tied the knot on February 7, 2023.",
+          "They later welcomed their first daughter, Saraayah, in July 2025, and reports indicate they are anticipating the arrival of their second baby in early 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sidharth Malhotra and Kiara Advani appeared on Koffee With Karan Season 9 to discuss their unexpected second pregnancy following a social media announcement featuring their daughter Saraayah. Both actors shared their initial reactions of surprise and joy with host Karan Johar, reflecting on their family journey since marrying in February 2023."
+        ]
+      }
+    ],
+    "facts": [
+      "Kiara Advani announced her second pregnancy a month before the episode aired.",
+      "The couple welcomed their daughter Saraayah in July 2025.",
+      "Sidharth Malhotra and Kiara Advani got married on February 7, 2023.",
+      "The pair started dating while shooting for Shershaah.",
+      "They are expected to welcome their second baby in early 2026."
+    ],
+    "entities": {
+      "people": [
+        "Kiara Advani",
+        "Sidharth Malhotra",
+        "Karan Johar",
+        "Saraayah"
+      ],
+      "titles": [
+        "Koffee With Karan",
+        "Shershaah"
+      ]
+    },
+    "keywords": [
+      "Kiara Advani second pregnancy",
+      "Sidharth Malhotra Koffee With Karan",
+      "Koffee With Karan Season 9",
+      "Kiara Advani Sidharth Malhotra"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/sidkiara2ndbabyreactionfeature-71771794406930.jpg",
+        "caption": "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 19:55:05 +0530"
+  },
+  "3nmfly": {
+    "id": "3nmfly",
+    "type": "news",
+    "headline": "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
+    "dek": "Nintendo's newly launched remake of the 1998 classic has shattered records, moving 5.2 million units globally in its opening four days.",
+    "body": [
+      {
+        "h": "Record-Breaking Launch Sales",
+        "p": [
+          "Players around the world rushed to experience the latest nostalgic revival as Nintendo launched the much-anticipated remake of 'The Legend of Zelda: Ocarina of Time'. In its first four days on shelves, the title managed to shift an extraordinary 5.2 million copies on the Nintendo Switch 2.",
+          "According to data shared directly by Nintendo, this impressive debut makes the title the fastest-selling Nintendo-published game on the platform globally, as well as specifically within the United States, Canada, and Latin America."
+        ]
+      },
+      {
+        "h": "A Remake of a 1998 Classic",
+        "p": [
+          "The newly released title serves as a complete, ground-up remake of the original 1998 masterpiece, which first captured players' imaginations on the classic Nintendo 64 console.",
+          "Just like the foundational adventure that preceded it, the Switch 2 version places players in the boots of a young Link, guiding him through a heroic quest that spans across the sprawling fantasy land of Hyrule and unfolds across two distinct eras."
+        ]
+      },
+      {
+        "h": "High Anticipation and Critical Acclaim",
+        "p": [
+          "Prior to its arrival, the project stood as one of the most anticipated video game releases of the entire year. Industry watchers noted that enthusiasm for the adventure was rivaled only by Rockstar Games' long-awaited 'Grand Theft Auto VI'.",
+          "Following its official release, the title has been greeted warmly by both critics and audiences, earning strong praise for its modern updates while faithfully preserving the core spirit of the original."
+        ]
+      },
+      {
+        "h": "Part of a Massive 40th Anniversary",
+        "p": [
+          "The timing of the remake's success coincides with a much larger corporate milestone, serving as a centerpiece for the celebration of 'The Legend of Zelda' franchise's 40th anniversary.",
+          "To honor the debut of the very first game in Japan back in 1986, Nintendo has mapped out a diverse array of upcoming products, merchandise lines, and interactive experiences for fans worldwide."
+        ]
+      },
+      {
+        "h": "Concerts and Live-Action Adaptations",
+        "p": [
+          "The broader anniversary rollout extends far beyond gaming platforms, incorporating live musical performances and cinematic projects. Nintendo has confirmed plans to launch a worldwide concert tour beginning in 2027.",
+          "Additionally, the franchise will expand into the cinematic realm with a live-action feature film adaptation currently scheduled to arrive in movie theaters on April 30, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Nintendo Switch 2 remake of 'The Legend of Zelda: Ocarina of Time' sold 5.2 million copies in its first four days, becoming the fastest-selling Nintendo-published game in multiple regions. Released on November 5, 2026, the game is a full remake of the 1998 Nintendo 64 classic and arrives amidst franchise-wide 40th anniversary celebrations that include a 2027 concert tour and a live-action film."
+        ]
+      }
+    ],
+    "facts": [
+      "The Legend of Zelda: Ocarina of Time remake sold 5.2 million copies in its first four days on Nintendo Switch 2.",
+      "The game debuted on November 5, 2026.",
+      "The original game was released in 1998 for the Nintendo 64.",
+      "The live-action film adaptation is scheduled to release on April 30, 2027.",
+      "The franchise is celebrating its 40th anniversary, commemorating the first game's launch in Japan in 1986."
+    ],
+    "entities": {
+      "people": [
+        "Link"
+      ],
+      "titles": [
+        "The Legend of Zelda: Ocarina of Time",
+        "Grand Theft Auto VI",
+        "The Legend of Zelda"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda Ocarina of Time",
+      "Nintendo Switch 2 Zelda sales",
+      "Legend of Zelda 40th anniversary",
+      "Zelda live-action film 2027"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/The-Legend-of-Zelda-Ocarina-of-Time-Remake.png?w=1000&#038;h=563&#038;crop=1",
+        "caption": "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 14:30:43 +0000"
+  },
+  "1airb14": {
+    "id": "1airb14",
+    "type": "news",
+    "headline": "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
+    "dek": "Actor Siddhu Jonnalagadda has officially launched his next romantic venture, tentatively titled ‘Siddhu10’, at Annapurna Studios with a traditional pooja ceremony.",
+    "body": [
+      {
+        "h": "The Grand Launch in Hyderabad",
+        "p": [
+          "Tollywood star Siddhu Jonnalagadda is preparing to captivate audiences once again as he embarks on a fresh romantic journey. Teaming up with newcomer filmmaker Mohan B, the actor officially commenced work on his upcoming venture, tentatively referred to as ‘Siddhu10’.",
+          "The ceremonial launch took place at the iconic Annapurna Studios in Hyderabad. The team marked the beginning of production with a traditional pooja ceremony, drawing significant attention from fans and industry insiders alike as anticipation builds for the upcoming feature."
+        ]
+      },
+      {
+        "h": "Star-Studded Launch Event",
+        "p": [
+          "Several notable figures from the Telugu film industry stepped out to show their support and grace the auspicious opening event. Producer Allu Aravind was among the prominent names spotted at the studio grounds in Hyderabad.",
+          "In addition to Allu Aravind, a host of esteemed directors attended the celebration. Filmmakers Nandini Reddy, Chandoo Mondeti, Harish Shankar, and Buchi Babu Sana were present to bless the team and celebrate the commencement of the project."
+        ]
+      },
+      {
+        "h": "Cast and Production Details",
+        "p": [
+          "The makers have officially cast Nayan Sarika as the female lead opposite Siddhu Jonnalagadda. Nayan brings previous acting experience from projects such as ‘Aay’, ‘KA’, ‘Gam Gam Ganesha’, and ‘Vishnu Vinayasam’.",
+          "While specific plot lines remain under wraps, the production team has described the venture as a beautiful love story. The film is being jointly produced by Sukumar Writings and Bunny Vas Works, with Thabitha Sukumar attached as the presenter."
+        ]
+      },
+      {
+        "h": "Strong Technical Lineup",
+        "p": [
+          "A seasoned technical crew has been assembled to support the debutant director. GV Prakash Kumar has been brought on board to compose the musical score for the romantic entertainer.",
+          "Rounding out the core technical team are cinematographer Chandru Selvaraj and production designer Sahi Suresh. This blend of fresh directorial vision and veteran technical expertise aims to deliver a polished cinematic experience."
+        ]
+      },
+      {
+        "h": "Context of Past Successes",
+        "p": [
+          "Siddhu Jonnalagadda enters this romantic project following a mix of commercial milestones and hurdles in his career. His 2024 venture ‘Tillu Square’, co-starring Anupama Parameswaran, emerged as a massive box-office hit, grossing Rs 126.75 crore worldwide according to Sacnilk.",
+          "That global total included Rs 83.39 crore net in India alongside approximately Rs 30 crore from overseas territories. However, his subsequent theatrical releases, including ‘Jack’ and ‘Telusu Kada’, did not match the historic commercial heights achieved by ‘Tillu Square’."
+        ]
+      },
+      {
+        "h": "Looking Ahead to Production",
+        "p": [
+          "With the formal launch ceremonies successfully concluded, the creative team has announced that regular principal photography will commence shortly. The makers intend to move swiftly from pre-production into active shooting phases.",
+          "As the actor looks to return to the spotlight with a pure romantic genre, fans eagerly await further announcements concerning the official title and theatrical release windows for the project."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Siddhu Jonnalagadda has launched his upcoming romantic entertainer, tentatively titled ‘Siddhu10’, with a traditional pooja ceremony at Annapurna Studios in Hyderabad featuring several prominent film personalities. The project pairs the actor with debutant director Mohan B and co-star Nayan Sarika, backed by producers Sukumar Writings and Bunny Vas Works alongside a seasoned technical crew."
+        ]
+      }
+    ],
+    "facts": [
+      "Siddhu Jonnalagadda teamed up with debutant director Mohan B for ‘Siddhu10’.",
+      "The project was launched with a traditional pooja ceremony at Annapurna Studios in Hyderabad on Wednesday, November 11, 2026.",
+      "Producer Allu Aravind and directors Nandini Reddy, Chandoo Mondeti, Harish Shankar, and Buchi Babu Sana attended the launch.",
+      "Nayan Sarika stars as the female lead opposite Siddhu.",
+      "The film is produced jointly by Sukumar Writings and Bunny Vas Works, presented by Thabitha Sukumar.",
+      "GV Prakash Kumar is the music composer, Chandru Selvaraj is the cinematographer, and Sahi Suresh is the production designer.",
+      "Tillu Square collected Rs 126.75 crore worldwide, including Rs 83.39 crore net in India and about Rs 30 crore from overseas.",
+      "Tillu Square starred Anupama Parameswaran alongside Siddhu Jonnalagadda."
+    ],
+    "entities": {
+      "people": [
+        "Siddhu Jonnalagadda",
+        "Mohan B",
+        "Allu Aravind",
+        "Nandini Reddy",
+        "Chandoo Mondeti",
+        "Harish Shankar",
+        "Buchi Babu Sana",
+        "Nayan Sarika",
+        "Thabitha Sukumar",
+        "GV Prakash Kumar",
+        "Chandru Selvaraj",
+        "Sahi Suresh",
+        "Anupama Parameswaran"
+      ],
+      "titles": [
+        "Siddhu10",
+        "Aay",
+        "KA",
+        "Gam Gam Ganesha",
+        "Vishnu Vinayasam",
+        "Tillu Square",
+        "Jack",
+        "Telusu Kada"
+      ]
+    },
+    "keywords": [
+      "Siddhu Jonnalagadda",
+      "Siddhu10 film",
+      "Mohan B director",
+      "Nayan Sarika",
+      "Tillu Square box office"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135740866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T20:02:33+05:30"
+  },
+  "1rfi4f7": {
+    "id": "1rfi4f7",
+    "type": "news",
+    "headline": "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project",
+    "dek": "Telugu actor Roshan Meka is set to headline a massive pan-Indian superhero film directed by Indraganti Mohanakrishna, featuring debutante Rekha Panday and a notable technical crew.",
+    "body": [
+      {
+        "h": "Grand Launch and Pan-Indian Ambitions",
+        "p": [
+          "The Telugu entertainment industry has officially welcomed an ambitious new cinematic venture starring actor Roshan Meka in the lead role. Directed by filmmaker Indraganti Mohanakrishna, the upcoming project is envisioned as a grand pan-Indian superhero adventure.",
+          "Makers formally announced the film at a high-profile launch event where industry figures gathered to celebrate the start of production. The production house, Ashoka Creations, has designated the venture as their third production, branding it as a visual spectacle designed to push boundaries in Indian cinema."
+        ]
+      },
+      {
+        "h": "A Fresh Persona Under Indraganti's Direction",
+        "p": [
+          "Director Indraganti Mohanakrishna is widely recognized for his distinct filmmaking style and his ability to showcase lead actors in completely unexpected avatars. In this project, the filmmaker aims to present Roshan in a never-before-seen persona.",
+          "The narrative shifts away from traditional romantic or dramatic tropes, venturing instead into an expansive superhero universe. The creative team has teased that the storyline will introduce fresh mythology and high-octane action tailored for audiences across the country."
+        ]
+      },
+      {
+        "h": "Family Support at the Opening Ceremony",
+        "p": [
+          "The ceremonial launch event drew significant media attention not just for the film's scale, but also for a special family moment on stage. Veteran actor Srikanth, Roshan's father, graced the occasion as a special guest.",
+          "Demonstrating his support for his son's career milestone, Srikanth officially sounded the first clap for the inaugural shot. Photographs and announcements from the launch quickly circulated across entertainment portals."
+        ]
+      },
+      {
+        "h": "New Faces and Supporting Cast",
+        "p": [
+          "Alongside Roshan Meka, the film introduces Rekha Panday to the silver screen. Panday previously earned recognition as the runner-up at the Miss World India 2024 pageant and will play the female lead.",
+          "In addition to the fresh pairing of the leads, seasoned actor Vinay Roy has been locked in to portray an important character, adding further weight to the supporting ensemble."
+        ]
+      },
+      {
+        "h": "Assembling the Technical Powerhouse",
+        "p": [
+          "A project of this scale requires a robust technical framework, and the producers have brought together an experienced crew. PG Vinda has been entrusted with the cinematography to capture the grand visual scale of the superhero universe.",
+          "Music direction will be handled by Goura Hari, who previously scored music for Hanu-Man and Mirai. Furthermore, production designers Ramakrishna Sabbani and Monica Nigrote, action choreographer Lee Whittaker, and editor Marthand K Venkatesh round out the core technical team."
+        ]
+      },
+      {
+        "h": "Production Timeline and Future Announcements",
+        "p": [
+          "With the launch formalities concluded, the production team has confirmed that principal photography will officially commence in December. The makers are keeping specifics under wraps for now.",
+          "Further announcements regarding the official title, additional cast members, and finalized theatrical release plans are slated to be revealed at a later date."
+        ]
+      },
+      {
+        "h": "Roshan's Other Professional Commitments",
+        "p": [
+          "Before diving fully into the superhero venture, Roshan Meka has other cinematic commitments in his lineup. He will star in the upcoming Telugu romantic-comedy tentatively titled Emo Emo Idi, directed by Sailesh Kolanu of HIT fame.",
+          "That romantic project pairs Roshan with Preity Mukhundhan as the female lead. Although it was initially scheduled to debut on October 30, it was postponed to avoid a box-office overlap with Venkatesh's Aadarsha Kutumbam, and a revised release date remains pending."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Roshan Meka is set to star in a pan-Indian superhero adventure directed by Indraganti Mohanakrishna, with production scheduled to begin in December. The film features debutante Rekha Panday and actor Vinay Roy, supported by a strong technical crew including cinematographer PG Vinda and music director Goura Hari.",
+          "The project was announced at a grand launch event attended by Roshan's father Srikanth, as the actor balances this upcoming spectacle with his other commitments like the romantic-comedy Emo Emo Idi."
+        ]
+      }
+    ],
+    "facts": [
+      "Roshan Meka is set to play a superhero in Indraganti Mohanakrishna's next film.",
+      "The film is produced by Ashoka Creations as Production No. 3.",
+      "Rekha Panday, runner-up at Miss World India 2024, is making her acting debut in the film.",
+      "Vinay Roy has been cast in an important role.",
+      "PG Vinda is the cinematographer and Goura Hari is the music director.",
+      "Ramakrishna Sabbani and Monica Nigrote are the production designers, Lee Whittaker is the action choreographer, and Marthand K Venkatesh is the editor.",
+      "Shooting for the film will begin in December.",
+      "Roshan Meka's upcoming romantic-comedy is Emo Emo Idi, directed by Sailesh Kolanu and starring Preity Mukhundhan."
+    ],
+    "entities": {
+      "people": [
+        "Roshan Meka",
+        "Indraganti Mohanakrishna",
+        "Srikanth",
+        "Rekha Panday",
+        "Vinay Roy",
+        "PG Vinda",
+        "Goura Hari",
+        "Ramakrishna Sabbani",
+        "Monica Nigrote",
+        "Lee Whittaker",
+        "Marthand K Venkatesh",
+        "Sailesh Kolanu",
+        "Preity Mukhundhan",
+        "Venkatesh"
+      ],
+      "titles": [
+        "Hanu-Man",
+        "Mirai",
+        "Emo Emo Idi",
+        "HIT",
+        "Aadarsha Kutumbam"
+      ]
+    },
+    "keywords": [
+      "Roshan Meka superhero film",
+      "Indraganti Mohanakrishna next movie",
+      "Ashoka Creations Production No 3",
+      "Rekha Panday acting debut",
+      "Emo Emo Idi movie"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135740690,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T19:55:59+05:30"
   }
 };
