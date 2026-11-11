@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T01:52:05Z",
-    "run_id": "42941825927",
-    "status": "success",
-    "checked": {
-     "candidates": 301,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Silo Season 4 Spoilers: Everything We Know About the Final Season & What Happens Next",
-      "Ranveer Singh's grandfather passes away at 96",
-      "'Drishyam 3' day 40: Ajay Devgn's film maintains blockbuster verdict",
-      "'Mookuthi Amman 2' BO day 5 vs 'Jailer 2'",
-      "'Ramayana' day 6: Ranbir Kapoor, Yash film earns Rs 823.50 cr worldwide",
-      "Jeeva Subramaniam says it was painful when she left home years ago due to her transgender identity, but Dorothy changed it all",
-      "Arun Govil says he was pressured to play Lakshman to Jeetendra's Ram in Lav Kush against his wishes, recalls film 'didn't even run for one day'",
-      "Ramayana box office Day 6: Ranbir Kapoor's film on a record-breaking Rs 800 crore run",
-      "Katrina Law Told Me About Learning Michael Weatherly Was Returning (And What She Thinks About A Possible Ziva Team-Up)",
-      "I Did Not Expect Florence Pugh's Candid Take On Stomach Rolls And Cellulite While Filming",
-      "10 Essential Comedy Movies Everyone Should Watch at Least Once",
-      "Sci-Fi Books That Are Perfect From Start to Finish, Ranked by Goodreads",
-      "5 Classic Books Better Than 'Pride and Prejudice'",
-      "‘NCIS’ Season 24 Officially Adds a ‘True Blood’ Star to Torres’ Next Mission",
-      "Skydance's \"Star Wars Meets Game of Thrones\" Sci-Fi Epic Will Make Both Franchises Feel Small",
-      "Naruto: All 10 Tailed Beasts & Jinchuriki In The Franchise",
-      "Kitchen Nightmares: Fakest Things About The Show, According To Cast And Crew",
-      "DC's Best Selling Comic Just Saved Staff From Layoffs, Reports Claim",
-      "The White Lotus Confirms Its OG Character Replacement For Season 4",
-      "8 Movie Trilogies Where The 3rd Movie Is The Best"
-     ],
-     "updated": [],
-     "count": 291,
-     "detail": "295 stories, 0 duplicates removed, 6 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T02:51:48Z",
     "run_id": "42948735287",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "378 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T01:53:38Z",
-    "run_id": "42941825927",
+    "run_at": "2026-11-11T22:13:41Z",
+    "run_id": "43109789654",
     "status": "success",
     "checked": {
-     "candidates": 10,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 338,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Rise Of A Legend Crosses Rs 800 Crore Worldwide On Day 6",
-      "Drishyam 3: The Conclusion Box Office Collection Day 40: Ajay Devgn Starrer Maintains Blockbuster Status",
-      "Bollywood Actor Ranveer Singh's Maternal Grandfather Passes Away at 96",
-      "Florence Pugh Pays Heartfelt Tribute to Late Director Sebastián Lelio"
+      "Ramayana: Part 1 Day 8 Box Office Collection: Early Estimates, Occupancy & Total Earnings",
+      "Huma Qureshi (Maharani 5) To Anne Hathaway (Les Misérables): 6 Actresses Who Embraced Bald Look On Screen",
+      "Why 90 Day Fiancé's New Florida Spinoff Has Me Questioning If We've Lost The Plot",
+      "Adam Sandler And Conan O’Brien Are Neighbors, But Admit It Gets Weird Living Behind Hollywood Hedges",
+      "I Just Realized The Big Bang Theory’s Johnny Galecki Hasn’t Acted In Seven Years",
+      "Superman's Skyler Gisondo Told Us How He Feels About James Gunn Leaving DC",
+      "10 Greatest Football Movies of All Time to Watch Before Thanksgiving, Ranked",
+      "8 Greatest Thriller Books of the Last 15 Years, Ranked",
+      "Henry Cavill Officially Reveals His Superman Future Following James Gunn’s Exit",
+      "'Underworld' Star's New Psychological Thriller Unleashes Chilling First Trailer",
+      "‘VisionQuest’ May Have Just Revealed ‘Avengers: Doomsday’s Biggest Twist",
+      "Ron Howard’s New Movie With Oscar Buzz & Great Reviews Is Streaming on Netflix Now",
+      "Young Afghan Artist's Story in 'A Fox Under a Pink Moon' Doc Trailer",
+      "Watch: Don Hertzfeldt's Mesmerizing 'Paper Trail' Short Follows a Life",
+      "Michael Fassbender's 156-Minute Instant Cult Classic Sci-Fi Thriller Officially Sets New Release",
+      "Clive Owen Faces an Impossible Choice in New 95-Minute World War II Thriller",
+      "Keanu Reeves' Long-Awaited Fantasy Thriller Gets Official Update After James Gunn's Exit",
+      "Forget Red Dead Redemption 3, This Frontier Game Is Officially Stunning",
+      "10 Dark Fantasies To Read If You’re Still Not Over Agatha All Along",
+      "Prime Video’s Modern-Day Fairytale Hit Gets A Sequel With Original Star Returning"
      ],
      "updated": [],
-     "count": 9,
-     "detail": "+4 articles, +1 box-office rows, 4 rows updated"
+     "count": 311,
+     "detail": "317 stories, 0 duplicates removed, 21 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1486,27 +1463,27 @@
      "detail": "+3 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
-   }
-  ],
-  "ott": [
+   },
    {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T03:51:49Z",
-    "run_id": "42955364749",
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T22:13:42Z",
+    "run_id": "43109789654",
     "status": "success",
     "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
+     "count": 3,
+     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "ott": [
    {
     "step": "ott",
     "category": "OTT",
@@ -1920,30 +1897,27 @@
      "detail": "now 288, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T22:13:42Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": {
+     "candidates": 301,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 288, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T02:03:41Z",
-    "run_id": "42941825927",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1jf6jar",
-      "vrk2ou",
-      "3plspc"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2442,27 +2416,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T22:15:47Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "3cafwk",
+      "1wezyrd",
+      "rxvayp",
+      "3nmfly",
+      "1wmhof9",
+      "jyq09u",
+      "1jf6jar",
+      "1a3zkxt"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T02:03:38Z",
-    "run_id": "42941825927",
-    "status": "success",
-    "checked": {
-     "candidates": 646,
-     "detail": "631 collected staging rows from readers; 221 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 632 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2876,19 +2858,27 @@
      "detail": "+0 new rows, 7 updated rows, 631 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T22:15:43Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 635 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3125,32 +3115,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T02:03:40Z",
-    "run_id": "42941825927",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Rise Of A Legend Crosses Rs 800 Crore Worldwide On Day 6",
-      "Florence Pugh Pays Heartfelt Tribute to Late Director Sebastián Lelio",
-      "Bollywood Actor Ranveer Singh's Maternal Grandfather Passes Away at 96",
-      "Drishyam 3: The Conclusion Box Office Collection Day 40: Ajay Devgn Starrer Maintains Blockbuster Status"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3683,19 +3660,27 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T22:15:46Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": "no-new-data"
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3968,19 +3953,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4299,31 +4284,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T01:53:37Z",
-    "run_id": "42941825927",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 291 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 3/6, celebrities_events 3/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Rise Of A Legend Crosses Rs 800 Crore Worldwide On Day 6",
-      "Drishyam 3: The Conclusion Box Office Collection Day 40: Ajay Devgn Starrer Maintains Blockbuster Status",
-      "Bollywood Actor Ranveer Singh's Maternal Grandfather Passes Away at 96",
-      "Florence Pugh Pays Heartfelt Tribute to Late Director Sebastián Lelio"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4825,19 +4798,26 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T22:13:42Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": {
+     "candidates": 0,
+     "detail": "daily cap 96/96 reached; batch skipped"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "cap"
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5137,24 +5117,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T22:15:01Z",
+    "run_id": "43109789654",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 373,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5499,19 +5481,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
     "status": "success",
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5831,19 +5813,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6088,19 +6075,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6335,19 +6322,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6631,19 +6618,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6884,19 +6871,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7126,19 +7113,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7391,32 +7378,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-10T00:53:26Z",
-    "run_id": "42731364264",
-    "status": "success",
-    "checked": {
-     "candidates": 527,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 40; attempt cooldown deferred: 487"
-    },
-    "changed": {
-     "added": [
-      "Scene (1402181)",
-      "Ranabaali (1389379)",
-      "Ramayana: Rise of a Legend (656908)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7901,19 +7875,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-11T22:14:02Z",
+    "run_id": "43109789654",
+    "status": "success",
+    "checked": {
+     "candidates": 532,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 15; attempt cooldown deferred: 517"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8153,19 +8138,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8410,8 +8395,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T22:15:56Z",
+    "run_id": "43109789654",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T21:58:01Z"
+ "updated_at": "2026-11-11T22:15:56Z"
 }
