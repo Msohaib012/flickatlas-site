@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T00:51:42Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": {
-     "candidates": 367,
-     "detail": "RSS/Atom items across 137 sources; 12 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Dil Padosi Review: Nyrraa M Banerji, Jai Talwar Lead A Drama That Looks Beyond Unhappy Marriages",
-      "Who Is Behind Not Your Type? Ayu And Aryan On Face Reveal, Netflix India's Got Latent Parody- EXCLUSIVE",
-      "Last Man In Tower: Divya Dutta Reveals Why She Kept Chipped Nail Polish To Get Into Sangeeta's Skin- EXCLUSIVE",
-      "Doomsday: Tony Stark Has Already Been Saying Doom’s Lines In Avengers Movies & We Absolutely Missed It",
-      "'Scene' BO: Joins Tamil films crossing Rs 100 cr worldwide in 3 days",
-      "Tommy left Hollywood for Texas ranch with wife, 25 horses and polo fields",
-      "The Rock & Roll Hall of Fame ceremony is this weekend. Who's getting in and who's showing up?",
-      "Ranveer Singh's grandfather dies at 96, cousin remembers his 'glorious life'",
-      "Joe Miñoso Just Left Chicago Fire, But He Already Has An Idea Of How He Wants Cruz To Return",
-      "Cole Hauser Is Taking A Note From Yellowstone’s Taylor Sheridan And Diving Into His Own Project",
-      "Rupert Grint Reveals His ‘Hope’ For The New Ron Weasley (And I’m Getting Emotional)",
-      "Blade Runner 2099 Boss Clarifies Whether The Show Has Direct Ties To The OG Film And 2049",
-      "ACOTAR’s Most Divisive Book Is Officially One of 2026’s Most Popular Fantasy Stories",
-      "'The Rings of Power' Season 2 Recap: What To Remember Before Prime Video's Epic Fantasy Series Returns",
-      "Netflix Officially Loses the Streaming War to Prime Video",
-      "Apple TV’s Ambitious Heist Thriller Officially Premieres This Week",
-      "A24’s Viral Sensation Officially Removed From 770 Theaters Ahead of Major Box-Office Milestone",
-      "The 10 Best Crime Movies With Perfect Acting, Ranked",
-      "‘Succession’ Star’s Disastrous Sequel Heads Home After Being Removed From 2K Theaters",
-      "10 Greatest Disney Movies That Are 10/10 Masterpieces"
-     ],
-     "updated": [],
-     "count": 344,
-     "detail": "346 stories, 0 duplicates removed, 21 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T01:52:05Z",
     "run_id": "42941825927",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "389 stories, 0 duplicates removed, 75 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T00:52:36Z",
-    "run_id": "42934491393",
+    "run_at": "2026-11-11T21:51:04Z",
+    "run_id": "43106585523",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 378,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Suriya and Naslen Starrer 'Scene' Nears Rs 200 Crore Worldwide After Strong Opening Week",
-      "Anthropic Sets Initial Public Offering Price Range Aiming For Valuations Up To $1.4 Trillion",
-      "Ranveer Singh Mourns the Passing of His Maternal Grandfather Dr Ram Hingorani at 96",
-      "Dil Padosi Review: Exploring Emotional Voids and Suburban Desire on ShemarooMe"
+      "Afratafri OTT Release: From Insurance Money To Family Feuds, Why Mohan Agashe's Comedy-Drama Looks Promising?",
+      "Ramayana | Sunil Lahri Criticises Ranbir’s Film For Glorifying Raavan: Bhakti Pradhan Kam, Shakti Pradhan Hai",
+      "James Gunn Was Once Fired From Marvel’s Guardians of the Galaxy Franchise In A Controversial Disney Decision",
+      "Lanterns Season 2’s Burning Questions That DC May Never Get to Answer",
+      "Taylor and Travis' privacy wall plans at Ohio mansion get neighbour support",
+      "Irma P. Hall, 'Soul Food' and 'The Ladykillers' actor who found fame at 60, dies at 91",
+      "A Woman Ran Into The Chicago Fire Cast After Getting Dumped, And They Made A Video Roasting Her Ex",
+      "The New LOTR Is Heavily Under Wraps, But Jamie Dornan Just Made Two Big Admissions",
+      "Mckenna Grace Fully Proved That The Sheer And Little Black Dress Trends Go Together Perfectly",
+      "Zoe Saldaña And Gwyneth Paltrow Just Bonded Over How Tough Marvel Sets Are: 'Literally The CIA'",
+      "Some Of These Harsh Reviews Of How To Rob A Bank Are Giving Me 2025's War Of The Worlds Vibes",
+      "Star Trek Showrunner Reflects on Giving Patrick Stewart His Final Picard Farewell",
+      "The 10 Greatest Psychological Thrillers of the Early 2000s, Ranked",
+      "‘Constantine 2’ Director Officially Confirms “Renewed Hope” For Sequel After James Gunn’s DC Exit [Exclusive]",
+      "The 10 Best Cowbell Rock Songs of All Time, Ranked",
+      "From ‘Stranger Things’ to ‘Rings of Power,’ We’re All Living in Jamie Campbell Bower’s Fantasy World",
+      "Taylor Sheridan Star Officially Trades ‘Dutton Ranch’ For New Crime Thriller",
+      "Fate of 10/10 ‘Friends’ Replacement Officially Confirmed With Massive Update",
+      "Rings of Power S3 Showrunners Admit They Had Too Many Plots | Collider BTS",
+      "The Greatest Sci-Fi Thriller of the ’80s Is Officially Back"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 367,
+     "detail": "378 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1487,27 +1464,31 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T21:51:22Z",
+    "run_id": "43106585523",
+    "status": "success",
+    "checked": {
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Afratafri OTT Release: Why Mohan Agashe's Marathi Comedy-Drama Is Worth Watching",
+      "How GKIDS President Dave Jesteadt Fueled the Historic Box Office Run of Godzilla Minus Zero",
+      "Irma P. Hall, Acclaimed 'Soul Food' and 'The Ladykillers' Actor, Passes Away at 91"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T02:56:31Z",
-    "run_id": "42948735287",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1921,33 +1902,27 @@
      "detail": "now 288, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T21:51:22Z",
+    "run_id": "43106585523",
+    "status": "success",
+    "checked": {
+     "candidates": 301,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 288, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T00:57:15Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1jf6jar",
-      "1isxxto",
-      "vrk2ou",
-      "dbizo8",
-      "3plspc",
-      "1490r1h"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2450,27 +2425,26 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T00:57:01Z",
-    "run_id": "42934491393",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T21:57:53Z",
+    "run_id": "43106585523",
     "status": "success",
     "checked": {
-     "candidates": 646,
-     "detail": "631 collected staging rows from readers; 221 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 8,
-     "detail": "+1 new rows, 7 updated rows, 627 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2884,19 +2858,27 @@
      "detail": "+0 new rows, 3 updated rows, 635 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T21:57:51Z",
+    "run_id": "43106585523",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "+0 new rows, 7 updated rows, 631 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3133,32 +3115,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T00:57:14Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Anthropic Sets Initial Public Offering Price Range Aiming For Valuations Up To $1.4 Trillion",
-      "Ranveer Singh Mourns the Passing of His Maternal Grandfather Dr Ram Hingorani at 96",
-      "Dil Padosi Review: Exploring Emotional Voids and Suburban Desire on ShemarooMe",
-      "Suriya and Naslen Starrer 'Scene' Nears Rs 200 Crore Worldwide After Strong Opening Week"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3692,19 +3661,31 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T21:57:53Z",
+    "run_id": "43106585523",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Afratafri OTT Release: Why Mohan Agashe's Marathi Comedy-Drama Is Worth Watching",
+      "How GKIDS President Dave Jesteadt Fueled the Historic Box Office Run of Godzilla Minus Zero",
+      "Irma P. Hall, Acclaimed 'Soul Food' and 'The Ladykillers' Actor, Passes Away at 91"
+     ],
+     "updated": [],
+     "count": 3,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3977,19 +3958,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4308,31 +4289,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T00:52:36Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 344 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 1/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Suriya and Naslen Starrer 'Scene' Nears Rs 200 Crore Worldwide After Strong Opening Week",
-      "Anthropic Sets Initial Public Offering Price Range Aiming For Valuations Up To $1.4 Trillion",
-      "Ranveer Singh Mourns the Passing of His Maternal Grandfather Dr Ram Hingorani at 96",
-      "Dil Padosi Review: Exploring Emotional Voids and Suburban Desire on ShemarooMe"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4835,26 +4804,30 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T21:51:21Z",
+    "run_id": "43106585523",
+    "status": "success",
+    "checked": {
+     "candidates": 3,
+     "detail": "news queue items drafted this run; 367 still unprocessed; today by category: movies 9/6, tv_dramas 14/4, episodes 2/2, box_office 17/6, celebrities_events 19/5, upcoming_releases 8/4, ott_streaming 12/4, trailers 6/3, awards 3/2, music_ost 3/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Afratafri OTT Release: Why Mohan Agashe's Marathi Comedy-Drama Is Worth Watching",
+      "How GKIDS President Dave Jesteadt Fueled the Historic Box Office Run of Godzilla Minus Zero",
+      "Irma P. Hall, Acclaimed 'Soul Food' and 'The Ladykillers' Actor, Passes Away at 91"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T00:54:00Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5154,24 +5127,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 436,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5516,19 +5484,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 295,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5843,24 +5816,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 78,
+     "count": 15,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6105,19 +6078,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6352,19 +6325,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6648,19 +6621,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6901,19 +6874,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7143,19 +7116,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7404,6 +7377,16 @@
     "category": "Trending News",
     "run_at": "2026-11-11T21:07:16Z",
     "run_id": "43098385633",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7924,16 +7907,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-11T02:03:51Z",
     "run_id": "42941825927",
     "status": "skipped",
@@ -8170,24 +8143,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6904,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8432,8 +8400,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T21:58:01Z",
+    "run_id": "43106585523",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T21:07:16Z"
+ "updated_at": "2026-11-11T21:58:01Z"
 }

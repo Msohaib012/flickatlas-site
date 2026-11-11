@@ -119990,5 +119990,300 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 20:00:00 +0000"
+  },
+  "uxmjt5": {
+    "id": "uxmjt5",
+    "type": "news",
+    "headline": "Afratafri OTT Release: Why Mohan Agashe's Marathi Comedy-Drama Is Worth Watching",
+    "dek": "Explore the reasons behind the comedy-drama Afratafri arriving on ZEE5, featuring family chaos, insurance money, and a stellar Marathi ensemble.",
+    "body": [
+      {
+        "h": "Introduction to the Marathi Comedy-Drama",
+        "p": [
+          "Family relationships often balance affection, friction, obligations, and sudden disorder. However, financial stakes can test even the most enduring connections.",
+          "The Marathi comedy-drama Afratafri explores this relatable domestic setup, translating it into a humorous chain of errors, flawed choices, and surprising turns."
+        ]
+      },
+      {
+        "h": "The Catalyst: Insurance Money and Chaos",
+        "p": [
+          "The narrative kicks off following a father's passing, introducing the prospect of a major insurance payout. Because each brother faces unique monetary troubles, the funds spark competing agendas.",
+          "A straightforward family procedure quickly transforms into a sequence of questionable schemes and unforeseen obstacles, driving the core chaos of the project."
+        ]
+      },
+      {
+        "h": "Contrasting Agendas of Three Brothers",
+        "p": [
+          "Domestic disagreements are common, but they intensify when three siblings maintain entirely different priorities. Every brother approaches monetary matters and obligations uniquely.",
+          "Their contrasting traits and personal motivations generate friction, turning their routine interactions into a steady source of entertainment and dramatic tension."
+        ]
+      },
+      {
+        "h": "Escalating Complications and Misunderstandings",
+        "p": [
+          "Just as the characters appear to gain control, fresh complications threaten to worsen their predicament. Their continuous troubleshooting results in mix-ups and funny predicaments.",
+          "The project derives its humor from this expanding confusion, ensuring that nearly every choice pushes the household deeper into trouble."
+        ]
+      },
+      {
+        "h": "Putting Family Bonds to the Test",
+        "p": [
+          "Beneath the laughter and confusion lies a classic dilemma concerning personal interests and familial ties. As individual ambitions grow, sibling dynamics shift noticeably.",
+          "The feature highlights how monetary pressures, self-interest, and greed can challenge close relationships, providing an emotional layer beneath the comedy."
+        ]
+      },
+      {
+        "h": "A Strong Ensemble of Marathi Talent",
+        "p": [
+          "The cast features experienced performers like Mohan Agashe, Sanjay Narvekar, and Shashank Shende. They are joined by Omkar Bhojane, Asawari Joshi, and Prajakta Hanamghar.",
+          "These distinct performers bring personality, energy, and strong comic timing to the family-focused narrative under the guidance of director Milind Zumber Kavde."
+        ]
+      },
+      {
+        "h": "Streaming Details and Premiere Date",
+        "p": [
+          "Audiences eager to witness the chaos can stream the production online via the ZEE5 platform. The feature arrives on Marathi ZEE5 for digital viewers.",
+          "The scheduled premiere date for the title is set for November 13, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Marathi comedy-drama Afratafri is set to premiere on Marathi ZEE5 on November 13, 2026. Directed by Milind Zumber Kavde, the project stars Mohan Agashe, Sanjay Narvekar, and Shashank Shende, following three brothers whose lives descend into chaos after an insurance payout.",
+          "The release highlights themes of family friction, financial pressure, and humorous misunderstandings through a talented ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Afratafri premieres on November 13, 2026.",
+      "The film streams on Marathi ZEE5.",
+      "Milind Zumber Kavde is the director.",
+      "Cast members include Mohan Agashe, Sanjay Narvekar, Shashank Shende, Omkar Bhojane, Asawari Joshi, and Prajakta Hanamghar."
+    ],
+    "entities": {
+      "people": [
+        "Mohan Agashe",
+        "Sanjay Narvekar",
+        "Shashank Shende",
+        "Omkar Bhojane",
+        "Asawari Joshi",
+        "Prajakta Hanamghar",
+        "Milind Zumber Kavde",
+        "Divya Dutta",
+        "Sangeeta"
+      ],
+      "titles": [
+        "Afratafri",
+        "Last Man In Tower"
+      ]
+    },
+    "keywords": [
+      "Afratafri OTT release",
+      "Mohan Agashe Afratafri",
+      "Afratafri ZEE5 release date",
+      "Milind Zumber Kavde Afratafri"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/afratafri-74871794430286.jpg",
+        "caption": "Afratafri OTT Release: Why Mohan Agashe's Marathi Comedy-Drama Is Worth Watching",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:24:28 +0530"
+  },
+  "177b38c": {
+    "id": "177b38c",
+    "type": "news",
+    "headline": "How GKIDS President Dave Jesteadt Fueled the Historic Box Office Run of Godzilla Minus Zero",
+    "dek": "In an exclusive interview, GKIDS head Dave Jesteadt breaks down how premium large formats, younger viewers, and a smart strategy propelled the latest Japanese franchise entry to record-breaking heights in North America.",
+    "body": [
+      {
+        "h": "A Landmark Opening Weekend",
+        "p": [
+          "The theatrical release of Godzilla Minus Zero has shattered expectations across North America by pulling in an impressive $31.6 million during its opening weekend. This massive figure allows the film to nearly triple the domestic debut of its 2023 predecessor, Godzilla Minus One.",
+          "By achieving this milestone, the movie officially set a brand new record for the largest North American box office debut ever recorded for a live-action foreign language film. The remarkable turnout has proven that subtitled cinema can compete directly with major Hollywood tentpoles."
+        ]
+      },
+      {
+        "h": "The Expanding Reach of GKIDS",
+        "p": [
+          "Specialty distributor GKIDS has enjoyed a crowning achievement with this latest release. Founded back in 2008, the company initially established itself by bringing foreign language animated features to North American audiences, most notably acquiring the distribution rights for the acclaimed Studio Ghibli library.",
+          "Dave Jesteadt, who has served as a day-one employee and took over as president in 2017, has continuously worked to expand stateside appreciation for subtitled films. Following an acquisition by Japanese entertainment titan Toho in October 2024, the distributor's capability to market massive properties on a wide scale has grown exponentially."
+        ]
+      },
+      {
+        "h": "Building Momentum From Previous Success",
+        "p": [
+          "The groundwork for this explosive opening was laid years prior, notably when GKIDS and Toho had competing releases in theaters around the same time in late 2023. These shared experiences allowed both teams to understand how to drive community conversation around theatrical celebrations.",
+          "To test the waters for modern Japanese monster films, GKIDS re-released Shin Godzilla in 2025. This strategic testing phase ensured that the rollout plan for the new installment could effectively capture and expand upon the established fanbase that followed the previous cinematic chapter."
+        ]
+      },
+      {
+        "h": "Balancing Core Fans and Mainstream Appeal",
+        "p": [
+          "Reaching audiences beyond traditional niche demographics required a balanced marketing approach. While leveraging Godzilla.com and merchandise channels managed by Toho International helped connect directly with dedicated fans, the team also aimed to attract casual moviegoers who rarely watch subtitled films.",
+          "Rather than relying solely on monster spectacle, the campaign highlighted the prestigious critical reviews and festival pedigree associated with director Takashi Yamazaki. Positioning the project as a deeply human story rather than a standard creature feature made it an appealing choice for a broader demographic."
+        ]
+      },
+      {
+        "h": "The Impact of Premium Large Formats",
+        "p": [
+          "A defining characteristic of the release was its heavy presence across premium large-format screens, including 4DX, Dbox, and IMAX auditoriums. Godzilla Minus Zero holds the distinction of being the first Japanese production specifically filmed for IMAX, driving a massive portion of the opening weekend grosses.",
+          "More than 70 percent of the film's total box office earnings came from premium screens. This extraordinary statistic highlights a strong consumer desire to experience the production with maximum visual and audio fidelity, treating a foreign-language release with the kind of high-end theatrical prestige typically reserved for Hollywood blockbusters."
+        ]
+      },
+      {
+        "h": "Shifting Cultural Appetites for Subtitles",
+        "p": [
+          "The remarkable financial performance points to a broader shift in Western entertainment consumption. According to industry leadership, younger generations today are significantly more open to foreign language and subtitled cinema than audiences were ten or twenty years ago.",
+          "While these stories remain deeply rooted in Japanese cinematic traditions and cultural identity, their universal themes have unlocked a new age of opportunity. This changing landscape proves that the definition of a box office hit is widening beyond traditional domestic boundaries."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "GKIDS president Dave Jesteadt discussed the record-breaking North American opening of Godzilla Minus Zero, which earned $31.6 million and surpassed its predecessor.",
+          "The distributor credited premium large formats, IMAX screenings, and changing audience habits among younger viewers for fueling the historic success of the subtitled feature."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero earned $31.6 million in North America during its opening weekend.",
+      "GKIDS was founded in 2008.",
+      "Dave Jesteadt has been president of GKIDS since 2017.",
+      "GKIDS joined the Toho Group in October 2024.",
+      "Godzilla Minus Zero opened in more than 3,200 theaters.",
+      "Shin Godzilla was re-released in 2025."
+    ],
+    "entities": {
+      "people": [
+        "Dave Jesteadt",
+        "Takashi Yamazaki",
+        "Hayao Miyazaki"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Godzilla Minus One",
+        "Shin Godzilla",
+        "The Boy and the Heron"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Dave Jesteadt",
+      "GKIDS",
+      "Godzilla Minus One"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/11/GodzillaMinusZero.jpg?w=650",
+        "caption": "How GKIDS President Dave Jesteadt Fueled the Historic Box Office Run of Godzilla Minus Zero",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 19:30:00 +0000"
+  },
+  "1t2ontf": {
+    "id": "1t2ontf",
+    "type": "news",
+    "headline": "Irma P. Hall, Acclaimed 'Soul Food' and 'The Ladykillers' Actor, Passes Away at 91",
+    "dek": "The veteran actor, who transitioned from a decades-long career as a teacher to achieve widespread fame in her sixties, has died in Dallas.",
+    "body": [
+      {
+        "h": "Passing of a Veteran Performer",
+        "p": [
+          "Irma P. Hall, a celebrated actor renowned for portraying strong matriarchal figures in major cinematic features, has died at the age of 91. Her family announced that she passed away on a Tuesday in Dallas, though no specific cause of death was disclosed.",
+          "Throughout a career spanning decades on stage and screen, Hall earned critical acclaim for her warmth, authority, and distinct screen presence. Her family and fans remember her as a dedicated artist who left an indelible mark on American cinema and television."
+        ]
+      },
+      {
+        "h": "Breakthrough and Signature Roles",
+        "p": [
+          "Hall gained widespread recognition for her unforgettable performance as Big Mama, the unifying force in the 1997 film \"Soul Food.\" This role brought her an NAACP Image Award and led her to reprise the character in the subsequent television series adaptation.",
+          "Another career milestone came in 2004 when she starred as Marva Munson, a devout landlady sharing the screen with Tom Hanks in the Coen brothers' comedy \"The Ladykillers.\" Her stellar performance in the film earned her a prestigious Cannes Film Festival Jury Prize."
+        ]
+      },
+      {
+        "h": "Early Life and Teaching Career",
+        "p": [
+          "Born Irma Dolores Player on June 3, 1935, in Beaumont, Texas, she spent her formative years raised in Chicago before eventually returning to Texas for her higher education. Before dedicating herself entirely to acting, she spent more than twenty years working as a public school teacher in Dallas, instructing students in English and foreign languages.",
+          "Her entry into the film industry happened unexpectedly when actor and director Raymond St. Jacques heard her reciting poetry in Dallas and cast her in his 1973 film \"Book of Numbers.\" She successfully balanced teaching with initial acting jobs before transitioning to full-time performance work in the 1980s."
+        ]
+      },
+      {
+        "h": "Expansive Filmography",
+        "p": [
+          "As her career flourished in her later years, Hall secured prominent roles across a wide range of acclaimed cinematic projects. Her impressive resume included appearances in \"A Family Thing,\" \"Midnight in the Garden of Good and Evil,\" \"Beloved,\" \"Patch Adams,\" \"Collateral,\" and Tyler Perry's \"Meet the Browns.\"",
+          "Demonstrating her versatility across different mediums, she also provided voice work, such as voicing Great Aunt T. in a 2001 \"Rugrats\" Kwanzaa special, alongside numerous theatrical productions and television appearances."
+        ]
+      },
+      {
+        "h": "Overcoming Adversity",
+        "p": [
+          "In 2004, Hall demonstrated incredible resilience while recovering from severe injuries sustained in a major car crash. Her recovery process involved undergoing open-heart surgery, healing a broken arm, and recovering from a crushed ankle while residing in a Chicago convalescent center.",
+          "Despite her fragile physical state at the time, she traveled to attend a private screening of \"The Ladykillers,\" noting her appreciation for the finished film. During her recuperation, she received signed keepsakes from Tom Hanks and the Coen brothers, which she cherished deeply."
+        ]
+      },
+      {
+        "h": "Legacy of Faith and Community",
+        "p": [
+          "Beyond her professional acting achievements, Hall maintained a deeply rooted connection to her local community in Dallas. She served as a longtime member and Church Mother at the Inspiring Body of Christ Church, where she actively participated in the theater ministry and read stories to children at the church school.",
+          "Her daughter, Irma Hall Crayton, encapsulated her life's journey in the family's public announcement, noting that she began as a classroom teacher and ultimately evolved into a teacher to the entire world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Irma P. Hall has passed away at the age of 91 in Dallas. Best known for her memorable roles in \"Soul Food\" and \"The Ladykillers,\" she achieved mainstream fame later in life after dedicating over two decades to teaching."
+        ]
+      }
+    ],
+    "facts": [
+      "Irma P. Hall died at age 91 on Tuesday in Dallas.",
+      "She was born Irma Dolores Player on June 3, 1935, in Beaumont, Texas.",
+      "She taught English and foreign languages in Dallas public schools for more than two decades.",
+      "She won an NAACP Image Award for her role in the 1997 film Soul Food.",
+      "She received a Cannes Film Festival Jury Prize for her performance in The Ladykillers.",
+      "Her daughter's name is Irma Hall Crayton."
+    ],
+    "entities": {
+      "people": [
+        "Irma P. Hall",
+        "Tom Hanks",
+        "Raymond St. Jacques",
+        "James Earl Jones",
+        "Robert Duvall",
+        "Clint Eastwood",
+        "Tyler Perry",
+        "Irma Hall Crayton"
+      ],
+      "titles": [
+        "Soul Food",
+        "The Ladykillers",
+        "A Family Thing",
+        "Midnight in the Garden of Good and Evil",
+        "Beloved",
+        "Patch Adams",
+        "Collateral",
+        "Meet the Browns",
+        "Book of Numbers",
+        "Rugrats"
+      ]
+    },
+    "keywords": [
+      "Irma P. Hall",
+      "Soul Food film",
+      "The Ladykillers actor",
+      "Irma P. Hall death"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/hollywood_1753008115803_1753008127492.jpeg",
+        "caption": "Irma P. Hall, Acclaimed 'Soul Food' and 'The Ladykillers' Actor, Passes Away at 91",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:01:17 +0530"
   }
 };
