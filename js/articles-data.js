@@ -110918,5 +110918,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 05:47:46 +0530"
+  },
+  "7khk5d": {
+    "id": "7khk5d",
+    "type": "news",
+    "headline": "Ramayana: Rise Of A Legend Crosses Rs 800 Crore Worldwide On Day 6",
+    "dek": "Nitesh Tiwari's epic retelling has smashed box office records globally, earning a staggering Rs 823.50 crore in just six days of theatrical release.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "Ramayana: Rise Of A Legend has continued its phenomenal theatrical run, crossing the Rs 800 crore global gross milestone in under a week. Industry reports indicate that the worldwide total has climbed to a massive Rs 823.50 crore within just six days.",
+          "The ambitious cinematic retelling of the epic has demonstrated exceptional staying power across domestic and international territories, setting new commercial benchmarks for Indian cinema."
+        ]
+      },
+      {
+        "h": "Strong Domestic Hold on Day 6",
+        "p": [
+          "On its sixth day, coinciding with the Bhai Dooj holiday, the film maintained a heavy influx of audiences at ticket counters across India. According to data from Sacnilk, the feature added Rs 94.10 crore nett domestically.",
+          "This latest single-day collection pushes the cumulative India nett total to Rs 440.45 crore, while the domestic gross stands at an impressive Rs 526.50 crore alongside strong overseas contributions."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Day 6 nett collections were distributed across multiple Indian languages, highlighting widespread pan-India appeal. The Hindi version led the earnings by bringing in Rs 76 crore.",
+          "Regional versions also contributed steadily to the overall total, with Kannada earning Rs 7.75 crore, Telugu adding Rs 4 crore, Tamil contributing Rs 3.60 crore, and Malayalam bringing in Rs 2.75 crore from over 24,000 shows nationwide."
+        ]
+      },
+      {
+        "h": "Holiday Boost and Ticket Sales",
+        "p": [
+          "Festive holidays, discounted weekday tickets, and widespread positive word of mouth have kept cinema halls packed. Although Tuesday's collections dipped by about 12.5 per cent compared to Monday's massive Rs 107.50 crore, the momentum remains remarkably high.",
+          "On the ticketing front, BookMyShow recorded extraordinary numbers, with the film selling roughly 95,000 tickets an hour at 1 pm on Tuesday, following a historic peak of 1.40 lakh tickets an hour on Monday noon."
+        ]
+      },
+      {
+        "h": "Record-Breaking Overseas Run",
+        "p": [
+          "Internationally, the feature has pulled in Rs 297 crore, bolstered by a historic performance in North America. On its first Monday, the film grossed $1.37 million in the region, surpassing the previous record held by Dhurandhar 2 by roughly 20.2 per cent.",
+          "This feat is particularly notable as it played alongside major competition like Godzilla Minus Zero and outperformed the first-Monday numbers of previous holiday releases like Dangal and Dunki."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Rise Of A Legend features an ensemble cast led by Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, Yash as Ravana, and Ravie Dubey as Lakshman. It is the first instalment in a planned two-part series.",
+          "The project is produced by Namit Malhotra's Prime Focus Studios in partnership with DNEG and Yash's Monster Mind Creations, with the second part scheduled to release during Diwali 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise Of A Legend has raced past a global gross of Rs 823.50 crore by its sixth day in theaters, driven by strong domestic holiday crowds and record-breaking overseas numbers. Nitesh Tiwari's epic continues to set new box office standards for Indian cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Global gross reached Rs 823.50 crore in 6 days.",
+      "Day 6 India nett collection was Rs 94.10 crore on November 11, 2026.",
+      "Cumulative India nett total reached Rs 440.45 crore by Day 6.",
+      "Overseas markets contributed Rs 297 crore to the total gross.",
+      "Hindi version earned Rs 76 crore on Day 6.",
+      "Kannada version earned Rs 7.75 crore on Day 6.",
+      "Telugu version earned Rs 4 crore on Day 6.",
+      "Tamil version earned Rs 3.60 crore on Day 6.",
+      "Malayalam version earned Rs 2.75 crore on Day 6.",
+      "North America first-Monday collection reached $1.37 million.",
+      "The film released worldwide on November 5, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Rise Of A Legend",
+        "Dhurandhar 2",
+        "Dhurandhar: The Revenge",
+        "Godzilla Minus Zero",
+        "Dangal",
+        "Dunki"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise Of A Legend box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 6 collection",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ranbir-kapoor-090507129-16x9.png?VersionId=BgsmrvU4ELLPEa_XJQ1C.l2A.8lGiVPw",
+        "caption": "Ramayana: Rise Of A Legend Crosses Rs 800 Crore Worldwide On Day 6",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 06:50:19 +0530"
+  },
+  "4isabb": {
+    "id": "4isabb",
+    "type": "news",
+    "headline": "Drishyam 3: The Conclusion Box Office Collection Day 40: Ajay Devgn Starrer Maintains Blockbuster Status",
+    "dek": "Ajay Devgn's crime thriller Drishyam 3: The Conclusion continues its theatrical run, crossing Rs 588 crore in worldwide gross after forty days.",
+    "body": [
+      {
+        "h": "Theatrical Journey and Milestone",
+        "p": [
+          "The suspenseful crime drama Drishyam 3: The Conclusion has successfully retained its blockbuster verdict after spending forty days in cinema halls.",
+          "Directed by Abhishek Pathak, the feature continues to draw audiences despite a natural tapering off in daily attendance across domestic screens."
+        ]
+      },
+      {
+        "h": "Box Office Numbers and Earnings",
+        "p": [
+          "As of the tracking update on Tuesday, November 10, 2026, the film added Rs 20 lakh net domestically, maintaining parity with its previous day's tally.",
+          "This steady addition pushed the total India net collection past Rs 379.87 crore, while the domestic gross reached an impressive Rs 454.85 crore."
+        ]
+      },
+      {
+        "h": "Global Reach and Overseas Contribution",
+        "p": [
+          "International territories have played a substantial role in cementing the project's commercial success, pulling in a cumulative gross of Rs 133.20 crore.",
+          "When combined with domestic metrics, these international figures have propelled the overall worldwide gross collection to a remarkable Rs 588.05 crore."
+        ]
+      },
+      {
+        "h": "Domestic Revenue Breakdown",
+        "p": [
+          "The domestic market has accounted for the lion's share of the film's revenue, representing approximately 77.3 percent of the global tally.",
+          "In contrast, overseas markets contribute the remaining 22.7 percent, highlighting a healthy balance between local appeal and international viewership."
+        ]
+      },
+      {
+        "h": "Weekly Performance Trajectory",
+        "p": [
+          "The feature witnessed its heaviest traffic during its opening week, generating a dominant Rs 245.50 crore net domestically alongside a domestic gross of Rs 294.60 crore.",
+          "Subsequent weeks saw gradual declines, with the second week contributing Rs 87.50 crore net before collections moderated through the third, fourth, and fifth weeks."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The project brings back Ajay Devgn to reprise his celebrated role as the resourceful protagonist Vijay Salgaonkar under the direction of Abhishek Pathak.",
+          "The ensemble cast also features Tabu returning as Meera Deshmukh, alongside Shriya Saran, Ishita Dutta, Mrunal Jadhav, Rajat Kapoor, Prakash Raj, and Jaideep Ahlawat."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ajay Devgn's crime thriller Drishyam 3: The Conclusion maintains its blockbuster status at the box office after forty days in theaters. The film has achieved a worldwide gross of Rs 588.05 crore while crossing Rs 379 crore in net domestic earnings."
+        ]
+      }
+    ],
+    "facts": [
+      "Drishyam 3: The Conclusion reached day 40 in cinemas on November 10, 2026.",
+      "Worldwide gross collections reached Rs 588.05 crore.",
+      "India net collection stands at Rs 379.87 crore.",
+      "Domestic gross collection reached Rs 454.85 crore.",
+      "Overseas gross collection reached Rs 133.20 crore.",
+      "Opening week net collection was Rs 245.50 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ajay Devgn",
+        "Abhishek Pathak",
+        "Tabu",
+        "Shriya Saran",
+        "Ishita Dutta",
+        "Mrunal Jadhav",
+        "Rajat Kapoor",
+        "Prakash Raj",
+        "Jaideep Ahlawat",
+        "Vijay Salgaonkar",
+        "Meera Deshmukh"
+      ],
+      "titles": [
+        "Drishyam 3: The Conclusion",
+        "Drishyam 3"
+      ]
+    },
+    "keywords": [
+      "Drishyam 3 box office",
+      "Ajay Devgn Drishyam 3",
+      "Drishyam 3 collection day 40",
+      "Drishyam 3 worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135722185,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Drishyam 3: The Conclusion Box Office Collection Day 40: Ajay Devgn Starrer Maintains Blockbuster Status",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T06:31:06+05:30"
+  },
+  "hrks3o": {
+    "id": "hrks3o",
+    "type": "news",
+    "headline": "Bollywood Actor Ranveer Singh's Maternal Grandfather Passes Away at 96",
+    "dek": "Dr. Ram Hingorani, maternal grandfather of Bollywood actor Ranveer Singh, has passed away at the age of 96 during Diwali, prompting emotional social media tributes from family members.",
+    "body": [
+      {
+        "h": "Passing of Dr. Ram Hingorani",
+        "p": [
+          "Dr. Ram Hingorani, the maternal grandfather of prominent Bollywood star Ranveer Singh, has passed away at the age of 96. The somber news was made public by the actor's cousin, Saumya Hingorani Thackeray, through an emotional post on social media.",
+          "The family has celebrated his exceptionally long life rather than solely focusing on the sorrow of his departure. At ninety-six years of age, he lived a full and vibrant life that left a lasting impact on his relatives and those close to him."
+        ]
+      },
+      {
+        "h": "Timing and Final Moments",
+        "p": [
+          "According to the family announcements, Dr. Hingorani passed away during a particularly symbolic and auspicious time. His death occurred on Diwali during the sacred hours of Lakshmi Puja.",
+          "Saumya Hingorani Thackeray described his final moments as peaceful. She noted that he chose the golden hour of the festival to depart, imagining that he has now gone home to reunite with his late wife."
+        ]
+      },
+      {
+        "h": "Heartfelt Family Tributes",
+        "p": [
+          "Family members took to digital platforms to share fond memories, old photographs, and entertaining videos capturing moments from Dr. Hingorani's life. Saumya praised him as the greatest grandfather in the world, thanking him for the shared moments.",
+          "The heartfelt tributes also featured lighthearted remarks imagining the senior Hingorani enjoying a crisp whiskey with his late wife, alongside affectionate requests to save a scoop of ice cream for future reunions."
+        ]
+      },
+      {
+        "h": "Special Bond with Ranveer Singh",
+        "p": [
+          "Ranveer Singh shared a famously close and playful bond with his maternal grandfather, whom he affectionately referred to as 'Nana-G'. Over the years, the actor posted several memorable glimpses of their relationship for his followers.",
+          "In August 2020, Ranveer posted a striking photograph of his grandfather wearing a Gucci cap, oversized sunglasses, and a gold chain, showcasing the senior Hingorani's youthful and vibrant personality."
+        ]
+      },
+      {
+        "h": "Promotional Appearances and Viral Moments",
+        "p": [
+          "Dr. Hingorani famously captured public attention during the promotional campaign for Ranveer Singh's 2023 feature film 'Rocky Aur Rani Kii Prem Kahaani'. At ninety-three years old, he participated in promotional videos that quickly won over fans.",
+          "In one memorable video clip, the grandfather and grandson danced together to the classic song 'Jhumka Gira Re' while Dr. Hingorani wore a 'team Rocky' T-shirt. Another video featured him delivering a humorous line about tequila."
+        ]
+      },
+      {
+        "h": "Outpouring of Condolences",
+        "p": [
+          "Following the announcement of his demise, social media users and fans flooded the family's posts with messages of sympathy and support. Many commentators directly addressed Ranveer Singh, acknowledging the well-known closeness of his bond with his grandfather.",
+          "Supporters offered love and strength to the entire family during this emotional period of saying goodbye, noting how fortunate the grandfather was to witness Ranveer's journey in the entertainment industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranveer Singh's maternal grandfather, Dr. Ram Hingorani, passed away at the age of 96 during Diwali. Family members shared touching tributes highlighting his vibrant life and close bond with the Bollywood actor."
+        ]
+      }
+    ],
+    "facts": [
+      "Dr. Ram Hingorani passed away at the age of 96.",
+      "The news was shared by Ranveer Singh's cousin, Saumya Hingorani Thackeray.",
+      "He passed away on Diwali during Lakshmi Puja.",
+      "In August 2020, Ranveer Singh posted a photo of his grandfather wearing a Gucci cap and sunglasses.",
+      "Dr. Ram Hingorani appeared in promotional videos for Rocky Aur Rani Kii Prem Kahaani in 2023 at age 93."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Dr. Ram Hingorani",
+        "Saumya Hingorani Thackeray",
+        "Deepika Padukone"
+      ],
+      "titles": [
+        "Rocky Aur Rani Kii Prem Kahaani"
+      ]
+    },
+    "keywords": [
+      "Ranveer Singh grandfather",
+      "Dr Ram Hingorani",
+      "Saumya Hingorani Thackeray",
+      "Rocky Aur Rani Kii Prem Kahaani"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135722460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bollywood Actor Ranveer Singh's Maternal Grandfather Passes Away at 96",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T07:04:21+05:30"
+  },
+  "a92l0u": {
+    "id": "a92l0u",
+    "type": "news",
+    "headline": "Florence Pugh Pays Heartfelt Tribute to Late Director Sebastián Lelio",
+    "dek": "Actress Florence Pugh shared a deeply personal remembrance of Oscar-winning filmmaker Sebastián Lelio, who passed away at the age of 52.",
+    "body": [
+      {
+        "h": "The Passing of Sebastián Lelio",
+        "p": [
+          "Oscar-winning filmmaker Sebastián Lelio has passed away at the age of 52. The director died in Santiago, leaving the global film community in mourning.",
+          "Known widely for helming acclaimed features such as The Wonder and The Wave, Lelio built a distinguished career marked by creative vision and critical acclaim."
+        ]
+      },
+      {
+        "h": "Florence Pugh Remembers The Wonder Director",
+        "p": [
+          "Actress Florence Pugh, who collaborated with the late director on the film The Wonder, shared a deeply emotional tribute on social media following his passing.",
+          "Reflecting on her grief, the actress expressed that she had been processing the tragic news since the day it happened, struggling to accept the loss of a remarkable artistic collaborator."
+        ]
+      },
+      {
+        "h": "A Deep Commitment to Women's Stories",
+        "p": [
+          "Throughout his career, Sebastián Lelio earned widespread recognition and praise for his dedication to portraying complex female narratives.",
+          "Florence Pugh emphasized that the filmmaker stood firmly for women and cared deeply about their experiences, consistently using his cinematic art to make a meaningful social difference."
+        ]
+      },
+      {
+        "h": "Personal Memories and Shared Passions",
+        "p": [
+          "Beyond their professional collaboration on script discussions for The Wonder, Pugh and Lelio bonded over a shared appreciation for good food and wine.",
+          "The actress recalled lively foodie dinners in Dublin filled with stews, meat, cheese, and red wine, noting that these culinary adventures formed a cherished part of their working relationship."
+        ]
+      },
+      {
+        "h": "Remembering His Artistic Spirit",
+        "p": [
+          "Pugh described the late director as a sensitive individual with bright blue, beaming eyes that seemed to gaze straight into a person's soul.",
+          "She also noted that Lelio taught her the vital importance of dancing, remembering him as a gentle, patient, and brilliant artist whose absence leaves a painful void."
+        ]
+      },
+      {
+        "h": "Condolences and Support for Loved Ones",
+        "p": [
+          "In the final remarks of her tribute, the actress sent an outpouring of love and virtual hugs to the filmmaker's grieving family and friends.",
+          "Acknowledging the sudden tragedy, she reflected on how the painful loss serves as a stark reminder that human existence is temporary."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actress Florence Pugh paid an emotional tribute to Oscar-winning director Sebastián Lelio following his passing at age 52 in Santiago. She remembered him as a brilliant artist who championed women's stories and shared fond memories of their time working together on The Wonder."
+        ]
+      }
+    ],
+    "facts": [
+      "Sebastián Lelio passed away on November 6.",
+      "Sebastián Lelio was 52 years old.",
+      "Sebastián Lelio died in Santiago.",
+      "Florence Pugh worked with Sebastián Lelio on The Wonder."
+    ],
+    "entities": {
+      "people": [
+        "Sebastián Lelio",
+        "Florence Pugh",
+        "Nirali Kanabar"
+      ],
+      "titles": [
+        "The Wonder",
+        "The Wave"
+      ]
+    },
+    "keywords": [
+      "Sebastián Lelio death",
+      "Florence Pugh tribute",
+      "The Wonder director",
+      "Sebastián Lelio film"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156488249,thumbsize-159123,width-1280,height-720,resizemode-75/156488249.jpg",
+        "caption": "Florence Pugh Pays Heartfelt Tribute to Late Director Sebastián Lelio",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T01:53:38Z"
   }
 };
