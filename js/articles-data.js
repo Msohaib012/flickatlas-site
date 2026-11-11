@@ -116841,5 +116841,419 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-11T06:14:53-08:00"
+  },
+  "583jok": {
+    "id": "583jok",
+    "type": "news",
+    "headline": "Sharwanand Starrer Bhogi Postponed Indefinitely",
+    "dek": "The theatrical debut of the Telugu film Bhogi, directed by Sampath Nandi and starring Sharwanand, has been delayed just a day before its planned premiere.",
+    "body": [
+      {
+        "h": "Theatrical Launch Delayed",
+        "p": [
+          "Audiences anticipating the arrival of the Telugu feature Bhogi will need to exercise patience as the creators have opted to delay the theatrical launch. Initially slated to open on November 12, 2026, the project was pulled from its schedule at the eleventh hour.",
+          "The production team distributed an official notification on Wednesday, November 11, 2026, confirming that the scheduled premiere would no longer proceed due to unforeseen circumstances."
+        ]
+      },
+      {
+        "h": "Production House Clarification",
+        "p": [
+          "Sri Sathya Sai Arts, the banner backing the feature, addressed the public through an official statement regarding the postponement. The studio acknowledged that the team had invested immense dedication and ambition into bringing the project to fruition.",
+          "While specific causes for the delay were omitted from the announcement, the studio emphasized their commitment to delivering a polished theatrical experience that aligns with viewer expectations."
+        ]
+      },
+      {
+        "h": "Warning Against Rumors",
+        "p": [
+          "In the wake of the postponement notice, the studio urged fans and cinema enthusiasts to ignore unverified claims circulating online regarding new schedules.",
+          "The creative team assured stakeholders that accurate updates regarding the revised timeline would be shared directly through official channels once preparations are finalized."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "The narrative is written and directed by Sampath Nandi, featuring actor Sharwanand anchoring the lead role. Prominent supporting performances are delivered by Anupama Parameswaran and Dimple Hayathi, alongside cast members Sharathshwath and Avinash.",
+          "Behind the camera, the film relies on the technical expertise of cinematographer Kishore Kumar A and music director Bheems Ceciroleo, who crafted the soundtrack."
+        ]
+      },
+      {
+        "h": "Production and Technical Team",
+        "p": [
+          "Financial backing for the venture comes from producer KK Radhamohan under Sri Sathya Sai Arts, with Lakshmi Radhamohan credited as the presenter.",
+          "Additional creative contributions include Kiran Kumar Manne managing art direction duties, while Dilip Subbarayan oversees the action sequences and stunt choreography."
+        ]
+      },
+      {
+        "h": "Appeals for Continued Support",
+        "p": [
+          "Expressing sincere regret for the sudden alteration in plans, the studio apologized for any inconvenience caused to ticket holders and supporters.",
+          "The team requested ongoing backing from the audience, vowing that the extra time spent waiting for the premiere would ultimately prove worthwhile."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telugu film Bhogi, starring Sharwanand and directed by Sampath Nandi, experienced an official delay just one day prior to its intended November 12, 2026 release. Producers at Sri Sathya Sai Arts cited unexpected hurdles and promised to reveal a rescheduled date soon."
+        ]
+      }
+    ],
+    "facts": [
+      "Bhogi is a Telugu film starring Sharwanand.",
+      "The film was scheduled to release on November 12, 2026.",
+      "The postponement was announced on Wednesday, November 11, 2026.",
+      "Sampath Nandi is the writer and director of Bhogi.",
+      "KK Radhamohan produced the film under the Sri Sathya Sai Arts banner."
+    ],
+    "entities": {
+      "people": [
+        "Sharwanand",
+        "Sampath Nandi",
+        "Anupama Parameswaran",
+        "Dimple Hayathi",
+        "Sharathshwath",
+        "Avinash",
+        "KK Radhamohan",
+        "Lakshmi Radhamohan",
+        "Bheems Ceciroleo",
+        "Kishore Kumar A",
+        "Kiran Kumar Manne",
+        "Dilip Subbarayan",
+        "VamsiShekar"
+      ],
+      "titles": [
+        "Bhogi"
+      ]
+    },
+    "keywords": [
+      "Bhogi Movie Postponement News",
+      "Sharwanand Telugu Film Bhogi Update",
+      "Bhogi Release Postponed",
+      "Sampath Nandi Bhogi"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/bhogi-59481794406506.jpg",
+        "caption": "Sharwanand Starrer Bhogi Postponed Indefinitely",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 19:46:45 +0530"
+  },
+  "1t7m9gn": {
+    "id": "1t7m9gn",
+    "type": "news",
+    "headline": "The Lincoln Lawyer Season 5 Episode Titles and Final Season Details Revealed",
+    "dek": "Netflix unveils the complete episode list, writing credits, and narrative direction for the final season of The Lincoln Lawyer, adapting Michael Connelly's novel Resurrection Walk.",
+    "body": [
+      {
+        "h": "Final Season Confirmation and Production Timeline",
+        "p": [
+          "Netflix officially confirmed that the upcoming fifth run of The Lincoln Lawyer will serve as the final outing for Manuel Garcia-Rulfo's defense attorney character, Mickey Haller. The announcement initially arrived during the Netflix Upfront presentation in New York, where co-showrunners Ted Humphrey and Dailyn Rodriguez noted that all good things must conclude and pledged to deliver a fitting send-off. Filming for the ten-episode season commenced in early March and concluded with an emotional wrap in early July, after which the production transitioned into post-production.",
+          "As with previous runs, this final chapter adapts a specific novel by Michael Connelly, utilizing the 2023 book Resurrection Walk, which is the seventh entry in the Mickey Haller series. The narrative kicks off when Mickey's newly discovered half-sister, Emi, approaches him to help free a woman she believes was wrongfully convicted of murdering her ex-husband, a sheriff's deputy. Cobie Smulders portrays Emi, stepping into a role equivalent to the one Harry Bosch occupies in the source material."
+        ]
+      },
+      {
+        "h": "Complete Episode Titles for Season 5",
+        "p": [
+          "While Netflix has locked the exact production numbers and positions for episodes five and six, the titles for all ten installments have been unveiled. The middle chapters comprise 'Sucker Punch' for episode five, penned by Isabella A. Rodriguez, and 'Chemistry Problem' for episode six, written by Dailyn Rodriguez and Matthew J. Lieberman.",
+          "The remaining titles have been revealed in alphabetical groups awaiting official ordering, though previews suggest a logical sequence. The titles include 'Article 1, Section 9', 'Artemisia', 'Table 12', 'Roots', 'Footprints', 'Overtime', 'Do or Die', and the book-matching finale, 'Resurrection Walk'."
+        ]
+      },
+      {
+        "h": "Writing Team and Creative Leadership",
+        "p": [
+          "Co-showrunners Ted Humphrey and Dailyn Rodriguez take primary creative control by writing both the season premiere and the series finale. The pair shares teleplay and story credits on the first episode and returns to pen the tenth chapter, ensuring that the architects of the television adaptation oversee Haller's final chapter from beginning to end.",
+          "The intermediate episodes are distributed among a talented roster of writers. Matthew J. Lieberman handles the second episode, Katy Erin writes the third, and Matthew Cruz takes the fourth. Following Isabella A. Rodriguez's work on episode five and the Dailyn Rodriguez-Lieberman collaboration on episode six, Lisa Bao writes episode seven, Jake H. Bernstein handles episode eight, and Lieberman co-writes episode nine alongside Audrey Lipsmire."
+        ]
+      },
+      {
+        "h": "Narrative Clues from Early and Mid-Season Titles",
+        "p": [
+          "Analysis of the episode titles offers a glimpse into how the season will adapt Resurrection Walk. The title 'Artemisia' nods directly to Emi's full name, Artemisia Finch, following season four's revelation of her familial connection to Mickey. Meanwhile, 'Article 1, Section 9' points to the Suspension Clause and the right to habeas corpus, marking the legal tool Mickey uses to contest the wrongful conviction.",
+          "The title 'Roots' hints at explorations into Mickey's late father and introductions to new family members like Richard Finch, played by Corbin Bernsen, and Allison Finch, played by Patty Guggenheim. Mid-season title 'Sucker Punch' suggests an unexpected legal or physical blow to the defense team, while 'Chemistry Problem' likely addresses the integrity of forensic gunshot residue evidence central to the case."
+        ]
+      },
+      {
+        "h": "Clues Leading Up to the Finale",
+        "p": [
+          "Later episodes feature titles that reflect mounting tension and procedural investigation. 'Footprints' suggests physical evidence or digital phone records tracking movements on the day of the murder, aligning with the novel's investigative beats. 'Overtime' likely touches upon law enforcement corruption within the sheriff's department or frantic work schedules under looming deadlines.",
+          "The penultimate episode, 'Do or Die', sets up the make-or-break moments for the habeas hearing and potential danger for the protagonist. Finally, 'Resurrection Walk' serves as the likely series finale, referencing the term used when an innocent client finally walks out of prison a free person."
+        ]
+      },
+      {
+        "h": "Expected Release Window on Netflix",
+        "p": [
+          "Netflix has not yet announced an exact premiere date for the final season. Season 4 previously debuted on February 5, 2026, and performed strongly in the platform's viewership top ten lists.",
+          "Given that filming wrapped in July and factoring in standard post-production timelines, industry expectations point to a release sometime between February and April 2027, with recent reports indicating a likely March 2027 premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has revealed the complete episode titles and writing credits for the fifth and final season of The Lincoln Lawyer, which adapts Michael Connelly's novel Resurrection Walk. Co-showrunners Ted Humphrey and Dailyn Rodriguez are penning the premiere and finale, heading a writing team that has mapped out ten episodes exploring a new wrongful conviction case involving Mickey Haller's half-sister. Production wrapped in July, with the final season expected to premiere between February and April 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 5 is the final season of The Lincoln Lawyer.",
+      "Netflix confirmed the final season during its Upfront presentation in New York.",
+      "Filming ran from early March to early July.",
+      "The season adapts Michael Connelly's 2023 novel Resurrection Walk.",
+      "Cobie Smulders plays Emi, Mickey Haller's newly discovered half-sister.",
+      "Season 4 arrived on Netflix on February 5, 2026.",
+      "Corbin Bernsen plays Richard Finch and Patty Guggenheim plays Allison Finch."
+    ],
+    "entities": {
+      "people": [
+        "Manuel Garcia-Rulfo",
+        "Michael Connelly",
+        "Ted Humphrey",
+        "Dailyn Rodriguez",
+        "Cobie Smulders",
+        "Isabella A. Rodriguez",
+        "Matthew J. Lieberman",
+        "Katy Erin",
+        "Matthew Cruz",
+        "Lisa Bao",
+        "Jake H. Bernstein",
+        "Audrey Lipsmire",
+        "Corbin Bernsen",
+        "Patty Guggenheim",
+        "Jazz Raycole",
+        "Becki Newton",
+        "Krista Warner"
+      ],
+      "titles": [
+        "The Lincoln Lawyer",
+        "Resurrection Walk"
+      ]
+    },
+    "keywords": [
+      "The Lincoln Lawyer season 5",
+      "The Lincoln Lawyer Netflix final season",
+      "Resurrection Walk adaptation",
+      "Manuel Garcia-Rulfo The Lincoln Lawyer"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/the-lincoln-lawyer-season-5-episode-titles-tease-final-case.jpg",
+        "caption": "The Lincoln Lawyer Season 5 Episode Titles and Final Season Details Revealed",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 14:49:13 +0000"
+  },
+  "dgqkm6": {
+    "id": "dgqkm6",
+    "type": "news",
+    "headline": "Anirudh Ravichander and Kavya Maran Marry in an Intimate Greece Ceremony",
+    "dek": "Renowned music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kavya Maran tied the knot in a private destination wedding in Greece, attended by prominent family members and public figures.",
+    "body": [
+      {
+        "h": "The Destination Wedding in Greece",
+        "p": [
+          "Prominent music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kavya Maran celebrated their marriage through a private destination ceremony held in Greece. The nuptials took place on Wednesday, November 11, 2026, drawing significant attention after initial photographs emerged across social media platforms.",
+          "The newlyweds embraced coordinated traditional outfits, sporting matching ivory ensembles accented with detailed embroidery. Their ceremonial attire was further elevated by layered pearl jewellery, complementing the surrounding white floral aesthetic."
+        ]
+      },
+      {
+        "h": "Social Media Reveal and Vows",
+        "p": [
+          "Following the ceremony, Anirudh shared the first official photograph from the wedding on his Instagram account to announce the union to his followers. Alongside the snapshot, he captioned the post with a heartfelt message declaring his lifetime commitment and featuring the date 11.11 alongside a heart emoji.",
+          "Major production banner Sun Pictures also extended their warm wishes publicly, utilizing their official X account to congratulate the bride and groom with a dedicated celebratory message."
+        ]
+      },
+      {
+        "h": "High-Profile Attendees and Pre-Wedding Festivities",
+        "p": [
+          "The Greece festivities actually commenced with an intimate traditional engagement held on November 10. This gathering welcomed close family members and select esteemed guests to share in the early celebrations.",
+          "Among the prominent attendees spotted at the pre-wedding events were the groom's uncle and superstar Rajinikanth, along with Aishwarya Rajinikanth, former Tamil Nadu Chief Minister MK Stalin, and Udhayanidhi Stalin, adding a blend of cinematic and political royalty to the guest list."
+        ]
+      },
+      {
+        "h": "Background and Relationship Timeline",
+        "p": [
+          "Prior to their nuptials, the couple largely guarded their personal lives, keeping romantic speculations out of the regular media cycle. Initial whispers surrounding their relationship began circulating in 2024 following overseas sightings together, including an appearance in Las Vegas.",
+          "Although internet speculation persisted, the pair refrained from confirming their relationship status at the time. Anirudh notably dismissed early marriage rumors on X in June 2025 before they gradually became more open at select family gatherings leading up to the Greece wedding."
+        ]
+      },
+      {
+        "h": "Professional Backgrounds of the Couple",
+        "p": [
+          "Anirudh Ravichander has established himself as a powerhouse in the music industry, achieving widespread acclaim following his viral track Why This Kolaveri Di. He has since composed major chartbusters for blockbuster films such as Jailer, Vikram, Leo, Jawan, and Jailer 2.",
+          "Kavya Maran serves as the Executive Director of Sun TV Network and is widely recognized as the co-owner of the Sunrisers Hyderabad cricket franchise. She is also the daughter of Sun Group Chairman Kalanithi Maran."
+        ]
+      },
+      {
+        "h": "Upcoming Chennai Reception",
+        "p": [
+          "The Greece destination wedding marks only the first phase of the couple's matrimonial celebrations. Following the private overseas ceremony, the families are preparing to host a lavish reception in Chennai.",
+          "Scheduled for November 21, the grand reception is anticipated to gather leading personalities spanning the worlds of Indian cinema, business, politics, and cricket."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kavya Maran married in an intimate destination ceremony in Greece on November 11, 2026. The private event featured family and notable guests like Rajinikanth and MK Stalin, with a larger reception planned for Chennai on November 21."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander and Kavya Maran married on November 11, 2026",
+      "The wedding took place in Greece",
+      "An engagement ceremony was held on November 10, 2026",
+      "A grand wedding reception is scheduled in Chennai on November 21, 2026",
+      "Kavya Maran is the daughter of Kalanithi Maran",
+      "Guests at the celebrations included Rajinikanth, Aishwarya Rajinikanth, MK Stalin, and Udhayanidhi Stalin"
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Rajinikanth",
+        "Aishwarya Rajinikanth",
+        "MK Stalin",
+        "Udhayanidhi Stalin",
+        "Kalanithi Maran"
+      ],
+      "titles": [
+        "Why This Kolaveri Di",
+        "Jailer",
+        "Vikram",
+        "Leo",
+        "Jawan",
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander wedding",
+      "Kavya Maran Greece wedding",
+      "Anirudh and Kavya married",
+      "Anirudh Ravichander Kavya Maran"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/anirudh-ravichander-and-kavya-maran-get-married-in-dreamy-ceremony--first-pics-out-115844384-16x9_0.jpg?VersionId=cIFZBxNqJRs3FngrWlrce6R.ODgiiECv",
+        "caption": "Anirudh Ravichander and Kavya Maran Marry in an Intimate Greece Ceremony",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 19:56:53 +0530"
+  },
+  "14rsno3": {
+    "id": "14rsno3",
+    "type": "news",
+    "headline": "Marvel Comics Reveals Grant Rogers As The New Captain America In Major Comic Twist",
+    "dek": "Marvel has officially unveiled the identity of the brand-new Captain America in Captain America #17, bringing back a fascist alternate-history duplicate of Steve Rogers who has stolen the iconic shield.",
+    "body": [
+      {
+        "h": "Introduction of the New Captain America",
+        "p": [
+          "Marvel Comics has officially shaken up its comic book continuity by introducing a modern successor to the mantle of Captain America. In the pages of Captain America #17, readers learned that a surprising figure has stepped into the role, donning the classic costume and wielding the legendary shield.",
+          "This new development arrives as a massive shock to followers of the franchise, as the individual wearing the stars and stripes is not the hero everyone expected them to be. The unfolding storyline promises high stakes and intense conflict across the Marvel Universe."
+        ]
+      },
+      {
+        "h": "The Identity of Grant Rogers",
+        "p": [
+          "The shocking twist revealed in the latest issue unmasks the new wielder of the shield as Grant Rogers, an alt-history duplicate of Steve Rogers. Created by a Cosmic Cube, Grant previously seized control of Hydra and the world during the Secret Empire event, sporting a deeply fascist worldview.",
+          "After previously adopting the Flag-Smasher identity in West Coast Avengers, Grant has now seized Steve's shield while the original hero was in a coma. He is currently traveling across the country on an Odyssey while masquerading as the beloved patriot."
+        ]
+      },
+      {
+        "h": "An Unsettling Journey With Vic",
+        "p": [
+          "Compounding the danger of Grant's impersonation is his traveling companion, a young clone of Doctor Doom named Vic. Fleeing the tyrannical rule of his creator, Vic initially sought refuge with who he believed to be Steve Rogers, trusting him as a liberator.",
+          "Unfortunately, this leaves Vic dangerously vulnerable to Grant's manipulation and brainwashing. The rogue Captain America appears intent on training the youth, potentially shaping him to become America's own version of Doctor Doom."
+        ]
+      },
+      {
+        "h": "The Threat of the Knomads",
+        "p": [
+          "Grant Rogers is not operating entirely alone in his latest endeavor, having secured the backing of a nationalist group known as the Knomads. This organization adopted its name from the historical codename Steve Rogers used in the 1970s when he temporarily stopped representing America.",
+          "Cover art and issue details indicate that Grant gathered these soldiers long before stealing the shield. Additionally, the group has already kidnapped Tony Stark, signaling a deeply calculated and dangerous secret uprising."
+        ]
+      },
+      {
+        "h": "Background and Comic Creators",
+        "p": [
+          "Captain America #17 is brought to readers by the creative team of writer Chip Zdarsky and artists Ton Lima, Rod Fernandes, and Joe Caramagna. The series continues to explore complex political themes and alternate realities within Marvel's publishing line.",
+          "The narrative builds upon years of established lore surrounding Steve Rogers, Bucky Barnes, and Sam Wilson, while pulling from major crossover events like Secret Empire to fuel its current dramatic tension."
+        ]
+      },
+      {
+        "h": "Confronting an Alt-Reality Legacy",
+        "p": [
+          "Future issues of the comic series tease that one of Captain America's greatest villains has rewritten history once again. Steve Rogers, alongside Iron Man and Vic, faces the daunting task of dismantling Grant's regime.",
+          "The storyline forces the heroes to reckon with a terrifying world where the face of Steve Rogers and the symbol of Captain America have been subverted into tools of tyranny and ultimate evil."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Comics announced that Grant Rogers has stolen Steve Rogers' identity and shield to become the new Captain America in Captain America #17. Backed by the Knomad nationalist group and traveling with a clone of Doctor Doom, Grant's fascist agenda sets up a major confrontation with the original hero and Iron Man."
+        ]
+      }
+    ],
+    "facts": [
+      "Captain America #17 was published by Marvel Comics.",
+      "The creative team for Captain America #17 includes Chip Zdarsky, Ton Lima, Rod Fernandes, and Joe Caramagna.",
+      "Grant Rogers is an alt-history copy of Steve Rogers created by a Cosmic Cube.",
+      "The Knomads are a nationalist group that kidnapped Tony Stark.",
+      "Vic is a young clone of Doctor Doom."
+    ],
+    "entities": {
+      "people": [
+        "Steve Rogers",
+        "Bucky Barnes",
+        "Sam Wilson",
+        "William Burnside",
+        "Jeff Mace",
+        "Grant Rogers",
+        "Vic",
+        "Chip Zdarsky",
+        "Ton Lima",
+        "Rod Fernandes",
+        "Joe Caramagna",
+        "Tony Stark",
+        "Valerio Schiti",
+        "Chris Evans",
+        "Sebastian Stan",
+        "Anthony Mackie",
+        "Hayley Atwell",
+        "Tommy Lee Jones",
+        "Hugo Weaving",
+        "Frank Grillo",
+        "Emily VanCamp",
+        "Kevin Feige"
+      ],
+      "titles": [
+        "Captain America",
+        "Captain America #17",
+        "Secret Empire",
+        "West Coast Avengers",
+        "Captain America #18",
+        "Captain America: Super Soldier",
+        "Captain America: The First Avenger",
+        "The Falcon and the Winter Soldier",
+        "Captain America: Civil War",
+        "Guardians Of The Galaxy",
+        "Avengers"
+      ]
+    },
+    "keywords": [
+      "Grant Rogers Captain America",
+      "Captain America 17 Marvel",
+      "Chip Zdarsky Captain America",
+      "Vic Doctor Doom clone"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/captain-america-shield-against-dark-sky.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Comics Reveals Grant Rogers As The New Captain America In Major Comic Twist",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 14:30:18 GMT"
   }
 };
