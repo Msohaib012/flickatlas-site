@@ -114847,5 +114847,424 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 09:00:39 +0000"
+  },
+  "1dkjje4": {
+    "id": "1dkjje4",
+    "type": "news",
+    "headline": "Jumanji: Open World Reportedly Postponed in India to Avoid Clash With Shah Rukh Khan's King",
+    "dek": "Sony Pictures Entertainment India has reportedly delayed the release date of Jumanji: Open World in the country, shifting it from December to early January.",
+    "body": [
+      {
+        "h": "Shift in the Indian Release Schedule",
+        "p": [
+          "Reports indicate that the much-anticipated Hollywood adventure project Jumanji: Open World is facing a delay regarding its theatrical arrival in India. The feature, which features Dwayne Johnson in a prominent role, was initially slated to hit cinema screens on December 25, 2026. However, fresh updates suggest that audiences in the country might have to wait a little longer to experience the latest installment of the franchise.",
+          "While an official confirmation from Sony Pictures Entertainment India remains pending, recent digital activity by the studio has fueled speculation. A promotional post shared on X omitted the previously publicized Christmas rollout date entirely, opting instead for the ambiguous phrase \"Coming Soon.\" This subtle change in communication has led industry observers to believe that a revised schedule is currently in the works for the territory."
+        ]
+      },
+      {
+        "h": "New Target Date in January 2027",
+        "p": [
+          "According to the latest insider reports, the studio has earmarked a new premiere date of January 1, 2027, for the Indian market. Should this tentative schedule materialize, the adventure flick will bypass a chaotic festive weekend. Meanwhile, international territories are still expected to receive the feature according to the original December holiday timeline.",
+          "Despite the strong hints dropped on social media, existing ticketing portals and release schedules still display the older December 25 date. Consequently, the revised timeline remains provisional until an official announcement is issued by the distribution team."
+        ]
+      },
+      {
+        "h": "Avoiding a Major Clash With King",
+        "p": [
+          "A primary outcome of this reported postponement is the avoidance of a direct opening-weekend collision with Shah Rukh Khan's highly anticipated film, King. Directed by Siddharth Anand, King is firmly locked in for a December 24 release. The Bollywood star's project has maintained its schedule despite an increasingly packed end-of-year calendar.",
+          "Had Jumanji kept its initial Christmas Day slot, both titles would have arrived just a single day apart. This proximity threatened to trigger fierce competition for premium cinema screens, multiplex showtimes, and holiday moviegoers during one of the most lucrative periods of the year."
+        ]
+      },
+      {
+        "h": "Crowded December Box Office Landscape",
+        "p": [
+          "The December 2026 release calendar in India is already exceptionally congested, featuring several high-profile arrivals from both Hollywood and domestic industries. Marvel's Avengers: Doomsday is scheduled for December 17, closely followed by Dune: Part Three on December 18. Additionally, a couple of Telugu language films are lined up to debut around the Christmas holiday.",
+          "The inclusion of Jumanji: Open World on December 25 would have added intense pressure, particularly within metropolitan multiplexes where Hollywood franchises traditionally command substantial screen counts. Shifting the adventure film to the start of January could alleviate some of this logistical stress for exhibitors and distributors."
+        ]
+      },
+      {
+        "h": "Multilingual Plans and Franchise Return",
+        "p": [
+          "Directed by Jake Kasdan, Jumanji: Open World brings back a familiar ensemble cast. Alongside Dwayne Johnson, the adventure feature reunites Kevin Hart, Jack Black, and Karen Gillan for another chapter in the popular series.",
+          "Sony Pictures previously outlined extensive plans for a wide multilingual rollout in India. The studio intended to distribute the movie in English, Hindi, Tamil, and Telugu, demonstrating the broad appeal the franchise holds across different linguistic regions in the country."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony Pictures Entertainment India has reportedly postponed the release of Jumanji: Open World from December 25, 2026, to January 1, 2027, though official confirmation is awaited. This reported delay allows the Hollywood adventure film to avert a direct box office clash with Shah Rukh Khan's King, which releases on December 24 amid a crowded holiday lineup.",
+          "The film features a returning cast under the direction of Jake Kasdan and was originally planned for a multilingual rollout across India."
+        ]
+      }
+    ],
+    "facts": [
+      "Jumanji: Open World was originally scheduled for release in India on December 25, 2026.",
+      "The film is reportedly postponed to January 1, 2027.",
+      "Shah Rukh Khan's film King is scheduled to release on December 24, 2026.",
+      "Avengers: Doomsday is scheduled for December 17, 2026, and Dune: Part Three for December 18, 2026.",
+      "Jumanji: Open World is directed by Jake Kasdan and stars Dwayne Johnson, Kevin Hart, Jack Black, and Karen Gillan.",
+      "King is directed by Siddharth Anand."
+    ],
+    "entities": {
+      "people": [
+        "Dwayne Johnson",
+        "Shah Rukh Khan",
+        "Jake Kasdan",
+        "Kevin Hart",
+        "Jack Black",
+        "Karen Gillan",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "Jumanji: Open World",
+        "King",
+        "Avengers: Doomsday",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Jumanji Open World",
+      "Shah Rukh Khan King",
+      "Jumanji Open World postponed India",
+      "Dwayne Johnson Jumanji"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028482.jpg",
+        "caption": "Jumanji: Open World Reportedly Postponed in India to Avoid Clash With Shah Rukh Khan's King",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 09:00:50 +0000"
+  },
+  "hspujf": {
+    "id": "hspujf",
+    "type": "news",
+    "headline": "ITV Cuts £30M From Budget Following Weak Advertising Market And Q3 Slump",
+    "dek": "ITV targets £30 million in cost savings across its Media Entertainment division amidst a softening advertising market, even as Sky progresses with its massive acquisition.",
+    "body": [
+      {
+        "h": "Advertising Market Pressures",
+        "p": [
+          "ITV has announced plans to cut £30 million, equivalent to $40 million, from its Media Entertainment budget due to weaker demand for advertising in the fourth quarter. The company stated that total advertising revenue is projected to drop by five to ten percent in the fourth quarter and two to three percent for the full year of 2026. To align operational costs with advertiser demand, the network is pulling back on expenditures within the division that houses the main ITV network and the ITVX streaming platform.",
+          "Out of the total targeted savings, £25 million will come directly from content reductions, while the remaining £5 million will originate from discretionary non-content savings. Following these adjustments, the total content budget for the network in 2026 is expected to sit at around £1.2 billion. This strategic trimming reflects ongoing economic adaptations by the broadcaster."
+        ]
+      },
+      {
+        "h": "Macroeconomic Factors and Regulations",
+        "p": [
+          "ITV boss Carolyn McCall attributed the sticky advertising market to continued broader macroeconomic uncertainty, alongside increased digital advertising on global streaming platforms. Additionally, the network pointed to the operational impact of Less Healthy Food regulations, which officially came into effect on October 1, 2025.",
+          "This is not the first time the broadcaster has faced such financial hurdles. ITV revealed a similar saving target in the previous year due to a softening economy within the UK, showcasing a recurring need to adjust budgets dynamically."
+        ]
+      },
+      {
+        "h": "Sky Acquisition Progresses",
+        "p": [
+          "The budget reduction comes as Comcast-owned Sky pushes forward with its £1.6 billion acquisition of ITV. Although the UK Culture Secretary recently tasked two UK regulators with officially probing the deal, the network remains bullish about making it through the regulatory review unscathed.",
+          "Carolyn McCall described this development as an expected and important milestone in the regulatory review process, expressing satisfaction that it is moving at pace. ITV continues to anticipate completion of the deal in the second half of 2027."
+        ]
+      },
+      {
+        "h": "Q3 Financial Performance Overview",
+        "p": [
+          "The cost-cutting measures were revealed alongside ITV's Q3 trading update, which showed total revenue reaching £2.7 billion, holding almost flat compared to the same period for the first nine months of 2025. Media Entertainment revenue was also virtually flat at £1.4 billion, aided by digital revenue helping to offset advertising declines.",
+          "On the streaming front, consumer engagement grew significantly. Streaming hours to ITVX shot up by 29 percent, accumulating to more than 2 billion minutes viewed during the tracking period."
+        ]
+      },
+      {
+        "h": "ITV Studios Stability",
+        "p": [
+          "Producer-distributor ITV Studios, which is not part of the network assets being sold to Sky, posted stable revenue of around £1.3 billion. ITV noted that revenue, margin, and profit for the studio arm are heavily weighted toward the fourth quarter, backed by a strong pipeline of deliveries.",
+          "Key projects driving this pipeline include Netflix Italy’s SuburraMaxima, Peacock’s Love Island US: Beyond the Villa, and the seventh season of Line of Duty for the BBC. Furthermore, significant high-margin licensing deals in the global partnerships division are expected to bolster performance."
+        ]
+      },
+      {
+        "h": "Strategic Vision and Future Outlook",
+        "p": [
+          "McCall emphasized that the upcoming sale of the ITV network to Sky will successfully position ITV Studios as a highly attractive, pure play, global content business. As previously guided, ITV Studios’ EBITA margin is expected to sit at the lower end of the 13 percent to 15 percent range, reflecting the specific revenue mix of the year.",
+          "Despite a challenging market, leadership remains confident in hitting targets. McCall reiterated that the company stays on track to deliver good revenue growth in ITV Studios and continued profitable digital revenue growth in Media Entertainment over the full year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ITV is cutting £30 million from its Media Entertainment budget to counter weak advertising demand driven by macroeconomic uncertainty and food regulations. Meanwhile, the network is progressing toward its £1.6 billion acquisition by Sky, even as its digital streaming hours and ITV Studios pipeline show steady resilience."
+        ]
+      }
+    ],
+    "facts": [
+      "ITV is cutting £30M ($40M) from its Media Entertainment budget.",
+      "Total advertising revenue is expected to drop 5-10% in Q4 and 2-3% for full year 2026.",
+      "£25M will come from content savings and £5M from discretionary non-content savings.",
+      "Total content budget for 2026 is expected to be around £1.2B.",
+      "Less Healthy Food regulations came into effect on 1 October 2025.",
+      "Sky is pursuing a £1.6B acquisition of ITV.",
+      "Completion of the Sky acquisition is expected in the second half of 2027.",
+      "ITV Q3 results showed total revenue of £2.7B.",
+      "Media Entertainment revenue was virtually flat at £1.4B.",
+      "ITV Studios posted stable revenue of around £1.3B.",
+      "Streaming hours to ITVX shot up by 29% to more than 2 billion minutes viewed."
+    ],
+    "entities": {
+      "people": [
+        "Max Goldbart",
+        "David Walliams",
+        "Carolyn McCall",
+        "Sarandos"
+      ],
+      "titles": [
+        "Britain’s Got Talent",
+        "Little Britain",
+        "Love Island",
+        "SuburraMaxima",
+        "Love Island US: Beyond the Villa",
+        "Line of Duty",
+        "Mike Hammer",
+        "You've Got Mail",
+        "Voicemails From Isabelle",
+        "Skye's Pup Squad",
+        "Dancing With The Stars",
+        "Avengers: Doomsday",
+        "NCIS: Origins",
+        "Pale Horse",
+        "Non-Refundable",
+        "NAZA"
+      ]
+    },
+    "keywords": [
+      "ITV budget cut advertising market",
+      "ITV Sky acquisition",
+      "Carolyn McCall ITV Q3 results",
+      "ITVX streaming hours"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/07/maya-jama-love-island-uk-host.jpg?w=1024",
+        "caption": "ITV Cuts £30M From Budget Following Weak Advertising Market And Q3 Slump",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 08:59:09 +0000"
+  },
+  "1fwghjc": {
+    "id": "1fwghjc",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 6: Ranbir Kapoor and Sai Pallavi Starrer Crosses Rs 500 Crore Domestically",
+    "dek": "The Nitesh Tiwari directorial epic maintains strong momentum, seeing only a minor dip on Tuesday and sailing past the major milestone in India.",
+    "body": [
+      {
+        "h": "Sailing Past the Rs 500 Crore Milestone",
+        "p": [
+          "The theatrical run of the massive cinematic adaptation of the Indian epic has reached a triumphant new milestone. Having debuted in cinemas globally on Thursday, November 5, the film has commanded tremendous attention and drawn massive crowds.",
+          "With strong ticket sales continuing into its first week, the feature officially pushed past the coveted Rs 500 crore threshold in total domestic gross earnings, cementing its status as a major commercial success."
+        ]
+      },
+      {
+        "h": "Tuesday's Minor Drop and Screening Volume",
+        "p": [
+          "According to tracking reports from Sacnilk, the feature experienced a modest 12.5% decrease in earnings on its sixth day. Despite this slight cooling down on Tuesday, the numbers remained remarkably high.",
+          "The production secured an impressive 24,344 shows across the country on this single day, continuing to pull in substantial audiences despite being several days into its theatrical run."
+        ]
+      },
+      {
+        "h": "Breakdown Across Regional Language Circuits",
+        "p": [
+          "The vast majority of the Day 6 collection stemmed from the Hindi-speaking markets, where it brought in Rs 76 crore utilizing 19,845 shows.",
+          "Regional markets also contributed steadily to the overall total, led by Rs 7.75 crore from Kannada screenings, Rs 4 crore from Telugu prints, Rs 3.60 crore in Tamil centers, and Rs 2.75 crore from the Malayalam belt."
+        ]
+      },
+      {
+        "h": "The Complete Six-Day Financial Trajectory",
+        "p": [
+          "The journey began on Thursday with a net collection of Rs 64.85 crore, followed by Rs 48.05 crore on Friday, and a weekend surge yielding Rs 69.80 crore on Saturday alongside Rs 56.15 crore on Sunday.",
+          "The momentum scaled dramatically on Monday with a massive Rs 107.50 crore net, leading into Tuesday's strong Rs 94.10 crore net contribution, bringing the cumulative domestic net tally to an astounding Rs 440.45 crore."
+        ]
+      },
+      {
+        "h": "A Grand Scale Production and Cast",
+        "p": [
+          "Helmed by director Nitesh Tiwari and co-written alongside Shridhar Raghavan, the project features production backing from Namit Malhotra and Yash.",
+          "The star-studded lineup features Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana, alongside Sunny Deol, Ravie Dubey, Anupam Kher, and numerous other prominent actors in supporting roles."
+        ]
+      },
+      {
+        "h": "Critical Reception and Spectacle",
+        "p": [
+          "Reviewers have praised the performances, particularly highlighting how Ranbir Kapoor brings dignity and restrained emotion to his portrayal of Lord Rama, while Yash commands attention in his scenes.",
+          "Technical elements such as the visual effects, action choreography, score, and cinematography have been widely credited with enhancing the theatrical experience, especially when viewed in formats like IMAX 3D."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Ramayana adaptation starring Ranbir Kapoor, Sai Pallavi, and Yash has crossed the Rs 500 crore domestic gross milestone by its sixth day in theaters. Despite a minor decline on Tuesday, the Nitesh Tiwari-directed film continues to pull strong numbers across multiple regional language belts in India."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released in cinemas on Thursday, November 5, 2026.",
+      "The film grossed over Rs 500 crore domestically by Day 6.",
+      "Day 6 net collection was Rs 94.10 crore from 24,344 shows.",
+      "Hindi belt Day 6 collection was Rs 76 crore from 19,845 shows.",
+      "Kannada shows earned Rs 7.75 crore on Day 6.",
+      "Telugu shows earned Rs 4 crore on Day 6.",
+      "Tamil shows earned Rs 3.60 crore on Day 6.",
+      "Malayalam shows earned Rs 2.75 crore on Day 6.",
+      "Total India net collection stands at Rs 440.45 crore.",
+      "Total India gross collection amounts to Rs 526.50 crore.",
+      "Day 1 net collection was Rs 64.85 crore and gross was Rs 77.50 crore.",
+      "Day 2 net collection was Rs 48.05 crore and gross was Rs 57.30 crore.",
+      "Day 3 net collection was Rs 69.80 crore and gross was Rs 83.45 crore.",
+      "Day 4 net collection was Rs 56.15 crore and gross was Rs 66.95 crore.",
+      "Day 5 net collection was Rs 107.50 crore and gross was Rs 128.70 crore.",
+      "Day 6 gross collection was Rs 112.60 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Shridhar Raghavan",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Lara Dutta",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Indira Krishnan",
+        "Ajinkya Deo",
+        "Sheeba Chaddha",
+        "Shobana",
+        "Faisal Malik",
+        "Grinell Jacinto"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana – Part 1",
+        "Ramayana: Rise of a Legend",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 6 collection",
+      "Sai Pallavi Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Ranbir-Kapoor-Sai-Pallavi-Led-Ramayana-Grosses-Over-Rs-500-Cr-At-The-Domestic-Box-Office.webp",
+        "caption": "Ramayana Box Office Day 6: Ranbir Kapoor and Sai Pallavi Starrer Crosses Rs 500 Crore Domestically",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 09:33:00 +0000"
+  },
+  "vw0bvi": {
+    "id": "vw0bvi",
+    "type": "news",
+    "headline": "Review: Netflix's Psychological Drama The Body Blends Y2K Nostalgia With Dark Religious Hysteria",
+    "dek": "Quinn Shephard brings together teen cliques, supernatural tension, and biblical themes in an eight-episode series that channels both Mean Girls and The Crucible.",
+    "body": [
+      {
+        "h": "Introduction to a Unique Genre Mashup",
+        "p": [
+          "Quinn Shephard has crafted an ambitious new eight-episode drama for Netflix titled The Body, which merges the atmospheric dread of religious allegory with the social dynamics of turn-of-the-millennium teen cinema. Described as an intersection between iconic Y2K youth culture and heavier dramatic elements, the series attempts to carve out a distinct identity in a crowded television landscape.",
+          "The project leans heavily into nostalgic aesthetics while establishing an unnerving tone right from its opening moments. By blending coming-of-age tropes with psychological horror, the show invites viewers into a world where teenage social pressures intersect with supernatural ambiguity."
+        ]
+      },
+      {
+        "h": "Setting the Scene in 2004",
+        "p": [
+          "The narrative transports audiences back to 2004, capturing an era defined by flip phones and high-school tribalism reminiscent of the cinematic zeitgeist of Mean Girls. However, rather than focusing on standard social hierarchies and petty hallways gossip, the story relocates the drama to a uniform-wearing private Catholic school.",
+          "Set specifically against the backdrop of Halloween festivities, the plot follows a tight-knit high-school dance troupe. The atmosphere is charged with youthful rebellion and heightened emotions as the group prepares for private celebrations."
+        ]
+      },
+      {
+        "h": "The Fateful Initiation Ritual",
+        "p": [
+          "The core conflict kicks off when the troupe members invite newcomer Grace Franklin to a quintessential American teen party after she impresses during tryouts. During the evening gathering, the girls orchestrate a faux initiation sacrifice to formally welcome Grace into their circle, administering drugs as part of the ceremony.",
+          "Following the forced consumption of substances, Grace apparently collapses and stops breathing. Rather than seeking help, attendees Anya and Lisbeth decide to conceal the situation, transporting her body back home and staging her bed to make her death look like natural causes."
+        ]
+      },
+      {
+        "h": "Comas, Conspiracies, and Hysteria",
+        "p": [
+          "The morning reveals a shocking twist: Grace is not actually dead, but instead trapped in a deep coma. As she exists in this state of limbo, the guilt-ridden group begins to fear that their occult ritual somehow manifested real supernatural consequences.",
+          "This shared anxiety sparks a rapid spiral of mass hysteria and groupthink among the students. Influenced by their strict religious environment, the teens begin experiencing collective visions of Grace, leaving both the characters and the audience questioning whether these manifestations are psychological or truly supernatural."
+        ]
+      },
+      {
+        "h": "Performances and Atmospheric Direction",
+        "p": [
+          "Showrunner Quinn Shephard expertly balances psychological realism with ambiguous terror across the eight-episode run. The production relies on dark, cold cinematography and unsettling biblical soundscapes rather than over-the-top action sequences to maintain tension.",
+          "The ensemble cast delivers grounded performances that avoid typical young adult clichés. Standouts include Geena Meszaros as the unconventional outcast Lisbeth, alongside Nnamdi Asomugha who provides a steady adult anchor as local priest and father, Samuel Franklin."
+        ]
+      },
+      {
+        "h": "Pacing and Literary Inspirations",
+        "p": [
+          "While the series succeeds in creating a deeply ominous atmosphere, some viewers may find the overarching narrative slightly overstretched across its eight-part structure. A more condensed episode count could have tightened the pacing, though patient viewers are rewarded with a satisfying conclusion.",
+          "The project's artistic roots trace back to Arthur Miller's classic 1953 play The Crucible, reflecting historical themes of Salem-style witch trials and moral panic translated effectively into a modern television format."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Quinn Shephard's new eight-episode Netflix drama The Body combines Y2K teen movie aesthetics with dark religious themes inspired by The Crucible. The series follows a group of Catholic school dancers who experience mass hysteria and visions after a hazing ritual leaves a new member in a coma."
+        ]
+      }
+    ],
+    "facts": [
+      "The Body is an 8-episode Netflix drama created by Quinn Shephard.",
+      "The series is set in the year 2004.",
+      "The story takes place in a private Catholic school during Halloween.",
+      "Characters include Anya, Elise Zakaria, Maddie Delaney, Lisbeth Anderson, Grace Franklin, and Father Samuel Franklin.",
+      "Cast members include Kristina Bogic, Sara Boustany, Shirley Chen, Geena Meszaros, Sofia Wylie, and Nnamdi Asomugha.",
+      "Quinn Shephard previously wrote and starred in the 2018 film Blame.",
+      "The series draws thematic inspiration from Arthur Miller's 1953 play The Crucible."
+    ],
+    "entities": {
+      "people": [
+        "Quinn Shephard",
+        "Kristina Bogic",
+        "Sara Boustany",
+        "Shirley Chen",
+        "Geena Meszaros",
+        "Sofia Wylie",
+        "Nnamdi Asomugha",
+        "Arthur Miller"
+      ],
+      "titles": [
+        "The Body",
+        "Blame",
+        "Mean Girls",
+        "The Crucible",
+        "Carrie",
+        "Heavenly Creatures",
+        "Jennifer’s Body",
+        "Wayward"
+      ]
+    },
+    "keywords": [
+      "The Body Netflix series",
+      "Quinn Shephard The Body",
+      "Sofia Wylie Grace Franklin",
+      "Geena Meszaros Lisbeth Anderson"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/the-body-netflix-series-review.jpg",
+        "caption": "Review: Netflix's Psychological Drama The Body Blends Y2K Nostalgia With Dark Religious Hysteria",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 09:10:48 +0000"
   }
 };

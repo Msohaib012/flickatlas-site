@@ -33,6 +33,58 @@ window.FA_HOME_ARTICLES = {
     "images": [],
     "published": "2026-11-11T09:53:43Z"
   },
+  "1fwghjc": {
+    "id": "1fwghjc",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 6: Ranbir Kapoor and Sai Pallavi Starrer Crosses Rs 500 Crore Domestically",
+    "dek": "The Nitesh Tiwari directorial epic maintains strong momentum, seeing only a minor dip on Tuesday and sailing past the major milestone in India.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Shridhar Raghavan",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Lara Dutta",
+        "Kunal Kapoor",
+        "Adinath Kothare",
+        "Indira Krishnan",
+        "Ajinkya Deo",
+        "Sheeba Chaddha",
+        "Shobana",
+        "Faisal Malik",
+        "Grinell Jacinto"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana – Part 1",
+        "Ramayana: Rise of a Legend",
+        "Adipurush"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 6 collection",
+      "Sai Pallavi Yash Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Ranbir-Kapoor-Sai-Pallavi-Led-Ramayana-Grosses-Over-Rs-500-Cr-At-The-Domestic-Box-Office.webp",
+        "caption": "Ramayana Box Office Day 6: Ranbir Kapoor and Sai Pallavi Starrer Crosses Rs 500 Crore Domestically",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 09:33:00 +0000"
+  },
   "1f5qywp": {
     "id": "1f5qywp",
     "type": "news",
@@ -121,6 +173,85 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 11 Nov 2026 14:51:29 +0530"
   },
+  "vw0bvi": {
+    "id": "vw0bvi",
+    "type": "news",
+    "headline": "Review: Netflix's Psychological Drama The Body Blends Y2K Nostalgia With Dark Religious Hysteria",
+    "dek": "Quinn Shephard brings together teen cliques, supernatural tension, and biblical themes in an eight-episode series that channels both Mean Girls and The Crucible.",
+    "entities": {
+      "people": [
+        "Quinn Shephard",
+        "Kristina Bogic",
+        "Sara Boustany",
+        "Shirley Chen",
+        "Geena Meszaros",
+        "Sofia Wylie",
+        "Nnamdi Asomugha",
+        "Arthur Miller"
+      ],
+      "titles": [
+        "The Body",
+        "Blame",
+        "Mean Girls",
+        "The Crucible",
+        "Carrie",
+        "Heavenly Creatures",
+        "Jennifer’s Body",
+        "Wayward"
+      ]
+    },
+    "keywords": [
+      "The Body Netflix series",
+      "Quinn Shephard The Body",
+      "Sofia Wylie Grace Franklin",
+      "Geena Meszaros Lisbeth Anderson"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/the-body-netflix-series-review.jpg",
+        "caption": "Review: Netflix's Psychological Drama The Body Blends Y2K Nostalgia With Dark Religious Hysteria",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 09:10:48 +0000"
+  },
+  "1dkjje4": {
+    "id": "1dkjje4",
+    "type": "news",
+    "headline": "Jumanji: Open World Reportedly Postponed in India to Avoid Clash With Shah Rukh Khan's King",
+    "dek": "Sony Pictures Entertainment India has reportedly delayed the release date of Jumanji: Open World in the country, shifting it from December to early January.",
+    "entities": {
+      "people": [
+        "Dwayne Johnson",
+        "Shah Rukh Khan",
+        "Jake Kasdan",
+        "Kevin Hart",
+        "Jack Black",
+        "Karen Gillan",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "Jumanji: Open World",
+        "King",
+        "Avengers: Doomsday",
+        "Dune: Part Three"
+      ]
+    },
+    "keywords": [
+      "Jumanji Open World",
+      "Shah Rukh Khan King",
+      "Jumanji Open World postponed India",
+      "Dwayne Johnson Jumanji"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028482.jpg",
+        "caption": "Jumanji: Open World Reportedly Postponed in India to Avoid Clash With Shah Rukh Khan's King",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 09:00:50 +0000"
+  },
   "swfz5s": {
     "id": "swfz5s",
     "type": "news",
@@ -195,6 +326,52 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 09:00:39 +0000"
+  },
+  "hspujf": {
+    "id": "hspujf",
+    "type": "news",
+    "headline": "ITV Cuts £30M From Budget Following Weak Advertising Market And Q3 Slump",
+    "dek": "ITV targets £30 million in cost savings across its Media Entertainment division amidst a softening advertising market, even as Sky progresses with its massive acquisition.",
+    "entities": {
+      "people": [
+        "Max Goldbart",
+        "David Walliams",
+        "Carolyn McCall",
+        "Sarandos"
+      ],
+      "titles": [
+        "Britain’s Got Talent",
+        "Little Britain",
+        "Love Island",
+        "SuburraMaxima",
+        "Love Island US: Beyond the Villa",
+        "Line of Duty",
+        "Mike Hammer",
+        "You've Got Mail",
+        "Voicemails From Isabelle",
+        "Skye's Pup Squad",
+        "Dancing With The Stars",
+        "Avengers: Doomsday",
+        "NCIS: Origins",
+        "Pale Horse",
+        "Non-Refundable",
+        "NAZA"
+      ]
+    },
+    "keywords": [
+      "ITV budget cut advertising market",
+      "ITV Sky acquisition",
+      "Carolyn McCall ITV Q3 results",
+      "ITVX streaming hours"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/07/maya-jama-love-island-uk-host.jpg?w=1024",
+        "caption": "ITV Cuts £30M From Budget Following Weak Advertising Market And Q3 Slump",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 08:59:09 +0000"
   },
   "1qhcqe": {
     "id": "1qhcqe",
@@ -4552,224 +4729,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 05:57:12 +0000"
-  },
-  "epwk6": {
-    "id": "epwk6",
-    "type": "news",
-    "headline": "Until We Meet Again Dominates 51st Hochi Film Awards Nominations",
-    "dek": "Meguro Ren and Hamabe Minami's drama secures seven nods, leading the race for Japan's prestigious early film honors.",
-    "entities": {
-      "people": [
-        "Meguro Ren",
-        "Hamabe Minami",
-        "Miki Takahiro",
-        "Harada Taizo",
-        "Nagasaku Hiromi",
-        "Kubo Shiori",
-        "Kishi Yoshiyuki",
-        "Fujii Michihito",
-        "Yamazaki Takashi",
-        "Matsumura Hokuto",
-        "Imada Mio",
-        "Yokohama Ryusei",
-        "Hirose Suzu",
-        "Ikematsu Sosuke",
-        "Isomura Hayato",
-        "Ichinose Wataru",
-        "Emoto Tasuku",
-        "Oda Yuji",
-        "Kamiki Ryunosuke",
-        "Sakaguchi Kentaro",
-        "Nakamura Tomoya",
-        "Nishijima Hidetoshi",
-        "Motoki Masahiro",
-        "Ayase Haruka",
-        "Okamoto Tao",
-        "Katayama Yuki",
-        "Kawaguchi Haruna",
-        "Kishii Yukino",
-        "Koyae Aoi",
-        "Nikaido Fumi",
-        "Non",
-        "Matsuoka Mayu",
-        "Matsu Takako",
-        "Kore-eda Hirokazu",
-        "Hamaguchi Ryusuke",
-        "Kurosawa Kiyoshi",
-        "Sakuma Daisuke",
-        "Suda Masaki",
-        "Hasegawa Hiroki",
-        "Kudo Kankuro",
-        "Nagasawa Masami",
-        "Harada Mieko",
-        "Nagao Kento"
-      ],
-      "titles": [
-        "Until We Meet Again",
-        "National Treasure",
-        "Hakucho to Komori",
-        "You, Like a Star",
-        "Godzilla Minus Zero",
-        "The Night Before the War",
-        "Mentor",
-        "April s Margins",
-        "Samurai Vengeance",
-        "Bayside Shakedown",
-        "I Don t Know You",
-        "Your Quiz",
-        "Sometimes I Confess",
-        "Black Prison",
-        "Why Do People Write Love Letters?",
-        "Sheep in a Box",
-        "Suddenly Feeling Unwell",
-        "FUJIKO",
-        "My Life Diary",
-        "All the Lovers in the Night",
-        "Children I Don t Know",
-        "Parallel and Perpendicular",
-        "Male Friend",
-        "Nagi Diary",
-        "The Devil Wears Prada 2",
-        "Chiikawa the Movie: The Secret of the Mermaid Island"
-      ]
-    },
-    "keywords": [
-      "Until We Meet Again film",
-      "Meguro Ren Until We Meet Again",
-      "Hochi Film Awards 2026",
-      "Hamabe Minami Until We Meet Again"
-    ],
-    "images": [
-      {
-        "url": "https://i.mydramalist.com/DyyX45_2d.jpg",
-        "caption": "Until We Meet Again Dominates 51st Hochi Film Awards Nominations",
-        "source": "MyDramaList"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 05:38:44 +0000"
-  },
-  "b4eh0e": {
-    "id": "b4eh0e",
-    "type": "news",
-    "headline": "Yash Wore Heavy Costumes and a 1.8 kg Crown for His Role as Ravana in Ramayana",
-    "dek": "Costume designer Saniya Sardhariya has revealed that actor Yash wore elaborate outfits weighing up to 33 kg for Nitesh Tiwari's upcoming mythological epic Ramayana.",
-    "entities": {
-      "people": [
-        "Yash",
-        "Saniya Sardhariya",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Namit Malhotra",
-        "AR Rahman",
-        "Hans Zimmer",
-        "Vibha Maru",
-        "Surpanakha"
-      ],
-      "titles": [
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Yash Ramayana costume",
-      "Ravana costume weight Ramayana",
-      "Saniya Sardhariya Ramayana",
-      "Ramayana release date 2026"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Yash_1794285767948_16QP_1794285768064_Eazo_8da3bd03-2eac-43fd-9440-e321a231e8e5_PYsQ.png",
-        "caption": "Yash Wore Heavy Costumes and a 1.8 kg Crown for His Role as Ravana in Ramayana",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 10:29:40 +0530"
-  },
-  "1oaf2gg": {
-    "id": "1oaf2gg",
-    "type": "news",
-    "headline": "VisionQuest Finale Set for Disney Plus Release With High Anticipation and Surprises",
-    "dek": "Marvel concludes its WandaVision trilogy with the eighth episode of VisionQuest, promising a final surprise, a post-credits tease, and global streaming access.",
-    "entities": {
-      "people": [
-        "Sougata Nandi",
-        "Tommy Maximoff",
-        "Billy Maximoff",
-        "Joe Locke",
-        "Ruaridh Mollica",
-        "Terry Matalas",
-        "Paul Bettany",
-        "James Spader",
-        "T’Nia Miller",
-        "Orla Brady",
-        "Emily Hampshire",
-        "Phineas Horton",
-        "Iman Vellani",
-        "Frank Alvarez",
-        "Wanda Maximoff"
-      ],
-      "titles": [
-        "VisionQuest",
-        "WandaVision",
-        "Agatha All Along",
-        "Avengers: Doomsday",
-        "Avengers: Age of Ultron",
-        "Forever",
-        "Immolation"
-      ]
-    },
-    "keywords": [
-      "VisionQuest finale",
-      "Paul Bettany VisionQuest",
-      "Joe Locke Billy Maximoff",
-      "VisionQuest Disney Plus release",
-      "James Spader Ultron"
-    ],
-    "images": [
-      {
-        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-09T161745.071.webp",
-        "caption": "VisionQuest Finale Set for Disney Plus Release With High Anticipation and Surprises",
-        "source": "VVIP Times"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 04:51:46 +0000"
-  },
-  "zl75s1": {
-    "id": "zl75s1",
-    "type": "news",
-    "headline": "Mike Flanagan's Prime Video Series Carrie Reworks Stephen King's Novel With Major Twists",
-    "dek": "Exploring the notable differences between Stephen King's 1974 novel and Mike Flanagan's 2026 Prime Video series adaptation of Carrie, featuring expanded supernatural elements and an open ending.",
-    "entities": {
-      "people": [
-        "Mike Flanagan",
-        "Stephen King",
-        "Carrie White",
-        "Margaret White",
-        "Stella",
-        "Chris",
-        "Adelaide",
-        "Caitlin",
-        "Emaline"
-      ],
-      "titles": [
-        "Carrie"
-      ]
-    },
-    "keywords": [
-      "Carrie Prime Video series",
-      "Mike Flanagan Carrie",
-      "Carrie Stephen King book changes",
-      "Carrie TV show 2026"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/the-biggest-changes-mike-flanagans-prime-video-series-carrie-makes-to-stephen-kings-book.jpg",
-        "caption": "Mike Flanagan's Prime Video Series Carrie Reworks Stephen King's Novel With Major Twists",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 04:34:55 +0000"
   },
   "1k7d2uy": {
     "id": "1k7d2uy",

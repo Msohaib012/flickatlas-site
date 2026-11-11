@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T11:51:42Z",
-    "run_id": "42810742191",
-    "status": "success",
-    "checked": {
-     "candidates": 363,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Day 6 Collection Early Updates: Ranbir Film Nears 400 Cr; BEATS Adipurush Lifetime Ahead Of 1st Week",
-      "Delivery Boy First Review: Leo Sivakumar, Radhika Sarathkumar's Film Receives Praise As An Engaging Thriller",
-      "Love In Disguise Episode 8 Release Time Today: When & Where To Stream Ep 8? What To Expect From K-drama?",
-      "Scene Ending Explained: Will Inbaraj Return To Hunt Victor? Is A Suriya Vs Tovino Thomas Showdown On The Cards?",
-      "Ramayana Worldwide Box Office: Yash Becomes The Only Indian Actor To Hit 1000 Crore In A Single Year For The 2nd Time Post-COVID!",
-      "The Cat In The Hat Box Office: How Much Does Warner Bros’ Animated Film Need To Avoid A Box Office Flop?",
-      "Ramayana Top 5 Scenes Ranked: You Say It’s Jatayu’s Battle, But I Say Yash’s Dashanan & His Ten Head Split Is The Ace Of This Epic [Opinion]",
-      "Titans Box Office (Closing Collection): Jayasurya’s Film Earns 6.3% Of Aadu 3’s India Lifetime",
-      "Daniel Radcliffe Almost Missed His Chance To Become Harry Potter Over One Condition From His Parents",
-      "Resident Evil China Box Office: Less Than $4M To Beat Jurassic World Rebirth & Climb The Post-Covid Rankings!",
-      "You Can See Everything North America Box Office: Emerges As The 4th Highest-Grossing Documentary Of All Time",
-      "Ramayana First Tuesday BMS Sales More Than Double Dhurandhar 2 as Pushpa 2's 7.55 Lakh Record Comes Under Threat",
-      "Pawan Kalyan's second wife Renu Desai's Instagram post goes viral",
-      "Arun Govil who played King Dashrat in 'Ramayana' reveals he 'didn't want to do this role'",
-      "Aishwarya Arjun's silence on Umapathy Ramaiah's birthday sparks debate",
-      "Divyanka Tripathi, Vivek Dahiya escape apartment fire with twins, mourn building guard who died of suffocation",
-      "Daniel Radcliffe is unsure if he will watch Harry Potter series, says eight hours is a lot to watch anything",
-      "Kerala CM, Prithviraj Sukumaran honour cinematographer Shaji Kumar's rich legacy after his death; Mohanlal recalls years of memories",
-      "Ramayana producer Namit Malhotra not worried about recovering Rs-4000-crore budget through box office; plans to make money through merch, theme parks",
-      "Prince Harry's wife Meghan makes first public appearance since father charged"
-     ],
-     "updated": [],
-     "count": 337,
-     "detail": "346 stories, 0 duplicates removed, 17 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T12:51:01Z",
     "run_id": "42819184354",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "275 stories, 0 duplicates removed, 77 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T11:52:31Z",
-    "run_id": "42810742191",
+    "run_at": "2026-11-11T10:51:00Z",
+    "run_id": "43006968911",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 269,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Part 1 Nears Rs 400 Crore After Strong Sixth Day at Box Office",
-      "Tallinn Film Festival Entry 'Aroma' Explores Sensory Fantasy and Unconscious Desires in Exclusive Trailer",
-      "Divyanka Tripathi and Vivek Dahiya escape apartment fire, mourn building guard who died of suffocation",
-      "Amy Robach and T.J. Holmes Make Television Comeback on Name That Tune"
+      "Diljit Dosanjh's Indore concert receives fresh bomb threat, Gwalior High Court also targeted",
+      "Elizabeth Olsen Auditioned For A Major Game Of Thrones Role Before Wanda & She Still Can’t Forget The Experience",
+      "Maatrubhumi Trailer Impact At Box Office Day 1: Salman Khan’s Much-Talked-About Film Might Miss Bollywood’s Top 5 Openers Of 2026!",
+      "Godzilla Minus Zero North America Box Office: Scores Biggest Monday Ever For A Non-English Live Action",
+      "Jumanji: Open World Reportedly Postponed in India, Averting Direct Clash With Shah Rukh Khan's King",
+      "‘OM’: Rajkumar Periasamy opens up about Dhanush-Mammootty’s on-screen chemistry",
+      "Bhai Dooj | From Jigra to Bhaag Milkha Bhaag, 5 Bollywood films about the brother-sister bond you can revisit today",
+      "famous indian street foods you must try at least once 3077520.html",
+      "Ramayana Box Office Day 6: Ranbir Kapoor, Sai Pallavi, Yash-Starrer Witness Minimal Decline On Tuesday; Grosses Over Rs 500 Cr Domestically",
+      "anirudh ravichander kavya maran to tie the knot in greece rajinikanth among reported guests",
+      "did you know aneet padda wore ahaan pandays mother deannes outfit for diwali see pics",
+      "divyanka tripathi reveals narrow escape from building fire with five month old twins pays tribute to guard",
+      "gurfateh pirzada says diwali firecrackers set his balcony on fire damaged his room heres what happened",
+      "kiara advani says karan johar threw shahid kapoor off stage at her wedding with sidharth malhotra watch promo",
+      "mumbai police asks bollywood actors to avoid crowded places after tiger shroff firing incident report",
+      "sonu sood raises concern over hospitality workers standing for 10 12 hours at work more details inside",
+      "Taiwan Creative Content Fest Takeaways: ‘Avatar’ VFX House Brings Its AI Ambitions to Taipei as Character IP Booms",
+      "‘NAZA’ From ‘No Other Land’ Co-Directors Passes 1.5 Million Cinema Admissions Worldwide",
+      "Jonathan Ross Explains Backstory Behind “Tasteless” David Walliams Joke",
+      "Comedian Lucy Beaumont Fears Being Blacklisted By TV Industry After Blowing Whistle On David Walliams"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 256,
+     "detail": "269 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T10:51:26Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Jumanji: Open World Reportedly Postponed in India to Avoid Clash With Shah Rukh Khan's King",
+      "ITV Cuts £30M From Budget Following Weak Advertising Market And Q3 Slump",
+      "Ramayana Box Office Day 6: Ranbir Kapoor and Sai Pallavi Starrer Crosses Rs 500 Crore Domestically",
+      "Review: Netflix's Psychological Drama The Body Blends Y2K Nostalgia With Dark Religious Hysteria"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T14:52:28Z",
-    "run_id": "42838196831",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,33 +1906,27 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T10:51:26Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T11:54:45Z",
-    "run_id": "42810742191",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1igqa9b",
-      "1qw9sjn",
-      "1d1jo4e",
-      "ok6yry",
-      "atpdk1",
-      "onqcvz"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2425,27 +2401,35 @@
      "count": 7
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T10:53:44Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "vw0bvi",
+      "1mo2439",
+      "cwoh2c",
+      "1d1jo4e",
+      "ngkym7",
+      "1946ls6",
+      "atpdk1",
+      "jfjee5"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T11:54:42Z",
-    "run_id": "42810742191",
-    "status": "success",
-    "checked": {
-     "candidates": 641,
-     "detail": "629 collected staging rows from readers; 221 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 628 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2859,19 +2843,27 @@
      "detail": "+0 new rows, 3 updated rows, 634 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T10:53:41Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "633 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 634 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3108,32 +3100,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T11:54:44Z",
-    "run_id": "42810742191",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Part 1 Nears Rs 400 Crore After Strong Sixth Day at Box Office",
-      "Tallinn Film Festival Entry 'Aroma' Explores Sensory Fantasy and Unconscious Desires in Exclusive Trailer",
-      "Divyanka Tripathi and Vivek Dahiya escape apartment fire, mourn building guard who died of suffocation",
-      "Amy Robach and T.J. Holmes Make Television Comeback on Name That Tune"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3670,19 +3649,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T10:53:44Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jumanji: Open World Reportedly Postponed in India to Avoid Clash With Shah Rukh Khan's King",
+      "ITV Cuts £30M From Budget Following Weak Advertising Market And Q3 Slump",
+      "Ramayana Box Office Day 6: Ranbir Kapoor and Sai Pallavi Starrer Crosses Rs 500 Crore Domestically",
+      "Review: Netflix's Psychological Drama The Body Blends Y2K Nostalgia With Dark Religious Hysteria"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3958,19 +3950,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4291,31 +4283,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T11:52:30Z",
-    "run_id": "42810742191",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 337 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 11/6, celebrities_events 12/5, upcoming_releases 1/4, ott_streaming 5/4, trailers 2/3, awards 1/2, music_ost 1/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Part 1 Nears Rs 400 Crore After Strong Sixth Day at Box Office",
-      "Tallinn Film Festival Entry 'Aroma' Explores Sensory Fantasy and Unconscious Desires in Exclusive Trailer",
-      "Divyanka Tripathi and Vivek Dahiya escape apartment fire, mourn building guard who died of suffocation",
-      "Amy Robach and T.J. Holmes Make Television Comeback on Name That Tune"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4821,26 +4801,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T10:51:26Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 256 still unprocessed; today by category: movies 6/6, tv_dramas 8/4, episodes 0/2, box_office 7/6, celebrities_events 10/5, upcoming_releases 2/4, ott_streaming 6/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Jumanji: Open World Reportedly Postponed in India to Avoid Clash With Shah Rukh Khan's King",
+      "ITV Cuts £30M From Budget Following Weak Advertising Market And Q3 Slump",
+      "Ramayana Box Office Day 6: Ranbir Kapoor and Sai Pallavi Starrer Crosses Rs 500 Crore Domestically",
+      "Review: Netflix's Psychological Drama The Body Blends Y2K Nostalgia With Dark Religious Hysteria"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T11:53:56Z",
-    "run_id": "42810742191",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5147,24 +5132,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T10:52:42Z",
+    "run_id": "43006968911",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 378,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5509,24 +5496,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 419,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5816,19 +5803,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6078,19 +6065,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6325,19 +6312,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6621,19 +6608,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6874,19 +6861,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7116,19 +7103,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7381,29 +7368,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-09T13:53:42Z",
-    "run_id": "42629013010",
-    "status": "success",
-    "checked": {
-     "candidates": 520,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 429"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)"
-     ],
-     "updated": [],
-     "count": 9
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7890,19 +7867,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-11T10:51:44Z",
+    "run_id": "43006968911",
+    "status": "success",
+    "checked": {
+     "candidates": 532,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 519"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8142,19 +8130,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8404,8 +8392,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T10:53:51Z",
+    "run_id": "43006968911",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T09:58:57Z"
+ "updated_at": "2026-11-11T10:53:51Z"
 }
