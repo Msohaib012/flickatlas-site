@@ -119594,5 +119594,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-11T17:40:39+05:30"
+  },
+  "1wezyrd": {
+    "id": "1wezyrd",
+    "type": "news",
+    "headline": "Gunmaaster G9 Trailer Released: Emraan Hashmi Returns in an Action-Packed Thriller",
+    "dek": "The official trailer for the upcoming action thriller Gunmaaster G9 has dropped, starring Emraan Hashmi, Genelia Deshmukh, and Aparshakti Khurana under the direction of Aditya Datt.",
+    "body": [
+      {
+        "h": "Introduction to Gunmaaster G9",
+        "p": [
+          "The official trailer for the upcoming action thriller Gunmaaster G9 has officially been released, giving audiences a comprehensive look at the high-stakes project. Directed by Aditya Datt, the movie places Emraan Hashmi in a rugged and uncompromising role.",
+          "The narrative explores dark themes centered around broken relationships, betrayal, and a relentless quest for vengeance."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Key Collaborations",
+        "p": [
+          "Alongside Emraan Hashmi, the film features prominent actors including Genelia Deshmukh and Aparshakti Khurana. Abhishek Singh also appears in a key role within the movie.",
+          "This project marks a notable creative reunion between Hashmi and director Aditya Datt, who previously collaborated on the 2005 hit Aashiq Banaya Aapne."
+        ]
+      },
+      {
+        "h": "Plot Details and Character Dynamics",
+        "p": [
+          "The newly released footage highlights the deep emotional conflict driving the protagonist. Hashmi is seen vowing to protect his loved ones by any means necessary, stating that he is ready to shed blood to safeguard his family.",
+          "Genelia Deshmukh portrays his love interest, sharing tender moments with Hashmi while urging him not to let the shadows of his violent past ruin their future together."
+        ]
+      },
+      {
+        "h": "Intense Antagonists and Dialogues",
+        "p": [
+          "Aparshakti Khurana steps into a menacing antagonist role in the film. The trailer showcases Khurana reciting a chilling nursery rhyme before issuing ominous warnings about betrayal.",
+          "Hashmi delivers equally fierce counter-dialogues, warning that anyone attempting to harm his family will face severe and violent consequences."
+        ]
+      },
+      {
+        "h": "Action Sequences and Musical Highlights",
+        "p": [
+          "True to the action thriller genre, the trailer features several gritty combat set pieces. These include a tense sequence where Hashmi walks toward armed men near black SUVs in a rocky landscape.",
+          "The background score includes the romantic track Afsaana Banaaya Aapne, composed and sung by Himesh Reshammiya alongside Asees Kaur, linking back to the team's musical legacy."
+        ]
+      },
+      {
+        "h": "Production and Release Details",
+        "p": [
+          "Gunmaaster G9 is presented by Soham Rockstar Entertainment Pvt Ltd. It is produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir, with Shirish Vallicha serving as co-producer.",
+          "The film is scheduled to hit theaters worldwide on November 27, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for the action thriller Gunmaaster G9 has been released, showcasing Emraan Hashmi alongside Genelia Deshmukh and Aparshakti Khurana. Directed by Aditya Datt and produced by Soham Rockstar Entertainment, the film is set for a worldwide theatrical release on November 27, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Gunmaaster G9 releases worldwide on November 27, 2026.",
+      "The film is directed by Aditya Datt.",
+      "The cast includes Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh.",
+      "The movie is presented by Soham Rockstar Entertainment Pvt Ltd and produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir.",
+      "Himesh Reshammiya and Asees Kaur are involved in the track Afsaana Banaaya Aapne."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Aditya Datt",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Abhishek Singh",
+        "Himesh Reshammiya",
+        "Asees Kaur",
+        "Deepak Mukut",
+        "Hunar Mukut",
+        "Sangeeta Ahir",
+        "Shirish Vallicha",
+        "Nitin Kakkar",
+        "Disha Patani",
+        "Shabana Azmi"
+      ],
+      "titles": [
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne",
+        "Awarapan 2",
+        "Afsaana Banaaya Aapne"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9 trailer",
+      "Emraan Hashmi Gunmaaster G9",
+      "Genelia Deshmukh film",
+      "Aditya Datt movie",
+      "Aparshakti Khurana Gunmaaster G9"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/gunmaaster-g9-trailer-emraan-hashmi-vows-to-shed-blood-to-protect-love-and-family-114705259-16x9_0.png?VersionId=1KUUApU4SYNXtNJYby5hn6G6k6X1AZ7.",
+        "caption": "Gunmaaster G9 Trailer Released: Emraan Hashmi Returns in an Action-Packed Thriller",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 01:18:32 +0530"
+  },
+  "yvrgd3": {
+    "id": "yvrgd3",
+    "type": "news",
+    "headline": "Yash Pathak Reflects on Massive Vadodara Concert Drawing Over 10,000 Fans",
+    "dek": "Composer and producer Yash Pathak discusses his recent grand ticketed concert in Vadodara, drawing a massive crowd of over 10,000 attendees and showcasing original independent music.",
+    "body": [
+      {
+        "h": "Grand Musical Celebration in Vadodara",
+        "p": [
+          "The city of Vadodara recently played host to a magnificent musical gathering orchestrated by composer and producer Yash Pathak. This large-scale, ticketed live event successfully attracted an audience exceeding 10,000 people, turning the venue into a vibrant hub of celebration.",
+          "Listeners from diverse generations gathered to enjoy an immersive auditory journey, actively singing, dancing, and participating in the massive live experience throughout the evening."
+        ]
+      },
+      {
+        "h": "Spotlighting the YP Originals Catalogue",
+        "p": [
+          "A central highlight of the evening was the live performance of tracks from the YP Originals catalogue. These original compositions are released under YP Music, the dedicated music label of Yash Pathak Productions.",
+          "Fans experienced specially curated live renditions of popular tracks including Haq Se, Pinjra, Teri Aadat, and Tera Hi Main, successfully transitioning these numbers from digital streaming networks directly to thousands of live listeners."
+        ]
+      },
+      {
+        "h": "A Diverse and High-Energy Repertoire",
+        "p": [
+          "The musical lineup for the night was extensive, featuring a repertoire of over 200 distinct songs. The setlist ranged widely across Bollywood romantic melodies, indie music favorites, Gen Z hits, Punjabi tracks, Garba anthems, and high-energy dance numbers.",
+          "This vast variety of music was complemented by grand stage production, impressive lighting effects, and engaging live performances that together built an electrifying concert atmosphere."
+        ]
+      },
+      {
+        "h": "Vision Behind Yash Pathak Productions",
+        "p": [
+          "Founded by Yash Pathak, Yash Pathak Productions operates across multiple domains including music production, live entertainment, and creative curation. Through its music label, the company focuses on developing an independent music identity.",
+          "The overarching goal of the enterprise is to create, release, and cultivate original compositions, establishing independent music as a recognized and prominent segment of the mainstream live entertainment industry."
+        ]
+      },
+      {
+        "h": "Exclusive Insights From the Creator",
+        "p": [
+          "In an exclusive conversation with Filmibeat Assistant Editor Abhishek Ranjit, Yash Pathak shared his candid thoughts on the immense success of the concert. He emphasized that the true triumph of original music occurs when it transcends digital platforms to become a shared communal experience.",
+          "Pathak noted that seeing songs like Haq Se, Pinjra, Teri Aadat, and Tera Hi Main performed before an audience of over 10,000 individuals was deeply meaningful and validated his long-standing vision for original compositions."
+        ]
+      },
+      {
+        "h": "Paving the Way for Independent Music",
+        "p": [
+          "The composer expressed a firm belief that original music warrants the exact same scale, platform prominence, and opportunities as mainstream music. He considers this monumental event to be only the beginning of broader ambitions for his production house.",
+          "Ultimately, the Vadodara concert serves as a crucial milestone in Pathak's mission to construct an independent music ecosystem where original works consistently secure avenues to reach significantly larger audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Composer and producer Yash Pathak recently hosted a grand ticketed concert in Vadodara that drew an audience of over 10,000 people. The event featured live performances of his YP Originals catalogue alongside a massive repertoire of over 200 songs, highlighting his ongoing mission to elevate independent music."
+        ]
+      }
+    ],
+    "facts": [
+      "Composer and producer Yash Pathak brought a grand ticketed concert to Vadodara.",
+      "The concert was attended by over 10,000 people.",
+      "YP Originals is released under YP Music, the music label of Yash Pathak Productions.",
+      "Songs performed live included Haq Se, Pinjra, Teri Aadat, and Tera Hi Main.",
+      "The concert featured a musical repertoire of over 200 songs.",
+      "Abhishek Ranjit is the Filmibeat Assistant Editor who conducted the exclusive conversation."
+    ],
+    "entities": {
+      "people": [
+        "Yash Pathak",
+        "Abhishek Ranjit"
+      ],
+      "titles": [
+        "Haq Se",
+        "Pinjra",
+        "Teri Aadat",
+        "Tera Hi Main"
+      ]
+    },
+    "keywords": [
+      "Yash Pathak",
+      "Yash Pathak Vadodara concert",
+      "YP Originals music catalogue",
+      "YP Music label"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/yashpathakinterview-88081794429562.jpg",
+        "caption": "Yash Pathak Reflects on Massive Vadodara Concert Drawing Over 10,000 Fans",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:09:45 +0530"
+  },
+  "3cafwk": {
+    "id": "3cafwk",
+    "type": "news",
+    "headline": "Mahhi Vij Targeted in Emotion Task as Arishfa Khan Loses Captaincy in Bigg Boss 20 Episode 67",
+    "dek": "High drama unfolds in Bigg Boss 20 as Mahhi Vij faces personal attacks during an emotion task, Arishfa Khan is stripped of her captaincy, and the race to the finale intensifies.",
+    "body": [
+      {
+        "h": "Introduction to Episode 67 Twists",
+        "p": [
+          "The latest installment of Salman Khan's popular reality television series brings a fresh wave of turmoil to the house. As the competition progresses toward the finale, contestants are encountering major new obstacles designed to test their mental endurance and patience.",
+          "Episode 67 centers heavily on severe personal conflicts, shifting house dynamics, and official penalties that threaten the remaining players' positions in the game."
+        ]
+      },
+      {
+        "h": "Confrontations Sparked by Nominations",
+        "p": [
+          "The drama in the house builds directly upon the fallout from the Week 10 nominations task. During the preceding nomination episode, Uditi Singh made a claim that Mahhi Vij had labeled Love Gill a homebreaker, setting off a sharp personal clash.",
+          "This remark immediately triggered an ugly exchange between Mahhi and Love. The argument escalated further as Love reportedly brought up Mahhi's personal life and past relationship with Jay Bhanushali."
+        ]
+      },
+      {
+        "h": "The Intense Emotion Tolerance Task",
+        "p": [
+          "Makers of the show introduced a tolerance task where housemates must sit on a chair without showing emotion while others attempt to provoke them. Mahhi's segment during this challenge proved exceptionally difficult as her personal life became the focal point.",
+          "Housemates mentioned her daughter Tara and other private matters to force a reaction. Despite these heavy emotional triggers, Mahhi managed to control her reactions after Yung DSA brought up her daughter's name."
+        ]
+      },
+      {
+        "h": "Arishfa Khan Removed as Captain",
+        "p": [
+          "In addition to individual conflicts, collective rule-breaking had severe consequences for the entire house. Arishfa Khan has been removed from her position as the Bigg Boss 20 captain because contestants violated multiple rules.",
+          "With Arishfa losing her safe captain status, she and the remaining housemates now face direct nomination risk as the game moves deeper into Week 10."
+        ]
+      },
+      {
+        "h": "Season Context and Eviction Pressures",
+        "p": [
+          "The tension arrives at a critical juncture in the season, where personal equations carry as much weight as strategic gameplay. Six contestants have already exited the house since the show premiered on September 6.",
+          "With another elimination likely during the upcoming Weekend Ka Vaar, players are feeling the intense pressure of the tightening finale race."
+        ]
+      },
+      {
+        "h": "Broadcast Details and Online Availability",
+        "p": [
+          "Viewers can watch Episode 67 upon its premiere on Wednesday, November 11, at 9 pm on JioHotstar. A repeat telecast is also scheduled to air on the Colors channel at 10:30 pm.",
+          "Fans looking to stream the episode online can find it on Dailymotion after its JioHotstar premiere past 11 pm, though viewers are encouraged to use authorised platforms to avoid copyright removal."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 Episode 67 brings intense drama as Mahhi Vij faces targeted emotional attacks involving her daughter Tara during a tolerance task. Meanwhile, Arishfa Khan loses her captaincy due to repeated rule violations by housemates, increasing the overall nomination risk ahead of the weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 premiered on September 6",
+      "Episode 67 airs on Wednesday, November 11",
+      "Six contestants have exited the house so far",
+      "Arishfa Khan was removed as captain due to rule breaks"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Mahhi Vij",
+        "Arishfa Khan",
+        "Love Gill",
+        "Uditi Singh",
+        "Yung DSA",
+        "Jay Bhanushali",
+        "Tara"
+      ],
+      "titles": [
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20 Episode 67",
+      "Mahhi Vij emotion task",
+      "Arishfa Khan captaincy removed",
+      "Bigg Boss 20 November 11"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20episode67dailymotion-90901794427407.jpg",
+        "caption": "Mahhi Vij Targeted in Emotion Task as Arishfa Khan Loses Captaincy in Bigg Boss 20 Episode 67",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:00:29 +0530"
+  },
+  "1ch2j9v": {
+    "id": "1ch2j9v",
+    "type": "news",
+    "headline": "The Odyssey Leads 2027 Best Picture Oscar Odds as Early Race Heats Up",
+    "dek": "Christopher Nolan's blockbuster epic tops the latest prediction lists for the upcoming Academy Awards, while several contenders eye historic milestones.",
+    "body": [
+      {
+        "h": "The Frontrunner Status",
+        "p": [
+          "Christopher Nolan's latest cinematic epic has surged to the forefront of the upcoming Academy Awards discussions. Having already surpassed the massive financial milestone of $1.8 billion at the global box office, the film is capturing immense attention from industry forecasters. If it manages to secure the ultimate prize, it would achieve a rare feat accomplished by only two other billion-dollar grossing films in history."
+        ]
+      },
+      {
+        "h": "Forecasting Methodology",
+        "p": [
+          "The current standings are compiled through a rigorous forecasting system that aggregates data from three distinct contributor tiers. The predictive model weighs insights gathered from expert voters across major media organizations, dedicated awards editors from entertainment publications, and the top-performing prediction users who demonstrated the highest accuracy scores during the previous season."
+        ]
+      },
+      {
+        "h": "International Contenders",
+        "p": [
+          "International cinema holds a strong position in the upper tiers of the race, led by Los Javis' feature which sits directly behind the top rank. Another notable foreign-language contender appears further down the list, and a nomination for either project would maintain a remarkably consistent multi-year streak of international representation in the top category."
+        ]
+      },
+      {
+        "h": "Chasing History and Milestones",
+        "p": [
+          "Among the most talked-about contenders is a buzzy documentary feature directed by Nathan Fielder and Lance Oppenheim. While it currently holds a strong position in its respective documentary category, its climb toward the main bracket presents a potential historic moment, given that the documentary branch has traditionally seen very few crossover nominations of this scale."
+        ]
+      },
+      {
+        "h": "Top Tier and Bubble Contenders",
+        "p": [
+          "Rounding out the leading group are notable projects helmed by acclaimed filmmakers, alongside several high-profile sequels and dramas filling out the remaining slots. The competitive tension is particularly fierce near the bottom of the ten available nomination slots, where bubble films fight to maintain their footing against rising challengers."
+        ]
+      },
+      {
+        "h": "Shifting Momentum on the Charts",
+        "p": [
+          "Recent weekly updates have exposed significant volatility among the lower tiers of the prediction standings. While certain projects have experienced sharp ascents following surges in interest, others have suffered notable descents, reflecting the unpredictable nature of the race as campaigns ramp up."
+        ]
+      },
+      {
+        "h": "Ceremony Timeline",
+        "p": [
+          "Industry observers do not have to wait much longer for official validation of these forecasts, as the formal Academy Award nominations are scheduled to be revealed on January 21. The 99th Academy Awards ceremony will subsequently broadcast live on ABC on March 14, with Conan O'Brien returning to host the event for the third consecutive year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Christopher Nolan's The Odyssey leads the early Best Picture odds for the 2027 Academy Awards after crossing $1.8 billion globally. The race features strong international contenders and historic possibilities, with official nominations set for January ahead of the March ceremony hosted by Conan O'Brien."
+        ]
+      }
+    ],
+    "facts": [
+      "The Odyssey has crossed $1.8 billion at the global box office.",
+      "Oscar nominations will be announced on January 21.",
+      "The 99th Academy Awards will air on March 14, 2027, on ABC.",
+      "Conan O'Brien is hosting the Academy Awards for the third straight year."
+    ],
+    "entities": {
+      "people": [
+        "Christopher Nolan",
+        "Julianne Moore",
+        "John Malkovich",
+        "Anne Hathaway",
+        "Paul Giamatti",
+        "Los Javis",
+        "Ryusuke Hamaguchi",
+        "Martin McDonagh",
+        "Nathan Fielder",
+        "Lance Oppenheim",
+        "Luca Guadagnino",
+        "Cristian Mungiu",
+        "Conan O'Brien"
+      ],
+      "titles": [
+        "The Odyssey",
+        "You Can See Everything",
+        "The Debut",
+        "Wild Horse Nine",
+        "La Bola Negra",
+        "Werwulf",
+        "Project Hail Mary",
+        "Wildwood",
+        "Naza",
+        "Titanic",
+        "The Lord of the Rings: The Return of the King",
+        "Parasite",
+        "All of a Sudden",
+        "The Invite",
+        "Dune: Part Three",
+        "Artificial",
+        "Fjord"
+      ]
+    },
+    "keywords": [
+      "The Odyssey film",
+      "Oscars 2027 Best Picture odds",
+      "Christopher Nolan The Odyssey",
+      "You Can See Everything film",
+      "La Bola Negra movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/split-image-1920-13.jpg?w=650",
+        "caption": "The Odyssey Leads 2027 Best Picture Oscar Odds as Early Race Heats Up",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 20:00:00 +0000"
   }
 };
