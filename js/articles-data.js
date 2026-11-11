@@ -118486,5 +118486,328 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 16:00:00 +0000"
+  },
+  "1643vxd": {
+    "id": "1643vxd",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 15 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 15 aired on 2026-11-11 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 15 aired on 2026-11-11 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=hhmcrspOy6Y"
+        ]
+      },
+      {
+        "h": "About Lagan Lagi",
+        "p": [
+          "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode mein Zavier apni mother ki medical reports check karwata hai, jahan doctor batati hai ke unka brain issue ho sakta hai aur neuro surgeon se milne ki zaroorat hai. Zavier pareshan ho jata hai. Woh apni mother Sophia ki tabiyat aur appointment ke baray mein sochta hai. Zavier aur Nabeel ki office mein kuch behas hoti hai jab Zavier company account access karne ki koshish karta hai lekin access nahi milta kyunki Sophia ki authority hoti hai. Dusri taraf, Daniyal aur Zunaira ki phone call par baat hoti hai jahan Daniyal uske birthday aur surprises ke baray mein baat karta hai. Zunaira apni family ke sath shopping ke liye tayar hoti hai aur Nabeel usko birthday ki tayariyan karwata hai. Episode ke aakhir mein Sophia ki tabiyat achanak kharab ho jati hai aur Zavier usko sambhalne ki koshish karta hai, jisse ghar ka mahaul tense ho jata hai."
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 15 aired on 2026-11-11.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=hhmcrspOy6Y",
+      "YouTube views: 8.",
+      "TMDB: Lagan Lagi (id 337316).",
+      "Episode summary added 2026-11-11."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/hhmcrspOy6Y/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 15",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-11T17:00:23Z"
+  },
+  "15a1507": {
+    "id": "15a1507",
+    "type": "news",
+    "headline": "Bano Episode 28 — Watch Online on Geo TV",
+    "dek": "Bano episode 28 aired on 2026-11-11 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 28 aired on 2026-11-11 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=C0RhMMcoN34"
+        ]
+      },
+      {
+        "h": "Episode Summary",
+        "p": [
+          "Is episode ki shuruat mein Meharunnisa, Shaharyar aur Bano ke paas aati hai aur kehti hai ke yeh ghar uska hai aur woh Shaharyar ki pehli biwi hai, isliye koi Bano aakar uska haq nahi cheen sakti. Shaharyar kehta hai ke tumhari ijazat se hi meri shadi hui hai lekin main Bano se mohabbat karta hoon. Meharunnisa gusse mein kehti hai ke ya toh Bano ko talaq do ya mujhe, drama khatam karo. Mom and Dad bhi wahan aa jaate hain aur kehte hain ke agar aulad ka masla hai toh bacha adopt kar lete hain. Shaharyar kehta hai ke masla aulad ka nahi, sukoon ka hai jo mehsoos kiya jata hai. Mom kehti hain ke jab koi apne ghar mein ajnabi sa feel kare toh deewarein bhi pehchanne se inkar kar deti hain. Meharunnisa kehti hai ke yeh ghar mere baap ke paas girvi pada hai, main kahin nahi jaungi. Shaharyar kehta hai ke ghar tumhare baap ke paas girvi hai lekin Meharunnisa nahi. Bano wahan se chali jaati hai aur Shaharyar bhi uske peeche chala jaata hai. Aik restaurant mein Bano Shaharyar ke sath baith kar kehti hai ke aap chahe jitna bhi kahein lekin aap Meharunnisa ke shohar hain aur mujhe lagta hai jaise maine kuch churaya hai. Shaharyar kehta hai ke mohabbat aur ehsaas churaye nahi jaate aur humne kabhi khushi nahi dekhi thi. Bano poochti hai ke kya aapne shadi majboori mein ki thi, Shaharyar kehta hai ke han majboori mein ki thi aur Meharunnisa mujhe har mor par yeh ehsaas dilati hai ke woh mujhse zyada achhi hai. Dusri taraf, Bano ke ghar par Noor ki ammi aur behan baat karti hain ke Noor aur Shaharyar ki shadi hui hoti to kitna acha hota. Shaharyar aur Bano apas mein baatein karte hain aur ek dusre ka sath hamesha nibhane ka wada karte hain. Noor ki ammi Noor ko samjhaati hain ke Meharunnisa se shadi ke baad bhi agar woh khush nahi hai toh dil mein usko bhulana padega. Episode ke aakhir mein Bano aur Shaharyar khushi khushi apne kamre mein aapas mein baat karte hain aur ek dusre ke sath waqt guzaarte hain."
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 28 aired on 2026-11-11.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=C0RhMMcoN34",
+      "YouTube views: 220.",
+      "Episode summary added 2026-11-11."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/C0RhMMcoN34/hqdefault.jpg",
+        "caption": "Bano Episode 28",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-11T17:00:13Z"
+  },
+  "18r7ibo": {
+    "id": "18r7ibo",
+    "type": "news",
+    "headline": "VisionQuest Finale Achieves Record-Breaking IMDb Score and Sets Up Avengers: Doomsday",
+    "dek": "The Disney+ series concludes its run with an acclaimed final episode, matching a major Marvel record on IMDb and introducing massive connections to the wider Cinematic Universe.",
+    "body": [
+      {
+        "h": "The Conclusion of the WandaVision Trilogy",
+        "p": [
+          "Marvel's Disney+ platform has officially wrapped up its latest superhero journey with the conclusion of the VisionQuest series. Running across eight episodes, the show served as the final chapter of the WandaVision trilogy that originally began airing in 2021.",
+          "Over the course of a month-long emotional narrative, the project followed White Vision alongside Tommy Maximoff and Ultron as they navigated complex themes centered around grief, loss, and familial bonds."
+        ]
+      },
+      {
+        "h": "Record-Breaking IMDb Reception",
+        "p": [
+          "Audiences have responded enthusiastically to the final episode of the series, titled Forever. Garnering over 3,200 ratings so far, the installment achieved a remarkable 9.5 rating on IMDb.",
+          "This score allows the finale to tie with the season 2 finale of Loki, titled Glorious Purpose, making it one of the highest-rated Marvel episodes on Disney+ in history. Furthermore, the final two episodes of the series maintained an average score of at least 9.0."
+        ]
+      },
+      {
+        "h": "Key Confrontations and Performances",
+        "p": [
+          "The conclusion featured White Vision coming to terms with the grief of losing his family, culminating in a confrontation with the Client, whose human avatar of Ultron was revealed to be Phineas Horton's grandson.",
+          "Viewers and critics highlighted the performances delivered by James Spader and Paul Bettany during these pivotal final moments. The episode also incorporated emotional elements like the Maximoff family reunion and nods to the sitcom aesthetic established in WandaVision."
+        ]
+      },
+      {
+        "h": "A Major Post-Credits Shocker",
+        "p": [
+          "Much of the discussion surrounding the finale focuses on its shocking post-credits sequences. The first scene showed a living Ultron looking out a window while holding a drive containing Jocasta.",
+          "The second post-credits sequence confirmed that Wanda Maximoff is still alive, following her sacrifice in Doctor Strange in the Multiverse of Madness. In the footage, Robert Downey Jr.'s Doctor Doom saves the Scarlet Witch and assumes control of her powers."
+        ]
+      },
+      {
+        "h": "Setting Up Avengers: Doomsday",
+        "p": [
+          "The revelation regarding the Scarlet Witch has created significant internet frenzy and heightened fan anticipation for the upcoming theatrical release of Avengers: Doomsday. Reports indicate that fan excitement was so high that ticket sales surged, leading to temporary crashes on the AMC theater app.",
+          "Serving as the final Marvel Cinematic Universe project leading directly into the crossover film, the series has cemented its place in the franchise's overarching timeline."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Future Outlook",
+        "p": [
+          "The series was created by showrunner Terry Matalas, who also directed alongside Vincenzo Natali, Christopher J. Byrne, and Gandja Monteiro. The supporting cast featured actors such as Todd Stashwick, Lauren Morais, Orla Brady, Diane Morgan, and Emily Hampshire.",
+          "As of now, Marvel Studios has not announced plans for a second season or any direct spinoff projects tied to the show. All eight episodes are currently available for streaming on Disney+, ahead of the release of Avengers: Doomsday on December 18."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The final episode of VisionQuest has tied with Loki for the highest-rated Marvel episode on Disney+ on IMDb with a score of 9.5. The finale delivered emotional closures for the WandaVision trilogy while setting up Avengers: Doomsday through a post-credits reveal confirming the survival of the Scarlet Witch."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest features Paul Bettany as White Vision, Ruaridh Mollica as Tommy Maximoff, and James Spader as Ultron.",
+      "The final episode of VisionQuest, titled Forever, received an IMDb rating of 9.5 with over 3,200 ratings.",
+      "VisionQuest ties with Loki season 2 episode 6, Glorious Purpose, as the highest-rated Marvel episode on Disney+.",
+      "Avengers: Doomsday is scheduled for release on December 18.",
+      "Terry Matalas created and served as showrunner for VisionQuest."
+    ],
+    "entities": {
+      "people": [
+        "Fariba Rezwan",
+        "Paul Bettany",
+        "Ruaridh Mollica",
+        "James Spader",
+        "Phineas Horton",
+        "Robert Downey Jr.",
+        "Anthony Mackie",
+        "Terry Matalas",
+        "Todd Stashwick",
+        "Lauren Morais",
+        "Orla Brady",
+        "Diane Morgan",
+        "Polly Frame",
+        "Henry Lewis",
+        "Jonathan Sayer",
+        "Emily Hampshire",
+        "Vincenzo Natali",
+        "Christopher J. Byrne",
+        "Gandja Monteiro",
+        "Cindy Appel",
+        "Nicole Falsetti",
+        "Christopher Monfette",
+        "Matthew Okumura",
+        "Michael Taylor"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "WandaVision",
+        "Loki",
+        "Daredevil: Born Again",
+        "Agatha All Along",
+        "Doctor Strange in the Multiverse of Madness",
+        "VisionQuest",
+        "Married At First Sight"
+      ]
+    },
+    "keywords": [
+      "VisionQuest",
+      "VisionQuest finale Forever IMDb record",
+      "Paul Bettany James Spader VisionQuest",
+      "WandaVision trilogy VisionQuest Disney plus"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/ultron-is-holding-vision-on-his-head-in-visionquest.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "VisionQuest Finale Achieves Record-Breaking IMDb Score and Sets Up Avengers: Doomsday",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 15:59:48 GMT"
+  },
+  "ez9ffi": {
+    "id": "ez9ffi",
+    "type": "news",
+    "headline": "Heaven's Gate Cult Thriller 'The Leader' Acquired by Dark Sky Films for U.S. Distribution",
+    "dek": "The true-crime feature directed by Michael Gallagher and starring Vera Farmiga, Tim Blake Nelson, and Jim Parsons has secured a late March 2027 theatrical release window.",
+    "body": [
+      {
+        "h": "U.S. Distribution Acquisition",
+        "p": [
+          "Dark Sky Films has officially secured the United States distribution rights for the true-crime cult thriller titled The Leader. The acquisition strategy targets a theatrical launch in late March 2027 to align precisely with the 30th anniversary of the Heaven's Gate tragedy.",
+          "The agreement was successfully finalized following negotiations between Greg Newman, representing Dark Sky Films as executive vice president, and Brian O’Shea of The Exchange and Voltage Film Sales."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The feature film boasts a prominent ensemble cast led by Vera Farmiga, Tim Blake Nelson, and Jim Parsons. Additional supporting cast members featured in the production include Grace Caroline Currey and Simon Rex.",
+          "The project is written and directed by Michael Gallagher. Producers attached to the film include Jana Gallagher, Michael Wormser, Michael J. Gallagher, Joel David Moore, and Matt Murphie."
+        ]
+      },
+      {
+        "h": "Historical Background and Plot",
+        "p": [
+          "The narrative centers around the historical events of the California religious group, focusing on the fateful partnership formed in the early 1970s. Tim Blake Nelson portrays Marshall Herff Applewhite, a former music teacher, while Vera Farmiga steps into the role of Bonnie Lu Nettles, a nurse.",
+          "Their chance encounter sparks an intense spiritual partnership based on the belief that they were chosen to lead humanity toward an elevated plane of existence. This foundation leads to the establishment of Heaven's Gate, drawing followers who ultimately surrender their possessions and sever ties with families."
+        ]
+      },
+      {
+        "h": "Festival Reception and Critical Response",
+        "p": [
+          "Before securing its U.S. home, the picture held its world premiere at the Tribeca Film Festival, where it received favorable critical attention. Reviewers drew thematic comparisons to previous notable cinematic explorations of insular communities.",
+          "Critical praise highlighted the movie's potent dramatic weight, with comparisons pointing toward intense psychological dramas exploring life within insular belief systems."
+        ]
+      },
+      {
+        "h": "Director's Personal Connection",
+        "p": [
+          "Filmmaker Michael Gallagher spent more than a decade conducting rigorous research into the historical event, utilizing archival footage and public records. His personal connection to the tragedy stems from his childhood experiences.",
+          "Gallagher noted that 39 individuals died in his neighborhood when he was eight years old, leaving a profound impact that motivated him to construct a grounded, humanity-focused narrative examining cult influence and the human need for belonging."
+        ]
+      },
+      {
+        "h": "Production and Behind-the-Scenes Crew",
+        "p": [
+          "The extensive crew backing the production features cinematography by Ben Mullen and production design managed by Tye Whipple. Costumes were designed by Zachary Sheets, and editing was handled by Joel Jay Blacker.",
+          "Casting duties were managed by Lisa Essary CSA, while the original score was composed by horror composer Joseph Bishara. Multiple production companies collaborated on the venture, including Cinemand Films and Gold Rush Entertainment."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dark Sky Films has picked up U.S. distribution rights for the true-crime thriller The Leader, starring Vera Farmiga, Tim Blake Nelson, and Jim Parsons. Scheduled for a late March 2027 release to coincide with the 30th anniversary of the Heaven's Gate tragedy, the movie is written and directed by Michael Gallagher."
+        ]
+      }
+    ],
+    "facts": [
+      "Dark Sky Films acquired U.S. distribution rights for The Leader",
+      "The film is scheduled for release in late March 2027",
+      "The release aligns with the 30th anniversary of the Heaven's Gate tragedy",
+      "The film stars Vera Farmiga, Tim Blake Nelson, and Jim Parsons",
+      "Additional cast members include Grace Caroline Currey and Simon Rex",
+      "Michael Gallagher serves as writer and director",
+      "Tim Blake Nelson plays Marshall Herff Applewhite and Vera Farmiga plays Bonnie Lu Nettles",
+      "The film had its world premiere at the Tribeca Film Festival",
+      "Greg Newman negotiated for Dark Sky Films and Brian O’Shea negotiated for The Exchange/Voltage"
+    ],
+    "entities": {
+      "people": [
+        "Vera Farmiga",
+        "Tim Blake Nelson",
+        "Jim Parsons",
+        "Grace Caroline Currey",
+        "Simon Rex",
+        "Michael Gallagher",
+        "Marshall Herff Applewhite",
+        "Bonnie Lu Nettles",
+        "Greg Newman",
+        "Brian O’Shea",
+        "Jana Gallagher",
+        "Michael Wormser",
+        "Michael J. Gallagher",
+        "Joel David Moore",
+        "Matt Murphie",
+        "Ben Mullen",
+        "Tye Whipple",
+        "Zachary Sheets",
+        "Joel Jay Blacker",
+        "Lisa Essary",
+        "Joseph Bishara"
+      ],
+      "titles": [
+        "The Leader",
+        "Heaven's Gate",
+        "Martha Marcy May Marlene"
+      ]
+    },
+    "keywords": [
+      "The Leader film",
+      "Dark Sky Films The Leader",
+      "Vera Farmiga Tim Blake Nelson",
+      "Michael Gallagher Heaven's Gate"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/TheLeader_Applewhite.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Heaven's Gate Cult Thriller 'The Leader' Acquired by Dark Sky Films for U.S. Distribution",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 15:30:00 +0000"
   }
 };

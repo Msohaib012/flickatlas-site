@@ -2,25 +2,31 @@
  "today_pkt": "2026-11-11",
  "sources": 137,
  "status": {
-  "not_due": 137
+  "not_due": 118,
+  "ok": 19
  },
- "queue_total": 349,
- "stories_total": 381,
- "duplicates_removed": 0,
+ "queue_total": 376,
+ "stories_total": 385,
+ "duplicates_removed": 2,
  "categories": {
-  "Box Office": 1,
-  "Awards": 3,
-  "Trailers": 7,
-  "Music / OST": 10,
+  "Box Office": 2,
+  "Awards": 4,
+  "Trailers": 11,
+  "Music / OST": 13,
   "Episodes": 16,
-  "Upcoming releases": 3,
-  "OTT / Streaming": 8,
-  "TV & Dramas": 8,
-  "Celebrity news & events": 14,
-  "Movies": 277,
-  "Entertainment viral": 2
+  "Upcoming releases": 4,
+  "OTT / Streaming": 7,
+  "TV & Dramas": 10,
+  "Celebrity news & events": 17,
+  "Movies": 289,
+  "Entertainment viral": 3
  },
- "dropped": {},
+ "dropped": {
+  "section-page": 27,
+  "not-today": 2,
+  "no-date": 73,
+  "slug-junk": 11
+ },
  "per_source": [
   {
    "source": "AddaToday",
@@ -87,17 +93,17 @@
   },
   {
    "source": "UpcomingZone",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 4,
+   "note": ""
   },
   {
    "source": "Filmfare",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "status": "ok",
+   "new": 10,
+   "total": 1333,
+   "note": ""
   },
   {
    "source": "Times of India — Entertainment",
@@ -192,17 +198,17 @@
   },
   {
    "source": "IndiaGlitz",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 11,
+   "note": ""
   },
   {
    "source": "Aaj Tak — Entertainment",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "status": "ok",
+   "new": 22,
+   "total": 245,
+   "note": ""
   },
   {
    "source": "NDTV Movies",
@@ -213,10 +219,10 @@
   },
   {
    "source": "Times Now — Entertainment",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "status": "ok",
+   "new": 25,
+   "total": 116,
+   "note": ""
   },
   {
    "source": "Film Companion",
@@ -227,17 +233,17 @@
   },
   {
    "source": "OTTplay",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
    "total": 0,
-   "note": "12h cadence: check not due"
+   "note": ""
   },
   {
    "source": "Box Office Mojo",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 102,
+   "note": ""
   },
   {
    "source": "CinemaBlend",
@@ -318,10 +324,10 @@
   },
   {
    "source": "Rotten Tomatoes",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 62673,
+   "note": ""
   },
   {
    "source": "TheWrap",
@@ -353,10 +359,10 @@
   },
   {
    "source": "Vulture",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "status": "ok",
+   "new": 6,
+   "total": 32230,
+   "note": ""
   },
   {
    "source": "The Playlist",
@@ -409,10 +415,10 @@
   },
   {
    "source": "TV Guide",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 21,
+   "note": ""
   },
   {
    "source": "Gold Derby",
@@ -437,10 +443,10 @@
   },
   {
    "source": "JustWatch",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "status": "ok",
+   "new": 6,
+   "total": 329,
+   "note": ""
   },
   {
    "source": "Reelgood",
@@ -528,10 +534,10 @@
   },
   {
    "source": "Dramas.pk",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 1308,
+   "note": ""
   },
   {
    "source": "Green TV Entertainment (YouTube)",
@@ -584,24 +590,24 @@
   },
   {
    "source": "ARY Digital (official site)",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 13,
+   "note": ""
   },
   {
    "source": "GEO TV",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 100,
+   "note": ""
   },
   {
    "source": "Green Entertainment (official site)",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 2,
+   "note": ""
   },
   {
    "source": "Galaxy Lollywood",
@@ -696,10 +702,10 @@
   },
   {
    "source": "Yonhap News Agency — Entertainment",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "status": "ok",
+   "new": 2,
+   "total": 70,
+   "note": ""
   },
   {
    "source": "British Comedy Guide",
@@ -822,17 +828,17 @@
   },
   {
    "source": "Famous Birthdays",
-   "status": "not_due",
-   "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "status": "ok",
+   "new": 1,
+   "total": 24,
+   "note": ""
   },
   {
    "source": "The Famous People",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 73,
+   "note": ""
   },
   {
    "source": "Page Six",
@@ -864,10 +870,10 @@
   },
   {
    "source": "HELLO! Pakistan (H! Pakistan Magazine)",
-   "status": "not_due",
+   "status": "ok",
    "new": 0,
-   "total": 0,
-   "note": "12h cadence: check not due"
+   "total": 1,
+   "note": ""
   },
   {
    "source": "HELLO! Magazine",
