@@ -119193,5 +119193,406 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 21:59:23 +0530"
+  },
+  "1yc0bxa": {
+    "id": "1yc0bxa",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Dubbed Versions Cross Rs 100 Crore in South India Within Six Days",
+    "dek": "Nitesh Tiwari's directorial venture starring Ranbir Kapoor, Sai Pallavi, and Yash has achieved a major milestone by crossing Rs 104.45 crore net across South Indian dubbed markets within six days of release.",
+    "body": [
+      {
+        "h": "Milestone Achievement in South India",
+        "p": [
+          "The dubbed editions of Ramayana: Part 1 have officially crossed the Rs 100 crore milestone at the South Indian box office. Trade reports indicate that the film reached this figure within six days of its theatrical run.",
+          "The combined net earnings across the Kannada, Telugu, Tamil, and Malayalam versions stand at Rs 104.45 crore. This performance sets a new benchmark for Hindi-origin films entering the South Indian market."
+        ]
+      },
+      {
+        "h": "Breakdown Across Regional Markets",
+        "p": [
+          "Contribution from the individual regional versions reveals varied figures across different states. The Kannada version leads the regional collections with approximately Rs 41 crore, aided by the notable presence of Yash.",
+          "Meanwhile, the Telugu market contributed around Rs 33 crore. Tamil Nadu and Kerala generated Rs 17.35 crore and Rs 12.90 crore respectively, bringing the total regional tally past the Rs 100 crore mark."
+        ]
+      },
+      {
+        "h": "Comparison With Previous Bollywood Releases",
+        "p": [
+          "Ramayana has reportedly become the first Hindi-origin film to surpass the Rs 100 crore net milestone through its dubbed formats in South India. These regional figures have already overtaken the lifetime earnings achieved by previous Bollywood blockbusters in the area.",
+          "Earlier titles such as Jawan, Animal, War 2, and Dhurandhar were surpassed by these figures. This performance is especially notable given the recent difficulties other theatrical releases have experienced in capturing South Indian audiences."
+        ]
+      },
+      {
+        "h": "Strategic Distribution and Screen Allocation",
+        "p": [
+          "The film utilized an unconventional distribution model to secure its regional success. While major Hindi releases typically prioritize original-language screens, distributors assigned nearly equal screen counts to the dubbed versions.",
+          "Cities like Bengaluru and Hyderabad saw significant screen allocation for the regional formats. This localized approach allowed the film to connect more effectively with native-language theatergoers."
+        ]
+      },
+      {
+        "h": "Star Power and Regional Appeal",
+        "p": [
+          "The multi-industry cast played a crucial role in expanding the film's regional footprint. The inclusion of actors popular in southern industries, such as Sai Pallavi and Yash alongside Ranbir Kapoor, boosted pre-release anticipation.",
+          "Audience reception in regional markets has been strong due to this casting strategy. The positive word-of-mouth further sustained the box-office momentum across all four language versions."
+        ]
+      },
+      {
+        "h": "Overall Contribution to Box Office",
+        "p": [
+          "The earnings from the South Indian dubbed versions form a substantial portion of the film's broader theatrical run. These regional collections account for roughly 23 percent of the reported all-India net collection of Rs 440 crore.",
+          "Trade analysts attribute this widespread success to a combination of Nitesh Tiwari's direction and robust distribution partnerships. The coordinated pan-Indian strategy successfully translated into high theater attendance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The dubbed versions of Ramayana: Part 1 crossed Rs 104.45 crore net in South India within six days of release. The film set a record for a Hindi-origin project in the region by surpassing previous blockbusters through targeted regional distribution and an ensemble cast."
+        ]
+      }
+    ],
+    "facts": [
+      "The dubbed versions of Ramayana: Part 1 crossed Rs 104.45 crore net across South India within six days.",
+      "The Kannada version contributed approximately Rs 41 crore.",
+      "The Telugu market contributed around Rs 33 crore.",
+      "Tamil Nadu reported collections of Rs 17.35 crore.",
+      "Kerala reported collections of Rs 12.90 crore.",
+      "The South Indian collections account for approximately 23 per cent of the film's reported all-India net collection of Rs 440 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Jawan",
+        "Animal",
+        "War 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana South India collections",
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayanacollections1794398021.jpg",
+        "caption": "Ramayana: Part 1 Dubbed Versions Cross Rs 100 Crore in South India Within Six Days",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-11T17:29:23+05:30"
+  },
+  "yumzij": {
+    "id": "yumzij",
+    "type": "news",
+    "headline": "Black Clover Season 2 Episode 7 Release Date and Spade Kingdom Raid Details",
+    "dek": "A comprehensive look at Black Clover season 2 episode 7, titled Beyond Despair, covering release schedules, the Supreme Devil Megicula, and the unfolding Spade Kingdom raid chaos.",
+    "body": [
+      {
+        "h": "The Escalating Threat in the Spade Kingdom Raid",
+        "p": [
+          "The Clover Kingdom raid squad faced an overwhelming escalation when Noelle Silva utilized her new Saint Valkyrie Armor to overpower Vanica Zogratis. However, this triumph triggered an unexpected disaster by granting the Supreme Devil Megicula the opening required to infiltrate the human world.",
+          "Unlike conventional devil adversaries, Megicula initiated a partial manifestation without waiting for the standard Qliphoth ritual. Employing the forbidden Curse-Warding spell known as Malevolent Femcantation, the devil began sacrificing cursed souls to accelerate her arrival."
+        ]
+      },
+      {
+        "h": "Devastation on the Battlefield",
+        "p": [
+          "Megicula's partial emergence left the battlefield in ruins, resulting in the defeats of Charlotte and Rill, critical injuries for Gaja, and the transformation of Princess Lolopechka into a Demon Water puppet.",
+          "With Noelle's one-minute time limit for her Saint Valkyrie Armor exhausted, the Magic Knights find themselves critically depleted of resources to mount an effective defense against the escalating threat."
+        ]
+      },
+      {
+        "h": "Release Schedule and Streaming Details",
+        "p": [
+          "Season 2, episode 7, which is episode 177 overall and titled Beyond Despair, is scheduled to premiere on Saturday, November 14, 2026, at 8:00 AM PT / 11:00 AM ET. The episode will air exclusively on Crunchyroll following its initial broadcast on TV Tokyo in Japan.",
+          "Viewers following the English dub must exercise patience, as the dub premiered on October 17 and maintains a two-episode delay behind the subtitled release schedule."
+        ]
+      },
+      {
+        "h": "Desperate Measures and Reinforcements",
+        "p": [
+          "Previews for the upcoming episode reveal Spirit Guardian Gaja pushing his limits by sacrificing his life force in an Ultimate Lightning Magic attack against Megicula, though the Supreme Devil regenerates from the onslaught.",
+          "As Princess Lolopechka faces imminent self-destruction, Luck and Asta arrive on the scene, utilizing Asta's Anti-Magic to neutralize the curse's explosion while Nozel Silva steps in to assist Noelle."
+        ]
+      },
+      {
+        "h": "The Dark Triad and Upcoming Confrontations",
+        "p": [
+          "With Dante already defeated by Magna and Vanica's battle nearing its conclusion, the focus shifts entirely to the final Dark Triad confrontation featuring Yuno and Langris Vaude against Zenon Zogratis.",
+          "Zenon relies on his formidable Bone Magic and Spatial Mana Domination, presenting a distinct tactical hurdle that demands strategic precision from Yuno."
+        ]
+      },
+      {
+        "h": "Production Quality and Behind-the-Scenes Threats",
+        "p": [
+          "Studio Pierrot has drawn widespread acclaim for its animation quality throughout the current arc, helping position Black Clover as a prominent anime hit of Fall 2026 and a leading title on IMDb.",
+          "Simultaneously, the exiled Diamond Kingdom scientist Morris Libardirt operates from the castle core, utilizing devil-boosted Modification Magic and Lolopechka's stolen knowledge to rewire the Qliphoth tree."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Black Clover season 2 episode 7, titled Beyond Despair, releases on November 14, 2026, amidst the chaotic Spade Kingdom raid involving Supreme Devil Megicula. While the Magic Knights struggle against devastating odds and shifting loyalties, background threats from Morris Libardirt continue to push the Qliphoth ritual forward."
+        ]
+      }
+    ],
+    "facts": [
+      "Black Clover season 2 episode 7 is titled Beyond Despair.",
+      "The episode releases on Saturday, November 14, 2026, at 8:00 AM PT / 11:00 AM ET.",
+      "Studio Pierrot handles the animation for Black Clover.",
+      "The English dub premiered on October 17 and runs two episodes behind the sub."
+    ],
+    "entities": {
+      "people": [
+        "Umair Nakade",
+        "Noelle Silva",
+        "Vanica Zogratis",
+        "Megicula",
+        "Acier Silva",
+        "Charlotte",
+        "Rill",
+        "Gaja",
+        "Lolopechka",
+        "Nozel Silva",
+        "Luck",
+        "Asta",
+        "Magna",
+        "Yuno",
+        "Langris Vaude",
+        "Zenon Zogratis",
+        "Morris Libardirt",
+        "Dante",
+        "Gokul Chettiyar",
+        "Jack Lowden",
+        "Josh O’Connor",
+        "Callum Turner"
+      ],
+      "titles": [
+        "Black Clover",
+        "Dragon Ball",
+        "Dororo",
+        "Pokémon Winds Waves",
+        "Married At First Sight Season 18"
+      ]
+    },
+    "keywords": [
+      "Black Clover season 2 episode 7",
+      "Beyond Despair release date",
+      "Megicula Spade Kingdom raid",
+      "Noelle Silva Saint Valkyrie Armor"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/black-clover-season-2-episode-7-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Black Clover Season 2 Episode 7 Release Date and Spade Kingdom Raid Details",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 18:00:18 GMT"
+  },
+  "awfpyg": {
+    "id": "awfpyg",
+    "type": "news",
+    "headline": "Suriya's Scene Enters ₹100 Crore Club Despite 40% Wednesday Drop",
+    "dek": "Suriya's latest Tamil crime comedy Scene has officially crossed the ₹100 crore mark at the Indian box office, though its daily collections slowed down significantly with a 40% drop on Wednesday.",
+    "body": [
+      {
+        "h": "Milestone Achievement",
+        "p": [
+          "Tamil actor Suriya is having a massive theatrical year, following up previous releases Karuppu and Vishwanath Sons with his third film of 2026, Scene. Released on November 6, 2026, the crime comedy has successfully crossed the ₹100 crore milestone at the Indian box office.",
+          "After a promising opening weekend and a steady performance through the initial weekdays, the film managed to cross the coveted financial milestone despite facing a notable slowdown on its sixth day in theatres."
+        ]
+      },
+      {
+        "h": "Box Office Numbers and Day 6 Drop",
+        "p": [
+          "According to box office figures from trade tracker Sacnilk, Scene earned ₹7.45 crore net in India on Wednesday. This figure represents an approximate 40% decrease compared to its Tuesday collection of ₹12.85 crore.",
+          "Following these Wednesday receipts, the total India net collection for the Tamil crime comedy stands at ₹104.85 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance and Show Counts",
+        "p": [
+          "On its sixth theatrical day, the film was screened across 5,287 shows nationwide, recording an overall occupancy rate of 29.9%.",
+          "The Tamil version continued to drive the majority of the business, generating ₹5.70 crore across 3,837 shows and accounting for 76.5% of the day's earnings. Meanwhile, the Telugu version contributed ₹1.75 crore from 1,450 shows, with other language versions making up the remaining amount."
+        ]
+      },
+      {
+        "h": "Director and Crew Details",
+        "p": [
+          "Scene is directed by Jithu Madhavan, marking his Tamil directorial debut following his previous Malayalam films Romancham and Aavesham. The project also marks Sushin Shyam's debut as a music composer in Tamil cinema.",
+          "Behind the camera and in the editing suite, Vineeth Augustian handled the cinematography while Ajmal Sabu took charge of editing. The production is backed by Suriya and Jyotika under their banners 2D Entertainment and Zhagaram Studios."
+        ]
+      },
+      {
+        "h": "Cast and Plot Overview",
+        "p": [
+          "The film stars Suriya as DSP Inbaraj, a police officer dealing with failing eyesight who is forced away from active duty but determined to solve a new string of murders. He teams up with Maya, played by Nazriya Nazim, to investigate the case.",
+          "The investigation gets complicated with the introduction of a serial killer named Eswaran, played by Naslen, drawing parallels to an older case involving the 'perfume killer'. The supporting cast features Lal, Anandaraj, Rajpriyan, Suresh Mathiyalagan, and Gajaraj, alongside a special cameo appearance by Jyotika."
+        ]
+      },
+      {
+        "h": "Actor's Gratitude to Fans",
+        "p": [
+          "Following the film's strong box office momentum, Suriya took to Instagram to express his appreciation for the audience's reception. He thanked fans for trusting the team and coming out to theatres across language borders.",
+          "He shared that the overwhelming love and warmth give the team the courage to continue exploring new horizons in their cinematic journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's latest theatrical release, the Tamil crime comedy Scene, has surpassed ₹100 crore at the Indian box office following its November 6, 2026 premiere. Although the film experienced a 40% drop on its sixth day, earning ₹7.45 crore on Wednesday, its total net collections reached ₹104.85 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene released in theatres on November 6, 2026.",
+      "Scene earned ₹7.45 crore net in India on Wednesday.",
+      "Wednesday's earnings were 40% lower than Tuesday's collection of ₹12.85 crore.",
+      "The total India net collection of Scene stands at ₹104.85 crore.",
+      "On Day 6, the film ran across 5,287 shows with an occupancy of 29.9%.",
+      "The Tamil version earned ₹5.70 crore from 3,837 shows.",
+      "The Telugu version collected ₹1.75 crore from 1,450 shows."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Naslen",
+        "Nazriya Nazim",
+        "Lal",
+        "Anandaraj",
+        "Rajpriyan",
+        "Suresh Mathiyalagan",
+        "Gajaraj",
+        "Jyotika",
+        "Sushin Shyam",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath Sons",
+        "Romancham",
+        "Aavesham"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Suriya Scene box office",
+      "Scene collection day 6",
+      "Jithu Madhavan Scene",
+      "Scene Tamil movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/Scene_1794416286476_nmg4_1794416296243_exdg_3db0a3aa-c1c2-41b7-9433-f20e611c2644_OOJF.png",
+        "caption": "Suriya's Scene Enters ₹100 Crore Club Despite 40% Wednesday Drop",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 22:29:44 +0530"
+  },
+  "ya8ms3": {
+    "id": "ya8ms3",
+    "type": "news",
+    "headline": "Imtiaz Ali's O Saathi Re Gets Official Netflix Release Date",
+    "dek": "Arjun Rampal, Aditi Rao Hydari, and Avinash Tiwary star in the upcoming romantic drama series created by Imtiaz Ali.",
+    "body": [
+      {
+        "h": "Release Date Confirmed",
+        "p": [
+          "Audiences awaiting the arrival of O Saathi Re can officially mark their calendars as the premiere date has been announced. The romantic project is scheduled to land on streaming platforms this winter, bringing its narrative to viewers in December. Fans looking forward to the title will be able to watch it directly from home very soon.",
+          "The announcement has generated considerable interest across entertainment portals, highlighting the collaborative effort behind the upcoming title. With anticipation building up ahead of its premiere, the release schedule places the project right in the middle of the winter viewing calendar."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast",
+        "p": [
+          "The series features a prominent ensemble cast led by well-known performers from the film industry. Headlining the project are actors Arjun Rampal, Aditi Rao Hydari, and Avinash Tiwary, who bring their extensive experience to these complex roles. Their participation has been highlighted as a major draw for followers of contemporary Indian drama.",
+          "Director Arif Ali has guided these performers through the challenging emotional landscapes of the narrative. According to the creative team, the cast was specifically chosen for their ability to navigate the demanding, multi-layered arcs required by the script."
+        ]
+      },
+      {
+        "h": "Exploring Complex Relationships",
+        "p": [
+          "At its core, the narrative explores the intricate dynamics of partnerships where mutual affection does not always balance out evenly. Rather than relying on conventional romantic tropes, the story delves into the compromises partners make and the difficult choice of walking away when circumstances demand it. It offers a mature examination of affection that looks beyond superficial happiness.",
+          "The plot specifically follows the growth of connection and emotion between a couple undergoing divorce proceedings. This premise challenges standard perceptions of romance, illustrating that relationships involve not only coming together but also the painful process of letting go."
+        ]
+      },
+      {
+        "h": "Creator's Vision",
+        "p": [
+          "Imtiaz Ali serves as the writer, creator, and showrunner for the project, while also contributing as a producer. Discussing his conceptual approach, he described the production as a modern romantic narrative with traditional undercurrents. He noted that the story examines how affection can surface in unexpected places during challenging times.",
+          "Elaborating further on the thematic elements, the creator pointed out that being perfectly matched can sometimes feel burdensome. He emphasized that the storyline captures yearning and dreams alongside the reality of unequal relationships and eventual separation."
+        ]
+      },
+      {
+        "h": "Production and Collaboration",
+        "p": [
+          "Behind the scenes, the series is backed by a dedicated production team working to bring the vision to life. Alongside Imtiaz Ali, producers Mohit Choudhary and Shibasish Sarkar have helped steer the project under the banner of Window Seat Films. The directorial duties were handled by Arif Ali.",
+          "This project also marks another collaboration with a major streaming service following previous joint ventures. The creative team expressed gratitude for the ongoing relationship with their digital distribution partner, referencing earlier shared works like She and Amar Singh Chamkila."
+        ]
+      },
+      {
+        "h": "Platform Details",
+        "p": [
+          "The upcoming title will be made available exclusively to subscribers of the streaming platform Netflix. The digital service has established a prior track record with the creators, having previously hosted other notable titles from the same creative stable.",
+          "Viewers subscribed to the platform will be able to stream all episodes starting on the confirmed launch date in December. The rollout is expected to attract considerable viewership given the star power and creative pedigree involved."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The release date for the Netflix series O Saathi Re, created by Imtiaz Ali and directed by Arif Ali, has been officially set for December 4, 2026. Starring Arjun Rampal, Aditi Rao Hydari, and Avinash Tiwary, the project explores the complex emotional dynamics and eventual separation of a divorcing couple. Produced by Window Seat Films alongside partners Mohit Choudhary and Shibasish Sarkar, the show marks another collaboration with the streaming platform following past works like She and Amar Singh Chamkila."
+        ]
+      }
+    ],
+    "facts": [
+      "O Saathi Re releases on Netflix on December 4, 2026",
+      "The cast includes Arjun Rampal, Aditi Rao Hydari, and Avinash Tiwary",
+      "The series is directed by Arif Ali",
+      "Imtiaz Ali serves as the writer, creator, showrunner, and producer",
+      "Other producers include Mohit Choudhary and Shibasish Sarkar under Window Seat Films",
+      "Previous collaborations with Netflix mentioned include She and Amar Singh Chamkila"
+    ],
+    "entities": {
+      "people": [
+        "Arjun Rampal",
+        "Aditi Rao Hydari",
+        "Avinash Tiwary",
+        "Imtiaz Ali",
+        "Arif Ali",
+        "Mohit Choudhary",
+        "Shibasish Sarkar"
+      ],
+      "titles": [
+        "O Saathi Re",
+        "She",
+        "Amar Singh Chamkila"
+      ]
+    },
+    "keywords": [
+      "O Saathi Re release date",
+      "Arjun Rampal Aditi Rao Hydari",
+      "Imtiaz Ali Netflix show",
+      "Avinash Tiwary O Saathi Re"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/osaathi217943909901794391003.jpg",
+        "caption": "Imtiaz Ali's O Saathi Re Gets Official Netflix Release Date",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-11T17:40:39+05:30"
   }
 };

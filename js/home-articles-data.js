@@ -108,6 +108,59 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 11 Nov 2026 23:54:00 +0530"
   },
+  "yumzij": {
+    "id": "yumzij",
+    "type": "news",
+    "headline": "Black Clover Season 2 Episode 7 Release Date and Spade Kingdom Raid Details",
+    "dek": "A comprehensive look at Black Clover season 2 episode 7, titled Beyond Despair, covering release schedules, the Supreme Devil Megicula, and the unfolding Spade Kingdom raid chaos.",
+    "entities": {
+      "people": [
+        "Umair Nakade",
+        "Noelle Silva",
+        "Vanica Zogratis",
+        "Megicula",
+        "Acier Silva",
+        "Charlotte",
+        "Rill",
+        "Gaja",
+        "Lolopechka",
+        "Nozel Silva",
+        "Luck",
+        "Asta",
+        "Magna",
+        "Yuno",
+        "Langris Vaude",
+        "Zenon Zogratis",
+        "Morris Libardirt",
+        "Dante",
+        "Gokul Chettiyar",
+        "Jack Lowden",
+        "Josh O’Connor",
+        "Callum Turner"
+      ],
+      "titles": [
+        "Black Clover",
+        "Dragon Ball",
+        "Dororo",
+        "Pokémon Winds Waves",
+        "Married At First Sight Season 18"
+      ]
+    },
+    "keywords": [
+      "Black Clover season 2 episode 7",
+      "Beyond Despair release date",
+      "Megicula Spade Kingdom raid",
+      "Noelle Silva Saint Valkyrie Armor"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/black-clover-season-2-episode-7-3.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Black Clover Season 2 Episode 7 Release Date and Spade Kingdom Raid Details",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 18:00:18 GMT"
+  },
   "1643vxd": {
     "id": "1643vxd",
     "type": "news",
@@ -153,6 +206,52 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-11T17:00:13Z"
+  },
+  "awfpyg": {
+    "id": "awfpyg",
+    "type": "news",
+    "headline": "Suriya's Scene Enters ₹100 Crore Club Despite 40% Wednesday Drop",
+    "dek": "Suriya's latest Tamil crime comedy Scene has officially crossed the ₹100 crore mark at the Indian box office, though its daily collections slowed down significantly with a 40% drop on Wednesday.",
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jithu Madhavan",
+        "Naslen",
+        "Nazriya Nazim",
+        "Lal",
+        "Anandaraj",
+        "Rajpriyan",
+        "Suresh Mathiyalagan",
+        "Gajaraj",
+        "Jyotika",
+        "Sushin Shyam",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Monica Yadav"
+      ],
+      "titles": [
+        "Scene",
+        "Karuppu",
+        "Vishwanath Sons",
+        "Romancham",
+        "Aavesham"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Suriya Scene box office",
+      "Scene collection day 6",
+      "Jithu Madhavan Scene",
+      "Scene Tamil movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/11/1600x900/logo/Scene_1794416286476_nmg4_1794416296243_exdg_3db0a3aa-c1c2-41b7-9433-f20e611c2644_OOJF.png",
+        "caption": "Suriya's Scene Enters ₹100 Crore Club Despite 40% Wednesday Drop",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 22:29:44 +0530"
   },
   "1067iib": {
     "id": "1067iib",
@@ -1345,6 +1444,77 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 18:15:24 +0530"
+  },
+  "ya8ms3": {
+    "id": "ya8ms3",
+    "type": "news",
+    "headline": "Imtiaz Ali's O Saathi Re Gets Official Netflix Release Date",
+    "dek": "Arjun Rampal, Aditi Rao Hydari, and Avinash Tiwary star in the upcoming romantic drama series created by Imtiaz Ali.",
+    "entities": {
+      "people": [
+        "Arjun Rampal",
+        "Aditi Rao Hydari",
+        "Avinash Tiwary",
+        "Imtiaz Ali",
+        "Arif Ali",
+        "Mohit Choudhary",
+        "Shibasish Sarkar"
+      ],
+      "titles": [
+        "O Saathi Re",
+        "She",
+        "Amar Singh Chamkila"
+      ]
+    },
+    "keywords": [
+      "O Saathi Re release date",
+      "Arjun Rampal Aditi Rao Hydari",
+      "Imtiaz Ali Netflix show",
+      "Avinash Tiwary O Saathi Re"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/osaathi217943909901794391003.jpg",
+        "caption": "Imtiaz Ali's O Saathi Re Gets Official Netflix Release Date",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-11T17:40:39+05:30"
+  },
+  "1yc0bxa": {
+    "id": "1yc0bxa",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Dubbed Versions Cross Rs 100 Crore in South India Within Six Days",
+    "dek": "Nitesh Tiwari's directorial venture starring Ranbir Kapoor, Sai Pallavi, and Yash has achieved a major milestone by crossing Rs 104.45 crore net across South Indian dubbed markets within six days of release.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Jawan",
+        "Animal",
+        "War 2",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ramayana South India collections",
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayanacollections1794398021.jpg",
+        "caption": "Ramayana: Part 1 Dubbed Versions Cross Rs 100 Crore in South India Within Six Days",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-11T17:29:23+05:30"
   },
   "153uccx": {
     "id": "153uccx",
@@ -4528,91 +4698,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Tue, 10 Nov 2026 16:07:09 +0000"
   },
-  "3qk5lh": {
-    "id": "3qk5lh",
-    "type": "news",
-    "headline": "David Bowie’s Sci-Fi Classic The Man Who Fell to Earth Lands 50th Anniversary 4K UHD and Blu-ray Release",
-    "dek": "Lionsgate Limited is launching a loaded Collector's Edition of the 1976 science fiction film starring David Bowie to celebrate its milestone anniversary.",
-    "entities": {
-      "people": [
-        "David Bowie",
-        "Nicolas Roeg",
-        "Alice X. Zhang",
-        "May Routh",
-        "David James",
-        "Michael Deeley",
-        "Paul Mayersberg",
-        "Tony Richmond",
-        "Candy Clark",
-        "Sam Taylor-Johnson",
-        "Paul Buckmaster",
-        "Chris Campion",
-        "Walter Tevis",
-        "Rip Torn",
-        "Buck Henry",
-        "Surya Singh"
-      ],
-      "titles": [
-        "The Man Who Fell to Earth"
-      ]
-    },
-    "keywords": [
-      "The Man Who Fell to Earth",
-      "David Bowie",
-      "Nicolas Roeg",
-      "Lionsgate Limited",
-      "The Man Who Fell to Earth 4K"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/david-bowie.jpg?resize=1200,630",
-        "caption": "David Bowie’s Sci-Fi Classic The Man Who Fell to Earth Lands 50th Anniversary 4K UHD and Blu-ray Release",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 16:00:26 +0000"
-  },
-  "saqv8b": {
-    "id": "saqv8b",
-    "type": "news",
-    "headline": "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
-    "dek": "Decades after facing censorship bans and the dreaded X rating, Ken Russell's psychological horror classic is finally receiving a definitive home media release featuring extensive bonus content and multiple cuts.",
-    "entities": {
-      "people": [
-        "Ryan O'Rourke",
-        "Mike Flanagan",
-        "William Friedkin",
-        "Tobe Hooper",
-        "Ken Russell",
-        "Guillermo del Toro",
-        "Mark Kermode",
-        "Aldous Huxley",
-        "Oliver Reed",
-        "Christopher Logue",
-        "Vanessa Redgrave"
-      ],
-      "titles": [
-        "The Exorcist",
-        "The Texas Chain Saw Massacre",
-        "The Devils",
-        "The Devils of Loudun"
-      ]
-    },
-    "keywords": [
-      "The Devils 4K release date",
-      "Ken Russell The Devils Blu ray",
-      "The Devils Collector Edition Warner Bros",
-      "Oliver Reed The Devils 1971"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/2-ken-russell-s-the-devils-key-set-1.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Ken Russell's Controversial Masterpiece The Devils Heads to 4K Ultra HD and Blu-ray",
-        "source": "Collider"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 16:00:12 GMT"
-  },
   "1wgu9wm": {
     "id": "1wgu9wm",
     "type": "news",
@@ -4632,48 +4717,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-10T16:00:02Z"
-  },
-  "1lntnyh": {
-    "id": "1lntnyh",
-    "type": "news",
-    "headline": "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
-    "dek": "Veteran actor Hema Malini shares her thoughts on Nitesh Tiwari's latest cinematic retelling of Ramayana, expressing pleasant surprise over its visual presentation and principal cast.",
-    "entities": {
-      "people": [
-        "Hema Malini",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "SS Rajamouli",
-        "Madhur Bhandarkar",
-        "Ram Gopal Varma",
-        "Badshah",
-        "Mukesh Chhabra",
-        "Sunny Deol",
-        "Ravi Dubey",
-        "Namit Malhotra"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana: Rise of a Legend"
-      ]
-    },
-    "keywords": [
-      "Ramayana Movie",
-      "Hema Malini Ramayana",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana Rise of a Legend",
-      "Nitesh Tiwari Ramayana"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135715237,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Hema Malini Praises Nitesh Tiwari's Ramayana: Rise of a Legend",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-10T21:15:46+05:30"
   },
   "3z1ex0": {
     "id": "3z1ex0",
