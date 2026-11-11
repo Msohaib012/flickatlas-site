@@ -64,6 +64,19 @@ staging figures (replacing the baseline row when the value differs).
 A movie+day with NO staging data is PRESERVED as-is from the baseline
 (it was finalized by an earlier run). The engine never deletes rows.
 
+CORRECTIONS (fix 2026-11-11): a committed out/boxoffice-corrections.json
+may override a finalized figure for a movie+day, with provenance
+(source + article id). This exists because a staging source can go
+STALE on a past day — e.g. Ramayana Day 4: Sacnilk's staging still
+carried its early Rs 37 Cr capture while Sacnilk itself had revised
+the day to Rs 56.15 Cr — and the engine re-finalizes from the same
+committed staging every hour, so a Gemini/apply-auto correction of
+that day was undone by the next multisource step of the SAME hourly
+run, forever. A correction wins over the staging mean (never averaged
+into it: averaging a right figure with a stale one invents a third
+figure no source states), is capped at MAX_DAY_CR like any staging
+row, and is recorded in the sidecar so the override stays visible.
+
 Sidecar: out/multisource-boxoffice.json records, for every movie+day
 finalized from staging data in this run, the sources that contributed
 and their Rs Cr figures. It is deterministic (no timestamps, sorted
@@ -559,6 +572,103 @@ def make_sidecar(finalized):
     }
 
 
+# --- corrections ---------------------------------------------------------
+
+def load_corrections(path):
+    """Read out/boxoffice-corrections.json, if present.
+
+    Format: {"<tmdb_id>": {"<day>": {"collection_inr_cr": X.XX,
+    "date": "YYYY-MM-DD", "source": "<provenance>", "article_id": "<id>",
+    "note": "<why>"}}}. Missing file = no corrections (normal).
+    Returns {} on a missing/unreadable file; a malformed entry is
+    skipped with a log line, never fatal.
+    """
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, ValueError) as e:
+        print(f"multisource: WARN corrections file unreadable ({e}) — "
+              "ignoring corrections this run")
+        return {}
+    if not isinstance(data, dict):
+        print("multisource: WARN corrections file top level is not an "
+              "object — ignoring corrections this run")
+        return {}
+    return data
+
+
+def apply_corrections(finalized, corrections, published):
+    """Override finalized figures with committed corrections.
+
+    A correction applies only to a movie+day the engine finalized
+    from staging this run (india=True); otherwise it is logged and
+    skipped — a day with no staging data is already owned by the
+    Gemini/apply-auto path, which wrote the correction there in the
+    first place. The override replaces the India Net figure (and its
+    date when given); extras and the staging sources are kept, and
+    the correction itself is recorded on the figure so the sidecar
+    shows why the finalized number differs from the staging mean.
+    Returns the number of corrections applied.
+    """
+    applied = 0
+    for tid, days in corrections.items():
+        tid = str(tid).strip()
+        if published is not None and tid not in published:
+            print(f"multisource: corrections: {tid} not published — "
+                  "skipped")
+            continue
+        if not isinstance(days, dict):
+            print(f"multisource: corrections: {tid} days are not an "
+                  "object — skipped")
+            continue
+        for day_s, corr in days.items():
+            try:
+                day = int(day_s)
+            except (TypeError, ValueError):
+                print(f"multisource: corrections: {tid} bad day "
+                      f"{day_s!r} — skipped")
+                continue
+            if not isinstance(corr, dict):
+                print(f"multisource: corrections: {tid} Day {day} is "
+                      "not an object — skipped")
+                continue
+            cr = parse_crore(corr.get("collection_inr_cr"))
+            if cr is None:
+                print(f"multisource: corrections: {tid} Day {day}: "
+                      "collection_inr_cr missing/zero — skipped")
+                continue
+            if cr > MAX_DAY_CR:
+                print(f"multisource: corrections: {tid} Day {day}: "
+                      f"Rs{cr:.2f} Cr exceeds the single-day cap "
+                      f"({MAX_DAY_CR:.0f} Cr) — skipped")
+                continue
+            fig = (finalized.get(tid) or {}).get(day)
+            if fig is None or not fig.get("india"):
+                print(f"multisource: corrections: {tid} Day {day}: no "
+                      "finalized India figure this run — skipped "
+                      "(Gemini/apply-auto path owns this day)")
+                continue
+            old_cr = fig.get("collection_inr_cr")
+            fig["collection_inr_cr"] = round(cr, 3)
+            fig["collection_usd"] = round(cr * 1e7 / INR_PER_USD)
+            if corr.get("date"):
+                fig["date"] = corr["date"]
+            fig["correction"] = {
+                "collection_inr_cr": round(cr, 3),
+                "source": corr.get("source") or "",
+                "article_id": corr.get("article_id") or "",
+                "note": corr.get("note") or "",
+                "corrected_from_inr_cr": old_cr,
+            }
+            print(f"multisource: corrections: {tid} Day {day}: "
+                  f"Rs{old_cr} Cr (staging) -> Rs{cr} Cr "
+                  f"({corr.get('source') or 'correction'})")
+            applied += 1
+    return applied
+
+
 def main():
     ap = argparse.ArgumentParser(
         description="Multi-source box-office averaging engine: read "
@@ -581,6 +691,9 @@ def main():
     ap.add_argument("--primary", default="sacnilk",
                     help="source id whose date wins on disagreement "
                          "(default: sacnilk)")
+    ap.add_argument("--corrections", default=None,
+                    help="committed corrections file "
+                         "(default: <root>/out/boxoffice-corrections.json)")
     ap.add_argument("--dry-run", action="store_true",
                     help="print what it would write, write nothing")
     ap.add_argument("--today", default=None,
@@ -598,6 +711,8 @@ def main():
         root, "js", "published-titles.js")
     sidecar_path = args.sidecar or os.path.join(
         root, "out", "multisource-boxoffice.json")
+    corrections_path = args.corrections or os.path.join(
+        root, "out", "boxoffice-corrections.json")
 
     # Published gate: only finalize rows for published titles
     # (same gate as sacnilk_boxoffice.merge_daywise).
@@ -725,6 +840,12 @@ def main():
                 del extras["overseas"]
                 if not extras:
                     fig.pop("extras", None)
+    # Committed corrections (see module docstring): a stale staging
+    # figure must not keep undoing a verified correction every hour.
+    corrections = load_corrections(corrections_path)
+    n_corr = apply_corrections(finalized, corrections, published)
+    if n_corr:
+        print(f"multisource: applied {n_corr} committed correction(s)")
     n_figs = sum(len(v) for v in finalized.values())
     n_multi = sum(1 for days in finalized.values()
                   for f in days.values()
