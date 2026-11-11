@@ -1717,35 +1717,35 @@
       },
       "28": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.31,
+        "collection_inr_cr": 0.37,
         "collection_scope": "india_net",
-        "collection_usd": 32752,
+        "collection_usd": 39091,
         "date": "2026-11-11",
         "date_disagreed": false,
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 21.1
+              "filmynewsnetwork": 22.2
             },
-            "value": 21.1
+            "value": 22.2
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 520
+              "filmynewsnetwork": 639
             },
-            "value": 520
+            "value": 639
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 22834
+              "filmynewsnetwork": 29131
             },
-            "value": 22834
+            "value": 29131
           }
         },
         "india": true,
         "sources": {
           "bollybourse": 0.21,
-          "filmynewsnetwork": 0.41
+          "filmynewsnetwork": 0.53
         }
       },
       "3": {
@@ -3839,34 +3839,34 @@
       },
       "41": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.15,
+        "collection_inr_cr": 0.18,
         "collection_scope": "india_net",
-        "collection_usd": 15848,
+        "collection_usd": 19017,
         "date": "2026-11-11",
         "date_disagreed": false,
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 58.6
+              "filmynewsnetwork": 54.3
             },
-            "value": 58.6
+            "value": 54.3
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 62
+              "filmynewsnetwork": 76
             },
-            "value": 62
+            "value": 76
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 5250
+              "filmynewsnetwork": 6043
             },
-            "value": 5250
+            "value": 6043
           }
         },
         "india": true,
         "sources": {
-          "filmynewsnetwork": 0.15
+          "filmynewsnetwork": 0.18
         }
       },
       "5": {
@@ -5919,34 +5919,34 @@
       },
       "20": {
         "collection_currency": "USD",
-        "collection_inr_cr": 0.3,
+        "collection_inr_cr": 0.36,
         "collection_scope": "india_net",
-        "collection_usd": 31696,
+        "collection_usd": 38035,
         "date": "2026-11-11",
         "date_disagreed": false,
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 38.9
+              "filmynewsnetwork": 40.0
             },
-            "value": 38.9
+            "value": 40.0
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 180
+              "filmynewsnetwork": 210
             },
-            "value": 180
+            "value": 210
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 9750
+              "filmynewsnetwork": 11362
             },
-            "value": 9750
+            "value": 11362
           }
         },
         "india": true,
         "sources": {
-          "filmynewsnetwork": 0.3
+          "filmynewsnetwork": 0.36
         }
       },
       "3": {
@@ -8096,21 +8096,21 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 22.7
+              "filmynewsnetwork": 20.9
             },
-            "value": 22.7
+            "value": 20.9
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 13
+              "filmynewsnetwork": 17
             },
-            "value": 13
+            "value": 17
           },
           "tickets": {
             "sources": {
-              "filmynewsnetwork": 913
+              "filmynewsnetwork": 1016
             },
-            "value": 913
+            "value": 1016
           }
         },
         "india": true,
@@ -19415,9 +19415,16 @@
       },
       "4": {
         "collection_currency": "USD",
-        "collection_inr_cr": 37.0,
+        "collection_inr_cr": 56.15,
         "collection_scope": "india_net",
-        "collection_usd": 3909139,
+        "collection_usd": 5932382,
+        "correction": {
+          "article_id": "1fwghjc",
+          "collection_inr_cr": 56.15,
+          "corrected_from_inr_cr": 37.0,
+          "note": "Sacnilk staging still carries the early Rs 37 Cr Sunday-evening capture; Sacnilk revised Day 4 to Rs 56.15 Cr on 2026-11-09. Without this override the multisource step reverts the Gemini correction every hourly run.",
+          "source": "Sacnilk final via FlickAtlas article 1fwghjc (corroborated: The Week, BusinessToday, CNBC-TV18, Economic Times, Times of India, all citing Sacnilk)"
+        },
         "date": "2026-11-08",
         "date_disagreed": false,
         "extras": {
