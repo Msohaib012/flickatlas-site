@@ -113635,5 +113635,382 @@ window.FA_ARTICLES = {
     ],
     "images": [],
     "published": "2026-11-11T06:59:35Z"
+  },
+  "362fdz": {
+    "id": "362fdz",
+    "type": "news",
+    "headline": "Saranagati: Hombale Films Announces AI Motion Capture Biopic on ISKCON Founder A. C. Bhaktivedanta Swami Srila Prabhupada",
+    "dek": "Hombale Films and Transcendental Films have announced Saranagati – The Life of a Surrendered Soul, a biographical film created using cutting-edge artificial intelligence motion capture technology.",
+    "body": [
+      {
+        "h": "Introduction To Saranagati",
+        "p": [
+          "Amid the festive atmosphere of Diwali, production banners Hombale Films and Transcendental Films jointly announced a unique cinematic project titled Saranagati – The Life of a Surrendered Soul. The newly unveiled title was accompanied by an official teaser that introduces audiences to a biographical motion picture paying tribute to A. C. Bhaktivedanta Swami Srila Prabhupada, the revered pioneer and founder of the International Society for Krishna Consciousness.",
+          "While the global footprint of ISKCON is widely recognized through its various cultural initiatives and widespread community events, the personal journey of its founder remains relatively unfamiliar to a larger section of spiritual seekers and devotees. This upcoming feature aims to bridge that knowledge gap by bringing the lesser-known historical chapters of his life to the silver screen."
+        ]
+      },
+      {
+        "h": "Innovative Use of AI Motion Capture",
+        "p": [
+          "What sets this biographical project apart is its pioneering production technique. Saranagati is created entirely with the help of artificial intelligence motion capture, a novel technology that merges advanced machine learning algorithms with computer vision.",
+          "This system translates real human movements into precise digital animation, designed to infuse animated characters with a heightened level of emotional expression and striking visual realism. By leveraging this emerging technological approach, the makers intend to deliver an unprecedented visual experience for viewers worldwide."
+        ]
+      },
+      {
+        "h": "Early Life and Spiritual Calling",
+        "p": [
+          "Born as Abhay Charan De on September 1, 1896, in Calcutta, the future spiritual leader walked a path that would eventually influence millions globally. His pivotal encounter with his spiritual master, Srila Bhaktisiddhanta Saraswati Goswami, occurred in the year 1922.",
+          "Recognizing the young man's sharp intellect and education, his guru made a specific request for him to spread Vedic knowledge and philosophy using the English language, laying the foundational seed for his future international mission."
+        ]
+      },
+      {
+        "h": "The Historic Journey to America",
+        "p": [
+          "At the age of 69, in 1965, he undertook a monumental and perilous voyage across the ocean. Boarding the cargo ship Jaladuta bound for the United States, he carried remarkably few personal possessions—merely a trunk containing his Srimad-Bhagavatam volumes, a simple umbrella, and a meager forty rupees.",
+          "Despite enduring two severe heart attacks during the challenging maritime voyage, his resolve remained unbroken. Upon arriving in New York City with nothing save his profound scriptural knowledge, he actively encouraged people to study spiritual truths through ancient Vedic texts."
+        ]
+      },
+      {
+        "h": "Establishing ISKCON and Literary Contributions",
+        "p": [
+          "In New York City in 1966, he officially established the International Society for Krishna Consciousness, successfully establishing a thriving global spiritual movement from the ground up.",
+          "His literary output was equally staggering, encompassing over eighty volumes of translations and detailed commentaries on India's most sacred texts. This monumental body of work includes widely read scriptures such as Bhagavad-Gita As It Is and the multi-volume Srimad-Bhagavatam, before his passing on November 14, 1977."
+        ]
+      },
+      {
+        "h": "Creative Team and Release Schedule",
+        "p": [
+          "The narrative focus of Saranagati centers heavily on Swami Prabhupada's historic sea voyage to New York and the subsequent establishment of the ISKCON movement. The film has been written and directed by Gaura Shakti Dasa.",
+          "Backed by Transcendental Films, the movie is officially scheduled to hit screens in August 2027, thoughtfully timed to coincide with Vyasa Puja. The project is produced by Rajesh Singh and Lohith Rao, while Hombale Films serves as the worldwide presenter and distributor."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hombale Films and Transcendental Films announced the upcoming animated biographical film Saranagati – The Life of a Surrendered Soul, utilizing artificial intelligence motion capture technology. Written and directed by Gaura Shakti Dasa and slated for an August 2027 release, the movie details the life of ISKCON founder A. C. Bhaktivedanta Swami Srila Prabhupada."
+        ]
+      }
+    ],
+    "facts": [
+      "A. C. Bhaktivedanta Swami Srila Prabhupada was born as Abhay Charan De on September 1, 1896, in Calcutta.",
+      "He met his spiritual master, Srila Bhaktisiddhanta Saraswati Goswami, in 1922.",
+      "In 1965 at age 69, he boarded the cargo ship Jaladuta bound for America with forty rupees, an umbrella, and a trunk of Bhagavatam volumes.",
+      "He founded the International Society for Krishna Consciousness (ISKCON) in New York City in 1966.",
+      "He passed away on November 14, 1977.",
+      "Saranagati is written and directed by Gaura Shakti Dasa and produced by Rajesh Singh and Lohith Rao.",
+      "The film is scheduled for release in August 2027."
+    ],
+    "entities": {
+      "people": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada",
+        "Abhay Charan De",
+        "Srila Bhaktisiddhanta Saraswati Goswami",
+        "Gaura Shakti Dasa",
+        "Rajesh Singh",
+        "Lohith Rao"
+      ],
+      "titles": [
+        "Saranagati – The Life of a Surrendered Soul",
+        "Bhagavad-Gita As It Is",
+        "Srimad-Bhagavatam"
+      ]
+    },
+    "keywords": [
+      "Saranagati film",
+      "ISKCON founder biopic",
+      "A C Bhaktivedanta Swami Srila Prabhupada movie",
+      "Hombale Films Saranagati"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156491061,thumbsize-425080,width-1280,height-720,resizemode-75/156491061.jpg",
+        "caption": "Saranagati: Hombale Films Announces AI Motion Capture Biopic on ISKCON Founder A. C. Bhaktivedanta Swami Srila Prabhupad",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T07:51:40Z"
+  },
+  "1dmi3q7": {
+    "id": "1dmi3q7",
+    "type": "news",
+    "headline": "Callum Turner Films Johnnie Walker Commercial in New York Amid Intensive James Bond Casting Speculation",
+    "dek": "Actor Callum Turner was spotted filming a new campaign for Johnnie Walker Blue Label in New York while frontrunner status and intense competition continue to surround the vacant 007 role.",
+    "body": [
+      {
+        "h": "Stepping Away From 007's Martini",
+        "p": [
+          "Callum Turner temporarily traded the iconic spy's signature beverage for a flute of blended Scotch whisky during a recent commercial shoot in New York City. The 36-year-old actor was photographed working outside Yves French Bistro while surrounded by gift bags for Johnnie Walker Blue Label.",
+          "Dressed smartly in a fur-collared leather jacket, Turner appeared relaxed despite the heavy workload of balancing multiple international projects. The commercial appearance follows a whirlwind trip back to the United Kingdom to complete screen tests at Berkshire's Bray studios."
+        ]
+      },
+      {
+        "h": "Juggling International Film Projects",
+        "p": [
+          "While maintaining momentum in the high-profile race to secure the next James Bond franchise lead, Turner has also remained dedicated to his acting commitments in the United States. The busy star has been actively shooting scenes for his romantic comedy project titled One Night Only in New York.",
+          "Industry observers have noted that Turner appears to be actively clearing his professional calendar to accommodate a potential multi-year commitment to Amazon MGM Studios. His frantic schedule highlights just how seriously the British performer is taking the current career milestone."
+        ]
+      },
+      {
+        "h": "Stepping Down From Production Venture",
+        "p": [
+          "Further fueling speculation that a major franchise announcement is imminent, official corporate filings show Turner has recently resigned from his executive post at Twentytwe Films Ltd. He originally launched the production company alongside his pop star wife Dua Lipa with equal shares.",
+          "The enterprise was established to develop television and film projects modeled after Margot Robbie's successful LuckyChap production banner. Stepping back from leadership duties strongly suggests the actor is preparing for the massive time constraints of leading a major global action franchise."
+        ]
+      },
+      {
+        "h": "Fierce Competition for the Franchise",
+        "p": [
+          "Turner is far from the only high-profile British actor contending for the coveted role of James Bond, facing stiff competition from several critically acclaimed peers. Jack Lowden and Josh O'Connor both participated in rigorous screen tests alongside Turner in London last month.",
+          "Recent reports also indicate that Robert Pattinson and Nicholas Hoult entered the fray as late surprise contenders for the part. Both actors have previously portrayed major comic book icons for DC Studios as Batman and Lex Luthor respectively."
+        ]
+      },
+      {
+        "h": "Rumors and Pub Slips",
+        "p": [
+          "Speculation reached a fever pitch last week when rumors suggested that Josh O'Connor had already secured the iconic role after navigating final negotiations with studio executives. The gossip reportedly originated after a castmate from O'Connor's London play let details slip during celebratory drinks.",
+          "According to sources, a fellow cast member from the production of Golden Boy shared the casting news with patrons at a Soho pub following the show's Halloween closing night. While the pub chatter sparked widespread debate, official studio confirmation remains pending."
+        ]
+      },
+      {
+        "h": "Shifting Betting Odds and Future Timelines",
+        "p": [
+          "Bookmakers have continued to adjust their odds dynamically as the casting process moves through its final stages with Amazon MGM Studios. Turner has maintained a strong position at the top of the betting markets, while Robert Pattinson and Josh O'Connor have also seen their odds shorten significantly.",
+          "Industry analysts anticipate that if studio executives successfully finalize the casting process by December, production on the next installment in the legendary cinematic franchise could officially commence sometime in 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Callum Turner was recently spotted filming a Johnnie Walker Blue Label commercial in New York while continuing to lead betting odds for the next James Bond film. Alongside stepping down from his production company and balancing other acting roles, Turner faces intense competition from fellow contenders including Josh O'Connor and Robert Pattinson."
+        ]
+      }
+    ],
+    "facts": [
+      "Callum Turner is 36 years old.",
+      "The Johnnie Walker Blue Label commercial was shot outside Yves French Bistro in New York.",
+      "Screen tests took place at Bray studios in Berkshire.",
+      "Twentytwe Films Ltd was founded by Callum Turner and Dua Lipa in August with equal shares.",
+      "Josh O'Connor starred in the play Golden Boy in Islington, north London.",
+      "Amazon MGM Studios aims to start filming the next James Bond movie in 2027."
+    ],
+    "entities": {
+      "people": [
+        "Callum Turner",
+        "Dua Lipa",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Robert Pattinson",
+        "Nicholas Hoult",
+        "Denis Villeneuve",
+        "Margot Robbie"
+      ],
+      "titles": [
+        "James Bond",
+        "One Night Only",
+        "Golden Boy",
+        "Dune 3"
+      ]
+    },
+    "keywords": [
+      "Callum Turner James Bond",
+      "Callum Turner Johnnie Walker",
+      "Josh O'Connor James Bond",
+      "Robert Pattinson 007",
+      "Twentytwe Films Ltd"
+    ],
+    "images": [],
+    "published": "2026-11-11T07:51:40Z"
+  },
+  "os27zk": {
+    "id": "os27zk",
+    "type": "news",
+    "headline": "New Mugshot Released of Thomas Markle After Court-Ordered Ankle Monitor Incident",
+    "dek": "Meghan Markle's estranged father, Thomas Markle Sr., has been taken back into federal custody in Florida following allegations that he removed his electronic monitoring device.",
+    "body": [
+      {
+        "h": "Custody Revocation and Mugshot Release",
+        "p": [
+          "Thomas Markle Sr., the estranged father of Meghan Markle, was taken back into federal custody in Florida after authorities reported that he removed his court-ordered ankle monitor. Following the incident, law enforcement released his latest mugshot to the public.",
+          "The 82-year-old had previously been allowed to remain out of custody while awaiting trial, provided he adhered to strict conditions including home detention and continuous electronic location tracking."
+        ]
+      },
+      {
+        "h": "Details of the Monitoring Breach",
+        "p": [
+          "First Assistant US Attorney Bill Essayli stated that the accused allegedly detached the electronic tracking bracelet during the early hours of the morning. Prosecutors swiftly moved to request the complete cancellation of his pretrial release.",
+          "Authorities emphasized that the location monitoring device was a strict requirement mandated by the federal judge just days prior, allowing him to stay at a senior living facility instead of being held behind bars."
+        ]
+      },
+      {
+        "h": "Judicial Ruling on Living Conditions",
+        "p": [
+          "US Magistrate Judge Lindsay S. Griffin formally revoked the pretrial release following the alleged bracelet removal. In her official order, the judge characterized his residential arrangements as untenable.",
+          "The court concluded that no combination of release conditions could adequately guarantee community safety or ensure his future appearances in court, resulting in an order for him to remain detained."
+        ]
+      },
+      {
+        "h": "Initial Federal Charges and FBI Investigation",
+        "p": [
+          "The legal proceedings stem from an initial arrest following an FBI investigation involving two storage units in California that he had reportedly rented for nearly two decades. Investigators executed searches and seized dozens of items.",
+          "He currently faces a federal charge of possessing child sexual abuse material. Although filed in the Central District of California, his initial court appearance took place in Tampa, Florida, where he did not enter a plea."
+        ]
+      },
+      {
+        "h": "Health Context and Potential Sentences",
+        "p": [
+          "Reports indicate that Thomas Markle Sr. is an amputee, utilizes a wheelchair, and has been dealing with dementia. Prior to the recent custody revocation, he had been permitted to reside at a senior living care home under strict oversight.",
+          "Legal experts note that a conviction on the federal charge of possessing child sexual abuse material could carry a maximum sentence of up to 20 years in prison."
+        ]
+      },
+      {
+        "h": "Response from the Duchess of Sussex",
+        "p": [
+          "Meghan Markle previously addressed the severe allegations through a public media statement, expressing deep distress and emphasizing that her thoughts remained with any children who might have been harmed.",
+          "The Duchess explained that maintaining distance from her father and preventing contact with her children was done solely to protect them, adding that she hopes full justice will be served while keeping the safety of innocent children the top priority."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Thomas Markle Sr. was taken back into federal custody after allegedly removing his ankle monitor, prompting the release of a new mugshot and the revocation of his pretrial release. US Magistrate Judge Lindsay S. Griffin ruled his housing situation untenable and ordered him detained as his federal case continues."
+        ]
+      }
+    ],
+    "facts": [
+      "Thomas Markle Sr. is 82 years old.",
+      "The ankle monitor incident occurred on Tuesday, November 10, 2026.",
+      "He was initially arrested on November 6, 2026.",
+      "First Assistant US Attorney is Bill Essayli.",
+      "US Magistrate Judge is Lindsay S. Griffin.",
+      "He was booked into Pinellas County Jail at 6:11 p.m.",
+      "A conviction carries a maximum sentence of 20 years in prison."
+    ],
+    "entities": {
+      "people": [
+        "Thomas Markle",
+        "Meghan Markle",
+        "Bill Essayli",
+        "Lindsay S. Griffin",
+        "Thomas Markle Sr."
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Thomas Markle",
+      "Meghan Markle",
+      "Thomas Markle ankle monitor",
+      "Thomas Markle mugshot",
+      "Thomas Markle federal charge"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135728183,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "New Mugshot Released of Thomas Markle After Court-Ordered Ankle Monitor Incident",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T12:06:11+05:30"
+  },
+  "17eonag": {
+    "id": "17eonag",
+    "type": "news",
+    "headline": "EastEnders Airs Heartbreaking Linda Carter Scenes as Nancy Goes Into Labour",
+    "dek": "The latest episode of EastEnders delivers devastating twists for the Carter family as Linda learns of Mick's supposed death while Nancy goes into labour on the roof of The Queen Vic.",
+    "body": [
+      {
+        "h": "Devastating News for the Carter Family",
+        "p": [
+          "Viewers of EastEnders have been left reeling following a tragic sequence of events centered around the Carter family. The household has been handed the harrowing update that patriarch Mick Carter has passed away, though the reality of the situation is far more complex and deceptive than the characters realize.",
+          "Mick vanished into the English Channel four years ago, and his physical remains have never been recovered. Despite this prolonged absence and the lack of a traditional discovery, a web of deceit spun by Janine Butcher has plunged the family back into deep grief."
+        ]
+      },
+      {
+        "h": "Janine Butcher's Elaborate Deception",
+        "p": [
+          "The tragic turn of events was entirely orchestrated by Janine Butcher. Driven by financial motive after Mick's son Lee revoked his death certificate—forcing Janine to potentially repay a previously collected life insurance payout—she took extreme measures to secure her position.",
+          "Janine enlisted a dodgy solicitor to fabricate a false death certificate and hired a contact to bury another man to simulate Mick's demise. She subsequently approached a grieving Linda Carter with the fabricated claim that Mick had suffered a fatal heart attack at a North London home just two weeks prior."
+        ]
+      },
+      {
+        "h": "Max Branning's Shocking Alliance",
+        "p": [
+          "Struggling to comprehend that Mick would ever willingly leave his loved ones behind, Linda sought reassurance by asking her current partner, Max Branning, to inspect the coffin and identify the body.",
+          "While Linda waited in a car, Janine confessed the entirety of her fraudulent scheme to Max. Proposing that mutual benefits awaited them if Linda believed the lie and moved on, Janine convinced Max to keep quiet, and he shockingly agreed to participate in the cover-up."
+        ]
+      },
+      {
+        "h": "Breaking the News to the Family",
+        "p": [
+          "As the narrative unfolded, a grief-stricken Linda prepared to share the devastating news with her relatives. Max initially urged her to withhold the information, expressing concern that the family would demand concrete evidence and warning against dragging up the painful past.",
+          "Linda rejected this advice and gathered Lee, Nancy, and Johnny together in the household to break the heartbreaking news. The siblings struggled to process the reality that their father was truly gone, leading to immediate emotional fallout across the family."
+        ]
+      },
+      {
+        "h": "Nancy's Labour on The Queen Vic Roof",
+        "p": [
+          "Following the revelation, Lee rushed away to Harry's Barn to drown his sorrows. Meanwhile, Nancy sought solitude and reflection by taking herself up onto the roof of The Queen Vic.",
+          "Up on the rooftop, Nancy shared an emotional heart-to-heart with Linda, followed by a conversation with her ex-boyfriend Zack Hudson. Just as the group prepared to head back downstairs, Nancy's waters broke, introducing an unexpected medical emergency."
+        ]
+      },
+      {
+        "h": "Concerns Over Linda's Sobriety",
+        "p": [
+          "Away from the immediate family home, Nicola Mitchell contacted Linda to help collect a heavily intoxicated Lee. Both Nicola and Max attempted to reason with Lee, assuring him that alcohol was no solution to his problems.",
+          "When Lee stubbornly refused to listen to their appeals, Linda took drastic action by seizing the drink from his hands and threatening to consume the alcohol herself. This confrontation raised immediate fears regarding a potential relapse after nearly two years of personal sobriety."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "EastEnders delivered dramatic scenes as Linda Carter was led to believe Mick has died due to a fabricated scheme by Janine Butcher and Max Branning. While the family struggled with the heartbreaking news, Nancy went into labour on the roof of The Queen Vic, and Linda faced a potential threat to her long-term sobriety."
+        ]
+      }
+    ],
+    "facts": [
+      "Mick Carter went missing in the English Channel four years ago.",
+      "Janine Butcher orchestrated a fake death certificate and buried another man to pretend it was Mick.",
+      "Linda Carter has maintained almost two years of sobriety prior to the episode.",
+      "Nancy went into labour on the roof of The Queen Vic."
+    ],
+    "entities": {
+      "people": [
+        "Linda Carter",
+        "Nancy Carter",
+        "Mick Carter",
+        "Janine Butcher",
+        "Max Branning",
+        "Lee Carter",
+        "Johnny Carter",
+        "Zack Hudson",
+        "Nicola Mitchell",
+        "Danny Dyer",
+        "Charlie Brooks",
+        "Kellie Bright",
+        "Jake Wood",
+        "Danny Hatchard",
+        "Maddy Hill",
+        "Charlie Suff",
+        "James Farrar",
+        "Laura Doddington"
+      ],
+      "titles": [
+        "EastEnders",
+        "The Queen Vic"
+      ]
+    },
+    "keywords": [
+      "EastEnders Linda Carter Nancy labour",
+      "EastEnders Mick death Janine Butcher",
+      "EastEnders Max Branning Linda",
+      "EastEnders Wednesday episode spoilers"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/576829-7bbe21b.jpg?resize=1200%2C630",
+        "caption": "EastEnders Airs Heartbreaking Linda Carter Scenes as Nancy Goes Into Labour",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 06:30:54 GMT"
   }
 };
