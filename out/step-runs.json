@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T13:52:12Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": {
-     "candidates": 584,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "EXCLUSIVE: Shaad Randhawa's DOUBLE DHAMAAL on November 27! Actor to feature in BOTH Ayushmann Khurrana's Yeh Prem Mol Liya and Emraan Hashmi's Gunmaaster G9",
-      "Ramayana Karnataka Box Office Collection Day 5: Ranbir Kapoor And Yash's Film Crosses Rs 73 Crore",
-      "Love In Disguise Episode 8 Ending SHOCKER: Secret EXPOSED? Did Yi Jun Finally Find Out Jae Hee's NOT A Man?",
-      "Ramayana Makers Adding 3D Glasses Charges To Inflate Box Office Numbers? Trade Analyst Claims - Deets Inside",
-      "Maatrubhumi Trailer Release Time Today: Here’s When Maatrubhumi Trailer Will Premiere Online; Where To Stream?",
-      "Pawan Kalyan's Ex-Wife Renu Desai's New Instagram Post On Empathy & Kindness, Says 'Don't Start Speculations'",
-      "Love In Disguise Episode 8 Dailymotion: Where & How To Watch Love In Disguise Ep 8 With English Subtitles?",
-      "Ebenezer First Reactions Out: Critics Praise Johnny Depp’s Comeback As Scrooge, Calling The Film Haunting & Deeply Moving!",
-      "The Blind Game OTT Release Date Update: When & Where To Watch Arjun Rampal & Priyamani’s Thriller Film",
-      "Marvel Worldwide Box Office: From The Marvels To Quantumania, 3 MCU Sequels That Earned Significantly Less Than Their OG Films!",
-      "yash sends diwali wishes to fans expresses gratitude for the love for ramayana 87088.html",
-      "exclusive jd payne patrick mckay on the rings of power 3 bringing tolkiens world to life more 87048.html",
-      "exclusive daniel weyman on becoming gandalf discovering the stranger stepping into middle earth 87050.html",
-      "krishands next gets an intriguing title manchiyam the botany of a crime 87087.html",
-      "exclusive shaan on why some songs never age returning as saif ali khans voice staying authentic 87057.html",
-      "sobhita dhulipala sreeleela varun tej share photos from their diwali celebrations 87086.html",
-      "from expression queen to action queen stunt director chethan dsouza praises nazriya nazim 87085.html",
-      "shaji kumar cinematographer of pulimurugan and thudarum dies at 57_ 87084.html",
-      "exclusive arpita mehta on building her label dressing bollywood finding her own fashion identity 86593.html",
-      "sidharth malhotra and kiara advani get candid about married life and work 87083.html"
-     ],
-     "updated": [],
-     "count": 444,
-     "detail": "448 stories, 4 duplicates removed, 136 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T14:51:13Z",
     "run_id": "42838196831",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "378 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T13:54:48Z",
-    "run_id": "42828225028",
+    "run_at": "2026-11-11T12:51:09Z",
+    "run_id": "43023831972",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 363,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Guy Moot Makes History as First Publisher to Win Music Industry Trusts Award",
-      "Salman Khan Confirms Trailer Release Date and Timing for War Drama Maatrubhumi",
-      "Indian Paranormal Horror Film 'Numinous' Wraps Production and Heads to American Film Market",
-      "Ramayana: Part 1 Dominates Karnataka Box Office With Over Rs 73 Crore Gross In Five Days"
+      "EXCLUSIVE: Rs. 300 crore blockbuster Hanuman Ansh to have a UNIQUE success bash in Mumbai; guests to be served ONLY pure veg, satvik food",
+      "EXCLUSIVE: Godzilla Minus Zero to FINALLY release in India on November 20; PVR INOX Pictures’ Nayana Bijli confirms IMAX release",
+      "Nitish Bharadwaj withdraws praise for Ramayana Part 1; says he is “deeply upset and disappointed” with Ranbir Kapoor starrer",
+      "Janhvi & Khushi To Anshula & Rakesh Roshan, Orry Shares Star-Studded Glimpse From Boney Kapoor’s Birthday",
+      "Diwali Special: Disha Patani To Kriti Sanon; 8 Actresses Who Understood The Festive Assignment",
+      "Ramayana vs Scene Today Collection (Morning Trend): Yash’s Film Struggle As Suriya Starrer Roars Loudly",
+      "Children’s Day 2026: WHO Is The Biggest Prankster On Set? Hastinapur Ke Veer Cast Spills Secrets",
+      "The Remarried Empress Ep 6 Ending: Rashta PREGNANT With Sovieshu's Baby? Heinrey-Navier's Hug Hints BIG Secret",
+      "Scene North America Box Office: Beats Jana Nayagan In Less Than 5 Days, Becomes Kollywood’s 3rd Highest-Grosser Of 2026",
+      "Baththa OTT Verdict (Week 2): Vijay Sethupathi’s Film Becomes 6th Most-Watched South Indian Movie On Netflix In 2026",
+      "Heart Of The Beast North America Box Office: Needs $3 Million To Beat Brad Pitt’s 2015 Biographical Comedy",
+      "Street Fighter Worldwide Box Office: Less Than $1 Million Away From Achieving A Major Milestone",
+      "Ramayana Box Office Day 8 Advance Booking: Ranbir Kapoor Already Enters Top 10 Biggest 2nd Thursday As Post-Festival Period Begins!",
+      "Box Office: Yash Surpasses Allu Arjun In Koimoi Star Ranking, Grabs 10th Spot!",
+      "Box Office: Ramayana becomes only Indian film to record Rs 100 crore plus worldwide for consecutive 6 days",
+      "Box Office: Ramayana scripts history in Kerala, emerges biggest Hindi grosser in just 6 days",
+      "Priya Bhavani Shankar Marriage: Indian 2 actress ties the knot with boyfriend Rajvel Raj in intimate ceremony",
+      "5 Telugu OTT Releases to Watch This Week: Vijay Deverakonda, Rashmika Mandanna’s Ranabaali to Happy Journey",
+      "The Lord of the Rings: The Rings of Power Season 3: When and where to watch the fantasy series online",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer tops USD 30M Overseas and Rs. 800 Cr worldwide"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 358,
+     "detail": "363 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T12:51:48Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Sets Unprecedented Global Record With Six Consecutive Days Above Rs 100 Crore",
+      "Zelda: Ocarina of Time Remake Breaks Switch 2 Records With Massive Opening",
+      "Godzilla Minus Zero Locks November 20 India Release Date with IMAX Screening Confirmed",
+      "EastEnders Spoilers: Linda Carter Makes a Frightening Choice After Devastating Revelations"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T16:53:54Z",
-    "run_id": "42858670966",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,30 +1906,27 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T12:51:48Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T14:02:15Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1igqa9b",
-      "1qw9sjn",
-      "1755t76"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2420,27 +2399,33 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T12:55:46Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1mo2439",
+      "1d1jo4e",
+      "ngkym7",
+      "atpdk1",
+      "jfjee5",
+      "e0mpwl"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T14:02:12Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": {
-     "candidates": 641,
-     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2854,19 +2839,27 @@
      "detail": "+0 new rows, 3 updated rows, 634 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T12:55:34Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "+1 new rows, 6 updated rows, 631 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3103,33 +3096,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T14:02:15Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Guy Moot Makes History as First Publisher to Win Music Industry Trusts Award",
-      "Salman Khan Confirms Trailer Release Date and Timing for War Drama Maatrubhumi",
-      "Indian Paranormal Horror Film 'Numinous' Wraps Production and Heads to American Film Market",
-      "Ramayana: Part 1 Dominates Karnataka Box Office With Over Rs 73 Crore Gross In Five Days",
-      "Izzat Episode 51 — Watch Online on ARY Digital"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3665,30 +3644,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T13:53:51Z",
-    "run_id": "42828225028",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T12:55:45Z",
+    "run_id": "43023831972",
     "status": "success",
     "checked": {
-     "candidates": 19,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 5 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Izzat Ep 51"
+      "Ramayana Sets Unprecedented Global Record With Six Consecutive Days Above Rs 100 Crore",
+      "Zelda: Ocarina of Time Remake Breaks Switch 2 Records With Massive Opening",
+      "Godzilla Minus Zero Locks November 20 India Release Date with IMAX Screening Confirmed",
+      "EastEnders Spoilers: Linda Carter Makes a Frightening Choice After Devastating Revelations"
      ],
-     "updated": [
-      "Izzat Ep 51"
-     ],
-     "count": 2
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3953,19 +3934,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4286,31 +4267,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T13:54:48Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 444 still unprocessed; today by category: movies 7/6, tv_dramas 7/4, episodes 0/2, box_office 13/6, celebrities_events 14/5, upcoming_releases 1/4, ott_streaming 5/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Guy Moot Makes History as First Publisher to Win Music Industry Trusts Award",
-      "Salman Khan Confirms Trailer Release Date and Timing for War Drama Maatrubhumi",
-      "Indian Paranormal Horror Film 'Numinous' Wraps Production and Heads to American Film Market",
-      "Ramayana: Part 1 Dominates Karnataka Box Office With Over Rs 73 Crore Gross In Five Days"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4816,26 +4785,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T12:51:48Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 358 still unprocessed; today by category: movies 6/6, tv_dramas 9/4, episodes 1/2, box_office 8/6, celebrities_events 10/5, upcoming_releases 4/4, ott_streaming 9/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Sets Unprecedented Global Record With Six Consecutive Days Above Rs 100 Crore",
+      "Zelda: Ocarina of Time Remake Breaks Switch 2 Records With Massive Opening",
+      "Godzilla Minus Zero Locks November 20 India Release Date with IMAX Screening Confirmed",
+      "EastEnders Spoilers: Linda Carter Makes a Frightening Choice After Devastating Revelations"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T13:56:09Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5142,24 +5116,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T12:52:57Z",
+    "run_id": "43023831972",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 483,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5504,19 +5480,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 375,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5811,19 +5792,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 17,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6068,19 +6054,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 82,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6315,19 +6306,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6611,19 +6602,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6864,19 +6855,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7106,19 +7097,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7371,30 +7362,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-09T15:58:25Z",
-    "run_id": "42648697743",
-    "status": "success",
-    "checked": {
-     "candidates": 520,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 420"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7881,19 +7861,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-11T12:52:04Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": {
+     "candidates": 532,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 519"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8133,19 +8124,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8390,8 +8381,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T12:55:54Z",
+    "run_id": "43023831972",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 4295,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-11T11:52:43Z"
+ "updated_at": "2026-11-11T12:55:54Z"
 }

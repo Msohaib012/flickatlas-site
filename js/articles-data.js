@@ -115662,5 +115662,380 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 17:16:22 +0530"
+  },
+  "pq3frb": {
+    "id": "pq3frb",
+    "type": "news",
+    "headline": "Ramayana Sets Unprecedented Global Record With Six Consecutive Days Above Rs 100 Crore",
+    "dek": "Starring Ranbir Kapoor and Yash and directed by Nitesh Tiwari, Ramayana achieves a historic box office feat by crossing the Rs 100 crore mark worldwide for six straight days.",
+    "body": [
+      {
+        "h": "Historic Global Box Office Run",
+        "p": [
+          "The theatrical release of the epic saga Ramayana has created waves across the international cinema landscape. Featuring a prominent cast including Ranbir Kapoor and Yash, the movie has shattered multiple conventional commercial benchmarks. Industry trackers note that its steady upward momentum has positioned it leagues ahead of several contemporary blockbusters.",
+          "Directed by Nitesh Tiwari, the feature film has managed to sustain massive audience footfalls both domestically within India and across various overseas territories. Its exceptional hold at ticket counters sets a new benchmark for cinematic storytelling and commercial viability on a grand international scale."
+        ]
+      },
+      {
+        "h": "Breaking Down the Six-Day Collection Trajectory",
+        "p": [
+          "The commercial journey commenced with an impressive opening day, pulling in a worldwide gross of Rs 128 crore. Although a minor dip on the second day brought in Rs 103 crore, the feature quickly bounced back on the third day with an enormous global collection of Rs 153 crore.",
+          "Even on the fourth day, which coincided with Laxmi Puja, the cinematic enterprise maintained its resilience by securing Rs 123 crore globally. The fifth day marked its highest single-day gross of the run thus far at Rs 160 crore, followed by a robust Rs 142 crore on the sixth day, pushing its overall worldwide tally to Rs 808 crore."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Industry Milestones",
+        "p": [
+          "By sustaining a daily global haul of over Rs 100 crore for six consecutive days, Ramayana has officially become the only Indian film to achieve this extraordinary feat. Prior to this milestone, other major blockbusters managed shorter streaks of consecutive high-grossing days.",
+          "Notable titles such as Dhurandhar 2, Pushpa 2: The Rule, Jawan, and Baahubali 2: The Conclusion previously held four-day streaks of consecutive Rs 100 crore-plus global earnings. Meanwhile, features like Animal managed three days, while others like Pathaan recorded two consecutive days."
+        ]
+      },
+      {
+        "h": "Regional Triumphs and Overseas Footprint",
+        "p": [
+          "Beyond its monumental global numbers, the feature has also carved a niche for itself in localized regional markets. Trade analysts highlighted that the film scripted history in Kerala by swiftly emerging as the biggest Hindi grosser within a mere six-day timeframe.",
+          "Concurrently, the international run has proven exceptionally lucrative, with overseas collections crossing the USD 30 million threshold. Strong advance trends and positive market sentiment continue to fuel its expansion across numerous foreign territories."
+        ]
+      },
+      {
+        "h": "Anticipating Further Records",
+        "p": [
+          "Commercial analysts project that the momentum is far from over for the Ranbir Kapoor and Yash starrer. Current tracking suggests the production is well on its way to recording yet another Rs 100 crore-plus day, which would extend its unbroken streak to a full week.",
+          "Such persistent box office dominance underscores the widespread appeal of the cinematic adaptation. Observers will be closely monitoring how the feature fares in the coming days as it eyes further historic milestones."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana has become the first Indian film to gross over Rs 100 crore globally for six consecutive days, bringing its total worldwide collection to Rs 808 crore. Directed by Nitesh Tiwari and starring Ranbir Kapoor and Yash, the film has outperformed previous records set by blockbusters like Jawan and Baahubali 2 while making history in regional markets like Kerala.",
+          "Trade tracking indicates the movie is poised to secure a seventh consecutive day above the Rs 100 crore threshold, cementing its status as a monumental box office success."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana grossed Rs 128 crore on Day 1 worldwide.",
+      "Day 2 worldwide collection was Rs 103 crore.",
+      "Day 3 worldwide collection was Rs 153 crore.",
+      "Day 4 worldwide collection was Rs 123 crore on Laxmi Puja day.",
+      "Day 5 worldwide collection reached a peak of Rs 160 crore on Monday.",
+      "Day 6 worldwide collection added Rs 142 crore, bringing the total to Rs 808 crore.",
+      "Dhurandhar 2, Pushpa 2: The Rule, Jawan, and Baahubali 2: The Conclusion previously held 4-day consecutive Rs 100 crore-plus streaks.",
+      "Animal recorded 3 consecutive Rs 100 crore-plus days.",
+      "KGF Chapter 2 recorded 3 consecutive Rs 100 crore-plus days.",
+      "Pathaan recorded 2 consecutive Rs 100 crore-plus days."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dhurandhar 2",
+        "Pushpa 2: The Rule",
+        "Jawan",
+        "Baahubali 2: The Conclusion",
+        "Animal",
+        "KGF Chapter 2",
+        "Pathaan"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Rs 100 crore worldwide",
+      "Ranbir Kapoor Yash Ramayana",
+      "Nitesh Tiwari Ramayana collection"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/200294446_ramayana-_10_.webp",
+        "caption": "Ramayana Sets Unprecedented Global Record With Six Consecutive Days Above Rs 100 Crore",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 16:27:08 +0530"
+  },
+  "izkri5": {
+    "id": "izkri5",
+    "type": "news",
+    "headline": "Zelda: Ocarina of Time Remake Breaks Switch 2 Records With Massive Opening",
+    "dek": "Nintendo's latest re-imagining of a classic adventure has achieved unprecedented launch figures on the Switch 2, easily outpacing previous heavy hitters.",
+    "body": [
+      {
+        "h": "A Historic Launch for Nintendo's New Console",
+        "p": [
+          "The return of Link's legendary 1998 journey has shattered internal expectations, delivering the most successful game launch for Nintendo's new console generation. According to official press announcements, the updated title managed to move an incredible number of units in just a few days on the market.",
+          "Fans eagerly rushed to secure both physical and digital editions of the title, though specific figures detailing the exact split between formats remain undisclosed. Observers have noted particular interest in physical variants featuring special foil covers."
+        ]
+      },
+      {
+        "h": "Breaking Down the First-Week Numbers",
+        "p": [
+          "Within the first four days of availability, global consumer purchases crossed the 5.2 million threshold. A significant portion of this total, specifically 810,000 copies, originated directly from the Japanese market.",
+          "This performance officially marks the highest global sales achieved by any Nintendo-published software for the new platform during its opening four-day window."
+        ]
+      },
+      {
+        "h": "Leaving Other Major Titles Behind",
+        "p": [
+          "To contextualize the scale of this launch, other major releases on the hardware achieved notably lower figures during comparable windows. For instance, the life simulation title Pokopia managed 2.2 million sales in its first four days earlier in the year.",
+          "Meanwhile, system-sellers like Mario Kart World reached 5.63 million units by the end of its entire first month, illustrating just how fast the classic adventure's remake climbed the charts."
+        ]
+      },
+      {
+        "h": "Surpassing Lifetime Figures Rapidly",
+        "p": [
+          "The commercial momentum did not stop at opening weekend records. Data compiled by the end of September indicates that the title has already surpassed the lifetime sales of nearly all other Nintendo-published games on the platform.",
+          "Notable software left trailing behind in total volume includes Donkey Kong Bananza at 5.05 million, the Switch 2 version of Pokemon Legends: Z-A at 4.04 million, and Fire Emblem: Fortune's Weave with 1.34 million in its first month. The only software maintaining a higher overall count is Mario Kart World, sitting at 16.48 million."
+        ]
+      },
+      {
+        "h": "Regional Milestones and Physical Demand",
+        "p": [
+          "Analysts tracking regional trends reported that the game drove the second biggest launch for the franchise in the UK based strictly on physical purchases. Furthermore, it claimed the title of the country's biggest-selling physical game of the year so far.",
+          "This strong physical appetite demonstrates enduring consumer affection for traditional boxed media that players can retain permanently on their shelves."
+        ]
+      },
+      {
+        "h": "Leadership and Industry Reception",
+        "p": [
+          "Company executives had anticipated positive results prior to the public data release. President Shuntaro Furukawa previously remarked that the software was off to a magnificent start.",
+          "Additionally, industry experts noted that the strong monetary performance proves that recent price adjustments have done little to dampen consumer enthusiasm or stall marketplace momentum for marquee franchises."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Zelda: Ocarina of Time remake achieved a record-breaking 5.2 million sales globally within four days on the Switch 2. This milestone makes it the fastest-selling Nintendo-published launch on the console, outpacing heavyweights like Pokopia and surpassing the lifetime totals of most platform peers."
+        ]
+      }
+    ],
+    "facts": [
+      "Zelda: Ocarina of Time remake sold 5.2 million copies in 4 days on the Switch 2",
+      "810,000 of the sales came from Japan",
+      "Pokemon Pokopia sold 2.2 million copies in its first four days",
+      "Mario Kart World sold 5.63 million units by the end of June 2025",
+      "Mario Kart World reached 16.48 million sales by the end of September",
+      "Donkey Kong Bananza reached 5.05 million sales",
+      "Pokemon Legends: Z-A Switch 2 version reached 4.04 million sales",
+      "Fire Emblem: Fortune's Weave reached 1.34 million sales by the end of its first month"
+    ],
+    "entities": {
+      "people": [
+        "Shuntaro Furukawa",
+        "Link"
+      ],
+      "titles": [
+        "Zelda: Ocarina of Time",
+        "Pokemon Pokopia",
+        "Mario Kart World",
+        "Donkey Kong Bananza",
+        "Pokemon Legends: Z-A",
+        "Fire Emblem: Fortune's Weave"
+      ]
+    },
+    "keywords": [
+      "Zelda Ocarina of Time remake Switch 2",
+      "Nintendo Switch 2 sales record",
+      "Pokemon Pokopia",
+      "Mario Kart World sales"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/z4DqNyWzmYeWeysAvkQjgR-1920-80.jpg",
+        "caption": "Zelda: Ocarina of Time Remake Breaks Switch 2 Records With Massive Opening",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 11:05:01 +0000"
+  },
+  "clrgax": {
+    "id": "clrgax",
+    "type": "news",
+    "headline": "Godzilla Minus Zero Locks November 20 India Release Date with IMAX Screening Confirmed",
+    "dek": "PVR INOX Pictures executive Nayana Bijli has officially verified that the acclaimed Japanese feature will arrive in Indian cinemas on November 20, bringing special format screenings to fans.",
+    "body": [
+      {
+        "h": "Official Confirmation of the India Release",
+        "p": [
+          "The long wait for Indian monster movie enthusiasts is finally approaching its conclusion as PVR INOX Pictures validates the arrival of the acclaimed Japanese feature. Distribution leads and corporate strategists have spent months evaluating the logistical roadmap for bringing the title to domestic auditoriums.",
+          "Discussions regarding the local premiere began months prior, building considerable momentum among regional moviegoers. The distribution network has systematically cleared hurdles to ensure a proper theatrical rollout for the picture."
+        ]
+      },
+      {
+        "h": "IMAX Format Availability Confirmed",
+        "p": [
+          "Audience members seeking an elevated cinematic format can look forward to dedicated large-screen presentations. Promotional materials previously circulated online carried specific branding that pointed toward premium format compatibility.",
+          "Executives have since verified that premium large-format screens will feature the title upon debut. This guarantees that viewers will experience the visceral scale and sound design intended by the creators."
+        ]
+      },
+      {
+        "h": "Strategic Scheduling and Screen Allocation",
+        "p": [
+          "Determining the precise calendar slot required careful coordination due to competing major titles occupying premium venues. Industry strategies necessitated a specific launch window to respect exclusivity arrangements held by competing big-budget features across national screens.",
+          "By aligning the theatrical debut for the twentieth of the month, distributors successfully bypassed scheduling conflicts involving existing blockbusters occupying all major premium locations across the territory."
+        ]
+      },
+      {
+        "h": "Busy Lineup for PVR INOX Pictures",
+        "p": [
+          "The distribution division maintains a heavily packed calendar extending through the closing months of the year. Alongside the monster feature, executives are concurrently managing multiple international and domestic titles catering to diverse demographics and languages.",
+          "Upcoming weeks feature a steady stream of counter-programming, ranging from action dramas to psychological thrillers. This aggressive release strategy reflects a robust operational period for the theatrical distributor."
+        ]
+      },
+      {
+        "h": "Overwhelming Fan Curiosity Online",
+        "p": [
+          "Digital platforms have witnessed continuous inquiries from dedicated followers demanding updates regarding the regional rollout. Social media channels run by the distribution firm turned into hubs of active speculation and enthusiastic questioning.",
+          "Executives noted the high volume of digital engagement, acknowledging that community pressure played a notable role in bringing public clarity to the timeline. The positive reception worldwide heightened regional expectations tremendously."
+        ]
+      },
+      {
+        "h": "Global Acclaim Fuels Domestic Anticipation",
+        "p": [
+          "International reception for the Japanese production set high benchmarks ahead of its local theatrical debut. Critical praise and strong word-of-mouth from overseas territories established a formidable reputation prior to domestic availability.",
+          "Industry observers remain eager to analyze how local audiences respond to the creature feature once it hits the big screen. The combination of global acclaim and localized curiosity creates a unique barometer for success."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "PVR INOX Pictures has confirmed that Godzilla Minus Zero will release in India on November 20 with an IMAX presentation. Company representatives acknowledged high fan demand driven by strong global acclaim for the Japanese film."
+        ]
+      }
+    ],
+    "facts": [
+      "Godzilla Minus Zero releases in India on November 20.",
+      "Nayana Bijli is the Lead for Distribution, Licensing Content Acquisition at PVR INOX Pictures Limited.",
+      "Kamal Gianchandani is the Chief Business Planning Strategy at PVR INOX Limited and CEO of PVR INOX Pictures Limited.",
+      "Ramayana holds a two-week exclusivity across all 35 IMAX screens in India.",
+      "Other titles releasing around the same period include I Play Rocky, Wildwood, The Hunger Games: Sunrise On The Reaping, Victorian Psycho, Above The Below, and Eetha."
+    ],
+    "entities": {
+      "people": [
+        "Nayana Bijli",
+        "Kamal Gianchandani"
+      ],
+      "titles": [
+        "Godzilla Minus Zero",
+        "Ramayana",
+        "I Play Rocky",
+        "Wildwood",
+        "The Hunger Games: Sunrise On The Reaping",
+        "Victorian Psycho",
+        "Above The Below",
+        "Eetha"
+      ]
+    },
+    "keywords": [
+      "Godzilla Minus Zero",
+      "Godzilla Minus Zero India release",
+      "PVR Inox Pictures",
+      "Nayana Bijli",
+      "Godzilla Minus Zero IMAX"
+    ],
+    "images": [
+      {
+        "url": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Godzilla-620.jpeg",
+        "caption": "Godzilla Minus Zero Locks November 20 India Release Date with IMAX Screening Confirmed",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 15:50:18 +0200"
+  },
+  "17u2yz2": {
+    "id": "17u2yz2",
+    "type": "news",
+    "headline": "EastEnders Spoilers: Linda Carter Makes a Frightening Choice After Devastating Revelations",
+    "dek": "In the latest early iPlayer release of EastEnders, Linda Carter faces devastating news regarding Mick's fate, leading to emotional turmoil for the family and a dangerous decision.",
+    "body": [
+      {
+        "h": "Early Release Reveals Shocking Truth About Mick Carter",
+        "p": [
+          "The latest episode of EastEnders, available early on BBC iPlayer ahead of its television broadcast, brings a heartbreaking turn of events for Linda Carter. Viewers following the Wednesday episode (11 November) witness Linda informing her loved ones about the tragic fate of her husband, Mick Carter.",
+          "The storyline unfolds after Linda crosses paths with her former rival, Janine Butcher, who drops a bombshell regarding Mick. Although it was previously believed that Mick drowned four years ago, Janine reveals that he actually passed away from a heart attack two weeks prior."
+        ]
+      },
+      {
+        "h": "Suspicion Surrounds a Crematorium Scam",
+        "p": [
+          "Following Janine's revelation, Linda and Max head to a nearby crematorium where Janine is spotted with a coffin. Suspicion immediately arises as to whether Mick is actually inside.",
+          "Unable to face opening the coffin herself, Linda asks Max to check. It is later revealed by Janine that the entire event is a scam. Seeking to protect Linda or serve his own interests, Max agrees to keep the truth hidden and lies to Linda, claiming that Mick is indeed inside the coffin."
+        ]
+      },
+      {
+        "h": "Family Confrontations at Peacock Palace",
+        "p": [
+          "After spending the night at Max's flat, Linda returns to Peacock Palace to gather her children—Lee, Nancy, and Johnny—and shares the devastating update about their father.",
+          "The stunned Carter children react with deep grief before leaving, prompting Linda to break down in tears with comfort from her concerned mother. Amidst her distress, she unpacks alcohol, triggering memories that drive her to head out and clear her head."
+        ]
+      },
+      {
+        "h": "Emotional Moments on the Roof",
+        "p": [
+          "Outside, Johnny and Lee share an emotional conversation about the pain of never getting to say a proper goodbye to their father. Meanwhile, Linda thanks Max for his ongoing support, though his guilt continues to weigh heavily on him.",
+          "Spotting Nancy on the roof of The Vic, a concerned Linda goes up to check on her daughter. Devastated Nancy reflects on her bond with Mick, while Linda struggles to explain why he never returned home to them. Shortly after, Zack arrives to check on Nancy, leading to an unexpected moment when her waters break."
+        ]
+      },
+      {
+        "h": "Tension and Confrontation at Harry's Barn",
+        "p": [
+          "Grieving and close to a relapse, Linda is suddenly distracted by an urgent phone call from Nicola. Nicola warns her that Lee is completely out of control at Harry's Barn.",
+          "Linda and Max rush to the location to retrieve a drunken Lee, who is seen picking a fight with Vicki and Ross. Outside, a grieving Lee clutches a bottle and directs harsh words at his father, ultimately blaming Linda for Mick's death."
+        ]
+      },
+      {
+        "h": "A Frightening Decision and Self-Destruction",
+        "p": [
+          "The heavy accusations push Linda to her absolute breaking point. Facing immense grief and stress, she decides to self-destruct alongside her son.",
+          "In a tense cliffhanger, Linda takes the bottle directly from Lee and threatens to drink, leaving viewers wondering if she will officially relapse and whether Max's guilt will finally catch up with him."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "In the latest episodes of EastEnders available on BBC iPlayer, Linda Carter learns devastating details about Mick's death through a scam involving Janine Butcher and Max Branning. As the Carter family processes the grief, Linda faces a severe personal crisis and a potential relapse after a confrontation with her son Lee."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode airs on Wednesday, 11 November.",
+      "Episodes drop early at 6am on BBC iPlayer before airing on BBC One at 7.30pm from Mondays to Thursdays.",
+      "Janine revealed that Mick died of a heart attack two weeks prior.",
+      "Linda's children are Lee, Nancy, and Johnny."
+    ],
+    "entities": {
+      "people": [
+        "Linda Carter",
+        "Mick Carter",
+        "Janine Butcher",
+        "Max",
+        "Lee",
+        "Nancy",
+        "Johnny",
+        "Zack",
+        "Nicola",
+        "Vicki",
+        "Ross"
+      ],
+      "titles": [
+        "EastEnders"
+      ]
+    },
+    "keywords": [
+      "EastEnders Linda Carter",
+      "EastEnders iPlayer release",
+      "Linda Carter Mick death",
+      "EastEnders spoilers 11 November"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/e0bb40dd-f1ae-412f-8ea4-0ab3051591d4.jpg?crop=1.00xw:0.752xh;0,0.0288xh&amp;resize=1200:*",
+        "caption": "EastEnders Spoilers: Linda Carter Makes a Frightening Choice After Devastating Revelations",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 11:46:00 +0000"
   }
 };
