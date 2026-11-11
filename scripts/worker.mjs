@@ -29,7 +29,7 @@
 // runs, Cloudflare ignores _headers (verified live — the file was present
 // and downloadable, the headers were not served). Same policy as _headers.
 const SEC_HEADERS = {
-  'Content-Security-Policy': "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://image.tmdb.org https://images.weserv.nl https://www.google-analytics.com https://www.googletagmanager.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://api.themoviedb.org https://www.google-analytics.com https://www.googletagmanager.com https://arenaflix-53ce8-default-rtdb.firebaseio.com; frame-src https://www.youtube-nocookie.com https://www.youtube.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action 'self'",
+  'Content-Security-Policy': "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://pagead2.googlesyndication.com https://www.googleadservices.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://image.tmdb.org https://images.weserv.nl https://www.google-analytics.com https://www.googletagmanager.com https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://api.themoviedb.org https://www.google-analytics.com https://www.googletagmanager.com https://arenaflix-53ce8-default-rtdb.firebaseio.com https://pagead2.googlesyndication.com; frame-src https://www.youtube-nocookie.com https://www.youtube.com https://googleads.g.doubleclick.net https://tpc.googlesyndication.com https://www.google.com; object-src 'none'; base-uri 'self'; frame-ancestors 'self'; form-action 'self'",
   'X-Content-Type-Options': 'nosniff',
   'X-Frame-Options': 'SAMEORIGIN',
   'Referrer-Policy': 'strict-origin-when-cross-origin',
@@ -136,9 +136,15 @@ async function faInjectTracker(request, res) {
   const ct = res.headers.get("content-type") || "";
   if (res.status !== 200 || ct.indexOf("text/html") === -1) return res;
   const html = await res.text();
-  if (html.indexOf("fa-track.js") !== -1) return new Response(html, { status: res.status, headers: res.headers });
-  const tag = '<script src="/js/fa-track.js?v=20261102g" defer></script>';
-  const out = html.replace(/<\/body>/i, tag + "</body>");
+  let out = html;
+  // AdSense (added 2026-11-11): verification + ad script in <head> of every
+  // public page. Idempotent — skipped when the page already carries it.
+  const adsTag = '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2958952881963104" crossorigin="anonymous"></script>';
+  if (out.indexOf("adsbygoogle.js") === -1) out = addHeadTag(out, adsTag);
+  if (out.indexOf("fa-track.js") === -1) {
+    const tag = '<script src="/js/fa-track.js?v=20261102g" defer></script>';
+    out = out.replace(/<\/body>/i, tag + "</body>");
+  }
   if (out === html) return new Response(html, { status: res.status, headers: res.headers });
   const h = new Headers(res.headers);
   h.delete("content-length"); h.delete("content-encoding"); h.delete("etag");
