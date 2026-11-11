@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T05:51:41Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": {
-     "candidates": 277,
-     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Soni Razdan Reveals Mahesh Bhatt's Reaction To Ranbir Kapoor's Mythological Epic",
-      "Shaji Kumar Death Reason: Malayalam Cinematographer Dies At 57; Did He Fall Ill During Shooting?",
-      "When I Meet The Moon Episodes 13-14 Release Time: Yun Li To Get Upset At Shize? When, Where To WATCH?",
-      "Ramayana Box Office Day 6 Advance Booking: Ranbir Kapoor Already Delivers The 5th Biggest 1st Tuesday Even Before The First Show Starts!",
-      "Scene Box Office Collection Day 4: Beats Premalu To Become Naslen’s 2nd Highest Grosser In India",
-      "Mike Flanagan’s Prime Video Series Carrie Makes Major Changes To Stephen King’s Original Book That You Probably Missed",
-      "Ramayana Box Office: #1 Opening Weekend In the UK, Earns 5.5 Times More Than the Highest-Grossing Indian Film In Thailand – Detailed Global Report!",
-      "Scene Day 4 Box Office Surpasses Bigil in First Monday Rankings as Suriya Scores His 4th Million Dollar Grosser in North America",
-      "From Karuppu To Scene: Suriya Scripts a Stunning Box Office Turnaround With Three Successful Films in a Single Year",
-      "Ramayana Breaks Dhurandhar 2's All Time Bollywood BMS Record With 1.66M Tickets as Pushpa 2's Peak Beckons",
-      "Billy Joel confirms that he is going to perform soon",
-      "Mukesh Khanna slams Ramayana makers",
-      "'Raaka' director Atlee marks 12 years of marriage with Priya",
-      "Johnny McEvoy passes away at 81",
-      "Sshura lauds Arhaan's bond with sister Sipaara",
-      "Musician Bobby Taylor passes away at 58",
-      "Toukie Smith passes away at 74 after battle with multiple sclerosis",
-      "Triptii Dimri posts photos with Priyanka, Madhuri",
-      "Yash wore Ravana costumes weighing up to 33 kg in Ramayana; crown alone weighed 1.8 kg, reveals designer",
-      "Ramayana actor Indira Krishnan defends Sai Pallavi’s Sita wielding a sword, admits she ‘didn’t connect’ bit with what she saw in Ramanand Sagar show"
-     ],
-     "updated": [],
-     "count": 259,
-     "detail": "261 stories, 0 duplicates removed, 16 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T06:51:00Z",
     "run_id": "42771210157",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "292 stories, 0 duplicates removed, 20 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T05:52:27Z",
-    "run_id": "42764627085",
+    "run_at": "2026-11-11T05:51:39Z",
+    "run_id": "42968363456",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 239,
+     "detail": "RSS/Atom items across 137 sources; 9 source(s) errored"
     },
     "changed": {
      "added": [
-      "Yash Wore Heavy Costumes and a 1.8 kg Crown for His Role as Ravana in Ramayana",
-      "Christopher Nolan's The Odyssey Officially Confirms Digital and Physical Media Release Date",
-      "Mike Flanagan's Prime Video Series Carrie Reworks Stephen King's Novel With Major Twists",
-      "VisionQuest Finale Set for Disney Plus Release With High Anticipation and Surprises"
+      "Mookuthi Amman 2 Worldwide Box Office Collection Day 5: Nayanthara's Film Nears ₹22 Crore, Eyes ₹25 Crore",
+      "Ramayana North America Box Office: Becomes Bollywood’s 6th Highest-Grossing Film In 5 Days With All-Time Record Monday",
+      "Top 10 Highest-Grossing Bollywood Films At The Overseas Box Office",
+      "Ramayana Opens Across 1000+ Shows in Indonesia with 9K Admissions; Can It Beat Territory's Highest Grosser My Name Is Khan?",
+      "'Naslen, MY GOD!': Director Atlee calls Suriya's 'Scene' a special film",
+      "Meghan Markle's father Thomas Markle back in federal custody",
+      "JoBe Cerny, voice of the Pillsbury Doughboy, dies at 78 after Alzheimer’s battle",
+      "Completely unique experience for Indian audience: Hema Malini on 'Ramayana'",
+      "Scene box office Day 5: Suriya film nears Rs 175 crore, actor to create new record",
+      "Sonu Sood urges airports, hotels to provide seating for staff working long hours",
+      "Give us one show: Pyre director Vinod Kapri appeals amid Ramayana's theatrical run",
+      "'Unforgiven' Meets 'Kill Bill' in Quentin Tarantino's Western Masterpiece",
+      "Forget 'Tombstone,' Kurt Russell's Most Intense Action Western 'Bone Tomahawk' Is a Start-to-Finish Masterpiece",
+      "The 10 Greatest Fantasy Books Released Since 'The Lord of the Rings,' Ranked",
+      "A Knight Of The Seven Kingdoms' Dunk & Egg Officially Return In February 2027 Collection",
+      "Elden Ring: Path Of Shadows Officially Announced For December 1",
+      "7 Far Side Comics That Expose The Funniest Truths About Human Nature",
+      "Potential ‘Pretty Little Liars’ Reunion? Lucy Hale Says Cast Is “Willing and Would Want to” Reprise Roles",
+      "Jimmy Kimmel Mocks Pete Hegseth’s ‘Romantic’ Praise of Trump Amid Impeachment Push: ‘Look Out, Melania’",
+      "PTI founder Imran Khan brought to Pims, undergoes eye procedure"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 226,
+     "detail": "236 stories, 0 duplicates removed, 3 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,45 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T05:52:45Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ranveer Singh Mourns the Loss of His 96-Year-Old Maternal Grandfather Dr Ram Hingorani",
+      "Bandai Namco Announces Final Elden Ring Community Quest Path of Shadows for December",
+      "Sonu Sood Calls on Airports and Hotels to Provide Seating for Staff Working Long Hours",
+      "Inside Abhay Deol's Stunning Glass House in Goa"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T08:51:57Z",
-    "run_id": "42785789827",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T09:52:34Z",
-    "run_id": "42794077399",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,28 +1888,45 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T05:52:51Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T05:52:52Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T06:05:06Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "15pmxox"
-     ],
-     "updated": [],
-     "count": 1
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2415,27 +2396,31 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T05:57:55Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1oaf2gg",
+      "18yu46s",
+      "1m9ocxb",
+      "17jioxt"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T06:05:04Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": {
-     "candidates": 640,
-     "detail": "629 collected staging rows from readers; 217 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 628 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2849,19 +2834,27 @@
      "detail": "+2 new rows, 4 updated rows, 631 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T05:57:52Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "633 collected staging rows from readers; 221 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 634 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3098,32 +3091,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T06:05:05Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Yash Wore Heavy Costumes and a 1.8 kg Crown for His Role as Ravana in Ramayana",
-      "Christopher Nolan's The Odyssey Officially Confirms Digital and Physical Media Release Date",
-      "Mike Flanagan's Prime Video Series Carrie Reworks Stephen King's Novel With Major Twists",
-      "VisionQuest Finale Set for Disney Plus Release With High Anticipation and Surprises"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3661,19 +3641,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T05:57:54Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ranveer Singh Mourns the Loss of His 96-Year-Old Maternal Grandfather Dr Ram Hingorani",
+      "Bandai Namco Announces Final Elden Ring Community Quest Path of Shadows for December",
+      "Sonu Sood Calls on Airports and Hotels to Provide Seating for Staff Working Long Hours",
+      "Inside Abhay Deol's Stunning Glass House in Goa"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3949,19 +3942,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4282,31 +4275,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T05:52:27Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 259 still unprocessed; today by category: movies 3/6, tv_dramas 4/4, episodes 0/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Yash Wore Heavy Costumes and a 1.8 kg Crown for His Role as Ravana in Ramayana",
-      "Christopher Nolan's The Odyssey Officially Confirms Digital and Physical Media Release Date",
-      "Mike Flanagan's Prime Video Series Carrie Reworks Stephen King's Novel With Major Twists",
-      "VisionQuest Finale Set for Disney Plus Release With High Anticipation and Surprises"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4812,26 +4793,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T05:52:44Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "news queue items drafted this run; 226 still unprocessed; today by category: movies 0/6, tv_dramas 5/4, episodes 0/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 2/3, awards 0/2, music_ost 0/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ranveer Singh Mourns the Loss of His 96-Year-Old Maternal Grandfather Dr Ram Hingorani",
+      "Bandai Namco Announces Final Elden Ring Community Quest Path of Shadows for December",
+      "Sonu Sood Calls on Airports and Hotels to Provide Seating for Staff Working Long Hours",
+      "Inside Abhay Deol's Stunning Glass House in Goa"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T05:53:42Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": {
-     "candidates": 46,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5145,24 +5131,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 415,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5507,24 +5488,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 381,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5809,19 +5790,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6071,19 +6057,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6318,19 +6304,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6617,19 +6603,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6870,19 +6856,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7112,19 +7098,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7373,6 +7359,16 @@
     "category": "Trending News",
     "run_at": "2026-11-11T04:55:22Z",
     "run_id": "42961832071",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7892,16 +7888,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-10T06:53:39Z",
     "run_id": "42771210157",
     "status": "success",
@@ -8138,19 +8124,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T06:05:12Z",
-    "run_id": "42764627085",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8400,8 +8386,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T04:55:22Z"
+ "updated_at": "2026-11-11T05:58:02Z"
 }

@@ -112490,5 +112490,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 22:24:30 -0500"
+  },
+  "1y1xd9x": {
+    "id": "1y1xd9x",
+    "type": "news",
+    "headline": "Ranveer Singh Mourns the Loss of His 96-Year-Old Maternal Grandfather Dr Ram Hingorani",
+    "dek": "Dr Ram Hingorani, maternal grandfather to Bollywood actor Ranveer Singh, passed away at the age of 96 on the day of Diwali.",
+    "body": [
+      {
+        "h": "Passing of Dr Ram Hingorani",
+        "p": [
+          "Dr Ram Hingorani, the maternal grandfather of Bollywood actor Ranveer Singh, breathed his last at the age of 96. He passed away on November 8, coinciding with the festival of Diwali and the auspicious occasion of Lakshmi Puja.",
+          "The family is privately processing their grief over this major personal loss. Neither Ranveer Singh nor Deepika Padukone have issued any formal public statements regarding the passing."
+        ]
+      },
+      {
+        "h": "Family Tributes and Remembrances",
+        "p": [
+          "The news of Dr Ram Hingorani's death was confirmed publicly by Ranveer's cousin sister, Saumya Hingorani Thackeray. She shared an emotional tribute honoring her paternal grandfather.",
+          "Saumya reflected on his long life and noted the poetic timing of his passing during the golden hour of Lakshmi Puja. She fondly recalled their moments together and expressed her affectionate farewell."
+        ]
+      },
+      {
+        "h": "Close Bond with Ranveer Singh",
+        "p": [
+          "Throughout his life, Dr Ram Hingorani served as a tremendous source of encouragement for the Bollywood star. Ranveer frequently found his loudest cheerleader and greatest support in his grandfather.",
+          "A memorable public instance of their bond occurred during the promotional campaign for Rocky Aur Rani Kii Prem Kahaani. Ranveer shared a heartwarming video dancing with his grandfather to the track Jhumka Gira Re while wearing a Team Rocky T-shirt."
+        ]
+      },
+      {
+        "h": "Family Connections in the Film Industry",
+        "p": [
+          "Dr Ram Hingorani belonged to an extended family with multiple ties to the Hindi film industry. He was the brother of Sonam Kapoor's maternal grandmother, Draupadi Hingorani Bhambani, who passed away on April 29, 2017.",
+          "Because of this familial link, Sonam Kapoor's mother, Sunita Kapoor, and Ranveer Singh's mother, Anju Bhavnani, are first cousins."
+        ]
+      },
+      {
+        "h": "Professional Front and Upcoming Projects",
+        "p": [
+          "Amidst these personal developments, Ranveer Singh remains active on his professional commitments. He recently began working on his upcoming film Pralay in Mumbai.",
+          "Pralay is being produced under his home banner, Maa Kasam Films, marking the company's inaugural project. Directed by Jai Mehta, the post-apocalyptic zombie horror thriller also features Kalyani Priyadarshan and targets a late 2027 or early 2028 release."
+        ]
+      },
+      {
+        "h": "Recent Personal Milestones",
+        "p": [
+          "The actor's professional schedule has seen adjustments to accommodate his growing family. Earlier plans to shoot Pralay in Australia were shifted to Mumbai so Ranveer could remain close to home.",
+          "The relocation was prompted by the need to support Deepika Padukone following the birth of their second daughter, Devi, in September, as well as logistical difficulties with Australian authorities."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dr Ram Hingorani, maternal grandfather to Ranveer Singh, passed away at the age of 96 on November 8 during Diwali. Family members including cousin Saumya Hingorani Thackeray paid tribute to him, while the actor continues his work on the film Pralay."
+        ]
+      }
+    ],
+    "facts": [
+      "Dr Ram Hingorani died at the age of 96 on November 8 during Diwali.",
+      "Saumya Hingorani Thackeray is Ranveer Singh's cousin sister.",
+      "Sunita Kapoor and Anju Bhavnani are first cousins.",
+      "Draupadi Hingorani Bhambani passed away on April 29, 2017.",
+      "Ranveer and Deepika welcomed their second daughter, Devi, in September."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Dr Ram Hingorani",
+        "Saumya Hingorani Thackeray",
+        "Deepika Padukone",
+        "Sonam Kapoor",
+        "Sunita Kapoor",
+        "Anju Bhavnani",
+        "Draupadi Hingorani Bhambani",
+        "Jai Mehta",
+        "Kalyani Priyadarshan"
+      ],
+      "titles": [
+        "Rocky Aur Rani Kii Prem Kahaani",
+        "Dhurandhar",
+        "Pralay"
+      ]
+    },
+    "keywords": [
+      "Ranveer Singh grandfather",
+      "Dr Ram Hingorani",
+      "Saumya Hingorani Thackeray",
+      "Pralay film",
+      "Maa Kasam Films"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156491514,thumbsize-299201,width-1280,height-720,resizemode-75/156491514.jpg",
+        "caption": "Ranveer Singh Mourns the Loss of His 96-Year-Old Maternal Grandfather Dr Ram Hingorani",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T05:52:44Z"
+  },
+  "zpt8qn": {
+    "id": "zpt8qn",
+    "type": "news",
+    "headline": "Bandai Namco Announces Final Elden Ring Community Quest Path of Shadows for December",
+    "dek": "Bandai Namco has revealed the fourth and final installment of the Elden Ring Community Quests initiative, inviting players to dive back into the Shadow Realm starting December 1.",
+    "body": [
+      {
+        "h": "Introduction to Path of Shadows",
+        "p": [
+          "Bandai Namco is preparing to wrap up the year 2026 with the official launch of Path of Shadows, the final chapter in the ongoing Elden Ring Community Quests series. Set to run from December 1 through December 28, this upcoming event brings players back to the challenging expanse of the Shadow Realm.",
+          "As part of the initiative, fans will once again traverse the notorious Abyssal Woods for one final tumultuous adventure before the calendar turns."
+        ]
+      },
+      {
+        "h": "Community Goals and Objectives",
+        "p": [
+          "Unlike a traditional downloadable content questline, Path of Shadows is designed as a massive collaborative effort. Individual gamers contribute to a shared pool of objectives rather than conquering every single challenge on their own.",
+          "The event outlines five distinct targets for the community to achieve collectively between December 1 and December 28. These include gathering 1,000,000 Scadutree Fragments, reaching the Abyssal Woods 15,000 times, and drinking from St. Trina's Nectar 10,000 times. Additionally, participants must secure 70,000 Larval Tears and obtain 500,000 Revered Spirit Ashes."
+        ]
+      },
+      {
+        "h": "Participation and Tracking",
+        "p": [
+          "Joining the festivities requires very little friction for active players. Fans simply need to boot up Elden Ring on their preferred gaming platform during the event window.",
+          "To keep everyone informed, progress updates and periodic reminders will be distributed directly through the official Elden Ring Discord server."
+        ]
+      },
+      {
+        "h": "Exclusive Rewards and Perks",
+        "p": [
+          "Participants in Path of Shadows have tangible rewards waiting for them upon completion of the community goals. Bandai Namco confirmed that exclusive commemorative artwork crafted by Crisppyboat will be unlocked.",
+          "Furthermore, viewers can earn a special St. Trina Twitch chat badge designed by Carsondrewit. These digital chat icons allow livestream viewers to display their gaming affiliations and achievements right next to their usernames."
+        ]
+      },
+      {
+        "h": "Context of the Community Quests",
+        "p": [
+          "Path of Shadows serves as the fourth chapter in a broader sequence of community-driven celebrations hosted by Bandai Namco. It directly follows three earlier initiatives designed to honor different elements of FromSoftware's acclaimed role-playing game.",
+          "The first event, Path of the Tarnished, took place from September 1 through September 28 and tasked players with summoning Sorcerer Rogier. October followed with Path of the Cardinal Sin, while November hosted Path of the Elden Lord from November 2 to November 28. Each preceding month featured unique artwork and distinct Twitch badges designed by Carsondrewit, alongside contributions from artists like Shimhaq, Dan Mumford, and Louis Gibiard."
+        ]
+      },
+      {
+        "h": "Additional Community Contests",
+        "p": [
+          "Alongside the main collective objectives, Bandai Namco is running a separate Discord emote contest. This supplementary competition offers artistic members of the fanbase another avenue to take part in the ongoing celebrations.",
+          "With the conclusion of Path of Shadows approaching, Tarnished have plenty of reasons to revisit Shadow of the Erdtree before the end of the year."
+        ]
+      },
+      {
+        "h": "Recent Franchise Milestones",
+        "p": [
+          "The announcement of Path of Shadows arrives on the heels of major milestones for the franchise earlier in the year. Notably, the Tarnished Edition officially launched on Nintendo Switch 2 on August 28, marking the series' long-awaited arrival on a Nintendo console.",
+          "That release combined the base game with the 2024 Shadow of the Erdtree expansion into a single package, giving newcomers an entry point into the complete adventure before the final December community event begins."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bandai Namco has officially scheduled Path of Shadows to run from December 1 through December 28 as the final installment in the Elden Ring Community Quests series. The event invites players to collaborate on shared goals within the Shadow Realm and offers exclusive commemorative artwork and Twitch chat badges as rewards."
+        ]
+      }
+    ],
+    "facts": [
+      "Path of Shadows runs from December 1 through December 28, 2026",
+      "Path of Shadows is the fourth and final installment in the Elden Ring Community Quests initiative",
+      "The community goals include collecting 1,000,000 Scadutree Fragments",
+      "The community goals include reaching the Abyssal Woods 15,000 times",
+      "The community goals include drinking from St. Trina's Nectar 10,000 times",
+      "The community goals include obtaining 70,000 Larval Tears",
+      "The community goals include obtaining 500,000 Revered Spirit Ashes",
+      "Crisppyboat created the commemorative artwork for Path of Shadows",
+      "Carsondrewit designed the St. Trina Twitch chat badge",
+      "Path of the Tarnished ran from September 1 through 28",
+      "Path of the Elden Lord ran from November 2 through 28",
+      "The Tarnished Edition launched on Nintendo Switch 2 on August 28"
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Becher",
+        "Alex Garland",
+        "Katarina Cimbaljevic",
+        "Midra",
+        "Crisppyboat",
+        "Carsondrewit",
+        "Shimhaq",
+        "Dan Mumford",
+        "Louis Gibiard",
+        "Sorcerer Rogier",
+        "Warrior Jar Alexander"
+      ],
+      "titles": [
+        "Elden Ring",
+        "Elden Ring 2",
+        "Shadow of the Erdtree",
+        "Path of Shadows",
+        "Path of the Tarnished",
+        "Path of the Cardinal Sin",
+        "Path of the Elden Lord",
+        "Clair Obscur",
+        "Civ",
+        "Halo 2",
+        "Lord Of The Rings",
+        "Pokémon",
+        "Pokémon Winds"
+      ]
+    },
+    "keywords": [
+      "Elden Ring Path of Shadows",
+      "Path of Shadows December",
+      "Elden Ring Community Quests",
+      "Shadow of the Erdtree event"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/abyssal-woods-shadow-of-the-erdtree-elden-ring.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Bandai Namco Announces Final Elden Ring Community Quest Path of Shadows for December",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 05:00:18 GMT"
+  },
+  "1wa1swd": {
+    "id": "1wa1swd",
+    "type": "news",
+    "headline": "Sonu Sood Calls on Airports and Hotels to Provide Seating for Staff Working Long Hours",
+    "dek": "Actor Sonu Sood has made a public appeal to airport authorities and hospitality businesses to ensure proper seating arrangements for employees standing for ten to twelve hours a day.",
+    "body": [
+      {
+        "h": "The Public Appeal by Sonu Sood",
+        "p": [
+          "Actor Sonu Sood has publicly appealed to airport operators, hotel management, and hospitality enterprises to establish seating arrangements for employees who endure extended shifts on their feet.",
+          "Through a shared statement on his social media platform, the actor highlighted the physical demands placed on service desk workers, airport counter personnel, and lounge staff."
+        ]
+      },
+      {
+        "h": "Highlighting Exhaustive Shift Durations",
+        "p": [
+          "The actor drew attention to the strenuous reality of workers who remain standing continuously for ten to twelve hours while greeting and assisting customers.",
+          "He noted that while these employees consistently maintain a welcoming demeanor, the sheer physical exhaustion of their daily routines is rarely acknowledged."
+        ]
+      },
+      {
+        "h": "Proposed Workplace Adjustments",
+        "p": [
+          "To mitigate this physical strain, Sonu suggested that commercial establishments introduce high stools or practical seating options behind counters and reception areas.",
+          "He further advocated for policies that permit staff to utilize these seats for brief rests whenever their immediate operational duties allow."
+        ]
+      },
+      {
+        "h": "Redefining Industry Standards",
+        "p": [
+          "In his message, the actor emphasized that allowing workers short rest intervals should not be viewed as an extraordinary privilege.",
+          "Instead, he argued that such provisions represent a fundamental workplace standard firmly rooted in basic human dignity and empathy."
+        ]
+      },
+      {
+        "h": "Balancing Customer and Staff Comfort",
+        "p": [
+          "The statement pointed out a perceived contradiction within the service sector, noting that the primary goal of hospitality is ensuring the comfort of patrons.",
+          "Sonu reminded business operators that equal consideration must be extended to the welfare of the workers who deliver those services."
+        ]
+      },
+      {
+        "h": "Background in Cinema",
+        "p": [
+          "Alongside his ongoing social advocacy, the actor maintains an active career in the film industry across multiple languages.",
+          "His recent cinematic appearances include a role in the Tamil film Madha Gaja Raja, released in the year 2025, alongside his directorial debut in the Hindi movie Fateh."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Sonu Sood used social media to urge airports and hotels to provide proper seating for employees standing for ten to twelve hours. He argued that allowing staff short rests is a matter of dignity and humanity rather than a mere privilege."
+        ]
+      }
+    ],
+    "facts": [
+      "Actor Sonu Sood urged airports, hotels, and hospitality businesses to provide proper seating for employees.",
+      "The appeal focused on staff standing for 10 to 12 hours at counters, lounges, receptions, and service desks.",
+      "Sonu suggested making mandatory high stools or proper seating available and allowing rest when work permits.",
+      "Sonu Sood was last seen in the Tamil film Madha Gaja Raja in 2025.",
+      "His last Hindi film was his directorial debut Fateh."
+    ],
+    "entities": {
+      "people": [
+        "Sonu Sood",
+        "Shweta Keshri"
+      ],
+      "titles": [
+        "Madha Gaja Raja",
+        "Fateh"
+      ]
+    },
+    "keywords": [
+      "Sonu Sood",
+      "Sonu Sood airports seating",
+      "Sonu Sood hospitality staff",
+      "Madha Gaja Raja Sonu Sood"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/sonu-sood-112633355-16x9_0.jpg?VersionId=JFsim4Btst57op_iPP48tHm63SnvzLVO",
+        "caption": "Sonu Sood Calls on Airports and Hotels to Provide Seating for Staff Working Long Hours",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 10:56:48 +0530"
+  },
+  "snqpbf": {
+    "id": "snqpbf",
+    "type": "news",
+    "headline": "Inside Abhay Deol's Stunning Glass House in Goa",
+    "dek": "Take a visual tour of actor Abhay Deol's luxurious glass house nestled in the jungles of Goa, featuring transparent walls, a private swimming pool, and minimal interior design.",
+    "body": [
+      {
+        "h": "Introduction to the Lavish Abhay Deol Glass House",
+        "p": [
+          "Actor Abhay Deol has captured attention with his magnificent property located in Goa. Often described as a modern-day palace of glass, the residence stands out as a dream home reflecting a luxurious lifestyle.",
+          "Set deep within a natural landscape, the dwelling resembles a high-end resort. Every corner of the property showcases a unique blend of architecture and nature."
+        ]
+      },
+      {
+        "h": "Location and Natural Surroundings",
+        "p": [
+          "The extravagant estate is situated in the scenic Assagao area of Goa. Surrounded by dense greenery and tall trees, the house provides a peaceful escape from the bustling crowds and noise of Mumbai.",
+          "The location places the property right in the lap of nature. This setting allows residents and visitors to experience uninterrupted tranquility and fresh surroundings."
+        ]
+      },
+      {
+        "h": "Unique Architecture and Glass Walls",
+        "p": [
+          "The most striking feature of the Goa residence is its extensive use of glass walls. Instead of conventional solid partitions, transparent surfaces define the structure, making the interior feel intimately connected to the outdoors.",
+          "Abhay specifically instructed the architect to avoid traditional windows. He wanted full glass doors that could be slid open to bring the surrounding environment directly into the living spaces."
+        ]
+      },
+      {
+        "h": "Living Area and Minimalist Interior Design",
+        "p": [
+          "The main living space is exceptionally vast and open, enhanced by high ceilings that add grandeur to the structure. Rather than overcrowding the rooms with decorative items, the interior follows a minimal and clean aesthetic.",
+          "Simplicity guides the decor choices, utilizing fewer pieces of furniture and natural elements to achieve a sophisticated look. The flooring features black granite, complemented by detailed dark wood accents."
+        ]
+      },
+      {
+        "h": "Private Swimming Pool and Outdoor Vibe",
+        "p": [
+          "Positioned just outside the main structure is a private swimming pool. Surrounded by lush foliage, the pool area gives visitors the sensation of being on a permanent luxury vacation.",
+          "The combination of the water feature and the enclosing trees creates an earthy and organic atmosphere. It enhances the overall resort-like feel of the property."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Abhay Deol owns a lavish glass house located in the Assagao area of Goa. The property features extensive glass walls, a private swimming pool, and minimal minimalist interiors set amidst nature."
+        ]
+      }
+    ],
+    "facts": [
+      "Abhay Deol owns a glass house in Goa.",
+      "The property is located in the Assagao area of Goa.",
+      "The house features glass walls and sliding glass doors instead of traditional windows.",
+      "The interior includes black granite flooring and dark wood work.",
+      "The estate features a private swimming pool."
+    ],
+    "entities": {
+      "people": [
+        "Abhay Deol"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Abhay Deol glass house",
+      "Abhay Deol Goa house",
+      "Abhay Deol property Assagao",
+      "Abhay Deol jungle villa"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af3c4799cfd5-abhay-deol-goa-glass-house-tour-112720800-16x9.jpg",
+        "caption": "Inside Abhay Deol's Stunning Glass House in Goa",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T05:52:44Z"
   }
 };
