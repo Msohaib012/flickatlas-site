@@ -33,6 +33,145 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 11 Nov 2026 08:44:14 +0200"
   },
+  "m43u0h": {
+    "id": "m43u0h",
+    "type": "news",
+    "headline": "Akka Secures The Top Spot On Netflix India As Keerthy Suresh And Radhika Apte Captivate Viewers",
+    "dek": "The gripping gangster drama Akka, starring Keerthy Suresh and Radhika Apte and created by Dharmaraj Shetty, dominates Netflix India's Top 10 list for a full week.",
+    "entities": {
+      "people": [
+        "Dharmaraj Shetty",
+        "Keerthy Suresh",
+        "Radhika Apte",
+        "Tanvi Azmi",
+        "Mahesh Manjrekar",
+        "Anshuman Pushkar",
+        "Monica Panwar"
+      ],
+      "titles": [
+        "Akka"
+      ]
+    },
+    "keywords": [
+      "Akka Netflix series",
+      "Keerthy Suresh Akka",
+      "Radhika Apte Akka",
+      "Dharmaraj Shetty Akka",
+      "YRF Entertainment Akka"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/akkanetflixd-89231794379041.jpg",
+        "caption": "Akka Secures The Top Spot On Netflix India As Keerthy Suresh And Radhika Apte Captivate Viewers",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 12:09:06 +0530"
+  },
+  "5twq7b": {
+    "id": "5twq7b",
+    "type": "news",
+    "headline": "'Ramayana: Rise of a Legend' Enters 99th Academy Awards Race Alongside Official Entries 'Gondhal' and 'Angh'",
+    "dek": "Nitesh Tiwari's mythological epic starring Ranbir Kapoor, Yash, and Sai Pallavi enters the Oscar consideration race, even as 'Gondhal' secures India's official submission and 'Angh' qualifies via TIFF.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Gondhal",
+        "Angh",
+        "RRR"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Gondhal official Oscar entry",
+      "Angh TIFF 2026",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135727830,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Ramayana: Rise of a Legend' Enters 99th Academy Awards Race Alongside Official Entries 'Gondhal' and 'Angh'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T11:44:04+05:30"
+  },
+  "14jq3tk": {
+    "id": "14jq3tk",
+    "type": "news",
+    "headline": "Baek Yerin's Crash Landing On You OST Here I Am Again MV Hits 100 Million Views",
+    "dek": "The official music video for Baek Yerin's popular soundtrack song from the hit drama Crash Landing on You has officially crossed the 100 million view threshold on YouTube.",
+    "entities": {
+      "people": [
+        "Baek Yerin",
+        "Son Ye Jin",
+        "Hyun Bin"
+      ],
+      "titles": [
+        "Crash Landing on You",
+        "Here I Am Again",
+        "Harbin"
+      ]
+    },
+    "keywords": [
+      "Baek Yerin Here I Am Again",
+      "Crash Landing On You OST",
+      "Baek Yerin Crash Landing On You",
+      "Here I Am Again 100 million views"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/11145244/CLOY-.png",
+        "caption": "Baek Yerin's Crash Landing On You OST Here I Am Again MV Hits 100 Million Views",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 06:01:26 +0000"
+  },
+  "ww9fw4": {
+    "id": "ww9fw4",
+    "type": "news",
+    "headline": "Jamie Dornan Cried When Cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+    "dek": "Jamie Dornan opens up about his emotional reaction to landing the role of Aragorn in Lord of the Rings: Hunt for Gollum and discusses the legacy of Viggo Mortensen.",
+    "entities": {
+      "people": [
+        "Jamie Dornan",
+        "Viggo Mortensen",
+        "Andy Serkis",
+        "Peter Jackson",
+        "Ian McKellen",
+        "Elijah Wood",
+        "Lee Pace",
+        "Kate Winslet",
+        "Leo Woodall",
+        "Anya Taylor-Joy"
+      ],
+      "titles": [
+        "Lord of the Rings: The Hunt for Gollum",
+        "Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "Jamie Dornan Aragorn",
+      "Lord of the Rings Hunt for Gollum",
+      "Andy Serkis movie",
+      "Viggo Mortensen Aragorn"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2257402331.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Jamie Dornan Cried When Cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 05:54:14 +0000"
+  },
   "1y1xd9x": {
     "id": "1y1xd9x",
     "type": "news",
@@ -4669,162 +4808,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-10T01:51:22Z"
-  },
-  "va0z4g": {
-    "id": "va0z4g",
-    "type": "news",
-    "headline": "Mahesh Bhatt Proud of Ranbir Kapoor's Portrayal in Ramayana: The Rise of a Legend",
-    "dek": "Renowned filmmaker Mahesh Bhatt is reportedly overwhelmed by Ranbir Kapoor's performance in the epic film Ramayana: The Rise of a Legend, with family members sharing emotional reactions as the movie sets box office records.",
-    "entities": {
-      "people": [
-        "Mahesh Bhatt",
-        "Ranbir Kapoor",
-        "Soni Razdan",
-        "Alia Bhatt",
-        "Raha",
-        "Ravie Dubey",
-        "Arun Govil",
-        "Lara Dutta",
-        "Indira Krishnan"
-      ],
-      "titles": [
-        "Ramayana: The Rise of a Legend",
-        "Ramayana Part 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana: The Rise of a Legend",
-      "Ranbir Kapoor Ramayana",
-      "Mahesh Bhatt Ramayana",
-      "Ramayana box office collection"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135696546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Mahesh Bhatt Proud of Ranbir Kapoor's Portrayal in Ramayana: The Rise of a Legend",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-10T07:19:26+05:30"
-  },
-  "ihwl07": {
-    "id": "ihwl07",
-    "type": "news",
-    "headline": "Ramayana Box Office Collection Day 5: Ranbir Kapoor Starrer Mints Rs 107.5cr on First Monday",
-    "dek": "Directed by Nites Tiwari, Ramayana has set a new benchmark by recording the highest first Monday collection in Indian cinema history.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Rakul Preet Singh",
-        "Arun Govil",
-        "Ravi Dubey",
-        "Vivek Oberoi",
-        "Anupam Kher",
-        "Sunny Deol",
-        "Nites Tiwari",
-        "Ranveer Singh",
-        "Allu Arjun"
-      ],
-      "titles": [
-        "Animal",
-        "Ramayana",
-        "Dhurandhar 2",
-        "Pushpa 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ranbir Kapoor Ramayana day 5",
-      "Ramayana first Monday collection",
-      "Ramayana vs Dhurandhar 2"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday5feature-87291794274845.jpg",
-        "caption": "Ramayana Box Office Collection Day 5: Ranbir Kapoor Starrer Mints Rs 107.5cr on First Monday",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 07:13:02 +0530"
-  },
-  "1ys4kam": {
-    "id": "1ys4kam",
-    "type": "news",
-    "headline": "Kumar Vishwas Calls Himself Chosen By God For Ramayana, Drops Studio BTS With AR Rahman And Shreya Ghoshal",
-    "dek": "Lyricist Kumar Vishwas opened up about his deep connection to Nitesh Tiwari's Ramayana, sharing an emotional note and a behind-the-scenes studio video featuring iconic music and creative talents.",
-    "entities": {
-      "people": [
-        "Kumar Vishwas",
-        "AR Rahman",
-        "Shreya Ghoshal",
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Namit Malhotra",
-        "Vishal Dadlani",
-        "Hans Zimmer",
-        "Sunny Deol",
-        "Ravi Dubey"
-      ],
-      "titles": [
-        "Ramayana"
-      ]
-    },
-    "keywords": [
-      "Ramayana film",
-      "Kumar Vishwas Ramayana",
-      "Ramayana studio BTS",
-      "AR Rahman Ramayana lyrics"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135696411,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Kumar Vishwas Calls Himself Chosen By God For Ramayana, Drops Studio BTS With AR Rahman And Shreya Ghoshal",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-10T07:00:16+05:30"
-  },
-  "1igqa9b": {
-    "id": "1igqa9b",
-    "type": "news",
-    "headline": "Ramayana Box Office Day 5: Ranbir Kapoor and Yash Starrer Crosses Rs 100 Crore in Single Day",
-    "dek": "The mythological epic Ramayana Part 1 shattered box office records on its first Monday, pulling in a massive Rs 107.50 crore after the Diwali holiday.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Namit Malhotra",
-        "Ranveer Singh",
-        "Mudit Bhatnagar",
-        "Mahesh Bhatt"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayana Part 1",
-        "Ramayana: Rise of a Legend",
-        "Dhurandhar 2"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana Day 5 collection",
-      "Ramayana Rs 107 crore Monday"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156487344,thumbsize-58375,width-1280,height-720,resizemode-75/156487344.jpg",
-        "caption": "Ramayana Box Office Day 5: Ranbir Kapoor and Yash Starrer Crosses Rs 100 Crore in Single Day",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-10T00:52:18Z"
   },
   "1k7d2uy": {
     "id": "1k7d2uy",

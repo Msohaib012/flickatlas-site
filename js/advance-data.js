@@ -27,7 +27,7 @@ window.FA_ADVANCE = {
     {
       "date": "2026-11-13",
       "day": "",
-      "collection": 10681
+      "collection": 12213
     }
   ],
   "1733518": [
@@ -41,7 +41,21 @@ window.FA_ADVANCE = {
     {
       "date": "2026-11-13",
       "day": "",
-      "collection": 1363
+      "collection": 6149
+    }
+  ],
+  "1655020": [
+    {
+      "date": "2026-11-13",
+      "day": "",
+      "collection": 3645
+    }
+  ],
+  "1434462": [
+    {
+      "date": "2026-11-13",
+      "day": "",
+      "collection": 1099
     }
   ]
 };

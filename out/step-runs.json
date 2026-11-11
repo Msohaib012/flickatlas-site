@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T06:51:00Z",
-    "run_id": "42771210157",
-    "status": "success",
-    "checked": {
-     "candidates": 259,
-     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Soni Razdan Reveals Mahesh Bhatt's Reaction To Ranbir Kapoor's Mythological Epic",
-      "Shaji Kumar Death Reason: Malayalam Cinematographer Dies At 57; Did He Fall Ill During Shooting?",
-      "When I Meet The Moon Episodes 13-14 Release Time: Yun Li To Get Upset At Shize? When, Where To WATCH?",
-      "Billy Joel confirms that he is going to perform soon",
-      "Mukesh Khanna slams Ramayana makers",
-      "'Raaka' director Atlee marks 12 years of marriage with Priya",
-      "Johnny McEvoy passes away at 81",
-      "Sshura lauds Arhaan's bond with sister Sipaara",
-      "Musician Bobby Taylor passes away at 58",
-      "Triptii Dimri posts photos with Priyanka, Madhuri",
-      "Ramayana actor Indira Krishnan defends Sai Pallavi’s Sita wielding a sword, admits she ‘didn’t connect’ bit with what she saw in Ramanand Sagar show",
-      "Ramayana worldwide box office collection day 5: Ranbir Kapoor, Yash film crosses  ₹660 crore after manic Monday; beats Baahubali, Jailer lifetime hauls",
-      "Scene box office Day 4: Suriya film nears Rs 150 crore amid Ramayana's Rs 600-crore run",
-      "Wanted to remain a bachelor: When Pawan Kalyan spoke about his three marriages",
-      "Hema Malini reviews Ramayana, says it left her 'breathless with anticipation'",
-      "Anna Konidala deactivates Instagram after announcing separation from Pawan Kalyan",
-      "Anupam Kher condemns attack on BSF jawan in Tripura, questions silence over incident",
-      "Pyre loses 75% of shows amid Ramayana wave, director Vinod Kapri raises concern",
-      "Forget Dune, This Anya Taylor-Joy Sci-Fi Epic Is a Start-to-Finish Masterpiece",
-      "8 Greatest Apple TV Shows That Are Worth Watching Over and Over, Ranked"
-     ],
-     "updated": [],
-     "count": 239,
-     "detail": "259 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T07:51:55Z",
     "run_id": "42778115181",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "236 stories, 0 duplicates removed, 3 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T06:52:23Z",
-    "run_id": "42771210157",
+    "run_at": "2026-11-11T06:51:34Z",
+    "run_id": "42975241236",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 238,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
     },
     "changed": {
      "added": [
-      "When I Meet The Moon Episodes 13-14 Release Schedule, Streaming Details and Plot Preview",
-      "Spy x Family Season 4 and New Theatrical Film Officially Confirmed for 2027",
-      "Ankur Rathee Discusses NRI Portrayal and Global Identity in Exclusive Interview",
-      "Until We Meet Again Dominates 51st Hochi Film Awards Nominations"
+      "Akka: Keerthy Suresh And Radhika Apte Clash Holds The #1 Spot On Netflix India's Top 10",
+      "Scene Kerala Box Office Collection Day 5: Suriya, Nazriya Nazim And Naslen's Film Crosses ₹21 Crore",
+      "Mookuthi Amman 2 Box Office: Nayanthara’s Film Needs Just 13 Lakhs To Beat Sardar 2!",
+      "Bollywood’s Top 10 Opening Weekend Grossers Of 2026 At Indian Box Office",
+      "Scene Worldwide Box Office Day 5: Beats Singam 2 To Become Suriya’s 3rd Highest-Grossing Film Of All Time",
+      "Ramayana Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 92 Cr on Tuesday, Rises to Rs. 433 Cr in 6 days",
+      "Scene Beats Jana Nayagan's North America Lifetime in 5 Days to Enter Top 3 as All Suriya's 2026 Films Rank Among Five Biggest Grossers",
+      "Ramayana Becomes First Bollywood Film To Score 100 Crore Net In South Indian Dubbed Languages",
+      "New mugshot released after ankle monitor incident",
+      "'Ramayana' eyes Oscar recognition: Ranbir Kapoor's film joins 99th Academy Awards race",
+      "Vamshi Paidipally praises Salman Khan after 'Maatrubhumi' trailer",
+      "Stacy Keach passes away at 85: Actor who brought Mike Hammer to life; fans revisit his unforgettable voice",
+      "Kiara Advani's baby bump gets another red carpet moment on Koffee with Karan, it has a 2025 Met Gala look connection",
+      "Exclusive | Chunky Panday reacts to the most expensive donkey being named after him at Chitrakoot fair",
+      "Stargate SG-1 Franchise Officially Returning For A New Era",
+      "Picard Goes Full Locutus In Star Trek: Showdown At Sector 001",
+      "Patrick Stewart’s 12-Part Historical Drama Delivers A Masterclass In Political Storytelling",
+      "Dua Lipa, Tame Impala and SZA to Headline Coachella 2027",
+      "Jamie Dornan Admits He ‘Cried’ When He Was Cast as Aragorn in ‘Lord of the Rings: Hunt for Gollum’ and Says Filming Was ‘Incredible’: ‘Hopefully We’ve Done a Good Job’",
+      "Dua Lipa, Tame Impala, SZA and Daddy Yankee to Headline 2027 Coachella Festival"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 228,
+     "detail": "234 stories, 2 duplicates removed, 4 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T06:53:03Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "'Ramayana: Rise of a Legend' Enters 99th Academy Awards Race Alongside Official Entries 'Gondhal' and 'Angh'",
+      "Jamie Dornan Cried When Cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+      "Akka Secures The Top Spot On Netflix India As Keerthy Suresh And Radhika Apte Captivate Viewers",
+      "Baek Yerin's Crash Landing On You OST Here I Am Again MV Hits 100 Million Views"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T10:16:46Z",
-    "run_id": "42797637657",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,26 +1906,27 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T06:53:29Z",
-    "run_id": "42771210157",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T06:53:03Z",
+    "run_id": "42975241236",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2418,27 +2401,26 @@
      "count": 4
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T06:53:13Z",
-    "run_id": "42771210157",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T06:55:54Z",
+    "run_id": "42975241236",
     "status": "success",
     "checked": {
-     "candidates": 640,
-     "detail": "629 collected staging rows from readers; 218 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 5,
-     "detail": "+0 new rows, 5 updated rows, 626 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2852,19 +2834,27 @@
      "detail": "+0 new rows, 3 updated rows, 634 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T06:55:39Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "633 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+0 new rows, 6 updated rows, 631 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3101,32 +3091,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T06:53:28Z",
-    "run_id": "42771210157",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ankur Rathee Discusses NRI Portrayal and Global Identity in Exclusive Interview",
-      "Until We Meet Again Dominates 51st Hochi Film Awards Nominations",
-      "When I Meet The Moon Episodes 13-14 Release Schedule, Streaming Details and Plot Preview",
-      "Spy x Family Season 4 and New Theatrical Film Officially Confirmed for 2027"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3664,19 +3641,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T06:55:54Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Jamie Dornan Cried When Cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+      "Akka Secures The Top Spot On Netflix India As Keerthy Suresh And Radhika Apte Captivate Viewers",
+      "Baek Yerin's Crash Landing On You OST Here I Am Again MV Hits 100 Million Views",
+      "'Ramayana: Rise of a Legend' Enters 99th Academy Awards Race Alongside Official Entries 'Gondhal' and 'Angh'"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3952,65 +3942,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T06:51:24Z",
-    "run_id": "42771210157",
-    "status": "success",
-    "checked": {
-     "candidates": 513,
-     "sources": {
-      "trending": 20,
-      "trending_tv": 20,
-      "now_playing": 40,
-      "upcoming": 40,
-      "bollywood": 40,
-      "hindi_recent_movies": 100,
-      "india_window": 40,
-      "world_window": 40,
-      "world_recent": 60,
-      "pk_dramas": 20,
-      "new_tv": 40,
-      "hindi_recent_tv": 36,
-      "pk_movies": 17
-     },
-     "picked": 20,
-     "skipped": 0,
-     "cap": 20,
-     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
-    },
-    "changed": {
-     "added": [
-      "KI - Die letzte Erfindung der Menschheit? (1822061)",
-      "How to Rob a Bank (1437511)",
-      "Instagram/TikTok, la guerre des réseaux (1822057)",
-      "Storia di un bimbo mucca (1821193)",
-      "Long Haired Businessmen (1819503)",
-      "A Cangaceira (1817352)",
-      "Se Eu Tivesse Seus Olhos, (1817008)",
-      "Qué lejos están las fuentes y los pájaros (1816482)",
-      "bonus track desesperada (1815558)",
-      "asturias es jazz (1815552)",
-      "Human.ID (1806788)",
-      "Freeborn (1805492)",
-      "Sapped (1805475)",
-      "Cadence (1805464)",
-      "GW:s mord - Mordet på Wilma (1802475)",
-      "Second Chance Holiday (1801870)",
-      "Intolerant (1800864)",
-      "KILL/SAVE (1798903)",
-      "Collaborators (1798642)",
-      "Den sista turisten i Europa (1798439)"
-     ],
-     "updated": [],
-     "count": 20
-    },
-    "reason": null
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4285,31 +4229,65 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T06:52:23Z",
-    "run_id": "42771210157",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T06:52:05Z",
+    "run_id": "42975241236",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 239 still unprocessed; today by category: movies 3/6, tv_dramas 6/4, episodes 0/2, box_office 7/6, celebrities_events 8/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 0/3, awards 1/2, music_ost 0/2, viral 1/2"
+     "candidates": 513,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 35,
+      "pk_movies": 18
+     },
+     "picked": 20,
+     "skipped": 0,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "When I Meet The Moon Episodes 13-14 Release Schedule, Streaming Details and Plot Preview",
-      "Spy x Family Season 4 and New Theatrical Film Officially Confirmed for 2027",
-      "Ankur Rathee Discusses NRI Portrayal and Global Identity in Exclusive Interview",
-      "Until We Meet Again Dominates 51st Hochi Film Awards Nominations"
+      "V. Shantaram (1590846)",
+      "A Primeira Vez A Gente Nunca Esquece (1821412)",
+      "Victorian Psycho (1379486)",
+      "Gregor Samsa No Século XXI (1821378)",
+      "Madden (1131943)",
+      "Where the Air Tastes Like the Sea (1816178)",
+      "Il faut brûler maman (1193614)",
+      "The First Five Minutes... The Title Design Legacy of Dan Perri (1815534)",
+      "Precipicio (1814908)",
+      "Ouragan Hugo, l'épreuve du vent (1812796)",
+      "Moth Wood (1812211)",
+      "LIM YOUNG WOONG | IM HERO THE STADIUM 2 (1809304)",
+      "Wild Eyes: The Woman of the Prince (1809258)",
+      "TechnoChimères (1801528)",
+      "Mangabangabaka (1796426)",
+      "Princess (1790569)",
+      "sad pride generation (1782916)",
+      "Tu ne jugeras point (1782610)",
+      "Hot Wieners and Coffee Milk (1774577)",
+      "Gomorrah (1766051)"
      ],
      "updated": [],
-     "count": 4
+     "count": 20
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4815,19 +4793,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T06:53:03Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 228 still unprocessed; today by category: movies 2/6, tv_dramas 5/4, episodes 0/2, box_office 6/6, celebrities_events 7/5, upcoming_releases 0/4, ott_streaming 3/4, trailers 2/3, awards 0/2, music_ost 1/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "'Ramayana: Rise of a Legend' Enters 99th Academy Awards Race Alongside Official Entries 'Gondhal' and 'Angh'",
+      "Jamie Dornan Cried When Cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+      "Akka Secures The Top Spot On Netflix India As Keerthy Suresh And Radhika Apte Captivate Viewers",
+      "Baek Yerin's Crash Landing On You OST Here I Am Again MV Hits 100 Million Views"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5141,24 +5131,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T06:54:14Z",
+    "run_id": "42975241236",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 422,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5503,19 +5495,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 381,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5805,24 +5802,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 73,
+     "count": 33,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6067,14 +6064,259 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 77,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
+    "run_at": "2026-11-10T07:55:26Z",
+    "run_id": "42778115181",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T08:58:29Z",
+    "run_id": "42785789827",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T10:01:07Z",
+    "run_id": "42794077399",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T10:16:56Z",
+    "run_id": "42797637657",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T11:54:53Z",
+    "run_id": "42810742191",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T13:00:17Z",
+    "run_id": "42819184354",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T14:02:23Z",
+    "run_id": "42828225028",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T14:52:42Z",
+    "run_id": "42838196831",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T15:58:55Z",
+    "run_id": "42848575164",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T16:55:28Z",
+    "run_id": "42858670966",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T18:00:35Z",
+    "run_id": "42869047340",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T18:11:34Z",
+    "run_id": "42871867022",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T20:07:04Z",
+    "run_id": "42889284734",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T20:53:57Z",
+    "run_id": "42899192419",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T21:58:51Z",
+    "run_id": "42908913535",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T22:52:44Z",
+    "run_id": "42918211617",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-10T23:42:14Z",
+    "run_id": "42925105088",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T00:57:28Z",
+    "run_id": "42934491393",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T02:03:51Z",
+    "run_id": "42941825927",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T02:59:32Z",
+    "run_id": "42948735287",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T03:52:04Z",
+    "run_id": "42955364749",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T04:55:22Z",
+    "run_id": "42961832071",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T05:58:02Z",
+    "run_id": "42968363456",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
     "status": "success",
     "checked": null,
     "changed": {
@@ -6084,309 +6326,12 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T07:55:26Z",
-    "run_id": "42778115181",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T08:58:29Z",
-    "run_id": "42785789827",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T10:01:07Z",
-    "run_id": "42794077399",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T10:16:56Z",
-    "run_id": "42797637657",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T11:54:53Z",
-    "run_id": "42810742191",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T14:02:23Z",
-    "run_id": "42828225028",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T14:52:42Z",
-    "run_id": "42838196831",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T16:55:28Z",
-    "run_id": "42858670966",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T18:00:35Z",
-    "run_id": "42869047340",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T18:11:34Z",
-    "run_id": "42871867022",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T20:53:57Z",
-    "run_id": "42899192419",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T21:58:51Z",
-    "run_id": "42908913535",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T22:52:44Z",
-    "run_id": "42918211617",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T23:42:14Z",
-    "run_id": "42925105088",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T00:57:28Z",
-    "run_id": "42934491393",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T02:03:51Z",
-    "run_id": "42941825927",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T02:59:32Z",
-    "run_id": "42948735287",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T03:52:04Z",
-    "run_id": "42955364749",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T05:58:02Z",
-    "run_id": "42968363456",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
    }
   ],
   "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T06:51:58Z",
-    "run_id": "42771210157",
-    "status": "success",
-    "checked": {
-     "candidates": 50,
-     "valid": 50,
-     "failed": 0,
-     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
-    },
-    "changed": {
-     "added": [],
-     "updated": [
-      "Retour gagnant pour la cuisine d'antan (1815145)",
-      "Memento Amoris (1814871)",
-      "Pianoman (1813767)",
-      "Nosce te ipsum (1813722)",
-      "A COLD SEASON (1813392)",
-      "Ways That I Have Died (1812555)",
-      "Extra-Terrestrial Haunting (1812547)",
-      "Shapes and Sizes (1811085)",
-      "Come To Me (1810771)",
-      "Life 2.0 (1810754)",
-      "La vente secrète des juifs de Roumanie (1815462)",
-      "The making of Vincent - Dreams, Monsters & Independent Film (1810715)",
-      "5000 Strokes (1809633)",
-      "Memory from the Sea (1804593)",
-      "School Girls; Or, The African Mean Girls Play (1803659)",
-      "GW:s mord - Sturebymordet (1802472)",
-      "Blind Date (1802137)",
-      "The Sweetest Christmas Date (1800250)",
-      "Thank You for Your Review (1798095)",
-      "The Taste of Democracy (1798047)",
-      "Next Stop Paneriai (1797895)",
-      "She Looks Like Latte (1797488)",
-      "Irreparable (1796915)",
-      "A Gentle Apocalypse (1796080)",
-      "Dialling... (1794501)",
-      "Sonora (1790464)",
-      "First, Do No Harm (1788052)",
-      "Executioners (1777957)",
-      "Sur la piste du casoar (1814456)",
-      "The Sound of Malan Flowers Blooming (1811142)",
-      "Broken English Theater (1809947)",
-      "Synchronicity (1809943)",
-      "The Wedding Bangles (1809936)",
-      "The Innocence of Water (1809924)",
-      "Ethical Witchery (1808255)",
-      "Game Theory (1800425)",
-      "Stellar Romance (1796751)",
-      "Connection Lost (1794828)",
-      "Algo Más Para Decir (1793964)",
-      "Cecilia,  una luz de mañana (1784105)",
-      "Three Little Pigs (1782975)",
-      "Allowed to Birth: The Journey of a Global Midwife (1773656)",
-      "Folded dreams (1768753)",
-      "One of a Kind Romance (313738)",
-      "Larger Than Life (1814001)",
-      "CORRUPT (1813944)",
-      "Getting Rid of Grunt (1813038)"
-     ],
-     "count": 47
-    },
-    "reason": null
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-11-10T07:55:26Z",
     "run_id": "42778115181",
     "status": "skipped",
@@ -6613,19 +6558,73 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T06:52:37Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": {
+     "candidates": 50,
+     "valid": 49,
+     "failed": 1,
+     "detail": "published titles in the 90-day window, newest first; counts are valid detail responses and failed detail requests"
+    },
+    "changed": {
+     "added": [],
+     "updated": [
+      "Ghost Soldier (1562642)",
+      "France-Cambodge : Si loin, si proche (1815984)",
+      "Joe and Mike's Wine Bar - Opening Night! (1815716)",
+      "Zaljubljeno srce moje (1814744)",
+      "The 16th Goddesses of Stardom Tag League Tournament in KORAKUEN vol.1 (1814619)",
+      "Videotape (1814534)",
+      "Studio di una metamorfosi (1811856)",
+      "The Spark (1810689)",
+      "Ezzed'Jean (1810663)",
+      "Between the Herds (1810633)",
+      "Tomson Highway: Permanent Astonishment (1810143)",
+      "Illuminations (1809832)",
+      "Dear Son (1809706)",
+      "The Moon Laid Bare (1809680)",
+      "Behind The Passion (1809643)",
+      "Tingatinga Between Two Homes (1809546)",
+      "Par 4 chemins (1808733)",
+      "Regnum Marianum (1808456)",
+      "Magic in the Mundane (1808411)",
+      "Very Very Strange Love (1805433)",
+      "Sotto la stessa pelle (1803151)",
+      "Rightleft (1802577)",
+      "Bananafish (1802551)",
+      "On the Edge (1791437)",
+      "face à face (1791123)",
+      "Let Me Change Your Mind (1786843)",
+      "Maut (1778542)",
+      "The Lament of Spice Island (1773971)",
+      "Confession (1772726)",
+      "A Vida é Assim (1770812)",
+      "Jean Gabin - La guerre, c'est pas du cinéma ! (1767102)",
+      "Fox (1752792)",
+      "I Play Rocky (1286656)",
+      "Remember (1710024)",
+      "Ebenezer (1567605)",
+      "How to Rob a Bank (1437511)",
+      "Retour gagnant pour la cuisine d'antan (1815145)",
+      "Pianoman (1813767)",
+      "Nosce te ipsum (1813722)",
+      "A COLD SEASON (1813392)",
+      "Ways That I Have Died (1812555)",
+      "Come To Me (1810771)",
+      "Life 2.0 (1810754)",
+      "La vente secrète des juifs de Roumanie (1815462)"
+     ],
+     "count": 44
+    },
+    "reason": null
    }
   ],
   "providers_backfill": [
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6866,19 +6865,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7108,19 +7107,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7373,30 +7372,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-09T09:52:53Z",
-    "run_id": "42596466728",
-    "status": "success",
-    "checked": {
-     "candidates": 520,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 452"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7882,24 +7870,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-11T06:53:20Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": {
+     "candidates": 532,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 519"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 312,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8134,24 +8128,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T06:53:39Z",
-    "run_id": "42771210157",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4556,
+     "count": 307,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8396,8 +8390,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T06:56:03Z",
+    "run_id": "42975241236",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5499,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-11T05:58:02Z"
+ "updated_at": "2026-11-11T06:56:03Z"
 }

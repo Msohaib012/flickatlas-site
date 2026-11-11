@@ -1,75 +1,75 @@
 {
   "connected": true,
-  "generated": "2026-11-11T05:58:02Z",
+  "generated": "2026-11-11T06:56:01Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 4
   },
   "today": {
-    "users": 2,
-    "pageviews": 2,
-    "sessions": 2,
-    "avg_session_seconds": 0.0
+    "users": 4,
+    "pageviews": 12,
+    "sessions": 4,
+    "avg_session_seconds": 18.1
   },
   "last7": {
-    "users": 42,
-    "pageviews": 259,
-    "sessions": 88,
-    "avg_session_seconds": 143.8
+    "users": 43,
+    "pageviews": 269,
+    "sessions": 90,
+    "avg_session_seconds": 141.4
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 91,
-      "avg_time_seconds": 141.7
+      "views": 93,
+      "avg_time_seconds": 137.0
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 25,
-      "avg_time_seconds": 71.9
+      "views": 26,
+      "avg_time_seconds": 68.1
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 11.8
+      "views": 16,
+      "avg_time_seconds": 11.3
     },
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 15,
-      "avg_time_seconds": 31.1
+      "views": 16,
+      "avg_time_seconds": 29.7
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 7.1
+      "views": 15,
+      "avg_time_seconds": 7.9
     },
     {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 14.7
+      "views": 14,
+      "avg_time_seconds": 14.3
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 13,
+      "views": 14,
       "avg_time_seconds": 5.5
     },
     {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 6.1
+      "views": 14,
+      "avg_time_seconds": 6.4
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 14.8
+      "views": 14,
+      "avg_time_seconds": 14.2
     },
     {
       "path": "/search",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 55,
-      "users": 20
+      "sessions": 57,
+      "users": 21
     },
     {
       "source": "google",
@@ -100,8 +100,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 3,
-      "users": 3
+      "sessions": 4,
+      "users": 4
     }
   ],
   "countries": [
@@ -119,7 +119,7 @@
     },
     {
       "country": "Taiwan",
-      "users": 3
+      "users": 4
     },
     {
       "country": "Singapore",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 21
+      "users": 22
     },
     {
       "device": "mobile",

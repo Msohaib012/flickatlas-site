@@ -1,10 +1,10 @@
 {
  "steps": {
   "trending_worldwide": {
-   "last_attempt_at": "2026-11-11T00:51:42Z",
-   "last_run": "2026-11-11T00:51:42Z",
+   "last_attempt_at": "2026-11-11T06:51:59Z",
+   "last_run": "2026-11-11T06:51:59Z",
    "last_status": "success",
-   "last_success": "2026-11-11T00:51:42Z",
+   "last_success": "2026-11-11T06:51:59Z",
    "consecutive_failures": 0,
    "detail": "valid top 20 snapshot"
   },
@@ -33,34 +33,34 @@
    "detail": "validated 136 rows; 1 staging files changed"
   },
   "ott_digital": {
-   "last_attempt_at": "2026-11-11T05:52:51Z",
-   "last_run": "2026-11-11T05:52:51Z",
+   "last_attempt_at": "2026-11-11T06:52:05Z",
+   "last_run": "2026-11-11T06:52:05Z",
    "last_status": "failed",
    "last_success": "2026-11-10T12:52:33Z",
-   "consecutive_failures": 3,
+   "consecutive_failures": 4,
    "detail": "invalid release_dates response for 1810118"
   },
   "wp_boxoffice": {
-   "last_attempt_at": "2026-11-11T00:55:34Z",
-   "last_run": "2026-11-11T00:55:34Z",
+   "last_attempt_at": "2026-11-11T06:54:24Z",
+   "last_run": "2026-11-11T06:54:24Z",
    "last_status": "success",
-   "last_success": "2026-11-11T00:55:34Z",
+   "last_success": "2026-11-11T06:54:24Z",
    "consecutive_failures": 0,
-   "detail": "validated 17 rows; 0 staging files changed"
+   "detail": "validated 18 rows; 1 staging files changed"
   },
   "bollybourse_boxoffice": {
-   "last_attempt_at": "2026-11-11T00:56:19Z",
-   "last_run": "2026-11-11T00:56:19Z",
+   "last_attempt_at": "2026-11-11T06:55:02Z",
+   "last_run": "2026-11-11T06:55:02Z",
    "last_status": "success",
-   "last_success": "2026-11-11T00:56:19Z",
+   "last_success": "2026-11-11T06:55:02Z",
    "consecutive_failures": 0,
-   "detail": "validated 85 rows; 1 staging files changed"
+   "detail": "validated 86 rows; 1 staging files changed"
   },
   "filmibeat_boxoffice": {
-   "last_attempt_at": "2026-11-11T00:56:26Z",
-   "last_run": "2026-11-11T00:56:26Z",
+   "last_attempt_at": "2026-11-11T06:55:07Z",
+   "last_run": "2026-11-11T06:55:07Z",
    "last_status": "success",
-   "last_success": "2026-11-11T00:56:26Z",
+   "last_success": "2026-11-11T06:55:07Z",
    "consecutive_failures": 0,
    "detail": "validated 14 rows; 0 staging files changed"
   },
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-11T05:57:52Z"
+ "updated_at": "2026-11-11T06:55:07Z"
 }

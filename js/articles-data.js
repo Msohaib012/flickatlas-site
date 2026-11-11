@@ -112871,5 +112871,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-11T05:52:44Z"
+  },
+  "5twq7b": {
+    "id": "5twq7b",
+    "type": "news",
+    "headline": "'Ramayana: Rise of a Legend' Enters 99th Academy Awards Race Alongside Official Entries 'Gondhal' and 'Angh'",
+    "dek": "Nitesh Tiwari's mythological epic starring Ranbir Kapoor, Yash, and Sai Pallavi enters the Oscar consideration race, even as 'Gondhal' secures India's official submission and 'Angh' qualifies via TIFF.",
+    "body": [
+      {
+        "h": "The Oscar Race Entry for 'Ramayana: Rise of a Legend'",
+        "p": [
+          "Nitesh Tiwari's big-budget mythological epic 'Ramayana: Rise of a Legend' has officially entered the competitive conversation for the 99th Academy Awards. Featuring a high-profile cast including Ranbir Kapoor, Yash, and Sai Pallavi, the production has been submitted for consideration to seek recognition at the prestigious global ceremony.",
+          "This development introduces another major Indian movie into the international awards circuit. While separate from country-specific selections, commercial productions can actively seek consideration by pursuing the Academy's specific eligibility paths."
+        ]
+      },
+      {
+        "h": "Understanding the Academy's Theatrical Eligibility Rules",
+        "p": [
+          "For a film to secure contention in the main categories of the Academy Awards, it must satisfy strict theatrical release guidelines. The rules mandate a commercial screening for seven consecutive days within designated eligible urban centres in the United States.",
+          "Qualifying locations under these guidelines include major hubs such as Los Angeles, New York, San Francisco, Chicago, Dallas-Fort Worth, and Atlanta. Once this mandatory theatrical run is completed, filmmakers or distributors must submit the necessary documentation and entry forms to the Academy."
+        ]
+      },
+      {
+        "h": "The International Feature Film Pathway",
+        "p": [
+          "The International Feature Film category operates under a distinct regulatory system compared to main competition categories. Traditionally governed by the one country, one film rule, each nation is permitted to nominate a single representative movie through its recognized domestic selection committee.",
+          "However, the Academy has also established alternate qualification routes for international productions. Winning specific prizes at recognized international film festivals allows independent entries to qualify for the category without needing the nation's primary nomination."
+        ]
+      },
+      {
+        "h": "India's Official Selection and Festival Qualifiers",
+        "p": [
+          "For the 99th Academy Awards cycle, the Marathi production 'Gondhal' has been selected as India's official submission for the International Feature Film category. It carries the country's traditional nomination forward under the recognized committee process.",
+          "Simultaneously, the Naga-language film 'Angh' has earned independent eligibility for the same category. The movie secured its qualification after winning the Platform Award at the 2026 Toronto International Film Festival, bypassing the traditional domestic committee route."
+        ]
+      },
+      {
+        "h": "Coexistence of Multiple Indian Contenders",
+        "p": [
+          "The simultaneous presence of multiple Indian films in the Oscar conversation demonstrates the multifaceted nature of Academy qualification pathways. India's choice of an official representative does not bar other domestic productions from pursuing independent bids.",
+          "Because the Academy acknowledges distinct routes to eligibility, projects like 'Ramayana: Rise of a Legend' and 'Angh' can pursue recognition alongside official selections like 'Gondhal', allowing diverse voices from the country's cinema to shine on a global stage."
+        ]
+      },
+      {
+        "h": "Strong Box Office Performance and Global Figures",
+        "p": [
+          "Alongside its awards ambitions, 'Ramayana: Rise of a Legend' continues to command massive numbers at the ticket counters. The mythological epic recently crossed the significant milestone of Rs 800 cr in worldwide gross collections within just six days of its theatrical release.",
+          "Domestic reports from Sacnilk indicate that the film pulled in Rs 94.10 cr net across India on Tuesday, November 10. Its domestic gross earnings reached Rs 526.50 cr, while robust overseas numbers propelled the cumulative worldwide gross to Rs 823.50 cr."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's 'Ramayana: Rise of a Legend' has entered the consideration race for the 99th Academy Awards while simultaneously crossing Rs 800 crore worldwide at the box office. Alongside this commercial epic, the Marathi film 'Gondhal' was named India's official entry, and the Naga-language film 'Angh' qualified through a festival win at TIFF."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari directed 'Ramayana: Rise of a Legend'.",
+      "The film stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "The Marathi film 'Gondhal' is India's official entry for the 99th Academy Awards.",
+      "The Naga-language film 'Angh' qualified through the 2026 Toronto International Film Festival.",
+      "'Angh' won the Platform Award at TIFF.",
+      "Qualifying US cities for the Academy include Los Angeles, New York, San Francisco, Chicago, Dallas-Fort Worth, and Atlanta.",
+      "'Ramayana: Rise of a Legend' crossed the Rs 800 cr mark worldwide within six days of release.",
+      "The film collected Rs 94.10 cr net in India on Tuesday, November 10.",
+      "The domestic gross earnings of 'Ramayana: Rise of a Legend' reached Rs 526.50 cr.",
+      "Worldwide gross earnings for 'Ramayana: Rise of a Legend' reached Rs 823.50 cr."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Gondhal",
+        "Angh",
+        "RRR"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Gondhal official Oscar entry",
+      "Angh TIFF 2026",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135727830,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Ramayana: Rise of a Legend' Enters 99th Academy Awards Race Alongside Official Entries 'Gondhal' and 'Angh'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T11:44:04+05:30"
+  },
+  "ww9fw4": {
+    "id": "ww9fw4",
+    "type": "news",
+    "headline": "Jamie Dornan Cried When Cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+    "dek": "Jamie Dornan opens up about his emotional reaction to landing the role of Aragorn in Lord of the Rings: Hunt for Gollum and discusses the legacy of Viggo Mortensen.",
+    "body": [
+      {
+        "h": "The Emotional Casting Reveal",
+        "p": [
+          "Jamie Dornan experienced an overwhelming wave of emotion when he learned he had secured the iconic role of Aragorn for the upcoming fantasy project. Upon receiving the news, the actor admitted that he shed tears, describing the career milestone as an absolute dream come true.",
+          "Stepping into a universe of such magnitude carries profound meaning for the performer. He expressed deep humility about entering the legendary realm in any capacity, let alone taking on a character held in such high regard by millions of fans worldwide."
+        ]
+      },
+      {
+        "h": "Respect for Viggo Mortensen's Legacy",
+        "p": [
+          "Taking over a part famously portrayed by Viggo Mortensen involves navigating significant professional pressure. However, the actor clarified that his intention is never to outdo the celebrated predecessor who defined the cinematic version of the ranger.",
+          "In previous interviews, the star emphasized that Aragorn will always belong to Mortensen in his eyes. He regards the original performance as an all-time favorite and aims simply to capture a fraction of that original energy."
+        ]
+      },
+      {
+        "h": "Reflecting on the Production Experience",
+        "p": [
+          "Principal photography for the fantasy installment wrapped up recently, concluding an incredible journey for the cast. The performer wrapped up his scenes weeks prior to his public statements, praising the overall experience as nothing short of brilliant.",
+          "Acknowledging the immense passion of the fanbase, the actor hopes audiences will warmly embrace the new narrative expansion. He conveyed confidence that the team worked diligently to deliver a quality cinematic chapter."
+        ]
+      },
+      {
+        "h": "Director and Cast Lineup",
+        "p": [
+          "The upcoming motion picture is directed by Andy Serkis, who previously delivered the groundbreaking voice and motion capture performances for the creature hobbit in Peter Jackson's original trilogy. His leadership brings a deep connection to the foundational cinematic universe.",
+          "Alongside the new additions, the ensemble features several returning franchise veterans. Ian McKellen reprises his role as Gandalf, Elijah Wood returns as Frodo, and Lee Pace steps back into the shoes of King Thranduil."
+        ]
+      },
+      {
+        "h": "Expanding the Middle-earth Ensemble",
+        "p": [
+          "The new project also introduces several fresh faces to the sprawling fantasy landscape. Notable new additions to the cast include Kate Winslet portraying a character named Marigol and Leo Woodall taking on the role of Halvard.",
+          "Additionally, Anya Taylor-Joy joins the ensemble cast to portray an elf. This blend of returning legacy actors and prominent newcomers sets the stage for a unique cinematic expansion."
+        ]
+      },
+      {
+        "h": "Release Timeline and Expectations",
+        "p": [
+          "Anticipation continues to build as the production moves through its post-production phase toward its scheduled theatrical debut. The film is slated to open in theaters on December 17, 2027.",
+          "With a dedicated creative team and a mix of beloved characters, the project aims to satisfy long-time followers while introducing fresh narrative layers to the legendary cinematic world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jamie Dornan admitted he cried upon being cast as Aragorn in Lord of the Rings: Hunt for Gollum, a film directed by Andy Serkis scheduled for release on December 17, 2027. He expressed deep respect for Viggo Mortensen's original portrayal while celebrating the incredible filming experience alongside returning stars like Ian McKellen and Elijah Wood."
+        ]
+      }
+    ],
+    "facts": [
+      "Jamie Dornan was cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+      "Andy Serkis directed the film",
+      "The film is set to open in theaters on December 17, 2027",
+      "Returning cast members include Ian McKellen, Elijah Wood, and Lee Pace",
+      "New cast members include Kate Winslet, Leo Woodall, and Anya Taylor-Joy"
+    ],
+    "entities": {
+      "people": [
+        "Jamie Dornan",
+        "Viggo Mortensen",
+        "Andy Serkis",
+        "Peter Jackson",
+        "Ian McKellen",
+        "Elijah Wood",
+        "Lee Pace",
+        "Kate Winslet",
+        "Leo Woodall",
+        "Anya Taylor-Joy"
+      ],
+      "titles": [
+        "Lord of the Rings: The Hunt for Gollum",
+        "Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "Jamie Dornan Aragorn",
+      "Lord of the Rings Hunt for Gollum",
+      "Andy Serkis movie",
+      "Viggo Mortensen Aragorn"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2257402331.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Jamie Dornan Cried When Cast as Aragorn in Lord of the Rings: Hunt for Gollum",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 05:54:14 +0000"
+  },
+  "m43u0h": {
+    "id": "m43u0h",
+    "type": "news",
+    "headline": "Akka Secures The Top Spot On Netflix India As Keerthy Suresh And Radhika Apte Captivate Viewers",
+    "dek": "The gripping gangster drama Akka, starring Keerthy Suresh and Radhika Apte and created by Dharmaraj Shetty, dominates Netflix India's Top 10 list for a full week.",
+    "body": [
+      {
+        "h": "Domination on Netflix India",
+        "p": [
+          "The original gangster drama Akka has successfully captured the attention of audiences across the country, securing the number one position on Netflix India's Top 10 list.",
+          "Maintaining this peak position for an entire week, the series has proven to be the most watched title currently streaming on the platform within the nation."
+        ]
+      },
+      {
+        "h": "Creative Vision and Production",
+        "p": [
+          "The series is the brainchild of writer and director Dharmaraj Shetty, who conceived the project under the backing of production banner YRF Entertainment.",
+          "Seeking to break away from traditional genre tropes, Shetty integrated South India's historical matriarchal traditions into a high-stakes narrative focused on power, legacy, and loyalty."
+        ]
+      },
+      {
+        "h": "The Fictional Realm of Pernuru",
+        "p": [
+          "At the center of the narrative is the fictional kingdom of Pernuru, an environment defined by generations of women who have historically ruled and safeguarded their territory.",
+          "This unique setting introduces specific rules and societal structures that provide a distinct backdrop for the violent and strategic conflicts unfolding on screen."
+        ]
+      },
+      {
+        "h": "Character Dynamics: Bhavani Versus Rudra",
+        "p": [
+          "Keerthy Suresh stars in the series as Bhavani, a queen turned gangster whose authority faces a severe test when an outside force disrupts her established order.",
+          "That opposing force arrives in the form of Rudra, played by Radhika Apte, a formidable outsider who brings an entirely contrasting energy and challenges the traditions of Pernuru."
+        ]
+      },
+      {
+        "h": "Cast Perspectives on the Project",
+        "p": [
+          "Keerthy Suresh expressed that taking on the role of Bhavani allowed her to explore uncharted territories as an actor, portraying a woman fiercely protective of her legacy despite difficult choices.",
+          "Radhika Apte shared her fascination with playing Rudra, noting the excitement of participating in a narrative that grants its female characters significant agency within an unconventional gangster framework."
+        ]
+      },
+      {
+        "h": "Director's Inspiration and Genre Subversion",
+        "p": [
+          "Dharmaraj Shetty noted that his initial desire to write a gangster story stemmed from a wish to avoid saturated clichés by studying real matriarchal history.",
+          "He found that incorporating the values and traditions of these women-led societies made the creative process significantly more dramatic and rewarding."
+        ]
+      },
+      {
+        "h": "Complete Ensemble Cast",
+        "p": [
+          "Alongside the central rivalry between the characters played by Keerthy Suresh and Radhika Apte, the series features a broad supporting ensemble.",
+          "The cast includes Tanvi Azmi, Mahesh Manjrekar, Anshuman Pushkar, and Monica Panwar, rounding out the gritty world built for the screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The gangster drama Akka, created by Dharmaraj Shetty and produced by YRF Entertainment, has secured the number one position on Netflix India's Top 10 list for a full week.",
+          "Featuring performances by Keerthy Suresh and Radhika Apte, the series explores a matriarchal kingdom and has resonated strongly with viewers across the platform."
+        ]
+      }
+    ],
+    "facts": [
+      "Akka held the #1 spot on Netflix India's Top 10 for the whole week",
+      "Dharmaraj Shetty is the creator and director of Akka",
+      "YRF Entertainment is the producer of Akka",
+      "Keerthy Suresh plays Bhavani",
+      "Radhika Apte plays Rudra",
+      "Tanvi Azmi, Mahesh Manjrekar, Anshuman Pushkar, and Monica Panwar are part of the cast"
+    ],
+    "entities": {
+      "people": [
+        "Dharmaraj Shetty",
+        "Keerthy Suresh",
+        "Radhika Apte",
+        "Tanvi Azmi",
+        "Mahesh Manjrekar",
+        "Anshuman Pushkar",
+        "Monica Panwar"
+      ],
+      "titles": [
+        "Akka"
+      ]
+    },
+    "keywords": [
+      "Akka Netflix series",
+      "Keerthy Suresh Akka",
+      "Radhika Apte Akka",
+      "Dharmaraj Shetty Akka",
+      "YRF Entertainment Akka"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/akkanetflixd-89231794379041.jpg",
+        "caption": "Akka Secures The Top Spot On Netflix India As Keerthy Suresh And Radhika Apte Captivate Viewers",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 12:09:06 +0530"
+  },
+  "14jq3tk": {
+    "id": "14jq3tk",
+    "type": "news",
+    "headline": "Baek Yerin's Crash Landing On You OST Here I Am Again MV Hits 100 Million Views",
+    "dek": "The official music video for Baek Yerin's popular soundtrack song from the hit drama Crash Landing on You has officially crossed the 100 million view threshold on YouTube.",
+    "body": [
+      {
+        "h": "Reaching A Major YouTube Milestone",
+        "p": [
+          "The popular musical accompaniment for a beloved television series has achieved a significant viewership record on the internet. On November 11 at approximately 2 p.m. KST, the official music video for the soundtrack song officially crossed the major benchmark of 100 million views on YouTube.",
+          "This long-awaited achievement highlights the enduring popularity of the track among international fans and K-drama enthusiasts. The visual component continues to draw consistent traffic years after its initial public debut."
+        ]
+      },
+      {
+        "h": "Timeline Of The Viewership Journey",
+        "p": [
+          "The track's journey to this massive digital milestone spans nearly seven years. Specifically, it took approximately six years, nine months, and 30 days for the video to reach this milestone since its original release.",
+          "The music video was first uploaded to YouTube on January 12, 2020. Over the years, steady streaming from devoted fans helped steadily accumulate the view count until finally breaking the nine-figure mark."
+        ]
+      },
+      {
+        "h": "About The Hit Television Series",
+        "p": [
+          "The song serves as a prominent soundtrack piece for the television drama Crash Landing on You. The series originally premiered in December 2019 and captivated global audiences with its unique romantic plot.",
+          "The narrative centers on a wealthy heiress named Yoon Se Ri, portrayed by Son Ye Jin. Following an unexpected paragliding incident, she finds herself accidentally trapped in North Korea."
+        ]
+      },
+      {
+        "h": "Main Characters And Central Plot",
+        "p": [
+          "While stranded across the border, the wealthy heiress is discovered by a diligent North Korean soldier named Ri Jung Hyuk, played by actor Hyun Bin.",
+          "As the soldier works to protect her and help her remain hidden, he ultimately falls deeply in love with her, creating the emotional backbone that the soundtrack song beautifully complements."
+        ]
+      },
+      {
+        "h": "The Artist Behind The Track",
+        "p": [
+          "The emotional resonance of the soundtrack is heavily driven by the vocal performance of Baek Yerin. Her distinctive musical style and expressive delivery played a massive role in elevating the dramatic moments of the series.",
+          "Titled Here I Am Again, the song became an instant favorite among viewers of the show, establishing itself as a standout track within the contemporary K-drama OST landscape."
+        ]
+      },
+      {
+        "h": "Legacy And Continued Popularity",
+        "p": [
+          "Reaching 100 million views cements the track as a timeless piece of television history. Long after the conclusion of the series, fans continue to revisit the music video to relive the romance and drama.",
+          "This milestone demonstrates the lasting cultural footprint left by both the series and its accompanying musical works in the global entertainment sphere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The music video for Baek Yerin's Crash Landing on You OST titled Here I Am Again surpassed 100 million views on YouTube on November 11 at approximately 2 p.m. KST. The milestone was achieved nearly seven years after the video's release on January 12, 2020, celebrating the enduring legacy of the hit 2019 drama starring Son Ye Jin and Hyun Bin."
+        ]
+      }
+    ],
+    "facts": [
+      "Baek Yerin's Crash Landing on You OST Here I Am Again surpassed 100 million views on YouTube on November 11 at approximately 2 p.m. KST.",
+      "The music video was released on January 12, 2020.",
+      "It took approximately six years, nine months, and 30 days to reach 100 million views.",
+      "Crash Landing on You premiered in December 2019.",
+      "The drama stars Son Ye Jin as Yoon Se Ri and Hyun Bin as Ri Jung Hyuk."
+    ],
+    "entities": {
+      "people": [
+        "Baek Yerin",
+        "Son Ye Jin",
+        "Hyun Bin"
+      ],
+      "titles": [
+        "Crash Landing on You",
+        "Here I Am Again",
+        "Harbin"
+      ]
+    },
+    "keywords": [
+      "Baek Yerin Here I Am Again",
+      "Crash Landing On You OST",
+      "Baek Yerin Crash Landing On You",
+      "Here I Am Again 100 million views"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/11145244/CLOY-.png",
+        "caption": "Baek Yerin's Crash Landing On You OST Here I Am Again MV Hits 100 Million Views",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 06:01:26 +0000"
   }
 };
