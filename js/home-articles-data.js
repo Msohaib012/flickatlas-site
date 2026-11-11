@@ -48,6 +48,72 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 11 Nov 2026 16:00:18 GMT"
   },
+  "1gzkki9": {
+    "id": "1gzkki9",
+    "type": "news",
+    "headline": "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
+    "dek": "Andrew Niccol brings back the world of international weapons trafficking with a belated sequel featuring Nicolas Cage and Bill Skarsgård as a father and son taking the family business to deadlier heights.",
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "Bill Skarsgård",
+        "Andrew Niccol",
+        "Yuri Orlov"
+      ],
+      "titles": [
+        "Lords of War",
+        "Lord of War"
+      ]
+    },
+    "keywords": [
+      "Lords of War",
+      "Nicolas Cage Lords of War",
+      "Bill Skarsgard Lords of War",
+      "Andrew Niccol"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/10184122/lords-of-war-nicolas-cage.jpg",
+        "caption": "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 16:00:00 +0000"
+  },
+  "6vc7rs": {
+    "id": "6vc7rs",
+    "type": "news",
+    "headline": "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'",
+    "dek": "Director Louis Clichy brings his painterly animated feature to US audiences following festival acclaim.",
+    "entities": {
+      "people": [
+        "Louis Clichy",
+        "Christophe",
+        "Rafael Motomayor"
+      ],
+      "titles": [
+        "Iron Boy",
+        "Wall-E",
+        "Up",
+        "Asterix",
+        "Flow"
+      ]
+    },
+    "keywords": [
+      "Iron Boy trailer",
+      "Louis Clichy Iron Boy",
+      "Iron Boy animated film release date",
+      "Iron Boy Oscar contender"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-1.43.57-PM.png?w=650",
+        "caption": "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 16:00:00 +0000"
+  },
   "165m9v5": {
     "id": "165m9v5",
     "type": "news",
@@ -115,6 +181,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 15:38:51 +0000"
+  },
+  "t6bxt6": {
+    "id": "t6bxt6",
+    "type": "news",
+    "headline": "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
+    "dek": "Popular Tamil and Telugu cinema actress Priya Bhavani Shankar tied the knot with her longtime boyfriend Rajvel Raj during a private ceremony in Chennai, sharing the joyous occasion with fans online.",
+    "entities": {
+      "people": [
+        "Priya Bhavani Shankar",
+        "Rajvel Raj",
+        "Ravi Teja",
+        "Ajay Gnanamuthu",
+        "Arulnithi",
+        "Cristiano Ronaldo"
+      ],
+      "titles": [
+        "Irumudi",
+        "Demonte Colony 3"
+      ]
+    },
+    "keywords": [
+      "Priya Bhavani Shankar marriage",
+      "Rajvel Raj wedding",
+      "Priya Bhavani Shankar husband",
+      "Demonte Colony 3"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135742256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T21:03:52+05:30"
   },
   "xru9ri": {
     "id": "xru9ri",
@@ -4553,152 +4653,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 19:12:40 +0530"
-  },
-  "ikvb9g": {
-    "id": "ikvb9g",
-    "type": "news",
-    "headline": "Ramayana: Part 1 Dominates Karnataka Box Office With Over Rs 73 Crore Gross In Five Days",
-    "dek": "Ranbir Kapoor and Yash starrer Ramayana: Part 1 continues its powerful box office trajectory, crossing Rs 690 crore worldwide and establishing strong regional numbers across India.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Yash",
-        "Jerin Georgekutty",
-        "Nitesh Tiwari",
-        "Sai Pallavi",
-        "Ravi Dubey",
-        "Sunny Deol",
-        "Anupam Kher",
-        "Kajal Aggarwal",
-        "Rakul Preet Singh",
-        "Vivek Oberoi",
-        "Kunal Kapoor",
-        "Arun Govil",
-        "Lara Dutta",
-        "Shridhar Raghavan",
-        "Hans Zimmer",
-        "A. R. Rahman",
-        "Namit Malhotra"
-      ],
-      "titles": [
-        "Ramayana: Part 1"
-      ]
-    },
-    "keywords": [
-      "Ramayana Karnataka Collection",
-      "Ramayana Part 1 box office",
-      "Ranbir Kapoor Yash Ramayana",
-      "Ramayana worldwide collection"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ramayana-37161794317932.jpg",
-        "caption": "Ramayana: Part 1 Dominates Karnataka Box Office With Over Rs 73 Crore Gross In Five Days",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 19:10:07 +0530"
-  },
-  "1k3alog": {
-    "id": "1k3alog",
-    "type": "news",
-    "headline": "Guy Moot Makes History as First Publisher to Win Music Industry Trusts Award",
-    "dek": "The Warner Chappell Music CEO and chair received the prestigious U.K. honor at a London ceremony presented by Mark Ronson.",
-    "entities": {
-      "people": [
-        "Guy Moot",
-        "Mark Ronson",
-        "Carianne Marshall",
-        "Annie Lennox",
-        "Kylie Minogue",
-        "Sir Elton John",
-        "Bernie Taupin",
-        "Lucian Grainge",
-        "Michael Eavis",
-        "Pete Tong",
-        "Roger Daltrey",
-        "Rob Stringer",
-        "Emma Banks",
-        "Jamal Edwards",
-        "Jason Iley",
-        "Ashley Tabor-King",
-        "Jimmy Page",
-        "Tinie Tempah",
-        "Amy Allen",
-        "John Ryan",
-        "Celeste",
-        "Louise Redknapp",
-        "Dua Lipa",
-        "Ed Sheeran",
-        "RAYE",
-        "Charli xcx",
-        "David Bowie",
-        "George Michael",
-        "Madonna"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Guy Moot",
-      "Music Industry Trusts Award",
-      "Warner Chappell Music",
-      "Mark Ronson"
-    ],
-    "images": [
-      {
-        "url": "https://www.billboard.com/wp-content/uploads/2026/11/guy-moot-and-mark-ronson-cr-john-marshall-jm-enternational-billboard-1800.jpg?w=1024",
-        "caption": "Guy Moot Makes History as First Publisher to Win Music Industry Trusts Award",
-        "source": "Billboard"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 13:13:20 +0000"
-  },
-  "1h1f0ph": {
-    "id": "1h1f0ph",
-    "type": "news",
-    "headline": "Indian Paranormal Horror Film 'Numinous' Wraps Production and Heads to American Film Market",
-    "dek": "Principal photography has concluded on the Hindi and English-language horror feature Numinous, which is adapted from paranormal investigator Jay Alani's actual case files.",
-    "entities": {
-      "people": [
-        "Jay Alani",
-        "Gaurav K. Sharma",
-        "Mihir Rajda",
-        "Hans Audric Estialbo",
-        "Ed Warren"
-      ],
-      "titles": [
-        "Numinous",
-        "Gangs of Waseypur",
-        "Madras Cafe",
-        "Family Kirana Store",
-        "Stree 2",
-        "Bhool Bhulaiyaa",
-        "Shaitaan",
-        "Bramayugam",
-        "Sister Midnight",
-        "Haunted",
-        "The Paranormal Boy",
-        "The Haunted Doorway",
-        "Death Whisperer",
-        "Mother Mary",
-        "River",
-        "Artificial"
-      ]
-    },
-    "keywords": [
-      "Numinous film",
-      "Jay Alani Numinous",
-      "Fearfolks American Film Market",
-      "Indian paranormal horror movie"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/Numinouse-first-look.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Indian Paranormal Horror Film 'Numinous' Wraps Production and Heads to American Film Market",
-        "source": "Variety"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 13:00:00 +0000"
   },
   "1k7d2uy": {
     "id": "1k7d2uy",

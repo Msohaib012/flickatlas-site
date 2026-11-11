@@ -118209,5 +118209,282 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 15:03:06 +0000"
+  },
+  "1gzkki9": {
+    "id": "1gzkki9",
+    "type": "news",
+    "headline": "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
+    "dek": "Andrew Niccol brings back the world of international weapons trafficking with a belated sequel featuring Nicolas Cage and Bill Skarsgård as a father and son taking the family business to deadlier heights.",
+    "body": [
+      {
+        "h": "The Return Of An Infamous Arms Dealer",
+        "p": [
+          "The world of illicit international weapons trading is once again open for business as Nicolas Cage steps back into the shoes of the charmingly unscrupulous Yuri Orlov. More than two decades after the original film explored the dark underbelly of global conflict, the character returns to prove that the trade in death and destruction never truly slows down.",
+          "This long-awaited continuation reunites audiences with a protagonist who built an empire on supplying combatants across the globe. The upcoming release explores how the character has navigated the changing landscape of illegal arms dealing over the years."
+        ]
+      },
+      {
+        "h": "A Deadly New Generation Enters The Fray",
+        "p": [
+          "While Yuri Orlov is well-versed in the dangerous art of surviving international law enforcement and rival syndicates, his toughest challenge yet comes from his own household. Bill Skarsgård joins the cast as the next generation of the family, stepping up to take the enterprise to even more hazardous and profitable heights.",
+          "Instead of joining forces in a harmonious partnership, the dynamic between father and son introduces a fierce familial rivalry. Skarsgård's character brings a modern, ruthless perspective to the illicit operation, proving that the apple does not fall far from the tree."
+        ]
+      },
+      {
+        "h": "Behind The Camera With Andrew Niccol",
+        "p": [
+          "The creative force behind the original feature returns to shepherd this belated sequel through production. Andrew Niccol steps back into both writing and directing duties, ensuring that the satirical edge and gritty atmosphere of the predecessor remain intact.",
+          "Niccol's signature approach to exploring systemic corruption and moral ambiguity takes center stage once more. His direction frames the dangerous trade not just as action sequences, but as a deeply entrenched corporate structure driven by family ambition."
+        ]
+      },
+      {
+        "h": "Expanding The Family Business",
+        "p": [
+          "The newly released trailer showcases how the enterprise has evolved to meet the demands of modern warfare. With global conflicts shifting and technological advancements changing the speed of delivery, the stakes for the Orlov family have multiplied significantly.",
+          "Viewers are given a glimpse of high-stakes negotiations, tense confrontations, and the sheer scale of the operations handled by the father-son duo. The footage highlights an escalation in tension as the younger Orlov attempts to modernize the empire."
+        ]
+      },
+      {
+        "h": "The Legacy Of A Modern Cult Classic",
+        "p": [
+          "The original feature carved out a unique space in cinema by blending dark comedy with biting commentary on global superpowers and international arms regulations. The return of these characters capitalizes on the enduring popularity of that narrative.",
+          "Fans of the first installment have long anticipated a follow-up, and the upcoming project serves as a direct extension of the themes established years ago. The persistence of the main character highlights the unending demand for weapons in an unstable world."
+        ]
+      },
+      {
+        "h": "Anticipation And Release Context",
+        "p": [
+          "As promotional material begins rolling out, excitement continues to build around the chemistry between Cage and Skarsgård. Their on-screen clash offers a fresh dynamic that sets this chapter apart from standard action fare.",
+          "The project stands as a major entry in the upcoming slate of releases, drawing attention for its star-studded cast and the return of its original filmmaker to a signature universe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Andrew Niccol has returned to write and direct a belated sequel titled 'Lords of War', featuring the return of Nicolas Cage as international arms dealer Yuri Orlov. The upcoming project introduces Bill Skarsgård as his son, creating a deadly familial rivalry that takes the weapons trafficking business to new heights."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicolas Cage stars as Yuri Orlov",
+      "Bill Skarsgård stars as the son",
+      "Andrew Niccol wrote and directed the film",
+      "The film is a belated sequel to 'Lord of War'"
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Cage",
+        "Bill Skarsgård",
+        "Andrew Niccol",
+        "Yuri Orlov"
+      ],
+      "titles": [
+        "Lords of War",
+        "Lord of War"
+      ]
+    },
+    "keywords": [
+      "Lords of War",
+      "Nicolas Cage Lords of War",
+      "Bill Skarsgard Lords of War",
+      "Andrew Niccol"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/11/10184122/lords-of-war-nicolas-cage.jpg",
+        "caption": "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 16:00:00 +0000"
+  },
+  "t6bxt6": {
+    "id": "t6bxt6",
+    "type": "news",
+    "headline": "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
+    "dek": "Popular Tamil and Telugu cinema actress Priya Bhavani Shankar tied the knot with her longtime boyfriend Rajvel Raj during a private ceremony in Chennai, sharing the joyous occasion with fans online.",
+    "body": [
+      {
+        "h": "An Intimate Celebration in Chennai",
+        "p": [
+          "Renowned South Indian film star Priya Bhavani Shankar has officially begun a new chapter in her personal life by marrying her longtime partner, Rajvel Raj. The wedding ceremony was kept strictly private, surrounded only by the couple's immediate family members and closest companions.",
+          "The nuptials took place at the picturesque Fisherman's Cove situated in Chennai. The bride and groom opted for elegant traditional attire for their special day, reflecting a warm and personal celebration rather than a grand, star-studded media spectacle."
+        ]
+      },
+      {
+        "h": "Social Media Reveal and Festive Attire",
+        "p": [
+          "The newly married actress delighted her followers by posting the first official wedding photographs on her social media platforms on Wednesday, November 11. The announcement immediately captured the attention of fans and film industry peers alike.",
+          "In the shared images, Priya looked radiant draped in a traditional vibrant red saree. Meanwhile, her husband Rajvel complemented her look by wearing a classic white kurta detailed with a subtle and understated floral pattern."
+        ]
+      },
+      {
+        "h": "Playful Vows and Shared Date Significance",
+        "p": [
+          "Adding a touch of her characteristic charm to the big announcement, Priya included a witty and minimalist caption alongside her wedding photographs. She simply wrote, \"Well, this happened! 11.11.2026,\" acknowledging the distinct repeating date of their marriage.",
+          "The choice of date added a memorable numerical symmetry to the union, which quickly became a talking point among her admirers across social media channels who flooded the comment sections with congratulatory messages."
+        ]
+      },
+      {
+        "h": "A Look Back at Their Relationship",
+        "p": [
+          "Priya and Rajvel share a deep history, having been in a committed relationship for several years prior to taking the wedding plunge. The actress has occasionally offered public glimpses into their strong bond through affectionate social media posts.",
+          "Earlier this year in January, she penned a heartfelt birthday tribute to Rajvel on Instagram. Her message humorously highlighted his dedication to watching Manchester United matches at impossible hours from Australia despite frequent disappointments, showcasing their comfortable and affectionate rapport."
+        ]
+      },
+      {
+        "h": "Shared Dreams and Personal Tributes",
+        "p": [
+          "The January birthday post also shed light on some of Rajvel's personal aspirations, including his long-standing hope to witness football legend Cristiano Ronaldo lift the FIFA World Cup trophy in 2026. Priya playfully noted that she had added her own wish to his.",
+          "Concluding her birthday tribute earlier in the year, she described him as her favorite person to laugh with, argue with, and love effortlessly, calling him her true home and cementing their enduring connection before their marriage."
+        ]
+      },
+      {
+        "h": "Professional Milestones and Recent Releases",
+        "p": [
+          "Alongside her personal celebrations, Priya Bhavani Shankar maintains a busy career spanning both Tamil and Telugu cinema. She was recently seen sharing the screen with leading actor Ravi Teja in the Telugu film titled Irumudi.",
+          "Her performances across diverse regional projects have established her as a versatile performer, capable of handling commercial potboilers as well as content-driven cinema with equal ease and critical acclaim."
+        ]
+      },
+      {
+        "h": "Upcoming Projects on the Horizon",
+        "p": [
+          "Looking forward, the actress has exciting cinematic ventures lined up for release. She is set to star next in the upcoming horror thriller Demonte Colony 3, directed by Ajay Gnanamuthu.",
+          "The horror sequel features Arulnithi in the primary lead role and is currently scheduled to hit the big screens during the upcoming Pongal festival season next year, promising another thrilling watch for her fans."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Priya Bhavani Shankar married her longtime boyfriend Rajvel Raj in an intimate ceremony at Fisherman's Cove in Chennai on November 11, 2026. The bride shared wedding pictures on Instagram wearing a red saree alongside Rajvel in a white floral kurta, while also balancing a robust film career featuring upcoming projects like Demonte Colony 3."
+        ]
+      }
+    ],
+    "facts": [
+      "Priya Bhavani Shankar married Rajvel Raj on November 11, 2026.",
+      "The wedding took place at Fisherman's Cove in Chennai.",
+      "Priya wore a red saree and Rajvel wore a white kurta with a floral design.",
+      "Priya recently starred in the Telugu film Irumudi alongside Ravi Teja.",
+      "She will next appear in Demonte Colony 3 directed by Ajay Gnanamuthu and starring Arulnithi, releasing during Pongal."
+    ],
+    "entities": {
+      "people": [
+        "Priya Bhavani Shankar",
+        "Rajvel Raj",
+        "Ravi Teja",
+        "Ajay Gnanamuthu",
+        "Arulnithi",
+        "Cristiano Ronaldo"
+      ],
+      "titles": [
+        "Irumudi",
+        "Demonte Colony 3"
+      ]
+    },
+    "keywords": [
+      "Priya Bhavani Shankar marriage",
+      "Rajvel Raj wedding",
+      "Priya Bhavani Shankar husband",
+      "Demonte Colony 3"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135742256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T21:03:52+05:30"
+  },
+  "6vc7rs": {
+    "id": "6vc7rs",
+    "type": "news",
+    "headline": "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'",
+    "dek": "Director Louis Clichy brings his painterly animated feature to US audiences following festival acclaim.",
+    "body": [
+      {
+        "h": "Introduction to Iron Boy",
+        "p": [
+          "Audiences searching for an emotionally impactful animated feature have a new option to look forward to. The acclaimed animated film Iron Boy has officially released an exclusive new trailer showcasing its distinctive watercolor visual style.",
+          "The project has already built considerable buzz within the international film community. It positions itself as a strong contender in the upcoming awards season."
+        ]
+      },
+      {
+        "h": "Festival Success and Release Schedule",
+        "p": [
+          "The film arrives on the heels of major festival achievements. It previously secured the Annecy and Cannes Un Certain Regard Special Jury Prize.",
+          "US audiences will soon get a chance to experience the movie on the big screen. It is scheduled for a one-week awards-qualifying theatrical run in December, followed by an expansion into select cities starting January 22, 2027."
+        ]
+      },
+      {
+        "h": "Director Louis Clichy's Background",
+        "p": [
+          "The feature is written and directed by Louis Clichy. He brings significant industry experience to the project as a veteran of notable animated titles.",
+          "His past work includes contributions to acclaimed Pixar productions such as Wall-E and Up, alongside two French Asterix adventure films."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centers on a young farmboy named Christophe. His life takes an unexpected turn when he begins tilting his head unintentionally.",
+          "This symptom leads to a scoliosis diagnosis and the requirement to wear an iron corset everywhere. The physical restriction mirrors the broader emotional adjustments he must navigate as he figures out his identity."
+        ]
+      },
+      {
+        "h": "Visuals and Unique Production Style",
+        "p": [
+          "Iron Boy departs from the polished look of typical mainstream animation. It opts instead for a painterly, natural watercolor aesthetic.",
+          "The visual design treats negative space with as much importance as color. The result is a magical realist environment that occasionally shifts completely sideways."
+        ]
+      },
+      {
+        "h": "Voice Acting and Naturalistic Sound",
+        "p": [
+          "To achieve a distinct atmosphere, the production relied mostly on non-professional voice actors. Notably, the director's own son was cast in the lead role of Christophe.",
+          "Dialogue was frequently recorded directly on location instead of a traditional studio setting. This approach gives the audio a quasi-documentary feel and avoids a overly constructed sound."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Louis Clichy's animated feature Iron Boy has debuted an exclusive trailer ahead of its upcoming US theatrical release. The film, which won prizes at Annecy and Cannes, will have an awards-qualifying run in December before a wider rollout in January 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Louis Clichy directed Iron Boy.",
+      "The film won the Annecy and Cannes Un Certain Regard Special Jury Prize.",
+      "Iron Boy will have a one-week awards-qualifying run in December and open in select cities on January 22, 2027.",
+      "Louis Clichy previously worked on Wall-E, Up, and two Asterix films.",
+      "The director's son voices the main character, Christophe."
+    ],
+    "entities": {
+      "people": [
+        "Louis Clichy",
+        "Christophe",
+        "Rafael Motomayor"
+      ],
+      "titles": [
+        "Iron Boy",
+        "Wall-E",
+        "Up",
+        "Asterix",
+        "Flow"
+      ]
+    },
+    "keywords": [
+      "Iron Boy trailer",
+      "Louis Clichy Iron Boy",
+      "Iron Boy animated film release date",
+      "Iron Boy Oscar contender"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-11-at-1.43.57-PM.png?w=650",
+        "caption": "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 16:00:00 +0000"
   }
 };

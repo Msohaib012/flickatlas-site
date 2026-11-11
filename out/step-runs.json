@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T19:51:44Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": {
-     "candidates": 467,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Last Man In Tower Review: 5 Things I Loved About Manoj Bajpayee's Film On ZEE5 And You Might Too",
-      "Bigg Boss 20 Highlights: Kanika Mann Slams Qazi Touqeer For Provoking Manish Goel, But WHY?",
-      "Vishwajeet Pradhan Celebrates Diwali With Wife Sonalika & Children In Melbourne. Deets Inside",
-      "Bigg Boss 20 Epi 66 Written Update: Manish Goel Gets Emotional As He Slams Qazi Touqeer: Aap Mujhe Samajh...",
-      "Dhinchak Pooja Is Pregnant! Bigg Boss 11 Fame ‘Cringe’ Singer Flaunts Baby Bump In Viral Announcement Post",
-      "People Praise Andy Serkis For His Gollum LOTR Work. It Does Take A Terrible Toll",
-      "Mahershala Ali’s New Near-Perfect Action Thriller Officially Removed From 800 Theaters",
-      "Clayface: Tom Used REAL Scissors to Cut His Fake Face | Collider BTS",
-      "‘NCIS: Origins’ Officially Returns Tonight With Gibbs’ First-Ever “Let’s Roll”",
-      "Classic Tom Hanks 90s Movie Gets Remake at Warner Bros.",
-      "Blumhouse Finds Its Next Horror Movie Franchise in a Disturbing Comic Book Universe",
-      "Avengers: Doomsday’s New Synopsis Sets Up a Multiverse War With 5 MCU Superhero Teams",
-      "DC Studios’ New Boss Will Have the Opposite Approach to Dealing With Fans That James Gunn Had",
-      "Lanterns Season 2: Showrunner Gives Update on DCU Show’s Future After James Gunn’s Exit",
-      "American Baby Trailer Previews New Teen Pregnancy Movie With Arrival Star | Exclusive",
-      "Why Hilary Duff’s 'Younger' Was Canceled After 7 Seasons",
-      "'Stranger Things' Star Millie Bobby Brown Sets Next Major Netflix Movie With 'SNL' Director",
-      "All 10 Of Wolverine’s Children In Marvel’s Main Universe",
-      "Kurt Russell Teases New Taylor Sheridan Western Series' \"Even Better\" Season 2 Story & Twists",
-      "Prime Video's $113 Million Fantasy Epic Has One Of Its Best Casts"
-     ],
-     "updated": [],
-     "count": 325,
-     "detail": "327 stories, 0 duplicates removed, 140 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T20:51:49Z",
     "run_id": "42899192419",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "391 stories, 3 duplicates removed, 36 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T19:52:23Z",
-    "run_id": "42889284734",
+    "run_at": "2026-11-11T16:24:35Z",
+    "run_id": "43057939324",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 381,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
-      "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
-      "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
-      "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge"
+      "Kiara says Sidharth was unbothered about her intimiate scenes with Yash in Toxic",
+      "Priya Bhavani Shankar shares first wedding pictures with husband Rajvel Raj",
+      "‘Bhogi’: Sharwanand’s period action drama postponed",
+      "‘Inji Vellam’: Mani Ratnam’s film starring Vijay Sethupathi, Sai Pallavi locks release date",
+      "Kareena Kapoor served legal notice over Bhopal royal pendant with Quranic verse",
+      "Dax Shepard Just Went Off About ALL The Marriage Rumors With Kristin Bell: ‘It’s Very Offensive’",
+      "Patrick Stewart’s Favorite Star Trek Episode Is Popular With Fans, But He Loved It For A Different Reason",
+      "A Major Avengers Return Was Just Set Up In VisionQuest, But I Have Another Doomsday Question",
+      "45 Years Later, ‘Clash of the Titans’ Officially Returns With a Stunning 4K Restoration",
+      "Apple TV’s ‘Fast and Furious’ Replacement Officially Revs Past a Major Milestone",
+      "Quentin Tarantino’s 153-Minute War Movie He Almost Abandoned Is Now Streaming for Free",
+      "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release",
+      "Tyler Perry’s New Christmas Movie Streams on Netflix Today",
+      "Watch Robert Downey Jr. & Penélope Cruz’s R-Rated Thiller Before It Leaves Streaming",
+      "First Trailer for 'Permafrost' Action Comedy About the Nobel Banquet",
+      "Steven Spielberg Told a Bigger Western Story Than Peak ‘Yellowstone’ in Just 6 Episodes",
+      "Razer’s Next HoYoverse Collab Is On The Way",
+      "8 Masterpiece Sci-Fi Miniseries That You Can Finish In One Day",
+      "Disney Series VisionQuest Sets Marvel's All-Time IMDb Record With Finale As Avengers: Doomsday Release Nears",
+      "NBC Goes All In On Its Blue Bloods For Adults Replacement"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 349,
+     "detail": "381 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,31 @@
      "detail": "+4 articles, +0 box-office rows, 5 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T16:26:10Z",
+    "run_id": "43057939324",
+    "status": "success",
+    "checked": {
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
+      "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
+      "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T23:40:16Z",
-    "run_id": "42925105088",
-    "status": "success",
-    "checked": {
-     "candidates": 297,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 282, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,32 +1905,27 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T16:26:10Z",
+    "run_id": "43057939324",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T20:06:52Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "lubpd7",
-      "ve32nm",
-      "ovm810",
-      "1rudn53",
-      "1bdwic5"
-     ],
-     "updated": [],
-     "count": 5
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2435,27 +2411,26 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T19:59:01Z",
-    "run_id": "42889284734",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T16:26:12Z",
+    "run_id": "43057939324",
     "status": "success",
     "checked": {
-     "candidates": 641,
-     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2869,26 +2844,27 @@
      "detail": "+0 new rows, 7 updated rows, 631 unchanged"
     },
     "reason": null
-   }
-  ],
-  "gemini_reviews": [
+   },
    {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T20:06:49Z",
-    "run_id": "42889284734",
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T16:26:10Z",
+    "run_id": "43057939324",
     "status": "success",
     "checked": {
-     "candidates": 721,
-     "detail": "released movies without a review; Tavily searches: 428"
+     "candidates": 648,
+     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 635 unchanged"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "gemini_reviews": [
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3118,32 +3094,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T20:06:51Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
-      "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
-      "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
-      "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3679,26 +3642,31 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T16:26:12Z",
+    "run_id": "43057939324",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
+      "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'",
+      "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai"
+     ],
+     "updated": [],
+     "count": 3,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T19:51:47Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": {
-     "candidates": 19,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 7 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3951,19 +3919,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4239,31 +4207,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T19:52:23Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 325 still unprocessed; today by category: movies 13/6, tv_dramas 9/4, episodes 1/2, box_office 21/6, celebrities_events 17/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 4/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "NCIS: Origins Season 3 Episode 5 Introduces Gibbs' First-Ever Let's Roll Catchphrase",
-      "Ramayana Box Office: Ranbir-Sai Epic Shatters Records With Massive Monday Surge",
-      "New Sci-Fi Comedy Everything Happens So Much Debuts Today",
-      "James Gunn and Peter Safran Exit DC Studios as Jeremy Latcham Takes Charge"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4769,26 +4725,30 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T16:26:09Z",
+    "run_id": "43057939324",
+    "status": "success",
+    "checked": {
+     "candidates": 9,
+     "detail": "news queue items drafted this run; 349 still unprocessed; today by category: movies 8/6, tv_dramas 11/4, episodes 1/2, box_office 13/6, celebrities_events 16/5, upcoming_releases 8/4, ott_streaming 10/4, trailers 5/3, awards 2/2, music_ost 2/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
+      "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
+      "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T19:53:34Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5095,24 +5055,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 393,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5457,24 +5412,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 58,
+     "count": 277,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5779,19 +5734,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6036,19 +5991,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6283,19 +6238,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6579,19 +6534,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6832,19 +6787,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7074,19 +7029,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7335,6 +7290,16 @@
     "category": "Trending News",
     "run_at": "2026-11-11T16:16:05Z",
     "run_id": "43055176560",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7855,16 +7820,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-10T20:53:57Z",
     "run_id": "42899192419",
     "status": "skipped",
@@ -8096,19 +8051,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T20:07:04Z",
-    "run_id": "42889284734",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8353,8 +8308,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T16:26:19Z",
+    "run_id": "43057939324",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T16:16:05Z"
+ "updated_at": "2026-11-11T16:26:19Z"
 }
