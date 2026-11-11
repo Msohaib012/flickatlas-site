@@ -115266,5 +115266,401 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 09:10:48 +0000"
+  },
+  "1k68o0z": {
+    "id": "1k68o0z",
+    "type": "news",
+    "headline": "Imtiaz Ali's O Saathi Re Gets Netflix OTT Release Date",
+    "dek": "Imtiaz Ali returns to the romantic genre with a new series titled O Saathi Re, starring Aditi Rao Hydari, Avinash Tiwary, and Arjun Rampal.",
+    "body": [
+      {
+        "h": "Introduction to O Saathi Re",
+        "p": [
+          "Acclaimed filmmaker Imtiaz Ali is heading back to the romantic genre with a brand new streaming series titled O Saathi Re. Known for his distinct storytelling style, Ali brings a fresh narrative that explores the complexities of human connection.",
+          "The upcoming project has generated considerable interest among fans of contemporary Indian drama, promising a unique viewing experience upon its eventual arrival."
+        ]
+      },
+      {
+        "h": "Plot and Storyline",
+        "p": [
+          "O Saathi Re centers around layered and realistic characters who must navigate the inherent imbalances present within romantic relationships. The story takes a close look at the growth of affection between a divorcing couple.",
+          "Rather than following conventional romantic tropes, the series examines identity, personal desires, power dynamics, and the difficult choices required when letting go. It highlights how love can manifest in unexpected ways."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "The series features a stellar main cast headlined by prominent actors Aditi Rao Hydari, Avinash Tiwary, and Arjun Rampal. These performers bring depth to the multi-layered characters as they navigate sensitive moments and steep emotional curves.",
+          "Creators deliberately sought out top-tier talent to authentically portray the delicate balance, yearning, and complexities associated with the central relationships."
+        ]
+      },
+      {
+        "h": "Creative Leadership and Production Team",
+        "p": [
+          "Behind the camera, O Saathi Re is steered by a notable creative team. Imtiaz Ali serves as the creator, writer, and showrunner for the project, while Arif Ali takes on the directorial responsibilities.",
+          "The writing team also includes Amogh Kanaskar and Nidhi Sethia, with Sethia additionally holding the role of creative producer. The production is backed by Window Seat Films, with producers Imtiaz Ali, Mohit Choudhary, and Shibasish Sarkar leading the banner."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Release Schedule",
+        "p": [
+          "Audiences eager to watch the drama will be able to stream it online. The official premiere has been scheduled for December 4, 2026.",
+          "Netflix will serve as the exclusive home for the show, making it accessible to subscribers worldwide upon its release date."
+        ]
+      },
+      {
+        "h": "Themes of Modern Romance",
+        "p": [
+          "Described as a modern romantic show with a vintage heart, the series challenges the notion that relationships must be perfectly balanced. It addresses the burden of being a matched couple and the reality that love involves dreaming, yearning, and parting.",
+          "By focusing on a relationship where love was never equal, the production raises questions about whether two people can ever experience affection in the exact same way."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Imtiaz Ali is creating and showrunning a new romantic streaming series titled O Saathi Re, which stars Aditi Rao Hydari, Avinash Tiwary, and Arjun Rampal. The project focuses on the complex affection between a divorcing couple and is set to premiere on December 4, 2026, exclusively on Netflix."
+        ]
+      }
+    ],
+    "facts": [
+      "O Saathi Re is a romantic series created, written, and showrun by Imtiaz Ali.",
+      "The series is directed by Arif Ali.",
+      "The cast features Aditi Rao Hydari, Avinash Tiwary, and Arjun Rampal.",
+      "O Saathi Re premieres on December 4, 2026.",
+      "The series will be released exclusively on Netflix."
+    ],
+    "entities": {
+      "people": [
+        "Imtiaz Ali",
+        "Arif Ali",
+        "Aditi Rao Hydari",
+        "Avinash Tiwary",
+        "Arjun Rampal",
+        "Amogh Kanaskar",
+        "Nidhi Sethia",
+        "Vishal Bajaj",
+        "Pratik Nandkumar More",
+        "Mohit Choudhary",
+        "Shibasish Sarkar"
+      ],
+      "titles": [
+        "O Saathi Re",
+        "The Blind Game",
+        "Dead-End Job",
+        "The Uncanny Counter",
+        "Hellbound",
+        "Jailer 2",
+        "Ranabaali",
+        "Student Of The Year: After Dark"
+      ]
+    },
+    "keywords": [
+      "O Saathi Re",
+      "Imtiaz Ali O Saathi Re",
+      "Aditi Rao Hydari Arjun Rampal",
+      "O Saathi Re Netflix release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/imtiaz-alis-o-saathi-re-ott-release-date-update-when-where-to-watch-aditi-rao-hydari-arjun-rampals-romantic-drama-1.jpg",
+        "caption": "Imtiaz Ali's O Saathi Re Gets Netflix OTT Release Date",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 10:05:00 +0000"
+  },
+  "mpxgth": {
+    "id": "mpxgth",
+    "type": "news",
+    "headline": "VisionQuest Finale Cut Scene Reveals Jocasta Survived",
+    "dek": "The dramatic conclusion of Marvel's streaming series left fans with major twists, but creators chose to leave one crucial character survival detail on the editing floor.",
+    "body": [
+      {
+        "h": "Unraveling the VisionQuest Finale",
+        "p": [
+          "The eighth and final episode of Marvel's streaming series delivered a wave of heavy narrative turns that have heavily stirred the fandom. Viewers watched a sequence of events unfold that reshaped the cosmic landscape of the franchise, introducing shocking developments right before the credits rolled. Among the most talked-about moments was the unexpected return of Wanda Maximoff, whose resurrection was tied directly to Doctor Doom.",
+          "However, the sprawling episode held back yet another massive reveal that viewers never got to witness in the broadcast version. Showrunner Terry Matalas recently shared that an entire segment was excised from the final cut, a sequence that would have fundamentally changed how audiences interpreted the fate of a beloved robotic figure."
+        ]
+      },
+      {
+        "h": "The Deleted Fate of Jocasta",
+        "p": [
+          "According to the creative team behind the series, Jocasta was originally meant to have survived the dramatic confrontations of the finale. The discarded footage showed that her consciousness managed to escape the destruction by transferring into microscopic nano-units.",
+          "Matalas explained that removing the specific moment was a deliberate pacing choice made by the production team. They ultimately concluded that confirming her survival right away drained too much immediate tension from the dramatic climax of the episode."
+        ]
+      },
+      {
+        "h": "Ultron's Return and the Source Code",
+        "p": [
+          "Even though the explicit survival scene was cut, the broadcasted episode still dropped heavy hints regarding the character's future. During the post-credits sequence, Ultron is shown alive and residing within a mansion previously owned by Virgil and Phineas Horton.",
+          "In this scene, the robotic antagonist is seen clutching Jocasta's digital source code in his hand. This visual strongly implied that he intends to use the data to somehow bring her back after she was previously struck down by an adamantium bullet."
+        ]
+      },
+      {
+        "h": "Creative Intentions and Future Plans",
+        "p": [
+          "The showrunner noted that getting Ultron back out into the open world was a primary creative objective for this chapter of the overarching story. Early brainstorming even featured whimsical concepts for his final visual appearance, demonstrating the fluid nature of the writers' room process.",
+          "With multiple character arcs left hanging and massive universe-building implications established, the door remains wide open for future storytelling. Both key creative personnel and central cast members have expressed enthusiasm about continuing the narrative."
+        ]
+      },
+      {
+        "h": "Potential for a Second Season",
+        "p": [
+          "Discussions surrounding the longevity of the series have already begun among the people who brought it to life. Vision actor Paul Bettany and showrunner Terry Matalas have both confirmed they possess numerous concepts that could easily fuel a potential second season.",
+          "The reception to the show's intricate plotting and various Easter eggs suggests an appetite for more serialized adventures exploring these corners of the cinematic universe."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The finale of VisionQuest featured significant plot developments, including a post-credits tease involving Ultron and Jocasta's source code. Creators revealed that a deleted scene originally confirmed Jocasta's survival through nanotech, though it was cut to preserve narrative drama.",
+          "Cast and crew members have indicated that they harbor numerous ideas for a prospective second season."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest episode 8 featured a post-credits scene with Ultron",
+      "Ultron is shown holding Jocasta's source code",
+      "Jocasta was killed by an adamantium bullet",
+      "Terry Matalas is the showrunner of VisionQuest",
+      "Paul Bettany stars as Vision",
+      "Iman Vellani hosted the Official VisionQuest Podcast"
+    ],
+    "entities": {
+      "people": [
+        "Terry Matalas",
+        "Iman Vellani",
+        "Paul Bettany",
+        "Wanda Maximoff",
+        "Doctor Doom"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "Avengers: Doomsday",
+        "Avengers: Age of Ultron"
+      ]
+    },
+    "keywords": [
+      "VisionQuest finale",
+      "Terry Matalas",
+      "Ultron Jocasta",
+      "Paul Bettany",
+      "VisionQuest episode 8"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/hfv2RMc58todVjS9rzCSqJ-1920-80.jpg",
+        "caption": "VisionQuest Finale Cut Scene Reveals Jocasta Survived",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 11:14:55 +0000"
+  },
+  "1y9bgqw": {
+    "id": "1y9bgqw",
+    "type": "news",
+    "headline": "Jake Gyllenhaal Disaster Epic Becomes a Global Streaming Hit on Netflix",
+    "dek": "Roland Emmerich's classic weather disaster blockbuster climbs the global charts during its second week of streaming on Netflix.",
+    "body": [
+      {
+        "h": "Global Streaming Success",
+        "p": [
+          "For a second consecutive week, Jake Gyllenhaal's science-fiction disaster epic has established itself as a major global hit on Netflix. The feature film was added to the platform at the start of the month and quickly surged through popularity metrics across multiple regions.",
+          "While maintaining a strong position as the third most popular movie in the United States, its performance on the worldwide stage has proven especially notable, pulling in millions of enthusiastic viewers during its continued run on the service."
+        ]
+      },
+      {
+        "h": "Impressive Viewership Numbers",
+        "p": [
+          "According to weekly streaming figures released by Tudum, the blockbuster secured millions of engagements during its second week on the platform. The feature earned 4.4 million views from a total of nine million hours viewed.",
+          "This strong viewership placed it as the fourth most popular movie globally on Netflix over a seven-day tracking window, trailing behind titles such as A Dog's Perfect Christmas, Heist, and Final Destination: Bloodlines."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative follows paleoclimatologist Professor Jack Hall as he investigates a bizarre weather anomaly that triggers a sudden and catastrophic new ice age. Meanwhile, his son Sam finds himself trapped in New York City during a school trip amidst the escalating chaos.",
+          "The story alternates between father and son as they fight to endure a massive global catastrophe. True to the style of its director, the feature relies heavily on a sweeping, world-ending threat that alters the planet's climate overnight."
+        ]
+      },
+      {
+        "h": "Cast and Crew",
+        "p": [
+          "The project is anchored by a recognizable ensemble cast featuring Dennis Quaid alongside Jake Gyllenhaal in the leading roles. Additional supporting performances are delivered by Emmy Rossum, Sela Ward, and Ian Holm.",
+          "Behind the camera, the film was directed by renowned action filmmaker Roland Emmerich, who also co-wrote the screenplay alongside Jeffrey Nachmanoff, bringing a distinct scale of destruction to the project."
+        ]
+      },
+      {
+        "h": "Legacy of 2000s Disaster Cinema",
+        "p": [
+          "Before modern cinematic universes dominated the box office with cape-wearing superheroes, high-stakes disaster spectacles were a staple of Hollywood filmmaking throughout the 2000s. Roland Emmerich helped pioneer this specific trend with earlier works like Independence Day and 2012.",
+          "This era also popularized numerous other environmental thrillers and large-scale crisis movies, including Twister, Deep Impact, Armageddon, and Dante's Peak, all of which focused on ordinary people facing insurmountable global disasters."
+        ]
+      },
+      {
+        "h": "Box Office History and Reception",
+        "p": [
+          "Upon its original theatrical release, the picture achieved massive financial success by grossing $555 million worldwide, though it initially received mixed to negative reactions from contemporary critics.",
+          "It currently holds a 44 percent approval rating on Rotten Tomatoes based on over 200 reviews alongside a balanced 50 percent audience score from more than 250,000 users. Reviewers frequently highlighted its bombastic visuals and popcorn-thriller nature while noting its theatrical melodrama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jake Gyllenhaal's sci-fi disaster epic has become a major global streaming hit on Netflix during its second week on the platform. The film generated millions of views and hours watched, cementing its enduring popularity years after its theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "The movie was added to Netflix on Nov. 1.",
+      "It earned 4.4 million views during its second week on streaming.",
+      "Total hours viewed reached 9 million.",
+      "It is the third most popular film on Netflix in the US.",
+      "It is the fourth most popular movie on Netflix globally.",
+      "The film grossed $555 million originally.",
+      "It holds a 44% Rotten Tomatoes score.",
+      "It features a runtime of 124 minutes."
+    ],
+    "entities": {
+      "people": [
+        "Jake Gyllenhaal",
+        "Dennis Quaid",
+        "Emmy Rossum",
+        "Sela Ward",
+        "Ian Holm",
+        "Roland Emmerich",
+        "Jeffrey Nachmanoff",
+        "Ryan Reynolds",
+        "Rebecca Ferguson",
+        "Hiroyuki Sanada",
+        "Danny DeVito",
+        "Archie Fenn"
+      ],
+      "titles": [
+        "The Day After Tomorrow",
+        "Donnie Darko",
+        "Life",
+        "A Dog's Perfect Christmas",
+        "Heist",
+        "Final Destination: Bloodlines",
+        "Independence Day",
+        "2012",
+        "Twister",
+        "Deep Impact",
+        "Armageddon",
+        "Dante's Peak"
+      ]
+    },
+    "keywords": [
+      "The Day After Tomorrow Netflix",
+      "Jake Gyllenhaal Netflix movie",
+      "Roland Emmerich disaster film",
+      "The Day After Tomorrow streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/jake-gyllenhaal-the-day-after-tomorrow-sci-fi-streaming-success-netflix.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Jake Gyllenhaal Disaster Epic Becomes a Global Streaming Hit on Netflix",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 11:00:17 GMT"
+  },
+  "153uccx": {
+    "id": "153uccx",
+    "type": "news",
+    "headline": "Koffee With Karan Season 9 Episode 5 Featuring Kiara Advani and Sidharth Malhotra Streams on JioHotstar",
+    "dek": "Fans can now stream the fifth episode of Koffee With Karan Season 9 on JioHotstar, featuring real-life couple Kiara Advani and Sidharth Malhotra.",
+    "body": [
+      {
+        "h": "The Celebrity Chat Show Returns",
+        "p": [
+          "Karan Johar is back with another season of his popular celebrity chat show, bringing prominent names from the entertainment industry to the famous couch.",
+          "The current installment has continued its tradition of featuring lively conversations, unexpected confessions, and entertaining moments with well-known personalities."
+        ]
+      },
+      {
+        "h": "Kiara Advani and Sidharth Malhotra on the Couch",
+        "p": [
+          "The fifth episode of the season features the real-life celebrity couple Kiara Advani and Sidharth Malhotra.",
+          "Their appearance together has generated significant curiosity among fans who are eager to watch their candid conversations and personal revelations."
+        ]
+      },
+      {
+        "h": "Expecting Their Second Child",
+        "p": [
+          "The upcoming conversation is particularly anticipated by followers because the couple is currently expecting their second child.",
+          "This special context has heightened interest surrounding their joint interview on the program."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Release Schedule",
+        "p": [
+          "The latest installment of the series premieres today, November 11, on JioHotstar.",
+          "The programme follows a weekly release schedule, with new episodes dropping on Wednesdays, and is available for online viewing starting at 7 PM."
+        ]
+      },
+      {
+        "h": "Potential Final Chapter of the Series",
+        "p": [
+          "Reports suggesting that the current run could be the final chapter of the popular chat show's 22-year history have added extra attention to the season.",
+          "This speculation has made followers even more curious about the remaining episodes and the guests lined up by the host."
+        ]
+      },
+      {
+        "h": "Offline Viewing and Download Options",
+        "p": [
+          "Viewers interested in watching the content without an active internet connection can check for offline availability on JioHotstar.",
+          "Depending on the user's subscription plan, device, and specific episode restrictions, a download icon may appear next to the title for saving content."
+        ]
+      },
+      {
+        "h": "Steps to Save Episodes for Later",
+        "p": [
+          "To check for offline viewing, users can open the application, search for the show, navigate to Season 9, and look for the download option on Episode 5.",
+          "Saved files can then be accessed directly through the downloads section of the platform, keeping in mind that Wi-Fi usage helps save mobile data and downloads may carry viewing restrictions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kiara Advani and Sidharth Malhotra appear together on the fifth episode of Koffee With Karan Season 9, streaming on JioHotstar starting November 11 at 7 PM.",
+          "The real-life couple discusses their personal lives while expecting their second child on the show hosted by Karan Johar."
+        ]
+      }
+    ],
+    "facts": [
+      "Koffee With Karan Season 9 Episode 5 features Kiara Advani and Sidharth Malhotra.",
+      "The episode premieres on JioHotstar on November 11 at 7 PM.",
+      "The chat show is hosted by Karan Johar.",
+      "Kiara Advani and Sidharth Malhotra are expecting their second child.",
+      "The show's run spans 22 years."
+    ],
+    "entities": {
+      "people": [
+        "Kiara Advani",
+        "Sidharth Malhotra",
+        "Karan Johar"
+      ],
+      "titles": [
+        "Koffee With Karan 9"
+      ]
+    },
+    "keywords": [
+      "Koffee With Karan 9",
+      "Kiara Advani",
+      "Sidharth Malhotra",
+      "Karan Johar",
+      "JioHotstar"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/koffeewithkaran9ep5sidkiaradownloadd1-20571794397160.jpg",
+        "caption": "Koffee With Karan Season 9 Episode 5 Featuring Kiara Advani and Sidharth Malhotra Streams on JioHotstar",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 17:16:22 +0530"
   }
 };

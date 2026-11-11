@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T12:51:01Z",
-    "run_id": "42819184354",
-    "status": "success",
-    "checked": {
-     "candidates": 337,
-     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Delivery Boy First Review: Leo Sivakumar, Radhika Sarathkumar's Film Receives Praise As An Engaging Thriller",
-      "Love In Disguise Episode 8 Release Time Today: When & Where To Stream Ep 8? What To Expect From K-drama?",
-      "Scene Ending Explained: Will Inbaraj Return To Hunt Victor? Is A Suriya Vs Tovino Thomas Showdown On The Cards?",
-      "Ramayana Worldwide Box Office: Yash Becomes The Only Indian Actor To Hit 1000 Crore In A Single Year For The 2nd Time Post-COVID!",
-      "The Cat In The Hat Box Office: How Much Does Warner Bros’ Animated Film Need To Avoid A Box Office Flop?",
-      "Ramayana Top 5 Scenes Ranked: You Say It’s Jatayu’s Battle, But I Say Yash’s Dashanan & His Ten Head Split Is The Ace Of This Epic [Opinion]",
-      "Titans Box Office (Closing Collection): Jayasurya’s Film Earns 6.3% Of Aadu 3’s India Lifetime",
-      "Resident Evil China Box Office: Less Than $4M To Beat Jurassic World Rebirth & Climb The Post-Covid Rankings!",
-      "You Can See Everything North America Box Office: Emerges As The 4th Highest-Grossing Documentary Of All Time",
-      "Ramayana First Tuesday BMS Sales More Than Double Dhurandhar 2 as Pushpa 2's 7.55 Lakh Record Comes Under Threat",
-      "Pawan Kalyan's second wife Renu Desai's Instagram post goes viral",
-      "Arun Govil who played King Dashrat in 'Ramayana' reveals he 'didn't want to do this role'",
-      "Aishwarya Arjun's silence on Umapathy Ramaiah's birthday sparks debate",
-      "Kerala CM, Prithviraj Sukumaran honour cinematographer Shaji Kumar's rich legacy after his death; Mohanlal recalls years of memories",
-      "Ramayana producer Namit Malhotra not worried about recovering Rs-4000-crore budget through box office; plans to make money through merch, theme parks",
-      "Prince Harry's wife Meghan makes first public appearance since father charged",
-      "Why did Ravana keep Jatayu's nail after killing him in Ramayana? Detail you missed",
-      "Stop adding your own narrative: Mukesh Khanna on Sai Palllavi's Ramayana fight scene",
-      "The 10 Best Books Without Movie or TV Adaptations, Ranked",
-      "6 Best Miniseries Released Between 2020 and Now, Ranked"
-     ],
-     "updated": [],
-     "count": 323,
-     "detail": "337 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T13:52:12Z",
     "run_id": "42828225028",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "269 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T12:52:12Z",
-    "run_id": "42819184354",
+    "run_at": "2026-11-11T11:51:44Z",
+    "run_id": "43015265178",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 397,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Diljit Dosanjh's Mumbai Concert Security Details Revealed Following Bomb Threat",
-      "RESCENE Breaks Previous First-Week Sales Record Exponentially With PULSE",
-      "Ramayana Worldwide Box Office: Yash Becomes Only Indian Actor To Hit 1000 Crore In A Single Year For The 2nd Time Post-COVID",
-      "AEN Releases High-Energy KGMA Choreography Footage Following Milestone First Trophy"
+      "EXCLUSIVE: Rs. 300 crore blockbuster Hanuman Ansh to have a UNIQUE success bash in Mumbai; guests to be served ONLY pure veg, satvik food",
+      "Karan Johar defends celebrity couple episodes amid Koffee With Karan trolling: “Don't tell a couple what they should do”",
+      "EXCLUSIVE: Godzilla Minus Zero to FINALLY release in India on November 20; PVR INOX Pictures’ Nayana Bijli confirms IMAX release",
+      "Nitish Bharadwaj withdraws praise for Ramayana Part 1; says he is “deeply upset and disappointed” with Ranbir Kapoor starrer",
+      "Koffee With Karan 9 Kiara-Sidharth Episode Download In HD: How To Download KWK 5 Ep 5 For Offline Viewing?",
+      "Janhvi & Khushi To Anshula & Rakesh Roshan, Orry Shares Star-Studded Glimpse From Boney Kapoor’s Birthday",
+      "Diwali Special: Disha Patani To Kriti Sanon; 8 Actresses Who Understood The Festive Assignment",
+      "Ramayana vs Scene Today Collection (Morning Trend): Yash’s Film Struggle As Suriya Starrer Roars Loudly",
+      "Children’s Day 2026: WHO Is The Biggest Prankster On Set? Hastinapur Ke Veer Cast Spills Secrets",
+      "The Remarried Empress Ep 6 Ending: Rashta PREGNANT With Sovieshu's Baby? Heinrey-Navier's Hug Hints BIG Secret",
+      "Scene North America Box Office: Beats Jana Nayagan In Less Than 5 Days, Becomes Kollywood’s 3rd Highest-Grosser Of 2026",
+      "Baththa OTT Verdict (Week 2): Vijay Sethupathi’s Film Becomes 6th Most-Watched South Indian Movie On Netflix In 2026",
+      "Heart Of The Beast North America Box Office: Needs $3 Million To Beat Brad Pitt’s 2015 Biographical Comedy",
+      "Street Fighter Worldwide Box Office: Less Than $1 Million Away From Achieving A Major Milestone",
+      "Ramayana Box Office Day 8 Advance Booking: Ranbir Kapoor Already Enters Top 10 Biggest 2nd Thursday As Post-Festival Period Begins!",
+      "Box Office: Yash Surpasses Allu Arjun In Koimoi Star Ranking, Grabs 10th Spot!",
+      "Imtiaz Ali’s O Saathi Re OTT Release Date Update: When & Where To Watch Aditi Rao Hydari & Arjun Rampal’s Romantic Drama",
+      "Box Office: Ramayana becomes only Indian film to record Rs 100 crore plus worldwide for consecutive 6 days",
+      "Box Office: Ramayana scripts history in Kerala, emerges biggest Hindi grosser in just 6 days",
+      "Priya Bhavani Shankar Marriage: Indian 2 actress ties the knot with boyfriend Rajvel Raj in intimate ceremony"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 363,
+     "detail": "378 stories, 0 duplicates removed, 19 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T11:52:30Z",
+    "run_id": "43015265178",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Imtiaz Ali's O Saathi Re Gets Netflix OTT Release Date",
+      "VisionQuest Finale Cut Scene Reveals Jocasta Survived",
+      "Jake Gyllenhaal Disaster Epic Becomes a Global Streaming Hit on Netflix",
+      "Koffee With Karan Season 9 Episode 5 Featuring Kiara Advani and Sidharth Malhotra Streams on JioHotstar"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T15:56:29Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": {
-     "candidates": 291,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 276, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,33 +1906,27 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T11:52:30Z",
+    "run_id": "43015265178",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T13:00:07Z",
-    "run_id": "42819184354",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1igqa9b",
-      "1qw9sjn",
-      "1d1jo4e",
-      "ok6yry",
-      "atpdk1",
-      "onqcvz"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2427,27 +2403,26 @@
      "count": 8
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T12:59:44Z",
-    "run_id": "42819184354",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T11:52:32Z",
+    "run_id": "43015265178",
     "status": "success",
     "checked": {
-     "candidates": 641,
-     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 7,
-     "detail": "+1 new rows, 6 updated rows, 625 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2861,19 +2836,27 @@
      "detail": "+0 new rows, 3 updated rows, 634 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T11:52:30Z",
+    "run_id": "43015265178",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "633 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 634 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3110,32 +3093,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T13:00:07Z",
-    "run_id": "42819184354",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Diljit Dosanjh's Mumbai Concert Security Details Revealed Following Bomb Threat",
-      "RESCENE Breaks Previous First-Week Sales Record Exponentially With PULSE",
-      "Ramayana Worldwide Box Office: Yash Becomes Only Indian Actor To Hit 1000 Crore In A Single Year For The 2nd Time Post-COVID",
-      "AEN Releases High-Energy KGMA Choreography Footage Following Milestone First Trophy"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3672,19 +3642,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T11:52:32Z",
+    "run_id": "43015265178",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Imtiaz Ali's O Saathi Re Gets Netflix OTT Release Date",
+      "VisionQuest Finale Cut Scene Reveals Jocasta Survived",
+      "Jake Gyllenhaal Disaster Epic Becomes a Global Streaming Hit on Netflix",
+      "Koffee With Karan Season 9 Episode 5 Featuring Kiara Advani and Sidharth Malhotra Streams on JioHotstar"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3960,19 +3943,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4293,31 +4276,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T12:52:11Z",
-    "run_id": "42819184354",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 323 still unprocessed; today by category: movies 6/6, tv_dramas 7/4, episodes 0/2, box_office 12/6, celebrities_events 14/5, upcoming_releases 1/4, ott_streaming 5/4, trailers 2/3, awards 1/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Diljit Dosanjh's Mumbai Concert Security Details Revealed Following Bomb Threat",
-      "RESCENE Breaks Previous First-Week Sales Record Exponentially With PULSE",
-      "Ramayana Worldwide Box Office: Yash Becomes Only Indian Actor To Hit 1000 Crore In A Single Year For The 2nd Time Post-COVID",
-      "AEN Releases High-Energy KGMA Choreography Footage Following Milestone First Trophy"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4823,19 +4794,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T11:52:30Z",
+    "run_id": "43015265178",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 363 still unprocessed; today by category: movies 6/6, tv_dramas 9/4, episodes 0/2, box_office 7/6, celebrities_events 10/5, upcoming_releases 2/4, ott_streaming 9/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Imtiaz Ali's O Saathi Re Gets Netflix OTT Release Date",
+      "VisionQuest Finale Cut Scene Reveals Jocasta Survived",
+      "Jake Gyllenhaal Disaster Epic Becomes a Global Streaming Hit on Netflix",
+      "Koffee With Karan Season 9 Episode 5 Featuring Kiara Advani and Sidharth Malhotra Streams on JioHotstar"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5149,24 +5132,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 364,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5511,19 +5489,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 396,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5813,24 +5796,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 71,
+     "count": 20,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6075,19 +6058,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6322,19 +6305,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6618,19 +6601,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6871,19 +6854,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7113,19 +7096,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7374,6 +7357,16 @@
     "category": "Trending News",
     "run_at": "2026-11-11T10:53:51Z",
     "run_id": "43006968911",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7894,16 +7887,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-10T14:02:23Z",
     "run_id": "42828225028",
     "status": "skipped",
@@ -8140,24 +8123,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-10T13:00:17Z",
-    "run_id": "42819184354",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4133,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8402,8 +8380,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T11:52:43Z",
+    "run_id": "43015265178",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T10:53:51Z"
+ "updated_at": "2026-11-11T11:52:43Z"
 }
