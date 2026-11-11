@@ -201,8 +201,8 @@
     1
    ],
    "interval_hours": 4,
-   "last_success": "2026-11-11T04:54:33Z",
-   "last_attempt": "2026-11-11T04:54:33Z",
+   "last_success": "2026-11-11T08:55:13Z",
+   "last_attempt": "2026-11-11T08:55:13Z",
    "status": "success"
   },
   "wp_boxoffice": {
@@ -274,7 +274,7 @@
    ],
    "interval_hours": 6,
    "last_success": "2026-11-08T03:33:49Z",
-   "last_attempt": "2026-11-11T02:03:38Z",
+   "last_attempt": "2026-11-11T09:05:13Z",
    "status": "failed"
   },
   "moviemint_boxoffice": {
@@ -286,8 +286,8 @@
    ],
    "interval_hours": 24,
    "last_success": "2026-11-10T08:58:18Z",
-   "last_attempt": "2026-11-10T08:58:18Z",
-   "status": "success"
+   "last_attempt": "2026-11-11T09:00:13Z",
+   "status": "failed"
   },
   "tavily_boxoffice": {
    "hours_utc": [
@@ -343,8 +343,8 @@
     4
    ],
    "interval_hours": 1,
-   "last_success": "2026-11-11T06:56:03Z",
-   "last_attempt": "2026-11-11T06:56:03Z",
+   "last_success": "2026-11-11T09:06:55Z",
+   "last_attempt": "2026-11-11T09:06:55Z",
    "status": "success"
   },
   "home_boxoffice_worldwide": {
@@ -431,8 +431,8 @@
     4
    ],
    "interval_hours": 1,
-   "last_success": "2026-11-11T06:59:37Z",
-   "last_attempt": "2026-11-11T06:59:37Z",
+   "last_success": "2026-11-11T09:06:47Z",
+   "last_attempt": "2026-11-11T09:06:47Z",
    "status": "success"
   },
   "overseas_ai": {
@@ -489,8 +489,8 @@
     4
    ],
    "interval_hours": 1,
-   "last_success": "2026-11-11T06:56:03Z",
-   "last_attempt": "2026-11-11T06:56:03Z",
+   "last_success": "2026-11-11T09:06:55Z",
+   "last_attempt": "2026-11-11T09:06:55Z",
    "status": "success"
   },
   "advance_booking": {

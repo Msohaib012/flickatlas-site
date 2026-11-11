@@ -114012,5 +114012,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 06:30:54 GMT"
+  },
+  "tpqsih": {
+    "id": "tpqsih",
+    "type": "news",
+    "headline": "Ram Gopal Varma calls Ramayana Rise of a Legend the Taj Mahal of cinema after second viewing",
+    "dek": "Filmmaker Ram Gopal Varma has reviewed Ramayana: Rise of a Legend for the second time, praising its massive scale, visual effects, and standout performances by Yash and Ranbir Kapoor.",
+    "body": [
+      {
+        "h": "An Enthusiastic Second Viewing",
+        "p": [
+          "Filmmaker Ram Gopal Varma recently watched Ramayana: Rise of a Legend for the second time and shared his strong appreciation for the project. Reviewing the film from the perspective of an atheist and film enthusiast rather than a traditional devotee, Varma showered praise on its overall scale, visual effects, and artistic direction.",
+          "In a detailed social media post, the outspoken director stated that the production's ambition and grandeur set a completely new standard for the Indian film industry, arguing that future cinematic releases will inevitably be measured against it."
+        ]
+      },
+      {
+        "h": "Praise for Scale and Direction",
+        "p": [
+          "Varma commended director Nitesh Tiwari and producer Namit Malhotra for venturing into unchartered territory that Indian cinema had never previously imagined. He pointed to specific high-octane sequences, including the opening cosmic battle, Ravana's ten heads, and the intricate forest segments, as major visual triumphs.",
+          "Singling out the clash between Ravana and Jatayu as a particularly striking highlight, Varma asserted that the sheer scope of the movie successfully makes even major Hollywood blockbusters appear comparable to simple stage plays."
+        ]
+      },
+      {
+        "h": "Yash's Standout Performance as Ravana",
+        "p": [
+          "The filmmaker reserved his highest praise for actor Yash, who portrays the complex character of Ravana. Varma noted that Yash delivered a once-in-a-generation performance that completely transcended the conventional tropes of a standard movie villain, highlighting the character's intelligence and ambition.",
+          "According to Varma, the deep exploration of Ravana's past, his devotion to Lord Shiva, and his internal conflicts established him as the true gravitational center of the narrative, famously remarking that the story cannot function without its Ravana."
+        ]
+      },
+      {
+        "h": "Defending Ranbir Kapoor's Restrained Portrayal",
+        "p": [
+          "Addressing various criticisms directed at lead actor Ranbir Kapoor regarding his steady expression throughout the runtime, Varma offered a robust defense of the performance. He argued that the core essence of portraying Rama relies heavily on emotional restraint and internalized dignity.",
+          "Varma emphasized that Rama is defined fundamentally by what he chooses to withhold rather than what he outwardly expresses, praising Kapoor's controlled execution during the character's challenging exile and forest sequences."
+        ]
+      },
+      {
+        "h": "Musical Brilliance and Pacing",
+        "p": [
+          "The musical contributions of Hans Zimmer and AR Rahman also received high acclaim from the filmmaker. Varma noted that the sweeping score complemented the breathtaking visuals seamlessly instead of overpowering them, maintaining emotional resonance throughout the three-hour runtime.",
+          "He further defended the film's deliberate length, arguing that the narrative required sufficient time to properly establish Ravana's background and Rama's prolonged exile, while commending director Tiwari for avoiding a hasty, conventional action template."
+        ]
+      },
+      {
+        "h": "Dismissing Negative Critics",
+        "p": [
+          "Taking direct aim at unfavorable reviews, Varma argued that traditional star ratings fail to capture the monumental effort behind such an ambitious project. He likened cynical reviewers to individuals complaining about a steep mountain path while ignoring the architects who built the massive structure.",
+          "Following his post, director Nitesh Tiwari publicly acknowledged the supportive words, replying directly on social media to express his gratitude for the filmmaker's enthusiastic endorsement."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Ram Gopal Varma praised Ramayana: Rise of a Legend as the Taj Mahal of cinema after viewing the epic for a second time. He lauded the scale, direction, music, and standout performances by Yash and Ranbir Kapoor while dismissing negative reviews."
+        ]
+      }
+    ],
+    "facts": [
+      "Ram Gopal Varma reviewed Ramayana: Rise of a Legend for the second time on November 11, 2026.",
+      "Nitesh Tiwari directed the film and Namit Malhotra produced it.",
+      "Yash plays the role of Ravana and Ranbir Kapoor plays Rama.",
+      "The film's music was composed by Hans Zimmer and AR Rahman."
+    ],
+    "entities": {
+      "people": [
+        "Ram Gopal Varma",
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman",
+        "Shweta Keshri"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "The Lord of the Rings",
+        "Avatar"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ram Gopal Varma Ramayana review",
+      "Yash Ravana Ramayana film",
+      "Ranbir Kapoor Rama"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ram-gopal-varma--ranbir-kapoor-112719133-16x9_0.jpg?VersionId=F6UY_lj9pAviO_6SbBbdBY5gCm52ecDD",
+        "caption": "Ram Gopal Varma calls Ramayana Rise of a Legend the Taj Mahal of cinema after second viewing",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 13:02:09 +0530"
+  },
+  "fbqwfk": {
+    "id": "fbqwfk",
+    "type": "news",
+    "headline": "Vinod Kapri's Independent Feature Pyre Enters the Race for the 99th Academy Awards",
+    "dek": "National Award-winning filmmaker Vinod Kapri has chosen the independent route to submit his acclaimed movie Pyre for consideration at the 99th Academy Awards.",
+    "body": [
+      {
+        "h": "The Independent Oscar Submissions",
+        "p": [
+          "National Award-winning director Vinod Kapri has officially entered his feature film Pyre into the contention for the 99th Academy Awards through the independent submission route. This strategic choice highlights the filmmaker's strong conviction that independent productions should stand shoulder to shoulder with other contenders and compete purely on their artistic merits.",
+          "By bypassing traditional institutional pathways, the team behind the movie aims to champion the broader movement of independent cinema. Kapri expressed that this Oscar journey represents not only his own production but also serves as a symbolic path for numerous indie storytellers who persistently craft meaningful narratives while facing immense operational challenges."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "At its core, the movie tells the poignant story of Amma and Bubu, an elderly Himalayan couple who spend their days waiting for their only son to come back home. Set against the majestic yet isolating backdrop of the mountains, the narrative examines universal themes of profound loneliness, the realities of growing older, rural migration, and enduring marital companionship.",
+          "The production stars Padam Singh and Hira Devi, two non-professional performers hailing from Uttarakhand, whose grounded performances bring authenticity to the project. Their depiction of ordinary village residents has struck a deep emotional chord with viewers across various cultural backgrounds."
+        ]
+      },
+      {
+        "h": "Global Acclaim and Festival Run",
+        "p": [
+          "Before setting its sights on the Academy Awards, the project built a strong reputation on the international film festival circuit. It has traveled to multiple prestigious gatherings, including the Tallinn Black Nights Film Festival, the Sao Paulo International Film Festival, and the Cambridge Film Festival.",
+          "Over the course of its festival journey, the feature has accumulated a total of 18 international awards, which includes an impressive count of 15 Best Film honors. These accolades have helped the heartfelt regional story find appreciative audiences outside of domestic borders."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Schedule",
+        "p": [
+          "Helmed by acclaimed director Vinod Kapri, the production relies heavily on the raw talent of its lead actors, Padam Singh and Hira Devi. The creative team focused on keeping the narrative rooted in genuine human experiences rather than commercial tropes.",
+          "In terms of its theatrical footprint, the movie originally hit Indian cinemas in the Hindi language on October 30. Furthermore, makers have scheduled an upcoming theatrical expansion, with a Malayalam-language release lined up for December 11, 2026."
+        ]
+      },
+      {
+        "h": "Broader Indian Oscar Landscape",
+        "p": [
+          "The submission of this independent title unfolds alongside India's broader selections for the 99th Academy Awards. Notably, Santosh Davakhar's Marathi feature Gondhal has been officially designated as India's official entry in the Best International Feature Film category.",
+          "Additionally, another notable Indian project titled Angh, directed by Theja Rio, secured its own pathway to the Oscars after claiming the Platform Award at the 2026 Toronto International Film Festival. This win made it eligible under updated Academy rules recognizing major festival honors."
+        ]
+      },
+      {
+        "h": "Theatrical Hurdles and Audience Response",
+        "p": [
+          "Despite operating as an independent venture with modest resources, the film has enjoyed an encouraging audience response. Viewers have taken to social media platforms to share emotional video reactions and celebrate the authentic journeys of the lead characters.",
+          "However, the theatrical run has encountered significant hurdles. The director recently highlighted that cinema halls were requested to remove screenings of the independent feature to accommodate shows for Namit Malhotra’s big-budget production Ramayana, which arrived in theaters on November 5."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Vinod Kapri has submitted his acclaimed independent film Pyre for the 99th Academy Awards via the independent entry route. The movie follows an elderly Himalayan couple and has previously earned multiple international accolades while facing theatrical competition from major releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Vinod Kapri submitted Pyre for the 99th Academy Awards through the independent route.",
+      "Pyre stars non-professional actors Padam Singh and Hira Devi from Uttarakhand.",
+      "The film has won 18 international awards, including 15 Best Film honours.",
+      "Pyre released in Hindi in Indian cinemas on October 30 and is scheduled for a Malayalam release on December 11, 2026.",
+      "Santosh Davakhar's Marathi film Gondhal was selected as India's official entry in the Best International Feature Film category.",
+      "Theja Rio's film Angh secured an Oscar pathway after winning the Platform Award at the 2026 Toronto International Film Festival.",
+      "Ramayana, directed by Namit Malhotra, released on November 5."
+    ],
+    "entities": {
+      "people": [
+        "Vinod Kapri",
+        "Padam Singh",
+        "Hira Devi",
+        "Santosh Davakhar",
+        "Theja Rio",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Pyre",
+        "Gondhal",
+        "Angh",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Vinod Kapri Pyre",
+      "Pyre Academy Awards",
+      "Pyre movie release",
+      "Vinod Kapri independent film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vinod-kapris-pyre-takes-independent-route-to-99th-academy-awards-11424693-16x9_0.jpg?VersionId=XtRxhOGL5zZw6IAztuRsCx.tGNVZJbpB",
+        "caption": "Vinod Kapri's Independent Feature Pyre Enters the Race for the 99th Academy Awards",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 13:19:23 +0530"
+  },
+  "1qhcqe": {
+    "id": "1qhcqe",
+    "type": "news",
+    "headline": "Ahn Bo Hyun Leads a Diverse Team of Warriors in Upcoming Drama 'Sacred Jewel'",
+    "dek": "New promotional stills from the upcoming television drama 'Sacred Jewel' offer a comprehensive look at the escort team led by actor Ahn Bo Hyun.",
+    "body": [
+      {
+        "h": "Introduction to Sacred Jewel",
+        "p": [
+          "The upcoming television series \"Sacred Jewel\" has released a fresh batch of promotional stills that highlight the various members of its central escort team. Set against the turbulent backdrop of the Goryeo Dynasty in the year 1258, the narrative unfolds while the kingdom faces the imminent threat of defeat after enduring three decades of warfare with Mongolia.",
+          "The core plot of the series centers around a daring expedition unit dispatched into active battlefields to locate the Avalokitesvara Bead. This sacred relic is believed by the people to hold divine powers capable of safeguarding the nation, prompting a princess to embark on a parallel journey to save the brave members of the mission."
+        ]
+      },
+      {
+        "h": "Leadership and Key Roles",
+        "p": [
+          "Ahn Bo Hyun stars as Baek Gyeol, a former member of the elite Gyeollyonggun who is chosen to lead the specialized escort team onto the mainland. In order to succeed, Baek Gyeol must navigate complicated dynamics and forge working relationships with individuals he once held in contempt, including fighters from Yabyeolcho.",
+          "Accompanying the leadership is Geol Seung, portrayed by Ha Yun Kyung, who serves as the sole female member and guide of the unit. Previously running a tavern in the market district of Ganghwa Island, Geol Seung joins the perilous journey at the direct request of Baek Gyeol, contributing a distinct and practical outlook to the group."
+        ]
+      },
+      {
+        "h": "Fighters and Senior Soldiers",
+        "p": [
+          "Lee Sung Min takes on the role of Choi Gu, working closely alongside the mission leader and the rest of the diverse ensemble. The group also includes Mu Saeng, played by Hyun Bong Sik, a senior soldier whose immense physical strength allows him to maneuver heavy polearms effortlessly while maintaining a warm heart beneath a gruff exterior.",
+          "Jap Son, brought to life by Kim Do Hyun, rounds out the senior soldiers with his hunting background and expert archery skills. Despite his slender build, Jap Son maintains a carefree and humorous personality that introduces moments of levity amidst the overarching tension of the dangerous expedition."
+        ]
+      },
+      {
+        "h": "Assassins and Specialized Skills",
+        "p": [
+          "The team relies heavily on stealth and combat expertise provided by characters like Han Dam, portrayed by Son Woo Hyun, who acts as the unit's premier close-quarters combatant and assassin. Han Dam carries personal trauma stemming from the loss of his family during the ongoing conflict with Mongolia.",
+          "Contrasting Han Dam's icy demeanor is Ado Eul Chi, played by Bae Jung Nam, another assassin who descends from the Jurchen people who relocated to Goryeo following the fall of the Jin Dynasty. Ado Eul Chi brings an optimistic and friendly energy to the otherwise grim atmosphere of the campaign."
+        ]
+      },
+      {
+        "h": "Supporting Members and Backgrounds",
+        "p": [
+          "Several other figures round out the intricate roster of the escort team, each possessing unique motivations and skill sets. Song Mu Jin, played by Ryu Yeon Seok, opted to join Yabyeolcho in lieu of pursuing civil service examinations to properly provide for his family.",
+          "Additional personnel include Hong Bong Yi, a wiry and resourceful young cook played by Ahn Do Gyu, alongside Sam Do, a towering shield-bearer and carrier pigeon handler played by Han Sang Jo, and Beop Hang, a devoted monk and disciple of Master Gak Yu played by Gi Yoon."
+        ]
+      },
+      {
+        "h": "Broadcast Details",
+        "p": [
+          "As the members with varied backgrounds converge under imperial command to recover the kingdom's ultimate hope, the drama explores whether they can overcome internal friction. Viewers will soon discover the fate of this unlikely alliance when the series officially premieres.",
+          "\"Sacred Jewel\" is scheduled to make its official broadcast debut on December 5 at 10:40 p.m. KST, setting the stage for a dramatic historical journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The upcoming historical drama \"Sacred Jewel\" has revealed new preview stills showcasing the main escort team led by actor Ahn Bo Hyun. Set in 1258 during the Goryeo Dynasty, the series follows a diverse unit of warriors on a mission to find a sacred relic before the series premieres on December 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Sacred Jewel is set in 1258 during the Goryeo Dynasty.",
+      "The drama premieres on December 5 at 10:40 p.m. KST.",
+      "Ahn Bo Hyun plays Baek Gyeol.",
+      "Lee Sung Min plays Choi Gu.",
+      "Ha Yun Kyung plays Geol Seung."
+    ],
+    "entities": {
+      "people": [
+        "Ahn Bo Hyun",
+        "Lee Sung Min",
+        "Ha Yun Kyung",
+        "Hyun Bong Sik",
+        "Kim Do Hyun",
+        "Son Woo Hyun",
+        "Bae Jung Nam",
+        "Ryu Yeon Seok",
+        "Ahn Do Gyu",
+        "Han Sang Jo",
+        "Gi Yoon"
+      ],
+      "titles": [
+        "Sacred Jewel",
+        "Pretty Crazy",
+        "Boss"
+      ]
+    },
+    "keywords": [
+      "Sacred Jewel",
+      "Ahn Bo Hyun Sacred Jewel",
+      "Sacred Jewel drama preview",
+      "Sacred Jewel Goryeo Dynasty"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/11173852/sacred-jewel-01.jpg",
+        "caption": "Ahn Bo Hyun Leads a Diverse Team of Warriors in Upcoming Drama 'Sacred Jewel'",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 08:38:58 +0000"
+  },
+  "t1y6za": {
+    "id": "t1y6za",
+    "type": "news",
+    "headline": "Can Ramayana Go Pan-World? Inside Its Global Box Office Journey",
+    "dek": "Ramayana: Rise of a Legend has recorded an impressive overseas opening, but the real test for the cinematic spectacle lies ahead as it eyes markets like China.",
+    "body": [
+      {
+        "h": "An Ambitious Global Outing",
+        "p": [
+          "Taking an Indian film beyond national borders is no longer a novel concept, but convincing foreign audiences to engage with stories rooted in ancient mythology remains a formidable challenge. Director Nitesh Tiwari and producer Namit Malhotra embraced this exact ambition with Ramayana: Rise of a Legend. Backed by a massive combined budget for its two parts, the creators aimed to build an Indian cinematic event capable of competing on the global stage.",
+          "To achieve this, the production utilized an English-language version, an international publicity push, global technical collaborations, and Sony Pictures Entertainment handling international distribution. The crucial question facing the industry is whether the non-Indian audience is truly watching."
+        ]
+      },
+      {
+        "h": "Breaking Down the International Box Office",
+        "p": [
+          "Trade figures indicate a strong start for the epic in overseas territories. North America led the charge, with the United States and Canada contributing significantly to the overseas total. The UK, UAE, and Australia also added substantial figures, while countries like Germany, Thailand, and the Netherlands contributed to the opening weekend.",
+          "Furthermore, the title made a strong impact in premium formats, registering a record global IMAX opening for an Indian film. These figures suggest the film is finding viewers beyond traditional diaspora-heavy markets."
+        ]
+      },
+      {
+        "h": "Historic Milestones in the UK",
+        "p": [
+          "The UK box office proved particularly fruitful for the release. According to regional charts, Ramayana: Rise of a Legend topped the weekend box office in the UK and Ireland, finishing ahead of Japanese blockbusters like Godzilla Minus Zero and other international competitors.",
+          "Trade reports highlighted this as a historic moment, marking the first time an Indian production topped the weekend chart in that specific region. This milestone reinforced the film's ability to command mainstream attention overseas."
+        ]
+      },
+      {
+        "h": "Strategic International Marketing",
+        "p": [
+          "The global footprint was no accident; the promotional groundwork began months before the theatrical premiere. A major presentation at San Diego Comic-Con and a global trailer launch set the stage. An invite-only world premiere at the Academy Museum of Motion Pictures in Los Angeles showcased the shorter English-language cut to select critics and guests.",
+          "Technical partnerships also bolstered its global appeal. The project featured visual effects by DNEG and a musical collaboration between AR Rahman and Oscar-winning composer Hans Zimmer, ensuring top-tier craftsmanship for international viewers."
+        ]
+      },
+      {
+        "h": "Facing Formidable Global Benchmarks",
+        "p": [
+          "Achieving a strong opening week is only the first step in a much longer race. Historic international performers like Aamir Khan's Dangal and Secret Superstar still hold the highest overseas benchmarks for Indian cinema, largely propelled by their extraordinary runs in mainland China.",
+          "Other major global earners like Baahubali 2: The Conclusion and RRR demonstrated how visual spectacle can travel across cultures, particularly in Japan and North America, leaving Ramayana with a high bar to clear."
+        ]
+      },
+      {
+        "h": "The Crucial Test in Mainland China",
+        "p": [
+          "The ultimate trajectory of the film may depend heavily on a release in mainland China. Director Nitesh Tiwari is no stranger to success there, having turned Dangal into a massive cultural phenomenon due to its universally relatable themes of family and ambition.",
+          "While universal motifs of duty, love, and the conflict between good and evil provide a strong foundation, a confirmed mainland release date and screen allocation are still awaited, though a Hong Kong release is scheduled."
+        ]
+      },
+      {
+        "h": "Critical Reception and Global Conversations",
+        "p": [
+          "Beyond commercial collections, the production has secured attention from prominent international publications such as The Guardian, IndieWire, IGN, and Screen Rant. Reviewers praised its visual scope and drew comparisons to major fantasy epics.",
+          "With upcoming theatrical rollouts planned across various European and Latin American territories, the true test remains whether international audiences will return for subsequent installments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend has achieved a strong global opening, supported by strategic international distribution and a heavy promotional campaign across Western and Asian markets. While it has set new milestones in regions like the UK, its long-term global success will depend on sustaining momentum and securing a release in mainland China."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend earned Rs 260 crore overseas in five days.",
+      "Worldwide gross reached Rs 823.5 crore within six days of release.",
+      "The overseas market contributed approximately Rs 297 crore.",
+      "The film had a reported combined budget of around Rs 4000 crore for its two parts.",
+      "North America contributed approximately $12.2 million from the US and Canada.",
+      "The UK contributed $3 million, while the UAE and Australia brought in $2.2 million and $1.9 million respectively.",
+      "The film earned around $6 million worldwide through IMAX during its opening weekend.",
+      "In the UK and Ireland weekend chart, it earned GBP 1.7 million.",
+      "Domestic gross in India reached Rs 526.5 crore.",
+      "The first official trailer was unveiled globally on July 30, 2026.",
+      "San Diego Comic-Con presented the film on July 24.",
+      "An invite-only early 3D screening was held on October 27 at the Academy Museum of Motion Pictures in Los Angeles."
+    ],
+    "entities": {
+      "people": [
+        "Sanjay Ponnappa",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Hans Zimmer",
+        "AR Rahman",
+        "Peter Bradshaw",
+        "Brandon Zachary",
+        "Aamir Khan",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Godzilla Minus Zero",
+        "Dangal",
+        "Secret Superstar",
+        "Bajrangi Bhaijaan",
+        "Baahubali 2: The Conclusion",
+        "Andhadhun",
+        "RRR",
+        "Jawan",
+        "Pathaan",
+        "The Lord of the Rings",
+        "The Lion King",
+        "Ramayana: The Legend of the Prince"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana box office collection",
+      "Nitesh Tiwari Ramayana film",
+      "Ramayana overseas collection"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-105045559-16x9_0.png?VersionId=lHyWPfOfTPN84GMYWmyOewXTEhLvdiC8",
+        "caption": "Can Ramayana Go Pan-World? Inside Its Global Box Office Journey",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 12:48:07 +0530"
   }
 };

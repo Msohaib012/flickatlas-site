@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-11T07:51:49Z",
+  "generated": "2026-11-11T09:06:55Z",
   "realtime": {
-    "active_users": 2
+    "active_users": 1
   },
   "today": {
-    "users": 5,
-    "pageviews": 13,
-    "sessions": 5,
-    "avg_session_seconds": 15.3
+    "users": 10,
+    "pageviews": 18,
+    "sessions": 10,
+    "avg_session_seconds": 9.9
   },
   "last7": {
-    "users": 44,
-    "pageviews": 270,
-    "sessions": 91,
-    "avg_session_seconds": 139.9
+    "users": 49,
+    "pageviews": 275,
+    "sessions": 96,
+    "avg_session_seconds": 132.9
   },
   "top_pages": [
     {
@@ -30,16 +30,16 @@
       "avg_time_seconds": 68.1
     },
     {
+      "path": "/movies",
+      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
+      "views": 17,
+      "avg_time_seconds": 28.1
+    },
+    {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
       "views": 16,
       "avg_time_seconds": 11.3
-    },
-    {
-      "path": "/movies",
-      "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 29.7
     },
     {
       "path": "/news",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 58,
-      "users": 22
+      "sessions": 63,
+      "users": 27
     },
     {
       "source": "google",
@@ -107,7 +107,7 @@
   "countries": [
     {
       "country": "United States",
-      "users": 19
+      "users": 20
     },
     {
       "country": "India",
@@ -134,22 +134,22 @@
       "users": 1
     },
     {
+      "country": "Brazil",
+      "users": 1
+    },
+    {
       "country": "Canada",
       "users": 1
     },
     {
       "country": "Chile",
       "users": 1
-    },
-    {
-      "country": "Egypt",
-      "users": 1
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 23
+      "users": 28
     },
     {
       "device": "mobile",
