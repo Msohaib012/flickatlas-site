@@ -116037,5 +116037,427 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 11:46:00 +0000"
+  },
+  "jwgyt2": {
+    "id": "jwgyt2",
+    "type": "news",
+    "headline": "Ramayana Part 1 Inches Closer To 500 Crore Net With Strong Day 7 Collections",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana Part 1 continues its powerful box office run, surpassing the first week records of Animal.",
+    "body": [
+      {
+        "h": "Unstoppable Box Office Journey",
+        "p": [
+          "Ramayana Part 1 has maintained an extraordinary theatrical momentum since hitting the big screen. The epic retelling continues to draw massive audiences nationwide, sustaining its strong box office footing.",
+          "The feature has successfully captivated moviegoers across diverse regions of India, proving to be a major commercial success during its opening week run."
+        ]
+      },
+      {
+        "h": "Release Date And Director",
+        "p": [
+          "Directed by Nitesh Tiwari, the high-profile project officially debuted in cinemas on November 5. The filmmaker has crafted a massive cinematic experience that has deeply resonated with audiences.",
+          "The timing of the release alongside festive periods has further bolstered ticket sales, keeping theatres packed across the country."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The mythological epic features Ranbir Kapoor in the role of Lord Ram, Sai Pallavi portraying Goddess Sita, and Yash stepping into the shoes of Ravana. Their performances anchor the core narrative of the film.",
+          "Additionally, the movie boasts a robust supporting cast including Ravie Dubey, Arun Govil, Lara Dutta, Rakul Preet Singh, Sheeba Chaddha, and Indira Krishnan."
+        ]
+      },
+      {
+        "h": "Festive Momentum And Tuesday Holds",
+        "p": [
+          "Maintaining strong numbers on the festive occasion of Bhai Dooj, the project has exhibited remarkable durability at the box office. The thematic resonance of the storyline has further attracted family audiences.",
+          "Following a solid performance on Monday, the feature saw a minimal drop of just 12.5% on Tuesday, securing a net collection of 94.10 crore on that single day according to Sacnilk."
+        ]
+      },
+      {
+        "h": "Day 7 Early Trends And Earnings",
+        "p": [
+          "Live tracking data from Sacnilk indicates that the feature added approximately 34.36 crore by 5:00 PM on Wednesday, November 11, across 14,525 shows.",
+          "These figures push the total India net collection to 474.81 crore, while the cumulative India gross collection has reached 567.04 crore as the first week concludes."
+        ]
+      },
+      {
+        "h": "Surpassing Animal At The Box Office",
+        "p": [
+          "With its current trajectory, Ramayana Part 1 has comfortably outpaced the opening week figures of Ranbir Kapoor's previous blockbuster Animal. Data shows that Animal had collected 24.23 crore on its seventh day.",
+          "Furthermore, Animal had wrapped up its entire first week with a lower total India gross collection of 401.93 crore compared to the current milestone achieved by Tiwari's directorial."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, Ramayana Part 1 has achieved a total India net collection of 474.81 crore by the seventh day of its release. The epic retelling successfully surpassed the first week figures of the actor's previous blockbuster Animal while maintaining strong occupancy during the festive period."
+        ]
+      }
+    ],
+    "facts": [
+      "Released on November 5",
+      "Directed by Nitesh Tiwari",
+      "Starring Ranbir Kapoor, Sai Pallavi, and Yash",
+      "Tuesday net collection was 94.10 crore",
+      "Day 6 India gross collection was 526.50 crore",
+      "Day 6 India net collection was 440.45 crore",
+      "Day 7 collection as of 5:00 PM on Wednesday, November 11 was 34.36 crore",
+      "Total India net collection reached 474.81 crore",
+      "Total India gross collection reached 567.04 crore",
+      "Screened across 14,525 shows on Day 7",
+      "Animal Day 7 collection was 24.23 crore",
+      "Animal first week India gross collection was 401.93 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Indira Krishnan"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Part 1 Day 7 collection",
+      "Ramayana vs Animal box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-11t162336-781-59081794394435.jpg",
+        "caption": "Ramayana Part 1 Inches Closer To 500 Crore Net With Strong Day 7 Collections",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 18:15:24 +0530"
+  },
+  "8x1jtk": {
+    "id": "8x1jtk",
+    "type": "news",
+    "headline": "Julianna Margulies to Headline Period Romantic Comedy 'The American Heiress' at MGM+",
+    "dek": "The acclaimed actress will star as Mrs. Cash in the eight-episode MGM+ adaptation of Daisy Goodwin’s novel.",
+    "body": [
+      {
+        "h": "Greenlighting The Project",
+        "p": [
+          "MGM+ has officially commissioned a new period romantic comedy series titled 'The American Heiress', securing a major lead star for the production. Variety revealed that the network has ordered eight episodes of the show, which draws its narrative foundation from the novel of the same name by Daisy Goodwin.",
+          "The source book, which is also distributed under the alternate title 'My Last Duchess', is set to be adapted directly for the screen by Goodwin herself. She will also take on executive producing and showrunning duties for the upcoming television adaptation."
+        ]
+      },
+      {
+        "h": "Plot and Setting",
+        "p": [
+          "The story transports viewers back to the year 1893, following a lively and captivating young woman named Cora Cash. Described as a classic 'dollar princess', Cora is reluctantly brought across the Atlantic to England by her formidable mother, Mrs. Cash, played by Julianna Margulies, in a quest to secure a aristocratic title that cannot be purchased at home.",
+          "Although Cora believes she holds romantic feelings for an American artist named Teddy, a fateful horseback riding accident leaves her unconscious and waking up in Lulworth Castle. As she navigates the morally complex landscape of 1890s England, she must choose between the traditional expectations of the Old World and the aspirations of the New."
+        ]
+      },
+      {
+        "h": "Creative Vision and Themes",
+        "p": [
+          "Author Daisy Goodwin has characterized the narrative as an exploration of familial bonds between mothers and daughters, traditional societal obligations, and the pursuit of meaning in an environment heavily influenced by wealth. She drew inspiration from both historical eras and the golden age of Hollywood cinema.",
+          "Goodwin expressed her enthusiasm for collaborating with Julianna Margulies, noting that the actress captures both the majesty and the frustration inherent in the character of Isabella Cash. Michael Wright, the global head of MGM+, echoed this sentiment, praising the project as an ideal fit for the network's focus on classic storytelling."
+        ]
+      },
+      {
+        "h": "Production and Crew",
+        "p": [
+          "Production on the series is scheduled to commence in the United Kingdom within the coming weeks. The project is structured as a co-production between MGM+ Studios and Fifth Season, with the latter also managing global distribution rights.",
+          "Alongside Daisy Goodwin, the executive producer roster includes Stacey Snider, Julianna Margulies, Damian Keogh, Stella Merz, and Kirstie Macdonald. Additionally, Joanna Crow serves as producer, Gemma Wright acts as co-producer, and the directing duties are split among Catherine Morshead, Sandra Goldbacher, and Edward Hall."
+        ]
+      },
+      {
+        "h": "Margulies' Television Legacy",
+        "p": [
+          "Julianna Margulies stands as one of the most decorated television performers in modern entertainment. Her career boasts ten Emmy Award nominations, resulting in three wins for her memorable work on 'ER' and 'The Good Wife'.",
+          "Her extensive television resume also features twelve Golden Globe nominations and a victory for best actress in a drama series. Recent years have seen her take on prominent television roles in projects such as 'The Morning Show', 'Billions', 'The Hot Zone', and 'Paradise'."
+        ]
+      },
+      {
+        "h": "Studio Partnerships",
+        "p": [
+          "Executives from the collaborating studios have emphasized the strategic importance of this new commission. Peter Traugott, president of television at Fifth Season, highlighted that the venture builds upon previous successful collaborations with MGM+ on projects like 'American Classic' and 'The Westies'.",
+          "The leadership teams from both Fifth Season and MGM+ expressed confidence that the blend of period romance, intricate social politics, and high-stakes drama will resonate strongly with international audiences upon its release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MGM+ has greenlit an eight-episode period romantic comedy series titled 'The American Heiress', based on Daisy Goodwin's novel. Julianna Margulies will star as the formidable Mrs. Cash alongside a creative team that includes showrunner Goodwin and distributor Fifth Season.",
+          "Production is set to begin soon in the United Kingdom, adding another major television credit to Margulies' extensive list of acclaimed performances."
+        ]
+      }
+    ],
+    "facts": [
+      "MGM+ greenlit the romantic comedy series 'The American Heiress' for eight episodes.",
+      "The series is based on Daisy Goodwin's novel, also published as 'My Last Duchess'.",
+      "Production is set to begin in the United Kingdom in the coming weeks.",
+      "Julianna Margulies has been nominated for 10 Emmy Awards and won three.",
+      "Julianna Margulies has been nominated for 12 Golden Globe Awards."
+    ],
+    "entities": {
+      "people": [
+        "Julianna Margulies",
+        "Daisy Goodwin",
+        "Stacey Snider",
+        "Damian Keogh",
+        "Stella Merz",
+        "Kirstie Macdonald",
+        "Joanna Crow",
+        "Gemma Wright",
+        "Catherine Morshead",
+        "Sandra Goldbacher",
+        "Edward Hall",
+        "Michael Wright",
+        "Peter Traugott"
+      ],
+      "titles": [
+        "The American Heiress",
+        "Victoria",
+        "My Last Duchess",
+        "ER",
+        "The Good Wife",
+        "The Morning Show",
+        "Billions",
+        "The Hot Zone",
+        "Paradise",
+        "American Classic",
+        "The Westies"
+      ]
+    },
+    "keywords": [
+      "Julianna Margulies American Heiress",
+      "The American Heiress series MGM+",
+      "Daisy Goodwin Victoria author",
+      "Julianna Margulies new show"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/JULIANNA-by-Yu-Tsai-e1794337681174.jpeg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Julianna Margulies to Headline Period Romantic Comedy 'The American Heiress' at MGM+",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 13:00:00 +0000"
+  },
+  "1n0903q": {
+    "id": "1n0903q",
+    "type": "news",
+    "headline": "Nitesh Tiwari Crosses 3176 Crore Worldwide Box Office Milestone Across Five Films",
+    "dek": "Ace filmmaker Nitesh Tiwari enters an elite tier of Indian directors as Ramayana pushes his career global gross past 3000 crore.",
+    "body": [
+      {
+        "h": "The Monumental 3000 Crore Milestone",
+        "p": [
+          "Renowned filmmaker Nitesh Tiwari has officially rewritten box office history by crossing a massive cumulative career milestone globally. Propelled by the roaring success of his latest mythological epic, the director's total theatrical earnings have scaled new heights. Across his cinematic journey, his pictures have consistently resonated with audiences on a grand scale.",
+          "This exceptional achievement places him firmly in an elite bracket of Indian directors. His ability to draw massive crowds to theaters worldwide has cemented his reputation as a visionary storyteller with immense commercial pull."
+        ]
+      },
+      {
+        "h": "The Phenomenal Run of Ramayana",
+        "p": [
+          "The primary catalyst for this historic milestone is his latest directorial venture, which has taken global box office counters by storm. Starring an ensemble cast featuring Ranbir Kapoor, Yash, and Sai Pallavi, the mythological spectacle has posted incredible numbers right from the start.",
+          "In just a six-day extended theatrical window, the high-budget epic raked in a staggering global gross collection. This singular performance provided the final push needed to take his career cumulative total past the three-thousand-crore mark."
+        ]
+      },
+      {
+        "h": "A Five-Film Theatrical Journey",
+        "p": [
+          "The newly achieved grand total is calculated across five theatrical feature films helmed by the director. His diverse portfolio spans multiple genres, showcasing his versatility as a storyteller capable of handling varied subjects.",
+          "It is worth noting that certain projects in his filmography, such as his 2023 romantic drama starring Varun Dhawan and Janhvi Kapoor, bypassed theatrical release entirely to premiere directly on OTT via Amazon Prime Video. Consequently, that digital release is excluded from these box-office computations."
+        ]
+      },
+      {
+        "h": "Staggering Average Per Film",
+        "p": [
+          "When averaging his earnings across his five theatrical releases, the numbers reveal an extraordinary financial footprint. His average gross per film touches a monumental figure, placing him shoulder-to-shoulder with pan-India heavyweights like SS Rajamouli and Rajkumar Hirani.",
+          "This consistent capability to deliver high-performing cinematic ventures highlights a rare blend of artistic vision and commercial viability that few filmmakers manage to sustain throughout their careers."
+        ]
+      },
+      {
+        "h": "The Dangal and Ramayana Power Combination",
+        "p": [
+          "A closer look at the filmmaker's lifetime statistics reveals that two specific blockbusters drive the vast majority of his total earnings. His monumental sports drama previously set unprecedented global records, contributing the largest share to his career tally.",
+          "Combined with the explosive early numbers of his current mythological release, these two high-scale epics account for the overwhelming majority of his lifetime directorial gross, proving his unmatched knack for executing world-scale projects."
+        ]
+      },
+      {
+        "h": "Breakdown of Lifetime Global Collections",
+        "p": [
+          "The journey to the current cumulative total has been built upon a progressive ladder of commercial successes over the years. His early directorial ventures started with modest box-office footprints before scaling into unprecedented territory.",
+          "From his initial children's comedy feature to cultural phenomena like Chhichhore and his record-breaking epics, every project has added vital weight to his expanding global box-office dossier."
+        ]
+      },
+      {
+        "h": "Future Prospects at the Box Office",
+        "p": [
+          "As the theatrical run of his latest cinematic spectacle continues to march forward toward even higher global milestones, the director's total earnings are expected to climb further. Industry trackers are closely monitoring how much higher the final tally will reach.",
+          "With such a powerful trajectory, Nitesh Tiwari's legacy as a commercial powerhouse in Indian cinema is thoroughly secured, leaving fans eager to see what ambitious projects he undertakes next."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Nitesh Tiwari has surpassed a cumulative global box office total of 3176.44 crore across five theatrical feature films, driven largely by his past blockbuster Dangal and his latest release Ramayana. The milestone places him among the top tier of Indian filmmakers with an impressive average per film."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari reached a cumulative global box office total of 3176.44 crore across 5 theatrical films.",
+      "Ramayana collected 828.57 crore gross worldwide in a 6-day extended theatrical window.",
+      "Dangal grossed 2070.30 crore globally.",
+      "Chillar Party grossed 5.5 crore globally.",
+      "Bhoothnath Returns grossed 63.65 crore globally.",
+      "Chhichhore grossed 208.42 crore globally.",
+      "Bawaal was released directly on OTT via Amazon Prime Video in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Varun Dhawan",
+        "Janhvi Kapoor",
+        "SS Rajamouli",
+        "Rajkumar Hirani"
+      ],
+      "titles": [
+        "Ramayana",
+        "Bawaal",
+        "Dangal",
+        "Chillar Party",
+        "Bhoothnath Returns",
+        "Chhichhore",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Nitesh Tiwari Ramayana",
+      "Ramayana box office collection",
+      "Nitesh Tiwari 3176 crore",
+      "Ramayana worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/nitesh-tiwari-worldwide-box-office.jpg",
+        "caption": "Nitesh Tiwari Crosses 3176 Crore Worldwide Box Office Milestone Across Five Films",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 12:47:17 +0000"
+  },
+  "poaizv": {
+    "id": "poaizv",
+    "type": "news",
+    "headline": "Charlie Sheen Announces New Podcast Series Titled Mostly Sheenius With Michael Douglas as First Guest",
+    "dek": "Charlie Sheen is launching a brand new weekly interview podcast titled Mostly Sheenius, with Hollywood icon Michael Douglas set to appear as the premiere guest.",
+    "body": [
+      {
+        "h": "The Launch of Mostly Sheenius",
+        "p": [
+          "Charlie Sheen is stepping into the audio and video space with a brand new weekly interview podcast titled Mostly Sheenius. The show is scheduled to bow on November 12, bringing fresh conversational content to major podcast platforms.",
+          "Produced by STRAC Media, the podcast is a project from Fox-owned Red Seat Ventures. It aims to deliver honest, humorous, and unexpected discussions featuring a variety of high-profile personalities from the entertainment industry."
+        ]
+      },
+      {
+        "h": "Michael Douglas as the Inaugural Guest",
+        "p": [
+          "The podcast is kicking off its inaugural episode with Hollywood legend Michael Douglas as its very first guest. Douglas is currently fresh off the publication of his well-received memoir titled One Helluva Ride.",
+          "During his sit-down with Sheen, Douglas is set to discuss his new book, general Hollywood experiences, and their shared history working together on the iconic movie Wall Street."
+        ]
+      },
+      {
+        "h": "A Star-Studded Guest Lineup",
+        "p": [
+          "Beyond the premiere episode, Charlie Sheen has successfully lined up a strong roster of notable names for the upcoming weekly series. Given his deep industry connections, listeners can expect plenty of prime insider stories.",
+          "Among the confirmed interview subjects are members of his own family, including his legendary father, actor Martin Sheen, and his actor brother, Emilio Estevez."
+        ]
+      },
+      {
+        "h": "Family and Longtime Friends Join the Podcast",
+        "p": [
+          "The guest list also extends to Denise Richards, Sheen's ex-wife with whom he shares two daughters. Her upcoming appearance adds another layer of personal connection to the interview lineup.",
+          "In addition to family members, the show will feature Jennifer Grey, who previously starred alongside Sheen in the classic film Ferris Bueller's Day Off."
+        ]
+      },
+      {
+        "h": "More Familiar Faces and Comedic Talent",
+        "p": [
+          "The roster continues with Sheen's longtime friend Rob Lowe, who is also scheduled to sit down for a conversation on the weekly series. Comedian and actor Bobby Lee rounds out the initial wave of announced guests.",
+          "Each guest is expected to bring unique stories to the table, guided by Sheen's personal perspective as an actor and celebrity sharing his own insights."
+        ]
+      },
+      {
+        "h": "Production and Behind-the-Scenes Team",
+        "p": [
+          "The production of Mostly Sheenius is spearheaded by STRAC Media, with Charlie Sheen and Todd Christopher serving as Executive Producers. Eric Pearce, who is the EVP of Creator Operations, acts as executive producer on behalf of Red Seat Ventures.",
+          "The show will be widely accessible across major podcast platforms, releasing in both audio and full video formats for audiences to enjoy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Charlie Sheen is launching a weekly interview podcast titled Mostly Sheenius on November 12 through Red Seat Ventures. The show's first episode features Michael Douglas as a guest, with future appearances lined up from family members and industry colleagues like Martin Sheen, Emilio Estevez, and Rob Lowe."
+        ]
+      }
+    ],
+    "facts": [
+      "Charlie Sheen is launching a weekly interview podcast titled Mostly Sheenius.",
+      "The podcast bows on November 12.",
+      "Michael Douglas is the first guest on the podcast.",
+      "Michael Douglas published a memoir titled One Helluva Ride.",
+      "Charlie Sheen and Michael Douglas worked together on the movie Wall Street.",
+      "Martin Sheen is set to appear as a guest.",
+      "Emilio Estevez is set to appear as a guest.",
+      "Denise Richards is set to appear as a guest.",
+      "Jennifer Grey is set to appear as a guest.",
+      "Jennifer Grey starred with Charlie Sheen in Ferris Bueller's Day Off.",
+      "Rob Lowe is set to appear as a guest.",
+      "Bobby Lee is set to appear as a guest.",
+      "The show is produced by STRAC Media with Charlie Sheen and Todd Christopher as Executive Producers."
+    ],
+    "entities": {
+      "people": [
+        "Charlie Sheen",
+        "Michael Douglas",
+        "Martin Sheen",
+        "Emilio Estevez",
+        "Denise Richards",
+        "Jennifer Grey",
+        "Rob Lowe",
+        "Bobby Lee",
+        "Todd Christopher",
+        "Eric Pearce"
+      ],
+      "titles": [
+        "Mostly Sheenius",
+        "One Helluva Ride",
+        "Wall Street",
+        "Ferris Bueller's Day Off"
+      ]
+    },
+    "keywords": [
+      "Charlie Sheen podcast",
+      "Mostly Sheenius",
+      "Michael Douglas One Helluva Ride",
+      "Charlie Sheen Michael Douglas Wall Street"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Mostly-Sheenius.jpg?w=1024",
+        "caption": "Charlie Sheen Announces New Podcast Series Titled Mostly Sheenius With Michael Douglas as First Guest",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 13:03:06 +0000"
   }
 };

@@ -37,6 +37,175 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Wed, 11 Nov 2026 15:50:18 +0200"
   },
+  "poaizv": {
+    "id": "poaizv",
+    "type": "news",
+    "headline": "Charlie Sheen Announces New Podcast Series Titled Mostly Sheenius With Michael Douglas as First Guest",
+    "dek": "Charlie Sheen is launching a brand new weekly interview podcast titled Mostly Sheenius, with Hollywood icon Michael Douglas set to appear as the premiere guest.",
+    "entities": {
+      "people": [
+        "Charlie Sheen",
+        "Michael Douglas",
+        "Martin Sheen",
+        "Emilio Estevez",
+        "Denise Richards",
+        "Jennifer Grey",
+        "Rob Lowe",
+        "Bobby Lee",
+        "Todd Christopher",
+        "Eric Pearce"
+      ],
+      "titles": [
+        "Mostly Sheenius",
+        "One Helluva Ride",
+        "Wall Street",
+        "Ferris Bueller's Day Off"
+      ]
+    },
+    "keywords": [
+      "Charlie Sheen podcast",
+      "Mostly Sheenius",
+      "Michael Douglas One Helluva Ride",
+      "Charlie Sheen Michael Douglas Wall Street"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Mostly-Sheenius.jpg?w=1024",
+        "caption": "Charlie Sheen Announces New Podcast Series Titled Mostly Sheenius With Michael Douglas as First Guest",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 13:03:06 +0000"
+  },
+  "8x1jtk": {
+    "id": "8x1jtk",
+    "type": "news",
+    "headline": "Julianna Margulies to Headline Period Romantic Comedy 'The American Heiress' at MGM+",
+    "dek": "The acclaimed actress will star as Mrs. Cash in the eight-episode MGM+ adaptation of Daisy Goodwin’s novel.",
+    "entities": {
+      "people": [
+        "Julianna Margulies",
+        "Daisy Goodwin",
+        "Stacey Snider",
+        "Damian Keogh",
+        "Stella Merz",
+        "Kirstie Macdonald",
+        "Joanna Crow",
+        "Gemma Wright",
+        "Catherine Morshead",
+        "Sandra Goldbacher",
+        "Edward Hall",
+        "Michael Wright",
+        "Peter Traugott"
+      ],
+      "titles": [
+        "The American Heiress",
+        "Victoria",
+        "My Last Duchess",
+        "ER",
+        "The Good Wife",
+        "The Morning Show",
+        "Billions",
+        "The Hot Zone",
+        "Paradise",
+        "American Classic",
+        "The Westies"
+      ]
+    },
+    "keywords": [
+      "Julianna Margulies American Heiress",
+      "The American Heiress series MGM+",
+      "Daisy Goodwin Victoria author",
+      "Julianna Margulies new show"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/JULIANNA-by-Yu-Tsai-e1794337681174.jpeg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Julianna Margulies to Headline Period Romantic Comedy 'The American Heiress' at MGM+",
+        "source": "Variety"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 13:00:00 +0000"
+  },
+  "1n0903q": {
+    "id": "1n0903q",
+    "type": "news",
+    "headline": "Nitesh Tiwari Crosses 3176 Crore Worldwide Box Office Milestone Across Five Films",
+    "dek": "Ace filmmaker Nitesh Tiwari enters an elite tier of Indian directors as Ramayana pushes his career global gross past 3000 crore.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Varun Dhawan",
+        "Janhvi Kapoor",
+        "SS Rajamouli",
+        "Rajkumar Hirani"
+      ],
+      "titles": [
+        "Ramayana",
+        "Bawaal",
+        "Dangal",
+        "Chillar Party",
+        "Bhoothnath Returns",
+        "Chhichhore",
+        "Ramayana Part 1"
+      ]
+    },
+    "keywords": [
+      "Nitesh Tiwari Ramayana",
+      "Ramayana box office collection",
+      "Nitesh Tiwari 3176 crore",
+      "Ramayana worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/nitesh-tiwari-worldwide-box-office.jpg",
+        "caption": "Nitesh Tiwari Crosses 3176 Crore Worldwide Box Office Milestone Across Five Films",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 12:47:17 +0000"
+  },
+  "jwgyt2": {
+    "id": "jwgyt2",
+    "type": "news",
+    "headline": "Ramayana Part 1 Inches Closer To 500 Crore Net With Strong Day 7 Collections",
+    "dek": "Ranbir Kapoor and Yash starrer Ramayana Part 1 continues its powerful box office run, surpassing the first week records of Animal.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravie Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Indira Krishnan"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana Part 1 Day 7 collection",
+      "Ramayana vs Animal box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-11t162336-781-59081794394435.jpg",
+        "caption": "Ramayana Part 1 Inches Closer To 500 Crore Net With Strong Day 7 Collections",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 18:15:24 +0530"
+  },
   "153uccx": {
     "id": "153uccx",
     "type": "news",
@@ -4570,158 +4739,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 08:37:06 +0000"
-  },
-  "1qz9fon": {
-    "id": "1qz9fon",
-    "type": "news",
-    "headline": "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
-    "dek": "The theatrical debut of Sharwanand and Anupama Parameswaran's Bhogi has been delayed following the examining committee's decision to refer the movie to the revising committee.",
-    "entities": {
-      "people": [
-        "Sharwanand",
-        "Anupama Parameswaran",
-        "Sampath Nandi",
-        "Tamannaah Bhatia",
-        "Hebah Patel",
-        "C Joseph Vijay",
-        "H Vinoth"
-      ],
-      "titles": [
-        "Bhogi",
-        "Odela 2",
-        "Jana Nayagan"
-      ]
-    },
-    "keywords": [
-      "Bhogi film",
-      "Sharwanand Bhogi release",
-      "Anupama Parameswaran Bhogi",
-      "Sampath Nandi Bhogi",
-      "CBFC revising committee Bhogi"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/10/1600x900/logo/Bhogi_movie_1794296646715_SmVP_1794296679547_HyGz_510b5534-3c1c-454c-b01e-330e052a4afe_7F6f.jpeg",
-        "caption": "Bhogi Release Postponed at the Last Minute as CBFC Sends Film to Revising Committee",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 14:02:07 +0530"
-  },
-  "1x04q29": {
-    "id": "1x04q29",
-    "type": "news",
-    "headline": "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
-    "dek": "Original Sita actor Dipika Chikhlia opens up about the costume debates surrounding Nitesh Tiwari's Ramayana, contrasting modern filmmaking with her own experiences.",
-    "entities": {
-      "people": [
-        "Dipika Chikhlia",
-        "Nitesh Tiwari",
-        "Mimtaz",
-        "Ranbir Kapoor",
-        "Lara Dutta",
-        "Sai Pallavi",
-        "Ankit Patel"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayan",
-        "Ramayana Part 1"
-      ]
-    },
-    "keywords": [
-      "Dipika Chikhlia Ramayana costume",
-      "Nitesh Tiwari Ramayana Part 1",
-      "Ramayana costume controversy",
-      "Dipika Chikhlia interview Filmibeat"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-10t135931-073-43221794299377.jpg",
-        "caption": "Dipika Chikhlia Weighs In On Ramayana Costume Controversy",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 14:00:07 +0530"
-  },
-  "411ze1": {
-    "id": "411ze1",
-    "type": "news",
-    "headline": "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
-    "dek": "Prime Video is rolling out the third season of The Lord of the Rings: The Rings of Power in rapid-fire batches, kicking off with the first four episodes on November 11, 2026.",
-    "entities": {
-      "people": [
-        "J.R.R. Tolkien",
-        "Sauron",
-        "Morgoth",
-        "Frodo"
-      ],
-      "titles": [
-        "The Lord of the Rings: The Rings of Power",
-        "The Lord of the Rings"
-      ]
-    },
-    "keywords": [
-      "The Rings of Power season 3",
-      "Rings of Power release time",
-      "Prime Video fantasy series",
-      "Sauron One Ring"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/the-lord-of-the-rings-the-rings-of-power_a4pyhn-1.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "The Rings Of Power Season 3 Premiere Schedule And Release Times Confirmed On Prime Video",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 08:00:18 GMT"
-  },
-  "lubpd7": {
-    "id": "lubpd7",
-    "type": "news",
-    "headline": "Samuel L. Jackson Action Thriller The Beast Sets Digital Release Date on Prime Video",
-    "dek": "Renny Harlin's action movie The Beast, starring Samuel L. Jackson and Joel Kinnaman, is making its way to Prime Video for digital purchase.",
-    "entities": {
-      "people": [
-        "Samuel L. Jackson",
-        "Joel Kinnaman",
-        "Guy Burnet",
-        "Colin Morgan",
-        "Umair Aleem",
-        "Renny Harlin",
-        "James Madigan",
-        "Keith Kjarval",
-        "Wayne Marc Godfrey",
-        "Nicki Cortese",
-        "John Logan Pierson",
-        "Peter Berg",
-        "Tuomas Kantelinen",
-        "Jacques Jouffret"
-      ],
-      "titles": [
-        "The Beast",
-        "Die Hard 2",
-        "Cliffhanger",
-        "Deep Blue Sea",
-        "The Bricklayer",
-        "The Strangers",
-        "Deep Water"
-      ]
-    },
-    "keywords": [
-      "The Beast film",
-      "Samuel L. Jackson The Beast",
-      "Renny Harlin The Beast",
-      "The Beast digital release"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/12_f6bdfb.jpg.webp?resize=1200,630",
-        "caption": "Samuel L. Jackson Action Thriller The Beast Sets Digital Release Date on Prime Video",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Tue, 10 Nov 2026 07:16:16 +0000"
   },
   "1k7d2uy": {
     "id": "1k7d2uy",
