@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-11T22:15:56Z",
+  "generated": "2026-11-11T22:54:01Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 3
   },
   "today": {
     "users": 0,
@@ -11,10 +11,10 @@
     "avg_session_seconds": 0
   },
   "last7": {
-    "users": 51,
-    "pageviews": 229,
-    "sessions": 88,
-    "avg_session_seconds": 109.2
+    "users": 53,
+    "pageviews": 231,
+    "sessions": 90,
+    "avg_session_seconds": 107.0
   },
   "top_pages": [
     {
@@ -38,8 +38,8 @@
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 25.7
+      "views": 14,
+      "avg_time_seconds": 24.2
     },
     {
       "path": "/episode-guides",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 73,
-      "users": 43
+      "sessions": 75,
+      "users": 45
     },
     {
       "source": "search.google.com",
@@ -111,7 +111,7 @@
     },
     {
       "country": "Brazil",
-      "users": 9
+      "users": 10
     },
     {
       "country": "Singapore",
@@ -130,6 +130,10 @@
       "users": 2
     },
     {
+      "country": "Japan",
+      "users": 2
+    },
+    {
       "country": "Morocco",
       "users": 2
     },
@@ -140,16 +144,12 @@
     {
       "country": "Vietnam",
       "users": 2
-    },
-    {
-      "country": "Algeria",
-      "users": 1
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 43
+      "users": 45
     },
     {
       "device": "mobile",
