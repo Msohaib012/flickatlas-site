@@ -62,6 +62,9 @@ from email.utils import parsedate_to_datetime
 
 INR_TO_USD = 94.65  # site FA_RATES (config.js)
 
+# Mirror of the multi-source engine's cap (scripts/multisource_boxoffice.py).
+MAX_DAY_CR = 120.0
+
 # --- patterns -------------------------------------------------------------
 CR_RE = re.compile(
     r"(?:(?:rs\.?|inr|₹)\s*)?([\d,]+(?:\.\d+)?)\s*(crore|cr|lakh)\b",
@@ -252,6 +255,25 @@ def validate_box_row(row, published_entry, article=None, today=None):
         return False, "collection not a number"
     if coll <= 0:
         return False, "collection missing/zero"
+    # (b2) Magnitude cap: a single day's India Net collection has never
+    # exceeded ~Rs 85 Cr (Jawan / Pathaan Day 1); the multi-source engine
+    # already rejects anything above 120 Cr (MAX_DAY_CR). A Rs-crore
+    # figure above the cap is almost certainly a worldwide gross or a
+    # running total mislabelled as a day figure — e.g. Ramayana Day 6,
+    # 2026-11-10: 828.57 Cr went live and inflated the rail 7D to
+    # $154.7M against a $45.5M TOTAL. USD-only rows (Hollywood $ figures
+    # with no crore field) are NOT capped here — a $100M+ day is
+    # legitimate for a Hollywood opener.
+    cr = row.get("collection_inr_crore")
+    if cr is not None:
+        try:
+            crf = float(cr)
+        except (TypeError, ValueError):
+            return False, "collection_inr_crore not a number"
+        if crf > MAX_DAY_CR:
+            return False, (f"single-day {crf:.2f} Cr exceeds the "
+                           f"{MAX_DAY_CR:.0f} Cr cap — likely a worldwide "
+                           f"or running total, rejected")
     # (a) The source article is about advance booking / pre-sales:
     # its figures are pre-release takings, never a day's collection.
     if article:
