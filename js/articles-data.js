@@ -113252,5 +113252,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 06:01:26 +0000"
+  },
+  "p51ny2": {
+    "id": "p51ny2",
+    "type": "news",
+    "headline": "Sonu Nigam’s Son Nevaan Nigam Makes Singing Debut With First Single Slide",
+    "dek": "Nineteen-year-old Nevaan Nigam has stepped into the music industry with his debut single Slide, featuring a time-travel narrative and a unique creative vision.",
+    "body": [
+      {
+        "h": "The Arrival Of Slide",
+        "p": [
+          "Nevaan Nigam, the nineteen-year-old son of renowned playback singer Sonu Nigam, has officially launched his solo career in the music industry. On November 6, 2026, he released his debut single, Slide, on YouTube, marking his transition from a child performer to an independent recording artist. Having spent his early years surrounded by melodies and occasionally joining his father on stage, Nevaan is now presenting his own distinct artistry to the public."
+        ]
+      },
+      {
+        "h": "A Unique Time-Travel Concept",
+        "p": [
+          "Beyond just releasing a track, Nevaan conceptualized an ambitious narrative for the song's visual companion. The accompanying short film follows a scientist who loses a vital watch and glove, which power his time machine, leaving him stranded across various eras. The storyline features adventures through the Wild West and the disco era, alongside a romantic plotline where the scientist brings a companion along on his temporal journeys while the track plays in the background.",
+          "Nevaan not only conceptualized this intricate visual story but also co-directed the short film alongside Alexander Cobian. Additionally, the production credits for the music feature compositions by The Audibles."
+        ]
+      },
+      {
+        "h": "Musical Heritage And Early Beginnings",
+        "p": [
+          "Music runs deep in the family lineage. Nevaan was born on July 25, 2007, to parents Sonu Nigam and Madhurima Nigam, and spent his formative years growing up and completing his education in Dubai. His musical talent manifested at an extraordinarily young age; when he was only four years old, he recorded a version of Kolaveri Di in a studio setting. Just months later, at four and a half years old, he performed Abhi Mujhme Kahin live in front of a live audience.",
+          "The family's musical roots extend further back through his grandfather, Agam Kumar Nigam, who is a well-known singer recognized for performing classic tracks originally popularized by legendary artists like Mohammad Rafi and Mukesh, alongside numerous stage appearances."
+        ]
+      },
+      {
+        "h": "Intense Training And Preparation",
+        "p": [
+          "Sonu Nigam shared an emotional announcement on Instagram detailing his son's evolution from a reserved child into a dedicated young professional. According to the proud father, Nevaan commits extensively to his craft, dedicating up to 16 hours a day to vocal training alongside his coach. Furthermore, his preparation for the industry has included dance lessons and recording sessions with American producer Poo Bear."
+        ]
+      },
+      {
+        "h": "Previous Hesitations About A Singing Career",
+        "p": [
+          "Nevaan's venture into the music world comes as a shift from previous remarks made by his father. In a 2020 interview with Times Now, Sonu Nigam expressed that he did not necessarily want his son to pursue a playback singing career within India. At that time, Nevaan was residing in Dubai and showing considerable promise as a gamer, ranking among the top Fortnite players in the UAE. Sonu preferred to let his son discover his own path rather than dictating his future."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nineteen-year-old Nevaan Nigam has released his debut single Slide on YouTube on November 6, 2026, accompanied by a time-travel short film he co-directed. Backed by an intensive training regimen and a deep family musical legacy, the young artist is carving out his own path after previously showing great skill in competitive gaming."
+        ]
+      }
+    ],
+    "facts": [
+      "Nevaan Nigam is 19 years old",
+      "Slide was released on November 6, 2026",
+      "Nevaan Nigam was born on July 25, 2007",
+      "Nevaan recorded Kolaveri Di at four years old",
+      "Nevaan sang Abhi Mujhme Kahin live on stage at four and a half years old"
+    ],
+    "entities": {
+      "people": [
+        "Nevaan Nigam",
+        "Sonu Nigam",
+        "Alexander Cobian",
+        "Madhurima Nigam",
+        "Agam Kumar Nigam",
+        "Poo Bear",
+        "Mohammad Rafi",
+        "Mukesh"
+      ],
+      "titles": [
+        "Slide",
+        "Kolaveri Di",
+        "Abhi Mujhme Kahin"
+      ]
+    },
+    "keywords": [
+      "Nevaan Nigam",
+      "Nevaan Nigam debut song Slide",
+      "Sonu Nigam son",
+      "Nevaan Nigam singing debut"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/09134330/image-35.jpeg",
+        "caption": "Sonu Nigam’s Son Nevaan Nigam Makes Singing Debut With First Single Slide",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-11T06:59:35Z"
+  },
+  "12dni6d": {
+    "id": "12dni6d",
+    "type": "news",
+    "headline": "Sir Paul McCartney Reaches Billionaire Status at 84",
+    "dek": "The legendary Beatles musician has been named the third-richest artist globally, trailing only Taylor Swift and Jay-Z according to Forbes.",
+    "body": [
+      {
+        "h": "Reaching a Major Financial Milestone",
+        "p": [
+          "At the age of 84, iconic musician Sir Paul McCartney has officially achieved billionaire status. According to recent valuations by Forbes, the legendary artist commands a fortune of $1.4 billion.",
+          "This incredible financial milestone places him comfortably as the third-richest musician in the world. He sits just behind global superstar Taylor Swift and hip-hop mogul Jay-Z on the prestigious rich list."
+        ]
+      },
+      {
+        "h": "The Success of MPL Communications",
+        "p": [
+          "The single biggest driver behind McCartney's massive wealth is his publishing company, MPL Communications. Launched back in 1969 just months before the Beatles officially disbanded, the venture accounts for nearly $250 million of his total net worth.",
+          "Establishing the company allowed the musician to retain total control over his solo-career publishing and master recordings. It also ensured he secured a significantly larger cut of ongoing royalties compared to his early days in the industry."
+        ]
+      },
+      {
+        "h": "Overcoming Early Contract Struggles",
+        "p": [
+          "McCartney's early financial experiences with the Beatles were famously restrictive. Their initial 1962 record deal reportedly paid the band less than a penny per album sold, even during the peak of Beatlemania.",
+          "Furthermore, publisher Dick James originally controlled the copyrights to the legendary tunes penned by McCartney, John Lennon, Ringo Starr, and George Harrison. McCartney later famously referred to that initial agreement as a slave contract."
+        ]
+      },
+      {
+        "h": "Expanding Music Copyright Portfolios",
+        "p": [
+          "Beyond his own extensive catalog, MPL Communications acquired the rights to numerous other lucrative musical assets over the years. McCartney strategically snapped up the back catalogue of legendary artist Buddy Holly before industry valuations soared.",
+          "The publishing firm also holds the copyrights to major Broadway musical scores like Grease, Annie, and Guys and Dolls. Additionally, it controls beloved holiday classics such as Baby, It's Cold Outside and It's Beginning to Look a Lot Like Christmas, generating steady revenue from performances and airplay."
+        ]
+      },
+      {
+        "h": "Apple Corps and Continued Touring Revenue",
+        "p": [
+          "Additional streams of income continue to bolster the veteran artist's vast fortune into his eighties. He retains a 25 per cent stake in the Beatles' Apple Corps holding company, which pulls in an impressive $50 million annually from merchandise, vinyl, and streaming.",
+          "McCartney also brings in roughly $10 million every year from his share of Beatles songwriting copyrights, following decades of legal efforts to secure them. Furthermore, he maintains an active live performance schedule, having recently wrapped up his massive 79-date Got Back tour."
+        ]
+      },
+      {
+        "h": "Recent Albums and Cinematic Projects",
+        "p": [
+          "The music legend continues to create new art, releasing his 20th solo studio album titled The Boys Of Dungeon Lane. The retrospective project topped charts in the UK, the Netherlands, Denmark, and Belgium upon its release.",
+          "Meanwhile, his remarkable early years are heading to the silver screen in Sam Mendes' upcoming four-film cinematic event about the Beatles. Paul Mescal is set to portray McCartney, alongside Harris Dickinson as John Lennon, Barry Keoghan as Ringo Starr, and Joseph Quinn as George Harrison."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "At 84 years old, Sir Paul McCartney has officially reached billionaire status with a net worth of $1.4 billion, ranking as the world's third-richest musician behind Taylor Swift and Jay-Z. His immense wealth is anchored by his publishing company MPL Communications, alongside enduring revenues from Beatles copyrights, streaming, and global tours."
+        ]
+      }
+    ],
+    "facts": [
+      "Sir Paul McCartney is 84 years old.",
+      "His net worth is $1.4 billion according to Forbes.",
+      "Taylor Swift is worth $2 billion.",
+      "Jay-Z is worth $2.8 billion.",
+      "MPL Communications was launched in 1969.",
+      "The Beatles' first record deal was signed in 1962.",
+      "Apple Corps generates $50 million every year.",
+      "McCartney makes $10 million per year from Beatles songwriting copyrights.",
+      "He completed the 79-date Got Back tour.",
+      "His 20th solo studio album is The Boys Of Dungeon Lane, released in May.",
+      "Paul Mescal will play McCartney in Sam Mendes' The Beatles – A Four-Film Cinematic Event.",
+      "Harris Dickinson will play John Lennon, Barry Keoghan will play Ringo Starr, and Joseph Quinn will play George Harrison."
+    ],
+    "entities": {
+      "people": [
+        "Sir Paul McCartney",
+        "Taylor Swift",
+        "Jay-Z",
+        "John Lennon",
+        "Ringo Starr",
+        "George Harrison",
+        "Dick James",
+        "Buddy Holly",
+        "Sam Mendes",
+        "Paul Mescal",
+        "Harris Dickinson",
+        "Barry Keoghan",
+        "Joseph Quinn"
+      ],
+      "titles": [
+        "The Boys Of Dungeon Lane",
+        "Grease",
+        "Annie",
+        "Guys and Dolls",
+        "Baby, It's Cold Outside",
+        "It's Beginning to Look a Lot Like Christmas",
+        "The Beatles – A Four-Film Cinematic Event"
+      ]
+    },
+    "keywords": [
+      "Sir Paul McCartney billionaire",
+      "Paul McCartney Forbes net worth",
+      "MPL Communications Paul McCartney",
+      "The Beatles A Four-Film Cinematic Event Paul Mescal"
+    ],
+    "images": [],
+    "published": "2026-11-11T06:59:35Z"
+  },
+  "yt56wm": {
+    "id": "yt56wm",
+    "type": "news",
+    "headline": "Vamshi Paidipally Lauds Salman Khan's Dedication Following Maatrubhumi Trailer Launch",
+    "dek": "Filmmaker Vamshi Paidipally publicly praised Salman Khan's commitment and resilience after the release of the action-packed war drama trailer.",
+    "body": [
+      {
+        "h": "Director Praises Salman Khan",
+        "p": [
+          "Filmmaker Vamshi Paidipally recently took to social media to share an appreciative message directed at superstar Salman Khan. Following the online premiere of the war drama's promotional footage, Paidipally highlighted the immense personal and professional effort the actor poured into the project.",
+          "The director acknowledged that bringing such an intense character to life required weathering substantial challenges. He emphasized that the final video reflects the true determination of the lead actor."
+        ]
+      },
+      {
+        "h": "Acknowledging Personal Pressures",
+        "p": [
+          "Paidipally specifically referenced the extreme stress and hidden sacrifices associated with the challenging production schedule. He commended the superstar for maintaining his fortitude throughout the grueling shoot.",
+          "According to the filmmaker, the project demanded remarkable emotional and physical strength, attributes that ultimately shine brightly in the newly unveiled promotional clips."
+        ]
+      },
+      {
+        "h": "Extending Wishes to the Entire Team",
+        "p": [
+          "The appreciation message went beyond the leading man, as Paidipally made sure to send positive energy to everyone involved in the production. He addressed director Apoorva Lakhia and co-star Chitrangda Singh directly in his public note.",
+          "Wishing the cast and crew immense success, peace, and love, the director expressed confidence in the collaborative effort behind the upcoming cinematic venture."
+        ]
+      },
+      {
+        "h": "Overview of Maatrubhumi's Plot",
+        "p": [
+          "The recently released trailer for Maatrubhumi: May War Rest In Peace sets up a gripping narrative centered on border defense and high-stakes military action. The plot combines gritty battlefield confrontations with the emotional weight carried by soldiers.",
+          "Salman Khan steps into the shoes of an experienced military officer tasked with leading his troops through treacherous conditions while keeping the safety of the country paramount."
+        ]
+      },
+      {
+        "h": "High-Altitude Combat and Border Tensions",
+        "p": [
+          "The promotional footage opens with dramatic visuals of an avalanche on a rugged, high-altitude battlefield before depicting enemy troops mobilizing along the Line of Actual Control. These sequences immediately establish a tense atmosphere of looming conflict.",
+          "Audience members see the protagonist and his fellow servicemen fiercely defending their tactical positions despite the harsh geographical hurdles and aggressive opposition forces."
+        ]
+      },
+      {
+        "h": "Family Dynamics and Supporting Cast",
+        "p": [
+          "Alongside the military engagements, the narrative sheds light on the personal life of the protagonist. Chitrangda Singh portrays the wife of Salman Khan's character, highlighting the constant anxiety and fear families face when loved ones are called to combat.",
+          "Helmed by Apoorva Lakhia, the film brings together a notable cast to explore both the valor of soldiers on the front lines and the quiet sacrifices made at home."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Vamshi Paidipally publicly praised Salman Khan for his dedication and the personal sacrifices he made while working on the upcoming war drama Maatrubhumi. The trailer introduces a high-altitude border conflict directed by Apoorva Lakhia and starring Salman Khan alongside Chitrangda Singh."
+        ]
+      }
+    ],
+    "facts": [
+      "Vamshi Paidipally shared a message for Salman Khan after the trailer of Maatrubhumi: May War Rest In Peace was released.",
+      "The trailer was released on Tuesday, November 11, 2026.",
+      "Apoorva Lakhia is the director of the film.",
+      "Chitrangda Singh stars alongside Salman Khan as his wife in the movie."
+    ],
+    "entities": {
+      "people": [
+        "Vamshi Paidipally",
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Chitrangda Singh"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest In Peace",
+        "SVC63"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi trailer",
+      "Salman Khan Maatrubhumi",
+      "Vamshi Paidipally Salman Khan",
+      "Apoorva Lakhia Chitrangda Singh"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135727999,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vamshi Paidipally Lauds Salman Khan's Dedication Following Maatrubhumi Trailer Launch",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T11:56:04+05:30"
+  },
+  "2nrcag": {
+    "id": "2nrcag",
+    "type": "news",
+    "headline": "British TV Viewers Struggle With Streaming Overload And Choice Fatigue",
+    "dek": "A new report reveals that millions of television viewers across the UK feel overwhelmed by endless choices across multiple apps, platforms, and passwords, leading many to wish for simpler times.",
+    "body": [
+      {
+        "h": "The Burden of Endless Choices",
+        "p": [
+          "A fresh study indicates that British audiences are dealing with severe streaming fatigue, driven by an overwhelming volume of content spread across various apps and channels. The Upper Third Report, which serves as the second annual investigation into national viewing habits commissioned by Great TV, highlights that fifty-one percent of respondents feel swamped by the sheer scale of available entertainment.",
+          "Rather than enjoying the vast library of media at their fingertips, forty percent of viewers admit they burn through more time trying to decide on a programme than actually watching it. This decision paralysis affects individuals across all age brackets, fostering a widespread desire for a simpler era before smartphones and social media dominated daily life."
+        ]
+      },
+      {
+        "h": "Frustration With Multiple Platforms and Passwords",
+        "p": [
+          "Managing multiple streaming subscriptions, disparate channels, and a multitude of passwords has become a significant source of frustration for modern audiences. Over half of the four thousand UK respondents surveyed shared their irritation regarding the logistical hurdles required to access various digital libraries.",
+          "While digital platforms offer unprecedented access, the administrative friction of juggling different interfaces detracts from the viewing experience. This administrative burden contributes heavily to the growing sentiment that modern media consumption has become overly complicated."
+        ]
+      },
+      {
+        "h": "Generational Divides in Viewing Habits",
+        "p": [
+          "The research highlights distinct differences in how various generations engage with television and streaming. Younger demographics report feeling overwhelmed by choice at higher rates, with fifty-six percent of Gen Z and sixty-two percent of Millennials expressing fatigue over what to watch.",
+          "In terms of daily consumption, broadcast television retains a strong foothold among older audiences, with sixty-two percent of Baby Boomers and forty-six percent of Gen X tuning into terrestrial TV daily. Conversely, younger cohorts lean more heavily into daily streaming, though traditional broadcast still holds significant multi-generational value through shared recommendations."
+        ]
+      },
+      {
+        "h": "The Enduring Appeal of Comfort and Nostalgia",
+        "p": [
+          "Faced with endless content libraries, a large portion of viewers frequently default to familiarity rather than taking chances on new releases. More than half of all respondents, and sixty-two percent of Millennials, deliberately select familiar favorites because they offer a comforting viewing experience.",
+          "Nearly half of all surveyed individuals prefer sticking to trusted classics instead of exploring unfamiliar titles. This inclination towards nostalgia reflects a broader psychological pushback against the constant pressure to consume brand-new material."
+        ]
+      },
+      {
+        "h": "Scheduled Broadcasting Versus Binge-Watching",
+        "p": [
+          "Opinions remain evenly divided regarding the benefits of traditional scheduled television compared to modern on-demand binge-watching. Exactly two-fifths of viewers favor shows that air at regular intervals, reminiscent of tuning into weekly broadcasts of older favorites like The X-Files at set times.",
+          "On the other hand, an equal forty percent prefer the flexibility of binge-watching entire seasons in a single sitting, while twenty percent remain undecided. However, a solid majority agrees that appointment television made programmes more conversational and shared among friends and family."
+        ]
+      },
+      {
+        "h": "The Social Value of Shared Viewing Experiences",
+        "p": [
+          "Despite the shift toward individualized streaming, traditional broadcast schedules are still recognized for creating genuine cultural moments. Over half of viewers note that programmes broadcast at fixed times feel much more like shared community events compared to isolated on-demand viewing.",
+          "Furthermore, family bonds are frequently strengthened through television, with the vast majority of Brits considering TV a vital tool for bridging generational gaps. Younger generations frequently discover classic programmes through older relatives, keeping historical media relevant."
+        ]
+      },
+      {
+        "h": "Industry Perspectives on the Return to Simplicity",
+        "p": [
+          "Kate Gartland, Marketing Director at Great, emphasizes that seemingly old-fashioned broadcasting qualities hold massive appeal amid the pressures of modern life. Knowing what one enjoys and prioritizing simplicity can make familiar formats feel remarkably fresh in today's crowded media landscape.",
+          "As platforms multiply alongside passwords and choices, scheduled television continues to prove that it can foster genuine social connections while allowing older programmes to discover entirely new generations of fans."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "A recent survey commissioned by Great TV reveals that over half of British viewers feel overwhelmed by the sheer volume of content available across various streaming apps and channels. This choice fatigue leads many to spend more time browsing than watching, fostering a widespread desire for simpler television habits and comforting, familiar classics."
+        ]
+      }
+    ],
+    "facts": [
+      "51 percent of British viewers feel overwhelmed by the amount of content.",
+      "40 percent of viewers spend more time deciding what to watch than actually watching.",
+      "Great TV is Freeview 34 and includes channels like Great Mystery, Great Action, Great Movies, and Great Christmas.",
+      "47 percent of the nation watch broadcast TV every day compared to 36 percent streaming.",
+      "The average Brit spends three and a half hours watching TV every day.",
+      "52 percent of 4,000 UK respondents find managing multiple streaming channels and passwords frustrating.",
+      "56 percent of Gen Z and 62 percent of Millennials feel overwhelmed by viewing choices.",
+      "29 percent of Boomers and 37 percent of Gen X watch the least daily content on Netflix or equivalents.",
+      "29 percent of Gen Z and 35 percent of Millennials watch terrestrial TV every day.",
+      "46 percent of Gen X and 62 percent of Baby Boomers watch terrestrial TV every day.",
+      "43 percent of Gen Z and 44 percent of Millennials watch streaming shows every day.",
+      "57 percent of viewers select familiar favorites because they are comforting.",
+      "47 percent prefer sticking to a tried and trusted classic.",
+      "40 percent of viewers prefer shows that air at regular intervals.",
+      "40 percent prefer being able to binge-watch shows in one sitting, while 20 percent are undecided.",
+      "43 percent agree that set-time shows made programmes more talkable with friends and family.",
+      "55 percent said broadcasted programmes felt more like a shared cultural event compared to on-demand television."
+    ],
+    "entities": {
+      "people": [
+        "Ciara Farmer",
+        "Gillian Anderson",
+        "David Duchovny",
+        "Kate Gartland"
+      ],
+      "titles": [
+        "Great TV",
+        "Great Mystery",
+        "Great Action",
+        "Great Movies",
+        "Great Christmas",
+        "The X Files",
+        "Radio Times"
+      ]
+    },
+    "keywords": [
+      "Great TV streaming overload report",
+      "British TV viewers overwhelmed by choice",
+      "streaming fatigue UK survey",
+      "return to simpler times TV viewing"
+    ],
+    "images": [],
+    "published": "2026-11-11T06:59:35Z"
   }
 };
