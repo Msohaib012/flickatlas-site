@@ -112056,5 +112056,439 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 01:34:55 +0000"
+  },
+  "7elz9": {
+    "id": "7elz9",
+    "type": "news",
+    "headline": "Suriya Starrer Scene Surpasses ₹178 Crore Globally in Five Days",
+    "dek": "The Tamil action comedy featuring Suriya maintains strong momentum during its opening week, hitting massive box office milestones.",
+    "body": [
+      {
+        "h": "Phenomenal Opening Weekend Performance",
+        "p": [
+          "The newly released Tamil action comedy film Scene has continued its stellar theatrical run, soaring past the ₹178 crore mark in global gross collections within just five days of its premiere. Hitting cinemas on November 6, the movie successfully maintained impressive momentum throughout its initial opening weekend.",
+          "Box office trackers noted that the feature added roughly ₹20 crore to its worldwide earnings on Tuesday alone. This consistent performance underscores strong audience turnout as the title pushes further into its first week on the big screen."
+        ]
+      },
+      {
+        "h": "Breaking Down the First Four Days",
+        "p": [
+          "According to box office data provided by industry analyst Jerin Georgekutty, the film accumulated a massive ₹158.17 crore worldwide across its first four days in theaters. The journey began with a strong ₹41.44 crore on Friday, followed closely by a ₹40.14 crore collection on Saturday.",
+          "The earnings experienced a notable surge on Sunday, climbing to ₹42.92 crore, before settling at ₹33.67 crore on Monday. These figures collectively laid a solid foundation for the feature's swift ascent toward higher financial milestones."
+        ]
+      },
+      {
+        "h": "Day 5 Estimates and Milestone Achieved",
+        "p": [
+          "Early estimates shared on Wednesday morning pointed to an additional gross of ₹19.50 crore to ₹20.50 crore for Day 5. This boost successfully elevated the overall worldwide total beyond the ₹178 crore threshold within the first five days of release.",
+          "The steady influx of numbers highlights sustained viewer interest across various territories as the film enters the latter half of its opening week."
+        ]
+      },
+      {
+        "h": "Advance Bookings and Day 6 Outlook",
+        "p": [
+          "In addition to its gross earnings, the film's pre-sales have shown remarkable strength. Advance booking reports for Wednesday, November 11, indicated that the feature achieved roughly 94% recovery globally even before regular daily screenings commenced.",
+          "This strong advance booking trend suggests stable weekday numbers, giving industry observers a clearer outlook on how the film will perform moving forward."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Tamil Debuts",
+        "p": [
+          "Written and directed by Jithu Madhavan, Scene features Suriya alongside Naslen and Nazriya Nazim in the primary roles. The project also features supporting performances from actors including Anandraj, Lal, and Raj Priyan.",
+          "Notably, the feature marks the Tamil cinema debuts of director Jithu Madhavan, actor Naslen, and music composer Sushin Shyam, expanding their reach into the Tamil film industry."
+        ]
+      },
+      {
+        "h": "Production and Technical Credits",
+        "p": [
+          "The movie has been jointly produced by Suriya and Jyothika under their respective production banners, Zhagaram Studios and 2D Entertainment. Behind the camera, the creative team includes Vineeth Augustian handling cinematography and Ajmal Sabu managing editing duties.",
+          "Audio design and audiography for the project were executed by Vishnu Govind, completing the technical framework of the action comedy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's film Scene crossed ₹178 crore globally within five days of its November 6 release, driven by strong daily collections and robust advance bookings. The Tamil action comedy marks the debut of several key talents and continues a strong theatrical run."
+        ]
+      }
+    ],
+    "facts": [
+      "Scene was released in cinemas on November 6.",
+      "The film crossed ₹178 crore worldwide in five days.",
+      "Day 1 worldwide collection was ₹41.44 crore.",
+      "Day 2 worldwide collection was ₹40.14 crore.",
+      "Day 3 worldwide collection was ₹42.92 crore.",
+      "Day 4 worldwide collection was ₹33.67 crore.",
+      "Total worldwide collection for the first 4 days was ₹158.17 crore.",
+      "Day 5 early estimates added another ₹19.50 crore to ₹20.50 crore.",
+      "Day 6 advance bookings achieved approximately 94% recovery at the worldwide box office.",
+      "Jithu Madhavan is the writer and director of the film."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Jerin Georgekutty",
+        "Jithu Madhavan",
+        "Naslen",
+        "Nazriya Nazim",
+        "Jyothika",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Sushin Shyam",
+        "Vineeth Augustian",
+        "Ajmal Sabu",
+        "Vishnu Govind"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Suriya Scene movie",
+      "Scene box office collection",
+      "Jithu Madhavan Scene",
+      "Scene worldwide collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene-88711794372150.jpg",
+        "caption": "Suriya Starrer Scene Surpasses ₹178 Crore Globally in Five Days",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 10:14:24 +0530"
+  },
+  "ezsurt": {
+    "id": "ezsurt",
+    "type": "news",
+    "headline": "VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday",
+    "dek": "The Season 1 conclusion of VisionQuest features a post-credits sequence hinting at a dramatic return within the Marvel Cinematic Universe.",
+    "body": [
+      {
+        "h": "The Season 1 Finale Delivers Major MCU Surprises",
+        "p": [
+          "The conclusion of VisionQuest Season 1 has left viewers talking about a potentially huge development for the wider Marvel Cinematic Universe. Titled 'Forever', the finale episode dropped significant narrative hints during its closing moments.",
+          "Fans tuning into the streaming series discovered that the storyline ties directly into upcoming cinematic projects, sparking intense speculation across fan communities."
+        ]
+      },
+      {
+        "h": "A Post-Credits Scene Teases Doctor Doom and Scarlet Witch",
+        "p": [
+          "In the post-credits sequence of the Tuesday finale, a hooded figure appearing to be Robert Downey Jr.'s Doctor Doom lifts the rubble of Wundagore.",
+          "Underneath lies Wanda Maximoff, also known as Scarlet Witch, played by Elizabeth Olsen. She had seemingly perished under the collapsing mountain previously in Doctor Strange in the Multiverse of Madness."
+        ]
+      },
+      {
+        "h": "Dialogue Hints at Future Conflicts",
+        "p": [
+          "During this cryptic encounter, the hooded character addresses the fallen witch directly, stating, 'Scarlet Witch, awaken. Your power will be mine.'",
+          "This interaction strongly suggests that the character's journey in the franchise is far from over, paving the way for further confrontations."
+        ]
+      },
+      {
+        "h": "Connections to Avengers: Doomsday",
+        "p": [
+          "The surprising teaser sequence appears to point toward Elizabeth Olsen making her return in Avengers: Doomsday, which is scheduled to premiere in theaters on Dec. 18.",
+          "This follows other major developments in the finale, where Vision, portrayed by Paul Bettany, successfully reunited with their sons Tommy and Billy, played by Ruaridh Mollica and Joe Locke."
+        ]
+      },
+      {
+        "h": "Tracing the Family Reunion Across Series",
+        "p": [
+          "The emotional family reunion in the finale builds upon the continuity established in earlier projects like WandaVision and Agatha All Along.",
+          "Adding to the excitement, Marvel Studios shared a binary code message on social media prior to the episode's release that translated to a familiar sentiment previously spoken by Wanda to her sons."
+        ]
+      },
+      {
+        "h": "Elizabeth Olsen Addresses Potential Return",
+        "p": [
+          "Despite the heavy teasing from the series itself, actress Elizabeth Olsen has previously maintained a stance of complete uncertainty regarding her future in the franchise.",
+          "Speaking in March, she noted that she prefers knowing nothing about upcoming storylines so she cannot accidentally leak or compromise any details in interviews."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Season 1 finale of VisionQuest includes a post-credits sequence featuring a hooded figure appearing to be Robert Downey Jr.'s Doctor Doom interacting with Elizabeth Olsen's Scarlet Witch. This teaser hints at a potential character appearance in Avengers: Doomsday alongside family plot threads continuing from WandaVision."
+        ]
+      }
+    ],
+    "facts": [
+      "VisionQuest Season 1 finale is titled 'Forever'.",
+      "The finale episode aired on a Tuesday in November 2026.",
+      "Avengers: Doomsday premieres in theaters on Dec. 18.",
+      "Elizabeth Olsen previously stated in March that she knows nothing about her potential return.",
+      "Doctor Strange in the Multiverse of Madness was released in 2022.",
+      "WandaVision was released in 2021.",
+      "Agatha All Along was released in 2024."
+    ],
+    "entities": {
+      "people": [
+        "Stacy Keach",
+        "Glenn Garner",
+        "Lucy Hale",
+        "Amanda Seyfried",
+        "Linda Perry",
+        "Paul Bettany",
+        "Robert Downey Jr.",
+        "Elizabeth Olsen",
+        "Ruaridh Mollica",
+        "Joe Locke",
+        "Jason Orley",
+        "Mark Harmon",
+        "Leah McKendrick",
+        "Maddie Ziegler",
+        "David Walliams",
+        "Muse Watson",
+        "Roma Maffia",
+        "Joe Spano",
+        "Donald Trump",
+        "Katy O'Brian"
+      ],
+      "titles": [
+        "Mike Hammer",
+        "Pretty Little Liars",
+        "Let It Die Here",
+        "VisionQuest",
+        "Doctor Strange in the Multiverse of Madness",
+        "Avengers: Doomsday",
+        "WandaVision",
+        "Agatha All Along",
+        "You've Got Mail",
+        "NCIS: Origins",
+        "Voicemails From Isabelle",
+        "Little Britain",
+        "Dancing With The Stars",
+        "60 Minutes",
+        "Girl At The Gym"
+      ]
+    },
+    "keywords": [
+      "VisionQuest",
+      "Avengers Doomsday",
+      "Elizabeth Olsen Scarlet Witch",
+      "Robert Downey Jr Doctor Doom",
+      "VisionQuest finale Forever"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/TCDVISI_G5012.jpg?w=1024",
+        "caption": "VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 04:43:25 +0000"
+  },
+  "1hseyji": {
+    "id": "1hseyji",
+    "type": "news",
+    "headline": "Salman Khan Returns in Action-Packed Trailer for Maatrubhumi: May War Rest In Peace",
+    "dek": "The official trailer for Maatrubhumi: May War Rest In Peace has been released, showcasing Salman Khan in an intense military role alongside Chitrangda Singh in a story centered on patriotism and family sacrifice.",
+    "body": [
+      {
+        "h": "Introduction to the Trailer Release",
+        "p": [
+          "The entertainment industry has received a major update with the official launch of the promotional video for Maatrubhumi: May War Rest In Peace. This upcoming cinematic project features Bollywood superstar Salman Khan taking on a hard-hitting military persona.",
+          "Audiences are given their very first proper look at the narrative, which promises an engaging mix of high-stakes combat sequences and deep emotional resonance."
+        ]
+      },
+      {
+        "h": "Exploring Themes of Duty and Sacrifice",
+        "p": [
+          "At its core, the newly unveiled footage delves heavily into the emotional toll experienced by military personnel and their relatives back home. Every farewell carries the constant, lingering dread that it might be the final one.",
+          "The storyline touches upon the severe human cost of armed conflict, shifting focus away from pure spectacle to highlight the long-lasting grief and uncertainty left in the wake of battle."
+        ]
+      },
+      {
+        "h": "Action Sequences and Visual Spectacle",
+        "p": [
+          "Alongside the poignant dramatic elements, the preview delivers extensive physical combat, featuring visceral hand-to-hand fight choreography and striking backdrops. The production utilizes scenic locations and grand visual styling to elevate the overall aesthetic.",
+          "Even with a generous runtime of roughly 4.5 minutes, the promotional cut maintains a swift momentum, seamlessly blending adrenaline-fueled combat scenes with quiet, character-driven moments."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Cast",
+        "p": [
+          "Salman Khan steps back into a physically demanding, action-oriented role designed to highlight his commanding screen presence. His character's journey forms the backbone of the narrative's exploration of modern warfare.",
+          "Co-starring alongside him is Chitrangda Singh, whose prominent casting adds a necessary layer of dramatic weight and emotional depth to the unfolding plot."
+        ]
+      },
+      {
+        "h": "Creative Leadership Behind the Project",
+        "p": [
+          "The directorial reins for this ambitious undertaking are held by filmmaker Apoorva Lakhia, who steers the pacing and visual tone of the feature. His vision seeks to balance intense warfare with heartfelt storytelling.",
+          "Production responsibilities are managed under the established banner of Salman Khan Films, ensuring major backing and high production standards for the theatrical rollout."
+        ]
+      },
+      {
+        "h": "Audience Anticipation and Market Impact",
+        "p": [
+          "The combination of patriotic themes, established star power, and scale has generated substantial chatter across digital platforms. Industry observers are tracking how these elements build momentum leading up to the theatrical debut.",
+          "With its dual focus on massive action set pieces and domestic vulnerability, the feature is positioning itself as a major event for commercial cinema audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The official trailer for Maatrubhumi: May War Rest In Peace has officially debuted, showcasing Salman Khan in an action-heavy military role alongside Chitrangda Singh. Directed by Apoorva Lakhia and backed by Salman Khan Films, the roughly 4.5-minute preview highlights a narrative balancing patriotism, intense combat, and the emotional sacrifices of military families."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan stars in Maatrubhumi: May War Rest In Peace",
+      "Chitrangda Singh stars in a prominent role in the film",
+      "Apoorva Lakhia is the director of the film",
+      "The film is produced under the banner of Salman Khan Films",
+      "The trailer has a running time of approximately 4.5 minutes"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda Singh",
+        "Apoorva Lakhia",
+        "Ranbir Kapoor",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Maatrubhumi: May War Rest In Peace",
+        "Maatrubhumi"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi May War Rest In Peace",
+      "Salman Khan Maatrubhumi trailer",
+      "Chitrangda Singh Maatrubhumi film",
+      "Apoorva Lakhia director"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-8.33.jpg.jpeg",
+        "caption": "Salman Khan Returns in Action-Packed Trailer for Maatrubhumi: May War Rest In Peace",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 08:44:14 +0200"
+  },
+  "1vi2h7a": {
+    "id": "1vi2h7a",
+    "type": "news",
+    "headline": "Jenna Dewan Sent Packing in Shocking Dancing With the Stars Elimination",
+    "dek": "Season 35 favorite Jenna Dewan and partner Val Chmerkovskiy faced an unexpected exit during Grammy Night.",
+    "body": [
+      {
+        "h": "A Stunning Ballroom Exit",
+        "p": [
+          "The latest installment of Dancing With the Stars delivered a massive shocker as frontrunner Jenna Dewan and her professional partner Val Chmerkovskiy were shown the door during Tuesday's Grammy Night episode. Despite performing consistently well throughout Season 35, the pair landed in seventh place after failing to secure enough support to advance toward the semifinals.",
+          "Reflecting on her journey following the elimination announcement, Dewan expressed profound gratitude for the chance to revisit her passion for dance and share the experience with her family in the audience. She maintained a positive attitude, emphasizing that there were no hard feelings about the unexpected outcome."
+        ]
+      },
+      {
+        "h": "A Full-Circle Tribute to Janet Jackson",
+        "p": [
+          "For her final competitive routine, Dewan teamed up with Chmerkovskiy to execute a dynamic jazz performance set to Janet Jackson's hit track 'All for You'. The choice held deep personal significance for the competitor, who previously worked as a background dancer for Jackson early in her career.",
+          "The judges praised the nostalgic routine, with Derek Hough commending her lasting influence on multiple generations of dancers. Carrie Ann Inaba added that watching the actress tackle the choreography felt especially powerful, earning the partnership a strong score of 28 out of 30."
+        ]
+      },
+      {
+        "h": "Grammy Night Performances Fill the Ballroom",
+        "p": [
+          "The themed episode featured the remaining couples delivering routines dedicated to legendary Grammy-winning and nominated tracks. Connor Wood and Rylee Arnold tackled an Argentine tango to Justin Timberlake's 'SexyBack', while Ezra Frech and Daniella Karagach performed a passionate routine to Beyoncé's 'Crazy in Love (Remix)'.",
+          "Other notable routines included Amber Glenn and Pasha Pashkov bringing theatrical angst to Evanescence's 'Bring Me to Life', and Maura Higgins pushing through a rib injury to execute an Argentine tango alongside Mark Ballas. Tatyana Ali and Harry Shum Jr. also impressed the judges with high-scoring performances honoring iconic music milestones."
+        ]
+      },
+      {
+        "h": "High Stakes and Dance-Off Battles",
+        "p": [
+          "Tuesday's episode reintroduced competitive dance-off rounds where pairs went head-to-head performing identical styles to win bonus points. While Shum Jr. and partner Jenna Johnson enjoyed immunity thanks to their cumulative high scores, other pairs fought fiercely for extra points.",
+          "Glenn and Pashkov triumphed over Frech and Karagach in their rumba battle, while Dewan and Chmerkovskiy secured a victory against Ali and Ravnik during their cha-cha showdown. An additional clash between Wood and Higgins ultimately went to Higgins and Ballas following a spirited contest."
+        ]
+      },
+      {
+        "h": "Competition Heats Up for Remaining Contenders",
+        "p": [
+          "With Dewan's departure, only six couples remain in the running for the Season 35 trophy. The sudden exit follows last week's equally surprising departure of actress Julia Stiles and partner Ezra Sosa, proving that frontrunner status offers no absolute safety in the ballroom.",
+          "As the competition barrels toward its conclusion, remaining participants must continue to impress both the judges and the voting public to survive the upcoming rounds and secure a spot in the grand finale."
+        ]
+      },
+      {
+        "h": "Schedule and Broadcast Details",
+        "p": [
+          "Dancing With the Stars continues its regular broadcast schedule, airing new episodes every Tuesday evening. Viewers can tune in live on ABC and Disney+, or catch up on streaming platforms the following day."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jenna Dewan and Val Chmerkovskiy were eliminated from Dancing With the Stars Season 35 during Grammy Night, marking a surprising exit for the frontrunning pair. The episode featured music-themed routines, special guest performances, and competitive head-to-head dance-offs before narrowing the field down to six remaining couples."
+        ]
+      }
+    ],
+    "facts": [
+      "Jenna Dewan was eliminated on Tuesday's Grammy Night.",
+      "Dewan and Val Chmerkovskiy finished in seventh place for Season 35.",
+      "Dewan and Chmerkovskiy performed a jazz routine to Janet Jackson's 'All for You'.",
+      "Connor Wood and Rylee Arnold performed an Argentine tango to 'SexyBack'.",
+      "Ezra Frech and Daniella Karagach performed an Argentine tango to 'Crazy in Love (Remix)'.",
+      "Amber Glenn and Pasha Pashkov performed a paso doble to 'Bring Me to Life'.",
+      "Maura Higgins and Mark Ballas performed an Argentine tango to 'Thong Song'.",
+      "Tatyana Ali and Jan Ravnik performed a tango to 'Boom Boom Pow'.",
+      "Harry Shum Jr. and Jenna Johnson performed a salsa to 'Die With a Smile'."
+    ],
+    "entities": {
+      "people": [
+        "Jenna Dewan",
+        "Val Chmerkovskiy",
+        "Janet Jackson",
+        "Connor Wood",
+        "Rylee Arnold",
+        "Justin Timberlake",
+        "Timbaland",
+        "Derek Hough",
+        "Ezra Frech",
+        "Daniella Karagach",
+        "Beyoncé",
+        "Carrie Ann Inaba",
+        "Julia Stiles",
+        "Ezra Sosa",
+        "Amber Glenn",
+        "Pasha Pashkov",
+        "Bruno Tonioli",
+        "Maura Higgins",
+        "Mark Ballas",
+        "Sisqó",
+        "Tatyana Ali",
+        "Jan Ravnik",
+        "Harry Shum Jr.",
+        "Jenna Johnson",
+        "Lady Gaga",
+        "Bruno Mars",
+        "Brandy",
+        "Monica",
+        "Zedd",
+        "Maren Morris",
+        "Grey",
+        "Sheryl Crow"
+      ],
+      "titles": [
+        "Dancing With the Stars",
+        "Save the Last Dance"
+      ]
+    },
+    "keywords": [
+      "Jenna Dewan Dancing With the Stars",
+      "DWTS Grammy Night elimination",
+      "Jenna Dewan Val Chmerkovskiy DWTS",
+      "Dancing With the Stars Season 35"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148291760.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Jenna Dewan Sent Packing in Shocking Dancing With the Stars Elimination",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Tue, 10 Nov 2026 22:24:30 -0500"
   }
 };
