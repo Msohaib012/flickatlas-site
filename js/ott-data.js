@@ -482,6 +482,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-06",
+      "date_kind": "release",
+      "id": 341165,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "country": "IN",
       "date": "2026-11-06",
       "date_kind": "digital",
@@ -2187,12 +2199,8 @@ window.FA_OTT = {
       "id": 1315772,
       "providers": [
         {
-          "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
-          "name": "Peacock Premium"
-        },
-        {
-          "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
-          "name": "Peacock Premium Plus"
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"
@@ -2753,6 +2761,10 @@ window.FA_OTT = {
         {
           "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
           "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
@@ -3233,6 +3245,18 @@ window.FA_OTT = {
         {
           "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
           "name": "JioHotstar"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2025-06-27",
+      "date_kind": "release",
+      "id": 1487113,
+      "providers": [
+        {
+          "logo_path": "/1r7E9yOISXYPFN6ZkqtRUeJV1vs.png",
+          "name": "Chaupal Amazon Channel"
         }
       ],
       "type": "movie"

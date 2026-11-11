@@ -111291,5 +111291,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-11T01:53:38Z"
+  },
+  "11f98u6": {
+    "id": "11f98u6",
+    "type": "news",
+    "headline": "Pawan Kalyan and Anna Konidala Announce End of 13-Year Marriage",
+    "dek": "Andhra Pradesh Deputy Chief Minister Pawan Kalyan and his wife Anna Konidala have officially declared their separation, requesting privacy from the public and media.",
+    "body": [
+      {
+        "h": "Official Announcement of Separation",
+        "p": [
+          "Andhra Pradesh Deputy Chief Minister and actor Pawan Kalyan alongside his wife Anna Konidala have officially confirmed the conclusion of their 13-year marriage. The news was shared through an official statement issued by the Jana Sena party on a Monday that coincided with national Diwali festivities. The message conveyed that the decision was arrived at mutually with shared understanding and respect.",
+          "Despite the end of their marital relationship, the couple clarified that they intend to maintain a friendly bond. They also emphasized their ongoing commitment to parenting their children together, stating that the well-being and happiness of their kids remain their primary focus moving forward."
+        ]
+      },
+      {
+        "h": "Appeal for Privacy and Gratitude",
+        "p": [
+          "In their joint statement, the pair addressed their well-wishers and supporters directly. They asked the public and media for kindness, understanding, and strict respect for their personal privacy during this transitional phase in their lives.",
+          "Furthermore, the statement expressed heartfelt appreciation to everyone who has maintained support for them throughout their shared journey. Meanwhile, reports from media outlets like Hindustan Times noted that a divorce petition had been submitted to the Family Court, and Anna Konidala deactivated her newly created Instagram account shortly before the public announcement."
+        ]
+      },
+      {
+        "h": "Background and Family Context",
+        "p": [
+          "Pawan Kalyan is a prominent political figure and actor, recognized also as the younger brother of well-known actors Chiranjeevi and Nagendra Babu. He made his entry into the film industry with his 1996 acting debut in Akkada Ammayi Ikkada Abbayi.",
+          "His marital history includes two prior marriages. He married Nandini in 1997 before their eventual split, and later married actor-model Renu Desai in 2009, with whom he shares children Akira Nandan and Aadhya before separating in 2012."
+        ]
+      },
+      {
+        "h": "Life With Anna Konidala",
+        "p": [
+          "Following his previous relationships, Pawan married Anna, who is of Russian origin, in the year 2013. Together, the former couple shares two children named Polena Anjana Pawanova and Mark Shankar Pawanovich.",
+          "The family faced a significant trial in 2025 when their son Mark Shankar Pawanovich sustained burns and smoke-related injuries during a major school fire incident in Singapore. Pawan traveled abroad at the time to bring him home under secure medical supervision."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Andhra Pradesh Deputy Chief Minister Pawan Kalyan and his wife Anna Konidala have announced their mutual separation after 13 years of marriage through a Jana Sena statement. The couple has requested privacy and understanding from the public while affirming their ongoing commitment to co-parenting."
+        ]
+      }
+    ],
+    "facts": [
+      "Pawan Kalyan and Anna Konidala separated after 13 years of marriage",
+      "The announcement was made on Monday, November 10, 2026",
+      "The statement was issued by Jana Sena",
+      "Anna Konidala deactivated her Instagram account prior to the announcement",
+      "Pawan Kalyan made his acting debut in 1996 with Akkada Ammayi Ikkada Abbayi",
+      "Pawan Kalyan was previously married to Nandini and Renu Desai",
+      "Pawan Kalyan and Anna Konidala have two children, Polena Anjana Pawanova and Mark Shankar Pawanovich"
+    ],
+    "entities": {
+      "people": [
+        "Pawan Kalyan",
+        "Anna Konidala",
+        "Chiranjeevi",
+        "Nagendra Babu",
+        "Nandini",
+        "Renu Desai",
+        "Akira Nandan",
+        "Aadhya",
+        "Polena Anjana Pawanova",
+        "Mark Shankar Pawanovich"
+      ],
+      "titles": [
+        "Akkada Ammayi Ikkada Abbayi"
+      ]
+    },
+    "keywords": [
+      "Pawan Kalyan Anna Konidala",
+      "Pawan Kalyan divorce",
+      "Anna Konidala Instagram",
+      "Jana Sena statement Pawan Kalyan"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156487835,thumbsize-45238,width-1280,height-720,resizemode-75/156487835.jpg",
+        "caption": "Pawan Kalyan and Anna Konidala Announce End of 13-Year Marriage",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T02:52:35Z"
+  },
+  "a5sn9a": {
+    "id": "a5sn9a",
+    "type": "news",
+    "headline": "VisionQuest Star Todd Stashwick Reflects on Emotional Maximoff Family Reunion in Finale",
+    "dek": "The actor who plays Paladin in the Disney+ series discusses what it was like to witness the epic reunion between Vision and the Maximoff twins.",
+    "body": [
+      {
+        "h": "Introduction to the WandaVision Trilogy Finale",
+        "p": [
+          "Marvel Studios officially launched its Phase 4 slate in January 2021 with WandaVision, marking the Marvel Cinematic Universe's first project developed exclusively for Disney+. Centered on Elizabeth Olsen's Wanda Maximoff and Paul Bettany's Vision, the series explored deep themes of grief, trauma, and nostalgia within a magical Hex in Westview, New Jersey. The narrative continued through 2024's Agatha All Along, which was led by Kathryn Hahn's Agatha Harkness, before culminating in its final chapter.",
+          "That trilogy conclusion arrived with VisionQuest, a streaming series bringing back Paul Bettany's android character alongside a grown-up Tommy Maximoff played by Ruaridh Mollica. The final episodes also featured the return of James Spader as Ultron and included a major family reunion as Joe Locke reprised his role as Billy Maximoff from Agatha All Along."
+        ]
+      },
+      {
+        "h": "Todd Stashwick Shares On-Set Reflections",
+        "p": [
+          "Following the broadcast of the epic finale, one of the show's main cast members opened up about the emotional weight of filming those pivotal scenes. Todd Stashwick, who portrays Paladin in VisionQuest, spoke exclusively about watching the reunion between Joe Locke's Billy Maximoff, Ruaridh Mollica's Tommy Maximoff, and Paul Bettany's Vision take shape right in front of him on set.",
+          "As a lifelong comic book fan, Stashwick described the experience as being in 'rarefied air' while observing such significant narrative moments unfold. He noted that being included in the fabric of that specific sequence was particularly special, drawing parallels to his previous work on the final season of Star Trek: Picard."
+        ]
+      },
+      {
+        "h": "A Comic Fan in the Cast",
+        "p": [
+          "Stashwick's appreciation for the material stems from his extensive background as a comic aficionado. Beyond his on-screen acting career, he has contributed as a writer for multiple Marvel and DC video games and worked closely with the late Patrick Stewart during the production of Star Trek: Picard's third season.",
+          "During his interview, the actor visibly lit up when discussing the impact of the sequence. It marked a historic milestone within the overarching narrative, representing the very first time that Vision stood alongside both of his sons as young adults."
+        ]
+      },
+      {
+        "h": "Wanda Maximoff's Unresolved Fate",
+        "p": [
+          "Despite the warmth of the family gathering, a major question lingering among fans is the ultimate fate of Wanda Maximoff. She was notably absent from the emotional conclusion of VisionQuest, leaving viewers to ponder her whereabouts following her apparent demise on Mount Wundagore at the end of Doctor Strange in the Multiverse of Madness.",
+          "Given her immense power levels, a large portion of the fanbase remains convinced that her return to the broader Marvel Cinematic Universe is merely a matter of time, adding an extra layer of mystery to the franchise's ongoing trajectory."
+        ]
+      },
+      {
+        "h": "Potential for Future Team-Ups",
+        "p": [
+          "The emotional reunion also sparks discussions regarding a potential Young Avengers or Champions team-up within the MCU. Such a project would naturally feature both Joe Locke and Ruaridh Mollica reprising their respective roles as the powerful young magic users.",
+          "This development arrives three years after Iman Vellani's Ms. Marvel and Hailee Steinfeld's Kate Bishop crossed paths in the final scene of The Marvels. It also precedes Kathryn Newton's upcoming return as Cassie Lang in Avengers: Doomsday, cementing the next generation's growing footprint in Phase 6."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "VisionQuest star Todd Stashwick recently shared his excitement over filming the emotional finale scene featuring the reunion of Vision and the Maximoff twins, Billy and Tommy. The moment highlights a significant milestone for the characters in Phase 6 of the Marvel Cinematic Universe while leaving fans speculating about Wanda Maximoff's ultimate fate."
+        ]
+      }
+    ],
+    "facts": [
+      "WandaVision debuted on Disney+ in January 2021.",
+      "Agatha All Along was released in 2024.",
+      "VisionQuest features Paul Bettany as Vision, Ruaridh Mollica as Tommy Maximoff, and Joe Locke as Billy Maximoff.",
+      "James Spader returns as Ultron in VisionQuest.",
+      "Todd Stashwick plays Paladin in VisionQuest.",
+      "Doctor Strange in the Multiverse of Madness featured the end of Wanda Maximoff on Mount Wundagore.",
+      "The Marvels featured Iman Vellani and Hailee Steinfeld in 2023."
+    ],
+    "entities": {
+      "people": [
+        "Richard Nebens",
+        "Elizabeth Olsen",
+        "Paul Bettany",
+        "Kathryn Hahn",
+        "Ruaridh Mollica",
+        "James Spader",
+        "Joe Locke",
+        "Todd Stashwick",
+        "Patrick Stewart",
+        "Iman Vellani",
+        "Hailee Steinfeld",
+        "Kathryn Newton"
+      ],
+      "titles": [
+        "WandaVision",
+        "Agatha All Along",
+        "VisionQuest",
+        "Star Trek: Picard",
+        "Doctor Strange in the Multiverse of Madness",
+        "The Marvels",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "VisionQuest series finale",
+      "Todd Stashwick VisionQuest",
+      "Billy and Tommy Maximoff reunion",
+      "Paul Bettany VisionQuest"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/wanda-maximoff-and-vision-watch-tv-while-holding-twin-babies-tommy-and-billy-maximoff-in-wandavision.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "VisionQuest Star Todd Stashwick Reflects on Emotional Maximoff Family Reunion in Finale",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 02:46:16 GMT"
+  },
+  "2nb19v": {
+    "id": "2nb19v",
+    "type": "news",
+    "headline": "Will Ramayana Shatter Dhurandhar The Revenge's First Week Box Office Record? Trade Experts Weigh In",
+    "dek": "Ranveer Singh's Dhurandhar: The Revenge earned Rs 674.17 crore in its first week. Trade experts discuss whether Ranbir Kapoor and Yash's Ramayana: Part 1 can break this massive box office record.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Clash",
+        "p": [
+          "The mythological epic Ramayana: Part 1 has taken the box office by storm, featuring prominent actors like Ranbir Kapoor and Yash in the lead roles. As the film charts its course in theatres, industry watchers are comparing its trajectory against previous heavyweights, specifically Ranveer Singh's Dhurandhar: The Revenge.",
+          "With stellar figures rolling in, conversations have sparked across trade circles regarding whether the new release possesses the muscle to overtake the formidable opening week benchmarks set by its predecessor."
+        ]
+      },
+      {
+        "h": "Ramayana: Part 1 Box Office Breakdown",
+        "p": [
+          "Ramayana: Part 1 launched into cinemas with an opening collection of Rs 67.85 crore. Following a slight dip to Rs 48.05 crore on its second day, the feature witnessed a strong upward spike, pulling in Rs 69.80 crore on day three and Rs 56.15 crore on day four.",
+          "The fifth day proved to be an extraordinary milestone for the Nitesh Tiwari directorial. The film registered a massive Rs 107.50 crore, propelling its total domestic net earnings to a remarkable Rs 346.35 crore in India."
+        ]
+      },
+      {
+        "h": "Analyzing the First Week Record Challenge",
+        "p": [
+          "When evaluating whether Ramayana: Part 1 can surpass Dhurandhar: The Revenge and its Rs 674.17 crore first week record as reported by Sacnilk, trade analysts note the unique challenges faced by the film during its initial days.",
+          "Trade analyst Komal Nahta pointed out that the release had four comparatively dull days at the start spanning Thursday, Friday, Saturday, and Sunday. Despite this, he noted that the momentum picking up now is astonishing."
+        ]
+      },
+      {
+        "h": "Expert Perspectives on Abnormal Trajectories",
+        "p": [
+          "Elaborating on the unique box office path, Komal Nahta emphasized that Ramayana is not a normal film and abnormal things are expected to happen with its collections. He noted that while initial days matter, the final tally is what truly defines a film's success.",
+          "Producer Namit Malhotra reportedly anticipated these dynamics when choosing a pre-Diwali release window. Achieving these figures under such circumstances stands as a notable accomplishment in itself according to the expert."
+        ]
+      },
+      {
+        "h": "The Potential of Holidays and Global Reach",
+        "p": [
+          "Film exhibitor Akshaye Rathi shared similar optimism regarding the intrinsic potential of the Ranbir Kapoor and Yash starrer. He highlighted upcoming festive periods like Bhai Dooj, Govardhan Pooja, and New Year holidays as catalysts for explosive numbers.",
+          "Furthermore, global distributor Sony Pictures has helped expand the film's reach to non-ethnic Indian audiences. This international strategy positions the feature well to potentially outperform Dhurandhar 2 in worldwide gross earnings."
+        ]
+      },
+      {
+        "h": "Scale, Storytelling, and Long-Term Legacy",
+        "p": [
+          "Comparing the two cinematic phenomenons, Akshaye Rathi noted that Dhurandhar 2 benefited from the established euphoria and excitement of its predecessor. In contrast, Ramayana introduces a first-of-its-kind scale, advanced VFX, and storytelling style.",
+          "With plans for subsequent parts in the series, industry observers believe the movie carries the long-term potential to chase down and eventually exceed the lifetime business of Dhurandhar 2, alongside entering the Rs 700 crore worldwide club."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Trade experts are weighing in on whether Ranbir Kapoor and Yash's Ramayana: Part 1 can break the first week box office record of Rs 674.17 crore set by Dhurandhar: The Revenge. Despite a slow start over four days, Ramayana has picked up massive momentum with strong domestic collections and upcoming festive holidays supporting its global run."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranveer Singh's Dhurandhar: The Revenge collected Rs 674.17 crore in the first week.",
+      "Ramayana: Part 1 stars Ranbir Kapoor and Yash in lead roles.",
+      "Ramayana: Part 1 opened at Rs 67.85 crore.",
+      "Ramayana: Part 1 earned Rs 48.05 crore on day two.",
+      "Ramayana: Part 1 earned Rs 69.80 crore on day three.",
+      "Ramayana: Part 1 earned Rs 56.15 crore on day four.",
+      "Ramayana: Part 1 collected Rs 107.50 crore on day five.",
+      "Ramayana: Part 1 total earnings stand at Rs 346.35 crore net in India.",
+      "Ramayana is set to enter the Rs 700 crore club at the worldwide box office."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Komal Nahta",
+        "Namit Malhotra",
+        "Akshaye Rathi"
+      ],
+      "titles": [
+        "Dhurandhar: The Revenge",
+        "Ramayana: Part 1",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1",
+      "Dhurandhar The Revenge",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156488822,thumbsize-1131211,width-1280,height-720,resizemode-75/156488822.jpg",
+        "caption": "Will Ramayana Shatter Dhurandhar The Revenge's First Week Box Office Record? Trade Experts Weigh In",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T02:52:35Z"
+  },
+  "112apuw": {
+    "id": "112apuw",
+    "type": "news",
+    "headline": "Does Marvel's VisionQuest Have A Post-Credits Scene? A Spoiler-Free Guide",
+    "dek": "Everything you need to know about whether you should stay seated when the credits start rolling on the Marvel Cinematic Universe series finale.",
+    "body": [
+      {
+        "h": "The End Of An Era",
+        "p": [
+          "The conclusion of a trilogy that originally launched in the year 2020 has finally arrived for fans of superhero television. This narrative arc, often referred to as the WandaVision trilogy, stands as a cornerstone of the broader Multiverse Saga within the Marvel Cinematic Universe.",
+          "Centering heavily on the complex dynamic between Wanda Maximoff and Vision alongside their surrounding characters, the final chapter wraps up storylines that have captivated audiences for years."
+        ]
+      },
+      {
+        "h": "Familiar Faces Return",
+        "p": [
+          "Paul Bettany steps back into the spotlight to reprise his iconic role as Vision for what appears to be a final adventure. Joining him is James Spader, making a notable return as Ultron over a decade after his previous appearance in the franchise.",
+          "The series has spent its run answering burning questions about how characters like Ultron managed to return, while also clearing up major plot holes left behind by earlier cinematic outings."
+        ]
+      },
+      {
+        "h": "The MCU Credits Tradition",
+        "p": [
+          "Marvel Studios has built a strong reputation for inserting tags and extra sequences during or after the credits of both theatrical films and television shows. While some of these stingers have been monumental, such as the introduction of Thanos, others served lighter purposes.",
+          "Given this history, viewers naturally wonder whether they need to stay put once the finale concludes or if it is safe to turn off the screen."
+        ]
+      },
+      {
+        "h": "To Stay Or Not To Stay",
+        "p": [
+          "For those wondering whether the finale includes a bonus sequence, the answer is yes. The final episode features a single post-credits scene that audiences should definitely make a point to watch.",
+          "Rather than functioning as a mere throwaway joke, this inclusion provides a meaningful button on the events that took place throughout the course of the narrative."
+        ]
+      },
+      {
+        "h": "Connecting To WandaVision",
+        "p": [
+          "This approach mirrors the predecessor to the series, WandaVision, which also featured a notable post-credits scene during its run. Given that this project serves as the grand finale to a multi-year trilogy, continuing the tradition feels entirely appropriate.",
+          "The creative team carried a heavy burden in wrapping up a character arc that dates back to the earliest days of the cinematic universe while balancing high narrative ambitions."
+        ]
+      },
+      {
+        "h": "Behind The Scenes And Cast",
+        "p": [
+          "A talented team of directors steered the episodes of the series, including Christopher J. Byrne, Gandja Monteiro, Vincenzo Natali, and Terry Matalas. The expansive ensemble features Ruaridh Mollica as Tommy Maximoff, Todd Stashwick as Paladin, T'Nia Miller as Jocasta, and Lauren Morais as Lisa Molinari.",
+          "Additional cast members include Orla Brady, Diane Morgan, Polly Frame, Henry Lewis, Jonathan Sayer, Emily Hampshire, and James D'Arcy. The entire series is currently available for streaming on Disney+."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The finale of VisionQuest includes a single post-credits scene that viewers should watch to properly conclude the series. The show marks the end of a trilogy that began in 2020 and features the return of Paul Bettany and James Spader."
+        ]
+      }
+    ],
+    "facts": [
+      "The series conclusion arrived in November 2026.",
+      "Paul Bettany reprises his role as Vision.",
+      "James Spader returns as Ultron after more than a decade.",
+      "The show is streaming now on Disney+."
+    ],
+    "entities": {
+      "people": [
+        "Ryan Scott",
+        "Paul Bettany",
+        "James Spader",
+        "Wanda Maximoff",
+        "Christopher J. Byrne",
+        "Gandja Monteiro",
+        "Vincenzo Natali",
+        "Terry Matalas",
+        "Ruaridh Mollica",
+        "Todd Stashwick",
+        "T'Nia Miller",
+        "Lauren Morais",
+        "Orla Brady",
+        "Diane Morgan",
+        "Polly Frame",
+        "Henry Lewis",
+        "Jonathan Sayer",
+        "Emily Hampshire",
+        "James D'Arcy"
+      ],
+      "titles": [
+        "VisionQuest",
+        "WandaVision",
+        "Avengers: Age of Ultron",
+        "The Avengers"
+      ]
+    },
+    "keywords": [
+      "VisionQuest post credits scene",
+      "Marvel VisionQuest finale",
+      "Paul Bettany VisionQuest",
+      "VisionQuest Disney plus"
+    ],
+    "images": [
+      {
+        "url": "https://www.slashfilm.com/img/gallery/does-marvels-visionquest-have-a-post-credits-scene-a-spoiler-free-guide/l-intro-1793812524.jpg",
+        "caption": "Does Marvel's VisionQuest Have A Post-Credits Scene? A Spoiler-Free Guide",
+        "source": "SlashFilm"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 02:00:00 +0000"
   }
 };

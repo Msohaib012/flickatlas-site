@@ -9171,15 +9171,9 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
-        "name": "Peacock Premium",
-        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "Peacock Premium Plus",
-        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
-        "region": "US",
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ],
@@ -9256,6 +9250,12 @@ window.FA_PUBLISHED = {
       {
         "name": "Amazon Prime Video",
         "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -18031,7 +18031,14 @@ window.FA_PUBLISHED = {
     "spoken_languages": [],
     "published_at": "2026-11-06",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-06",
     "popularity": 3.2691
   },
@@ -22403,7 +22410,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-09",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Chaupal Amazon Channel",
+        "logo_path": "/1r7E9yOISXYPFN6ZkqtRUeJV1vs.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2025-06-27",
     "popularity": 1.3308
   },

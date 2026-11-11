@@ -14583,15 +14583,9 @@ window.FA_PUBLISHED = {
     "runtime": 90,
     "providers": [
       {
-        "name": "Peacock Premium",
-        "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
-        "region": "US",
-        "type": "flatrate"
-      },
-      {
-        "name": "Peacock Premium Plus",
-        "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
-        "region": "US",
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
         "type": "flatrate"
       }
     ]
@@ -14705,6 +14699,12 @@ window.FA_PUBLISHED = {
       {
         "name": "Amazon Prime Video",
         "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
         "region": "IN",
         "type": "flatrate"
       }
@@ -28520,7 +28520,14 @@ window.FA_PUBLISHED = {
       }
     ],
     "created_by": [],
-    "providers": []
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1795121": {
     "id": 1795121,
@@ -35281,7 +35288,14 @@ window.FA_PUBLISHED = {
     "release_date": "2025-06-27",
     "date_kind": "release",
     "runtime": 133,
-    "providers": []
+    "providers": [
+      {
+        "name": "Chaupal Amazon Channel",
+        "logo_path": "/1r7E9yOISXYPFN6ZkqtRUeJV1vs.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
   },
   "1796445": {
     "id": 1796445,
