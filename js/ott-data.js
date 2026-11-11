@@ -3,27 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "IN",
-      "date": "2026-11-11",
-      "date_kind": "digital",
-      "id": 1755818,
-      "providers": [
-        {
-          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
-          "name": "Zee5"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "BR",
-      "date": "2026-11-11",
-      "date_kind": "digital",
-      "id": 1153576,
-      "providers": [],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
       "date": "2026-11-12",
       "date_kind": "digital",
       "id": 1234139,
@@ -153,6 +132,27 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "IN",
+      "date": "2026-11-11",
+      "date_kind": "digital",
+      "id": 1755818,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "BR",
+      "date": "2026-11-11",
+      "date_kind": "digital",
+      "id": 1153576,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "country": "US",
       "date": "2026-11-10",

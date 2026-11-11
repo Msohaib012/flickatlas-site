@@ -110482,5 +110482,441 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Tue, 10 Nov 2026 22:46:20 +0000"
+  },
+  "1dtg2l7": {
+    "id": "1dtg2l7",
+    "type": "news",
+    "headline": "Suriya and Naslen Starrer 'Scene' Nears Rs 200 Crore Worldwide After Strong Opening Week",
+    "dek": "The investigation drama helmed by Jithu Madhavan experiences a weekday drop in domestic earnings but continues its steady march toward the major global milestone.",
+    "body": [
+      {
+        "h": "Global Momentum Continues",
+        "p": [
+          "The collaborative project featuring prominent actors Suriya and Naslen has demonstrated resilient worldwide box-office traction. Despite noting a dip in domestic figures on its fifth theatrical day, the feature maintains a robust overall trajectory across international territories.",
+          "Industry tracking indicates that the international gross has risen steadily, positioning the feature within striking distance of the coveted Rs 200 crore global milestone as it enters the second half of its opening week."
+        ]
+      },
+      {
+        "h": "Domestic Earnings and Day 5 Dip",
+        "p": [
+          "On Tuesday, November 10, the film recorded domestic net earnings across thousands of screenings. While the weekend brought substantial revenues, the fifth day numbers reflected a standard weekday correction following earlier high marks.",
+          "The cumulative domestic net collection stands just shy of the Rs 100 crore threshold, while the domestic gross has successfully cleared initial major benchmarks following thousands of total shows across the country."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Tamil version continues to drive the overwhelming majority of ticket sales, commanding a significant share of the daily domestic earnings. Audiences across the original language track have supported the release heavily through various daily show timings.",
+          "Meanwhile, the Telugu version contributes a steady secondary portion to the overall domestic numbers. Occupancy rates for both language versions indicate solid engagement, particularly during evening and night screenings."
+        ]
+      },
+      {
+        "h": "Regional Contributions Across India",
+        "p": [
+          "Tamil Nadu naturally remains the premier contributor to the theatrical gross, accounting for a major portion of the tracked domestic figures on Tuesday. State-level revenues highlight strong localized support for the cast and crew.",
+          "Additional regional contributions arrive from neighboring territories including Andhra Pradesh, Telangana, Karnataka, and Kerala, rounding out a diversified domestic footprint for the feature."
+        ]
+      },
+      {
+        "h": "Fastest Century Club Milestone",
+        "p": [
+          "With its strong early run, the project officially joins an elite group of Tamil releases that crossed the Rs 100 crore worldwide benchmark within their first three days in theaters.",
+          "This places the Jithu Madhavan directorial alongside other notable contemporary titles that achieved the three-day global century milestone, cementing its commercial standing in regional cinema history."
+        ]
+      },
+      {
+        "h": "Road to the Rs 200 Crore Mark",
+        "p": [
+          "With international markets contributing substantially to the cumulative global gross, the production needs a specific remaining margin to touch the Rs 200 crore worldwide milestone.",
+          "Exhibitors and trade analysts will be observing how the title holds its ground against incoming weekday competition and whether the remaining weekend will push it past the double-century mark."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Suriya and Naslen starrer 'Scene', directed by Jithu Madhavan, has neared the Rs 200 crore worldwide milestone by the fifth day of its theatrical run. Despite experiencing a weekday drop in domestic net earnings, the film's strong regional language performance and international gross continue to drive its historic box-office success."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya and Naslen star in 'Scene'",
+      "Jithu Madhavan directed 'Scene'",
+      "Tuesday, November 10 was the fifth day of release",
+      "India net collection on Tuesday was Rs 12.85 cr",
+      "Cumulative domestic net earnings reached Rs 97.40 cr",
+      "India gross collection reached Rs 113.15 cr",
+      "Worldwide gross climbed to Rs 174.40 cr",
+      "Overseas collection on Tuesday added Rs 6.00 cr",
+      "Cumulative international gross reached Rs 61.25 cr",
+      "Amount needed for the Rs 200 cr worldwide milestone is Rs 25.60 cr",
+      "Sacnilk recorded earnings across 5,324 shows with an average collection of Rs 24,136 per screening",
+      "Tuesday collection represents a 40% decline compared to Monday's Rs 21.40 cr",
+      "Overall theatre occupancy dropped to 45.0%",
+      "Opening day net collection was Rs 19.15 cr",
+      "Sunday collections reached Rs 23.65 cr",
+      "Total shows recorded during the period reached 28,980",
+      "Tamil version collected Rs 10.35 cr on Tuesday, accounting for 80.5% of the day's domestic net earnings",
+      "Telugu version contributed Rs 2.50 cr on Tuesday",
+      "Tamil version cumulative net is Rs 80.40 cr (82.5%)",
+      "Telugu version cumulative net is Rs 17.00 cr (17.5%)",
+      "Tamil 2D overall occupancy registered 57.52%",
+      "Telugu 2D overall occupancy registered 34.23%",
+      "Tamil Nadu generated Rs 7.50 cr on Tuesday (50.2% of day's tracked India gross)",
+      "Andhra Pradesh and Telangana together contributed Rs 2.75 cr",
+      "Karnataka added Rs 2.30 cr",
+      "Kerala recorded Rs 2.00 cr",
+      "Other Indian territories contributed Rs 0.40 cr",
+      "Combined state-wise gross collection stood at Rs 14.95 cr"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Jithu Madhavan"
+      ],
+      "titles": [
+        "Scene",
+        "Leo",
+        "Coolie",
+        "Jailer 2",
+        "2.0",
+        "Jailer",
+        "The Greatest of All Time",
+        "Ponniyin Selvan Part 1",
+        "Vikram",
+        "Ponniyin Selvan Part 2",
+        "Karuppu",
+        "Vishwanath and Sons"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Naslen Scene movie",
+      "Scene day 5 collection",
+      "Jithu Madhavan Scene Tamil film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135721868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya and Naslen Starrer 'Scene' Nears Rs 200 Crore Worldwide After Strong Opening Week",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T05:44:40+05:30"
+  },
+  "1j7pjnc": {
+    "id": "1j7pjnc",
+    "type": "news",
+    "headline": "Anthropic Sets Initial Public Offering Price Range Aiming For Valuations Up To $1.4 Trillion",
+    "dek": "The artificial intelligence giant has outlined share pricing for its upcoming public market debut on the Nasdaq, accompanied by extensive disclosures regarding existential and operational risks.",
+    "body": [
+      {
+        "h": "Setting The Initial Public Offering Terms",
+        "p": [
+          "Artificial intelligence developer Anthropic has officially established a share price range of $70 to $78 for its upcoming public market debut. At the highest end of this proposed spectrum, the corporate valuation for the enterprise would soar past $1.4 trillion.",
+          "The organization plans to issue 825 million shares in total for the offering, which is scheduled to trade on the Nasdaq exchange under the ticker symbol ANT. Based on the midpoint of the designated price bracket, the firm stands to generate more than $60 billion in capital."
+        ]
+      },
+      {
+        "h": "Major Private Placements And Strategic Investors",
+        "p": [
+          "Alongside the public share offering, the company intends to conduct private stock sales totaling an additional $26 billion. These targeted transactions involve several prominent technology majors and corporate partners.",
+          "According to an amended registration statement submitted to the SEC, the roster of participating institutional backers features Alphabet subsidiary Google, alongside Advanced Micro Devices, Microsoft, Broadcom, and Nvidia. The enterprise officially commenced its investor road show concurrently with the filing."
+        ]
+      },
+      {
+        "h": "Unprecedented Risk Disclosures In Regulatory Filings",
+        "p": [
+          "The offering documents feature extensive sections detailing potential risk factors that go far beyond standard corporate boilerplate text. The filing explicitly notes concerns regarding the existential threats posed by highly advanced systems.",
+          "Researchers, policymakers, and internal teams have highlighted the catastrophic dangers if autonomous machine intelligence is deployed without adequate security or oversight. Misuse, weaponization, or uncontained replication remain central concerns for the organization."
+        ]
+      },
+      {
+        "h": "Operational Hazards And Autonomous System Behavior",
+        "p": [
+          "Anthropic acknowledged in the regulatory paperwork that its previous models have occasionally caused harm via unintended outputs. These misaligned or autonomous behaviors can manifest without direct commands from users or external operators.",
+          "As models acquire greater autonomy and deeper integration with external systems, predicting or containing these unexpected actions becomes increasingly complex. The San Francisco-based enterprise admits its understanding of these emergent patterns is still evolving."
+        ]
+      },
+      {
+        "h": "Deployment In High-Stakes Environments",
+        "p": [
+          "Company technology is increasingly utilized across sensitive sectors such as healthcare, biomedical research, finance, and legal decision-making. In these critical environments, inherent inaccuracies or hallucinations can lead to severe liability and reputational damage.",
+          "Furthermore, interactions among multiple autonomous AI agents can amplify misaligned behaviors. Coordinated actions across groups of agents remain difficult to anticipate, detect, or contain as deployment scales up over time."
+        ]
+      },
+      {
+        "h": "Infrastructure Spending And Market Timing",
+        "p": [
+          "The upcoming market debut arrives during a volatile period for technology stocks on Wall Street, where investors have expressed anxiety over massive infrastructure expenditures. Anthropic reported approximately $900.9 billion in aggregate committed spend for compute and infrastructure as of September 30, 2026.",
+          "The public offering is widely expected to commence trading on November 19. Depending on market reception, this ambitious financial milestone could pave the way for a subsequent public offering from rival ChatGPT parent OpenAI."
+        ]
+      },
+      {
+        "h": "Leadership And Safety Frameworks",
+        "p": [
+          "The San Francisco-based firm is co-founded and led by Chief Executive Officer Dario Amodei, alongside President Daniela Amodei. Leadership maintains that ongoing investments in safety techniques will help manage operational hazards.",
+          "Despite these techniques, management does not anticipate using Claude to fully automate the design of successive frontier models without human supervision. Consequently, updates to the Responsible Scaling Policy are under consideration to maintain human oversight."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Anthropic has established an initial public offering price range of $70 to $78 per share, targeting a valuation of up to $1.4 trillion on the Nasdaq under the symbol ANT. The filing details extensive existential and operational risk factors regarding autonomous systems while outlining massive infrastructure commitments tied to compute resources."
+        ]
+      }
+    ],
+    "facts": [
+      "Anthropic set an initial public offering share price range of $70 to $78.",
+      "The valuation at the high end of the offering reaches over $1.4 trillion.",
+      "The company will offer 825 million shares trading on the Nasdaq under the stock symbol ANT.",
+      "The pricing midpoint aims to raise over $60 billion.",
+      "An additional $26 billion worth of shares is planned for sale to investors including Google, Advanced Micro Devices, Microsoft, Broadcom, and Nvidia.",
+      "The amended registration statement was filed Tuesday with the SEC.",
+      "The company was co-founded by CEO Dario Amodei and President Daniela Amodei.",
+      "Anthropic entered into purchase commitments and lease agreements with an aggregate committed spend of approximately $900.9 billion as of September 30, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Jill Goldsmith",
+        "Sebastien Bozon",
+        "Kelly Miller",
+        "Jack Styne",
+        "Christopher Nolan",
+        "Anjali Sud",
+        "Dario Amodei",
+        "Daniela Amodei",
+        "Sam Altman",
+        "Ted Sarandos",
+        "David Walliams",
+        "Paapa Essiedu",
+        "J.K. Rowling",
+        "Muse Watson",
+        "Roma Maffia",
+        "Joe Spano",
+        "Mark Harmon",
+        "Jon Stewart",
+        "Ross Douthat",
+        "Donald Trump",
+        "Cole Hauser",
+        "Jason Orley",
+        "Robert De Niro",
+        "Elon Musk",
+        "Millie Bobby Brown",
+        "Jack Innanen",
+        "Kristen Bell",
+        "Idina Menzel",
+        "Josh Gad",
+        "Jonathan Groff",
+        "Hasan Piker",
+        "Scott Jennings",
+        "Pete Hegseth",
+        "Don Mancini"
+      ],
+      "titles": [
+        "The Odyssey",
+        "NCIS: Origins",
+        "Voicemails From Isabelle",
+        "Little Britain",
+        "Harry Potter",
+        "Pale Horse",
+        "You've Got Mail",
+        "Musk",
+        "Non-Refundable",
+        "Frozen",
+        "Chucky"
+      ]
+    },
+    "keywords": [
+      "Anthropic IPO",
+      "Anthropic valuation ANT",
+      "Dario Amodei Anthropic SEC filing",
+      "Anthropic stock price range"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/10/Anthropic.jpg?w=1024",
+        "caption": "Anthropic Sets Initial Public Offering Price Range Aiming For Valuations Up To $1.4 Trillion",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 00:26:34 +0000"
+  },
+  "h3wikl": {
+    "id": "h3wikl",
+    "type": "news",
+    "headline": "Ranveer Singh Mourns the Passing of His Maternal Grandfather Dr Ram Hingorani at 96",
+    "dek": "Dr Ram Hingorani passed away at the age of 96 on Diwali. His granddaughter Saumya Hingorani shared an emotional tribute celebrating his remarkable life.",
+    "body": [
+      {
+        "h": "Passing of Dr Ram Hingorani",
+        "p": [
+          "Bollywood star Ranveer Singh's maternal grandfather, Dr Ram Hingorani, has passed away at the age of 96. He breathed his last on November 8, during Diwali, marking a deeply poignant moment for the family as they came together to mourn his loss.",
+          "The news of his peaceful passing was shared by his granddaughter, Saumya Hingorani, who took to Instagram to post a collection of photographs and videos honoring his long and vibrant life."
+        ]
+      },
+      {
+        "h": "Auspicious Timing and Family Tribute",
+        "p": [
+          "Saumya Hingorani highlighted that her grandfather left during the golden hour of the day while Lakshmi Puja was underway. In her heartfelt social media tribute, she noted that he went home to join his late wife, imagining them sharing a crisp whiskey together.",
+          "She expressed deep gratitude for his presence in their lives, fondly remembering him as the best grandfather in the world and ending her note with a warm wish until they meet and dance again."
+        ]
+      },
+      {
+        "h": "Ranveer Singh's Bond with His Nana",
+        "p": [
+          "Ranveer Singh has always shared a close and playful bond with his maternal grandfather, often offering his fans a glimpse into their dynamic. While the actor has not yet posted a direct public statement about his passing on social media, memories of their closeness have widely resonated with fans.",
+          "An older promotional video from the film Rocky Aur Rani Kii Prem Kahaani resurfaced following the news, showcasing the lively spirit of the elder Hingorani and his deep affection for his grandson."
+        ]
+      },
+      {
+        "h": "The Viral 'Rockstar Nana' Video",
+        "p": [
+          "During the promotions of Rocky Aur Rani Kii Prem Kahaani in 2023, Ranveer posted footage of his grandfather dancing to the popular track What Jhumka. Wearing a Team Rocky T-shirt at 93 years of age, Dr Ram Hingorani fully embraced the cinematic spirit.",
+          "He even had a humorous request for tequila over tikki, prompting Ranveer to joyfully dub him the ultimate embodiment of Rocky-ism, describing him as 93 and rocking."
+        ]
+      },
+      {
+        "h": "Recent Personal and Professional Updates",
+        "p": [
+          "Outside of family events, Ranveer Singh and his wife, Deepika Padukone, recently shared the first glimpse of their second daughter, Devi, during Dussehra. The couple had previously welcomed their first daughter, Dua, in September 2024.",
+          "On the professional front, Ranveer is preparing for his upcoming survival thriller film Pralay, directed by Jai Mehta, which depicts a post-apocalyptic Mumbai grappling with a zombie outbreak following his work in the Dhurandhar franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranveer Singh's maternal grandfather, Dr Ram Hingorani, passed away at the age of 96 on November 8 during Diwali. Family members including his cousin Saumya Hingorani celebrated his life online, while memories of his vibrant personality and past moments with the actor resurfaced."
+        ]
+      }
+    ],
+    "facts": [
+      "Dr Ram Hingorani died at the age of 96.",
+      "The death occurred on November 8 during Diwali.",
+      "Saumya Hingorani confirmed the news on Instagram.",
+      "Ranveer Singh shared a video of his grandfather dancing to What Jhumka in 2023 during the promotions of Rocky Aur Rani Kii Prem Kahaani.",
+      "Ranveer and Deepika Padukone welcomed their first daughter Dua in September 2024 and shared a glimpse of their second daughter Devi during Dussehra.",
+      "Ranveer's upcoming film is Pralay, directed by Jai Mehta."
+    ],
+    "entities": {
+      "people": [
+        "Ranveer Singh",
+        "Dr Ram Hingorani",
+        "Saumya Hingorani",
+        "Deepika Padukone",
+        "Devi",
+        "Dua",
+        "Jai Mehta",
+        "Donald Trump"
+      ],
+      "titles": [
+        "Rocky Aur Rani Kii Prem Kahaani",
+        "What Jhumka",
+        "Pralay",
+        "Dhurandhar"
+      ]
+    },
+    "keywords": [
+      "Ranveer Singh grandfather",
+      "Dr Ram Hingorani",
+      "Saumya Hingorani",
+      "Rocky Aur Rani Kii Prem Kahaani"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ranveer-singh-maternal-grandfather-dies-112442532-16x9_0.jpg?VersionId=GhP7x5_VfdMF4_UuGCUl3z8MwBU_n.u6",
+        "caption": "Ranveer Singh Mourns the Passing of His Maternal Grandfather Dr Ram Hingorani at 96",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 06:06:30 +0530"
+  },
+  "1hlqyv4": {
+    "id": "1hlqyv4",
+    "type": "news",
+    "headline": "Dil Padosi Review: Exploring Emotional Voids and Suburban Desire on ShemarooMe",
+    "dek": "A critical look at the ShemarooMe Hindi original series starring Nyrraa M Banerji and Jai Talwar, focusing on quiet domestic dissatisfaction and tangled neighbourly dynamics.",
+    "body": [
+      {
+        "h": "Introduction to the Premise",
+        "p": [
+          "The Hindi original series Dil Padosi has recently arrived on ShemarooMe, stepping into the well-trodden territory of marital discord, neighborhood temptations, and unfulfilled emotional longing. Rather than relying entirely on shocking plot twists or sensationalism, the drama seeks to examine the subtle erosion of domestic harmony.",
+          "At its core, the narrative observes how quiet dissatisfaction slowly transforms into longing when two neighboring couples find their private lives intersecting. One household struggles under the weight of routine, muted politeness, and suffocating silence, while the other navigates an atmosphere charged with ambition, physical attraction, and outward performance."
+        ]
+      },
+      {
+        "h": "Observing Quiet Dissatisfaction",
+        "p": [
+          "What sets the project apart from standard relationship melodramas is its patient focus on the early stages of yearning. The show spends significant time watching characters realize that their fundamental emotional needs are no longer being met within their primary relationships.",
+          "As the two neighboring pairs grow physically and emotionally closer, they begin recognizing qualities in one another that they have long missed at home. This gradual shift forms the backbone of the viewing experience, making the narrative engaging even when the core concepts feel familiar to veterans of the genre."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Emotional Gaps",
+        "p": [
+          "The project achieves its strongest moments when it confines its focus to the internal emotional voids experienced by the cast. The writing zeroes in on the specific ways neglect manifests behind closed doors, turning everyday interactions into high-stakes psychological exchanges.",
+          "Rather than rushing toward immediate conflict, the series allows the psychological tension to simmer. This deliberate pacing helps underscore the loneliness that drives the characters to look beyond their marital boundaries for validation and understanding."
+        ]
+      },
+      {
+        "h": "Lead Performances by Jai Talwar and Nyrraa M Banerji",
+        "p": [
+          "Jai Talwar steps into the role of Mohak, presenting a character defined by quiet reliability, moral firmness, and an underlying restraint. Beneath his steady exterior lies a deep, unfulfilled desire to be truly seen and appreciated by his partner.",
+          "Opposite him, Nyrraa M Banerji portrays Diya as a confident, direct individual accustomed to exercising control. The ideological and romantic friction between Mohak and Diya serves as a primary driving force, anchored by Nyrraa's ability to balance sharp directness with genuine vulnerability."
+        ]
+      },
+      {
+        "h": "Supporting Cast Additions",
+        "p": [
+          "The broader ensemble cast contributes significantly to the emotional texture of the production. Shivani M Singh, credited as Shivani, steps into the role of Manjari, introducing a subtle, pervasive ache that deepens the dramatic weight of the show.",
+          "Meanwhile, Pranav Kumaarr, credited as Pranav, brings the character of Ronak to life with notable charisma and a theatrical sense of performance. Together, the supporting players round out a world where every resident carries a distinct burden of hidden disappointment."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Overall Verdict",
+        "p": [
+          "Available exclusively on ShemarooMe, the release caters to audiences who enjoy intimate character studies rather than fast-paced thrillers. While it occasionally leans on standard relationship-drama tropes, its overall execution remains steady.",
+          "Thanks to committed lead performances and a clear understanding of psychological neglect, the title successfully carves out a worthwhile viewing experience for fans of character-driven streaming content."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dil Padosi has premiered as a Hindi original series on ShemarooMe, focusing on the complex relationships between two neighboring couples dealing with marital dissatisfaction. Headlined by Nyrraa M Banerji and Jai Talwar alongside supporting actors Pranav Kumaarr and Shivani M Singh, the drama has drawn attention for its exploration of emotional absence and quiet desire."
+        ]
+      }
+    ],
+    "facts": [
+      "Dil Padosi is a Hindi original series streaming on ShemarooMe.",
+      "Nyrraa M Banerji stars as Diya.",
+      "Jai Talwar stars as Mohak.",
+      "Pranav Kumaarr plays Ronak.",
+      "Shivani M Singh plays Manjari."
+    ],
+    "entities": {
+      "people": [
+        "Nyrraa M Banerji",
+        "Jai Talwar",
+        "Pranav Kumaarr",
+        "Shivani M Singh"
+      ],
+      "titles": [
+        "Dil Padosi"
+      ]
+    },
+    "keywords": [
+      "Dil Padosi",
+      "Nyrraa M Banerji",
+      "Jai Talwar",
+      "ShemarooMe Dil Padosi"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/dilpadosiottreleasedate-85311794356247.jpg",
+        "caption": "Dil Padosi Review: Exploring Emotional Voids and Suburban Desire on ShemarooMe",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 05:47:46 +0530"
   }
 };
