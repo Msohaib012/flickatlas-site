@@ -116459,5 +116459,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 13:03:06 +0000"
+  },
+  "fmyv29": {
+    "id": "fmyv29",
+    "type": "news",
+    "headline": "Ramayana Enters Oscars Race As Makers Submit Ranbir Kapoor and Yash-Led Epic For Academy Awards Consideration",
+    "dek": "The Nitesh Tiwari directorial Ramayana: Part 1 has been submitted for consideration at the 99th Academy Awards following its massive global box office success.",
+    "body": [
+      {
+        "h": "Oscars Submission Announced",
+        "p": [
+          "The creators of the mythological drama Ramayana: Part 1 have officially entered the film into contention for the 99th Academy Awards. This significant move follows closely after the announcement that the Marathi film Gondhal serves as India's official entry for the International Feature Film category.",
+          "Reports indicate that the producers have put forward this latest cinematic adaptation of the ancient Indian epic for consideration by the Academy, expanding its presence beyond domestic and international theatrical runs."
+        ]
+      },
+      {
+        "h": "Box Office Records And Global Numbers",
+        "p": [
+          "Released in cinemas worldwide globally on November 5, the big-budget feature has been creating massive waves at the box office. Within just six days of its theatrical debut, the film successfully crossed the Rs 800 crore milestone in worldwide gross collections.",
+          "The robust commercial performance includes a substantial contribution from overseas markets, where the Ranbir Kapoor, Sai Pallavi, and Yash-led epic managed to collect nearly Rs 300 crore."
+        ]
+      },
+      {
+        "h": "Cast And Creative Team",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the movie features a screenplay co-written by Tiwari alongside Shridhar Raghavan. Production duties are handled jointly by Namit Malhotra and Yash.",
+          "The ensemble cast brings together prominent actors including Ranbir Kapoor as Lord Rama, Yash as Ravana, and Sai Pallavi as Goddess Sita. Other key cast members featured in pivotal roles are Sunny Deol, Ravie Dubey, Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Arun Govil, and Lara Dutta."
+        ]
+      },
+      {
+        "h": "Supporting Ensemble And Characters",
+        "p": [
+          "Beyond the primary leads, the epic production boasts a diverse supporting lineup. Actors such as Kunal Kapoor, Adinath Kothare, Indira Krishnan, and Ajinkya Deo portray significant characters in the narrative.",
+          "The extensive star cast also includes Sheeba Chaddha, Shobana, and Faisal Malik, rounding out the large-scale adaptation's diverse array of performances."
+        ]
+      },
+      {
+        "h": "Critical Reception And Audience Response",
+        "p": [
+          "The film opened to favorable notices from reviewers, receiving a 4.5 star rating from Bollywood Bubble. The publication praised the visual grandeur, recommending IMAX in 3D as the ideal format for viewers.",
+          "Reviewers encouraged audiences to experience the theatrical release with family and friends, noting that the cinematic spectacle makes for an engaging holiday watch."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of the Nitesh Tiwari-directed Ramayana: Part 1 have submitted the film for consideration at the 99th Academy Awards. Starring Ranbir Kapoor, Sai Pallavi, and Yash, the epic crossed Rs 800 crore globally in six days and released in theatres on November 5."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana - Part 1 was submitted for consideration at the 99th Academy Awards.",
+      "Gondhal is India's official Oscars entry in the International Feature Film category.",
+      "The film is directed by Nitesh Tiwari.",
+      "Ramayana: Part 1 released globally in theatres on November 5.",
+      "The film grossed over Rs 800 crore globally in 6 days.",
+      "The overseas collection reached nearly Rs 300 crore within 6 days."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Lara Dutta",
+        "Shridhar Raghavan",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana - Part 1",
+        "Gondhal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 film",
+      "Ranbir Kapoor Ramayana movie",
+      "Ramayana Oscars submission",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Ranbir-Kapoors-Ramayana-Enters-Oscars-Race.webp",
+        "caption": "Ramayana Enters Oscars Race As Makers Submit Ranbir Kapoor and Yash-Led Epic For Academy Awards Consideration",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 14:39:07 +0000"
+  },
+  "19d8u6y": {
+    "id": "19d8u6y",
+    "type": "news",
+    "headline": "Nicholas Hoult's New Heist Thriller Deemed One Of The Year's Biggest Surprises In First Reactions",
+    "dek": "First reactions are now in for How to Rob a Bank, with critics praising the action, innovation, and social media spin on classic heist tropes ahead of its November 13, 2026 release.",
+    "body": [
+      {
+        "h": "Initial Reactions Surface",
+        "p": [
+          "First reactions to the new heist thriller How to Rob a Bank have arrived, generating significant buzz among early viewers. Critics and reviewers have begun sharing their thoughts on the film, pointing to it as a major highlight in the cinematic landscape of 2026.",
+          "The early praise highlights a strong positive reception leading up to the movie's official theatrical rollout. Many have singled out the project as an unexpected delight that defies standard genre expectations."
+        ]
+      },
+      {
+        "h": "Plot And Character Dynamics",
+        "p": [
+          "The narrative follows a crew of bank robbers led by Ryan, a character portrayed by Nicholas Hoult. Instead of conducting traditional robberies in secret, the group chooses to livestream their heists and distribute the stolen funds to the public.",
+          "These criminal acts are driven by deep personal motivations, prompting a police investigation aided by a former thief named Emi, played by Anna Sawai. The dynamic between the characters adds layers of tension to the high-stakes operations."
+        ]
+      },
+      {
+        "h": "Direction And Creative Vision",
+        "p": [
+          "How to Rob a Bank is directed by David Leitch, whose previous work includes action features like Bullet Train and The Fall Guy. Reviewers noted that Leitch brings his signature kinetic energy to the project through fast-paced sequences.",
+          "Commentators described the film as a modern digital-age spin on classic tropes, drawing comparisons to a social-media-driven generation of fast-paced action franchises. Some even likened its thematic blend to Point Break meeting The Big Short."
+        ]
+      },
+      {
+        "h": "Cast Performances And Standouts",
+        "p": [
+          "Nicholas Hoult earned considerable acclaim for his compelling lead performance as Ryan, with some reviewers calling him a generational movie star. Alongside Hoult, the film features performances from Anna Sawai, Pete Davidson, and a buddy cop dynamic featuring John C. Reilly and Zoë Kravitz.",
+          "Several critics highlighted Pete Davidson and Anna Sawai as standout performers who added substantial emotional weight and memorable energy to the overall cinematic experience."
+        ]
+      },
+      {
+        "h": "Thematic Elements And Social Commentary",
+        "p": [
+          "Beyond the practical stunts and shootouts, the movie tackles contemporary societal issues and digital culture. Reviewers observed that the story addresses themes of viral fame, systemic inequality, and modern vigilante justice akin to a Robin Hood tale for the TikTok generation.",
+          "Some critics praised its surprising messaging regarding capitalist frustrations, while others felt the narrative occasionally leaned into tired genre clichés during its latter half."
+        ]
+      },
+      {
+        "h": "Mixed Critique And Genre Tropes",
+        "p": [
+          "Despite widespread enthusiasm for its style and energy, not all feedback was entirely unreserved. A few reviewers noted that character writing suffered in places, leading the second half of the film to rely heavily on predictable heist tropes.",
+          "Despite minor complaints regarding plotting and underdeveloped characters, the general consensus points to a stylish, high-octane thrill ride that leaves a strong lasting impression."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "First reactions for the upcoming heist thriller How to Rob a Bank have praised its high-octane action, social media spin, and strong performances from a cast led by Nicholas Hoult. Directed by David Leitch, the film is scheduled for theatrical release on November 13, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Nicholas Hoult portrays Ryan, the leader of a group of bank robbers.",
+      "Anna Sawai plays a former thief named Emi who helps police investigate the heists.",
+      "David Leitch directed the film, with past credits including Bullet Train and The Fall Guy.",
+      "The film is scheduled for theatrical release on November 13, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Nicholas Hoult",
+        "Anna Sawai",
+        "David Leitch",
+        "Hunter Bolding",
+        "Junior Felix",
+        "Christopher Rates",
+        "Phil Roberts",
+        "Jonathan Sim",
+        "Lewis Powell",
+        "Darren Movie Reviews",
+        "Jeremy Kazieva",
+        "Gavin Spoors",
+        "Paul Klein",
+        "Doug Jones",
+        "Pete Davidson",
+        "John C. Reilly",
+        "Zoë Kravitz"
+      ],
+      "titles": [
+        "How to Rob a Bank",
+        "Bullet Train",
+        "The Fall Guy",
+        "Fast The Furious",
+        "Point Break",
+        "The Big Short"
+      ]
+    },
+    "keywords": [
+      "How to Rob a Bank film",
+      "Nicholas Hoult How to Rob a Bank",
+      "David Leitch heist thriller",
+      "How to Rob a Bank release date"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/nicholas-hoult-in-a-wolf-mask-and-police-uniform-in-how-to-rob-a-bank.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Nicholas Hoult's New Heist Thriller Deemed One Of The Year's Biggest Surprises In First Reactions",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 14:19:21 GMT"
+  },
+  "hj1997": {
+    "id": "hj1997",
+    "type": "news",
+    "headline": "Mani Ratnam's Romance Film 'Inji Vellam' Starring Vijay Sethupathi and Sai Pallavi Sets January 29 Release Date",
+    "dek": "Director Mani Ratnam is returning to the romance genre with Inji Vellam, featuring Vijay Sethupathi and Sai Pallavi alongside an AR Rahman musical score, slated to hit theatres on January 29.",
+    "body": [
+      {
+        "h": "Release Date Announcement",
+        "p": [
+          "Director Mani Ratnam's upcoming romantic film, Inji Vellam, has officially locked its theatrical release date for January 29. The makers revealed the premiere date alongside the movie's first look, generating excitement among fans of the director and the lead cast.",
+          "The newly unveiled promotional material features a motion poster showcasing lead actors Vijay Sethupathi and Sai Pallavi. The visuals suggest the actors will be portraying a married couple, accompanied by a set of twins who appear to play their daughters."
+        ]
+      },
+      {
+        "h": "Return to Romance and Creative Team",
+        "p": [
+          "Inji Vellam marks acclaimed filmmaker Mani Ratnam's return to the romantic genre. The project also represents his 19th creative collaboration with legendary music composer AR Rahman, whose musical score is expected to be a major highlight of the production.",
+          "Mani Ratnam has written the screenplay and is producing the project under his Madras Talkies banner alongside Siva Ananth. Subaskaran serves as a producer under the Lyca Productions banner, continuing his association with Ratnam following Thug Life."
+        ]
+      },
+      {
+        "h": "Cast Additions and Crew",
+        "p": [
+          "Alongside Vijay Sethupathi and Sai Pallavi, actor Chaithra J Achar has joined the ensemble cast of Inji Vellam. Achar expressed her excitement about the project on social media following the official announcement.",
+          "The technical crew assembled for the film includes cinematographer Avik Mukhopadhyay, editor Sreekar Prasad, art director Sharmishta Roy, and action choreographer Dhilip Subbarayan."
+        ]
+      },
+      {
+        "h": "Streaming and Music Rights",
+        "p": [
+          "Major platforms have already secured the post-theatrical and audio rights for the romantic venture. Netflix has acquired the digital streaming rights for Inji Vellam.",
+          "Meanwhile, Sony Music has officially secured the music rights for the film, ensuring the soundtrack will be widely available to listeners following its release."
+        ]
+      },
+      {
+        "h": "Upcoming Projects for the Lead Actors",
+        "p": [
+          "Lead actor Vijay Sethupathi has a busy schedule ahead with multiple films in various stages of production. He is set to appear in Mysskin's Train and Thiagarajan Kumararaja's Pocket Novel.",
+          "Co-star Sai Pallavi is currently riding on the success of Ramayana: Rise of a Legend and has an upcoming release in Rajkumar Periyasamy's Om – Chapter 1: Udhiram – The Blood Wood."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mani Ratnam's upcoming romantic film Inji Vellam, starring Vijay Sethupathi and Sai Pallavi, is scheduled for a theatrical release on January 29. The project features music by AR Rahman, with streaming rights acquired by Netflix and music rights secured by Sony Music."
+        ]
+      }
+    ],
+    "facts": [
+      "Inji Vellam releases in theatres on January 29",
+      "The film stars Vijay Sethupathi and Sai Pallavi",
+      "Mani Ratnam is the director and writer",
+      "AR Rahman is the music composer",
+      "Netflix acquired streaming rights and Sony Music secured music rights",
+      "Chaithra J Achar is part of the cast"
+    ],
+    "entities": {
+      "people": [
+        "Mani Ratnam",
+        "Vijay Sethupathi",
+        "Sai Pallavi",
+        "AR Rahman",
+        "Chaithra J Achar",
+        "Siva Ananth",
+        "Subaskaran",
+        "Avik Mukhopadhyay",
+        "Sreekar Prasad",
+        "Sharmishta Roy",
+        "Dhilip Subbarayan",
+        "Mysskin",
+        "Thiagarajan Kumararaja",
+        "Rajkumar Periyasamy",
+        "Dhanush"
+      ],
+      "titles": [
+        "Inji Vellam",
+        "418",
+        "Thug Life",
+        "Meesaya Murukku 2",
+        "Train",
+        "Pocket Novel",
+        "Ramayana: Rise of a Legend",
+        "Om – Chapter 1: Udhiram – The Blood Wood",
+        "Amaran",
+        "Maari 2"
+      ]
+    },
+    "keywords": [
+      "Inji Vellam film",
+      "Mani Ratnam Inji Vellam",
+      "Vijay Sethupathi Sai Pallavi",
+      "Inji Vellam release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/inji-vellam-112427317-16x9_0.png?VersionId=3cgDIxBQb9YUVCwhoCKHiC3Thj9cW1eW",
+        "caption": "Mani Ratnam's Romance Film 'Inji Vellam' Starring Vijay Sethupathi and Sai Pallavi Sets January 29 Release Date",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 20:15:30 +0530"
+  },
+  "zmyq80": {
+    "id": "zmyq80",
+    "type": "news",
+    "headline": "Missing Baby Rescued Alive From Underground Dog Crate in South Carolina Woods",
+    "dek": "An eleven-month-old infant was miraculously pulled alive from a shallow grave in the woods after enduring over twenty-four hours trapped inside a buried dog crate.",
+    "body": [
+      {
+        "h": "The Disappearance",
+        "p": [
+          "A frantic search unfolded in South Carolina after an eleven-month-old infant boy named Koah Sharpe vanished from his home. The child had been left in the care of his father, Michael Comer, while the infant's mother was away at work on a Monday morning. When a family friend arrived at the residence and found the property completely empty, alarm bells were immediately raised.",
+          "Law enforcement officials responded quickly to the missing person report, entering the house to find the baby's personal belongings left behind. With no sign of the infant or the father, authorities escalated the situation, triggering a massive search operation involving a large contingent of local responders and emergency personnel."
+        ]
+      },
+      {
+        "h": "The Intensive Search Operation",
+        "p": [
+          "A sizable search party comprising roughly one hundred police officers, firefighters, and local officials scoured the surrounding area. The search eventually focused on a heavily wooded tract located near Michael Comer's residence, where responders noticed signs of recently disturbed earth that prompted a closer inspection.",
+          "The grueling effort paid off on Tuesday afternoon at approximately 1:30 PM, when searchers uncovered the grim reality hidden beneath the soil. Hearing cries emanating from the ground, they located the infant buried in a shallow pit."
+        ]
+      },
+      {
+        "h": "The Miraculous Discovery",
+        "p": [
+          "Buried deep underneath the fresh dirt was a wire dog crate enclosing the crying eleven-month-old boy. Lexington County Sheriff Bryan 'Jay' Koon described the intense urgency of the moment, noting that authorities understood they were in a desperate race against time to save the infant.",
+          "Remarkably, the baby managed to survive in the underground enclosure for more than twenty-four hours. Investigators believe that a towel draped over the top of the wire crate played a crucial role in keeping the child alive by supplying just enough breathable air to sustain him through the ordeal."
+        ]
+      },
+      {
+        "h": "Family and Official Reactions",
+        "p": [
+          "The shocking nature of the crime sent waves of disbelief through the community and deeply impacted the suspect's own family. Patricia Comer, the mother of Michael Comer, expressed her utter condemnation of the incident, publicly characterizing the alleged actions as pure evil.",
+          "Law enforcement leaders emphasized the miraculous nature of the rescue given the extreme conditions the infant endured. The collaborative effort of the hundred-person search team ultimately prevented a complete tragedy from unfolding in the South Carolina woods."
+        ]
+      },
+      {
+        "h": "Legal Status and Arrest",
+        "p": [
+          "Following the recovery of the child, the father, Michael Comer, was taken into custody by local authorities. While he faced initial charges stemming from a separate incident—specifically burglary and resisting arrest—the local solicitor's office had not yet filed formal charges related to the baby's disappearance.",
+          "The investigation remains active as local authorities continue to examine the circumstances surrounding the abduction and the subsequent burial of the infant in the wooded area."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An eleven-month-old baby boy named Koah Sharpe was found alive after being buried in a dog crate in a South Carolina wooded area. The infant's father, Michael Comer, was arrested following the disappearance, while local authorities and family members expressed shock over the incident."
+        ]
+      }
+    ],
+    "facts": [
+      "Koah Sharpe is an 11-month-old baby boy.",
+      "The incident occurred in South Carolina on Monday and Tuesday.",
+      "Michael Comer is the father of the baby.",
+      "Patricia Comer is the mother of Michael Comer.",
+      "A search party of 100 cops, firefighters, and officials looked for the child.",
+      "The baby was found on Tuesday at around 1:30 PM.",
+      "Bryan Jay Koon is the Lexington County Sheriff."
+    ],
+    "entities": {
+      "people": [
+        "Koah Sharpe",
+        "Michael Comer",
+        "Bryan Jay Koon",
+        "Patricia Comer"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Koah Sharpe missing baby",
+      "Michael Comer arrest",
+      "Lexington County baby found in woods",
+      "South Carolina buried baby"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/2d/16by9/2026/11/11/2d4c9946ed3549f5a27daa927963ff22_xl.png",
+        "caption": "Missing Baby Rescued Alive From Underground Dog Crate in South Carolina Woods",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-11T06:14:53-08:00"
   }
 };

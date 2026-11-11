@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T15:51:47Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": {
-     "candidates": 540,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Kerala Box Office Collection Day 6 Prediction: Ranbir Kapoor-Yash's Film Beats Dhurandhar 2 Record",
-      "Scene Karnataka Box Office Collection Day 5 Prediction: Suriya's Film Nears ₹12 Cr, Set To Enter Profit Zone",
-      "Bigg Boss 20 Episode 66 OTT Release Time Today: Arishfa-Love Fight; When Will New Ep Premiere On JioHotstar",
-      "Sandra Bullock’s 90s Movie Became A Cult Classic Despite Earning Just $51 Million At The Box Office For 3 Reasons",
-      "After Tiger Shroff's gunfire incident, Mumbai Police issues security advisory to actors",
-      "'Ramayana' actor Indira's reacts to Sai's fight sequence: 'Never saw Sita as warrior'",
-      "Saba reveals why mom Sharmila converted to Islam when she married Tiger Pataudi",
-      "Karan Johar STANDS BY newlyweds Rashmika - Vijay after 'KWK 9' trolling",
-      "In 2001, Paul McCartney started Adopt-A-Minefield campaign to promote complete eradication of landmines",
-      "Atlee gives a glowing review to Suriya's Scene, calls film a refreshing commercial entertainer; says Naslen is superstar in the making",
-      "Mahabharat's Nitish Bharadwaj takes U-turn after Oscar prediction for Ramayana",
-      "Simu Liu’s Out Here Working Out Shirtless For Marvel (And Trolling SNL’s Shane Gillis In The Process)",
-      "I Just Learned A Ben Affleck Batman Movie Led Jennifer Garner To One Fond Marriage Memory",
-      "Jimmy Kimmel (Apparently) Has A ‘Peanut-Sized Brain’ According To Latest White House Correspondence",
-      "Amanda Seyfried Confessed The Dropout Cast Hassled Her About Elizabeth Holmes’ Doc (Before Anyone Saw The Twist)",
-      "I Totally Called Why Survivor 51’s Kristin Freed Those Grubs (Despite Online Criticism)",
-      "Chris Pratt Lost Chuck To Zachary Levi. Years Later, Jurassic World Gave Him A Full-Circle Moment",
-      "Club Kid's My Favorite Movie This Year (So Far), And I'm Obsessed With Its Take On Gay Nightlife",
-      "‘Heated Rivalry’ Officially Beats ‘Street Fighter’ in One Surprising Box Office Metric",
-      "‘MobLand’ Meets ‘Ocean’s Eleven’ in Apple TV’s 8-Part Heist Thriller That Reinvents the Genre"
-     ],
-     "updated": [],
-     "count": 495,
-     "detail": "505 stories, 1 duplicates removed, 35 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-10T16:51:55Z",
     "run_id": "42858670966",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "388 stories, 2 duplicates removed, 27 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-10T15:56:29Z",
-    "run_id": "42848575164",
+    "run_at": "2026-11-11T14:51:48Z",
+    "run_id": "43042384120",
     "status": "success",
     "checked": {
-     "candidates": 9,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 346,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
-      "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
-      "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
-      "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From"
+      "KWK S9: Sidharth Recalls His First Reaction To Kiara's Second Pregnancy: This Time Even We Were Surprised",
+      "Bhogi Release Postponed: Makers Promise New Release Date Soon For Sharwanand's Film",
+      "Sidharth Malhotra-Aditya Dhar To Team Up? Karan Johar Reveals About Their Film That Was Meant to Happen",
+      "‘Siddhu10’: Siddhu Jonnalagadda teams up with debutant director for new love story",
+      "Roshan Meka to star in Pan-India superhero film with Indraganti Mohanakrishna",
+      "Arshdeep Singh announces engagement to Samreen Kaur with heartfelt note",
+      "Kiara Advani reveals she and Sidharth Malhotra broke up during Shershaah shoot as she found him 'very hot and cold'",
+      "Mani Ratnam's Inji Vellam starring Vijay Sethupathi, Sai Pallavi gets release date",
+      "First pics: Anirudh-Kavya Maran get married in Greece, Rajinikanth and others attend",
+      "When Goddess Sita became Mahakali to save Lord Rama: The story of Sahasra Ravana",
+      "Ramayana Enters Oscars Race; Makers Submit Ranbir Kapoor, Yash-Led Epic For Academy Awards Consideration",
+      "Florence Pugh Wore One More Perfect East Of Eden Dress For A Cover, And It’s Not To Be Missed",
+      "As A DWTS Newbie, I Didn't Realize How Important Fan Votes Were Until That Shocking Exit",
+      "Now That James Gunn's DC Universe Might Be Cooked, I Have A Suggestion",
+      "The Only Two Places Survivor Is Not Allowed To Film Castaways On The Island",
+      "Fans Are Naming Great TV Shows With One Bad Character, & Buffy Isn’t The Only Classic Coming Up",
+      "Sylvester Stallone Officially Ends His 20-Year Rivalry With Arnold Schwarzenegger",
+      "‘Boston Blue’ Officially Brings In a ‘CSI’ Legend This Friday",
+      "Harry Potter Officially Abandons ‘Sorcerer’s Stone’ After 28 Years",
+      "How to Rob a Bank Review: Nicholas Hoult’s Fun Heist Movie"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 325,
+     "detail": "334 stories, 0 duplicates removed, 12 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1490,27 +1467,32 @@
      "detail": "+4 articles, +1 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-11T14:52:48Z",
+    "run_id": "43042384120",
+    "status": "success",
+    "checked": {
+     "candidates": 8,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Enters Oscars Race As Makers Submit Ranbir Kapoor and Yash-Led Epic For Academy Awards Consideration",
+      "Nicholas Hoult's New Heist Thriller Deemed One Of The Year's Biggest Surprises In First Reactions",
+      "Mani Ratnam's Romance Film 'Inji Vellam' Starring Vijay Sethupathi and Sai Pallavi Sets January 29 Release Date",
+      "Missing Baby Rescued Alive From Underground Dog Crate in South Carolina Woods"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-10T18:09:43Z",
-    "run_id": "42871867022",
-    "status": "success",
-    "checked": {
-     "candidates": 297,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 282, coming 15"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1924,30 +1906,27 @@
      "detail": "now 286, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-11T14:52:48Z",
+    "run_id": "43042384120",
+    "status": "success",
+    "checked": {
+     "candidates": 299,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 286, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-10T15:58:46Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "ve32nm",
-      "1rudn53",
-      "1755t76"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2430,27 +2409,26 @@
      "count": 6
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T15:58:43Z",
-    "run_id": "42848575164",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-11T14:56:25Z",
+    "run_id": "43042384120",
     "status": "success",
     "checked": {
-     "candidates": 641,
-     "detail": "630 collected staging rows from readers; 221 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 629 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2864,19 +2842,27 @@
      "detail": "+0 new rows, 3 updated rows, 635 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T14:56:23Z",
+    "run_id": "43042384120",
+    "status": "success",
+    "checked": {
+     "candidates": 648,
+     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 635 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3113,35 +3099,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-10T15:58:46Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
-      "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
-      "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From",
-      "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
-      "Izzat Episode 52 — Watch Online on ARY Digital",
-      "Khushi Episode 59 — Watch Online on HUM TV",
-      "Dastoor Episode 81 — Watch Online on Green TV"
-     ],
-     "updated": [],
-     "count": 7,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3674,34 +3644,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-10T15:55:10Z",
-    "run_id": "42848575164",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-11T14:56:24Z",
+    "run_id": "43042384120",
     "status": "success",
     "checked": {
-     "candidates": 18,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 7 new detected"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Izzat Ep 52",
-      "Khushi Ep 59",
-      "Dastoor Ep 81"
+      "Mani Ratnam's Romance Film 'Inji Vellam' Starring Vijay Sethupathi and Sai Pallavi Sets January 29 Release Date",
+      "Ramayana Enters Oscars Race As Makers Submit Ranbir Kapoor and Yash-Led Epic For Academy Awards Consideration",
+      "Nicholas Hoult's New Heist Thriller Deemed One Of The Year's Biggest Surprises In First Reactions",
+      "Missing Baby Rescued Alive From Underground Dog Crate in South Carolina Woods"
      ],
-     "updated": [
-      "Khushi Ep 59",
-      "Dastoor Ep 81",
-      "Izzat Ep 52"
-     ],
-     "count": 6
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3958,19 +3926,19 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4291,31 +4259,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-10T15:56:28Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 495 still unprocessed; today by category: movies 9/6, tv_dramas 8/4, episodes 1/2, box_office 15/6, celebrities_events 16/5, upcoming_releases 1/4, ott_streaming 5/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Part 1 Surpasses Dhurandhar 2 in Kerala with Record-Breaking Six-Day Collections",
-      "Benito Skinner Returns for Spring Semester in 'Overcompensating' Season 2",
-      "Mahabharat Star Nitish Bharadwaj Reverses Stance on Nitesh Tiwari's Ramayana",
-      "CIA Season 2 Episode 6 Recap: Bill Goodman Crosses a Line He Cannot Return From"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4821,26 +4777,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-11T14:52:48Z",
+    "run_id": "43042384120",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 325 still unprocessed; today by category: movies 7/6, tv_dramas 10/4, episodes 1/2, box_office 11/6, celebrities_events 11/5, upcoming_releases 5/4, ott_streaming 9/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Enters Oscars Race As Makers Submit Ranbir Kapoor and Yash-Led Epic For Academy Awards Consideration",
+      "Nicholas Hoult's New Heist Thriller Deemed One Of The Year's Biggest Surprises In First Reactions",
+      "Mani Ratnam's Romance Film 'Inji Vellam' Starring Vijay Sethupathi and Sai Pallavi Sets January 29 Release Date",
+      "Missing Baby Rescued Alive From Underground Dog Crate in South Carolina Woods"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-10T15:57:55Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5147,24 +5108,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-11T14:54:16Z",
+    "run_id": "43042384120",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 529,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5509,24 +5472,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 382,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5821,19 +5784,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6083,19 +6051,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6330,19 +6298,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6626,19 +6594,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6879,19 +6847,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7121,19 +7089,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7386,30 +7354,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-09T17:58:46Z",
-    "run_id": "42668521013",
-    "status": "success",
-    "checked": {
-     "candidates": 520,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 48; attempt cooldown deferred: 428"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7896,19 +7853,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-11T14:53:05Z",
+    "run_id": "43042384120",
+    "status": "success",
+    "checked": {
+     "candidates": 532,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 519"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8148,19 +8116,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-10T15:58:55Z",
-    "run_id": "42848575164",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8410,8 +8378,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-11T14:56:35Z",
+    "run_id": "43042384120",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-11T13:57:48Z"
+ "updated_at": "2026-11-11T14:56:35Z"
 }
