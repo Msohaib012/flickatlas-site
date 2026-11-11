@@ -81788,10 +81788,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Bigg Boss 20 episode 63",
-      "ScoutOP Love Gill Gaurav Gupta",
-      "Kaashvi Hiranandani Bigg Boss",
-      "Salman Khan Bigg Boss 20"
+      "Bigg Boss 20 Episode 63 ScoutOP Love Gill Gaurav Gupta",
+      "Salman Khan Bigg Boss 20 Kaashvi joke",
+      "Bigg Boss 20 ScoutOP Gaurav Gupta clash",
+      "Bigg Boss 20 JioHotstar watch-time hours"
     ],
     "images": [
       {
@@ -82180,10 +82180,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "James Bond casting",
-      "Robert Pattinson James Bond",
-      "Nicholas Hoult 007",
-      "Denis Villeneuve James Bond film"
+      "Robert Pattinson Nicholas Hoult James Bond Franchise Reboot",
+      "Robert Pattinson James Bond screen test",
+      "Nicholas Hoult James Bond 007",
+      "Denis Villeneuve James Bond franchise reboot"
     ],
     "images": [
       {
@@ -82278,10 +82278,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Emmerdale Lisa Riley Christmas episode",
-      "Emmerdale Harewood set planning permission",
-      "Patsy Kensit Sadie King Emmerdale",
-      "Emmerdale holiday storyline"
+      "Emmerdale Lisa Riley Festive Episode Shock",
+      "Lisa Riley Emmerdale holiday episode twist",
+      "Emmerdale Mandy Dingle Lisa Riley",
+      "Emmerdale exterior village set Harewood"
     ],
     "images": [
       {
@@ -82370,10 +82370,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film music",
-      "Namit Malhotra Hans Zimmer AR Rahman",
-      "Ramayana Nitesh Tiwari Ranbir Kapoor Yash",
-      "Ramayana Rise of a Legend"
+      "Namit Malhotra Hans Zimmer AR Rahman Ramayana",
+      "Hans Zimmer AR Rahman Ramayana collaboration",
+      "Namit Malhotra producer Ramayana",
+      "Ramayana Hans Zimmer AR Rahman music"
     ],
     "images": [
       {
@@ -82470,10 +82470,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Godzilla Minus Zero",
-      "Godzilla Minus Zero box office",
-      "Takashi Yamazaki",
-      "Godzilla Minus One"
+      "Godzilla Minus Zero Historic US Opening Day",
+      "Takashi Yamazaki Godzilla Minus Zero box office",
+      "Godzilla Minus Zero US opening",
+      "Godzilla Minus Zero Friday haul"
     ],
     "images": [
       {
@@ -82562,10 +82562,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Diljit Dosanjh Indore concert",
-      "Aura India Tour dates",
-      "Diljit Dosanjh bomb threat",
-      "Diljit Dosanjh Latin Grammys"
+      "Diljit Dosanjh Indore Concert Security Threats",
+      "Diljit Dosanjh Aura India Tour Indore",
+      "Diljit Dosanjh Indore concert C21 Estate",
+      "Diljit Dosanjh November 15 concert"
     ],
     "images": [
       {
@@ -82639,10 +82639,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Christopher Nolan",
-      "The Odyssey",
-      "DGA",
-      "Artificial Intelligence"
+      "Christopher Nolan Studios Protect Copyrights AI",
+      "Christopher Nolan DGA president artificial intelligence",
+      "Christopher Nolan intellectual property AI data",
+      "Christopher Nolan DGA Artificial Intelligence Committee"
     ],
     "images": [
       {
@@ -82736,10 +82736,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Amitabh Bachchan",
-      "Kaun Banega Crorepati 18",
-      "Kaun Banega Crorepati shoot halted",
-      "Ramayana cast on KBC"
+      "Amitabh Bachchan Kaun Banega Crorepati 18 Production Halted",
+      "Kaun Banega Crorepati 18 Amitabh Bachchan health",
+      "Amitabh Bachchan Kaun Banega Crorepati 18 shoot paused",
+      "Kaun Banega Crorepati 18 host Amitabh Bachchan"
     ],
     "images": [
       {
@@ -82822,11 +82822,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Monty Don Gardeners World",
-      "Monty Don final episode",
-      "Gardeners World BBC",
-      "Monty Don Longmeadow",
-      "Monty Don leaves Gardeners World"
+      "Monty Don Gardeners' World Farewell",
+      "Monty Don leaves Gardeners' World after 23 years",
+      "Monty Don Longmeadow Gardeners' World",
+      "Monty Don BBC Gardeners' World"
     ],
     "images": [],
     "published": "2026-11-08T00:51:31Z"
@@ -82910,10 +82909,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend",
-      "Ranbir Kapoor Yash Sai Pallavi",
-      "Ramayana box office collection day 3",
-      "Ramayana vs Animal box office"
+      "Ramayana Rise of a Legend Saturday Growth",
+      "Ranbir Kapoor Yash Ramayana Rise of a Legend",
+      "Nitesh Tiwari Ramayana Rise of a Legend box office",
+      "Ramayana Rise of a Legend global gross"
     ],
     "images": [
       {
@@ -83007,10 +83006,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Territory Netflix series",
-      "Colin Lawson Territory",
-      "Marianne Station Australia",
-      "Anna Torv Territory"
+      "Netflix Series Territory Western Epics",
+      "Territory Netflix Australian outback drama",
+      "Robert Taylor Anna Torv Territory",
+      "Territory series Northern Territory"
     ],
     "images": [
       {
@@ -83097,10 +83096,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Mammootty OM film",
-      "Dhanush Sai Pallavi OM",
-      "OM Tamil movie release date",
-      "Rajkumar Periasamy OM"
+      "Mammootty Tamil Cinema Comeback OM",
+      "Mammootty OM Dhanush Sai Pallavi",
+      "Rajkumar Periasamy OM Mammootty",
+      "Mammootty Tamil film OM"
     ],
     "images": [
       {
@@ -83199,10 +83198,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Kim Ji Won Doctor X",
-      "Doctor X Mafia in White",
-      "Doctor X episode 10 ratings",
-      "Gye Su Jeong surgeon"
+      "Kim Ji Won Doctor X Mafia in White Viewership",
+      "Doctor X Mafia in White episode 10 ratings",
+      "Kim Ji Won Doctor X Mafia in White SBS",
+      "Doctor X Mafia in White peak viewership"
     ],
     "images": [
       {
@@ -83309,10 +83308,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part One box office",
-      "Ranbir Kapoor Ramayana collection",
-      "Yash Ramayana Day 3 earnings",
-      "Nitesh Tiwari Ramayana film"
+      "Ramayana Part One Box Office Day 3 Global Gross",
+      "Ramayana Part One Saturday Surge Rs 375.50 Crore",
+      "Nitesh Tiwari Ramayana Part One global gross",
+      "Ranbir Kapoor Ramayana Part One box office"
     ],
     "images": [
       {
@@ -83420,10 +83419,9 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Fjord film Jakarta World Cinema",
-      "Jakarta World Cinema Audience Award",
-      "KlikFilm Short Movie Competition",
-      "Banjong Pisanthanakun Inherit",
+      "Palme d'Or Winner Fjord Jakarta World Cinema Audience Award",
+      "Cristian Mungiu Fjord Jakarta World Cinema",
+      "Fjord wins Jakarta World Cinema Audience Award",
       "Cristian Mungiu Fjord"
     ],
     "images": [
@@ -111672,5 +111670,391 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 02:00:00 +0000"
+  },
+  "1uqtjyr": {
+    "id": "1uqtjyr",
+    "type": "news",
+    "headline": "रामायण के आगे पस्त पुष्पा-धुरंधर! मंगलवार भी बॉक्स ऑफिस पर दहाड़ी रणबीर की फिल्म, वर्ल्डवाइड 800 करोड़ पार",
+    "dek": "रणबीर कपूर और यश की फिल्म रामायण ने बॉक्स ऑफिस पर धमाल मचाते हुए मंगलवार को भी जबरदस्त कमाई की है और इसका कुल वर्ल्डवाइड कलेक्शन 800 करोड़ रुपये के पार पहुंच गया है।",
+    "body": [
+      {
+        "h": "दिवाली के बाद बॉक्स ऑफिस पर रामायण का धमाका",
+        "p": [
+          "रणबीर कपूर और यश अभिनीत फिल्म रामायण ने दिवाली के बाद सिनेमाघरों में ऐसी सफलता हासिल की है जिसकी उम्मीद कई लोगों को पहले से थी। फिल्म ने अपनी रिलीज के बाद से ही बॉक्स ऑफिस पर शानदार प्रदर्शन जारी रखा है और पिछले कुछ दिनों में इसके आंकड़े काफी चौंकाने वाले रहे हैं।",
+          "इस फिल्म ने अपने शुरुआती दिनों से ही सिनेमाघरों में दर्शकों को अपनी ओर खींचा है। सोमवार और मंगलवार जैसे कामकाजी दिनों में भी फिल्म के कलेक्शन में भारी उत्साह देखा गया है, जो इसकी मजबूत पकड़ को दर्शाता है।"
+        ]
+      },
+      {
+        "h": "पहले मंगलवार को फिल्म की शानदार कमाई",
+        "p": [
+          "सैकनिल्क की रिपोर्ट के अनुसार, फिल्म रामायण ने अपने छठवें दिन यानी मंगलवार को 24,299 शोज के जरिए भारत में 94.10 करोड़ रुपये का नेट कलेक्शन किया है। इसमें अकेले हिंदी भाषा का योगदान 76 करोड़ रुपये रहा है।",
+          "इसके अलावा अन्य क्षेत्रीय भाषाओं ने भी बॉक्स ऑफिस पर अच्छा प्रदर्शन किया है। विशेष रूप से कन्नड़ भाषा में फिल्म ने सबसे अधिक 7.75 करोड़ रुपये का नेट कलेक्शन हासिल किया है।"
+        ]
+      },
+      {
+        "h": "छह दिनों का कुल भारतीय और वैश्विक कलेक्शन",
+        "p": [
+          "छह दिनों के भीतर फिल्म रामायण का कुल भारत में नेट कलेक्शन बढ़कर 440.45 करोड़ रुपये हो गया है। मंगलवार के दिन फिल्म के कलेक्शन में केवल 12.5 प्रतिशत की मामूली गिरावट दर्ज की गई है।",
+          "वर्ल्डवाइड कारोबार की बात करें तो मंगलवार के दिन फिल्म ने विदेशों से 35 करोड़ रुपये का बिजनेस किया। इस प्रकार छह दिनों में फिल्म का कुल वैश्विक कलेक्शन 823.50 करोड़ रुपये तक पहुंच चुका है।"
+        ]
+      },
+      {
+        "h": "ग्रॉस कलेक्शन और अंतरराष्ट्रीय रिलीज",
+        "p": [
+          "भारत के भीतर फिल्म का कुल ग्रॉस कलेक्शन 526.50 करोड़ रुपये हो चुका है, जबकि अंतरराष्ट्रीय बाजारों से कुल 297 करोड़ रुपये की कमाई हुई है।",
+          "फिल्म को अभी कई अन्य देशों में भी रिलीज किया जाना है। मंगलवार को इसे इंडोनेशिया में रिलीज किया गया, जबकि चीन और जापान में इसकी रिलीज की तारीखों और अन्य विवरणों की घोषणा अभी बाकी है। चीन के बाजार को लेकर सबसे ज्यादा उम्मीदें हैं।"
+        ]
+      },
+      {
+        "h": "धुरंधर 2 और पुष्पा 2 के रिकॉर्ड्स पर असर",
+        "p": [
+          "एक नॉन-सीक्वल फिल्म होने के बावजूद रामायण ने धुरंधर 2 और पुष्पा 2 जैसी हालिया ब्लॉकबस्टर फिल्मों को कड़ी टक्कर दी है। इन दोनों फिल्मों ने अपने पहले मंगलवार को जितनी कमाई की थी, रामायण ने उससे तीन गुना ज्यादा कमाई करके उन्हें पीछे छोड़ दिया है।",
+          "हालांकि, छह दिनों की कुल कमाई के मामले में रामायण अभी थोड़ा पीछे है, क्योंकि पुष्पा 2 का वर्ल्डवाइड कलेक्शन करीब 951 करोड़ रुपये और धुरंधर 2 का कलेक्शन 919 से 961 करोड़ रुपये के आसपास रहा था।"
+        ]
+      },
+      {
+        "h": "भविष्य की संभावनाएं और पहला हफ्ता",
+        "p": [
+          "यदि फिल्म रामायण अपनी मौजूदा रफ्तार को बनाए रखती है, तो यह अपने पहले सप्ताह के भीतर ही 1000 करोड़ रुपये के क्लब में शामिल हो सकती है।",
+          "फिल्म की लगातार मजबूत होती स्थिति यह साबित करती है कि दर्शकों के बीच इसका क्रेज कम नहीं हुआ है और आने वाले दिनों में इसके आंकड़े और भी ऊंचे जा सकते हैं।"
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "रणबीर कपूर और यश की फिल्म रामायण ने मंगलवार को भी बॉक्स ऑफिस पर शानदार प्रदर्शन करते हुए भारत में 94.10 करोड़ रुपये का नेट कलेक्शन किया और छह दिनों में 823.50 करोड़ रुपये का वैश्विक आंकड़ा पार कर लिया।",
+          "नॉन-सीक्वल होने के बावजूद इस फिल्म ने अपने पहले मंगलवार को धुरंधर 2 और पुष्पा 2 के रिकॉर्ड को पीछे छोड़ दिया है।"
+        ]
+      }
+    ],
+    "facts": [
+      "Released around Diwali",
+      "Monday collection was 107 crore",
+      "Day 6 was Tuesday",
+      "Total shows on Tuesday were 24,299",
+      "India net collection on Tuesday was 94.10 crore",
+      "Hindi net collection on Tuesday was 76 crore",
+      "Kannada net collection was 7.75 crore",
+      "Total net collection for six days is 440.45 crore",
+      "Tuesday saw a 12.5% drop",
+      "Overseas business on Tuesday was 35 crore",
+      "Total worldwide collection in six days is 823.50 crore",
+      "India total gross collection is 526.50 crore",
+      "Overseas total collection is 297 crore",
+      "Released in Indonesia on November 11",
+      "Pushpa 2 and Dhurandhar 2 worldwide collections were around 1800 crore",
+      "Pushpa 2 six-day worldwide collection was around 951 crore",
+      "Dhurandhar 2 six-day worldwide collection was between 919 to 961 crore"
+    ],
+    "entities": {
+      "people": [
+        "रणबीर कपूर",
+        "यश"
+      ],
+      "titles": [
+        "रामायण",
+        "धुरंधर 2",
+        "पुष्पा 2"
+      ]
+    },
+    "keywords": [
+      "रामायण",
+      "रामायण बॉक्स ऑफिस",
+      "रणबीर कपूर रामायण",
+      "रामायण वर्ल्डवाइड कलेक्शन"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af35e3d85bf9-ramayana-box-office-collection-101108509-16x9.jpg",
+        "caption": "रामायण के आगे पस्त पुष्पा-धुरंधर! मंगलवार भी बॉक्स ऑफिस पर दहाड़ी रणबीर की फिल्म, वर्ल्डवाइड 800 करोड़ पार",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T03:51:48Z"
+  },
+  "jyq09u": {
+    "id": "jyq09u",
+    "type": "news",
+    "headline": "Mark Wahlberg and Mel Gibson's 2025 Action Movie Leaves Streaming Platform This Month",
+    "dek": "The collaborative action thriller directed by Mel Gibson and starring Mark Wahlberg as a villain is exiting its primary streaming home.",
+    "body": [
+      {
+        "h": "An Actor-Director Collaboration",
+        "p": [
+          "Mel Gibson has directed six feature films and appeared in over sixty movies throughout his acclaimed career, earning an Oscar for historical war drama direction. His professional and personal partnership with Mark Wahlberg has grown through multiple projects over the years, showcasing a strong mutual artistic respect.",
+          "Their working relationship commenced when they portrayed father and son in a holiday comedy project. They reunited for a faith-based biographical drama before joining forces once again for a tense 2025 action thriller project."
+        ]
+      },
+      {
+        "h": "A Rare Villainous Turn",
+        "p": [
+          "Mark Wahlberg is widely recognized for portraying heroic protagonists and everyday working-class characters on screen. Taking on a full antagonist role remains a rare occurrence in his filmography, echoing his memorable early career performance in a 1996 psychological thriller.",
+          "In the 2025 action feature, he steps into the shoes of a deceptive hitman disguised as a chatty pilot from Texas. To embody the sinister character completely, the actor shaved his head instead of using a bald cap and maintained his intense persona throughout the entire production schedule."
+        ]
+      },
+      {
+        "h": "Claustrophobic Settings and Plot",
+        "p": [
+          "The narrative unfolds almost entirely within the cramped confines of a small aircraft flying over the Alaskan wilderness. Michelle Dockery portrays a U.S. Marshal tasked with transporting a fugitive played by Topher Grace, while the disguised pilot reveals his dangerous intentions.",
+          "The compact runtime and tense single-location environment provide viewers with a brisk, suspenseful experience. Despite certain predictable story beats, the claustrophobic atmosphere keeps action enthusiasts engaged from start to finish."
+        ]
+      },
+      {
+        "h": "Box Office and Critical Reception",
+        "p": [
+          "Despite debuting at the top spot during its opening weekend in the United States, the movie faced challenges at the box office. It accumulated a worldwide total of forty-eight million seven hundred thousand dollars against a production budget of twenty-five million dollars.",
+          "Critics offered mixed-to-negative reviews, reflected in its low Rotten Tomatoes critical score. Reviewers expressed varying opinions regarding the script and direction, though general audiences responded more favorably to the picture."
+        ]
+      },
+      {
+        "h": "Departure From Streaming Services",
+        "p": [
+          "The action thriller originally arrived on HBO Max in November of the previous year. Following a standard twelve-month licensing window, the title is scheduled to leave the platform before the end of the month.",
+          "Subscribers wishing to experience the unusual antagonist performance must stream the feature before its removal date. Afterwards, the movie will transition to digital rental and purchase storefronts."
+        ]
+      },
+      {
+        "h": "Future Projects for the Duo",
+        "p": [
+          "Mel Gibson is currently occupied with post-production duties for an upcoming religious epic scheduled to release in parts, alongside plans to helm the final installment of a popular police action franchise. Meanwhile, Mark Wahlberg recently appeared in a crime thriller and is attached to an upcoming Netflix project directed by Baltasar Kormákur.",
+          "While neither creator is currently collaborating on a new joint venture, both have indicated openness to future partnerships if the right script presents itself."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The collaborative action thriller starring Mark Wahlberg and directed by Mel Gibson is officially departing from HBO Max this month following a one-year licensing window. Although the feature experienced modest box office returns and divided critical opinions upon its release, it remains notable for Wahlberg's rare villainous performance."
+        ]
+      }
+    ],
+    "facts": [
+      "Mel Gibson has directed 6 feature-length movies and starred in over 60 movies.",
+      "Mark Wahlberg and Mel Gibson first worked together in 2017.",
+      "Flight Risk was released in 2025.",
+      "Flight Risk grossed $48.7 million worldwide against a $25 million production budget.",
+      "Flight Risk is leaving HBO Max on November 24."
+    ],
+    "entities": {
+      "people": [
+        "Mark Wahlberg",
+        "Mel Gibson",
+        "Michelle Dockery",
+        "Topher Grace",
+        "David McCall",
+        "Peter Bradshaw",
+        "Todd Gilchrist",
+        "Kurt Mayron",
+        "Dusty Mayron",
+        "Riz Ahmed",
+        "Baltasar Kormákur",
+        "Jared Rosenberg",
+        "Bruce Davey",
+        "John Davis"
+      ],
+      "titles": [
+        "Flight Risk",
+        "Fear",
+        "Daddy's Home 2",
+        "Father Stu",
+        "The Resurrection of the Christ: Part One",
+        "Lethal Weapon 5",
+        "By All Means",
+        "The Big Fix",
+        "The Departed"
+      ]
+    },
+    "keywords": [
+      "Flight Risk movie",
+      "Mark Wahlberg Flight Risk",
+      "Mel Gibson Flight Risk",
+      "Flight Risk leaving HBO Max"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/untitled-november-05-2026-at-18-27-28-4-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Mark Wahlberg and Mel Gibson's 2025 Action Movie Leaves Streaming Platform This Month",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 02:00:18 GMT"
+  },
+  "1npgc38": {
+    "id": "1npgc38",
+    "type": "news",
+    "headline": "Maatrubhumi Trailer Review: Salman Khan Makes His Debut as a Soldier in War Drama",
+    "dek": "Superstar Salman Khan has unveiled the highly anticipated trailer for Maatrubhumi, portraying an army soldier on the India-China border in a tale filled with patriotism, sacrifice, and fierce combat.",
+    "body": [
+      {
+        "h": "Introduction to Maatrubhumi",
+        "p": [
+          "Superstar Salman Khan has finally released the much-awaited trailer for his upcoming film, titled Maatrubhumi me War Rest in Peace. Fans have been eagerly awaiting this first official glimpse, which presents the Bollywood icon in a completely new avatar on the silver screen.",
+          "The project places significant emphasis on border dynamics, focusing heavily on the complex relationships, intense emotions, and severe struggles faced by soldiers deployed in hostile regions during wartime."
+        ]
+      },
+      {
+        "h": "Salman Khan as a Soldier",
+        "p": [
+          "In this feature, Salman Khan steps into the uniform for the very first time in his career, portraying a dedicated soldier stationed on the tense India-China frontier alongside his regiment.",
+          "The preview opens with a poignant line highlighting the harsh realities of armed conflict, noting that nobody detests war more than a soldier because it only truly concludes when a soldier makes the ultimate sacrifice."
+        ]
+      },
+      {
+        "h": "Trailer Highlights and Musical Intro",
+        "p": [
+          "Following the grim opening, Salman makes a lively entrance, whistling and humming the patriotic melody 'Sare Jahan Se Achha Hindustan Hamara' to set an energetic tone for his character.",
+          "As the preview progresses, chaos erupts within Chinese defense lines upon discovering the deployment of the Bihari Pahari Tiger Battalion along the Indian border, leading into high-octane battle sequences."
+        ]
+      },
+      {
+        "h": "The Human Cost of War",
+        "p": [
+          "Beyond standard combat sequences, the footage showcases gritty shots of wounded and bloodied soldiers from opposing sides, emphasizing the human toll and devastation brought on by armed hostilities.",
+          "Several moments within the trailer depict characters attempting to de-escalate tensions and avert full-scale battles, framing the narrative around deep themes of sacrifice and patriotism rather than mere action."
+        ]
+      },
+      {
+        "h": "Mass Elements and Dialogue",
+        "p": [
+          "The project is packed with crowd-pleasing mass moments tailored for a quintessential Salman Khan entertainer, with his leading co-star Chitrangda also making a strong impression in her scenes.",
+          "A standout dialogue delivered by Salman declares, 'Ek Bihari 100 par bhari,' a line specifically designed to delight his massive fan base residing in the state of Bihar."
+        ]
+      },
+      {
+        "h": "Delayed Release and Box Office Clash",
+        "p": [
+          "The theatrical rollout for the film faced a lengthy delay, having originally been slated to arrive in April of the same year before being pushed back due to various reported circumstances.",
+          "During a recent trailer launch event, the leading actor dismissed rumors claiming that government authorities had demanded narrative modifications, calling those reports entirely false. The feature is scheduled to premiere on December 4, setting up a box office clash with Shraddha Kapoor's film Eetha."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Superstar Salman Khan has released the trailer for his war-based film Maatrubhumi, where he plays a soldier on the India-China border for the first time. The project touches upon intense themes of sacrifice and patriotism while facing a box office clash upon its December release."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan stars as a soldier in Maatrubhumi.",
+      "The trailer was released on November 10, 2026.",
+      "The film was previously slated for an April release before being postponed.",
+      "Maatrubhumi is scheduled to release on December 4, 2026.",
+      "The film features an ensemble cast including Chitrangda."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Chitrangda",
+        "Shraddha Kapoor"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Maatrubhumi me War Rest in Peace",
+        "Eetha"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi trailer",
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi movie release date",
+      "Salman Khan soldier film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af351028610d-maatrubhumi-trailer-101441491-16x9.jpeg",
+        "caption": "Maatrubhumi Trailer Review: Salman Khan Makes His Debut as a Soldier in War Drama",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T03:51:48Z"
+  },
+  "1fvq141": {
+    "id": "1fvq141",
+    "type": "news",
+    "headline": "Lee Sung Wook Scraps Finale Interview for Doctor X Amid Controversy",
+    "dek": "Saram Entertainment announced the cancellation of the actor's scheduled press session due to ongoing debates surrounding the SBS drama series.",
+    "body": [
+      {
+        "h": "Cancellation of the Round Interview",
+        "p": [
+          "Actor Lee Sung Wook has officially called off his upcoming press roundtable for the television series Doctor X: Age of the White Mafia. His agency, Saram Entertainment, issued a statement sharing that the discussion session, which had been lined up for the thirteenth of November, was unavoidably canceled.",
+          "The management company cited recent backlash regarding the program as the primary driver behind the choice. They offered formal apologies to media members and fans for stepping back from the planned media engagements."
+        ]
+      },
+      {
+        "h": "Role and Character Background",
+        "p": [
+          "Within the broadcast, Lee portrays the surgeon character Bae Heung Gon. Operating as a pivotal figure in the narrative, his performance has been a central component of the production's ensemble cast.",
+          "The scheduled media interaction was originally intended to give the performer a platform to discuss his overall journey with the project and share behind-the-scenes memories leading up to the conclusion of the broadcast run."
+        ]
+      },
+      {
+        "h": "Broadcast Schedule and Finale Context",
+        "p": [
+          "The cancellation timing arrives just days before the scheduled conclusion of the television show. The program is slated to air its final episode on November 14, bringing the primary storyline of the current season to a close.",
+          "Despite the promotional pullback from cast members, the broadcast schedule has continued forward without interruption, maintaining its regular weekly placement on the network."
+        ]
+      },
+      {
+        "h": "Controversies Surrounding the Series",
+        "p": [
+          "The television project, which is headlined by Kim Ji Won, has experienced a mixed public reception marked by substantial debate. Viewers and critics have actively discussed the authenticity of the medical procedures and professional settings shown on screen.",
+          "Additionally, the show has sparked significant discourse regarding its narrative handling of historical events, specifically touching upon the May 18 Gwangju Democratic Uprising."
+        ]
+      },
+      {
+        "h": "Escalating Petitions and Public Scrutiny",
+        "p": [
+          "The intensity of the debate surrounding the historical depiction has extended beyond standard online criticism. The program has drawn enough public opposition to face a formal petition directed at the National Assembly.",
+          "Despite these mounting controversies and various related concerns raised by the audience, the agency's official statements regarding the interview cancellation did not elaborate on specific details beyond the general backlash."
+        ]
+      },
+      {
+        "h": "Viewership Ratings and Commercial Success",
+        "p": [
+          "While the production navigates external scrutiny, its broadcast performance continues to achieve strong milestones. The tenth installment of the series captured a viewership rating of 17.7 percent across both nationwide metrics and the Seoul metropolitan area, while hitting a peak of 20.2 percent during its broadcast window.",
+          "Furthermore, the show has successfully secured the top spot in weekly combined ratings for five consecutive weeks, dominating its designated time slot."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Lee Sung Wook canceled his upcoming wrap-up interview for the drama Doctor X: Age of the White Mafia due to controversies surrounding the show. While the series has faced criticism and a National Assembly petition over its historical depictions and medical accuracy, it continues to lead its time slot with strong ratings."
+        ]
+      }
+    ],
+    "facts": [
+      "Lee Sung Wook plays Bae Heung Gon in Doctor X: Age of the White Mafia.",
+      "Saram Entertainment announced the interview cancellation on November 11, 2026.",
+      "The round interview was originally scheduled for November 13.",
+      "The drama finale is set for November 14.",
+      "Doctor X is led by Kim Ji Won.",
+      "Episode 10 recorded a 17.7 percent rating nationwide and in Seoul, peaking at 20.2 percent.",
+      "The drama has ranked No. 1 in weekly combined ratings for five straight weeks."
+    ],
+    "entities": {
+      "people": [
+        "Lee Sung Wook",
+        "Kim Ji Won"
+      ],
+      "titles": [
+        "Doctor X: Age of the White Mafia",
+        "Doctor X"
+      ]
+    },
+    "keywords": [
+      "Doctor X",
+      "Lee Sung Wook",
+      "Doctor X Age of the White Mafia",
+      "Kim Ji Won Doctor X",
+      "Doctor X interview canceled"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/zvv76A_2d.jpg",
+        "caption": "Lee Sung Wook Scraps Finale Interview for Doctor X Amid Controversy",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 01:34:55 +0000"
   }
 };

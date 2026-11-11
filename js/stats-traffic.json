@@ -1,8 +1,8 @@
 {
   "connected": true,
-  "generated": "2026-11-10T22:52:43Z",
+  "generated": "2026-11-11T03:52:03Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
     "users": 0,
@@ -14,14 +14,14 @@
     "users": 40,
     "pageviews": 257,
     "sessions": 86,
-    "avg_session_seconds": 148.6
+    "avg_session_seconds": 147.2
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
       "views": 91,
-      "avg_time_seconds": 140.0
+      "avg_time_seconds": 141.7
     },
     {
       "path": "/ott",
@@ -51,13 +51,13 @@
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
       "views": 13,
-      "avg_time_seconds": 31.7
+      "avg_time_seconds": 14.7
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
       "views": 13,
-      "avg_time_seconds": 4.6
+      "avg_time_seconds": 5.5
     },
     {
       "path": "/tv",
@@ -69,7 +69,7 @@
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
       "views": 13,
-      "avg_time_seconds": 16.1
+      "avg_time_seconds": 14.8
     },
     {
       "path": "/search",
@@ -100,8 +100,8 @@
     {
       "source": "(not set)",
       "medium": "(not set)",
-      "sessions": 3,
-      "users": 3
+      "sessions": 2,
+      "users": 2
     }
   ],
   "countries": [
