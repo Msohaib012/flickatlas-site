@@ -114416,5 +114416,436 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 12:48:07 +0530"
+  },
+  "1wmhof9": {
+    "id": "1wmhof9",
+    "type": "news",
+    "headline": "Rajinikanth Starrer Jailer 2 Sets Official OTT Release Date on Amazon Prime Video",
+    "dek": "Following its theatrical run, the Rajinikanth-led action comedy sequel Jailer 2 is officially heading to Amazon Prime Video with multi-language audio tracks.",
+    "body": [
+      {
+        "h": "Digital Premiere Details",
+        "p": [
+          "The action comedy sequel Jailer 2, featuring superstar Rajinikanth, is officially transitioning from theatres to digital streaming platforms.",
+          "Fans who missed catching the movie during its theatrical run can stream the project directly from home starting November 12, 2026."
+        ]
+      },
+      {
+        "h": "Streaming Platform and Languages",
+        "p": [
+          "Amazon Prime Video has acquired the official digital streaming rights for the Rajinikanth-starrer following a successful cinematic exhibition.",
+          "To cater to fans across different regions, the movie will release in its original Tamil audio along with dubbed versions in Telugu, Hindi, Malayalam, and Kannada."
+        ]
+      },
+      {
+        "h": "Cast and Returning Characters",
+        "p": [
+          "Rajinikanth reprises his iconic role as the retired jailer Tiger Muthuvel Pandian IPS, continuing the narrative arc from the 2023 predecessor.",
+          "Ramya Krishnan returns as his wife Vijaya Pandian, alongside Yogi Babu as Vimal the taxi driver, and Mirnaa as Swetha Pandian."
+        ]
+      },
+      {
+        "h": "New Additions and Cameos",
+        "p": [
+          "The sequel expands its universe by introducing new actors such as S. J. Suryah as Bodhi Kalpak, Mithun Chakraborty as Chakri Kalpak, and Vidya Balan as Kantha Kalpak.",
+          "Several notable names from the first film and beyond return for special appearances, including Mohanlal, Shiva Rajkumar, Vinayakan, Hrithik Roshan, Jackie Shroff, and Vijay Sethupathi."
+        ]
+      },
+      {
+        "h": "Direction and Production Crew",
+        "p": [
+          "Nelson Dilipkumar has written and directed the sequel, maintaining his creative partnership with the lead star and the franchise.",
+          "Music composer Anirudh Ravichander returns to helm the soundtrack, backed by a technical crew featuring cinematographer Vijay Kartik Kannan and editor R. Nirmal."
+        ]
+      },
+      {
+        "h": "Extended Cut Speculation",
+        "p": [
+          "Online discussions and rumors have circulated concerning an extended cut featuring additional footage for the OTT premiere.",
+          "However, official sources have not confirmed any longer version, meaning claims regarding extra scenes remain unverified."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's Jailer 2 is scheduled to premiere on Amazon Prime Video on November 12, 2026, in multiple languages following its theatrical release on October 15, 2026.",
+          "Directed by Nelson Dilipkumar, the film brings back returning cast members alongside numerous special guest stars while leaving rumors of an extended cut unconfirmed."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 premiered in theatres on October 15, 2026.",
+      "The film is scheduled to begin streaming on Amazon Prime Video on November 12, 2026.",
+      "The movie will be available in Tamil, Telugu, Hindi, Malayalam, and Kannada.",
+      "Nelson Dilipkumar directed the sequel, and Kalanithi Maran produced it under Sun Pictures.",
+      "Rajinikanth stars as Tiger Muthuvel Pandian IPS."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "Ramya Krishnan",
+        "Yogi Babu",
+        "Mirnaa",
+        "Rithvik",
+        "S. J. Suryah",
+        "Mithun Chakraborty",
+        "Vidya Balan",
+        "Suraj Venjaramoodu",
+        "Jatin Sarna",
+        "Hakim Shahjahan",
+        "Mohanlal",
+        "Shiva Rajkumar",
+        "Vinayakan",
+        "Hrithik Roshan",
+        "Jackie Shroff",
+        "Vijay Sethupathi",
+        "Anirudh Ravichander",
+        "Vijay Kartik Kannan",
+        "R. Nirmal",
+        "Drk. Kiran",
+        "Chethan D'Souza",
+        "Suren G",
+        "S. Alagiakoothan"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 OTT release",
+      "Rajinikanth Jailer 2 Amazon Prime",
+      "Jailer 2 streaming date",
+      "Nelson Dilipkumar Jailer 2"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/jailer2-65461794388824.jpg",
+        "caption": "Rajinikanth Starrer Jailer 2 Sets Official OTT Release Date on Amazon Prime Video",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 14:51:29 +0530"
+  },
+  "14n4rn": {
+    "id": "14n4rn",
+    "type": "news",
+    "headline": "Sir Ridley Scott to Skip Governors Awards After Medical Procedure",
+    "dek": "The acclaimed filmmaker will accept his honorary Oscar remotely from London after doctors advised against flying following a minor medical procedure.",
+    "body": [
+      {
+        "h": "Medical Procedure Forces Remote Acceptance",
+        "p": [
+          "Renowned filmmaker Sir Ridley Scott will be unable to travel to Los Angeles for the upcoming Academy of Motion Picture Arts and Sciences Governors Awards. Following a minor medical procedure, the 88-year-old director has been advised by medical professionals not to fly from his home in London.",
+          "Instead of appearing in person at the ceremony, Scott will accept his honorary Oscar remotely. He has arranged to pre-record an acceptance speech that will be broadcast to the audience during the event."
+        ]
+      },
+      {
+        "h": "Family Attendance and Ceremony Details",
+        "p": [
+          "While the director remains in London to recover, his wife Giannina Facio is expected to represent the family at the gala. She will be joined by the couple's children and grandchildren to witness the honorary presentation.",
+          "The prestigious ceremony features several other notable honourees alongside Scott. Among those receiving recognition are actress Glenn Close, animator Floyd Norman, and producers Christine Vachon and Pamela Koffler."
+        ]
+      },
+      {
+        "h": "A Storied Career Without a Competitive Oscar",
+        "p": [
+          "Despite a prolific career spanning more than three decades in the motion picture industry, Scott has never won a competitive Academy Award. His body of work has defined modern cinema across multiple genres and decades.",
+          "His contributions to film include directing timeless science fiction and historical epics, yet the elusive competitive golden statuette has remained out of reach despite multiple nominations."
+        ]
+      },
+      {
+        "h": "Previous Academy Nominations",
+        "p": [
+          "Scott has earned three separate nominations for the Academy Award for Best Director over the years. His first directing nod came for the 1991 drama Thelma and Louise.",
+          "He received subsequent Best Director nominations for his historical epic Gladiator and the war drama Black Hawk Down, alongside a Best Picture nomination for the sci-fi hit The Martian."
+        ]
+      },
+      {
+        "h": "Perspective on Awards and Mortality",
+        "p": [
+          "Reflecting on the lack of a competitive Oscar in past interviews, the veteran director noted that he feels it is too late for him to win one. He emphasized that personal well-being takes precedence over industry accolades.",
+          "Addressing his health and aging with characteristic pragmatism, Scott previously remarked that maintaining his daily vitality matters far more than winning a trophy, noting that he possesses a knighthood instead."
+        ]
+      },
+      {
+        "h": "Recent Projects and Legacy",
+        "p": [
+          "The director's most recent major project was the 2024 epic sequel Gladiator II, which continued his legacy of large-scale historical filmmaking. That film earned an Academy Award nomination for Best Costume Design.",
+          "Although the latest epic lost out to the movie-musical Wicked in that category, Scott continues to look forward to daily creative challenges rather than dwelling on past omissions or industry recognition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sir Ridley Scott will miss the Governors Awards in Los Angeles and accept his honorary Oscar remotely after undergoing a minor medical procedure in London. The 88-year-old director, whose career includes acclaimed works like Gladiator and Thelma and Louise, has previously stated that his health and daily well-being are far more important than winning an Academy Award."
+        ]
+      }
+    ],
+    "facts": [
+      "Sir Ridley Scott is 88 years old",
+      "He underwent a minor medical procedure",
+      "He will miss the Governors Awards on November 15",
+      "He will accept his honorary Oscar remotely from London",
+      "His wife is Giannina Facio",
+      "Other honourees include Glenn Close, Floyd Norman, Christine Vachon, and Pamela Koffler",
+      "He was nominated for Best Director for Thelma and Louise, Gladiator, and Black Hawk Down",
+      "He received a Best Picture nomination for The Martian",
+      "His 2024 film was Gladiator II"
+    ],
+    "entities": {
+      "people": [
+        "Sir Ridley Scott",
+        "Giannina Facio",
+        "Glenn Close",
+        "Floyd Norman",
+        "Christine Vachon",
+        "Pamela Koffler"
+      ],
+      "titles": [
+        "Gladiator",
+        "Thelma and Louise",
+        "Black Hawk Down",
+        "The Martian",
+        "Gladiator II",
+        "Wicked"
+      ]
+    },
+    "keywords": [
+      "Sir Ridley Scott",
+      "Governors Awards",
+      "honorary Oscar",
+      "Gladiator II",
+      "Thelma and Louise"
+    ],
+    "images": [],
+    "published": "2026-11-11T09:53:43Z"
+  },
+  "1f5qywp": {
+    "id": "1f5qywp",
+    "type": "news",
+    "headline": "Prakash Raj Addresses Boycott Campaigns and Online Backlash Over Upcoming Role in Varanasi",
+    "dek": "The veteran actor opened up about facing persistent internet campaigns, revealing that filmmaker SS Rajamouli has encountered inquiries on social media for casting him in Varanasi.",
+    "body": [
+      {
+        "h": "Addressing Online Boycott Campaigns",
+        "p": [
+          "Renowned actor Prakash Raj recently addressed the ongoing internet trends targeting his film career through online boycott campaigns. During a candid appearance on a talk show, he asserted that these digital protests have ultimately failed to hinder the financial success of his projects in cinema halls.",
+          "Reflecting on past instances, the performer pointed out that similar backlash did not prevent major releases from achieving massive box office milestones. He noted that despite public calls to restrict his work, audiences continued to support his films in large numbers."
+        ]
+      },
+      {
+        "h": "Questions Surrounding Varanasi Casting",
+        "p": [
+          "The actor specifically highlighted his involvement in filmmaker SS Rajamouli's highly anticipated project, Varanasi. According to him, users on the social media platform X have actively questioned the director's decision to cast him in the upcoming venture.",
+          "Despite the online scrutiny and skeptical inquiries directed at the production team, the actor remains active in the project and dismisses the ability of online detractors to halt large-scale cinematic productions."
+        ]
+      },
+      {
+        "h": "Reflecting on Past Blockbusters",
+        "p": [
+          "Prakash Raj recalled specific examples from his filmography, such as his role in KGF, where social media users expressed discontent over his participation. Despite the noise, the feature went on to generate massive revenue worldwide.",
+          "He similarly referenced Drishyam 3, noting that even amidst calls for a ban, the mystery crime-drama sequel continued to pull strong collections. He emphasized that individual artists cannot be easily stopped once a film connects with the public."
+        ]
+      },
+      {
+        "h": "Addressing Industry Bans and Work Ethic",
+        "p": [
+          "The conversation also touched upon historical controversies, including the multiple occasions the actor faced bans within the Telugu film industry due to allegations regarding his professional conduct. Over the course of his career, he has reportedly encountered such restrictions eight times, starting as early as 2008.",
+          "Defending his career trajectory, the Singham star expressed comfort with differing viewpoints and stated that his professional dedication should be evaluated strictly through his artistic output rather than external controversies."
+        ]
+      },
+      {
+        "h": "Embracing Individual Perspectives",
+        "p": [
+          "The seasoned performer expressed a philosophical view on public criticism, maintaining that living an honest life naturally brings unique challenges and diverse opinions from society. He argued that ideological differences among people create a more dynamic environment.",
+          "He further explained that juggling work across multiple language industries often involves intense travel and unique schedules, which outsiders might misunderstand or judge without recognizing the realities of an artist's lifestyle."
+        ]
+      },
+      {
+        "h": "Recent Projects and Future Releases",
+        "p": [
+          "On the cinematic front, Prakash Raj was recently seen on screen in Drishyam 3, playing a key part in the final installment of the celebrated mystery crime-drama series headlined by Ajay Devgn.",
+          "Looking ahead, audiences can expect to see him in the upcoming emotional drama titled Father, a Kannada film scheduled for a theatrical release on December 4."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Prakash Raj responded to recurring internet boycott campaigns against his films, noting that such online protests have failed to impact his movies' box office success. He revealed that director SS Rajamouli is facing questions on social media for casting him in Varanasi, while also addressing historical industry bans and discussing his recent work in Drishyam 3 and the upcoming film Father."
+        ]
+      }
+    ],
+    "facts": [
+      "Prakash Raj appeared on NTV's Point Blank talk show.",
+      "SS Rajamouli is casting Prakash Raj in the film Varanasi.",
+      "Prakash Raj was previously banned by the Telugu film industry in 2008.",
+      "He has reportedly faced bans on eight occasions during his career.",
+      "Prakash Raj starred in Ajay Devgn's Drishyam 3.",
+      "His upcoming Kannada emotional drama Father is set to release on December 4."
+    ],
+    "entities": {
+      "people": [
+        "Prakash Raj",
+        "SS Rajamouli",
+        "Ajay Devgn"
+      ],
+      "titles": [
+        "Varanasi",
+        "KGF",
+        "Drishyam 3",
+        "Singham",
+        "Father"
+      ]
+    },
+    "keywords": [
+      "Prakash Raj Varanasi",
+      "SS Rajamouli Varanasi film",
+      "Prakash Raj boycott calls",
+      "Prakash Raj interview NTV"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135732242,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Prakash Raj Addresses Boycott Campaigns and Online Backlash Over Upcoming Role in Varanasi",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-11T14:53:36+05:30"
+  },
+  "swfz5s": {
+    "id": "swfz5s",
+    "type": "news",
+    "headline": "Bugonia and Lord of the Flies Win Big at the 2026 FilmLight Colour Awards",
+    "dek": "Yorgos Lanthimos's feature and Marc Munden's television adaptation took home top honors at the sixth annual ceremony held in Poland.",
+    "body": [
+      {
+        "h": "The 2026 FilmLight Colour Awards Ceremony",
+        "p": [
+          "The sixth annual FilmLight Colour Awards announced their winners during a ceremony held on Saturday at the Toruń Camerimage film festival in Poland. The event honors excellence in colour grading across several specialized categories, highlighting the critical role that colorists play in shaping the visual storytelling of motion pictures and television.",
+          "Winners at this year's festival were awarded a special full-color version of Camerimage's Golden Frog trophy. This unique recognition underscores the collaborative effort between colorists, cinematographers, and directors in crafting the final aesthetic of a cinematic project."
+        ]
+      },
+      {
+        "h": "Theatrical Feature Winner: Bugonia",
+        "p": [
+          "In the Theatrical Feature category, the top prize went to Yorgos Lanthimos's darkly comic science-fiction thriller Bugonia. The film's distinct look was shaped by colorist Greg Fisher of Company 3.",
+          "Bugonia features Emma Stone as a powerful pharmaceutical executive who becomes the target of a kidnapping plot by two conspiracy theorists. These characters are entirely convinced that she is actually an extraterrestrial being plotting the destruction of the Earth."
+        ]
+      },
+      {
+        "h": "TV Series and Episodic Winner: Lord of the Flies",
+        "p": [
+          "Aidan Farrell of The Farm Post Production secured the victory in the TV Series and Episodic category. He earned the accolade for his work on Marc Munden's television adaptation of Lord of the Flies.",
+          "The television project adapts William Golding's classic novel, chronicling a group of schoolboys stranded on an uninhabited island. Their initial attempts to establish a structured society ultimately descend into chaos and savagery."
+        ]
+      },
+      {
+        "h": "Spotlight and Documentary Winner: The President's Cake",
+        "p": [
+          "The Spotlight and Documentary award was presented to The President's Cake, with color grading handled by Andu Radu of Abator. The feature was directed by Hasan Hadi.",
+          "Set in 1990s Iraq under the regime of Saddam Hussein, the narrative follows a young girl given the assignment to bake a cake for the dictator's birthday. This specific task exposes the severe hardships and daily struggles faced under the regime."
+        ]
+      },
+      {
+        "h": "Commercial and Emerging Talent Winners",
+        "p": [
+          "The Commercial category recognized Nadia Khairat Gómez for her work on the North Face advertising campaign titled Defy Easy. The campaign stood out among a competitive field of entries for its visual presentation.",
+          "Meanwhile, the Emerging Talent award was presented to Imri Agmon for the Kidsuper SS26 fashion film The Boy Who Jumped the Moon. Agmon completed the project with S EC Studio."
+        ]
+      },
+      {
+        "h": "Perspectives on Cinematography and Color",
+        "p": [
+          "Marek Żydowicz, the founder and director of the festival, spoke about the significance of the event and the artistry involved in colour grading. He emphasized that colorists help directors and cinematographers achieve emotional depth.",
+          "According to Żydowicz, these professionals work to balance colors, enhance tonal accents within individual shots, and ultimately build the foundational visual language of a film or television show."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The sixth annual FilmLight Colour Awards announced their winners at the Toruń Camerimage film festival in Poland, honoring projects like Bugonia, Lord of the Flies, and The President's Cake. The event celebrated the collaborative visual artistry of colorists, cinematographers, and directors across features, television, commercials, and emerging talent."
+        ]
+      }
+    ],
+    "facts": [
+      "The 2026 FilmLight Colour Awards winners were announced on Saturday at the Toruń Camerimage film festival in Poland.",
+      "Greg Fisher of Company 3 won the Theatrical Feature award for Bugonia.",
+      "Aidan Farrell of The Farm Post Production won the TV Series/Episodic category for Lord of the Flies.",
+      "Andu Radu of Abator won the Spotlight and Documentary award for The President's Cake.",
+      "Nadia Khairat Gómez won the Commercial category for the North Face campaign Defy Easy.",
+      "Imri Agmon won the Emerging Talent award for the Kidsuper SS26 fashion film The Boy Who Jumped the Moon."
+    ],
+    "entities": {
+      "people": [
+        "Scott Roxborough",
+        "Yorgos Lanthimos",
+        "Marc Munden",
+        "Hasan Hadi",
+        "Greg Fisher",
+        "Emma Stone",
+        "Aidan Farrell",
+        "William Golding",
+        "Andu Radu",
+        "Nadia Khairat Gómez",
+        "Imri Agmon",
+        "Marek Żydowicz",
+        "Carly Thomas",
+        "McKinley Franklin",
+        "Mike Barnes",
+        "Borys Kit",
+        "Aaron Couch",
+        "Abid Rahman",
+        "Frank Scheck",
+        "Lacey Rose",
+        "Nancy Jo Sales",
+        "David Leitch",
+        "Nicholas Hoult",
+        "James Gunn",
+        "Peter Safran",
+        "David Ellison",
+        "Johnny Depp",
+        "Rob Lowe",
+        "James Franco",
+        "Ben Shapiro",
+        "Stacy Keach",
+        "Dua Lipa",
+        "Tame Impala",
+        "SZA",
+        "Daddy Yankee",
+        "Charli D’Amelio",
+        "Eric Bauza"
+      ],
+      "titles": [
+        "Bugonia",
+        "Lord of the Flies",
+        "The President's Cake",
+        "Defy Easy",
+        "The Boy Who Jumped the Moon",
+        "Long Long Night",
+        "You’ve Got Mail",
+        "Ebenezer",
+        "Confession",
+        "How to Rob a Bank",
+        "Dancing With the Stars"
+      ]
+    },
+    "keywords": [
+      "Bugonia",
+      "Lord of the Flies",
+      "FilmLight Colour Awards",
+      "The President's Cake",
+      "Yorgos Lanthimos"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/FIlm-Colour-Awards-Lord-of-the-Flies-Bugonia-The-Presidents-Cake.jpg?w=1440&#038;h=810&#038;crop=1",
+        "caption": "Bugonia and Lord of the Flies Win Big at the 2026 FilmLight Colour Awards",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 09:00:39 +0000"
   }
 };
