@@ -118809,5 +118809,389 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Wed, 11 Nov 2026 15:30:00 +0000"
+  },
+  "rusoas": {
+    "id": "rusoas",
+    "type": "news",
+    "headline": "Ramayana Day 7 Worldwide Collections Cross 934 Crore and Defeat Animal",
+    "dek": "Ranbir Kapoor starrer Ramayana wraps up its first week with massive global earnings, beating previous lifetime benchmarks.",
+    "body": [
+      {
+        "h": "Introduction to the Mythological Epic",
+        "p": [
+          "Ranbir Kapoor has made a major return to the silver screen following a three-year break. His latest cinematic venture is the mythological epic Ramayana, which draws inspiration from Valmiki's Ramayan.",
+          "Helmed by director Nitesh Tiwari, the high-profile project boasts an expansive cast alongside Kapoor, establishing a formidable presence in current cinema."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The ambitious two-movie franchise features a prominent lineup of actors. Alongside the lead, the film stars Sai Pallavi, Yash, Ravi Dubey, Adinath Kothare, and Rakul Preet Singh.",
+          "Rounding out the extensive cast are Sheeba Chadha, Anupam Kher, Vivek Oberoi, Arun Govil, and Lara Dutta, bringing together multiple generations of talent."
+        ]
+      },
+      {
+        "h": "Unprecedented Production Budget",
+        "p": [
+          "Positioned as a two-movie project, Ramayana is backed by an estimated budget of Rs 4000cr. Industry observers note it stands among the priciest productions ever attempted in Indian cinema.",
+          "The substantial financial backing reflects in the scale and execution of the visual spectacle, which has captivated audiences worldwide since its theatrical rollout."
+        ]
+      },
+      {
+        "h": "First Week Box Office Performance",
+        "p": [
+          "According to tracking reports from Sacnilk, the film maintained strong momentum through its opening week. On its seventh day, marking the first Wednesday in theaters, the feature brought in Rs 25cr.",
+          "This mid-week addition elevated the cumulative domestic earnings to Rs 323.5cr after seven full days of theatrical exhibition."
+        ]
+      },
+      {
+        "h": "Massive Global Earnings Milestone",
+        "p": [
+          "Beyond domestic figures, the picture achieved staggering numbers internationally. The total worldwide collection reached Rs 934.55cr following its first week on screen.",
+          "Such stellar figures cement its status as the second highest grossing movie in India while highlighting its strong overseas pull."
+        ]
+      },
+      {
+        "h": "Surpassing Animal Lifetime Record",
+        "p": [
+          "With a running global tally of Rs 934.55cr, Ramayana officially outpaced the lifetime worldwide collection of Kapoor's previous major release, Animal, which stood at Rs 915cr.",
+          "This milestone marks another major achievement for the actor in consecutive high-profile releases."
+        ]
+      },
+      {
+        "h": "Favorable Future Box Office Outlook",
+        "p": [
+          "The theatrical run faces a clear path ahead with an open window of approximately two weeks. The lack of major competing titles, particularly within the Hindi market, provides a distinct advantage.",
+          "Analysts are closely watching to see if this momentum will allow the epic to climb even higher and challenge records as the top grosser of Indian cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's latest film Ramayana, directed by Nitesh Tiwari, wrapped up its first week with a day-seven collection of Rs 25cr and a total worldwide collection of Rs 934.55cr. The mythological epic successfully surpassed the lifetime global earnings of Animal and enjoys a clear box office window for the coming weeks."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is directed by Nitesh Tiwari.",
+      "The film's budget is Rs 4000cr.",
+      "Day 7 collection was Rs 25cr.",
+      "Overall collection after a week in India is Rs 323.5cr.",
+      "Total worldwide collection after 7 days is Rs 934.55cr.",
+      "Animal lifetime worldwide collection was Rs 915cr."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Adinath Kothare",
+        "Rakul Preet Singh",
+        "Sheeba Chadha",
+        "Anupam Kher",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Lara Dutta"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana worldwide collection",
+      "Ramayana day 7 collection"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanawwday7feature-74671794422196.jpg",
+        "caption": "Ramayana Day 7 Worldwide Collections Cross 934 Crore and Defeat Animal",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 00:07:49 +0530"
+  },
+  "rxvayp": {
+    "id": "rxvayp",
+    "type": "news",
+    "headline": "FX Renews Adults for Season 3 With Expanded 16-Episode Order",
+    "dek": "FX has officially secured the future of its acclaimed series Adults, granting the show a massive episode order for its upcoming third season.",
+    "body": [
+      {
+        "h": "FX Confirms Season 3 Renewal",
+        "p": [
+          "Network executives at FX have officially committed to bringing back the popular television series Adults for a third season. The announcement ensures that viewers will get to follow more of the compelling storylines that have defined the program thus far.",
+          "This continuation reinforces the network's confidence in the property, cementing its place in the current television landscape."
+        ]
+      },
+      {
+        "h": "A Massive Shift in Episode Count",
+        "p": [
+          "The most striking aspect of the upcoming third season is the significant expansion in its episode count. While previous runs of the program maintained a shorter format, the upcoming installment will feature sixteen episodes.",
+          "This represents a major departure from earlier scheduling patterns, doubling the volume of content that fans received in preceding seasons."
+        ]
+      },
+      {
+        "h": "Comparing Past Seasons to the New Order",
+        "p": [
+          "During its earlier broadcast runs, the series typically delivered eight episodes per season. The jump to a sixteen-episode order marks a dramatic scale-up for the production team and the broadcast schedule.",
+          "Such substantial expansions are relatively rare in contemporary cable television, highlighting a unique trajectory for this specific project."
+        ]
+      },
+      {
+        "h": "Reporting and Industry Sources",
+        "p": [
+          "Word of this major scheduling and renewal update first surfaced through industry reporting. Journalist Lesley Goldberg of The Ankler brought the details to light, outlining the substantial changes in store for the production.",
+          "Media analysts and television observers quickly noted the unusual magnitude of the episode increase, which stands out in today's streaming and cable environments."
+        ]
+      },
+      {
+        "h": "Context Within Modern Television",
+        "p": [
+          "As networks increasingly lean toward shorter episode commitments to manage budgets and production timelines, moving in the opposite direction is noteworthy. Expanding an order to sixteen episodes reflects strong behind-the-scenes momentum.",
+          "This programming choice allows the creative team much broader room to develop character arcs and narrative depth compared to previous restricted runs."
+        ]
+      },
+      {
+        "h": "Audience Reception and Significance",
+        "p": [
+          "Followers of the program have expressed great interest in how the narrative will utilize the doubled episode count. The decision underscores the trust that network leadership places in the core creative vision.",
+          "As production ramps up for the newly expanded run, anticipation continues to build around what this creative leap means for the overall trajectory of the series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "FX has officially renewed Adults for a third season, accompanied by a supersized order of sixteen episodes. This development, reported by Lesley Goldberg of The Ankler, marks a major expansion from the show's previous eight-episode seasons."
+        ]
+      }
+    ],
+    "facts": [
+      "FX renewed Adults for season 3 on November 11, 2026.",
+      "Season 3 will have 16 episodes.",
+      "Previous seasons of Adults had 8 episodes.",
+      "The report about the season 3 episode count was broken by Lesley Goldberg of The Ankler."
+    ],
+    "entities": {
+      "people": [
+        "Lesley Goldberg"
+      ],
+      "titles": [
+        "Adults"
+      ]
+    },
+    "keywords": [
+      "Adults season 3 FX",
+      "Adults 16 episodes",
+      "Adults renewal Lesly Goldberg",
+      "Adults TV show FX"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/paul-baker-in-adults.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "FX Renews Adults for Season 3 With Expanded 16-Episode Order",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 18:45:56 GMT"
+  },
+  "1alq91z": {
+    "id": "1alq91z",
+    "type": "news",
+    "headline": "Hanuman Ansh Success Bash in Mumbai Will Serve Pure Satvik Food to Reflect Film's Devotional Theme",
+    "dek": "The team behind the surprise spiritual box office hit Hanuman Ansh is organizing a special celebration in Mumbai featuring only pure vegetarian and satvik cuisine, completely omitting alcohol and non-vegetarian items.",
+    "body": [
+      {
+        "h": "An Unusual Celebration Setup",
+        "p": [
+          "The makers of the breakout spiritual drama Hanuman Ansh are preparing for a unique success gathering in Mumbai this weekend. Eschewing the conventional style of high-profile industry events, the organizers have decided that the entire menu will consist exclusively of pure vegetarian and satvik food.",
+          "This intentional choice is designed to resonate deeply with the devotional ethos of the project. By removing alcohol and non-vegetarian dishes entirely, the team aims to preserve the sacred tone that defined the narrative on screen."
+        ]
+      },
+      {
+        "h": "Connecting with Spiritual Roots",
+        "p": [
+          "The core storyline of Hanuman Ansh draws inspiration from the life and spiritual legacy of Neem Karoli Baba, also referred to as Neeb Karori Baba. The upcoming party serves as a direct extension of these revered beliefs.",
+          "Attendees will experience an atmosphere closely aligned with the principles highlighted in the film, honoring the cultural and spiritual values that resonated with crowds throughout its theatrical run."
+        ]
+      },
+      {
+        "h": "Key Attendees and Industry Presence",
+        "p": [
+          "Expected guests at the Mumbai venue include director Vishal Chaturvedi along with the primary members of the production team. Representatives from Cinepolis India, the organization responsible for distributing the feature, are also slated to join.",
+          "Principal cast members such as Shobhinaw Satyaa, Chandan K Anand, Anil Rastogi, Bhagvandas Patel, Nikhil Dubey, and Purnima Tiwari are anticipated to mark their presence at the festivities."
+        ]
+      },
+      {
+        "h": "Box Office Momentum and Surprising Success",
+        "p": [
+          "Debuting in cinemas on August 7 of this year, the spiritual feature experienced a modest beginning at ticket counters. However, audience turnout picked up significantly starting from the third week.",
+          "The theatrical journey continued to gather impressive strength across the fourth and fifth weeks, successfully holding its ground despite heavy competition from major contemporary releases like Toxic and Mirzapur The Movie."
+        ]
+      },
+      {
+        "h": "Modest Budget Versus Massive Returns",
+        "p": [
+          "The commercial triumph of the project has generated widespread discussion across the entertainment sector. Producer Namrata Singh previously shared that the base production cost stood at Rs 1.7 crore.",
+          "Additionally, Haldiram's provided Rs 1.25 crore specifically for prints and advertising through a co-production pact. With overall production and release expenses totaling roughly Rs 3 crore, the reported collections surpassing Rs 300 crore mark a historic achievement for a non-mainstream spiritual drama."
+        ]
+      },
+      {
+        "h": "Future Plans for the Franchise",
+        "p": [
+          "Beyond celebrating current financial milestones, the creators are looking ahead to expanding the cinematic universe. Hanuman Ansh is projected to serve as the inaugural installment in an ambitious three-film series.",
+          "The upcoming Mumbai event therefore acts as both a victory celebration for current milestones and a foundational moment for the planned trilogy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The team behind the surprise box office hit Hanuman Ansh is hosting a Mumbai success celebration featuring exclusively satvik and pure vegetarian food without any alcohol. The spiritual drama, which honors Neem Karoli Baba, achieved collections exceeding Rs 300 crore against a modest total expenditure of roughly Rs 3 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Hanuman Ansh opened in cinemas on August 7, 2026",
+      "The film was made for Rs 1.7 crore",
+      "Haldiram's contributed Rs 1.25 crore towards prints and advertising",
+      "The overall expenditure came close to Rs 3 crore",
+      "The film's reported box office collection is more than Rs 300 crore",
+      "The success party will be held in Mumbai over the weekend"
+    ],
+    "entities": {
+      "people": [
+        "Vishal Chaturvedi",
+        "Neem Karoli Baba",
+        "Neeb Karori Baba",
+        "Shobhinaw Satyaa",
+        "Chandan K Anand",
+        "Anil Rastogi",
+        "Bhagvandas Patel",
+        "Nikhil Dubey",
+        "Purnima Tiwari",
+        "Namrata Singh"
+      ],
+      "titles": [
+        "Hanuman Ansh",
+        "Toxic",
+        "Mirzapur The Movie"
+      ]
+    },
+    "keywords": [
+      "Hanuman Ansh success bash",
+      "Neem Karoli Baba film",
+      "Vishal Chaturvedi director",
+      "Shobhinaw Satyaa",
+      "Hanuman Ansh box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/hanumananshfilmd1-43671794421268.jpg",
+        "caption": "Hanuman Ansh Success Bash in Mumbai Will Serve Pure Satvik Food to Reflect Film's Devotional Theme",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 23:54:00 +0530"
+  },
+  "1067iib": {
+    "id": "1067iib",
+    "type": "news",
+    "headline": "Kareena Kapoor Khan Faces Legal Notice Over Diwali Pendant Inscribed With Quranic Verse",
+    "dek": "Bollywood actor Kareena Kapoor Khan and stylist Rhea Kapoor have been issued a legal notice by a Madhya Pradesh Congress spokesperson regarding a festive jewelry piece worn during Diwali.",
+    "body": [
+      {
+        "h": "The Diwali Controversy Begins",
+        "p": [
+          "Festive celebrations for Bollywood star Kareena Kapoor Khan turned contentious after her recent Diwali photographs sparked online objections. The controversy centers on a heritage piece of jewelry worn by the actor as part of her traditional holiday attire.",
+          "Social media users quickly pointed out details of the ornamentation, leading to formal complaints and a subsequent legal notice sent directly to the actor and her stylist."
+        ]
+      },
+      {
+        "h": "Legal Notice and Demands",
+        "p": [
+          "Madhya Pradesh Congress spokesperson Abbas Hafeez issued the legal notice to both Kareena Kapoor Khan and stylist Rhea Kapoor. The objection raised in the notice claims that the accessory in question hurts religious sentiments.",
+          "The notice explicitly demands the removal of the contentious photographs from all social media platforms. Additionally, Hafeez has called for an unconditional public apology from both the actor and the stylist."
+        ]
+      },
+      {
+        "h": "Concerns Over Religious Sentiments",
+        "p": [
+          "The core of the grievance revolves around the inscription on the emerald pendant worn during the Diwali photoshoot. Reports indicate that the jewel carries an engraving of Ayat-ul-Kursi, a revered verse from the Quran.",
+          "The complainant argues that a sacred Islamic text should not be utilized as a fashion accessory or incorporated into a public festive styling appearance. Hafeez noted he filed the notice in a personal capacity as a Muslim, clarifying that the political party holds no connection to the action."
+        ]
+      },
+      {
+        "h": "Royal Heritage and Provenance",
+        "p": [
+          "The pendant at the center of the dispute possesses significant historical provenance, originating from the Bhopal royal family. The heirloom jewel connects to the maternal lineage of Saif Ali Khan, whose grandmother Sajida Sultan was the daughter of the last ruling Nawab of Bhopal.",
+          "Stylist Rhea Kapoor had showcased the complete festive look online, detailing a silver kaftan and matching turban paired alongside historical artifacts."
+        ]
+      },
+      {
+        "h": "Details of the Festive Ensemble",
+        "p": [
+          "The curated look featured multiple historical pieces alongside the disputed emerald pendant. These included a 200-year-old kalgi associated with the Nawab of Bhopal.",
+          "The outfit also incorporated a 30-carat emerald necklace linked to the Begum of Bhopal, styled together by designer Punit Balana and worn in silver attire."
+        ]
+      },
+      {
+        "h": "Public Reaction and Online Divide",
+        "p": [
+          "Following the publication of the photographs, online reactions have remained deeply divided. While some critics argue against using religious verses in fashion styling, others defend the choice based on the historical and familial context of the heirloom.",
+          "The discussion has expanded beyond mere fashion commentary into wider questions concerning religious sensitivity, heritage preservation, and public displays of sacred inscriptions."
+        ]
+      },
+      {
+        "h": "Current Status and Next Steps",
+        "p": [
+          "As of now, neither Kareena Kapoor Khan nor Rhea Kapoor has issued an official public statement addressing the legal notice or the ongoing online debate.",
+          "The future of the issue hinges on whether the actor or her stylist will choose to respond publicly, delete the disputed posts, or contest the demands outlined in the legal notice, with potential further action threatened if compliance is not met."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bollywood actor Kareena Kapoor Khan and stylist Rhea Kapoor received a legal notice from a Madhya Pradesh Congress spokesperson over a royal emerald pendant worn during Diwali. The accessory, originating from the Bhopal royal family, allegedly features a Quranic verse, sparking demands for the removal of photographs and an unconditional public apology."
+        ]
+      }
+    ],
+    "facts": [
+      "Kareena Kapoor Khan received a legal notice over a Diwali pendant.",
+      "Abbas Hafeez sent the legal notice to Kareena Kapoor Khan and Rhea Kapoor.",
+      "The pendant is an emerald heirloom piece linked to the Bhopal royal family.",
+      "The pendant is reportedly engraved with Ayat-ul-Kursi.",
+      "Saif Ali Khan's grandmother was Sajida Sultan, daughter of the last ruling Nawab of Bhopal.",
+      "The outfit included a 200-year-old kalgi and a 30-carat emerald necklace."
+    ],
+    "entities": {
+      "people": [
+        "Kareena Kapoor Khan",
+        "Rhea Kapoor",
+        "Abbas Hafeez",
+        "Saif Ali Khan",
+        "Sajida Sultan",
+        "Punit Balana"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Kareena Kapoor Khan",
+      "Rhea Kapoor",
+      "Bhopal royal pendant",
+      "Diwali photographs",
+      "Abbas Hafeez"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/kareenanoticefeature-43971794414418.jpg",
+        "caption": "Kareena Kapoor Khan Faces Legal Notice Over Diwali Pendant Inscribed With Quranic Verse",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 21:59:23 +0530"
   }
 };

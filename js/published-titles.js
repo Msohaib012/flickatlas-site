@@ -38701,5 +38701,848 @@ window.FA_PUBLISHED = {
     "date_kind": "release",
     "runtime": 0,
     "providers": []
+  },
+  "1559980": {
+    "id": 1559980,
+    "type": "movie",
+    "title": "The Gospel of Christmas",
+    "poster_path": "/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+    "backdrop_path": "/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+    "industry": "world",
+    "popularity": 3.0394,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "lXh2rNl2wdQ",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "tagline": "Do you see what I see?",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "PG",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 103,
+    "providers": []
+  },
+  "1764859": {
+    "id": 1764859,
+    "type": "movie",
+    "title": "Andoy",
+    "poster_path": "/2AFq9TT8Q1xfYwU61QGiMukmngB.jpg",
+    "backdrop_path": "/refsKPmi8WGMI0nN54Tb81v6Ih1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A surprise birthday celebration turns into a waking nightmare when an enigmatic clown transforms a gathering of old friends into a series of disturbing performances, forcing each of them to confront the darkest truths they've hidden from one another.",
+    "industry": "world",
+    "popularity": 0.9524,
+    "original_language": "tl",
+    "origin_country": [
+      "PH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "PH"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1247662": {
+    "id": 1247662,
+    "type": "movie",
+    "title": "Villeneuve: The Rise of a Champion",
+    "poster_path": "/j9jspA0YzOfeVPSzL4Sv17ptL7c.jpg",
+    "backdrop_path": "/3GEEP1GSKgZINg8UMrZdMFE91wS.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Showcases the early years of Québec racing driver Gilles Villeneuve.",
+    "industry": "world",
+    "popularity": 2.3686,
+    "original_language": "fr",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": {
+      "key": "B-8xurv7KF0",
+      "name": "VILLENEUVE : L'ASCENSION D'UNE LÉGENDE | Bande-annonce officielle",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "12+",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 102,
+    "providers": []
+  },
+  "1756431": {
+    "id": 1756431,
+    "type": "movie",
+    "title": "Snow in June",
+    "poster_path": "/mRn8tSHrwXCUQRQo1OFV0BNhhHg.jpg",
+    "backdrop_path": "/3aL4wgeIAuBaTrhAhOv6xCNi5GP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A man unexpectedly meets his first love — a woman who died in a car accident three years earlier. Realising the past and present have become intertwined, he takes her on an impossible journey across Mongolia.",
+    "industry": "world",
+    "popularity": 0.9325,
+    "original_language": "ko",
+    "origin_country": [
+      "KR",
+      "MN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "tagline": "",
+    "status": "Post Production",
+    "production_countries": [
+      "KR",
+      "MN"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 94,
+    "providers": []
+  },
+  "1820101": {
+    "id": 1820101,
+    "type": "movie",
+    "title": "The Invisible Horse",
+    "poster_path": "/rYVMhHqWYwzuuNpWFp4LZwIg4fj.jpg",
+    "backdrop_path": "/cL43EZznQ1BIkI2Z5zVQXcjIT6J.jpg",
+    "vote_average": 5.667,
+    "vote_count": 3,
+    "overview": "Just when Jack begins to think he’s too old for Christmas, he ends up befriending an invisible creature that reminds him of what makes Christmas so magical.",
+    "industry": "world",
+    "popularity": 2.2374,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Fantasy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "certification": "G",
+    "release_date": "2026-11-09",
+    "date_kind": "release",
+    "runtime": 3,
+    "providers": []
+  },
+  "1693535": {
+    "id": 1693535,
+    "type": "movie",
+    "title": "The Night Was Completely Ruined",
+    "poster_path": "/kVp7KeFnMRQhpjcvv9UlbkD1nq2.jpg",
+    "backdrop_path": "/bXfq10bCbJYogKghcyxYLDCqB6F.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "One chaotic, wild night in the streets of Cairo. The story revolves around a young man who is fiercely determined to chase his dream of becoming an entrepreneur and starting his own business. Alongside his friend and his cousin, his ambitious plans take an unexpected turn when their paths cross with a local taxi driver.",
+    "industry": "world",
+    "popularity": 0.6236,
+    "original_language": "ar",
+    "origin_country": [
+      "EG"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "EG"
+    ],
+    "spoken_languages": [
+      "ar"
+    ],
+    "certification": "",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": []
+  },
+  "1567265": {
+    "id": 1567265,
+    "type": "movie",
+    "title": "Onwards and Sideways",
+    "poster_path": "/9GrdyiydFaa0OP7bjQrp8exlcPi.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Tony Evans is the deputy head of a local primary school. Emma Dretzin is a pianist, composer and single mother of two daughters. Neither knows the other until a startling encounter changes the course of their lives: on the same morning, they are both confronted with a diagnosis of Parkinson’s.",
+    "industry": "world",
+    "popularity": 2.1906,
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "trailer": {
+      "key": "MR5Nkdndv18",
+      "name": "Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "12A",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 105,
+    "providers": []
+  },
+  "1616187": {
+    "id": 1616187,
+    "type": "movie",
+    "title": "Enjoy Your Stay",
+    "poster_path": "/i6U43yPj31Ga38B7CvwymXK92OI.jpg",
+    "backdrop_path": "/vBT0EuzccYXxisR3naZTR88fMZ1.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "To avoid losing custody of her six-year-old daughter in Manila, Luz, an undocumented Filipina cleaner working in a luxury Swiss ski resort, must earn money at any cost – even if it means transgressing her own moral limits.",
+    "industry": "world",
+    "popularity": 1.1639,
+    "original_language": "en",
+    "origin_country": [
+      "FR",
+      "PH",
+      "CH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "CH",
+      "FR",
+      "PH"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr",
+      "tl"
+    ],
+    "certification": "15",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 99,
+    "providers": []
+  },
+  "1613021": {
+    "id": 1613021,
+    "type": "movie",
+    "title": "Camembert",
+    "poster_path": "/jJECyLZIHUZxQbC1VowuURFs2Kl.jpg",
+    "backdrop_path": "/riHurrIimTvTEzFmEbtOosM6M2t.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 1.2578,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1562691": {
+    "id": 1562691,
+    "type": "movie",
+    "title": "Malika",
+    "poster_path": "/8RkAbZJC0VbO11S6lgr4fQJmIxO.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A biopic of Malika Bellaribi, a French-Algerian woman who grew up in the Parisian projects, who survived trauma and ultimately achieved her dream of becoming a renowned lyrical singer.",
+    "industry": "world",
+    "popularity": 0.6342,
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "FR",
+      "LU"
+    ],
+    "spoken_languages": [
+      "fr"
+    ],
+    "certification": "17+",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1561347": {
+    "id": 1561347,
+    "type": "movie",
+    "title": "Status: Rejected",
+    "poster_path": "/9eNrfv1Y44ss9pUd3wXgiPrsQaJ.jpg",
+    "backdrop_path": "/Ap6suARpEoPK8Md3sKvjuRHHv0W.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Longing for love and the promise of a better life, a grandmother finds herself swept into an unexpected online romance that challenges her sense of worth, family, and the dreams she refuses to let go of.",
+    "industry": "world",
+    "popularity": 0.9665,
+    "original_language": "tl",
+    "origin_country": [
+      "PH"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "PH"
+    ],
+    "spoken_languages": [
+      "tl"
+    ],
+    "certification": "17+",
+    "release_date": "2026-11-18",
+    "date_kind": "release",
+    "runtime": 90,
+    "providers": []
+  },
+  "95350": {
+    "id": 95350,
+    "type": "tv",
+    "title": "Lanterns",
+    "poster_path": "/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+    "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+    "vote_average": 8.196,
+    "vote_count": 869,
+    "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+    "industry": "world",
+    "popularity": 43.86,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "7UIBOsuUwc4",
+      "name": "Official Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "Only one can wear the ring.",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-08-16",
+    "networks": [
+      "HBO"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "HBO",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-08-16",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Damon Lindelof",
+      "Chris Mundy",
+      "Tom King"
+    ],
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "45790": {
+    "id": 45790,
+    "type": "tv",
+    "title": "JoJo's Bizarre Adventure",
+    "poster_path": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "backdrop_path": "/l2gc2dPRUPe3bAfYCRTjc6uAMmB.jpg",
+    "vote_average": 8.554,
+    "vote_count": 1707,
+    "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+    "industry": "world",
+    "popularity": 81.9401,
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "trailer": {
+      "key": "fOvrr5izejw",
+      "name": "Official English Short Trailer",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "certification": "A",
+    "first_air_date": "2012-10-06",
+    "networks": [
+      "Netflix",
+      "TOKYO MX",
+      "BS11"
+    ],
+    "number_of_seasons": 6,
+    "number_of_episodes": 202,
+    "channel": "Netflix",
+    "episode_run_time": [
+      24
+    ],
+    "seasons": [
+      {
+        "season_number": 0,
+        "episode_count": 7,
+        "air_date": "2017-09-20",
+        "name": "Specials"
+      },
+      {
+        "season_number": 1,
+        "episode_count": 26,
+        "air_date": "2012-10-06",
+        "name": "Phantom Blood & Battle Tendency"
+      },
+      {
+        "season_number": 2,
+        "episode_count": 48,
+        "air_date": "2014-04-05",
+        "name": "Stardust Crusaders"
+      },
+      {
+        "season_number": 3,
+        "episode_count": 39,
+        "air_date": "2016-04-02",
+        "name": "Diamond Is Unbreakable"
+      },
+      {
+        "season_number": 4,
+        "episode_count": 39,
+        "air_date": "2018-10-06",
+        "name": "Golden Wind"
+      },
+      {
+        "season_number": 5,
+        "episode_count": 38,
+        "air_date": "2022-01-08",
+        "name": "STONE OCEAN"
+      },
+      {
+        "season_number": 6,
+        "episode_count": 12,
+        "air_date": "2026-03-19",
+        "name": "STEEL BALL RUN"
+      }
+    ],
+    "created_by": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll",
+        "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Sony Liv",
+        "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Crunchyroll Amazon Channel",
+        "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1710034": {
+    "id": 1710034,
+    "type": "movie",
+    "title": "Afreet - A Never Ending Night",
+    "poster_path": "/fSuE1x1kPh10Wyyx1p3zAyDDl2e.jpg",
+    "backdrop_path": "/rbjC0UFNXP4AW0XrVrUWQVPNFGZ.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Three friends gather for what should have been an ordinary evening, but a seemingly harmless challenge unleashes something far older and more dangerous than they could have imagined. As strange events begin to blur the line between reality and the unknown, they find themselves trapped in a night where every choice carries a consequence.  Afreet is a supernatural horror film that explores friendship, fear, and the hidden forces that emerge when curiosity goes too far.",
+    "industry": "bollywood",
+    "popularity": 0.3224,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 52,
+    "revenue": 0,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "tagline": "Truth or Dare?",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "",
+    "release_date": "2026-10-14",
+    "date_kind": "release",
+    "runtime": 23,
+    "providers": []
+  },
+  "337653": {
+    "id": 337653,
+    "type": "tv",
+    "title": "Ishqa Ishqa",
+    "poster_path": "/a8zQAF27Lo7AjWZ8zkFOX8d4OLG.jpg",
+    "backdrop_path": "/wsv1bj7rfnMW6TmBMSJEp5WOqdK.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Kabir is a successful writer dating Suhani, who brings calm to his life. As he prepares for the sequel to his hit novel Ishqa Ishqa, inspired by Arohi, his childhood love, she is set to return to his life. Arohi brings the inspiration he needs for his writing, but her return threatens to disrupt the life Kabir has built with Suhani.",
+    "industry": "bollywood",
+    "popularity": 3.1328,
+    "original_language": "hi",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": {
+      "key": "TF0bB_Eio58",
+      "name": "Ishqa Ishqa - Official Trailer | Helly Shah, Satyajeet Dubey, Anushka Kaushik | Prime Video",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "hi"
+    ],
+    "certification": "U/A 16+",
+    "first_air_date": "2026-10-07",
+    "networks": [
+      "Amazon MX Player"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 30,
+    "channel": "Amazon MX Player",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 30,
+        "air_date": "2026-10-07",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Rajesh Bachchani"
+    ],
+    "providers": []
+  },
+  "1555847": {
+    "id": 1555847,
+    "type": "movie",
+    "title": "Garividi Lakshmi",
+    "poster_path": "/e9Yc4pvsMFh8mmfpEGpmI1PMm1R.jpg",
+    "backdrop_path": "/lqE6OluU5yliQRH6bnEsXZT94O7.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A gifted folk singer from North Andhra rises to fame through her captivating voice and Burra Katha performances, only to mysteriously disappear at the height of her popularity. Years later, a man sets out to unravel the mystery. What happened to Garividi Lakshmi?",
+    "industry": "bollywood",
+    "popularity": 1.5996,
+    "original_language": "te",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Family"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "te"
+    ],
+    "certification": "",
+    "release_date": "2026-10-17",
+    "date_kind": "release",
+    "runtime": 141,
+    "providers": []
+  },
+  "1608666": {
+    "id": 1608666,
+    "type": "movie",
+    "title": "DeSu7",
+    "poster_path": "/w9yI1qXn3yPzQeAr72Y6QZeHZ5z.jpg",
+    "backdrop_path": "/a4tkxaHY3XRmQviZlgy5Nzz2yXq.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After years apart, two people reunite for a fresh start. A story of deep emotion, romance, and action about love that endures and a reunion destined to happen.",
+    "industry": "bollywood",
+    "popularity": 1.4061,
+    "original_language": "bn",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-11",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "bn"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-16",
+    "date_kind": "release",
+    "runtime": 166,
+    "providers": []
   }
 };

@@ -2102,6 +2102,18 @@ window.FA_OTT = {
       "type": "tv"
     },
     {
+      "date": "2026-08-16",
+      "date_kind": "release",
+      "id": 95350,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "date": "2026-08-07",
       "date_kind": "release",
       "id": 284753,
@@ -3821,6 +3833,30 @@ window.FA_OTT = {
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
           "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2012-10-06",
+      "date_kind": "release",
+      "id": 45790,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        },
+        {
+          "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+          "name": "Crunchyroll"
+        },
+        {
+          "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+          "name": "Sony Liv"
+        },
+        {
+          "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+          "name": "Crunchyroll Amazon Channel"
         }
       ],
       "type": "tv"
