@@ -90820,10 +90820,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ranbir Kapoor Yash Ramayana",
-      "Nitesh Tiwari Ramayana film",
-      "Ramayana Day 4 collection"
+      "Ramayana Rs 200 Crore Club India",
+      "Ramayana Nitesh Tiwari opening weekend",
+      "Ranbir Kapoor Yash Ramayana India box office",
+      "Ranbir Kapoor",
+      "Yash"
     ],
     "images": [
       {
@@ -91023,11 +91024,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Part 2",
-      "Sunny Deol Hanuman",
-      "Raghav Juyal Meghnad",
-      "Suhail Nayyar Sugriv",
-      "Ramayana Part Two characters"
+      "Ramayana Part Two Sunny Deol Hanuman",
+      "Ramayana Part 2 Raghav Juyal Meghnad",
+      "Ramayana sequel Diwali 2028 characters",
+      "Sunny Deol",
+      "Raghav Juyal"
     ],
     "images": [
       {
@@ -91141,11 +91142,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ojai Film Festival",
-      "Everybody Digs Bill Evans",
-      "In Memoriam film",
-      "Grant Gee film",
-      "Rob Burnett film"
+      "Ojai Film Festival 2026 winners",
+      "Everybody Digs Bill Evans Ojai Film Festival",
+      "In Memoriam Rob Burnett Ojai",
+      "Grant Gee",
+      "Rob Burnett"
     ],
     "images": [
       {
@@ -91219,10 +91220,11 @@ window.FA_ARTICLES = {
       "titles": []
     },
     "keywords": [
-      "Katrina Kaif Vicky Kaushal son",
-      "Vihaan Kaushal first photo",
-      "Katrina Kaif Diwali photo",
-      "Vicky Kaushal son Vihaan"
+      "Katrina Kaif Vicky Kaushal son Vihaan Kaushal face",
+      "Vihaan Kaushal Diwali photo Katrina Kaif",
+      "Katrina Kaif Vicky Kaushal Diwali",
+      "Katrina Kaif",
+      "Vicky Kaushal"
     ],
     "images": [
       {
@@ -91446,10 +91448,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film",
-      "Ramayana Hong Kong release",
-      "Ranbir Kapoor Ramayana",
-      "Ramayana box office collection"
+      "Ramayana Hong Kong release Ranbir Kapoor",
+      "Ramayana Rs 350 Crore Worldwide Yash Sai Pallavi",
+      "Ramayana Nitesh Tiwari Hong Kong",
+      "Ranbir Kapoor",
+      "Sai Pallavi"
     ],
     "images": [
       {
@@ -91669,10 +91672,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office Day 4",
-      "Ramayana Rise of a Legend",
-      "Ramayana collection Diwali Sunday",
-      "Nitesh Tiwari Ramayana film"
+      "Ramayana Rise of a Legend crosses Rs 500 crore",
+      "Ramayana Diwali Sunday box office record",
+      "Nitesh Tiwari Ramayana worldwide gross",
+      "Nitesh Tiwari",
+      "Salman Khan"
     ],
     "images": [
       {
@@ -91763,10 +91767,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Spy x Family Season 4",
-      "Spy x Family 2027 film",
-      "Toho Co Ltd anime",
-      "Endo Tatsuya manga"
+      "Spy x Family Season 4 2027 release",
+      "Spy x Family new theatrical film Toho",
+      "Spy x Family season 4 and film",
+      "Naman Ramachandran",
+      "Endo Tatsuya"
     ],
     "images": [
       {
@@ -91864,10 +91869,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene box office collection",
-      "Suriya Scene movie",
-      "Scene day 3 collection",
-      "Jithu Madhavan Scene film"
+      "Suriya Scene movie opening weekend Rs 116 crore",
+      "Jithu Madhavan Scene Diwali collection",
+      "Suriya starrer Scene box office",
+      "Suriya",
+      "Jithu Madhavan"
     ],
     "images": [
       {
@@ -91956,10 +91962,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Nicolas Cage Spider-Noir",
-      "Spider-Noir cancellation",
-      "Nicolas Cage True Detective",
-      "Amazon Spider-Noir AI waiver"
+      "Nicolas Cage Spider-Noir cancellation",
+      "Spider-Noir Amazon canceled one season",
+      "Nicolas Cage Spider-Noir series",
+      "Nicolas Cage",
+      "Ben Reilly"
     ],
     "images": [
       {
@@ -92086,11 +92093,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Godzilla Minus Zero",
-      "Ramayana Rise Of A Legend",
-      "The Cat In The Hat",
-      "Wild Horse Nine",
-      "global box office"
+      "Godzilla Minus Zero box office",
+      "Ramayana Rise Of A Legend global box office",
+      "Godzilla Minus Zero and Ramayana worldwide",
+      "John Hazelton",
+      "Takashi Yamazaki"
     ],
     "images": [
       {
@@ -92182,10 +92189,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Scene Rs 100 crore",
-      "Suriya Jyotika Scene",
-      "Nazriya Nazim Scene",
-      "Jithu Madhavan Scene"
+      "Suriya and Jyotika Scene Rs 100 Crore Worldwide",
+      "Scene Rs 100 crore worldwide Diwali",
+      "Suriya Jyotika Scene box office",
+      "Suriya",
+      "Jyotika"
     ],
     "images": [
       {
@@ -92286,10 +92294,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Drishyam 3 The Conclusion box office",
-      "Ajay Devgn Drishyam 3 collection",
-      "Mohanlal Drishyam 3 worldwide gross",
-      "Drishyam 3 Day 37 collection"
+      "Drishyam 3 The Conclusion Ajay Devgn Rs 587 Cr",
+      "Drishyam 3 box office collection day 37",
+      "Ajay Devgn Mohanlal Drishyam 3 worldwide",
+      "Ajay Devgn",
+      "Mohanlal"
     ],
     "images": [
       {
@@ -92378,10 +92387,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Substitute",
+      "TVING The Substitute main trailer",
+      "The Substitute drama series Bae Hyun-Sung",
+      "The Substitute TVING trailer",
       "Bae Hyun-Sung",
-      "Cha Kang-Yoon",
-      "TVING drama"
+      "Cha Kang-Yoon"
     ],
     "images": [
       {
@@ -92650,10 +92660,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Melania The Series",
-      "Melania Trump Prime Video",
-      "Melania Trump docuseries trailer",
-      "Melania Trump documentary movie"
+      "Melania Trump Prime Video docuseries",
+      "Melania The Series Prime Video",
+      "Melania Trump documentary movie",
+      "Melania Trump",
+      "Jeff Bezos"
     ],
     "images": [
       {
@@ -100320,10 +100331,11 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Cupertino Harper",
-      "Cupertino episode 6",
-      "CBS Cupertino show",
-      "Price Siffre and Associates"
+      "Cupertino Episode 6 Harper",
+      "Cupertino legal drama Harper algorithm",
+      "Peter Riegert Cupertino Judge Hornstein",
+      "Elizabeth Fisher",
+      "Peter Riegert"
     ],
     "images": [
       {
@@ -121488,5 +121500,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 02:00:17 +0000"
+  },
+  "1ew1o80": {
+    "id": "1ew1o80",
+    "type": "news",
+    "headline": "Scene Day 6 Box Office Collection: Suriya's Action Comedy Crosses ₹105 Crore India Net",
+    "dek": "Suriya starrer Scene experiences another drop in daily earnings on Wednesday, yet successfully crosses the ₹100 crore milestone in domestic net collections within its first six days in theatres.",
+    "body": [
+      {
+        "h": "Day 6 Performance Overview",
+        "p": [
+          "The theatrical run of Scene continued on Wednesday, November 11, adding fresh domestic and international figures to its overall tally. Following the conclusion of its opening weekend, the feature witnessed a steady reduction in daily revenue, with sixth-day returns coming in significantly lower than the preceding figures.",
+          "Data provided by tracking portal Sacnilk indicates that the venture brought in an estimated ₹8.05 crore net domestically across 5,294 screenings. This mid-week drop highlights the typical weekday cooling period after initial high-volume weekend admissions."
+        ]
+      },
+      {
+        "h": "Language-Wise Contribution",
+        "p": [
+          "The domestic tally for the sixth day was spearheaded by the Tamil version, which contributed ₹6.15 crore across 3,844 shows. Audience turnout remained notable in Tamil-speaking regions despite the downward trend.",
+          "Concurrently, the Telugu version generated ₹1.90 crore from 1,450 shows. Together, these regional contributions sustained the domestic momentum as the feature completed its sixth day on the silver screen."
+        ]
+      },
+      {
+        "h": "Cumulative Domestic Milestones",
+        "p": [
+          "Wednesday's box office additions brought the cumulative India net collection to a notable ₹105.45 crore. This achievement marks a major milestone as the project officially crossed the ₹100 crore net threshold in the domestic market within its first six days.",
+          "In terms of total domestic gross, the earnings currently stand at ₹122.50 crore, reflecting robust initial patronage since opening day."
+        ]
+      },
+      {
+        "h": "Global Collections and Overseas Reach",
+        "p": [
+          "International markets contributed approximately ₹4 crore on Wednesday alone, pushing the cumulative overseas gross to roughly ₹66 crore. The overseas sector has played a steady role in supporting the overall commercial trajectory.",
+          "Combining domestic gross and international returns, the estimated worldwide gross collection for Scene reached ₹188.50 crore after six days in cinemas."
+        ]
+      },
+      {
+        "h": "Day-Wise Trajectory and Weekday Slump",
+        "p": [
+          "The release began its theatrical journey on Friday, November 6, with an opening of ₹19.15 crore net domestically. Numbers climbed on Saturday to ₹20.35 crore and peaked on Sunday at ₹23.65 crore before stabilizing with ₹21.40 crore on Monday.",
+          "A sharp 40% reduction occurred on Tuesday with ₹12.85 crore, followed by an additional 37.4% drop on Wednesday down to ₹8.05 crore. Average occupancy across tracked shows shifted from 45% on Day 5 down to 30.9% on Day 6."
+        ]
+      },
+      {
+        "h": "Cast, Crew and Production Background",
+        "p": [
+          "Written and directed by Jithu Madhavan, Scene operates as an action comedy and features a prominent cast including Suriya, Nazriya Nazim, and Naslen in lead roles. Supporting performances are delivered by Anandraj, Lal, Raj Priyan, and others.",
+          "The project is produced by Suriya and Jyotika through Zhagaram Studios and 2D Entertainment. It marks Jithu Madhavan's Tamil directorial debut and Naslen's Tamil acting debut, with music composed by Sushin Shyam, cinematography by Vineeth Augustian, and editing by Ajmal Sabu."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya's action comedy Scene saw a decline in its daily earnings on Wednesday, November 11, bringing in ₹8.05 crore net in India on its sixth day. Despite the consecutive weekday drops following its opening weekend, the film successfully crossed the ₹100 crore net mark domestically with a cumulative total of ₹105.45 crore and neared ₹190 crore in worldwide gross."
+        ]
+      }
+    ],
+    "facts": [
+      "Film name: Scene",
+      "Lead actor and producer: Suriya",
+      "Co-producer: Jyotika",
+      "Director: Jithu Madhavan",
+      "Release date: November 6, 2026",
+      "Day 6 date: Wednesday, November 11, 2026",
+      "Day 6 India net collection: ₹8.05 crore",
+      "Day 6 Tamil version collection: ₹6.15 crore from 3,844 shows",
+      "Day 6 Telugu version collection: ₹1.90 crore from 1,450 shows",
+      "Cumulative India net collection after 6 days: ₹105.45 crore",
+      "Total domestic gross after 6 days: ₹122.50 crore",
+      "Overseas gross after 6 days: ₹66 crore",
+      "Worldwide gross after 6 days: ₹188.50 crore",
+      "Day 1 India net collection: ₹19.15 crore",
+      "Day 2 India net collection: ₹20.35 crore",
+      "Day 3 India net collection: ₹23.65 crore",
+      "Day 4 India net collection: ₹21.40 crore",
+      "Day 5 India net collection: ₹12.85 crore"
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nazriya Nazim",
+        "Naslen",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Jithu Madhavan",
+        "Jyotika",
+        "Sushin Shyam",
+        "Vineeth Augustian",
+        "Ajmal Sabu"
+      ],
+      "titles": [
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Scene Day 6 collection",
+      "Scene worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/scene-52691794451913.jpg",
+        "caption": "Scene Day 6 Box Office Collection: Suriya's Action Comedy Crosses ₹105 Crore India Net",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 08:22:30 +0530"
+  },
+  "1edxfzn": {
+    "id": "1edxfzn",
+    "type": "news",
+    "headline": "Deadly Building Collapse Strikes Brooklyn Neighborhood",
+    "dek": "A three-story residential and commercial structure in New York collapses, leaving two dead and numerous injured as emergency teams search through heavy debris.",
+    "body": [
+      {
+        "h": "The Incident and Casualties",
+        "p": [
+          "A catastrophic structural failure in Brooklyn claimed two lives and left seventeen individuals with injuries. The sudden disaster struck a three-story residential and commercial building located in the Flatbush neighborhood of New York. The incident occurred shortly after four in the afternoon, plunging the area into chaos and prompting an immediate, large-scale emergency response.",
+          "Among the injured, four individuals were listed in critical condition by local authorities. The casualties and victims included several young children who required urgent medical treatment following the unexpected collapse."
+        ]
+      },
+      {
+        "h": "Emergency Response and Rescue Operations",
+        "p": [
+          "Roughly two hundred and fifty firefighters and emergency personnel rushed to the scene to conduct exhaustive search and rescue operations. First responders utilized specialized equipment, including power saws, trained search dogs, and aerial drones, to navigate the unstable mounds of wreckage in search of survivors.",
+          "The rescue effort faced severe complications due to the precarious nature of the debris and hazardous underground spaces. Firefighters persisted through the evening hours, pushing forward with their mission despite lingering concerns that additional individuals might still be buried beneath the ruins."
+        ]
+      },
+      {
+        "h": "Dramas of Survival in the Rubble",
+        "p": [
+          "Several dramatic rescues unfolded as emergency crews pulled trapped victims from the debris alive. Among those saved was a pregnant woman whose husband had anxiously awaited news at the site, later expressing immense relief after she was safely transported to an ambulance on a stretcher.",
+          "Another resident, Anderson Velez, shared a harrowing account of how his wife managed to call him from underneath the collapsed structure before the connection dropped. Miraculously, both his wife and their two young children, aged seven and two, were successfully extracted alive from the wreckage."
+        ]
+      },
+      {
+        "h": "Context of Adjacent Construction",
+        "p": [
+          "The three-story building fell directly into an adjoining construction site where excavation work had been actively underway. This impact caused severe structural damage to a neighboring building as well, tearing away an exterior wall and leaving interior living spaces and bedrooms entirely exposed.",
+          "City officials confirmed the presence of ongoing construction next door at the time of the disaster. However, the precise trigger for the collapse remains undetermined while the Department of Buildings conducts a thorough investigation."
+        ]
+      },
+      {
+        "h": "Official Statements and Warnings",
+        "p": [
+          "New York City Mayor Zohran Mamdani addressed the public and the media during a press conference following the tragedy. He highlighted the extreme difficulty of the rescue operation, pointing to the unstable debris and hazardous conditions that hampered the teams on the ground.",
+          "FDNY Chief of Department John Esposito also spoke alongside the mayor, noting that the total number of missing people remained uncertain. Authorities strongly advised local residents and onlookers to steer clear of the surrounding streets to allow emergency crews uninterrupted access."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Two people were killed and seventeen injured after a three-story building collapsed in the Flatbush neighborhood of Brooklyn, New York. Emergency responders successfully pulled several trapped residents, including children and a pregnant woman, from the rubble during a massive rescue operation.",
+          "The structure fell into an adjacent construction site where excavation work was taking place, prompting an ongoing investigation by the Department of Buildings."
+        ]
+      }
+    ],
+    "facts": [
+      "Two people died and 17 were injured in the Brooklyn building collapse.",
+      "The incident occurred on November 11, 2026, shortly after 4 p.m.",
+      "The collapsed structure was a three-story building located in the Flatbush neighborhood of Brooklyn, New York.",
+      "Approximately 250 firefighters and emergency personnel responded to the scene.",
+      "Four people were listed in critical condition, and seven children received medical treatment.",
+      "Zohran Mamdani is the New York City Mayor.",
+      "John Esposito is the FDNY Chief of Department."
+    ],
+    "entities": {
+      "people": [
+        "Nicola Conville",
+        "Zohran Mamdani",
+        "Anderson Velez",
+        "John Esposito",
+        "Cheryl Tiegs",
+        "Noah Wyle",
+        "Owen",
+        "Teri Hatcher",
+        "Emerson",
+        "Liv Tyler",
+        "Steven Tyler"
+      ],
+      "titles": [
+        "Lord of the Rings",
+        "Desperate Housewives",
+        "The Pitt"
+      ]
+    },
+    "keywords": [
+      "Brooklyn building collapse",
+      "Flatbush building disaster",
+      "Zohran Mamdani New York",
+      "John Esposito FDNY rescue"
+    ],
+    "images": [
+      {
+        "url": "https://images.hellomagazine.com/horizon/landscape/1200/2215c2726bac-gettyimages-2304176375.jpg",
+        "caption": "Deadly Building Collapse Strikes Brooklyn Neighborhood",
+        "source": "HELLO! Magazine"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:56:50 GMT"
+  },
+  "1cxarug": {
+    "id": "1cxarug",
+    "type": "news",
+    "headline": "Mookuthi Amman 2 Day 6 Collection Versus Jailer 2 Day 28 Milestone",
+    "dek": "Nayanthara's Mookuthi Amman 2 brings in fresh earnings on its sixth day while Rajinikanth's Jailer 2 continues a massive global run past a major worldwide gross milestone.",
+    "body": [
+      {
+        "h": "Theatrical Journey Continues",
+        "p": [
+          "Two prominent Tamil cinematic releases, Mookuthi Amman 2 and Jailer 2, are maintaining active presences in theatres with distinct box-office tallies reported on Wednesday. While the newer release added a notable sum to its domestic ledger, the blockbuster predecessor continued accumulating steady numbers nearly a month into its run.",
+          "Audience turnout remained active for both titles across multiple regions and linguistic versions, reflecting continued commercial interest in major star-led projects during the current theatrical window."
+        ]
+      },
+      {
+        "h": "Mookuthi Amman 2 Day 6 Performance",
+        "p": [
+          "According to tracking data from Sacnilk, Mookuthi Amman 2 recorded an India net collection of Rs 1 crore on its sixth day in cinemas. The film was screened across 1,589 shows nationwide to capture this daily addition.",
+          "Breaking down the regional language contributions, the Tamil version brought in Rs 87 lakh through 1,366 shows, while the Telugu version accounted for Rs 13 lakh across 223 shows."
+        ]
+      },
+      {
+        "h": "Domestic Totals for Nayanthara Starrer",
+        "p": [
+          "The latest daily figures bring the total India net collection for Mookuthi Amman 2 to Rs 17.18 crore. Meanwhile, its total domestic gross earnings have reached Rs 19.87 crore.",
+          "On Day 6 alone, the feature recorded an estimated 98,450 ticket sales, elevating its cumulative ticket sales to 1,491,559 since its initial release during the Diwali season."
+        ]
+      },
+      {
+        "h": "Jailer 2 Maintains Steady Momentum",
+        "p": [
+          "Rajinikanth's Jailer 2 achieved an additional domestic net collection of Rs 52 lakh on its 28th day in theatres. The sustained pull nearly four weeks after release demonstrates enduring drawing power.",
+          "The Tamil edition contributed Rs 30 lakh from 365 shows, the Hindi version brought in Rs 15 lakh via 151 shows, the Telugu language edition collected Rs 5 lakh through 104 shows, and the Kannada edition added Rs 2 lakh from 27 shows."
+        ]
+      },
+      {
+        "h": "Massive Global and Local Milestones for Rajinikanth Starrer",
+        "p": [
+          "With the latest figures included, Jailer 2 has amassed a total domestic net collection of Rs 473.05 crore in India, alongside a domestic gross standing at Rs 553.25 crore.",
+          "Additionally, the film pulled in Rs 5 lakh from international markets on its 28th day, pushing its cumulative worldwide gross collection past the significant Rs 830.30 crore mark."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Background Context",
+        "p": [
+          "Mookuthi Amman 2 is spearheaded by actress Nayanthara in the lead role under the direction of Sundar C. The sequel also features Regina Cassandra in a pivotal capacity, with production handled by Ishari K Ganesh under Vels Film International and music composed by Hiphop Tamizha.",
+          "On the other hand, Jailer 2 features Rajinikanth as Tiger Muthuvel Pandian, directed by Nelson Dilipkumar and produced by Sun Pictures. The project features prominent appearances by Mohanlal and Shivarajkumar alongside the lead star, with musical compositions by Anirudh Ravichander, riding high on the massive success of the original film."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nayanthara's Mookuthi Amman 2 collected Rs 1 crore on its sixth day, bringing its domestic gross to Rs 19.87 crore. Simultaneously, Rajinikanth's Jailer 2 added Rs 52 lakh on Day 28, driving its worldwide gross past Rs 830 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Mookuthi Amman 2 collected Rs 1 crore net in India on Day 6 across 1,589 shows.",
+      "The Tamil version of Mookuthi Amman 2 earned Rs 87 lakh from 1,366 shows.",
+      "The Telugu version of Mookuthi Amman 2 earned Rs 13 lakh from 223 shows.",
+      "Mookuthi Amman 2 total India net collection is Rs 17.18 crore.",
+      "Mookuthi Amman 2 total domestic gross stands at Rs 19.87 crore.",
+      "Mookuthi Amman 2 recorded 98,450 ticket sales on Day 6 with cumulative ticket sales at 1,491,559.",
+      "Jailer 2 collected Rs 52 lakh in India on its 28th day.",
+      "Jailer 2 Tamil edition made Rs 30 lakh with 365 shows on Day 28.",
+      "Jailer 2 Hindi version collected Rs 15 lakh via 151 shows on Day 28.",
+      "Jailer 2 Telugu edition brought Rs 5 lakh through 104 shows on Day 28.",
+      "Jailer 2 Kannada edition fetched Rs 2 lakh with 27 shows on Day 28.",
+      "Jailer 2 total domestic net collection in India is Rs 473.05 crore.",
+      "Jailer 2 total domestic gross stands at Rs 553.25 crore.",
+      "Jailer 2 collected Rs 5 lakh from foreign countries on Day 28.",
+      "Jailer 2 worldwide gross collection stands at Rs 830.30 crore."
+    ],
+    "entities": {
+      "people": [
+        "Nayanthara",
+        "Rajinikanth",
+        "Sundar C",
+        "Regina Cassandra",
+        "Ishari K Ganesh",
+        "Hiphop Tamizha",
+        "Nelson Dilipkumar",
+        "Mohanlal",
+        "Shivarajkumar",
+        "Anirudh Ravichander"
+      ],
+      "titles": [
+        "Mookuthi Amman 2",
+        "Jailer 2",
+        "Jailer"
+      ]
+    },
+    "keywords": [
+      "Mookuthi Amman 2 box office",
+      "Jailer 2 box office collection",
+      "Nayanthara Mookuthi Amman 2 day 6",
+      "Rajinikanth Jailer 2 worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135752424,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mookuthi Amman 2 Day 6 Collection Versus Jailer 2 Day 28 Milestone",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T07:41:04+05:30"
+  },
+  "1j870fn": {
+    "id": "1j870fn",
+    "type": "news",
+    "headline": "The Rings of Power Season 3 Explores Deep Lore, New Factions, and Sauron's Quest for the One Ring",
+    "dek": "A comprehensive look at the major plot developments, character introductions, and Tolkien lore changes featured in the first four episodes of The Rings of Power Season 3.",
+    "body": [
+      {
+        "h": "The State of the Rings of Power",
+        "p": [
+          "The opening episodes of The Rings of Power Season 3 establish the current distribution of the 19 Rings of Power scattered across Middle-earth. The three Elven rings remain with their respective bearers, featuring Nenya worn by Galadriel, Vilya with High King Gil-galad, and Narya held by Círdan. Meanwhile, Durin IV possesses all seven Dwarven rings after receiving them from Durin III before his death, though he has chosen to hide them.",
+          "On the other hand, Sauron has successfully distributed the Nine Rings for Men to his new servants. Khamûl the Easterling earns his ring following a fierce confrontation against the Gaudrim during the premiere episode, setting the stage for his eventual transformation into a terrifying ring-servant."
+        ]
+      },
+      {
+        "h": "Sauron's Struggle and the Fate of Eregion",
+        "p": [
+          "A significant time jump of five years separates the events of Season 2 from the current narrative, during which Sauron has waged relentless war against the Elves. Despite expanding his domain into Eriador, his forces have faced steady resistance from the strongholds of Rivendell and Lindon. Central to Sauron's current ambitions is his desire to forge the One Ring to achieve supreme domination over Middle-earth.",
+          "However, his initial attempts to recreate Celebrimbor's work meet utter failure because he lacks the necessary technical knowledge and was excluded from the creation of the Three Elven Rings. With Celebrimbor gone and all his records destroyed during the Battle of Eregion, Sauron's forces are left searching for anyone familiar with the late smith's secrets."
+        ]
+      },
+      {
+        "h": "Introduction of Celeborn and New Lore Additions",
+        "p": [
+          "Season 3 finally brings Jamie Campbell Bower's Celeborn into the narrative, offering flashbacks to how he and Galadriel first fell in love. Although Galadriel and the Elves long believed him to be dead following his disappearance during the war against Morgoth, his survival aligns with established J.R.R. Tolkien lore where he endures until the Fourth Age.",
+          "The latest episodes also introduce several original characters and concepts, including Marnûkh the Orc, Maitalle the last Elven smith, and the Nazgnagôl as early iterations of the future Ringwraiths. Actor Zubin Varla, who portrays Khamûl the Easterling, noted that these servants undergo a corruption of both body and soul akin to Gollum's tragic descent."
+        ]
+      },
+      {
+        "h": "The Lords of Rhûn and Khamûl the Easterling",
+        "p": [
+          "In a display of calculated intimidation, Sauron secures an alliance with the Lords of Rhûn, who initially speak on behalf of the Dark Wizard. After two dissenting lords are eliminated by one of Sauron's followers, the remaining leaders quickly kneel and are further swayed by the presence of the Nine Rings.",
+          "Khamûl emerges victorious from the subsequent struggle for one of the rings, discovering that the artifact grants him unnatural healing capabilities. Recognized by Sauron as the fairest of the Nine, Khamûl is poised to become a major player and serves as the Witch-king of Angmar's second-in-command in Tolkien's writings."
+        ]
+      },
+      {
+        "h": "Internal Conflicts in Khazad-dûm",
+        "p": [
+          "Following Durin IV's ascension to the throne in the wake of his father's death, Season 3 introduces a fresh internal challenge. Prince Thráin, Durin IV's exiled older brother, makes his return to Khazad-dûm.",
+          "While Thráin initially presents himself as supportive of his brother's new rule, his underlying motivations quickly become questionable as the premiere unfolds, hinting at brewing familial conflict deep within the stone halls."
+        ]
+      },
+      {
+        "h": "Pharazôn's Ambitions in Númenor",
+        "p": [
+          "In Númenor, Pharazôn continues to consolidate his wealth and power through the construction of a massive armada. Driven by growing hubris and the deep-seated historical resentment that mortal Men hold toward immortal Elves, Pharazôn contemplates an absurd and unprecedented plan to sail West and conquer Valinor itself.",
+          "While Pharazôn drives his people toward potential ruin, the Faithful faction led by Míriel and Elendil works diligently to restore balance and uphold their traditional loyalty to the Valar."
+        ]
+      },
+      {
+        "h": "Gundabad and Marnûkh's Betrayal",
+        "p": [
+          "Marnûkh turns against Sauron out of lingering loyalty to Adar's cause, realizing that the Dark Lord's destructive path threatens all of Middle-earth. He reveals to Galadriel and Arondir that Maitalle, the last Elven smith holding Celebrimbor's secrets, is imprisoned in the heavily fortified Orc dungeon of Gundabad.",
+          "The fortress, a location familiar to readers of Tolkien's writings and seen on screen in The Hobbit: The Battle of the Five Armies, serves as the setting for a dangerous rescue mission in Episode 4."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The first four episodes of The Rings of Power Season 3 dive deeper into Tolkien lore with the introduction of new characters like Celeborn and Prince Thráin alongside major plot points involving Sauron's search for the One Ring. As factions shift in Númenor and Rhûn, the narrative sets up dark transformations for mortals destined to become ring-servants."
+        ]
+      }
+    ],
+    "facts": [
+      "Three rings are held by the Elves, seven dwarven rings are held by Durin IV, and nine rings are distributed to mortal men by Sauron.",
+      "Five years have passed since Season 2.",
+      "Jamie Campbell Bower plays Celeborn.",
+      "Zubin Varla plays Khamûl the Easterling.",
+      "Míriel and Elendil lead the Faithful in Númenor."
+    ],
+    "entities": {
+      "people": [
+        "Charles Papadopoulos",
+        "Amanda Mullen",
+        "Jamie Campbell Bower",
+        "Zubin Varla"
+      ],
+      "titles": [
+        "The Lord of the Rings: The Rings of Power",
+        "The War of the Rohirrim",
+        "The Hobbit: The Battle of the Five Armies"
+      ]
+    },
+    "keywords": [
+      "The Rings of Power Season 3",
+      "Sauron One Ring",
+      "Celeborn Rings of Power",
+      "Khamul the Easterling"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/untitled-design-6.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Rings of Power Season 3 Explores Deep Lore, New Factions, and Sauron's Quest for the One Ring",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 03:15:16 GMT"
   }
 };
