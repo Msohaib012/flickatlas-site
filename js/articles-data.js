@@ -122737,5 +122737,395 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-12T04:52:21Z"
+  },
+  "12i3mg6": {
+    "id": "12i3mg6",
+    "type": "news",
+    "headline": "Shah Rukh Khan Insisted on Age-Appropriate Presentation in 'King', Say Choreographers Shazia Samji and Piyush Bhagat",
+    "dek": "Choreographers Shazia Samji and Piyush Bhagat discuss crafting the song 'Tu Mil Jaaye' for the upcoming action thriller 'King', detailing Shah Rukh Khan's insistence on a style that suits his age and experience.",
+    "body": [
+      {
+        "h": "Landing the Opportunity to Choreograph",
+        "p": [
+          "Choreographers Shazia Samji and Piyush Bhagat recently shared insights into how they secured the chance to work on the upcoming project 'King'. The creative duo initially approached director Siddharth Anand with the aspiration of choreographing a sequence for his action thriller film.",
+          "The movie stars Shah Rukh Khan and Deepika Padukone in prominent roles and is slated for a theatrical release on December 24, 2026. Siddharth Anand introduced them to the track 'Tu Mil Jaaye' and outlined his distinct vision for the visual number."
+        ]
+      },
+      {
+        "h": "Visualizing 'Tu Mil Jaaye'",
+        "p": [
+          "According to the choreographers, the track required a creative blend of storytelling, romance, and intense action rather than relying on conventional romantic dance movements. Siddharth Anand tasked the duo with pitching their unique conceptualization for the song.",
+          "The assignment carried high expectations because the track was reportedly a favorite of Shah Rukh Khan within the film. Piyush Bhagat noted that the filmmaker made it clear the creative team had to thoroughly earn their place on the project."
+        ]
+      },
+      {
+        "h": "Prioritizing an Age-Appropriate Persona",
+        "p": [
+          "After their initial pitch was approved, the choreographers focused on how to present the superstar on screen. Piyush Bhagat explained that Shah Rukh Khan was extremely conscious of maintaining a style that felt authentic and suited to his age.",
+          "The superstar possesses a powerful screen presence, but the team recognized that the movements needed to feel natural rather than forced. They acknowledged that while he makes everything look effortless, it was vital to design a cool, fitting persona for him."
+        ]
+      },
+      {
+        "h": "Adapting Ed Sheeran's Rap",
+        "p": [
+          "A notable creative hurdle emerged with the fast-paced rap by Ed Sheeran featured in the track. Shah Rukh Khan initially felt the tempo was too rapid and expressed curiosity about how he would successfully perform the sequence.",
+          "To resolve this, the choreographers made a smart adjustment, deciding to have the actor deliver the rap segment while seated inside a car. This staging allowed the performance to fit his comfort level and natural flow seamlessly."
+        ]
+      },
+      {
+        "h": "Extra Rehearsal and Co-Star Support",
+        "p": [
+          "Shazia Samji and Piyush Bhagat praised the immense dedication displayed by both lead actors during the production schedule. Both stars reportedly continued rehearsing late into the night after completing their daily filming hours to prepare for the next day's work.",
+          "Shazia shared that Shah Rukh Khan was determined to keep practicing until the performance felt entirely right. Additionally, Deepika Padukone, having previously collaborated with the actor, offered helpful tips regarding their joint body language and on-screen chemistry."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Directed by Siddharth Anand, 'King' is scheduled to arrive in cinemas on December 24, 2026. The Hindi action thriller boasts an extensive ensemble cast featuring Shah Rukh Khan, Suhana Khan, Deepika Padukone, and Abhishek Bachchan.",
+          "The supporting lineup further includes Abhay Verma, Rani Mukerji, Anil Kapoor, Jaideep Ahlawat, Jackie Shroff, Arshad Warsi, and Raghav Juyal, contributing to high anticipation surrounding the release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Choreographers Shazia Samji and Piyush Bhagat detailed their work on the song 'Tu Mil Jaaye' for the upcoming film 'King', directed by Siddharth Anand and starring Shah Rukh Khan and Deepika Padukone.",
+          "They highlighted the superstar's insistence on an age-appropriate presentation, the adjustment made for Ed Sheeran's rapid rap sequence, and the extensive late-night rehearsals undertaken by the cast ahead of the December 24, 2026 release."
+        ]
+      }
+    ],
+    "facts": [
+      "King is scheduled to release in theatres on December 24, 2026.",
+      "The film is directed by Siddharth Anand.",
+      "The featured song discussed is titled Tu Mil Jaaye.",
+      "The choreographers of the song are Shazia Samji and Piyush Bhagat."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Shazia Samji",
+        "Piyush Bhagat",
+        "Ed Sheeran",
+        "Siddharth Anand",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Abhay Verma",
+        "Rani Mukerji",
+        "Anil Kapoor",
+        "Jaideep Ahlawat",
+        "Jackie Shroff",
+        "Arshad Warsi",
+        "Raghav Juyal"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "King film song",
+      "Shah Rukh Khan King choreography",
+      "Tu Mil Jaaye song King",
+      "Shazia Samji Piyush Bhagat King"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135756202,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Shah Rukh Khan Insisted on Age-Appropriate Presentation in 'King', Say Choreographers Shazia Samji and Piyush Bhagat",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T10:37:11+05:30"
+  },
+  "1uxsnbl": {
+    "id": "1uxsnbl",
+    "type": "news",
+    "headline": "Stray Kids Member Lee Know To Launch Solo Music Career",
+    "dek": "Lee Know is set to become the first member of the boy band Stray Kids to debut as a solo artist with an upcoming album early next year.",
+    "body": [
+      {
+        "h": "Upcoming Solo Debut Announcement",
+        "p": [
+          "Reports indicate that Lee Know from the popular music group Stray Kids is preparing to step out as a solo artist. According to information shared by Newsen on November 12th, the singer is currently working on his very first solo album, which is scheduled to hit the market early next year."
+        ]
+      },
+      {
+        "h": "Production Progress and Schedule",
+        "p": [
+          "Preparations for the upcoming release are already well underway. In October, the performer successfully completed his album jacket photo shoot and filmed a portion of the accompanying music video. He is presently in the final stages of putting everything together for the project."
+        ]
+      },
+      {
+        "h": "A First for the Group",
+        "p": [
+          "This upcoming project marks a significant milestone for the ensemble. Upon the release of his record, Lee Know will officially become the very first member from Stray Kids to debut as a solo musical act."
+        ]
+      },
+      {
+        "h": "Group History and Musical Background",
+        "p": [
+          "The artist originally entered the professional music industry back in March 2018 with the release of District 9 alongside his fellow group members. Since that time, the collective has consistently achieved massive success, topping prominent domestic and international music charts."
+        ]
+      },
+      {
+        "h": "Anticipation for Solo Sound",
+        "p": [
+          "Fans have expressed high expectations for the upcoming release. Lee Know is widely recognized for his smooth vocal delivery and exceptional performance abilities, which has heightened curiosity about the unique artistic charm he plans to reveal through his solo music."
+        ]
+      },
+      {
+        "h": "Recent Group Achievements",
+        "p": [
+          "Throughout the year, the performer has remained busy across multiple professional fields alongside his bandmates. Earlier this year in August, the group released a mini-album titled THIS THAT, which successfully secured the number one spot on the US Billboard main album chart, known as the Billboard 200, marking their ninth time achieving this feat."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lee Know is preparing to release his first solo album early next year, making him the first member of Stray Kids to debut as a solo artist. News of the upcoming project follows a busy year for the group, which included launching their mini-album THIS THAT in August."
+        ]
+      }
+    ],
+    "facts": [
+      "Lee Know is a member of Stray Kids.",
+      "News of the solo album was reported by Newsen on November 12th.",
+      "The solo album is scheduled for release early next year.",
+      "Album jacket shoot and part of the music video filming were completed in October.",
+      "Lee Know will be the first solo artist from Stray Kids.",
+      "Stray Kids entered the music industry in March 2018 with District 9.",
+      "The mini-album THIS THAT was released in August.",
+      "THIS THAT is the group's ninth time reaching number one on the Billboard 200 chart."
+    ],
+    "entities": {
+      "people": [
+        "Lee Know"
+      ],
+      "titles": [
+        "District 9",
+        "THIS THAT",
+        "Billboard 200"
+      ]
+    },
+    "keywords": [
+      "Lee Know",
+      "Stray Kids",
+      "Lee Know solo album",
+      "Stray Kids Lee Know solo debut"
+    ],
+    "images": [
+      {
+        "url": "https://image.koreaboo.com/2026/11/Stray-Kids-Lee-Know-FI.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1794517200&amp;KeyName=kb&amp;Signature=rJHL4ScYgcmRIG2SeTu-iw2Y5ms=",
+        "caption": "Stray Kids Member Lee Know To Launch Solo Music Career",
+        "source": "Koreaboo"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 05:46:00 +0000"
+  },
+  "opqf04": {
+    "id": "opqf04",
+    "type": "news",
+    "headline": "Salman Khan Starrer Maatrubhumi Trailer Faces Internet Backlash Over Alleged AI Visuals",
+    "dek": "The newly released promotional clip for the patriotic action drama has divided audiences on social media, with viewers pointing out questionable computer-generated graphics and a lengthy runtime.",
+    "body": [
+      {
+        "h": "The Long-Awaited Promotional Launch",
+        "p": [
+          "The promotional clip for the upcoming patriotic action drama featuring Bollywood superstar Salman Khan has finally arrived online. Initially scheduled to premiere in the prior week, the release experienced a brief delay before making its official debut on Tuesday night.",
+          "Clocking in at four minutes and thirty-five seconds, the video ranks among the longest promotional cuts seen in contemporary Hindi cinema. Directed by Apoorva Lakhia, the project was previously known under the working title Battle of Galwan before settling on its current banner."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Within the narrative, the leading man portrays an Indian Army Colonel stationed along the volatile Indo-China border. Operating in freezing conditions where temperatures plummet to minus forty-five degrees, his character serves as the finest commander of the Pahadi Bihar Battalion.",
+          "The storyline follows his mission to champion peace and avoid armed conflict, even attempting diplomatic overtures with opposing forces. Alongside military duties, the narrative touches upon his personal life, highlighting a romance with Chitrangada Singh as well as emotional moments shared among soldiers and their families."
+        ]
+      },
+      {
+        "h": "Escalation and Conflict",
+        "p": [
+          "Despite the protagonist's earnest efforts to de-escalate tensions, the situation deteriorates when opposing forces reject peaceful resolutions. This rejection triggers a tense sequence of diplomatic standoffs, intense military confrontations, and hand-to-hand combat.",
+          "The preview outlines the extreme challenges faced by a small regiment as they prepare to stand against a much larger opposing force of two thousand men, setting up the core conflict of the feature film."
+        ]
+      },
+      {
+        "h": "Social Media Division and Criticism",
+        "p": [
+          "Upon its release, the video immediately triggered a wave of polarized responses across social media platforms. While many viewers appreciated the overarching premise, a significant portion of the online community expressed dissatisfaction with the final execution.",
+          "Critics pointed out that the extensive runtime revealed too many narrative twists and plot points in advance. Furthermore, a number of social media users directed sharp remarks at the overall production value and technical choices."
+        ]
+      },
+      {
+        "h": "Backlash Over Alleged Artificial Intelligence",
+        "p": [
+          "A major talking point among netizens centers on accusations that the makers incorporated artificial intelligence tools into the visual effects. Viewers flooded X with pointed commentary questioning the quality of certain scenes and faces.",
+          "Satirical remarks quickly gained traction, with some commentators joking that the promotional piece practically summarized the entire feature film. Even loyal supporters of the lead actor found it challenging to deflect the mounting wave of online criticism regarding the technical flaws."
+        ]
+      },
+      {
+        "h": "Release Details and Background",
+        "p": [
+          "The patriotic drama, officially titled Maatrubhumi: May War Rest in Peace, is currently slated to arrive in movie theaters on December 4, 2026. As anticipation builds toward the theatrical run, the initial promotional rollout has certainly sparked intense public discourse.",
+          "The project marks another major entry into the star's filmography, though the early reception indicates that the technical presentation will remain a focal point of discussion leading up to the premiere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Salman Khan's upcoming patriotic film Maatrubhumi has generated mixed reactions on social media following its recent release. While viewers discussed the plot involving an Indian Army Colonel facing Chinese forces, many criticized the lengthy runtime and alleged use of artificial intelligence visuals. The film is scheduled to hit theaters on December 4, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer was released on Tuesday night after a delay from the previous week.",
+      "The film is directed by Apoorva Lakhia.",
+      "The film was previously titled Battle of Galwan.",
+      "The trailer has a runtime of 4 minutes and 35 seconds.",
+      "Salman Khan plays an Indian Army Colonel in the film.",
+      "Chitrangada Singh stars alongside Salman Khan.",
+      "The film is scheduled to release in theatres on December 4, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Chitrangada Singh"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Battle of Galwan",
+        "Maatrubhumi: May War Rest in Peace"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Maatrubhumi trailer",
+      "Maatrubhumi AI visuals criticism",
+      "Apoorva Lakhia Maatrubhumi movie",
+      "Maatrubhumi release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156492775,thumbsize-533231,width-1280,height-720,resizemode-75/156492775.jpg",
+        "caption": "Salman Khan Starrer Maatrubhumi Trailer Faces Internet Backlash Over Alleged AI Visuals",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T05:52:31Z"
+  },
+  "hfx896": {
+    "id": "hfx896",
+    "type": "news",
+    "headline": "Guy Ritchie's King Arthur: Legend of the Sword Climbs the Netflix Top 10 Charts",
+    "dek": "The 2017 action-fantasy film starring Charlie Hunnam finds new life on streaming, securing a spot in the Top 10 popular movies on Netflix.",
+    "body": [
+      {
+        "h": "Streaming Success on Netflix",
+        "p": [
+          "Audiences searching for a fantasy adventure featuring striking visuals and stylish execution have turned their attention to the streaming platform. An underrated film by director Guy Ritchie has recently broken into the Top 10 popular movies list on Netflix.",
+          "The project brings a fresh perspective to timeless Arthurian traditions, offering viewers a chance to revisit the high-energy take on legendary British folklore."
+        ]
+      },
+      {
+        "h": "A Stylized Take on Arthurian Lore",
+        "p": [
+          "Released initially in May 2017, the movie reimagines the classic tale of Excalibur and its wielder. While different in tone from darker cinematic adaptations or television series of the past, the feature applies a fast-paced aesthetic similar to the director's previous work on Sherlock Holmes.",
+          "The narrative explores the British icon through a modern lens, balancing historical fantasy with high-octane action sequences."
+        ]
+      },
+      {
+        "h": "Betrayal and the Quest for the Crown",
+        "p": [
+          "The plot begins when Uther Pendragon faces betrayal from his power-hungry brother, Vortigern. Seeking control of the throne and the Merlin-crafted sword, Vortigern strikes a bargain with a band of syrens to gain demonic power and eliminate his sibling.",
+          "A young Arthur manages to escape the tragedy and grows up far from the royal court. Years later, the magical blade draws him back, prompting the rightful heir to challenge his uncle alongside a specialized mage."
+        ]
+      },
+      {
+        "h": "Mythology and Creative Departures",
+        "p": [
+          "Because historic mythologies contain numerous recountings, this version diverges from traditional expectations. Certain characters, such as Merlin, take on a smaller role in the overarching narrative.",
+          "Despite any discrepancies with classic folklore, the production compensates through dynamic action direction, an atmospheric score composed by Daniel Pemberton, and a distinct aesthetic vision for Camelot."
+        ]
+      },
+      {
+        "h": "Action, Destiny, and Ensemble Cast",
+        "p": [
+          "The motion picture centers heavily on movement, fate, and the journey toward the Round Table. Promotional trailers famously utilized music by Led Zeppelin to establish the tone, while the film itself highlights Arthur discovering his royal heritage.",
+          "The ensemble features Charlie Hunnam as the titular protagonist alongside Jude Law as the antagonistic Vortigern, Eric Bana as Uther Pendragon, and additional appearances from actors like Àstrid Bergès-Frisbey and Katie McGrath."
+        ]
+      },
+      {
+        "h": "Legacy of an Underrated Adventure",
+        "p": [
+          "Although the theatrical release did not ultimately launch a planned cinematic franchise, the project retains a distinct visual identity. With guidance along the way from mystical figures including the Lady of the Lake, the central character embraces his ultimate birthright.",
+          "For viewers interested in a fantasy adventure driven by kinetic direction rather than traditional storytelling, the current streaming run offers an ideal opportunity to experience the film anew."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Guy Ritchie's 2017 fantasy action movie King Arthur: Legend of the Sword has successfully entered the Top 10 list on Netflix. The feature stars Charlie Hunnam and Jude Law, bringing a stylized and fast-paced update to traditional Arthurian legends for streaming audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "King Arthur: Legend of the Sword was released on May 12, 2017.",
+      "The film is directed by Guy Ritchie.",
+      "Charlie Hunnam stars as Arthur.",
+      "Jude Law plays the antagonist Vortigern.",
+      "Eric Bana portrays Uther Pendragon.",
+      "The movie is currently in the Top 10 on Netflix."
+    ],
+    "entities": {
+      "people": [
+        "Guy Ritchie",
+        "Charlie Hunnam",
+        "John Boorman",
+        "Katie McGrath",
+        "Eric Bana",
+        "Jude Law",
+        "Àstrid Bergès-Frisbey",
+        "Kamil Lemieszewski",
+        "Daniel Pemberton",
+        "Robert Downey Jr.",
+        "Jacqui Ainsley",
+        "William Smith",
+        "Michael John Petty",
+        "Russell Crowe",
+        "Henry Cavill",
+        "Quentin Tarantino"
+      ],
+      "titles": [
+        "King Arthur: Legend of the Sword",
+        "Excalibur",
+        "Merlin",
+        "Sherlock Holmes",
+        "The Devil's Left Hand",
+        "John Wick",
+        "The Good, the Bad and the Ugly",
+        "Highlander",
+        "How to Rob a Bank",
+        "In Waves",
+        "The Last Temptation of Becky",
+        "The Beast",
+        "Queen: Hungarian Rhapsody - Live in Budapest '86",
+        "The Transformers: The Movie",
+        "Akira"
+      ]
+    },
+    "keywords": [
+      "King Arthur Legend of the Sword Netflix",
+      "Guy Ritchie King Arthur film",
+      "Charlie Hunnam King Arthur",
+      "King Arthur Legend of the Sword streaming"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/10/kingarthurlegendofthesword.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Guy Ritchie's King Arthur: Legend of the Sword Climbs the Netflix Top 10 Charts",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 05:26:12 GMT"
   }
 };
