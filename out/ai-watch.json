@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-11-12 23:01 PKT",
- "overall": "theek",
+ "checked_at": "2026-11-13 00:08 PKT",
+ "overall": "dhyaan-do",
  "status": "ok",
- "pipeline_hour": "2026-11-12T17:00:00Z",
+ "pipeline_hour": "2026-11-12T18:00:00Z",
  "mode": "primary",
  "verdict_source": "rules",
  "verdicts": [
@@ -12,8 +12,8 @@
    "name_ur": "Advance Booking",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 11:57 (success); gate 11:35 / 23:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:08 (success); gate 11:35 / 23:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -23,7 +23,7 @@
    "name_ur": "Apply Auto",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 22:58 (success); gate har ghante.",
+   "evidence_ur": "Aakhri real run 2026-11-12 23:59 (success); gate har ghante.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -34,7 +34,7 @@
    "name_ur": "Convert News",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 23:00 (success); gate local feed + Google RSS hourly; paid fallback daily.",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:07 (success); gate local feed + Google RSS hourly; paid fallback daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -46,7 +46,7 @@
    "status": "theek",
    "modes": [],
    "evidence_ur": "Aakhri real run 2026-11-12 22:54 (success); gate 18:35 / 20:35 / 22:35 / 00:35 PKT slots.",
-   "fix": "koi-nahi",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -56,7 +56,7 @@
    "name_ur": "Fetch",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 22:51 (success); gate working RSS hourly; slow RSS 6h; sitemap/homepage 12h; blocked daily.",
+   "evidence_ur": "Aakhri real run 2026-11-12 23:51 (success); gate working RSS hourly; slow RSS 6h; sitemap/homepage 12h; blocked daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -67,7 +67,7 @@
    "name_ur": "Gemini Batch",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 22:58 (success); gate har ghante (cap 40/day unchanged).",
+   "evidence_ur": "Aakhri real run 2026-11-12 23:59 (success); gate har ghante (cap 40/day unchanged).",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -89,8 +89,8 @@
    "name_ur": "Home Boxoffice Worldwide",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 17:57 (success); gate 05:35 / 11:35 / 17:35 / 23:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:08 (success); gate 05:35 / 11:35 / 17:35 / 23:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -122,7 +122,7 @@
    "name_ur": "Multisource Boxoffice",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 23:00 (success); gate local averaging hourly; direct sources 3h/4h/6h/daily.",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:07 (success); gate local averaging hourly; direct sources 3h/4h/6h/daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -133,7 +133,7 @@
    "name_ur": "Ott",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 22:58 (success); gate cached local rebuild hourly; digital 12h; providers daily.",
+   "evidence_ur": "Aakhri real run 2026-11-12 23:59 (success); gate cached local rebuild hourly; digital 12h; providers daily.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -144,8 +144,8 @@
    "name_ur": "Overseas Ai",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 22:02 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:00 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -155,7 +155,7 @@
    "name_ur": "Overseas Sweep",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 22:01 (success); gate ?.",
+   "evidence_ur": "Aakhri real run 2026-11-12 23:59 (success); gate ?.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -177,7 +177,7 @@
    "name_ur": "Publish",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 23:01 (success); gate har ghante (manzoori par).",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:08 (success); gate har ghante (manzoori par).",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -199,8 +199,8 @@
    "name_ur": "Stats Pipeline",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 17:57 (success); gate 05:35 / 11:35 / 17:35 / 23:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:08 (success); gate 05:35 / 11:35 / 17:35 / 23:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -210,7 +210,7 @@
    "name_ur": "Stats Traffic",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 23:01 (success); gate har ghante.",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:08 (success); gate har ghante.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -221,8 +221,8 @@
    "name_ur": "Tavily Boxoffice",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 22:08 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:08 (success); gate 05:35 / 06:35 / 07:35 / 08:35 / 09:35 / 10:35 / 11:35 / 12:35 / 13:35 / 14:35 / 15:35 / 16:35 / 17:35 / 18:35 / 19:35 / 20:35 / 21:35 / 22:35 / 23:35 / 00:35 / 01:35 / 02:35 / 03:35 / 04:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -232,8 +232,8 @@
    "name_ur": "Title Seed",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 11:52 (success); gate 11:35 / 23:35 PKT slots.",
-   "fix": "intezaar",
+   "evidence_ur": "Aakhri real run 2026-11-12 23:51 (success); gate 11:35 / 23:35 PKT slots.",
+   "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -243,7 +243,7 @@
    "name_ur": "Trending Weekly",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Aakhri real run 2026-11-12 23:01 (success); gate local published-article intersection hourly; only fresh Google RSS trend proof.",
+   "evidence_ur": "Aakhri real run 2026-11-13 00:07 (success); gate local published-article intersection hourly; only fresh Google RSS trend proof.",
    "fix": "koi-nahi",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -252,10 +252,12 @@
    "id": "movies",
    "kind": "category",
    "name_ur": "Movies",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 6377 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -263,10 +265,12 @@
    "id": "box_office",
    "kind": "category",
    "name_ur": "Box Office",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 122 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -274,10 +278,12 @@
    "id": "celebrities",
    "kind": "category",
    "name_ur": "Celebrity news",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 409 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -285,10 +291,12 @@
    "id": "upcoming",
    "kind": "category",
    "name_ur": "Upcoming releases",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 24 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -296,10 +304,12 @@
    "id": "ott",
    "kind": "category",
    "name_ur": "OTT / Streaming",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 193 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -307,10 +317,12 @@
    "id": "tv_dramas",
    "kind": "category",
    "name_ur": "TV & Dramas",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 130 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -318,10 +330,12 @@
    "id": "trailers",
    "kind": "category",
    "name_ur": "Trailers",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 223 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -329,10 +343,12 @@
    "id": "episodes",
    "kind": "category",
    "name_ur": "Episodes",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 211 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -340,10 +356,12 @@
    "id": "awards",
    "kind": "category",
    "name_ur": "Awards",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 95 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -351,10 +369,12 @@
    "id": "music",
    "kind": "category",
    "name_ur": "Music / OST",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 207 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -362,10 +382,12 @@
    "id": "viral",
    "kind": "category",
    "name_ur": "Viral",
-   "status": "theek",
-   "modes": [],
-   "evidence_ur": "Aaj 53 naye items fetch hue.",
-   "fix": "koi-nahi",
+   "status": "khaali",
+   "modes": [
+    "b"
+   ],
+   "evidence_ur": "Aaj data nahi hai naye items fetch hue.",
+   "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
   },
@@ -375,7 +397,7 @@
    "name_ur": "Titles",
    "status": "theek",
    "modes": [],
-   "evidence_ur": "Kul 873 titles; aaj 20 naye (seeder 23:00 PKT).",
+   "evidence_ur": "Kul 893 titles; aaj 0 naye (seeder 23:00 PKT).",
    "fix": "intezaar",
    "auto_fixable": false,
    "note_ur": "Rule-based verdict (Gemini nahi chala)."
@@ -408,13 +430,6 @@
  "prune_candidates": {},
  "redispatch": null,
  "history": [
-  {
-   "pipeline_hour": "2026-11-12T12:00:00Z",
-   "status": "ok",
-   "overall": "theek",
-   "mode": "primary",
-   "at_pkt": "2026-11-12 17:58 PKT"
-  },
   {
    "pipeline_hour": "2026-11-12T13:00:00Z",
    "status": "ok",
@@ -449,7 +464,14 @@
    "overall": "theek",
    "mode": "primary",
    "at_pkt": "2026-11-12 23:01 PKT"
+  },
+  {
+   "pipeline_hour": "2026-11-12T18:00:00Z",
+   "status": "ok",
+   "overall": "dhyaan-do",
+   "mode": "primary",
+   "at_pkt": "2026-11-13 00:08 PKT"
   }
  ],
- "run_id": "43275544710"
+ "run_id": "43287064713"
 }
