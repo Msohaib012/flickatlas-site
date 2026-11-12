@@ -123964,5 +123964,394 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 07:30:18 GMT"
+  },
+  "znfl85": {
+    "id": "znfl85",
+    "type": "news",
+    "headline": "Shah Rukh Khan's Impromptu Dance To 'Tu Mil Jaaye' In Dubai Sets Internet Ablaze",
+    "dek": "A viral video capturing Shah Rukh Khan grooving to his upcoming actioner's track in Dubai has sent his followers into a frenzy.",
+    "body": [
+      {
+        "h": "The Viral Dubai Appearance",
+        "p": [
+          "Shah Rukh Khan recently created a massive buzz among his admirers by making a special appearance at a high-profile real estate gathering in Dubai. Known for his incredible star power, the actor effortlessly drew widespread attention the moment he stepped into the venue. Accompanied by his wife, Gauri Khan, and close friend Karan Johar, the superstar delivered an unforgettable experience for everyone present.",
+          "A video capturing his time on stage quickly made its way onto social media platforms, rapidly turning into an internet sensation. Fans across the globe expressed absolute delight as clips of the Bollywood icon surfaced online, further amplifying the excitement surrounding his public appearances."
+        ]
+      },
+      {
+        "h": "Groove To 'Tu Mil Jaaye'",
+        "p": [
+          "The highlight of the evening was an impromptu performance where Shah Rukh Khan danced to the newly released track 'Tu Mil Jaaye'. The song belongs to his forthcoming action thriller, generating immense curiosity among viewers who caught glimpses of his signature moves live on stage.",
+          "Dressed stylishly for the occasion, the actor combined his energetic steps with his trademark charisma. The unexpected performance left the audience cheering wildly and added another memorable moment to his expansive public legacy."
+        ]
+      },
+      {
+        "h": "Suave Fashion And Persona",
+        "p": [
+          "For the Dubai real estate event, the superstar sported an impeccably sharp black suit that caught everyone's eye. Ditching a traditional shirt, he opted for a black blazer featuring embellished collars and sleeves, paired with matching trousers.",
+          "Completing his look with sunglasses, an earring, and his natural salt-and-pepper hair, he radiated an uber-cool vibe. Beyond dancing, he shared words of wisdom, delivered famous dialogues, and struck his iconic pose for the adoring crowd."
+        ]
+      },
+      {
+        "h": "Birthday Release Of The Song",
+        "p": [
+          "'Tu Mil Jaaye' serves as the very first song unveiled from his upcoming movie 'King'. The romantic track was initially gifted to fans on November 2, coinciding with the superstar's birthday celebrations.",
+          "The track offers a stylish sneak peek into the world of the action film, featuring both Shah Rukh Khan and Deepika Padukone. Its release significantly boosted anticipation for the project, setting the stage for subsequent promotional activities."
+        ]
+      },
+      {
+        "h": "Frenzied Fan Reactions",
+        "p": [
+          "The internet responded with overwhelming enthusiasm following the circulation of the performance footage. Fan pages and social media users flooded platforms with praise, highlighting his unmatched energy and timeless appeal.",
+          "Comments poured in celebrating the unofficial kick-off of promotions for the movie. Netizens marvelled at his ability to command a stage effortlessly, noting that his magnetic presence remains entirely peerless."
+        ]
+      },
+      {
+        "h": "Anticipated Return In 'King'",
+        "p": [
+          "The upcoming project marks Shah Rukh Khan's much-awaited return to the silver screen after nearly three years. Directed by Siddharth Anand, the actioner is particularly special as it features a collaborative appearance with his daughter, Suhana Khan.",
+          "Alongside the father-daughter duo, the movie boasts a stellar ensemble cast including Rani Mukerji, Abhishek Bachchan, Anil Kapoor, Jaideep Ahlawat, and Raghav Jutal. The film is scheduled to hit theatres on December 24, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan surprised fans at a real estate event in Dubai by dancing to 'Tu Mil Jaaye', a romantic track from his upcoming film 'King'. Accompanied by Gauri Khan and Karan Johar, the actor sported a sharp black suit and a salt-and-pepper look that thrilled onlookers. The viral video of his performance generated massive online excitement ahead of the movie's December 24, 2026 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan attended a real estate event in Dubai with Gauri Khan and Karan Johar.",
+      "A video of him dancing to 'Tu Mil Jaaye' went viral.",
+      "The song 'Tu Mil Jaaye' was released on November 2, 2026.",
+      "'King' is directed by Siddharth Anand.",
+      "'King' is scheduled to release in theatres on December 24, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Gauri Khan",
+        "Karan Johar",
+        "Deepika Padukone",
+        "Suhana Khan",
+        "Siddharth Anand",
+        "Rani Mukerji",
+        "Abhishek Bachchan",
+        "Anil Kapoor",
+        "Jaideep Ahlawat",
+        "Raghav Jutal"
+      ],
+      "titles": [
+        "King",
+        "Tu Mil Jaaye"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan Tu Mil Jaaye",
+      "King movie Shah Rukh Khan",
+      "Shah Rukh Khan Dubai event",
+      "King release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156496621,thumbsize-187827,width-1280,height-720,resizemode-75/156496621.jpg",
+        "caption": "Shah Rukh Khan's Impromptu Dance To 'Tu Mil Jaaye' In Dubai Sets Internet Ablaze",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T08:52:25Z"
+  },
+  "10r730s": {
+    "id": "10r730s",
+    "type": "news",
+    "headline": "ATEEZ Returns With 15th Mini Album GOLDEN HOUR : Part.6 And Title Track UP",
+    "dek": "Group reflects on the success of BAD, celebrates their eighth anniversary, and details the production of their latest release.",
+    "body": [
+      {
+        "h": "Introduction to the Comeback",
+        "p": [
+          "K-pop group ATEEZ is officially preparing for their next major musical return following the strong reception of their previous promotional cycle. Ahead of the formal release, the members gathered for a press conference to discuss their brand new 15th mini album titled GOLDEN HOUR : Part.6.",
+          "The focal point of this new drop is the title track UP. The group explained that the project carries a profound sense of meaning as it arrives during the celebration of their eighth anniversary in the industry."
+        ]
+      },
+      {
+        "h": "Reflecting on Eighth Anniversary and UP",
+        "p": [
+          "Group leader Hongjoong opened up about the intensive schedule leading up to the release, explaining that the members made a mutual promise to execute a strong comeback. Despite facing a very tight timeline, they resolved to dedicate themselves completely to the work.",
+          "Highlighting the thematic core of the new music, Hongjoong noted that the central message is to demonstrate that ATEEZ continues to push upward even after eight years together. The group aimed to showcase a unique performance style that only they can pull off."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of the Music Video",
+        "p": [
+          "The members shared several behind-the-scenes stories from the production of the music video for UP. Yunho revealed a humorous detail regarding a boat-rowing scene, explaining that because the boat lacked a seat, he had to maintain an invisible chair squat throughout filming.",
+          "Other members discussed standout visual moments in the video. Hongjoong pointed out a symbolic final scene where San breaks through a wall to exit, while Wooyoung drew attention to Seonghwa's intricate dance break concluding the project."
+        ]
+      },
+      {
+        "h": "Memories of Ganjang Gejang",
+        "p": [
+          "Amidst the hard work of shooting, Yeosang and Yunho discovered a local dining spot serving ganjang gejang, which is soy sauce marinated crab. Finding the food exceptional, they quickly alerted the rest of the group.",
+          "The entire team ended up visiting the restaurant to eat the specialty dish for two straight days. Mingi praised the meal as the ganjang gejang of a lifetime, noting that the restaurant staff recognized them and prepared the food with extra care."
+        ]
+      },
+      {
+        "h": "Killing Parts and B-Side Tracks",
+        "p": [
+          "Addressing the division of key choreography segments, Yeosang talked about taking on the killing part for UP. He noted that because San performed the killing part so exceptionally during BAD, he felt a certain level of pressure, but channeled it into hard work during practice.",
+          "Yeosang emphasized that the choreography for UP features striking moments from the very beginning to the end, ensuring no dull points for viewers. Additionally, Jongho recommended the B-side track Hollow Victory for fans to check out."
+        ]
+      },
+      {
+        "h": "The Legacy of BAD and Looking Forward",
+        "p": [
+          "Reflecting on the milestone of a comeback series reaching its sixth installment, Wooyoung and Hongjoong shared mixed feelings about ending the GOLDEN HOUR chapter. While grateful for the widespread recognition brought by BAD, they intend to conclude the series once a fresh conceptual message arises.",
+          "San expressed awe over their current level of recognition, noting that they no longer need to explain their identity because people immediately know who they are. Looking ahead, Seonghwa highlighted upcoming awards shows and extensive performances, while Yunho credited their fandom, ATINY, as their primary driving force."
+        ]
+      },
+      {
+        "h": "Advice to Juniors and Release Details",
+        "p": [
+          "Wrapping up the conference, Wooyoung offered encouragement to junior artists coming from small to mid-sized agencies. He shared his personal motto that groups should not rush or give up, stressing that perseverance is the key to eventual success.",
+          "The group is scheduled to officially release their new mini album and music video on November 13 at 2 p.m. KST."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "ATEEZ held a press conference to discuss their 15th mini album GOLDEN HOUR : Part.6 and title track UP in celebration of their eighth anniversary. The members shared behind-the-scenes stories from their music video shoot, reflected on the success of their previous release BAD, and outlined their future goals ahead of the November 13 release."
+        ]
+      }
+    ],
+    "facts": [
+      "ATEEZ released their 15th mini album titled GOLDEN HOUR : Part.6 with the title track UP.",
+      "The comeback celebrates the group's eighth anniversary.",
+      "The official release date for the comeback is November 13 at 2 p.m. KST.",
+      "Jongho recommended the B-side track Hollow Victory.",
+      "Yunho and Yeosang ate ganjang gejang for two days straight during the music video filming."
+    ],
+    "entities": {
+      "people": [
+        "Hongjoong",
+        "Yunho",
+        "Yeosang",
+        "Mingi",
+        "San",
+        "Wooyoung",
+        "Seonghwa",
+        "Jongho",
+        "S Nam"
+      ],
+      "titles": [
+        "GOLDEN HOUR : Part.6",
+        "UP",
+        "BAD",
+        "Hollow Victory",
+        "Imitation"
+      ]
+    },
+    "keywords": [
+      "ATEEZ GOLDEN HOUR Part 6",
+      "ATEEZ UP title track",
+      "ATEEZ comeback press conference",
+      "ATEEZ new mini album"
+    ],
+    "images": [
+      {
+        "url": "https://0.soompi.io/wp-content/uploads/2026/11/12154727/%EB%8B%A8%EC%B2%B43.jpg",
+        "caption": "ATEEZ Returns With 15th Mini Album GOLDEN HOUR : Part.6 And Title Track UP",
+        "source": "Soompi"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 08:31:35 +0000"
+  },
+  "1flm0we": {
+    "id": "1flm0we",
+    "type": "news",
+    "headline": "Usher and Chris Brown Cancel December Concert Following Prior Tour Adjustments",
+    "dek": "The collaborative tour featuring Usher and Chris Brown faces further disruption as another major concert date is called off amid health concerns and legal proceedings.",
+    "body": [
+      {
+        "h": "Latest Tour Cancellations",
+        "p": [
+          "The collaborative concert series featuring Usher and Chris Brown has encountered fresh scheduling disruptions. Following previous alterations to their itinerary, the musical duo has officially called off their upcoming performance slated for December 6.",
+          "This latest cancellation affects the scheduled event at the Hard Rock Stadium located in Miami Gardens. Ticket booking platforms have updated their listings to reflect the removal of this particular concert date."
+        ]
+      },
+      {
+        "h": "Previous Itinerary Adjustments",
+        "p": [
+          "This recent announcement follows an earlier decision to cancel a high-profile concert scheduled for November 16 in Los Angeles. The pair had also previously dropped several other tour dates earlier in the season.",
+          "Shows in Baltimore, Cincinnati, Columbia, and Indianapolis were initially called off during October. However, those specific dates were successfully rescheduled and integrated into later points on the tour calendar."
+        ]
+      },
+      {
+        "h": "Unaffected Upcoming Dates",
+        "p": [
+          "Despite the removal of the December 6 event, fans holding tickets for other nearby dates can still expect performances to proceed. The concerts planned for December 3 and December 5 at the Hard Rock Stadium remain unaffected.",
+          "Organizers have confirmed that these earlier December shows will go on as originally planned, maintaining the remainder of the regional schedule without any further immediate alterations."
+        ]
+      },
+      {
+        "h": "Official Reasons and Explanations",
+        "p": [
+          "According to a formal statement released by the artists and promoters, the adjustments are necessary to prioritize health and well-being. The rigorous demands of managing a stadium tour of this magnitude prompted the difficult choices.",
+          "The touring party and crew require these strategic pauses to ensure safety and sustainability. The statement emphasizes that these measures will allow the remaining performances to continue smoothly."
+        ]
+      },
+      {
+        "h": "Legal Factors and Reports",
+        "p": [
+          "Alongside health considerations, external media reports have highlighted additional complications affecting the tour. Billboard indicated that Chris Brown was required to travel back to the United Kingdom for a court hearing.",
+          "The legal proceedings stem from a nightclub assault case where the performer previously pleaded guilty to an affray charge. This mandatory court appearance contributed significantly to the rescheduling pressures."
+        ]
+      },
+      {
+        "h": "Timeline of the Collaborative Run",
+        "p": [
+          "The joint musical venture kicked off its extensive schedule on June 30 with an opening performance in Minneapolis. The enterprise has featured numerous sold-out stadium shows across the country.",
+          "Current scheduling indicates that the final performance of the tour is set to take place on December 12 in Tampa, bringing the extensive concert series to a close."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Usher and Chris Brown have cancelled their December 6 show in Miami Gardens following previous alterations to their joint concert tour. The adjustments were attributed to crew health priorities and legal commitments requiring travel to the United Kingdom, while the tour approaches its scheduled conclusion in December."
+        ]
+      }
+    ],
+    "facts": [
+      "Usher and Chris Brown cancelled their December 6 show at the Hard Rock Stadium in Miami Gardens.",
+      "The duo previously cancelled their November 16 concert in Los Angeles.",
+      "Concerts in Baltimore, Cincinnati, Columbia, and Indianapolis were cancelled in October and later rescheduled.",
+      "Concerts on December 3 and December 5 at the Hard Rock Stadium are still proceeding as planned.",
+      "The tour began on June 30 in Minneapolis.",
+      "The final show of the tour is listed for December 12 in Tampa."
+    ],
+    "entities": {
+      "people": [
+        "Usher",
+        "Chris Brown"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Usher and Chris Brown",
+      "joint tour cancelled",
+      "December show Miami",
+      "Chris Brown UK court hearing"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135760516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Usher and Chris Brown Cancel December Concert Following Prior Tour Adjustments",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T13:14:15+05:30"
+  },
+  "13as7m8": {
+    "id": "13as7m8",
+    "type": "news",
+    "headline": "Avengers: Endgame: Encore Set for Disney+ Debut With New Doomsday Footage",
+    "dek": "Marvel Studios brings the expanded theatrical re-release of Avengers: Endgame to Disney+ alongside a promotional spot titled Countdown to Doomsday.",
+    "body": [
+      {
+        "h": "Disney+ Streaming Date Announced",
+        "p": [
+          "Marvel enthusiasts preparing for the studio's next massive cinematic event can soon stream the newly updated version of a modern blockbuster from home. Disney+ has officially confirmed the digital release schedule for the special theatrical edition, giving subscribers an accessible way to catch up on all the newly added material.",
+          "The streaming platform scheduled the arrival for November 13. This digital release directly follows a strategic theatrical return designed to build immense anticipation for the studio's upcoming crossover epic."
+        ]
+      },
+      {
+        "h": "Countdown to Doomsday Promotion",
+        "p": [
+          "Alongside the digital release confirmation, the streaming platform unleashed a fresh promotional television spot for audiences to view. This new promotional video carries the official title Countdown to Doomsday.",
+          "The fresh spot ties directly into the promotional campaign for the sprawling upcoming team-up film. It incorporates exclusive footage that gives viewers their very first extended look at the impending cinematic conflict."
+        ]
+      },
+      {
+        "h": "Theatrical Re-Release and Box Office Success",
+        "p": [
+          "The extended version originally made its way back to cinemas on September 25, 2026. Different lengths of bonus footage were featured across various theater screenings during this limited run.",
+          "This strategic return to the big screen delivered remarkably strong financial returns at the box office. The theatrical re-release notably helped the monumental Infinity Saga conclusion reclaim the top all-time box office spot from Avatar."
+        ]
+      },
+      {
+        "h": "Background of the Infinity Saga Finale",
+        "p": [
+          "Originally, the foundational superhero epic finished its historical run by grossing over $2.9 billion worldwide. The narrative centers on the aftermath of Thanos executing his devastating snap, which successfully wiped out half of all life in the universe.",
+          "With the remaining heroes struggling immensely to move forward, the surviving Avengers eventually reunited. Their ultimate mission focused on restoring universal balance and bringing back their lost loved ones."
+        ]
+      },
+      {
+        "h": "Curated Viewing Guide for Fans",
+        "p": [
+          "To help audiences prepare for the impending cinematic milestone, Disney+ assembled a dedicated special viewing guide. The curated collection features essential movies and television shows for fans to revisit.",
+          "By watching these recommended titles, viewers can properly catch up on crucial continuity before the next major narrative chapter hits theaters."
+        ]
+      },
+      {
+        "h": "Cast and Crew of the Upcoming Crossover",
+        "p": [
+          "The upcoming crossover film takes place chronologically after the events of Thunderbolts. Directorial duties for the blockbuster are handled by filmmakers Anthony and Joe Russo.",
+          "The massive ensemble cast features notable stars including Robert Downey Jr. stepping into the role of Doctor Doom, alongside Chris Hemsworth, Chris Evans, Tom Hiddleston, Paul Rudd, Anthony Mackie, Pedro Pascal, Florence Pugh, Sebastian Stan, Patrick Stewart, and Ian McKellen, among others."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Disney+ has announced the streaming release date for Avengers: Endgame: Encore, featuring fresh footage tied to Avengers: Doomsday. The updated version previously returned to theaters to achieve strong box office results ahead of the December theatrical premiere."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Endgame: Encore arrives on Disney+ on November 13.",
+      "The theatrical re-release happened on September 25, 2026.",
+      "The Infinity Saga finale earned over $2.9 billion worldwide.",
+      "Avengers: Doomsday is scheduled to release on December 18, 2026.",
+      "Anthony and Joe Russo are directing Avengers: Doomsday.",
+      "Robert Downey Jr. stars as Doctor Doom."
+    ],
+    "entities": {
+      "people": [
+        "Ojas Kulkarni",
+        "Thanos",
+        "Robert Downey Jr.",
+        "Anthony Russo",
+        "Joe Russo",
+        "Chris Hemsworth",
+        "Chris Evans",
+        "Tom Hiddleston",
+        "Paul Rudd",
+        "Anthony Mackie",
+        "Pedro Pascal",
+        "Florence Pugh",
+        "Sebastian Stan",
+        "Patrick Stewart",
+        "Ian McKellen"
+      ],
+      "titles": [
+        "Avengers Endgame Encore",
+        "Avengers Doomsday",
+        "Avengers Endgame",
+        "Avatar",
+        "Thunderbolts"
+      ]
+    },
+    "keywords": [
+      "Avengers Endgame Encore",
+      "Avengers Doomsday Disney Plus",
+      "Countdown to Doomsday",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/7_1a5227.jpg?resize=1200,630",
+        "caption": "Avengers: Endgame: Encore Set for Disney+ Debut With New Doomsday Footage",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 08:22:57 +0000"
   }
 };
