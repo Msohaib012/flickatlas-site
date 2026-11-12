@@ -120676,5 +120676,427 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 00:30:12 GMT"
+  },
+  "1kipxlb": {
+    "id": "1kipxlb",
+    "type": "news",
+    "headline": "Ramayana Enters Oscars 2027 Race In Visual Effects Following Independent Submission",
+    "dek": "The mythological epic featuring Ranbir Kapoor, Sai Pallavi, and Yash has been submitted independently for the 2027 Academy Awards in the visual effects category.",
+    "body": [
+      {
+        "h": "Independent Submission for the Academy Awards",
+        "p": [
+          "The makers of the mythological drama Ramayana have officially entered the film into the race for the 2027 Academy Awards. Following its strong global performance, the production team decided to submit the project independently to compete specifically in the visual effects category.",
+          "While the visual effects submission has been confirmed, it remains uncertain whether the feature has been entered into any additional competitive categories at this stage."
+        ]
+      },
+      {
+        "h": "Global Success and Milestone",
+        "p": [
+          "This Oscars development arrives as the big-screen retelling of the Hindu epic continues to perform strongly across the globe. Reports from sources close to the project indicate that the feature is steadily approaching the major milestone of Rs 1000 crore in worldwide box office collections."
+        ]
+      },
+      {
+        "h": "Coexistence With India's Official Entry",
+        "p": [
+          "The independent submission of this mythological adaptation does not interfere with the official Indian selection for the international feature film category. Santosh Davakhar’s Gondhal holds the title of India’s official entry for the 2027 Academy Awards.",
+          "Because Academy regulations restrict each country to a single official submission for the international feature category, the independent route allowed the production team to pursue recognition in technical fields instead."
+        ]
+      },
+      {
+        "h": "Navigating Academy Deadlines",
+        "p": [
+          "Originally hitting global cinema screens on November 5 as a Diwali attraction, the project missed the initial September submission deadline set by the Academy. Fortunately, the organization permits eligibility for films debuting after that month under specific criteria.",
+          "The rules dictate that motion pictures with a theatrical qualifying window between July 1, 2026, and December 31, 2026, must complete all required general entry forms and furnish screen credits to the Academy by the evening deadline on Thursday, November 12, 2026."
+        ]
+      },
+      {
+        "h": "Qualifying Theatrical Standards in the United States",
+        "p": [
+          "For an independent submission to successfully advance, the guidelines mandate a commercial theatrical run in one of six designated U.S. metropolitan regions. These include Los Angeles County, New York City, the Bay Area, Chicago, Dallas-Fort Worth, and Atlanta.",
+          "Furthermore, the qualifying run requires continuous screenings for at least seven consecutive days. During this period, theaters must play the film a minimum of three times each day, with at least one daily screening scheduled between 6 PM and 10 PM."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "Nitesh Tiwari serves as the director of the high-profile cinematic adaptation. The ensemble cast features Ranbir Kapoor in the role of Rama, Sai Pallavi portraying Sita, and Yash stepping into the character of Ravana, alongside Ravi Dubey as Lakshman.",
+          "Additional notable cast members include Arun Govil as Dashrath, Indira Krishnan as Kaushalya, Lara Dutta as Kaikeyi, Sonal Jha as Sumitra, Adinath Kothare as Bharat, Nitish Sharma as Shatrughan, Shobana as Kekasi, Rakul Preet Singh as Surpanakha, Kajal Agarwal as Mandodari, and Anupam Kher providing the voice for Jatayu."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The creators of Ramayana have independently submitted the Ranbir Kapoor and Yash-starrer for the 2027 Oscars in the visual effects category. Released globally on November 5, the film met Academy eligibility rules and does not affect India's official entry, Gondhal."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor, Sai Pallavi, and Yash star in Ramayana.",
+      "The film released globally on November 5, 2026.",
+      "Santosh Davakhar’s Gondhal is India’s official entry to the Oscars 2027.",
+      "The Academy deadline for submissions with qualifying runs between July 1 and December 31, 2026, is November 12, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Indira Krishnan",
+        "Lara Dutta",
+        "Sonal Jha",
+        "Adinath Kothare",
+        "Nitish Sharma",
+        "Shobana",
+        "Rakul Preet Singh",
+        "Kajal Agarwal",
+        "Anupam Kher",
+        "Santosh Davakhar"
+      ],
+      "titles": [
+        "Ramayana",
+        "Gondhal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Oscars 2027",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana visual effects category",
+      "Nitesh Tiwari Ramayana cast"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156494704,thumbsize-598705,width-1280,height-720,resizemode-75/156494704.jpg",
+        "caption": "Ramayana Enters Oscars 2027 Race In Visual Effects Following Independent Submission",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T01:51:24Z"
+  },
+  "zuy3i7": {
+    "id": "zuy3i7",
+    "type": "news",
+    "headline": "Wednesday Kdrama Ratings: 'Happy Anding' Leads as 'What a Boss Wants' Opens at 1.3%",
+    "dek": "Two new dramas debuted on November 11, bringing Wednesday night drama back to Korean television with competing premiere figures.",
+    "body": [
+      {
+        "h": "The Return of Wednesday Night Dramas",
+        "p": [
+          "Korean television welcomed the return of Wednesday night drama programming on November 11 with the simultaneous premieres of two brand-new series. Viewers tuning in for the mid-week lineup were greeted with fresh content across different cable networks, sparking immediate interest in how the new titles would perform against one another.",
+          "The competitive landscape of mid-week broadcasting was reinvigorated as networks rolled out their latest offerings. Nielsen Korea provided the official nationwide figures, outlining how the audience divided their attention between the fresh debuts on their television screens."
+        ]
+      },
+      {
+        "h": "Happy Anding Claims the Top Spot",
+        "p": [
+          "Headlining the mid-week ratings race was the tvN comedy series Happy Anding. The premiere episode secured a nationwide rating of 1.7 percent among pay-TV households, successfully capturing the highest drama viewership of the evening.",
+          "This strong showing also marked a significant programming milestone for the network, as it serves as the official return of the tvN Wednesday-Thursday drama slot following a hiatus of approximately eight months."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Leads tvN Premiere",
+        "p": [
+          "The successful launch of Happy Anding was driven in part by its recognizable main cast. The ensemble features performances by Kang Hoon, Jo Hyun Chul, and Lee E Dam.",
+          "Ahead of the broadcast, promotional materials highlighted the actors participating in the script reading, building anticipation for the comedic tone and character dynamics that ultimately resonated with viewers on premiere night."
+        ]
+      },
+      {
+        "h": "What a Boss Wants Debuts on MBN",
+        "p": [
+          "Competing in the same mid-week time slot, MBN entered the fray with the premiere of What a Boss Wants. The romantic comedy recorded a nationwide viewership of 1.29 percent among pay-TV households on its opening night.",
+          "The project carries notable anticipation for fans of the genre, serving as a television adaptation based on a web novel of the exact same name."
+        ]
+      },
+      {
+        "h": "Sung Hoon Makes His Television Return",
+        "p": [
+          "A major talking point surrounding the launch of What a Boss Wants was the comeback of its leading man. The series features actor Sung Hoon starring alongside co-star Oh Se Young.",
+          "This project marks a notable milestone for Sung Hoon, representing his very first television drama appearance in a span of three years."
+        ]
+      },
+      {
+        "h": "Upcoming Mid-Week Lineup Additions",
+        "p": [
+          "The television schedule for mid-week broadcasting is set to expand further with additional premieres lined up for the coming weeks. KBS2 is preparing to kick off its Drama Special 2026 anthology on November 18.",
+          "Following that, SBS will introduce its own new series when Nine to Six premieres on November 25. Meanwhile, both Happy Anding and What a Boss Wants will continue to air their regular episodes on Wednesdays and Thursdays on tvN and MBN respectively."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Two new television dramas premiered on November 11, marking the return of mid-week programming according to Nielsen Korea ratings. Happy Anding took the lead with a 1.7 percent rating on tvN, while What a Boss Wants opened with 1.29 percent on MBN."
+        ]
+      }
+    ],
+    "facts": [
+      "November 11, 2026",
+      "Happy Anding premiere rating: 1.7%",
+      "What a Boss Wants premiere rating: 1.29%",
+      "Kang Hoon, Jo Hyun Chul, and Lee E Dam star in Happy Anding",
+      "Sung Hoon and Oh Se Young star in What a Boss Wants"
+    ],
+    "entities": {
+      "people": [
+        "Hana",
+        "Kang Hoon",
+        "Jo Hyun Chul",
+        "Lee E Dam",
+        "Sung Hoon",
+        "Oh Se Young",
+        "Lee Hyun Wook",
+        "Jang Hyuk",
+        "Kim Kang Woo",
+        "Park Sung Woong",
+        "Lee Jae Wook",
+        "Choi Jung Won",
+        "Tian Xi Wei",
+        "Yan An",
+        "Lee Se Young",
+        "Zhao Lu Si"
+      ],
+      "titles": [
+        "Happy Anding",
+        "What a Boss Wants",
+        "Drama Special 2026",
+        "Nine to Six",
+        "Sword & Silence",
+        "Dead-End Job",
+        "Pursuit of Jade",
+        "Where the Mask Ends",
+        "The Remarried Empress"
+      ]
+    },
+    "keywords": [
+      "Happy Anding tvN drama",
+      "What a Boss Wants MBN",
+      "Wednesday Kdrama ratings",
+      "Kang Hoon Happy Anding",
+      "Sung Hoon What a Boss Wants"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/lBBjmE_2d.jpg",
+        "caption": "Wednesday Kdrama Ratings: 'Happy Anding' Leads as 'What a Boss Wants' Opens at 1.3%",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Wed, 11 Nov 2026 23:45:47 +0000"
+  },
+  "1t1jn46": {
+    "id": "1t1jn46",
+    "type": "news",
+    "headline": "Ram Gopal Varma Declares Ramayana: Part 1 a New Benchmark for Indian Cinema Following Second Viewing",
+    "dek": "Filmmaker Ram Gopal Varma shared a comprehensive review after watching the epic fantasy twice, praising the massive scale, ambitious storytelling, and standout performances by Yash and Ranbir Kapoor.",
+    "body": [
+      {
+        "h": "An Atheist Filmmaker's Perspective",
+        "p": [
+          "Filmmaker Ram Gopal Varma recently shared an extensive review of the epic film Ramayana after watching the star-studded feature for a second time. Describing himself as an atheist, Varma clarified that his glowing assessment stems entirely from his perspective as a dedicated cinema enthusiast rather than a religious devotee. He focused his praise on the sheer technical ambition and visual magnitude of the production.",
+          "According to the director, the film achieves feats that no creator in the history of Indian cinema had previously attempted. He pointed out that the project successfully captures the spiritual essence of a traditional epic and translates it onto a cinematic canvas so vast that it makes major international blockbusters resemble intimate stage productions."
+        ]
+      },
+      {
+        "h": "Visionary Leadership Behind the Project",
+        "p": [
+          "Varma directed high praise toward director Nitesh Tiwari and producer Namit Malhotra for their grand vision and fearless execution. He commended them for maintaining the moral stakes of the narrative without diluting it into a standard, formulaic masala action film.",
+          "The filmmaker framed this massive endeavor as an urgent wake-up call for Bollywood as a whole. He challenged industry creators to move past complacency and embrace the kind of calculated risk-taking and determination required to bring such monumental stories to life on screen."
+        ]
+      },
+      {
+        "h": "Yash's Decadal Performance as Ravana",
+        "p": [
+          "One of the most heavily emphasized aspects of Varma's review was the performance delivered by Yash as the antagonist Ravana. The filmmaker stated that the portrayal transcends a typical performance of the year, describing it as an electrifying presence unlike anything he has witnessed across decades of watching movies.",
+          "Rather than depicting Ravana as a one-dimensional villain, the character is portrayed as a figure who achieved power through deep penance, sharp intelligence, and unwavering resolve. Varma credited writer Sridhar Raghavan for crafting a rich backstory complete with internal conflicts, devotion to Shiva, and psychological depth."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor's Restrained Portrayal of Lord Ram",
+        "p": [
+          "Addressing critics who found fault with Ranbir Kapoor's quiet demeanor, Varma leaped to the defense of the actor's restrained interpretation of Lord Ram. He argued that the character's core essence is defined by what he chooses to withhold rather than overt emotional outbursts.",
+          "The director noted that elements such as Ram's quiet acceptance of exile, controlled application of force, and strict adherence to principles are fundamental to understanding the character. He suggested that critics expecting constant high-octane emotional displays entirely missed the point of the performance."
+        ]
+      },
+      {
+        "h": "Cinematic Highlights and Technical Scale",
+        "p": [
+          "Varma highlighted several standout visual sequences, including the opening cosmic battle and a breathtaking climactic encounter involving Jatayu. He noted that the depiction of Ravana's ten heads serves as a living representation of internal conflict and deep knowledge rather than a mere visual gimmick.",
+          "In addition to the visual effects, he praised the musical contributions of AR Rahman and Hans Zimmer, specifically pointing out the effectiveness of the Tandav sequences and aerial combat music cues in balancing high energy with narrative restraint."
+        ]
+      },
+      {
+        "h": "Rejecting Negative Criticism",
+        "p": [
+          "The filmmaker strongly dismissed negative reviews that targeted the film's runtime, musical choices, or perceived lack of immediate emotional resonance. He maintained that the extensive length is necessary to establish Ravana's immense stature and fully depict the journey of Ram's exile.",
+          "Varma went as far as to state that reviewing the film negatively is an insult to Indian cinema. He compared the detractors to individuals complaining about a steep mountain path while remaining entirely oblivious to the gargantuan architects who built the structure."
+        ]
+      },
+      {
+        "h": "A Cultural Milestone for Indian Film",
+        "p": [
+          "Concluding his analysis, Varma asserted that Ramayana: Part 1 stands tall above international productions because it draws inspiration from native Indian stories rather than borrowing tropes from foreign franchises like The Lord of the Rings or Avatar.",
+          "He declared that the release establishes an entirely new standard against which all subsequent Indian films will be measured, noting lightheartedly that the only production likely to surpass or disrupt Ramayana: Part 1 will be its own upcoming sequel."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Ram Gopal Varma shared a detailed, highly positive review of the epic film Ramayana after viewing it twice, praising director Nitesh Tiwari and producer Namit Malhotra for its grand scale and cinematic ambition. He lauded Yash for a generational performance as Ravana and defended Ranbir Kapoor's restrained portrayal of Lord Ram against various critical remarks.",
+          "Calling the project a wake-up call for Bollywood and a new benchmark for Indian cinema, Varma dismissed negative reviews regarding the film's runtime and music while celebrating its deep roots in traditional Indian storytelling."
+        ]
+      }
+    ],
+    "facts": [
+      "Ram Gopal Varma watched Ramayana twice before sharing his review.",
+      "The film stars Ranbir Kapoor, Yash, and Sai Pallavi.",
+      "Nitesh Tiwari directed the film and Namit Malhotra produced it.",
+      "Sridhar Raghavan wrote the backstory for Ravana.",
+      "AR Rahman and Hans Zimmer composed the music for the film.",
+      "The review was published on November 11, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ram Gopal Varma",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sridhar Raghavan",
+        "AR Rahman",
+        "Hans Zimmer"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana: Part 1",
+        "The Lord of the Rings",
+        "Avatar"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ram Gopal Varma",
+      "Yash Ravana",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156493316,thumbsize-749883,width-1280,height-720,resizemode-75/156493316.jpg",
+        "caption": "Ram Gopal Varma Declares Ramayana: Part 1 a New Benchmark for Indian Cinema Following Second Viewing",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T01:51:24Z"
+  },
+  "byayr3": {
+    "id": "byayr3",
+    "type": "news",
+    "headline": "Daniel Craig's Final James Bond Outing Nears Domestic Defeat by 95-Minute Action Hit",
+    "dek": "No Time to Die faces a domestic box office challenge from Zach Cregger's breakout Resident Evil reboot.",
+    "body": [
+      {
+        "h": "The Legacy of Daniel Craig's 007 Era",
+        "p": [
+          "James Bond remains one of the most lucrative intellectual properties in cinema history, currently preparing for a brand new chapter. Continuous casting updates continue to spark debates regarding who will succeed Daniel Craig following his fifteen-year tenure across five motion pictures.",
+          "Craig's final performance in the role arrived with No Time to Die, a production that encountered significant obstacles before finally reaching global audiences."
+        ]
+      },
+      {
+        "h": "Production Hurdles and Global Success for No Time to Die",
+        "p": [
+          "Originally scheduled for a 2000 premiere, the 007 feature faced persistent delays driven by pandemic restrictions, production setbacks, and creative departures. The picture ultimately debuted in October 2021, navigating a congested autumn slate to achieve commercial success.",
+          "Supported by subsequent re-releases, the title accumulated a worldwide gross of $907 million against a production budget of $301 million."
+        ]
+      },
+      {
+        "h": "Lopsided Theatrical Earnings and International Dominance",
+        "p": [
+          "Despite the impressive global figures, the release exhibited a heavily lopsided distribution. Approximately 82 percent of the cumulative earnings originated from international markets, highlighting the extraordinary overseas pull of the spy franchise.",
+          "Conversely, domestic ticket sales in the United States reached a comparatively modest $161 million. Analysts attribute the disparity to various factors, including lingering pandemic anxiety, intense competition, shorter theatrical windows, a lengthy runtime of 163 minutes, and potential franchise fatigue."
+        ]
+      },
+      {
+        "h": "The Rise of the Resident Evil Reboot",
+        "p": [
+          "The domestic tally established by the secret agent swan song is now being closely approached by a major genre competitor. Zach Cregger's horror reboot has drawn $160 million domestically after nearly eight weeks running in United States theaters.",
+          "Furthermore, the new video game adaptation proved highly profitable by generating $410 million globally against a modest budget of $75 million."
+        ]
+      },
+      {
+        "h": "Market Conditions and Critical Acclaim",
+        "p": [
+          "The recent horror hit benefited from a fully recovered exhibition market, a swift 95-minute runtime, and a strong cultural appetite for video game translations. Critical response proved overwhelmingly positive, securing a 96 percent score among critics on Rotten Tomatoes.",
+          "While international markets generated $250 million for the horror picture, its overseas audience remained dwarfed by the $746 million collected by the 007 sequel in comparable territories."
+        ]
+      },
+      {
+        "h": "Future Franchise Prospects and Strategic Parallels",
+        "p": [
+          "The storied spy enterprise now anticipates a comprehensive reboot following a five-year intermission. Producers intend to balance traditional franchise elements with modernized tropes while maintaining a grounded and realistic tone.",
+          "Similarly, the director of the horror reboot took a creative risk that successfully revitalized an established property through a faithful yet standalone narrative approach, offering a potential blueprint for upcoming franchise installments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Daniel Craig's final James Bond film accumulated $907 million worldwide with a domestic haul of $161 million, heavily relying on international territories. Meanwhile, Zach Cregger's Resident Evil reboot has neared that domestic gross with $160 million after nearly eight weeks while turning a profit on a $75 million budget.",
+          "Both projects highlight contrasting box office trajectories and marketplace conditions as the 007 franchise looks ahead to its next planned cinematic relaunch."
+        ]
+      }
+    ],
+    "facts": [
+      "Daniel Craig's run as 007 spanned 15 years and five installments",
+      "No Time to Die was initially slated for release in 2020 and released in October 2021",
+      "No Time to Die grossed $907 million worldwide against a $301 million budget",
+      "No Time to Die earned $161 million domestically in the US",
+      "No Time to Die had a runtime of 163 minutes",
+      "Resident Evil has grossed $160 million in US theaters after almost eight weeks",
+      "Resident Evil earned $410 million against its $75 million budget",
+      "Resident Evil has a 95-minute runtime",
+      "Resident Evil earned a Rotten Tomatoes critics score of 96 percent",
+      "Resident Evil grossed $250 million abroad"
+    ],
+    "entities": {
+      "people": [
+        "Daniel Craig",
+        "Zach Cregger",
+        "Austin Abrams",
+        "Bryan Paul Walter Hauser Paul",
+        "Kali Reis",
+        "Maxine",
+        "Zach Cherry",
+        "Carl",
+        "Shay Hatten",
+        "Asad Qizilbash",
+        "Carter Swan",
+        "Miri Yoon",
+        "Robert Kulzer",
+        "Roy Lee",
+        "Victor Hadida"
+      ],
+      "titles": [
+        "No Time to Die",
+        "Resident Evil",
+        "Lost",
+        "One Hundred Years of Solitude"
+      ]
+    },
+    "keywords": [
+      "No Time to Die box office",
+      "Resident Evil movie reboot",
+      "Daniel Craig final James Bond film",
+      "Zach Cregger Resident Evil earnings"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/10/daniel-craig-in-no-time-to-die.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Daniel Craig's Final James Bond Outing Nears Domestic Defeat by 95-Minute Action Hit",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 00:30:16 GMT"
   }
 };

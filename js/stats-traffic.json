@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-12T01:00:11Z",
+  "generated": "2026-11-12T01:53:39Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 3
   },
   "today": {
-    "users": 0,
-    "pageviews": 0,
-    "sessions": 0,
-    "avg_session_seconds": 0
+    "users": 1,
+    "pageviews": 1,
+    "sessions": 1,
+    "avg_session_seconds": 2.1
   },
   "last7": {
-    "users": 61,
-    "pageviews": 240,
-    "sessions": 98,
-    "avg_session_seconds": 99.1
+    "users": 65,
+    "pageviews": 244,
+    "sessions": 102,
+    "avg_session_seconds": 95.4
   },
   "top_pages": [
     {
@@ -26,8 +26,8 @@
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 22,
-      "avg_time_seconds": 46.0
+      "views": 23,
+      "avg_time_seconds": 43.1
     },
     {
       "path": "/box-office",
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 82,
-      "users": 52
+      "sessions": 86,
+      "users": 56
     },
     {
       "source": "search.google.com",
@@ -111,7 +111,11 @@
     },
     {
       "country": "Brazil",
-      "users": 12
+      "users": 13
+    },
+    {
+      "country": "Singapore",
+      "users": 7
     },
     {
       "country": "Argentina",
@@ -119,10 +123,6 @@
     },
     {
       "country": "Pakistan",
-      "users": 5
-    },
-    {
-      "country": "Singapore",
       "users": 5
     },
     {
@@ -138,18 +138,18 @@
       "users": 2
     },
     {
-      "country": "Morocco",
+      "country": "Malaysia",
       "users": 2
     },
     {
-      "country": "United Kingdom",
+      "country": "Morocco",
       "users": 2
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 53
+      "users": 57
     },
     {
       "device": "mobile",
