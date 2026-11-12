@@ -125967,5 +125967,460 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 16:42:31 +0530"
+  },
+  "5emmdq": {
+    "id": "5emmdq",
+    "type": "news",
+    "headline": "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
+    "dek": "As the awards campaign ramps up, tracking indicates Christopher Nolan's epic adaptation could challenge all-time nomination records.",
+    "body": [
+      {
+        "h": "Setting the Stage for an Oscar Blitz",
+        "p": [
+          "Christopher Nolan and the creative team behind Universal Pictures' epic retelling of Homer have officially launched their awards campaign. Early projections indicate that the film is well-positioned to dominate the upcoming Academy Awards ceremony, generating intense early excitement among prognosticators and industry watchers alike.",
+          "The awards blitz features a heavy schedule of exclusive screenings, panel discussions, industry junkets, and special promotional exhibits. High-profile figures such as Steven Spielberg, Guillermo del Toro, and Robert Downey Jr. have lent their support to the campaign, reinforcing the film's status as a major front-runner for the season."
+        ]
+      },
+      {
+        "h": "Chasing Nomination Records",
+        "p": [
+          "From the moment tracking began for the 2027 Oscars, the picture surged to the forefront of industry leaderboards. Observers note that the production has a clear path to match or even surpass the high nomination benchmarks established by previous awards-season heavyweights.",
+          "Industry analysts suggest the feature could secure recognition across nearly every eligible category. Achieving this milestone would place the project in an elite class of cinematic achievements, needing only a few targeted category wins to secure an all-time record."
+        ]
+      },
+      {
+        "h": "Leading Contenders in Major Categories",
+        "p": [
+          "The project holds commanding numbers in top races, including strong positioning for the top feature prize. Director Christopher Nolan is also heavily favored in the directing category, building on his previous historical sweeps with past features.",
+          "In the lead acting fields, Matt Damon steps forward as the standard-bearer for the production. Meanwhile, supporting players like Anne Hathaway and Samantha Morton have generated significant buzz for their respective performances as Penelope and Circe."
+        ]
+      },
+      {
+        "h": "Crafting the Technical Marvel",
+        "p": [
+          "A significant portion of the projected success stems from the movie's groundbreaking technical execution. Cinematographer Hoyte van Hoytema utilized custom IMAX camera technology to capture breathtaking visuals across diverse shooting locations.",
+          "The artisan departments matched this grand scale through massive collaborative efforts. Costume designer Ellen Mirojnick oversaw hundreds of craftspeople across multiple countries, while hair and makeup leads Luisa Abel and Gloria Casny managed thousands of extras under strict aesthetic guidelines."
+        ]
+      },
+      {
+        "h": "Design and Soundscapes",
+        "p": [
+          "Production designer Ruth De Jong crafted massive physical sets, including the palace of Ithaca and the Cyclops cave, earning some of the highest statistical favorability ratings on current leaderboards. Her work anchors the physical realism of the mythical setting.",
+          "On the auditory front, composer Ludwig Göransson integrated ancient Greek instruments and vocal stylings to construct an immersive score. The production's sonic landscape is further rounded out by veteran sound designers and mixers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Christopher Nolan's upcoming film The Odyssey has emerged as an early front-runner on major awards leaderboards as its official campaign gets underway. Industry tracking predicts the epic feature is on track to challenge major nomination records across multiple categories."
+        ]
+      }
+    ],
+    "facts": [
+      "The Odyssey is distributed by Universal Pictures.",
+      "Sinners previously set a nomination record with 16 nods.",
+      "Ludwig Göransson is 3-for-3 in the Best Score category.",
+      "Ellen Mirojnick oversaw an army of 500-plus artisans to create 5,300 costumes across nine countries."
+    ],
+    "entities": {
+      "people": [
+        "Christopher Nolan",
+        "Matt Damon",
+        "Julianne Moore",
+        "John Malkovich",
+        "Anne Hathaway",
+        "Paul Giamatti",
+        "Steven Spielberg",
+        "Guillermo del Toro",
+        "Robert Downey Jr.",
+        "Samantha Morton",
+        "John Leguizamo",
+        "Hoyte van Hoytema",
+        "Ellen Mirojnick",
+        "Jennifer Lame",
+        "Luisa Abel",
+        "Gloria Casny",
+        "Bill Irwin",
+        "Ruth De Jong",
+        "Ludwig Göransson",
+        "James Blake",
+        "Travis Scott",
+        "Craig Henighan",
+        "Willie Burton"
+      ],
+      "titles": [
+        "The Odyssey",
+        "Sinners",
+        "The Debut",
+        "Wild Horse Nine",
+        "La Bola Negra",
+        "Werwulf",
+        "Project Hail Mary",
+        "Wildwood",
+        "Naza",
+        "Oppenheimer",
+        "The Invite",
+        "Dune: Part Three",
+        "You Can See Everything",
+        "All of a Sudden",
+        "Obsession",
+        "Good Will Hunting",
+        "The Martian",
+        "Invictus",
+        "Elsinore",
+        "Primetime",
+        "Les Misérables",
+        "Sweet and Lowdown",
+        "In America",
+        "Artificial",
+        "I Play Rocky",
+        "Sense and Sensibility",
+        "Digger",
+        "Clayface",
+        "Disclosure Day",
+        "Toy Story 5",
+        "By Any Means"
+      ]
+    },
+    "keywords": [
+      "The Odyssey film",
+      "Christopher Nolan The Odyssey",
+      "The Odyssey Oscar odds",
+      "Matt Damon The Odyssey"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/07/CT-04168_MSGCROP.jpg?w=650",
+        "caption": "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 13:00:00 +0000"
+  },
+  "yil6y7": {
+    "id": "yil6y7",
+    "type": "news",
+    "headline": "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
+    "dek": "Prime Video has announced the release schedule for The Chosen Season 6, featuring an unusual rollout plan that saves the finale for a 2027 theatrical release.",
+    "body": [
+      {
+        "h": "The Return of The Chosen",
+        "p": [
+          "The historical drama series is coming back for its sixth season, bringing viewers closer to the end of its overarching narrative. Fans eager to continue following the journey can look forward to the premiere arriving soon on streaming.",
+          "The upcoming batch of episodes will focus intently on a deeply significant period in the storyline, drawing significant attention from the show's dedicated fanbase."
+        ]
+      },
+      {
+        "h": "Streaming Premiere Details",
+        "p": [
+          "The sixth season begins streaming on Sunday, November 15, on Prime Video. On launch day, subscribers will receive access to the first three episodes simultaneously.",
+          "Following the triple-episode premiere, additional episodes will roll out weekly on Sundays, allowing audiences to follow the unfolding narrative step by step through early December."
+        ]
+      },
+      {
+        "h": "Complete Episode Schedule",
+        "p": [
+          "The streaming calendar kicks off on November 15 with Episodes 1, 2, and 3 dropping together. Episode 4 follows on Sunday, November 22.",
+          "The schedule continues with Episode 5 on November 29, leading up to Episode 6 on Sunday, December 6, which marks the final installment available directly on the platform during this run."
+        ]
+      },
+      {
+        "h": "A Theatrical Finale",
+        "p": [
+          "Although December 6 brings the final scheduled episode on Prime Video, it is not the actual conclusion of the season's storyline. Instead, the ultimate finale is being distributed separately as a feature-length film.",
+          "This cinematic event is scheduled to debut in theaters on March 12, 2027, courtesy of Amazon MGM Studios and 5 2 Studios, portraying the crucifixion of Jesus."
+        ]
+      },
+      {
+        "h": "Creative Vision Behind the Split",
+        "p": [
+          "Series creator Dallas Jenkins explained that the production team deliberately crafted the season with a theatrical experience in mind. The creators felt the dramatic weight of the material warranted a full-length movie format alongside the standard television run.",
+          "According to the official announcement, the writing and filming process was purposely tailored to accommodate both the episodic structure and the big-screen event."
+        ]
+      },
+      {
+        "h": "Cast and Future Plans",
+        "p": [
+          "Jonathan Roumie leads the cast once again as Jesus, joined by returning actors Shahar Isaac, Elizabeth Tabish, Paras Patel, and Luke Dimyan.",
+          "Looking beyond the current chapter, the overarching story is planned to conclude with a seventh season that will center on the resurrection."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Prime Video and 5 2 Studios have unveiled the release schedule for Season 6 of The Chosen, premiering on November 15 with three initial episodes.",
+          "While weekly episodes will air through December 6, the season's finale will be held back for a standalone theatrical release in March 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 6 of The Chosen premieres on November 15, 2026",
+      "The first three episodes launch on Prime Video",
+      "Episode 6 is scheduled for December 6",
+      "The theatrical finale movie releases on March 12, 2027",
+      "Jonathan Roumie stars as Jesus"
+    ],
+    "entities": {
+      "people": [
+        "Jonathan Roumie",
+        "Shahar Isaac",
+        "Elizabeth Tabish",
+        "Paras Patel",
+        "Luke Dimyan",
+        "Dallas Jenkins"
+      ],
+      "titles": [
+        "The Chosen"
+      ]
+    },
+    "keywords": [
+      "The Chosen Season 6",
+      "Jonathan Roumie The Chosen",
+      "The Chosen Prime Video",
+      "Dallas Jenkins The Chosen"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/the-chosen-season-6-schedule.jpg",
+        "caption": "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 13:04:55 +0000"
+  },
+  "13jmj6s": {
+    "id": "13jmj6s",
+    "type": "news",
+    "headline": "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
+    "dek": "Ayushmann Khurrana and Sharvari star in the newly released devotional track Bulaye Chhathi Maa from Sooraj Barjatya's upcoming film.",
+    "body": [
+      {
+        "h": "Introduction to the New Track",
+        "p": [
+          "The newly released track Bulaye Chhathi Maa from the forthcoming film Yeh Prem Mol Liya has garnered appreciation across various social media platforms. Listeners have highlighted the devotional atmosphere, the emotional depth of the lyrics, and the melodic composition crafted for the festival of Chhath Puja.",
+          "Featured prominently in the promotional material are lead actors Ayushmann Khurrana and Sharvari, who bring visual energy to the devotional number. The release adds a distinct cultural layer to the movie's musical repertoire ahead of its theatrical debut."
+        ]
+      },
+      {
+        "h": "Creative Team Behind the Music",
+        "p": [
+          "The musical framework of the song was conceived by composer Himesh Reshammiya, who designed a melody fitting the solemn and festive nature of the occasion. The vocal delivery is shared between Shreya Ghoshal and Keshav Anand, providing a resonant rendition.",
+          "Complementing the audio is the lyricism of Manoj Muntashir Shukla, whose verses center on themes of devotion and traditional reverence. Together, the creative collective has produced a track that stands out within the broader album."
+        ]
+      },
+      {
+        "h": "Cultural Resonance of Chhath Puja",
+        "p": [
+          "Chhath Puja holds substantial religious and emotional importance for numerous households, particularly across Bihar, Jharkhand, and regions of Uttar Pradesh. The festival involves rigorous fasting, traditional rituals, and communal prayers directed toward the Sun God and Chhathi Maiya.",
+          "By integrating this festival into the narrative soundtrack, the creative team has tapped into widespread cultural sentiments. The song reflects traditional practices that resonate deeply with families who observe the yearly rituals."
+        ]
+      },
+      {
+        "h": "Audience Reactions on Social Media",
+        "p": [
+          "Listeners took to platforms like X to share their appreciation for the devotional piece, with many commending its emotional resonance. One user described the track as a moving tribute that effortlessly captures the pure devotion associated with Chhathi Maiya.",
+          "Other commentators praised the combination of divine vocals and magical composition, extending specific recognition to Himesh Reshammiya, Manoj Muntashir, Shreya Ghoshal, Keshav Anand, and director Sooraj Barjatya for their collaborative effort."
+        ]
+      },
+      {
+        "h": "Expanding Musical Offerings",
+        "p": [
+          "Prior to the arrival of Bulaye Chhathi Maa, the production team rolled out other musical numbers to build anticipation. Jhumka Patola, released on October 15, featured Ayushmann and Sharvari in a grand courtyard setting with traditional attire and an appearance by Anupam Kher.",
+          "With this latest addition, the film's soundtrack expands to a total of five tracks. The album now encompasses a diverse range of moods, moving across romance, large-scale celebrations, and spiritual devotion."
+        ]
+      },
+      {
+        "h": "Production and Release Details",
+        "p": [
+          "Yeh Prem Mol Liya is directed by Sooraj Barjatya and stars Ayushmann Khurrana and Sharvari in the principal roles. The project is backed by Rajshri Productions in collaboration with Mahaveer Jain Films.",
+          "The feature film is scheduled for a worldwide theatrical rollout on November 27. It aims to present a blend of family drama, romance, and cultural festivity to audiences globally."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The track Bulaye Chhathi Maa from Yeh Prem Mol Liya has received positive attention from online users for its soulful and devotional qualities ahead of the film's November 27 release. Composed by Himesh Reshammiya and starring Ayushmann Khurrana and Sharvari, the song expands the movie's soundtrack to five diverse numbers."
+        ]
+      }
+    ],
+    "facts": [
+      "The song Bulaye Chhathi Maa is from the film Yeh Prem Mol Liya.",
+      "Yeh Prem Mol Liya is directed by Sooraj Barjatya.",
+      "The film stars Ayushmann Khurrana and Sharvari.",
+      "The song is composed by Himesh Reshammiya.",
+      "The track is sung by Shreya Ghoshal and Keshav Anand.",
+      "Lyrics for the song were written by Manoj Muntashir Shukla.",
+      "The song Jhumka Patola was released on October 15.",
+      "Anupam Kher appears in the Jhumka Patola sequence.",
+      "The film is backed by Rajshri Productions in association with Mahaveer Jain Films.",
+      "The worldwide theatrical release date for the film is November 27, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Himesh Reshammiya",
+        "Shreya Ghoshal",
+        "Keshav Anand",
+        "Manoj Muntashir Shukla",
+        "Anupam Kher",
+        "Sooraj Barjatya"
+      ],
+      "titles": [
+        "Yeh Prem Mol Liya",
+        "Bulaye Chhathi Maa",
+        "Jhumka Patola",
+        "Saawan Aaya Hai",
+        "Jai Ambe Bol"
+      ]
+    },
+    "keywords": [
+      "Yeh Prem Mol Liya",
+      "Bulaye Chhathi Maa",
+      "Himesh Reshammiya",
+      "Ayushmann Khurrana Sharvari",
+      "Sooraj Barjatya"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/yeh-prem-mol-liya-121745379-16x9_0.jpg?VersionId=QUOfBPr4p1Qu...xSIt1SSatMSvjCCz2",
+        "caption": "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 18:49:37 +0530"
+  },
+  "eeeerk": {
+    "id": "eeeerk",
+    "type": "news",
+    "headline": "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'",
+    "dek": "The Thessaloniki Film Festival's industry events concluded with top prizes going to Mari Gulbiani's political road movie and Angela Dimeska's female-centered North Macedonian drama.",
+    "body": [
+      {
+        "h": "Thessaloniki Industry Awards Top Winners",
+        "p": [
+          "The recent industry events at the Thessaloniki Film Festival wrapped up with major accolades for international cinema. Georgian filmmaker Mari Gulbiani and North Macedonian director Angela Dimeska claimed the primary honors during the Wednesday night ceremony.",
+          "Both projects triumphed in competitive market sections designed to champion emerging voices and groundbreaking storytelling. The festival's industry platform continues to serve as a vital launchpad for upcoming cinematic works from across the region."
+        ]
+      },
+      {
+        "h": "Glory for 'The Crossroad'",
+        "p": [
+          "Mari Gulbiani secured the top honor in the Agora Works in Progress section, taking home the Two Thirty-Five Award for her fiction debut, 'The Crossroad.' The politically charged project was produced by Kate Kalandarishvili under Georgia's Midifilm banner.",
+          "The narrative centers on a newlywed Muslim woman who discovers her husband has vanished. Alongside her mother-in-law, she embarks on a harsh trek only to learn he traveled to Syria to join ISIS."
+        ]
+      },
+      {
+        "h": "Praise and Vision for Gulbiani's Film",
+        "p": [
+          "The jury lauded 'The Crossroad' for its daring approach to traversing hostile, arid environments within a road movie framework. They specifically noted its documentary-style perspective on female resilience amid conflict and religious upheaval.",
+          "Judges commended the production for utilizing imagination as a crucial tool for those left behind by men, war, and societal pressures."
+        ]
+      },
+      {
+        "h": "Success for 'They Bloom at Dawn'",
+        "p": [
+          "In the Crossroads Co-Production Forum, the top honor—the Frenel Post-Lab Post-Production Award—went to 'They Bloom at Dawn.' Directed by Angela Dimeska and produced by Ognen Anton for North Macedonia's Dream Factory, the feature marks Dimeska's directorial debut.",
+          "The story follows a lost young woman seeking sanctuary in her grandparents' lakeside village. She must assist her widowed grandmother in protecting their endangered lake, bringing three generations of women together to mend fractured bonds."
+        ]
+      },
+      {
+        "h": "Jury Acclaim for Dimeska's Drama",
+        "p": [
+          "The jury praised the project for capturing life's unpredictable nature, noting how the characters find renewal and mutual support despite facing trauma and tragedy. They highlighted the strong visual potential and universal resonance of the narrative.",
+          "Judges also commended the seamless collaboration between the director and producer, praising their compelling pitch and ability to transcend traditional boundaries."
+        ]
+      },
+      {
+        "h": "Recognizing Greek Talent with the Onassis Film Award",
+        "p": [
+          "The Onassis Film Award, which includes a cash prize of 10,000 euros ($11,100), was awarded to Sofia Georgovassili for her psychological thriller 'Mignon.' Set in the 1990s, the film explores the loss of innocence through the viewpoint of two teenage girls visiting an Athens department store.",
+          "Additionally, 'Mignon' secured a 3,000 euro ($3,300) Agora Works in Progress Award from EKKOMED. The jury praised the feature for its suffocating atmosphere, sharp storytelling, and exploration of closed social systems."
+        ]
+      },
+      {
+        "h": "Additional Agora and Forum Accolades",
+        "p": [
+          "Several other international projects earned development and post-production support during the festival's industry segments. Tunahan Kurt's 'The Law of the Flies' captured the 119 Marvila Studios Award for sound mixing services.",
+          "Meanwhile, Ayman El Amir earned an 8,000 euro ($8,900) script development grant from France's CNC for 'A Pair of Shoes in the Dark Corner of the Moon.' Other winners included Gözde Kural, Christina Koutsospyrou, Aran Hughes, and Yumna Marwan."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Thessaloniki Film Festival concluded its industry events by awarding top prizes to Mari Gulbiani's 'The Crossroad' and Angela Dimeska's 'They Bloom at Dawn.' Various other international projects also secured production grants, post-production services, and development awards during the ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "The Thessaloniki Film Festival industry awards took place on a Wednesday night.",
+      "Mari Gulbiani directed 'The Crossroad'.",
+      "Kate Kalandarishvili produced 'The Crossroad' for Midifilm in Georgia.",
+      "'The Crossroad' won the Two Thirty-Five Award.",
+      "Angela Dimeska directed 'They Bloom at Dawn'.",
+      "Ognen Anton produced 'They Bloom at Dawn' for Dream Factory in North Macedonia.",
+      "'They Bloom at Dawn' won the Frenel Post-Lab Post-Production Award.",
+      "Sofia Georgovassili directed 'Mignon'.",
+      "The Onassis Film Award offers a cash prize of 10,000 euros ($11,100).",
+      "The EKKOMED Agora Works in Progress Award for 'Mignon' was 3,000 euros ($3,300).",
+      "Tunahan Kurt directed 'The Law of the Flies'.",
+      "Ayman El Amir won an 8,000 euro ($8,900) script development award from the CNC for 'A Pair of Shoes in the Dark Corner of the Moon'.",
+      "Gözde Kural directed 'In Those Darkest Nights'.",
+      "Christina Koutsospyrou and Aran Hughes directed 'Koukitsa'.",
+      "Yumna Marwan directed 'This Is Not a Set'."
+    ],
+    "entities": {
+      "people": [
+        "Mari Gulbiani",
+        "Kate Kalandarishvili",
+        "Angela Dimeska",
+        "Ognen Anton",
+        "Sofia Georgovassili",
+        "Tunahan Kurt",
+        "Ayman El Amir",
+        "Gözde Kural",
+        "Christina Koutsospyrou",
+        "Aran Hughes",
+        "Yumna Marwan",
+        "Sylvie Weber",
+        "Panagiotis Charamis",
+        "Sarra Ben Hassen",
+        "Patrick Tass",
+        "Isabella Rinaldi",
+        "Nada Riyadh",
+        "Selini Papageorgiou",
+        "Matina Galatsianou"
+      ],
+      "titles": [
+        "The Crossroad",
+        "They Bloom at Dawn",
+        "Mignon",
+        "The Law of the Flies",
+        "Avanos",
+        "Río Masacre",
+        "A Pair of Shoes in the Dark Corner of the Moon",
+        "In Those Darkest Nights",
+        "Koukitsa",
+        "A Touch of Paradise",
+        "The Arab of Your Dreams",
+        "This Is Not a Set",
+        "Fuoristagione"
+      ]
+    },
+    "keywords": [
+      "The Crossroad film",
+      "They Bloom at Dawn",
+      "Mari Gulbiani",
+      "Angela Dimeska",
+      "Thessaloniki Industry Awards"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-12-Nov-2026-01-51-PM-4079.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 13:08:13 +0000"
   }
 };

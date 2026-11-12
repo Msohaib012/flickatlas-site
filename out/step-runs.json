@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T16:08:49Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 427,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Anirudh Ravichander Marries Kavya Maran; Music Composer Shares First Wedding Photo",
-      "Ramayana and Scene Dominate Diwali Box Office with 1100 Crore+ Worldwide Gross in Just One Week",
-      "Ramayana Set for Historic 7th Consecutive ₹100 Crore Worldwide Day, a Feat No Indian Film Has Achieved",
-      "Anirudh Ravichander and Kavya Maran Tie the Knot in Greece as First Wedding Pictures Surface",
-      "Kiara says Sidharth was unbothered about her intimiate scenes with Yash in Toxic",
-      "Priya Bhavani Shankar shares first wedding pictures with husband Rajvel Raj",
-      "‘Bhogi’: Sharwanand’s period action drama postponed",
-      "‘Inji Vellam’: Mani Ratnam’s film starring Vijay Sethupathi, Sai Pallavi locks release date",
-      "Anirudh Ravichander and Kavya Maran are married, share first picture from dreamy Greek wedding",
-      "Kareena Kapoor served legal notice over Bhopal royal pendant with Quranic verse",
-      "Dax Shepard Just Went Off About ALL The Marriage Rumors With Kristin Bell: ‘It’s Very Offensive’",
-      "Patrick Stewart’s Favorite Star Trek Episode Is Popular With Fans, But He Loved It For A Different Reason",
-      "A Major Avengers Return Was Just Set Up In VisionQuest, But I Have Another Doomsday Question",
-      "45 Years Later, ‘Clash of the Titans’ Officially Returns With a Stunning 4K Restoration",
-      "Apple TV’s ‘Fast and Furious’ Replacement Officially Revs Past a Major Milestone",
-      "Quentin Tarantino’s 153-Minute War Movie He Almost Abandoned Is Now Streaming for Free",
-      "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release",
-      "Tyler Perry’s New Christmas Movie Streams on Netflix Today",
-      "Watch Robert Downey Jr. & Penélope Cruz’s R-Rated Thiller Before It Leaves Streaming",
-      "First Trailer for 'Permafrost' Action Comedy About the Nobel Banquet"
-     ],
-     "updated": [],
-     "count": 381,
-     "detail": "391 stories, 3 duplicates removed, 36 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T16:24:35Z",
     "run_id": "43057939324",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "406 stories, 1 duplicates removed, 20 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T16:12:34Z",
-    "run_id": "43055176560",
+    "run_at": "2026-11-12T13:51:35Z",
+    "run_id": "43231161443",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 339,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana and Scene Dominate Diwali Box Office with 1100 Crore Plus Worldwide Gross in Just One Week",
-      "Anirudh Ravichander And Kavya Maran Tie The Knot In A Dreamy Outdoor Ceremony",
-      "Dennis Quaid's A Dog's Perfect Christmas Becomes the Biggest Movie on Netflix",
-      "Ramayana Approaches Historic Seventh Consecutive ₹100 Crore Worldwide Day"
+      "Babil Khan opens up about trolling over his emotional side: 'Finally, I don't care'",
+      "Sekhar Master escapes unhurt after lorry hits car in Telangana accident",
+      "Vivian Dsena backs Mahhi Vij, Jay Bhanushali after daughter Tara is dragged into Bigg Boss 20, recalls facing similar incident from his stint on show",
+      "Scene director Jithu Madhavan dispels rumours of a sequel to Suriya-starrer as it crosses  ₹200 crore worldwide",
+      "Yeh Prem Mol Liya: Internet calls Himesh Reshammiya's Chhath song festive, soulful",
+      "Ramayana VS Dhurandhar: The Revenge Box Office: Ranveer Singh’s Actioner Stays Ahead Of Ranbir Kapoor’s Epic As Week 1 Ends",
+      "I Don’t Know How I Feel About ‘The Rachel’ Making A Comeback, But Jennifer Aniston Has Thoughts",
+      "One Thing Nathan Fielder Found Interesting About Elizabeth Holmes That Wasn't In You Can See Everything",
+      "Captain Kirk Hits the Ice as Star Trek Star Officially Joins Netflix’s New Hockey Romance",
+      "The 10 Most Uplifting Romance Movies of All Time, Ranked",
+      "Sylvester Stallone Officially Wants a Former Spider-Man To Join Taylor Sheridan’s ‘Tulsa King’",
+      "Will Gorilla Grodd Show Get Canceled After James Gunn’s Exit? Skyler Gisondo Answers",
+      "VisionQuest Fans Can’t Stop Comparing Ultron & Kingpin After That Brutal Kill",
+      "2 Seasons of Kat Dennings & Tim Allen Sitcom Are Finally Headed To Netflix",
+      "\"The Raid Meets Birdman\" in New Non-Stop 80-Minute Action Thriller Hitting Streaming Next Month",
+      "Denzel Washington's New Netflix Heist Thriller Officially Confirms Surprising Rating",
+      "Mike Myers Addresses Future of His Biggest Franchise Ahead of Long-Awaited Comeback",
+      "The 'Scrubs' Revival Is Officially Fixing One of the Original Series' Biggest Mistakes",
+      "6 Masterpiece World War II Movies Praised by Veterans",
+      "Michael B. Jordan’s New Remake Of 58-Year-Old Thriller Officially Unveiled"
      ],
      "updated": [],
-     "count": 9,
-     "detail": "+4 articles, +0 box-office rows, 5 rows updated"
+     "count": 315,
+     "detail": "319 stories, 0 duplicates removed, 20 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T13:57:41Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
+      "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
+      "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
+      "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T16:26:10Z",
-    "run_id": "43057939324",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,35 +1887,27 @@
      "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T13:57:41Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": {
+     "candidates": 312,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 299, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T16:15:53Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "165m9v5",
-      "dgqkm6",
-      "clrgax",
-      "1y1xd9x",
-      "jyq09u",
-      "hrks3o",
-      "1jf6jar",
-      "1dawzui"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2417,27 +2391,30 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T13:57:44Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "17dums3",
+      "1d1jo4e",
+      "atpdk1"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:15:50Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 648,
-     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 7,
-     "detail": "+0 new rows, 7 updated rows, 631 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2851,19 +2828,27 @@
      "detail": "+1 new rows, 11 updated rows, 635 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T13:57:41Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 644 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3100,33 +3085,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:15:52Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana and Scene Dominate Diwali Box Office with 1100 Crore Plus Worldwide Gross in Just One Week",
-      "Anirudh Ravichander And Kavya Maran Tie The Knot In A Dreamy Outdoor Ceremony",
-      "Dennis Quaid's A Dog's Perfect Christmas Becomes the Biggest Movie on Netflix",
-      "Ramayana Approaches Historic Seventh Consecutive ₹100 Crore Worldwide Day",
-      "Ramayana Sequel Locked for Diwali 2028 Release Alongside Major Cliffhanger Reveal"
-     ],
-     "updated": [],
-     "count": 5,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3640,19 +3611,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T13:57:43Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
+      "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
+      "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
+      "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3902,19 +3886,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T13:54:39Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": {
+     "candidates": 18,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 8 new detected; 1 summary failure(s): Khushi Ep 60"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4233,31 +4224,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:12:33Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 381 still unprocessed; today by category: movies 8/6, tv_dramas 11/4, episodes 1/2, box_office 13/6, celebrities_events 15/5, upcoming_releases 8/4, ott_streaming 10/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana and Scene Dominate Diwali Box Office with 1100 Crore Plus Worldwide Gross in Just One Week",
-      "Anirudh Ravichander And Kavya Maran Tie The Knot In A Dreamy Outdoor Ceremony",
-      "Dennis Quaid's A Dog's Perfect Christmas Becomes the Biggest Movie on Netflix",
-      "Ramayana Approaches Historic Seventh Consecutive ₹100 Crore Worldwide Day"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4744,26 +4723,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T13:57:40Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 315 still unprocessed; today by category: movies 10/6, tv_dramas 9/4, episodes 0/2, box_office 12/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 7/4, trailers 3/3, awards 3/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
+      "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
+      "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
+      "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:13:46Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5070,24 +5054,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 389,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5417,24 +5396,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 455,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5774,19 +5753,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6036,19 +6020,19 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6283,19 +6267,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6580,19 +6564,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6833,19 +6817,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7075,19 +7059,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7336,6 +7320,16 @@
     "category": "Trending News",
     "run_at": "2026-11-12T12:57:44Z",
     "run_id": "43221614996",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7856,16 +7850,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-11T16:26:19Z",
     "run_id": "43057939324",
     "status": "skipped",
@@ -8102,19 +8086,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T16:16:05Z",
-    "run_id": "43055176560",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8364,8 +8348,18 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T13:57:55Z",
+    "run_id": "43231161443",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T12:57:44Z"
+ "updated_at": "2026-11-12T13:57:55Z"
 }
