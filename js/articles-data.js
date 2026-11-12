@@ -121098,5 +121098,395 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 00:30:16 GMT"
+  },
+  "oaotwo": {
+    "id": "oaotwo",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Crosses Rs 900 Crore Worldwide by Day 7",
+    "dek": "Nitesh Tiwari's epic drama Ramayana: Rise of a Legend crosses the Rs 900 crore global milestone and crosses Rs 500 crore nett in India following a strong festive run.",
+    "body": [
+      {
+        "h": "Opening Week Box Office Milestone",
+        "p": [
+          "Director Nitesh Tiwari's epic drama Ramayana: Rise of a Legend has successfully stormed past the coveted Rs 900 crore gross milestone worldwide within its opening week. The film also comfortably surpassed the Rs 500 crore nett mark in India, riding high on a strong festive surge.",
+          "Trade tracker Sacnilk reported that the big-budget spectacle collected Rs 70.65 crore nett across India on Wednesday, November 11. This brought its seven-day domestic nett total to an impressive Rs 511.10 crore."
+        ]
+      },
+      {
+        "h": "Global and Domestic Breakdown",
+        "p": [
+          "According to trade tracking data, Ramayana: Rise of a Legend secured a seven-day India gross of Rs 611.05 crore. Meanwhile, overseas markets contributed Rs 323.50 crore, which included Rs 25 crore added specifically on Day 7.",
+          "These figures push the cumulative worldwide gross of the feature to Rs 934.55 crore. This positioning places the production firmly among the highest-grossing Indian theatrical releases of 2026."
+        ]
+      },
+      {
+        "h": "First Week Trajectory and Festive Surge",
+        "p": [
+          "The theatrical journey began when the movie opened at Rs 64.85 crore nett on Thursday. It experienced an anticipated 25.9 per cent dip on Friday with collections at Rs 48.05 crore, before rebounding over the weekend to bring in Rs 69.80 crore on Saturday and Rs 56.15 crore on Sunday.",
+          "Rather than slowing down at the start of the workweek, the project surged by 91.5 per cent on Monday to hit Rs 107.50 crore nett. That momentum carried seamlessly into the Bhai Dooj holiday on Tuesday, adding another Rs 94.10 crore nett."
+        ]
+      },
+      {
+        "h": "Weekday Performances and Ticket Sales",
+        "p": [
+          "Even after the Bhai Dooj holiday window concluded, the feature delivered a solid collection on Wednesday across 24,239 domestic shows. This represented a routine 24.9 per cent dip that safely carried the release past the Rs 500 crore domestic nett club in just seven days.",
+          "In total, approximately 1.97 crore tickets were sold across 1,66,476 shows during the opening week. The strong run has positioned the title to potentially enter the Rs 1,000 crore global club ahead of its second weekend."
+        ]
+      },
+      {
+        "h": "Cast and Future Releases",
+        "p": [
+          "The big-budget spectacle features a prominent lead cast including Ranbir Kapoor as Lord Rama and Sai Pallavi as Goddess Sita. The ensemble also stars Ravie Dubey as Lakshman and Yash as the antagonist Ravana.",
+          "Looking ahead, a sequel has already been scheduled to release on Diwali 2028. That upcoming installment will feature Sunny Deol as Lord Hanuman, a character whose introduction was teased in the post-credits scene of the first film."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Nitesh Tiwari's Ramayana: Rise of a Legend has earned Rs 70.65 crore nett on Day 7, pushing its seven-day domestic nett total to Rs 511.10 crore and global gross past Rs 900 crore. Bolstered by festive footfalls for Bhai Dooj and strong weekday numbers, the feature stars Ranbir Kapoor, Sai Pallavi, Yash, and Ravie Dubey while eyeing the Rs 1,000 crore global club."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend earned Rs 70.65 crore nett on Day 7.",
+      "The film released in theatres on November 5, 2026.",
+      "The seven-day domestic nett total reached Rs 511.10 crore.",
+      "Cumulative worldwide gross reached Rs 934.55 crore.",
+      "Day 1 collection was Rs 64.85 crore nett.",
+      "Day 2 collection was Rs 48.05 crore nett.",
+      "Day 3 collection was Rs 69.80 crore nett.",
+      "Day 4 collection was Rs 56.15 crore nett.",
+      "Day 5 collection was Rs 107.50 crore nett.",
+      "Day 6 Bhai Dooj collection was Rs 94.10 crore nett.",
+      "The sequel is scheduled to release on Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Yash",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana box office Day 7",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana worldwide gross"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-box-office-day-7-ranbir-kapoor-film-crosses-rs-900-crore-post-bhai-dooj-125123907-16x9_0.jpg?VersionId=d9L.CWxiLszNfpN66D6FhMDygEJDl18g",
+        "caption": "Ramayana: Rise of a Legend Crosses Rs 900 Crore Worldwide by Day 7",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 07:23:01 +0530"
+  },
+  "1qm4a8": {
+    "id": "1qm4a8",
+    "type": "news",
+    "headline": "Netflix Develops True-Crime Docuseries Following Russell Brand Conviction",
+    "dek": "The streaming giant is reportedly close to launching a major documentary series examining the comedian and actor following his recent prison sentence.",
+    "body": [
+      {
+        "h": "Netflix Moves Forward With New Docuseries",
+        "p": [
+          "Streaming giant Netflix is reportedly preparing to launch a brand new documentary series focusing on Russell Brand. The project follows closely on the heels of the comedian and actor's major criminal conviction.",
+          "Insiders and exclusive reports indicate that the streaming platform is nearing an official announcement for the upcoming project. The series is set to be produced by 72 Films."
+        ]
+      },
+      {
+        "h": "The Trial and Prison Sentence",
+        "p": [
+          "On November 9, Russell Brand received a sentence of 10 years and six months in prison. This came after a grueling four-week trial at London's Southwark Crown Court.",
+          "A jury found the entertainer guilty of one count of rape and three counts of sexual assault. The offenses for which he was convicted date back to 2004."
+        ]
+      },
+      {
+        "h": "Decades of Unaddressed Allegations",
+        "p": [
+          "For more than two decades, allegations of misconduct shadowed Brand's career in comedy, film, and television. However, his public persona and celebrity status often shielded him from serious scrutiny.",
+          "During sentencing, Judge Joel Bennathan remarked that Brand's behavior had long been dismissed as mere comedic antics. The judge noted that despite his charisma, Brand had ultimately become a sexual predator."
+        ]
+      },
+      {
+        "h": "How the Project Came to Light",
+        "p": [
+          "The existence of the documentary project was unexpectedly revealed during the legal proceedings. Mark Pinheiro, a former friend of the comedian, testified in court that a producer had approached him about the Netflix show.",
+          "While Netflix itself has chosen to decline official comment regarding the development of the docuseries, the testimony brought the streaming platform's plans directly into the public eye."
+        ]
+      },
+      {
+        "h": "Netflix's Documentary Track Record",
+        "p": [
+          "The impending series aligns with Netflix's growing dominance in the true-crime and documentary space. The platform has successfully launched multiple high-profile documentary projects that have drawn massive viewership.",
+          "Earlier projects released in 2026, such as The Crash and Maternal Instinct, each pulled in tens of millions of views. This strong performance underscores the streaming service's massive reach for investigative content."
+        ]
+      },
+      {
+        "h": "Platform Controversy Over Past Content",
+        "p": [
+          "Even as Netflix moves forward with the new investigative series, the platform has opted to keep Brand's stand-up comedy special, Russell Brand: Re:Birth, available in its library.",
+          "When questioned about retaining the special despite its sexually explicit jokes, a company source emphasized a commitment to viewer choice and control, allowing members to decide what to watch."
+        ]
+      },
+      {
+        "h": "Legal and Public Reactions",
+        "p": [
+          "The case has reignited intense conversations surrounding consent and accountability within the entertainment industry. Judge Bennathan highlighted the fundamental right of individuals to refuse consent regardless of circumstances.",
+          "Public interest continues to surge as the fallout from the trial reverberates across the media landscape, prompting deeper examinations of fame, power, and justice."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix is developing a new documentary series produced by 72 Films to examine Russell Brand following his recent conviction and 10-year prison sentence for rape and sexual assault. While the platform faces scrutiny for keeping his comedy special online, the impending docuseries highlights the streaming giant's expanding footprint in investigative true-crime programming."
+        ]
+      }
+    ],
+    "facts": [
+      "Russell Brand was sentenced to 10 years and six months in prison on November 9.",
+      "The trial lasted for four weeks at London's Southwark Crown Court.",
+      "Brand was found guilty of one count of rape and three counts of sexual assault.",
+      "The offenses dated back to 2004.",
+      "The documentary series is produced by 72 Films.",
+      "Mark Pinheiro testified at the trial that he was approached by a producer about the Netflix project.",
+      "Judge Joel Bennathan presided over the sentencing.",
+      "Netflix released The Crash and Maternal Instinct in 2026."
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Joel Bennathan",
+        "Mark Pinheiro",
+        "Danielle Forte",
+        "Jennifer Connelly",
+        "Walton Goggins",
+        "Bruce Campbell",
+        "Julie Bowen",
+        "Joel Edgerton"
+      ],
+      "titles": [
+        "Russell Brand: Re:Birth",
+        "The Crash",
+        "Maternal Instinct"
+      ]
+    },
+    "keywords": [
+      "Russell Brand Netflix documentary",
+      "Russell Brand prison sentence",
+      "72 Films Russell Brand series",
+      "Russell Brand trial Southwark Crown Court"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/2026-11-08t101658z_343604057_rc29goa3623m_rtrmadp_3_britain-court-brand-nandy-1200x800-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix Develops True-Crime Docuseries Following Russell Brand Conviction",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 00:50:35 GMT"
+  },
+  "1382gbv": {
+    "id": "1382gbv",
+    "type": "news",
+    "headline": "Suriya and Nazriya Nazim's 'Scene' crosses Rs 100 crore in domestic net collections",
+    "dek": "The Jithu Madhavan directorial achieves major global and domestic milestones within its first week.",
+    "body": [
+      {
+        "h": "Reaching Major Domestic and Global Milestones",
+        "p": [
+          "The Tamil-Telugu feature film starring Suriya and Nazriya Nazim has crossed a major financial threshold within its initial week of theatrical exhibition. Directed by Jithu Madhavan, the project accumulated a worldwide gross revenue of Rs 188.50 crore following six days in cinemas.",
+          "Domestic earnings crossed the Rs 100 crore net mark during this period, while international markets continued providing strong financial contributions to the overall worldwide gross tally."
+        ]
+      },
+      {
+        "h": "Detailed Day Six Box Office Performance",
+        "p": [
+          "Industry tracking figures from Sacnilk indicate that the movie secured Rs 8.05 crore in India net revenue on Wednesday from 5,294 screenings. The Tamil version contributed the larger share with Rs 6.15 crore, whereas the Telugu release brought in Rs 1.90 crore.",
+          "Total cumulative domestic net collections reached Rs 105.45 crore, alongside a domestic gross standing at Rs 122.50 crore. International territories added another Rs 4 crore during the latest tracking window, pushing the overseas gross to a total of Rs 66 crore."
+        ]
+      },
+      {
+        "h": "First Week Trajectory and Daily Earnings",
+        "p": [
+          "Wednesday's domestic net figures reflected a 37.4% decrease compared to the previous day's earnings of Rs 12.85 crore. The theatrical run began on Friday, November 6, with an opening figure of Rs 19.15 crore, before climbing through the weekend.",
+          "Collections reached Rs 20.35 crore on Saturday and peaked on Sunday with Rs 23.65 crore. A subsequent drop occurred on Monday with Rs 21.40 crore, leading into the Tuesday decline and Wednesday's finalized figures across a total of 34,274 shows."
+        ]
+      },
+      {
+        "h": "Language-Wise Revenue Breakdown and Occupancy",
+        "p": [
+          "Tamil language screenings remained the primary driver of domestic revenue, generating Rs 86.55 crore in India net collections and accounting for 82.1% of the total. The Telugu version contributed Rs 18.90 crore, representing the remaining 17.9%.",
+          "On Wednesday, Tamil presentations achieved an overall occupancy of 32%, with the 2D format reaching 35.36% overall occupancy. Meanwhile, Telugu presentations registered a 20.03% overall occupancy rate across the day's screenings."
+        ]
+      },
+      {
+        "h": "Overseas Success and North American Milestone",
+        "p": [
+          "Internationally, the film surpassed the lifetime North American box office collection of Vijay's 'Jana Nayagan' within five days of its theatrical launch. This performance places the director's latest venture among the top three highest-grossing Tamil releases in that specific territory for the year.",
+          "Trade reports also note that all theatrical releases featuring Suriya this year have successfully secured positions among the territory's five biggest grossers."
+        ]
+      },
+      {
+        "h": "Plot Background and Creative Team",
+        "p": [
+          "The narrative centers on Inbaraj, a Deputy Superintendent of Police portrayed by Suriya, who is compelled to reexamine an unresolved case from his earlier career. The mysterious investigation resurfaces old questions and draws him into a difficult new assignment.",
+          "Helmed by Jithu Madhavan, the project successfully combines elements of crime, mystery, and comedy within its overarching storyline."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Nazriya Nazim's film 'Scene' has crossed Rs 100 crore in India net collections within its first week while also outperforming Vijay's 'Jana Nayagan' in North America. Directed by Jithu Madhavan, the crime-mystery-comedy has achieved strong worldwide gross figures despite experiencing a weekday decline in ticket sales."
+        ]
+      }
+    ],
+    "facts": [
+      "The film accumulated Rs 188.50 cr in worldwide gross collections after six days.",
+      "Wednesday collections reached Rs 8.05 cr in India net revenue from 5,294 shows on November 11, 2026.",
+      "Cumulative India net collection reached Rs 105.45 cr.",
+      "Opening day collection on Friday, November 6 was Rs 19.15 cr.",
+      "Saturday collections reached Rs 20.35 cr.",
+      "Sunday collections reached Rs 23.65 cr.",
+      "Monday collections reached Rs 21.40 cr.",
+      "Tuesday collections reached Rs 12.85 cr."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Nazriya Nazim",
+        "Jithu Madhavan",
+        "Vijay",
+        "Inbaraj"
+      ],
+      "titles": [
+        "Scene",
+        "Jana Nayagan"
+      ]
+    },
+    "keywords": [
+      "Scene box office collection",
+      "Suriya Scene film",
+      "Nazriya Nazim Scene",
+      "Jana Nayagan North America",
+      "Jithu Madhavan film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135751926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Suriya and Nazriya Nazim's 'Scene' crosses Rs 100 crore in domestic net collections",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T06:56:58+05:30"
+  },
+  "19gyxik": {
+    "id": "19gyxik",
+    "type": "news",
+    "headline": "Randall England, General Hospital Star and Versatile Actor, Passes Away at 75",
+    "dek": "The actor, writer, producer, and model known for his memorable role as villain Jack Slater on General Hospital has died in Los Angeles at the age of 75.",
+    "body": [
+      {
+        "h": "Passing of a Versatile Entertainer",
+        "p": [
+          "Randall England, whose varied career spanned television, film, theater, writing, and modeling, has died at the age of 75. His family announced that he passed away on September 25 in Los Angeles. Although his relatives did not disclose an official cause of death, they requested that memorial donations be directed toward the Esophageal Cancer Action Network.",
+          "Remembered fondly by television fans for his extensive work across multiple decades, England built a respected body of work that crossed traditional genre lines. From daytime television to feature films and dramatic stage productions, he maintained a steady and diverse professional presence throughout his life."
+        ]
+      },
+      {
+        "h": "Early Life and Modeling Career",
+        "p": [
+          "Born on September 22, 1951, in Oklahoma City, England pursued higher education at the University of Oklahoma, where he graduated before embarking on his professional journey. Before establishing himself as a notable dramatic actor, he stepped into the fashion industry in the early 1970s.",
+          "His modeling work took him to major international style hubs, including New York, London, Zurich, Milan, and Los Angeles. This early international exposure preceded his transition into serious theatrical training under the guidance of renowned instructors Kim Stanley and Stella Adler."
+        ]
+      },
+      {
+        "h": "Breakthrough on General Hospital",
+        "p": [
+          "England initially entered the television and film landscape in 1978 with an uncredited part in the television movie Ruby and Oswalk. Several years later, in 1984, he made a brief appearance in an episode of the series This Is the Life before landing the role that would define much of his mainstream television career.",
+          "That same year, he joined the cast of the long-running daytime soap opera General Hospital as the villain Jack Slater. He went on to appear in more than 30 episodes of the program, cementing his status as a recognizable face to daytime television viewers."
+        ]
+      },
+      {
+        "h": "Television, Film, and Voice Work",
+        "p": [
+          "Beyond his tenure on General Hospital, England continued to secure guest spots and supporting roles across various popular television projects. In the late 1990s, he made appearances across two episodes of the globally syndicated action series Baywatch.",
+          "His talents also extended into feature films and voice acting. In 2008, he provided the voice for the character of Butler in the family comedy Beverly Hills Chihuahua. His final screen credit arrived in the 2018 film Shiner, and he also contributed behind the scenes as a producer on the documentary The Needs of Kim Stanley."
+        ]
+      },
+      {
+        "h": "Acclaimed Stage Performances",
+        "p": [
+          "In addition to his screen credits, England maintained a dedicated commitment to live theater. He took on challenging roles in celebrated stage productions, including All My Sons and The Glass Menagerie.",
+          "His theatrical achievements culminated in a prominent recognition for his work in a production of The Three Sisters. For his performance in that ensemble cast, he earned a Drama League Award."
+        ]
+      },
+      {
+        "h": "Surviving Family",
+        "p": [
+          "England is survived by a loving family, including his daughter Micaela Reed, who is married to Sam. He also leaves behind his grandchildren, Katherine and Julian.",
+          "Additionally, he is survived by his mother, Catherine Burgess, and his sister, Linda Baker, along with a wider circle of extended family members."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor, writer, and producer Randall England has died at the age of 75 in Los Angeles on September 25. Best known for playing villain Jack Slater in over 30 episodes of General Hospital, his career also included modeling, stage performances, and voice acting. He is survived by his daughter, grandchildren, mother, and sister."
+        ]
+      }
+    ],
+    "facts": [
+      "Randall England died on September 25 in Los Angeles at the age of 75.",
+      "He was born on September 22, 1951, in Oklahoma City and graduated from the University of Oklahoma.",
+      "He played villain Jack Slater in over 30 episodes of General Hospital.",
+      "He won a Drama League Award for best ensemble cast for The Three Sisters.",
+      "He is survived by daughter Micaela Reed, grandchildren Katherine and Julian, mother Catherine Burgess, and sister Linda Baker."
+    ],
+    "entities": {
+      "people": [
+        "Randall England",
+        "Kim Stanley",
+        "Stella Adler",
+        "Micaela Reed",
+        "Sam",
+        "Katherine",
+        "Julian",
+        "Catherine Burgess",
+        "Linda Baker"
+      ],
+      "titles": [
+        "General Hospital",
+        "Ruby and Oswalk",
+        "This Is the Life",
+        "Baywatch",
+        "Beverly Hills Chihuahua",
+        "Shiner",
+        "The Needs of Kim Stanley",
+        "All My Sons",
+        "The Glass Menagerie",
+        "The Three Sisters"
+      ]
+    },
+    "keywords": [
+      "Randall England",
+      "General Hospital Jack Slater",
+      "Randall England death",
+      "General Hospital cast"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Untitled-Design.png?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Randall England, General Hospital Star and Versatile Actor, Passes Away at 75",
+        "source": "Variety"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:00:17 +0000"
   }
 };

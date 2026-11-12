@@ -18938,6 +18938,12 @@ window.FA_PUBLISHED = {
     "runtime": 0,
     "providers": [
       {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
         "region": "US",
@@ -35201,7 +35207,14 @@ window.FA_PUBLISHED = {
     "created_by": [
       "Dooboo"
     ],
-    "providers": []
+    "providers": [
+      {
+        "name": "Kocowa Amazon Channel",
+        "logo_path": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
   },
   "499371": {
     "id": 499371,

@@ -266,6 +266,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-09",
+      "date_kind": "release",
+      "id": 313738,
+      "providers": [
+        {
+          "logo_path": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+          "name": "Kocowa Amazon Channel"
+        }
+      ],
+      "type": "tv"
+    },
+    {
       "country": "FR",
       "date": "2026-11-09",
       "date_kind": "digital",
@@ -948,6 +960,10 @@ window.FA_OTT = {
       "date_kind": "release",
       "id": 1773374,
       "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        },
         {
           "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
           "name": "Philo"

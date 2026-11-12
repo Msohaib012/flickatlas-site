@@ -11990,6 +11990,12 @@ window.FA_PUBLISHED = {
     "status": "Released",
     "providers": [
       {
+        "name": "fuboTV",
+        "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
         "region": "US",
@@ -22353,7 +22359,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-09",
     "status": "Returning Series",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Kocowa Amazon Channel",
+        "logo_path": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-09",
     "popularity": 9.6697
   },
