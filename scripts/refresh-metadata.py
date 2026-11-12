@@ -63,6 +63,7 @@ DEFAULT_OUT = os.path.join(ROOT, "js", "published-titles.js")
 CONFIG_JS = os.path.join(ROOT, "js", "config.js")
 PUBLISH_TITLES = os.path.join(ROOT, "scripts", "publish-titles.py")
 TITLE_SEED = os.path.join(ROOT, "scripts", "title-seed.py")
+TITLE_CORRECTIONS = os.path.join(ROOT, "scripts", "title_corrections.py")
 
 FRESH_DAYS = 90
 DEFAULT_MAX = 50
@@ -227,6 +228,8 @@ def main():
 
     pt = load_module("publish_titles", PUBLISH_TITLES)
     ts = load_module("title_seed", TITLE_SEED)
+    tc = load_module("title_corrections", TITLE_CORRECTIONS)
+    corrections = tc.load_corrections(ROOT)
     published = pt.read_js_map(args.out, "FA_PUBLISHED")
     today = date.today()
 
@@ -286,6 +289,11 @@ def main():
         if prov is not None and prov != entry.get("providers"):
             merged["providers"] = prov
             changed.append("providers")
+        # Committed title corrections (out/title-corrections.json)
+        # win over TMDB: a corrected record (e.g. a postponed film
+        # whose TMDB date is still the old one) must not be reverted
+        # by the merge above in the same run.
+        changed.extend(tc.apply_one(merged, tid, corrections))
         checked += 1
         time.sleep(0.3)  # Conservative pacing across separate TMDB requests
         if not changed:

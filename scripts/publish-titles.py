@@ -36,6 +36,15 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+# title_corrections lives beside this file; make sure the sibling
+# import works whether this runs as a script or is loaded as a
+# module by refresh-metadata.py / title-seed.py.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+try:
+    import title_corrections
+except Exception:  # missing helper: publish proceeds uncorrected
+    title_corrections = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEFAULT_OUT = os.path.join(ROOT, "js", "published-titles.js")
 
@@ -441,6 +450,11 @@ def main():
         # entry must leave everything else untouched.
         if existing is not None:
             entry = preserve_owner_fields(entry, existing)
+        # Committed title corrections (out/title-corrections.json)
+        # win over a fresh TMDB build (see scripts/title_corrections.py).
+        if title_corrections is not None:
+            title_corrections.apply_one(
+                entry, tid, title_corrections.load_corrections(ROOT))
         if existing is not None and existing == entry:
             print(f"  unchanged {tid} ({entry['title']}, {media_type})")
             continue

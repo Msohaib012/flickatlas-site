@@ -16656,9 +16656,9 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-05",
     "date_kind": "release",
-    "status": "In Production",
+    "status": "Postponed",
     "providers": [],
-    "release_date": "2026-11-12",
+    "release_date": "",
     "popularity": 0.7695
   },
   "1815431": {

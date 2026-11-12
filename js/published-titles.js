@@ -26201,7 +26201,7 @@ window.FA_PUBLISHED = {
       "Drama"
     ],
     "tagline": "",
-    "status": "In Production",
+    "status": "Postponed",
     "production_countries": [
       "IN"
     ],
@@ -26209,7 +26209,7 @@ window.FA_PUBLISHED = {
       "te"
     ],
     "certification": "",
-    "release_date": "2026-11-12",
+    "release_date": "",
     "date_kind": "release",
     "runtime": 0,
     "providers": []
