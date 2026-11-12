@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T23:51:39Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 339,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Loved Ekta Kapoor's Diwali Bash 2026? Here's Your Checklist For Perfect Party To Recreate Festive Magic",
-      "Tu Itefaq Hai EXCLUSIVE! Divya Gupta On Time-Travel Twist, Biggest Challenge Shooting In Goa & More",
-      "Deep Money Says He Won't Compromise Music For Viral Reels, Compares Billo With Dope Shope- EXCLUSIVE",
-      "Avengers: Doomsday’s Mysterious Timestamps, Explained: What Do They Reveal About The MCU’s Biggest Upcoming Battle?",
-      "Paris Jackson's MJ estate row; Marty Singer defends John Branca over $500M turnaround",
-      "Katrina Law's Kid Was On NCIS. She Was Fully Prepared For The Show To Shoot Down Her Dream",
-      "The Macy's Parade Is Turning 100 This Year. Universal Orlando Is Celebrating In A Fun Way",
-      "One Thing Drew Barrymore Does For Her Talk Show Kelly Clarkson Didn't: 'It Works!'",
-      "Unlike Their Characters In Paper Tiger, Miles Teller And Adam Driver Explain Why They Can’t Keep A Secret From Their Wives",
-      "10 Great Thriller Movies Based on Best-Selling Books, Ranked",
-      "All 8 Episodes of 'VisionQuest,' Ranked",
-      "This New Sci-Fi Novel From a Pulitzer Prize Winner Could Be the Next Hunger Games",
-      "15 Movies To Watch if You Love 'MobLand'",
-      "Colin Farrell's 118-Minute Remake of a Cult Classic Sci-Fi Thriller Becomes a Streaming Sensation",
-      "10 Biggest Questions After 'VisionQuest' Season 1, Episode 8's Ending, Explained",
-      "Star Wars Still Hasn’t Fixed George Lucas' Biggest Problem With 'The Mandalorian'",
-      "'Superman' Star Breaks Silence on James Gunn's DC Exit With Emotional Message",
-      "Godzilla's Gigantic New 'Kingzilla' Form Explained",
-      "Amazon's Upcoming Crime Thriller Releasing In Two Weeks Is The Perfect Black Doves Follow-Up",
-      "Every Upcoming Jessica Chastain Movie & TV Show, Including New Netflix Thriller Heartland"
-     ],
-     "updated": [],
-     "count": 311,
-     "detail": "318 stories, 0 duplicates removed, 21 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-12T00:51:39Z",
     "run_id": "43130238132",
     "status": "success",
@@ -936,27 +897,48 @@
      "detail": "312 stories, 0 duplicates removed, 37 dropped"
     },
     "reason": null
+   },
+   {
+    "step": "fetch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T21:51:03Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 295,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
+    },
+    "changed": {
+     "added": [
+      "Leonardo DiCaprio Was Almost Denied The Role Until Sharon Stone Paid Her $1 Million Out Of Her Own Salary",
+      "Michael Jackson did not create the iconic Thriller dance, claims choreographer",
+      "After Leaving 90 Day Fiancé Andrei Castravet Gives Shocking Update On Relationship With Libby",
+      "Yes, Ramayana’s Ranbir Kapoor Went All In On His Rama Training (An Olympian Is Even Involved)",
+      "Karen Gillan Has Just One Question About The Jumanji Crop Top And Shorts As The Cast Says Goodbye",
+      "8 Psychological Thriller Movies That Are Perfect From Beginning to End",
+      "6 Upcoming Thriller Films, Ranked by Hype",
+      "10 Bad Movies With Great Premises",
+      "Godzilla Celebrates 70 Years With a Brand-New Release From Toho",
+      "'Desperate Housewives' Star Is Officially Reba McEntire's New Love Interest in 'Happy's Place' Season 3",
+      "Kylie Jenner Takes Aim at Former Chef in Explosive Miscarriage Lawsuit",
+      "Kris Jenner Fires Back Over Kim Kardashian’s Controversial Childhood Trauma Remarks",
+      "NBC’s Huge Chicago Fire, Med, & P.D. TV Show Crossover Event Gets Release Date, Plot Details",
+      "Sonic the Hedgehog Gets New Movie Available to Watch Now Ahead of Jim Carrey’s Dr. Eggman Return",
+      "Lanterns Season 2 Update Reveals When Decision on DCU Show’s Fate Will Be Made",
+      "Rose Byrne & Meghann Fahy’s New Peacock Thriller TV Show Streams Today",
+      "Patrick Stewart’s Wife Sunny Ozell Honors Their Nearly 20 Years of Love in Moving Tribute",
+      "The Hunger Games: Sunrise on the Reaping Gets a Theatrical Twist Some Fans Won’t Like",
+      "Justice League Hero Absent From DCU Is Big Part of DC’s Future Plans After James Gunn Exit",
+      "Jimmy Kimmel Casts Doubt on Donald Trump’s Surprising Letter to Joe Biden: ‘There’s No Way’"
+     ],
+     "updated": [],
+     "count": 282,
+     "detail": "295 stories, 0 duplicates removed, 0 dropped"
+    },
+    "reason": null
    }
   ],
   "apply_auto": [
-   {
-    "step": "apply_auto",
-    "category": "Trending News",
-    "run_at": "2026-11-11T23:51:40Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 13,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 articles, +0 box-office rows, 3 rows updated"
-    },
-    "reason": null
-   },
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1482,27 +1464,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T21:51:33Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Emily In Paris Season 6 Teaser Released By Netflix",
+      "EastEnders' Suki Panesar Takes Extreme Measures Ahead of High-Stakes Hearing",
+      "Ramayana: Rise of a Legend Surpasses $100 Million Worldwide at the Box Office",
+      "Pawan Kalyan and Anna Lezhneva Separate"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T01:51:25Z",
-    "run_id": "43137254770",
-    "status": "success",
-    "checked": {
-     "candidates": 303,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 291, coming 12"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1916,33 +1903,27 @@
      "detail": "now 301, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T21:51:33Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 314,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 301, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T23:53:32Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1wezyrd",
-      "1wmhof9",
-      "1a3zkxt",
-      "1lg1nmf",
-      "u7rkdc",
-      "1yqvpfc"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2398,27 +2379,33 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T21:54:05Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "zwv8t1",
+      "10ntio2",
+      "1xevcbb",
+      "1flm0we",
+      "1lg1nmf",
+      "19775sx"
+     ],
+     "updated": [],
+     "count": 6
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T23:53:30Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 648,
-     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 635 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2832,19 +2819,27 @@
      "detail": "+0 new rows, 3 updated rows, 644 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T21:54:03Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 644 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3081,27 +3076,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T23:53:32Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3639,19 +3626,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T21:54:05Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Emily In Paris Season 6 Teaser Released By Netflix",
+      "EastEnders' Suki Panesar Takes Extreme Measures Ahead of High-Stakes Hearing",
+      "Ramayana: Rise of a Legend Surpasses $100 Million Worldwide at the Box Office",
+      "Pawan Kalyan and Anna Lezhneva Separate"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3917,19 +3917,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4251,26 +4251,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T23:51:40Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 96/96 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4773,26 +4766,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T21:51:33Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 282 still unprocessed; today by category: movies 18/6, tv_dramas 15/4, episodes 0/2, box_office 18/6, celebrities_events 13/5, upcoming_releases 5/4, ott_streaming 11/4, trailers 3/3, awards 4/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Emily In Paris Season 6 Teaser Released By Netflix",
+      "EastEnders' Suki Panesar Takes Extreme Measures Ahead of High-Stakes Hearing",
+      "Ramayana: Rise of a Legend Surpasses $100 Million Worldwide at the Box Office",
+      "Pawan Kalyan and Anna Lezhneva Separate"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T23:52:52Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5099,19 +5097,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T21:52:50Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0
+    },
+    "reason": "no-new-data"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5456,24 +5461,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 383,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5818,19 +5823,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 16,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6080,19 +6090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6327,19 +6337,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6624,19 +6634,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6877,19 +6887,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7119,19 +7129,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7384,32 +7394,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-11T00:53:05Z",
-    "run_id": "42934491393",
-    "status": "success",
-    "checked": {
-     "candidates": 533,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 19; attempt cooldown deferred: 514"
-    },
-    "changed": {
-     "added": [
-      "Scene (1402181)",
-      "Ranabaali (1389379)",
-      "Ramayana: Rise of a Legend (656908)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7894,19 +7891,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-12T21:51:51Z",
+    "run_id": "43314189391",
+    "status": "success",
+    "checked": {
+     "candidates": 539,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 526"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8146,19 +8154,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T23:53:43Z",
-    "run_id": "43122860668",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8408,8 +8416,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T21:54:11Z",
+    "run_id": "43314189391",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T21:01:37Z"
+ "updated_at": "2026-11-12T21:54:11Z"
 }

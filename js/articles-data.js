@@ -129525,5 +129525,388 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 20:14:09 GMT"
+  },
+  "1qt1xpf": {
+    "id": "1qt1xpf",
+    "type": "news",
+    "headline": "Emily In Paris Season 6 Teaser Released By Netflix",
+    "dek": "Netflix has revealed the first teaser for the final season of Emily in Paris, showing Lily Collins and Ashley Park heading to Greece while Lucas Bravo returns as Gabriel ahead of the December 24 premiere.",
+    "body": [
+      {
+        "h": "First Look At The Final Chapter",
+        "p": [
+          "Streaming giant Netflix has officially released the first teaser trailer for the upcoming sixth season of the hit series Emily in Paris. Fans of the romantic comedy-drama were given a fresh look at the show on November 11 as the promotional rollout for the final run kicked off.",
+          "The newly dropped footage serves as a farewell tour for the main characters while teasing fresh international backdrops and emotional resolutions. Viewers can expect the upcoming episodes to tie up loose ends and provide a definitive conclusion for the beloved characters."
+        ]
+      },
+      {
+        "h": "Greece Bound And Gabriel's Return",
+        "p": [
+          "The freshly released preview reveals that main characters Emily Cooper and Mindy Chen will pack their bags for a scenic trip to Greece for their final major adventure. During their travels, the dynamic duo unexpectedly bumps into Gabriel, setting up another potential chapter in his complicated romantic dynamic with Emily.",
+          "Lucas Bravo reprises his role as Gabriel in the final season. When asked in the preview about what he has been up to, he simply asks Emily if she is ready, hinting at unresolved romantic tension and major narrative twists before the series officially wraps up its run."
+        ]
+      },
+      {
+        "h": "Reflecting On The Journey Since 2020",
+        "p": [
+          "The teaser takes a nostalgic look backward, reminding audiences of how much Emily's life has transformed since she first relocated to the French capital back in 2020. Throughout the previous five seasons, her time in Paris has been defined by demanding career changes, intricate romance webs, and countless personal triumphs and failures.",
+          "Highlighting the emotional weight of the upcoming episodes, Mindy reminds Emily that her lifestyle is no longer just a casual year abroad, but her permanent reality. Meanwhile, Sylvie offers some characteristically bold guidance, encouraging Emily to dive into new romances and embrace making mistakes along the way."
+        ]
+      },
+      {
+        "h": "One Last Toast And Official Synopsis",
+        "p": [
+          "In a particularly touching moment from the teaser, Emily and Mindy raise their glasses together to toast one final story. Emily punctuates the celebratory moment by declaring that they need to send the journey off with a massive bang.",
+          "According to the official plot synopsis released by Netflix, the sixth season finds Emily stepping boldly into a brand-new era characterized by ambition and romance. Her upcoming choices will heavily test her personal loyalties as well as the idealized dream life she painstakingly constructed in Paris."
+        ]
+      },
+      {
+        "h": "Returning Cast Members And Previous Events",
+        "p": [
+          "Lily Collins and Ashley Park lead the ensemble once again as Emily Cooper and Mindy Chen, respectively. The expansive returning cast also features Lucas Bravo, Lucien Laviscount as Alfie, Minnie Driver as Princess Jane, Bruno Gouery as Luc, Samuel Arnold as Julien, and William Abadie as Antoine.",
+          "The events of the final season directly follow the fallout of Season 5, which concluded with Emily deciding to part ways with Marcello, her Italian romantic interest whom she met during her extended stay in Rome."
+        ]
+      },
+      {
+        "h": "Cast Insights And Christmas Eve Release Date",
+        "p": [
+          "Leading up to the premiere of the final season, actors Lucien Laviscount and Lucas Bravo opened up about themes of love and relationships during an interview with PEOPLE magazine for its Sexiest Man Alive issue. Laviscount reflected on heartbreak, noting that it is far better to have loved and lost than never to have experienced love at all.",
+          "Netflix has confirmed that the sixth and final season of Emily in Paris will officially premiere on December 24. The show will make its triumphant return this Christmas Eve, officially bringing Emily Cooper's Parisian saga to a complete close."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix shared a teaser on November 11 for the final season of Emily in Paris, which is scheduled to premiere on December 24. The upcoming episodes follow Lily Collins and Ashley Park traveling to Greece where they encounter Gabriel, played by Lucas Bravo, as the series brings Emily Cooper's story to an end."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix shared the teaser on November 11",
+      "Emily in Paris Season 6 will premiere on December 24",
+      "Lily Collins and Ashley Park return as Emily Cooper and Mindy Chen",
+      "Lucas Bravo plays Gabriel",
+      "Philippine Leroy-Beaulieu plays Sylvie",
+      "Lucien Laviscount plays Alfie",
+      "Minnie Driver plays Princess Jane",
+      "Bruno Gouery plays Luc",
+      "Samuel Arnold as Julien",
+      "William Abadie as Antoine",
+      "Eugenio Franceschini plays Marcello"
+    ],
+    "entities": {
+      "people": [
+        "Lily Collins",
+        "Ashley Park",
+        "Lucas Bravo",
+        "Philippine Leroy-Beaulieu",
+        "Lucien Laviscount",
+        "Minnie Driver",
+        "Bruno Gouery",
+        "Samuel Arnold",
+        "William Abadie",
+        "Eugenio Franceschini",
+        "Emily Cooper",
+        "Mindy Chen",
+        "Sylvie",
+        "Alfie",
+        "Princess Jane",
+        "Luc",
+        "Julien",
+        "Antoine",
+        "Marcello",
+        "Gabriel"
+      ],
+      "titles": [
+        "Emily in Paris",
+        "Emily in Paris Season 6"
+      ]
+    },
+    "keywords": [
+      "Emily in Paris Season 6",
+      "Lily Collins Emily in Paris",
+      "Gabriel returns Emily in Paris",
+      "Emily in Paris final season",
+      "Emily in Paris Season 6 release date"
+    ],
+    "images": [
+      {
+        "url": "https://mm-wp-prod-uploads.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/11/12145631/image-63.jpeg",
+        "caption": "Emily In Paris Season 6 Teaser Released By Netflix",
+        "source": "MissMalini"
+      }
+    ],
+    "published": "2026-11-12T21:51:33Z"
+  },
+  "1ng8hfi": {
+    "id": "1ng8hfi",
+    "type": "news",
+    "headline": "EastEnders' Suki Panesar Takes Extreme Measures Ahead of High-Stakes Hearing",
+    "dek": "Suki Panesar crosses a major ethical line by accessing confidential medical records as she fights to secure adoption rights for young Ria alongside her wife Eve Unwin.",
+    "body": [
+      {
+        "h": "The Battle for Permanent Custody",
+        "p": [
+          "The residents of Albert Square are heading into a tense week of dramatic episodes, centered heavily around Suki Panesar and her wife Eve Unwin. The couple has spent the past few months fostering a youngster named Ria, hoping to formalize their bond and become her adoptive parents permanently. However, their aspirations face a major roadblock due to the intervention of Ria's biological mother, Harleen.",
+          "Harleen recently crossed paths with Suki and Eve, leaving her unimpressed after she unexpectedly walked in on a heated argument between Suki and her daughter, Ash Panesar. Consequently, Harleen declared her intention to legally contest the adoption process, setting off a wave of panic and desperation for the loving foster parents who view Ria as an integral part of their family."
+        ]
+      },
+      {
+        "h": "Confidence Fades as Legal Realities Set In",
+        "p": [
+          "In the November 12 episode, Suki attempted to reassure Eve that their case remains strong, arguing that Harleen lacks reliability and that a judge would ultimately rule in favor of the current home environment. Yet, their case worker brought sobering perspective to the table, noting that Harleen has demonstrated remarkable personal progress over the preceding year and that officials must prioritize the absolute best interests of the teenager.",
+          "The situation only grew more complicated as family discussions turned volatile. While Ash suggested with a degree of sympathy that Harleen was very young when she first gave birth and genuinely desires a chance to parent now, Suki remained entirely steadfast. Suki insisted that Harleen has a repeated history of letting Ria down and that the youngster would undeniably thrive much better under her and Eve's care."
+        ]
+      },
+      {
+        "h": "Emotional Turmoil and Family Tensions",
+        "p": [
+          "The ongoing strain of the custody battle took a heavy toll on Eve Unwin, who became visibly distressed by the prospect of losing the child she loves so deeply. Seeking comfort, Eve shared a tender, heartwarming moment playing with Ria, culminating in the young girl embracing Eve and expressing her love out loud—a touching scene quietly witnessed by a watchful Suki.",
+          "Driven by frustration and a fierce protective instinct, Suki later sought guidance and a listening ear from Sharon. Explaining the heartbreak Harleen's opposition is causing Eve, Suki reaffirmed her conviction that she and Eve provide the superior life. Sharon offered supportive words, encouraging Suki to fight relentlessly for her daughter regardless of what obstacles might stand in their way."
+        ]
+      },
+      {
+        "h": "A Risky Gamble at the GP Practice",
+        "p": [
+          "Refusing to leave the custody outcome entirely to chance, Suki took matters into her own hands in a deeply questionable way. Operating out of the local practice, she utilized Ash's professional GP database to covertly look up and acquire Harleen's private home address.",
+          "This unauthorized breach of medical data marks a massive escalation in Suki's tactics. While her motivations stem from a desire to safeguard her family unit with Eve and Ria, the move carries severe personal and professional risks that could easily backfire if discovered."
+        ]
+      },
+      {
+        "h": "Background and Context in Albert Square",
+        "p": [
+          "The ongoing adoption storyline highlights the complex, emotional layers of modern familial structures depicted in the long-running BBC soap opera. Suki and Eve's relationship has weathered numerous storms, and establishing a formalized family with Ria represented a peaceful new chapter for the couple.",
+          "The sudden reemergence of Harleen injects classic soap drama into the narrative, testing the resilience of Suki and Eve's bond. At the same time, Ash's balanced perspective on her biological mother's rights adds a compelling moral dilemma to the unfolding plot."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Anticipated Fallout",
+        "p": [
+          "Viewers watching the developments unfold have been left wondering how far Suki is willing to go to protect her domestic happiness. Her decision to snoop through confidential patient files has immediately sparked concern among fans that her impulsive actions will inevitably come back to haunt her.",
+          "With upcoming episodes promising even higher stakes, the fallout from Suki visiting or confronting Harleen using illicitly obtained information is anticipated to trigger massive consequences for the entire household."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suki Panesar takes a drastic and potentially dangerous step by unlawfully accessing Harleen's address through a GP database in her desperation to secure the adoption of young Ria. Amid mounting tensions with her family and a looming legal battle against Ria's biological mother, Suki's risky actions threaten to unravel the very family she is trying so hard to protect."
+        ]
+      }
+    ],
+    "facts": [
+      "Suki Panesar and Eve Unwin have been fostering Ria for the past few months.",
+      "Harleen is Ria's biological mother who plans to contest the adoption bid.",
+      "The episode featuring Suki's actions aired on 12 November.",
+      "Suki used Ash Panesar's GP database to secretly gain access to Harleen's address."
+    ],
+    "entities": {
+      "people": [
+        "Suki",
+        "Eve Unwin",
+        "Ria",
+        "Harleen",
+        "Ash Panesar",
+        "Sharon"
+      ],
+      "titles": [
+        "EastEnders"
+      ]
+    },
+    "keywords": [
+      "EastEnders Suki adoption",
+      "Suki and Eve Ria",
+      "EastEnders Suki Harleen address",
+      "Suki Panesar Ash GP database"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/eastenders-suki-689b2bfe8920b.png?crop=0.876xw:0.780xh;0.117xw,0&amp;resize=1200:*",
+        "caption": "EastEnders' Suki Panesar Takes Extreme Measures Ahead of High-Stakes Hearing",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 20:00:00 +0000"
+  },
+  "17jgk4g": {
+    "id": "17jgk4g",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Surpasses $100 Million Worldwide at the Box Office",
+    "dek": "The Diwali event movie directed by Nitesh Tiwari and starring Ranbir Kapoor has crossed a major global milestone following a record-breaking holiday opening.",
+    "body": [
+      {
+        "h": "Reaching the Global Century Mark",
+        "p": [
+          "The theatrical feature Ramayana: Rise of a Legend has successfully crossed the $100 million threshold globally. This significant financial milestone highlights the strong pulling power of the epic feature at cinemas worldwide.",
+          "The project is a collaborative effort between Prime Focus Studio and Sony. Its impressive global running total currently stands at $101.9 million."
+        ]
+      },
+      {
+        "h": "Domestic Dominance in India",
+        "p": [
+          "A substantial portion of the film's earnings stems from its home territory. Domestic collections in India account for $67.1 million of the overall worldwide cume.",
+          "The narrative follows the journey of Prince Rama, charting his life from childhood all the way through his 14-year exile."
+        ]
+      },
+      {
+        "h": "International and Domestic Territory Breakdown",
+        "p": [
+          "Beyond its home market, the picture has generated notable figures across other territories. Sony's running domestic total within the United States sits at $17.7 million.",
+          "Additionally, foreign-handled territories contributed another $16.9 million to the cumulative worldwide tally."
+        ]
+      },
+      {
+        "h": "Festive Holiday Boost",
+        "p": [
+          "Following the Sunday Diwali festival day, industry sources noted a strong surge in cinema attendance across India. This uptick aligns with typical viewing habits as families relax and partake in the holiday's religious observances.",
+          "The movie initially launched over the weekend, securing the No. 2 position at the global box office with an opening weekend of $55.7 million."
+        ]
+      },
+      {
+        "h": "Record-Breaking Opening Records",
+        "p": [
+          "The stellar weekend debut established a brand new Diwali opening record for an Indian release. Globally, ticket sales for the opening frame surpassed 11 million admissions.",
+          "Audience reception has remained exceptionally positive since the rollout, positioning the feature as a major holiday success."
+        ]
+      },
+      {
+        "h": "Critical Reception and Star Cast",
+        "p": [
+          "Viewers have showered the epic with praise, reflected by a strong 94% audience approval rating on Rotten Tomatoes alongside a 5-star PostTrak exit score.",
+          "Helmed by director Nitesh Tiwari, the movie features a prominent cast including Ranbir Kapoor, Yash, and Sam Pallavi. The production is steered by producer Namit Malhotra."
+        ]
+      },
+      {
+        "h": "Context within Indian Cinema",
+        "p": [
+          "Director Nitesh Tiwari is no stranger to massive box office heights, having previously directed Dangal, which holds the record as the highest-grossing Indian movie of all time with a $303.7 million worldwide haul.",
+          "The robust performance of Ramayana: Rise of a Legend further cements Tiwari's reputation for delivering massive commercial hits on a global scale."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend has crossed $100 million at the global box office following a record-breaking Diwali opening. Directed by Nitesh Tiwari and starring Ranbir Kapoor, the film continues to draw strong audience numbers both in India and overseas."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend crossed $100M at the worldwide box office with a total of $101.9M.",
+      "India homeland collections contributed $67.1M to the total.",
+      "Sony's running domestic total is $17.7M.",
+      "Foreign handled territories contributed $16.9M.",
+      "The movie opened at No. 2 globally with $55.7M, setting a Diwali opening record for an Indian movie.",
+      "More than 11M tickets were sold around the globe during opening.",
+      "The film has a 94% audience score on Rotten Tomatoes and a 5-star PostTrak exit.",
+      "The film stars Ranbir Kapoor, Yash, and Sam Pallavi, and is directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "Dangal is the highest-grossing Indian movie of all time with $303.7M worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sam Pallavi",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dangal"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Ramayana",
+      "Nitesh Tiwari Ramayana",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/MCDRAMA_SP002.jpg?w=1024",
+        "caption": "Ramayana: Rise of a Legend Surpasses $100 Million Worldwide at the Box Office",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 20:03:22 +0000"
+  },
+  "1ku6uw3": {
+    "id": "1ku6uw3",
+    "type": "news",
+    "headline": "Pawan Kalyan and Anna Lezhneva Separate",
+    "dek": "Telugu superstar and Andhra Pradesh Deputy Chief Minister Pawan Kalyan is reportedly parting ways with his third wife, Anna Lezhneva, sparking intense public debate and widespread social media reactions regarding her past dedication to their family.",
+    "body": [
+      {
+        "h": "The Announcement of Separation",
+        "p": [
+          "Telugu cinema icon and prominent politician Pawan Kalyan finds his personal life under immense public scrutiny once again following news of his separation from his third wife, Anna Lezhneva. The announcement has triggered a wave of reactions across various digital platforms, drawing widespread attention from fans and critics alike."
+        ]
+      },
+      {
+        "h": "Devotion and Sacrifices at Tirumala",
+        "p": [
+          "Public discussion has heavily centered around Anna Lezhneva's dedication during their marriage, with many recalling the extreme measures she took for her family's well-being. Reports highlight that when Pawan Kalyan faced health issues and their son, Mark Shankar, was injured in a school fire incident, Lezhneva shaved her head and climbed the steps of the Tirumala temple to pray for their recovery and longevity."
+        ]
+      },
+      {
+        "h": "Public Outcry and Sympathy",
+        "p": [
+          "The revelation of their split has led many internet users to question Pawan Kalyan, with public sympathy strongly leaning toward Lezhneva. Observers on social media have expressed dismay that a relationship could dissolve despite the profound rituals and personal sacrifices she undertook for her husband's health and safety."
+        ]
+      },
+      {
+        "h": "A History of High Profile Marriages",
+        "p": [
+          "Pawan Kalyan's marital history has consistently remained a topic of public interest throughout his career in entertainment and politics. His first marriage was to Nandini, followed by a union with actress Renu Desai, and both relationships ultimately ended in divorce prior to his marriage to Lezhneva."
+        ]
+      },
+      {
+        "h": "Social Media Backlash and Political Jabs",
+        "p": [
+          "Social media users have utilized the separation announcement to draw parallels to his political career, noting his marital track record with satirical remarks about electoral success rates. Commentary online has focused heavily on the emotional contrast between Lezhneva's cultural devotion and the ultimate dissolution of the marriage."
+        ]
+      },
+      {
+        "h": "Family and Shared Responsibilities",
+        "p": [
+          "The couple shares two children, including their son Mark Shankar Pavanovich, who was born in 2017. Additionally, Pawan Kalyan shares children from his previous marriage with Renu Desai. Despite deciding to part ways as a married couple, both individuals have indicated a commitment to jointly raising their children."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Telugu cinema superstar and Andhra Pradesh Deputy Chief Minister Pawan Kalyan is reportedly separating from his third wife, Anna Lezhneva. The news has sparked online backlash and sympathy for Lezhneva, who previously shaved her head and climbed the Tirumala temple steps to pray for her family. Despite the end of their marriage, the two have agreed to jointly raise their children."
+        ]
+      }
+    ],
+    "facts": [
+      "Pawan Kalyan is a Telugu film superstar and the Deputy Chief Minister of Andhra Pradesh.",
+      "Anna Lezhneva is of Russian origin and is Pawan Kalyan's third wife.",
+      "Their son Mark Shankar Pavanovich was born in 2017.",
+      "Pawan Kalyan's previous marriages were to Nandini and actress Renu Desai."
+    ],
+    "entities": {
+      "people": [
+        "Pawan Kalyan",
+        "Anna Lezhneva",
+        "Mark Shankar",
+        "Mark Shankar Pavanovich",
+        "Nandini",
+        "Renu Desai"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Pawan Kalyan Anna Lezhneva divorce",
+      "Pawan Kalyan third wife",
+      "Anna Lezhneva Tirumala temple",
+      "Mark Shankar Pavanovich parents"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af46f01a3233-pawan-kalyan-wife-bald-tirumala-113456465-16x9.jpg",
+        "caption": "Pawan Kalyan and Anna Lezhneva Separate",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T21:51:33Z"
   }
 };
