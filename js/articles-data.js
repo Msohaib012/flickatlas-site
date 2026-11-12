@@ -124730,5 +124730,419 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 09:48:13 +0000"
+  },
+  "l9v8gb": {
+    "id": "l9v8gb",
+    "type": "news",
+    "headline": "Mani Ratnam's Inji Vellam Starring Vijay Sethupathi and Sai Pallavi Sets January Release",
+    "dek": "Acclaimed filmmaker Mani Ratnam is returning to the romance genre with his upcoming Tamil project Inji Vellam, pairing Vijay Sethupathi and Sai Pallavi together on screen for the first time.",
+    "body": [
+      {
+        "h": "The Return of Mani Ratnam's Romance",
+        "p": [
+          "Renowned director Mani Ratnam is stepping back into the romance genre with his latest Tamil venture, Inji Vellam. The auteur has previously directed iconic romantic classics such as Mouna Ragam, Geethanjali, Alai Payuthey, and O Kadhal Kanmani.",
+          "This upcoming film marks a major casting milestone by bringing together two major stars, Vijay Sethupathi and Sai Pallavi, for their very first cinematic collaboration."
+        ]
+      },
+      {
+        "h": "Release Date and Title Meaning",
+        "p": [
+          "The makers of the film have officially locked in the theatrical release schedule, announcing that Inji Vellam will arrive in cinemas on January 29 next year.",
+          "The title Inji Vellam translates to ginger and jaggery, serving as a metaphorical description for a sweet-and-spicy combination that mirrors contrasting personalities meeting and falling in love."
+        ]
+      },
+      {
+        "h": "Plot Hints and Motion Poster Teasers",
+        "p": [
+          "While the production team has kept specific plot details tightly under wraps, a short motion poster released alongside the date announcement offers a few clues.",
+          "The promotional footage suggests that Vijay Sethupathi and Sai Pallavi will portray a married couple, and they are also seen holding a set of twins who may potentially play their daughters."
+        ]
+      },
+      {
+        "h": "Kolkata Production and Leaked Set Photos",
+        "p": [
+          "A substantial portion of Inji Vellam was filmed on location in Kolkata. In July of last year, several behind-the-scenes photographs from the Howrah Bridge shoot surfaced online.",
+          "Those leaked images featured Vijay sporting a clean-shaven look in a black t-shirt, jeans, and white sneakers, while Sai was spotted wearing a flowing brown dress with loose curls, appearing to shoot a song sequence under the director's guidance."
+        ]
+      },
+      {
+        "h": "Musical Background and Crew",
+        "p": [
+          "The film's audio landscape is composed by the legendary AR Rahman, who has crafted the music for Inji Vellam.",
+          "This collaboration continues Mani Ratnam's long-standing creative partnership with the celebrated music composer."
+        ]
+      },
+      {
+        "h": "Recent Projects of the Lead Cast and Director",
+        "p": [
+          "Mani Ratnam's previous directorial effort was Thug Life, which released in 2025 on a budget of ₹ 200-300 crore and collected less than ₹ 100 crore worldwide.",
+          "Meanwhile, Vijay Sethupathi was recently seen in Baththa, a surprise box office hit that launched on Netflix last month, and Sai Pallavi has been receiving acclaim for her portrayal of Sita in Ramayana Part 1 alongside Ranbir Kapoor and Yash."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Mani Ratnam is set to release his upcoming Tamil romantic film Inji Vellam, starring Vijay Sethupathi and Sai Pallavi for the first time, in theatres on January 29 next year with music by AR Rahman.",
+          "The project, which features a score by AR Rahman and a Kolkata shoot background, was teased via a motion poster hinting at a married couple dynamic."
+        ]
+      }
+    ],
+    "facts": [
+      "Mani Ratnam's last release was Thug Life in 2025.",
+      "Thug Life was made on a budget of ₹ 200-300 crore and collected less than ₹ 100 crore worldwide.",
+      "Inji Vellam will release in theatres on January 29.",
+      "AR Rahman has scored Inji Vellam.",
+      "Sai Pallavi plays Sita in Ramayana Part 1 starring Ranbir Kapoor as Lord Rama and Yash as Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Mani Ratnam",
+        "Vijay Sethupathi",
+        "Sai Pallavi",
+        "AR Rahman",
+        "Ranbir Kapoor",
+        "Yash",
+        "Dhanush",
+        "Mammootty",
+        "Sreeleela"
+      ],
+      "titles": [
+        "Inji Vellam",
+        "Mouna Ragam",
+        "Geethanjali",
+        "Alai Payuthey",
+        "O Kadhal Kanmani",
+        "Thug Life",
+        "Baththa",
+        "Ramayana Part 1",
+        "OM"
+      ]
+    },
+    "keywords": [
+      "Inji Vellam film",
+      "Vijay Sethupathi Sai Pallavi",
+      "Mani Ratnam Inji Vellam",
+      "Inji Vellam release date",
+      "AR Rahman Inji Vellam"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/sai_pallavi_1794474326020_m0dX_1794474326216_fjyQ_cbbc53db-7463-4aae-acfa-4e733d5289f4_p3K3.png",
+        "caption": "Mani Ratnam's Inji Vellam Starring Vijay Sethupathi and Sai Pallavi Sets January Release",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 15:39:35 +0530"
+  },
+  "jnnuoh": {
+    "id": "jnnuoh",
+    "type": "news",
+    "headline": "Dancing With the Stars Grammy Night Eliminates Jenna Dewan and Unveils Semifinalists",
+    "dek": "Grammy Night on Dancing With the Stars brought musical tributes, stellar performances, and a surprising elimination just ahead of the season 35 semifinals.",
+    "body": [
+      {
+        "h": "Kicking Off With Tango and Paso Doble",
+        "p": [
+          "The Tuesday, November 10 episode of Dancing With the Stars brought intense competition as the dancing reality series moved one step closer to crowning a season 35 champion. The semifinalists were officially revealed following an energetic evening themed around Grammy Night.",
+          "The ballroom opened with an Argentine tango performed by Ezra Frech and Daniella Karagach to Beyoncé's remix of 'Crazy in Love', netting a score of 27 out of 30. Amber Glenn and Pasha Pashkov followed with a fiery paso doble set to Evanescence's 'Bring Me to Life', which earned them 28 points. Although the judges praised both routines, Carrie Ann Inaba pointed out a minor technical slip where Glenn's foot briefly lifted off the floor."
+        ]
+      },
+      {
+        "h": "Overcoming Injury and Reaching the Stage",
+        "p": [
+          "Maura Higgins faced a difficult hurdle during rehearsals when she suffered a scary rib injury. The Traitors alum expressed deep worry about landing on the chopping block and broke down during a vulnerable moment in the studio.",
+          "Despite the physical setback, Higgins pushed through the pain alongside partner Mark Ballas. Their Argentine tango to Sisqó's 'Thong Song' ultimately scored 27 out of 30, proving her determination in the competition."
+        ]
+      },
+      {
+        "h": "Janet Jackson Tribute and Surprise Messages",
+        "p": [
+          "Jenna Dewan delivered a jazz routine inspired by pop icon Janet Jackson, dancing to the track 'All for You'. The performance carried extra meaning since Dewan previously worked as a backup dancer for Jackson.",
+          "Following the routine, Jackson surprised Dewan with a celebratory video message recalling their time on tour and offering encouragement. Dewan and Val Chmerkovskiy's jazz routine received a strong score of 28 out of 30."
+        ]
+      },
+      {
+        "h": "More Standout Performances and Scores",
+        "p": [
+          "Tatyana Ali and Jan Ravnik performed a tango to the Black Eyed Peas track 'Boom Boom Pow', earning 27 points. Connor Wood and Rylee Arnold took on an Argentine tango to Justin Timberlake and Timbaland's 'SexyBack', also finishing with a score of 27.",
+          "Meanwhile, Harry Shum Jr. and Jenna Johnson secured the highest judges' score of the night with a salsa to Lady Gaga and Bruno Mars' 'Die With a Smile', earning 29 points and winning immunity along with 2 bonus points."
+        ]
+      },
+      {
+        "h": "Live Musical Acts and Dance-Offs",
+        "p": [
+          "The episode featured special live musical performances during the dance-off segments. Viewers and studio audiences enjoyed Brandy and Monica singing 'The Boy Is Mine', Maren Morris performing 'The Middle', and Sheryl Crow delivering 'All I Wanna Do'.",
+          "Several couples earned bonus points during the dance-offs, adding crucial margins to the leaderboard as the competition narrowed down to the remaining contenders for the season crown."
+        ]
+      },
+      {
+        "h": "A Fond Farewell Before the Semifinals",
+        "p": [
+          "Ultimately, the competition claimed its latest casualty as Jenna Dewan and Val Chmerkovskiy faced elimination just ahead of the semifinals. Reflecting on her time on the show, Dewan expressed gratitude for sharing her joy of dancing with her family and the wider audience.",
+          "Dancing With the Stars continues its regular broadcast schedule on ABC and Disney+ every Tuesday at 8 p.m. ET, setting the stage for the final rounds of the reality competition."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dancing With the Stars completed its Grammy Night episode on Tuesday, November 10, revealing the season 35 semifinalists after a series of competitive routines and live musical performances. Jenna Dewan and Val Chmerkovskiy were eliminated from the competition ahead of the semifinals following a jazz routine scored at 28 out of 30."
+        ]
+      }
+    ],
+    "facts": [
+      "The episode aired on Tuesday, November 10.",
+      "Dancing With the Stars is currently in season 35.",
+      "Ezra Frech and Daniella Karagach scored 27 out of 30 for their Argentine tango.",
+      "Amber Glenn and Pasha Pashkov scored 28 out of 30 for their paso doble.",
+      "Maura Higgins and Mark Ballas scored 27 out of 30 for their Argentine tango.",
+      "Jenna Dewan and Val Chmerkovskiy scored 28 out of 30 for their jazz routine before being eliminated.",
+      "Harry Shum Jr. and Jenna Johnson scored 29 out of 30 for their salsa and won immunity.",
+      "Tatyana Ali and Jan Ravnik scored 27 out of 30 for their tango.",
+      "Connor Wood and Rylee Arnold scored 27 out of 30 for their Argentine tango."
+    ],
+    "entities": {
+      "people": [
+        "Carrie Ann Inaba",
+        "Derek Hough",
+        "Bruno Tonioli",
+        "Ezra Frech",
+        "Daniella Karagach",
+        "Amber Glenn",
+        "Pasha Pashkov",
+        "Maura Higgins",
+        "Mark Ballas",
+        "Jenna Dewan",
+        "Janet Jackson",
+        "Brandy",
+        "Monica",
+        "Maren Morris",
+        "Sheryl Crow",
+        "Val Chmerkovskiy",
+        "Tatyana Ali",
+        "Jan Ravnik",
+        "Connor Wood",
+        "Rylee Arnold",
+        "Harry Shum Jr.",
+        "Jenna Johnson",
+        "Justin Timberlake",
+        "Timbaland",
+        "Lady Gaga",
+        "Sisqó",
+        "Beyoncé"
+      ],
+      "titles": [
+        "Dancing With the Stars",
+        "The Traitors"
+      ]
+    },
+    "keywords": [
+      "Dancing With the Stars Grammy Night",
+      "Jenna Dewan eliminated Dancing With the Stars",
+      "Maura Higgins rib injury",
+      "Dancing With the Stars season 35 semifinalists"
+    ],
+    "images": [
+      {
+        "url": "https://www.usmagazine.com/wp-content/uploads/2026/11/DWTS-Grammy-Recap-Feature.jpg?crop=0px%2C0px%2C2000px%2C1051px&#038;resize=1200%2C630&#038;quality=78&#038;strip=all",
+        "caption": "Dancing With the Stars Grammy Night Eliminates Jenna Dewan and Unveils Semifinalists",
+        "source": "US Weekly"
+      }
+    ],
+    "published": "2026-11-12T10:52:18Z"
+  },
+  "oh6xxb": {
+    "id": "oh6xxb",
+    "type": "news",
+    "headline": "Jailer 2 Makes History As Kollywood's Highest-Grossing Film In Telugu",
+    "dek": "Rajinikanth starrer Jailer 2 sets a major box office milestone by overtaking 2.0 to become the highest-grossing Kollywood film in the Telugu language.",
+    "body": [
+      {
+        "h": "Setting a New Benchmark in Telugu Markets",
+        "p": [
+          "The theatrical run of Jailer 2 has proven to be a monumental triumph at the box office. While the original Tamil release drew massive crowds, the dubbed regional iterations performed exceptionally well across different territories.",
+          "Focusing specifically on the Telugu states of Andhra Pradesh and Telangana, the action-comedy thriller carved its name into history by capturing the crown for the highest-grossing Kollywood film in the Telugu language."
+        ]
+      },
+      {
+        "h": "Rajinikanth's Stardom in Andhra Pradesh and Telangana",
+        "p": [
+          "Over an extensive career, superstar Rajinikanth has cultivated a fiercely loyal fan following across the Telugu-speaking regions. His drawing power remains a reliable constant for Tamil cinema releases in these markets.",
+          "Capitalizing on this enduring star power, his latest cinematic venture pulled in extraordinary figures, pushing past previous benchmarks to cross a remarkable milestone at the ticket counters."
+        ]
+      },
+      {
+        "h": "The 28-Day Box Office Run",
+        "p": [
+          "Having completed twenty-eight days in Indian cinemas, the movie has nearly exhausted its theatrical steam in the Telugu version. Even as daily collections slowed down significantly toward the end, the cumulative figures established a formidable total.",
+          "The film amassed an impressive 86.22 crore net collection in the Telugu version alone, translating to roughly 101.74 crore gross. With only minor daily additions trickling in, the lifetime run is projected to settle between 86.4 and 86.9 crore net."
+        ]
+      },
+      {
+        "h": "Dethroning the 7-Year-Old Record of 2.0",
+        "p": [
+          "By crossing the 86 crore net threshold, Jailer 2 successfully dismantled the longstanding record previously held by the sci-fi spectacle 2.0, which had collected 81.79 crore net in Telugu.",
+          "That benchmark had stood unchallenged since 2018. It took a full seven years for the Jailer sequel to finally surpass that high watermark and claim the top position."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Details",
+        "p": [
+          "Helmed by director Nelson Dilipkumar, the project was bankrolled by producer Kalanithi Maran under the banner of Sun Pictures. The scale of the production positioned it as a major cinematic event.",
+          "The feature boasts an ensemble cast featuring SJ Suryah, Mithun Chakraborty, Suraj Venjaramoodu, Ramya Krishnan, and Vidya Balan alongside the lead star. The movie officially arrived in theaters on October 15, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Jailer 2 has made history by becoming Kollywood's highest-grossing film in the Telugu language, wrapping up a 28-day run with 86.22 crore net. Directed by Nelson Dilipkumar and starring Rajinikanth, the movie successfully surpassed the seven-year-old record previously held by 2.0."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 collected 86.22 crore net in the Telugu version after a 28-day run.",
+      "The film surpassed 2.0, which had earned 81.79 crore net.",
+      "The previous record by 2.0 had stood for 7 years since 2018.",
+      "Jailer 2 was released theatrically on October 15, 2026.",
+      "The film was directed by Nelson Dilipkumar and produced by Kalanithi Maran's Sun Pictures."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Kalanithi Maran",
+        "SJ Suryah",
+        "Mithun Chakraborty",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan"
+      ],
+      "titles": [
+        "Jailer 2",
+        "2.0"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 box office",
+      "Rajinikanth Jailer 2 Telugu",
+      "Jailer 2 highest grossing film",
+      "Jailer 2 collections 2.0 record"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/jailer-2-box-office-becomes-kollywoods-highest-grossing-film-in-telugu-001.jpg",
+        "caption": "Jailer 2 Makes History As Kollywood's Highest-Grossing Film In Telugu",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 10:20:14 +0000"
+  },
+  "nxki3z": {
+    "id": "nxki3z",
+    "type": "news",
+    "headline": "Survivor Season 51 Episode 8 Recap: A Twisting Pair Dynamic and High-Stakes Tribal Council",
+    "dek": "A clever pair twist, strategic advantages, and another unpredictable live Tribal Council highlight the latest chaotic outing of the reality competition.",
+    "body": [
+      {
+        "h": "Setting the Stage and Alliances",
+        "p": [
+          "The episode kicks off with Mike addressing his precarious standing after flipping a previous vote, receiving blunt advice from Maggie about why he lacks trust among the group. Meanwhile, Carter grows weary of the constant chaos and forms the Salt Alliance, recruiting Kilby, Lewis, Cristian, Maggie, and Thien An to stick to a unified plan. To solidify trust with Cristian, Carter reveals a hidden immunity idol inherited from Rob, who previously quit the game on day six.",
+          "As the phase shifts, host Jeffrey Lee Probst announces a major twist: the remaining castaways will compete and win immunity in pairs, with a pair of players ultimately going home while everyone continues to vote as individuals. Importantly, advantages like immunity idols and Shots in the Dark played for one person will protect the entire pair. The contestants form their pairs through deliberate choices rather than a random draw, leading to strategic pairings like Mike and Maggie, and Carter and Cristian."
+        ]
+      },
+      {
+        "h": "The Medevac and Immunity Challenge",
+        "p": [
+          "Before the challenges begin, Jeff shares that Brody Brady has left the game to tend to an injured thumb sustained while opening coconuts and will no longer participate on the jury. The ensuing immunity challenge unfolds in three demanding phases, starting with a test of endurance where players must listen to Eric chatter about his fiancé, spaghetti, and television shows. Kristin and Kilby, along to Mike and Maggie, are the first pairs eliminated from this leg.",
+          "During the second phase, Lewis and Sharonda make the strategic choice to step down and conserve their energy. This decision pays off when frontrunners Carter and Cristian accidentally drop their stacked puzzle pieces near the finish line, allowing Lewis and Sharonda to claim victory. As reward winners, Lewis and Sharonda earn the power to send someone on a journey, ultimately selecting Cristian."
+        ]
+      },
+      {
+        "h": "The Journey and Advantage Hunt",
+        "p": [
+          "Sent out to sea on a boat, Cristian reads a message informing him that he has lost his vote. However, he is given the chance to win it back and secure an extra vote by solving a puzzle on the island. He cuts a rope to empty a trough of buoys into the ocean, eventually collecting the ones marked with letters to decipher the hidden clue: Dig Under Treemail.",
+          "Returning to camp, Cristian shares the details honestly and uncovers his vote and extra vote from beneath treemail, closely monitored by Mike. Meanwhile, strategic maneuvering ramps up back at camp as players begin targeting vulnerable pairs, particularly focusing on Devin and Jelly, or Eric and Kristin, while trying to protect well-connected allies like Maggie and Thien An."
+        ]
+      },
+      {
+        "h": "Strategic Whispers and Camp Dynamics",
+        "p": [
+          "Carter actively pushes to oust Devin and Jelly, arguing that their close partnership makes them a dangerous duo that could give the Salt faction a permanent majority. Jelly defends their position, noting that they pose little threat through challenge wins or heavy influence, and pushes back by targeting Carter and Cristian instead. To complicate matters further, Sharonda operates quietly from the sidelines, advising Devin to secure a game plan and exposing a smoke screen vote directed at Kristin.",
+          "As camp life gives way to Tribal Council, tensions peak with frantic whispering and shifting plans among the contestants. Cristian hands his extra vote to Eric, hoping Eric will play it for Devin and Jelly if needed. Despite the looming expiration of his advantages, Eric opts to hold onto his vote, assuming their majority is secure enough without it."
+        ]
+      },
+      {
+        "h": "A Chaotic Live Tribal Council",
+        "p": [
+          "The Tribal Council erupts into classic New Era chaos with constant side conversations and last-minute scrambles. When Jeff checks in on the state of the whispers, Maggie voices her frustration at the sheer volume of overlapping chatter. Before the votes are read, several players deploy their secret advantages in rapid succession.",
+          "Kristin attempts her Shot in the Dark, but it results in a Not Safe outcome. To the relief of his supporters, Cristian's Shot in the Dark draws a Safe scroll, protecting him and Carter. In a dramatic turn, Jelly successfully plays her hidden immunity idol, stunning the group and nullifying the majority of the incoming votes."
+        ]
+      },
+      {
+        "h": "Fallout and Elimination",
+        "p": [
+          "The resulting vote count sees nearly all targeted votes bounce off Devin and Jelly due to the idol play, while Kilby and Kristin fall victim to the chaotic fallout. Kilby's failure to utilize his expiring advantage seals their exit, sending two notable characters out of the game in a single stroke.",
+          "As the credits roll, a review of the ballots reveals that Sharonda successfully covered her bases by voting with the majority while keeping her undercover status intact. Meanwhile, Devin and Jelly's decision to split their votes safeguards their position regardless of outside advantages, concluding a thrilling strategic chapter for the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "In Episode 8 of Survivor Season 51, contestants compete and face elimination in pairs while voting as individuals, following Brody Brady's departure due to a thumb injury. Strategic maneuvers, immunity challenges, and island journeys lead to a chaotic live Tribal Council where idols and Shots in the Dark completely upend the expected vote. Ultimately, Kilby and Kristin are sent home after advantages neutralize the target on Devin and Jelly, keeping alliances on edge."
+        ]
+      }
+    ],
+    "facts": [
+      "Survivor Season 51 Episode 8 is titled 'Load the Ark, Two by Two'.",
+      "Brody Brady left the game on day six or during the season due to a thumb injury and will not be on the jury.",
+      "Rob quit the game on day six.",
+      "Lewis and Sharonda won the immunity challenge.",
+      "Cristian found his vote and extra vote by digging under treemail.",
+      "Kristin played her Shot in the Dark and got 'Not Safe'.",
+      "Cristian played his Shot in the Dark and got 'Safe'.",
+      "Jelly played a hidden immunity idol at Tribal Council.",
+      "Kilby and Kristin were voted out in Episode 8."
+    ],
+    "entities": {
+      "people": [
+        "Jeffrey Lee Probst",
+        "Mike",
+        "Maggie",
+        "Brady",
+        "Carter",
+        "Kilby",
+        "Lewis",
+        "Cristian",
+        "Thien An",
+        "Rob",
+        "Devin",
+        "Jelly",
+        "Kristin",
+        "Sharonda",
+        "Eric",
+        "Brody Brady"
+      ],
+      "titles": [
+        "Survivor",
+        "Salt",
+        "The Real Housewives of Rhode Island",
+        "The Sopranos",
+        "Weapons"
+      ]
+    },
+    "keywords": [
+      "Survivor Season 51 Episode 8",
+      "Survivor Load the Ark Two by Two",
+      "Jeffrey Lee Probst Survivor",
+      "Brody Brady Survivor",
+      "Survivor Episode 8 recap"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/065/1c0/7aa0b410448afef6226f134864ff2515a6-survivor-8.1x.rsocial.w1200.jpg",
+        "caption": "Survivor Season 51 Episode 8 Recap: A Twisting Pair Dynamic and High-Stakes Tribal Council",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-12T02:30:41.089Z"
   }
 };
