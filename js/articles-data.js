@@ -127535,5 +127535,474 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 16:39:57 +0000"
+  },
+  "8c197r": {
+    "id": "8c197r",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 16 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 16 aired on 2026-11-12 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 16 aired on 2026-11-12 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=e6PWhETh-3g"
+        ]
+      },
+      {
+        "h": "About Lagan Lagi",
+        "p": [
+          "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 16 aired on 2026-11-12.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=e6PWhETh-3g",
+      "YouTube views: 4,215.",
+      "TMDB: Lagan Lagi (id 337316)."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/e6PWhETh-3g/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 16",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-12T17:00:27Z"
+  },
+  "lzaf9b": {
+    "id": "lzaf9b",
+    "type": "news",
+    "headline": "Bano Episode 29 — Watch Online on Geo TV",
+    "dek": "Bano episode 29 aired on 2026-11-12 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 29 aired on 2026-11-12 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=LMtKOtqvmxM"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 29 aired on 2026-11-12.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=LMtKOtqvmxM",
+      "YouTube views: 179,861."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/LMtKOtqvmxM/hqdefault.jpg",
+        "caption": "Bano Episode 29",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-12T17:00:22Z"
+  },
+  "14rn7rx": {
+    "id": "14rn7rx",
+    "type": "news",
+    "headline": "Mike O'Malley Shares Heartfelt Tribute and Last Phone Call Details Following the Death of 'Yes, Dear' Star Anthony Clark",
+    "dek": "Former co-star Mike O'Malley honors the late Anthony Clark, remembering their long-standing friendship and final conversation before the sitcom star's passing.",
+    "body": [
+      {
+        "h": "Passing of a Sitcom Star",
+        "p": [
+          "Actor Anthony Clark, best known for headlining the early 2000s CBS sitcom Yes, Dear, has passed away. The news was shared by his co-star Mike O'Malley, who posted a heartfelt tribute on social media.",
+          "Clark's death followed complications from pneumonia, marking the loss of a beloved television personality who later stepped away from Hollywood to lead a quiet life."
+        ]
+      },
+      {
+        "h": "A Friendship That Began Before Television",
+        "p": [
+          "Mike O'Malley reflected on how his relationship with Clark predated their time working together on television. Long before sharing the screen, O'Malley and his wife Lisa frequently watched Clark perform stand-up comedy in Boston during the mid-nineties.",
+          "They regularly sold out comedy shows at venues like The Comedy Connection, where Clark captivated audiences with his unique, self-effacing humor and absurd observational stories."
+        ]
+      },
+      {
+        "h": "The Final Phone Conversation",
+        "p": [
+          "In his tribute, O'Malley opened up about a recent phone call they shared just three weeks prior to Clark's passing. True to form, the late comedian managed to make O'Malley and those around him laugh out loud once again.",
+          "O'Malley accompanied his public remembrance with nostalgic photographs taken during the final episode of Yes, Dear, which concluded its run twenty years ago."
+        ]
+      },
+      {
+        "h": "The Legacy of 'Yes, Dear'",
+        "p": [
+          "Yes, Dear enjoyed a successful six-season run on CBS, spanning a total of 122 episodes. The program humorously explored contrasting parenting styles through the everyday lives of two distinct households.",
+          "While the series is currently unavailable on major streaming platforms like Paramount+, it remains warmly remembered by fans of early 2000s television comedy."
+        ]
+      },
+      {
+        "h": "Stand-Up Roots and Early Breakthroughs",
+        "p": [
+          "Before transitioning to television and film acting, Clark established himself as a prominent stand-up comedian. A major career milestone arrived in 1995 when he was featured in an HBO comedy special alongside Dave Chappelle, Dave Attell, and Louis C.K.",
+          "That high-profile showcase helped pave the way for subsequent acting opportunities, including a recurring guest role on the sitcom Ellen."
+        ]
+      },
+      {
+        "h": "Notable Film Appearances",
+        "p": [
+          "Clark's film credits featured several notable appearances across various genres. He portrayed a barber in the Sean Connery action thriller The Rock and appeared in River Phoenix's drama The Thing Called Love.",
+          "His filmography also included roles in the drama Paid in Full and his final film appearance in the 2011 comedy My Uncle Rafael, which starred John Michael Higgins."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Anthony Clark, star of the CBS sitcom Yes, Dear, has passed away following complications from pneumonia. His former co-star Mike O'Malley paid tribute to him on social media, recalling their friendship and a final phone call they shared three weeks prior to his death."
+        ]
+      }
+    ],
+    "facts": [
+      "Anthony Clark starred in the CBS sitcom Yes, Dear.",
+      "Mike O'Malley shared the news of Anthony Clark's death on X.",
+      "Yes, Dear ran for six seasons and 122 episodes, ending twenty years ago.",
+      "Anthony Clark passed away following complications from pneumonia.",
+      "Anthony Clark was featured in a 1995 HBO special alongside Dave Chappelle, Dave Attell, and Louis C.K.",
+      "Anthony Clark's final film appearance was in the 2011 comedy My Uncle Rafael."
+    ],
+    "entities": {
+      "people": [
+        "Anthony Clark",
+        "Mike O'Malley",
+        "Lisa",
+        "Dave Chappelle",
+        "Dave Attell",
+        "Louis C.K.",
+        "Sean Connery",
+        "River Phoenix",
+        "John Michael Higgins"
+      ],
+      "titles": [
+        "Yes, Dear",
+        "NCIS",
+        "My Name Is Earl",
+        "Glee",
+        "Last Comic Standing",
+        "The Rock",
+        "Paid in Full",
+        "The Thing Called Love",
+        "My Uncle Rafael",
+        "Ellen"
+      ]
+    },
+    "keywords": [
+      "Anthony Clark",
+      "Mike O'Malley",
+      "Yes, Dear",
+      "Anthony Clark death",
+      "Mike O'Malley tribute"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/DaZLdkC3kyQRRf4Mp8Jw6H-2000-80.jpg",
+        "caption": "Mike O'Malley Shares Heartfelt Tribute and Last Phone Call Details Following the Death of 'Yes, Dear' Star Anthony Clark",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 17:23:04 +0000"
+  },
+  "zwv8t1": {
+    "id": "zwv8t1",
+    "type": "news",
+    "headline": "Shanaya Kapoor Calls Student Of The Year: After Dark Demanding Ahead Of OTT Premiere",
+    "dek": "Shanaya Kapoor opens up about her rigorous preparation and double role in the upcoming thriller series Student Of The Year: After Dark, streaming on JioHotstar.",
+    "body": [
+      {
+        "h": "Introduction to the Thriller Series",
+        "p": [
+          "Shanaya Kapoor is stepping into the streaming space with her debut project, Student Of The Year: After Dark. The Hindi thriller series is scheduled to arrive on JioHotstar on November 13, 2026, marking a complete shift in tone for the popular campus franchise.",
+          "Unlike the glamorous campus romance of the 2012 original film, this new installment plunges headfirst into the murder mystery genre, using a familiar school backdrop to deliver dark suspense and crime."
+        ]
+      },
+      {
+        "h": "Taking on a Demanding Double Role",
+        "p": [
+          "In the series, Shanaya takes on the responsibility of a double role, portraying twin sisters Aayesha and Aditi Malik. The actor noted that the challenging part gave her the opportunity to explore complex shades as a performer very early in her career.",
+          "Expressing her gratitude, she thanked Karan Johar for trusting her with the franchise and allowing her to shoulder the responsibility of playing twins in such an intense narrative."
+        ]
+      },
+      {
+        "h": "Intense Physical Preparation",
+        "p": [
+          "The production demanded rigorous physical preparation from the lead actor, particularly for demanding action sequences and intricate underwater scenes. Shanaya shared that every minute on set required total dedication.",
+          "She publicly credited action director Vikram Dahiya and the underwater team spearheaded by Sukesh Viswanath for supporting her through the most difficult days and guiding her through perilous shots."
+        ]
+      },
+      {
+        "h": "Teamwork and Behind-the-Scenes Support",
+        "p": [
+          "Reflecting on the journey, Shanaya shared behind-the-scenes photographs from the set and praised the incredible crew that brought the thriller to life. She also extended her appreciation to Apoorva Mehta for his constant guidance during filming.",
+          "The actor emphasized that the project was built on immense effort, stating that the entire cast and crew poured sweat, blood, and tears into making the show a reality."
+        ]
+      },
+      {
+        "h": "Reimagining a Popular Franchise",
+        "p": [
+          "The original Student Of The Year, released in 2012, defined a glossy era of youth-driven drama, peppy music, and polished campus aesthetics. After Dark completely upends that formula by transforming the universe into a space for crime and mystery.",
+          "This tonal shift has generated considerable attention, especially since it serves as Shanaya Kapoor's official introduction to long-format streaming entertainment with heavy action and dramatic elements."
+        ]
+      },
+      {
+        "h": "Premiere Details",
+        "p": [
+          "Student Of The Year: After Dark is set to make its digital debut on JioHotstar, releasing at 12am. Viewers can now stream the dark reimagining of the campus franchise.",
+          "The project stands as a major showcase for Shanaya, highlighting her commitment to heavy physical action and complex dual characters in her streaming debut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shanaya Kapoor describes her double role in Student Of The Year: After Dark as one of the most demanding experiences of her career ahead of its JioHotstar premiere on November 13, 2026. The series steers the 2012 campus franchise into murder mystery territory, featuring intense action and underwater sequences directed by Reema Sen and produced by Karan Johar."
+        ]
+      }
+    ],
+    "facts": [
+      "Student Of The Year: After Dark releases on JioHotstar on November 13, 2026.",
+      "Shanaya Kapoor plays twin sisters Aayesha and Aditi Malik in the series.",
+      "The original Student Of The Year was released in 2012.",
+      "The series is produced by Karan Johar and directed by Reema Sen.",
+      "Apoorva Mehta, Vikram Dahiya, and Sukesh Viswanath are part of the team."
+    ],
+    "entities": {
+      "people": [
+        "Shanaya Kapoor",
+        "Karan Johar",
+        "Reema Sen",
+        "Apoorva Mehta",
+        "Vikram Dahiya",
+        "Sukesh Viswanath"
+      ],
+      "titles": [
+        "Student Of The Year: After Dark",
+        "Student Of The Year"
+      ]
+    },
+    "keywords": [
+      "Student Of The Year After Dark",
+      "Shanaya Kapoor",
+      "JioHotstar",
+      "Student Of The Year After Dark release time"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/sotyafterdarkfeature-80811794503843.jpg",
+        "caption": "Shanaya Kapoor Calls Student Of The Year: After Dark Demanding Ahead Of OTT Premiere",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 22:49:21 +0530"
+  },
+  "1yedv9x": {
+    "id": "1yedv9x",
+    "type": "news",
+    "headline": "Cinematographer Pankaj Kumar Reveals Ramayana Part 2 Will Feature Enhanced VFX and Greater Scale",
+    "dek": "Pankaj Kumar shares that the upcoming sequel is already 60 per cent filmed, promising heavier reliance on computer-generated characters and extensive motion capture work.",
+    "body": [
+      {
+        "h": "Production Update on the Mythological Sequel",
+        "p": [
+          "Work on Nitesh Tiwari's ambitious mythological project is moving forward swiftly, with the second instalment already seeing substantial progress on the floors.",
+          "Cinematographer Pankaj Kumar recently shared that roughly 60 per cent of the sequel has already been captured on camera, though a massive portion of the schedule remains dedicated to post-production and digital enhancements."
+        ]
+      },
+      {
+        "h": "A Grand Scale with Heavy VFX",
+        "p": [
+          "The upcoming continuation is slated to be significantly larger in scale than the first film, largely due to its increased dependence on digital technology.",
+          "Kumar noted that the storyline demands numerous computer-generated characters, including Lord Hanuman and the entire vanar sena, requiring intricate motion-capture performances and detailed visual effects work."
+        ]
+      },
+      {
+        "h": "Extended Timeline for Production",
+        "p": [
+          "The heavy workload explains the extended window required by the creators to bring the epic vision to life properly on the big screen.",
+          "Producer Namit Malhotra previously confirmed that the sequel is slated for a 2028 release, noting that the team needed extra time to execute the massive undertaking with precision."
+        ]
+      },
+      {
+        "h": "Crafting a Fantasy Aesthetic",
+        "p": [
+          "Addressing discussions surrounding the film's stylized forests and landscapes, Kumar explained that the artistic choice was intentional.",
+          "The goal was not to mimic a realistic jungle, but rather to construct a heightened fantasy environment suited for magical elements, giant creatures, and mythical beings."
+        ]
+      },
+      {
+        "h": "Stellar Cast and Character Arcs",
+        "p": [
+          "The adaptation features a prominent ensemble cast, with Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Sita, and Yash as Ravana.",
+          "The star-studded lineup also includes Ravie Dubey as Lakshman, Sunny Deol as Lord Hanuman, and the addition of Raghav Juyal as Meghnad in the narrative."
+        ]
+      },
+      {
+        "h": "Focus on the Ultimate Conflict",
+        "p": [
+          "As the production transitions into its most technically demanding phase, the narrative focus is set to shift toward the intense confrontation between Rama and Ravana.",
+          "The final reception of the movie will hinge heavily on how seamlessly the live-action elements and motion-capture performances merge before its scheduled theatrical arrival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cinematographer Pankaj Kumar revealed that Nitesh Tiwari's Ramayana Part 2 is about 60 per cent filmed and will feature grander visual effects and CG characters like Hanuman and the vanar sena. Producer Namit Malhotra scheduled the sequel for a 2028 release to ensure proper execution of its fantasy world and star-studded cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part One released in theatres on November 5, 2026.",
+      "About 60 per cent of Ramayana Part 2 has been filmed.",
+      "Producer Namit Malhotra scheduled Ramayana Part 2 for 2028.",
+      "Ranbir Kapoor stars as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana.",
+      "Ravie Dubey plays Lakshman, Sunny Deol plays Lord Hanuman, and Raghav Juyal plays Meghnad."
+    ],
+    "entities": {
+      "people": [
+        "Pankaj Kumar",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Raghav Juyal"
+      ],
+      "titles": [
+        "Ramayana Part 2",
+        "Ramayana: Part One"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 2",
+      "Pankaj Kumar Ramayana",
+      "Nitesh Tiwari Ramayana sequel",
+      "Namit Malhotra Ramayana 2028"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanapart2feature-21011794503352.jpg",
+        "caption": "Cinematographer Pankaj Kumar Reveals Ramayana Part 2 Will Feature Enhanced VFX and Greater Scale",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 22:40:37 +0530"
+  },
+  "s9clkc": {
+    "id": "s9clkc",
+    "type": "news",
+    "headline": "Ranking Every Chapter of Marvel's WandaVision Trilogy",
+    "dek": "An in-depth look back at WandaVision, Agatha All Along, and VisionQuest as the unexpected Marvel Cinematic Universe trilogy concludes its run.",
+    "body": [
+      {
+        "h": "The Core Themes of the Saga",
+        "p": [
+          "The conclusion of the series finale for VisionQuest marks the end of an unexpected three-part narrative arc that officially kicked off in 2021 with WandaVision and proceeded with Agatha All Along. On the surface, these television projects focus on a powerful witch and a synthezoid navigating the heavy loss of their makeshift families within a sprawling superhero cinematic universe.",
+          "Beyond the comic book trappings, the core of this saga rests firmly on two primary emotional pillars. The first exploration examines grief, analyzing how individuals process loss, the internal toll it takes, and the gradual journey toward learning to coexist with sorrow. The second pillar centers on family dynamics, weaving together tales of grieving mothers, struggling fathers, and wandering children searching for permanent belonging."
+        ]
+      },
+      {
+        "h": "Prioritizing Character Over Spectacle",
+        "p": [
+          "Many critics and fans consider this trio of television projects to be among the most cohesive and narratively ambitious storytelling efforts produced within the broader Marvel franchise. Instead of leaning heavily on traditional action sequences and loud visual spectacles, every individual show intentionally prioritizes deep thematic meaning and close character study.",
+          "The resulting narrative brings together various wandering figures who ultimately connect through shared trauma and emotional pain. By confronting their inner demons, these characters gain profound self-awareness, allowing them to step forward into the next chapters of their respective lives fundamentally transformed."
+        ]
+      },
+      {
+        "h": "The Inception Point: WandaVision",
+        "p": [
+          "The trilogy began in 2021 under the creative direction of writer Jac Schaeffer, placing Elizabeth Olsen at the forefront as Wanda Maximoff. Set directly after the events of Avengers: Endgame, the story follows an isolated Wanda as she constructs an idealized suburban reality heavily inspired by classic television sitcoms, keeping Paul Bettany's Vision alive alongside twin children.",
+          "While Olsen delivers what many consider a career-defining performance backed by strong supporting turns from Kathryn Hahn and Teyonah Parris, the project faced some narrative friction. Despite its sharp writing and exploration of destructive grief, the production suffered from a rushed finale, which was later compounded by character choices made in subsequent cinematic appearances."
+        ]
+      },
+      {
+        "h": "Expanding the Lore: Agatha All Along",
+        "p": [
+          "Emerging as an unexpected standout, Agatha All Along takes the top spot in the trilogy rankings due to its remarkably cohesive execution. Set two years after previous events, the story tracks Kathryn Hahn's titular character breaking free from a lingering spell with the assistance of a mysterious young individual known as Teen.",
+          "The narrative explores dark themes of motherhood and complicated morality through the lens of a thoroughly ruthless antihero. Joe Locke shines as Billy Maximoff, adding sharp nuance to an ensemble that benefits from creative set pieces, a high-school-play aesthetic along the Witches' Road, and rich thematic depth."
+        ]
+      },
+      {
+        "h": "The Conclusion: VisionQuest",
+        "p": [
+          "Serving as the final chapter of the saga, VisionQuest unfolds roughly a year and a half after the conclusion of the second series. The plot centers on Vision as he adjusts to a new reality while carrying the memories of his past iteration, surrounded by various artificial intelligence presences integrated into his internal programming.",
+          "The emotional center of the program shifts toward complex father-son dynamics, highlighting the bond between Vision and Tommy alongside a compelling dynamic between Vision and Ultron. Featuring stellar chemistry between Paul Bettany and James Spader, the finale delivers a cathartic exploration of self-discovery and fatherhood."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The conclusion of VisionQuest marks the end of the WandaVision television trilogy, prompting a retrospective ranking of the three interconnected series. Spanning from the 2021 debut of WandaVision through Agatha All Along and concluding with VisionQuest, the saga has been celebrated for prioritizing grief, family, and character development over traditional superhero spectacle."
+        ]
+      }
+    ],
+    "facts": [
+      "WandaVision premiered in the year 2021.",
+      "Agatha All Along was released in the year 2024.",
+      "VisionQuest aired its series finale in the year 2026.",
+      "Jac Schaeffer wrote and created WandaVision."
+    ],
+    "entities": {
+      "people": [
+        "David Caballero",
+        "Jac Schaeffer",
+        "Elizabeth Olsen",
+        "Paul Bettany",
+        "Kathryn Hahn",
+        "Teyonah Parris",
+        "James Spader",
+        "Ruaridh Mollica",
+        "Emily Hampshire",
+        "Orla Brady",
+        "James D'Arcy",
+        "Joe Locke",
+        "Aubrey Plaza",
+        "Patti LuPone",
+        "Kevin Feige",
+        "Amy Pascal"
+      ],
+      "titles": [
+        "WandaVision",
+        "Agatha All Along",
+        "VisionQuest",
+        "Avengers: Endgame",
+        "Doctor Strange in the Multiverse of Madness",
+        "Spider-Man: Brand New Day"
+      ]
+    },
+    "keywords": [
+      "WandaVision trilogy ranked",
+      "VisionQuest series finale",
+      "Agatha All Along",
+      "Paul Bettany Elizabeth Olsen"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/wandavision-paul-bettany-elizabeth-olsen-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ranking Every Chapter of Marvel's WandaVision Trilogy",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 17:21:14 GMT"
   }
 };

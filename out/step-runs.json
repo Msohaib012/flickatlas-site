@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T19:51:01Z",
-    "run_id": "43090932447",
-    "status": "success",
-    "checked": {
-     "candidates": 514,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Anirudh marries Kavya in grand Greece ceremony; shares first wedding pictures",
-      "Scene box office collection day 6: Suriya's crime comedy slows down as it faces 40% drop on Wednesday, enters  ₹100 crore club",
-      "Rajinikanth dances to his chartbuster Manasilaayo with newlyweds Anirudh Ravichander, Kavya Maran at the wedding party in Greece",
-      "Jennifer Lopez Has Great Taste, And I Wouldn't Be Mad If Rumors About Helping Brett Goldstein Were True",
-      "Kylie Jenner’s Involved In 4 Lawsuits With Former Staff. Her Lawyer Just Dropped A Statement",
-      "I Think DC’s TV Series Have Struggled With A Lot Of The Same Problems Netflix Shows Have",
-      "My Favorite Dead Rings Of Power Character Returned In Season 3. The Why Makes It Even Better",
-      "After THAT Scarlet Witch News, We’re Flashing Back To Elizabeth Olsen Talking To Us About X-Men",
-      "I'm Not Against Fairy Smut, But I Still Reject That Label For ACOTAR",
-      "After Tatyana Ali's Surprise Advancement, I Think Three Couples Could Miss DWTS' Season 35 Finale",
-      "I Was So Curious What It Was Like Being In The Room With Elizabeth Holmes’ Partner After Her Prison Entrance. Amanda Seyfried Opens Up",
-      "Johnny Depp’s Back In Ebenezer, But He Took A MASSIVE Pay Cut",
-      "12 Addictive Fantasy Shows You Can Binge Over and Over Again, Ranked",
-      "‘Eternally Yours’ Teases a Major Change for Its Most Unusual Marriage",
-      "The Best Alternative Band of Every Decade",
-      "8 Movies That Confirm Western Is the Best Genre",
-      "Tom Hanks’ 149-Minute Thriller Officially Returns to Top 10 Charts Ahead of Remake",
-      "Hulu’s Best ‘Marshals’ Replacement Is This 6-Season Neo-Western Masterpiece",
-      "The Mandalorian Officially Returns With a New Release",
-      "‘Ozark’ Star’s Madonna Biopic Finally Gets an Update"
-     ],
-     "updated": [],
-     "count": 488,
-     "detail": "514 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T20:59:02Z",
     "run_id": "43098385633",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "487 stories, 1 duplicates removed, 31 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T19:51:39Z",
-    "run_id": "43090932447",
+    "run_at": "2026-11-12T17:51:53Z",
+    "run_id": "43273647712",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 451,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Part 1 Dubbed Versions Cross Rs 100 Crore in South India Within Six Days",
-      "Black Clover Season 2 Episode 7 Release Date and Spade Kingdom Raid Details",
-      "Suriya's Scene Enters ₹100 Crore Club Despite 40% Wednesday Drop",
-      "Imtiaz Ali's O Saathi Re Gets Official Netflix Release Date"
+      "Scene: Director Jithu Madhavan Clears Air On Sequel For Suriya Starrer As It Crosses 111cr",
+      "Student Of The Year: After Dark Release Time: Shanaya Calls Series Challenging Ahead Of Its Premiere",
+      "Ramayana Cinematographer Pankaj Kumar Spills Beans About Ramayana Part 2: It Will Be More Grand With More VFX",
+      "SRK's no pictures rule to Salman Khan's corner: Inside Manish's Diwali party",
+      "Tinnu Anand DISCHARGED from hospital after being in ICU for fractured ribs, punctured lung",
+      "Sidharth Malhotra calls Karan Johar 'the most commitment-phobic person I know' on 'KWK 9'",
+      "Shweta Tripathi: I don’t want to take pressure of living up to the success of Mirzapur",
+      "Scene box office collection day 7: Suriya and Naslen-starrer shows dip post Diwali holidays after crossing  ₹100 crore mark",
+      "Ramayana box office collection day 8: Ranbir Kapoor, Yash film remains steady, crosses  ₹560 crore to beat Pathaan, Animal lifetime hauls",
+      "Amitabh Bachchan returns to host Kaun Banega Crorepati 18 after brief pause, thanks fans for their prayers for his wellbeing",
+      "A Yes, Dear Star Opened Up About Last Phone Call With The Late Anthony Clark In Candid Tribute",
+      "Removed From 2,200 Theaters, Brad Pitt’s Must-Watch Survival Thriller Officially Comes Home",
+      "Every Show in Marvel’s WandaVision Trilogy, Ranked",
+      "David Leitch Wants His New Heist Thriller to Get People Talking About America's Healthcare and Debt Crisis",
+      "‘The Empress’ Delivers a Satisfying Ending for One of Netflix’s Best Hidden Gems | Review",
+      "'Dragonheart' Meets 'Buffy the Vampire Slayer' in New Fantasy Graphic Novel",
+      "‘Ramayana’ Unleashes Its Legendary Hero in Breathtaking New Fantasy Footage",
+      "'Lost' Veteran Officially Sets New Thriller 'The Reservation' With 'The Game' and 'Til Death' Stars",
+      "‘Lanterns’ Showrunner Officially Reveals Season 2’s Chances Following James Gunn’s Exit",
+      "Wedding Crashers 2: Vince Vaughn Gives Hopeful Update on Sequel as Fans Want More"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 411,
+     "detail": "420 stories, 1 duplicates removed, 31 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1472,27 +1449,32 @@
      "detail": "+2 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T17:58:35Z",
+    "run_id": "43273647712",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Mike O'Malley Shares Heartfelt Tribute and Last Phone Call Details Following the Death of 'Yes, Dear' Star Anthony Clark",
+      "Shanaya Kapoor Calls Student Of The Year: After Dark Demanding Ahead Of OTT Premiere",
+      "Cinematographer Pankaj Kumar Reveals Ramayana Part 2 Will Feature Enhanced VFX and Greater Scale",
+      "Ranking Every Chapter of Marvel's WandaVision Trilogy"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T20:59:37Z",
-    "run_id": "43098385633",
-    "status": "success",
-    "checked": {
-     "candidates": 301,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 288, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1906,35 +1888,27 @@
      "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T17:58:36Z",
+    "run_id": "43273647712",
+    "status": "success",
+    "checked": {
+     "candidates": 312,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 299, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T20:01:04Z",
-    "run_id": "43090932447",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "rxvayp",
-      "1wmhof9",
-      "jyq09u",
-      "1jf6jar",
-      "1a3zkxt",
-      "411ze1",
-      "swcst3",
-      "1oaf2gg"
-     ],
-     "updated": [],
-     "count": 8
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2401,27 +2375,26 @@
      "count": 1
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T19:51:40Z",
-    "run_id": "43090932447",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T18:01:00Z",
+    "run_id": "43273647712",
     "status": "success",
     "checked": {
-     "candidates": 648,
-     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 635 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2835,26 +2808,27 @@
      "detail": "+0 new rows, 3 updated rows, 644 unchanged"
     },
     "reason": null
-   }
-  ],
-  "gemini_reviews": [
+   },
    {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T20:01:01Z",
-    "run_id": "43090932447",
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T18:00:58Z",
+    "run_id": "43273647712",
     "status": "success",
     "checked": {
-     "candidates": 755,
-     "detail": "released movies without a review; Tavily searches: 498"
+     "candidates": 658,
+     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 7,
+     "detail": "+0 new rows, 7 updated rows, 640 unchanged"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "gemini_reviews": [
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3084,32 +3058,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T20:01:03Z",
-    "run_id": "43090932447",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Black Clover Season 2 Episode 7 Release Date and Spade Kingdom Raid Details",
-      "Suriya's Scene Enters ₹100 Crore Club Despite 40% Wednesday Drop",
-      "Imtiaz Ali's O Saathi Re Gets Official Netflix Release Date",
-      "Ramayana: Part 1 Dubbed Versions Cross Rs 100 Crore in South India Within Six Days"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3628,26 +3589,35 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T18:00:59Z",
+    "run_id": "43273647712",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Shanaya Kapoor Calls Student Of The Year: After Dark Demanding Ahead Of OTT Premiere",
+      "Cinematographer Pankaj Kumar Reveals Ramayana Part 2 Will Feature Enhanced VFX and Greater Scale",
+      "Ranking Every Chapter of Marvel's WandaVision Trilogy",
+      "Mike O'Malley Shares Heartfelt Tribute and Last Phone Call Details Following the Death of 'Yes, Dear' Star Anthony Clark",
+      "Lagan Lagi Episode 16 — Watch Online on ARY Digital",
+      "Bano Episode 29 — Watch Online on Geo TV",
+      "Mahabharat: Ek Dharmayudh Season 2 Confirmed for November 24 Release on JioHotstar"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T19:51:04Z",
-    "run_id": "43090932447",
-    "status": "success",
-    "checked": {
-     "candidates": 18,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 8 new detected; 1 summary failure(s): Khushi Ep 60"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3896,19 +3866,29 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T17:54:35Z",
+    "run_id": "43273647712",
+    "status": "success",
+    "checked": {
+     "candidates": 22,
+     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 13 new detected; 7 summary failure(s): Bano Ep 29, Uswah Ep 50, Khushi Ep 60, Khushi Ep 61, Dastoor Ep 83, Lagan Lagi Ep 16, Izzat Ep 54"
+    },
+    "changed": {
+     "added": [
+      "Lagan Lagi Ep 16",
+      "Bano Ep 29"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "title_seed": [
-   {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4184,31 +4164,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T19:51:39Z",
-    "run_id": "43090932447",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 488 still unprocessed; today by category: movies 9/6, tv_dramas 13/4, episodes 2/2, box_office 16/6, celebrities_events 18/5, upcoming_releases 8/4, ott_streaming 11/4, trailers 5/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana: Part 1 Dubbed Versions Cross Rs 100 Crore in South India Within Six Days",
-      "Black Clover Season 2 Episode 7 Release Date and Spade Kingdom Raid Details",
-      "Suriya's Scene Enters ₹100 Crore Club Despite 40% Wednesday Drop",
-      "Imtiaz Ali's O Saathi Re Gets Official Netflix Release Date"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4696,19 +4664,31 @@
      "count": 2
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T17:58:35Z",
+    "run_id": "43273647712",
+    "status": "success",
+    "checked": {
+     "candidates": 6,
+     "detail": "news queue items drafted this run; 411 still unprocessed; today by category: movies 13/6, tv_dramas 11/4, episodes 0/2, box_office 15/6, celebrities_events 8/5, upcoming_releases 5/4, ott_streaming 10/4, trailers 3/3, awards 3/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Mike O'Malley Shares Heartfelt Tribute and Last Phone Call Details Following the Death of 'Yes, Dear' Star Anthony Clark",
+      "Shanaya Kapoor Calls Student Of The Year: After Dark Demanding Ahead Of OTT Premiere",
+      "Cinematographer Pankaj Kumar Reveals Ramayana Part 2 Will Feature Enhanced VFX and Greater Scale",
+      "Ranking Every Chapter of Marvel's WandaVision Trilogy"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5022,24 +5002,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 401,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5369,24 +5344,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 58,
+     "count": 469,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5731,19 +5706,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 14,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5988,19 +5968,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6235,19 +6215,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6532,19 +6512,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6785,19 +6765,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7027,19 +7007,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7288,6 +7268,16 @@
     "category": "Trending News",
     "run_at": "2026-11-12T17:08:25Z",
     "run_id": "43263036558",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7808,16 +7798,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-11T21:07:16Z",
     "run_id": "43098385633",
     "status": "skipped",
@@ -8049,19 +8029,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T20:01:13Z",
-    "run_id": "43090932447",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8306,8 +8286,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T18:01:08Z",
+    "run_id": "43273647712",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T17:08:25Z"
+ "updated_at": "2026-11-12T18:01:08Z"
 }
