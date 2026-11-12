@@ -1748,6 +1748,30 @@
           "filmynewsnetwork": 0.55
         }
       },
+      "29": {
+        "date": "2026-11-12",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "filmynewsnetwork": 8.9
+            },
+            "value": 8.9
+          },
+          "shows": {
+            "sources": {
+              "filmynewsnetwork": 11
+            },
+            "value": 11
+          },
+          "tickets": {
+            "sources": {
+              "filmynewsnetwork": 176
+            },
+            "value": 176
+          }
+        },
+        "india": false
+      },
       "3": {
         "collection_currency": "USD",
         "collection_inr_cr": 39.974,
@@ -3869,6 +3893,30 @@
           "filmynewsnetwork": 0.19
         }
       },
+      "42": {
+        "date": "2026-11-12",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "filmynewsnetwork": 46.6
+            },
+            "value": 46.6
+          },
+          "shows": {
+            "sources": {
+              "filmynewsnetwork": 5
+            },
+            "value": 5
+          },
+          "tickets": {
+            "sources": {
+              "filmynewsnetwork": 177
+            },
+            "value": 177
+          }
+        },
+        "india": false
+      },
       "5": {
         "collection_currency": "USD",
         "collection_inr_cr": 19.818,
@@ -5948,6 +5996,30 @@
         "sources": {
           "filmynewsnetwork": 0.37
         }
+      },
+      "21": {
+        "date": "2026-11-12",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "filmynewsnetwork": 8.4
+            },
+            "value": 8.4
+          },
+          "shows": {
+            "sources": {
+              "filmynewsnetwork": 13
+            },
+            "value": 13
+          },
+          "tickets": {
+            "sources": {
+              "filmynewsnetwork": 135
+            },
+            "value": 135
+          }
+        },
+        "india": false
       },
       "3": {
         "collection_currency": "USD",
@@ -8745,6 +8817,18 @@
           "bollybourse": 0.02
         }
       },
+      "19": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 0.02,
+        "collection_scope": "india_net",
+        "collection_usd": 2113,
+        "date": "2026-11-10",
+        "date_disagreed": false,
+        "india": true,
+        "sources": {
+          "bollybourse": 0.02
+        }
+      },
       "2": {
         "collection_currency": "USD",
         "collection_inr_cr": 0.963,
@@ -8775,6 +8859,18 @@
           "bollymoviereviewz": 0.85,
           "flickonclick": 1.0,
           "sacnilk": 1.0
+        }
+      },
+      "20": {
+        "collection_currency": "USD",
+        "collection_inr_cr": 0.01,
+        "collection_scope": "india_net",
+        "collection_usd": 1057,
+        "date": "2026-11-11",
+        "date_disagreed": false,
+        "india": true,
+        "sources": {
+          "bollybourse": 0.01
         }
       },
       "3": {

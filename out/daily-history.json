@@ -996,35 +996,37 @@
   },
   {
    "date": "2026-11-12",
-   "fetch_new": 341,
-   "gemini_drafts": 11,
-   "published_today": null,
-   "posts_total": 2123,
+   "fetch_new": 405,
+   "gemini_drafts": 15,
+   "published_today": 9,
+   "posts_total": 2138,
    "approved": null,
    "rejected": null,
    "per_category": {
-    "Box Office": 16,
-    "Awards": 56,
-    "Trailers": 67,
-    "Music / OST": 66,
-    "Episodes": 54,
+    "Box Office": 21,
+    "Awards": 60,
+    "Trailers": 75,
+    "Music / OST": 77,
+    "Episodes": 58,
     "Upcoming releases": 4,
-    "OTT / Streaming": 47,
-    "TV & Dramas": 41,
-    "Celebrity news & events": 111,
-    "Movies": 1684,
-    "Entertainment viral": 20
+    "OTT / Streaming": 54,
+    "TV & Dramas": 44,
+    "Celebrity news & events": 128,
+    "Movies": 1913,
+    "Entertainment viral": 23
    },
    "hours_fetch": {
     "1": 0,
     "2": 160,
     "3": 90,
-    "4": 91
+    "4": 91,
+    "6": 64
    },
    "hours_gemini": {
     "0": 4,
     "1": 4,
-    "2": 3
+    "2": 3,
+    "5": 4
    }
   }
  ],
@@ -1085,7 +1087,7 @@
    "2": 587,
    "3": 268,
    "4": 137,
-   "6": 162,
+   "6": 226,
    "7": 317,
    "8": 62,
    "9": 191,
@@ -1205,8 +1207,8 @@
   }
  },
  "guards": {
-  "last_report_hash": "9b637f1c5d65a3acbbc8c1820cadcb26476acdf4",
-  "last_gemini_generated": "2026-11-11T21:51:21Z"
+  "last_report_hash": "27684ac18741ab0c1984faf68ee08ce52c9eb3a5",
+  "last_gemini_generated": "2026-11-12T00:52:02Z"
  },
- "updated_at": "2026-11-11T23:53:43Z"
+ "updated_at": "2026-11-12T01:00:13Z"
 }

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T04:51:33Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": {
-     "candidates": 312,
-     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Rohit Shetty clarifies his social media presence after fake post about Gaurav Gupta’s Bigg Boss 20 roast goes viral: “My only official social media presence is on Instagram”",
-      "Nora Fatehi’s appearance in Sukesh Chandrashekhar Case comes under scrutiny as defence prepares for cross-examination",
-      "EXCLUSIVE: Suniel Shetty reveals Awara Paagal Deewana sequel will go on floors early next year: “It’s happening for sure”; also lists Sabse Bada Rupaiya as another upcoming film",
-      "Salman Khan returns in an action-packed avatar In Maatrubhumi: May War Rest In Peace, trailer out now",
-      "Scene Worldwide Box Office Collection Day 5 Update: Suriya's Film Crosses ₹178 Crore Mark",
-      "Anirudh Ravichander-Kavya Maran Viral Wedding Video: REAL Or FAKE? Anirudh-Kavya's Greece Clip Breaks Internet",
-      "When I Meet The Moon Episodes 15-16 Timings: Shize Catches Yun Li With Another Guy; Will His Jealousy Explode?",
-      "Anbil Avan OTT Release Date Confirmed as Ashok Selvan's Romantic Action Thriller Heads to SonyLIV",
-      "Pillsbury Doughboy voice actor JoBe Cerny passes away at 78",
-      "Daveigh Chase’s cause of death revealed: Report cites AIDS complications",
-      "Salman Khan's 'Maatrubhumi' trailer sparks mixed reactions",
-      "Manoj Bajpayee reacts to firing outside Tiger Shroff's home",
-      "'Ramayana' actor Kunal Kapoor calls the deity big enough for his own universe",
-      "Renu Desai shares cryptic note after Pawan Kalyan- separation",
-      "Munawar Faruqui reveals he couldn't continue studies despite being a bright student as he started working at 8 for  ₹10-20 per day",
-      "Mumbai Police responds after Vir Das flags firecrackers being burst outside Jogger’s Park despite ban in public spaces",
-      "Barenboim orchestra spreads 'message of peace' in Berlin",
-      "Renu Desai says it's inhumane to kick someone already down in cryptic note, adds she ‘hasn’t gotten any Paytm to be kind and sensible’",
-      "The 10 Best Alternative Rock Songs of All Time, Ranked",
-      "Rocky’s Best Line Is Still the Greatest Quote in Franchise History"
-     ],
-     "updated": [],
-     "count": 281,
-     "detail": "292 stories, 0 duplicates removed, 20 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T05:51:39Z",
     "run_id": "42968363456",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "318 stories, 0 duplicates removed, 21 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T04:51:57Z",
-    "run_id": "42961832071",
+    "run_at": "2026-11-12T00:51:39Z",
+    "run_id": "43130238132",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 300,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
     },
     "changed": {
      "added": [
-      "Suriya Starrer Scene Surpasses ₹178 Crore Globally in Five Days",
-      "VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday",
-      "Salman Khan Returns in Action-Packed Trailer for Maatrubhumi: May War Rest In Peace",
-      "Jenna Dewan Sent Packing in Shocking Dancing With the Stars Elimination"
+      "Jennifer Aniston & Angelina Jolie’s Alleged Feud: How Did It Start & Was It Even Real?",
+      "Sidharth Malhotra was aware The Vvaan was being written off before its box office success, says Bollywood needs to support its own films",
+      "Emraan Hashmi blames Aditya Datt for his ‘serial kisser’ image at Gunmaaster G9 trailer launch, says he has faced the consequences for 20 years",
+      "King Charles marks 50 years of his youth charity with Elton John on radio show",
+      "The Nobody Wants This Cast Proposed A New Lead For Season 4 (I Need This To Happen)",
+      "Club Kid's Director Explains Why Those Club Scenes (And the Darkroom Sequence) Go So Hard",
+      "Harry Potter’s New Snape Officially Doubles Down on Opposing J.K. Rowling",
+      "George R. R. Martin’s Ned Stark ‘Game of Thrones’ Prequel Officially Arrives in 2027",
+      "Henry Cavill Officially Pays Tribute to His Brutal Mission: Impossible Villain in New Release",
+      "The Perfect 'Friends' Cast if the Sitcom Were Made Today",
+      "Taika Waititi’s Next Film Officially Shelved Following Controversy",
+      "Daniel Craig's Final Bond Movie Faces Defeat From Near-Perfect 95-Minute Action Thriller at the Box Office",
+      "28 Years Later, Harry Potter Is Officially Fixing A Major Book One Issue",
+      "Netflix Is Officially Losing A $246.5 Million Box Office Hit This December",
+      "Disney’s Official Nightmare Before Christmas Prequel Is A 10-Part Masterpiece",
+      "Scarlet Witch’s Avengers: Doomsday Return Sets Up A Game-Changing Hulk Connection",
+      "Prime Video's #1 Global Hit Series Takes Advantage Of Massive Streaming Trend",
+      "Dwayne Johnson's Hercules (2014) Is Now Streaming For Free On Tubi",
+      "10/10 Fallout Replacement Officially Added As PlayStation Plus Free Game",
+      "John Wick Director’s New Heist Thriller Sets All-Time Career Rotten Tomatoes Record"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 291,
+     "detail": "291 stories, 0 duplicates removed, 9 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+0 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T00:52:02Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
+      "Netflix UK Set to Lose One Piece Film: Red This December",
+      "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts",
+      "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T05:52:52Z",
-    "run_id": "42968363456",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,29 +1887,27 @@
      "detail": "now 288, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T00:52:02Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": {
+     "candidates": 303,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 291, coming 12"
+    },
+    "reason": null
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T04:55:11Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1vi2h7a",
-      "1oaf2gg"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2435,27 +2415,29 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T01:00:05Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "u7rkdc",
+      "1yqvpfc"
+     ],
+     "updated": [],
+     "count": 2
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T04:55:09Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": {
-     "candidates": 648,
-     "detail": "633 collected staging rows from readers; 221 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "+2 new rows, 4 updated rows, 631 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2869,19 +2851,27 @@
      "detail": "+0 new rows, 3 updated rows, 635 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T00:59:30Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": {
+     "candidates": 653,
+     "detail": "636 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5,
+     "detail": "+2 new rows, 3 updated rows, 635 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3118,32 +3108,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T04:55:11Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Suriya Starrer Scene Surpasses ₹178 Crore Globally in Five Days",
-      "VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday",
-      "Salman Khan Returns in Action-Packed Trailer for Maatrubhumi: May War Rest In Peace",
-      "Jenna Dewan Sent Packing in Shocking Dancing With the Stars Elimination"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3661,19 +3638,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T01:00:04Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Netflix UK Set to Lose One Piece Film: Red This December",
+      "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027",
+      "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
+      "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3946,19 +3936,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4277,31 +4267,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T04:51:57Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 281 still unprocessed; today by category: movies 0/6, tv_dramas 5/4, episodes 0/2, box_office 6/6, celebrities_events 4/5, upcoming_releases 0/4, ott_streaming 2/4, trailers 2/3, awards 0/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Suriya Starrer Scene Surpasses ₹178 Crore Globally in Five Days",
-      "VisionQuest Season 1 Finale Teases a Major Character Return for Avengers: Doomsday",
-      "Salman Khan Returns in Action-Packed Trailer for Maatrubhumi: May War Rest In Peace",
-      "Jenna Dewan Sent Packing in Shocking Dancing With the Stars Elimination"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4788,26 +4766,31 @@
      "count": 0
     },
     "reason": "cap"
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T00:52:02Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 291 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 0/6, celebrities_events 0/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
+      "Netflix UK Set to Lose One Piece Film: Red This December",
+      "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts",
+      "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T04:53:10Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5107,24 +5090,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 434,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5454,24 +5432,24 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 391,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5796,19 +5774,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 24,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6053,19 +6036,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 72,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6300,19 +6288,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6596,19 +6584,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6834,6 +6822,16 @@
     "category": "OTT",
     "run_at": "2026-11-11T23:53:43Z",
     "run_id": "43122860668",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6844,16 +6842,6 @@
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-11T05:58:02Z",
     "run_id": "42968363456",
     "status": "skipped",
@@ -7080,22 +7068,22 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-11-11T05:58:02Z",
     "run_id": "42968363456",
     "status": "skipped",
@@ -7318,6 +7306,16 @@
     "category": "Trending News",
     "run_at": "2026-11-11T23:53:43Z",
     "run_id": "43122860668",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7836,16 +7834,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-11T05:58:02Z",
     "run_id": "42968363456",
     "status": "skipped",
@@ -8082,19 +8070,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T04:55:22Z",
-    "run_id": "42961832071",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8339,8 +8327,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T01:00:13Z",
+    "run_id": "43130238132",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5124,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-11T23:53:43Z"
+ "updated_at": "2026-11-12T01:00:13Z"
 }

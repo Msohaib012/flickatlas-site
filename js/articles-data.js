@@ -120285,5 +120285,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 02:01:17 +0530"
+  },
+  "155evu1": {
+    "id": "155evu1",
+    "type": "news",
+    "headline": "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
+    "dek": "Nitesh Tiwari's Ranbir Kapoor-starrer Ramayana: Part 1 has been submitted for consideration at the upcoming 99th Academy Awards.",
+    "body": [
+      {
+        "h": "Entering The Academy Awards Race",
+        "p": [
+          "The excitement surrounding Indian cinema at the upcoming Academy Awards has escalated following a major development regarding the big-budget project Ramayana: Part 1. Directed by Nitesh Tiwari and starring Ranbir Kapoor, the epic production has officially been submitted by its makers for consideration at the 99th Academy Awards.",
+          "This independent submission marks a notable milestone for the film, expanding its reach onto the global stage alongside other notable cinematic works from around the country."
+        ]
+      },
+      {
+        "h": "Independent Submissions And Official Selections",
+        "p": [
+          "The entry of Nitesh Tiwari's project into the Oscar race follows closely on the heels of the Marathi film Gondhal being announced as India's official entry for the International Feature Film category.",
+          "Despite an official country selection being designated, rules allow other domestic films to independently pursue Academy consideration. Any project meeting the strict eligibility standards set by the Academy can enter the race regardless of national committee picks."
+        ]
+      },
+      {
+        "h": "Meeting General Category Requirements",
+        "p": [
+          "For features aiming for general categories, the Academy enforces specific conditions, including a mandatory theatrical run lasting a minimum of seven consecutive days. This release must take place within a designated qualifying US metropolitan area.",
+          "Acceptable locations feature Los Angeles County, New York City, the San Francisco Bay Area, Chicago, Dallas-Fort Worth, and Atlanta. Filmmakers must fulfill these screening stipulations and file the online General Entry Form with proper theatre credentials and credits."
+        ]
+      },
+      {
+        "h": "International Feature Film Category Guidelines",
+        "p": [
+          "The International Feature Film category maintains a distinct selection pathway characterized by the traditional restriction allowing each nation a single official submission through a recognized committee.",
+          "However, the Academy has established alternative qualification pathways, allowing certain international films to bypass national committee routes if they secure specific prizes at designated global festivals."
+        ]
+      },
+      {
+        "h": "Other Indian Contenders In The Mix",
+        "p": [
+          "Alongside Gondhal representing the nation as the official submission, other regional titles have successfully positioned themselves for consideration under updated festival guidelines.",
+          "Notably, the Naga-language film Angh achieved eligibility within the International Feature Film category after taking home the Platform Award at the 2026 Toronto International Film Festival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of Nitesh Tiwari's Ranbir Kapoor-starrer Ramayana: Part 1 have independently submitted the film for the 99th Academy Awards. This development runs alongside India's official international entry Gondhal and other qualified regional titles like Angh."
+        ]
+      }
+    ],
+    "facts": [
+      "Nitesh Tiwari directed Ramayana: Part 1",
+      "Ranbir Kapoor stars in Ramayana: Part 1",
+      "Gondhal is a Marathi film",
+      "Angh is a Naga-language film",
+      "Angh won the Platform Award at the 2026 Toronto International Film Festival",
+      "The 99th Academy Awards is the upcoming edition"
+    ],
+    "entities": {
+      "people": [
+        "Jiya Surana",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Gondhal",
+        "Angh"
+      ]
+    },
+    "keywords": [
+      "Ramayana Oscar submission",
+      "Nitesh Tiwari Ramayana",
+      "Ranbir Kapoor Ramayana",
+      "Gondhal India Oscar entry",
+      "Angh TIFF 2026"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/ramayana11794384003.jpeg",
+        "caption": "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-11T13:31:55+05:30"
+  },
+  "gdspk2": {
+    "id": "gdspk2",
+    "type": "news",
+    "headline": "Netflix UK Set to Lose One Piece Film: Red This December",
+    "dek": "The $246.5 million box office hit is leaving Netflix UK on December 1, 2026, marking the end of its run on the streaming platform in that region.",
+    "body": [
+      {
+        "h": "Departure from Netflix UK",
+        "p": [
+          "Subscribers in the United Kingdom will soon lose access to one of the biggest anime titles on Netflix. According to recent reports, One Piece Film: Red is scheduled to depart from Netflix UK on December 1, 2026.",
+          "While fans in the UK prepare for its removal, the feature remains available on streaming services in other regions. Viewers in the United States can still find the release on both Netflix and Crunchyroll."
+        ]
+      },
+      {
+        "h": "Box Office Success and Records",
+        "p": [
+          "The theatrical release proved to be an enormous financial success globally. It secured a massive $246.5 million worldwide box office collection during its theatrical run.",
+          "In the UK specifically, the film brought in over £500,000 during its opening week alone, eventually accumulating a total box office collection of $887,803 in the region."
+        ]
+      },
+      {
+        "h": "Franchise Standing and Longevity",
+        "p": [
+          "Four years after its initial debut, the project continues to hold its ground as the highest-grossing movie in the entire franchise. Its performance outpaces many other theatrical installments.",
+          "The feature also maintains a prestigious spot as the eighth highest-grossing Japanese film of all time, despite facing competition from newer cinematic releases over the years."
+        ]
+      },
+      {
+        "h": "Streaming Landscape and Future Homes",
+        "p": [
+          "As the movie prepares to exit its current UK platform, it will need to secure a new streaming home in 2027. Licensing movements of this scale are common as digital distribution rights shift across different territories.",
+          "Meanwhile, platforms like Netflix continue to curate their extensive anime catalogs through various exclusive licensing agreements, live-action adaptations, and ongoing series partnerships."
+        ]
+      },
+      {
+        "h": "Upcoming Franchise Additions",
+        "p": [
+          "The broader universe continues to expand with new theatrical and television projects on the horizon. Fans are already looking ahead to future cinematic ventures scheduled for release in 2027.",
+          "Projects such as One Piece Film: God Valley represent major narrative steps for Toei Animation, bringing anticipated story arcs directly to the big screen."
+        ]
+      },
+      {
+        "h": "Competitive Box Office Climate",
+        "p": [
+          "The top ten list of highest-grossing Japanese films faces continuous changes as modern titles arrive in theaters. Upcoming theatrical features are poised to challenge existing records in the near future.",
+          "Even amidst fierce competition from other prominent anime franchises, the enduring legacy of past theatrical hits highlights the massive mainstream appeal of the overarching brand."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix UK is losing the $246.5 million box office hit One Piece Film: Red on December 1, 2026. The movie remains a massive financial success for the franchise, holding its place among the highest-grossing Japanese films of all time while viewers await its next streaming home."
+        ]
+      }
+    ],
+    "facts": [
+      "One Piece Film: Red is leaving Netflix UK on December 1, 2026.",
+      "The movie grossed $246.5 million worldwide at the box office.",
+      "It earned over £500,000 in its opening week at the UK box office.",
+      "Total UK box office collection reached $887,803.",
+      "It is currently the eighth highest-grossing Japanese film of all time.",
+      "One Piece Film: God Valley is scheduled for Summer 2027."
+    ],
+    "entities": {
+      "people": [
+        "Merlyn De Souza",
+        "Tom Russell",
+        "Miyazaki"
+      ],
+      "titles": [
+        "One Piece Film: Red",
+        "Cyberpunk: Edgerunners",
+        "Delicious in Dungeon",
+        "The One Piece",
+        "One Piece",
+        "Solo Leveling",
+        "The Boy and the Heron",
+        "Demon Slayer: Infinity Castle",
+        "Demon Slayer: Infinity Castle Part 2",
+        "Solo Leveling: Beyond the System",
+        "One Piece Film: God Valley",
+        "Jujutsu Kaisen",
+        "Chainsaw Man",
+        "Demon Slayer",
+        "One Piece: Unlimited World Red",
+        "One Piece: Pirate Warriors 3",
+        "One Piece: Pirate Warriors 4",
+        "One Piece: World Seeker",
+        "One Piece Odyssey",
+        "One Piece: The Movie",
+        "Naruto Shippuden"
+      ]
+    },
+    "keywords": [
+      "One Piece Film Red",
+      "Netflix UK One Piece",
+      "One Piece Film Red leaving Netflix",
+      "One Piece box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/netflix-official-logo-2026.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix UK Set to Lose One Piece Film: Red This December",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 00:30:18 GMT"
+  },
+  "wh55k8": {
+    "id": "wh55k8",
+    "type": "news",
+    "headline": "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts",
+    "dek": "The official promotional video for Maatrubhumi has landed, showcasing Salman Khan as an army officer striving for peace amid high-stakes military tensions.",
+    "body": [
+      {
+        "h": "The Trailer Launch",
+        "p": [
+          "The promotional campaign for the upcoming movie Maatrubhumi has officially kicked off with the release of its first trailer. Audiences are given a direct look at superstar Salman Khan stepping into the boots of a military officer whose primary mission is to foster peace between opposing forces."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "The production is backed by the banner Salman Khan Films. Steering the project is veteran filmmaker Apoorva Lakhia, who has previously helmed acclaimed projects such as Shootout at Lokhandwala in 2007 and Crackdown in 2020.",
+          "Apoorva Lakhia also brings past experience from assisting on the direction of Lagaan in 2001 and writing for Ek Ajnabee in 2005."
+        ]
+      },
+      {
+        "h": "Real-Life Inspiration",
+        "p": [
+          "The cinematic narrative draws directly from the military confrontation that took place between Indian and Chinese troops on June 15, 2020, in the Galwan Valley. Within the film, Salman Khan portrays Colonel Bikumalla Santosh Babu, the commanding officer of the 16 Bihar Regiment.",
+          "The plot details how the commanding officer leads a contingent of two hundred Indian soldiers into a tense standoff against a vastly larger force of Chinese troops."
+        ]
+      },
+      {
+        "h": "Plot and Emotional Depth",
+        "p": [
+          "Titled fully as Maatrubhumi: May War Rest In Peace, the storyline follows the courageous choice of the colonel as he voluntarily heads toward the front lines to initiate peace negotiations. This diplomatic effort is rejected by the opposing forces, quickly turning the situation into a physical confrontation.",
+          "Beyond the battlefield sequences, the narrative explores the profound emotional fallout of warfare, highlighting the personal struggles and ultimate sacrifices endured by the soldiers and their families."
+        ]
+      },
+      {
+        "h": "Cast and Performances",
+        "p": [
+          "Starring alongside the lead actor is Chitrangada Singh, who portrays the wife of Salman Khan's character. The ensemble cast also features performances by Mukesh Rishi, Tenzin Bodh, and Ankur Bhatia, among other artists."
+        ]
+      },
+      {
+        "h": "Musical Composition",
+        "p": [
+          "The soundtrack features compositions by Himesh Reshammiya, who is joined by a collective of other musical talents. This group includes Meet Bros, Sajid Khan, Shamir Tandon, and Ayaan Lall, all contributing to the patriotic score."
+        ]
+      },
+      {
+        "h": "Release Details",
+        "p": [
+          "Fans waiting to experience the cinematic venture on the big screen can mark their calendars. Maatrubhumi: May War Rest In Peace is scheduled to hit theatres globally on December 4, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The trailer for Maatrubhumi has been released, featuring Salman Khan as Colonel Bikumalla Santosh Babu in a story inspired by the June 15, 2020 Galwan Valley clash. Directed by Apoorva Lakhia and set for a December 4, 2026 theatrical arrival, the film examines both frontline standoffs and the emotional toll on families."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan plays Colonel Bikumalla Santosh Babu in Maatrubhumi",
+      "The film is directed by Apoorva Lakhia",
+      "The movie is inspired by the June 15, 2020 military confrontation in the Galwan Valley",
+      "Maatrubhumi: May War Rest In Peace releases in theatres on December 4, 2026"
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Apoorva Lakhia",
+        "Bikumalla Santosh Babu",
+        "Chitrangada Singh",
+        "Mukesh Rishi",
+        "Tenzin Bodh",
+        "Ankur Bhatia",
+        "Himesh Reshammiya",
+        "Meet Bros",
+        "Sajid Khan",
+        "Shamir Tandon",
+        "Ayaan Lall"
+      ],
+      "titles": [
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest In Peace",
+        "Shootout at Lokhandwala",
+        "Crackdown",
+        "Lagaan",
+        "Ek Ajnabee"
+      ]
+    },
+    "keywords": [
+      "Maatrubhumi trailer",
+      "Salman Khan Maatrubhumi",
+      "Maatrubhumi May War Rest In Peace",
+      "Apoorva Lakhia film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/salmankhan17943773821794377388.jpg",
+        "caption": "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-11T12:32:21+05:30"
+  },
+  "t1we2z": {
+    "id": "t1we2z",
+    "type": "news",
+    "headline": "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027",
+    "dek": "George R. R. Martin’s sprawling fantasy universe expands to the London stage following a successful premiere run, bringing the legendary tournament at Harrenhal and Robert's Rebellion to life.",
+    "body": [
+      {
+        "h": "Expanding the Westerosi Universe",
+        "p": [
+          "Even though the original television adaptation concluded years ago, George R. R. Martin's fictional continent continues to thrive through various spin-offs and companion projects. Audiences have spent considerable time exploring different eras of bloodshed, political maneuvering, and dynastic collapse that eventually culminated in the main narrative arc. Yet, significant portions of history remained untouched on screen until now.",
+          "The latest addition to the franchise shifts mediums entirely, moving away from television screens and into theatrical venues. Fans of the overarching fantasy mythology will soon have the opportunity to witness crucial historical events acted out live by performers on stage."
+        ]
+      },
+      {
+        "h": "The London Stage Debut",
+        "p": [
+          "Following an initial sold-out run at the Royal Shakespeare Company in Stratford-upon-Avon, the theatrical production is officially scheduled to open in London. This upcoming engagement brings the expansive world of the fictional continent directly to metropolitan theatregoers.",
+          "The transition to a major city venue highlights the substantial demand for live dramatic storytelling within the franchise. Organizers anticipate strong interest as the production secures its place in the capital's theatrical calendar."
+        ]
+      },
+      {
+        "h": "Creative Team and Adaptation",
+        "p": [
+          "Bringing such a massive literary and television universe to the stage requires a specialized creative vision. The theatrical adaptation was written by Duncan Macmillan, who worked to translate the complex political dynamics of the setting into a live performance format.",
+          "Directing the ambitious project is Dominic Cooke, known for guiding large-scale dramatic works. Together, the creative leads shape a narrative that balances intimate character moments with sweeping historical consequences."
+        ]
+      },
+      {
+        "h": "Setting the Stage Before the Throne",
+        "p": [
+          "Chronologically, the narrative takes place roughly two decades prior to the events depicted in the original television series. This timeframe allows the production to examine the underlying tensions that slowly fractured the ruling structures of the Seven Kingdoms.",
+          "At the center of the storyline is the legendary tournament held at Harrenhal, a massive gathering that served as the catalyst for numerous personal conflicts and political betrayals among the noble houses."
+        ]
+      },
+      {
+        "h": "Key Historical Figures Involved",
+        "p": [
+          "The plot revolves heavily around the actions of several iconic figures from the lore, including Rhaegar Targaryen, Robert Baratheon, and Lyanna Stark. Their interactions during the tournament and its aftermath set off a devastating chain reaction.",
+          "Additionally, the narrative explores the increasingly erratic and unstable behavior of King Aerys II Targaryen. His growing paranoia acts as a primary driving force pushing the realm toward imminent disaster."
+        ]
+      },
+      {
+        "h": "From Tournament to Rebellion",
+        "p": [
+          "While the first portion of the production establishes the political powder keg, the second half shifts its focus entirely toward the outbreak of open conflict. Robert's Rebellion forms the backbone of this later segment.",
+          "The storyline details Robert Baratheon's campaign to rescue Lyanna Stark and his ultimate goal to overthrow the ruling Targaryen dynasty, culminating in a massive power struggle that reshaped the entire realm."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Following a sold-out run in Stratford-upon-Avon, the stage prequel Game of Thrones: The Mad King is officially heading to London in 2027. Adapted by Duncan Macmillan and directed by Dominic Cooke, the theatrical production explores the legendary tournament at Harrenhal and Robert's Rebellion set two decades before the original series."
+        ]
+      }
+    ],
+    "facts": [
+      "Game of Thrones: The Mad King is a stage prequel featuring a young Ned Stark.",
+      "The production is heading to London in 2027.",
+      "It follows a sold-out world-premiere run at the Royal Shakespeare Company in Stratford-upon-Avon.",
+      "The play is adapted by Duncan Macmillan and directed by Dominic Cooke.",
+      "The story takes place roughly two decades before the events of the original television series.",
+      "It centers on the legendary tournament at Harrenhal and Robert's Rebellion."
+    ],
+    "entities": {
+      "people": [
+        "George R. R. Martin",
+        "Duncan Macmillan",
+        "Dominic Cooke",
+        "Rhaegar Targaryen",
+        "Robert Baratheon",
+        "Lyanna Stark",
+        "Aerys II Targaryen",
+        "Ned Stark"
+      ],
+      "titles": [
+        "Game of Thrones",
+        "House of the Dragon",
+        "A Knight of the Seven Kingdoms",
+        "Game of Thrones: The Mad King"
+      ]
+    },
+    "keywords": [
+      "Game of Thrones The Mad King",
+      "Ned Stark stage prequel",
+      "George R. R. Martin play London",
+      "Robert's Rebellion theatrical adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/05/game-of-thrones-ned-stark-sean-bean-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 00:30:12 GMT"
   }
 };

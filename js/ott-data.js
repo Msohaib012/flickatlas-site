@@ -3,19 +3,6 @@ window.FA_OTT = {
   "coming": [
     {
       "country": "IN",
-      "date": "2026-11-12",
-      "date_kind": "digital",
-      "id": 1234139,
-      "providers": [
-        {
-          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-          "name": "Amazon Prime Video"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
       "date": "2026-11-13",
       "date_kind": "digital",
       "id": 1050981,
@@ -132,6 +119,51 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 1733518,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+          "name": "VI movies and tv"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-12",
+      "date_kind": "release",
+      "id": 1801282,
+      "providers": [
+        {
+          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+          "name": "fuboTV"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-12",
+      "date_kind": "digital",
+      "id": 1234139,
+      "providers": [
+        {
+          "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+          "name": "Amazon Prime Video"
+        }
+      ],
+      "type": "movie"
+    },
     {
       "country": "IN",
       "date": "2026-11-11",
