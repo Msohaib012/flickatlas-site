@@ -128718,5 +128718,404 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 19:35:40 +0000"
+  },
+  "z6wovr": {
+    "id": "z6wovr",
+    "type": "news",
+    "headline": "Understanding The Massive Financial Targets And Box Office Journey Of Ramayana",
+    "dek": "As Nitesh Tiwari's mythological epic approaches the Rs 1,000 crore worldwide milestone, trade analysts examine the steep financial requirements needed for the Ranbir Kapoor and Yash starrer to achieve a clean hit status.",
+    "body": [
+      {
+        "h": "The Journey Toward Major Milestones",
+        "p": [
+          "Nitesh Tiwari's ambitious mythological drama continues to draw crowds to cinemas across domestic and international markets. The cinematic retelling of the ancient epic has sparked widespread online conversations surrounding its visual grandeur and storytelling.",
+          "With ticket sales steadily climbing, the feature is swiftly approaching the Rs 1,000 crore threshold globally. Despite this impressive trajectory, industry observers note that the production still faces a lengthy path to reach official hit status."
+        ]
+      },
+      {
+        "h": "Budget Speculations And Franchise Scale",
+        "p": [
+          "Financial considerations have dominated industry discussions regarding the multi-part project. Namit Malhotra of Prime Focus, who co-produced the feature and backed its heavy visual effects requirements, previously indicated an overall budget reaching Rs 4,000 crore for the planned franchise.",
+          "Consequently, estimates place the expenditure for the initial installment alone between Rs 1,500 crore and Rs 2,000 crore. Exact figures for production, post-production, cast compensation, and promotional campaigns remain undisclosed by the studio."
+        ]
+      },
+      {
+        "h": "Calculating The Break-Even Requirements",
+        "p": [
+          "According to standard trade formulas requiring a return of 2.5 times the production cost, the mythological drama must generate between Rs 3,000 crore and Rs 4,000 crore simply to cover expenses. Historically, no domestic feature has crossed this specific milestone.",
+          "Pre-release revenue streams provide a substantial financial cushion for the project. Reports indicate that the production has already secured Rs 1,130 crore through various pre-release business agreements encompassing theatrical, digital, and music or satellite rights."
+        ]
+      },
+      {
+        "h": "The Road To A Clean Hit",
+        "p": [
+          "For the venture to be categorized definitively as a profitable success or a clean hit, box office returns must climb into the bracket between Rs 5,500 crore and Rs 6,000 crore. These elevated targets reflect the unprecedented scale of the production.",
+          "In comparison, the director's prior theatrical release, Dangal, accumulated over Rs 3,000 crore worldwide aided significantly by international markets like China. Meanwhile, Ranveer Singh's Dhurandhar franchise also achieved strong box office numbers without reaching those specific global heights."
+        ]
+      },
+      {
+        "h": "Theatrical Window And Upcoming Competitors",
+        "p": [
+          "The feature enjoys an uninterrupted exhibition window in domestic theatres leading up to late-month releases. Upcoming titles scheduled to arrive at the end of the month include Yeh Prem Mol Liya and Gunmaaster G9.",
+          "Due to this clear run and ongoing audience turnout, trade experts suggest it remains early to issue a final verdict on the film's ultimate commercial standing. Observers continue to evaluate whether the project can attain sleeper hit or clean hit status."
+        ]
+      },
+      {
+        "h": "Production Status Of Part Two",
+        "p": [
+          "While the first installment commands attention in theatres, production is already underway for the subsequent chapter. Official media disclosures have not yet detailed how the overall financial allocation is divided between the two films in the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana is inching closer to the Rs 1,000 crore mark worldwide while carrying a reported initial budget between Rs 1,500 crore and Rs 2,000 crore. Trade rules indicate the feature needs between Rs 3,000 crore and Rs 4,000 crore to break even and up to Rs 6,000 crore for a clean hit, alongside Rs 1,130 crore in pre-release business."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana is approaching the Rs 1,000 crore mark worldwide.",
+      "The overall budget for the franchise is Rs 4,000 crore.",
+      "Ramayana Part 1 has a budget of around Rs 1,500 to Rs 2,000 crore.",
+      "The film has already earned Rs 1,130 crore in pre-release business.",
+      "A clean hit requires earnings in the bracket of Rs 5,500 crore and Rs 6,000 crore.",
+      "Dangal minted over Rs 3,000 crore worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Sai Pallavi",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana Part 1",
+        "Ramayana Part Two",
+        "Dangal",
+        "Dhurandhar",
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Ramayana film budget",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana box office break even",
+      "Ramayana hit status"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156500592,thumbsize-620999,width-1280,height-720,resizemode-75/156500592.jpg",
+        "caption": "Understanding The Massive Financial Targets And Box Office Journey Of Ramayana",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T20:19:44Z"
+  },
+  "1sidgar": {
+    "id": "1sidgar",
+    "type": "news",
+    "headline": "Russell Brand Faces First Holidays Behind Bars at HMP Wandsworth Without Visitors",
+    "dek": "The comedian, recently sentenced to over a decade in prison, will spend Christmas and New Year without his family due to strict facility rules.",
+    "body": [
+      {
+        "h": "Holiday Restrictions Behind Bars",
+        "p": [
+          "The festive season will bring no celebrations for Russell Brand, who is currently incarcerated at HMP Wandsworth in London. Prison regulations dictate that inmates are not permitted to receive visitors on major holidays, meaning Christmas Day, Boxing Day, and New Year's Day will pass without in-person contact.",
+          "Consequently, the comedian must navigate these three significant dates entirely apart from his wife, Laura Gallacher, and their three children. His long-term placement remains undecided, leaving open the possibility of a transfer in the weeks ahead."
+        ]
+      },
+      {
+        "h": "Sentencing and Conviction Details",
+        "p": [
+          "The 51-year-old entertainer received a sentence of 10 years and six months following his conviction on one count of rape and three counts of sexual assault. He was handed the prison term after legal proceedings concluded at Southwark Crown Court.",
+          "During the trial, he was acquitted of two additional rape charges and one count of attempted indecent assault. Having been denied bail after his conviction, he has remained behind bars since early November."
+        ]
+      },
+      {
+        "h": "Life Inside HMP Wandsworth",
+        "p": [
+          "Brand has reportedly spent his initial days in custody keeping largely to himself, minimizing movement outside his cell while attempting to conceal his fear. His current facility has faced intense scrutiny regarding its daily operations and living standards.",
+          "Reports from the Howard League for Penal Reform highlighted extreme overcrowding at the prison, noting it operated at a significant percentage of its normal capacity. Monitoring reports have previously described the conditions inside as severe, noting challenges with maintenance and facility hygiene."
+        ]
+      },
+      {
+        "h": "Facility Security and Visitor Protocols",
+        "p": [
+          "Should his family decide to visit him in the future, they will encounter a rigorous set of security measures enforced by the institution. Visitors, including children, are required to undergo rub-down searches upon entry.",
+          "Additional protocols mandate that first-time visitors submit to fingerprinting, and security dogs may also be present during processing. These procedures apply universally to everyone seeking entry into the facility."
+        ]
+      },
+      {
+        "h": "Prison Living Standards and Meals",
+        "p": [
+          "Daily life within the London institution involves standard institutional provisions, with officials noting the average cost allocated per meal for each inmate. Holiday meals are reported to follow the standard operational routine without special adjustments.",
+          "The facility has previously documented high incidents of internal conflict and assaults involving both inmates and staff, underscoring the challenging environment of the prison."
+        ]
+      },
+      {
+        "h": "New Legal Challenges in the United States",
+        "p": [
+          "Beyond his UK sentencing, additional legal pressure is mounting overseas. Another woman in the United States has come forward with fresh allegations regarding the actor.",
+          "This individual has begun consulting prominent legal counsel to explore potential options. The development arrives just days after the conclusion of the criminal proceedings in London, though he has consistently denied any wrongdoing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Russell Brand will spend his upcoming holidays at HMP Wandsworth without family visits due to strict prison rules following his recent sentencing for sexual offenses. Amid challenging facility conditions and ongoing security protocols, he also faces potential new legal action in the United States."
+        ]
+      }
+    ],
+    "facts": [
+      "Russell Brand is 51 years old.",
+      "He is being held at HMP Wandsworth in London.",
+      "He was sentenced to 10 years and six months in prison.",
+      "The sentence follows convictions for one count of rape and three counts of sexual assault.",
+      "He has three children with his wife Laura Gallacher."
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Laura Gallacher",
+        "Gloria Allred"
+      ],
+      "titles": [
+        "Get Him to the Greek",
+        "Arthur"
+      ]
+    },
+    "keywords": [
+      "Russell Brand HMP Wandsworth",
+      "Russell Brand prison sentence",
+      "Russell Brand holidays behind bars",
+      "Russell Brand court conviction"
+    ],
+    "images": [
+      {
+        "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/148265155.jpg?quality=75&amp;strip=all&amp;w=1024",
+        "caption": "Russell Brand Faces First Holidays Behind Bars at HMP Wandsworth Without Visitors",
+        "source": "Page Six"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:48:24 -0500"
+  },
+  "1lpz7gz": {
+    "id": "1lpz7gz",
+    "type": "news",
+    "headline": "Sudip Sharma Reunites With Jaideep Ahlawat and Barun Sobti for Netflix Series Pushpak Vimaan",
+    "dek": "Creator Sudip Sharma shifts to comedy with the upcoming Netflix crime caper Pushpak Vimaan, starring Jaideep Ahlawat, Barun Sobti, and Abhishek Banerjee.",
+    "body": [
+      {
+        "h": "A New Creative Direction for Sudip Sharma",
+        "p": [
+          "Renowned filmmaker Sudip Sharma is stepping into a completely different territory by trading dark storytelling for comedy. Famous for writing gritty films like NH10 and Udta Punjab alongside intense streaming hits like Paatal Lok and Kohrra, the creator is now working on a lighthearted project.",
+          "His next venture is an upcoming Netflix series titled Pushpak Vimaan. This project marks a departure from his usual heavy narratives, allowing him to try out a fresh genre on the streaming platform."
+        ]
+      },
+      {
+        "h": "Reuniting Familiar Creative Talents",
+        "p": [
+          "The upcoming streaming show brings back several notable collaborators who have worked with Sharma on previous acclaimed projects. The crime caper is co-created and written by Sudip Sharma and Abhishek Banerjee, extending their successful partnership from Paatal Lok.",
+          "In addition to writing duties, the series stars Jaideep Ahlawat, who previously delivered a memorable performance in Paatal Lok, alongside Barun Sobti, known for his work in Kohrra. Abhishek Banerjee also joins the leading ensemble cast."
+        ]
+      },
+      {
+        "h": "Plot and Style of the Crime Caper",
+        "p": [
+          "According to production details, Pushpak Vimaan will function as an unusual comedy where the central humor stems directly from the characters and their circumstances. The plot follows a sequence of events that quickly spirals out of control.",
+          "Sudip Sharma explained that the humor in the narrative relies heavily on the sheer unpredictability of the situations his characters encounter. He noted that Netflix provided the ideal creative space to experiment freely with this unique ensemble."
+        ]
+      },
+      {
+        "h": "Production and Behind-the-Scenes Team",
+        "p": [
+          "The streaming series is backed by production banner Film Squad Productions LLP. Alongside his co-creator duties, Sudip Sharma serves as the showrunner and director for the project.",
+          "Saurabh Malhotra is attached to the series as the producer. While the primary lead actors have been revealed, information regarding the rest of the supporting cast remains under wraps."
+        ]
+      },
+      {
+        "h": "Upcoming Projects for the Lead Cast",
+        "p": [
+          "The primary cast members have several other high-profile ventures lined up across films and television. Jaideep Ahlawat has upcoming roles in features like King, Mira Nair's Amri, and Hisaab, plus an appearance in Raj and DK's Amazon Prime Video series Rakt Brahmand.",
+          "Abhishek Banerjee has multiple projects in his pipeline, including the Netflix Tamil series Legacy, along with the films Section 84, Galli No 26, Mahasangam, and an untitled feature directed by Remo D'Souza."
+        ]
+      },
+      {
+        "h": "Barun Sobti's Future Television Slate",
+        "p": [
+          "Barun Sobti also maintains a packed schedule with multiple series scheduled for release. He stars in Konkona Sensharma's Welcome to Khoya Mahal alongside Aditi Rao Hydari.",
+          "Additionally, the Raat Jawan Hai actor is set to appear in Ikatthe, sharing the screen with cast members Hasleen Kaur and Anup Soni."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Sudip Sharma is teaming up with Netflix for a new comedy crime caper titled Pushpak Vimaan. The series reunites him with actors Jaideep Ahlawat, Abhishek Banerjee, and Barun Sobti."
+        ]
+      }
+    ],
+    "facts": [
+      "Sudip Sharma created Paatal Lok and Kohrra.",
+      "Pushpak Vimaan is a Netflix series.",
+      "The series stars Jaideep Ahlawat, Abhishek Banerjee, and Barun Sobti.",
+      "Sudip Sharma and Abhishek Banerjee co-created and wrote the series.",
+      "Film Squad Productions LLP is producing the show.",
+      "Saurabh Malhotra is the producer.",
+      "Paatal Lok Season 2 premiered in January 2025 on Amazon Prime Video.",
+      "Kohrra Season 2 was released in February 2026."
+    ],
+    "entities": {
+      "people": [
+        "Sudip Sharma",
+        "Jaideep Ahlawat",
+        "Barun Sobti",
+        "Abhishek Banerjee",
+        "Saurabh Malhotra",
+        "Mira Nair",
+        "Raj",
+        "DK",
+        "Remo D'Souza",
+        "Konkona Sensharma",
+        "Aditi Rao Hydari",
+        "Hasleen Kaur",
+        "Anup Soni"
+      ],
+      "titles": [
+        "Pushpak Vimaan",
+        "Paatal Lok",
+        "Kohrra",
+        "NH10",
+        "Udta Punjab",
+        "King",
+        "Amri",
+        "Hisaab",
+        "Rakt Brahmand",
+        "Legacy",
+        "Section 84",
+        "Galli No 26",
+        "Mahasangam",
+        "Welcome to Khoya Mahal",
+        "Ikatthe",
+        "Raat Jawan Hai"
+      ]
+    },
+    "keywords": [
+      "Pushpak Vimaan Netflix series",
+      "Sudip Sharma Pushpak Vimaan",
+      "Jaideep Ahlawat Barun Sobti",
+      "Pushpak Vimaan cast"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156499775,thumbsize-1355503,width-1280,height-720,resizemode-75/156499775.jpg",
+        "caption": "Sudip Sharma Reunites With Jaideep Ahlawat and Barun Sobti for Netflix Series Pushpak Vimaan",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T20:19:44Z"
+  },
+  "sebg8l": {
+    "id": "sebg8l",
+    "type": "news",
+    "headline": "Johnny Depp Returns In New Fantasy Film Ebenezer With Rotten Tomatoes Debut",
+    "dek": "Actor Johnny Depp makes his major return to the screen in the upcoming fantasy feature Ebenezer, which has officially landed its initial critical rating on Rotten Tomatoes ahead of its wide theatrical rollout.",
+    "body": [
+      {
+        "h": "Theatrical Arrival And Initial Reception",
+        "p": [
+          "Johnny Depp is stepping back into the cinematic spotlight with his latest fantasy project, Ebenezer, slated to release in theaters on November 13, 2026. Ahead of this scheduled premiere, the movie has generated considerable industry chatter by landing its very first critical consensus on Rotten Tomatoes.",
+          "The feature enters public view carrying a 51 percent critical approval rating derived from sixty-one published evaluations. Because this score is based on early figures, the metric remains subject to fluctuation as additional critics weigh in over the coming days."
+        ]
+      },
+      {
+        "h": "Franchise History And Comparative Standings",
+        "p": [
+          "In the broader context of adaptations stemming from the classic Charles Dickens source material dating back to 1901, the newly minted film's debut sits ahead of a couple of specific animated iterations. It ranks above the 2022 animated version Scrooge: A Christmas Carol, which secured a forty percent rating.",
+          "Additionally, the project performs higher than the 2001 animated release Christmas Carol: The Movie, which holds a thirteen percent score on the platform. Review counts and critical tracking continue to develop in real time."
+        ]
+      },
+      {
+        "h": "Audience Metrics And Future Outlook",
+        "p": [
+          "While critical assessments are currently accessible to the public, corresponding audience metrics have not yet fully materialized. Industry watchers anticipate that viewer approval ratings will begin to take shape once the title officially launches in cinemas this coming Friday.",
+          "The upcoming weekend box office and general public responses will provide a clearer picture of how moviegoers receive the fantasy drama following its initial critical introduction."
+        ]
+      },
+      {
+        "h": "Career Context And Stardom Background",
+        "p": [
+          "The project marks a notable career step for the performer, who previously established himself as one of the most prominent movie stars globally. His peak commercial era famously included portraying Jack Sparrow across the Pirates of the Caribbean franchise between 2003 and 2017.",
+          "Alongside his blockbuster adventure work, he built a reputation through frequent creative partnerships with director Tim Burton, frequently embodying gothic and macabre characters on screen."
+        ]
+      },
+      {
+        "h": "Personal Challenges And Legal Battles",
+        "p": [
+          "In the intervening years, the actor's professional trajectory experienced significant setbacks following allegations of domestic abuse leveled by his ex-wife, actress Amber Heard. This situation culminated in a heavily publicized and intensely scrutinized legal battle.",
+          "The resulting controversies impacted his casting opportunities for a period, making this new fantasy endeavor a major focal point for discussions regarding his Hollywood standing."
+        ]
+      },
+      {
+        "h": "Production Details And Creative Team",
+        "p": [
+          "Directed by Ti West, the feature runs for a total duration of 116 minutes and carries a PG-13 classification, spanning genres including drama, fantasy, comedy, and holiday themes. The screenplay was penned by writer Nathaniel Halpern, with Emma Watts serving as producer.",
+          "The cast features Johnny Depp taking on the central role of Ebenezer Scrooge, alongside acclaimed actor Ian McKellen, who portrays the character of Jacob Marley."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Johnny Depp's new fantasy movie Ebenezer is scheduled for release on November 13, 2026, debuting with a 51 percent score from 61 reviews on Rotten Tomatoes. The Ti West-directed film features Johnny Depp as Ebenezer Scrooge and Ian McKellen as Jacob Marley, while audience scores are expected to emerge once the movie hits theaters this Friday."
+        ]
+      }
+    ],
+    "facts": [
+      "Johnny Depp stars as Ebenezer Scrooge in Ebenezer",
+      "Ian McKellen stars as Jacob Marley in Ebenezer",
+      "Ti West directed Ebenezer",
+      "Nathaniel Halpern wrote Ebenezer",
+      "Emma Watts produced Ebenezer",
+      "Ebenezer has a runtime of 116 minutes",
+      "Ebenezer has a PG-13 rating",
+      "Ebenezer releases on November 13, 2026",
+      "Ebenezer debuted with a 51% score from 61 reviews on Rotten Tomatoes",
+      "Scrooge: A Christmas Carol holds a 40% score",
+      "Christmas Carol: The Movie holds a 13% score",
+      "Johnny Depp played Jack Sparrow in Pirates of the Caribbean from 2003 to 2017"
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Amber Heard",
+        "Ti West",
+        "Nathaniel Halpern",
+        "Emma Watts",
+        "Ian McKellen"
+      ],
+      "titles": [
+        "Ebenezer",
+        "Pirates of the Caribbean",
+        "Scrooge: A Christmas Carol",
+        "Christmas Carol: The Movie"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp Ebenezer",
+      "Ebenezer Rotten Tomatoes score",
+      "Ti West Ebenezer release date",
+      "Johnny Depp new movie 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/johnny-depp-on-a-red-carpet.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Johnny Depp Returns In New Fantasy Film Ebenezer With Rotten Tomatoes Debut",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 19:37:43 GMT"
   }
 };
