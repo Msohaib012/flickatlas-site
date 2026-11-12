@@ -123559,5 +123559,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 06:30:18 GMT"
+  },
+  "ars78b": {
+    "id": "ars78b",
+    "type": "news",
+    "headline": "Ramayana crosses Rs 20 crore in Kerala box office within six days",
+    "dek": "Nitesh Tiwari's Ramayana: Part 1 becomes the first Bollywood film to cross the Rs 20-crore gross mark in Kerala, surpassing Dhurandhar 2.",
+    "body": [
+      {
+        "h": "Milestone in Kerala Box Office",
+        "p": [
+          "Nitesh Tiwari's Ramayana: Part 1 has rewritten Bollywood box office record books by crossing the Rs 20-crore gross mark in Kerala. The achievement marks the highest-ever collection by a Hindi film in the state, overtaking the previous record held by Dhurandhar: The Revenge.",
+          "According to trade estimates by Sacnilk, the film achieved this feat within just six days of its theatrical release, finishing its run up to Tuesday, November 10, with a gross collection of Rs 20.90 crore in the state. In comparison, Dhurandhar 2 finished its Kerala run with approximately Rs 19.50 crore."
+        ]
+      },
+      {
+        "h": "Overcoming Regional Preferences",
+        "p": [
+          "This milestone is particularly significant given Kerala's traditional preference for Malayalam cinema, which often presents a challenge for Hindi releases to attract local audiences. Ramayana has successfully broken through this barrier to set a new benchmark.",
+          "The triumph reflects a steady evolution of Bollywood milestones in the state over the years. Aamir Khan's PK was the first Hindi film to cross Rs 5 crore in 2014, followed by Dangal crossing Rs 10 crore in 2016, and Dhurandhar 2 pushing the benchmark to around Rs 19.50 crore earlier in 2026."
+        ]
+      },
+      {
+        "h": "Rapid Ascent in Opening Week",
+        "p": [
+          "What sets Ramayana apart is the incredible speed of its theatrical run. While previous record-holders required their entire theatrical lifetimes to establish benchmarks, this big-budget spectacle surpassed the state record within its opening week alone.",
+          "The film maintained its momentum despite competing with Suriya's Scene, which also hit theatres in Kerala around the same time, proving its strong pull among local moviegoers."
+        ]
+      },
+      {
+        "h": "Daily Collections Breakdown",
+        "p": [
+          "Ramayana opened in theatres on November 5 with approximately Rs 3 crore, followed by Rs 2.15 crore on its second day. Collections picked up over the weekend, with Saturday pulling in Rs 3.60 crore and Sunday emerging as the strongest day of the opening stretch at Rs 4.60 crore.",
+          "The weekday hold remained robust with Rs 3.90 crore on Monday and Rs 3.80 crore on Tuesday, demonstrating a small drop after the festive weekend and indicating solid audience retention."
+        ]
+      },
+      {
+        "h": "Massive Pan-India and Global Figures",
+        "p": [
+          "Passing its first post-Bhai Dooj working-day test with ease, the film collected Rs 70.65 crore nett across India on Wednesday, November 11. This brought its seven-day domestic nett total to an impressive Rs 511.10 crore.",
+          "Trade trackers report a seven-day India gross of Rs 611.05 crore, while overseas markets contributed Rs 323.50 crore, including Rs 25 crore added on Day 7, pushing its cumulative worldwide gross to Rs 934.55 crore."
+        ]
+      },
+      {
+        "h": "Cast and Crew Details",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Part 1 features a prominent cast including Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, and Yash as Ravana. The project also stars Ravie Dubey as Lakshman and Sunny Deol as Lord Hanuman.",
+          "Released on November 5, the feature continues its record-breaking run globally, placing it among the highest-grossing Indian releases of 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has become the first Bollywood film to cross the Rs 20-crore gross mark in Kerala, achieving the feat in just six days and surpassing Dhurandhar 2. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Yash, and Sai Pallavi, the film continues a stellar box-office run with a cumulative worldwide gross of Rs 934.55 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed Rs 20 crore gross in Kerala in 6 days.",
+      "The film surpassed Dhurandhar 2, which finished its Kerala run with approximately Rs 19.50 crore.",
+      "Sacnilk estimated Ramayana collected Rs 20.90 crore gross in Kerala by Tuesday, November 10, 2026.",
+      "PK crossed Rs 5 crore in Kerala in 2014.",
+      "Dangal crossed Rs 10 crore in Kerala in 2016.",
+      "Ramayana opened on November 5, 2026, with approximately Rs 3 crore.",
+      "Day 2 collection was Rs 2.15 crore.",
+      "Saturday collection was Rs 3.60 crore.",
+      "Sunday collection was Rs 4.60 crore.",
+      "Monday collection was Rs 3.90 crore.",
+      "Tuesday collection was Rs 3.80 crore.",
+      "Wednesday, November 11, 2026, domestic nett total reached Rs 70.65 crore.",
+      "Seven-day domestic nett total reached Rs 511.10 crore.",
+      "Seven-day India gross reached Rs 611.05 crore.",
+      "Overseas markets contributed Rs 323.50 crore, including Rs 25 crore on Day 7.",
+      "Cumulative worldwide gross reached Rs 934.55 crore.",
+      "Nitesh Tiwari is the director of Ramayana: Part 1.",
+      "Ranbir Kapoor stars as Lord Rama, Sai Pallavi as Goddess Sita, Yash as Ravana, Ravie Dubey as Lakshman, and Sunny Deol as Lord Hanuman."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Aamir Khan",
+        "Suriya"
+      ],
+      "titles": [
+        "Ramayana: Rise of Legend",
+        "Ramayana: Part 1",
+        "Dhurandhar 2",
+        "Dhurandhar: The Revenge",
+        "PK",
+        "Dangal",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Ramayana Kerala box office",
+      "Ramayana Part 1 box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana beats Dhurandhar 2"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-conquers-kerala-box-office-with-rs-20-crore-in-6-days--crushes-dhurandhar-2-124838531-16x9_0.jpg?VersionId=jpHfcraI5opqbw6CG1LBITEe1JMiNwAU",
+        "caption": "Ramayana crosses Rs 20 crore in Kerala box office within six days",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 12:24:58 +0530"
+  },
+  "1bnpesb": {
+    "id": "1bnpesb",
+    "type": "news",
+    "headline": "The Mummy 4 Confirms Another Major Legacy Return",
+    "dek": "Arnold Vosloo has officially announced his comeback as the iconic villain Imhotep in the upcoming fourth instalment of The Mummy franchise.",
+    "body": [
+      {
+        "h": "The Return of Imhotep",
+        "p": [
+          "Fans eagerly anticipating the fourth instalment of The Mummy franchise have received another massive update regarding the film's cast. Arnold Vosloo, who memorably portrayed the primary antagonist Imhotep in the first two movies, has officially confirmed that he will be reprising his role.",
+          "The actor shared the major announcement during an appearance on the Danger Close Podcast, revealing that he has finalized his contract. Vosloo expressed excitement about stepping back into the sandals of the ancient Egyptian priest, noting that production is already underway."
+        ]
+      },
+      {
+        "h": "Production Details and Timeline",
+        "p": [
+          "Principal photography for the upcoming project has kicked off in London with franchise star Brendan Fraser. Meanwhile, Vosloo stated that his own filming schedule for the production will begin in November.",
+          "The narrative of the new film is set against the backdrop of a 1957 speed trials event. This places the timeline 24 years after the events depicted in The Mummy Returns."
+        ]
+      },
+      {
+        "h": "Original Stars Reunited",
+        "p": [
+          "The fourth film marks a significant reunion for the franchise, most notably featuring the return of Rachel Weisz as Evelyn O'Connell. Weisz's character was previously played by Maria Bello in the third film, The Mummy: Tomb of the Dragon Emperor.",
+          "Brendan Fraser is also locked in to return as adventurer Rick O'Connell, bringing back the core dynamic that helped make the original pictures global box office hits."
+        ]
+      },
+      {
+        "h": "Expanded Cast Comebacks",
+        "p": [
+          "Beyond the primary heroic and villainous leads, several other beloved supporting actors have been confirmed for the upcoming sequel. Kevin J O'Connor, Oded Fehr, and John Hannah are all slated to make their respective returns.",
+          "John Hannah, who portrays Evelyn's brother Jonathan Carnahan, previously praised the quality of the screenplay. He noted that the project avoids feeling like a cynical cash grab and instead offers a fresh, energetic take on the material."
+        ]
+      },
+      {
+        "h": "De-Aging and Visuals",
+        "p": [
+          "Addressing the visual aspect of his return, Vosloo teased that the production team plans to utilize visual effects to recreate his youthful appearance. He joked that filmmakers intend to make him look just as he did when he was thirty-eight years old during the production of the first movie.",
+          "Cast members have continually praised the script, emphasizing that the creative direction brings genuine enthusiasm and strong storytelling back to the cinematic universe."
+        ]
+      },
+      {
+        "h": "Release Strategy and Legacy",
+        "p": [
+          "The upcoming fourth instalment is officially titled The Mummy: Book of the Dead. It is scheduled to land in cinemas on October 15, 2027.",
+          "This release arrives twenty-eight years after the premiere of the original 1999 film, cementing a long-standing legacy in adventure cinema and rewarding decades of fan loyalty."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Arnold Vosloo has confirmed his return as Imhotep in The Mummy: Book of the Dead, joining original stars Brendan Fraser and Rachel Weisz. The film is scheduled for an October 2027 release and is set around a 1957 speed trials event."
+        ]
+      }
+    ],
+    "facts": [
+      "The Mummy: Book of the Dead is scheduled to be released on 15 October 2027.",
+      "Arnold Vosloo confirmed his return as Imhotep on the Danger Close Podcast.",
+      "The film is set at a 1957 speed trials event, taking place 24 years after The Mummy Returns.",
+      "Brendan Fraser and Rachel Weisz are returning as Rick and Evelyn O'Connell.",
+      "Kevin J O'Connor, Oded Fehr, and John Hannah are also returning."
+    ],
+    "entities": {
+      "people": [
+        "Arnold Vosloo",
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "Maria Bello",
+        "Kevin J O'Connor",
+        "Oded Fehr",
+        "John Hannah",
+        "Patricia Velásquez",
+        "Stephanie Chase"
+      ],
+      "titles": [
+        "The Mummy",
+        "The Mummy 4",
+        "The Mummy: Book of the Dead",
+        "The Mummy Returns",
+        "The Mummy: Tomb of the Dragon Emperor",
+        "Legends",
+        "Gavin & Stacey",
+        "Rivals",
+        "Coronation Street",
+        "Love Island",
+        "I'm a Celeb",
+        "Emmerdale",
+        "EastEnders",
+        "Hollyoaks",
+        "Sherwood",
+        "Celebrity Race Across The World"
+      ]
+    },
+    "keywords": [
+      "The Mummy 4",
+      "Arnold Vosloo Imhotep",
+      "Brendan Fraser The Mummy",
+      "The Mummy Book of the Dead"
+    ],
+    "images": [
+      {
+        "url": "https://hips.hearstapps.com/hmg-prod/images/rachel-weisz-john-hannah-brendan-fraser-the-mummy-690b18738a004.jpg?crop=1.00xw:0.725xh;0,0.112xh&amp;resize=1200:*",
+        "caption": "The Mummy 4 Confirms Another Major Legacy Return",
+        "source": "Digital Spy"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 07:00:00 +0000"
+  },
+  "nw96mr": {
+    "id": "nw96mr",
+    "type": "news",
+    "headline": "Dhinchak Pooja Announces Pregnancy Six Months After Marriage",
+    "dek": "Internet sensation Dhinchak Pooja has revealed that she is expecting her first child at the age of 32, just half a year after tying the knot with singer Yawan.",
+    "body": [
+      {
+        "h": "Pregnancy Announcement on Social Media",
+        "p": [
+          "Internet personality Dhinchak Pooja has shared a major personal update with her followers, announcing that she is going to be a mother. The star, famous for quirky viral tracks, posted a video on social media showcasing her baby bump while wearing a pink outfit.",
+          "Accompanying the video was a caption stating that the baby of Dhinchak Pooja is coming soon. The announcement immediately drew widespread attention from fans and well-wishers across various online platforms."
+        ]
+      },
+      {
+        "h": "Hints About the Baby's Gender",
+        "p": [
+          "The shared video also offered glimpses from a baby shower or godh bharai celebration. In one clip, Pooja was seen holding a balloon with the words Baby Boy written on it.",
+          "Another picture featured her holding a sticker that read I Love My Mommy. While these visual cues sparked intense discussions among fans regarding the baby's gender, Pooja has not issued a separate confirmation."
+        ]
+      },
+      {
+        "h": "Recent Marriage to Singer Yawan",
+        "p": [
+          "This new milestone follows closely on the heels of her wedding earlier in the year. Pooja had announced her marriage to singer Yawan back in May, surprising many of her followers.",
+          "Making the pregnancy announcement roughly six months after her wedding has brought her marital life back into the spotlight, giving her supporters a second major surprise within a short span."
+        ]
+      },
+      {
+        "h": "An Online Romance Turned Real",
+        "p": [
+          "The love story between Pooja and Yawan developed through digital channels before culminating in marriage. Pooja previously shared that the two first met on the internet.",
+          "What started as online conversations eventually blossomed into friendship and then romance. After dating for a period of time, the couple decided to take the plunge and get married."
+        ]
+      },
+      {
+        "h": "Clearing Up Doubts About the Wedding",
+        "p": [
+          "When news of their wedding initially broke, a segment of the audience suspected it might be a promotional gimmick for an upcoming music video. However, Pooja clarified that the marriage was entirely authentic.",
+          "She emphasized that it was not a publicity stunt, and the two tied the knot in a private ceremony with the full consent and blessings of their families."
+        ]
+      },
+      {
+        "h": "Rise to Fame and Reality Television",
+        "p": [
+          "Pooja Jain, widely recognized by her moniker Dhinchak Pooja, first captured public attention through viral songs such as Selfie Maine Le Li Aaj and Dilon Ka Shooter, which made her an overnight internet sensation.",
+          "Her unique style of music and online fame later paved the way for a television appearance, where she participated in Salman Khan's popular reality show Bigg Boss 11."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Internet personality Dhinchak Pooja announced her pregnancy at the age of 32, six months after marrying singer Yawan. The couple originally met online and previously wed in a private family ceremony after their romance developed.",
+          "Fans have flooded social media with congratulatory messages as the singer prepares to enter motherhood."
+        ]
+      }
+    ],
+    "facts": [
+      "Dhinchak Pooja is 32 years old.",
+      "The pregnancy announcement was made in November 2026.",
+      "She married singer Yawan in May.",
+      "They met via the internet.",
+      "She previously appeared on Bigg Boss 11."
+    ],
+    "entities": {
+      "people": [
+        "Dhinchak Pooja",
+        "Yawan",
+        "Salman Khan"
+      ],
+      "titles": [
+        "Selfie Maine Le Li Aaj",
+        "Dilon Ka Shooter",
+        "Bigg Boss 11"
+      ]
+    },
+    "keywords": [
+      "Dhinchak Pooja",
+      "Dhinchak Pooja pregnant",
+      "Yawan singer",
+      "Dhinchak Pooja husband"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af4adc4eaf44-dhinchak-pooja-to-welcome-baby-boy-revealed-gender-110243961-16x9.jpg",
+        "caption": "Dhinchak Pooja Announces Pregnancy Six Months After Marriage",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T07:52:31Z"
+  },
+  "17dums3": {
+    "id": "17dums3",
+    "type": "news",
+    "headline": "Peacock Crime Thriller M.I.A. Serves As The Ultimate TV Companion Ahead Of GTA 6 Release",
+    "dek": "As players endure the final days of a historic 13-year wait for Grand Theft Auto VI, Peacock's crime series M.I.A. offers a strikingly similar underworld journey to pass the time.",
+    "body": [
+      {
+        "h": "The Monumental Arrival of Grand Theft Auto VI",
+        "p": [
+          "The entire entertainment and gaming landscape is currently fixated on the upcoming launch of Grand Theft Auto VI. Positioned as potentially the largest video gaming event of the entire decade, the title has commanded global attention as fans prepare for its November 19 release date.",
+          "The anticipation surrounding the game is monumental in scale. Analysts have even estimated that the US economy could face a productivity loss of $1 billion purely from workers taking time off to dive straight into the massive open-world release."
+        ]
+      },
+      {
+        "h": "A Historic Thirteen-Year Wait",
+        "p": [
+          "Fueling this immense excitement is the grueling timeline enthusiasts have endured. The gaming community has waited 13 years for a brand new installment in the legendary franchise, a period that also absorbed a year-long delay from the initial 2025 launch schedule.",
+          "With preloading having started earlier in the week and marketing campaigns fully active, players have spent recent days deeply analyzing protagonists Jason and Lucia. For many devoted followers, surviving this final week of waiting has become an excruciating test of patience."
+        ]
+      },
+      {
+        "h": "Peacock Beaten to the Punch by Months",
+        "p": [
+          "While nothing in the digital sphere can accelerate the arrival of the blockbuster game, streaming platforms have inadvertently provided a remedy. Months before the game's launch, Peacock debuted its own gritty crime thriller series designed to capture a similar underworld atmosphere.",
+          "The nine-episode drama serves as an ideal diversion for anyone looking to occupy their time. Because the network preemptively canceled a second season, audiences can comfortably finish the entire narrative arc without worrying about future cliffhangers."
+        ]
+      },
+      {
+        "h": "Parallels Between Etta Tiger Jonze and Lucia Camino",
+        "p": [
+          "The thematic crossover between the streaming series and the upcoming game is remarkably uncanny. The show follows Etta Tiger Jonze, a young Latina woman navigating the dangerous criminal ecosystem of Miami on a quest for vengeance after the murder of her family.",
+          "This trajectory mirrors the background of Lucia Camino, one of the central figures in the upcoming game. Both characters step into the ground floor of South Florida's criminal networks, attempting to rise through the ranks while dealing with ruthless gangsters and drug traffickers."
+        ]
+      },
+      {
+        "h": "Shared Themes and Ozark Roots",
+        "p": [
+          "Sharing DNA with acclaimed crime dramas like Ozark thanks to its creative pedigree, the streaming project tackles many of the exact subjects expected in the upcoming video game. These include the progressive moral corruption of the protagonist, biting critiques of American capitalism, and the heavy cost of survival.",
+          "Although distinct differences exist—such as Etta pursuing family revenge versus Lucia's entanglements alongside Jason—the overall tone and neon-soaked setting offer a parallel experience that scratches the exact same narrative itch."
+        ]
+      },
+      {
+        "h": "The Ultimate Appetizer Before Launch Day",
+        "p": [
+          "For gamers looking to immerse themselves in a high-stakes crime narrative before diving into Vice City, the Peacock production functions as the ultimate appetizer. It mirrors the exact genre, intensity, and regional flavor that fans crave.",
+          "Viewers looking for rapid pacing, flawed ambitious protagonists, and violent underworld confrontations will find the short nine-episode season to be the absolute next best thing to playing the highly anticipated title early."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Peacock's nine-episode crime thriller M.I.A. has emerged as a thematic mirror to Grand Theft Auto VI, mirroring its Miami setting and underworld rise. As fans endure the final week of a 13-year wait for the game, the streaming series provides an ideal narrative bridge."
+        ]
+      }
+    ],
+    "facts": [
+      "Grand Theft Auto VI releases on November 19, 2026",
+      "Fans have waited 13 years for a new installment in the Grand Theft Auto franchise",
+      "Peacock's M.I.A. has nine episodes in its season",
+      "M.I.A. follows protagonist Etta Tiger Jonze",
+      "Grand Theft Auto VI features protagonists Jason and Lucia"
+    ],
+    "entities": {
+      "people": [
+        "Sean Morrison",
+        "Shannon Gisela",
+        "Brittany Adebumola",
+        "Karen Campbell",
+        "Bill Dubuque",
+        "Alethea Jones",
+        "Benjamin Semanoff",
+        "Gwyneth Horder-Payton",
+        "John Dahl",
+        "Mairzee Almas"
+      ],
+      "titles": [
+        "Grand Theft Auto VI",
+        "M.I.A.",
+        "Ozark"
+      ]
+    },
+    "keywords": [
+      "Grand Theft Auto VI",
+      "M.I.A. Peacock series",
+      "Etta Tiger Jonze",
+      "Lucia Camino GTA 6"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/shannon-gisela-s-etta-looking-worriedly-over-her-shoulder-while-in-a-car-in-m-i-a.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Peacock Crime Thriller M.I.A. Serves As The Ultimate TV Companion Ahead Of GTA 6 Release",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 07:30:18 GMT"
   }
 };
