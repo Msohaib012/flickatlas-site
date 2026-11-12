@@ -13,7 +13,9 @@ Reads out/gemini-batch.json (from scripts/gemini_batch.py) and:
   2. Merges box-office rows into js/daywise-data.js (window.FA_DAYWISE):
      keyed by TMDB id; a row for the same film+day is UPDATED (a correction
      replaces the old number, it never creates a second post/row), otherwise
-     appended. Collection is USD (converted in gemini_batch.py at 94.65).
+     appended — except an update that equals the row's stored overseas
+     figure is skipped (overseas-column misread, fix 2026-11-12), and an
+     update never moves the stored date of a finalized day. Collection is USD (converted in gemini_batch.py at 94.65).
      Rows come from out/gemini-batch.json ("box_office") and, when present,
      out/boxoffice-backfill.json (one-time backfill over old articles).
      Every row passes boxoffice_extract.validate_box_row() before it is
@@ -196,6 +198,32 @@ def normalize_keywords(article):
     return out
 
 
+def apply_box_row_update(hit, entry, title, day):
+    """Apply a re-extracted box-office row to an existing day row.
+
+    Returns True when the stored row changed. Guards (fix 2026-11-12):
+    (a) a re-extraction that equals the row's own stored overseas
+    figure is rejected — the extractor sometimes reads the overseas
+    column as India Net (Ramayana Day 7 went $7,464,342 / Rs 70.65 Cr
+    -> $2,641,310, exactly the stored overseas value, on the
+    2026-11-12 16:48 PKT run); the update is skipped and logged, and
+    a real revision goes through out/boxoffice-corrections.json.
+    (b) the date of a finalized day never moves on a re-extraction —
+    the same bad read re-dated Day 7 to 2026-11-12; a wrong date is
+    likewise fixed via the corrections file.
+    """
+    if hit.get("collection") == entry["collection"]:
+        return False
+    if (isinstance(hit.get("overseas"), (int, float))
+            and entry["collection"] == hit["overseas"]):
+        print(f"box office: update skipped ({title} Day {day}): "
+              f"${entry['collection']} equals the stored overseas "
+              f"figure — likely the overseas column, not India Net")
+        return False
+    hit["collection"] = entry["collection"]
+    return True
+
+
 def main():
     batch_path = os.path.join(OUT_DIR, "gemini-batch.json")
     if os.path.exists(batch_path):
@@ -334,9 +362,7 @@ def main():
                 hit = r
                 break
         if hit is not None:
-            if hit.get("collection") != entry["collection"]:
-                hit["collection"] = entry["collection"]
-                hit["date"] = entry["date"]
+            if apply_box_row_update(hit, entry, pub["title"], day):
                 bo_updated += 1
         else:
             rows.append(entry)

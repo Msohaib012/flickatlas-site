@@ -46,6 +46,7 @@ jobs:
           node scripts/test_listing_order.js
           python3 scripts/test_gemini_boxoffice.py
           python3 scripts/test_boxoffice_integrity.py
+          python3 scripts/test_apply_auto_boxoffice.py
           python3 scripts/test_home_boxoffice_worldwide.py
           python3 scripts/test_tmdb_refresh.py
           python3 scripts/test_ott_refresh.py

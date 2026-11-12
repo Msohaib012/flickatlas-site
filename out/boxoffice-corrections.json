@@ -6,6 +6,13 @@
    "source": "Sacnilk final via FlickAtlas article 1fwghjc (corroborated: The Week, BusinessToday, CNBC-TV18, Economic Times, Times of India, all citing Sacnilk)",
    "article_id": "1fwghjc",
    "note": "Sacnilk staging still carries the early Rs 37 Cr Sunday-evening capture; Sacnilk revised Day 4 to Rs 56.15 Cr on 2026-11-09. Without this override the multisource step reverts the Gemini correction every hourly run."
+  },
+  "7": {
+   "collection_inr_cr": 70.65,
+   "date": "2026-11-11",
+   "source": "Sacnilk final via FlickAtlas article b0shg9 (Day 8 report states Day 7 = Rs 70.65 Cr; first-week India Net total Rs 511.10 Cr cross-checks against the day sums)",
+   "article_id": "b0shg9",
+   "note": "Gemini re-extraction overwrote the verified Day 7 figure with the overseas $2,641,310 (Rs 25 Cr) on the 2026-11-12 16:48 PKT run and re-dated it to 2026-11-12. Without this override the bad value returns every hour."
   }
  }
 }

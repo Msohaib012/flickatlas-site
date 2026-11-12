@@ -599,18 +599,23 @@ def load_corrections(path):
     return data
 
 
-def apply_corrections(finalized, corrections, published):
+def apply_corrections(finalized, corrections, published, daywise=None):
     """Override finalized figures with committed corrections.
 
-    A correction applies only to a movie+day the engine finalized
-    from staging this run (india=True); otherwise it is logged and
-    skipped — a day with no staging data is already owned by the
-    Gemini/apply-auto path, which wrote the correction there in the
-    first place. The override replaces the India Net figure (and its
-    date when given); extras and the staging sources are kept, and
-    the correction itself is recorded on the figure so the sidecar
-    shows why the finalized number differs from the staging mean.
-    Returns the number of corrections applied.
+    A correction applies to a movie+day the engine finalized from
+    staging this run (india=True); the override replaces the India Net
+    figure (and its date when given); extras and the staging sources
+    are kept, and the correction itself is recorded on the figure so
+    the sidecar shows why the finalized number differs from the
+    staging mean. A correction for a day the engine did NOT finalize
+    (no India staging source — a Gemini/apply-auto-owned day) is
+    applied straight to the baseline daywise row instead, when one
+    exists (fix 2026-11-12: Ramayana Day 7's verified Rs 70.65 Cr
+    kept being overwritten by the Gemini re-extraction with the
+    overseas Rs 25 Cr, and the corrections file could not protect it
+    because multisource never finalizes Day 7). A correction for a
+    day with neither a finalized figure nor a baseline row is logged
+    and skipped. Returns the number of corrections applied.
     """
     applied = 0
     for tid, days in corrections.items():
@@ -646,9 +651,42 @@ def apply_corrections(finalized, corrections, published):
                 continue
             fig = (finalized.get(tid) or {}).get(day)
             if fig is None or not fig.get("india"):
-                print(f"multisource: corrections: {tid} Day {day}: no "
-                      "finalized India figure this run — skipped "
-                      "(Gemini/apply-auto path owns this day)")
+                # No finalized India figure: fall back to the baseline
+                # row (a Gemini-owned day). Without this, a committed
+                # correction for such a day is skipped every run while
+                # the bad value keeps coming back. The run log records
+                # the application (the sidecar only covers finalized
+                # figures); the merge step after this never touches a
+                # baseline row's collection/date for an extras-only
+                # finalized figure, so the correction survives the run.
+                if daywise is None:
+                    print(f"multisource: corrections: {tid} Day {day}: "
+                          "no finalized India figure this run — skipped")
+                    continue
+                rows = daywise.get(tid) or []
+                hit = None
+                for r in rows:
+                    if r.get("day") == f"Day {day}":
+                        hit = r
+                        break
+                if hit is None:
+                    print(f"multisource: corrections: {tid} Day {day}: "
+                          "no finalized India figure and no baseline row "
+                          "— skipped")
+                    continue
+                old_usd = hit.get("collection")
+                new_usd = round(cr * 1e7 / INR_PER_USD)
+                if old_usd == new_usd and (
+                        not corr.get("date")
+                        or hit.get("date") == corr["date"]):
+                    continue
+                hit["collection"] = new_usd
+                if corr.get("date"):
+                    hit["date"] = corr["date"]
+                print(f"multisource: corrections: {tid} Day {day} "
+                      f"(baseline): ${old_usd} -> ${new_usd} "
+                      f"({corr.get('source') or 'correction'})")
+                applied += 1
                 continue
             old_cr = fig.get("collection_inr_cr")
             fig["collection_inr_cr"] = round(cr, 3)
@@ -843,7 +881,7 @@ def main():
     # Committed corrections (see module docstring): a stale staging
     # figure must not keep undoing a verified correction every hour.
     corrections = load_corrections(corrections_path)
-    n_corr = apply_corrections(finalized, corrections, published)
+    n_corr = apply_corrections(finalized, corrections, published, daywise)
     if n_corr:
         print(f"multisource: applied {n_corr} committed correction(s)")
     n_figs = sum(len(v) for v in finalized.values())
