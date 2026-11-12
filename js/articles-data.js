@@ -128004,5 +128004,319 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 17:21:14 GMT"
+  },
+  "1i7l613": {
+    "id": "1i7l613",
+    "type": "news",
+    "headline": "Sony Pictures Classics Leaders Michael Barker and Tom Bernard Join Screen Talk Podcast",
+    "dek": "Co-presidents Michael Barker and Tom Bernard discuss their slate of specialty films, the state of theatrical distribution, and Oscar campaigns on IndieWire's podcast.",
+    "body": [
+      {
+        "h": "A Landmark Podcast Appearance",
+        "p": [
+          "For years, Sony Pictures Classics co-presidents Michael Barker and Tom Bernard remained the elusive figures that IndieWire's Screen Talk podcast hoped to feature. Recently, that long-standing goal materialized as the duo sat down for an extensive conversation about their specialized film slate, industry trends, and the intricate world of Oscar campaigning.",
+          "Having steered the theatrical specialty landscape for decades, Barker and Bernard have maintained an unwavering commitment to the traditional theatrical model. Their discussion sheds light on how specialty distribution continues to navigate an evolving cinematic ecosystem while keeping faith in big-screen audience experiences."
+        ]
+      },
+      {
+        "h": "The Resurgence of Theatrical Releases",
+        "p": [
+          "The conversation touched upon a broader recovery within the theatrical sector, highlighting how diverse offerings are successfully pulling audiences back into cinemas. Notable examples include a three-hour documentary securing the number two spot at the box office, alongside a foreign-language Godzilla feature claiming the top position.",
+          "Additionally, indie features have found notable footing. Black Bear's Wicker entered the top 10, while earlier in the fall, Sony Pictures Classics' Sundance acquisition The Only Living Pickpocket in New York claimed a spot in the top 10, bolstered by Oscar hopeful John Turturro's starring performance."
+        ]
+      },
+      {
+        "h": "Highlighting a Robust Upcoming Slate",
+        "p": [
+          "During the podcast, Barker and Bernard provided insights into several high-profile titles under their banner. Their current slate includes Pedro Almodóvar's Bitter Christmas, Florian Zeller's Bunker—a film that has sparked polarized reactions from critics while connecting warmly with audiences—and the UK's international Oscar entry from Iran, Rehearsals for a Revolution, which is also contending in the Best Documentary Feature category.",
+          "Further rounding out their diverse offerings are the animated feature Iron Boy and the Sundance winner Bedford Park. The co-presidents also took the opportunity to tease Violette, their latest acquisition, alongside the upcoming project from Amélie director Jean-Pierre Jeunet."
+        ]
+      },
+      {
+        "h": "Broader Industry Developments Explored",
+        "p": [
+          "Beyond their own slate, the podcast conversation expanded into wider industry news and creative milestones. Co-hosts Anne Thompson and Ryan Lattanzio discussed the unexpected passing of Chilean filmmaker Sebastian Lelio, while also dissecting recent corporate shifts such as Letterboxd's sale to The New York Times and the departure of James Gunn and Peter Safran from DC Studios.",
+          "The hosts also turned their attention toward championing independent cinema that requires critical backing. They strongly encouraged audiences to experience Kelly O'Sullivan and Alex Thompson's indie feature Mouse as it expands nationwide, specifically highlighting Sophie Okonedo's award-worthy performance in the supporting actress race."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Sony Pictures Classics co-presidents Michael Barker and Tom Bernard appeared on IndieWire's Screen Talk podcast to discuss their robust slate of specialty films and the ongoing theatrical recovery. The conversation covered several upcoming titles and industry shifts, offering a comprehensive look at independent distribution and modern cinema trends."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael Barker and Tom Bernard are the co-presidents of Sony Pictures Classics.",
+      "The interview took place on the IndieWire Screen Talk podcast hosted by Ryan Lattanzio and Anne Thompson.",
+      "Films discussed include Bitter Christmas by Pedro Almodóvar, Bunker by Florian Zeller, and Rehearsals for a Revolution.",
+      "John Turturro stars in The Only Living Pickpocket in New York."
+    ],
+    "entities": {
+      "people": [
+        "Michael Barker",
+        "Tom Bernard",
+        "Ryan Lattanzio",
+        "Anne Thompson",
+        "John Turturro",
+        "Pedro Almodóvar",
+        "Florian Zeller",
+        "Sebastian Lelio",
+        "James Gunn",
+        "Peter Safran",
+        "Kelly O'Sullivan",
+        "Alex Thompson",
+        "Sophie Okonedo",
+        "Jean-Pierre Jeunet"
+      ],
+      "titles": [
+        "Screen Talk",
+        "The Only Living Pickpocket in New York",
+        "Bitter Christmas",
+        "Bunker",
+        "Rehearsals for a Revolution",
+        "Iron Boy",
+        "Bedford Park",
+        "Violette",
+        "Amélie",
+        "Mouse",
+        "Wicker",
+        "Godzilla"
+      ]
+    },
+    "keywords": [
+      "Sony Pictures Classics",
+      "Michael Barker Tom Bernard",
+      "Screen Talk podcast",
+      "The Only Living Pickpocket in New York",
+      "IndieWire"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/11/P106DCCJ.jpg?w=650",
+        "caption": "Sony Pictures Classics Leaders Michael Barker and Tom Bernard Join Screen Talk Podcast",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 17:30:00 +0000"
+  },
+  "1q3m1zk": {
+    "id": "1q3m1zk",
+    "type": "news",
+    "headline": "Brad Pitt and Apple Original Films Re-team for Darius Marder Feature Connector",
+    "dek": "Academy Award winner Brad Pitt will star in and produce the 1970s New York-set feature Connector, directed by Sound of Metal filmmaker Darius Marder.",
+    "body": [
+      {
+        "h": "The New Project Announcement",
+        "p": [
+          "Apple Original Films and Academy Award-winning actor Brad Pitt are officially joining forces once again for an upcoming feature titled Connector. Following their previous collaborations, the studio and the star have found their next major vehicle.",
+          "In addition to starring in the leading role, Brad Pitt will take on producing duties through his Plan B production banner. Academy Award nominee Darius Marder is attached to direct the feature film."
+        ]
+      },
+      {
+        "h": "Setting and Plot Details",
+        "p": [
+          "The narrative for Connector transports audiences back to 1970s New York City. The script was penned by director Darius Marder alongside his sister, Nina Marder.",
+          "The story centers on a working-class legend who happens to be a sky-walking ironworker. This protagonist ultimately finds himself taking on powerful forces that are much larger than himself."
+        ]
+      },
+      {
+        "h": "Production Team and Development",
+        "p": [
+          "Apple Studios will serve as the studio behind the feature. Producers on the project include Brad Pitt, Dede Gardner, and Jeremy Kleiner representing Plan B, alongside Darius Marder.",
+          "Discussions regarding the film had been ongoing for some time between Pitt, Plan B, and Marder. Once the latest draft arrived, Pitt showed high enthusiasm, positioning it as a potential candidate for his next shooting schedule in 2027."
+        ]
+      },
+      {
+        "h": "Apple and Plan B Partnership",
+        "p": [
+          "This new venture continues a successful creative pipeline between Apple Original Films and Plan B. Their past partnerships include the record-breaking, Oscar-winning feature F1, which achieved historic status as the highest-grossing sports feature of all time and earned a Best Picture nomination.",
+          "Apple and Plan B have several other collaborative efforts in motion as well. These include an upcoming feature led by Mark Wahlberg and written and directed by Stephen Chbosky, as well as an adaptation titled The Waffle House Index."
+        ]
+      },
+      {
+        "h": "Background of the Filmmaker",
+        "p": [
+          "For Darius Marder, Connector marks his first feature film since his celebrated 2020 feature directing debut, Sound of Metal. That critically acclaimed film secured six Academy Award nominations, including Best Picture and Best Original Screenplay for Marder, while winning two Oscars for Best Sound and Best Film Editing.",
+          "Marder is represented by CAA, 42, and Greg Slewett at JSSK, while Brad Pitt is represented by CAA and Brillstein Entertainment Partners."
+        ]
+      },
+      {
+        "h": "Recent Projects for Brad Pitt",
+        "p": [
+          "Brad Pitt enters this new development on the heels of a busy professional period. His recent work includes the Paramount survival thriller Heart of the Beast, which pulled in nearly $200 million at the worldwide box office.",
+          "Additionally, Pitt is preparing for the release of The Further Mis-Adventures of Cliff Booth over the Thanksgiving holiday, and he is lined up to appear in the A24 picture The Riders directed by Edward Berger next year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Brad Pitt and Apple Original Films are partnering on the upcoming 1970s New York feature Connector, directed by Sound of Metal filmmaker Darius Marder. Pitt will star and produce through Plan B, continuing a strong creative relationship with Apple that follows their previous work on the record-breaking feature F1."
+        ]
+      }
+    ],
+    "facts": [
+      "Brad Pitt will star in Connector",
+      "Darius Marder is directing Connector",
+      "Nina Marder co-wrote the script with Darius Marder",
+      "Apple Original Films and Apple Studios are backing the project",
+      "Plan B producers include Brad Pitt, Dede Gardner, and Jeremy Kleiner",
+      "The film is set in 1970s New York",
+      "Sound of Metal earned six Academy Award nominations and won two Oscars",
+      "Heart of the Beast grossed nearly $200 million at the worldwide box office"
+    ],
+    "entities": {
+      "people": [
+        "Brad Pitt",
+        "Darius Marder",
+        "Nina Marder",
+        "Dede Gardner",
+        "Jeremy Kleiner",
+        "Mark Wahlberg",
+        "Stephen Chbosky",
+        "Edward Berger",
+        "Greg Slewett"
+      ],
+      "titles": [
+        "Connector",
+        "F1",
+        "Sound of Metal",
+        "Heart of the Beast",
+        "The Further Mis-Adventures of Cliff Booth",
+        "The Riders",
+        "The Waffle House Index"
+      ]
+    },
+    "keywords": [
+      "Brad Pitt Connector",
+      "Darius Marder Connector film",
+      "Apple Original Films Connector",
+      "Brad Pitt Plan B Apple"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Brad-Pitt-and-Darius-Marder.jpg?w=1024",
+        "caption": "Brad Pitt and Apple Original Films Re-team for Darius Marder Feature Connector",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 17:30:00 +0000"
+  },
+  "9gq6m9": {
+    "id": "9gq6m9",
+    "type": "news",
+    "headline": "Ryan Reynolds and Hugh Jackman Receive Writing Credits for Avengers: Doomsday",
+    "dek": "Recent guild updates clarify the involvement of the Deadpool and Wolverine stars in the upcoming Marvel ensemble film.",
+    "body": [
+      {
+        "h": "The Marvel Cinematic Universe Expansion",
+        "p": [
+          "The cast for Avengers: Doomsday is set to incorporate heroes from across the entire Marvel Cinematic Universe alongside characters originating from other distinct live-action timelines. Among these additions are various members of Fox's original X-Men movie franchise, establishing a massive multiversal crossover event.",
+          "Despite the extensive lineup, initial promotional materials and announcements omitted direct mentions of major figures like Wolverine and Deadpool, leaving fans wondering about their participation in the overarching narrative."
+        ]
+      },
+      {
+        "h": "Writers Guild Directory Revelations",
+        "p": [
+          "An official listing within the Writers Guild of America directory has shed light on how the actors are connected to the production. Rather than a traditional acting placement, the records point toward behind-the-scenes literary involvement.",
+          "Both Ryan Reynolds and Hugh Jackman appear on the documentation alongside several prominent directors and writers associated with the broader franchise, indicating a unique contribution to the film's development."
+        ]
+      },
+      {
+        "h": "Understanding Additional Literary Material",
+        "p": [
+          "The specific category assigned to Reynolds and Jackman indicates that their contributions fell beneath the threshold required to be named among the primary screenwriters of the motion picture.",
+          "This type of credit typically points toward script enhancements, punch-ups, or the drafting of specific sequences rather than penning the overarching narrative structure managed by the core writing team."
+        ]
+      },
+      {
+        "h": "Potential Creative Contributions",
+        "p": [
+          "Given his history as a co-writer on previous installments featuring the mercenary character, Reynolds possesses substantial experience in shaping dialogue and comedic timing for the persona.",
+          "Collaborating with Jackman, such efforts could have involved crafting specific interactions or dialogue exchanges for their respective characters to ensure their distinct voices remained intact within the massive ensemble."
+        ]
+      },
+      {
+        "h": "Prior Teases and Public Appearances",
+        "p": [
+          "Speculation regarding their presence in the film has been fueled by promotional events, including an appearance where Reynolds playfully inquired about joining the cast while dressed in full costume.",
+          "Following the monumental box office success of their previous R-rated outing, audience expectations remain high for the duo to make an eventual appearance within the unfolding multiverse saga."
+        ]
+      },
+      {
+        "h": "Surprise Expectations for Audiences",
+        "p": [
+          "While official confirmation of their onscreen return as the beloved heroes has not been formally announced by the studio, these literary credits serve as strong indicators.",
+          "Marvel enthusiasts may have to wait until the film's premiere to see the full extent of how these contributions translate to the final theatrical cut."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Recent updates from the Writers Guild of America directory reveal that Ryan Reynolds and Hugh Jackman received credits for additional literary material on Avengers: Doomsday. This development strongly hints at their involvement in the upcoming Marvel film, potentially through script punch-ups or writing specific scenes, adding to the anticipation surrounding the multiversal project."
+        ]
+      }
+    ],
+    "facts": [
+      "Ryan Reynolds and Hugh Jackman are listed for additional literary material in Avengers: Doomsday.",
+      "The Writers Guild of America directory contains the listing.",
+      "Other names on the list include Destin Daniel Cretton and Michael Waldron.",
+      "Stephen McFeely and Michael Waldron are co-writers of Avengers: Doomsday."
+    ],
+    "entities": {
+      "people": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "James Marsden",
+        "Channing Tatum",
+        "Destin Daniel Cretton",
+        "Michael Waldron",
+        "Stephen McFeely",
+        "Eric Pearson",
+        "Chris McKenna",
+        "Erik Sommers",
+        "Jeff Loveness",
+        "Andrew Lanham",
+        "Anthony Russo",
+        "Joe Russo",
+        "Robert Downey Jr.",
+        "Pedro Pascal",
+        "Chris Hemsworth",
+        "Vanessa Kirby",
+        "Kevin Feige",
+        "Louis D'Esposito",
+        "Jonathan Schwartz"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Deadpool Wolverine",
+        "Spider-Man: Brand New Day",
+        "Loki",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Deadpool 2",
+        "The Odyssey",
+        "Avengers: Secret Wars",
+        "Fantastic Four",
+        "Black Panther",
+        "Thor",
+        "X-Men"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday Ryan Reynolds",
+      "Hugh Jackman Avengers Doomsday",
+      "Avengers Doomsday writers",
+      "Ryan Reynolds Hugh Jackman WGA"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/ryan-reynolds-and-hugh-jackman-in-deadpool-wolverine.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ryan Reynolds and Hugh Jackman Receive Writing Credits for Avengers: Doomsday",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 17:32:40 GMT"
   }
 };

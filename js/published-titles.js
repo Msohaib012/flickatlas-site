@@ -40426,5 +40426,864 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 0,
     "providers": []
+  },
+  "1757174": {
+    "id": 1757174,
+    "type": "movie",
+    "title": "The Christmas Switch",
+    "poster_path": "/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+    "backdrop_path": "/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+    "vote_average": 7.2,
+    "vote_count": 4,
+    "overview": "Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole new kind of mess.",
+    "industry": "world",
+    "popularity": 1.6379,
+    "original_language": "sv",
+    "origin_country": [
+      "SE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "SE"
+    ],
+    "spoken_languages": [
+      "sv"
+    ],
+    "certification": "12",
+    "release_date": "2026-11-12",
+    "date_kind": "release",
+    "runtime": 103,
+    "providers": []
+  },
+  "249565": {
+    "id": 249565,
+    "type": "tv",
+    "title": "The Good Daughter",
+    "poster_path": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+    "backdrop_path": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+    "vote_average": 10.0,
+    "vote_count": 4,
+    "overview": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she’s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
+    "industry": "world",
+    "popularity": 6.9904,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": {
+      "key": "Kjwbn5AF_3E",
+      "name": "The Good Daughter | Official Trailer | Sky",
+      "site": "YouTube"
+    },
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-12",
+    "networks": [
+      "Peacock"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 6,
+    "channel": "Peacock",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 6,
+        "air_date": "2026-11-12",
+        "name": "Miniseries"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1812462": {
+    "id": 1812462,
+    "type": "movie",
+    "title": "My Ride or Die",
+    "poster_path": "/bpzKjTLQptQJiAqObtKwioZGjgX.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Morgan McGlashon (professional mountain guide) and Caite Zeliff (professional skier) picked obscure paths. Those paths collided and became intertwined. When their careers took off they found themselves spending less time in the mountains together but they always dreamed of one day coming back together on a proper adventure. On a 10-day expedition in Alaska, the two reconnect.",
+    "industry": "world",
+    "popularity": 0.1344,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 18,
+    "providers": []
+  },
+  "1664682": {
+    "id": 1664682,
+    "type": "movie",
+    "title": "The Unthinkable Daughter",
+    "poster_path": "/pO3BpFyC9B2fnfByJulxjs3hM4P.jpg",
+    "backdrop_path": "/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "overview": "Decades of questions and a crime that shook Brazil. Suzane von Richthofen, convicted for the murder of her parents, tells the whole story in her own words.",
+    "industry": "world",
+    "popularity": 6.9149,
+    "original_language": "pt",
+    "origin_country": [
+      "BR"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "BR"
+    ],
+    "spoken_languages": [
+      "pt"
+    ],
+    "certification": "14",
+    "release_date": "2026-11-11",
+    "date_kind": "release",
+    "runtime": 100,
+    "providers": [
+      {
+        "name": "Netflix Standard with Ads",
+        "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+        "region": "US",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "312661": {
+    "id": 312661,
+    "type": "tv",
+    "title": "Miracles of the ER",
+    "poster_path": "/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg",
+    "backdrop_path": "/ginRZDiTKS1VmkLPaSFZlmLcVnm.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
+    "industry": "world",
+    "popularity": 4.0389,
+    "original_language": "zh",
+    "origin_country": [
+      "TW"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "Returning Series",
+    "production_countries": [
+      "TW"
+    ],
+    "spoken_languages": [
+      "zh"
+    ],
+    "certification": "TV-MA",
+    "first_air_date": "2026-11-12",
+    "networks": [
+      "Netflix"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 8,
+    "channel": "Netflix",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 8,
+        "air_date": "2026-11-12",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [],
+    "providers": []
+  },
+  "1812110": {
+    "id": 1812110,
+    "type": "movie",
+    "title": "Migrantes: el viaje que nadie quiso emprender",
+    "poster_path": "/6tbvWF73KgXJdqbkwPk47EBBpqq.jpg",
+    "backdrop_path": "/yRcXbFrOO2ttYZnCrYg9en4itDW.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "world",
+    "popularity": 0.2606,
+    "original_language": "es",
+    "origin_country": [
+      "PE"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "PE"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 0,
+    "providers": []
+  },
+  "1736905": {
+    "id": 1736905,
+    "type": "movie",
+    "title": "We Chose to Go to the Moon",
+    "poster_path": "/rVPPSaNELwDeMfhQzP0A8zeRwBK.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The dramatic tale of America's race to space and the decision to land a man on the Moon in one of the most ambitious scientific and exploration achievements in history.",
+    "industry": "world",
+    "popularity": 4.1278,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "History",
+      "Drama",
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-10",
+    "date_kind": "release",
+    "runtime": 130,
+    "providers": []
+  },
+  "299764": {
+    "id": 299764,
+    "type": "tv",
+    "title": "Happy Anding",
+    "poster_path": "/4fjhWeTNyTz0ElvDpjOthABNp3g.jpg",
+    "backdrop_path": "/uh1RVXu8o2nQ1WP5Gnl5pO8p6nF.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The story of three unknown comedians who are running towards their dreams and a woman whose life has collapsed, getting back up and finding her dream.",
+    "industry": "world",
+    "popularity": 4.236,
+    "original_language": "ko",
+    "origin_country": [
+      "KR"
+    ],
+    "trailer": null,
+    "categories": [
+      "tv"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "tagline": "All we need right now is one unexpected twist.",
+    "status": "Returning Series",
+    "production_countries": [
+      "KR"
+    ],
+    "spoken_languages": [
+      "ko"
+    ],
+    "certification": "",
+    "first_air_date": "2026-11-11",
+    "networks": [
+      "tvN"
+    ],
+    "number_of_seasons": 1,
+    "number_of_episodes": 12,
+    "channel": "tvN",
+    "episode_run_time": [],
+    "seasons": [
+      {
+        "season_number": 1,
+        "episode_count": 12,
+        "air_date": "2026-11-11",
+        "name": "Season 1"
+      }
+    ],
+    "created_by": [
+      "Yang Hui-seung"
+    ],
+    "providers": []
+  },
+  "1811945": {
+    "id": 1811945,
+    "type": "movie",
+    "title": "MiLakóta Yeló",
+    "poster_path": "/e6qVHsc1JwFjM4F5kM8Er4NXzbw.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Milakóta Yeló follows a traditional Lakota grandmother on the Cheyenne River Sioux Reservation. It's a quiet reflection on identity, memory, and the enduring presence of Lakota life and matriarchal power.",
+    "industry": "world",
+    "popularity": 0.0493,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 18,
+    "providers": []
+  },
+  "1666787": {
+    "id": 1666787,
+    "type": "movie",
+    "title": "Avedon",
+    "poster_path": "/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+    "backdrop_path": "/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "Richard Avedon's photographs didn't just reflect culture, they shaped it, and continue to do so. The feature documentary AVEDON traces the life and legacy of an artist who used fashion, portraiture, and commercial photography to explore identity, power, fear and beauty. With unprecedented access to Avedon's archive, including never before seen photos, behind the scenes recordings, and interviews with those who knew him best, AVEDON is a visually stunning examination of the mind of an artist who shaped our collective image of the 20th century.",
+    "industry": "world",
+    "popularity": 6.7577,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "R",
+    "release_date": "2026-11-06",
+    "date_kind": "release",
+    "runtime": 104,
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ]
+  },
+  "1810033": {
+    "id": 1810033,
+    "type": "movie",
+    "title": "The Great Lake Bums",
+    "poster_path": "/rUQDXUQhjh9lcw6UXz5Hp2uY4kS.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Over the holidays, Michael returns to the Midwest to stay with his best friends, all still living in their same old house from college in Milwaukee. During his several weeks stay, nights out are had, attempts are made to rekindle old flames, and it becomes more and more clear that his friends haven't grown up at all, while maybe Michael's grown up a little too much.",
+    "industry": "world",
+    "popularity": 0.5623,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 25000,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tagline": "Building a Coalition",
+    "status": "In Production",
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "certification": "NR",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 103,
+    "providers": []
+  },
+  "1809505": {
+    "id": 1809505,
+    "type": "movie",
+    "title": "Dark Noon",
+    "poster_path": "/c47IqLeltfbQKAAces0eRMmLEi7.jpg",
+    "backdrop_path": "/zjCKxJQLVYVGTvqOuUbyBIByvW2.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Caught in a cycle of petty crime and imprisonment, a man is released from prison for a failed bank robbery attempt while an impending solar eclipse offers a way out of the cycle.",
+    "industry": "world",
+    "popularity": 1.563,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "NR",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 84,
+    "providers": []
+  },
+  "1808463": {
+    "id": 1808463,
+    "type": "movie",
+    "title": "Formline",
+    "poster_path": "/4DL1WSpgkgNcb4bg9Y5XfwgZnqt.jpg",
+    "backdrop_path": "/y1nXtotgURraReiJJ3raYlPs6z5.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Formline is the defining visual language of traditional Northwest Coast First Nations art; continuous, curvilinear shapes that swell, diminish, and never meet at a hard edge. This film traces the unexpected kinship between this ancient art form and the physics of big mountain snowboarding, where reading terrain and carving a line demand the same fluidity, restraint, and trust in the material at hand.",
+    "industry": "world",
+    "popularity": 0.1448,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 12,
+    "providers": []
+  },
+  "1807161": {
+    "id": 1807161,
+    "type": "movie",
+    "title": "Back By Tea Time",
+    "poster_path": "/p6VRtHGGnBElyVWMGiGw91tY0X8.jpg",
+    "backdrop_path": "/iYpNMpnZgyr9n9CuwID7wAajCzz.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In a world where it feels like we have everything we could ever want at our fingertips – Amazon, Spotify, next-day delivery, door-to-door, Uber, Netflix, Deliveroo, quicker than ever before, pure convenience and luxury without a second thought – in that world, perhaps there is something to be said for choosing the long way round. When Alice Lemkes realises she's out of milk, it is an excuse for an adventure in ‘Scotland's Last Great Wilderness.’",
+    "industry": "world",
+    "popularity": 0.1758,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Documentary"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "release",
+    "runtime": 9,
+    "providers": []
+  },
+  "1806640": {
+    "id": 1806640,
+    "type": "movie",
+    "title": "The Ride Home",
+    "poster_path": "/hrsctrF93jqclVB2CF3n6aB4qG1.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "After a fatal car crash, four friends awaken trapped inside their wrecked car in a liminal space between life and death.",
+    "industry": "world",
+    "popularity": 0.2106,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 5,
+    "providers": []
+  },
+  "1806606": {
+    "id": 1806606,
+    "type": "movie",
+    "title": "No Strings Attached",
+    "poster_path": "/enQuQX09tRPQ0zLJ0cGatU0Lbc1.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two puppets meet on a blind date, and it's hate at first sight. But for their dutiful human puppeteers, the sparks fly instantly. What happens when a puppet and puppeteer disagree? A rowdy comedy about love, work, and obligation, in the age of social media.",
+    "industry": "world",
+    "popularity": 0.2326,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 8,
+    "providers": []
+  },
+  "1806595": {
+    "id": 1806595,
+    "type": "movie",
+    "title": "The Squirrel Diaries",
+    "poster_path": "/xJw7bsQTIJFJAxH5sCfgik7xsrR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "“Night of the Living Dead” but with squirrels! Four Gen Z neighbors are thrust into a squirrel apocalypse, so they hunker down in a bunker-like basement doing their best to survive, hoping there is refuge from the rodent rampage. One among them is an amateur survivalist “prepper”; emphasis on amateur.",
+    "industry": "world",
+    "popularity": 0.0909,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 14,
+    "providers": []
+  },
+  "1806583": {
+    "id": 1806583,
+    "type": "movie",
+    "title": "Love in a Hopeless Place",
+    "poster_path": "/wFCmXVrRT86TVb6FqVTD3OJpHMJ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Modern dating sucks. Deidre is looking for love but she also has the luxury of feeding off them when they don't work out.",
+    "industry": "world",
+    "popularity": 0.8541,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Romance"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 7,
+    "providers": []
+  },
+  "1806580": {
+    "id": 1806580,
+    "type": "movie",
+    "title": "Angler",
+    "poster_path": "/35dwym1VVYmnj4YRql0I5rlzePG.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A reserved man discovers an alleyway garage concealing the ultimate mancave, and a charismatic host who won't take no for an answer.",
+    "industry": "world",
+    "popularity": 0.1007,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Comedy"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 8,
+    "providers": []
+  },
+  "1806543": {
+    "id": 1806543,
+    "type": "movie",
+    "title": "Date Night",
+    "poster_path": "/gW3hUgNukzokVbi6cDQGmQDyXyD.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "As Moira prepares for her anniversary dinner, her fond memories of true love put the romance back in necromancy.",
+    "industry": "world",
+    "popularity": 0.8813,
+    "original_language": "en",
+    "origin_country": [
+      "CA"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-12",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Horror"
+    ],
+    "tagline": "",
+    "status": "In Production",
+    "production_countries": [
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "certification": "",
+    "release_date": "2026-11-19",
+    "date_kind": "festival",
+    "runtime": 5,
+    "providers": []
   }
 };

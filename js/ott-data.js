@@ -221,6 +221,18 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "date": "2026-11-11",
+      "date_kind": "release",
+      "id": 1664682,
+      "providers": [
+        {
+          "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+          "name": "Netflix Standard with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
       "country": "IN",
       "date": "2026-11-11",
       "date_kind": "digital",
@@ -560,6 +572,18 @@ window.FA_OTT = {
       "date": "2026-11-06",
       "date_kind": "digital",
       "id": 1483525,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-06",
+      "date_kind": "release",
+      "id": 1666787,
       "providers": [
         {
           "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
