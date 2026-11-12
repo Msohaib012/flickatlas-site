@@ -126422,5 +126422,385 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 13:08:13 +0000"
+  },
+  "171jwe": {
+    "id": "171jwe",
+    "type": "news",
+    "headline": "Past Red Carpet Comments About James Gunn Resurface Following His Exit from DC Studios",
+    "dek": "Recent remarks made by cast members praising the leadership of James Gunn have taken on a different meaning after news broke of his departure from DC Studios.",
+    "body": [
+      {
+        "h": "The Surprising Departure",
+        "p": [
+          "The entertainment industry was recently shaken by the unexpected announcement that James Gunn is stepping down as co-CEO of DC Studios. This major leadership change comes just four years after he initially took the reins to build a cohesive shared cinematic universe for the studio.",
+          "With his exit, the future direction of the shared universe has been thrown into uncertainty, leaving followers and industry analysts questioning the fate of previously announced slates and interconnected projects."
+        ]
+      },
+      {
+        "h": "Awkward Resurfaced Remarks",
+        "p": [
+          "In the wake of the leadership shuffle, several past promotional interviews and red carpet soundbites given by actors have quickly resurfaced online. Observers have noted that many of these enthusiastic statements about the studio's direction feel quite different now.",
+          "Actors who previously expressed high praise for the creative vision under the outgoing administration are suddenly finding their recent comments under a much different lens following the sudden corporate shift."
+        ]
+      },
+      {
+        "h": "Tom Rhys Harries and Clayface",
+        "p": [
+          "Among the prominent examples is an interview featuring actor Tom Rhys Harries, who stars in the recent theatrical release Clayface. Speaking previously with Parade, the performer shared his excitement about joining the franchise.",
+          "Harries had noted that he was a fan prior to his involvement and expressed pride in being part of the expanding universe being shaped by the leadership team. Now, those glowing words highlight the unexpected nature of the recent regime change."
+        ]
+      },
+      {
+        "h": "Uncertain Future for the Cast",
+        "p": [
+          "The sudden shift leaves performers like Harries in a state of professional limbo regarding their characters' futures. It remains entirely unclear if he will get the opportunity to reprise his role or potentially face off against Batman in future installments.",
+          "Other members of the ensemble casts, such as Skyler Gisondo, have also started breaking their silence regarding the transition, acknowledging that nobody involved knows for sure what direction the studio will take next."
+        ]
+      },
+      {
+        "h": "Leadership Succession",
+        "p": [
+          "Following the departure of James Gunn and Peter Safran, who had initially mapped out an extensive roster of upcoming features and television projects, new leadership is stepping in. Jeremy Latcham is now tasked with steering the shared cinematic universe forward.",
+          "It remains to be seen how the incoming leadership will handle the existing framework left behind by the previous team and whether they will choose to honor or completely alter the previously announced slate of productions."
+        ]
+      },
+      {
+        "h": "Box Office Pressures",
+        "p": [
+          "Industry observers point out that the leadership change followed a challenging theatrical period for the brand. Recent box office struggles, including the performance of Supergirl and the reception of Clayface, reportedly influenced the decision to seek new guidance.",
+          "These commercial hurdles played a significant role in prompting the studio to pivot and bring in fresh leadership to reevaluate the strategy for the superhero franchise moving forward."
+        ]
+      },
+      {
+        "h": "Upcoming Releases on the Horizon",
+        "p": [
+          "Despite the executive shakeup, the rollout of completed projects must still move forward. The next major film slated to hit theaters is Man of Tomorrow, scheduled for release on July 9, 2027.",
+          "Because that particular feature was already shot and directed by Gunn himself, upcoming promotional tours and press events are expected to generate considerable media attention and awkward questions from reporters."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "James Gunn has stepped down as co-CEO of DC Studios just four years after starting his tenure, leading to uncertainty for the shared universe and leaving past red carpet comments from actors like Tom Rhys Harries looking remarkably out of place. With Jeremy Latcham taking over leadership following recent box office setbacks, the future of upcoming projects such as Man of Tomorrow remains in question."
+        ]
+      }
+    ],
+    "facts": [
+      "James Gunn stepped down as co-CEO of DC Studios four years after starting the shared universe.",
+      "Tom Rhys Harries is a 36-year-old actor who stars in Clayface.",
+      "Jeremy Latcham is taking over as replacement leadership for the shared universe.",
+      "Man of Tomorrow is scheduled to hit theaters on July 9, 2027."
+    ],
+    "entities": {
+      "people": [
+        "James Gunn",
+        "Tom Rhys Harries",
+        "Peter Safran",
+        "Jeremy Latcham",
+        "Skyler Gisondo",
+        "Zack Snyder"
+      ],
+      "titles": [
+        "Clayface",
+        "Man of Tomorrow",
+        "Supergirl",
+        "Superman",
+        "Lanterns",
+        "Paper Tiger"
+      ]
+    },
+    "keywords": [
+      "James Gunn DC Studios",
+      "Tom Rhys Harries Clayface",
+      "Man of Tomorrow release date",
+      "Jeremy Latcham DC"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/cia67SoXGhgss2Wd3teKVB-1280-80.jpg",
+        "caption": "Past Red Carpet Comments About James Gunn Resurface Following His Exit from DC Studios",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:26:44 +0000"
+  },
+  "1x45e1n": {
+    "id": "1x45e1n",
+    "type": "news",
+    "headline": "Rohit Chandel Opens Up About His Bollywood Debut In The Thriller Blind Game",
+    "dek": "Television star Rohit Chandel discusses his transition to the big screen, working alongside Arjun Rampal and Priyamani, and why he chose a suspense thriller for his feature film debut.",
+    "body": [
+      {
+        "h": "Stepping Into The Film Industry",
+        "p": [
+          "Actor Rohit Chandel has officially made his entry into Bollywood with the release of the new feature film Blind Game. Having previously built a strong career across television and digital platforms, this project marks his official feature film debut.",
+          "The project has been made available for audiences to stream for free on the digital platform ZEE5, allowing a wide range of viewers to tune in and watch the actor's first major cinematic venture."
+        ]
+      },
+      {
+        "h": "Why He Chose A Thriller",
+        "p": [
+          "For Chandel, taking on this particular project was driven by a genuine love for the genre. He revealed that he was immediately captivated by the narrative when he first encountered the script.",
+          "Suspense and thriller stories have always been a personal favorite for the actor both as a viewer and a performer. Getting the chance to star in a project within this exact space made the experience thoroughly enjoyable for him."
+        ]
+      },
+      {
+        "h": "Shedding The Romantic Hero Image",
+        "p": [
+          "Television viewers are largely accustomed to seeing Chandel portray heroic and romantic figures in popular daily shows such as Pandya Store and Sairaab. This new release, however, offers something completely different.",
+          "In this film, he portrays an ordinary college-going young man who gets caught up in a dangerous trap alongside a group of other Gen Z youngsters, leading to a series of escalating conflicts and action-heavy sequences."
+        ]
+      },
+      {
+        "h": "Working With An Established Cast",
+        "p": [
+          "The film features a prominent cast that includes experienced performers like Arjun Rampal and Priyamani. Sharing screen space with such established names was a major highlight of the entire production process for the newcomer.",
+          "Despite working alongside seasoned stars, Chandel noted that the core craft of acting remains consistent across different mediums, even if the surrounding environments and operational styles vary."
+        ]
+      },
+      {
+        "h": "Comparing Television And Film Sets",
+        "p": [
+          "Reflecting on his journey, Chandel pointed out the key structural differences between shooting for daily television and working on film sets. Television schedules demand high-volume output within a single day.",
+          "On the other hand, feature films and OTT productions typically provide performers with much more preparation time. Actors usually receive scripts well in advance, often a month prior to filming."
+        ]
+      },
+      {
+        "h": "The Advantage Of Television Experience",
+        "p": [
+          "Chandel credits his rigorous background in television for helping him easily adapt to the demands of a big film set. Learning to perform consistently under high-pressure environments proved to be a major asset.",
+          "Because he was already accustomed to rapid daily schedules and heavy workloads, transitioning to the workflow of a feature film felt much more manageable and worked to his distinct advantage."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Rohit Chandel has transitioned from television to Bollywood with his debut in the suspense thriller Blind Game, which is streaming for free on ZEE5. He stars alongside Arjun Rampal and Priyamani, shifting away from his usual romantic television persona to play a college student trapped in a dangerous situation."
+        ]
+      }
+    ],
+    "facts": [
+      "Rohit Chandel made his Bollywood debut in Blind Game.",
+      "Blind Game is streaming for free on ZEE5.",
+      "The film co-stars Arjun Rampal and Priyamani.",
+      "Rohit Chandel previously starred in television shows Pandya Store and Sairaab."
+    ],
+    "entities": {
+      "people": [
+        "Rohit Chandel",
+        "Arjun Rampal",
+        "Priyamani",
+        "Aakash Kumar"
+      ],
+      "titles": [
+        "Blind Game",
+        "Pandya Store",
+        "Sairaab"
+      ]
+    },
+    "keywords": [
+      "Rohit Chandel Blind Game",
+      "Blind Game ZEE5 streaming",
+      "Rohit Chandel film debut",
+      "Arjun Rampal Priyamani Blind Game"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/rohitchandelblindgameexcld2-88521794492094.jpg",
+        "caption": "Rohit Chandel Opens Up About His Bollywood Debut In The Thriller Blind Game",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 19:36:16 +0530"
+  },
+  "19ty39t": {
+    "id": "19ty39t",
+    "type": "news",
+    "headline": "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
+    "dek": "The acclaimed actor opens up about his upcoming collaboration with his long-time idol, highlighting unexpected improvisational moments on set.",
+    "body": [
+      {
+        "h": "A Lifelong Dream Realized",
+        "p": [
+          "Robert Pattinson is experiencing a significant career milestone by starring alongside Denzel Washington in an upcoming project. Having looked up to Washington as a primary inspiration for pursuing an acting career, Pattinson described the opportunity as a true pinch-me scenario.",
+          "The collaboration brings together two major cinematic forces for a project that blends heist thrills with psychological drama. For Pattinson, stepping onto the set alongside one of his ultimate acting heroes made signing on for the film an effortless decision."
+        ]
+      },
+      {
+        "h": "Unexpected On-Set Improvisation",
+        "p": [
+          "While working closely with Washington, Pattinson was most struck by how vibrant and unpredictable the veteran actor remains on set. Even after decades in the industry, Washington approaches every single take searching for fresh nuances.",
+          "Pattinson noted that Washington's penchant for improvisation kept everyone on their toes. Navigating a lengthy scene could quickly veer off script in thrilling ways, requiring the rest of the cast to adapt instantly to completely unscripted directions."
+        ]
+      },
+      {
+        "h": "Director Insights and Scene-Stealing Dynamics",
+        "p": [
+          "Director Fernando Meirelles echoed these sentiments, praising Washington's effortless ability to generate spontaneous moments during production. When asked where certain lines originated, Washington often admits he has no recollection, leaving unscripted gems right in the final cut.",
+          "Despite Washington commanding attention with his unpredictable style, Meirelles also reserved high praise for Pattinson. The director lauded him as one of the finest talents working in the industry today, noting how well he handles the shifting narrative perspective."
+        ]
+      },
+      {
+        "h": "Inside the Plot of The Take",
+        "p": [
+          "The narrative follows Pattinson's character, Noah, who gets pulled into a high-stakes bank robbery orchestrated by a charismatic thief played by Washington. Complicating matters further, Noah's girlfriend works as a teller at the very same Manhattan bank targeted in the heist.",
+          "The official synopsis promises a tense game of cons and double crosses involving a bank guard, a teller, and a master thief. Meirelles hints that the psychological tension will remain palpable right up to the final ten seconds of the film."
+        ]
+      },
+      {
+        "h": "A Busy Schedule and Past Connections",
+        "p": [
+          "Pattinson continues maintaining an exceptionally packed professional calendar. Alongside his role in this new heist thriller, the actor has kept busy with multiple film releases and future appearances, including Dune: Part 3.",
+          "This project also marks another degree of separation in Christopher Nolan-adjacent casting circles, following Pattinson's previous work alongside Denzel's son, John David Washington, in Tenet."
+        ]
+      },
+      {
+        "h": "Release Details and Platform",
+        "p": [
+          "Fans eager to witness the dynamic between the two actors will be able to stream the movie upon its release. The film is scheduled to arrive on January 15, 2027.",
+          "Audiences can view the project through a Netflix subscription, where viewers can look out for the numerous improvised exchanges embedded throughout the feature."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Robert Pattinson opens up about starring alongside his acting idol Denzel Washington in the upcoming film The Take. The project features intense improvisational moments and high-stakes bank heist drama directed by Fernando Meirelles."
+        ]
+      }
+    ],
+    "facts": [
+      "Denzel Washington and Robert Pattinson are starring together in a new movie titled The Take.",
+      "The movie is scheduled to be released on January 15, 2027.",
+      "The film will be available on Netflix.",
+      "Fernando Meirelles is the director of the movie.",
+      "Daisy Edgar-Jones plays the girlfriend and teller in the film.",
+      "Robert Pattinson previously worked with Denzel Washington's son, John David Washington, in Tenet.",
+      "Dune: Part 3 is set for release on December 18, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Denzel Washington",
+        "Robert Pattinson",
+        "Fernando Meirelles",
+        "Daisy Edgar-Jones",
+        "John David Washington",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "The Take",
+        "Dune",
+        "Tenet",
+        "Primetime",
+        "The Equalizer"
+      ]
+    },
+    "keywords": [
+      "Robert Pattinson The Take",
+      "Denzel Washington Robert Pattinson movie",
+      "The Take movie release date",
+      "Fernando Meirelles The Take"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/TU2DWiwasTccBZLdgyTbp7-2000-80.jpg",
+        "caption": "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
+        "source": "CinemaBlend"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:12:27 +0000"
+  },
+  "6vyq8": {
+    "id": "6vyq8",
+    "type": "news",
+    "headline": "Ebenezer Box Office Target: Johnny Depp's Comeback Film Needs This Much To Break Even",
+    "dek": "Paramount Pictures keeps the budget modest for Ebenezer, setting up Johnny Depp's mainstream return with a realistic worldwide box-office goal.",
+    "body": [
+      {
+        "h": "The Return of a Hollywood Star",
+        "p": [
+          "Johnny Depp is making his official return to mainstream Hollywood with the upcoming theatrical release of Ebenezer. Following a highly publicized court case that resulted in the loss of multiple prominent roles and advertising contracts, his career experienced a temporary downturn. Now, audiences worldwide eagerly anticipate seeing his iconic screen presence once again.",
+          "The industry is watching the commercial journey of this project very closely. Paramount Pictures handled the financial planning with notable caution, realizing that the star's recent career turbulence meant they could no longer rely on uncalculated spending."
+        ]
+      },
+      {
+        "h": "Production Budget and Financial Strategy",
+        "p": [
+          "Reports indicate that the film was produced on a relatively modest budget of $38 million, which does not include the additional marketing expenses. To further control the financial risk, the lead actor agreed to take a significant pay reduction, accepting a base salary of just $5 million.",
+          "Because studio executives kept spending tightly managed, the financial targets required for profitability remain completely realistic compared to mega-budget blockbusters."
+        ]
+      },
+      {
+        "h": "Calculating the Break-Even Milestone",
+        "p": [
+          "Standard industry formulas dictate that a motion picture generally needs to gross approximately 2.5 times its base production budget at the worldwide box office to successfully break even and cover exhibition splits.",
+          "Applying this standard multiplier to the $38 million production cost brings the required global collection target to roughly $95 million. Staying comfortably below the significant $100 million threshold provides a much more attainable goal for the studio."
+        ]
+      },
+      {
+        "h": "Opening Weekend Projections",
+        "p": [
+          "Current market tracking estimates that the feature will pull in a solid $20 million domestically during its initial weekend in theaters. Additionally, analysts project another $20 million originating from 63 international territories.",
+          "These combined figures suggest an estimated global debut of around $40 million. If these opening estimates hold true, the picture will successfully recover its entire reported production budget within its first three days in cinemas."
+        ]
+      },
+      {
+        "h": "Plot and Creative Team",
+        "p": [
+          "Directed by Ti West, the movie draws its narrative inspiration from Charles Dickens' classic holiday novella, A Christmas Carol. The story transports audiences into a supernatural journey through the atmospheric streets of Dickensian London.",
+          "The protagonist must face ghosts representing his past, present, and future in a thrilling narrative structured around redemption. Alongside the lead star, the film features a distinguished ensemble cast including Ian McKellen and Rupert Grint."
+        ]
+      },
+      {
+        "h": "Path to Profitability and Legacy",
+        "p": [
+          "Given the modest financial thresholds required to turn a profit, the production stands a strong chance of clearing its break-even goals easily. A successful financial performance would cement the project as a profitable venture.",
+          "More importantly, solid box-office returns would successfully re-establish the leading actor among the most versatile and commercially viable performers in modern Hollywood cinema."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Johnny Depp is returning to mainstream Hollywood in Ebenezer, a film directed by Ti West and based on Charles Dickens' A Christmas Carol. With a modest production budget of $38 million and an estimated global break-office break-even target of $95 million, the movie is projected to nearly recover its entire budget during its opening weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Johnny Depp's base salary for Ebenezer is $5 million.",
+      "Ebenezer was made on a budget of $38 million.",
+      "The break-even target for the film is around $95 million.",
+      "The projected domestic opening weekend is $20 million.",
+      "The projected international opening weekend is $20 million across 63 markets.",
+      "The estimated global debut is around $40 million.",
+      "The film is directed by Ti West.",
+      "The cast includes Ian McKellen and Rupert Grint.",
+      "The film is scheduled for release on November 13."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Ti West",
+        "Ian McKellen",
+        "Rupert Grint",
+        "Charles Dickens"
+      ],
+      "titles": [
+        "Ebenezer",
+        "A Christmas Carol"
+      ]
+    },
+    "keywords": [
+      "Ebenezer film",
+      "Johnny Depp Ebenezer",
+      "Ti West Ebenezer budget",
+      "Ebenezer box office break even"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ebenezer-box-office-01.jpg",
+        "caption": "Ebenezer Box Office Target: Johnny Depp's Comeback Film Needs This Much To Break Even",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:28:35 +0000"
   }
 };

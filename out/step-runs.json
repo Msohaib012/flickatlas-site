@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T16:24:35Z",
-    "run_id": "43057939324",
-    "status": "success",
-    "checked": {
-     "candidates": 381,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Kiara says Sidharth was unbothered about her intimiate scenes with Yash in Toxic",
-      "Priya Bhavani Shankar shares first wedding pictures with husband Rajvel Raj",
-      "‘Bhogi’: Sharwanand’s period action drama postponed",
-      "‘Inji Vellam’: Mani Ratnam’s film starring Vijay Sethupathi, Sai Pallavi locks release date",
-      "Kareena Kapoor served legal notice over Bhopal royal pendant with Quranic verse",
-      "Dax Shepard Just Went Off About ALL The Marriage Rumors With Kristin Bell: ‘It’s Very Offensive’",
-      "Patrick Stewart’s Favorite Star Trek Episode Is Popular With Fans, But He Loved It For A Different Reason",
-      "A Major Avengers Return Was Just Set Up In VisionQuest, But I Have Another Doomsday Question",
-      "45 Years Later, ‘Clash of the Titans’ Officially Returns With a Stunning 4K Restoration",
-      "Apple TV’s ‘Fast and Furious’ Replacement Officially Revs Past a Major Milestone",
-      "Quentin Tarantino’s 153-Minute War Movie He Almost Abandoned Is Now Streaming for Free",
-      "‘Doctor Who’s ‘Sherlock’ Replacement Officially Returns for New Release",
-      "Tyler Perry’s New Christmas Movie Streams on Netflix Today",
-      "Watch Robert Downey Jr. & Penélope Cruz’s R-Rated Thiller Before It Leaves Streaming",
-      "First Trailer for 'Permafrost' Action Comedy About the Nobel Banquet",
-      "Steven Spielberg Told a Bigger Western Story Than Peak ‘Yellowstone’ in Just 6 Episodes",
-      "Razer’s Next HoYoverse Collab Is On The Way",
-      "8 Masterpiece Sci-Fi Miniseries That You Can Finish In One Day",
-      "Disney Series VisionQuest Sets Marvel's All-Time IMDb Record With Finale As Avengers: Doomsday Release Nears",
-      "NBC Goes All In On Its Blue Bloods For Adults Replacement"
-     ],
-     "updated": [],
-     "count": 349,
-     "detail": "381 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T17:06:47Z",
     "run_id": "43064779339",
     "status": "success",
@@ -936,31 +897,48 @@
      "detail": "319 stories, 0 duplicates removed, 20 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T16:26:10Z",
-    "run_id": "43057939324",
+    "run_at": "2026-11-12T14:51:45Z",
+    "run_id": "43241385258",
     "status": "success",
     "checked": {
-     "candidates": 13,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 382,
+     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
     },
     "changed": {
      "added": [
-      "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
-      "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
-      "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'"
+      "EXCLUSIVE! Is Akshay Oberoi Underrated In Bollywood? Actor Opens Up About Talent And Success: I'm Okay With...",
+      "Blind Game EXCLUSIVE! Why Rohit Chandel Picked A Thriller For Film Debut? He Says 'Was Genuinely Impressed...'",
+      "Ebenezer Box Office: How Much Does Johnny Depp’s Mainstream Comeback Need To Earn To Break Even?",
+      "Spider-Man: Brand New Day vs Avengers: Endgame At The Box Office: Which Marvel Blockbuster Delivered Higher Worldwide Profits?",
+      "Salman extends support to Shraddha's 'Eetha' despite clash with his own film 'Maatrubhumi'",
+      "Daayra OTT release: Kareena Kapoor and Prithviraj Sukumaaran film to arrive on Netflix in Hindi and Malayalam",
+      "Ravie Dubey has a ‘thousand reasons to be happy’ as Ramayana crosses  ₹1000 crore worldwide, shares BTS photos from shoot",
+      "Welp, These Red Carpet Comments About James Gunn Didn't Age Well",
+      "Denzel Washington And Robert Pattinson Are Doing A New Movie Together. One Thing Surprised The Dune Star",
+      "5 Years Later, the Final ‘Outlander’ Book Officially Still Has No Release Date",
+      "Taylor Sheridan’s ‘Yellowstone’ Spin-Off Officially Returns After Surprise Break",
+      "'The Acolyte' Star's Upcoming Fantasy Adaptation Officially Gets Stunning New Trailer",
+      "‘Tracker’ Officially Returns to CBS This Sunday After Surprise Break",
+      "Tom Hanks’ ‘You’ve Got Mail’ Officially Getting a Reboot",
+      "James Gray Talks Paper Tiger’s Personal Story, Miles Teller’s Versatility | Interview",
+      "ABC Affiliate News Veteran Announces Retirement After Nearly 40 Years",
+      "Watch the Will Smith Produced Jackie Chan Blockbuster Before It Leaves Streaming",
+      "Epic Trailer #2 for 'Children of Blood and Bone' Fantasy Action Movie",
+      "Full Trailer for Michael B. Jordan's 'Thomas Crown Affair' with Arjona",
+      "Scarlett Johansson’s New Cyberpunk Sci-Fi Epic Releases Trailer Ahead of Next Month’s Netflix Debut"
      ],
      "updated": [],
-     "count": 6,
-     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+     "count": 359,
+     "detail": "365 stories, 0 duplicates removed, 17 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1449,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T14:53:27Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Past Red Carpet Comments About James Gunn Resurface Following His Exit from DC Studios",
+      "Rohit Chandel Opens Up About His Bollywood Debut In The Thriller Blind Game",
+      "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
+      "Ebenezer Box Office Target: Johnny Depp's Comeback Film Needs This Much To Break Even"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T17:21:43Z",
-    "run_id": "43064779339",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,26 +1888,27 @@
      "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T16:26:12Z",
-    "run_id": "43057939324",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T14:53:27Z",
+    "run_id": "43241385258",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 312,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2412,27 +2396,30 @@
      "count": 3
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T15:01:47Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "17dums3",
+      "1d1jo4e",
+      "atpdk1"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:26:10Z",
-    "run_id": "43057939324",
-    "status": "success",
-    "checked": {
-     "candidates": 648,
-     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 635 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2846,19 +2833,27 @@
      "detail": "+0 new rows, 3 updated rows, 644 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T15:01:44Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 644 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3095,31 +3090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:26:12Z",
-    "run_id": "43057939324",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
-      "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'",
-      "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai"
-     ],
-     "updated": [],
-     "count": 3,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3634,19 +3617,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T15:01:46Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Past Red Carpet Comments About James Gunn Resurface Following His Exit from DC Studios",
+      "Rohit Chandel Opens Up About His Bollywood Debut In The Thriller Blind Game",
+      "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
+      "Ebenezer Box Office Target: Johnny Depp's Comeback Film Needs This Much To Break Even"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3903,19 +3899,19 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4234,30 +4230,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:26:09Z",
-    "run_id": "43057939324",
-    "status": "success",
-    "checked": {
-     "candidates": 9,
-     "detail": "news queue items drafted this run; 349 still unprocessed; today by category: movies 8/6, tv_dramas 11/4, episodes 1/2, box_office 13/6, celebrities_events 16/5, upcoming_releases 8/4, ott_streaming 10/4, trailers 5/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Nicolas Cage And Bill Skarsgård Return In The Trailer For ‘Lords Of War’",
-      "Priya Bhavani Shankar Marries Longtime Partner Rajvel Raj in Chennai",
-      "Exclusive Trailer Released for Animated Oscar Contender 'Iron Boy'"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4745,19 +4730,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T14:53:27Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 359 still unprocessed; today by category: movies 12/6, tv_dramas 9/4, episodes 0/2, box_office 13/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 8/4, trailers 3/3, awards 3/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Past Red Carpet Comments About James Gunn Resurface Following His Exit from DC Studios",
+      "Rohit Chandel Opens Up About His Bollywood Debut In The Thriller Blind Game",
+      "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
+      "Ebenezer Box Office Target: Johnny Depp's Comeback Film Needs This Much To Break Even"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5064,24 +5061,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T14:54:50Z",
+    "run_id": "43241385258",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 277,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5411,19 +5410,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 380,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5768,19 +5772,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6030,19 +6039,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6277,19 +6286,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6574,19 +6583,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6827,19 +6836,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7069,19 +7078,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7334,30 +7343,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-10T17:53:40Z",
-    "run_id": "42869047340",
-    "status": "success",
-    "checked": {
-     "candidates": 527,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 514"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7844,19 +7842,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-12T14:53:48Z",
+    "run_id": "43241385258",
+    "status": "success",
+    "checked": {
+     "candidates": 539,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 526"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8096,19 +8105,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T16:26:19Z",
-    "run_id": "43057939324",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8358,8 +8367,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T15:01:57Z",
+    "run_id": "43241385258",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T13:57:55Z"
+ "updated_at": "2026-11-12T15:01:57Z"
 }
