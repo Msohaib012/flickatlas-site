@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T15:32:22Z",
-    "run_id": "43049280852",
-    "status": "success",
-    "checked": {
-     "candidates": 310,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "KWK S9: Sidharth Recalls His First Reaction To Kiara's Second Pregnancy: This Time Even We Were Surprised",
-      "Sidharth Malhotra-Aditya Dhar To Team Up? Karan Johar Reveals About Their Film That Was Meant to Happen",
-      "‘Siddhu10’: Siddhu Jonnalagadda teams up with debutant director for new love story",
-      "Roshan Meka to star in Pan-India superhero film with Indraganti Mohanakrishna",
-      "Arshdeep Singh announces engagement to Samreen Kaur with heartfelt note",
-      "When Goddess Sita became Mahakali to save Lord Rama: The story of Sahasra Ravana",
-      "Florence Pugh Wore One More Perfect East Of Eden Dress For A Cover, And It’s Not To Be Missed",
-      "As A DWTS Newbie, I Didn't Realize How Important Fan Votes Were Until That Shocking Exit",
-      "Now That James Gunn's DC Universe Might Be Cooked, I Have A Suggestion",
-      "The Only Two Places Survivor Is Not Allowed To Film Castaways On The Island",
-      "Fans Are Naming Great TV Shows With One Bad Character, & Buffy Isn’t The Only Classic Coming Up",
-      "Sylvester Stallone Officially Ends His 20-Year Rivalry With Arnold Schwarzenegger",
-      "‘Boston Blue’ Officially Brings In a ‘CSI’ Legend This Friday",
-      "Harry Potter Officially Abandons ‘Sorcerer’s Stone’ After 28 Years",
-      "‘Lioness’ Is No Longer TV’s Greatest Spy Thriller Thanks to Netflix’s 93% RT Hit",
-      "Nathan Fillion Replaces 'The Rookie' With New Crime Thriller Based on His Own Book",
-      "Netflix Finds New 6-Part Crime Thriller Hit — And It's Officially Taking Over on Streaming",
-      "44 Years Later, Spock's Best 'Star Trek' Line Is Still the Greatest Quote in Sci-Fi History",
-      "10 Strongest Aurors In Harry Potter, Ranked By Magical Power",
-      "Hogwarts Legacy Replacement With 9/10 Reviews Officially Launches November 16"
-     ],
-     "updated": [],
-     "count": 301,
-     "detail": "310 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T16:08:49Z",
     "run_id": "43055176560",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "311 stories, 0 duplicates removed, 77 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T15:39:32Z",
-    "run_id": "43049280852",
+    "run_at": "2026-11-12T12:51:31Z",
+    "run_id": "43221614996",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 426,
+     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
     },
     "changed": {
      "added": [
-      "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
-      "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
-      "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
-      "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project"
+      "Ranabaali OTT Release Date And Platform: When And Where To Watch Vijay Deverakonda & Rashmika Mandanna's Film",
+      "Ramayana Day 8 Collection Early Update: Ranbir's Film Enters 2nd Week On Solid Note; Beats Brahmastra Lifetime",
+      "GOAT Hit Or Flop? Early Audience Verdict On Sudheer Anand And Divya Bharathi's Film",
+      "Baazigar Turns 33: How Kajol Began An Iconic On-Screen Partnership With Shah Rukh Khan",
+      "Scene Day 7 Collection Early Updates: Suriya's Film Slows Down; Did It Beat Karuppu's First Week Figures?",
+      "Box Office: Sai Pallavi Beats Mamitha Baiju To Become Highest-Grossing South Actress Of 2026",
+      "Box Office: Nitesh Tiwari Surpasses Pushpa 2 Helmer Sukumar In Koimoi Director Ranking After Ramayana’s 7-Day Run!",
+      "Aadarsha Kutumbam House No. 47 Box Office: Set To Wrap Up As Venkatesh Daggubati’s 2nd Lowest Grosser Post-COVID",
+      "Ranabaali Box Office (Closing Collection): Vijay Deverakonda’s Film Recovers Less Than 50% Of Its Budget",
+      "VisionQuest Finale: 3 Things I Wish Marvel Had Explained Before Ending The Series",
+      "SRK jokes he is NOT ALLOWED to say anything about Gauri's choices at Mannat: 'Kuch nahi bol sakte'",
+      "In 2005, Leonardo DiCaprio spent $1.75m to turn a Caribbean island into an eco resort",
+      "Who is Samreen Kaur? Meet the actor-model Arshdeep Singh got engaged to",
+      "'The Rings of Power' Season 3: Ismael Cruz Córdova opens up about Arondir's final choice",
+      "Addinath Kothare recalls being Ranbir Kapoor’s schoolmate before ‘Ramayana’",
+      "Lara Dutta DEFENDS Sai Pallavi's warrior Sita in Ramayana: 'You're not going to be helpless woman'",
+      "Ariana Grande and Ricky Alvarez make their red carpet debut at the ‘Focker-in-Law’ premiere",
+      "Ranbir Kapoor, Yash and Sai Pallavi’s ‘Ramayana: Part 2’ is 60 per cent shot",
+      "Michael Jackson’s ‘Thriller’ jacket goes up for auction for $10 million",
+      "Choreographer Shekhar Master escapes unhurt in road accident while returning from Kaaka shoot in Hyderabad"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 389,
+     "detail": "406 stories, 1 duplicates removed, 20 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,45 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T12:53:12Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali OTT Release Date Set for November 13 on Netflix in Five Languages",
+      "Ramayana Part 1 Enters Second Week With Massive Day 8 Numbers",
+      "G.O.A.T Theatrical Release Brings Sudheer Anand and Divya Bharathi to Screens",
+      "Baazigar Turns 33: Marking Three Decades of Kajol and Shah Rukh Khan"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T15:39:32Z",
-    "run_id": "43049280852",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T16:12:34Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,26 +1869,45 @@
      "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T15:44:34Z",
-    "run_id": "43049280852",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T12:53:16Z",
+    "run_id": "43221614996",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 312,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
    },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T12:53:16Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": {
+     "candidates": 312,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 299, coming 13"
+    },
+    "reason": "no-new-data"
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2413,27 +2396,30 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T12:57:34Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "17dums3",
+      "1d1jo4e",
+      "atpdk1"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T15:44:32Z",
-    "run_id": "43049280852",
-    "status": "success",
-    "checked": {
-     "candidates": 648,
-     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 634 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2847,19 +2833,27 @@
      "detail": "+0 new rows, 3 updated rows, 643 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T12:57:20Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 12,
+     "detail": "+1 new rows, 11 updated rows, 635 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3096,36 +3090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:44:33Z",
-    "run_id": "43049280852",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
-      "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
-      "Khushi Episode 60 — Watch Online on HUM TV",
-      "Izzat Episode 53 — Watch Online on ARY Digital",
-      "Uswah Episode 49 — Watch Online on Geo TV",
-      "Dastoor Episode 82 — Watch Online on Green TV",
-      "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
-      "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project"
-     ],
-     "updated": [],
-     "count": 8,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3640,35 +3617,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   }
-  ],
-  "episode_guides": [
+   },
    {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T15:37:19Z",
-    "run_id": "43049280852",
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T12:57:33Z",
+    "run_id": "43221614996",
     "status": "success",
     "checked": {
-     "candidates": 19,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 11 new detected; 1 summary failure(s): Khushi Ep 60"
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
     },
     "changed": {
      "added": [
-      "Khushi Ep 60",
-      "Izzat Ep 53",
-      "Uswah Ep 49",
-      "Dastoor Ep 82"
+      "Ranabaali OTT Release Date Set for November 13 on Netflix in Five Languages",
+      "Ramayana Part 1 Enters Second Week With Massive Day 8 Numbers",
+      "G.O.A.T Theatrical Release Brings Sudheer Anand and Divya Bharathi to Screens",
+      "Baazigar Turns 33: Marking Three Decades of Kajol and Shah Rukh Khan"
      ],
-     "updated": [
-      "Uswah Ep 49",
-      "Dastoor Ep 82",
-      "Izzat Ep 53"
-     ],
-     "count": 7
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
-   },
+   }
+  ],
+  "episode_guides": [
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3918,19 +3892,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4249,31 +4223,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:39:31Z",
-    "run_id": "43049280852",
-    "status": "success",
-    "checked": {
-     "candidates": 7,
-     "detail": "news queue items drafted this run; 301 still unprocessed; today by category: movies 8/6, tv_dramas 11/4, episodes 1/2, box_office 11/6, celebrities_events 14/5, upcoming_releases 8/4, ott_streaming 9/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Sidharth Malhotra and Kiara Advani Discuss Second Pregnancy on Koffee With Karan Season 9",
-      "‘The Legend of Zelda: Ocarina of Time’ Remake Sells 5.2 Million Copies in First Four Days on Nintendo Switch 2",
-      "Siddhu Jonnalagadda Teams Up With Debutant Director Mohan B For ‘Siddhu10’ In Hyderabad",
-      "Roshan Meka Steps Into Superhero Territory With Indraganti Mohanakrishna Project"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4760,19 +4722,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T12:53:11Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": {
+     "candidates": 7,
+     "detail": "news queue items drafted this run; 389 still unprocessed; today by category: movies 10/6, tv_dramas 8/4, episodes 0/2, box_office 12/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 7/4, trailers 3/3, awards 1/2, music_ost 3/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali OTT Release Date Set for November 13 on Netflix in Five Languages",
+      "Ramayana Part 1 Enters Second Week With Massive Day 8 Numbers",
+      "G.O.A.T Theatrical Release Brings Sudheer Anand and Divya Bharathi to Screens",
+      "Baazigar Turns 33: Marking Three Decades of Kajol and Shah Rukh Khan"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5079,24 +5053,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T12:54:27Z",
+    "run_id": "43221614996",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 565,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5426,24 +5402,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 16,
+     "count": 412,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5783,19 +5759,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 25,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6040,19 +6021,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 78,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6287,19 +6273,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6584,19 +6570,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6837,19 +6823,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7079,19 +7065,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7344,30 +7330,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-10T15:56:48Z",
-    "run_id": "42848575164",
-    "status": "success",
-    "checked": {
-     "candidates": 527,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 513"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7854,19 +7829,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-12T12:53:33Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": {
+     "candidates": 539,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 526"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8106,19 +8092,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T15:44:43Z",
-    "run_id": "43049280852",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8363,8 +8349,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T12:57:44Z",
+    "run_id": "43221614996",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 11915,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-12T11:48:56Z"
+ "updated_at": "2026-11-12T12:57:44Z"
 }

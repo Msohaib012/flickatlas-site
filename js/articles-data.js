@@ -125555,5 +125555,417 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 10:32:08 +0000"
+  },
+  "1xevcbb": {
+    "id": "1xevcbb",
+    "type": "news",
+    "headline": "Ranabaali OTT Release Date Set for November 13 on Netflix in Five Languages",
+    "dek": "Vijay Deverakonda and Rashmika Mandanna's period action drama Ranabaali is heading to Netflix, bringing its historical rebellion story to digital screens globally after its October theatrical run.",
+    "body": [
+      {
+        "h": "The Digital Premiere Details",
+        "p": [
+          "Fans eagerly anticipating the online debut of the period action drama Ranabaali can finally stream the movie starting November 13, 2026. Netflix secured the digital distribution rights for the film, making it accessible to viewers who missed its theatrical run last month.",
+          "The streaming launch brings the epic tale directly to home screens, providing convenience for audiences worldwide who want to experience the grand historical production from their living rooms."
+        ]
+      },
+      {
+        "h": "Multilingual Availability Across Regions",
+        "p": [
+          "To cater to a diverse and widespread audience, the streaming platform has scheduled releases in five distinct languages. Viewers can watch the film in Telugu, Hindi, Tamil, Kannada, and Malayalam versions.",
+          "This extensive linguistic rollout is designed to broaden the viewership far beyond the initial Telugu-speaking core market, allowing fans across different states to enjoy the dialogue and performances in their native tongues."
+        ]
+      },
+      {
+        "h": "Historical Setting and Plot",
+        "p": [
+          "The narrative of Ranabaali unfolds against the severe backdrop of the Great Madras Famine of 1876, a catastrophic event that impacted extensive regions of southern India under British colonial administration.",
+          "Amidst widespread human suffering and intense political unrest during this dark era, the plot traces the emergence of an indigenous rebel who stands up to challenge the might of British imperial power."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Lineup",
+        "p": [
+          "The film features Vijay Deverakonda in the central role of the protagonist leading the resistance movement. Alongside him, Rashmika Mandanna takes on the female lead, sharing the screen in this historical saga.",
+          "In addition to the primary Indian leads, the principal cast features international actor Arnold Vosloo, adding a unique dynamic to the ensemble cast assembled for the period drama."
+        ]
+      },
+      {
+        "h": "Direction and Creative Team",
+        "p": [
+          "Director Rahul Sankrityan helmed the project, collaborating closely with writer Pramod Tammineni to shape the intricate historical screenplay. Production duties were spearheaded by Naveen Yerneni and Y. Ravi Shankar under the banner of Mythri Movie Makers, with additional presentation support from Gulshan Kumar, Bhushan Kumar, and T-Series Films.",
+          "The technical and artistic foundation was built by a seasoned crew, featuring music composition by Ajay-Atul and cinematography handled jointly by Jishnu Bhattacharjee and Nirav Shah. Karthika Srinivas R edited the film, while Shivam Rao Nagasani served as the production designer."
+        ]
+      },
+      {
+        "h": "Theatrical Background and Legacy",
+        "p": [
+          "Before making its way to digital platforms, Ranabaali had its worldwide theatrical release on October 16, 2026. The cinematic run allowed audiences to experience the large-scale action choreography and historical aesthetics on the big screen.",
+          "With intricate action direction by Yannick Ben, Andy Long Nguyen, and Rabin Subbu, alongside choreography by Kruti Mahesh and sound design by Raghunath Kemisetty, the film established a high technical standard that will now transition to digital streaming."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The period action drama Ranabaali, starring Vijay Deverakonda and Rashmika Mandanna and directed by Rahul Sankrityan, is set to premiere on Netflix on November 13, 2026. Following its theatrical debut on October 16, 2026, the film will be available in Telugu, Hindi, Tamil, Kannada, and Malayalam.",
+          "Set during the Great Madras Famine of 1876, the story chronicles an indigenous rebel's fight against British colonial rule and features a principal cast that includes Arnold Vosloo."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranabaali releases on Netflix on November 13, 2026.",
+      "The film was released in theaters worldwide on October 16, 2026.",
+      "Ranabaali is available in Telugu, Hindi, Tamil, Kannada, and Malayalam.",
+      "Vijay Deverakonda and Rashmika Mandanna star in the film.",
+      "The movie is directed by Rahul Sankrityan.",
+      "The story is set during the Great Madras Famine of 1876."
+    ],
+    "entities": {
+      "people": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Rahul Sankrityan",
+        "Arnold Vosloo",
+        "Pramod Tammineni",
+        "Naveen Yerneni",
+        "Y. Ravi Shankar",
+        "Gulshan Kumar",
+        "Bhushan Kumar",
+        "Jishnu Bhattacharjee",
+        "Nirav Shah",
+        "Karthika Srinivas R",
+        "Shivam Rao Nagasani",
+        "Yannick Ben",
+        "Andy Long Nguyen",
+        "Rabin Subbu",
+        "Kruti Mahesh",
+        "Raghunath Kemisetty",
+        "Vivekanand",
+        "Anurag Parvathaneni",
+        "Shiv Chanana"
+      ],
+      "titles": [
+        "Ranabaali"
+      ]
+    },
+    "keywords": [
+      "Ranabaali OTT release",
+      "Vijay Deverakonda Ranabaali",
+      "Rashmika Mandanna Ranabaali Movie",
+      "Ranabaali Netflix release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ranabaali-21101794487557.jpg",
+        "caption": "Ranabaali OTT Release Date Set for November 13 on Netflix in Five Languages",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 18:18:49 +0530"
+  },
+  "b0shg9": {
+    "id": "b0shg9",
+    "type": "news",
+    "headline": "Ramayana Part 1 Enters Second Week With Massive Day 8 Numbers",
+    "dek": "Ranbir Kapoor, Sai Pallavi and Yash's mythological epic continues its stellar theatrical run, surpassing Brahmastra Part One Shiva's lifetime global earnings.",
+    "body": [
+      {
+        "h": "Strong Opening to Week Two",
+        "p": [
+          "The mythological epic Ramayana Part 1 has officially transitioned into its second week in cinemas with formidable momentum. Released on November 5, the feature continues to pull substantial audiences to ticket counters despite enduring some critical pushback.",
+          "Early data indicates that the film is steadily closing in on the significant milestone of five hundred and fifty crore rupees in domestic net collections as it commences its second week."
+        ]
+      },
+      {
+        "h": "First Week Box Office Totals",
+        "p": [
+          "During its opening run, the Nitesh Tiwari directorial made an extraordinary impact nationwide. After kicking off with a net collection of sixty-four point eight five crore rupees in India, the feature maintained heavy earnings throughout its initial week.",
+          "Following a collection of seventy point six five crore rupees on Wednesday, the feature concluded its first full week with a cumulative domestic net total of five hundred and eleven point one zero crore rupees, alongside an overall domestic gross standing at six hundred and eleven point zero five crore rupees."
+        ]
+      },
+      {
+        "h": "Day 8 Earnings and Show Distribution",
+        "p": [
+          "Live tracking data up to five-thirty PM on its eighth day shows the feature adding approximately twenty-two point nine seven crore rupees across thirteen thousand eight hundred and fifty-five shows.",
+          "The linguistic breakdown for the eighth day highlights strong numbers in the primary language alongside multilingual markets, contributing significantly to the updated cumulative domestic net earnings of five hundred and thirty-four point zero seven crore rupees and a gross total of six hundred and thirty-eight point one five crore rupees."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The eighth day theatrical figures reflect robust multi-regional appeal. The Hindi shows alone brought in nineteen point five four crore rupees across eleven thousand eight hundred and sixty-eight screenings.",
+          "Meanwhile, regional markets added solid sums, with Kannada shows contributing one point five four crore rupees from five hundred and eighty-seven screenings, Telugu shows earning ninety-seven lakh rupees across nine hundred and forty-four screenings, and Tamil screenings pulling in ninety-two lakh rupees."
+        ]
+      },
+      {
+        "h": "Occupancy Rates on Day 8",
+        "p": [
+          "Audience turnout for the Hindi three-dimensional version remained notable throughout the day. Morning screenings registered an occupancy rate of fifteen point four six percent.",
+          "As the day progressed, interest escalated sharply, with afternoon shows witnessing a substantial jump in attendance, recording an occupancy rate of thirty-three point three one percent."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Milestones",
+        "p": [
+          "The current theatrical success marks a major milestone for the leading star's box-office history. Reports indicate that the feature has successfully beaten the entire lifetime worldwide theatrical run of Brahmastra Part One Shiva.",
+          "While the earlier Ranbir Kapoor-starrer finished its global run with approximately four31 crore rupees worldwide, the mythological epic has outpaced that benchmark swiftly during its ongoing second week."
+        ]
+      },
+      {
+        "h": "Star-Studded Ensemble Cast",
+        "p": [
+          "The massive scale of the Nitesh Tiwari directorial is supported by an extensive roster of well-known performers. The prominent leads feature Ranbir Kapoor as Lord Ram, Sai Pallavi as Goddess Sita, and Yash portraying Ravana.",
+          "Additional pivotal roles are brought to life by Ravi Dubey, Arun Govil, Lara Dutta, Rakul Preet Singh, Sheeba Chaddha, and Indira Krishnan, creating a heavily populated cinematic landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana Part 1 has transitioned into its second week with strong Day 8 collections, pushing its total domestic net earnings higher. The Nitesh Tiwari directorial has already surpassed the lifetime global collection of Brahmastra Part One Shiva."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 was released on November 5, 2026.",
+      "The film is directed by Nitesh Tiwari.",
+      "Day 1 India net collection was ₹64.85 cr.",
+      "First week total India net collection was ₹511.10 cr.",
+      "First week overall India gross collection was ₹611.05 cr.",
+      "Day 8 collection as of 5:30 PM was approximately ₹22.97 cr across 13,855 shows.",
+      "Day 8 collection included ₹19.54 cr from Hindi shows, ₹1.54 cr from Kannada shows, ₹97 lakh from Telugu shows, and ₹92 lakh from Tamil shows.",
+      "Total India gross collection reached ₹638.15 crore and cumulative India net earnings stood at ₹534.07 cr.",
+      "Hindi 3D morning shows occupancy was 15.46% and afternoon shows occupancy was 33.31%.",
+      "Brahmastra Part One Shiva earned approximately ₹431 cr globally during its theatrical run."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Sheeba Chaddha",
+        "Indira Krishnan"
+      ],
+      "titles": [
+        "Ramayana Part 1",
+        "Brahmastra Part One Shiva"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Part 1 Day 8 collection",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana vs Brahmastra box office"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-12t171119-772-56711794483686.jpg",
+        "caption": "Ramayana Part 1 Enters Second Week With Massive Day 8 Numbers",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 18:00:30 +0530"
+  },
+  "orzs7r": {
+    "id": "orzs7r",
+    "type": "news",
+    "headline": "G.O.A.T Theatrical Release Brings Sudheer Anand and Divya Bharathi to Screens",
+    "dek": "Telugu action comedy drama G.O.A.T hits theatres, starring Sudheer Anand and Divya Bharathi under the direction of Vedavyas.",
+    "body": [
+      {
+        "h": "Theatrical Launch and Initial Screenings",
+        "p": [
+          "The Telugu action comedy drama G.O.A.T officially arrived in cinemas on Thursday, November 12, 2026. Moviegoers attended the early morning shows across various locations to catch the first public screenings of the feature.",
+          "As soon as the initial presentations concluded, audiences took to social media platforms like X to share their immediate thoughts, creating a wave of early online discussions regarding the film's overall quality and tone."
+        ]
+      },
+      {
+        "h": "Plot Premise and Central Themes",
+        "p": [
+          "The storyline unfolds in a rural town where cricket occupies a central place in daily community life. The narrative follows a young protagonist named Gana, who prefers lighthearted enjoyment over personal obligations and responsibilities.",
+          "Gana's path crosses with Subhashini, a character defined by strong principles that sharply contrast with his carefree disposition. Their initial playful encounters eventually transform as unexpected circumstances begin to test their relationship and shift the dynamic of the plot."
+        ]
+      },
+      {
+        "h": "Reviewer Feedback and Audience Reception",
+        "p": [
+          "Early social media feedback described the project as a routine mass commercial film featuring an older presentation style and conventional character dynamics. Observers noted that while the underlying message addressing betting practices is commendable, the overall narrative struggles to maintain engagement.",
+          "On the positive side, viewers pointed out that specific comedy sequences, hospital scenes, and the interactions between the lead actors provide moments of entertainment, though a tighter screenplay could have elevated the final presentation."
+        ]
+      },
+      {
+        "h": "Cast and Leading Performances",
+        "p": [
+          "The feature stars Sudheer Anand and Divya Bharathi in the primary lead roles, carrying the emotional and comedic core of the narrative. Their shared scenes together received mention from early viewers as a notable highlight of the production.",
+          "The supporting cast contributes to the rural atmosphere of the story, participating in various sequences alongside the main characters to support the comedic and dramatic elements built into the script."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Technical Crew",
+        "p": [
+          "Direction for the project was handled by Vedavyas, while Mogulla Chandrashekar produced the film under the banner of Mahateja Creations, with Jaishnav Productions associated as well. Ravinder Reddy N served as co-producer and Prasuna Mandava acted as creative producer.",
+          "Musical composition was managed by Leon James, and cinematography duties were split between Rasool Ellore and Sunny Korapati. Vijay M edited the feature, Rajeev Nair designed the production, and Eshwar Master choreographed the musical numbers."
+        ]
+      },
+      {
+        "h": "Commercial Outlook and Box Office Speculation",
+        "p": [
+          "Determining whether the theatrical run will result in a commercial success or failure remains premature following just the first day of screenings. Observers note that opening-day impressions offer a glimpse into initial public interest but cannot dictate long-term box office outcomes.",
+          "The upcoming opening weekend will serve as a crucial period for tracking ticket sales, theatre occupancies, and word-of-mouth momentum. Sustained numbers through the weekdays will ultimately provide a clearer picture of the project's financial trajectory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telugu film G.O.A.T, starring Sudheer Anand and Divya Bharathi and directed by Vedavyas, released in theatres on November 12, 2026. Early audience reactions on social media have offered mixed reviews while commercial evaluations await opening weekend results."
+        ]
+      }
+    ],
+    "facts": [
+      "G.O.A.T released in theatres on Thursday, November 12, 2026.",
+      "The film stars Sudheer Anand and Divya Bharathi.",
+      "Vedavyas directed the movie.",
+      "Leon James composed the music."
+    ],
+    "entities": {
+      "people": [
+        "Sudheer Anand",
+        "Divya Bharathi",
+        "Vedavyas",
+        "Leon James",
+        "Mogulla Chandrashekar",
+        "Ravinder Reddy N",
+        "Prasuna Mandava",
+        "Rasool Ellore",
+        "Sunny Korapati",
+        "Vijay M",
+        "Rajeev Nair",
+        "Eshwar Master",
+        "Srihitha Kotagiri"
+      ],
+      "titles": [
+        "G.O.A.T"
+      ]
+    },
+    "keywords": [
+      "GOAT movie",
+      "Sudheer Anand GOAT",
+      "Divya Bharathi GOAT",
+      "Vedavyas GOAT Telugu movie"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/goathf-94111794483818.jpg",
+        "caption": "G.O.A.T Theatrical Release Brings Sudheer Anand and Divya Bharathi to Screens",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 17:14:35 +0530"
+  },
+  "284ye1": {
+    "id": "284ye1",
+    "type": "news",
+    "headline": "Baazigar Turns 33: Marking Three Decades of Kajol and Shah Rukh Khan",
+    "dek": "As the iconic thriller Baazigar completes thirty-three years since its release, we look back at how it launched the legendary on-screen partnership between Kajol and Shah Rukh Khan.",
+    "body": [
+      {
+        "h": "Introduction to a Milestone",
+        "p": [
+          "When Baazigar first debuted in theatres back in 1993, filmgoers witnessed the initial union of two performers who would eventually turn into one of the most celebrated cinematic duos in the history of Hindi cinema. While the motion picture functioned primarily as a suspenseful thriller featuring Shah Rukh Khan in a distinctively unconventional role, it also served as a crucial stepping stone for a rising star.",
+          "Portraying the character of Priya Chopra, the actress injected a remarkable level of freshness, self-assurance, and organic appeal into the project that cemented her memorability among viewers. From her unique vocal delivery and signature wardrobe choices to her immediate rapport with her co-star, there were numerous elements that fans instantly grew to adore."
+        ]
+      },
+      {
+        "h": "Natural Screen Presence as Priya Chopra",
+        "p": [
+          "Among the standout aspects of the production was the effortless manner in which the lead actress breathed life into Priya Chopra. She did not require any elaborate introductions or grand setups to establish her immediate presence on the silver screen.",
+          "Her naturally vibrant personality, highly expressive facial features, and completely unforced acting style rendered the character instantly endearing. Even within the confines of a narrative heavily driven by intense drama and suspense, she carved out a lasting impression."
+        ]
+      },
+      {
+        "h": "Distinctive Dialogue Delivery and Charm",
+        "p": [
+          "The performer has consistently maintained a highly recognizable and distinct method of speaking her lines, and this cinematic outing offered viewers a very early glimpse of that defining quality. Her energetic cadence and spontaneous facial expressions kept every scene thoroughly engaging.",
+          "She effortlessly infused her conversational moments with an easygoing flow, helping transform her role into someone the audience could genuinely connect with on an emotional level."
+        ]
+      },
+      {
+        "h": "The Spark of a Legendary Chemistry",
+        "p": [
+          "Marking the very first professional collaboration between the two main actors, the feature immediately displayed an undeniable chemistry between them. Even though the script did not follow a conventional romance template, they shared an unmistakable comfort level in front of the camera.",
+          "Their playful interactions and relaxed demeanor offered a clear preview of the celebrated partnership that would later dominate romantic cinema across the nation."
+        ]
+      },
+      {
+        "h": "Reflecting Nineties Fashion Trends",
+        "p": [
+          "The wardrobe styling showcased by the lead actress aligned closely with the popular aesthetic of the nineteen-nineties, yet what truly made it pop was how comfortably she carried every single ensemble. From casual daytime wear to vibrant dresses alongside period-appropriate hairstyles, her presentation echoed the decade smoothly.",
+          "Looking back at these aesthetic choices today serves as a vivid reminder of how frequently nineties fashion cycles manage to return to contemporary style conversations."
+        ]
+      },
+      {
+        "h": "Bringing Warmth to a Dark Thriller",
+        "p": [
+          "Given that the core plot of the project leaned toward darker themes, the inclusion of a lighter, warmer energy provided a necessary counterbalance. The innocence, optimism, and developing affection displayed by her character introduced a much-needed emotional dimension.",
+          "This sharp contrast made her overall presence significantly more impactful, ultimately giving the audience a relatable figure to root for throughout the suspenseful journey."
+        ]
+      },
+      {
+        "h": "Legacy and Foundation of a Iconic Partnership",
+        "p": [
+          "What initially commenced with this 1993 thriller eventually blossomed into an extraordinary chapter for Hindi cinema, as the duo subsequently reunited for legendary projects like Dilwale Dulhania Le Jayenge, Kuch Kuch Hota Hai, Kabhi Khushi Kabhie Gham, My Name Is Khan, and Dilwale.",
+          "Although she was still in the formative stages of her career at the time, this project foreshadowed her trajectory toward becoming one of the premier leading ladies of the decade through subsequent hits such as Gupt, Dushman, and Pyaar Kiya To Darna Kya."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "As Baazigar marks its thirty-three-year milestone, the classic thriller is remembered as the origin of the beloved on-screen pairing between Kajol and Shah Rukh Khan. The film highlighted the actress's early talent through her memorable portrayal of Priya Chopra, laying the groundwork for a legendary career in Hindi cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Baazigar was released in 1993.",
+      "The film completes 33 years.",
+      "Kajol played Priya Chopra in the film.",
+      "The movie marked the first film collaboration between Kajol and Shah Rukh Khan.",
+      "Other films starring the duo mentioned include Dilwale Dulhania Le Jayenge, Kuch Kuch Hota Hai, Kabhi Khushi Kabhie Gham, My Name Is Khan, and Dilwale.",
+      "Kajol's other 90s films mentioned include Gupt, Dushman, and Pyaar Kiya To Darna Kya."
+    ],
+    "entities": {
+      "people": [
+        "Kajol",
+        "Shah Rukh Khan"
+      ],
+      "titles": [
+        "Baazigar",
+        "Dilwale Dulhania Le Jayenge",
+        "Kuch Kuch Hota Hai",
+        "Kabhi Khushi Kabhie Gham",
+        "My Name Is Khan",
+        "Dilwale",
+        "Gupt",
+        "Dushman",
+        "Pyaar Kiya To Darna Kya"
+      ]
+    },
+    "keywords": [
+      "Baazigar film",
+      "Kajol Baazigar",
+      "Shah Rukh Khan Kajol movies",
+      "Baazigar 33 years"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/baazigarfeature-59731794481837.jpg",
+        "caption": "Baazigar Turns 33: Marking Three Decades of Kajol and Shah Rukh Khan",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 16:42:31 +0530"
   }
 };
