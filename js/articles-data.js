@@ -127340,5 +127340,200 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 19:22:55 +0530"
+  },
+  "32ae81": {
+    "id": "32ae81",
+    "type": "news",
+    "headline": "Ramayana Surpasses 1000 Crore Worldwide Box Office Milestone on Day 8",
+    "dek": "Namit Malhotra's epic production crosses the coveted four-digit gross threshold within its extended opening week, marking a major career milestone for actor Ranbir Kapoor.",
+    "body": [
+      {
+        "h": "Reaching the Four-Digit Club",
+        "p": [
+          "The theatrical run of the mega-budget mythological drama has officially entered historical territory. By completing its eighth day in cinemas, the feature crossed the massive threshold of one thousand crore in worldwide gross revenue.",
+          "This performance cements its position as the eleventh feature film from the domestic industry to attain this elite four-digit milestone globally, highlighting widespread audience turnout across multiple territories."
+        ]
+      },
+      {
+        "h": "Director and Cast Driving Momentum",
+        "p": [
+          "Helmed by director Nitesh Tiwari and produced by Namit Malhotra, the project benefited tremendously from a high-profile ensemble cast. The central performances and multi-lingual appeal helped sustain massive momentum throughout the festive season.",
+          "Actors Ranbir Kapoor, Sai Pallavi, and Yash anchored the massive canvas, drawing diverse audiences to theaters and driving strong commercial returns across various domestic and international markets."
+        ]
+      },
+      {
+        "h": "Rapid Ascent in Extended Opening Week",
+        "p": [
+          "Achieving the landmark in just eight days places the film among the fastest climbing features in commercial history. It crossed the finish line shortly after concluding a stellar first week that amassed roughly 945 crore globally.",
+          "An estimated single-day haul of over 85 crore on its eighth day pushed the cumulative worldwide figures safely past the thousand crore mark, securing its reputation as one of the fastest commercial climbers."
+        ]
+      },
+      {
+        "h": "Comparison With Industry Blockbusters",
+        "p": [
+          "When evaluating the speed of reaching this specific gross target, the epic sits comfortably in an exclusive bracket. Only select titles like Pushpa 2 and Dhurandhar 2 achieved the feat faster within seven days.",
+          "Other major blockbusters such as Baahubali 2 took approximately ten to eleven days, whereas the latest entrant crossed the line efficiently on its eighth day following a powerful Diwali holiday surge."
+        ]
+      },
+      {
+        "h": "Ranbir Kapoor's Personal Best",
+        "p": [
+          "The commercial triumph signifies a monumental shift in the leading man's career trajectory. Having previously delivered major hits, his work here surpasses the lifetime global earnings of Animal.",
+          "This large-scale family-oriented production successfully expands his box office pull, proving that the actor can anchor grand cinematic universes to historic financial outcomes."
+        ]
+      },
+      {
+        "h": "Festive Demand and Future Outlook",
+        "p": [
+          "The timing of the release played a crucial role in shaping its early theatrical dominance. Supported by nationwide festive demand, the title avoided total reliance on opening day records by maintaining steady post-holiday numbers.",
+          "As the extended opening week draws to a close, attention now pivots toward the upcoming weekend. The production will test its sustaining power as it navigates ticket sales without the direct backing of holiday closures."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana has officially crossed the 1000 crore worldwide milestone on its eighth theatrical day, becoming the eleventh Indian film to enter the prestigious club. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the epic achieved the feat following a strong post-Diwali surge."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed 1000 crore worldwide gross on its 8th day.",
+      "The film is the 11th Indian film to enter the 1000 crore club.",
+      "It was directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "The film stars Ranbir Kapoor, Sai Pallavi, and Yash.",
+      "The first seven days accumulated around 945 crore worldwide.",
+      "The 8th day grossed an estimated 85+ crores worldwide."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana",
+        "Dangal",
+        "Baahubali 2",
+        "Pushpa 2",
+        "Dhurandhar 2",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana 1000 crore",
+      "Ramayana worldwide collection",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028510.jpg",
+        "caption": "Ramayana Surpasses 1000 Crore Worldwide Box Office Milestone on Day 8",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 15:26:12 +0000"
+  },
+  "1of840n": {
+    "id": "1of840n",
+    "type": "news",
+    "headline": "Netflix Announces December 2026 Premiere for Colombian Period Drama The December Breeze",
+    "dek": "Francisca Estevez returns to Netflix in an ambitious adaptation of Marvel Moreno's landmark 1950s novel, backed by Dynamo production.",
+    "body": [
+      {
+        "h": "Introduction and Release Schedule",
+        "p": [
+          "Streaming giant Netflix has officially locked in the premiere details for its upcoming original series, The December Breeze, known in Spanish as En diciembre llegaban las brisas. Fans of international television and period dramas can mark their calendars for December 4, 2026, when the series becomes globally available on the platform.",
+          "The announcement coincides with the release of the official key art for the project. This early promotional rollout highlights the growing anticipation surrounding the streaming service's latest venture into high-end Colombian storytelling."
+        ]
+      },
+      {
+        "h": "Literary Origins and Creative Adaptations",
+        "p": [
+          "The episodic project draws its narrative foundations from Marvel Moreno's acclaimed 1950s novel. The source material serves as a literary landmark, celebrated for its unflinching look at society during that era.",
+          "Adapting such a culturally significant book for the screen required a dedicated team of writers and directors. Claudia Pedraza and Rafael Martínez share directing duties, while the script is credited to Rafael Noguera, Cecilia Percy, Marcela Peláez, and Lony Welter."
+        ]
+      },
+      {
+        "h": "Plot Synopsis and Setting",
+        "p": [
+          "Set against the backdrop of 1950s Barranquilla, the story delves into the rigid hierarchies and oppressive social norms of upper-class life. The narrative explores dark secrets, turbulent relationships, and ultimately tragic fates.",
+          "The central perspective comes from a Colombian woman living in exile in Paris. From afar, she obsessively revisits and reconstructs the lives of her childhood friends, unmasking the severe double standards and underlying violence defining elite society during that period."
+        ]
+      },
+      {
+        "h": "Cast and Character Lineup",
+        "p": [
+          "Francisca Estevez anchors the ensemble cast in the lead role of Catalina. The actress previously headlined Netflix's romantic drama Eva Lasting and has built a strong resume with appearances in projects like Los Billis and La Nieta Elegida.",
+          "Joining Estevez is a diverse group of performers including Meteora Fontana as Giovanna Mantini, Melanie Dell’Olmo as Dora, Vincente Peña as Lucio, Valentina Duque as Beatríz, Danielle Reyes as Lina, and Manolo Alzamora as Benito Suarez. The extended cast also features Florina Lemaitre, Paula Castaño, Flora Martinez, and Jason Day."
+        ]
+      },
+      {
+        "h": "Production Timeline and Studio Backing",
+        "p": [
+          "Behind the scenes, the series is handled by production house Dynamo. Executive producer duties are shared among Angélica Guerra, Adriana Aparicio, and Michel Ruben, ensuring high production values for the literary adaptation.",
+          "Physical production on the series followed a steady schedule over several months. Cameras began rolling on September 7, 2025, and filming wrapped successfully on January 28, 2026, leading into a lengthy post-production phase."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has scheduled the Colombian period drama The December Breeze for a global release on December 4, 2026. Adapted from Marvel Moreno's 1950s novel and produced by Dynamo, the series stars Francisca Estevez as Catalina and follows a complex narrative of exile, memory, and upper-class secrets in Barranquilla."
+        ]
+      }
+    ],
+    "facts": [
+      "The December Breeze premieres on Netflix on December 4, 2026.",
+      "The series is based on Marvel Moreno's 1950s novel.",
+      "Filming began on September 7, 2025, and wrapped on January 28, 2026.",
+      "Francisca Estevez stars in the lead role of Catalina."
+    ],
+    "entities": {
+      "people": [
+        "Francisca Estevez",
+        "Marvel Moreno",
+        "Claudia Pedraza",
+        "Rafael Martínez",
+        "Rafael Noguera",
+        "Cecilia Percy",
+        "Marcela Peláez",
+        "Lony Welter",
+        "Angélica Guerra",
+        "Adriana Aparicio",
+        "Michel Ruben",
+        "Meteora Fontana",
+        "Melanie Dell’Olmo",
+        "Vincente Peña",
+        "Valentina Duque",
+        "Danielle Reyes",
+        "Manolo Alzamora",
+        "Florina Lemaitre",
+        "Paula Castaño",
+        "Flora Martinez",
+        "Jason Day"
+      ],
+      "titles": [
+        "The December Breeze",
+        "Eva Lasting",
+        "Los Billis",
+        "La Nieta Elegida"
+      ]
+    },
+    "keywords": [
+      "The December Breeze Netflix",
+      "Francisca Estevez The December Breeze",
+      "Marvel Moreno book adaptation",
+      "The December Breeze release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/the-december-breeze-colombian-netflix-series.jpg",
+        "caption": "Netflix Announces December 2026 Premiere for Colombian Period Drama The December Breeze",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 16:39:57 +0000"
   }
 };
