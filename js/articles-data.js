@@ -122309,5 +122309,433 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-12T03:59:28Z"
+  },
+  "1q2tpdy": {
+    "id": "1q2tpdy",
+    "type": "news",
+    "headline": "Ramayana Hits ₹400 Crore Hindi Net Milestone on Day Eight, Equalling Pushpa 2 Record",
+    "dek": "Namit Malhotra's cinematic spectacle Ramayana has officially crossed the ₹400 crore Hindi net mark by its eighth day, matching the blistering pace set by Pushpa 2 while trailing only Dhurandhar 2.",
+    "body": [
+      {
+        "h": "The Journey to the ₹400 Crore Milestone",
+        "p": [
+          "The theatrical run of Ramayana continues to break new ground as the film crosses another major financial threshold. Directed by Nitesh Tiwari and produced by Namit Malhotra, the grand feature has successfully secured its position in the elite ₹400 crore Hindi net club by its eighth day in cinemas.",
+          "Having closed its seventh day with a cumulative Hindi net collection of ₹394 crore, the production needed only a modest addition to enter the prestigious milestone bracket. Advance sales figures provided more than enough momentum to clear the hurdle before regular spot bookings even factored into the day's totals."
+        ]
+      },
+      {
+        "h": "Comparing Fast Track Records in Bollywood",
+        "p": [
+          "With this rapid ascent, Ramayana now matches the timeline established by Allu Arjun's blockbuster Pushpa 2: The Rule, sharing the second-fastest status for reaching ₹400 crore in Hindi net earnings. Both titles achieved the feat in eight days.",
+          "Despite this impressive speed, the record for the fastest entry into the club remains firmly held by Dhurandhar 2: The Revenge. The Ranveer Singh starrer accomplished the milestone in just four days, maintaining a considerable lead over all other competitors in modern box office history."
+        ]
+      },
+      {
+        "h": "Strong Advance Bookings Drive Day Eight Success",
+        "p": [
+          "The momentum for the eighth day was heavily anchored by robust pre-sales across multiple territories. The Hindi version alone registered a strong gross of ₹20.44 crore, inclusive of block seats, while confirmed bookings excluding block allocations stood at ₹16.04 crore.",
+          "These figures were distributed across an extensive footprint of 20,233 shows. This pre-release demand ensured that the film crossed its target threshold early, cementing a lucrative second week at the box office."
+        ]
+      },
+      {
+        "h": "Franchise Advantage Versus Fresh Launch Dynamics",
+        "p": [
+          "A closer analysis of the box office standings reveals distinct patterns in how different films achieve rapid milestones. Sequels like Dhurandhar 2 benefit immensely from pre-existing audience anticipation, built-in franchise loyalty, and paid preview momentum centered predominantly around the Hindi belt.",
+          "In contrast, Ramayana's financial triumph is distributed across multiple linguistic markets. While the Hindi version drives the specific milestone metrics, the project has also drawn substantial revenue from regional language versions."
+        ]
+      },
+      {
+        "h": "The Contribution of South Indian Markets",
+        "p": [
+          "While Hindi net collections define specific domestic milestones, the broader economic success of Ramayana relies heavily on its pan-Indian appeal. During its first seven days, the Kannada, Telugu, Tamil, and Malayalam dubbed versions generated a combined net total of ₹117.10 crore.",
+          "This regional performance accounts for roughly twenty-three percent of the movie's total domestic earnings. Such figures highlight how major releases can build robust multi-language revenues without relying solely on the traditional Hindi circuit."
+        ]
+      },
+      {
+        "h": "Broader Context and Competitive Standings",
+        "p": [
+          "The competition to reach major box office milestones quickly has seen several notable contenders in recent years. Films such as Jawan and Animal required eleven days to hit the ₹400 crore Hindi net mark, while Pathaan, Dhurandhar, Stree 2, and Gadar 2 took twelve days.",
+          "Further down the list, titles like Chhaava and Baahubali 2: The Conclusion reached the same figure in fifteen days. Ramayana's ability to outpace many of these established blockbusters places its current run among the top tier of theatrical performances."
+        ]
+      },
+      {
+        "h": "Overall Theatrical Standing and Global Figures",
+        "p": [
+          "Released on November 5, 2026, the feature has accumulated an overall India net collection of ₹511.10 crore alongside a worldwide gross of ₹934.55 crore. These figures underscore the massive scale of the release.",
+          "As the theatrical run progresses, the film continues to track strongly across both domestic and international territories, reinforcing the commercial viability of large-scale mythological adaptations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra's Ramayana has officially crossed the ₹400 crore Hindi net milestone on its eighth day, matching the pace set by Pushpa 2. While Dhurandhar 2 remains the fastest film to reach the target in four days, Ramayana's advance bookings and strong regional contributions have secured its place among Bollywood's top-performing releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed the ₹400 crore Hindi net milestone on its eighth day.",
+      "The film was directed by Nitesh Tiwari and produced by Namit Malhotra.",
+      "Ramayana released on Thursday, November 5, 2026.",
+      "Dhurandhar 2: The Revenge achieved the ₹400 crore Hindi net milestone in 4 days.",
+      "Pushpa 2: The Rule and Ramayana both achieved the milestone in 8 days.",
+      "Ramayana finished its seventh day with ₹394 crore Hindi net.",
+      "Day 8 advance bookings included ₹20.44 crore gross across 20,233 shows.",
+      "South Indian language versions generated ₹117.10 crore net during the first seven days.",
+      "Total India net for Ramayana reached ₹511.10 crore with a worldwide gross of ₹934.55 crore."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Allu Arjun",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana",
+        "Pushpa 2",
+        "Dhurandhar 2: The Revenge",
+        "Pushpa 2: The Rule",
+        "Jawan",
+        "Animal",
+        "Pathaan",
+        "Dhurandhar",
+        "Stree 2",
+        "Gadar 2",
+        "Chhaava",
+        "Baahubali 2: The Conclusion"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ramayana Hindi net milestone",
+      "Ramayana Day 8 collection",
+      "Namit Malhotra Ramayana",
+      "Pushpa 2 and Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028499.jpg",
+        "caption": "Ramayana Hits ₹400 Crore Hindi Net Milestone on Day Eight, Equalling Pushpa 2 Record",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 04:36:23 +0000"
+  },
+  "12eqgd1": {
+    "id": "12eqgd1",
+    "type": "news",
+    "headline": "Denis Villeneuve Offers Insight Into the Ongoing James Bond Casting Process",
+    "dek": "The acclaimed filmmaker shares a brief update regarding the search for the next 007 agent, amid circulating reports about potential screen tests.",
+    "body": [
+      {
+        "h": "The Search for the Next 007",
+        "p": [
+          "The ongoing search for the next actor to portray the legendary secret agent James Bond continues to draw significant attention across the film industry. Numerous names have been tested for the iconic role previously held by Daniel Craig, whose final outing as the character concluded in the 2021 feature No Time to Die.",
+          "As speculation mounts regarding who will inherit the tuxedo, industry figures close to major productions have begun offering glimpses into how the extensive casting procedure is currently unfolding behind closed doors."
+        ]
+      },
+      {
+        "h": "Denis Villeneuve Breaks Silence",
+        "p": [
+          "In a recent interview published by GQ, acclaimed director Denis Villeneuve was questioned about whether the new 007 agent had officially been chosen. Smiling during the exchange, the filmmaker remarked that the selection procedure is actively underway.",
+          "When elaborating further on his perspective regarding the progression of the search, Villeneuve added that he is purposefully pushing the gas to help move the high-profile casting forward."
+        ]
+      },
+      {
+        "h": "Reported Screen Tests and Contenders",
+        "p": [
+          "Recent media reports have highlighted several prominent actors who have allegedly participated in screen tests for the coveted franchise role. Among the latest names linked to these auditions are Robert Pattinson and Nicholas Hoult.",
+          "Additional performers reportedly involved in the testing phase include Jack Lowden, Josh O'Connor, and Callum Turner, reflecting a diverse group of talented young men under consideration by the studio."
+        ]
+      },
+      {
+        "h": "Former Bond Weighs In",
+        "p": [
+          "Pierce Brosnan, who famously originated the role starting with the 1995 installment GoldenEye, recently shared his perspective on the actors currently circulating on casting shortlists. Speaking with Vanity Fair, Brosnan expressed admiration for the modern contenders.",
+          "Brosnan specifically praised Callum Turner, noting that they had previously worked together and that Turner possesses exceptional strength, vocal presence, and physical longevity suitable for the demanding cinematic franchise."
+        ]
+      },
+      {
+        "h": "Brosnan's Franchise History",
+        "p": [
+          "Pierce Brosnan's endorsement carries deep historical weight within the James Bond legacy. Following his debut in GoldenEye, Brosnan continued his tenure as 007 across three additional blockbuster motion pictures.",
+          "His subsequent appearances included Tomorrow Never Dies in 1997, The World Is Not Enough in 1999, and his final portrayal in the 2002 feature Die Another Day."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Leadership",
+        "p": [
+          "The rigorous groundwork for casting the next iteration of the franchise has involved key industry personnel behind the scenes. Earlier this year in March, reports confirmed that Nina Gold secured the position as casting director for the upcoming James Bond film.",
+          "Gold brings an impressive resume to the production, with previous major casting credits including HBO's Game of Thrones, the Netflix series The Crown, and five feature films within the expansive Star Wars franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Denis Villeneuve recently offered a brief update indicating that the casting process to find the next James Bond is currently underway. While reports highlight actors like Robert Pattinson and Nicholas Hoult participating in screen tests, former 007 star Pierce Brosnan has voiced his support for the talented contenders on the shortlist."
+        ]
+      }
+    ],
+    "facts": [
+      "Denis Villeneuve spoke about James Bond casting in a November 2026 interview with GQ.",
+      "Daniel Craig last played James Bond in 2021's No Time to Die.",
+      "Robert Pattinson and Nicholas Hoult were reported to have screen-tested for the role.",
+      "Jack Lowden, Josh O'Connor, and Callum Turner were also reported as actors who tested.",
+      "Pierce Brosnan starred as James Bond starting with 1995's GoldenEye.",
+      "Brosnan also starred in Tomorrow Never Dies (1997), The World Is Not Enough (1999), and Die Another Day (2002).",
+      "Nina Gold closed a deal to become the casting director for the next James Bond film in March of 2026."
+    ],
+    "entities": {
+      "people": [
+        "Denis Villeneuve",
+        "Daniel Craig",
+        "Robert Pattinson",
+        "Nicholas Hoult",
+        "Jack Lowden",
+        "Josh O'Connor",
+        "Callum Turner",
+        "Pierce Brosnan",
+        "Nina Gold"
+      ],
+      "titles": [
+        "James Bond",
+        "No Time to Die",
+        "GoldenEye",
+        "Tomorrow Never Dies",
+        "The World Is Not Enough",
+        "Die Another Day",
+        "Game of Thrones",
+        "The Crown",
+        "Star Wars"
+      ]
+    },
+    "keywords": [
+      "Denis Villeneuve James Bond casting",
+      "Robert Pattinson Nicholas Hoult James Bond",
+      "Pierce Brosnan James Bond comments",
+      "Nina Gold James Bond casting director"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Denis-Villeneuve-James-Bond-007.jpg?w=1024",
+        "caption": "Denis Villeneuve Offers Insight Into the Ongoing James Bond Casting Process",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 04:40:25 +0000"
+  },
+  "1gat2rk": {
+    "id": "1gat2rk",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Makes History as First Indian Film to Top UK and Ireland Box Office",
+    "dek": "Ramayana: Rise of a Legend secured the number one spot at the UK and Ireland box office with a £2.14 million opening weekend, surpassing Godzilla Minus Zero and setting a new milestone for Indian cinema.",
+    "body": [
+      {
+        "h": "Historic Box Office Triumph",
+        "p": [
+          "Ramayana: Rise of a Legend has officially rewritten box office history in the UK and Ireland by securing the number one position on the weekend chart. This marks a monumental milestone as it becomes the very first Indian film to ever claim the top spot in this specific territory.",
+          "The feature pulled off a remarkable opening weekend performance from November 6 to 8, according to official figures released by the British Film Institute. Its dominance at the ticket counters signals a growing international footprint for Indian cinematic releases."
+        ]
+      },
+      {
+        "h": "Opening Weekend Earnings and Cinema Reach",
+        "p": [
+          "During its opening weekend, the film accumulated a massive £2.14 million across 361 cinemas, translating to an impressive average collection of £5,951 per cinema location. Distributed by Sony Pictures, the strong figures were further bolstered by previews.",
+          "The total weekend gross includes £435,875 earned specifically through previews held across 337 locations prior to its full commercial rollout."
+        ]
+      },
+      {
+        "h": "Surpassing Previous Indian Cinema Peaks",
+        "p": [
+          "Prior to this historic feat, the highest position ever achieved by an Indian film at the UK and Ireland box office was second place. Several major blockbusters had previously hit this ceiling without breaking through to number one.",
+          "Titans of Indian cinema such as SS Rajamouli's RRR, Shah Rukh Khan's Pathaan and Jawan, alongside Dhurandhar: The Revenge, had all peaked at the second position before Ramayana: Rise of a Legend finally captured the crown."
+        ]
+      },
+      {
+        "h": "Rival Films on the Weekend Chart",
+        "p": [
+          "In capturing the top spot, the film pushed Disney's Wild Horse Nine down to second place, which collected £1.47 million across 656 cinemas. Meanwhile, the Japanese film Godzilla Minus Zero followed closely behind in third place with £1.39 million from 473 cinemas.",
+          "Other notable entries on the chart included Black Bear's Wicker slipping to fourth place, Universal's concert film George Michael: The Faith Tour opening in fifth place, and A24's Primetime coming in sixth."
+        ]
+      },
+      {
+        "h": "Broader Performance of Indian Releases",
+        "p": [
+          "The success was not limited to a single title, as another Indian release named Scene also managed to secure a spot in the top 15 charts. Scene landed at number 14 with £301,808 earned during its opening weekend.",
+          "Overall, the British Film Institute report recorded a combined weekend box office collection of £12.38 million for the top 15 films. This total was significantly higher, marking a 27.3 per cent increase from the previous weekend and 70.8 per cent above the corresponding weekend last year."
+        ]
+      },
+      {
+        "h": "Global Distribution and Expansion Strategy",
+        "p": [
+          "Directed by Nitesh Twari and produced by Namit Malhotra and Yash, the feature has been utilizing a phased international release strategy. Sony Pictures International is handling its distribution outside of India as it scales up its global reach.",
+          "Following its initial overseas markets launch in November, the film is continuing its expansion into Hong Kong, Mexico, and parts of Central Asia, with subsequent rollouts scheduled for Brazil, Italy, Ukraine, Hungary, Poland, and Latin American territories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend became the first Indian film to top the UK and Ireland box office, earning £2.14 million during its opening weekend from November 6 to 8. Distributed by Sony Pictures and directed by Nitesh Twari, the film surpassed previous records held by titles like RRR and Pathaan while continuing its phased global release strategy."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Rise of a Legend collected £2.14 million during its opening weekend from November 6 to 8.",
+      "The film was screened across 361 cinemas with an average collection of £5,951 per cinema.",
+      "Preview screenings contributed £435,875 across 337 locations.",
+      "Wild Horse Nine collected £1.47 million across 656 cinemas to take second place.",
+      "Godzilla Minus Zero followed in third place with £1.39 million from 473 cinemas.",
+      "The total weekend box office collection for the top 15 films reached £12.38 million.",
+      "The film is directed by Nitesh Twari and produced by Namit Malhotra and Yash."
+    ],
+    "entities": {
+      "people": [
+        "SS Rajamouli",
+        "Shah Rukh Khan",
+        "Robert Pattinson",
+        "Lance Oppenheim",
+        "Anthony Ippolito",
+        "Nitesh Twari",
+        "Namit Malhotra",
+        "Yash",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Godzilla Minus Zero",
+        "RRR",
+        "Pathaan",
+        "Jawan",
+        "Dhurandhar: The Revenge",
+        "Wild Horse Nine",
+        "Wicker",
+        "George Michael: The Faith Tour",
+        "Primetime",
+        "Ghosts: The Possession of Button House",
+        "Clayface",
+        "I Play Rocky",
+        "Stray Kids World Tour 'RUN IT' Live Viewing",
+        "Scene"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana UK box office",
+      "Godzilla Minus Zero",
+      "Nitesh Twari Ramayana"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana--godzilla-minus-zero-120241691-16x9_0.jpg?VersionId=voVpD5IgGDGPnyxQFs8xoGjtX03S_TyE",
+        "caption": "Ramayana: Rise of a Legend Makes History as First Indian Film to Top UK and Ireland Box Office",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 09:33:56 +0530"
+  },
+  "1ku4fw9": {
+    "id": "1ku4fw9",
+    "type": "news",
+    "headline": "Sunil Lehri Critiques Ranbir Kapoor's Ramayana, Points Out Flaws in Dialogues and Emotional Depth",
+    "dek": "Veteran television actor Sunil Lehri, famous for playing Lakshman in Ramanand Sagar's classic series, shared a mixed review of the recent Ranbir Kapoor starrer, praising its visual grandeur while highlighting shortcomings in its emotional resonance and dialogues.",
+    "body": [
+      {
+        "h": "Introduction to the Review",
+        "p": [
+          "The theatrical run of the new mythological epic Ramayana continues to draw considerable attention and public feedback across social media platforms. While the film has received widespread appreciation for several aspects, veteran actor Sunil Lehri recently offered a more nuanced critique.",
+          "Best known for portraying Lakshman in Ramanand Sagar's iconic television adaptation Ramayan, Lehri posted a video detailing his thoughts on how the modern cinematic iteration handles its classic source material."
+        ]
+      },
+      {
+        "h": "Praise for Visuals and Performances",
+        "p": [
+          "Lehri expressed appreciation for the monumental scale of the production, noting that the makers invested heavily to build a grand cinematic spectacle. He specifically highlighted the world-class visual effects as a major strength of the film.",
+          "Furthermore, he commended the cast for delivering sincere performances and doing justice to their respective characters through strong acting throughout the runtime of the project."
+        ]
+      },
+      {
+        "h": "Criticism of Emotional Scenes and Dialogues",
+        "p": [
+          "Despite the technical brilliance, the veteran television actor felt that the creative team overlooked crucial emotional beats and script elements. He argued that certain key sequences lacked the necessary depth and gravity.",
+          "He specifically pointed out that the dialogue writing fell short of the dignity required for such an epic narrative, leaving several interactions feeling out of place."
+        ]
+      },
+      {
+        "h": "Missing Narrative Sequences",
+        "p": [
+          "Elaborating on his critiques, Lehri mentioned that specific portions of the traditional storyline were omitted entirely from the cinematic cut. He cited the absence of the Ahilya episode as a notable narrative gap.",
+          "Additionally, he described the depiction of the Parshuram encounter as weak, noting that these omissions affected the overall flow and completeness of the epic tale."
+        ]
+      },
+      {
+        "h": "Concerns Over Character Portrayals",
+        "p": [
+          "Lehri also took issue with how certain character interactions and dialogue exchanges were framed. He specifically disliked the manner in which Shurpanakha addressed Lord Ram during their sequence.",
+          "Similarly, he felt that Sita ji's way of addressing Lord Ram did not feel right, further detracting from the traditional reverence expected in these iconic moments."
+        ]
+      },
+      {
+        "h": "Absence of Bhakti and Glorification of Ravana",
+        "p": [
+          "Concluding his assessment, Lehri stated that the Nitesh Tiwari-directed project prioritized the portrayal of raw power over evoking a genuine sense of bhakti and divine devotion among the audience.",
+          "He also remarked in his written caption that the film featured a significant amount of glorification for Ravana, contributing to what he described as a bittersweet theatrical experience."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "The mythological film features Ranbir Kapoor in the role of Lord Ram, alongside Sai Pallavi as Sita and Yash as Ravana. The ensemble lineup also includes actors like Sunny Deol, Ravi Dubey, Rakul Preet Singh, Arun Govil, and Lara Dutta.",
+          "Produced by Namit Malhotra as a two-part epic venture, the movie arrived in theatres ahead of the Diwali festival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Veteran actor Sunil Lehri reviewed the new Ramayana film, praising its VFX and acting while criticizing its dialogues and emotional resonance. He pointed out missing sequences and a lack of traditional devotion, noting that the project had a mixed impact on audiences."
+        ]
+      }
+    ],
+    "facts": [
+      "Sunil Lehri played Lakshman in Ramanand Sagar's Ramayan",
+      "Ramayana stars Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Ravana",
+      "The ensemble cast includes Sunny Deol, Ravi Dubey, Rakul Preet Singh, Arun Govil, and Lara Dutta",
+      "The film is directed by Nitesh Tiwari",
+      "The project is produced by Namit Malhotra",
+      "The film was released in theatres ahead of Diwali 2026"
+    ],
+    "entities": {
+      "people": [
+        "Sunil Lehri",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ramanand Sagar",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Lara Dutta",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayan"
+      ]
+    },
+    "keywords": [
+      "Ramayana film",
+      "Sunil Lehri Ramayana",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana review"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156493179,thumbsize-367554,width-1280,height-720,resizemode-75/156493179.jpg",
+        "caption": "Sunil Lehri Critiques Ranbir Kapoor's Ramayana, Points Out Flaws in Dialogues and Emotional Depth",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T04:52:21Z"
   }
 };

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T08:51:45Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": {
-     "candidates": 332,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Campus Diaries Season 2 Teaser Out: Harsh Beniwal and Ritvik Sahore return with more college drama",
-      "Ranveer Singh’s grandfather Dr Ram Hingorani passes away at 96, cousin Saumya shares emotional tribute",
-      "EXCLUSIVE! OG Sita Dipika Chikhlia REVEALS Why No Modern Ramayana Can Replace Her & Arun Govil's Iconic Show",
-      "Who Is Rajvel Raj? Priya Bhavani Shankar Marries Her Boyfriend After A Decade-Long Relationship",
-      "Ramayana Advance Booking Day 7: Ranbir’s Film Continues To Go Strong; Earns Over 300cr From Presale In Week 1",
-      "Ramayana Kerala Box Office Collection Day 6: Ranbir Kapoor And Yash's Film Crosses ₹21 Cr, Creates New Record",
-      "Yeh Rishta Kya Kehlata Hai Written Update November 11: Kabir Turns Maira’s Saviour; BIG Twist In Cricket Match",
-      "Clayface North America Box Office: DCU Horror Film Set To Beat Shazam! Fury Of The Gods",
-      "Ramayana Box Office Collection Day 6: Scores Biggest Tuesday Ever In India, Becomes Bollywood’s 2nd Highest-Grosser Of 2026",
-      "Box Office: Nitesh Tiwari Surpasses SS Rajamouli & Amar Kaushik In Koimoi Director Ranking As Ramayana Enters 400 Crore Net Club!",
-      "Ramayana Ranks 6th Among Top 10 Indian Films in North America With $15M+ Gross (Est.), Surpassing RRR, Pushpa 2 and Jawan",
-      "Ram Charan and Sukumar's RC17 Regular Shooting Reportedly Set to Begin in Last Week of December 2026",
-      "Rohit Shetty warns fans about fake social media accounts",
-      "Kiara flaunting her baby bump reminds fans of her Met Gala look",
-      "Chunky laughs off Donkey named after him fetching Rs 72,000",
-      "Reynolds Mocks Pikachu Prep: Actor shares mock-serious Instagram video",
-      "Priya Bhavani Shankar marries boyfriend Rajvel Raj in intimate ceremony, wedding video out",
-      "Kapil Sharma's show: Ayushmann Khurrana refused to sit on a horse at his wedding, says Sooraj Barjatya made him do it in Yeh Prem Mol Liya",
-      "Scene worldwide box office collection day 5: Suriya film sees sharp dip as Ramayana blitz finally gets to it, inches towards  ₹200 crore",
-      "Prakash Raj says SS Rajamouli is questioned for casting him in Varanasi; talks about being banned 8 times in Tollywood"
-     ],
-     "updated": [],
-     "count": 317,
-     "detail": "322 stories, 3 duplicates removed, 10 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T09:52:17Z",
     "run_id": "42998555342",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "254 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T08:52:17Z",
-    "run_id": "42990227300",
+    "run_at": "2026-11-12T04:51:35Z",
+    "run_id": "43157402137",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 281,
+     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ram Gopal Varma calls Ramayana Rise of a Legend the Taj Mahal of cinema after second viewing",
-      "Vinod Kapri's Independent Feature Pyre Enters the Race for the 99th Academy Awards",
-      "Ahn Bo Hyun Leads a Diverse Team of Warriors in Upcoming Drama 'Sacred Jewel'",
-      "Can Ramayana Go Pan-World? Inside Its Global Box Office Journey"
+      "SHOCKING: Amitabh Bachchan's Jalsa at centre of family DISPUTE; sister-in-law Ramola challenges gift deed transferring iconic bungalow to Jaya Bachchan",
+      "Bouma X Review: What Audiences Are Saying About Dileesh Pothen And Sagar Surya's Mystery Thriller Film",
+      "Entertainment LIVE News Today: Anirudh-Kavya's Wedding First Pics Out; Kareena Kapoor Gets Legal Notice",
+      "Joao Franco Fight Video: Below Deck Star & His Brother ARRESTED In Turkey Over Fistfight; 17-Yr-Old Dies",
+      "Mookuthi Amman 2 Box Office Collection Day 6: Nayanthara's Film Sees 52% Drop, India Net Crosses ₹17 Crore",
+      "Blind Game Movie Review: Arjun Rampal’s Thriller On Zee5 Is Streaming For Free, But Trust Me, It’s Still Overpriced For Your Time!",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer juggernaut rolls over to Rs. 500 Cr nett on Day 7",
+      "Ramayana Crosses ₹400 Crore Hindi Net Mark on Day 8, Matches Pushpa 2's Pace as Dhurandhar 2 Remains Fastest",
+      "Ramayana Breaks First Wednesday BMS Record, Challenges Pushpa 2 for Extended Opening Week Top Spot",
+      "Inside Anirudh Ravichander and Kavya Maran's priest-free traditional wedding",
+      "'Ramayana' Jakarta premiere: Ranbir and Yash starrer wins over Indonesian audiences",
+      "Actor Randall England passes away at the age of 75",
+      "When is ‘Avengers: Endgame Encore’ releasing online?",
+      "'AK 47' BO Day 13 vs 'Ranabaali': Venkatesh's film crosses Rs 73 crore",
+      "Priya Bhavani Shankar and Rajvel Raj can't take their eyes off each other in first pictures from their dreamy wedding ceremony in Chennai",
+      "Shah Rukh Khan recalls not having a house of his own before marrying Gauri Khan, says even Mannat was beyond his means",
+      "Film workers' body demands inquiry into reduction of Pyre shows after Ramayana release, asks I&B Minister to ensure FIRs against theatre owners",
+      "Shah Rukh's secret entry, 100 photographers outside, 350 guests inside, Aishwarya's corner: What really went down at Manish Malhotra's Diwali party",
+      "Inside Deepika-Ranveer's intimate Diwali celebrations after welcoming baby Devi",
+      "Film workers' body seeks probe after Pyre loses 75% screens amid Ramayana release"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 264,
+     "detail": "270 stories, 0 duplicates removed, 11 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:52:21Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Hits ₹400 Crore Hindi Net Milestone on Day Eight, Equalling Pushpa 2 Record",
+      "Denis Villeneuve Offers Insight Into the Ongoing James Bond Casting Process",
+      "Ramayana: Rise of a Legend Makes History as First Indian Film to Top UK and Ireland Box Office",
+      "Sunil Lehri Critiques Ranbir Kapoor's Ramayana, Points Out Flaws in Dialogues and Emotional Depth"
+     ],
+     "updated": [],
+     "count": 9,
+     "detail": "+4 articles, +0 box-office rows, 5 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T09:53:44Z",
-    "run_id": "42998555342",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,34 +1887,27 @@
      "detail": "now 292, coming 12"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T04:52:21Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": {
+     "candidates": 304,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 292, coming 12"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T09:06:48Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "18yu46s",
-      "cwoh2c",
-      "1d1jo4e",
-      "1946ls6",
-      "1m9ocxb",
-      "atpdk1",
-      "17jioxt"
-     ],
-     "updated": [],
-     "count": 7
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2439,27 +2414,32 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T04:54:10Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "ssoylz",
+      "1dtg2l7",
+      "1fxsx58",
+      "1osbnod",
+      "1ymkt8q"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T09:06:46Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": {
-     "candidates": 648,
-     "detail": "633 collected staging rows from readers; 222 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 6,
-     "detail": "+0 new rows, 6 updated rows, 631 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2873,19 +2853,27 @@
      "detail": "+3 new rows, 3 updated rows, 640 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:54:08Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "639 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 643 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3122,32 +3110,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T09:06:48Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ram Gopal Varma calls Ramayana Rise of a Legend the Taj Mahal of cinema after second viewing",
-      "Vinod Kapri's Independent Feature Pyre Enters the Race for the 99th Academy Awards",
-      "Ahn Bo Hyun Leads a Diverse Team of Warriors in Upcoming Drama 'Sacred Jewel'",
-      "Can Ramayana Go Pan-World? Inside Its Global Box Office Journey"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3665,19 +3640,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:54:09Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Hits ₹400 Crore Hindi Net Milestone on Day Eight, Equalling Pushpa 2 Record",
+      "Denis Villeneuve Offers Insight Into the Ongoing James Bond Casting Process",
+      "Ramayana: Rise of a Legend Makes History as First Indian Film to Top UK and Ireland Box Office",
+      "Sunil Lehri Critiques Ranbir Kapoor's Ramayana, Points Out Flaws in Dialogues and Emotional Depth"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3950,19 +3938,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4235,31 +4223,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T08:52:17Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 317 still unprocessed; today by category: movies 5/6, tv_dramas 7/4, episodes 0/2, box_office 6/6, celebrities_events 10/5, upcoming_releases 1/4, ott_streaming 4/4, trailers 3/3, awards 0/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ram Gopal Varma calls Ramayana Rise of a Legend the Taj Mahal of cinema after second viewing",
-      "Vinod Kapri's Independent Feature Pyre Enters the Race for the 99th Academy Awards",
-      "Ahn Bo Hyun Leads a Diverse Team of Warriors in Upcoming Drama 'Sacred Jewel'",
-      "Can Ramayana Go Pan-World? Inside Its Global Box Office Journey"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4746,26 +4722,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:52:21Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 264 still unprocessed; today by category: movies 4/6, tv_dramas 2/4, episodes 0/2, box_office 7/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Hits ₹400 Crore Hindi Net Milestone on Day Eight, Equalling Pushpa 2 Record",
+      "Denis Villeneuve Offers Insight Into the Ongoing James Bond Casting Process",
+      "Ramayana: Rise of a Legend Makes History as First Indian Film to Top UK and Ireland Box Office",
+      "Sunil Lehri Critiques Ranbir Kapoor's Ramayana, Points Out Flaws in Dialogues and Emotional Depth"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T08:53:45Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5065,24 +5046,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:53:34Z",
+    "run_id": "43157402137",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 47,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 404,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5412,24 +5395,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 23,
+     "count": 428,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5759,19 +5742,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 17,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6016,19 +6004,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6254,6 +6242,16 @@
     "category": "Stats / Health",
     "run_at": "2026-11-12T04:11:11Z",
     "run_id": "43151693661",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6264,16 +6262,6 @@
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-11-11T09:58:57Z",
     "run_id": "42998555342",
     "status": "skipped",
@@ -6500,19 +6488,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6753,19 +6741,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6995,19 +6983,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7260,30 +7248,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-10T07:53:32Z",
-    "run_id": "42778115181",
-    "status": "success",
-    "checked": {
-     "candidates": 526,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 513"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7770,19 +7747,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:52:39Z",
+    "run_id": "43157402137",
+    "status": "success",
+    "checked": {
+     "candidates": 539,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 526"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8017,19 +8005,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T09:06:55Z",
-    "run_id": "42990227300",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8274,8 +8262,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:54:20Z",
+    "run_id": "43157402137",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T04:11:11Z"
+ "updated_at": "2026-11-12T04:54:20Z"
 }
