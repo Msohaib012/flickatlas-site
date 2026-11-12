@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T14:58:37Z",
-    "run_id": "43043610969",
-    "status": "success",
-    "checked": {
-     "candidates": 325,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "KWK S9: Sidharth Recalls His First Reaction To Kiara's Second Pregnancy: This Time Even We Were Surprised",
-      "Bhogi Release Postponed: Makers Promise New Release Date Soon For Sharwanand's Film",
-      "Sidharth Malhotra-Aditya Dhar To Team Up? Karan Johar Reveals About Their Film That Was Meant to Happen",
-      "‘Siddhu10’: Siddhu Jonnalagadda teams up with debutant director for new love story",
-      "Roshan Meka to star in Pan-India superhero film with Indraganti Mohanakrishna",
-      "Arshdeep Singh announces engagement to Samreen Kaur with heartfelt note",
-      "First pics: Anirudh-Kavya Maran get married in Greece, Rajinikanth and others attend",
-      "When Goddess Sita became Mahakali to save Lord Rama: The story of Sahasra Ravana",
-      "Florence Pugh Wore One More Perfect East Of Eden Dress For A Cover, And It’s Not To Be Missed",
-      "As A DWTS Newbie, I Didn't Realize How Important Fan Votes Were Until That Shocking Exit",
-      "Now That James Gunn's DC Universe Might Be Cooked, I Have A Suggestion",
-      "The Only Two Places Survivor Is Not Allowed To Film Castaways On The Island",
-      "Fans Are Naming Great TV Shows With One Bad Character, & Buffy Isn’t The Only Classic Coming Up",
-      "Sylvester Stallone Officially Ends His 20-Year Rivalry With Arnold Schwarzenegger",
-      "‘Boston Blue’ Officially Brings In a ‘CSI’ Legend This Friday",
-      "Harry Potter Officially Abandons ‘Sorcerer’s Stone’ After 28 Years",
-      "‘Lioness’ Is No Longer TV’s Greatest Spy Thriller Thanks to Netflix’s 93% RT Hit",
-      "Nathan Fillion Replaces 'The Rookie' With New Crime Thriller Based on His Own Book",
-      "'John Wick' Director's New Heist Action Thriller Is An Absurd Robin Hood Tale For A New Era | Review",
-      "Netflix Finds New 6-Part Crime Thriller Hit — And It's Officially Taking Over on Streaming"
-     ],
-     "updated": [],
-     "count": 310,
-     "detail": "325 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T15:32:22Z",
     "run_id": "43049280852",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "304 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T15:00:54Z",
-    "run_id": "43043610969",
+    "run_at": "2026-11-12T11:43:16Z",
+    "run_id": "43211476660",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 388,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Sharwanand Starrer Bhogi Postponed Indefinitely",
-      "The Lincoln Lawyer Season 5 Episode Titles and Final Season Details Revealed",
-      "Anirudh Ravichander and Kavya Maran Marry in an Intimate Greece Ceremony",
-      "Marvel Comics Reveals Grant Rogers As The New Captain America In Major Comic Twist"
+      "4 stylish womens long sleeve tops and t shirts for everyday wear 3077502.html",
+      "stylish womens jackets and lightweight layers for every occasion 3077497.html",
+      "stylish womens jackets to elevate your outerwear collection 3077500.html",
+      "stylish womens puffer jackets for a warm winter wardrobe 3077501.html",
+      "video assam train accident break failure or control loss 300 passengers escape death what happened 3223920",
+      "video delhi aqi news why india s official aqi stops at 500 while private apps show readings above 1500 3223919",
+      "video jk news two special police officers who went missing in kishtwar district found dead 3223946",
+      "video mother dairy milk price revision 2026 check new rates for full cream toned cow milk amul milk 3223916",
+      "video nvidia scandal explained jensen huang megaspeed allegations impact on ai stocks gpus 3223917",
+      "anirudh ravichander kavya maran to host wedding reception in chennai on november 21 heres what we know",
+      "caratlane turns mumbais bandra worli sea link into a giant diwali greeting as it celebrates 18 years",
+      "checking up on each other kiara advani reveals how alia bhatt katrina kaif helped her postpartum journey",
+      "comedian david walliams sexual misconduct allegations published after high court rejects injunction report",
+      "emily in paris season 6 teaser emily mindy head to greece for final adventure as gabriel returns",
+      "ramayana part 1 eyes oscar recognition as makers submit film for 99th academy awards",
+      "shah rukh khan says he has zero say at home reveals gauri khans house rules",
+      "superstar rajinikanth dances his heart out at anirudh ravichander kavya marans wedding watch viral video",
+      "malaysia air 370 conspiracy theory ashton forbes 1235655253",
+      "kai cenat vibe cover interview 1235655503",
+      "elizabeth warren democrats reform veto 1235655756"
      ],
      "updated": [],
-     "count": 4,
-     "detail": "+4 articles, +0 box-office rows, 0 rows updated"
+     "count": 295,
+     "detail": "311 stories, 0 duplicates removed, 77 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 4 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T11:43:44Z",
+    "run_id": "43211476660",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Mani Ratnam's Inji Vellam Sets January Release Date Starring Vijay Sethupathi and Sai Pallavi",
+      "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach a Boiling Point",
+      "Ramayana Box Office Day 7 Worldwide: Ranbir Kapoor And Yash Starrer Nears Rs 1000 Crore Milestone",
+      "Netflix Reveals True Crime Documentary 'Russell Brand: Open Secret'"
+     ],
+     "updated": [],
+     "count": 8,
+     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T15:01:01Z",
-    "run_id": "43043610969",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,32 +1887,27 @@
      "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T11:43:45Z",
+    "run_id": "43211476660",
+    "status": "success",
+    "checked": {
+     "candidates": 312,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 299, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T15:01:05Z",
-    "run_id": "43043610969",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1y1xd9x",
-      "hrks3o",
-      "1dawzui",
-      "1oaf2gg",
-      "pfvzzv"
-     ],
-     "updated": [],
-     "count": 5
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2419,27 +2396,26 @@
      "count": 2
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T15:01:01Z",
-    "run_id": "43043610969",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T11:48:47Z",
+    "run_id": "43211476660",
     "status": "success",
     "checked": {
-     "candidates": 648,
-     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 634 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2853,19 +2829,27 @@
      "detail": "+0 new rows, 4 updated rows, 642 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T11:48:45Z",
+    "run_id": "43211476660",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "639 collected staging rows from readers; 223 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 643 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3102,32 +3086,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:01:04Z",
-    "run_id": "43043610969",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Marvel Comics Reveals Grant Rogers As The New Captain America In Major Comic Twist",
-      "Sharwanand Starrer Bhogi Postponed Indefinitely",
-      "The Lincoln Lawyer Season 5 Episode Titles and Final Season Details Revealed",
-      "Anirudh Ravichander and Kavya Maran Marry in an Intimate Greece Ceremony"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3646,19 +3617,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T11:48:46Z",
+    "run_id": "43211476660",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana Box Office Day 7 Worldwide: Ranbir Kapoor And Yash Starrer Nears Rs 1000 Crore Milestone",
+      "Netflix Reveals True Crime Documentary 'Russell Brand: Open Secret'",
+      "Mani Ratnam's Inji Vellam Sets January Release Date Starring Vijay Sethupathi and Sai Pallavi",
+      "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach a Boiling Point"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3924,19 +3908,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4255,31 +4239,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:00:53Z",
-    "run_id": "43043610969",
-    "status": "success",
-    "checked": {
-     "candidates": 8,
-     "detail": "news queue items drafted this run; 310 still unprocessed; today by category: movies 7/6, tv_dramas 11/4, episodes 1/2, box_office 11/6, celebrities_events 13/5, upcoming_releases 6/4, ott_streaming 9/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 3/2"
-    },
-    "changed": {
-     "added": [
-      "Sharwanand Starrer Bhogi Postponed Indefinitely",
-      "The Lincoln Lawyer Season 5 Episode Titles and Final Season Details Revealed",
-      "Anirudh Ravichander and Kavya Maran Marry in an Intimate Greece Ceremony",
-      "Marvel Comics Reveals Grant Rogers As The New Captain America In Major Comic Twist"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4766,19 +4738,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T11:43:44Z",
+    "run_id": "43211476660",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 295 still unprocessed; today by category: movies 8/6, tv_dramas 8/4, episodes 0/2, box_office 11/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 3/3, awards 1/2, music_ost 3/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Mani Ratnam's Inji Vellam Sets January Release Date Starring Vijay Sethupathi and Sai Pallavi",
+      "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach a Boiling Point",
+      "Ramayana Box Office Day 7 Worldwide: Ranbir Kapoor And Yash Starrer Nears Rs 1000 Crore Milestone",
+      "Netflix Reveals True Crime Documentary 'Russell Brand: Open Secret'"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5085,24 +5069,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 414,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5432,19 +5411,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 411,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_traffic": [
-   {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5784,19 +5768,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6041,19 +6030,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6288,19 +6277,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6585,19 +6574,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6838,19 +6827,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7080,19 +7069,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7341,6 +7330,16 @@
     "category": "Trending News",
     "run_at": "2026-11-12T10:59:23Z",
     "run_id": "43203901951",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7861,16 +7860,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-11T15:44:43Z",
     "run_id": "43049280852",
     "status": "skipped",
@@ -8107,19 +8096,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T15:01:19Z",
-    "run_id": "43043610969",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8364,8 +8353,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T11:48:56Z",
+    "run_id": "43211476660",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T10:59:23Z"
+ "updated_at": "2026-11-12T11:48:56Z"
 }

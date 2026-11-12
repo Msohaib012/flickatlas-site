@@ -125144,5 +125144,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-12T02:30:41.089Z"
+  },
+  "1qfx9r7": {
+    "id": "1qfx9r7",
+    "type": "news",
+    "headline": "Mani Ratnam's Inji Vellam Sets January Release Date Starring Vijay Sethupathi and Sai Pallavi",
+    "dek": "Ace director Mani Ratnam is returning to the romance genre with Inji Vellam, featuring Vijay Sethupathi and Sai Pallavi, with a theatrical release locked for January 29.",
+    "body": [
+      {
+        "h": "The Long-Awaited Release Date Announcement",
+        "p": [
+          "Filmmaker Mani Ratnam is officially bringing his upcoming romantic project, Inji Vellam, to the silver screen after the conclusion of the Pongal festival season. The makers confirmed the theatrical arrival alongside an engaging new motion poster that gives audiences a fresh look at the primary cast.",
+          "The newly revealed promotional material features the lead pair alongside two children, strongly hinting at an expansive family dynamic within the narrative. However, the production team has kept specific details regarding the exact character backgrounds tightly under wraps."
+        ]
+      },
+      {
+        "h": "A Star-Studded Lead and Ensemble Cast",
+        "p": [
+          "The romantic drama boasts a prominent principal pairing featuring acclaimed actors Vijay Sethupathi and Sai Pallavi in the lead roles. Their on-screen chemistry is expected to be a major highlight of this much-anticipated cinematic venture.",
+          "In addition to the main leads, the film features popular Kannada actress Chaithra J Achar, who joins the ensemble. Known for her recent work in projects like Meesaya Murukku 2 and 418, she expressed immense excitement on social media regarding her casting."
+        ]
+      },
+      {
+        "h": "Mani Ratnam Returns to the Romance Genre",
+        "p": [
+          "Renowned director Mani Ratnam is stepping back into the romance genre, a domain where he has delivered some of Indian cinema's most memorable classics. Beyond directing, Ratnam has also penned the story for this feature.",
+          "The film is jointly produced by the director under his Madras Talkies banner alongside Siva Ananth. Meanwhile, Subaskaran is backing the enterprise under Lyca Productions, continuing their professional association following Thug Life."
+        ]
+      },
+      {
+        "h": "Continuing a Legendary Musical Collaboration",
+        "p": [
+          "A hallmark of Mani Ratnam's directorial career has been his enduring partnership with iconic composer AR Rahman, and Inji Vellam proudly continues that tradition. Their legendary musical association has consistently produced chart-topping albums over the decades.",
+          "Fans of both the filmmaker and the composer eagerly anticipate the musical landscape of this romantic feature, expecting yet another iconic soundtrack to define the cinematic experience."
+        ]
+      },
+      {
+        "h": "A Power-Packed Technical and Digital Team",
+        "p": [
+          "The project is supported by a robust technical crew comprised of industry veterans. Avik Mukhopadhyay serves as the cinematographer, capturing the visual tone of the romantic narrative.",
+          "Editing duties are handled by Sreekar Prasad, while Sharmishta Roy acts as the production designer. Additionally, action choreography is overseen by Dhilip Subbarayan, and Netflix has successfully secured the film's digital streaming rights."
+        ]
+      },
+      {
+        "h": "Busy Schedules for the Lead Actors",
+        "p": [
+          "Lead actor Vijay Sethupathi maintains a remarkably packed release calendar alongside his involvement in Inji Vellam. He is slated to appear in Mysskin's upcoming directorial venture Train, as well as Thiagarajan Kumararaja's Pocket Novel.",
+          "Co-star Sai Pallavi is similarly occupied with high-profile professional commitments. She is currently part of Ramayana: Rise of a Legend and has another theatrical arrival lined up in Om – Chapter 1: Udhiram – The Blood Wood."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Mani Ratnam is returning to the romance genre with his upcoming feature Inji Vellam, starring Vijay Sethupathi and Sai Pallavi alongside Chaithra J Achar. The makers have officially locked a theatrical release date for January 29, backed by a technical crew that includes composer AR Rahman and streaming partner Netflix."
+        ]
+      }
+    ],
+    "facts": [
+      "Mani Ratnam's Inji Vellam releases on January 29.",
+      "The film stars Vijay Sethupathi and Sai Pallavi.",
+      "Chaithra J Achar has joined the cast.",
+      "The project features music by AR Rahman.",
+      "Netflix secured the digital streaming rights."
+    ],
+    "entities": {
+      "people": [
+        "Mani Ratnam",
+        "Vijay Sethupathi",
+        "Sai Pallavi",
+        "Chaithra J Achar",
+        "AR Rahman",
+        "Siva Ananth",
+        "Subaskaran",
+        "Avik Mukhopadhyay",
+        "Sreekar Prasad",
+        "Sharmishta Roy",
+        "Dhilip Subbarayan",
+        "Mysskin",
+        "Thiagarajan Kumararaja"
+      ],
+      "titles": [
+        "Inji Vellam",
+        "Meesaya Murukku 2",
+        "418",
+        "Thug Life",
+        "Train",
+        "Pocket Novel",
+        "Ramayana: Rise of a Legend",
+        "Om – Chapter 1: Udhiram – The Blood Wood"
+      ]
+    },
+    "keywords": [
+      "Inji Vellam film",
+      "Vijay Sethupathi Inji Vellam",
+      "Sai Pallavi Inji Vellam",
+      "Mani Ratnam Inji Vellam release date"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156496278,thumbsize-592099,width-1280,height-720,resizemode-75/156496278.jpg",
+        "caption": "Mani Ratnam's Inji Vellam Sets January Release Date Starring Vijay Sethupathi and Sai Pallavi",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T11:43:44Z"
+  },
+  "2yject": {
+    "id": "2yject",
+    "type": "news",
+    "headline": "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach a Boiling Point",
+    "dek": "Bronwyn introduces her partner to a less-than-thrilling family reception, Whitney navigates marital limbo, and Angie tries to pick up the pieces with Mary.",
+    "body": [
+      {
+        "h": "An Uncomfortable Family Introduction",
+        "p": [
+          "The latest episode begins with an intensely awkward gathering as Bronwyn brings her partner, Brandon, to meet her mother, Muzzy. Right from the start, Muzzy makes her disdain explicitly clear, openly complaining about the meeting and blaming Brandon for unfavorable weather conditions.",
+          "Bronwyn later admits in a confessional that the rushed meetup served as a rebuttal against allegations that their relationship is a publicity stunt. However, doing it in front of cameras ultimately backfired, making the entire encounter appear forced and contrived."
+        ]
+      },
+      {
+        "h": "Whitney and Justin Remain in Limbo",
+        "p": [
+          "Elsewhere, Whitney and Justin sit down once again to discuss the precarious state of their marriage without finding any concrete solutions. Although sleeping in separate rooms has brought slight improvements, Whitney remains deeply uncertain about where she stands in the relationship.",
+          "Justin expresses that while he is trying to remain patient, he will eventually need a definitive verdict on their future together. Watching them navigate quiet marital dissolution without a single explosive inciting event proves to be both compelling and unusual for reality television."
+        ]
+      },
+      {
+        "h": "Angie Reflects on Her Explosive Blowout",
+        "p": [
+          "Catching up with Angie at a local park, Heather and Lisa listen as she processes the fallout from her severe argument with Mary. Angie expresses deep regret over her harsh words, noting that she had been acting like a ticking time bomb by repressing her marital troubles with Shawn instead of acknowledging her emotions.",
+          "Confiding in Lisa provides some comfort, as Lisa experienced similar struggles with John during the previous season and managed to work through them. While reconciliation is not guaranteed, Lisa's past serves as a helpful reminder that relationships can sometimes bounce back from the brink."
+        ]
+      },
+      {
+        "h": "Dueling Lounges and Caviar",
+        "p": [
+          "Meanwhile, Meredith hosts an event for her new lounge space named Perhaps, located in an unconventional warehouse setting reminiscent of an art gallery or parking garage. The setup quickly draws attention because it sits directly across the street from Lisa's competing lounge space, Premiere.",
+          "During the gathering, Mary reveals that she informed Robert Sr. about Angie's hurtful remarks, and he naturally reacted with strong disapproval. Mary also mentions that she initially blocked Angie, though she is now theoretically open to listening to an in-person apology on her own strict terms."
+        ]
+      },
+      {
+        "h": "A Shark-Themed Sweet Sixteen",
+        "p": [
+          "The drama shifts over to a much more celebratory venue as the cast gathers for a shark-themed Sweet Sixteen birthday party. Quai splits time between the two rival events, acting as an informal messenger by updating Angie on the conversations happening across the street at Meredith's lounge.",
+          "During the celebration, Whitney and Justin surprise the birthday girl with a brand-new car. Meanwhile, Angie and Bronwyn share a brief, civil interaction at the party, mutually agreeing that a crowded birthday celebration is not the appropriate place to air their respective grievances."
+        ]
+      },
+      {
+        "h": "A Glimmer of Hope for Angie and Mary",
+        "p": [
+          "Quai relays crucial news to Angie, informing her that despite Mary blocking her and previously rebuffing her attempts at connection, Mary might actually be willing to hear an apology face-to-face. Given Mary's historical tendency to cut people out permanently, this development introduces a slight possibility of mending their fractured friendship.",
+          "As the episode winds down, the women continue to navigate their complex dynamics while celebrating. The potential for future reconciliation leaves viewers wondering how the ongoing fallout will unfold in upcoming episodes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The latest episode of The Real Housewives of Salt Lake City showcases awkward family introductions, ongoing marital uncertainty, and high-stakes social gatherings. Cast members grapple with broken friendships and unresolved personal conflicts while attempting to find a path toward resolution."
+        ]
+      }
+    ],
+    "facts": [
+      "The Real Housewives of Salt Lake City Season 7 Episode 9 is titled Feed Her to the Sharks.",
+      "Bronwyn introduced her partner Brandon to her mother Muzzy.",
+      "Whitney and Justin discussed their marriage and planned a shark-themed Sweet Sixteen for their daughter.",
+      "Angie talked with Heather and Lisa about her blowout fight and regretful words regarding Mary.",
+      "Meredith hosted a tasting event for her new lounge space named Perhaps.",
+      "Mary discussed the conflict with Robert Sr. and stated she blocked Angie before indicating she might listen to an in-person apology."
+    ],
+    "entities": {
+      "people": [
+        "Angie",
+        "Mary",
+        "Bronwyn",
+        "Brandon",
+        "Muzzy",
+        "Todd",
+        "FDR",
+        "Whitney",
+        "Justin",
+        "Beador",
+        "Heather",
+        "Lisa",
+        "Shawn",
+        "John",
+        "Gretchen Wieners",
+        "Regina George",
+        "Meredith Marks",
+        "Robert Sr.",
+        "Quai",
+        "Bobbie",
+        "Vicki Gunvalson",
+        "Briana",
+        "Brian Moylan"
+      ],
+      "titles": [
+        "The Real Housewives of Salt Lake City",
+        "Feed Her to the Sharks"
+      ]
+    },
+    "keywords": [
+      "The Real Housewives of Salt Lake City Season 7 Episode 9",
+      "RHOSLC Feed Her to the Sharks recap",
+      "Angie Mary fight RHOSLC",
+      "Bronwyn Muzzy Brandon RHOSLC"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/565/dad/e2d77ac9b20ba27dc959772b9214ad6c7c-rhoslc-s7-ep9.1x.rsocial.w1200.png",
+        "caption": "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach a Boiling Point",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-12T02:02:09.351Z"
+  },
+  "1dqumy3": {
+    "id": "1dqumy3",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 7 Worldwide: Ranbir Kapoor And Yash Starrer Nears Rs 1000 Crore Milestone",
+    "dek": "The Nitesh Tiwari directed epic Ramayana - Rise of a Legend continues its theatrical rampage, crossing massive global collection milestones within its first week.",
+    "body": [
+      {
+        "h": "Global Box Office Explosion",
+        "p": [
+          "The theatrical adaptation of the Indian epic Ramayana - Rise of a Legend has recorded extraordinary financial success worldwide. Headlined by prominent stars, the feature has captivated audiences across international territories as well as domestic circuits, driving massive commercial momentum just seven days into its theatrical run.",
+          "Trade tracking data highlights the sheer scale of audience turnout, positioning the movie among the highest-earning cinematic ventures in recent history. The production is rapidly approaching a historic threshold that few motion pictures manage to achieve."
+        ]
+      },
+      {
+        "h": "Overseas And Domestic Breakdown",
+        "p": [
+          "According to reports from trade analytics platforms such as Sacnilk, the international markets contributed significantly on the seventh day. Specifically, the overseas collections added Rs 25 crore on Day 7, elevating the cumulative international gross to Rs 323.50 crore.",
+          "When combined with the domestic gross figures within India, which stand at an impressive Rs 611.05 crore, the overall worldwide gross collection reaches a staggering Rs 934.55 crore."
+        ]
+      },
+      {
+        "h": "Closing In On The Thousand Crore Club",
+        "p": [
+          "With global figures resting comfortably above Rs 934 crore after only a single week in cinemas, trade analysts confirm that the feature is fully poised to breach the monumental Rs 1000 crore benchmark.",
+          "The momentum shows minimal signs of slowing down, suggesting that the target will likely be surpassed effortlessly before the conclusion of the current business cycle."
+        ]
+      },
+      {
+        "h": "Historic Milestones Achieved",
+        "p": [
+          "Industry records indicate that this release has achieved the highest Day 7 box office collection ever documented in the history of Indian cinema.",
+          "Furthermore, insights show that the grand feature has consistently maintained a gross exceeding Rs 100 crore for each of the seven consecutive days it has played globally."
+        ]
+      },
+      {
+        "h": "Cast And Creative Direction",
+        "p": [
+          "Helmed by director Nitesh Tiwari and co-written alongside Shridhar Raghavan, the project boasts production backing from Namit Malhotra and Yash. The ensemble cast features Ranbir Kapoor portraying Lord Rama, Yash stepping into the role of Ravana, and Sai Pallavi as Goddess Sita.",
+          "Additional prominent performances include Sunny Deol as Lord Hanuman, Ravie Dubey as Lakshmana, alongside a diverse supporting roster featuring Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Arun Govil, and Lara Dutta."
+        ]
+      },
+      {
+        "h": "Critical Reception And Future Plans",
+        "p": [
+          "Reviewers have responded favorably to the theatrical experience, with publications like Bollywood Bubble awarding the production 4.5 stars and designating it as an essential theatrical watch that meets expectations.",
+          "Looking ahead, the overarching strategy for the franchise involves expanding the narrative universe, with the second installment currently scheduled to arrive in theaters during the Diwali festival in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Ranbir Kapoor and Yash-led epic Ramayana - Rise of a Legend has grossed over Rs 934 crore worldwide within its first seven days in cinemas. Directed by Nitesh Tiwari, the film is on the verge of crossing the Rs 1000 crore milestone while setting records for Day 7 collections in Indian cinema history."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana - Rise of a Legend has grossed over Rs 900 crore globally in 7 days",
+      "The overseas gross stands at Rs 323.50 crore",
+      "The India gross collection is Rs 611.05 crore",
+      "The worldwide gross collection amounts to Rs 934.55 crore",
+      "The film earned Rs 25 crore overseas on Day 7",
+      "The second part of the franchise will release during Diwali 2028"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Shridhar Raghavan",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Lara Dutta"
+      ],
+      "titles": [
+        "Ramayana - Rise of a Legend",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend box office",
+      "Ramayana Day 7 collection",
+      "Ranbir Kapoor Ramayana worldwide",
+      "Yash Ramayana movie earnings"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Ranbir-Kapoor-Sai-Pallavi-Yash-Led-Ramayana-Inches-Closer-To-Rs-1000-Cr-Mark-At-The-Worldwide-Box-Office.webp",
+        "caption": "Ramayana Box Office Day 7 Worldwide: Ranbir Kapoor And Yash Starrer Nears Rs 1000 Crore Milestone",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 10:05:54 +0000"
+  },
+  "1kym5k4": {
+    "id": "1kym5k4",
+    "type": "news",
+    "headline": "Netflix Reveals True Crime Documentary 'Russell Brand: Open Secret'",
+    "dek": "Netflix has announced an upcoming true crime documentary focusing on the career and criminal conviction of British comedian Russell Brand.",
+    "body": [
+      {
+        "h": "Introduction to the Project",
+        "p": [
+          "Streaming giant Netflix has officially unveiled plans for an original true crime documentary that explores the rise and fall of the convicted British personality Russell Brand. Titled Russell Brand: Open Secret, the project is scheduled to premiere on the platform later this year.",
+          "The upcoming feature aims to trace the trajectory of the once popular comedian and media figure, examining both his early career milestones and the subsequent legal proceedings that completely altered his public standing."
+        ]
+      },
+      {
+        "h": "Release Date and Runtime Details",
+        "p": [
+          "Viewers will be able to stream Russell Brand: Open Secret starting on November 13, 2026.",
+          "Netflix has also confirmed the official length of the production, revealing that the true crime documentary has a total runtime of 84 minutes."
+        ]
+      },
+      {
+        "h": "Production Team and Key Creators",
+        "p": [
+          "The documentary is directed by filmmaker Olivia Isaacs and is produced by 72 Films, the same production company behind Jimmy Savile: A British Horror Story.",
+          "The core production team features producers Kate Yandle, Laura Spence, and Felicity Cross. Additionally, the project is backed by executive producers Clare Cameron, David Glover, and Mark Raphael."
+        ]
+      },
+      {
+        "h": "Background on Russell Brand",
+        "p": [
+          "Russell Brand previously established himself as a prominent reality television presenter before transitioning into stand-up comedy and Hollywood acting. Alongside his entertainment career, he also maintained a visible presence as a political activist.",
+          "However, his public profile experienced a dramatic collapse following severe allegations of sexual offenses, culminating in a highly publicized criminal trial that investigated accusations of sexual misconduct spanning multiple victims over the course of his career."
+        ]
+      },
+      {
+        "h": "Legal Verdict and Sentencing",
+        "p": [
+          "Despite entering a plea of not guilty during the legal proceedings, Brand was ultimately convicted by a jury on one count of rape and three distinct counts of sexual assault.",
+          "During the same trial, he was acquitted on two counts of rape and one count of attempted indecent assault. Following the jury's verdict, he was handed a prison sentence of 10 and a half years."
+        ]
+      },
+      {
+        "h": "Investigative Roots and Archival Material",
+        "p": [
+          "The documentary will incorporate a combination of archival footage and insider perspectives to examine Brand's career trajectory and subsequent downfall.",
+          "A key element of the feature focuses on the landmark joint investigation conducted by publication outlets The Times and The Sunday Times, which was spearheaded by chief media correspondent Rosamund Urwin and investigations correspondent Charlotte Wace."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has announced the upcoming true crime documentary Russell Brand: Open Secret, directed by Olivia Isaacs and produced by 72 Films, set for release on November 13, 2026. The 84-minute film examines the career and subsequent criminal conviction of British comedian Russell Brand following a jury trial that resulted in a ten-and-a-half-year prison sentence."
+        ]
+      }
+    ],
+    "facts": [
+      "Russell Brand: Open Secret releases on November 13, 2026",
+      "The documentary has a runtime of 84 minutes",
+      "The film is directed by Olivia Isaacs",
+      "The project is produced by 72 Films",
+      "Russell Brand was convicted on one count of rape and three counts of sexual assault",
+      "Russell Brand was sentenced to 10 and a half years in prison"
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Olivia Isaacs",
+        "Kate Yandle",
+        "Laura Spence",
+        "Felicity Cross",
+        "Clare Cameron",
+        "David Glover",
+        "Mark Raphael",
+        "Rosamund Urwin",
+        "Charlotte Wace"
+      ],
+      "titles": [
+        "Russell Brand: Open Secret",
+        "Jimmy Savile: A British Horror Story",
+        "The Times",
+        "The Sunday Times"
+      ]
+    },
+    "keywords": [
+      "Russell Brand Open Secret",
+      "Russell Brand Netflix documentary",
+      "Olivia Isaacs film",
+      "72 Films Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/russell-brand-open-secret-netflix-documentary-november-2026.jpg",
+        "caption": "Netflix Reveals True Crime Documentary 'Russell Brand: Open Secret'",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 10:32:08 +0000"
   }
 };
