@@ -129117,5 +129117,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 19:37:43 GMT"
+  },
+  "1w20jj1": {
+    "id": "1w20jj1",
+    "type": "news",
+    "headline": "Kiara Advani Addresses Intimate Scenes in Toxic and Husband Sidharth Malhotra's Reaction",
+    "dek": "Kiara Advani opened up on Koffee with Karan about her romantic sequences in Toxic with Yash, Sidharth Malhotra's perspective, and online double standards.",
+    "body": [
+      {
+        "h": "Appearance on Koffee with Karan",
+        "p": [
+          "Bollywood actress Kiara Advani and actor Sidharth Malhotra recently appeared on an episode of Koffee with Karan. During the program, Kiara addressed the intimate scenes she filmed for her upcoming project Toxic.",
+          "The conversation on the chat show shed light on how actors navigate intense scrutiny regarding on-screen romance and personal boundaries within the film industry."
+        ]
+      },
+      {
+        "h": "Sidharth Malhotra's Stance on On-Screen Romance",
+        "p": [
+          "Addressing rumors surrounding her husband's reaction, Kiara stated that Sidharth was completely unfazed by the romantic sequences. She clarified that her co-star Yash did not cause any friction in her marriage.",
+          "She added that the topic of intimacy never even became a point of discussion between the couple, dismissing claims that Sidharth was upset or bothered by the script."
+        ]
+      },
+      {
+        "h": "Addressing Internet Backlash and Gender Bias",
+        "p": [
+          "The actress pointed out the heavy online trolling she faced following the reveal of the intimate scenes. She described the internet's reaction as visibly gender-biased.",
+          "While Kiara herself is married and a mother, online critics selectively targeted her while sparing her co-star Yash, who is a married father of two children. She chose not to dignify the selective public opinions with further justification."
+        ]
+      },
+      {
+        "h": "Karan Johar Highlights Selective Judgment",
+        "p": [
+          "Host Karan Johar joined the conversation by calling out the double standards prevalent in public judgment. He highlighted how female actors often bear the brunt of moral policing for cinematic choices.",
+          "The dialogue on the show emphasized the unfair scrutiny directed toward women in cinema compared to their male counterparts."
+        ]
+      },
+      {
+        "h": "Professional Disappointments and Personal Updates",
+        "p": [
+          "During the episode, Kiara also expressed deep sorrow over the failure of a film at the box office. She admitted that the setback was disheartening for her.",
+          "On the personal front, the actress shared joyous news regarding her family. Kiara proudly showcased her baby bump on the show, announcing her second pregnancy to the audience."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kiara Advani addressed her intimate scenes in Toxic with Yash during an appearance on Koffee with Karan alongside Sidharth Malhotra. She noted that her husband had no issues with the sequences while highlighting the gender-biased trolling directed solely at her."
+        ]
+      }
+    ],
+    "facts": [
+      "Kiara Advani and Sidharth Malhotra appeared on Koffee with Karan.",
+      "Kiara discussed her intimate scenes in the film Toxic with Yash.",
+      "Yash is 40 years old, married, and a father of two children.",
+      "Kiara Advani announced her second pregnancy on the show."
+    ],
+    "entities": {
+      "people": [
+        "Kiara Advani",
+        "Sidharth Malhotra",
+        "Yash",
+        "Karan Johar"
+      ],
+      "titles": [
+        "Toxic",
+        "Koffee with Karan"
+      ]
+    },
+    "keywords": [
+      "Kiara Advani Toxic",
+      "Sidharth Malhotra Koffee with Karan",
+      "Kiara Advani Yash intimate scenes",
+      "Kiara Advani pregnancy"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af55f5a558e6-yash-and-kiara-advani-romance-265534192-16x9.jpg",
+        "caption": "Kiara Advani Addresses Intimate Scenes in Toxic and Husband Sidharth Malhotra's Reaction",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T21:01:26Z"
+  },
+  "1iteizv": {
+    "id": "1iteizv",
+    "type": "news",
+    "headline": "Latin Grammys 2026: Edgar Barrera Leads Nominations as Winners Announced",
+    "dek": "The 27th Annual Latin Grammy Awards kick off with winners announced at the Premiere ceremony, featuring top nominees like Edgar Barrera, Rosalía, Karol G, and Jorge Drexler.",
+    "body": [
+      {
+        "h": "The Premiere Ceremony and Schedule",
+        "p": [
+          "The 27th Annual Latin Grammy Awards commenced with winners beginning to be announced during the Premiere, a non-televised afternoon event where the majority of trophies are handed out. This early ceremony started at 3 p.m. ET, hours ahead of the official evening telecast.",
+          "Fans and industry followers were able to stream the Premiere live across the official digital channels of the Latin Recording Academy. Platforms carrying the broadcast included dedicated Latin Grammys channels on YouTube, Facebook, and X."
+        ]
+      },
+      {
+        "h": "Edgar Barrera Dominates Nominations",
+        "p": [
+          "Mexican songwriter and producer Edgar Barrera stands at the forefront of this year's contenders with an impressive total of 10 nominations. His heavy presence spans major general categories such as record of the year, album of the year, and song of the year, largely driven by his collaborative work with Karol G and Carín León.",
+          "In addition to his general category nods, Barrera secured multiple mentions for songwriter of the year. It is an honor he has successfully claimed for three consecutive years heading into this annual celebration of Latin music."
+        ]
+      },
+      {
+        "h": "Frontrunners Across General Categories",
+        "p": [
+          "Following the top nominee closely are several prominent acts pulling in seven nominations each, including CA7RIEL Paco Amoroso, Jorge Drexler, Karol G, and Rosalía. Meanwhile, Silvana Estrada and Mon Laferte earned six nominations apiece, rounding out a competitive tier of artists vying for top honors.",
+          "The coveted race for album of the year features a diverse group of creators. In addition to the leading multi-nominees, artists such as Anitta, Carín León, Milo J, and Rawayana all secured spots in the category."
+        ]
+      },
+      {
+        "h": "Rosalía and Young Contenders",
+        "p": [
+          "Spanish superstar Rosalía returns to the spotlight with her eclectic release LUX. Her nominations stretch across pop, alternative music, and Portuguese language fields, building on her history of winning the night's highest prize in 2019 for El Mal Querer and in 2022 for Motomami.",
+          "Representing the next generation of talent, 19-year-old Argentine singer and rapper Milo J secured five nominations, landing nods in the three main categories with a folk project. Additional multi-nominee presence comes from artists like Arath Herce, BRUSES, Feid, and others."
+        ]
+      },
+      {
+        "h": "Person of the Year and Best New Artist",
+        "p": [
+          "Reggae and reggaeton icon Daddy Yankee is celebrated as the Latin Recording Academy's 2026 Person of the Year. The honor follows a traditional dinner-concert tribute hosted by his peers, leading up to his scheduled performance during the main broadcast.",
+          "The competitive category for best new artist features a diverse lineup of emerging hopefuls. Nominees in this breakout category include Delilah, Fabian, Loulu Gilberto, Arath Herce, Macario Martínez, Maye, Sofia Monroy, Kendall Peña, Dora Sanches, Aria Vega, and Zeca Veloso."
+        ]
+      },
+      {
+        "h": "Broadcast Details and Eligibility",
+        "p": [
+          "The main 27th Annual Latin Grammy Awards broadcast is scheduled to air live from Las Vegas starting at 8 p.m. ET. Viewers can catch the telecast across TelevisaUnivision platforms.",
+          "Works considered for recognition during this ceremony fell within a specific eligibility window. Recordings released between June 1, 2025, and May 31, 2026, were qualified for submission across the various fields."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Latin Grammys began announcing winners during a daytime Premiere event ahead of the main evening telecast. Edgar Barrera leads the contender list with ten nominations, alongside fellow multi-nominees like Rosalía, Karol G, and Jorge Drexler."
+        ]
+      }
+    ],
+    "facts": [
+      "Edgar Barrera received 10 nominations.",
+      "CA7RIEL Paco Amoroso, Jorge Drexler, Karol G, and Rosalía received seven nominations each.",
+      "Silvana Estrada and Mon Laferte received six nominations each.",
+      "Milo J received five nominations.",
+      "Daddy Yankee is the 2026 Person of the Year.",
+      "The 27th Annual Latin Grammy Awards eligibility window was from June 1, 2025, through May 31, 2026.",
+      "The Premiere event began at 3 p.m. ET on Thursday, Nov. 12."
+    ],
+    "entities": {
+      "people": [
+        "Edgar Barrera",
+        "Karol G",
+        "Carín León",
+        "CA7RIEL Paco Amoroso",
+        "Jorge Drexler",
+        "Rosalía",
+        "Silvana Estrada",
+        "Mon Laferte",
+        "Anitta",
+        "Milo J",
+        "Rawayana",
+        "Arath Herce",
+        "BRUSES",
+        "Feid",
+        "Héctor Mazzarri",
+        "Jennifer Mosello",
+        "Eden Muñoz",
+        "Rauw Alejandro",
+        "Bad Gyal",
+        "Beéle",
+        "Bizarrap",
+        "Ryan Castro",
+        "Daddy Yankee",
+        "Kany García",
+        "Joaquina",
+        "Juanes",
+        "Delilah",
+        "Fabian",
+        "Loulu Gilberto",
+        "Macario Martínez",
+        "Maye",
+        "Sofia Monroy",
+        "Kendall Peña",
+        "Dora Sanches",
+        "Aria Vega",
+        "Zeca Veloso"
+      ],
+      "titles": [
+        "LUX",
+        "El Mal Querer",
+        "Motomami",
+        "EQUILIBRIVM",
+        "FREE SPIRITS",
+        "Taracá",
+        "Vendrán Suaves Lluvias",
+        "Tropicoqueta",
+        "FEMME FATALE",
+        "MUDA",
+        "La Vida Era Más Corta",
+        "¿Dónde Es El After?",
+        "LUX (Complete Works)",
+        "KM0",
+        "Instrucciones Para Ser Feliz",
+        "Enamorada",
+        "Todo Puede Convertirse En Canción",
+        "¿Y Ahora Qué +?",
+        "Amorío",
+        "Puerta Abierta",
+        "Yo Canto 2",
+        "TQ+",
+        "Querida Yo",
+        "Más Cara",
+        "Omerta",
+        "Borondo (5020 Rcrds Sessions)",
+        "Do Not Disturb: Late Checkout"
+      ]
+    },
+    "keywords": [
+      "Latin Grammys 2026 winners",
+      "Edgar Barrera Latin Grammys",
+      "Rosalía Latin Grammys",
+      "Karol G Latin Grammys",
+      "Daddy Yankee Person of the Year"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/09/Rosalia-cr-Noah-Dillon-billboard-1800.jpg?w=1024",
+        "caption": "Latin Grammys 2026: Edgar Barrera Leads Nominations as Winners Announced",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 20:00:00 +0000"
+  },
+  "1d6klpk": {
+    "id": "1d6klpk",
+    "type": "news",
+    "headline": "Kareena Kapoor Khan Faces Legal Notice Over Antique Pendant Featuring Quranic Verses",
+    "dek": "An old royal pendant worn by Kareena Kapoor Khan during Diwali celebrations has sparked controversy, resulting in a legal notice from a Congress leader while drawing unexpected support from Hindu cultural organizations.",
+    "body": [
+      {
+        "h": "The Spark of Controversy",
+        "p": [
+          "A piece of jewelry worn by actor Kareena Kapoor Khan during recent Diwali festivities has triggered a major social media backlash and a formal legal notice. The controversy centers around a large green emerald pendant that the actor wore, which features inscribed verses from the Quran.",
+          "Celebrity stylist Rhea Kapoor had originally shared images of the actor showcasing the heirloom piece, noting its historical significance. However, the online reaction quickly turned contentious as questions were raised regarding the display of sacred religious verses on social media."
+        ]
+      },
+      {
+        "h": "Legal Notice and Objections",
+        "p": [
+          "Madhya Pradesh Congress spokesperson Abbas Hafiz took official action by sending a legal notice to Kareena Kapoor Khan over the pendant. Hafiz clarified that while he has no issue with the actor wearing jewelry, he objects to the manner in which the religious inscription was exhibited online.",
+          "According to Hafiz and his legal counsel Mohammad Zafar, the presence of sacred Quranic verses invokes Islamic traditions that require specific cleanliness and reverence. The legal notice demands that the actor remove the photos, issue a public apology, and provide an assurance that religious verses will not be displayed in such a manner in the future."
+        ]
+      },
+      {
+        "h": "Royal Heritage Context",
+        "p": [
+          "The pendant in question carries deep historical ties, dating back approximately 200 years. It belongs to the ancestral heritage of Bhopal's former royal family.",
+          "Because Kareena Kapoor Khan is married into the family of Saif Ali Khan and is connected to this royal lineage, wearing an heirloom piece passed down through her mother-in-law's family was seen by supporters as a natural nod to familial tradition rather than a deliberate statement."
+        ]
+      },
+      {
+        "h": "Hindu Organizations Extend Support",
+        "p": [
+          "Amidst the mounting criticism and legal scrutiny, several Hindu organizations have stepped forward to defend the actor. The Hindu Utsav Samiti and the Sanskriti Bachao Manch have both voiced their backing for Kareena.",
+          "Chandrashekhar Tiwari, president of the Hindu Utsav Samiti, explicitly stated that there is no reason for the actor to offer an apology. He argued that pendants are designed to be worn around the neck and that wearing a piece with a Quranic inscription does not constitute an intentional sign of disrespect."
+        ]
+      },
+      {
+        "h": "Divided Reactions Within the Community",
+        "p": [
+          "The incident has also created a noticeable rift within the wider community, drawing varied opinions and sparking intense online debates. While some clerics and community members have raised questions and echoed concerns about the handling of sacred texts, others view the situation differently.",
+          "Abbas Hafiz noted that sending the legal notice was his personal decision and emphasized that it had no direct affiliation with the political ideology of the Congress party itself."
+        ]
+      },
+      {
+        "h": "Current Silence From the Actor",
+        "p": [
+          "As the debate continues to unfold across various digital platforms, Kareena Kapoor Khan and her management team have not yet issued a public statement or formal response to the legal notice.",
+          "With prominent cultural groups defending her actions on one side and demands for an apology persisting on the other, the antique royal pendant remains a major talking point in entertainment circles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kareena Kapoor Khan received a legal notice from a Congress spokesperson over an antique royal pendant featuring Quranic verses worn during Diwali. Hindu organizations have defended the actor, arguing she has no need to apologize for wearing family heritage jewelry, while the issue continues to spark debate."
+        ]
+      }
+    ],
+    "facts": [
+      "Kareena Kapoor Khan wore a 200-year-old emerald pendant featuring Quranic verses during Diwali.",
+      "Madhya Pradesh Congress spokesperson Abbas Hafiz sent a legal notice to the actor.",
+      "Lawyer Mohammad Zafar represented the notices regarding the Quranic inscription.",
+      "Hindu Utsav Samiti president Chandrashekhar Tiwari and Sanskriti Bachao Manch supported Kareena Kapoor Khan.",
+      "The date of the report is November 12, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Kareena Kapoor Khan",
+        "Abbas Hafiz",
+        "Mohammad Zafar",
+        "Chandrashekhar Tiwari",
+        "Rhea Kapoor",
+        "Saif Ali Khan"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Kareena Kapoor Khan pendant controversy",
+      "Kareena Kapoor Quran aayat legal notice",
+      "Hindu Utsav Samiti Kareena Kapoor support",
+      "Abbas Hafiz Kareena Kapoor notice"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af5f0c2bdd64-kareena-kapoor-quran-pendant-controversy-120050129-16x9.jpg",
+        "caption": "Kareena Kapoor Khan Faces Legal Notice Over Antique Pendant Featuring Quranic Verses",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T21:01:26Z"
+  },
+  "1aotwds": {
+    "id": "1aotwds",
+    "type": "news",
+    "headline": "Pierce Brosnan Confirms MobLand Season 3 Episode Count and Production Plans",
+    "dek": "Actor Pierce Brosnan has shared new details regarding the upcoming third season of Paramount+'s hit crime drama MobLand, confirming its total episode count and upcoming filming schedule.",
+    "body": [
+      {
+        "h": "Season 3 Episode Count Revealed",
+        "p": [
+          "Paramount+ is preparing to bring back the hit crime thriller series MobLand for a third season, maintaining the structural length of its previous outings. Actor Pierce Brosnan recently confirmed that the upcoming season will consist of a total of ten episodes.",
+          "While the entire chapter has been mapped out to span ten episodes, production is still in its early stages of script development. Cast members have reportedly received only the first three scripts for the third season so far, leaving the rest of the storyline under wraps."
+        ]
+      },
+      {
+        "h": "Cast Members Returning for the Next Chapter",
+        "p": [
+          "The third season of MobLand is set to feature the return of its primary star-studded ensemble. Executive producer and director Guy Ritchie will be back at the helm to guide the new installment.",
+          "Alongside Ritchie's return, principal cast members Pierce Brosnan as crime family patriarch Conrad Harrigan, Helen Mirren as Maeve Harrigan, and Tom Hardy as Harry Da Souza are all confirmed to reprise their respective roles for the upcoming episodes."
+        ]
+      },
+      {
+        "h": "Filming Timelines and Script Development",
+        "p": [
+          "Production for the third season is slated to begin in November, with cameras rolling soon on the newly penned scripts. Although a formal announcement regarding the exact production start date from Paramount+ remains pending, the actors are preparing to return to the set.",
+          "Reflecting on past scheduling hurdles, Pierce Brosnan noted that the previous sophomore run encountered difficulties with late script arrivals. Despite those behind-the-scenes hurdles, the production managed to stay on track for its release schedule."
+        ]
+      },
+      {
+        "h": "Past Drama and Resolution Surrounding Tom Hardy",
+        "p": [
+          "The continuation of the crime drama comes after a period of behind-the-scenes uncertainty concerning one of its lead actors. Earlier in the year, unverified reports circulated suggesting that Tom Hardy had been let go from the show following the completion of season two.",
+          "However, those rumors were subsequently dispelled when reports confirmed that Hardy would indeed return for season three. The reported disputes between the actor and series writer and showrunner Jez Butterworth were successfully resolved ahead of the renewal."
+        ]
+      },
+      {
+        "h": "Early Renewal and Season 2 Finale",
+        "p": [
+          "Paramount+ officially ordered the third season on September 3, arriving roughly two weeks before the premiere of the second season on September 18. This early vote of confidence highlighted the streaming network's strong faith in the franchise's ongoing success.",
+          "As the second season approaches its finale scheduled for Friday, November 20, anticipation continues to build. Additional casting announcements and returning actors are expected to be officially unveiled by the platform once the current season concludes."
+        ]
+      },
+      {
+        "h": "Potential Premiere Window and Future Outlook",
+        "p": [
+          "Looking ahead to a possible premiere date, past production timelines offer a reliable benchmark. If filming proceeds as planned starting this November, the third season could potentially arrive on Paramount+ as early as September 2027.",
+          "Despite the projections based on historical schedules, the streaming network has not yet announced an official release window. Fans will have to wait for further updates from the studio regarding when the crime saga will officially make its comeback."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Pierce Brosnan has confirmed that MobLand will return for a 10-episode third season on Paramount+, with the cast having received the first three scripts so far. Filming is slated to begin this November, featuring the return of Brosnan, Helen Mirren, and Tom Hardy following the resolution of earlier behind-the-scenes disputes."
+        ]
+      }
+    ],
+    "facts": [
+      "Paramount+ announced the renewal of MobLand for season 3 on September 3.",
+      "Season 2 premiered on September 18.",
+      "MobLand season 3 will have 10 total episodes.",
+      "Filming for season 3 is set to begin in November.",
+      "The season 2 finale airs on Friday, November 20.",
+      "Confirmed returning cast members include Pierce Brosnan, Helen Mirren, and Tom Hardy."
+    ],
+    "entities": {
+      "people": [
+        "Pierce Brosnan",
+        "Helen Mirren",
+        "Tom Hardy",
+        "Guy Ritchie",
+        "Jez Butterworth"
+      ],
+      "titles": [
+        "MobLand"
+      ]
+    },
+    "keywords": [
+      "MobLand season 3",
+      "Pierce Brosnan MobLand",
+      "Tom Hardy MobLand",
+      "Guy Ritchie MobLand"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/tom-hardy-s-harry-looking-dismissively-at-someone-in-mobland-season-2.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Pierce Brosnan Confirms MobLand Season 3 Episode Count and Production Plans",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 20:14:09 GMT"
   }
 };
