@@ -121904,5 +121904,410 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 03:15:16 GMT"
+  },
+  "1drgp7m": {
+    "id": "1drgp7m",
+    "type": "news",
+    "headline": "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
+    "dek": "Punjabi singer Diljit Dosanjh is heading back to Coachella for the 2027 festival, joining a star-studded lineup featuring Madonna, Dua Lipa, SZA, and Daddy Yankee.",
+    "body": [
+      {
+        "h": "The Return to Coachella",
+        "p": [
+          "Punjabi music sensation Diljit Dosanjh is officially heading back to the renowned Coachella Valley Music and Arts Festival. Four years after breaking barriers as the very first Punjabi artist to ever perform on that stage, he is slated to return for the 2027 edition.",
+          "His upcoming performance is officially booked for the opening weekend of the festival. Organizers have scheduled the event across two consecutive weekends, taking place from April 9 to April 11 and April 16 to April 18, 2027."
+        ]
+      },
+      {
+        "h": "A Star-Studded 2027 Lineup",
+        "p": [
+          "The newly unveiled lineup for Coachella 2027 boasts an impressive roster of global music A-listers. Alongside Diljit, the festival features major headliners like Dua Lipa, SZA, Tame Impala, and a special production featuring Daddy Yankee as a fourth top-billed artist.",
+          "According to details shared by the festival organizers and reported by media outlets, Dua Lipa, Tame Impala, and SZA are locked in for the Friday, Saturday, and Sunday headlining slots, respectively."
+        ]
+      },
+      {
+        "h": "An Eclectic Mix of Global Artists",
+        "p": [
+          "The broader artist roster for the upcoming festival weekend is packed with diverse musical talent. Friday's schedule features performances by Madonna, Zara Larsson, Steve Lacey, JISOO, Kehlani, and Leon Thomas.",
+          "Meanwhile, the Saturday and Sunday lineups include popular acts such as Phoebe Bridgers, Weezer, Tiësto, Martin Garrix, Don Toliver, Kygo, and Becky G, alongside many others."
+        ]
+      },
+      {
+        "h": "Festival Logistics and Ticketing",
+        "p": [
+          "Coachella 2027 will once again be hosted at its traditional home, the Empire Polo Club located in Indio, California. Fans looking forward to attending the festival over the two scheduled weekends can secure their passes starting November 13 directly through the official festival website."
+        ]
+      },
+      {
+        "h": "Building on Past Success",
+        "p": [
+          "This announcement comes on the heels of another massive year for Coachella, which previously featured high-profile sets from artists like Sabrina Carpenter, Justin Bieber, Karol G, and Anyma. Memorable moments from prior editions included Madonna making a surprise guest appearance during weekend two of Carpenter's theatrical production."
+        ]
+      },
+      {
+        "h": "Current Tours and Recent Projects",
+        "p": [
+          "Before taking on the Coachella stage in 2027, Diljit is actively busy with his ongoing Aura Tour across India. His upcoming performance schedule includes a concert in Indore on November 15, followed by a stop in Mumbai later in the month.",
+          "In addition to his live tours, the singer recently collaborated with the creative team behind the cinematic project Ramayana, delivering a special rendition of the Hanuman Chalisa used to introduce Sunny Deol's character in the franchise."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Punjabi singer Diljit Dosanjh is scheduled to return to the Coachella stage in 2027 for the festival's first weekend. He will join a major star-studded lineup that includes Dua Lipa, Madonna, SZA, and Daddy Yankee at the Empire Polo Club in Indio, California."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh is returning to Coachella in 2027.",
+      "Diljit made his Coachella debut four years prior as the first Punjabi singer to perform there.",
+      "Coachella 2027 will take place over April 9-11 and April 16-18, 2027.",
+      "Passes for Coachella 2027 go on sale from November 13.",
+      "Coachella 2027 is held at the Empire Polo Club in Indio, California.",
+      "Diljit Dosanjh is currently on his Aura Tour and performing in Indore on November 15."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Madonna",
+        "Dua Lipa",
+        "Daddy Yankee",
+        "SZA",
+        "Tame Impala",
+        "Zara Larsson",
+        "Steve Lacey",
+        "JISOO",
+        "Kehlani",
+        "Leon Thomas",
+        "Phoebe Bridgers",
+        "Weezer",
+        "Tiësto",
+        "Martin Garrix",
+        "Don Toliver",
+        "Kygo",
+        "Becky G",
+        "Sabrina Carpenter",
+        "Justin Bieber",
+        "Karol G",
+        "Anyma",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana",
+        "Hanuman Chalisa"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Coachella 2027",
+      "Diljit Dosanjh Aura Tour",
+      "Coachella 2027 lineup Madonna Dua Lipa",
+      "Diljit Dosanjh Ramayana Hanuman Chalisa"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156494283,thumbsize-753811,width-1280,height-720,resizemode-75/156494283.jpg",
+        "caption": "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T03:59:28Z"
+  },
+  "bykr2r": {
+    "id": "bykr2r",
+    "type": "news",
+    "headline": "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Khurana",
+    "dek": "The makers of Gunmaaster G9 unveiled the official trailer at an event in Pune, showcasing high-octane action, classic dialoguebaazi, and romance ahead of the theatrical release on November 27, 2026.",
+    "body": [
+      {
+        "h": "Pune Trailer Launch Event",
+        "p": [
+          "The creative team behind Gunmaaster G9 officially revealed the film's trailer during a live public event hosted in Pune. Leading cast members Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh joined director Aditya Datt and producer Deepak Mukut on stage to present the footage to an excited audience.",
+          "The newly released promotional video highlights a multi-genre entertainer that blends intense gunfights, hand-to-hand combat, romantic moments, and a strong musical core. The theatrical release date has been officially locked for November 27, 2026."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The storyline centers around a former criminal master portrayed by Emraan Hashmi, who attempts to leave his dark past behind to build a quiet life with his family. However, unresolved conflicts resurface, threatening his present stability and putting his future with his partner, played by Genelia Deshmukh, in serious jeopardy.",
+          "To secure his family's safety, the protagonist must confront a menacing antagonist brought to life by Aparshakti Khurana. The trailer highlights whistle-worthy moments and classic dialoguebaazi specifically crafted to resonate with single-screen theater audiences."
+        ]
+      },
+      {
+        "h": "Emraan Hashmi Tackles a New Physical Challenge",
+        "p": [
+          "Lead actor Emraan Hashmi described his involvement in the project as a unique professional challenge. He noted that while he has often portrayed characters in dangerous scenarios, this role places him directly in the epicenter of the physical chaos rather than merely reacting to it.",
+          "To prepare for the demanding role, the actor underwent rigorous physical training that included martial arts instruction, gun shooting practice, and extensive conditioning for complex action sequences, aiming to present a completely fresh side of his screen persona to viewers."
+        ]
+      },
+      {
+        "h": "Genelia Deshmukh on Her First Collaboration",
+        "p": [
+          "Genelia Deshmukh shares the screen with Emraan Hashmi for the very first time in this project. She emphasized that the film's commercial appeal stems from its refusal to stay confined to a single mood, incorporating romance, humor, music, and raw emotion alongside the heavy action.",
+          "She expressed great enthusiasm for the collaboration, stating that the trailer only serves as a small window into the diverse and entertaining cinematic world the team built during production."
+        ]
+      },
+      {
+        "h": "Aparshakti Khurana Takes on the Antagonist Role",
+        "p": [
+          "Aparshakti Khurana spoke about his villainous role, noting that high-scale action projects require every cast member to contribute distinct energy to the overall narrative chaos. He praised the vibrant mix of characters and situations featured in the script.",
+          "The actor believes the production's larger-than-life moments are ideally suited for collective viewing experiences in crowded theater halls, which forms the primary foundation of the film's theatrical appeal."
+        ]
+      },
+      {
+        "h": "Director Aditya Datt Reunites With the Star",
+        "p": [
+          "Director Aditya Datt shared his excitement about reuniting with Emraan Hashmi to showcase the actor in an unexplored performance space. He stated that his goal was to reintroduce a classic cinematic avatar that has been absent from the screen for quite some time.",
+          "The filmmaker combined high-octane sequences with powerful music to honor their previous collaborative journeys while ensuring the final product feels fresh, explosive, and tailored for contemporary audiences."
+        ]
+      },
+      {
+        "h": "Production Backing and Release Details",
+        "p": [
+          "Gunmaaster G9 is backed by producers Deepak Mukut, Hunar Mukut, and Sangeeta Ahir, and is officially presented by Soham Rockstar Entertainment Pvt. Ltd. The film is scheduled to arrive in movie theaters on November 27, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The cast and crew of Gunmaaster G9 launched the official film trailer at an event in Pune ahead of the theatrical release on November 27, 2026. The action-romance feature stars Emraan Hashmi, Genelia Deshmukh, and Aparshakti Khurana under the direction of Aditya Datt."
+        ]
+      }
+    ],
+    "facts": [
+      "Gunmaaster G9 releases in theatres on November 27, 2026",
+      "The trailer was unveiled at an event in Pune on November 11, 2026",
+      "The film stars Emraan Hashmi, Genelia Deshmukh, Aparshakti Khurana, and Abhishek Singh",
+      "The film is directed by Aditya Datt",
+      "The film is produced by Deepak Mukut, Hunar Mukut, and Sangeeta Ahir",
+      "The film is presented by Soham Rockstar Entertainment Pvt. Ltd."
+    ],
+    "entities": {
+      "people": [
+        "Emraan Hashmi",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "Abhishek Singh",
+        "Aditya Datt",
+        "Deepak Mukut",
+        "Hunar Mukut",
+        "Sangeeta Ahir",
+        "Tanmayi Savadi"
+      ],
+      "titles": [
+        "Gunmaaster G9"
+      ]
+    },
+    "keywords": [
+      "Gunmaaster G9 trailer",
+      "Emraan Hashmi Gunmaaster G9",
+      "Genelia Deshmukh",
+      "Aparshakti Khurana",
+      "Aditya Datt"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156494481,thumbsize-575905,width-1280,height-720,resizemode-75/156494481.jpg",
+        "caption": "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Kh",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T03:59:28Z"
+  },
+  "1ml6m6z": {
+    "id": "1ml6m6z",
+    "type": "news",
+    "headline": "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
+    "dek": "The original cast and fresh faces gathered at the Beacon Theatre in New York City to celebrate the red carpet premiere of the latest comedy installment, Focker-in-Law.",
+    "body": [
+      {
+        "h": "The New York City Red Carpet Premiere",
+        "p": [
+          "The stars of the beloved comedy franchise assembled once again for a high-profile red carpet event in New York City. Ben Stiller, Robert De Niro, and Owen Wilson stepped out on Wednesday night to launch their latest cinematic collaboration.",
+          "The premiere took place at the historic Beacon Theatre, drawing massive attention from fans and photographers alike as the principal actors posed for the cameras."
+        ]
+      },
+      {
+        "h": "Returning Favorites and Fresh Faces",
+        "p": [
+          "Audiences will see a blend of nostalgic returning talent alongside exciting new additions to the ensemble. Franchise veterans Teri Polo and Blythe Danner reprise their familiar roles alongside the core trio.",
+          "Meanwhile, the cast expands with fresh comedic energy brought by newcomers Skyler Gisondo, Beanie Feldstein, and Eduardo Franco joining the unfolding chaos."
+        ]
+      },
+      {
+        "h": "Ariana Grande Makes Red Carpet Debut",
+        "p": [
+          "Pop superstar Ariana Grande also joined the ensemble cast at the premiere event. Marking a major highlight of the evening, she made her official red carpet debut alongside her on-again boyfriend, Ricky Alvarez.",
+          "The appearance generated significant buzz among attendees and media outlets covering the glamorous New York City gathering."
+        ]
+      },
+      {
+        "h": "Plot Synopsis and Franchise Background",
+        "p": [
+          "The story centers on Greg Focker, who remains a helicopter parent to his two adult children. His anxieties spike when his son Henry introduces a formidable new girlfriend, Olivia, during celebrations for Jack Byrnes' 80th birthday.",
+          "This latest chapter follows a rich comedic history that began with Meet the Parents in 2000, which grossed $330 million worldwide, followed by sequels Meet the Fockers in 2004 and Little Fockers in 2010."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Creative Team",
+        "p": [
+          "John Hamburg returns to helm this installment, taking charge of both the writing and directing duties for the continuation of the comedy series.",
+          "The narrative explores escalating rivalries across airplanes, kitchens, and bike paths as Greg attempts to unmask what he believes Olivia is hiding."
+        ]
+      },
+      {
+        "h": "Theatrical Release Details",
+        "p": [
+          "Fans eagerly anticipating the next chapter of the family dynamic will not have to wait much longer. Focker-in-Law is officially scheduled to hit movie theaters nationwide on November 25.",
+          "The premiere served as a major promotional milestone ahead of the upcoming holiday season theatrical rollout."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ben Stiller, Robert De Niro, Owen Wilson, and other cast members attended the premiere of Focker-in-Law at the Beacon Theatre in New York City on Wednesday, November 11. The film, directed by John Hamburg, is scheduled for theatrical release on November 25."
+        ]
+      }
+    ],
+    "facts": [
+      "The premiere took place on Wednesday, November 11, 2026.",
+      "The event was held at the Beacon Theatre in New York City.",
+      "Meet the Parents was released in 2000 and grossed $330 million worldwide.",
+      "Meet the Fockers was released in 2004.",
+      "Little Fockers was released in 2010.",
+      "Focker-in-Law is scheduled to hit theaters on November 25."
+    ],
+    "entities": {
+      "people": [
+        "Ben Stiller",
+        "Robert De Niro",
+        "Owen Wilson",
+        "Teri Polo",
+        "Blythe Danner",
+        "Skyler Gisondo",
+        "Beanie Feldstein",
+        "Eduardo Franco",
+        "Ariana Grande",
+        "Ricky Alvarez",
+        "John Hamburg",
+        "Henry",
+        "Olivia",
+        "Jack Byrnes",
+        "Greg Focker"
+      ],
+      "titles": [
+        "Focker-in-Law",
+        "Meet the Parents",
+        "Meet the Fockers",
+        "Little Fockers"
+      ]
+    },
+    "keywords": [
+      "Focker-in-Law premiere",
+      "Ben Stiller Robert De Niro",
+      "Ariana Grande Focker-in-Law",
+      "Focker-in-Law release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.justjared.com/wp-content/uploads/2026/11/focker-in-law-premiere-nyc.jpg",
+        "caption": "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
+        "source": "Just Jared"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 02:24:04 +0000"
+  },
+  "ddarhf": {
+    "id": "ddarhf",
+    "type": "news",
+    "headline": "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood",
+    "dek": "Discover how Zendaya and Tom Holland transitioned from the Spider-Man set to becoming Hollywood's ultimate Gen Z power couple, balancing massive fortunes, global stardom, and fierce privacy.",
+    "body": [
+      {
+        "h": "Origins on the Spider-Man Set",
+        "p": [
+          "The real-life romance between Zendaya and Tom Holland blossomed directly from their time working together on the Marvel Spider-Man franchise. Initially portraying Peter Parker and MJ on screen, their palpable chemistry eventually translated into a genuine romantic relationship off-screen.",
+          "Fans watched their dynamic evolve seamlessly from fictional co-stars to an actual couple. This organic transition captured the imagination of millions worldwide, establishing them as a defining romance of contemporary Hollywood."
+        ]
+      },
+      {
+        "h": "Born in 1996: The Gen Z Icons",
+        "p": [
+          "Both actors, born in the year 1996, stand out as leading figures of the Gen Z generation. Their massive cultural footprint extends far beyond traditional film acting, capturing the modern zeitgeist of youth pop culture.",
+          "Whether through their professional achievements or their public appearances, they represent the new wave of talent steering the entertainment industry forward with undeniable influence and widespread appeal."
+        ]
+      },
+      {
+        "h": "Stellar Careers and Box Office Clout",
+        "p": [
+          "Tom Holland has firmly cemented his status as a global box office powerhouse, primarily driven by his monumental success in the blockbuster Spider-Man films. His cinematic adventures consistently draw massive crowds to theaters across the globe.",
+          "Concurrently, Zendaya has earned immense critical and commercial acclaim. Her remarkable acting talent has already earned her two Emmy Awards, alongside starring roles in major hit films like Dune and Challengers."
+        ]
+      },
+      {
+        "h": "Luxury Brand Endorsements and Wealth",
+        "p": [
+          "Beyond their cinematic achievements, both stars command significant financial standing. Their combined net worth stretches into hundreds of crores, translating to roughly 50 to 60 million dollars according to various media reports.",
+          "Zendaya's high fashion influence is further highlighted by her status as a preferred face for premier international luxury brands such as Louis Vuitton and Bulgari, enhancing their collective economic power."
+        ]
+      },
+      {
+        "h": "Massive Social Media Following",
+        "p": [
+          "The couple commands extraordinary attention and massive fan followings across various social media platforms. Any photograph featuring the two of them together instantly goes viral across the internet.",
+          "On Instagram alone, Zendaya boasts a staggering follower count exceeding 180 million, while Tom Holland also commands a massive legion of followers who eagerly track their every digital update."
+        ]
+      },
+      {
+        "h": "Red Carpet Chemistry and Public Charm",
+        "p": [
+          "Whenever the duo appears together on the red carpet, they inevitably draw the intense focus of the paparazzi. Moments such as Tom adjusting Zendaya's dress or openly praising her quickly become trending topics online.",
+          "These public gestures of mutual admiration continually reinforce their status as modern relationship goals for fans across the globe, perfectly blending glamour with genuine affection."
+        ]
+      },
+      {
+        "h": "Guarding Their Private Life",
+        "p": [
+          "Despite living their lives under the glaring spotlight of international fame and amassing vast fortunes, Zendaya and Tom maintain a fierce commitment to keeping their private lives away from relentless media gossip.",
+          "Their protective and respectful approach toward one another amidst the Hollywood whirlwind has earned them deep admiration, proving that true intimacy can coexist with global superstardom."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Zendaya and Tom Holland have emerged as Hollywood's premier Gen Z power couple after starting their romance on the set of Spider-Man. With massive fortunes, global star power, and millions of social media followers, the two actors continue to captivate fans while fiercely guarding their personal privacy."
+        ]
+      }
+    ],
+    "facts": [
+      "Zendaya and Tom Holland were both born in 1996.",
+      "Zendaya has won two Emmy Awards for her acting.",
+      "Zendaya and Tom Holland's combined net worth is reported to be between 50 and 60 million dollars.",
+      "Zendaya has over 18 million followers on Instagram."
+    ],
+    "entities": {
+      "people": [
+        "Zendaya",
+        "Tom Holland"
+      ],
+      "titles": [
+        "Spider-Man",
+        "Dune",
+        "Challengers"
+      ]
+    },
+    "keywords": [
+      "Zendaya Tom Holland relationship",
+      "Zendaya net worth",
+      "Tom Holland Spider-Man",
+      "Gen Z power couple Hollywood"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af416e36abba-gen-z-couple-111858228-16x9.png",
+        "caption": "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T03:59:28Z"
   }
 };

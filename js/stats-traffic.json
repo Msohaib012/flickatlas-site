@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-12T03:22:37Z",
+  "generated": "2026-11-12T04:11:11Z",
   "realtime": {
     "active_users": 2
   },
   "today": {
-    "users": 3,
-    "pageviews": 3,
-    "sessions": 3,
-    "avg_session_seconds": 4.1
+    "users": 7,
+    "pageviews": 7,
+    "sessions": 7,
+    "avg_session_seconds": 4.3
   },
   "last7": {
-    "users": 67,
-    "pageviews": 246,
-    "sessions": 104,
-    "avg_session_seconds": 93.6
+    "users": 71,
+    "pageviews": 250,
+    "sessions": 108,
+    "avg_session_seconds": 90.3
   },
   "top_pages": [
     {
@@ -72,18 +72,18 @@
       "avg_time_seconds": 7.1
     },
     {
-      "path": "/search",
-      "title": "Search Movies, TV Shows & Entertainment News | FlickAtlas",
+      "path": "/person",
+      "title": "Actor & Filmmaker Profiles | FlickAtlas",
       "views": 8,
-      "avg_time_seconds": 55.7
+      "avg_time_seconds": 4.7
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 88,
-      "users": 58
+      "sessions": 92,
+      "users": 62
     },
     {
       "source": "search.google.com",
@@ -115,19 +115,23 @@
     },
     {
       "country": "Singapore",
-      "users": 8
+      "users": 9
+    },
+    {
+      "country": "Pakistan",
+      "users": 6
     },
     {
       "country": "Argentina",
       "users": 5
     },
     {
-      "country": "Pakistan",
-      "users": 5
-    },
-    {
       "country": "Hong Kong",
       "users": 4
+    },
+    {
+      "country": "Germany",
+      "users": 2
     },
     {
       "country": "Indonesia",
@@ -140,16 +144,12 @@
     {
       "country": "Malaysia",
       "users": 2
-    },
-    {
-      "country": "Morocco",
-      "users": 2
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 59
+      "users": 63
     },
     {
       "device": "mobile",

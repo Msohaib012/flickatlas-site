@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T07:51:00Z",
-    "run_id": "42982443775",
-    "status": "success",
-    "checked": {
-     "candidates": 213,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Scene Kerala Box Office Collection Day 5: Suriya, Nazriya Nazim And Naslen's Film Crosses ₹21 Crore",
-      "Mookuthi Amman 2 Box Office: Nayanthara’s Film Needs Just 13 Lakhs To Beat Sardar 2!",
-      "Bollywood’s Top 10 Opening Weekend Grossers Of 2026 At Indian Box Office",
-      "Ramayana Box Office Collections: Ranbir Kapoor and Yash starrer nets Rs. 92 Cr on Tuesday, Rises to Rs. 433 Cr in 6 days",
-      "New mugshot released after ankle monitor incident",
-      "Stacy Keach passes away at 85: Actor who brought Mike Hammer to life; fans revisit his unforgettable voice",
-      "Kiara Advani's baby bump gets another red carpet moment on Koffee with Karan, it has a 2025 Met Gala look connection",
-      "Exclusive | Chunky Panday reacts to the most expensive donkey being named after him at Chitrakoot fair",
-      "Stargate SG-1 Franchise Officially Returning For A New Era",
-      "Picard Goes Full Locutus In Star Trek: Showdown At Sector 001",
-      "Patrick Stewart’s 12-Part Historical Drama Delivers A Masterclass In Political Storytelling",
-      "US judge rejects BBC bid to dismiss Trump defamation suit",
-      "Behind Bangladesh's garment boom, workers cut food, healthcare as wages fall short",
-      "Nvidia’s CEO probe and Singapore ties: Will future chip orders suffer?",
-      "Matsuzaka Tori Says 2027 Will Be All About His NHK Taiga Drama",
-      "LE SSERAFIM's Kazuha Reveals the K-Drama She's Hooked On",
-      "In Gyo Jin Reveals the Loan That Kept Him Up at Night",
-      "Seo Kang Joon Turns Down Lee Byung Hun's Action Film Nambeol",
-      "Jang Nara, Kim Hye Yoon, P.O, And Park Hae Jin Approach Divorce Cases With Different Strategies In “Good Partner 2” Posters",
-      "Netflix Announces New Vocal Survival Show “Vocal Class Wars”"
-     ],
-     "updated": [],
-     "count": 206,
-     "detail": "213 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T08:51:45Z",
     "run_id": "42990227300",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "258 stories, 1 duplicates removed, 9 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T07:51:40Z",
-    "run_id": "42982443775",
+    "run_at": "2026-11-12T03:58:55Z",
+    "run_id": "43151693661",
     "status": "success",
     "checked": {
-     "candidates": 8,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 254,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Saranagati: Hombale Films Announces AI Motion Capture Biopic on ISKCON Founder A. C. Bhaktivedanta Swami Srila Prabhupada",
-      "Callum Turner Films Johnnie Walker Commercial in New York Amid Intensive James Bond Casting Speculation",
-      "New Mugshot Released of Thomas Markle After Court-Ordered Ankle Monitor Incident",
-      "EastEnders Airs Heartbreaking Linda Carter Scenes as Nancy Goes Into Labour"
+      "Sohail Khan’s post for parents Salim Khan and Salma Khan wins hearts",
+      "7 Hollywood stars who served in the military before becoming famous",
+      "Kiara Advani reveals bonding over motherhood with Alia Bhatt, Katrina Kaif during postpartum phase after Saraayah's birth",
+      "Inside Anirudh-Kavya's Greece wedding: Rajinikanth, Stalin share front-row spotlight",
+      "‘Harry Potter’ and ‘Stranger Things’ Stars Officially Join ‘Hereditary’ Director’s New Nightmare",
+      "The Biggest Sci-Fi Bomb of 2026 Officially Passes Final Box Office Milestone",
+      "The Institute Season 2 Interview with Simone Miller, Arlen So & Fionn Laird",
+      "ABC Flipped Abbott Elementary's Best Relationship On Its Head 4 Years Later",
+      "Arrival Timeline Explained: Making Sense Of The Movie's Twist",
+      "Every Game Of Thrones Character That Was Recast (& Why)",
+      "The Remarried Empress Interview with Shin Min-a, Ju Ji-hoon, Lee Jong-suk & Lee Se-young",
+      "DC Show’s Season 2 Antihero Casting Rumors Clarified By Showrunner",
+      "What Happens To Scarlet Witch’s Kids Billy And Tommy After VisionQuest",
+      "Dungeon Crawler Carl Drops Official New Epilogue, Here's Where To Read It",
+      "DC's Most Demanded Costume Of All Time Officially Returns Today",
+      "Movie Marketing Veteran Gerry Rich on Opening ‘Iron Man,’ Grappling With AI and Maintaining the Human Touch",
+      "Lionsgate Acquires Alma Har’el’s ‘Wet’ Starring Connor Storrie, Rebecca Ferguson, Odessa A’zion, Rosalía & Lukas Haas",
+      "Our Top 29 Holiday Gifts of 2026",
+      "‘Survivor 51’ Episode 8 recap: Jeff Probst ‘adds another layer of complexity’ with return of Double Duo twist",
+      "Chicago Fire - Over the Edge (15.06) - Rate the Episode!"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 239,
+     "detail": "254 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T03:59:28Z",
+    "run_id": "43151693661",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
+      "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Khurana",
+      "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
+      "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T08:52:17Z",
-    "run_id": "42990227300",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,26 +1887,27 @@
      "detail": "now 292, coming 12"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T07:51:42Z",
-    "run_id": "42982443775",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T03:59:28Z",
+    "run_id": "43151693661",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 304,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 292, coming 12"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2439,27 +2422,26 @@
      "count": 7
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T07:51:40Z",
-    "run_id": "42982443775",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T04:11:00Z",
+    "run_id": "43151693661",
     "status": "success",
     "checked": {
-     "candidates": 648,
-     "detail": "633 collected staging rows from readers; 222 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 634 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2873,19 +2855,27 @@
      "detail": "+0 new rows, 4 updated rows, 639 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:10:58Z",
+    "run_id": "43151693661",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "639 collected staging rows from readers; 222 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+3 new rows, 3 updated rows, 640 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3122,32 +3112,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T07:51:42Z",
-    "run_id": "42982443775",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Saranagati: Hombale Films Announces AI Motion Capture Biopic on ISKCON Founder A. C. Bhaktivedanta Swami Srila Prabhupada",
-      "Callum Turner Films Johnnie Walker Commercial in New York Amid Intensive James Bond Casting Speculation",
-      "EastEnders Airs Heartbreaking Linda Carter Scenes as Nancy Goes Into Labour",
-      "New Mugshot Released of Thomas Markle After Court-Ordered Ankle Monitor Incident"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3665,19 +3642,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:10:59Z",
+    "run_id": "43151693661",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
+      "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Khurana",
+      "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
+      "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3950,19 +3940,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4235,31 +4225,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T07:51:40Z",
-    "run_id": "42982443775",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 206 still unprocessed; today by category: movies 2/6, tv_dramas 6/4, episodes 0/2, box_office 6/6, celebrities_events 10/5, upcoming_releases 1/4, ott_streaming 4/4, trailers 3/3, awards 0/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Saranagati: Hombale Films Announces AI Motion Capture Biopic on ISKCON Founder A. C. Bhaktivedanta Swami Srila Prabhupada",
-      "Callum Turner Films Johnnie Walker Commercial in New York Amid Intensive James Bond Casting Speculation",
-      "New Mugshot Released of Thomas Markle After Court-Ordered Ankle Monitor Incident",
-      "EastEnders Airs Heartbreaking Linda Carter Scenes as Nancy Goes Into Labour"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4746,19 +4724,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T03:59:28Z",
+    "run_id": "43151693661",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 239 still unprocessed; today by category: movies 2/6, tv_dramas 2/4, episodes 0/2, box_office 5/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 1/2"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
+      "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Khurana",
+      "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
+      "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5065,24 +5055,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 377,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5412,24 +5397,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 14,
+     "count": 405,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5759,19 +5744,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 23,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6016,19 +6006,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6254,6 +6244,16 @@
     "category": "Stats / Health",
     "run_at": "2026-11-12T03:22:38Z",
     "run_id": "43147080790",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -6264,16 +6264,6 @@
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
     "run_at": "2026-11-11T09:06:55Z",
     "run_id": "42990227300",
     "status": "skipped",
@@ -6500,19 +6490,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6753,19 +6743,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -6995,19 +6985,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7260,6 +7250,16 @@
      "count": 15
     },
     "reason": null
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
@@ -7776,16 +7776,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-11T09:06:55Z",
     "run_id": "42990227300",
     "status": "skipped",
@@ -8017,19 +8007,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T07:51:49Z",
-    "run_id": "42982443775",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8274,8 +8264,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T04:11:11Z",
+    "run_id": "43151693661",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T03:22:38Z"
+ "updated_at": "2026-11-12T04:11:11Z"
 }
