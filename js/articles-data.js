@@ -129908,5 +129908,306 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-12T21:51:33Z"
+  },
+  "676zke": {
+    "id": "676zke",
+    "type": "news",
+    "headline": "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
+    "dek": "The Friends star returns to Instagram after several months away to pay tribute to his late television father and colleague, Stacy Keach, while preparing for his upcoming dramatic television return.",
+    "body": [
+      {
+        "h": "Breaking Silence for a Former Co-Star",
+        "p": [
+          "Matt LeBlanc recently ended months of silence on his social media platforms to address a heartbreaking personal loss. The actor took to Instagram to share a thoughtful tribute dedicated to his late friend and former television co-star, Stacy Keach. The post marked his first activity on the platform since June.",
+          "The heartfelt gesture drew widespread attention and an outpouring of condolences from fans and supporters alike. Many followers flooded the comments section to express sympathy for the actor and to honor the memory of the veteran performer."
+        ]
+      },
+      {
+        "h": "Remembering Stacy Keach",
+        "p": [
+          "Stacy Keach passed away on November 10 at the age of 85. His cause of death was attributed to heart failure complicated by heart disease.",
+          "The celebrated actor enjoyed a remarkably long and diverse career encompassing both memorable comedic turns and acclaimed dramatic performances. His passing prompted touching recollections from colleagues across the entertainment industry."
+        ]
+      },
+      {
+        "h": "Working Together on Man with a Plan",
+        "p": [
+          "Matt LeBlanc and Stacy Keach shared a strong on-screen dynamic while working together on the CBS sitcom Man with a Plan. In the series, LeBlanc portrayed the traditional family man Adam Burns, while Keach played his father, Joe Burns.",
+          "Reflecting on their time together, LeBlanc shared a photograph from Keach's 2019 Hollywood Walk of Fame ceremony. He accompanied the image with a message praising his late co-star as a true legend who brought plenty of laughter to the set."
+        ]
+      },
+      {
+        "h": "A Look Back at Man with a Plan",
+        "p": [
+          "Man with a Plan debuted on television in 2016 and enjoyed a four-season run before concluding in June 2020 after airing 69 episodes. Despite receiving mixed reviews from critics during its broadcast, the show maintained strong and steady ratings for the majority of its run.",
+          "The sitcom holds a unique place in television history as Matt LeBlanc's most recent regular role in a television series. Aside from special appearances in the Friends reunion and a Top Gear episode in 2021, the actor has largely kept out of the public eye."
+        ]
+      },
+      {
+        "h": "Stepping Into a New Dramatic Project",
+        "p": [
+          "After years away from regular television work, Matt LeBlanc is preparing for a major television comeback. On April 15, CBS announced that it had greenlit a development room for a new series currently working under the title Flint.",
+          "The upcoming project represents a notable departure from the actor's classic comedic portfolio, which includes iconic works such as Friends, Episodes, and Man with a Plan. Flint is currently developed as a drama series slated to premiere during the 2027-28 television season."
+        ]
+      },
+      {
+        "h": "Behind the Scenes of Flint",
+        "p": [
+          "In addition to starring in the leading role, Matt LeBlanc will also serve as an executive producer on Flint. The series is produced in partnership with CBS Studios and Jerry Bruckheimer Television.",
+          "The script is being developed by Evan Katz, known for his work as showrunner on 24. The story centers on a burnt-out LAPD detective on the verge of retirement whose service is unexpectedly extended by five years, leading him to intentionally break rules in a failed attempt to get fired."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Matt LeBlanc returned to Instagram after months of inactivity to pay tribute to his late Man with a Plan co-star Stacy Keach, who passed away at age 85. Amid this personal loss, the actor is also preparing for a dramatic television comeback in an upcoming CBS series titled Flint."
+        ]
+      }
+    ],
+    "facts": [
+      "Matt LeBlanc is 59 years old.",
+      "Stacy Keach passed away on November 10 at the age of 85.",
+      "Stacy Keach's cause of death was heart failure complicated by heart disease.",
+      "Matt LeBlanc and Stacy Keach starred together in the CBS sitcom Man with a Plan.",
+      "Man with a Plan ran for four seasons and 69 episodes from 2016 to June 2020.",
+      "CBS announced the development of the drama series Flint on April 15, slated for the 2027-28 season."
+    ],
+    "entities": {
+      "people": [
+        "Matt LeBlanc",
+        "Stacy Keach",
+        "Evan Katz"
+      ],
+      "titles": [
+        "Man with a Plan",
+        "Flint",
+        "Friends",
+        "Episodes",
+        "Top Gear",
+        "24"
+      ]
+    },
+    "keywords": [
+      "Matt LeBlanc",
+      "Stacy Keach",
+      "Man with a Plan",
+      "Flint CBS show"
+    ],
+    "images": [
+      {
+        "url": "https://images.hellomagazine.com/horizon/landscape/1200/0e8d591e8dcd-gettyimages-1431807581.jpg",
+        "caption": "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
+        "source": "HELLO! Magazine"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 21:25:13 GMT"
+  },
+  "1idn33h": {
+    "id": "1idn33h",
+    "type": "news",
+    "headline": "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
+    "dek": "Bollywood star Salman Khan has shared an encouraging social media message for the team of Eetha, starring Shraddha Kapoor, as both films prepare to release on the same date.",
+    "body": [
+      {
+        "h": "A Surprising Social Media Gesture",
+        "p": [
+          "In a notable display of camaraderie within the film industry, superstar Salman Khan recently shared a supportive message directed at the team behind the upcoming movie Eetha. Starring Shraddha Kapoor in the lead role, the project has frequently made headlines due to its shared theatrical release date with Salman's own highly anticipated production. Taking to his Instagram Stories, the actor posted a short and warm note wishing the entire crew the best of luck.",
+          "While concise, the public gesture quickly drew the attention of movie enthusiasts and industry followers alike. As discussions and anticipation surrounding the simultaneous box-office arrival of both titles continue to grow, Salman's public show of support added an unexpected and amicable twist to the narrative."
+        ]
+      },
+      {
+        "h": "The Shared Release Date",
+        "p": [
+          "The focal point of the recent industry buzz stems from the calendar alignment of two major Bollywood offerings. Both Maatrubhumi and Eetha are officially scheduled to open in theatres on December 4, 2026. This coincidence has naturally triggered widespread conversations among trade analysts and fans regarding a potential box-office showdown.",
+          "Such simultaneous arrivals often spark intense competition for screen counts and audience attention. However, Salman's recent gesture highlights a spirit of mutual respect, shifting the narrative slightly away from rivalry and toward cooperative celebration of upcoming cinematic releases."
+        ]
+      },
+      {
+        "h": "Details on Maatrubhumi",
+        "p": [
+          "Salman's own project, titled Maatrubhumi: May War Rest in Peace, is an intensive Hindi-language war drama. Directed by Apoorva Lakhia and produced under the banner of Salman Khan Films, the movie features Salman alongside co-star Chitrangda Singh. The plot draws significant inspiration from the June 2020 Galwan Valley clash involving Indian and Chinese troops along the Line of Actual Control in eastern Ladakh.",
+          "Within the film, Salman portrays a military character inspired by Colonel B. Santosh Babu, the Maha Vir Chakra awardee who led Indian forces during the tense confrontation. Beyond high-octane military action sequences, the storyline aims to explore deep human themes, including courage, sacrifice, and the emotional toll of armed conflict."
+        ]
+      },
+      {
+        "h": "Overview of Eetha",
+        "p": [
+          "On the other side of the scheduling spectrum sits Eetha, a musical drama directed by Laxman Utekar and starring Shraddha Kapoor. Rather than serving as a traditional biographical account, the film draws creative inspiration from the extraordinary life of legendary Marathi Tamasha and Lavani performer Vithabai Narayangaonkar, alongside the general struggles faced by female folk artists in Maharashtra.",
+          "Spanning a timeline of four decades, the narrative follows a young folk dancer navigating financial hardships, personal betrayals, and societal prejudices to carve out a celebrated career. Shraddha steps into the role of Eetha Gaokar, a fictionalised protagonist whose journey reflects the unyielding dedication of traditional performers."
+        ]
+      },
+      {
+        "h": "Inspirations and Legacy",
+        "p": [
+          "Both films draw heavily from profound real-world events and historical figures to ground their cinematic storytelling. While Maatrubhumi reflects upon modern military valour and border conflicts, Eetha honours the rich cultural heritage of regional performance traditions in Maharashtra.",
+          "A particularly striking episode from Vithabai Narayangaonkar's life that heavily influenced the project's thematic core involves her immense dedication to her craft—reportedly returning to the stage to perform shortly after giving birth backstage during a live show. This resilience serves as a central pillar for the movie's exploration of passion and endurance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan used Instagram Stories to wish the team of Shraddha Kapoor's Eetha well ahead of their shared December 4, 2026, release date with Maatrubhumi. The gesture has brought positive attention to both upcoming projects amidst ongoing box-office clash discussions."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan shared a message on Instagram Stories on November 12, 2026.",
+      "Both Maatrubhumi and Eetha are scheduled to release on December 4, 2026.",
+      "Maatrubhumi is directed by Apoorva Lakhia and stars Salman Khan and Chitrangda Singh.",
+      "Eetha is directed by Laxman Utekar and stars Shraddha Kapoor.",
+      "Maatrubhumi is inspired by the June 2020 Galwan Valley clash.",
+      "Eetha is inspired by Marathi Tamasha and Lavani performer Vithabai Narayangaonkar."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shraddha Kapoor",
+        "Chitrangda Singh",
+        "Apoorva Lakhia",
+        "Laxman Utekar",
+        "B. Santosh Babu",
+        "Vithabai Narayangaonkar",
+        "Arpita Sarkar"
+      ],
+      "titles": [
+        "Eetha",
+        "Maatrubhumi",
+        "Maatrubhumi: May War Rest in Peace"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Eetha",
+      "Shraddha Kapoor Eetha",
+      "Maatrubhumi release date",
+      "Salman Khan Maatrubhumi"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156498423,thumbsize-272557,width-1280,height-720,resizemode-75/156498423.jpg",
+        "caption": "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T22:52:18Z"
+  },
+  "i3kl0f": {
+    "id": "i3kl0f",
+    "type": "news",
+    "headline": "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date",
+    "dek": "Paramount+ has officially announced the global release date for Avatar: Seven Havens season 2, along with confirmations for seasons 3 and 4.",
+    "body": [
+      {
+        "h": "Season 2 Global Premiere Date Announced",
+        "p": [
+          "Paramount+ has officially scheduled the global premiere of Avatar: Seven Havens season 2 for Friday, May 21, 2027. The announcement came directly from the production team during a Reddit AMA featuring executive producer Ethan Spaulding and co-executive producer Sehaj Sethi.",
+          "Alongside the premiere date, the streaming network revealed a brand new teaser image for the upcoming installment, offering fans their very first official look at the next chapter of the animated series."
+        ]
+      },
+      {
+        "h": "Episode Schedule and Structure",
+        "p": [
+          "Titled Discovery, season 2 will comprise a total of 13 episodes rolled out across a fast-paced four-week schedule. The release pattern mirrors the debut strategy of the first season.",
+          "Episodes 1 through 3 will drop on May 21, followed by episodes 4 through 6 on May 28, and episodes 7 through 9 on June 4. The final four episodes will arrive on June 11, concluding the second installment just weeks after its initial launch."
+        ]
+      },
+      {
+        "h": "Plot Direction and Character Journeys",
+        "p": [
+          "The narrative picks up without a significant time jump following the events of the first season. Pavi will continue her chakra journey by traveling to the Floating Isles to investigate what happened to Korra.",
+          "Meanwhile, Nisha remains in Ellora, where she uncovers crucial details regarding the mysterious spirit energy that Pavi previously released. Their separate paths will eventually converge in New Ba Sing Se as they confront lingering personal conflicts."
+        ]
+      },
+      {
+        "h": "Expanding the Lore and Korra's Mystery",
+        "p": [
+          "The overarching mystery surrounding Korra remains central to the unfolding plot. Although the former Avatar made a brief appearance in a season 1 flashback, her precise connection to the Cataclysm is still shrouded in ambiguity.",
+          "The synopsis for the upcoming season indicates that Pavi's explorations will shed more light on Korra's fate and how those historical events shaped the post-apocalyptic world the twin Avatars inherited."
+        ]
+      },
+      {
+        "h": "Returning Voice Cast Members",
+        "p": [
+          "A robust lineup of returning voice talent is set for the new season. Saheli Khan returns as Pavi, alongside Aishu Devan as Nisha and Akshay Khanna as Karthik.",
+          "Additional returning cast members include Major Curda as Jae, Sakina Jaffrey as Agam, Darren Barnet as Daemin, and Dee Bradley Baker voicing Geet and Ruhi."
+        ]
+      },
+      {
+        "h": "Future Seasons and Series Conclusion",
+        "p": [
+          "Paramount+ has confirmed that a third season is slated to arrive later in 2027, featuring another 13-episode run that will bring the cumulative total to 39 episodes across the first three installments.",
+          "Additionally, a fourth season has been confirmed to officially conclude the animated series, establishing a clear endpoint and giving the creative team ample space to flesh out this new generation of Avatars."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Paramount+ has announced that Avatar: Seven Havens season 2 will premiere globally on May 21, 2027, with subsequent seasons 3 and 4 also confirmed to complete the four-season animated series. The upcoming 13-episode second season, subtitled Discovery, will follow twin Avatars Pavi and Nisha on separate journeys that eventually reunite them in New Ba Sing Se."
+        ]
+      }
+    ],
+    "facts": [
+      "Avatar: Seven Havens season 2 will premiere globally on Friday, May 21, 2027.",
+      "Season 2 is titled Discovery and consists of 13 episodes.",
+      "Season 3 is confirmed to arrive later in 2027 with 13 episodes.",
+      "Season 4 will conclude the animated series.",
+      "The news was announced during a Reddit AMA with Ethan Spaulding and Sehaj Sethi.",
+      "Season 1 premiered on October 9, 2026 and concluded on October 30, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Emma Gladstone",
+        "Ethan Spaulding",
+        "Sehaj Sethi",
+        "Pavi",
+        "Nisha",
+        "Korra",
+        "Aang",
+        "Jae",
+        "Karthik",
+        "Agam",
+        "Daemin",
+        "Geet",
+        "Ruhi",
+        "Saheli Khan",
+        "Aishu Devan",
+        "Akshay Khanna",
+        "Major Curda",
+        "Sakina Jaffrey",
+        "Darren Barnet",
+        "Dee Bradley Baker",
+        "Kenji Ono",
+        "Jen Bennett",
+        "Jasmine Goggins",
+        "M. Willis",
+        "Chad Quandt",
+        "Lauren Bradley",
+        "Michael Dante DiMartino",
+        "Bryan Konietzko",
+        "Peter H. Lee",
+        "Jennifer Cho Suhr",
+        "Mani Beil"
+      ],
+      "titles": [
+        "Avatar: The Last Airbender",
+        "The Legend of Korra",
+        "Avatar: Seven Havens",
+        "Star Wars: The Clone Wars",
+        "Avatar Aang: The Last Airbender"
+      ]
+    },
+    "keywords": [
+      "Avatar Seven Havens season 2",
+      "Avatar Seven Havens release date",
+      "Ethan Spaulding Sehaj Sethi",
+      "Pavi and Nisha Avatar Seven Havens"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/avatar-seven-havens-character-looking-at-her-pet.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 22:16:30 GMT"
   }
 };

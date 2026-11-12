@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T00:51:39Z",
-    "run_id": "43130238132",
-    "status": "success",
-    "checked": {
-     "candidates": 300,
-     "detail": "RSS/Atom items across 137 sources; 8 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Jennifer Aniston & Angelina Jolie’s Alleged Feud: How Did It Start & Was It Even Real?",
-      "Sidharth Malhotra was aware The Vvaan was being written off before its box office success, says Bollywood needs to support its own films",
-      "Emraan Hashmi blames Aditya Datt for his ‘serial kisser’ image at Gunmaaster G9 trailer launch, says he has faced the consequences for 20 years",
-      "King Charles marks 50 years of his youth charity with Elton John on radio show",
-      "The Nobody Wants This Cast Proposed A New Lead For Season 4 (I Need This To Happen)",
-      "Club Kid's Director Explains Why Those Club Scenes (And the Darkroom Sequence) Go So Hard",
-      "Harry Potter’s New Snape Officially Doubles Down on Opposing J.K. Rowling",
-      "George R. R. Martin’s Ned Stark ‘Game of Thrones’ Prequel Officially Arrives in 2027",
-      "Henry Cavill Officially Pays Tribute to His Brutal Mission: Impossible Villain in New Release",
-      "The Perfect 'Friends' Cast if the Sitcom Were Made Today",
-      "Taika Waititi’s Next Film Officially Shelved Following Controversy",
-      "Daniel Craig's Final Bond Movie Faces Defeat From Near-Perfect 95-Minute Action Thriller at the Box Office",
-      "28 Years Later, Harry Potter Is Officially Fixing A Major Book One Issue",
-      "Netflix Is Officially Losing A $246.5 Million Box Office Hit This December",
-      "Disney’s Official Nightmare Before Christmas Prequel Is A 10-Part Masterpiece",
-      "Scarlet Witch’s Avengers: Doomsday Return Sets Up A Game-Changing Hulk Connection",
-      "Prime Video's #1 Global Hit Series Takes Advantage Of Massive Streaming Trend",
-      "Dwayne Johnson's Hercules (2014) Is Now Streaming For Free On Tubi",
-      "10/10 Fallout Replacement Officially Added As PlayStation Plus Free Game",
-      "John Wick Director’s New Heist Thriller Sets All-Time Career Rotten Tomatoes Record"
-     ],
-     "updated": [],
-     "count": 291,
-     "detail": "291 stories, 0 duplicates removed, 9 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-12T01:51:01Z",
     "run_id": "43137254770",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "295 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T00:52:02Z",
-    "run_id": "43130238132",
+    "run_at": "2026-11-12T22:51:48Z",
+    "run_id": "43323592079",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 351,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
-      "Netflix UK Set to Lose One Piece Film: Red This December",
-      "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts",
-      "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027"
+      "Now That We Finally Know Adults Season 3 Is Happening, I Need To See 3 Things",
+      "One Thing About Hulu’s 12 Dates Of Christmas That Made No Sense To Me, And I Can't Stop Thinking About It",
+      "Should You Read Sunrise On The Reaping Ahead Of The New Hunger Games Movie? The Director And Star Weigh In",
+      "Why I Decided To Take My Son To See Godzilla Minus Zero, Despite The R Rating",
+      "Khloé Kardashian's Outdoor Holiday Decorations Are The Kind Of Extra That Needs To Be Seen",
+      "Why John Lennon Is Responsible for Wings’ Biggest Hit",
+      "HBO's 'Big Little Lies' Is Officially Returning, but Its Biggest Mistake Remains",
+      "We Officially Ranked Every James Bond Actor",
+      "Every DCU Movie and TV Show, Ranked",
+      "5 Most-Watched Movies To Stream This Weekend (Nov 13-15)",
+      "‘Calvin and Hobbes’ Has the Perfect Christmas Message for Anyone Who Hates the Holidays",
+      "Dakota Johnson’s Date-Night Dress With MGK Leaves Little to the Imagination",
+      "The Vampire Diaries’ Nathaniel Buzolic Makes Explosive Accusations Against ‘Coward’ Co-Star",
+      "Antonio Sabàto Jr. Breaks Silence After Son With Virginia Madsen Arrested in Fatal Hit-and-Run",
+      "Robert Downey Jr. Shares Avengers: Doomsday Video That Has Fans Thinking New Trailer Is Coming",
+      "Predator, Commando 2, & More Arnold Schwarzenegger Sequels Get Update Fans Will Love",
+      "Paramount+’s Hit Supernatural TV Show Reunites 2 Fan-Favorites for Season 4",
+      "Austin Powers 4 Gets Its Best Update Yet From Mike Myers",
+      "Arnold Schwarzenegger Defends His Republican Roots in Jimmy Kimmel Showdown",
+      "Nicholas Hoult Felt Insulted By Remake of One of His Biggest TV Shows, Here’s Why"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 311,
+     "detail": "323 stories, 0 duplicates removed, 28 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1487,45 +1464,31 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T22:52:18Z",
+    "run_id": "43323592079",
+    "status": "success",
+    "checked": {
+     "candidates": 13,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
+      "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
+      "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date"
+     ],
+     "updated": [],
+     "count": 6,
+     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T02:11:36Z",
-    "run_id": "43139066643",
-    "status": "success",
-    "checked": {
-     "candidates": 304,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 292, coming 12"
-    },
-    "reason": null
-   },
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T03:18:24Z",
-    "run_id": "43147080790",
-    "status": "success",
-    "checked": {
-     "candidates": 304,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 292, coming 12"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1921,29 +1884,45 @@
      "detail": "now 301, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T22:52:23Z",
+    "run_id": "43323592079",
+    "status": "success",
+    "checked": {
+     "candidates": 314,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 301, coming 13"
+    },
+    "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T22:52:23Z",
+    "run_id": "43323592079",
+    "status": "success",
+    "checked": {
+     "candidates": 314,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 301, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-12T01:00:05Z",
-    "run_id": "43130238132",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "u7rkdc",
-      "1yqvpfc"
-     ],
-     "updated": [],
-     "count": 2
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2403,27 +2382,31 @@
      "count": 6
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T22:57:26Z",
+    "run_id": "43323592079",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1flm0we",
+      "t1we2z",
+      "19775sx",
+      "1wokr5w"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T00:59:30Z",
-    "run_id": "43130238132",
-    "status": "success",
-    "checked": {
-     "candidates": 653,
-     "detail": "636 collected staging rows from readers; 222 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5,
-     "detail": "+2 new rows, 3 updated rows, 635 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2837,19 +2820,27 @@
      "detail": "+0 new rows, 3 updated rows, 644 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T22:57:23Z",
+    "run_id": "43323592079",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 644 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3086,32 +3077,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-12T01:00:04Z",
-    "run_id": "43130238132",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Netflix UK Set to Lose One Piece Film: Red This December",
-      "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027",
-      "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
-      "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3649,19 +3627,31 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T22:57:26Z",
+    "run_id": "43323592079",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
+      "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
+      "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date"
+     ],
+     "updated": [],
+     "count": 3,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3927,19 +3917,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4261,31 +4251,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-12T00:52:02Z",
-    "run_id": "43130238132",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 291 still unprocessed; today by category: movies 0/6, tv_dramas 0/4, episodes 0/2, box_office 0/6, celebrities_events 0/5, upcoming_releases 1/4, ott_streaming 1/4, trailers 1/3, awards 1/2, music_ost 0/2, viral 0/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Enters Oscars Race As Makers Submit Film For Academy Awards Consideration",
-      "Netflix UK Set to Lose One Piece Film: Red This December",
-      "Salman Khan Steps Into Uniform as Trailer for Maatrubhumi Debuts",
-      "Game of Thrones: The Mad King Stage Prequel Heading to London in 2027"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4788,19 +4766,30 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T22:52:18Z",
+    "run_id": "43323592079",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 311 still unprocessed; today by category: movies 18/6, tv_dramas 16/4, episodes 0/2, box_office 18/6, celebrities_events 14/5, upcoming_releases 6/4, ott_streaming 11/4, trailers 3/3, awards 4/2, music_ost 4/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
+      "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
+      "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date"
+     ],
+     "updated": [],
+     "count": 3
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5114,24 +5103,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 391,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5476,24 +5460,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 24,
+     "count": 301,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5838,24 +5822,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_pipeline": [
+   },
    {
-    "step": "stats_pipeline",
+    "step": "stats_traffic",
     "category": "Stats / Health",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 72,
+     "count": 2,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_pipeline": [
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6100,19 +6084,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6347,19 +6331,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6644,19 +6628,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6897,19 +6881,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7139,19 +7123,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7400,6 +7384,16 @@
     "category": "Trending News",
     "run_at": "2026-11-12T21:54:11Z",
     "run_id": "43314189391",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7918,16 +7912,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-12T01:53:40Z",
     "run_id": "43137254770",
     "status": "skipped",
@@ -8164,24 +8148,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-12T01:00:13Z",
-    "run_id": "43130238132",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 5124,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8426,8 +8405,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T22:57:35Z",
+    "run_id": "43323592079",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T21:54:11Z"
+ "updated_at": "2026-11-12T22:57:35Z"
 }
