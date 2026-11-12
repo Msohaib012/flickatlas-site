@@ -123127,5 +123127,437 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 05:26:12 GMT"
+  },
+  "bi6xm7": {
+    "id": "bi6xm7",
+    "type": "news",
+    "headline": "Composer Anirudh Ravichander and Entrepreneur Kavya Maran Tie the Knot in Private Greece Ceremony",
+    "dek": "Music composer Anirudh Ravichander and entrepreneur Kavya Maran got married in a private wedding ceremony in Greece, surrounded by family, close friends, and prominent film industry figures.",
+    "body": [
+      {
+        "h": "The Wedding Ceremony",
+        "p": [
+          "Renowned music composer Anirudh Ravichander and entrepreneur Kavya Maran have officially tied the knot. The wedding took place in an intimate setting in Greece, with only close friends and family members present to witness the union of the couple.",
+          "The celebration marked a major milestone for both personalities, bringing together prominent figures from the entertainment and business sectors for the exclusive destination ceremony."
+        ]
+      },
+      {
+        "h": "First Official Photograph",
+        "p": [
+          "On Wednesday, November 11, the composer shared the very first photograph of the newlyweds on Instagram. The announcement officially confirmed the marriage to fans and followers across social media platforms.",
+          "In the newly released picture, the couple can be seen walking hand-in-hand toward the camera. They wore complementary pastel outfits, framed against a picturesque floral backdrop with flower petals falling around them."
+        ]
+      },
+      {
+        "h": "Social Media Caption and Date",
+        "p": [
+          "Accompanying the newlywed photograph was a romantic message shared by the composer on his official Instagram account. The caption read, 'My once in a lifetime, for a lifetime,' finished with a heart emoji.",
+          "The post also included the specific date of the ceremony, noted as '11.11', solidifying the special significance of the wedding day for the newly married pair."
+        ]
+      },
+      {
+        "h": "Industry Wishes and Collaborations",
+        "p": [
+          "Following the wedding announcement, the comment section of the post quickly filled up with congratulatory messages from across the film industry. Filmmaker Lokesh Kanagaraj, who has previously collaborated with Anirudh on films like Master and Leo, extended his warm regards to the couple.",
+          "Other prominent stars also joined in to share their joy, with Samantha Ruth Prabhu keeping her message short with a simple 'Congratulations' and Pooja Hegde writing, 'Congratulationssssss to you both'."
+        ]
+      },
+      {
+        "h": "Messages From Fellow Composers and Filmmakers",
+        "p": [
+          "Composer S Thaman shared a heartfelt note wishing the couple the best moments in life and welcoming Anirudh to the Sunrisers family. Producer Naga Vamsi praised the groom's positive and non-controversial nature.",
+          "Filmmaker and writer Rathna Kumar also sent his best wishes while playfully asking the music director to finally release the original soundtrack for Leo, while actor-director SJ Suryah congratulated the newly married duo."
+        ]
+      },
+      {
+        "h": "Family and Notable Attendees",
+        "p": [
+          "Sun Pictures later released additional photographs from the wedding festivities, giving the public a closer look at the families in attendance. Among the distinguished guests spotted in the pictures were the couple's parents.",
+          "Notable high-profile figures present at the celebrations included Tamil Nadu Chief Minister MK Stalin and superstar Rajinikanth, who is related to the groom as his uncle."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Anirudh Ravichander and entrepreneur Kavya Maran married in a private ceremony in Greece on November 11, sharing their first picture as newlyweds on Instagram. Numerous industry figures, including Lokesh Kanagaraj, Samantha Ruth Prabhu, and Rajinikanth, extended their warm congratulations to the couple."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander and Kavya Maran married in a private ceremony in Greece.",
+      "The wedding took place on November 11, 2026.",
+      "The couple shared their first wedding photograph on Wednesday, November 11.",
+      "Celebrities who wished the couple include Lokesh Kanagaraj, Samantha Ruth Prabhu, Pooja Hegde, S Thaman, Naga Vamsi, Rathna Kumar, and SJ Suryah.",
+      "Rajinikanth is Anirudh Ravichander's uncle.",
+      "Tamil Nadu Chief Minister MK Stalin attended the celebrations."
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Lokesh Kanagaraj",
+        "Samantha Ruth Prabhu",
+        "Pooja Hegde",
+        "S Thaman",
+        "Naga Vamsi",
+        "Rathna Kumar",
+        "SJ Suryah",
+        "MK Stalin",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Master",
+        "Leo"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander marriage",
+      "Kavya Maran wedding",
+      "Anirudh Kavya Maran Greece",
+      "Anirudh Ravichander Kavya Maran"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156496394,thumbsize-566637,width-1280,height-720,resizemode-75/156496394.jpg",
+        "caption": "Composer Anirudh Ravichander and Entrepreneur Kavya Maran Tie the Knot in Private Greece Ceremony",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T06:53:55Z"
+  },
+  "wo6wy7": {
+    "id": "wo6wy7",
+    "type": "news",
+    "headline": "Why SyFy's The Magicians Holds One of Fantasy's Most Clever Magic Systems",
+    "dek": "While many fantasy franchises keep their magical lore vague, the 65-episode series The Magicians built a uniquely tangible, rule-bound system that set it apart.",
+    "body": [
+      {
+        "h": "An Overlooked Fantasy Gem",
+        "p": [
+          "While numerous fantasy television shows and movies prefer to leave the inner mechanics of their magic deliberately ambiguous, some productions have chosen a far more intricate path. Throughout television and cinematic history, storytellers have constantly attempted to bring complicated fictional lore to life onscreen. From adaptations of Terry Pratchett's Discworld novels to movie versions of Eoin Colfer's book series, translating written magic onto a visual medium remains a persistent challenge.",
+          "Among these numerous efforts, SyFy's television adaptation stands out as a particularly inventive entry into a crowded genre. Spanning 65 episodes, the series offered viewers a clever take on fantasy tropes that remains widely underappreciated by mainstream audiences today."
+        ]
+      },
+      {
+        "h": "The Premise and Characters",
+        "p": [
+          "Based on the book trilogy written by Lev Grossman, the series centers around the fictional Brakebills University for Magical Pedagogy. The narrative follows a distinct group of characters navigating the complexities of advanced magical education, led by graduate student protagonist Quentin Coldwater.",
+          "Alongside Quentin, the core ensemble features his childhood companion Julia Wicker, his alcoholic roommate Eliot Waugh, Eliot's partner Margo, and fellow student Alice Quinn. Together, these characters form the foundation of an academic environment that distinguishes itself drastically from traditional young adult fantasy settings."
+        ]
+      },
+      {
+        "h": "A Mature Academic Setting",
+        "p": [
+          "Setting the story inside a university rather than a traditional high school immediately separates the show from other teen-oriented fantasy projects such as Wednesday or Legacies. Because the main characters are graduate students, they deal with older, more grounded life struggles.",
+          "This inherent maturity allows the narrative to explore adult responsibilities alongside supernatural elements, giving the production a different flavor compared to standard YA adaptations that rely heavily on teenage tropes and academy corridors."
+        ]
+      },
+      {
+        "h": "Precision and Physicality in Spellcasting",
+        "p": [
+          "What truly elevates the series is its distinct approach to spellcasting. In this universe, magic is not merely waved into existence with a flick of a wand; instead, spells require precise hand movements that students must study and repeat meticulously.",
+          "This academic rigor treats magical study much like higher education, requiring practitioners to master hyper-specific physical nuances and memorize complex gestures before any supernatural result can manifest."
+        ]
+      },
+      {
+        "h": "Emotions as Fuel and Finite Resources",
+        "p": [
+          "Another defining element of the show's lore is how power is generated and consumed. Magic is directly powered by intense emotional states, including deep grief and personal trauma, turning internal suffering into a tangible resource.",
+          "Furthermore, magic is treated as a strictly finite commodity that must be extracted from external sources. Characters cannot cast spells limitlessly, meaning access to power must be carefully rationed and fought over just like any other scarce asset."
+        ]
+      },
+      {
+        "h": "Clear Limits and Consequences",
+        "p": [
+          "Unlike franchises where spells solve every inconvenience without consequence, this universe imposes strict limits and drawbacks on its practitioners. Frequently, casting a spell exacerbates existing problems rather than fixing them cleanly.",
+          "Even powerful supernatural entities, such as gods and faeries that naturally produce their own magic, are portrayed as erratic and unreliable. This grounds the supernatural conflicts in tangible stakes that resonate with viewers."
+        ]
+      },
+      {
+        "h": "Legacy in Modern Fantasy",
+        "p": [
+          "As modern streaming platforms continue adapting complex book series—ranging from animated projects based on Eoin Colfer's work to big-budget romantasy and wizarding spinoffs—the challenge of adapting magic systems remains relevant.",
+          "The SyFy adaptation proves that a smart, subversive fantasy saga can successfully implement a rule-driven system that aligns closely with observable limitations, offering a blueprint for future genre storytelling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "SyFy's 65-episode television adaptation of Lev Grossman's book trilogy is celebrated for featuring one of the most inventive and rule-bound magic systems in fantasy history. By utilizing a university setting, precise hand movements, emotion-based power sources, and strict resource limits, the series delivered a uniquely mature and grounded take on the genre."
+        ]
+      }
+    ],
+    "facts": [
+      "The Magicians ran for 65 episodes.",
+      "The show aired on the SyFy network.",
+      "The series is based on a book trilogy by Lev Grossman.",
+      "The story is set at Brakebills University for Magical Pedagogy.",
+      "Main characters include Quentin Coldwater, Julia Wicker, Eliot Waugh, Margo, and Alice Quinn.",
+      "The show aired between 2015 and 2020."
+    ],
+    "entities": {
+      "people": [
+        "Cathal Gunning",
+        "Terry Pratchett",
+        "Kenneth Branagh",
+        "Eoin Colfer",
+        "Lev Grossman",
+        "Quentin Coldwater",
+        "Julia Wicker",
+        "Eliot Waugh",
+        "Margo",
+        "Alice Quinn",
+        "Michael B. Jordan",
+        "Sera Gamble",
+        "Jason Ralph",
+        "Olivia Taylor Dudley",
+        "Chris Fisher",
+        "James L. Conway",
+        "Joshua Butler",
+        "John Scott",
+        "Carol Banker",
+        "Scott Smith",
+        "Guy Norman Bee",
+        "Rebecca Johnson",
+        "Salli Richardson-Whitfield",
+        "Meera Menon",
+        "Amanda Tapping",
+        "Bill Eagles",
+        "Jan Eliasberg",
+        "Kate Woods",
+        "Shannon Kohli",
+        "John McNamara",
+        "Henry Alonso Myers",
+        "David Reed",
+        "Noga Landau",
+        "Christina Strain",
+        "Leah Fong",
+        "Alex Raiman",
+        "Elle Lipson"
+      ],
+      "titles": [
+        "The Color of Magic",
+        "Artemis Fowl",
+        "Percy Jackson The Olympians",
+        "The Magicians",
+        "Wednesday",
+        "The Vampire Diaries",
+        "Legacies",
+        "Harry Potter",
+        "Fourth Wing"
+      ]
+    },
+    "keywords": [
+      "The Magicians SyFy series",
+      "Lev Grossman The Magicians",
+      "The Magicians magic system",
+      "Brakebills University show"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/summer-bishil-s-margo-in-the-magicians.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why SyFy's The Magicians Holds One of Fantasy's Most Clever Magic Systems",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 06:02:18 GMT"
+  },
+  "1p5o5i3": {
+    "id": "1p5o5i3",
+    "type": "news",
+    "headline": "'Jailer 2' OTT Premiere Sparks Excitement and Streaming Quality Debate Among Fans",
+    "dek": "Rajinikanth's action-packed sequel 'Jailer 2' has arrived on Amazon Prime Video, bringing massive fanfare alongside viewer complaints regarding video resolution, audio formats, and the lack of an extended cut.",
+    "body": [
+      {
+        "h": "The Digital Arrival of a Major Sequel",
+        "p": [
+          "The theatrical success of the high-octane action entertainer 'Jailer 2' has officially transitioned into the digital space, marking its debut on Amazon Prime Video. Directed by Nelson Dilipkumar, the film brings its unique blend of pulse-pounding action, comedy, dark humor, and unexpected twists directly to living rooms across the globe.",
+          "Audiences who missed the theatrical run or wish to rewatch the blockbuster can now stream the movie from the convenience of their homes. However, this much-anticipated OTT premiere has triggered a mixed wave of celebratory excitement and sharp criticism regarding technical streaming specifications."
+        ]
+      },
+      {
+        "h": "Fan Outpouring and Social Media Buzz",
+        "p": [
+          "Social media platforms quickly flooded with enthusiastic reactions from passionate admirers of the lead star. Viewers took to the internet to praise Rajinikanth's commanding screen presence, Nelson's distinctive directorial style, and Anirudh Ravichander's driving background score that kept audiences hooked.",
+          "Reviewers highlighted how the movie successfully maintains its engaging momentum from start to finish. Specific praise was directed toward the film's integration of dark humor, subtle character elevations, and structured storytelling, with Suraj Venjaramoodu's acting performance receiving special acclaim from the viewership."
+        ]
+      },
+      {
+        "h": "Technical Criticisms and Streaming Quality Concerns",
+        "p": [
+          "Despite the wave of appreciation for the content itself, a significant number of subscribers expressed deep frustration over the digital platform's audio and video presentation. Viewers took to comment sections and community boards to question whether the subpar technical quality was an isolated issue or a widespread platform limitation.",
+          "Disappointed fans pointed out that the digital release is restricted to a 4K SDR format accompanied by a 5.1 sound configuration. The notable absence of advanced formats such as Dolby Vision, Dolby Atmos, and HDR support left many feeling that the technical delivery failed to match the grand scale of a top-tier cinematic release."
+        ]
+      },
+      {
+        "h": "Absence of Extended Scenes Disappoints Viewers",
+        "p": [
+          "Beyond technical resolutions and sound mixers, anticipation for an extended digital cut went unfulfilled. Many viewers had hoped the streaming version would incorporate previously unseen footage or additional sequences featuring prominent guest stars.",
+          "Discussions online clarified that the digital platform version is identical to the original theatrical cut. Speculation regarding extra footage featuring actors Mohanlal and Santhanam was put to rest as fans realized no new scenes were added to the runtime."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew Overview",
+        "p": [
+          "Helmed by director Nelson Dilipkumar and produced under the banner of Sun Pictures, 'Jailer 2' boasts a massive ensemble cast. Alongside Rajinikanth in the lead, the movie features performances from Mohanlal, Shivarajkumar, and Vijay Sethupathi.",
+          "The expansive supporting lineup also includes Vidya Balan, SJ Suryah, Mithun Chakraborty, Santhanam, Suraj Venjaramoodu, and Yogi Babu. Anirudh Ravichander composed the musical score that anchors the film's energetic sequences."
+        ]
+      },
+      {
+        "h": "Persistent Discussions Among Rajinikanth Fans",
+        "p": [
+          "The transition from theatres to home screens has successfully thrust the project back into the entertainment headlines. While the storyline and performances continue to generate enthusiastic commentary, technical grievances have dominated fan discussions.",
+          "For supporters of the legendary actor, the digital drop serves as both a welcome opportunity for repeat viewings and a reminder of the ongoing debates surrounding digital platform streaming standards for major Indian cinematic releases."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rajinikanth's action sequel 'Jailer 2' has launched on Amazon Prime Video following its theatrical run, drawing strong social media praise for its performances and direction. However, fans have expressed disappointment over the streaming quality's lack of advanced audio-visual formats and the absence of an extended cut.",
+          "Directed by Nelson Dilipkumar and produced by Sun Pictures, the film features a star-studded cast and music by Anirudh Ravichander, keeping the project firmly in the entertainment spotlight despite technical complaints."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 was released on the OTT platform Amazon Prime Video.",
+      "The film is directed by Nelson Dilipkumar.",
+      "The movie is produced by Sun Pictures.",
+      "The music is composed by Anirudh Ravichander.",
+      "The cast includes Rajinikanth, Mohanlal, Shivarajkumar, Vijay Sethupathi, Vidya Balan, SJ Suryah, Mithun Chakraborty, Santhanam, Suraj Venjaramoodu, and Yogi Babu.",
+      "The streaming version is available in 4K SDR with 5.1 sound without Dolby Vision, Dolby Atmos, or HDR support."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Nelson Dilipkumar",
+        "Anirudh Ravichander",
+        "Suraj Venjaramoodu",
+        "Mohanlal",
+        "Santhanam",
+        "Shivarajkumar",
+        "Vijay Sethupathi",
+        "Vidya Balan",
+        "SJ Suryah",
+        "Mithun Chakraborty",
+        "Yogi Babu"
+      ],
+      "titles": [
+        "Jailer 2"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 OTT release",
+      "Rajinikanth Jailer 2 Amazon Prime",
+      "Jailer 2 streaming quality",
+      "Nelson Dilipkumar Jailer 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135757300,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Jailer 2' OTT Premiere Sparks Excitement and Streaming Quality Debate Among Fans",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T11:28:10+05:30"
+  },
+  "z66icv": {
+    "id": "z66icv",
+    "type": "news",
+    "headline": "Netflix's New Steampunk Western Series Bass X Machina Combines Elements of Arcane and Cowboy Bebop",
+    "dek": "Netflix's latest six-part animated release, Bass X Machina, has captured widespread critical acclaim with its unique fusion of historical Western themes, futuristic steampunk mechanics, and supernatural elements.",
+    "body": [
+      {
+        "h": "A Fresh Take on Animated Storytelling",
+        "p": [
+          "Netflix has continued to expand its animation library with the introduction of a six-part series that blends stylistic influences from notable predecessors. By drawing on the visual flair of classic anime and complex steampunk worldbuilding, the platform has delivered a distinctive project that stands out in its genre.",
+          "The creative direction behind the project brings together contrasting artistic traditions, offering viewers a hybrid viewing experience that merges lawless frontier settings with advanced mechanical technology."
+        ]
+      },
+      {
+        "h": "Inspired by Real History and Fiction",
+        "p": [
+          "The narrative centers around a fictionalized version of historical figures and themes, taking inspiration from the life of the real-life lawman Bass Reeves. Set in a speculative steampunk universe, the story incorporates familiar tropes of the American frontier while injecting futuristic elements like cybernetic enhancements and massive machinery.",
+          "In this lawless setting, the protagonist navigates a world marked by segregation and bounty hunting. While his early motivations are driven by personal vengeance and rewards to support his family, his trajectory shifts as he encounters characters who influence him toward a more redemptive path."
+        ]
+      },
+      {
+        "h": "Blending Genres and Technologies",
+        "p": [
+          "The universe of the series is built upon a foundation of traditional Western imagery, featuring saloons, dusty trails, and train robberies, but it is elevated significantly by advanced technology. Man-operated mechs, intricate gadgets, and a cybernetic arm constructed by engineering characters add layers of complexity to the action sequences.",
+          "Beyond the mechanical inventions, the show introduces elements reminiscent of elemental power systems, ensuring that traditional gunfights and horseback pursuits coexist with large-scale science fiction warfare."
+        ]
+      },
+      {
+        "h": "Strong Critical Reception and Visual Craft",
+        "p": [
+          "Following its premiere, the series achieved high approval ratings from both critics and general audiences. Reviewers have highlighted the quality of the animation, produced by Studio Mir, along with its musical score and memorable opening and closing sequences.",
+          "The project's success reflects a broader trend in Netflix's approach to animation, shifting away from past criticisms regarding early cancellations and instead building a reputation for producing critically praised serialized projects."
+        ]
+      },
+      {
+        "h": "Comparison to Other Netflix Hits",
+        "p": [
+          "The artistic ambition of the project places it alongside other notable animated successes on the streaming service. Much like previous titles that explored mature storytelling and distinct artistic identities, this series proves that adult-oriented animation can achieve mainstream cultural resonance.",
+          "Shows ranging from high-concept anthologies to critically acclaimed historical action tales have paved the way for this style of storytelling, demonstrating the platform's growing commitment to diverse animated portfolios."
+        ]
+      },
+      {
+        "h": "Uncertainty Surrounding a Potential Second Season",
+        "p": [
+          "Despite offering a conclusive narrative arc in its initial six episodes, the expansive universe leaves room for future exploration. With the main character earning higher responsibilities and other figures facing unresolved fates, the possibility of a continuation remains open.",
+          "Whether a follow-up season will be greenlit depends on long-term viewership metrics and the strategic goals of the platform, leaving fans to weigh the merits of a standalone limited series against the potential for an extended franchise."
+        ]
+      }
+    ],
+    "facts": [
+      "Bass X Machina is a 6-part animated series released on Netflix in November 2026.",
+      "The show achieved a 100% critics score and a 93% audience rating on Rotten Tomatoes over a week after its release.",
+      "Studio Mir produced the animation for the series.",
+      "Chad Handley is listed as a writer for the project.",
+      "Voice cast members include Brian Tyree Henry as Bass Reeves and Janelle Monae as Glory."
+    ],
+    "entities": {
+      "people": [
+        "Kyle McLeod",
+        "Bass Reeves",
+        "Dana",
+        "Ahni",
+        "Lighthorse",
+        "Yellowtail",
+        "Chad Handley",
+        "Janelle Monae",
+        "Brian Tyree Henry",
+        "LeSean Thomas"
+      ],
+      "titles": [
+        "Arcane",
+        "Cowboy Bebop",
+        "Bass X Machina",
+        "Avatar: The Last Airbender",
+        "Blue Eye Samurai",
+        "Cyberpunk: Edgerunners",
+        "Big Mouth",
+        "Haunted Hotel",
+        "BoJack Horseman",
+        "Love, Death + Robots",
+        "Secret Level",
+        "The Walking Dead",
+        "Rick & Morty"
+      ]
+    },
+    "keywords": [
+      "Bass X Machina",
+      "Bass Reeves Netflix series",
+      "Bass X Machina season 2",
+      "Studio Mir Bass X Machina"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/the-netflix-logo-against-a-western-desert-backdrop.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Netflix's New Steampunk Western Series Bass X Machina Combines Elements of Arcane and Cowboy Bebop",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 06:30:18 GMT"
   }
 };

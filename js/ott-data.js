@@ -18,6 +18,19 @@ window.FA_OTT = {
       "country": "IN",
       "date": "2026-11-13",
       "date_kind": "digital",
+      "id": 1780407,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-13",
+      "date_kind": "digital",
       "id": 1389379,
       "providers": [],
       "type": "movie"
@@ -69,6 +82,14 @@ window.FA_OTT = {
     },
     {
       "country": "US",
+      "date": "2026-11-24",
+      "date_kind": "digital",
+      "id": 1195803,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "US",
       "date": "2026-11-25",
       "date_kind": "digital",
       "id": 1458300,
@@ -78,14 +99,6 @@ window.FA_OTT = {
           "name": "Netflix"
         }
       ],
-      "type": "movie"
-    },
-    {
-      "country": "US",
-      "date": "2026-12-01",
-      "date_kind": "digital",
-      "id": 1195803,
-      "providers": [],
       "type": "movie"
     },
     {
@@ -102,8 +115,8 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "BR",
-      "date": "2026-12-07",
+      "country": "US",
+      "date": "2026-12-08",
       "date_kind": "digital",
       "id": 1400940,
       "providers": [],
@@ -119,6 +132,32 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "US",
+      "date": "2026-11-12",
+      "date_kind": "digital",
+      "id": 1616687,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-12",
+      "date_kind": "digital",
+      "id": 1518204,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "movie"
+    },
     {
       "date": "2026-11-12",
       "date_kind": "release",
@@ -140,15 +179,32 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "US",
       "date": "2026-11-12",
-      "date_kind": "release",
-      "id": 1801282,
+      "date_kind": "digital",
+      "id": 1797832,
       "providers": [
         {
-          "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
-          "name": "fuboTV"
+          "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+          "name": "YouTube"
         }
       ],
+      "type": "movie"
+    },
+    {
+      "country": "US",
+      "date": "2026-11-12",
+      "date_kind": "digital",
+      "id": 1813872,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "PH",
+      "date": "2026-11-12",
+      "date_kind": "digital",
+      "id": 1814404,
+      "providers": [],
       "type": "movie"
     },
     {
@@ -178,6 +234,22 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
+      "country": "AU",
+      "date": "2026-11-11",
+      "date_kind": "digital",
+      "id": 1815716,
+      "providers": [],
+      "type": "movie"
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-11",
+      "date_kind": "digital",
+      "id": 1815984,
+      "providers": [],
+      "type": "movie"
+    },
+    {
       "country": "BR",
       "date": "2026-11-11",
       "date_kind": "digital",
@@ -199,6 +271,18 @@ window.FA_OTT = {
       "date_kind": "digital",
       "id": 1376400,
       "providers": [],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-10",
+      "date_kind": "release",
+      "id": 1820172,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
       "type": "movie"
     },
     {
