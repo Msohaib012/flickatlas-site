@@ -4374,9 +4374,9 @@ window.FA_DAYWISE = {
       "occupancy": 55.3
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-11",
       "day": "Day 7",
-      "collection": 2641310,
+      "collection": 7464342,
       "overseas": 2641310,
       "shows": 24239,
       "occupancy": 43.4

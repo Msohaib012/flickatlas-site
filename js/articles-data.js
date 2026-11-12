@@ -126802,5 +126802,543 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 14:28:35 +0000"
+  },
+  "1mb5x36": {
+    "id": "1mb5x36",
+    "type": "news",
+    "headline": "Khushi Episode 61 — Watch Online on HUM TV",
+    "dek": "Khushi episode 61 aired on 2026-11-12 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 61 aired on 2026-11-12 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=gOCmCzqmmw0"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 61 aired on 2026-11-12.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=gOCmCzqmmw0",
+      "YouTube views: 63,682."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/gOCmCzqmmw0/hqdefault.jpg",
+        "caption": "Khushi Episode 61",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-12T15:00:25Z"
+  },
+  "3o5ozt": {
+    "id": "3o5ozt",
+    "type": "news",
+    "headline": "Uswah Episode 50 — Watch Online on Geo TV",
+    "dek": "Uswah episode 50 aired on 2026-11-12 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 50 aired on 2026-11-12 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=X2kI6HpeBLE"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 50 aired on 2026-11-12.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=X2kI6HpeBLE",
+      "YouTube views: 172,205."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/X2kI6HpeBLE/hqdefault.jpg",
+        "caption": "Uswah Episode 50",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-12T15:00:15Z"
+  },
+  "18b8isw": {
+    "id": "18b8isw",
+    "type": "news",
+    "headline": "Izzat Episode 54 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 54 aired on 2026-11-12 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 54 aired on 2026-11-12 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=fSs6EDhqHe8"
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 54 aired on 2026-11-12.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=fSs6EDhqHe8",
+      "YouTube views: 967."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/fSs6EDhqHe8/hqdefault.jpg",
+        "caption": "Izzat Episode 54",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-12T15:00:14Z"
+  },
+  "1w1gtzs": {
+    "id": "1w1gtzs",
+    "type": "news",
+    "headline": "Dastoor Episode 83 — Watch Online on Green TV",
+    "dek": "Dastoor episode 83 aired on 2026-11-12 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 83 aired on 2026-11-12 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=hm61fXMKCIo"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 83 aired on 2026-11-12.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=hm61fXMKCIo",
+      "YouTube views: 46,928.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/hm61fXMKCIo/hqdefault.jpg",
+        "caption": "Dastoor Episode 83",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-12T14:45:12Z"
+  },
+  "34nm2x": {
+    "id": "34nm2x",
+    "type": "news",
+    "headline": "Salman Khan Wishes Success to Shraddha Kapoor's Eetha Ahead of Their December 4 Box Office Clash",
+    "dek": "In a display of industry camaraderie, superstar Salman Khan has publicly cheered for Shraddha Kapoor's upcoming biographical drama Eetha, even though his own feature Maatrubhumi: May War Rest in Peace opens in cinemas on the exact same date.",
+    "body": [
+      {
+        "h": "A Surprising Show of Support",
+        "p": [
+          "In a heartwarming gesture that has quickly caught the attention of film enthusiasts, Bollywood icon Salman Khan has extended his warm wishes to Shraddha Kapoor and the creative team behind the upcoming movie Eetha. Utilizing his social media presence, the actor shared both the promotional poster and the official trailer link of the competing project on his Instagram Stories.",
+          "Accompanied by a friendly message wishing the venture well, the action star demonstrated a spirit of sportsmanship that stands out in the competitive landscape of the film industry. What makes the public endorsement particularly notable is that Khan's own feature film is slated to arrive in theatres on the very same day, setting up a high-profile box office showdown."
+        ]
+      },
+      {
+        "h": "The December 4 Cinematic Clash",
+        "p": [
+          "Both Eetha and Maatrubhumi: May War Rest in Peace are officially locked for a theatrical release on December 4, bringing two completely different cinematic worlds to the big screen simultaneously. While one project dives deep into traditional folk performance and cultural history, the other looks at contemporary military conflicts and national security.",
+          "The simultaneous arrival of these two anticipated titles has naturally sparked considerable chatter among moviegoers and trade analysts alike. Despite the commercial rivalry inherent in sharing a release window, Salman Khan chose to rise above conventional competition to champion his peer's creative undertaking."
+        ]
+      },
+      {
+        "h": "Details Behind Salman's Contender",
+        "p": [
+          "Salman Khan's opposing release, Maatrubhumi: May War Rest in Peace, draws its core inspiration from significant real-life incidents that unfolded in the Galwan Valley. The gritty drama aims to capture the intense realities of border tensions and military sacrifice.",
+          "The project is directed by Apoorva Lakhia and features Chitrangda Singh alongside Salman Khan in prominent roles. Anticipation for the action-drama has been steadily building, particularly following the digital debut of its action-packed trailer a few weeks prior to release."
+        ]
+      },
+      {
+        "h": "Unpacking the Eetha Trailer",
+        "p": [
+          "Shraddha Kapoor's Eetha, directed by Laxman Utekar, unveiled its official trailer on October 30, giving audiences a vibrant glimpse into a bygone cultural era. The narrative chronicles the extraordinary life of Vithabai Bhau Mang Narayangaonkar, an iconic Tamasha and Lavani artist renowned for her mesmerizing stage presence and enduring personal adversities.",
+          "The promotional footage highlights Shraddha Kapoor immersed in traditional Lavani attire, executing high-energy dance routines before massive crowds. Alongside the dazzling stage spectacles and cheering spectators, the preview hints at the profound emotional obstacles that defined Vithabai's remarkable artistic journey."
+        ]
+      },
+      {
+        "h": "Production Backing and Creative Team",
+        "p": [
+          "Eetha is brought to life through the collaborative production efforts of Dinesh Vijan, Laxman Utekar, and Karishma Sharma, working under the banners of Maddock Films and Kathputli Creations. This venture marks a notable return for Shraddha Kapoor to Maddock Films following the massive commercial triumph of the Stree franchise.",
+          "The film boasts an extensive supporting ensemble featuring Randeep Hooda, Mohammed Zeeshan Ayyub, Nana Patekar, Siddharth Jadhav, Anant Joshi, Akshara Singh, and Ulka Gupta. Additionally, the musical landscape of the project has been crafted by the acclaimed composer duo Ajay-Atul."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Salman Khan has publicly supported Shraddha Kapoor's upcoming film Eetha by sharing its trailer and poster on Instagram Stories, despite both movies releasing on December 4. Eetha is a biographical drama directed by Laxman Utekar and produced by Maddock Films, while Khan stars in the Galwan Valley-inspired Maatrubhumi: May War Rest in Peace directed by Apoorva Lakhia."
+        ]
+      }
+    ],
+    "facts": [
+      "Salman Khan shared Eetha poster and trailer link on Instagram Stories.",
+      "Both Eetha and Maatrubhumi: May War Rest in Peace release on December 4.",
+      "Maatrubhumi draws inspiration from incidents in Galwan Valley.",
+      "Maatrubhumi is directed by Apoorva Lakhia and stars Salman Khan with Chitrangda Singh.",
+      "The Eetha trailer was released on October 30.",
+      "Eetha is directed by Laxman Utekar.",
+      "Eetha is produced by Dinesh Vijan, Laxman Utekar, and Karishma Sharma under Maddock Films and Kathputli Creations.",
+      "The supporting cast of Eetha includes Randeep Hooda, Mohammed Zeeshan Ayyub, Nana Patekar, Siddharth Jadhav, Anant Joshi, Akshara Singh, and Ulka Gupta.",
+      "The music for Eetha is composed by Ajay-Atul."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Shraddha Kapoor",
+        "Apoorva Lakhia",
+        "Chitrangda Singh",
+        "Laxman Utekar",
+        "Vithabai Bhau Mang Narayangaonkar",
+        "Dinesh Vijan",
+        "Karishma Sharma",
+        "Randeep Hooda",
+        "Mohammed Zeeshan Ayyub",
+        "Nana Patekar",
+        "Siddharth Jadhav",
+        "Anant Joshi",
+        "Akshara Singh",
+        "Ulka Gupta"
+      ],
+      "titles": [
+        "Eetha",
+        "Maatrubhumi: May War Rest in Peace",
+        "Stree"
+      ]
+    },
+    "keywords": [
+      "Salman Khan Eetha support",
+      "Shraddha Kapoor Eetha December 4",
+      "Maatrubhumi May War Rest in Peace release",
+      "Laxman Utekar Eetha trailer",
+      "Salman Khan Apoorva Lakhia film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135773007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Salman Khan Wishes Success to Shraddha Kapoor's Eetha Ahead of Their December 4 Box Office Clash",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T19:45:30+05:30"
+  },
+  "q3whac": {
+    "id": "q3whac",
+    "type": "news",
+    "headline": "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
+    "dek": "After a brief two-week pause, Taylor Sheridan's procedural series Marshals is returning with a high-stakes new episode featuring shifting character dynamics and jurisdictional conflicts.",
+    "body": [
+      {
+        "h": "The Return of a Ratings Juggernaut",
+        "p": [
+          "Taylor Sheridan's expansive television universe continues to capture audiences, with the Yellowstone spin-off series Marshals returning to the CBS schedule after a temporary two-week hiatus. The network confirmed that following a pause that left fans without a new installment on Sunday, November 8, the program is firmly back on track for a broadcast on Sunday, November 15.",
+          "Since premiering earlier this year, the procedural drama has quickly established itself as a massive ratings success for CBS, expanding the gritty thematic elements of its predecessor into a new investigative format. As Season 2 progresses this fall, viewers are eager to see how the latest narrative turns will impact the core team of law enforcement officers."
+        ]
+      },
+      {
+        "h": "Overcoming Initial Hesitation",
+        "p": [
+          "The journey to bringing this character back to television was not without its hurdles, particularly regarding lead actor Luke Grimes. Initially, Grimes was vocal about his reluctance to reprise his role as Kayce Dutton once the flagship series concluded, feeling that the character had achieved a definitive and peaceful resolution.",
+          "In a previous interview with THR, Grimes explained that he believed Kayce's narrative arc had ended perfectly with his dream life secured. However, persuasive efforts from showrunner Spencer Hudnut and creator Taylor Sheridan ultimately convinced the actor to put the cowboy hat back on for a very different kind of storytelling."
+        ]
+      },
+      {
+        "h": "A New Chapter for Kayce Dutton",
+        "p": [
+          "Shifting away from the traditional format of the original ranch drama, the new series adopts a procedural approach centred on one of the flagship show's most underexplored figures. Kayce's idyllic life is disrupted, opening the door for intense new conflicts that break open his formerly peaceful world.",
+          "In the upcoming episode titled 'Roughstock,' these complications manifest immediately when Kayce decides to step entirely outside of official marshal jurisdiction. He takes matters into his own hands to assist his friend Mo, played by Mo Brings Plenty, after Mo's nephew goes missing."
+        ]
+      },
+      {
+        "h": "Medical Trips and Secret Romances",
+        "p": [
+          "Meanwhile, other members of the ensemble cast face personal and professional trials that threaten to alter team dynamics permanently. In the same episode, Cal, portrayed by Logan Marshall-Green, travels to Salt Lake City to visit a cancer specialist.",
+          "Adding to the dramatic tension, Belle, played by Arielle Kebbel, tags along on the trip without informing anyone else on the team. This secret excursion sparks speculation among viewers about a potential new romance blossoming between the characters and how it might affect their professional operations."
+        ]
+      },
+      {
+        "h": "Temporary Leadership Changes",
+        "p": [
+          "With Cal away dealing with his medical appointment, the chain of command within the unit experiences a temporary shift. Andrea, played by Ash Santos, steps in to take the reins and manage the office in his absence.",
+          "Managing the team proves difficult as overlapping crises emerge, particularly with Kayce operating outside official boundaries. Andrea's leadership will be tested as she attempts to maintain order while her colleagues handle high-pressure personal and external investigations."
+        ]
+      },
+      {
+        "h": "Expanding the Taylor Sheridan Universe",
+        "p": [
+          "The ongoing success of this procedural offshoot demonstrates the enduring appeal of Taylor Sheridan's gritty creative vision. Alongside other gritty titles exploring power, loyalty, and survival, the expanding franchise continues to explore complex moral grey areas.",
+          "Characters in Sheridan's world rarely operate with clean hands, often having to carry the heavy personal and professional costs of their choices. This latest television iteration proves that audiences remain deeply invested in the survival and struggles of these rugged protagonists."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Taylor Sheridan's Yellowstone spin-off series Marshals is returning to CBS on Sunday, November 15, following a brief two-week break. The upcoming episode, titled 'Roughstock,' features Cal visiting a cancer specialist with Belle tagging along secretly, while Andrea temporarily takes charge and Kayce steps outside his jurisdiction to help Mo find his missing nephew."
+        ]
+      }
+    ],
+    "facts": [
+      "The article was published on November 12, 2026.",
+      "Marshals is a Yellowstone spin-off series created by Taylor Sheridan.",
+      "The show takes a procedural approach following Kayce Dutton, played by Luke Grimes.",
+      "Season 2 airs this fall on CBS.",
+      "The show took a two-week break with no new episode on Sunday, November 8.",
+      "Marshals returns on schedule on Sunday, November 15.",
+      "Season 2, Episode 5 is titled 'Roughstock.'",
+      "In the episode, Cal (Logan Marshall-Green) goes to Salt Lake to see a cancer specialist.",
+      "Belle (Arielle Kebbel) tags along with Cal without anyone else knowing.",
+      "Andrea (Ash Santos) temporarily takes the reins in Cal's absence.",
+      "Kayce steps outside the marshal's jurisdiction to help his friend Mo (Mo Brings Plenty) after Mo's nephew goes missing.",
+      "Spencer Hudnut is the showrunner of Marshals."
+    ],
+    "entities": {
+      "people": [
+        "Taylor Sheridan",
+        "Denis Kimathi",
+        "Kayce Dutton",
+        "Luke Grimes",
+        "Spencer Hudnut",
+        "Cal",
+        "Logan Marshall-Green",
+        "Belle",
+        "Arielle Kebbel",
+        "Andrea",
+        "Ash Santos",
+        "Mo",
+        "Mo Brings Plenty",
+        "Mike McLusky",
+        "Dwight Manfredi"
+      ],
+      "titles": [
+        "Yellowstone",
+        "The Wire",
+        "Shameless",
+        "The Big Bang Theory",
+        "The Blacklist",
+        "Marshals",
+        "Landman",
+        "Tulsa King",
+        "Mayor of Kingstown"
+      ]
+    },
+    "keywords": [
+      "Marshals CBS show",
+      "Kayce Dutton Yellowstone spin-off",
+      "Taylor Sheridan Marshals episode",
+      "Luke Grimes Marshals Season 2"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/luke-grimes-marshals-204.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:30:12 GMT"
+  },
+  "10ntio2": {
+    "id": "10ntio2",
+    "type": "news",
+    "headline": "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
+    "dek": "Meghna Gulzar's directorial venture Daayra, starring Kareena Kapoor Khan and Prithviraj Sukumaran, is officially heading to Netflix for its digital streaming premiere in Hindi and Malayalam.",
+    "body": [
+      {
+        "h": "Netflix Announces Digital Premiere Date",
+        "p": [
+          "The theatrical feature Daayra is making its way to the digital space following its run on the big screen. Netflix India South officially announced the OTT release of the movie through a social media post on its X account, confirming the arrival date for subscribers.",
+          "The film will become available on the platform on November 13. Audiences across different regions can stream the movie in multiple languages, as it launches in both Hindi and Malayalam."
+        ]
+      },
+      {
+        "h": "First-Time On-Screen Collaboration",
+        "p": [
+          "The project marks a notable milestone by bringing together Bollywood star Kareena Kapoor Khan and Malayalam cinema star Prithviraj Sukumaran for the very first time on screen.",
+          "Directed by filmmaker Meghna Gulzar, the film generated positive reviews from critics and audiences alike when it originally debuted in theaters."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The narrative centers around a complex moral dilemma faced by two police officers following a controversial encounter killing. This police action is tied directly to a brutal gang-rape and murder case involving a young girl.",
+          "Kareena Kapoor Khan stars as Ajooni, an officer heading a Special Investigation Team (SIT). Her character leads the probe into the controversial encounter executed by DCP Raman Kumar, played by Prithviraj Sukumaran, and his team, who maintained that the accused men tried to escape while in custody."
+        ]
+      },
+      {
+        "h": "Critical Reception and Pacing",
+        "p": [
+          "Hindustan Times critic Rishabh Suri awarded the feature 3 stars, noting that the first half adopts a deliberate and measured pace rather than feeling immediately gripping. He observed that the production benefits from letting the procedural investigation breathe rather than rushing through narrative revelations.",
+          "While the trade-off means the story occasionally lacks the urgent intensity typically expected from such a disturbing subject matter, the second half accelerates toward its climax. The core strength of the feature lies in prompting deep questions regarding institutional accountability and systemic ethics rather than relying purely on shock value."
+        ]
+      },
+      {
+        "h": "Balancing Distinct Cinematic Universes",
+        "p": [
+          "Discussing her character choices, Kareena Kapoor Khan highlighted the stark contrast between her role in this project and her commercial work within Rohit Shetty's cop universe. She pointed out that commercial franchises present law enforcement in a larger-than-life, high-octane setting.",
+          "In contrast, she described Meghna Gulzar's directorial approach as grounded, realistic, and psychologically complex. The actor expressed gratitude for being able to navigate and straddle both cinematic worlds comfortably."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Meghna Gulzar's Daayra is releasing on Netflix on November 13 in Hindi and Malayalam languages. The film stars Kareena Kapoor Khan and Prithviraj Sukumaran in their first on-screen collaboration, following a gritty investigative plot about a controversial police encounter."
+        ]
+      }
+    ],
+    "facts": [
+      "Daayra releases on Netflix on November 13.",
+      "The film will be available in Hindi and Malayalam.",
+      "The film is directed by Meghna Gulzar.",
+      "Kareena Kapoor Khan plays SIT head Ajooni.",
+      "Prithviraj Sukumaran plays DCP Raman Kumar.",
+      "Hindustan Times critic Rishabh Suri gave the film 3 stars."
+    ],
+    "entities": {
+      "people": [
+        "Kareena Kapoor",
+        "Prithviraj Sukumaran",
+        "Meghna Gulzar",
+        "Rishabh Suri",
+        "Rohit Shetty"
+      ],
+      "titles": [
+        "Daayra"
+      ]
+    },
+    "keywords": [
+      "Daayra OTT release",
+      "Kareena Kapoor Daayra",
+      "Prithviraj Sukumaran Netflix",
+      "Meghna Gulzar Daayra film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/Daayra_1794490673280_cxEu_1794490673489_O9Y4_2495bf3a-2c75-4f1c-ba1c-79633523709e_gTOG.jpg",
+        "caption": "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 19:26:20 +0530"
+  },
+  "1j925ov": {
+    "id": "1j925ov",
+    "type": "news",
+    "headline": "Ravie Dubey Celebrates Ramayana Crossing ₹1,000 Crore with Behind-the-Scenes Photos",
+    "dek": "Actor Ravie Dubey marks Ramayana crossing the ₹1,000 crore worldwide milestone by sharing exclusive behind-the-scenes moments from the sets.",
+    "body": [
+      {
+        "h": "Milestone Achievement",
+        "p": [
+          "The cinematic adaptation Ramayana is enjoying a phenomenal run at the box office, officially surpassing the ₹1,000 crore mark in worldwide collections. The monumental financial milestone was achieved within eight days of the film hitting theatres, positioning it among the fastest films to accomplish this feat.",
+          "Trade estimates indicate that the movie crossed this massive global threshold following strong spot bookings by late afternoon on Thursday. Meanwhile, its domestic performance remains equally robust, with the India net collection reaching a striking ₹544.18 crore."
+        ]
+      },
+      {
+        "h": "Ravie Dubey Shares Behind-the-Scenes Glimpses",
+        "p": [
+          "In celebration of the film's massive global success, actor Ravie Dubey took to social media to share a series of behind-the-scenes photographs from the production sets. The actor, who portrays Lakshman in the epic adaptation, expressed his joy by noting he had a thousand reasons to be happy.",
+          "The shared snapshots capture candid moments between takes, showcasing the camaraderie among the cast and crew during production. One particular image features Ravie alongside Sai Pallavi sharing a lighthearted moment, reportedly after he accidentally fell into the water while filming a sequence."
+        ]
+      },
+      {
+        "h": "Cast Camaraderie in the Forest Sequences",
+        "p": [
+          "Other pictures released from the sets give fans a closer look at the collaborative atmosphere during the extensive forest sequence shoots. Ravie Dubey can be seen alongside co-stars Ranbir Kapoor and Sai Pallavi between filming setups.",
+          "The behind-the-scenes gallery also highlights key creative minds behind the project, offering glimpses of producer Namit Malhotra and director Nitesh Tiwari actively directing operations on set and ensuring the epic vision came to life."
+        ]
+      },
+      {
+        "h": "Rakul Preet Singh Details Her Surpanakha Transformation",
+        "p": [
+          "Alongside Ravie Dubey, co-star Rakul Preet Singh also commemorated the film's ₹1,000 crore achievement by releasing a behind-the-scenes video detailing her transformation into Surpanakha. The footage showcases the extensive hair and makeup process required for the distinct character look.",
+          "Rakul revealed that the transformation involved grueling four-hour beauty and costume marathons, noting that wearing the long wig and crown frequently caused head discomfort. Nevertheless, she expressed gratitude to her hair, makeup, and costume teams, stating that the audience's love made the effort worthwhile."
+        ]
+      },
+      {
+        "h": "Production and Creative Scale",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana is structured as a two-part cinematic adaptation of the revered Hindu epic. The star-studded cast features Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash as Ravana.",
+          "The grand project is backed by producers Namit Malhotra's Prime Focus Studios and Yash's Monster Mind Creations. To elevate the auditory experience, the film's musical landscape has been crafted by the acclaimed collaboration of Oscar-winning composer A R Rahman and Hans Zimmer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana reached ₹1,000 crore worldwide in eight days, prompting cast members Ravie Dubey and Rakul Preet Singh to share behind-the-scenes content celebrating the milestone. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the film continues its strong box office run."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana crossed ₹1,000 crore in worldwide collections within eight days.",
+      "India net collection stands at ₹544.18 crore.",
+      "Ravie Dubey plays Lakshman in the film.",
+      "Rakul Preet Singh plays Surpanakha and required four hours for hair and makeup.",
+      "The film is directed by Nitesh Tiwari.",
+      "Ranbir Kapoor plays Lord Rama, Sai Pallavi plays Sita, and Yash plays Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Ravie Dubey",
+        "Sai Pallavi",
+        "Ranbir Kapoor",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Rakul Preet Singh",
+        "Yash",
+        "A R Rahman",
+        "Hans Zimmer",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayanastars"
+      ]
+    },
+    "keywords": [
+      "Ramayana",
+      "Ravie Dubey",
+      "Rakul Preet Singh",
+      "Ramayana box office"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/Ravie_1794490649145_Qw5C_1794490649409_XDYW_852dd9ba-f91b-4cbf-a0ae-dc6d8f296d9b_j1i6.jpg",
+        "caption": "Ravie Dubey Celebrates Ramayana Crossing ₹1,000 Crore with Behind-the-Scenes Photos",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 19:22:55 +0530"
   }
 };
