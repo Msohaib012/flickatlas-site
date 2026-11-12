@@ -128318,5 +128318,405 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 17:32:40 GMT"
+  },
+  "gnwvgi": {
+    "id": "gnwvgi",
+    "type": "news",
+    "headline": "Parivarik ManuRanjan Review: A Gentle Rom-Com Powered by Lead Performances",
+    "dek": "Varun V. Sharma directs Pankaj Tripathi and Aditi Rao Hydari in a Lucknow-set romantic comedy that charms with its slow-burning central chemistry despite a tame conflict.",
+    "body": [
+      {
+        "h": "Introduction and Setting",
+        "p": [
+          "Parivarik ManuRanjan brings together an unconventional pairing of Pankaj Tripathi and Aditi Rao Hydari in a romantic comedy directed by Varun V. Sharma. Set primarily within a sprawling haveli in Lucknow, the film unfolds as a simple, old-fashioned love story between two distinct individuals.",
+          "Clocking in at 1 hour and 56 minutes, the narrative explores romance, comedy, and domestic dynamics. It offers an earnest attempt at a gentle love story without leaning heavily on unnecessary melodrama."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "Pankaj Tripathi plays Ranjan Dubey, a middle-aged Electricity Board worker in Lucknow who delayed his personal life to secure the marriages of his three sisters. His predictable existence changes when Helen, played by Aditi Rao Hydari, arrives as the new housekeeper.",
+          "An attraction develops gradually between them. While relatives and friends approach the relationship with suspicion, Ranjan treats Helen with dignity and respect, ultimately winning her over through a slow-burning emotional connection."
+        ]
+      },
+      {
+        "h": "Supporting Cast and Social Realism",
+        "p": [
+          "The film features an ensemble supporting cast including Brijendra Kala, Sunita Rajwar, and Mukesh Tiwari. Brijendra Kala portrays Rajaram, Ranjan's colleague, neighbour, and best friend, who initially suspects Helen of belonging to a theft gang.",
+          "Sunita Rajwar plays Rajaram's wife, adding humour through her constant obsession with making social media reels and keeping track of neighbourhood affairs. Meanwhile, Ranjan's three married sisters and their husbands bring a degree of social realism and small-minded concern regarding family reputation."
+        ]
+      },
+      {
+        "h": "Performances and Chemistry",
+        "p": [
+          "Pankaj Tripathi delivers a brilliant performance as a straight-talking, morally upright man who values decency. His portrayal brings warmth and humour to a character finding love later in life.",
+          "Aditi Rao Hydari matches his energy, handling both Helen and Manu with ease while showcasing effective comic timing. The onscreen chemistry between Tripathi and Hydari serves as the core emotional anchor of the movie."
+        ]
+      },
+      {
+        "h": "Narrative Flaws and Climax",
+        "p": [
+          "Despite strong lead performances, the film flattens out midway due to an insufficiently engaging conflict. The narrative struggles to maintain tension, leading to a tame climax.",
+          "Rather than resorting to violence or an alpha showdown, Ranjan opts to reason with and reform the villain through a lecture. This anti-alpha approach aligns with the thematic tone but diminishes dramatic tension."
+        ]
+      },
+      {
+        "h": "Themes and Legacy",
+        "p": [
+          "The movie celebrates companionship, kindness, and the premise that love can emerge at any stage of life. Its old-school charm provides a refreshing alternative to modern cinematic tropes dependent on instant attraction.",
+          "While it suffers from a loose screenplay and a weaker secondary conflict, the overall project remains pleasant company for audiences seeking an uncomplicated narrative."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Varun V. Sharma's romantic comedy Parivarik ManuRanjan stars Pankaj Tripathi and Aditi Rao Hydari in a Lucknow-set story about an unlikely bond between a middle-aged electricity board worker and a new housekeeper. Although critics noted a tame climax and a weak central conflict, the film received praise for its strong lead chemistry and earnest performances. The movie is currently streaming on SonyLiv."
+        ]
+      }
+    ],
+    "facts": [
+      "Parivarik ManuRanjan is directed by Varun V. Sharma.",
+      "The film stars Pankaj Tripathi and Aditi Rao Hydari.",
+      "The duration of the film is 1 hour and 56 minutes.",
+      "The story is set in Lucknow.",
+      "Pankaj Tripathi plays Ranjan Dubey, an Electricity Board worker.",
+      "Aditi Rao Hydari plays Helen and Manu.",
+      "Brijendra Kala plays Rajaram.",
+      "Sunita Rajwar plays Rajaram's wife.",
+      "Mukesh Tiwari plays the villain.",
+      "The film is currently streaming on SonyLiv."
+    ],
+    "entities": {
+      "people": [
+        "Devesh Sharma",
+        "Varun V. Sharma",
+        "Pankaj Tripathi",
+        "Aditi Rao Hydari",
+        "Brijendra Kala",
+        "Sunita Rajwar",
+        "Mukesh Tiwari"
+      ],
+      "titles": [
+        "Parivarik ManuRanjan"
+      ]
+    },
+    "keywords": [
+      "Parivarik ManuRanjan film",
+      "Pankaj Tripathi Parivarik ManuRanjan",
+      "Aditi Rao Hydari Parivarik ManuRanjan",
+      "Varun V Sharma film"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/parivarikmanuranjansoooo1794501896.jpg",
+        "caption": "Parivarik ManuRanjan Review: A Gentle Rom-Com Powered by Lead Performances",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-13T00:03:50+05:30"
+  },
+  "15m9h2v": {
+    "id": "15m9h2v",
+    "type": "news",
+    "headline": "Inside the Making of the Blockbuster Biopic 'Michael' with Nia Long and Victoria Thomas",
+    "dek": "Star Nia Long and casting director Victoria Thomas reflect on the creative challenges, emotional depth, and massive global success of the biographical drama 'Michael'.",
+    "body": [
+      {
+        "h": "Bringing a Complex Icon to the Screen",
+        "p": [
+          "The biographical drama 'Michael' has captured global audiences, grossing more than $1 billion worldwide. Behind this massive commercial triumph is a deeply personal exploration of the legendary pop star's life, focusing on his humanity rather than just his celebrity status.",
+          "Starring Jaafar Jackson as the iconic artist and directed by Antoine Fuqua, the project aimed to present an authentic portrayal of a complex figure. Producer Graham King spearheaded the vision, guiding the production through several years of development."
+        ]
+      },
+      {
+        "h": "An Intimidating Casting Journey",
+        "p": [
+          "Casting director Victoria Thomas admitted that assembling the film was an intimidating undertaking given the intense public scrutiny surrounding the subject. Beginning her discussions with the production team in 2022, she worked on the film through various industry strikes until 2026.",
+          "Thomas noted that the production's commitment to portraying Michael honestly rather than delivering a hit piece provided much-needed reassurance. The careful selection of actors who could anchor their respective roles was crucial to the project's evolution."
+        ]
+      },
+      {
+        "h": "Stepping Into the Shoes of Katherine Jackson",
+        "p": [
+          "Acclaimed actress Nia Long takes on the role of Katherine Jackson, the matriarch of the Jackson family. Long recalled being moved to tears during her initial meeting with producer Graham King, who reviewed dialogue line by line with the cast before filming.",
+          "Working alongside director Antoine Fuqua allowed Long to trust the creative process in a safe and supportive environment. She viewed taking on the role as a significant commitment to the next phase of her personal growth and womanhood."
+        ]
+      },
+      {
+        "h": "The Intangible Connection of Motherhood",
+        "p": [
+          "For Victoria Thomas, choosing Nia Long to play Katherine came down to audience familiarity and the actress's own lived experience as a mother. That innate understanding of a mother-and-son relationship carried substantial emotional weight for the character.",
+          "Thomas emphasized that this particular dynamic transcended a standard audition performance, relying instead on intangible qualities that helped ground the familial relationships within the narrative."
+        ]
+      },
+      {
+        "h": "Dynamic On-Set Collaborations and Deleted Scenes",
+        "p": [
+          "Long shared insights into working alongside Colman Domingo, who portrays her on-screen husband Joe Jackson. While Domingo brought vibrant morning energy to the set, Long preferred a quieter routine, creating a natural dynamic that translated well into their portrayals.",
+          "Among the most memorable moments for Long was a deleted scene filmed at Neverland in the theater where Jaafar used to watch Michael rehearse. Featuring projected Charlie Chaplin footage, the emotional sequence captured a mother picking up the pieces for her troubled child."
+        ]
+      },
+      {
+        "h": "Recreating Iconic Moments and Global Impact",
+        "p": [
+          "Production highlights included filming the legendary 'Thriller' sequence in downtown Los Angeles near the original location, captivating the entire cast and crew. The worldwide box office milestone proved that the film resonated deeply across various cultures and countries.",
+          "Thomas and Long both expressed pride in the film's ability to connect with young audiences dealing with personal insecurities, while maintaining their own professional longevity and integrity in the entertainment industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nia Long and casting director Victoria Thomas discussed the creative and emotional process behind making the blockbuster biographical drama 'Michael'. The film, directed by Antoine Fuqua and starring Jaafar Jackson, surpassed $1 billion at the global box office while offering an honest perspective on the iconic artist's life."
+        ]
+      }
+    ],
+    "facts": [
+      "Michael has grossed more than $1 billion worldwide.",
+      "Nia Long portrays Katherine Jackson in the film Michael.",
+      "Jaafar Jackson stars as Michael Jackson.",
+      "Antoine Fuqua directed the film Michael.",
+      "Graham King served as a producer on the film.",
+      "Victoria Thomas is the casting director of Michael."
+    ],
+    "entities": {
+      "people": [
+        "Nia Long",
+        "Victoria Thomas",
+        "Michael Jackson",
+        "Jaafar Jackson",
+        "Antoine Fuqua",
+        "Graham King",
+        "Colman Domingo",
+        "Charlie Chaplin"
+      ],
+      "titles": [
+        "Michael",
+        "Thriller",
+        "Boyz N the Hood",
+        "Friday",
+        "The Fresh Prince of Bel-Air",
+        "You People",
+        "Missing",
+        "Get Lite",
+        "Don't Ever Wonder",
+        "Repo Man",
+        "Once Upon a Time in Hollywood",
+        "Hidden Figures",
+        "Django Unchained",
+        "Straight Outta Compton",
+        "The Last of Us",
+        "The Morning Show",
+        "Insecure"
+      ]
+    },
+    "keywords": [
+      "Michael film",
+      "Nia Long Michael",
+      "Victoria Thomas casting",
+      "Jaafar Jackson Michael",
+      "Antoine Fuqua Michael"
+    ],
+    "images": [
+      {
+        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/coronado-film-festival_b6943e.jpg?w=650",
+        "caption": "Inside the Making of the Blockbuster Biopic 'Michael' with Nia Long and Victoria Thomas",
+        "source": "Gold Derby"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 19:00:00 +0000"
+  },
+  "1ewvloq": {
+    "id": "1ewvloq",
+    "type": "news",
+    "headline": "Ramayana Day 8 Box Office: Ranbir Kapoor And Yash Starrer Crosses Rs 564 Crore After Stellar First Week",
+    "dek": "Mythological epic Ramayana: Part 1 wraps up a phenomenal extended opening week at the box office, racing past Ranbir Kapoor's previous record-holder Animal in just eight days.",
+    "body": [
+      {
+        "h": "First Week Box Office Triumph",
+        "p": [
+          "The theatrical run of the mythological epic Ramayana: Part 1 has concluded its opening week with extraordinary momentum at the box office. Benefiting from a powerful extended opening window and a strong post-Diwali holiday period, the feature film has captivated audiences across the nation.",
+          "On its eighth day in cinemas, the multi-starrer added over Rs 50 crore to its domestic earnings, successfully pushing its overall India net total past the Rs 550 crore milestone."
+        ]
+      },
+      {
+        "h": "Language-Wise Day 8 Breakdown",
+        "p": [
+          "According to tracking data from Sacnilk, the production brought in Rs 53.50 crore net across 24,042 screenings throughout India on Thursday. The Hindi version drove the majority of these revenues, pulling in Rs 43 crore from 19,464 shows.",
+          "Regional versions also contributed steadily to the overall figures, with Kannada earning Rs 3.25 crore, Malayalam adding Rs 2.80 crore, Telugu bringing in Rs 2.30 crore, and Tamil contributing Rs 2.15 crore on the eighth day."
+        ]
+      },
+      {
+        "h": "Surpassing Animal's Lifetime Collection",
+        "p": [
+          "Produced by Namit Malhotra, Ramayana: Rise of a Legend has officially emerged as the highest-grossing film starring Ranbir Kapoor. Notably, it achieved this feat by overtaking the lifetime domestic figures of his previous release, Animal, within its very first week.",
+          "While Animal finished its lifetime run with Rs 553.87 crore net and Rs 658.97 crore gross domestically, the new mythological venture has already reached an India net collection of Rs 564.60 crore and a domestic gross of Rs 675.05 crore."
+        ]
+      },
+      {
+        "h": "Daily Trajectory Since Release",
+        "p": [
+          "The cinematic release started strong on November 5 with an opening day collection of Rs 64.85 crore, followed by Rs 48.05 crore on its second day. Weekend numbers saw a robust upward trend, generating Rs 69.80 crore on Saturday and Rs 56.15 crore on Sunday.",
+          "The momentum accelerated further at the start of the working week, registering Rs 107.50 crore net on Monday, Rs 94.10 crore on Tuesday, and Rs 70.65 crore on Wednesday before finishing out its first week on Thursday."
+        ]
+      },
+      {
+        "h": "Global Milestones And Overseas Earnings",
+        "p": [
+          "The feature has performed exceptionally well in international territories, adding Rs 25 crore from overseas markets on Day 8 alone to reach an overseas gross total of Rs 358.50 crore.",
+          "Combined with domestic figures, the worldwide gross collection stands at an impressive Rs 1,033.55 crore, making it the second Hindi film to breach the Rs 1,000 crore global mark in 2026."
+        ]
+      },
+      {
+        "h": "Cast, Crew, and Release Details",
+        "p": [
+          "Directed by Nitesh Tiwari, Ramayana: Part 1 features Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Sita, and Yash in the role of Ravana. The stellar cast also includes Sunny Deol, Ravi Dubey, Lara Dutta, and Arun Govil.",
+          "The film hit theatres on November 5, arriving in multiple languages including Hindi, Tamil, Telugu, Kannada, and Malayalam."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 completed an extraordinary first week at the box office by crossing Rs 564 crore net in India and surpassing the lifetime collections of Ranbir Kapoor's previous film Animal in just eight days. Directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, the multilingual epic also breached the Rs 1,000 crore worldwide gross mark.",
+          "The production achieved these milestones following a strong post-Diwali holiday run and high audience turnout across domestic and international markets."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana: Part 1 released in theatres on November 5, 2026",
+      "Day 8 India net collection was Rs 53.50 crore",
+      "Total India net collection reached Rs 564.60 crore",
+      "Total domestic gross collection stands at Rs 675.05 crore",
+      "Worldwide gross collection reached Rs 1,033.55 crore",
+      "Animal lifetime net collection was Rs 553.87 crore"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Sunny Deol",
+        "Ravi Dubey",
+        "Lara Dutta",
+        "Arun Govil",
+        "Ranveer Singh"
+      ],
+      "titles": [
+        "Ramayana: Part 1",
+        "Animal",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Day 8 box office collection",
+      "Ramayana film box office",
+      "Ranbir Kapoor Yash Ramayana earnings",
+      "Ramayana crosses 1000 crore"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156500747,thumbsize-58375,width-1280,height-720,resizemode-75/156500747.jpg",
+        "caption": "Ramayana Day 8 Box Office: Ranbir Kapoor And Yash Starrer Crosses Rs 564 Crore After Stellar First Week",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T19:52:48Z"
+  },
+  "zvbk02": {
+    "id": "zvbk02",
+    "type": "news",
+    "headline": "Understanding The Secret Fire In The Rings Of Power Season 3",
+    "dek": "A closer look at how the latest season of Prime Video's fantasy series introduces divine elements and explores Tolkien's mythology.",
+    "body": [
+      {
+        "h": "Introduction To Season 3",
+        "p": [
+          "Prime Video's fantasy series continues its narrative arc with significant developments in its third season. Viewers watching the latest episodes find the focus shifting toward prominent villains and deeper lore, notably featuring Sauron attempting to craft his master jewelry while haunted by the ghost of Celebrimbor. The show also introduces striking new elements like the Nazgnagôl and Adam Young's orc character.",
+          "Unlike previous seasons, creators J. D. Payne and Patrick McKay have moved away from prolonged mystery identities. Audiences now clearly understand the roles of Sauron, the Stranger as Gandalf, the identity of the Dark Wizard, and why Theo remains part of the story."
+        ]
+      },
+      {
+        "h": "The Burning Bush Encounter",
+        "p": [
+          "A major turning point occurs in the third episode when Tom Bombadil sends Gandalf on a quest chasing a rabbit. This leads the wizard to an altar where the rabbit combusts into a flame that speaks directly to him.",
+          "During this sequence, the voice addresses Gandalf by his original Quenya name, Olórin, and provides a cosmic vision that explains his divine purpose in the overall narrative."
+        ]
+      },
+      {
+        "h": "Erū Ilúvatar And The Flame Imperishable",
+        "p": [
+          "The voice emanating from the flame reveals itself to be the creator of the heavens and stars, known in J. R. R. Tolkien's legendarium as Erū Ilúvatar. This entity explains that the Secret Fire burns inside every living creature on Middle-earth.",
+          "In Tolkien's mythology, this Flame Imperishable acts as the equivalent of the Holy Spirit, providing the vital spark of life that Morgoth famously craved and failed to replicate on his own."
+        ]
+      },
+      {
+        "h": "Direct Exposition And Revelations",
+        "p": [
+          "Rather than relying on subtle hints, the series delivers a substantial exposition dump through this divine intervention. After two seasons of speculation regarding the Dark Wizard, the deity outright explains that this figure is actually a Blue Wizard.",
+          "This direct approach provides audiences with the complete backstory of the Istari within a single sequence, shedding light on character motivations that previously remained obscure."
+        ]
+      },
+      {
+        "h": "Connections To Future Events",
+        "p": [
+          "The introduction of Erū Ilúvatar serves a larger structural purpose for the television adaptation. Creators have integrated this higher being ahead of upcoming conflicts in Season 4 and the impending fall of Númenor.",
+          "While Tolkien's traditional texts generally kept the Valar from directly intervening in Middle-earth's wars during the Second Age, this adaptation leans further into overt supernatural fantasy to expand its world."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The third season of Prime Video's fantasy series features an overt divine encounter where Gandalf learns about the Secret Fire directly from Erū Ilúvatar. This sequence provides crucial background on the Istari and sets up larger mythological conflicts for future episodes."
+        ]
+      }
+    ],
+    "facts": [
+      "Nov. 12, 2026",
+      "J. D. Payne",
+      "Patrick McKay",
+      "Daniel Weyman",
+      "Rory Kinnear",
+      "Allan Corduner",
+      "Adam Young"
+    ],
+    "entities": {
+      "people": [
+        "Rafael Motamayor",
+        "J. D. Payne",
+        "Patrick McKay",
+        "Daniel Weyman",
+        "Rory Kinnear",
+        "Allan Corduner",
+        "Adam Young",
+        "J. R. R. Tolkien",
+        "Sauron",
+        "Celebrimbor",
+        "Gandalf",
+        "Tom Bombadil",
+        "Olórin",
+        "Erũ Ilúvatar",
+        "Morgoth"
+      ],
+      "titles": [
+        "The Lord Of The Rings: The Rings Of Power",
+        "The Lord of the Rings"
+      ]
+    },
+    "keywords": [
+      "The Lord Of The Rings: The Rings Of Power",
+      "The Secret Fire",
+      "Gandalf",
+      "Erũ Ilúvatar",
+      "The Rings Of Power Season 3"
+    ],
+    "images": [
+      {
+        "url": "https://www.slashfilm.com/img/gallery/the-lord-of-the-rings-the-rings-of-power-season-3-the-secret-fire-explained/l-intro-1794511988.jpg",
+        "caption": "Understanding The Secret Fire In The Rings Of Power Season 3",
+        "source": "SlashFilm"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 19:35:40 +0000"
   }
 };
