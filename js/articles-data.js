@@ -124353,5 +124353,382 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 08:22:57 +0000"
+  },
+  "1r4mk7t": {
+    "id": "1r4mk7t",
+    "type": "news",
+    "headline": "Frankie Muniz Hospitalized Following Practice Crash at Daytona",
+    "dek": "Actor and professional racing driver Frankie Muniz was rushed to a medical facility after crashing his Team Air Force car during practice at Daytona International Speedway ahead of the Ford Veterans Day Classic.",
+    "body": [
+      {
+        "h": "The Accident at Daytona",
+        "p": [
+          "Actor and professional racing driver Frankie Muniz suffered a high-speed crash during a practice session at the Daytona International Speedway. The incident occurred while he was behind the wheel of his Team Air Force vehicle, preparing for the upcoming Ford Veterans Day Classic exhibition event.",
+          "Following the collision, a spokesperson for Ford Racing confirmed that the 40-year-old performer was immediately transported to a nearby medical facility for a thorough health evaluation. Fortunately, sources reported that he remained awake and alert immediately after the impact."
+        ]
+      },
+      {
+        "h": "Race Withdrawal and Vehicle Damage",
+        "p": [
+          "Due to the medical evaluation and the nature of the accident, Muniz was officially ruled out from participating in Wednesday night's scheduled race. Photographs showcasing the wreckage of his Team Air Force entry revealed significant destruction, particularly around the roof of the car.",
+          "The extent of the damage sparked immediate concern among fans and motorsport enthusiasts alike regarding the severity of the crash. Despite the alarming appearance of the vehicle, no further details concerning specific injuries or the precise sequence of events leading up to the collision were immediately released."
+        ]
+      },
+      {
+        "h": "Team and Official Statements",
+        "p": [
+          "Motorsport organization Team Reaume took to social media to share an official statement regarding the incident. They confirmed that their driver was involved in an accident during preparations for the Proud to Honor event at the Daytona venue.",
+          "The team emphasized that Muniz was taken to a local medical facility for observation and reiterated that he was conscious and responsive. They also expressed gratitude for public support while requesting privacy for the driver during his recovery."
+        ]
+      },
+      {
+        "h": "The Ford Veterans Day Classic Context",
+        "p": [
+          "The practice session was held in preparation for the Ford Veterans Day Classic, a unique exhibition event designed to bring together twelve drivers representing different motorsport backgrounds, including NASCAR. The special gathering was organized to pay tribute to the six branches of the United States military.",
+          "Muniz was slated to pilot his Team Air Force entry in this patriotic showcase before his sudden hospitalization sidelined him. Reports also noted that his former television co-star Bryan Cranston was expected to attend the Wednesday evening event to cheer him on from the sidelines."
+        ]
+      },
+      {
+        "h": "Transition from Hollywood to Racing",
+        "p": [
+          "The incident highlighted the unique career trajectory of the performer, who transitioned from global childhood stardom in television to professional motorsports. While audiences worldwide recognize him for his leading role in the popular sitcom Malcolm in the Middle, he has spent over two decades pursuing his passion for competitive driving.",
+          "His official foray into professional racing began back in 2004, allowing him to gradually build a dedicated career away from the Hollywood film and television industry. Today, he regularly competes within the NASCAR Craftsman Truck Series while driving a Ford F-150."
+        ]
+      },
+      {
+        "h": "Prior Racing Incidents This Year",
+        "p": [
+          "This event marks the second notable racing mishap experienced by the actor during the year. Back in April, he was reportedly involved in a truck wreck featuring a special Malcolm in the Middle themed livery.",
+          "That earlier incident occurred shortly before the television revival of the beloved comedy series made its official premiere, reminding followers of the inherent physical risks associated with his motorsport career."
+        ]
+      },
+      {
+        "h": "Recent Television Return",
+        "p": [
+          "Before focusing on his racing commitments at Daytona, the actor was last seen returning to his most iconic television role in a recent streaming revival project. He reprised his famous character, Malcolm Wilkerson, in the four-episode television event titled Malcolm in the Middle: Life's Still Unfair.",
+          "The revival project brought back beloved elements of the classic sitcom for fans, merging his enduring television legacy with his modern-day professional athletic pursuits."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor and NASCAR driver Frankie Muniz was hospitalized after crashing his Team Air Force car during practice at Daytona International Speedway ahead of the Ford Veterans Day Classic. Although he was awake and alert following the accident, he was ruled out of Wednesday night's race while undergoing medical evaluation."
+        ]
+      }
+    ],
+    "facts": [
+      "Frankie Muniz is 40 years old.",
+      "The crash occurred at Daytona International Speedway during practice for the Ford Veterans Day Classic.",
+      "Frankie Muniz began pursuing professional racing in 2004.",
+      "The four-episode sitcom revival is titled Malcolm in the Middle: Life's Still Unfair (2026)."
+    ],
+    "entities": {
+      "people": [
+        "Frankie Muniz",
+        "Bryan Cranston"
+      ],
+      "titles": [
+        "Malcolm in the Middle",
+        "Malcolm in the Middle: Life's Still Unfair"
+      ]
+    },
+    "keywords": [
+      "Frankie Muniz crash",
+      "Frankie Muniz hospitalised",
+      "Ford Veterans Day Classic",
+      "Malcolm in the Middle"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156496515,thumbsize-159603,width-1280,height-720,resizemode-75/156496515.jpg",
+        "caption": "Frankie Muniz Hospitalized Following Practice Crash at Daytona",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-12T09:52:28Z"
+  },
+  "8592bj": {
+    "id": "8592bj",
+    "type": "news",
+    "headline": "Surabhi Das Reflects on Her Journey from Assam to Nitesh Tiwari's Ramayana",
+    "dek": "Actress Surabhi Das opens up about her humble beginnings, navigating the entertainment industry without industry connections, and landing a role in Nitesh Tiwari's upcoming cinematic project Ramayana.",
+    "body": [
+      {
+        "h": "Introduction to the Project",
+        "p": [
+          "Surabhi Das has captured public attention after securing a role in one of the most prominent cinematic endeavors currently in development. She portrays Shrutakirti, who is the younger sister of Sita, in director Nitesh Tiwari's grand adaptation of Ramayana.",
+          "Joining a production of this magnitude marks a significant milestone in the actress's career, thrusting her into the spotlight and associating her with a widely discussed ensemble cast."
+        ]
+      },
+      {
+        "h": "Background and Early Beginnings",
+        "p": [
+          "Before finding her footing in the entertainment industry, Surabhi's path included diverse professional experiences. Hailing from Assam, she originally worked in the corporate sector and built a resume that included various digital content platforms such as YouTube.",
+          "Her entry into the acting world began on Hindi television with her debut in Nima Denzongpa. She subsequently expanded her portfolio by taking on roles in popular daily television shows like Pandya Store, alongside working on regional Assamese projects such as Parineeta and Indrabhanu."
+        ]
+      },
+      {
+        "h": "Reflecting on Humble Roots",
+        "p": [
+          "The actress has been vocal about her upbringing in a lower-middle-class family in Assam, describing her transition to Mumbai and securing such a high-profile role as a divine blessing. She noted that coming from a background where people often accept standard life paths requires immense personal determination to dream big.",
+          "Although her father has passed away, her mother and brother have remained a constant source of strength. She shared that her family members are thrilled with her casting, noting that their pride would have remained steadfast regardless of the scale of the project she took on."
+        ]
+      },
+      {
+        "h": "Overcoming Industry Challenges",
+        "p": [
+          "Entering the entertainment business without any pre-existing industry connections presented notable hurdles for the newcomer. Surabhi explained that she mentally prepared herself for the grind required of outsiders trying to break into Mumbai's film and television circles.",
+          "She embraced the rigorous audition process without complaint, viewing it as the necessary route to secure employment. While acknowledging that continuous rejections can take an emotional toll and induce wishes for shortcuts, she maintained that giving up was never an option she entertained."
+        ]
+      },
+      {
+        "h": "Family Reaction and Future Plans",
+        "p": [
+          "Upon learning about the sheer scale of Ramayana and its prominent star cast, Surabhi's family reacted with immense excitement and pride. While they have already viewed parts of the project, the actress expressed eagerness to travel back to her hometown to experience the film in a theatre alongside them.",
+          "This upcoming shared experience represents a joyful culmination of her hard work and the unwavering support her family provided throughout her career transitions."
+        ]
+      },
+      {
+        "h": "Advice for Aspiring Artists",
+        "p": [
+          "Drawing from her own experiences of moving from Assam to Mumbai, Surabhi offered encouragement to other young individuals from humble backgrounds who aspire to enter the entertainment field. She emphasized that personal circumstances should never act as an absolute barrier to one's ambitions.",
+          "She advised aspirants to rely on continuous hard work, relentless hustle, and steady refinement of their craft. Building connections and maintaining inner drive, she noted, are essential qualities for navigating a demanding and time-consuming industry."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Surabhi Das discussed her journey from a lower-middle-class family in Assam to playing Shrutakirti in Nitesh Tiwari's Ramayana. She highlighted the support of her family, the challenges of navigating the industry without connections, and offered advice to future aspirants."
+        ]
+      }
+    ],
+    "facts": [
+      "Surabhi Das plays Shrutakirti, Sita's younger sister, in Nitesh Tiwari's Ramayana.",
+      "Surabhi Das made her Hindi television debut with Nima Denzongpa.",
+      "She has also featured in television shows like Pandya Store.",
+      "Her regional Assamese projects include Parineeta and Indrabhanu.",
+      "The story was first published on Thursday, November 12, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Surabhi Das",
+        "Nitesh Tiwari",
+        "Shrutakirti"
+      ],
+      "titles": [
+        "Ramayana",
+        "Nima Denzongpa",
+        "Pandya Store",
+        "Parineeta",
+        "Indrabhanu"
+      ]
+    },
+    "keywords": [
+      "Surabhi Das Ramayana",
+      "Nitesh Tiwari Ramayana cast",
+      "Surabhi Das Nima Denzongpa",
+      "Shrutakirti Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/surabhidasramayanad1-55601794475409.jpg",
+        "caption": "Surabhi Das Reflects on Her Journey from Assam to Nitesh Tiwari's Ramayana",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 14:55:09 +0530"
+  },
+  "zvozmn": {
+    "id": "zvozmn",
+    "type": "news",
+    "headline": "Ethan Hawke Breaks Down the Tragic Turning Point in The Lowdown Season 2",
+    "dek": "The star and executive producer opens up about Lee Raybon's chaotic journey, working alongside Tommy Lee Jones, and the devastating events of Episode 6.",
+    "body": [
+      {
+        "h": "An Introduction to Lee Raybon's Chaotic World",
+        "p": [
+          "The FX series The Lowdown returned for its second season, bringing back its messy and complicated protagonist, investigative figure Lee Raybon. Played by Ethan Hawke, Lee frequently finds himself in compromising positions, often absorbing physical blows rather than landing them. According to Hawke, this dynamic serves as a larger metaphor for speaking truth to power.",
+          "While Lee is far from smooth when it comes to physical confrontations, his willingness to put himself directly on the line remains his greatest asset. This relentless pursuit of a story places him in constant danger, yet it defines his core purpose within the community as someone determined to keep powerful individuals honest."
+        ]
+      },
+      {
+        "h": "A Modern Don Quixote Seeking Greatness",
+        "p": [
+          "Throughout the second season, viewers are promised that the absolute best of Lee Raybon is yet to come. Hawke compares his character's mindset to that of Don Quixote, driven by an internal belief in his own capacity for greatness despite his tendency to get in his own way.",
+          "Rather than avoiding risky situations, Lee often behaves like a punk rocker leaping eagerly into a mosh pit. His optimistic nature leads him to believe that every fractured situation can be completely fixed if he simply takes the right action, making him an endlessly compelling character to watch."
+        ]
+      },
+      {
+        "h": "The Devastating Turning Point in Episode 6",
+        "p": [
+          "Season 2, Episode 6, titled 'Leaving and Coming Back,' delivers a heartbreaking blow during what begins as an ordinary drive between Lee and his estranged father, played by Tommy Lee Jones. After spending so much time resisting attempts to reconnect, Lee faces an abrupt and irrevocable loss just as the possibility for genuine healing appears on the horizon.",
+          "Hawke describes this pivotal sequence as an extraordinary piece of writing. The ordinary nature of the conversation makes the sudden finality all the more devastating, abruptly ending the metaphorical poem between father and son before the final verses can be written."
+        ]
+      },
+      {
+        "h": "Collaborating with Tommy Lee Jones",
+        "p": [
+          "Working alongside legendary actor Tommy Lee Jones brought an immense layer of depth to the father-son dynamic. Hawke notes that Jones radiates a distinct intelligence that brings complexity to his role as a grifter father, leaving Lee with a deep-seated obsession with honesty due to a childhood lacking fundamental truth.",
+          "Despite the heavy tension between the two men, the season also highlights tender moments between the father and his granddaughter. This nuanced portrayal reminds audiences that complex, flawed individuals can still foster meaningful relationships with others."
+        ]
+      },
+      {
+        "h": "Looking Ahead at the Final Episodes",
+        "p": [
+          "With episodes six, seven, and eight standing out as favorites for the cast and crew, Hawke teases that the narrative continues to evolve in unexpected ways. He specifically points out that Tommy Lee Jones delivers his absolute best scene of the entire series in Episode 8.",
+          "The show's unique pacing allows characters to simply sit in heavy silence, a creative choice that mirrors the distinctive storytelling style of series creator Sterlin Harjo. By blending classical noir elements with a fresh, unpredictable voice, the series keeps viewers constantly engaged."
+        ]
+      },
+      {
+        "h": "Dynamic and Real Connections",
+        "p": [
+          "Beyond the familial conflict, Lee's connection with Ginger offers another layer of raw intimacy to the season. Built on mutual recognition and quiet, unguarded moments rather than grand gestures, their relationship thrives because both characters recognize the inherent impossibility of their situation.",
+          "These quiet interactions allow both individuals to finally drop the protective guards they have maintained throughout their lives, adding emotional weight to the ongoing narrative."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ethan Hawke recently discussed the emotional fallout of Episode 6 in the second season of the FX series The Lowdown, focusing on his character Lee Raybon and his complex relationship with his on-screen father, played by Tommy Lee Jones. Hawke highlighted the brilliant writing behind the tragic turning point in the van and teased even more powerful performances to come in the final episodes created by Sterlin Harjo."
+        ]
+      }
+    ],
+    "facts": [
+      "The Lowdown is an FX series created by Sterlin Harjo.",
+      "Season 2, Episode 6 is titled 'Leaving and Coming Back.'",
+      "Ethan Hawke stars as Lee Raybon and serves as an executive producer.",
+      "Tommy Lee Jones plays Lee's father in the series."
+    ],
+    "entities": {
+      "people": [
+        "Ethan Hawke",
+        "Tommy Lee Jones",
+        "Sterlin Harjo",
+        "Christina Radish",
+        "Ginger",
+        "Lee Raybon"
+      ],
+      "titles": [
+        "The Lowdown",
+        "Reservation Dogs",
+        "All the President's Men",
+        "Fraggle Rock"
+      ]
+    },
+    "keywords": [
+      "The Lowdown Season 2",
+      "Ethan Hawke The Lowdown",
+      "Tommy Lee Jones The Lowdown",
+      "The Lowdown Episode 6"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-lowdown-season-2-ethan-hawke.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Ethan Hawke Breaks Down the Tragic Turning Point in The Lowdown Season 2",
+        "source": "Collider"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 09:00:12 GMT"
+  },
+  "15amqts": {
+    "id": "15amqts",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 7: Ranbir Kapoor and Yash Starrer Crosses Rs 600 Crore Domestically",
+    "dek": "Nitesh Tiwari's mythological epic continues its stellar theatrical run, surpassing the Rs 600 crore gross mark in India within its first week.",
+    "body": [
+      {
+        "h": "Phenomenal Domestic Milestone",
+        "p": [
+          "The theatrical adaptation of the revered Indian epic has achieved a massive milestone at the domestic box office within its first week of release. Drawing massive crowds to cinema halls across the country, the feature has successfully raced past the prestigious Rs 600 crore gross mark in India alone.",
+          "Industry trackers and trade analysts have noted the unprecedented momentum the movie has maintained since its opening day. This rapid accumulation of numbers places the feature among the highest-earning titles in recent cinematic history, reflecting widespread audience enthusiasm."
+        ]
+      },
+      {
+        "h": "Release Timeline and Production Background",
+        "p": [
+          "Produced by Namit Malhotra and Yash, the first installment of this ambitious franchise opened in theaters on Thursday, November 5. Directed by filmmaker Nitesh Tiwari, the cinematic project brings together a massive scale, elaborate visual effects, and a sweeping narrative structure.",
+          "The creative team also features co-writer Shridhar Raghavan alongside Tiwari. From its initial screenings, the feature has dominated ticket counters, setting new benchmarks for festive theatrical performances across domestic markets."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Iconic Roles",
+        "p": [
+          "The big-budget spectacle boasts an extensive ensemble cast portraying key figures from the epic. Ranbir Kapoor steps into the role of Lord Rama, while Sai Pallavi essays the character of Goddess Sita, and Yash takes on the formidable role of Ravana.",
+          "Additional prominent names in the cast include Sunny Deol as Lord Hanuman and Ravie Dubey as Lakshmana. The expansive roster also features performers such as Anupam Kher, Kajal Aggarwal, Rakul Preet Singh, Vivek Oberoi, Arun Govil, and Lara Dutta in crucial parts."
+        ]
+      },
+      {
+        "h": "First Wednesday Collections",
+        "p": [
+          "On its seventh day, corresponding to the first Wednesday, the feature encountered a modest dip of roughly 24.9 percent in earnings compared to preceding days. Even with this adjustment, the collection remained exceptionally strong across thousands of operating screens nationwide.",
+          "The single-day net figures recorded on Wednesday stood at Rs 70.65 crore. These revenues were gathered across a massive footprint of 24,239 individual shows deployed throughout the domestic territory."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance Breakdown",
+        "p": [
+          "The Hindi belt emerged as the primary revenue driver for the production, contributing the largest share of collections. On Day 7 alone, the Hindi version brought in Rs 58.00 crore from 19,715 shows.",
+          "Regional markets also added steadily to the overall tally. Day 7 language contributions included Rs 4.50 crore from Kannada shows, Rs 2.75 crore from Malayalam screenings, Rs 2.75 crore from Telugu screens, and Rs 2.65 crore from Tamil presentations."
+        ]
+      },
+      {
+        "h": "Cumulative Totals and Future Outlook",
+        "p": [
+          "Combining the performance across all languages through its first seven days, the cumulative domestic net collection reached Rs 511.10 crore. When factoring in the applicable taxes and levies, the total domestic gross collection scaled up to Rs 611.05 crore.",
+          "With strong footfalls continuing globally and domestically, attention also shifts toward the future of the property. Producers have already announced that the second part of the cinematic franchise is scheduled to arrive in cinemas during Diwali 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Namit Malhotra and Yash's Ramayana, directed by Nitesh Tiwari and starring Ranbir Kapoor, Sai Pallavi, and Yash, has grossed over Rs 600 crore domestically in its first seven days. The film recorded strong language-wise collections led by the Hindi belt, bringing its total domestic net to Rs 511.10 crore by the end of its first Wednesday."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana – Part 1 released in cinemas on Thursday, November 5, 2026.",
+      "The film grossed over Rs 600 crore in India in 7 days.",
+      "Day 7 net collection was Rs 70.65 crore.",
+      "Day 7 Hindi version net collection was Rs 58.00 crore.",
+      "Total India net collection after 7 days is Rs 511.10 crore.",
+      "Total India gross collection after 7 days is Rs 611.05 crore.",
+      "Part 2 of the franchise will release during Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Namit Malhotra",
+        "Yash",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Shridhar Raghavan",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Anupam Kher",
+        "Kajal Aggarwal",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Arun Govil",
+        "Lara Dutta"
+      ],
+      "titles": [
+        "Ramayana",
+        "Ramayana – Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana film box office",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana Day 7 collection",
+      "Ramayana Part 1 earnings"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.bollywoodbubble.com/wp-content/uploads/2026/11/Ranbir-Kapoor-Sai-Pallavi-Yashs-Ramayana-Crosses-The-Rs-600-Cr-Mark-At-The-Domestic-Box-Office.webp",
+        "caption": "Ramayana Box Office Day 7: Ranbir Kapoor and Yash Starrer Crosses Rs 600 Crore Domestically",
+        "source": "Bollywood Bubble"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 09:48:13 +0000"
   }
 };

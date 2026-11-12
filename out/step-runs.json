@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T13:51:51Z",
-    "run_id": "43032784698",
-    "status": "success",
-    "checked": {
-     "candidates": 415,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sidharth Malhotra-Aditya Dhar To Team Up? Karan Johar Reveals About Their Film That Was Meant to Happen",
-      "Arshdeep Singh Engagement: Cricketer Proposes To Girlfriend Samreen Kaur For Wedding, Romantic Photos Go Viral",
-      "Ramayana Collection Day 7 Early Updates: Ranbir's Film Hits 470 Cr On Bhai Dooj; BEATS Animal Week 1 Earnings",
-      "Bandra OTT Release Date And Platform: When And Where To Watch Dileep And Tamannaah Bhatia's Film Online",
-      "Gunmaaster G9 Trailer Review: Emraan Hashmi Drenched In Aashiqui Follows Ishq Mein Aansoo Bahaane Ka Rivaaj, But I Am Glued To Aparshakti Khurana!",
-      "Box Office: Ramayana Director Nitesh Tiwari Hits A Solid 3176 Crore Cumulative Total Globally With A 5 Film Career!",
-      "Ramayana Worldwide Box Office: Ranbir Kapoor Is Only 45 Crore Away From His Biggest Post-COVID Record!",
-      "Box Office: Thalapathy Vijay’s Peak Year Remains Unbeaten In 2026 Despite Suriya & Rajinikanth’s Roaring Run!",
-      "After Jailer 2, PEN Marudhar Bags Dhanush's OM North India Theatrical Rights Ahead of November 20 Release",
-      "Sonu Sood urges airports and hotels to seat staff",
-      "‘Scene’: Jithu Madhavan reveals Suriya’s character twist was leaked before first look",
-      "RGV calls Ramayana, Taj Mahal of cinema: 'Not a Ram bhakt'",
-      "Quentin Tarantino says he fired Melanie Laurent from Inglourious Basterds as her table read was terrible, she convinced him to hire her back",
-      "Inside Ranveer Singh and Deepika Padukone's intimate family Diwali celebration after welcoming daughter Devi",
-      "The new Suriya in 2026: Flawed men, less hero worship and more fun",
-      "The legend of Ravana and the creation of Shiv Tandav Stotram",
-      "Actor Addinath Kothare reacts to Ramayana being called 'Ravanayana', praises Yash",
-      "Diljit Dosanjh To Perform At Coachella 2027",
-      "Kiara Advani Flaunts Her Baby Bump On Koffee With Karan 9; Actress REACTS As Fans Draw Comparisons To Her 2025 Met Gala Look",
-      "Diljit Dosanjh’s Indore Concert Receives Bomb Threat; Singer Assures Show’s Not Cancelled, “Koi Joh Marzi Bole, Main 15 Ko Zaroor Milunga”"
-     ],
-     "updated": [],
-     "count": 376,
-     "detail": "388 stories, 2 duplicates removed, 27 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-11T14:51:48Z",
     "run_id": "43042384120",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "316 stories, 2 duplicates removed, 5 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-11T13:52:37Z",
-    "run_id": "43032784698",
+    "run_at": "2026-11-12T09:51:57Z",
+    "run_id": "43195025424",
     "status": "success",
     "checked": {
-     "candidates": 10,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 326,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Part 1 Inches Closer To 500 Crore Net With Strong Day 7 Collections",
-      "Julianna Margulies to Headline Period Romantic Comedy 'The American Heiress' at MGM+",
-      "Nitesh Tiwari Crosses 3176 Crore Worldwide Box Office Milestone Across Five Films",
-      "Charlie Sheen Announces New Podcast Series Titled Mostly Sheenius With Michael Douglas as First Guest"
+      "Harshvardhan Rane buys luxury home worth Rs 15-16 crores in Mumbai: Report",
+      "Weverse Con Festival India: King & Other Indian Artists Joining Global K-Pop Stars At The Mega Music Festival",
+      "From An Auto Driver’s Daughter To Bagging Ramayana: Surabhi Das On Coming From A Humble Background In Assam",
+      "OM Trailer Release Date: Makers Officially Announce Dhanush-Mammootty Film's Trailer Launch",
+      "Soniya Bansal On Kareena Kapoor’s Pendant Controversy: People Just Want To Target Someone's Religion-EXCLUSIVE",
+      "Om Box Office: Where Will It Rank Among Dhanush’s Top Openers In India?",
+      "Kaali Kheti Trailer Review: Jackie Shroff & Sharad Kelkar’s Horror Drama Explores How Agricultural Land Turns Into A Field Of Nightmares",
+      "Scene Day 6 Box Office Collections: Suriya and Nazriya starrer collects Rs 8 crore on 1st Wednesday, to close first week at Rs 125 crore mark",
+      "OM Synopsis: Dhanush, Mammootty starrer to be intense drama set in a gritty world; Runtime to be 3 hours long? Find Out",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer phenomenal run continues Overseas, tops Rs. 900 Cr worldwide",
+      "Nazriya Nazim hints at an on-screen reunion with Fahadh Faasil at 'Scene' event",
+      "Karan says actors want to be box office gurus, ask for VFX budget: 'When are you acting?'",
+      "Ajith Kumar and wife Shalini's Diwali celebration photo goes viral",
+      "‘Yes, dear,' star Anthony Clark's last post resurfaces after his demise",
+      "Babil Khan reveals getting trolled for being himself doesn't affect him anymore, says he's emotional but not weak",
+      "Actor Addinath Kothare on Ramayana's 'Bharat Milap' scene, Ranbir's sweet gesture",
+      "After show cuts, Vinod Kapri's Pyre gets 200 additional screenings across India",
+      "Ramayana Box Office Day 7: Ranbir Kapoor, Sai Pallavi, Yash-Starrer Grosses Over Rs 600 Cr; Mints Nearly Rs 400 Cr From Hindi Version",
+      "Sohail Khan Calls Himself ‘Fortunate’ To Be Born As Salim And Salma Khan’s Son; Actor’s Love Filled Post Wins Hearts",
+      "Johnny Depp Officially Reveals Which Director He Would Love to Reunite With"
      ],
      "updated": [],
-     "count": 9,
-     "detail": "+4 articles, +1 box-office rows, 4 rows updated"
+     "count": 315,
+     "detail": "320 stories, 1 duplicates removed, 6 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-12T09:52:28Z",
+    "run_id": "43195025424",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Frankie Muniz Hospitalized Following Practice Crash at Daytona",
+      "Surabhi Das Reflects on Her Journey from Assam to Nitesh Tiwari's Ramayana",
+      "Ethan Hawke Breaks Down the Tragic Turning Point in The Lowdown Season 2",
+      "Ramayana Box Office Day 7: Ranbir Kapoor and Yash Starrer Crosses Rs 600 Crore Domestically"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-11T14:52:48Z",
-    "run_id": "43042384120",
-    "status": "success",
-    "checked": {
-     "candidates": 299,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 286, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,33 +1887,27 @@
      "detail": "now 299, coming 13"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-12T09:52:28Z",
+    "run_id": "43195025424",
+    "status": "success",
+    "checked": {
+     "candidates": 312,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 299, coming 13"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-11T13:57:40Z",
-    "run_id": "43032784698",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1mo2439",
-      "1dawzui",
-      "ngkym7",
-      "pfvzzv",
-      "jfjee5",
-      "e0mpwl"
-     ],
-     "updated": [],
-     "count": 6
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2421,27 +2397,28 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-12T09:57:31Z",
+    "run_id": "43195025424",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "zzl5pv"
+     ],
+     "updated": [],
+     "count": 1
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T13:57:37Z",
-    "run_id": "43032784698",
-    "status": "success",
-    "checked": {
-     "candidates": 648,
-     "detail": "634 collected staging rows from readers; 222 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 635 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2855,19 +2832,27 @@
      "detail": "+0 new rows, 6 updated rows, 640 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T09:57:29Z",
+    "run_id": "43195025424",
+    "status": "success",
+    "checked": {
+     "candidates": 658,
+     "detail": "639 collected staging rows from readers; 223 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 643 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3104,32 +3089,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-11T13:57:39Z",
-    "run_id": "43032784698",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Part 1 Inches Closer To 500 Crore Net With Strong Day 7 Collections",
-      "Julianna Margulies to Headline Period Romantic Comedy 'The American Heiress' at MGM+",
-      "Nitesh Tiwari Crosses 3176 Crore Worldwide Box Office Milestone Across Five Films",
-      "Charlie Sheen Announces New Podcast Series Titled Mostly Sheenius With Michael Douglas as First Guest"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3647,26 +3619,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-12T09:57:30Z",
+    "run_id": "43195025424",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Frankie Muniz Hospitalized Following Practice Crash at Daytona",
+      "Surabhi Das Reflects on Her Journey from Assam to Nitesh Tiwari's Ramayana",
+      "Ethan Hawke Breaks Down the Tragic Turning Point in The Lowdown Season 2",
+      "Ramayana Box Office Day 7: Ranbir Kapoor and Yash Starrer Crosses Rs 600 Crore Domestically"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-11T13:51:55Z",
-    "run_id": "43032784698",
-    "status": "success",
-    "checked": {
-     "candidates": 19,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 7 new detected"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3932,19 +3910,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4263,31 +4241,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-11T13:52:36Z",
-    "run_id": "43032784698",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 376 still unprocessed; today by category: movies 6/6, tv_dramas 10/4, episodes 1/2, box_office 10/6, celebrities_events 11/5, upcoming_releases 4/4, ott_streaming 9/4, trailers 3/3, awards 2/2, music_ost 2/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Part 1 Inches Closer To 500 Crore Net With Strong Day 7 Collections",
-      "Julianna Margulies to Headline Period Romantic Comedy 'The American Heiress' at MGM+",
-      "Nitesh Tiwari Crosses 3176 Crore Worldwide Box Office Milestone Across Five Films",
-      "Charlie Sheen Announces New Podcast Series Titled Mostly Sheenius With Michael Douglas as First Guest"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4774,19 +4740,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-12T09:52:28Z",
+    "run_id": "43195025424",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 315 still unprocessed; today by category: movies 8/6, tv_dramas 5/4, episodes 0/2, box_office 9/6, celebrities_events 7/5, upcoming_releases 1/4, ott_streaming 5/4, trailers 3/3, awards 1/2, music_ost 3/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Frankie Muniz Hospitalized Following Practice Crash at Daytona",
+      "Surabhi Das Reflects on Her Journey from Assam to Nitesh Tiwari's Ramayana",
+      "Ethan Hawke Breaks Down the Tragic Turning Point in The Lowdown Season 2",
+      "Ramayana Box Office Day 7: Ranbir Kapoor and Yash Starrer Crosses Rs 600 Crore Domestically"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5093,24 +5071,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 422,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5440,24 +5413,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 21,
+     "count": 377,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5792,19 +5765,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 13,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6049,19 +6027,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6296,19 +6274,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6593,19 +6571,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6846,19 +6824,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7088,19 +7066,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7349,6 +7327,16 @@
     "category": "Trending News",
     "run_at": "2026-11-12T08:57:18Z",
     "run_id": "43186260393",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7869,16 +7857,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-11T14:56:35Z",
     "run_id": "43042384120",
     "status": "skipped",
@@ -8115,19 +8093,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-11T13:57:48Z",
-    "run_id": "43032784698",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8372,8 +8350,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-12T09:57:38Z",
+    "run_id": "43195025424",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-12T08:57:18Z"
+ "updated_at": "2026-11-12T09:57:38Z"
 }
