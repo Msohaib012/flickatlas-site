@@ -139614,5 +139614,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 19:42:57 +0000"
+  },
+  "cozq3g": {
+    "id": "cozq3g",
+    "type": "news",
+    "headline": "Makkal Kavalan Makers Drop First Single 'Ignore' Sung By Yogi B, Aditi Shankar And Nivas K Prasanna",
+    "dek": "The creators of Santhosh Kumar's action entertainer Makkal Kavalan, starring K Manikandan, have released the film's energetic first single titled 'Ignore'.",
+    "body": [
+      {
+        "h": "Introduction To The First Single",
+        "p": [
+          "The creative team behind the upcoming action entertainer Makkal Kavalan has officially rolled out the very first musical offering from the project. Titled 'Ignore', the track has generated considerable buzz among followers of Tamil cinema as well as dedicated fans of the lead actor.",
+          "The newly unveiled track sets an energetic tone for the movie, showcasing a fresh sonic direction and building momentum ahead of the theatrical debut."
+        ]
+      },
+      {
+        "h": "Musical Crew And Vocal Lineup",
+        "p": [
+          "The track brings together an impressive constellation of musical talent. Composing, arranging, and programming duties were handled entirely by Nivas K Prasanna, who also contributes his own vocals to the project.",
+          "The song features distinctive vocal contributions from Malaysian rap icon Yogi B, widely acknowledged as the godfather of Tamil hip-hop, alongside actor and vocalist Aditi Shankar. Meanwhile, the lyricism of the track was crafted by M.K. Balaji."
+        ]
+      },
+      {
+        "h": "Musical Style And Narrative Theme",
+        "p": [
+          "Stylistically, the track functions as a rap-driven anthem that channels themes of resilience, emotional recovery, and self-belief. The composition transitions fluidly between moments of vulnerability and stark determination, echoing a narrative arc where an ordinary individual transforms into a formidable protector.",
+          "The production incorporates traditional elements, weaving in earthy folk touches and resonant parai drums to elevate the track into an expression of outright defiance and empowerment."
+        ]
+      },
+      {
+        "h": "Plot Overview And Character Arc",
+        "p": [
+          "In terms of narrative context, the feature centers on a protagonist who navigates life as a police officer facing repeated humiliation and dismissal. As institutional corruption closes in, the main character confronts a stark binary choice between complete surrender and active resistance.",
+          "What starts as an individual struggle for survival gradually expands into a broader movement, compelling an ordinary person to embrace the responsibilities of a community leader against overwhelming odds."
+        ]
+      },
+      {
+        "h": "Production And Release Schedule",
+        "p": [
+          "Behind the scenes, the project has been brought to life through a collaborative production effort between Birla Studios and Neelam Studios, the latter co-founded by Pa Ranjith and Aditi Anand. The writing and directorial responsibilities were spearheaded by Santhosh Kumar.",
+          "Cinematic expectations remain high as the film heads toward its scheduled worldwide theatrical premiere on December 4, 2026."
+        ]
+      },
+      {
+        "h": "Ensemble Cast And Technical Crew",
+        "p": [
+          "Alongside K Manikandan in the primary role, the movie features an extensive supporting cast including Vaagai Chandrasekar, A Venkatesh, R.K. Vijaymurugan, Shanmugam Muthusamy, Sabumon, Unni Maya, Divya Sripada, Jenson Dhivakar, Lallu, Gemini Mani, and Raghu.",
+          "Technical execution relies on the expertise of cinematographer Pratheepan Selvaratnam, editor Arul Moses, production designer Pappanadu C Uthayakumar, stunt coordinator Don Ashok, sound designer Anthony Jayaruban, costume designer Sureshkumar, and makeup artist Ramachandran."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The creative team behind Makkal Kavalan released the film's first single titled 'Ignore', featuring vocal performances from Yogi B, Aditi Shankar, and Nivas K Prasanna. Directed by Santhosh Kumar and starring K Manikandan, the action project is scheduled for a worldwide theatrical rollout on December 4, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "The first single from Makkal Kavalan is titled 'Ignore'.",
+      "The song is composed, arranged, and programmed by Nivas K Prasanna.",
+      "Lyrics for 'Ignore' were penned by M.K. Balaji.",
+      "Vocals for the track are performed by Yogi B, Aditi Shankar, and Nivas K Prasanna.",
+      "The film is written and directed by Santhosh Kumar.",
+      "Makkal Kavalan is produced by Birla Studios and Neelam Studios.",
+      "The movie is slated for a worldwide theatrical release on December 4, 2026.",
+      "The cast includes K Manikandan, Vaagai Chandrasekar, A Venkatesh, R.K. Vijaymurugan, Shanmugam Muthusamy, Sabumon, Unni Maya, Divya Sripada, Jenson Dhivakar, Lallu, Gemini Mani, and Raghu."
+    ],
+    "entities": {
+      "people": [
+        "Manikandan",
+        "Nivas K Prasanna",
+        "MK Balaji",
+        "Santhosh Kumar",
+        "Yogi B",
+        "Aditi Shankar",
+        "M.K. Balaji",
+        "Birla Studios",
+        "Pa Ranjith",
+        "Aditi Anand",
+        "Pratheepan Selvaratnam",
+        "Arul Moses",
+        "Pappanadu C Uthayakumar",
+        "Don Ashok",
+        "Anthony Jayaruban",
+        "Sureshkumar",
+        "Ramachandran",
+        "Vaagai Chandrasekar",
+        "A Venkatesh",
+        "R.K. Vijaymurugan",
+        "Shanmugam Muthusamy",
+        "Sabumon",
+        "Unni Maya",
+        "Divya Sripada",
+        "Jenson Dhivakar",
+        "Lallu",
+        "Gemini Mani",
+        "Raghu"
+      ],
+      "titles": [
+        "Makkal Kavalan",
+        "Ignore"
+      ]
+    },
+    "keywords": [
+      "Makkal Kavalan film",
+      "Ignore song Makkal Kavalan",
+      "K Manikandan Makkal Kavalan",
+      "Yogi B Aditi Shankar Ignore",
+      "Santhosh Kumar director"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/12/5484-sdasd.jpg",
+        "caption": "Makkal Kavalan Makers Drop First Single 'Ignore' Sung By Yogi B, Aditi Shankar And Nivas K Prasanna",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T20:24:23Z"
+  },
+  "1aznwx3": {
+    "id": "1aznwx3",
+    "type": "news",
+    "headline": "Will Dune and Avengers Drown Out Everything Else at the Christmas Box Office?",
+    "dek": "As the holiday season approaches, studio executives prepare for a massive cinematic showdown dominated by Dune: Part Three and Avengers: Doomsday, raising questions about whether competing titles will find room to thrive.",
+    "body": [
+      {
+        "h": "The Holiday Juggernauts",
+        "p": [
+          "As the winter holiday season draws near, industry executives are casting a wary eye toward two towering cinematic heavyweights. Warner Bros. and Legendary's Dune: Part Three and Disney's Avengers: Doomsday are both scheduled to open on December 18, setting up a massive box office collision.",
+          "The sheer scale of these two releases has sparked industry-wide discussions about whether they will consume the majority of viewer attention and theater oxygen, potentially leaving little breathing room for other holiday releases."
+        ]
+      },
+      {
+        "h": "Massive Pre-Sales and Past Success",
+        "p": [
+          "The concern is well-founded given the track record of these franchises and their current momentum. The previous installment in the Dune series managed to surpass $700 million globally at the box office.",
+          "Meanwhile, Avengers: Doomsday has already pulled in over $60 million in advance ticket sales alone, proving that audience demand for these tentpoles is exceptionally high months before their theatrical debuts."
+        ]
+      },
+      {
+        "h": "A Crowded Slate of Contenders",
+        "p": [
+          "Despite the towering presence of the two main blockbusters, several other notable titles are vying for holiday audiences. Sony is launching the Dwayne Johnson threequel Jumanji: Open World, while Paramount brings the football biopic Mr. Irrelevant to the big screen.",
+          "Focus Features is entering the horror arena with Robert Eggers' Werwulf, and Neon is presenting Luca Guadagnino's Artificial. Additionally, Paramount has scheduled The Angry Birds Movie 3 to open slightly earlier on December 23."
+        ]
+      },
+      {
+        "h": "Screen Battles and Premium Formats",
+        "p": [
+          "The massive footprint of the top two films has forced competing distributors to navigate tricky distribution strategies, particularly regarding premium large format screens. Dune: Part Three has secured exclusive rights to IMAX screens.",
+          "This exclusivity left Avengers: Doomsday without IMAX access, prompting Disney to establish its own Infinity Vision certification. Other films are finding alternative ways to stand out, such as Angry Birds 3 offering a 3D release and Werwulf leaning into successful pre-sales for select 35mm screenings."
+        ]
+      },
+      {
+        "h": "Targeting Different Demographics",
+        "p": [
+          "Studio optimists note that films like Jumanji and Mr. Irrelevant are expected to draw different crowds compared to the traditionally male, fanboy-heavy demographic anticipated for the Dune and Avengers clash.",
+          "By appealing to families, sports fans, and alternative audiences, these mid-tier and family releases hope to carve out a profitable space during the busiest moviegoing stretch of the year."
+        ]
+      },
+      {
+        "h": "Shifting Mid-Size Landscape",
+        "p": [
+          "Industry observers point out that while the holiday frame is top-heavy with blockbusters, it is actually lighter in sheer quantity of releases compared to previous years. Notably absent are the mid-size or limited platform runs typically seen around Christmas day.",
+          "Instead, studios are either pushing awards contenders earlier into December or relying on strong holdovers like Hexed, Focker-in-Law, and Elsinore to sustain momentum through the end of the year."
+        ]
+      },
+      {
+        "h": "A Stellar Year for Cinemas",
+        "p": [
+          "The flurry of holiday activity arrives at the tail end of what has turned out to be a remarkable year for theatrical distribution. Projections now place the domestic box office finish well above $10 billion.",
+          "Industry insiders view this robust holiday lineup as the final exclamation point on a stellar twelve months, bringing genuine cause for celebration across the motion picture business."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Major studios are preparing for a crowded Christmas box office heavily anchored by the simultaneous December 18 releases of Dune: Part Three and Avengers: Doomsday. While these juggernauts command immense pre-sales and premium screen space, a diverse slate of competing films aims to capture alternative audiences and cap off a strong domestic box office year."
+        ]
+      }
+    ],
+    "facts": [
+      "Dune: Part Three and Avengers: Doomsday open on December 18.",
+      "The last Dune movie surpassed $700 million globally.",
+      "Avengers: Doomsday has sold over $60 million in pre-sales.",
+      "The Angry Birds Movie 3 opens on December 23.",
+      "The domestic box office is projected to finish far above $10 billion."
+    ],
+    "entities": {
+      "people": [
+        "Dwayne Johnson",
+        "Robert Eggers",
+        "Luca Guadagnino"
+      ],
+      "titles": [
+        "Dune: Part Three",
+        "Avengers: Doomsday",
+        "Jumanji: Open World",
+        "Mr. Irrelevant",
+        "Werwulf",
+        "Artificial",
+        "The Angry Birds Movie 3",
+        "Hexed",
+        "Focker-in-Law",
+        "Elsinore"
+      ]
+    },
+    "keywords": [
+      "Dune Part Three",
+      "Avengers Doomsday",
+      "Werwulf film",
+      "Mr Irrelevant movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWERW_UC001.jpg?w=650",
+        "caption": "Will Dune and Avengers Drown Out Everything Else at the Christmas Box Office?",
+        "source": "IndieWire"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:00:00 +0000"
+  },
+  "voye8a": {
+    "id": "voye8a",
+    "type": "news",
+    "headline": "Aaron Pierre Joins Forces with Sisu Director Jalmari Helander for New Netflix and Lionsgate Thriller",
+    "dek": "The Lanterns star is heading back to Netflix for a Christmas Eve New York City action thriller titled Fairytale In New York.",
+    "body": [
+      {
+        "h": "The New Project Announcement",
+        "p": [
+          "Actor Aaron Pierre has lined up his next major starring vehicle following his standout work in the DC series Lanterns. According to recent reports, Pierre is set to headline an upcoming feature film titled Fairytale In New York.",
+          "The high-profile project brings together a formidable team of studios, with both Netflix and Lionsgate collaborating to bring the thriller to the screen. It marks another significant movie commitment for the rising actor as his career continues to accelerate."
+        ]
+      },
+      {
+        "h": "Director Jalmari Helander Takes the Reins",
+        "p": [
+          "Behind the camera for this gritty new venture is filmmaker Jalmari Helander. Helander previously earned widespread acclaim and a dedicated fanbase for directing the hard-hitting action movie Sisu.",
+          "With Helander directing, audiences can anticipate a distinct cinematic style and pulse-pounding set pieces. His signature approach to tension and action is expected to heavily shape the tone of this upcoming release."
+        ]
+      },
+      {
+        "h": "A Christmas Eve in New York City",
+        "p": [
+          "The narrative of the film drops viewers directly into a high-stakes scenario unfolding against an urban backdrop. Specifically, the story is set during Christmas Eve in New York City, contrasting holiday cheer with relentless danger.",
+          "Rather than playing a hardened criminal or elite agent, Pierre portrays an unassuming taxi driver. This ordinary working man is suddenly thrust into an extraordinary and punishing night of vengeance."
+        ]
+      },
+      {
+        "h": "Aaron Pierre's Growing Filmography",
+        "p": [
+          "This upcoming picture represents a welcome homecoming for Pierre at Netflix. Two years prior, he delivered a celebrated lead performance in director Jeremy Saulnier's acclaimed thriller Rebel Ridge.",
+          "In addition to his past Netflix success, Pierre has been expanding his footprint across major franchises and television series, cementing his status as a versatile leading man capable of carrying intense dramatic and action material."
+        ]
+      },
+      {
+        "h": "Lionsgate and the Action Pedigree",
+        "p": [
+          "Lionsgate's involvement as a producer adds even more genre credibility to the enterprise. The studio is famously recognized as the birthplace of the wildly successful John Wick franchise.",
+          "Given Lionsgate's storied history in producing top-tier action cinema, Fairytale In New York sits in a comfortable lineage of adrenaline-fueled storytelling, though paired with Helander's unique directorial sensibilities."
+        ]
+      },
+      {
+        "h": "Anticipation and Expectations",
+        "p": [
+          "As details about the production continue to trickle out, anticipation among cinephiles and action enthusiasts is mounting rapidly. The combination of a gritty premise, a talented lead actor, and a visionary director makes it a standout title on the horizon.",
+          "The project promises to deliver a gripping cinematic ride when it eventually reaches audiences through Netflix and Lionsgate, blending dramatic tension with explosive nocturnal chaos."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Aaron Pierre is set to star in the upcoming thriller Fairytale In New York for Netflix and Lionsgate, directed by Sisu filmmaker Jalmari Helander. The Christmas Eve-set film casts Pierre as an ordinary cab driver pulled into a fierce night of vengeance in New York City."
+        ]
+      }
+    ],
+    "facts": [
+      "Aaron Pierre is starring in Fairytale In New York.",
+      "Jalmari Helander is directing the film.",
+      "Netflix and Lionsgate are producing the project.",
+      "The story is set on Christmas Eve in New York City.",
+      "Aaron Pierre plays an unassuming cabbie.",
+      "Jeremy Saulnier directed Aaron Pierre in Rebel Ridge two years prior."
+    ],
+    "entities": {
+      "people": [
+        "Aaron Pierre",
+        "Jalmari Helander",
+        "Jeremy Saulnier"
+      ],
+      "titles": [
+        "Fairytale In New York",
+        "Sisu",
+        "Lanterns",
+        "Rebel Ridge",
+        "John Wick"
+      ]
+    },
+    "keywords": [
+      "Aaron Pierre Fairytale In New York",
+      "Jalmari Helander film",
+      "Netflix Lionsgate thriller",
+      "Fairytale In New York movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2026/10/07161130/aaron-pierre-lanterns.jpg",
+        "caption": "Aaron Pierre Joins Forces with Sisu Director Jalmari Helander for New Netflix and Lionsgate Thriller",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:49:54 +0000"
+  },
+  "2ih5te": {
+    "id": "2ih5te",
+    "type": "news",
+    "headline": "Arjun Kapoor Wishes Father Boney Kapoor With Hilarious Orry Reference on Birthday",
+    "dek": "Actor Arjun Kapoor shared a lighthearted and affectionate birthday message for his filmmaker father Boney Kapoor, invoking social media personality Orry in a celebratory video.",
+    "body": [
+      {
+        "h": "Birthday Wishes from Arjun Kapoor",
+        "p": [
+          "Bollywood actor Arjun Kapoor marked his filmmaker father Boney Kapoor's birthday with a cheerful and humorous message shared across digital platforms. Celebrating another year of his father's life, the actor posted a lively greeting that quickly caught the attention of fans and followers alike.",
+          "Rather than opting for a standard formal greeting, Arjun chose a playful angle by comparing his father's youthful energy to internet personality Orry. The message blended genuine affection with light comedy, making it a standout highlight of the birthday festivities."
+        ]
+      },
+      {
+        "h": "A Star-Studded Celebration",
+        "p": [
+          "The birthday celebration featured a specially curated BK-themed gathering that brought together close family members and prominent Bollywood veterans. Boney Kapoor was surrounded by his children, creating a warm family atmosphere.",
+          "In addition to Arjun, family members including Khushi and Anshula were present at the event. The gathering also welcomed several notable figures from the film industry and extended social circles, reflecting Boney's long-standing connections in cinema."
+        ]
+      },
+      {
+        "h": "Industry Veterans and Guests in Attendance",
+        "p": [
+          "The birthday party played host to several legendary names from the Indian film fraternity. Veteran filmmaker Rakesh Roshan, renowned lyricist Javed Akhtar, and celebrated actress Shabana Azmi graced the occasion to celebrate with Boney Kapoor.",
+          "The guest list also included Shikhar Pahariya and his brother Veer Pahariya, adding to the vibrant mix of family, friends, and industry peers who gathered to commemorate the special day."
+        ]
+      },
+      {
+        "h": "Boney Kapoor's Social Media Presence",
+        "p": [
+          "The veteran filmmaker is known to be quite active on his official Instagram handle, frequently sharing personal moments, throwback memories, and tributes with his followers.",
+          "His digital activity often bridges the gap between his personal life and his supporters, allowing fans a glimpse into family milestones, commemorations, and gatherings."
+        ]
+      },
+      {
+        "h": "Remembering Nirmal Kapoor",
+        "p": [
+          "Demonstrating his strong familial bonds, Boney previously used his social media presence to honor his late mother, Nirmal Kapoor, on her birth anniversary in September. He shared an emotional video capturing her performing a prayer while seated on a hospital bed.",
+          "The heartfelt digital tribute featured archival pictures and video clips, with Boney captioning the post with warm birthday wishes dedicated to his mother."
+        ]
+      },
+      {
+        "h": "Family Legacy and History",
+        "p": [
+          "Boney Kapoor's mother, Nirmal Kapoor, was married to the late film producer Surinder Kapoor. Together, they raised four children: sons Boney, Anil, and Sanjay, alongside daughter Reena Kapoor.",
+          "Nirmal was also the grandmother to a prominent generation of Bollywood actors and creators, including Arjun, Sonam, Janhvi, Khushi, Anshula, and Rhea Kapoor, cementing a deeply rooted cinematic legacy."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Arjun Kapoor posted a humorous and warm birthday wish for his filmmaker father Boney Kapoor, comparing his youthful spirit to Orry. The celebration was attended by family members, prominent industry veterans, and close acquaintances, highlighting the family's strong bonds and rich cinematic heritage."
+        ]
+      }
+    ],
+    "facts": [
+      "Actor Arjun Kapoor wished his filmmaker father Boney Kapoor on his birthday on Wednesday, November 11, 2026.",
+      "Boney Kapoor's mother Nirmal Kapoor passed away on May 2, 2025, at the age of 90.",
+      "Nirmal Kapoor was married to the late film producer Surinder Kapoor and they had four children: Boney, Anil, Sanjay, and Reena.",
+      "Boney Kapoor shared an emotional video for his late mother's 92nd birthday on September 27."
+    ],
+    "entities": {
+      "people": [
+        "Arjun Kapoor",
+        "Boney Kapoor",
+        "Orry",
+        "Khushi Kapoor",
+        "Anshula Kapoor",
+        "Rakesh Roshan",
+        "Javed Akhtar",
+        "Shabana Azmi",
+        "Janhvi Kapoor",
+        "Shikhar Pahariya",
+        "Veer Pahariya",
+        "Nirmal Kapoor",
+        "Surinder Kapoor",
+        "Anil Kapoor",
+        "Sanjay Kapoor",
+        "Reena Kapoor",
+        "Sonam Kapoor",
+        "Rhea Kapoor"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Arjun Kapoor Boney Kapoor birthday",
+      "Boney Kapoor Orry video",
+      "Boney Kapoor birthday party",
+      "Nirmal Kapoor birthday"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/11/5454-rtyty.jpg",
+        "caption": "Arjun Kapoor Wishes Father Boney Kapoor With Hilarious Orry Reference on Birthday",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T20:24:23Z"
   }
 };

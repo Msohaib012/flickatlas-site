@@ -2,28 +2,25 @@
  "today_pkt": "2026-11-14",
  "sources": 137,
  "status": {
-  "not_due": 136,
-  "ok": 1
+  "not_due": 137
  },
- "queue_total": 332,
- "stories_total": 354,
+ "queue_total": 328,
+ "stories_total": 332,
  "duplicates_removed": 0,
  "categories": {
   "Box Office": 9,
   "Awards": 13,
-  "Trailers": 5,
-  "Music / OST": 10,
+  "Trailers": 4,
+  "Music / OST": 9,
   "Episodes": 3,
   "Upcoming releases": 1,
   "OTT / Streaming": 13,
   "TV & Dramas": 1,
   "Celebrity news & events": 10,
-  "Movies": 267,
+  "Movies": 265,
   "Entertainment viral": 0
  },
- "dropped": {
-  "section-page": 18
- },
+ "dropped": {},
  "per_source": [
   {
    "source": "AddaToday",
@@ -160,10 +157,10 @@
   },
   {
    "source": "Mid-Day — Entertainment",
-   "status": "ok",
+   "status": "not_due",
    "new": 0,
-   "total": 500,
-   "note": ""
+   "total": 0,
+   "note": "12h cadence: check not due"
   },
   {
    "source": "DNA India — Entertainment",
