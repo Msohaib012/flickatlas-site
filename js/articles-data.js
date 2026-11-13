@@ -131324,5 +131324,362 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 01:15:12 GMT"
+  },
+  "16aj291": {
+    "id": "16aj291",
+    "type": "news",
+    "headline": "VIVANT Movie Secures Additional Ticket Releases Following Rapid Sell-Outs Across Japan",
+    "dek": "Advance ticket sales for the upcoming VIVANT film have encountered overwhelming demand, prompting organizers to arrange additional purchasing windows.",
+    "body": [
+      {
+        "h": "High Demand Leads to Extra Ticket Sales",
+        "p": [
+          "Enthusiasts who failed to secure passes during the initial purchasing wave for the upcoming VIVANT cinematic adaptation are being granted a renewed opportunity. The official social media channels managed by Tokyo Broadcasting System revealed that advance passes for the upcoming theatrical release have vanished rapidly at cinema locations throughout the nation.",
+          "Management teams have arranged subsequent ticket drops scheduled for midnight, giving patrons another chance to reserve their seats for the opening weekend screenings."
+        ]
+      },
+      {
+        "h": "Release Timeline and Screening Windows",
+        "p": [
+          "The theatrical project is scheduled to debut across cinemas in the country on December 4. Advance purchasing options currently encompass the opening weekend running from December 4 through December 6.",
+          "Admissions for screenings scheduled from Monday, December 7 onward will adhere to standard cinema scheduling procedures rather than the specialized advance framework."
+        ]
+      },
+      {
+        "h": "Ticketing Chaos and Platform Overload",
+        "p": [
+          "Initial advance purchasing opportunities opened at midnight on November 9, immediately following the conclusion of the television broadcast. Despite the late hour, immense traffic crashed ticketing platforms as followers rushed to acquire passes.",
+          "Major metropolitan screens completely sold out their available inventory for the initial three days of the theatrical run almost instantly."
+        ]
+      },
+      {
+        "h": "Cast and Production Background",
+        "p": [
+          "The cinematic extension features the return of lead actor Sakai Masato alongside familiar faces from the original espionage television production. The project follows the conclusion of its second television season, which achieved a peak viewership rating of 21.8 percent."
+        ]
+      },
+      {
+        "h": "Guidance for Prospective Viewers",
+        "p": [
+          "Organizers have cautioned that early scheduling timetables, including exclusive allocations designated for cinema members, are subject to modification. Patrons are strongly encouraged to inspect individual cinema portals prior to the launch of subsequent ticket sales."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Advance passes for the VIVANT film have sold out rapidly across Japan following their November release, prompting organizers to arrange additional midnight ticket sales. The cinematic adaptation continues the legacy of the hit spy drama starring Sakai Masato, which recently concluded its second television season with a strong viewership rating."
+        ]
+      }
+    ],
+    "facts": [
+      "Advance tickets for the VIVANT movie went on sale at midnight on November 9, 2026.",
+      "The VIVANT movie opens in Japan on December 4, 2026.",
+      "Additional ticket sales begin at midnight on Sunday, November 15 (00:00 on November 16 JST).",
+      "Advance tickets cover the opening weekend of December 4 to 6, 2026.",
+      "Tickets for screenings from Monday, December 7, 2026 onward follow usual schedules.",
+      "The television series ended its second season with a series-high 21.8% rating."
+    ],
+    "entities": {
+      "people": [
+        "Kenji A",
+        "Sakai Masato"
+      ],
+      "titles": [
+        "VIVANT"
+      ]
+    },
+    "keywords": [
+      "VIVANT movie",
+      "Sakai Masato VIVANT",
+      "VIVANT advance tickets",
+      "TBS VIVANT film"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/VBBgdm_2d.jpg",
+        "caption": "VIVANT Movie Secures Additional Ticket Releases Following Rapid Sell-Outs Across Japan",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:41:14 +0000"
+  },
+  "1x5t8an": {
+    "id": "1x5t8an",
+    "type": "news",
+    "headline": "The Expanse Universe Set for Major Expansion with Three New Book Releases This December",
+    "dek": "Fans of the acclaimed science fiction franchise have reason to celebrate as major new installments from the original novel series head to shelves this winter.",
+    "body": [
+      {
+        "h": "The Enduring Appeal of Space Exploration",
+        "p": [
+          "Humanity has always harbored a deep fascination with the cosmos, using the stars to track time and decode the mysteries of the universe. This timeless allure explains why science fiction continues to captivate audiences across generations through both film and television.",
+          "From early television classics and cinematic pioneers to modern masterpieces, the genre has continually evolved to reflect our ambitions and fears about exploring deep space."
+        ]
+      },
+      {
+        "h": "Echoes of Grounded Sci-Fi",
+        "p": [
+          "In the twenty-first century, filmmakers like Christopher Nolan have redefined the boundaries of cinematic science fiction with emotionally resonant films that prioritize realistic physics and grand scale.",
+          "A notable television counterpart to these cinematic achievements is the acclaimed Syfy series The Expanse, which brought a remarkably grounded approach to space travel and political intrigue across the solar system."
+        ]
+      },
+      {
+        "h": "The Origins of a Sci-Fi Phenomenon",
+        "p": [
+          "The beloved television adaptation originated from an extensive novel series penned under the joint pseudonym James S. A. Corey, representing the collaborative writing partnership of Daniel Abraham and Ty Franck.",
+          "Although the authors officially concluded the mainline book series in 2021 and followed it with a short-fiction collection titled Memory's Legion in 2022, the expansive universe is far from finished."
+        ]
+      },
+      {
+        "h": "December Release Details",
+        "p": [
+          "The universe created by James S. A. Corey is officially returning with three highly anticipated new releases arriving just in time for the winter holiday season.",
+          "The upcoming wave of books features Cibola Burn, Nemesis Games, and Babylon's Ashes, representing the fourth, fifth, and sixth installments in the original novel series."
+        ]
+      },
+      {
+        "h": "Pricing and Availability",
+        "p": [
+          "Readers and collectors looking to add these additions to their bookshelves can expect them to arrive early in the month.",
+          "The hardcover editions are officially scheduled to launch on December 8, with each volume priced at forty dollars in the United States."
+        ]
+      },
+      {
+        "h": "Legacy of the Television Adaptation",
+        "p": [
+          "Before these upcoming book releases brought fresh attention to the franchise, the television adaptation famously ran for a total of six seasons, chronicling humanity's complex expansion across the solar system.",
+          "Even though the main television series concluded its run back in 2022, the enduring loyalty of the fanbase has kept the property alive and primed for further exploration."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The universe of The Expanse is expanding this December with three major new book releases from authors Daniel Abraham and Ty Franck writing as James S. A. Corey. The fourth, fifth, and sixth installments of the original series will arrive on December 8 as hardcovers priced at forty dollars each in the US."
+        ]
+      }
+    ],
+    "facts": [
+      "The Expanse television series ran for six seasons and concluded in 2022.",
+      "James S. A. Corey is the joint pen name for Daniel Abraham and Ty Franck.",
+      "The mainline book series concluded in 2021.",
+      "Memory's Legion was released in 2022.",
+      "The upcoming releases include Cibola Burn, Nemesis Games, and Babylon's Ashes.",
+      "The books are scheduled to arrive on December 8.",
+      "Each hardcover is priced at $40 in the US."
+    ],
+    "entities": {
+      "people": [
+        "James S. A. Corey",
+        "Daniel Abraham",
+        "Ty Franck",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "The Expanse",
+        "Cibola Burn",
+        "Nemesis Games",
+        "Babylon's Ashes",
+        "Memory's Legion",
+        "Interstellar",
+        "Inception",
+        "Oppenheimer",
+        "The Dark Knight"
+      ]
+    },
+    "keywords": [
+      "The Expanse",
+      "James S. A. Corey",
+      "Cibola Burn",
+      "Nemesis Games",
+      "Babylon's Ashes"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/expanse-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Expanse Universe Set for Major Expansion with Three New Book Releases This December",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:30:12 GMT"
+  },
+  "1ktnkhm": {
+    "id": "1ktnkhm",
+    "type": "news",
+    "headline": "Bouma Box Office Collection Day 1: Dileesh Pothan-Sagar Surya Film Opens at Rs 56 Lakh Worldwide",
+    "dek": "Rejin S Babu's Malayalam thriller Bouma starring Dileesh Pothan and Sagar Surya has begun its theatrical run with a worldwide gross collection of Rs 56 lakh.",
+    "body": [
+      {
+        "h": "Opening Day Box Office Performance",
+        "p": [
+          "The Malayalam thriller Bouma commenced its theatrical journey by pulling in a worldwide gross collection of Rs 56 lakh on its very first day. Industry tracking reports from Sacnilk indicate that the film secured Rs 50 lakh in India net earnings on opening day. Because the initial business came exclusively from domestic audiences, the domestic gross matches the total worldwide figure of Rs 56 lakh.",
+          "The feature arrived in cinemas on Thursday, November 12, securing a total of 401 screenings across the country. Throughout these opening shows, the feature registered an overall occupancy rate of 36% on day one."
+        ]
+      },
+      {
+        "h": "Plot and Premise",
+        "p": [
+          "The narrative centers on a singer named Celine, brought to life by Revathy Sharma, and her live-in partner Jacob, played by Sagar Surya. The course of their everyday life alters completely when Celine discovers she is the beneficiary of an ancestral property located in Peermade known as Rose Villa.",
+          "Motivated by this unexpected inheritance, the couple travels to inspect the estate, only for their visit to descend into unsettling circumstances. The property carries a troubled history, and a series of unexplained deaths gradually begin to unearth the hidden secrets surrounding the villa."
+        ]
+      },
+      {
+        "h": "Cast and Character Details",
+        "p": [
+          "Beyond the primary couple, the movie features Dileesh Pothan in the role of Esho, a police officer tasked with navigating the shadows of the narrative. Additional supporting performances come from Vineeth and Madhupal, rounding out the ensemble cast.",
+          "The core characters find themselves trapped in an environment where past occurrences continuously dictate current happenings, putting the police officer and other inhabitants directly into the path of the estate's dark legacy."
+        ]
+      },
+      {
+        "h": "Direction and Storytelling Style",
+        "p": [
+          "Helmed by director Rejin S Babu, the feature starts with an opening sequence depicting a group of people facing an aggressive attack inside the haunted Peermade villa. From there, the plot transitions to establish the relationship between Celine and Jacob before introducing the inheritance twist.",
+          "The storytelling leans heavily on multiple genre elements at once, blending crime investigations, occult practices, and psychological horror into a single narrative framework that explores the couple's terrifying encounters at the property."
+        ]
+      },
+      {
+        "h": "Critical Reception and Review",
+        "p": [
+          "In terms of critical feedback, the publication ETimes awarded the film a rating of 2.5 stars out of 5. The review noted that while performances by Vineeth, Revathy Sharma, Madhupal, and Dileesh Pothan carried a convincing weight, other supporting characters suffered from limited screen time that left little impact.",
+          "The critique further pointed out that the mystery thriller attempts to juggle multiple distinct concepts—such as psychological horror, occult elements, and crime—without entirely discovering a seamless way to weave them together, though genre enthusiasts might still find specific portions engaging."
+        ]
+      },
+      {
+        "h": "Data Disclaimer and Industry Context",
+        "p": [
+          "Financial figures and performance statistics relating to the opening day are compiled from various public and industry sources. All totals provided remain approximate representations of theatrical performance until official studio updates or finalized international market reports arrive.",
+          "These figures serve informational and entertainment objectives, helping industry observers gauge the initial audience turnout while anticipating how subsequent days will shape the box-office trajectory."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rejin S Babu's Malayalam mystery thriller Bouma opened in theatres on Thursday, November 12, pulling in a worldwide gross of Rs 56 lakh and an India net collection of Rs 50 lakh across 401 shows. Starring Sagar Surya, Revathy Sharma, and Dileesh Pothan, the film follows a couple visiting a haunted ancestral property in Peermade, earning mixed reviews and a 2.5-star rating from ETimes upon release."
+        ]
+      }
+    ],
+    "facts": [
+      "Bouma opened on Thursday, November 12, 2026.",
+      "Worldwide gross on day 1 was Rs 56 lakh.",
+      "India net earnings on day 1 were Rs 50 lakh.",
+      "The film recorded 401 shows across the country on its first day.",
+      "Overall occupancy on the first day was 36 percent.",
+      "ETimes rated the film 2.5 out of 5 stars.",
+      "Director of the film is Rejin S Babu.",
+      "Cast members include Dileesh Pothan, Sagar Surya, Revathy Sharma, Vineeth, and Madhupal."
+    ],
+    "entities": {
+      "people": [
+        "Rejin S Babu",
+        "Dileesh Pothan",
+        "Sagar Surya",
+        "Revathy Sharma",
+        "Vineeth",
+        "Madhupal"
+      ],
+      "titles": [
+        "Bouma"
+      ]
+    },
+    "keywords": [
+      "Bouma box office collection",
+      "Bouma Malayalam movie",
+      "Dileesh Pothan Sagar Surya Bouma",
+      "Rejin S Babu Bouma film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135785727,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bouma Box Office Collection Day 1: Dileesh Pothan-Sagar Surya Film Opens at Rs 56 Lakh Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T06:28:33+05:30"
+  },
+  "1id8dq7": {
+    "id": "1id8dq7",
+    "type": "news",
+    "headline": "Frankie Muniz Shares Health Update After Experiencing Severe NASCAR Crash",
+    "dek": "The former Malcolm in the Middle actor says he is grateful to be walking following a heavy warmup wreck at Daytona International Speedway.",
+    "body": [
+      {
+        "h": "The Accident at Daytona",
+        "p": [
+          "Former television star and professional racing driver Frankie Muniz experienced a major vehicle wreck during a practice session at the Daytona International Speedway. The incident occurred while he was preparing for the Proud to Honor Veterans Day Classic exhibition race.",
+          "Operating the No. 30 Ford for Team Air Force, Muniz suffered a severe collision that immediately required his transfer to a hospital for medical evaluation and observation."
+        ]
+      },
+      {
+        "h": "Health Status and Recovery",
+        "p": [
+          "Following the harrowing incident, Muniz published a video message on social media platforms to update fans and well-wishers on his current physical condition. He noted that while he feels extremely sore, he managed to avoid sustaining any major injuries.",
+          "Expressing immense relief given the severity of the wreck, the actor stated that he considers himself fortunate to be walking away from the accident without long-term harm."
+        ]
+      },
+      {
+        "h": "Crediting Vehicle Safety",
+        "p": [
+          "Reflecting on how he escaped major trauma, Muniz credited the structural integrity of his race vehicle. He highlighted the engineering and safety standards of the Ford Mustang Dark Horse as a primary factor in protecting him.",
+          "The actor expressed bewilderment at walking away relatively unscathed, directly attributing his survival and safety to how well the racing machine was constructed."
+        ]
+      },
+      {
+        "h": "Gratitude for Public Support",
+        "p": [
+          "The racing driver shared his deep appreciation for the vast outpouring of concern he received from the public following the crash. Messages, phone calls, and prayers arrived continuously from supporters worldwide.",
+          "Muniz emphasized that this tremendous wave of encouragement provided immense comfort during a frightening moment that forced him to reevaluate life."
+        ]
+      },
+      {
+        "h": "Racing Background and Career",
+        "p": [
+          "Beyond his acting career, Muniz has established himself as a legitimate competitor within the racing circuit, logging substantial experience over recent seasons. His motorsports resume includes competing in the Craftsman Truck Series.",
+          "His career highlights on the track feature a notable 10th-place finish during the 2025 Daytona season opener, alongside an entire full-season run in the ARCA Menards Series in 2023 where he secured 11 top-10 finishes."
+        ]
+      },
+      {
+        "h": "On-Site Coverage",
+        "p": [
+          "Entertainment media outlets were present at the Daytona venue to cover the exhibition events and document the unfolding situation. Entertainment Tonight captured photographic evidence of the severely damaged vehicle after the accident took place.",
+          "Staff reporters from the publication also managed to secure an on-site interview with the driver shortly before the practice session turned disastrous."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Frankie Muniz provided a reassuring health update after surviving a severe crash during a practice run at Daytona International Speedway while driving for Team Air Force. The actor and driver expressed gratitude for escaping major injuries and credited the safety of his Ford Mustang Dark Horse, while acknowledging the overwhelming support from fans."
+        ]
+      }
+    ],
+    "facts": [
+      "Frankie Muniz was involved in a NASCAR warmup crash on November 11, 2026.",
+      "The accident occurred at Daytona International Speedway.",
+      "Muniz was driving the No. 30 Ford for Team Air Force.",
+      "He competed in the Craftsman Truck Series for two seasons.",
+      "His best career finish of 10th came in the 2025 Daytona season opener.",
+      "He competed in a full ARCA Menards Series season in 2023 with 11 top 10s."
+    ],
+    "entities": {
+      "people": [
+        "Frankie Muniz",
+        "Tom Tapp"
+      ],
+      "titles": [
+        "Malcolm in the Middle"
+      ]
+    },
+    "keywords": [
+      "Frankie Muniz NASCAR crash",
+      "Frankie Muniz Daytona International Speedway",
+      "Frankie Muniz health update",
+      "Team Air Force Ford No. 30"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Frankie-Muniz-NASCAR.jpg?w=1024",
+        "caption": "Frankie Muniz Shares Health Update After Experiencing Severe NASCAR Crash",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:05:32 +0000"
   }
 };

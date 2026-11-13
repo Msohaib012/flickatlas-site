@@ -82,6 +82,75 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 07:17:49 +0530"
   },
+  "16aj291": {
+    "id": "16aj291",
+    "type": "news",
+    "headline": "VIVANT Movie Secures Additional Ticket Releases Following Rapid Sell-Outs Across Japan",
+    "dek": "Advance ticket sales for the upcoming VIVANT film have encountered overwhelming demand, prompting organizers to arrange additional purchasing windows.",
+    "entities": {
+      "people": [
+        "Kenji A",
+        "Sakai Masato"
+      ],
+      "titles": [
+        "VIVANT"
+      ]
+    },
+    "keywords": [
+      "VIVANT movie",
+      "Sakai Masato VIVANT",
+      "VIVANT advance tickets",
+      "TBS VIVANT film"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/VBBgdm_2d.jpg",
+        "caption": "VIVANT Movie Secures Additional Ticket Releases Following Rapid Sell-Outs Across Japan",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:41:14 +0000"
+  },
+  "1x5t8an": {
+    "id": "1x5t8an",
+    "type": "news",
+    "headline": "The Expanse Universe Set for Major Expansion with Three New Book Releases This December",
+    "dek": "Fans of the acclaimed science fiction franchise have reason to celebrate as major new installments from the original novel series head to shelves this winter.",
+    "entities": {
+      "people": [
+        "James S. A. Corey",
+        "Daniel Abraham",
+        "Ty Franck",
+        "Christopher Nolan"
+      ],
+      "titles": [
+        "The Expanse",
+        "Cibola Burn",
+        "Nemesis Games",
+        "Babylon's Ashes",
+        "Memory's Legion",
+        "Interstellar",
+        "Inception",
+        "Oppenheimer",
+        "The Dark Knight"
+      ]
+    },
+    "keywords": [
+      "The Expanse",
+      "James S. A. Corey",
+      "Cibola Burn",
+      "Nemesis Games",
+      "Babylon's Ashes"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/expanse-1.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "The Expanse Universe Set for Major Expansion with Three New Book Releases This December",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:30:12 GMT"
+  },
   "1ht9wd4": {
     "id": "1ht9wd4",
     "type": "news",
@@ -188,6 +257,68 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 01:15:12 GMT"
+  },
+  "1id8dq7": {
+    "id": "1id8dq7",
+    "type": "news",
+    "headline": "Frankie Muniz Shares Health Update After Experiencing Severe NASCAR Crash",
+    "dek": "The former Malcolm in the Middle actor says he is grateful to be walking following a heavy warmup wreck at Daytona International Speedway.",
+    "entities": {
+      "people": [
+        "Frankie Muniz",
+        "Tom Tapp"
+      ],
+      "titles": [
+        "Malcolm in the Middle"
+      ]
+    },
+    "keywords": [
+      "Frankie Muniz NASCAR crash",
+      "Frankie Muniz Daytona International Speedway",
+      "Frankie Muniz health update",
+      "Team Air Force Ford No. 30"
+    ],
+    "images": [
+      {
+        "url": "https://deadline.com/wp-content/uploads/2026/11/Frankie-Muniz-NASCAR.jpg?w=1024",
+        "caption": "Frankie Muniz Shares Health Update After Experiencing Severe NASCAR Crash",
+        "source": "Deadline"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:05:32 +0000"
+  },
+  "1ktnkhm": {
+    "id": "1ktnkhm",
+    "type": "news",
+    "headline": "Bouma Box Office Collection Day 1: Dileesh Pothan-Sagar Surya Film Opens at Rs 56 Lakh Worldwide",
+    "dek": "Rejin S Babu's Malayalam thriller Bouma starring Dileesh Pothan and Sagar Surya has begun its theatrical run with a worldwide gross collection of Rs 56 lakh.",
+    "entities": {
+      "people": [
+        "Rejin S Babu",
+        "Dileesh Pothan",
+        "Sagar Surya",
+        "Revathy Sharma",
+        "Vineeth",
+        "Madhupal"
+      ],
+      "titles": [
+        "Bouma"
+      ]
+    },
+    "keywords": [
+      "Bouma box office collection",
+      "Bouma Malayalam movie",
+      "Dileesh Pothan Sagar Surya Bouma",
+      "Rejin S Babu Bouma film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135785727,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Bouma Box Office Collection Day 1: Dileesh Pothan-Sagar Surya Film Opens at Rs 56 Lakh Worldwide",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T06:28:33+05:30"
   },
   "11ysuby": {
     "id": "11ysuby",
@@ -4696,169 +4827,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 02:00:29 +0530"
-  },
-  "1ch2j9v": {
-    "id": "1ch2j9v",
-    "type": "news",
-    "headline": "The Odyssey Leads 2027 Best Picture Oscar Odds as Early Race Heats Up",
-    "dek": "Christopher Nolan's blockbuster epic tops the latest prediction lists for the upcoming Academy Awards, while several contenders eye historic milestones.",
-    "entities": {
-      "people": [
-        "Christopher Nolan",
-        "Julianne Moore",
-        "John Malkovich",
-        "Anne Hathaway",
-        "Paul Giamatti",
-        "Los Javis",
-        "Ryusuke Hamaguchi",
-        "Martin McDonagh",
-        "Nathan Fielder",
-        "Lance Oppenheim",
-        "Luca Guadagnino",
-        "Cristian Mungiu",
-        "Conan O'Brien"
-      ],
-      "titles": [
-        "The Odyssey",
-        "You Can See Everything",
-        "The Debut",
-        "Wild Horse Nine",
-        "La Bola Negra",
-        "Werwulf",
-        "Project Hail Mary",
-        "Wildwood",
-        "Naza",
-        "Titanic",
-        "The Lord of the Rings: The Return of the King",
-        "Parasite",
-        "All of a Sudden",
-        "The Invite",
-        "Dune: Part Three",
-        "Artificial",
-        "Fjord"
-      ]
-    },
-    "keywords": [
-      "The Odyssey film",
-      "Oscars 2027 Best Picture odds",
-      "Christopher Nolan The Odyssey",
-      "You Can See Everything film",
-      "La Bola Negra movie"
-    ],
-    "images": [
-      {
-        "url": "https://www.goldderby.com/wp-content/uploads/2026/11/split-image-1920-13.jpg?w=650",
-        "caption": "The Odyssey Leads 2027 Best Picture Oscar Odds as Early Race Heats Up",
-        "source": "Gold Derby"
-      }
-    ],
-    "published": "Wed, 11 Nov 2026 20:00:00 +0000"
-  },
-  "1wezyrd": {
-    "id": "1wezyrd",
-    "type": "news",
-    "headline": "Gunmaaster G9 Trailer Released: Emraan Hashmi Returns in an Action-Packed Thriller",
-    "dek": "The official trailer for the upcoming action thriller Gunmaaster G9 has dropped, starring Emraan Hashmi, Genelia Deshmukh, and Aparshakti Khurana under the direction of Aditya Datt.",
-    "entities": {
-      "people": [
-        "Emraan Hashmi",
-        "Aditya Datt",
-        "Genelia Deshmukh",
-        "Aparshakti Khurana",
-        "Abhishek Singh",
-        "Himesh Reshammiya",
-        "Asees Kaur",
-        "Deepak Mukut",
-        "Hunar Mukut",
-        "Sangeeta Ahir",
-        "Shirish Vallicha",
-        "Nitin Kakkar",
-        "Disha Patani",
-        "Shabana Azmi"
-      ],
-      "titles": [
-        "Gunmaaster G9",
-        "Aashiq Banaya Aapne",
-        "Awarapan 2",
-        "Afsaana Banaaya Aapne"
-      ]
-    },
-    "keywords": [
-      "Gunmaaster G9 trailer",
-      "Emraan Hashmi Gunmaaster G9",
-      "Genelia Deshmukh film",
-      "Aditya Datt movie",
-      "Aparshakti Khurana Gunmaaster G9"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/gunmaaster-g9-trailer-emraan-hashmi-vows-to-shed-blood-to-protect-love-and-family-114705259-16x9_0.png?VersionId=1KUUApU4SYNXtNJYby5hn6G6k6X1AZ7.",
-        "caption": "Gunmaaster G9 Trailer Released: Emraan Hashmi Returns in an Action-Packed Thriller",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 01:18:32 +0530"
-  },
-  "177b38c": {
-    "id": "177b38c",
-    "type": "news",
-    "headline": "How GKIDS President Dave Jesteadt Fueled the Historic Box Office Run of Godzilla Minus Zero",
-    "dek": "In an exclusive interview, GKIDS head Dave Jesteadt breaks down how premium large formats, younger viewers, and a smart strategy propelled the latest Japanese franchise entry to record-breaking heights in North America.",
-    "entities": {
-      "people": [
-        "Dave Jesteadt",
-        "Takashi Yamazaki",
-        "Hayao Miyazaki"
-      ],
-      "titles": [
-        "Godzilla Minus Zero",
-        "Godzilla Minus One",
-        "Shin Godzilla",
-        "The Boy and the Heron"
-      ]
-    },
-    "keywords": [
-      "Godzilla Minus Zero",
-      "Dave Jesteadt",
-      "GKIDS",
-      "Godzilla Minus One"
-    ],
-    "images": [
-      {
-        "url": "https://www.indiewire.com/wp-content/uploads/2026/11/GodzillaMinusZero.jpg?w=650",
-        "caption": "How GKIDS President Dave Jesteadt Fueled the Historic Box Office Run of Godzilla Minus Zero",
-        "source": "IndieWire"
-      }
-    ],
-    "published": "Wed, 11 Nov 2026 19:30:00 +0000"
-  },
-  "rxvayp": {
-    "id": "rxvayp",
-    "type": "news",
-    "headline": "FX Renews Adults for Season 3 With Expanded 16-Episode Order",
-    "dek": "FX has officially secured the future of its acclaimed series Adults, granting the show a massive episode order for its upcoming third season.",
-    "entities": {
-      "people": [
-        "Lesley Goldberg"
-      ],
-      "titles": [
-        "Adults"
-      ]
-    },
-    "keywords": [
-      "Adults season 3 FX",
-      "Adults 16 episodes",
-      "Adults renewal Lesly Goldberg",
-      "Adults TV show FX"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/paul-baker-in-adults.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "FX Renews Adults for Season 3 With Expanded 16-Episode Order",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Wed, 11 Nov 2026 18:45:56 GMT"
   },
   "1643vxd": {
     "id": "1643vxd",
