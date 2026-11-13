@@ -15,40 +15,5 @@ window.FA_ADVANCE = {
       "collection": 988000,
       "scope": "Single-venue pre-sales"
     }
-  ],
-  "1805816": [
-    {
-      "date": "2026-11-13",
-      "day": "",
-      "collection": 1722
-    }
-  ],
-  "1641520": [
-    {
-      "date": "2026-11-13",
-      "day": "",
-      "collection": 12213
-    }
-  ],
-  "1440539": [
-    {
-      "date": "2026-11-13",
-      "day": "",
-      "collection": 6149
-    }
-  ],
-  "1655020": [
-    {
-      "date": "2026-11-13",
-      "day": "",
-      "collection": 3645
-    }
-  ],
-  "1434462": [
-    {
-      "date": "2026-11-13",
-      "day": "",
-      "collection": 1099
-    }
   ]
 };
