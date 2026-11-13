@@ -208,6 +208,46 @@ for phrase in ("story:", "cast", "box office collection", "budget", "review 7/10
 for phrase in ("X box office collection", "X budget", "X review", "X rating"):
     assert phrase in rich_movie["k"], f"rich movie keywords missing {phrase}"
 
+# Phase 2 SSR (2026-11-14): cast + director from the credits cache go
+# into the JSON-LD schema and the SSR facts block; a title with no
+# credits record omits both (fail-open, exactly as phase 1 did).
+credits_movie = seo.title_meta({
+    "id": "999", "title": "X", "type": "movie", "industry": "world",
+    "release_date": "2026-04-10", "overview": "A village accountant returns home.",
+    "genres": ["Drama", "Comedy"], "budget": 40000000,
+    "vote_average": 8.4, "vote_count": 100,
+}, {"cast": [{"n": "Lead Actor", "c": "Hero"},
+             {"n": "Second Actor", "c": "Friend"}],
+    "dir": ["Director Name"]})
+assert credits_movie["ld"]["director"] == [
+    {"@type": "Person", "name": "Director Name"}]
+assert [a["name"] for a in credits_movie["ld"]["actor"]] == [
+    "Lead Actor", "Second Actor"]
+assert "Director: Director Name" in credits_movie["ssr"]
+assert "<h2>Top cast</h2>" in credits_movie["ssr"]
+assert "Lead Actor as Hero" in credits_movie["ssr"]
+assert "director" not in rich_movie["ld"] and "actor" not in rich_movie["ld"]
+assert "<h2>Top cast</h2>" not in rich_movie["ssr"]
+
+# Homepage SSR (phase 2): the "home" entry mirrors index.html's static
+# head and carries the latest-news + trending-titles facts block. No
+# page dates: the homepage has no publication date.
+home = seo.home_meta()
+assert home["t"] == "Bollywood, World Cinema & Box Office | FlickAtlas"
+assert home["ld"]["@type"] == "WebPage"
+assert "published" not in home["ld"] and "modified" not in home["ld"]
+home_block = seo.home_ssr(
+    {"1": {"id": "1", "title": "Top Film", "type": "movie",
+           "industry": "bollywood", "release_date": "2026-11-01",
+           "popularity": 99.0, "vote_average": 8.0, "vote_count": 500}},
+    {"a1": {"id": "a1", "headline": "Big Film News Today",
+            "published": "2026-11-13T10:00:00Z"}})
+assert "<h1>FlickAtlas</h1>" in home_block
+assert "<h2>Latest news</h2>" in home_block
+assert "Big Film News Today" in home_block
+assert "<h2>Trending titles</h2>" in home_block
+assert "Top Film" in home_block
+
 world_series = seo.title_meta({
     "id": "200", "title": "Ocean Signal", "type": "tv", "industry": "world",
     "first_air_date": "2024-02-01", "overview": "A rescue crew faces a mystery.",
@@ -492,8 +532,13 @@ for shell_rel in ("movie/index.html", "show/index.html",
     assert '<main id="app" tabindex="-1">' in shell_text, (
         f"{shell_rel}: the Worker SSR anchor <main id=\"app\"> is missing")
 
-assert os.path.getsize(ROOT / "js/seo-meta.json") < 6 * 1024 * 1024, (
-    "seo-meta.json passed the 6 MB tripwire; cap or slim the ssr payloads")
+# Tripwire raised 6 -> 20 MB (2026-11-14, phase-2 SSR): the file is
+# legitimately ~16.1 MB for 916 titles with cast/director in the schema
+# + SSR blocks. The catalogue chunk design (js/seo/<bb>.json) will
+# shrink this monolith as titles migrate; until then the guard still
+# catches runaway growth above 20 MB.
+assert os.path.getsize(ROOT / "js/seo-meta.json") < 20 * 1024 * 1024, (
+    "seo-meta.json passed the 20 MB tripwire; cap or slim the ssr payloads")
 
 print(f"Sitewide SEO: {len(shells)} unique route shells; titles/descriptions/keywords valid; "
       "movie/news metadata data-driven; publication dates separate from release dates; "

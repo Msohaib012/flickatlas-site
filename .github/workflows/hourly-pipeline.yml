@@ -603,6 +603,21 @@ jobs:
           PANEL_IMPORT_TOKEN: ${{ secrets.PANEL_IMPORT_TOKEN }}
         run: python3 scripts/daily_history.py
 
+      # --- 13c. Credits cache for phase-2 SSR (always, never fatal) ----
+      # Fetch TMDB credits (top 10 cast + directors) for published titles
+      # missing from out/credits.json, capped at 50/run (same cadence as
+      # refresh-metadata). scripts/seo_assets.py reads the cache to put
+      # cast + director in the JSON-LD schema and the SSR facts block.
+      # continue-on-error: a TMDB failure must never fail the run (titles
+      # without credits simply omit the cast section, as phase 1 did).
+      - name: Fetch credits cache
+        id: creditscache
+        if: always()
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/fetch-credits.py --max 50
+
       # --- 13d. SEO assets (always, never fatal) ----------------------
       # Regenerate js/seo-meta.json + sitemap.xml + robots.txt from the
       # live title/article/day-wise/review/episode data using the

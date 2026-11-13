@@ -60,6 +60,11 @@ DAYWISE = {}
 REVIEWS = {}
 WORLDWIDE = {}
 EPISODE_TRACKER = {"episodes": {}}
+# Phase 2 SSR (2026-11-14): top cast + director per title, from the
+# pipeline-only credits cache (out/credits.json, filled by
+# scripts/fetch-credits.py). Missing file or missing title -> no cast
+# section; the generator must never fail on absent credits.
+CREDITS = {}
 
 INDUSTRY_LABEL = {
     "bollywood": "Bollywood",
@@ -457,9 +462,14 @@ def article_body_text(entry):
     return _cap_article_text("\n\n".join(parts))
 
 
-def title_ssr(entry, dw, review, worldwide):
+def title_ssr(entry, dw, review, worldwide, credits=None):
     """Facts block for a /movie or /show page, from the published entry
-    plus its day-wise rows, FlickAtlas review and worldwide record."""
+    plus its day-wise rows, FlickAtlas review and worldwide record.
+    Phase 2 (2026-11-14): top cast + director from the credits cache
+    (out/credits.json) — the same people the rendered page shows in its
+    Top Cast card and Creators & Crew card. ``credits`` is None when the
+    cache has no record for the title; the block then simply omits the
+    cast section, exactly as phase 1 did."""
     title = plain_text(entry.get("title"))
     if not title:
         return None
@@ -492,6 +502,25 @@ def title_ssr(entry, dw, review, worldwide):
         runtime = int(_number(entry.get("runtime")))
         if runtime:
             facts.append("Runtime: %d minutes" % runtime)
+    if is_tv:
+        created_by = [plain_text(c) for c in (entry.get("created_by") or [])
+                      if plain_text(c)]
+        if created_by:
+            facts.append("Created by: %s" % ", ".join(created_by))
+    directors = []
+    cast = []
+    if isinstance(credits, dict):
+        directors = [plain_text(d) for d in (credits.get("dir") or [])
+                     if plain_text(d)]
+        for person in (credits.get("cast") or []):
+            if not isinstance(person, dict):
+                continue
+            name = plain_text(person.get("n"))
+            if not name:
+                continue
+            cast.append((name, plain_text(person.get("c"))))
+    if directors:
+        facts.append("Director: %s" % ", ".join(directors))
     genres = [plain_text(g) for g in (entry.get("genres") or [])
               if plain_text(g)]
     if genres:
@@ -509,6 +538,14 @@ def title_ssr(entry, dw, review, worldwide):
     if facts:
         out.append("<h2>Key facts</h2>")
         out.append("<ul>" + "".join("<li>%s</li>" % _esc(f) for f in facts)
+                   + "</ul>")
+        substantive = True
+    if cast:
+        out.append("<h2>Top cast</h2>")
+        items = []
+        for name, character in cast:
+            items.append("%s as %s" % (name, character) if character else name)
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(i) for i in items)
                    + "</ul>")
         substantive = True
     rows = [r for r in (dw or []) if isinstance(r, dict)]
@@ -705,6 +742,79 @@ def daywise_ssr(entry, rows):
     return "\n".join(out)
 
 
+def _pop_score(e):
+    """TMDB popularity first, vote count as fallback (same ranking as
+    build_llms_full's Top titles list)."""
+    pop = e.get("popularity")
+    if isinstance(pop, (int, float)) and math.isfinite(pop):
+        return float(pop)
+    return _number(e.get("vote_count")) * 0.01
+
+
+def home_ssr(published, articles):
+    """Facts block for the homepage (phase 2, 2026-11-14): the site's own
+    description plus the freshest content the rendered homepage shows —
+    the latest news headlines and the trending titles. Only facts the
+    homepage data backs; no links, no images. Returns None when there
+    is nothing substantive (the Worker then no-ops)."""
+    out = ['<article class="ssr-facts">', "<h1>FlickAtlas</h1>",
+           "<p>%s</p>" % _esc(
+               "Explore Bollywood and Indian cinema, World Cinema, "
+               "Pakistani dramas, reported box office, OTT availability, "
+               "release dates and entertainment news.")]
+    substantive = True
+    news = [e for e in (articles or {}).values()
+            if isinstance(e, dict) and plain_text(e.get("headline"))]
+    news.sort(key=lambda e: (publication_dates(e)["published"]
+                             or e.get("published") or ""), reverse=True)
+    headlines = [plain_text(e.get("headline")) for e in news[:5]]
+    if headlines:
+        out.append("<h2>Latest news</h2>")
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(h) for h in headlines)
+                   + "</ul>")
+    ranked = sorted(
+        (e for e in (published or {}).values()
+         if isinstance(e, dict) and plain_text(e.get("title"))),
+        key=lambda e: (-_pop_score(e), -_number(e.get("vote_count")),
+                       plain_text(e.get("title")), str(e.get("id"))))
+    items = []
+    for e in ranked[:5]:
+        title = plain_text(e.get("title"))
+        year = year_of(e)
+        disp = title + ((" (%s)" % year) if year else "")
+        rating = _number(e.get("vote_average"))
+        if rating:
+            disp += " — TMDB rating %.1f/10" % rating
+        items.append(disp)
+    if items:
+        out.append("<h2>Trending titles</h2>")
+        out.append("<ul>" + "".join("<li>%s</li>" % _esc(i) for i in items)
+                   + "</ul>")
+    out.append("</article>")
+    return "\n".join(out) if substantive else None
+
+
+def home_meta():
+    """Homepage entry: t/d/k/img match index.html's static head exactly,
+    so the Worker's injection changes nothing Google already sees — it
+    only ADDS the WebPage schema node and the SSR facts block. No page
+    dates: the homepage has no publication date."""
+    t = "Bollywood, World Cinema & Box Office | FlickAtlas"
+    d = ("Explore Bollywood and Indian cinema, World Cinema, Pakistani "
+         "dramas, reported box office, OTT availability, release dates "
+         "and entertainment news.")
+    k = ("Bollywood movies, Indian cinema, World Cinema, box office "
+         "collection, OTT releases, upcoming Bollywood movies, Pakistani "
+         "dramas, entertainment news")
+    out = {"t": t, "d": d, "k": k, "img": BASE + "/icon-512.png",
+           "ld": {"@context": "https://schema.org", "@type": "WebPage",
+                  "name": t, "description": d, "url": BASE + "/"}}
+    ssr = home_ssr(PUBLISHED, ARTICLES)
+    if ssr:
+        out["ssr"] = ssr
+    return out
+
+
 def cat_ssr(cat, published):
     """Facts block for a /category page: the category's own description
     plus its most recent covered titles (plain text, no links)."""
@@ -733,7 +843,7 @@ def cat_ssr(cat, published):
     return "\n".join(out)
 
 
-def title_meta(entry):
+def title_meta(entry, credits=None):
     """Use fixed page-template labels; describe only facts the page supports."""
     title = plain_text(entry.get("title"))
     year = year_of(entry)
@@ -912,6 +1022,21 @@ def title_meta(entry):
     else:
         if entry.get("runtime"):
             ld["duration"] = "PT%dM" % int(entry["runtime"])
+    # Phase 2 (2026-11-14): director + actor in the schema, mirroring
+    # what js/page-movie.js adds to its own runtime JSON-LD (all
+    # directors, top 5 cast). No credits record -> both omitted.
+    if isinstance(credits, dict):
+        directors = [plain_text(d) for d in (credits.get("dir") or [])
+                     if plain_text(d)]
+        if directors:
+            ld["director"] = [{"@type": "Person", "name": d}
+                              for d in directors]
+        actors = []
+        for person in (credits.get("cast") or [])[:5]:
+            if isinstance(person, dict) and plain_text(person.get("n")):
+                actors.append(plain_text(person.get("n")))
+        if actors:
+            ld["actor"] = [{"@type": "Person", "name": a} for a in actors]
     if has_review and review_score > 0:
         # The FlickAtlas editorial review, as a schema.org Review node on
         # the film/series entity (aggregateRating above is TMDB's).
@@ -930,7 +1055,7 @@ def title_meta(entry):
            "img": img_url(entry), "ld": ld, "year": year,
            "industry": entry.get("industry"), **publication_dates(entry)}
     ssr = title_ssr(entry, rows, review,
-                    (WORLDWIDE or {}).get(str(entry.get("id"))))
+                    (WORLDWIDE or {}).get(str(entry.get("id"))), credits)
     if ssr:
         out["ssr"] = ssr
     return out
@@ -1126,7 +1251,9 @@ def daywise_meta(entry):
            "total_in": total_in, "total_ov": total_ov,
            "latest_day": latest.get("day"), "latest_date": latest.get("date"),
            "day_rows": daily, "d": d, "k": ", ".join(kws),
-           "img": img_url(entry), "ld": title_meta(entry)["ld"]}
+           "img": img_url(entry),
+           "ld": title_meta(entry,
+                            CREDITS.get(str(entry.get("id"))))["ld"]}
     ssr = daywise_ssr(entry, rows)
     if ssr:
         out["ssr"] = ssr
@@ -1239,12 +1366,6 @@ def build_llms_full():
         base = "# FlickAtlas"
     lines = [base, "", "## Top titles", ""]
 
-    def _pop_score(e):
-        pop = e.get("popularity")
-        if isinstance(pop, (int, float)) and math.isfinite(pop):
-            return float(pop)
-        return _number(e.get("vote_count")) * 0.01
-
     ranked = sorted(
         (e for e in PUBLISHED.values()
          if isinstance(e, dict) and plain_text(e.get("title"))),
@@ -1276,7 +1397,7 @@ def build_llms_full():
 
 
 def main():
-    global PUBLISHED, ARTICLES, DAYWISE, REVIEWS, WORLDWIDE, EPISODE_TRACKER
+    global PUBLISHED, ARTICLES, DAYWISE, REVIEWS, WORLDWIDE, EPISODE_TRACKER, CREDITS
     PUBLISHED = read_js_map(os.path.join(ROOT, "js", "published-titles.js"),
                             "FA_PUBLISHED")
     ARTICLES = read_js_map(os.path.join(ROOT, "js", "articles-data.js"),
@@ -1296,6 +1417,17 @@ def main():
             EPISODE_TRACKER = json.load(f)
     except (OSError, ValueError):
         EPISODE_TRACKER = {"episodes": {}}
+    # Phase 2 credits cache (scripts/fetch-credits.py). Missing file or
+    # bad JSON -> empty cache; entries without credits simply omit the
+    # cast section, exactly as phase 1 did.
+    try:
+        with open(os.path.join(ROOT, "out", "credits.json"),
+                  encoding="utf-8") as f:
+            CREDITS = json.load(f)
+        if not isinstance(CREDITS, dict):
+            CREDITS = {}
+    except (OSError, ValueError):
+        CREDITS = {}
     for e in ARTICLES.values():
         e["_pub"] = parse_date(e.get("published"))
 
@@ -1317,7 +1449,7 @@ def main():
     for tid in sorted(PUBLISHED, key=lambda x: int(x)):
         e = PUBLISHED[tid]
         key = ("tv:" if e.get("type") == "tv" else "movie:") + str(tid)
-        meta[key] = title_meta(e)
+        meta[key] = title_meta(e, CREDITS.get(str(tid)))
     for slug in sorted(ARTICLES):
         meta["news:" + slug] = news_meta(ARTICLES[slug])
     for tid in sorted(DAYWISE, key=lambda x: int(x)):
@@ -1333,6 +1465,10 @@ def main():
                    "description": d},
             "ssr": cat_ssr(cat, PUBLISHED),
         }
+    # Phase 2 (2026-11-14): homepage entry — the Worker injects it on
+    # "/" (see scripts/worker.mjs). Title/description/keywords match
+    # index.html's static head exactly.
+    meta["home"] = home_meta()
 
     meta_path = os.path.join(ROOT, "js", "seo-meta.json")
     with open(meta_path, "w", encoding="utf-8") as f:
