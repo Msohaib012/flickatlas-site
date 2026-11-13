@@ -133596,5 +133596,409 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 07:01:16 +0000"
+  },
+  "ez5rzb": {
+    "id": "ez5rzb",
+    "type": "news",
+    "headline": "Zee TV's Popular Drama Lakshmi Niwas Reaches 300-Episode Milestone With Grand On-Set Celebration",
+    "dek": "The hit television series starring Manasi Joshi Roy and Rajendra Chawla has officially crossed three hundred episodes, marking the occasion with a festive cake-cutting event on set.",
+    "body": [
+      {
+        "h": "Reaching the Three Hundred Episode Mark",
+        "p": [
+          "Zee TV's family drama Lakshmi Niwas has officially completed three hundred episodes on air. The daily television series has maintained a strong viewership across India since its premiere, steadily drawing audiences into its heartfelt narrative.",
+          "The team behind the program marked this significant milestone with a joyous celebration directly on set. Cast members, crew, media personnel, and friends gathered together to commemorate the achievement with a celebratory cake-cutting ceremony."
+        ]
+      },
+      {
+        "h": "The Core Plot and Character Journeys",
+        "p": [
+          "At the center of the storyline are the characters Lakshmi and Shriniwas. The narrative follows their decision to prioritize mutual love over social privilege as they embark on building a shared life together.",
+          "Their primary ambition has been to secure a home of their own. Through their daily experiences, the television program highlights the various aspirations, personal sacrifices, and complex relationships that define traditional family life across the country."
+        ]
+      },
+      {
+        "h": "Leading Cast Members",
+        "p": [
+          "The central roles of the series are brought to life by notable television performers. Manasi Joshi Roy stars in the titular role as Lakshmi, anchoring the emotional core of the show.",
+          "She is joined by Rajendra Chawla, who portrays Shriniwas. Together, the lead actors drive the narrative of a couple navigating the various trials and triumphs of setting up a household."
+        ]
+      },
+      {
+        "h": "Evolution of the Narrative",
+        "p": [
+          "Over the course of its three hundred episodes, the storyline of Lakshmi Niwas has seen considerable development. The plot has evolved through shifting family dynamics, generational gaps, and unpredictable narrative twists.",
+          "While Lakshmi and Shriniwas remain the anchor points of the show, the lives, choices, and conflicts of surrounding characters have introduced fresh dimensions and ongoing drama to the episodes."
+        ]
+      },
+      {
+        "h": "Reflecting Everyday Indian Households",
+        "p": [
+          "The appeal of the television drama largely stems from its realistic portrayal of domestic situations. By dealing with family relationships and situations that test familial bonds, the show explores how individual choices ripple outward to impact an entire household.",
+          "This relatable approach has allowed the series to strike a chord with viewers nationwide, transforming the program into a widespread hit among daily television audiences."
+        ]
+      },
+      {
+        "h": "Cast Reflections on the Milestone",
+        "p": [
+          "Lead actor Manasi Joshi Roy expressed her deep gratitude regarding the three hundred episode milestone. She noted that over time, the characters have become deeply personal to everyone involved in the production.",
+          "She further highlighted that playing Lakshmi has been a gratifying experience, praising the strength and commitment of her character while acknowledging the collective effort of the producers, director, and fellow cast members."
+        ]
+      },
+      {
+        "h": "Future Twists and Viewing Schedule",
+        "p": [
+          "Even as the cast celebrates this major broadcasting achievement, trouble continues to brew within the narrative of Lakshmi Niwas. Viewers can expect plenty of exciting drama and unforeseen twists in upcoming episodes.",
+          "Fans of the series can catch the broadcast daily on Zee TV at 7.30 pm to stay updated on the latest developments in the family's journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Zee TV's family drama Lakshmi Niwas has successfully completed 300 episodes, celebrating the milestone with a grand cake-cutting event on set with the cast and crew. Headlined by Manasi Joshi Roy and Rajendra Chawla, the series continues to engage audiences daily at 7.30 pm with ongoing twists in its domestic narrative."
+        ]
+      }
+    ],
+    "facts": [
+      "Lakshmi Niwas completed 300 episodes on Zee TV",
+      "Manasi Joshi Roy plays the role of Lakshmi",
+      "Rajendra Chawla plays the role of Shriniwas",
+      "The show airs every day at 7.30 pm on Zee TV"
+    ],
+    "entities": {
+      "people": [
+        "Manasi Joshi Roy",
+        "Rajendra Chawla"
+      ],
+      "titles": [
+        "Lakshmi Niwas"
+      ]
+    },
+    "keywords": [
+      "Lakshmi Niwas",
+      "Zee TV Lakshmi Niwas",
+      "Manasi Joshi Roy",
+      "Rajendra Chawla"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/lakshminiwas300epsd-27861794555898.jpg",
+        "caption": "Zee TV's Popular Drama Lakshmi Niwas Reaches 300-Episode Milestone With Grand On-Set Celebration",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 13:16:11 +0530"
+  },
+  "p5rnbr": {
+    "id": "p5rnbr",
+    "type": "news",
+    "headline": "Lisa Makes History as First K-Pop Artist to Headline Las Vegas Residency with 'Viva La Lisa'",
+    "dek": "The BLACKPINK star kicks off her groundbreaking six-night engagement at The Colosseum at Caesars Palace, featuring an elaborate setlist from her solo projects.",
+    "body": [
+      {
+        "h": "Historic Las Vegas Debut",
+        "p": [
+          "Lisa has achieved a massive career milestone by becoming the first K-pop artist to headline a Las Vegas residency. Kicking off on Thursday night, November 12, her new production titled \"Viva La Lisa\" brings her signature solo performances to the iconic stage at The Colosseum at Caesars Palace.",
+          "The residency marks an extraordinary step forward for the global superstar, blending high-energy choreography with striking visual elements featuring fire, leather, and lingerie moments throughout the ninety-minute spectacle."
+        ]
+      },
+      {
+        "h": "Expanded Residency Dates",
+        "p": [
+          "The concert series was initially announced as a four-show engagement, but overwhelming demand caused the initial dates to sell out in less than ten minutes. Because of this massive public response, the production was expanded to a total of six performances scheduled through November 29.",
+          "Fans have additional opportunities to catch the performances on November 13, 14, and November 27 through 29, cementing the massive commercial appeal of her solo concert endeavors on the Strip."
+        ]
+      },
+      {
+        "h": "Show Structure and EP Focus",
+        "p": [
+          "Divided carefully into five distinct chapters, the ninety-minute production draws heavily from her debut solo album, Alter Ego, while putting her brand-new six-track EP, Press Play, front and center.",
+          "Released on October 23, the entire EP is represented during the concert, starting with the cinematic opening track \"Tarantino\" and closing with the Thai-inspired single \"SaWaDiKa.\" The remaining four tracks from the project—\"V12,\" \"Cobra,\" \"Cut U Off,\" and \"Sweat\"—are thoughtfully sprinkled throughout the setlist."
+        ]
+      },
+      {
+        "h": "Celebrating Solo Hits",
+        "p": [
+          "In addition to her newer material, the setlist embraces all the major hits from her momentous K-pop culture run. This includes \"Money,\" her breakout solo single from 2021, alongside her recent smash hit \"Rockstar.\"",
+          "The concert also features high-profile collaborations, highlighting her versatility as an artist with performances of \"New Woman\" featuring Rosalía, and \"Born Again,\" which she recorded alongside Doja Cat and Raye."
+        ]
+      },
+      {
+        "h": "Growing Global Solo Success",
+        "p": [
+          "Lisa's residency follows a string of major professional triumphs outside of her work with BLACKPINK. Her debut solo album, Alter Ego, achieved significant commercial success by debuting at No. 7 on the Billboard 200 chart.",
+          "Performing in Las Vegas adds to an already impressive year for the Thai-born performer, who also made her solo Coachella debut and expanded into the acting world with a role in HBO's The White Lotus."
+        ]
+      },
+      {
+        "h": "Opening-Night Setlist Breakdown",
+        "p": [
+          "The structured night takes fans on a journey across five chapters. Chapter 1 introduces the crowd with \"Tarantino,\" \"Fuck Up the World,\" \"Bad Girl,\" \"V12,\" and \"Rockstar.\"",
+          "Later chapters transition through a wide variety of sounds, incorporating tracks like \"Sweat,\" \"Elastigirl,\" \"Goals,\" \"Rapunzel,\" \"Money,\" \"Moonlit Floor,\" \"Dream,\" \"When I'm With You,\" \"Born Again,\" \"Cut U Off,\" \"Cobra,\" \"New Woman,\" \"Leave With Me,\" \"Thunder,\" \"Bad Angel,\" \"Lifestyle,\" and the closer \"SaWaDiKa.\""
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Lisa made history on November 12 by launching the \"Viva La Lisa\" residency at The Colosseum at Caesars Palace, making her the first K-pop artist to headline a Las Vegas residency. The expanded six-show engagement highlights her solo catalog, including tracks from her debut album Alter Ego and her EP Press Play."
+        ]
+      }
+    ],
+    "facts": [
+      "Lisa became the first K-pop artist to headline a Las Vegas residency on Thursday, Nov. 12.",
+      "The residency is titled \"Viva La Lisa\" and takes place at The Colosseum at Caesars Palace.",
+      "The production initially had four shows, which sold out in under 10 minutes, and expanded to six performances scheduled through Nov. 29.",
+      "The 90-minute show is divided into five chapters.",
+      "Her debut solo album, Alter Ego, was released in February 2025 and debuted at No. 7 on the Billboard 200.",
+      "The six-track EP Press Play was released on Oct. 23."
+    ],
+    "entities": {
+      "people": [
+        "Lisa",
+        "Rosalía",
+        "Doja Cat",
+        "Raye"
+      ],
+      "titles": [
+        "Viva La Lisa",
+        "Alter Ego",
+        "Press Play",
+        "Tarantino",
+        "SaWaDiKa",
+        "V12",
+        "Cobra",
+        "Cut U Off",
+        "Sweat",
+        "Money",
+        "Rockstar",
+        "New Woman",
+        "Born Again",
+        "The White Lotus",
+        "Fuck Up the World",
+        "Bad Girl",
+        "Elastigirl",
+        "Goals",
+        "Rapunzel",
+        "Moonlit Floor",
+        "Dream",
+        "When I'm With You",
+        "Leave With Me",
+        "Thunder",
+        "Bad Angel",
+        "Lifestyle"
+      ]
+    },
+    "keywords": [
+      "Lisa Viva La Lisa",
+      "Viva La Lisa Las Vegas residency",
+      "Lisa Caesars Palace setlist",
+      "Lisa Alter Ego album",
+      "Lisa Press Play EP"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/10/lisa-press-play-cover-cr-Yeyoung-choi-billboard-1800.jpg?w=1024",
+        "caption": "Lisa Makes History as First K-Pop Artist to Headline Las Vegas Residency with 'Viva La Lisa'",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 07:43:16 +0000"
+  },
+  "4nauf5": {
+    "id": "4nauf5",
+    "type": "news",
+    "headline": "Rana Daggubati Reveals Initial Look at Horror Project Starring Kangana Ranaut",
+    "dek": "Actor and producer Rana Daggubati has shared the first promotional asset for the upcoming horror film Scary Picture, featuring Kangana Ranaut in the primary role.",
+    "body": [
+      {
+        "h": "First Look Unveiled on Social Media",
+        "p": [
+          "The entertainment industry witnessed a notable project update when actor and producer Rana Daggubati shared the initial visual asset for a forthcoming horror feature titled Scary Picture. The project features prominent actress Kangana Ranaut as the lead star, immediately drawing attention across digital platforms.",
+          "The promotional rollout occurred via Instagram, where the actor-producer presented the first glimpses of the feature to audiences. This introductory reveal generated substantial interest among movie enthusiasts tracking upcoming cinematic ventures."
+        ]
+      },
+      {
+        "h": "Strategic Timing on Friday the 13th",
+        "p": [
+          "The timing of the promotional drop carried a deliberate thematic significance, aligning with Friday the 13th. This specific date holds a long-standing cultural association with horror, mystery, and various superstitions across the globe.",
+          "By leveraging the calendar date, the promotional strategy effectively amplified the chilling atmosphere intended for the project, creating an apt backdrop for a movie deeply rooted in the horror genre."
+        ]
+      },
+      {
+        "h": "Production Backing by Suresh Productions",
+        "p": [
+          "The feature is backed by veteran producer Suresh Babu operating under the banner of Suresh Productions. The production house has historically built a robust reputation anchored in mainstream Telugu cinema and family-oriented entertainers over several decades.",
+          "Taking on this project signifies a notable strategic shift for the banner as it expands its creative horizons into the horror landscape, demonstrating a willingness to experiment with different forms of cinematic storytelling."
+        ]
+      },
+      {
+        "h": "Vision for Regional and Diverse Subgenres",
+        "p": [
+          "Discussing the artistic vision behind the venture, Rana Daggubati highlighted an ambition to establish a steady framework of production support and theatrical release avenues for storytellers passionate about the genre. He emphasized that the Indian audience embraces a vast array of regional fears and narratives.",
+          "The leadership behind the production aims to remain flexible regarding various subgenres, welcoming psychological thrillers, creature features, horror-comedies, social horror pieces, and unique concepts presented by creative minds."
+        ]
+      },
+      {
+        "h": "Director Ravi Babu Transitions to Hindi Cinema",
+        "p": [
+          "The directorial reins are held by filmmaker Ravi Babu, marking his official directorial debut in the Hindi film industry. The director brings prior experience within the eerie genre, having previously helmed Telugu language thrillers like Anasuya and Avunu.",
+          "His association with the project brings a distinct directorial sensibility to the venture, collaborating alongside Kangana Ranaut to investigate uncharted territory within the horror medium."
+        ]
+      },
+      {
+        "h": "Expanding Platforms via Suresh Productions and Spirit Media",
+        "p": [
+          "Beyond the standalone feature, the initiative forms part of a broader objective championed by Rana Daggubati to cultivate a dedicated ecosystem for spooky storytelling in the country. Utilizing Suresh Productions and Spirit Media, the objective is to supply consistent backing and big-screen opportunities for creators.",
+          "With industry stalwart Suresh Babu steering production duties and Kangana Ranaut anchoring the cast, the undertaking represents an adventurous chapter for the banner as it delves deep into dark narratives."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor and producer Rana Daggubati released the first visual asset for the horror film Scary Picture, starring Kangana Ranaut, on Friday, November 13. Directed by Ravi Babu and backed by Suresh Productions, the project marks a genre shift for the banner and establishes a platform for diverse horror narratives."
+        ]
+      }
+    ],
+    "facts": [
+      "Actor-producer Rana Daggubati unveiled the first asset of Scary Picture on Friday, November 13.",
+      "The film stars Kangana Ranaut in the lead role.",
+      "Suresh Babu is producing the film under Suresh Productions.",
+      "The film is directed by Telugu filmmaker Ravi Babu, marking his Hindi directorial debut.",
+      "Ravi Babu previously directed Telugu films Anasuya and Avunu."
+    ],
+    "entities": {
+      "people": [
+        "Rana Daggubati",
+        "Kangana Ranaut",
+        "Suresh Babu",
+        "Ravi Babu"
+      ],
+      "titles": [
+        "Scary Picture",
+        "Anasuya",
+        "Avunu"
+      ]
+    },
+    "keywords": [
+      "Scary Picture film",
+      "Kangana Ranaut Scary Picture",
+      "Rana Daggubati Scary Picture",
+      "Ravi Babu director",
+      "Suresh Productions horror"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/620x450-13112026-3.jpg.jpeg",
+        "caption": "Rana Daggubati Reveals Initial Look at Horror Project Starring Kangana Ranaut",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 12:31:15 +0200"
+  },
+  "1dd6m5p": {
+    "id": "1dd6m5p",
+    "type": "news",
+    "headline": "KBS Faces Fairness Debate After Unaired 'Sword & Silence' Cast Appear in Acting Awards Nominee Survey",
+    "dek": "The inclusion of unreleased historical drama Sword & Silence and 2026 Sound: Track in the preliminary nominee survey for the 2026 KBS Drama Awards has sparked severe fairness criticisms.",
+    "body": [
+      {
+        "h": "The Preliminary Survey Controversy",
+        "p": [
+          "Broadcasting giant KBS has run into considerable scrutiny ahead of its major year-end accolades due to a controversial nominee survey. Initiated on November 3, 2026, the broadcaster distributed a ballot among entertainment reporters to gather recommendations for the upcoming ceremony.",
+          "However, the inclusion of several titles that had yet to premiere raised immediate eyebrows. Critics quickly pointed out that listing actors from unreleased projects compromised the integrity of the polling process."
+        ]
+      },
+      {
+        "h": "Unaired Productions Included",
+        "p": [
+          "The preliminary lists featured prominent performers from the grand historical project Sword & Silence, also known as Munmu, as well as the single-episode KBS Drama Special series 2026 Sound: Track. Neither project had broadcasted any episodes at the time the survey was launched.",
+          "Industry observers noted that placing these actors on recommendation ballots without any visible performances left critics questioning the validity of the early voting phase."
+        ]
+      },
+      {
+        "h": "Cast Members and Categories Listed",
+        "p": [
+          "According to SPOTV News, several leading actors from Sword & Silence appeared in major categories. Jang Hyuk, Lee Hyun Wook, and Choi Soo Rin were nominated for the Excellence Award in the long-form drama category, while Han Ga Ram secured a spot for Best New Actress.",
+          "Supporting categories also featured main cast members including Kim Kang Woo, Jung Woong In, Yang Hyun Min, and Baek Sung Hyun. Additionally, Best Couple candidates included unexpected pairings such as Jang Hyuk alongside Jo Sung Ha and Baek Sung Hyun before audiences could witness their on-screen chemistry."
+        ]
+      },
+      {
+        "h": "Allegations of Promotional Favoritism",
+        "p": [
+          "As discussions grew around the early ballots, detractors voiced concerns that KBS might be leveraging the prestigious event to artificially elevate its massive 30 billion won year-end tentpole production. The presence of single-episode dramas in a dedicated one-act category further fueled the debate.",
+          "The timing of the survey led many to wonder if the broadcaster was attempting to drive early attention toward its high-budget historical lineup before the public had a chance to evaluate the content."
+        ]
+      },
+      {
+        "h": "Broadcaster Response and Voting Extension",
+        "p": [
+          "In light of mounting public and critical pressure, KBS adjusted the timeline for the survey. Originally scheduled to conclude at 5 p.m. on November 12, the deadline was pushed forward to 9 a.m. on November 30.",
+          "The network defended the procedure by stating that the poll merely serves as a recommendation vote to help narrow down final contenders. Final decisions are slated to rest with a KBS Drama Center CP meeting based on the compiled results."
+        ]
+      },
+      {
+        "h": "Broadcast Schedules and Ceremony Timeline",
+        "p": [
+          "KBS clarified that the November voting window was chosen to accommodate preparations for VCR production and guest bookings ahead of the live broadcast. They extended the review period to allow participants time to watch the shows as they debut.",
+          "Even with the extended schedule, Sword & Silence will have broadcast only six out of its 28 total episodes by the time voting wraps up, while 2026 Sound: Track will have shown just four of its eight episodes. The main ceremony is scheduled to air live on KBS2 on December 31."
+        ]
+      },
+      {
+        "h": "Background on Sword & Silence",
+        "p": [
+          "Sword & Silence marks the 35th epic historical drama produced by KBS, centering on the historical figure King Munmu of Silla. The series is scheduled to premiere on November 14, filling the Saturday and Sunday broadcast slots.",
+          "The project carries immense expectations for the network, making the pre-release award nomination controversy an even more sensitive topic for both the production team and viewers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "KBS faced widespread criticism after including unreleased casts from Sword & Silence and 2026 Sound: Track in its preliminary nomination survey for the 2026 KBS Drama Awards. In response to fairness debates and accusations of favoritism for the high-budget historical project, the broadcaster extended the voting deadline to November 30. Despite the extension, the 28-episode series will have only aired six episodes by the close of voting ahead of the live December 31 ceremony."
+        ]
+      }
+    ],
+    "facts": [
+      "The KBS survey began on November 3, 2026.",
+      "The survey deadline was extended from November 12, 2026, to November 30, 2026.",
+      "Sword & Silence is a 28-episode historical drama and KBS's 35th epic historical project.",
+      "Sword & Silence premieres on November 14, 2026, and airs on Saturdays and Sundays.",
+      "2026 Sound: Track is an eight-episode series.",
+      "Sword & Silence is budgeted at 30 billion won.",
+      "The 2026 KBS Drama Awards will air live on KBS2 on December 31, 2026."
+    ],
+    "entities": {
+      "people": [
+        "YKang",
+        "Jang Hyuk",
+        "Lee Hyun Wook",
+        "Choi Soo Rin",
+        "Han Ga Ram",
+        "Kim Kang Woo",
+        "Jung Woong In",
+        "Yang Hyun Min",
+        "Baek Sung Hyun",
+        "Jo Sung Ha"
+      ],
+      "titles": [
+        "Sword & Silence",
+        "2026 Sound: Track",
+        "Munmu"
+      ]
+    },
+    "keywords": [
+      "Sword & Silence",
+      "Jang Hyuk",
+      "2026 KBS Drama Awards",
+      "King Munmu of Silla",
+      "2026 Sound: Track"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/JjjR0Y_2d.jpg",
+        "caption": "KBS Faces Fairness Debate After Unaired 'Sword & Silence' Cast Appear in Acting Awards Nominee Survey",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 07:46:52 +0000"
   }
 };

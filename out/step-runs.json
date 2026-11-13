@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T10:51:42Z",
-    "run_id": "43203901951",
-    "status": "success",
-    "checked": {
-     "candidates": 312,
-     "detail": "RSS/Atom items across 137 sources; 4 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Dil Ki Bewafaiyaan EXCLUSIVE! Gaurav-Shraddha's Show Has TWIST That Sets It Apart, Reveals Siddharttha Vankar",
-      "Bouma Hit Or Flop? Early Audience Verdict On Dileesh Pothen And Sagar Surya's Mystery Thriller Film",
-      "Jailer 2 Box Office: Makes History As Kollywood’s Highest-Grossing Film In Telugu Language!",
-      "DCU Box Office: How Much Has James Gunn’s Universe Earned Worldwide In Just 2 Years & Across 3 Movies?",
-      "Street Fighter Worldwide Box Office: Jason Momoa-Starrer Needs $100M+ More To Reach Break-Even – Can It Get There?",
-      "Deepika borrowed Rs 10,000 from her mother; she knew at 16 she wanted to act",
-      "Mirnaa reveals she bunked college classes to watch SS Rajamouli’s ‘Magadheera’",
-      "Shah Rukh Khan jokes about Gauri Khan's house rules, says he is not allowed to complain about anything in their home",
-      "Karan Johar is shocked at actors trying to be box office gurus and demanding alpha characters: 'When are you acting exactly?'",
-      "Mani Ratnam's Inji Vellam starring Vijay Sethupathi and Sai Pallavi to release in January",
-      "5 interesting characters Nitesh Tiwari's Ramayana forgot to celebrate",
-      "What Sonia Gandhi says and doesn't say about the Bachchan family in her book",
-      "Once yearned for a home, SRK now has cyrotherapy, theatre at Mannat",
-      "Ranbir Kapoor-Sonam Kapoor To Tabu-Shabana Azmi, Bollywood Relationships You Didn’t Know Are Related",
-      "Ramayana Box Office Day 7 (Worldwide): Ranbir Kapoor, Sai Pallavi, Yash-Led Epic Inches Closer To Rs 1000 Cr Mark; Grosses Over Rs 320 Cr Overseas",
-      "Gary Oldman and Tom Hardy’s Near-Perfect Spy Thriller Officially Returns to Streaming",
-      "13 Years Later, Ridley Scott's Greatest Quote Still Has No Equal in Thriller History",
-      "The 10 Greatest Battles in Fantasy Books, Ranked",
-      "Ridley Scott’s Near-Perfect Sci-Fi Franchise Is Officially Changing Its Winning Formula",
-      "Ryan Seacrest’s $2.7 Million Stadium Project Gets Major Update"
-     ],
-     "updated": [],
-     "count": 298,
-     "detail": "304 stories, 0 duplicates removed, 8 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-12T11:43:16Z",
     "run_id": "43211476660",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "243 stories, 0 duplicates removed, 8 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T11:43:44Z",
-    "run_id": "43211476660",
+    "run_at": "2026-11-13T08:38:01Z",
+    "run_id": "43394672932",
     "status": "success",
     "checked": {
-     "candidates": 15,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 241,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Mani Ratnam's Inji Vellam Sets January Release Date Starring Vijay Sethupathi and Sai Pallavi",
-      "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach a Boiling Point",
-      "Ramayana Box Office Day 7 Worldwide: Ranbir Kapoor And Yash Starrer Nears Rs 1000 Crore Milestone",
-      "Netflix Reveals True Crime Documentary 'Russell Brand: Open Secret'"
+      "Aditi Rao Hydari reveals the family tradition she shares with husband Siddharth: “It's common that everyone laughs together”",
+      "Rana Daggubati unveils first asset of Scary Picture starring Kangana Ranaut",
+      "Zee TV's Lakshmi Niwas Completes 300 Episodes, Celebrates The Special Milestone In A Grand Manner",
+      "Moushumi Chatterjee's Husband Jayanta Mukherjee Passes Away",
+      "Ramayana Roars Loud At Global Box Office; Crosses 1000cr Worldwide In 8 Days Of Release",
+      "Bigg Boss 20: Yung DSA's Brother Slams Scout For Pushing Him, Reveals Family's Reaction: Hum Sab Bahut...",
+      "Donga Naa Koduku Hit Or Flop? Early Audience Verdict On Mouli Tanuj Prashanth And Sushmita Shetty's Film",
+      "When I Meet The Moon Episodes 19-20 Timings: Shize-Yun Li's Whirlwind Romance Begins; When & Where To Watch?",
+      "Mookuthi Amman 2 Box Office: Registers Nayanthara’s 2nd Lowest Opening Week Of 2026 In India",
+      "Suniel Shetty confirms 'Awara Paagal Deewana 2' with Akshay Kumar",
+      "Sonali recalls Salman's pranks on 'Hum Saath-Saath Hain' sets; says his antics made her angry",
+      "Bandit Queen 2: Honey says sequel follows Phoolan after prison",
+      "Actor Rani Swarnkar shares new pics with Govinda from Roopa amid affair buzz",
+      "Ryan Seacrest Reveals First Spray Tan, Leaves Costars Stunned",
+      "Sarah Paulson, 51, Responds to Plastic Surgery Rumors, Reveals Her Stance on Facelifts",
+      "Yes, Dear Star Anthony Clark’s Cause of Death Emerges After Co-stars Pay Tribute",
+      "Arnold Schwarzenegger Gives Clear Verdict on Whether He’s Still a Republican & Why",
+      "Today: Savannah Guthrie’s NBC News Future Just Got Clear Update",
+      "Apple TV's 2-Part Sci-Fi Detective Series Successfully Switches Genres After 6 Episodes",
+      "Star Wars: Masters Of The Force Officially Announced"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +0 box-office rows, 4 rows updated"
+     "count": 227,
+     "detail": "241 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1476,27 +1453,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-13T08:38:29Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Zee TV's Popular Drama Lakshmi Niwas Reaches 300-Episode Milestone With Grand On-Set Celebration",
+      "Lisa Makes History as First K-Pop Artist to Headline Las Vegas Residency with 'Viva La Lisa'",
+      "Rana Daggubati Reveals Initial Look at Horror Project Starring Kangana Ranaut",
+      "KBS Faces Fairness Debate After Unaired 'Sword & Silence' Cast Appear in Acting Awards Nominee Survey"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T13:57:41Z",
-    "run_id": "43231161443",
-    "status": "success",
-    "checked": {
-     "candidates": 312,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 299, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1910,26 +1892,27 @@
      "detail": "now 309, coming 10"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-12T11:48:47Z",
-    "run_id": "43211476660",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-13T08:38:29Z",
+    "run_id": "43394672932",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 319,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 309, coming 10"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2371,27 +2354,32 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-13T08:42:36Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1xjsev2",
+      "1yqklnv",
+      "13as7m8",
+      "17dums3",
+      "u7rkdc"
+     ],
+     "updated": [],
+     "count": 5
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T10:59:10Z",
-    "run_id": "43203901951",
-    "status": "success",
-    "checked": {
-     "candidates": 658,
-     "detail": "639 collected staging rows from readers; 223 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 4,
-     "detail": "+0 new rows, 4 updated rows, 642 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2805,19 +2793,27 @@
      "detail": "+0 new rows, 3 updated rows, 650 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T08:42:33Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": {
+     "candidates": 665,
+     "detail": "644 collected staging rows from readers; 226 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+0 new rows, 6 updated rows, 647 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3054,32 +3050,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-12T11:48:46Z",
-    "run_id": "43211476660",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Box Office Day 7 Worldwide: Ranbir Kapoor And Yash Starrer Nears Rs 1000 Crore Milestone",
-      "Netflix Reveals True Crime Documentary 'Russell Brand: Open Secret'",
-      "Mani Ratnam's Inji Vellam Sets January Release Date Starring Vijay Sethupathi and Sai Pallavi",
-      "‘The Real Housewives of Salt Lake City’ Season 7 Episode 9 Recap: Tensions Reach a Boiling Point"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3605,19 +3588,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-13T08:42:35Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Zee TV's Popular Drama Lakshmi Niwas Reaches 300-Episode Milestone With Grand On-Set Celebration",
+      "Lisa Makes History as First K-Pop Artist to Headline Las Vegas Residency with 'Viva La Lisa'",
+      "Rana Daggubati Reveals Initial Look at Horror Project Starring Kangana Ranaut",
+      "KBS Faces Fairness Debate After Unaired 'Sword & Silence' Cast Appear in Acting Awards Nominee Survey"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3883,19 +3879,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4217,31 +4213,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-12T10:52:18Z",
-    "run_id": "43203901951",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 298 still unprocessed; today by category: movies 8/6, tv_dramas 7/4, episodes 0/2, box_office 10/6, celebrities_events 7/5, upcoming_releases 2/4, ott_streaming 5/4, trailers 3/3, awards 1/2, music_ost 3/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Mani Ratnam's Inji Vellam Starring Vijay Sethupathi and Sai Pallavi Sets January Release",
-      "Dancing With the Stars Grammy Night Eliminates Jenna Dewan and Unveils Semifinalists",
-      "Jailer 2 Makes History As Kollywood's Highest-Grossing Film In Telugu",
-      "Survivor Season 51 Episode 8 Recap: A Twisting Pair Dynamic and High-Stakes Tribal Council"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4738,26 +4722,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-13T08:38:28Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 227 still unprocessed; today by category: movies 12/6, tv_dramas 5/4, episodes 1/2, box_office 6/6, celebrities_events 6/5, upcoming_releases 1/4, ott_streaming 3/4, trailers 1/3, awards 2/2, music_ost 1/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Zee TV's Popular Drama Lakshmi Niwas Reaches 300-Episode Milestone With Grand On-Set Celebration",
+      "Lisa Makes History as First K-Pop Artist to Headline Las Vegas Residency with 'Viva La Lisa'",
+      "Rana Daggubati Reveals Initial Look at Horror Project Starring Kangana Ranaut",
+      "KBS Faces Fairness Debate After Unaired 'Sword & Silence' Cast Appear in Acting Awards Nominee Survey"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-12T10:53:31Z",
-    "run_id": "43203901951",
-    "status": "success",
-    "checked": {
-     "candidates": 47,
-     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5064,24 +5053,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-13T08:39:53Z",
+    "run_id": "43394672932",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 49,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 414,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5421,24 +5412,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 34,
+     "count": 404,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5783,19 +5774,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 38,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6045,19 +6041,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6292,19 +6288,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6585,19 +6581,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6838,19 +6834,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "tavily_boxoffice": [
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7080,19 +7076,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7345,30 +7341,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-11T12:52:04Z",
-    "run_id": "43023831972",
-    "status": "success",
-    "checked": {
-     "candidates": 532,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 519"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7855,19 +7840,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-13T08:38:47Z",
+    "run_id": "43394672932",
+    "status": "success",
+    "checked": {
+     "candidates": 546,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 14; attempt cooldown deferred: 532"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8107,19 +8103,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-12T10:59:23Z",
-    "run_id": "43203901951",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8369,8 +8365,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-13T08:42:43Z",
+    "run_id": "43394672932",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-13T07:52:20Z"
+ "updated_at": "2026-11-13T08:42:43Z"
 }
