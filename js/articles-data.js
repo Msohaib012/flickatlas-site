@@ -136074,5 +136074,411 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 18:51:44 +0530"
+  },
+  "8ofn52": {
+    "id": "8ofn52",
+    "type": "news",
+    "headline": "India automobile industry records historic October growth with passenger vehicle sales hitting 5.19 lakh units",
+    "dek": "Latest figures released by the Society of Indian Automobile Manufacturers show massive surges across passenger vehicles, two-wheelers, and three-wheelers during October 2026.",
+    "body": [
+      {
+        "h": "Record Passenger Vehicle Sales in October",
+        "p": [
+          "The Indian automobile sector experienced unprecedented growth during October 2026, registering its highest-ever performance for the month. According to statistics published by the Society of Indian Automobile Manufacturers, passenger vehicle sales saw a notable year-on-year increase of 12.4 per cent, climbing to a remarkable 5.19 lakh units.",
+          "This performance marks a significant milestone for the industry as monthly figures crossed the crucial 5 lakh threshold. In comparison, passenger vehicle sales were recorded at 4.62 lakh units during the corresponding month in the previous year."
+        ]
+      },
+      {
+        "h": "Robust Growth Across Two-Wheeler Markets",
+        "p": [
+          "Alongside passenger cars, the two-wheeler sector demonstrated substantial upward movement with a 16.1 per cent rise in sales. Total two-wheeler transactions reached 25.78 lakh units for the month, improving significantly from the 22.20 lakh units registered in October 2025.",
+          "A closer look at the segment data indicates that scooter sales jumped by 31.6 per cent to touch 10.97 lakh units, up from 8.34 lakh units the previous year. Meanwhile, motorcycle sales expanded by 6.6 per cent to reach 14.23 lakh units."
+        ]
+      },
+      {
+        "h": "Three-Wheeler Surge and Structural Drivers",
+        "p": [
+          "Three-wheeler vehicles also enjoyed a period of strong expansion, registering a 25.7 per cent growth rate. Total sales in this category climbed to 1.03 lakh units, compared with 82,190 units during the same period in October 2025.",
+          "Industry leadership pointed out that ongoing demand for three-wheelers continues to be supported by last-mile connectivity needs and accelerated electrification trends acting as core structural drivers."
+        ]
+      },
+      {
+        "h": "Insights From SIAM Leadership",
+        "p": [
+          "Rajesh Menon, who serves as the Director General of SIAM, offered comments regarding the overall health and momentum of the domestic market. He emphasized that the Indian automobile landscape maintains a healthy trajectory of consumer demand.",
+          "Menon additionally noted that the two-wheeler category continues to draw advantages from better credit availability alongside steady replacement demand spanning across both rural and urban territories."
+        ]
+      },
+      {
+        "h": "Total Production and Manufacturing Volumes",
+        "p": [
+          "The broader scope of automobile production in India also scaled up notably during the month under review. Overall output—incorporating passenger vehicles, three-wheelers, two-wheelers, and quadricycles—elevated by 28.64 per cent.",
+          "Total production numbers rose to 36.19 lakh units in October 2026, marking a substantial jump from the 28.13 lakh units manufactured in October 2025."
+        ]
+      },
+      {
+        "h": "Export Performance and International Shipments",
+        "p": [
+          "International shipments for the Indian auto sector witnessed widespread improvements as well, registering a total export increase of 26.06 per cent. Overseas deliveries grew to 6.82 lakh units from 5.41 lakh units during October of the preceding year.",
+          "Specific breakdown figures reveal that two-wheeler exports advanced by 26.48 per cent to 5.44 lakh units, while three-wheeler exports improved by 26.69 per cent to reach 53,039 units."
+        ]
+      },
+      {
+        "h": "Notable Surge in Scooter Exports",
+        "p": [
+          "Among all export categories, scooter shipments displayed the most dramatic upward shift. Scooter exports surged by an impressive 80.42 per cent, climbing to 85,292 units compared to 47,274 units in October 2025.",
+          "Additionally, passenger vehicle exports—calculated excluding manufacturers whose specific data remained unavailable—grew by 21.79 per cent to reach 83,716 units from the previous year's 68,738 units."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "SIAM released data showing that India's passenger vehicle sales reached a record 5.19 lakh units in October 2026. The auto sector also saw strong growth in two-wheeler and three-wheeler segments alongside increased overall production and exports."
+        ]
+      }
+    ],
+    "facts": [
+      "Passenger vehicle sales hit a record 5.19 lakh units in October 2026.",
+      "Passenger vehicle sales stood at 4.62 lakh units in October 2025.",
+      "Two-wheeler sales rose 16.1 per cent to 25.78 lakh units in October 2026.",
+      "Two-wheeler sales were recorded at 22.20 lakh units in October 2025.",
+      "Three-wheeler sales reached 1.03 lakh units in October 2026 compared to 82,190 units in October 2025.",
+      "Scooter sales surged 31.6 per cent to 10.97 lakh units from 8.34 lakh units.",
+      "Motorcycle sales increased 6.6 per cent to 14.23 lakh units.",
+      "Total automobile production increased 28.64 per cent to 36.19 lakh units in October 2026 from 28.13 lakh units in October 2025.",
+      "Automobile exports registered a 26.06 per cent increase to 6.82 lakh units from 5.41 lakh units.",
+      "Two-wheeler exports rose 26.48 per cent to 5.44 lakh units.",
+      "Three-wheeler exports increased 26.69 per cent to 53,039 units.",
+      "Scooter exports witnessed growth of 80.42 per cent, rising to 85,292 units from 47,274 units.",
+      "Passenger vehicle exports increased 21.79 per cent to 83,716 units from 68,738 units."
+    ],
+    "entities": {
+      "people": [
+        "Rajesh Menon"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "SIAM October auto sales",
+      "passenger vehicle sales 5.19 lakh",
+      "two wheeler sales October 2026",
+      "Rajesh Menon SIAM"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/13/6570-auto-sales-ani-1.jpg",
+        "caption": "India automobile industry records historic October growth with passenger vehicle sales hitting 5.19 lakh units",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T14:55:04Z"
+  },
+  "1us735n": {
+    "id": "1us735n",
+    "type": "news",
+    "headline": "Why Cupertino Is the Ultimate Binge-Worthy Legal Drama for Fans Looking Beyond The Lincoln Lawyer",
+    "dek": "For television enthusiasts searching for a brilliant new courtroom thriller to fill the void left by Netflix's hit series, the first six episodes of Cupertino offer a sharp, timely alternative streaming completely free right now.",
+    "body": [
+      {
+        "h": "The Creators Behind the Courtroom Masterpiece",
+        "p": [
+          "Over the past few decades, few television creators have established as formidable a reputation in the legal drama genre as David E. Kelley alongside Robert and Michelle King. While Kelley cemented his legacy with iconic shows like L.A. Law, The Practice, Boston Legal, Goliath, and his recent adaptation of The Lincoln Lawyer, the Kings carved out their own distinct niche of prestige television.",
+          "Renowned for crafting the critically acclaimed, long-running hit series The Good Wife, Robert and Michelle King successfully expanded their universe into successful spin-offs including The Good Fight and Elsbeth. After briefly exploring alternative narrative genres in recent years, the creative duo has made a triumphant return to courtroom television with Cupertino, a blistering new legal thriller that has already captured the attention of viewers and critics alike."
+        ]
+      },
+      {
+        "h": "A High-Stakes Legal Battle in Silicon Valley",
+        "p": [
+          "Cupertino officially premiered on CBS, immediately plunging audiences into the competitive and cutthroat environment of California's technological capital. The narrative centers around Michael Pierce, portrayed brilliantly by Mike Colter, who operates as a high-powered corporate attorney nestled deep in the heart of Silicon Valley.",
+          "Everything changes when Michael is ruthlessly swindled out of his company stock options and ousted by the very tech start-up he represents. Seeking retribution, he decides to establish a brand-new practice alongside Olivia Siffre, played by Rachel Keller, a disgraced litigator who has similarly lost her position and is equally driven by a desire for payback."
+        ]
+      },
+      {
+        "h": "Defending the Underdog Against Corporate Tech Giants",
+        "p": [
+          "Operating their fledgling legal practice, Michael and Olivia dedicate their efforts to defending everyday clients who have been exploited or discarded by the tech industry. Their personal professional setbacks directly fuel their new mission, establishing massive stakes as they strive to help underdogs triumph over wealthy and powerful corporate entities.",
+          "Unlike traditional legal procedurals that focus heavily on standard criminal cases, the series distinguishes itself by directly indicting modern technological perils. The narrative fearlessly tackles murderous chatbots, controversial prediction markets, corrupt artificial intelligence conglomerates, and other topical issues currently plaguing the digital landscape."
+        ]
+      },
+      {
+        "h": "Tackling Ethical Dilemmas in Episode 6",
+        "p": [
+          "The depth of the series' social commentary is prominently displayed in pivotal installments such as Episode 6, titled 'Harper.' In this compelling chapter, Michael and Olivia take on a high-stakes case involving an advanced artificial intelligence algorithm that heartlessly denies a woman a critical medical transplant in favor of an affluent patient.",
+          "The attorneys pull out all the stops to ensure their client receives proper treatment and justice. This storyline exemplifies how the show boldly confronts the severe ethical complexities of Silicon Valley, driven by the crackling wit and caustic satire that have long defined the Kings' sharp writing style."
+        ]
+      },
+      {
+        "h": "Critical Acclaim and a Flawless Rotten Tomatoes Score",
+        "p": [
+          "The series has earned immense critical acclaim, boasting a pristine 100 percent approval rating on Rotten Tomatoes. Reviewers have widely praised the narrative for its heartfelt human core and its fearless willingness to dissect the deep moral ambiguity of powerful tech conglomerates.",
+          "In addition to the provocative writing, critics have heavily extolled the palpable chemistry between leading actors Mike Colter and Rachel Keller. The production is further elevated by a stellar supporting cast featuring performances from Ella Stiller, Nik Dodani, Busy Philipps, and Renée Elise Goldsberry."
+        ]
+      },
+      {
+        "h": "Creative Reunions and Future Episode Schedules",
+        "p": [
+          "For Mike Colter, stepping into the role of Michael Pierce represents an exciting creative reunion. The actor previously collaborated with showrunners Robert and Michelle King on the supernatural drama hit Evil, and their established creative shorthand clearly fuels his magnetic performance here.",
+          "Beyond the initial batch of episodes, Cupertino's expansive first season is slated to run for a total of 20 episodes. Following the release of Episode 7, titled 'Yungwood,' new weekly installments continue to air regularly on Thursday nights, giving audiences a steady stream of courtroom drama."
+        ]
+      },
+      {
+        "h": "Where to Stream the First Six Episodes for Free",
+        "p": [
+          "Despite receiving unanimous praise and critical adoration from television reviewers, CBS has not yet officially renewed the legal thriller for a second season. Fans eager to see whether the network will pick up the show for a sophomore run can stay tuned for future announcements.",
+          "In the meantime, for viewers looking for an ideal placeholder while awaiting the final return of The Lincoln Lawyer, the first six episodes of Cupertino are currently available to stream completely free on Pluto TV."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Cupertino has emerged as a critically acclaimed legal thriller created by Robert and Michelle King, starring Mike Colter and Rachel Keller as lawyers fighting corrupt tech corporations in Silicon Valley. With a perfect 100 percent rating on Rotten Tomatoes, the show's first six episodes are currently streaming for free on Pluto TV as viewers await further renewal news from CBS."
+        ]
+      }
+    ],
+    "facts": [
+      "Cupertino premiered on CBS on October 8, 2026.",
+      "The first six episodes of Cupertino achieved a 100% score on Rotten Tomatoes as of November 12, 2026.",
+      "The first six episodes are streaming for free on Pluto TV.",
+      "Episode 6 is titled 'Harper' and Episode 7 is titled 'Yungwood'.",
+      "Season 1 is expected to run for 20 episodes."
+    ],
+    "entities": {
+      "people": [
+        "David E. Kelley",
+        "Robert King",
+        "Michelle King",
+        "Jake Dee",
+        "Michael Pierce",
+        "Mike Colter",
+        "Olivia Siffre",
+        "Rachel Keller",
+        "Ella Stiller",
+        "Nik Dodani",
+        "Busy Philipps",
+        "Renée Elise Goldsberry"
+      ],
+      "titles": [
+        "The Lincoln Lawyer",
+        "L.A. Law",
+        "The Practice",
+        "Boston Legal",
+        "Goliath",
+        "The Good Wife",
+        "The Good Fight",
+        "Elsbeth",
+        "Cupertino",
+        "Evil",
+        "Harper",
+        "Yungwood"
+      ]
+    },
+    "keywords": [
+      "Cupertino legal thriller",
+      "Mike Colter Cupertino TV show",
+      "Cupertino CBS series",
+      "Robert and Michelle King Cupertino"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/the_lincoln_lawyer_n_s4_e9_00_25_52_09r.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Why Cupertino Is the Ultimate Binge-Worthy Legal Drama for Fans Looking Beyond The Lincoln Lawyer",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 14:30:17 GMT"
+  },
+  "1p91u0": {
+    "id": "1p91u0",
+    "type": "news",
+    "headline": "Anirudh Ravichander Steps Back From Professional Duties Following Marriage to Kavya Maran",
+    "dek": "Prominent music director Anirudh Ravichander has reportedly taken a temporary leave from his active project schedule following his wedding to businesswoman Kavya Maran, with plans to return to work in January 2027.",
+    "body": [
+      {
+        "h": "Taking Time Off After Nuptials",
+        "p": [
+          "Renowned composer Anirudh Ravichander has reportedly chosen to step away from his busy professional schedule following his marriage. Industry reports indicate that the musician will take an extended leave to focus on personal milestones before returning to his studio commitments.",
+          "While details continue to circulate across various entertainment networks, the composer has not released a formal statement regarding the timeline of his sabbatical or his specific return date."
+        ]
+      },
+      {
+        "h": "An Intimate Wedding Ceremony",
+        "p": [
+          "The composer and businesswoman Kavya Maran reportedly celebrated their union on November 11, 2026. The celebration followed a simple self-respect marriage format rather than traditional, elaborate rituals.",
+          "Instead of standard jewelry exchanges, the couple chose to trade pendants during the ceremony. Anirudh later shared glimpses of the twin celebrations on Instagram alongside a heartfelt caption commemorating the date."
+        ]
+      },
+      {
+        "h": "Attire and Celebratory Fashion",
+        "p": [
+          "For the wedding events, Kavya Maran wore a blush-pink floor-length lehenga detailed with intricate floral embroidery, beadwork, and sequins, complemented by a fitted short-sleeved blouse.",
+          "Anirudh Ravichander coordinated with his bride by wearing an ivory-beige traditional outfit that featured a matching veshti, an embroidered jacket, and a blush-pink silk shirt, finished with layered necklaces and beige suede loafers."
+        ]
+      },
+      {
+        "h": "Background of the Bride",
+        "p": [
+          "Kavya Maran is well-known in both business and sporting circles as the daughter of Sun Group chairman Kalanithi Maran. She is widely recognized for her leadership role with the Sunrisers Hyderabad franchise.",
+          "Her passionate and expressive reactions during Indian Premier League matches frequently draw significant attention and engagement across multiple social media platforms."
+        ]
+      },
+      {
+        "h": "Anticipated Return to Cinema",
+        "p": [
+          "According to reports from Valai Pechu, Anirudh is expected to resume his professional responsibilities around January 2027. His comeback project is slated to be the teaser for Kamal Haasan's upcoming film.",
+          "That feature is anticipated to enter full-fledged production around the same timeframe, marking the musician's formal re-entry into active film scoring."
+        ]
+      },
+      {
+        "h": "Upcoming Musical Slate",
+        "p": [
+          "Before stepping away, Anirudh finished composing the soundtrack for Nelson's 'Jailer 2', which stars Rajinikanth. His extensive lineup of future projects includes several major upcoming titles.",
+          "Among the confirmed films on his roster are Rajinikanth's 'Dharman', 'Dare Devil', 'Indian 3', Kamal Haasan's 'Sandiyar', Allu Arjun's 'AA23', and STR's 'Arasan'."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Anirudh Ravichander has reportedly taken a temporary break from his career following his marriage to Kavya Maran on November 11, 2026. Industry reports indicate he will remain on leave until January 2027 before returning to work on upcoming projects like Kamal Haasan's 'Sandiyar'."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander married Kavya Maran on November 11, 2026.",
+      "The wedding was a simple self-respect marriage ceremony where they exchanged pendants.",
+      "Anirudh is expected to resume work in January 2027.",
+      "Kavya Maran is the daughter of Sun Group chairman Kalanithi Maran and is associated with Sunrisers Hyderabad.",
+      "Anirudh's upcoming projects include 'Jailer 2', 'Dharman', 'Dare Devil', 'Indian 3', 'Sandiyar', 'AA23', and 'Arasan'."
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Kalanithi Maran",
+        "Kamal Haasan",
+        "Rajinikanth",
+        "Nelson",
+        "Allu Arjun",
+        "STR"
+      ],
+      "titles": [
+        "Sandiyar",
+        "Jailer 2",
+        "Dharman",
+        "Dare Devil",
+        "Indian 3",
+        "AA23",
+        "Arasan"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander",
+      "Kavya Maran",
+      "Sandiyar",
+      "Jailer 2"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135806558,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Anirudh Ravichander Steps Back From Professional Duties Following Marriage to Kavya Maran",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T19:47:27+05:30"
+  },
+  "6tzilm": {
+    "id": "6tzilm",
+    "type": "news",
+    "headline": "Bigg Boss 20 Episode 69 Release Schedule And Scout OP Shocking Bald Transformation",
+    "dek": "As Bigg Boss 20 enters its tenth week, contestant Scout OP shaves his head following a major disagreement with Love Gill, while viewers prepare for the latest episode release.",
+    "body": [
+      {
+        "h": "Entering Week Ten Of The Competition",
+        "p": [
+          "The reality series Bigg Boss 20 is officially progressing into its tenth week, bringing intense pressure to the contestants who currently face eviction nominations. With the grand finale drawing closer, every single elimination carries the weight of completely altering the trajectory of the remaining housemates.",
+          "As the upcoming Weekend Ka Vaar approaches, anticipation and anxiety run high among the fans who are eager to discover which participant will ultimately be shown the exit door from the house."
+        ]
+      },
+      {
+        "h": "Previous Evictions And Season Background",
+        "p": [
+          "Since the premiere of Bigg Boss 20 on September 6, a total of six contestants have already been eliminated from the competition, raising the stakes for everyone left inside.",
+          "Rohed Khan was the first person to leave the house, followed sequentially by Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan, leaving the current roster fighting much harder to survive."
+        ]
+      },
+      {
+        "h": "High Stakes For Nominated Housemates",
+        "p": [
+          "The recent Week 10 nominations have significantly escalated the tension within the living quarters, with multiple participants depending heavily on the audience verdict.",
+          "These nominated individuals are banking entirely on their personal fan following and incoming votes to safely navigate through the latest round of eliminations."
+        ]
+      },
+      {
+        "h": "Scout OP And Love Gill Major Clash",
+        "p": [
+          "A dramatic and unexpected twist unfolds in the house involving gaming creator Scout OP, who takes a drastic step after getting into a heated argument with Love Gill.",
+          "The disagreement reportedly sparked after Scout made a remark regarding Love's pyjamas, leading her to confront him about his behavior and demand an explanation for his jokes."
+        ]
+      },
+      {
+        "h": "The Shocking Bald Transformation",
+        "p": [
+          "During the altercation, Scout climbs the artificial snake structure in the garden area while Uditi voices concern, before walking into the bathroom and completely shaving off all his hair.",
+          "As the track Bekhayali plays in the background, Scout emerges completely bald, leaving Love visibly stunned and questioning the emotional motives behind his sudden transformation."
+        ]
+      },
+      {
+        "h": "Streaming And Broadcast Schedule",
+        "p": [
+          "Fans can catch the latest developments as the newest episode becomes available on digital and television platforms on November 13.",
+          "Viewers can stream the episode on JioHotstar at 9 PM, while the television broadcast is scheduled for Colors TV at 10:30 PM."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Bigg Boss 20 enters its tenth week with nominated contestants awaiting eviction results as the finale nears. Meanwhile, participant Scout OP shaves his head following a heated disagreement with housemate Love Gill, ahead of the latest episode release on JioHotstar and Colors TV."
+        ]
+      }
+    ],
+    "facts": [
+      "Bigg Boss 20 is in its tenth week.",
+      "The season premiered on September 6.",
+      "Six contestants have been eliminated so far: Rohed Khan, Isha Rikhi, Rhiti Tiwari, Aman Gandhi, Mary Kom, and Aasif Khan.",
+      "Scout OP shaved his head completely after a clash with Love Gill.",
+      "The episode streams on JioHotstar at 9 PM and broadcasts on Colors TV at 10:30 PM on November 13."
+    ],
+    "entities": {
+      "people": [
+        "Salman Khan",
+        "Rohed Khan",
+        "Isha Rikhi",
+        "Rhiti Tiwari",
+        "Aman Gandhi",
+        "Mary Kom",
+        "Aasif Khan",
+        "Scout OP",
+        "Love Gill",
+        "Uditi",
+        "Shahid Kapoor"
+      ],
+      "titles": [
+        "Bigg Boss 20",
+        "Kabir Singh"
+      ]
+    },
+    "keywords": [
+      "Bigg Boss 20",
+      "Scout OP bald",
+      "Love Gill",
+      "Bigg Boss 20 Episode 69"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/biggboss20nov13eptimescoutbaldd1-99431794578506.jpg",
+        "caption": "Bigg Boss 20 Episode 69 Release Schedule And Scout OP Shocking Bald Transformation",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:35:27 +0530"
   }
 };
