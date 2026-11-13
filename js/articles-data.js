@@ -138084,5 +138084,378 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-13T21:40:37+05:30"
+  },
+  "km9rcs": {
+    "id": "km9rcs",
+    "type": "news",
+    "headline": "Samay Raina Teases Huma Qureshi About Yash’s 'Toxic' on 'India’s Got Latent 2'",
+    "dek": "Actor Huma Qureshi faced playful teasing from host Samay Raina regarding her recent film Toxic on the stage of India’s Got Latent 2, sparking a witty exchange.",
+    "body": [
+      {
+        "h": "An Unexpected Tease on Stage",
+        "p": [
+          "During a recent episode of the popular digital show India’s Got Latent 2, host Samay Raina brought up the theatrical performance of the movie Toxic. Actor Huma Qureshi, who played the character Elizabeth in the venture, appeared as a special guest on the programme.",
+          "The conversation quickly turned playful when the host decided to address the movie's weak run in theatres directly in front of the studio audience and guest panel."
+        ]
+      },
+      {
+        "h": "The Host and Guest Exchange",
+        "p": [
+          "Samay Raina delivered a sharp remark to the guest, noting that people usually appear on his show and then experience a box office failure. He singled out the actor by stating she was the first person to experience a box office flop and then choose to show up on the platform.",
+          "Huma Qureshi did not let the comment slide without a response. She delivered a clever comeback, pointing out that while she acted in a film titled Toxic, the host himself behaved in a toxic manner in real life."
+        ]
+      },
+      {
+        "h": "Debating Hate-Watching and Viewership",
+        "p": [
+          "Following the quick exchange, Samay laughed off the remark and joked that at least people tune in to watch him. The guest countered by suggesting that modern audiences frequently engage in hate-watching, driving high viewership numbers that keep programmes at the top of the charts.",
+          "The host acknowledged this perspective, noting that the same logic might apply to theatrical releases like Toxic: A Fairytale for Grown-Ups. He added that he had noticed numerous intimate sequences just from watching promotional trailers for the feature."
+        ]
+      },
+      {
+        "h": "A Polite Persona Versus Real Demeanor",
+        "p": [
+          "The banter continued as the guest described the host's interviewing style. She remarked that he maintains a very polite demeanor when extending invitations to personalities, but turns sharp once the cameras start rolling.",
+          "The lighthearted verbal sparring showcased the relaxed atmosphere of the digital series, where guests frequently engage in unscripted banter and humorous confrontations with the primary creator."
+        ]
+      },
+      {
+        "h": "Background on Toxic and Its Theatrical Run",
+        "p": [
+          "The project marked a major return for lead actor Yash, serving as his first cinematic outing in four years following the massive success of the KGF franchise. The feature was mounted on a grand budget with an expansive ensemble cast.",
+          "Despite high expectations and significant industry anticipation, the movie struggled commercially in cinemas. Its total earnings ultimately concluded below the Rs 350 crore mark at the box office."
+        ]
+      },
+      {
+        "h": "Direction, Cast, and Viewer Reception",
+        "p": [
+          "Geetu Mohandas helmed the project as director, leading a cast that featured Nayanthara, Kiara Advani, Rukmini Vasanth, and Tara Sutaria. The feature made its way to the big screen on August 26 after securing clearance from the CBFC without cuts, receiving an A rating.",
+          "Following its release, audiences and critics extensively discussed the film's intimate sequences and controversial visual choices concerning female characters. Many viewers specifically pointed out the heavy presence of violence, sensual scenes, and a perceived lack of emotional depth in the narrative."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Huma Qureshi appeared as a guest on Samay Raina's show India’s Got Latent 2, where the host jokingly criticized her for appearing on the platform after her recent film Toxic flopped. The two exchanged witty remarks about hate-watching, trailers, and the film's underperformance at the box office below Rs 350 crore."
+        ]
+      }
+    ],
+    "facts": [
+      "Huma Qureshi played Elizabeth in Toxic: A Fairytale for Grown-Ups.",
+      "Toxic released in theatres on August 26.",
+      "The film was cleared by the CBFC with an A rating without cuts.",
+      "Toxic finished its theatrical run below Rs 350 crore.",
+      "Geetu Mohandas directed Toxic."
+    ],
+    "entities": {
+      "people": [
+        "Samay Raina",
+        "Huma Qureshi",
+        "Yash",
+        "Geetu Mohandas",
+        "Nayanthara",
+        "Kiara Advani",
+        "Rukmini Vasanth",
+        "Tara Sutaria"
+      ],
+      "titles": [
+        "Toxic: A Fairytale for Grown-Ups",
+        "India's Got Latent",
+        "KGF"
+      ]
+    },
+    "keywords": [
+      "Huma Qureshi",
+      "Samay Raina",
+      "Toxic",
+      "Indias Got Latent 2",
+      "Yash"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135811518,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Samay Raina Teases Huma Qureshi About Yash’s 'Toxic' on 'India’s Got Latent 2'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T22:47:40+05:30"
+  },
+  "1ms0m00": {
+    "id": "1ms0m00",
+    "type": "news",
+    "headline": "Netflix to Shut Down Zack Snyder's 'Blood Line: A Rebel Moon Game' in December 2026",
+    "dek": "Netflix is ending support for its online-only mobile game Blood Line: A Rebel Moon Game, setting a final cutoff date of December 9th, 2026.",
+    "body": [
+      {
+        "h": "The End of the Rebel Moon Mobile Game",
+        "p": [
+          "Netflix has announced that Blood Line: A Rebel Moon Game will officially shut down, with players having until December 9th, 2026, to experience the title. Unlike typical third-party titles that exit digital storefronts due to expiring licensing windows, this project is built entirely on proprietary Netflix intellectual property. Because the experience is entirely online-driven and lacks an offline mode, the closure means the game will vanish completely with no alternative way to access it.",
+          "Developer Super Evil Megacorp has not provided a public statement addressing the termination or indicating if the title might eventually find a home outside of the Netflix ecosystem. Industry observers note that such a transition remains unlikely, especially considering that the overall player base for the mobile application was relatively small."
+        ]
+      },
+      {
+        "h": "Development History and Release Timeline",
+        "p": [
+          "The project was initially teased by filmmaker Zack Snyder during Gamescom in August 2023 before receiving an official showcase at Geeked Week in September 2024. Handled by Super Evil Megacorp—the studio recognized for titles like Teenage Mutant Ninja Turtles: Splintered Fate and Vainglory—the release window shifted from an initial 2024 target to 2025. Following a closed beta in the spring, the top-down cooperative action title launched globally for iOS and Android on July 15th, 2025.",
+          "Designed for squads of one to four participants, the gameplay dropped users onto the warrior planet of Krypt following the events of The Scargiver. Players could choose from four distinct classes—the Bannerguard, the Evoker, the Kindred, and the Forsaken—to build a resistance movement against the oppressive Motherworld."
+        ]
+      },
+      {
+        "h": "Audience Reception and Post-Launch Updates",
+        "p": [
+          "Despite its slick mobile presentation, the title struggled to secure a substantial audience. When initial engagement metrics for Netflix games were published covering the period from May to mid-August 2025, Blood Line failed to break into the global top 15, trailing behind other offerings such as Squid Game: Unleashed, GTA: San Andreas, and World of Peppa Pig.",
+          "Initial post-launch support proved robust. The Dark Hunters content update arrived in September 2025 introducing fresh missions and opponents, followed by a Winter Update on November 18th, 2025. The latter drop incorporated custom banners, victory poses, and two distinct Battle Passes known as Force of Nature and Will of the Oracle. In retrospect, developer notes thanking those who fought for the future of Krypt resembled a quiet farewell, as substantive updates ceased afterward."
+        ]
+      },
+      {
+        "h": "Broader Context of Netflix Game Removals",
+        "p": [
+          "The shutdown places Blood Line alongside a growing catalog of more than 50 mobile titles retired by the streaming platform. This trend stings particularly because Netflix has increasingly steered its gaming strategy toward adaptations of its own original franchises, a criterion that this particular project fulfilled before meeting the same fate.",
+          "Other high-profile casualties within the streaming service's proprietary game catalog include Stranger Things: Puzzle Tales, which marked the first major permanent removal in December 2024, alongside Shadow and Bone: Enter the Fold, which was deactivated shortly before this announcement."
+        ]
+      },
+      {
+        "h": "Current Status of the Rebel Moon Franchise",
+        "p": [
+          "With the upcoming removal of the mobile game, the sci-fi universe currently has no active projects running on the streaming platform. Co-writer Kurt Johnstad and director Zack Snyder have previously discussed the potential for a third film, noting that continuation depends heavily on audience discovery of the Director's Cuts and a significant shift in viewership momentum.",
+          "Viewership figures for the cinematic entries showed a distinct downward trajectory. Part Two accumulated 76 million lifetime views, sitting roughly 44 percent lower than the 135.6 million views garnered by Part One, while the Director's Cuts achieved roughly 14 million views each. Although the platform has not formally cancelled the film franchise, active development appears to be on indefinite hold."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has confirmed that Blood Line: A Rebel Moon Game will permanently shut down on December 9th, 2026, due to a lack of sustained player engagement. Developed by Super Evil Megacorp, the online-only mobile title launched in July 2025 but struggled to find a lasting audience alongside other platform games. Its removal leaves the broader franchise without any active projects on the streaming service."
+        ]
+      }
+    ],
+    "facts": [
+      "Blood Line: A Rebel Moon Game shuts down on December 9th, 2026.",
+      "Zack Snyder first teased the game at Gamescom in August 2023.",
+      "The game was unveiled at Geeked Week in September 2024.",
+      "Super Evil Megacorp developed the game.",
+      "The game launched worldwide on iOS and Android on July 15th, 2025.",
+      "Part Two of Rebel Moon received 76 million lifetime views.",
+      "Part One of Rebel Moon received 135.6 million views.",
+      "The Director's Cuts managed around 14 million views each."
+    ],
+    "entities": {
+      "people": [
+        "Zack Snyder",
+        "Kurt Johnstad"
+      ],
+      "titles": [
+        "Blood Line: A Rebel Moon Game",
+        "Teenage Mutant Ninja Turtles: Splintered Fate",
+        "Vainglory",
+        "Squid Game: Unleashed",
+        "GTA: San Andreas",
+        "World of Peppa Pig",
+        "Stranger Things: Puzzle Tales",
+        "Shadow and Bone: Enter the Fold",
+        "Rebel Moon"
+      ]
+    },
+    "keywords": [
+      "Blood Line A Rebel Moon Game",
+      "Netflix Rebel Moon game shutdown",
+      "Super Evil Megacorp Netflix game",
+      "Zack Snyder Rebel Moon Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/rebel-moon-game-shutting-down-netflix.jpg",
+        "caption": "Netflix to Shut Down Zack Snyder's 'Blood Line: A Rebel Moon Game' in December 2026",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:17:01 +0000"
+  },
+  "1sfaeky": {
+    "id": "1sfaeky",
+    "type": "news",
+    "headline": "Pankaj Tripathi Explains His Vision of an Alpha Male and Discusses His Latest Romantic Comedy Project",
+    "dek": "Actor Pankaj Tripathi opens up about his perspective on leadership, traditional societal expectations of men, and his decision to sign the romantic comedy Parivarik Manuranjan.",
+    "body": [
+      {
+        "h": "Redefining the Alpha Male",
+        "p": [
+          "Renowned actor Pankaj Tripathi has recently shared his unique perspective on what constitutes an alpha male. In a discussion surrounding his latest professional venture, the romantic comedy Parivarik Manuranjan, the actor offered a thoughtful breakdown of modern masculinity.",
+          "His remarks arrived in the wake of significant attention drawn by the film's trailer, where his on-screen persona declares a transition from a beta status to an alpha. This particular line resonated deeply with audiences and sparked widespread conversations across various media platforms regarding conventional cinematic tropes."
+        ]
+      },
+      {
+        "h": "A Leader Without Aggression",
+        "p": [
+          "Elaborating on his personal definition during an interview with Hindustan Times, Tripathi rejected the loud, aggressive stereotypes often glorified in mainstream cinema. He characterized a true alpha male simply as someone capable of genuine leadership devoid of performative toughness.",
+          "The actor emphasized that true strength does not require performative dominance or aggressive displays. Instead, leadership, in his view, is rooted in responsibility, empathy, and steadiness rather than superficial displays of power."
+        ]
+      },
+      {
+        "h": "Challenging Generations of Taglines",
+        "p": [
+          "Tripathi also took the opportunity to address old cultural sayings and clichés that dictate how men are conditioned to behave from a very young age. He noted expressions like men do not shed tears or implying a lack of emotional vulnerability.",
+          "According to the actor, these minor phrases and admonishments have been systematically handed down across multiple generations. He pointed out how deeply these ingrained notions influence societal views on emotional expression and gender roles."
+        ]
+      },
+      {
+        "h": "Navigating the Woke Label",
+        "p": [
+          "Addressing potential pushback from critics and commentators, Tripathi acknowledged that expressing such progressive viewpoints might invite cynicism. He remarked that certain readers in the comment sections might accuse him of trying to act overly woke.",
+          "Despite anticipating this label, the actor asserted that being conscious and aware of cultural shifts is genuinely necessary. However, he maintained that he avoids adopting hollow or exaggerated stances purely for the sake of starting sensational public debates."
+        ]
+      },
+      {
+        "h": "Choosing Simplicity in Storytelling",
+        "p": [
+          "Shifting focus to his reasons for joining the project, Tripathi explained that the script immediately resonated with him due to its grounded nature. He appreciated that the narrative felt close to real life, offering an authentic slice-of-life experience without relying on cheap gimmicks.",
+          "The actor criticized the current trend where filmmakers frequently rely on shock value and elaborate screenplays to capture attention. He expressed a deep appreciation for ordinary, straightforward storytelling, noting that such projects have unfortunately become rare in the contemporary film industry."
+        ]
+      },
+      {
+        "h": "An Instant Decision",
+        "p": [
+          "Recalling how quickly he came on board, Tripathi mentioned that receiving the script late at night did not slow down his decision-making process. After reading it through, he immediately reached out to the creative team first thing the following morning to confirm his participation.",
+          "He stressed that his confidence in the script left no room for hesitation. The straightforward and unpretentious nature of the narrative convinced him instantly that this was a project he wanted to be a part of."
+        ]
+      },
+      {
+        "h": "Cast and Streaming Details",
+        "p": [
+          "Parivarik Manuranjan is directed by Varun V. Sharma and features an ensemble cast alongside Tripathi. The romantic comedy stars Aditi Rao Hydari, Darpan Bhardwaj, Karan Chanana, and Aklavya Chaudhary.",
+          "Fans and subscribers looking to watch the feature can access it directly on digital platforms, as the film officially commenced streaming on SonyLIV on November 13, 2026."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Pankaj Tripathi has shared his thoughts on modern masculinity while promoting his romantic comedy Parivarik Manuranjan, which began streaming on SonyLIV on November 13, 2026. Directed by Varun V. Sharma and co-starring Aditi Rao Hydari, the film prompted Tripathi to discuss his definition of an alpha male as a leader without aggressive traits. He also reflected on traditional societal sayings and explained why he connected instantly with the project's simple storytelling."
+        ]
+      }
+    ],
+    "facts": [
+      "Pankaj Tripathi stars in Parivarik Manuranjan opposite Aditi Rao Hydari.",
+      "The film is directed by Varun V. Sharma.",
+      "Other cast members include Darpan Bhardwaj, Karan Chanana, and Aklavya Chaudhary.",
+      "Parivarik Manuranjan began streaming on SonyLIV on November 13, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Pankaj Tripathi",
+        "Aditi Rao Hydari",
+        "Varun V. Sharma",
+        "Darpan Bhardwaj",
+        "Karan Chanana",
+        "Aklavya Chaudhary"
+      ],
+      "titles": [
+        "Parivarik Manuranjan"
+      ]
+    },
+    "keywords": [
+      "Pankaj Tripathi Parivarik Manuranjan",
+      "Parivarik Manuranjan SonyLIV",
+      "Pankaj Tripathi alpha male interview",
+      "Aditi Rao Hydari Parivarik Manuranjan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135812652,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Pankaj Tripathi Explains His Vision of an Alpha Male and Discusses His Latest Romantic Comedy Project",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T23:17:43+05:30"
+  },
+  "kolfkh": {
+    "id": "kolfkh",
+    "type": "news",
+    "headline": "Chris Carter Hints at The X-Files Revival and Original Cast Reunion",
+    "dek": "More than three decades after its debut, franchise creator Chris Carter reveals he is open to bringing back Mulder and Scully for a new series or film.",
+    "body": [
+      {
+        "h": "Thirty Years of Sci-Fi History",
+        "p": [
+          "For over three decades, The X-Files has stood as a towering pillar of television science fiction. Premiering in 1993, the landmark series captivated audiences across the globe with its unique blend of government conspiracies, extraterrestrial mysteries, and paranormal investigations. Over the course of eleven seasons and two theatrical films, the franchise built a massive and dedicated fanbase that remains devoted to its intricate mythology."
+        ]
+      },
+      {
+        "h": "The Creative Force Behind the Phenomenon",
+        "p": [
+          "Series creator Chris Carter served as the visionary architect behind the franchise, remaining deeply involved through its extensive television and cinematic runs. Spanning an initial nine-season run that concluded in 2002, the show later returned for revivals in 2016 and 2018. Carter personally penned 72 episodes of the iconic show, establishing a sprawling commercial juggernaut that also generated spin-offs and various forms of merchandise."
+        ]
+      },
+      {
+        "h": "A Potential Return for Mulder and Scully",
+        "p": [
+          "In a November 2026 interview with Page Six Hollywood, Carter expressed enthusiasm about continuing the narrative where Season 11 left off. The creator noted that a reunion of the original cast is entirely possible, stating that he would love to expand the universe further. He specifically pointed out that he deliberately laid narrative groundwork across four episodes during the recent reboots to facilitate a future movie or limited series."
+        ]
+      },
+      {
+        "h": "Waiting on Future Franchise Plans",
+        "p": [
+          "While Carter keeps the revival concept in mind, any immediate movement on his part must wait until Ryan Coogler's separate X-Files project moves forward. The creator is currently focusing his attention elsewhere, occupying his time with other distinct cinematic endeavors while his long-running franchise sits dormant in the background."
+        ]
+      },
+      {
+        "h": "Collaborating on New Ventures",
+        "p": [
+          "Among Carter's current pursuits is Queens for a Day, a dark satire scripted by his wife, Dori. The narrative follows a television host modeled after Fox News who experiences an accident that transports them back to the 1950s in Queens. This new project serves as a creative reunion, bringing back several key crew members who previously worked on The X-Files."
+        ]
+      },
+      {
+        "h": "Familiar Faces Behind the Scenes",
+        "p": [
+          "The production of Queens for a Day bridges the gap between Carter's past triumphs and his present creative output by enlisting trusted veterans from his sci-fi days. Producer Grace Gilroy, cinematographer Craig Wrobleski, and production designer Mark Freeborn have all returned to collaborate with Carter on the dark satire, maintaining a long-standing professional partnership."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Franchise creator Chris Carter has revealed in a November 2026 interview that he is open to reuniting the original cast for a new X-Files series or film. Having previously laid narrative groundwork during the 2016 and 2018 reboots, Carter is waiting on Ryan Coogler's separate project while currently working on the dark satire Queens for a Day with former crew members."
+        ]
+      }
+    ],
+    "facts": [
+      "The X-Files premiered in 1993.",
+      "Chris Carter wrote 72 episodes of The X-Files.",
+      "The X-Files had an initial run from 1993 to 2002 across nine seasons.",
+      "The show returned for a tenth season in 2016 and an eleventh season in 2018.",
+      "Two films were released in the franchise: The X-Files in 1998 and The X-Files: I Want to Believe in 2008.",
+      "Chris Carter gave an interview to Page Six Hollywood in November 2026.",
+      "Grace Gilroy, Craig Wrobleski, and Mark Freeborn are working with Carter on Queens for a Day."
+    ],
+    "entities": {
+      "people": [
+        "Chris Carter",
+        "Ryan Coogler",
+        "Dori",
+        "Grace Gilroy",
+        "Craig Wrobleski",
+        "Mark Freeborn",
+        "David Duchovny",
+        "Gillian Anderson",
+        "Amanda Peet",
+        "Xzibit"
+      ],
+      "titles": [
+        "The X-Files",
+        "The X-Files: I Want to Believe",
+        "Queens for a Day"
+      ]
+    },
+    "keywords": [
+      "Chris Carter The X-Files",
+      "The X-Files revival cast",
+      "Chris Carter Page Six interview",
+      "Queens for a Day film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/the-x-files-season-11-episode-2-this.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Chris Carter Hints at The X-Files Revival and Original Cast Reunion",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:16:47 GMT"
   }
 };

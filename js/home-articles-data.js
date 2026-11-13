@@ -120,6 +120,153 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 20:24:41 +0200"
   },
+  "1sfaeky": {
+    "id": "1sfaeky",
+    "type": "news",
+    "headline": "Pankaj Tripathi Explains His Vision of an Alpha Male and Discusses His Latest Romantic Comedy Project",
+    "dek": "Actor Pankaj Tripathi opens up about his perspective on leadership, traditional societal expectations of men, and his decision to sign the romantic comedy Parivarik Manuranjan.",
+    "entities": {
+      "people": [
+        "Pankaj Tripathi",
+        "Aditi Rao Hydari",
+        "Varun V. Sharma",
+        "Darpan Bhardwaj",
+        "Karan Chanana",
+        "Aklavya Chaudhary"
+      ],
+      "titles": [
+        "Parivarik Manuranjan"
+      ]
+    },
+    "keywords": [
+      "Pankaj Tripathi Parivarik Manuranjan",
+      "Parivarik Manuranjan SonyLIV",
+      "Pankaj Tripathi alpha male interview",
+      "Aditi Rao Hydari Parivarik Manuranjan"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135812652,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Pankaj Tripathi Explains His Vision of an Alpha Male and Discusses His Latest Romantic Comedy Project",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T23:17:43+05:30"
+  },
+  "km9rcs": {
+    "id": "km9rcs",
+    "type": "news",
+    "headline": "Samay Raina Teases Huma Qureshi About Yash’s 'Toxic' on 'India’s Got Latent 2'",
+    "dek": "Actor Huma Qureshi faced playful teasing from host Samay Raina regarding her recent film Toxic on the stage of India’s Got Latent 2, sparking a witty exchange.",
+    "entities": {
+      "people": [
+        "Samay Raina",
+        "Huma Qureshi",
+        "Yash",
+        "Geetu Mohandas",
+        "Nayanthara",
+        "Kiara Advani",
+        "Rukmini Vasanth",
+        "Tara Sutaria"
+      ],
+      "titles": [
+        "Toxic: A Fairytale for Grown-Ups",
+        "India's Got Latent",
+        "KGF"
+      ]
+    },
+    "keywords": [
+      "Huma Qureshi",
+      "Samay Raina",
+      "Toxic",
+      "Indias Got Latent 2",
+      "Yash"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135811518,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Samay Raina Teases Huma Qureshi About Yash’s 'Toxic' on 'India’s Got Latent 2'",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T22:47:40+05:30"
+  },
+  "1ms0m00": {
+    "id": "1ms0m00",
+    "type": "news",
+    "headline": "Netflix to Shut Down Zack Snyder's 'Blood Line: A Rebel Moon Game' in December 2026",
+    "dek": "Netflix is ending support for its online-only mobile game Blood Line: A Rebel Moon Game, setting a final cutoff date of December 9th, 2026.",
+    "entities": {
+      "people": [
+        "Zack Snyder",
+        "Kurt Johnstad"
+      ],
+      "titles": [
+        "Blood Line: A Rebel Moon Game",
+        "Teenage Mutant Ninja Turtles: Splintered Fate",
+        "Vainglory",
+        "Squid Game: Unleashed",
+        "GTA: San Andreas",
+        "World of Peppa Pig",
+        "Stranger Things: Puzzle Tales",
+        "Shadow and Bone: Enter the Fold",
+        "Rebel Moon"
+      ]
+    },
+    "keywords": [
+      "Blood Line A Rebel Moon Game",
+      "Netflix Rebel Moon game shutdown",
+      "Super Evil Megacorp Netflix game",
+      "Zack Snyder Rebel Moon Netflix"
+    ],
+    "images": [
+      {
+        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/rebel-moon-game-shutting-down-netflix.jpg",
+        "caption": "Netflix to Shut Down Zack Snyder's 'Blood Line: A Rebel Moon Game' in December 2026",
+        "source": "What's on Netflix"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:17:01 +0000"
+  },
+  "kolfkh": {
+    "id": "kolfkh",
+    "type": "news",
+    "headline": "Chris Carter Hints at The X-Files Revival and Original Cast Reunion",
+    "dek": "More than three decades after its debut, franchise creator Chris Carter reveals he is open to bringing back Mulder and Scully for a new series or film.",
+    "entities": {
+      "people": [
+        "Chris Carter",
+        "Ryan Coogler",
+        "Dori",
+        "Grace Gilroy",
+        "Craig Wrobleski",
+        "Mark Freeborn",
+        "David Duchovny",
+        "Gillian Anderson",
+        "Amanda Peet",
+        "Xzibit"
+      ],
+      "titles": [
+        "The X-Files",
+        "The X-Files: I Want to Believe",
+        "Queens for a Day"
+      ]
+    },
+    "keywords": [
+      "Chris Carter The X-Files",
+      "The X-Files revival cast",
+      "Chris Carter Page Six interview",
+      "Queens for a Day film"
+    ],
+    "images": [
+      {
+        "url": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/08/the-x-files-season-11-episode-2-this.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Chris Carter Hints at The X-Files Revival and Original Cast Reunion",
+        "source": "MovieWeb"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:16:47 GMT"
+  },
   "1iumf04": {
     "id": "1iumf04",
     "type": "news",
@@ -4539,56 +4686,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-12T14:45:12Z"
-  },
-  "q3whac": {
-    "id": "q3whac",
-    "type": "news",
-    "headline": "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
-    "dek": "After a brief two-week pause, Taylor Sheridan's procedural series Marshals is returning with a high-stakes new episode featuring shifting character dynamics and jurisdictional conflicts.",
-    "entities": {
-      "people": [
-        "Taylor Sheridan",
-        "Denis Kimathi",
-        "Kayce Dutton",
-        "Luke Grimes",
-        "Spencer Hudnut",
-        "Cal",
-        "Logan Marshall-Green",
-        "Belle",
-        "Arielle Kebbel",
-        "Andrea",
-        "Ash Santos",
-        "Mo",
-        "Mo Brings Plenty",
-        "Mike McLusky",
-        "Dwight Manfredi"
-      ],
-      "titles": [
-        "Yellowstone",
-        "The Wire",
-        "Shameless",
-        "The Big Bang Theory",
-        "The Blacklist",
-        "Marshals",
-        "Landman",
-        "Tulsa King",
-        "Mayor of Kingstown"
-      ]
-    },
-    "keywords": [
-      "Marshals CBS show",
-      "Kayce Dutton Yellowstone spin-off",
-      "Taylor Sheridan Marshals episode",
-      "Luke Grimes Marshals Season 2"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/luke-grimes-marshals-204.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
-        "source": "Collider"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 14:30:12 GMT"
   },
   "1643vxd": {
     "id": "1643vxd",
