@@ -185,6 +185,46 @@ function seoKey(url, normPath) {
   const id = url.searchParams.get("id");
   return id ? kind + ":" + id : null;
 }
+/* Soft-404 fix (2026-11-13): a /movie or /tv id with no seo-meta entry
+   used to serve the generic shell with HTTP 200, so Google logged it
+   as a Soft 404. Now the id is verified against TMDB: a real title
+   still gets the generic shell (its JS renders the title from TMDB),
+   an id TMDB has never heard of gets a real 404. Any TMDB/network
+   error fails OPEN to the shell — a bad upstream day must never 404
+   real titles. Verdicts are cached 1h in the edge cache. */
+const TMDB_PUBLIC_KEY = "340b676f5c88561441b6e38be7f15866"; /* same public client key shipped in js/config.js */
+async function tmdbExists(kind, id) {
+  if (!/^\d+$/.test(id)) return false;
+  const tmdbKind = kind === "tv" ? "tv" : "movie";
+  const tmdbUrl = "https://api.themoviedb.org/3/" + tmdbKind + "/" + id + "?api_key=" + TMDB_PUBLIC_KEY;
+  try {
+    const cache = caches.default;
+    const cached = await cache.match(tmdbUrl);
+    if (cached) return cached.status === 200;
+    const r = await fetch(tmdbUrl, { headers: { "Accept": "application/json" } });
+    if (r.ok || r.status === 404) {
+      await cache.put(tmdbUrl, new Response(r.ok ? "1" : "0",
+        { status: 200, headers: { "Cache-Control": "public, max-age=3600" } }));
+    }
+    return r.ok;
+  } catch (e) {
+    return null; /* unknown — the caller fails open to the shell */
+  }
+}
+function notFoundPage() {
+  const html = "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\">" +
+    "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">" +
+    "<meta name=\"robots\" content=\"noindex, nofollow\">" +
+    "<title>Page not found | FlickAtlas</title></head>" +
+    "<body style=\"font-family:system-ui,sans-serif;background:#f6fbf9;color:#0f2a24;text-align:center;padding:12vh 20px\">" +
+    "<h1 style=\"font-size:28px\">This page doesn't exist</h1>" +
+    "<p style=\"opacity:.75\">The title you're looking for isn't on FlickAtlas.</p>" +
+    "<p><a href=\"https://flickatlas.co.uk/\" style=\"color:#0D9488;font-weight:700\">Back to the FlickAtlas home page</a></p>" +
+    "</body></html>";
+  const headers = new Headers({ "Content-Type": "text/html; charset=UTF-8", "Cache-Control": "public, max-age=300" });
+  for (const [k, v] of Object.entries(SEC_HEADERS)) headers.set(k, v);
+  return new Response(html, { status: 404, headers: headers });
+}
 function esc(s) {
   return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;")
     .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -722,6 +762,15 @@ async function faMainFetch(request, env) {
             const canonical = "https://flickatlas.co.uk" + normPath + url.search;
             return new Response(injectSsr(injectSeo(html, m2, canonical), m2),
               { status: res.status, headers: headers });
+          }
+          /* No seo-meta entry: a /movie or /tv id may still be a real
+             title (its JS renders it from TMDB) or a made-up id (the
+             soft-404 case). Verify against TMDB; a fake id gets a
+             real 404, an upstream error fails open to the shell. */
+          if (key.indexOf("movie:") === 0 || key.indexOf("tv:") === 0) {
+            const kind = key.indexOf("tv:") === 0 ? "tv" : "movie";
+            const id = key.slice(kind.length + 1);
+            if ((await tmdbExists(kind, id)) === false) return notFoundPage();
           }
         }
         return withSecHeaders(res);
