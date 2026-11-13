@@ -41356,5 +41356,123 @@ window.FA_PUBLISHED = {
     "date_kind": "festival",
     "runtime": 5,
     "providers": []
+  },
+  "1534851": {
+    "id": 1534851,
+    "type": "movie",
+    "title": "Neekkam",
+    "poster_path": "/lAuD8bb9DS5cEaR5bauUVB4jK3n.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "popularity": 0.4398,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-13",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "",
+    "release_date": "2026-11-13",
+    "date_kind": "release",
+    "runtime": 0
+  },
+  "1431738": {
+    "id": 1431738,
+    "type": "movie",
+    "title": "Anbil Avan",
+    "poster_path": "/2cN2WjL4xQvbJIhxSjGmhXL41rX.jpg",
+    "backdrop_path": "/3We0uVjyoiyL3BcydkN3ePz4Fpj.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A married couple attempts to start a good life together, but unexpected trouble traps them in an unsettling situation that forces them to fight back for their survival.",
+    "industry": "bollywood",
+    "popularity": 2.3609,
+    "original_language": "ta",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-13",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ta"
+    ],
+    "certification": "U/A 16+",
+    "release_date": "2026-10-02",
+    "date_kind": "release",
+    "runtime": 158
+  },
+  "922673": {
+    "id": 922673,
+    "type": "movie",
+    "title": "The Third Murder",
+    "poster_path": "/jNKwDvLdx81UqY4KVl0KybtSTqo.jpg",
+    "backdrop_path": "/7UDUfWg5l3gvwO12yYLrPwGOals.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "When businessman Boban is murdered in the same manner as drug peddler Justin, DYSP Christy brings in ex-cop Swamy, an expert in serial killer cases. Their investigation leads to Aditya, a troubled teenager caught in conflict with his eccentric father, as hidden motives emerge and a deadly hunt begins to stop a third murder.",
+    "industry": "bollywood",
+    "popularity": 1.3733,
+    "original_language": "ml",
+    "origin_country": [
+      "IN"
+    ],
+    "trailer": null,
+    "categories": [
+      "movies"
+    ],
+    "published_at": "2026-11-13",
+    "source": "tmdb",
+    "budget": 0,
+    "revenue": 0,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Mystery"
+    ],
+    "tagline": "",
+    "status": "Released",
+    "production_countries": [
+      "IN"
+    ],
+    "spoken_languages": [
+      "ml"
+    ],
+    "certification": "UA",
+    "release_date": "2026-10-02",
+    "date_kind": "release",
+    "runtime": 124
   }
 };
