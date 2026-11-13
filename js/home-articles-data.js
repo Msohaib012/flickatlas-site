@@ -120,6 +120,159 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 20:24:41 +0200"
   },
+  "r5namo": {
+    "id": "r5namo",
+    "type": "news",
+    "headline": "2026 KBS Song Festival Initial Lineup Features Kim Jae Joong, CL, TXT, and More",
+    "dek": "South Korea's major year-end music broadcast has unveiled its first wave of performers, blending legendary soloists, powerhouse vocal groups, and rising K-pop acts for a December stage.",
+    "entities": {
+      "people": [
+        "Kim Jae Joong",
+        "CL",
+        "Soyeon"
+      ],
+      "titles": [
+        "2026 KBS Song Festival",
+        "MAMAMOO",
+        "i-dle",
+        "TXT",
+        "Tomorrow X Together",
+        "NMIXX",
+        "A2O MAY",
+        "A2O LITE",
+        "A2O SOUL"
+      ]
+    },
+    "keywords": [
+      "2026 KBS Song Festival",
+      "Kim Jae Joong",
+      "CL",
+      "TXT",
+      "MAMAMOO"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-13T220951.782.webp",
+        "caption": "2026 KBS Song Festival Initial Lineup Features Kim Jae Joong, CL, TXT, and More",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:45:18 +0000"
+  },
+  "k9pdf2": {
+    "id": "k9pdf2",
+    "type": "news",
+    "headline": "Simon Cowell Secures Approval for Cotswolds Party Barn Following London Departure",
+    "dek": "Television mogul Simon Cowell has been granted planning permission to construct a party barn at his countryside estate after relocating from west London.",
+    "entities": {
+      "people": [
+        "Simon Cowell",
+        "Lauren Silverman",
+        "David Walliams",
+        "David Beckham",
+        "Victoria Beckham",
+        "Kate Moss",
+        "Princess Beatrice",
+        "Edoardo Mapelli Mozzi",
+        "Princess Eugenie",
+        "Jeremy Clarkson",
+        "Lisa Hogan"
+      ],
+      "titles": [
+        "Britain's Got Talent",
+        "Simon Cowell: The Next Act"
+      ]
+    },
+    "keywords": [
+      "Simon Cowell Cotswolds farmhouse",
+      "Simon Cowell party barn",
+      "Simon Cowell Lauren Silverman",
+      "Simon Cowell planning permission"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135810332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Simon Cowell Secures Approval for Cotswolds Party Barn Following London Departure",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T22:11:55+05:30"
+  },
+  "h9l0j1": {
+    "id": "h9l0j1",
+    "type": "news",
+    "headline": "Ramayana crosses ₹600 crore on day 9 and beats Chhaava lifetime earnings",
+    "dek": "Nitesh Tiwari's Ramayana crosses the ₹600 crore milestone on its ninth day, surpassing the lifetime box office collections of major hits like Chhaava, Pathaan, and Animal.",
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Vicky Kaushal",
+        "Shah Rukh Khan",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Chhaava",
+        "Pathaan",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana beats Chhaava",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/ramayana_1794585410586_1ybN_1794585410827_Dqla_c2cf1deb-e9d4-4342-b10b-5db0dadf03c9_n6dT.jpg",
+        "caption": "Ramayana crosses ₹600 crore on day 9 and beats Chhaava lifetime earnings",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 22:08:13 +0530"
+  },
+  "rihndh": {
+    "id": "rihndh",
+    "type": "news",
+    "headline": "SS Rajamouli's Varanasi Might Miss April 2027 Release Due to Technical Format Hurdles",
+    "dek": "Reports indicate that SS Rajamouli and Mahesh Babu's highly anticipated film Varanasi could face a postponement from its scheduled April 2027 release date because of complex post-production work required for IMAX and 18 theatrical formats.",
+    "entities": {
+      "people": [
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Priyanka Chopra",
+        "Prithviraj Sukumaran",
+        "Rajinikanth",
+        "Ashwath Marimuthu"
+      ],
+      "titles": [
+        "Varanasi",
+        "Baahubali 2",
+        "RRR",
+        "Dharman"
+      ]
+    },
+    "keywords": [
+      "Varanasi film",
+      "SS Rajamouli Varanasi",
+      "Mahesh Babu Varanasi release",
+      "Varanasi IMAX delay"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028531.jpg",
+        "caption": "SS Rajamouli's Varanasi Might Miss April 2027 Release Due to Technical Format Hurdles",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:28:39 +0000"
+  },
   "8hl26d": {
     "id": "8hl26d",
     "type": "news",
@@ -4512,205 +4665,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 13:08:13 +0000"
-  },
-  "yil6y7": {
-    "id": "yil6y7",
-    "type": "news",
-    "headline": "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
-    "dek": "Prime Video has announced the release schedule for The Chosen Season 6, featuring an unusual rollout plan that saves the finale for a 2027 theatrical release.",
-    "entities": {
-      "people": [
-        "Jonathan Roumie",
-        "Shahar Isaac",
-        "Elizabeth Tabish",
-        "Paras Patel",
-        "Luke Dimyan",
-        "Dallas Jenkins"
-      ],
-      "titles": [
-        "The Chosen"
-      ]
-    },
-    "keywords": [
-      "The Chosen Season 6",
-      "Jonathan Roumie The Chosen",
-      "The Chosen Prime Video",
-      "Dallas Jenkins The Chosen"
-    ],
-    "images": [
-      {
-        "url": "https://www.justjared.com/wp-content/uploads/2026/11/the-chosen-season-6-schedule.jpg",
-        "caption": "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
-        "source": "Just Jared"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 13:04:55 +0000"
-  },
-  "5emmdq": {
-    "id": "5emmdq",
-    "type": "news",
-    "headline": "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
-    "dek": "As the awards campaign ramps up, tracking indicates Christopher Nolan's epic adaptation could challenge all-time nomination records.",
-    "entities": {
-      "people": [
-        "Christopher Nolan",
-        "Matt Damon",
-        "Julianne Moore",
-        "John Malkovich",
-        "Anne Hathaway",
-        "Paul Giamatti",
-        "Steven Spielberg",
-        "Guillermo del Toro",
-        "Robert Downey Jr.",
-        "Samantha Morton",
-        "John Leguizamo",
-        "Hoyte van Hoytema",
-        "Ellen Mirojnick",
-        "Jennifer Lame",
-        "Luisa Abel",
-        "Gloria Casny",
-        "Bill Irwin",
-        "Ruth De Jong",
-        "Ludwig Göransson",
-        "James Blake",
-        "Travis Scott",
-        "Craig Henighan",
-        "Willie Burton"
-      ],
-      "titles": [
-        "The Odyssey",
-        "Sinners",
-        "The Debut",
-        "Wild Horse Nine",
-        "La Bola Negra",
-        "Werwulf",
-        "Project Hail Mary",
-        "Wildwood",
-        "Naza",
-        "Oppenheimer",
-        "The Invite",
-        "Dune: Part Three",
-        "You Can See Everything",
-        "All of a Sudden",
-        "Obsession",
-        "Good Will Hunting",
-        "The Martian",
-        "Invictus",
-        "Elsinore",
-        "Primetime",
-        "Les Misérables",
-        "Sweet and Lowdown",
-        "In America",
-        "Artificial",
-        "I Play Rocky",
-        "Sense and Sensibility",
-        "Digger",
-        "Clayface",
-        "Disclosure Day",
-        "Toy Story 5",
-        "By Any Means"
-      ]
-    },
-    "keywords": [
-      "The Odyssey film",
-      "Christopher Nolan The Odyssey",
-      "The Odyssey Oscar odds",
-      "Matt Damon The Odyssey"
-    ],
-    "images": [
-      {
-        "url": "https://www.goldderby.com/wp-content/uploads/2026/07/CT-04168_MSGCROP.jpg?w=650",
-        "caption": "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
-        "source": "Gold Derby"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 13:00:00 +0000"
-  },
-  "1xevcbb": {
-    "id": "1xevcbb",
-    "type": "news",
-    "headline": "Ranabaali OTT Release Date Set for November 13 on Netflix in Five Languages",
-    "dek": "Vijay Deverakonda and Rashmika Mandanna's period action drama Ranabaali is heading to Netflix, bringing its historical rebellion story to digital screens globally after its October theatrical run.",
-    "entities": {
-      "people": [
-        "Vijay Deverakonda",
-        "Rashmika Mandanna",
-        "Rahul Sankrityan",
-        "Arnold Vosloo",
-        "Pramod Tammineni",
-        "Naveen Yerneni",
-        "Y. Ravi Shankar",
-        "Gulshan Kumar",
-        "Bhushan Kumar",
-        "Jishnu Bhattacharjee",
-        "Nirav Shah",
-        "Karthika Srinivas R",
-        "Shivam Rao Nagasani",
-        "Yannick Ben",
-        "Andy Long Nguyen",
-        "Rabin Subbu",
-        "Kruti Mahesh",
-        "Raghunath Kemisetty",
-        "Vivekanand",
-        "Anurag Parvathaneni",
-        "Shiv Chanana"
-      ],
-      "titles": [
-        "Ranabaali"
-      ]
-    },
-    "keywords": [
-      "Ranabaali OTT release",
-      "Vijay Deverakonda Ranabaali",
-      "Rashmika Mandanna Ranabaali Movie",
-      "Ranabaali Netflix release date"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/ranabaali-21101794487557.jpg",
-        "caption": "Ranabaali OTT Release Date Set for November 13 on Netflix in Five Languages",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 18:18:49 +0530"
-  },
-  "b0shg9": {
-    "id": "b0shg9",
-    "type": "news",
-    "headline": "Ramayana Part 1 Enters Second Week With Massive Day 8 Numbers",
-    "dek": "Ranbir Kapoor, Sai Pallavi and Yash's mythological epic continues its stellar theatrical run, surpassing Brahmastra Part One Shiva's lifetime global earnings.",
-    "entities": {
-      "people": [
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari",
-        "Ravi Dubey",
-        "Arun Govil",
-        "Lara Dutta",
-        "Rakul Preet Singh",
-        "Sheeba Chaddha",
-        "Indira Krishnan"
-      ],
-      "titles": [
-        "Ramayana Part 1",
-        "Brahmastra Part One Shiva"
-      ]
-    },
-    "keywords": [
-      "Ramayana Part 1 box office",
-      "Ramayana Part 1 Day 8 collection",
-      "Ranbir Kapoor Ramayana collection",
-      "Ramayana vs Brahmastra box office"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/feature-2026-11-12t171119-772-56711794483686.jpg",
-        "caption": "Ramayana Part 1 Enters Second Week With Massive Day 8 Numbers",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 18:00:30 +0530"
   },
   "1643vxd": {
     "id": "1643vxd",

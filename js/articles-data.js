@@ -137061,5 +137061,413 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 20:24:41 +0200"
+  },
+  "h9l0j1": {
+    "id": "h9l0j1",
+    "type": "news",
+    "headline": "Ramayana crosses ₹600 crore on day 9 and beats Chhaava lifetime earnings",
+    "dek": "Nitesh Tiwari's Ramayana crosses the ₹600 crore milestone on its ninth day, surpassing the lifetime box office collections of major hits like Chhaava, Pathaan, and Animal.",
+    "body": [
+      {
+        "h": "Box Office Milestone Achieved",
+        "p": [
+          "The theatrical release of Nitesh Tiwari's epic project has achieved a major box office milestone by crossing the ₹600 crore mark globally and domestically across its early run.",
+          "On its ninth day in theatres, the feature recorded collection figures that pushed its cumulative earnings past previous industry benchmarks, cementing its status as a major commercial success."
+        ]
+      },
+      {
+        "h": "Opening Records and Advance Bookings",
+        "p": [
+          "Anticipation for the mythological adaptation began building well ahead of its theatrical debut, with ticket windows opening on Dussehra, a full fifteen days prior to release.",
+          "By its premiere date, ticket sales had already generated ₹200 crore globally, leading to a massive opening day collection of ₹64.85 crore within India."
+        ]
+      },
+      {
+        "h": "Holiday Surge and Historic Days",
+        "p": [
+          "Following a slight dip on its first Friday, the feature witnessed a massive upswing over the extended Diwali holiday frame, breaking records with historic single-day numbers.",
+          "The project pulled in ₹107 crore net on Monday followed by ₹94 crore net on Tuesday, marking the highest figures recorded in Indian cinema history for those specific periods."
+        ]
+      },
+      {
+        "h": "Surpassing Major Lifetime Hauls",
+        "p": [
+          "With its latest earnings update, the feature officially surpassed the lifetime box office haul of last year's historical hit Chhaava, which had finished its run at ₹601.57 crore.",
+          "Earlier in its run, the adaptation also sailed past the lifetime theatrical totals of Shah Rukh Khan's Pathaan and Ranbir Kapoor's own previous release Animal."
+        ]
+      },
+      {
+        "h": "Cast and Creative Team",
+        "p": [
+          "The cinematic adaptation of Valmiki's epic features a prominent ensemble cast led by Ranbir Kapoor as Lord Rama, Sai Pallavi as Sita, and Yash in the role of Ravana.",
+          "Additional key cast members include Ravie Dubey as Lakshman and Sunny Deol as Lord Hanuman, bringing the classic mythological characters to the big screen."
+        ]
+      },
+      {
+        "h": "Production Scale and Part Two Plans",
+        "p": [
+          "Helmed by director Nitesh Tiwari, the multi-part project is produced by Namit Malhotra's Prime Focus Studios alongside DNEG and Yash's Monster Mind Creations.",
+          "The overarching narrative has been structured as a two-part cinematic event, with the second installment already scheduled for a Diwali release in 2028."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Nitesh Tiwari's Ramayana has crossed the ₹600 crore milestone on its ninth day in theatres, outpacing the lifetime earnings of major titles like Chhaava. The star-studded mythological adaptation continues to maintain strong momentum following its pre-Diwali release."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana released in theatres on November 5, 2026.",
+      "The film is directed by Nitesh Tiwari.",
+      "Advance bookings opened on Dussehra, 15 days before release.",
+      "Worldwide ticket sales reached ₹200 crore before release.",
+      "Opening day collection in India was ₹64.85 crore.",
+      "Friday collection dropped to ₹48.05 crore.",
+      "Saturday collection rose to ₹69.80 crore.",
+      "Monday collection reached ₹107 crore net.",
+      "Tuesday collection reached ₹94 crore net.",
+      "Day 9 collection was ₹39.67 crore.",
+      "Total box office collection reached ₹604.27 crore by day 9.",
+      "Chhaava lifetime collection stood at ₹601.57 crore.",
+      "Pathaan lifetime collection stood at ₹544.28 crore.",
+      "Animal lifetime collection stood at ₹556.36 crore.",
+      "The second part of Ramayana will release in Diwali 2028."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Vicky Kaushal",
+        "Shah Rukh Khan",
+        "Ravie Dubey",
+        "Sunny Deol",
+        "Nitesh Tiwari",
+        "Namit Malhotra"
+      ],
+      "titles": [
+        "Ramayana",
+        "Chhaava",
+        "Pathaan",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Yash Ramayana",
+      "Ramayana beats Chhaava",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/ramayana_1794585410586_1ybN_1794585410827_Dqla_c2cf1deb-e9d4-4342-b10b-5db0dadf03c9_n6dT.jpg",
+        "caption": "Ramayana crosses ₹600 crore on day 9 and beats Chhaava lifetime earnings",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 22:08:13 +0530"
+  },
+  "rihndh": {
+    "id": "rihndh",
+    "type": "news",
+    "headline": "SS Rajamouli's Varanasi Might Miss April 2027 Release Due to Technical Format Hurdles",
+    "dek": "Reports indicate that SS Rajamouli and Mahesh Babu's highly anticipated film Varanasi could face a postponement from its scheduled April 2027 release date because of complex post-production work required for IMAX and 18 theatrical formats.",
+    "body": [
+      {
+        "h": "Potential Delay for Rajamouli's Next Project",
+        "p": [
+          "Filmmaker SS Rajamouli holds a distinct reputation for steering the Indian theatrical landscape, having previously driven global box office milestones with blockbusters like Baahubali 2 and RRR. His upcoming directorial venture, Varanasi, has naturally created massive expectations across the industry, with producers and distributors carefully timing their own projects to avoid overlapping with its theatrical run.",
+          "The production was initially locked in for a high-profile arrival on April 7, 2027. This release date was deliberately chosen to coincide with Ugadi and Gudi Padwa, placing it right ahead of multiple regional New Year celebrations and establishing an exceptionally competitive window for the entertainment industry."
+        ]
+      },
+      {
+        "h": "Technical Hurdles in IMAX and Premium Formats",
+        "p": [
+          "Fresh reports from Valai Pechu indicate that the makers are evaluating a potential postponement by a few months. The primary catalyst for this delay involves complex technical challenges tied to preparing the feature for IMAX and as many as 17 additional premium exhibition formats worldwide.",
+          "Industry insiders note that final content for these diverse formats typically needs to be delivered roughly 40 days ahead of the premiere. Given the heavy reliance on expansive visual effects and detailed post-production, meeting this tight schedule has proven difficult for the creative team."
+        ]
+      },
+      {
+        "h": "Complex Framing and Global Screen Requirements",
+        "p": [
+          "Varanasi is not designed as a standard cinematic release. SS Rajamouli has previously shared that the production was specifically built for IMAX's expanded 1.43:1 aspect ratio, giving audiences in compatible auditoriums a significantly taller image compared to traditional widescreen presentations.",
+          "Balancing these visual adjustments requires careful framing so that scenes translate effectively across both IMAX and standard CinemaScope screens. The filmmakers must ensure that the intended artistic composition is preserved perfectly without losing quality or compromising the viewer's experience."
+        ]
+      },
+      {
+        "h": "Mastering Across Multiple Exhibition Standards",
+        "p": [
+          "The post-production burden goes far beyond simply converting a finished film into different file dimensions. IMAX mandates specialized audio and image mastering, while Dolby Cinema comes with distinct color-grading and presentation protocols that require separate attention.",
+          "Other formats add further complexity to the schedule. ScreenX utilizes additional side screens to stretch selected sequences, 4DX incorporates programmed seat movements alongside environmental effects, and Dolby Atmos introduces intricate multi-channel sound mixing for immersive audio experiences."
+        ]
+      },
+      {
+        "h": "Impact on the Tamil New Year Window",
+        "p": [
+          "A prospective schedule change carries substantial consequences for regional cinema, particularly within the Tamil film industry. April 14 traditionally serves as a major theatrical window because of Tamil New Year festivities, but the initial arrival of Rajamouli's film just one week earlier had complicated release math for rival producers.",
+          "Starring Mahesh Babu alongside Priyanka Chopra and Prithviraj Sukumaran, the multilingual project is expected to command a dominant share of screens across multiple states. This includes Tamil Nadu, where the director commands a loyal following following his prior pan-Indian successes."
+        ]
+      },
+      {
+        "h": "Repercussions for Other Big Productions",
+        "p": [
+          "The prevailing uncertainty heavily affects major upcoming projects such as Rajinikanth's Dharman. Directed by Ashwath Marimuthu, the film has been linked to the Tamil New Year frame as well as a potential late-April debut, making the timeline of Rajamouli's venture a crucial factor for its distributors.",
+          "If Varanasi shifts its premiere to a later month, cinema operators and distributors could gain greater latitude in negotiating screen counts and showtimes. Producers across Telugu, Hindi, Kannada, and Malayalam industries might also re-evaluate their spring strategies, though holiday slots would still draw fierce competition."
+        ]
+      },
+      {
+        "h": "Current Status and Official Position",
+        "p": [
+          "Despite mounting industry speculation regarding a scheduling shift, the production team has not issued an official announcement regarding any delay. April 7, 2027, remains the officially confirmed launch date for the high-profile cinematic event.",
+          "Fans and trade analysts continue to monitor updates closely as the massive multi-format post-production work presses forward. Whether the film holds its spring date or opts for a later arrival, its ultimate release will undoubtedly shape the box office landscape."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "SS Rajamouli's upcoming film Varanasi, starring Mahesh Babu, Priyanka Chopra, and Prithviraj Sukumaran, faces potential delay from its April 7, 2027 release date due to technical challenges in preparing for IMAX and 17 other exhibition formats. While producers have not officially announced a postponement, the possible schedule shift could alter release plans for major regional titles like Rajinikanth's Dharman during the Tamil New Year period."
+        ]
+      }
+    ],
+    "facts": [
+      "Varanasi is scheduled for release on April 7, 2027.",
+      "The film stars Mahesh Babu, Priyanka Chopra, and Prithviraj Sukumaran.",
+      "SS Rajamouli is the director of Varanasi.",
+      "Reports regarding the potential delay were brought up by Valai Pechu.",
+      "The production is targeting 18 theatrical exhibition formats worldwide.",
+      "Rajinikanth's Dharman is directed by Ashwath Marimuthu."
+    ],
+    "entities": {
+      "people": [
+        "SS Rajamouli",
+        "Mahesh Babu",
+        "Priyanka Chopra",
+        "Prithviraj Sukumaran",
+        "Rajinikanth",
+        "Ashwath Marimuthu"
+      ],
+      "titles": [
+        "Varanasi",
+        "Baahubali 2",
+        "RRR",
+        "Dharman"
+      ]
+    },
+    "keywords": [
+      "Varanasi film",
+      "SS Rajamouli Varanasi",
+      "Mahesh Babu Varanasi release",
+      "Varanasi IMAX delay"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028531.jpg",
+        "caption": "SS Rajamouli's Varanasi Might Miss April 2027 Release Due to Technical Format Hurdles",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:28:39 +0000"
+  },
+  "r5namo": {
+    "id": "r5namo",
+    "type": "news",
+    "headline": "2026 KBS Song Festival Initial Lineup Features Kim Jae Joong, CL, TXT, and More",
+    "dek": "South Korea's major year-end music broadcast has unveiled its first wave of performers, blending legendary soloists, powerhouse vocal groups, and rising K-pop acts for a December stage.",
+    "body": [
+      {
+        "h": "The Initial Performer Announcement",
+        "p": [
+          "Organizers for South Korea's prominent year-end music special have officially released their very first wave of performing artists. Announced in mid-November, the initial roster brings together a dynamic mix of established veterans and contemporary breakout stars to deliver a memorable live experience.",
+          "The event is slated to draw massive attention from global music enthusiasts eager to see how the diverse lineup will collaborate and perform on one major platform."
+        ]
+      },
+      {
+        "h": "A Multi-Generational Lineup",
+        "p": [
+          "The unveiled roster spans multiple eras of the Korean music industry, ensuring a broad appeal across different generations of fans. Longstanding solo powerhouses like Kim Jae Joong and CL stand alongside accomplished vocal groups such as MAMAMOO and Soyeon of i-dle.",
+          "Representing newer generations of the K-pop scene are popular groups like TXT and NMIXX. Additionally, three newer musical entities—A2O MAY, A2O LITE, and A2O SOUL—complete this initial phase of the performer list."
+        ]
+      },
+      {
+        "h": "Schedule and Venue Details",
+        "p": [
+          "Audiences planning to attend or tune into the broadcast can mark their calendars for December 18, 2026. The live show will commence at 7 p.m. local Korean Standard Time.",
+          "The festivities will take place at the KBS Arena located in Seoul, serving as the central hub for the year-end celebration."
+        ]
+      },
+      {
+        "h": "Global Viewing and Broadcasting",
+        "p": [
+          "For international supporters wanting to catch the action from abroad, the evening start time translates to different local hours depending on the region. In European time zones, for instance, 7 p.m. KST converts to 11:00 CET or 10:00 GMT.",
+          "Official KBS channels are expected to release specific regional streaming details and broadcasting schedules as the event date draws closer."
+        ]
+      },
+      {
+        "h": "History of the KBS Special",
+        "p": [
+          "The annual music festival holds a long-standing tradition within South Korea's broadcasting history. Originally launched back in 1965, the program started out as an awards ceremony.",
+          "Broadcasters eventually phased out competitive awards for the event in 2006, transitioning the format permanently into a celebratory year-end music festival."
+        ]
+      },
+      {
+        "h": "What to Expect on Stage",
+        "p": [
+          "Year-end music festivals in South Korea are widely known for offering unique production elements that viewers typically do not see on regular weekly music programs. Fans frequently anticipate exclusive collaborative performances and special stages.",
+          "This initial announcement acts as the first preview, encouraging followers to watch for upcoming announcements regarding additional performers and program segments."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The organizers of the 2026 KBS Song Festival announced their initial performer lineup on November 13, featuring a mix of veteran and newer acts like Kim Jae Joong, CL, and TXT. The music special is scheduled to take place on December 18 at the KBS Arena in Seoul."
+        ]
+      }
+    ],
+    "facts": [
+      "The initial performer list for the 2026 KBS Song Festival was announced on November 13, 2026.",
+      "Confirmed performers include Kim Jae Joong, CL, MAMAMOO, Soyeon of i-dle, TXT, NMIXX, A2O MAY, A2O LITE, and A2O SOUL.",
+      "The 2026 KBS Song Festival is scheduled for December 18, 2026, at 7 p.m. KST.",
+      "The event will take place at the KBS Arena in Seoul.",
+      "In Europe, 7 p.m. KST translates to 11:00 CET or 10:00 GMT.",
+      "The event first aired in 1965 as an awards show before KBS stopped giving awards in 2006."
+    ],
+    "entities": {
+      "people": [
+        "Kim Jae Joong",
+        "CL",
+        "Soyeon"
+      ],
+      "titles": [
+        "2026 KBS Song Festival",
+        "MAMAMOO",
+        "i-dle",
+        "TXT",
+        "Tomorrow X Together",
+        "NMIXX",
+        "A2O MAY",
+        "A2O LITE",
+        "A2O SOUL"
+      ]
+    },
+    "keywords": [
+      "2026 KBS Song Festival",
+      "Kim Jae Joong",
+      "CL",
+      "TXT",
+      "MAMAMOO"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-13T220951.782.webp",
+        "caption": "2026 KBS Song Festival Initial Lineup Features Kim Jae Joong, CL, TXT, and More",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:45:18 +0000"
+  },
+  "k9pdf2": {
+    "id": "k9pdf2",
+    "type": "news",
+    "headline": "Simon Cowell Secures Approval for Cotswolds Party Barn Following London Departure",
+    "dek": "Television mogul Simon Cowell has been granted planning permission to construct a party barn at his countryside estate after relocating from west London.",
+    "body": [
+      {
+        "h": "Planning Approval Granted for Cotswolds Farmhouse",
+        "p": [
+          "Television producer and music executive Simon Cowell has secured official planning permission to undertake significant alterations at his countryside estate. The approval paves the way for the creation of a dedicated socialising space referred to as a party barn, designed to host friends and family.",
+          "The green light from the local authority follows an extended administrative wait. The property itself was acquired roughly three years prior to the recent clearance, while the formal planning submissions had been pending for nearly two years before receiving final endorsement."
+        ]
+      },
+      {
+        "h": "Specific Architectural Changes to the East Wing",
+        "p": [
+          "The approved architectural adjustments focus primarily on the East Wing of the historic estate. Plans submitted to West Oxfordshire Council detail extensive internal reconfigurations, including updates to the master bedroom suite, an adjoining bathroom, a dressing room, and a connecting lobby.",
+          "Additional elements of the design incorporate a specialized music and games room alongside the expansive entertainment area. Representatives for the television personality worked closely with preservation guidelines to ensure the updates meet the strict standards required for a designated heritage property."
+        ]
+      },
+      {
+        "h": "Preserving Heritage and Meeting Council Conditions",
+        "p": [
+          "Because the farmhouse holds Grade II-listed status, planning agents were obligated to submit a comprehensive heritage statement outlining how the project would protect the building's historical integrity. The documentation confirmed that the footprint and overall volume of the structure would remain unchanged.",
+          "Local authorities cleared the proposals without encountering any public objections. However, the council attached three mandatory conditions, requiring that construction commence within a three-year window, that specified traditional materials be utilized, and that the final build stays harmonious with the surrounding locality."
+        ]
+      },
+      {
+        "h": "Relocating from London Amid Security Concerns",
+        "p": [
+          "The move to the countryside marks a major lifestyle shift for the prominent media figure, his fiancée Lauren Silverman, and their family. The household previously resided in an expansive west London property valued at forty-five million pounds before opting to relocate.",
+          "The decision to leave the capital followed a series of unsettling security incidents, most notably a break-in at their urban residence. The countryside estate offers a much more secluded environment for the family to establish their permanent home."
+        ]
+      },
+      {
+        "h": "Estate Amenities and Rural Family Life",
+        "p": [
+          "Spanning five bedrooms, the sprawling Cotswolds property features a nineteenth-century main dwelling accompanied by several detached cottages. The extensive grounds boast manicured lawns, tall hedges, hydrangea bushes, a fully equipped gym, an indoor swimming pool, and a wild swimming pond.",
+          "Both Cowell and Silverman have embraced the wholesome nature of rural living. The family frequently spends time outdoors cycling along country lanes, engaging with local establishments, and enjoying activities together away from electronic screens."
+        ]
+      },
+      {
+        "h": "High-Profile Neighbours and Charitable Events",
+        "p": [
+          "Since settling into the affluent rural region, the couple has integrated smoothly into the local social circle. Their neighbourhood boasts several notable residents, including prominent entertainment figures and members of royalty.",
+          "The estate and nearby venues have previously served as backdrops for major philanthropic functions. Last year, the couple hosted a high-profile fundraiser supporting Great Ormond Street Hospital, drawing prominent guests and raising substantial sums through charity auctions."
+        ]
+      },
+      {
+        "h": "Concurrent Media Spotlight and Past Associations",
+        "p": [
+          "The positive real estate development comes while the media mogul experiences renewed media attention surrounding past television projects. Commentary has resurfaced regarding his association with former talent show judge David Walliams.",
+          "While Walliams has recently faced serious allegations concerning his conduct and subsequent departure from their shared television program, Cowell has previously clarified his own level of involvement in personnel decisions made during that period."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Simon Cowell has received council approval to build a party barn at his eight million pound Cotswolds farmhouse after an almost two-year wait. The project involves reconfiguring the Grade II-listed property's East Wing without increasing its overall footprint.",
+          "The couple moved to the countryside residence following security concerns at their former forty-five million pound London home, where they now enjoy a quieter family lifestyle alongside high-profile neighbours."
+        ]
+      }
+    ],
+    "facts": [
+      "Simon Cowell secured planning permission for a party barn at his Cotswolds farmhouse",
+      "The Cotswolds farmhouse is valued at 8 million pounds",
+      "The former London property in Holland Park was valued at 45 million pounds",
+      "The planning application was approved by West Oxfordshire Council",
+      "David Walliams served as a judge on Britain's Got Talent from 2012 to 2022"
+    ],
+    "entities": {
+      "people": [
+        "Simon Cowell",
+        "Lauren Silverman",
+        "David Walliams",
+        "David Beckham",
+        "Victoria Beckham",
+        "Kate Moss",
+        "Princess Beatrice",
+        "Edoardo Mapelli Mozzi",
+        "Princess Eugenie",
+        "Jeremy Clarkson",
+        "Lisa Hogan"
+      ],
+      "titles": [
+        "Britain's Got Talent",
+        "Simon Cowell: The Next Act"
+      ]
+    },
+    "keywords": [
+      "Simon Cowell Cotswolds farmhouse",
+      "Simon Cowell party barn",
+      "Simon Cowell Lauren Silverman",
+      "Simon Cowell planning permission"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135810332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Simon Cowell Secures Approval for Cotswolds Party Barn Following London Departure",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T22:11:55+05:30"
   }
 };
