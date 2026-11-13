@@ -120,6 +120,52 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 20:24:41 +0200"
   },
+  "1iumf04": {
+    "id": "1iumf04",
+    "type": "news",
+    "headline": "Bano Episode 30 — Watch Online on Geo TV",
+    "dek": "Bano episode 30 aired on 2026-11-13 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Dr3XrPHryi8/hqdefault.jpg",
+        "caption": "Bano Episode 30",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-13T17:00:21Z"
+  },
+  "9ulma2": {
+    "id": "9ulma2",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 17 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 17 aired on 2026-11-13 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/W4T93S-3jtU/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 17",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-13T17:00:00Z"
+  },
   "r5namo": {
     "id": "r5namo",
     "type": "news",
@@ -237,6 +283,43 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 22:08:13 +0530"
   },
+  "a8dx4o": {
+    "id": "a8dx4o",
+    "type": "news",
+    "headline": "Clive Davis's Historic Manhattan Penthouse Listed For Eleven Million Dollars",
+    "dek": "Months after the legendary music executive's passing, his expansive duplex penthouse inside Manhattan's iconic Ritz Tower has officially been placed on the real estate market.",
+    "entities": {
+      "people": [
+        "Clive Davis",
+        "Vicente Wolf",
+        "Robert Metzger",
+        "Emery Roth",
+        "Thomas Hastings",
+        "Whitney Houston",
+        "Barry Manilow",
+        "Aretha Franklin",
+        "Patti Smith",
+        "Bruce Springsteen",
+        "Alicia Keys",
+        "Toni Braxton"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Clive Davis Ritz tower",
+      "Clive Davis apartment for sale",
+      "Clive Davis Manhattan penthouse",
+      "Ritz Tower Park Avenue"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135802825,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Clive Davis's Historic Manhattan Penthouse Listed For Eleven Million Dollars",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T22:00:00+05:30"
+  },
   "rihndh": {
     "id": "rihndh",
     "type": "news",
@@ -272,6 +355,168 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 16:28:39 +0000"
+  },
+  "n4njlx": {
+    "id": "n4njlx",
+    "type": "news",
+    "headline": "Johnny Depp Returns to the Big Screen as Ebenezer Pulls in Solid Numbers in Previews",
+    "dek": "Actor Johnny Depp makes his major studio return with the holiday-themed ghost story Ebenezer, bringing in notable preview numbers ahead of its weekend rollout.",
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Ti West",
+        "Amber Heard",
+        "Rupert Grint",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Ian McKellen",
+        "Tramell Tillman",
+        "Frank Scheck",
+        "David Leitch",
+        "David Rooney",
+        "Anna Sawai",
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "William Eubank",
+        "Jim Caviezel"
+      ],
+      "titles": [
+        "Ebenezer",
+        "A Christmas Carol",
+        "Fantastic Beasts: The Crimes of Grindelwald",
+        "How to Rob a Bank",
+        "Ghost Soldier",
+        "Carrie"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp Ebenezer",
+      "Ebenezer box office",
+      "Ti West Ebenezer movie",
+      "How to Rob a Bank film",
+      "Ghost Soldier movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/EBZR-04148R2-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Johnny Depp Returns to the Big Screen as Ebenezer Pulls in Solid Numbers in Previews",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:23:58 +0000"
+  },
+  "1ondfen": {
+    "id": "1ondfen",
+    "type": "news",
+    "headline": "Vaaste Singer Dhvani Bhanushali Announces Engagement to Yash Bhanushali",
+    "dek": "Popular singer Dhvani Bhanushali has shared pictures of her engagement to Yash Bhanushali, posting glimpses of the celebration and her engagement ring on Instagram.",
+    "entities": {
+      "people": [
+        "Dhvani Bhanushali",
+        "Yash Bhanushali"
+      ],
+      "titles": [
+        "Vaaste",
+        "Dilbar",
+        "Leja Re",
+        "Duniyaa",
+        "Luka Chuppi",
+        "Nayan",
+        "Ban Piya",
+        "Suswagatam Khushamadeed"
+      ]
+    },
+    "keywords": [
+      "Dhvani Bhanushali engagement",
+      "Yash Bhanushali",
+      "Vaaste singer Dhvani Bhanushali",
+      "Suswagatam Khushamadeed Ban Piya"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135809525,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vaaste Singer Dhvani Bhanushali Announces Engagement to Yash Bhanushali",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T21:40:37+05:30"
+  },
+  "1hhl8s3": {
+    "id": "1hhl8s3",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 30 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 30 aired on 2026-11-13 — watch the full episode on ARY Digital.",
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/dk4uVsevJeU/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 30",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-13T16:00:32Z"
+  },
+  "1mzm84n": {
+    "id": "1mzm84n",
+    "type": "news",
+    "headline": "Nashtar Episode 30 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 30 aired on 2026-11-13 — watch the full episode on Geo TV.",
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3YwBQFb22qM/hqdefault.jpg",
+        "caption": "Nashtar Episode 30",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-13T16:00:30Z"
+  },
+  "fjhibe": {
+    "id": "fjhibe",
+    "type": "news",
+    "headline": "Aangan Episode 13 — Watch Online on HUM TV",
+    "dek": "Aangan episode 13 aired on 2026-11-13 — watch the full episode on HUM TV.",
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3g9CYw-jXwI/hqdefault.jpg",
+        "caption": "Aangan Episode 13",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-13T16:00:07Z"
   },
   "8hl26d": {
     "id": "8hl26d",
@@ -310,6 +555,40 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 21:19:12 +0530"
+  },
+  "xhx6hk": {
+    "id": "xhx6hk",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Targets Massive Advance Bookings to Chase Bollywood Opening Records",
+    "dek": "As anticipation builds for the release of Siddharth Anand's upcoming action spectacle, industry tracking indicates that substantial pre-sales targets will be required to challenge the current benchmarks set by Dhurandhar 2.",
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "King",
+        "Pathaan",
+        "Jawan",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Coolie"
+      ]
+    },
+    "keywords": [
+      "King film release date",
+      "Shah Rukh Khan King box office",
+      "King advance booking target",
+      "Siddharth Anand King movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028528.jpg",
+        "caption": "Shah Rukh Khan's King Targets Massive Advance Bookings to Chase Bollywood Opening Records",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 15:47:34 +0000"
   },
   "3trd2g": {
     "id": "3trd2g",
@@ -4311,361 +4590,6 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Thu, 12 Nov 2026 14:30:12 GMT"
   },
-  "6vyq8": {
-    "id": "6vyq8",
-    "type": "news",
-    "headline": "Ebenezer Box Office Target: Johnny Depp's Comeback Film Needs This Much To Break Even",
-    "dek": "Paramount Pictures keeps the budget modest for Ebenezer, setting up Johnny Depp's mainstream return with a realistic worldwide box-office goal.",
-    "entities": {
-      "people": [
-        "Johnny Depp",
-        "Ti West",
-        "Ian McKellen",
-        "Rupert Grint",
-        "Charles Dickens"
-      ],
-      "titles": [
-        "Ebenezer",
-        "A Christmas Carol"
-      ]
-    },
-    "keywords": [
-      "Ebenezer film",
-      "Johnny Depp Ebenezer",
-      "Ti West Ebenezer budget",
-      "Ebenezer box office break even"
-    ],
-    "images": [
-      {
-        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/ebenezer-box-office-01.jpg",
-        "caption": "Ebenezer Box Office Target: Johnny Depp's Comeback Film Needs This Much To Break Even",
-        "source": "Koimoi"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 14:28:35 +0000"
-  },
-  "171jwe": {
-    "id": "171jwe",
-    "type": "news",
-    "headline": "Past Red Carpet Comments About James Gunn Resurface Following His Exit from DC Studios",
-    "dek": "Recent remarks made by cast members praising the leadership of James Gunn have taken on a different meaning after news broke of his departure from DC Studios.",
-    "entities": {
-      "people": [
-        "James Gunn",
-        "Tom Rhys Harries",
-        "Peter Safran",
-        "Jeremy Latcham",
-        "Skyler Gisondo",
-        "Zack Snyder"
-      ],
-      "titles": [
-        "Clayface",
-        "Man of Tomorrow",
-        "Supergirl",
-        "Superman",
-        "Lanterns",
-        "Paper Tiger"
-      ]
-    },
-    "keywords": [
-      "James Gunn DC Studios",
-      "Tom Rhys Harries Clayface",
-      "Man of Tomorrow release date",
-      "Jeremy Latcham DC"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.mos.cms.futurecdn.net/cia67SoXGhgss2Wd3teKVB-1280-80.jpg",
-        "caption": "Past Red Carpet Comments About James Gunn Resurface Following His Exit from DC Studios",
-        "source": "CinemaBlend"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 14:26:44 +0000"
-  },
-  "34nm2x": {
-    "id": "34nm2x",
-    "type": "news",
-    "headline": "Salman Khan Wishes Success to Shraddha Kapoor's Eetha Ahead of Their December 4 Box Office Clash",
-    "dek": "In a display of industry camaraderie, superstar Salman Khan has publicly cheered for Shraddha Kapoor's upcoming biographical drama Eetha, even though his own feature Maatrubhumi: May War Rest in Peace opens in cinemas on the exact same date.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Shraddha Kapoor",
-        "Apoorva Lakhia",
-        "Chitrangda Singh",
-        "Laxman Utekar",
-        "Vithabai Bhau Mang Narayangaonkar",
-        "Dinesh Vijan",
-        "Karishma Sharma",
-        "Randeep Hooda",
-        "Mohammed Zeeshan Ayyub",
-        "Nana Patekar",
-        "Siddharth Jadhav",
-        "Anant Joshi",
-        "Akshara Singh",
-        "Ulka Gupta"
-      ],
-      "titles": [
-        "Eetha",
-        "Maatrubhumi: May War Rest in Peace",
-        "Stree"
-      ]
-    },
-    "keywords": [
-      "Salman Khan Eetha support",
-      "Shraddha Kapoor Eetha December 4",
-      "Maatrubhumi May War Rest in Peace release",
-      "Laxman Utekar Eetha trailer",
-      "Salman Khan Apoorva Lakhia film"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135773007,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Salman Khan Wishes Success to Shraddha Kapoor's Eetha Ahead of Their December 4 Box Office Clash",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-12T19:45:30+05:30"
-  },
-  "19ty39t": {
-    "id": "19ty39t",
-    "type": "news",
-    "headline": "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
-    "dek": "The acclaimed actor opens up about his upcoming collaboration with his long-time idol, highlighting unexpected improvisational moments on set.",
-    "entities": {
-      "people": [
-        "Denzel Washington",
-        "Robert Pattinson",
-        "Fernando Meirelles",
-        "Daisy Edgar-Jones",
-        "John David Washington",
-        "Christopher Nolan"
-      ],
-      "titles": [
-        "The Take",
-        "Dune",
-        "Tenet",
-        "Primetime",
-        "The Equalizer"
-      ]
-    },
-    "keywords": [
-      "Robert Pattinson The Take",
-      "Denzel Washington Robert Pattinson movie",
-      "The Take movie release date",
-      "Fernando Meirelles The Take"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.mos.cms.futurecdn.net/TU2DWiwasTccBZLdgyTbp7-2000-80.jpg",
-        "caption": "Robert Pattinson Shares What Surprised Him Working With Denzel Washington on The Take",
-        "source": "CinemaBlend"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 14:12:27 +0000"
-  },
-  "1x45e1n": {
-    "id": "1x45e1n",
-    "type": "news",
-    "headline": "Rohit Chandel Opens Up About His Bollywood Debut In The Thriller Blind Game",
-    "dek": "Television star Rohit Chandel discusses his transition to the big screen, working alongside Arjun Rampal and Priyamani, and why he chose a suspense thriller for his feature film debut.",
-    "entities": {
-      "people": [
-        "Rohit Chandel",
-        "Arjun Rampal",
-        "Priyamani",
-        "Aakash Kumar"
-      ],
-      "titles": [
-        "Blind Game",
-        "Pandya Store",
-        "Sairaab"
-      ]
-    },
-    "keywords": [
-      "Rohit Chandel Blind Game",
-      "Blind Game ZEE5 streaming",
-      "Rohit Chandel film debut",
-      "Arjun Rampal Priyamani Blind Game"
-    ],
-    "images": [
-      {
-        "url": "https://images.filmibeat.com/img/2026/11/rohitchandelblindgameexcld2-88521794492094.jpg",
-        "caption": "Rohit Chandel Opens Up About His Bollywood Debut In The Thriller Blind Game",
-        "source": "FilmiBeat"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 19:36:16 +0530"
-  },
-  "10ntio2": {
-    "id": "10ntio2",
-    "type": "news",
-    "headline": "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
-    "dek": "Meghna Gulzar's directorial venture Daayra, starring Kareena Kapoor Khan and Prithviraj Sukumaran, is officially heading to Netflix for its digital streaming premiere in Hindi and Malayalam.",
-    "entities": {
-      "people": [
-        "Kareena Kapoor",
-        "Prithviraj Sukumaran",
-        "Meghna Gulzar",
-        "Rishabh Suri",
-        "Rohit Shetty"
-      ],
-      "titles": [
-        "Daayra"
-      ]
-    },
-    "keywords": [
-      "Daayra OTT release",
-      "Kareena Kapoor Daayra",
-      "Prithviraj Sukumaran Netflix",
-      "Meghna Gulzar Daayra film"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/Daayra_1794490673280_cxEu_1794490673489_O9Y4_2495bf3a-2c75-4f1c-ba1c-79633523709e_gTOG.jpg",
-        "caption": "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 19:26:20 +0530"
-  },
-  "1j925ov": {
-    "id": "1j925ov",
-    "type": "news",
-    "headline": "Ravie Dubey Celebrates Ramayana Crossing ₹1,000 Crore with Behind-the-Scenes Photos",
-    "dek": "Actor Ravie Dubey marks Ramayana crossing the ₹1,000 crore worldwide milestone by sharing exclusive behind-the-scenes moments from the sets.",
-    "entities": {
-      "people": [
-        "Ravie Dubey",
-        "Sai Pallavi",
-        "Ranbir Kapoor",
-        "Namit Malhotra",
-        "Nitesh Tiwari",
-        "Rakul Preet Singh",
-        "Yash",
-        "A R Rahman",
-        "Hans Zimmer",
-        "Vibha Maru"
-      ],
-      "titles": [
-        "Ramayana",
-        "Ramayanastars"
-      ]
-    },
-    "keywords": [
-      "Ramayana",
-      "Ravie Dubey",
-      "Rakul Preet Singh",
-      "Ramayana box office"
-    ],
-    "images": [
-      {
-        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/Ravie_1794490649145_Qw5C_1794490649409_XDYW_852dd9ba-f91b-4cbf-a0ae-dc6d8f296d9b_j1i6.jpg",
-        "caption": "Ravie Dubey Celebrates Ramayana Crossing ₹1,000 Crore with Behind-the-Scenes Photos",
-        "source": "Hindustan Times — Entertainment"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 19:22:55 +0530"
-  },
-  "13jmj6s": {
-    "id": "13jmj6s",
-    "type": "news",
-    "headline": "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
-    "dek": "Ayushmann Khurrana and Sharvari star in the newly released devotional track Bulaye Chhathi Maa from Sooraj Barjatya's upcoming film.",
-    "entities": {
-      "people": [
-        "Ayushmann Khurrana",
-        "Sharvari",
-        "Himesh Reshammiya",
-        "Shreya Ghoshal",
-        "Keshav Anand",
-        "Manoj Muntashir Shukla",
-        "Anupam Kher",
-        "Sooraj Barjatya"
-      ],
-      "titles": [
-        "Yeh Prem Mol Liya",
-        "Bulaye Chhathi Maa",
-        "Jhumka Patola",
-        "Saawan Aaya Hai",
-        "Jai Ambe Bol"
-      ]
-    },
-    "keywords": [
-      "Yeh Prem Mol Liya",
-      "Bulaye Chhathi Maa",
-      "Himesh Reshammiya",
-      "Ayushmann Khurrana Sharvari",
-      "Sooraj Barjatya"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/yeh-prem-mol-liya-121745379-16x9_0.jpg?VersionId=QUOfBPr4p1Qu...xSIt1SSatMSvjCCz2",
-        "caption": "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 18:49:37 +0530"
-  },
-  "eeeerk": {
-    "id": "eeeerk",
-    "type": "news",
-    "headline": "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'",
-    "dek": "The Thessaloniki Film Festival's industry events concluded with top prizes going to Mari Gulbiani's political road movie and Angela Dimeska's female-centered North Macedonian drama.",
-    "entities": {
-      "people": [
-        "Mari Gulbiani",
-        "Kate Kalandarishvili",
-        "Angela Dimeska",
-        "Ognen Anton",
-        "Sofia Georgovassili",
-        "Tunahan Kurt",
-        "Ayman El Amir",
-        "Gözde Kural",
-        "Christina Koutsospyrou",
-        "Aran Hughes",
-        "Yumna Marwan",
-        "Sylvie Weber",
-        "Panagiotis Charamis",
-        "Sarra Ben Hassen",
-        "Patrick Tass",
-        "Isabella Rinaldi",
-        "Nada Riyadh",
-        "Selini Papageorgiou",
-        "Matina Galatsianou"
-      ],
-      "titles": [
-        "The Crossroad",
-        "They Bloom at Dawn",
-        "Mignon",
-        "The Law of the Flies",
-        "Avanos",
-        "Río Masacre",
-        "A Pair of Shoes in the Dark Corner of the Moon",
-        "In Those Darkest Nights",
-        "Koukitsa",
-        "A Touch of Paradise",
-        "The Arab of Your Dreams",
-        "This Is Not a Set",
-        "Fuoristagione"
-      ]
-    },
-    "keywords": [
-      "The Crossroad film",
-      "They Bloom at Dawn",
-      "Mari Gulbiani",
-      "Angela Dimeska",
-      "Thessaloniki Industry Awards"
-    ],
-    "images": [
-      {
-        "url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-12-Nov-2026-01-51-PM-4079.jpg?w=1000&#038;h=563&#038;crop=1",
-        "caption": "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'",
-        "source": "Variety"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 13:08:13 +0000"
-  },
   "1643vxd": {
     "id": "1643vxd",
     "type": "news",
@@ -5199,121 +5123,5 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-08T15:00:05Z"
-  },
-  "137eag": {
-    "id": "137eag",
-    "type": "news",
-    "headline": "Dastoor Episode 79 — Watch Online on Green TV",
-    "dek": "Dastoor episode 79 aired on 2026-11-08 — watch the full episode on Green TV.",
-    "entities": {
-      "titles": [
-        "Dastoor"
-      ],
-      "people": [
-        "Hibba Aziz",
-        "Danial Afzal Khan",
-        "Areej Mohyudin",
-        "Faraz Farooqui",
-        "Azra Mohyeddin"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/Ftd6crec67A/hqdefault.jpg",
-        "caption": "Dastoor Episode 79",
-        "source": "Green TV"
-      }
-    ],
-    "published": "2026-11-08T14:45:16Z"
-  },
-  "1uxna1r": {
-    "id": "1uxna1r",
-    "type": "news",
-    "headline": "Bano Episode 25 — Watch Online on Geo TV",
-    "dek": "Bano episode 25 aired on 2026-11-07 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Bano"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/6uTtY_XKWFo/hqdefault.jpg",
-        "caption": "Bano Episode 25",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-07T17:00:36Z"
-  },
-  "it2xw5": {
-    "id": "it2xw5",
-    "type": "news",
-    "headline": "Zehar-e-Mohabbat Episode 23 — Watch Online on HUM TV",
-    "dek": "Zehar-e-Mohabbat episode 23 aired on 2026-11-07 — watch the full episode on HUM TV.",
-    "entities": {
-      "titles": [
-        "Zehar-e-Mohabbat"
-      ],
-      "people": []
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/MG-LgQ0Pxg4/hqdefault.jpg",
-        "caption": "Zehar-e-Mohabbat Episode 23",
-        "source": "HUM TV"
-      }
-    ],
-    "published": "2026-11-07T17:00:04Z"
-  },
-  "1py2w8g": {
-    "id": "1py2w8g",
-    "type": "news",
-    "headline": "Nashtar Episode 28 — Watch Online on Geo TV",
-    "dek": "Nashtar episode 28 aired on 2026-11-07 — watch the full episode on Geo TV.",
-    "entities": {
-      "titles": [
-        "Nashtar"
-      ],
-      "people": [
-        "Danish Taimoor",
-        "Anmol Baloch",
-        "Naeema Butt"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/X6xz_nfY_L0/hqdefault.jpg",
-        "caption": "Nashtar Episode 28",
-        "source": "Geo TV"
-      }
-    ],
-    "published": "2026-11-07T16:08:53Z"
-  },
-  "lx1ugk": {
-    "id": "lx1ugk",
-    "type": "news",
-    "headline": "Dar-E-Nijaat Episode 29 — Watch Online on ARY Digital",
-    "dek": "Dar-E-Nijaat episode 29 aired on 2026-11-07 — watch the full episode on ARY Digital.",
-    "entities": {
-      "titles": [
-        "Dar-E-Nijaat"
-      ],
-      "people": [
-        "Sheheryar Munawar Siddiqui",
-        "Dur-e-Fishan Saleem",
-        "Nameer Nawaz Khan",
-        "Faran Tahir",
-        "Romaisa Khan"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://i.ytimg.com/vi/wKGx32p8Bfg/hqdefault.jpg",
-        "caption": "Dar-E-Nijaat Episode 29",
-        "source": "ARY Digital"
-      }
-    ],
-    "published": "2026-11-07T16:00:34Z"
   }
 };

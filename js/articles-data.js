@@ -137469,5 +137469,620 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-13T22:11:55+05:30"
+  },
+  "1iumf04": {
+    "id": "1iumf04",
+    "type": "news",
+    "headline": "Bano Episode 30 — Watch Online on Geo TV",
+    "dek": "Bano episode 30 aired on 2026-11-13 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Bano Episode 30 aired on 2026-11-13 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=Dr3XrPHryi8"
+        ]
+      }
+    ],
+    "facts": [
+      "Bano Episode 30 aired on 2026-11-13.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=Dr3XrPHryi8",
+      "YouTube views: 78,319."
+    ],
+    "entities": {
+      "titles": [
+        "Bano"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/Dr3XrPHryi8/hqdefault.jpg",
+        "caption": "Bano Episode 30",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-13T17:00:21Z"
+  },
+  "9ulma2": {
+    "id": "9ulma2",
+    "type": "news",
+    "headline": "Lagan Lagi Episode 17 — Watch Online on ARY Digital",
+    "dek": "Lagan Lagi episode 17 aired on 2026-11-13 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Lagan Lagi Episode 17 aired on 2026-11-13 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=W4T93S-3jtU"
+        ]
+      },
+      {
+        "h": "About Lagan Lagi",
+        "p": [
+          "Was it just a dream… or a warning of what’s to come?\n\nWhen fear feels real and the lines between dreams and reality begin to blur, what awaits on the other side?"
+        ]
+      }
+    ],
+    "facts": [
+      "Lagan Lagi Episode 17 aired on 2026-11-13.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=W4T93S-3jtU",
+      "YouTube views: 1,711.",
+      "TMDB: Lagan Lagi (id 337316)."
+    ],
+    "entities": {
+      "titles": [
+        "Lagan Lagi"
+      ],
+      "people": [
+        "Hina Chaudhary",
+        "Saad Qureshi",
+        "Haris Waheed",
+        "Jaweria Ali",
+        "Hamza Majeed Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/W4T93S-3jtU/hqdefault.jpg",
+        "caption": "Lagan Lagi Episode 17",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-13T17:00:00Z"
+  },
+  "1hhl8s3": {
+    "id": "1hhl8s3",
+    "type": "news",
+    "headline": "Dar-E-Nijaat Episode 30 — Watch Online on ARY Digital",
+    "dek": "Dar-E-Nijaat episode 30 aired on 2026-11-13 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dar-E-Nijaat Episode 30 aired on 2026-11-13 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=dk4uVsevJeU"
+        ]
+      },
+      {
+        "h": "About Dar-E-Nijaat",
+        "p": [
+          "Some stories begin with love. Some are tested by loss. And some are remembered for the courage it takes to forgive."
+        ]
+      }
+    ],
+    "facts": [
+      "Dar-E-Nijaat Episode 30 aired on 2026-11-13.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=dk4uVsevJeU",
+      "YouTube views: 644,734.",
+      "TMDB: Dar-E-Nijaat (id 328722)."
+    ],
+    "entities": {
+      "titles": [
+        "Dar-E-Nijaat"
+      ],
+      "people": [
+        "Sheheryar Munawar Siddiqui",
+        "Dur-e-Fishan Saleem",
+        "Nameer Nawaz Khan",
+        "Faran Tahir",
+        "Romaisa Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/dk4uVsevJeU/hqdefault.jpg",
+        "caption": "Dar-E-Nijaat Episode 30",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-13T16:00:32Z"
+  },
+  "1mzm84n": {
+    "id": "1mzm84n",
+    "type": "news",
+    "headline": "Nashtar Episode 30 — Watch Online on Geo TV",
+    "dek": "Nashtar episode 30 aired on 2026-11-13 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Nashtar Episode 30 aired on 2026-11-13 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=3YwBQFb22qM"
+        ]
+      },
+      {
+        "h": "About Nashtar",
+        "p": [
+          "Shah Dawood, the arrogant heir to a powerful landowning family, clashes with Bareera Aijaz, a principled university student who refuses to bow to his authority. Forced into an unexpected marriage, their constant battles gradually give way to respect and love. But when Tamseel, Shah’s longtime admirer, refuses to accept Bareera, their fragile relationship is put to the ultimate test. Can Shah and Bareera overcome jealousy, family pressure, and their differences to find lasting love?"
+        ]
+      }
+    ],
+    "facts": [
+      "Nashtar Episode 30 aired on 2026-11-13.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=3YwBQFb22qM",
+      "YouTube views: 570,662.",
+      "TMDB: Nashtar (id 332312)."
+    ],
+    "entities": {
+      "titles": [
+        "Nashtar"
+      ],
+      "people": [
+        "Danish Taimoor",
+        "Anmol Baloch",
+        "Naeema Butt"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3YwBQFb22qM/hqdefault.jpg",
+        "caption": "Nashtar Episode 30",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-13T16:00:30Z"
+  },
+  "fjhibe": {
+    "id": "fjhibe",
+    "type": "news",
+    "headline": "Aangan Episode 13 — Watch Online on HUM TV",
+    "dek": "Aangan episode 13 aired on 2026-11-13 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Aangan Episode 13 aired on 2026-11-13 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=3g9CYw-jXwI"
+        ]
+      },
+      {
+        "h": "About Aangan",
+        "p": [
+          "Set before 1940s, a Hindustani family that was divided mercilessly before the partition of Pakistan by the unfortunate time incidents."
+        ]
+      }
+    ],
+    "facts": [
+      "Aangan Episode 13 aired on 2026-11-13.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=3g9CYw-jXwI",
+      "YouTube views: 76,936.",
+      "TMDB: Aangan (id 90172)."
+    ],
+    "entities": {
+      "titles": [
+        "Aangan"
+      ],
+      "people": [
+        "Ahad Raza Mir",
+        "Sonya Husyn",
+        "Sajal Ali",
+        "Mawra Hocane",
+        "Ahsan Khan"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/3g9CYw-jXwI/hqdefault.jpg",
+        "caption": "Aangan Episode 13",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-13T16:00:07Z"
+  },
+  "a8dx4o": {
+    "id": "a8dx4o",
+    "type": "news",
+    "headline": "Clive Davis's Historic Manhattan Penthouse Listed For Eleven Million Dollars",
+    "dek": "Months after the legendary music executive's passing, his expansive duplex penthouse inside Manhattan's iconic Ritz Tower has officially been placed on the real estate market.",
+    "body": [
+      {
+        "h": "The Penthouse Listing",
+        "p": [
+          "Several months following the passing of renowned music executive Clive Davis, his longtime primary residence situated at the historic Ritz Tower has been placed on the open real estate market with an asking price of eleven million dollars. For more than four decades, this magnificent property served as the executive's personal sanctuary in the heart of Manhattan. The luxury listing has drawn considerable attention from prospective buyers and real estate enthusiasts alike due to its prestigious address and association with one of the most influential figures in American music history."
+        ]
+      },
+      {
+        "h": "History of the Residence",
+        "p": [
+          "Clive Davis first established his presence in the landmark building back in 1985 when he initially purchased an apartment there. Over the subsequent years, he acquired an adjacent unit and successfully combined the two separate spaces into a single, expansive duplex. This sprawling home remained his main residence for more than forty years until his death in June 2026 at the age of ninety-four. The property reflects a lifetime of achievement and a deep connection to New York City's vibrant cultural landscape."
+        ]
+      },
+      {
+        "h": "Architecture and Layout",
+        "p": [
+          "Positioned across the thirty-sixth and thirty-seventh floors at 465 Park Avenue, the luxurious approximately 4500-square-foot duplex boasts a total of nine rooms. The floor plan encompasses four bedrooms, three full bathrooms, and a powder room. A striking, custom-designed spiral staircase physically connects the two distinct levels of the penthouse. Additionally, the residence features a separate private entrance located directly on the thirty-sixth floor, allowing the lower level to function smoothly as an independent guest or family wing."
+        ]
+      },
+      {
+        "h": "Interior Design and Entertainment",
+        "p": [
+          "To shape the sophisticated interiors of his Manhattan home, Davis collaborated closely with notable interior designers Vicente Wolf and Robert Metzger. The apartment was meticulously designed with large-scale entertaining in mind, offering expansive living and dining zones alongside large windows that frame sweeping views of the city skyline. A dedicated private screening room further enhances the residence's capacity for hosting. Furthermore, a separate studio apartment situated on the fourteenth floor of the building is available as an independent offering for buyers seeking extra space for staff or a private office."
+        ]
+      },
+      {
+        "h": "The Legacy of the Ritz Tower",
+        "p": [
+          "The Ritz Tower itself stands as a landmark pre-war residential building located at the busy intersection of Park Avenue and Fifty-Seventh Street. Completed in 1926 and brought to life by renowned architects Emery Roth and Thomas Hastings, the structure was once the tallest residential building in New York City. Residents of this prestigious address enjoy a comprehensive suite of luxury amenities, including a twenty-four-hour doorman, dedicated concierge services, attended elevators, in-house chef room service, daily housekeeping, and a modern fitness centre. The property is currently listed with Compass."
+        ]
+      },
+      {
+        "h": "Clive Davis and the Music Industry",
+        "p": [
+          "Born on April 4, 1932, Clive Davis built a legendary career spanning more than six decades that permanently transformed the American music industry. He served as the president of Columbia Records prior to founding Arista Records and later establishing J Records. Throughout his storied professional journey, Davis discovered, signed, and significantly shaped the careers of numerous iconic artists across various genres, including Whitney Houston, Barry Manilow, Aretha Franklin, Patti Smith, Bruce Springsteen, Alicia Keys, and Toni Braxton. His immense contributions earned him four competitive Grammy Awards alongside the prestigious Recording Academy Trustees Award in the year 2000."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The longtime Manhattan penthouse of late music executive Clive Davis has been listed for sale at eleven million dollars following his passing in June 2026 at age ninety-four. The expansive duplex inside the historic Ritz Tower was formed by combining separate units purchased beginning in 1985."
+        ]
+      }
+    ],
+    "facts": [
+      "Clive Davis bought his first apartment in the Ritz tower in 1985.",
+      "The duplex penthouse is listed for sale for $11 million.",
+      "Clive Davis passed away in June 2026 at the age of 94.",
+      "The residence is located on the 36th and 37th floors of 465 Park Avenue.",
+      "The apartment spans approximately 4,500 square feet with 9 rooms, 4 bedrooms, 3 full bathrooms, and a powder room.",
+      "The Ritz Tower was completed in 1926 and designed by Emery Roth and Thomas Hastings.",
+      "Clive Davis was born on April 4, 1932.",
+      "Clive Davis won four competitive Grammy Awards and received the Trustees Award in 2000."
+    ],
+    "entities": {
+      "people": [
+        "Clive Davis",
+        "Vicente Wolf",
+        "Robert Metzger",
+        "Emery Roth",
+        "Thomas Hastings",
+        "Whitney Houston",
+        "Barry Manilow",
+        "Aretha Franklin",
+        "Patti Smith",
+        "Bruce Springsteen",
+        "Alicia Keys",
+        "Toni Braxton"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Clive Davis Ritz tower",
+      "Clive Davis apartment for sale",
+      "Clive Davis Manhattan penthouse",
+      "Ritz Tower Park Avenue"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135802825,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Clive Davis's Historic Manhattan Penthouse Listed For Eleven Million Dollars",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T22:00:00+05:30"
+  },
+  "n4njlx": {
+    "id": "n4njlx",
+    "type": "news",
+    "headline": "Johnny Depp Returns to the Big Screen as Ebenezer Pulls in Solid Numbers in Previews",
+    "dek": "Actor Johnny Depp makes his major studio return with the holiday-themed ghost story Ebenezer, bringing in notable preview numbers ahead of its weekend rollout.",
+    "body": [
+      {
+        "h": "The Return of Johnny Depp",
+        "p": [
+          "Johnny Depp is making a prominent push for a career comeback at the box office with the holiday-themed ghost story titled Ebenezer. The project marks his official return to mainstream studio fare following a period marked by negative headlines and legal battles involving his ex-wife Amber Heard. His last major studio appearance was in the 2018 film Fantastic Beasts: The Crimes of Grindelwald, before Warner Bros. parted ways with the actor.",
+          "In his new venture, Depp steps into the role of the miserly Ebenezer Scrooge in a spooky adaptation of the classic Charles Dickens story A Christmas Carol. Directed by Ti West, the feature aims to bring the actor back into the spotlight with a high-profile studio rollout across North American venues."
+        ]
+      },
+      {
+        "h": "Box Office Preview Numbers",
+        "p": [
+          "Paramount Pictures launched Ebenezer into more than 3,500 theaters across North America, following an initial $1.5 million haul from Thursday preview screenings. Studio projections estimate that the feature will bring in roughly $20 million domestically over its opening frame.",
+          "In addition to its domestic expectations, the studio anticipates the film will rake in another $20 million from international markets spanning 63 territories worldwide. The production was mounted on a budget of $38 million."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The film features an expansive ensemble cast alongside its leading man. Performers rounding out the credits include Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Ian McKellen, and Tramell Tillman.",
+          "Director Ti West takes the helm of the ghost story, guiding the cinematic vision of the Charles Dickens adaptation from a script backed by Paramount Pictures."
+        ]
+      },
+      {
+        "h": "Critical Reception",
+        "p": [
+          "Critics have offered a divided set of opinions regarding the holiday release. On Rotten Tomatoes, the feature holds a 52 percent approval rating from film critics.",
+          "Despite the mixed consensus, positive notices highlight its primary objective. Reviewer Frank Scheck noted that the picture successfully fulfills its goal of restoring the leading actor to A-list status."
+        ]
+      },
+      {
+        "h": "Rival Weekend Releases",
+        "p": [
+          "Alongside the Depp-led feature, Amazon MGM Studios rolled out its own high-profile project titled How to Rob a Bank. Directed by filmmaker David Leitch, the heist movie secured $900,000 in preview screenings across 2,810 domestic locations against a $40 million budget.",
+          "Sony Pictures also contributed to the box-office landscape with the action film Ghost Soldier. Directed by William Eubank and starring Jim Caviezel, the movie brought in $3.1 million over a multi-day stretch that included Tuesday previews in 2,558 locations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Johnny Depp has returned to the big screen with the holiday-themed ghost story Ebenezer, bringing in $1.5 million in Thursday previews ahead of its wider theatrical release. Paramount Pictures projects a $20 million domestic opening and another $20 million internationally for the $38 million-budgeted adaptation directed by Ti West."
+        ]
+      }
+    ],
+    "facts": [
+      "Johnny Depp stars as Ebenezer Scrooge in Ebenezer.",
+      "Ebenezer grossed $1.5 million from Thursday previews.",
+      "Paramount Pictures projects Ebenezer to collect $20 million domestically.",
+      "Ebenezer has a budget of $38 million.",
+      "How to Rob a Bank nabbed $900,000 in previews.",
+      "Ghost Soldier grossed $3.1 million over two days including Tuesday previews."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Ti West",
+        "Amber Heard",
+        "Rupert Grint",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Ian McKellen",
+        "Tramell Tillman",
+        "Frank Scheck",
+        "David Leitch",
+        "David Rooney",
+        "Anna Sawai",
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "William Eubank",
+        "Jim Caviezel"
+      ],
+      "titles": [
+        "Ebenezer",
+        "A Christmas Carol",
+        "Fantastic Beasts: The Crimes of Grindelwald",
+        "How to Rob a Bank",
+        "Ghost Soldier",
+        "Carrie"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp Ebenezer",
+      "Ebenezer box office",
+      "Ti West Ebenezer movie",
+      "How to Rob a Bank film",
+      "Ghost Soldier movie"
+    ],
+    "images": [
+      {
+        "url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/EBZR-04148R2-H-2026.jpg?w=1296&#038;h=730&#038;crop=1",
+        "caption": "Johnny Depp Returns to the Big Screen as Ebenezer Pulls in Solid Numbers in Previews",
+        "source": "The Hollywood Reporter"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:23:58 +0000"
+  },
+  "xhx6hk": {
+    "id": "xhx6hk",
+    "type": "news",
+    "headline": "Shah Rukh Khan's King Targets Massive Advance Bookings to Chase Bollywood Opening Records",
+    "dek": "As anticipation builds for the release of Siddharth Anand's upcoming action spectacle, industry tracking indicates that substantial pre-sales targets will be required to challenge the current benchmarks set by Dhurandhar 2.",
+    "body": [
+      {
+        "h": "Setting the Stage for a High-Stakes Theatrical Arrival",
+        "p": [
+          "Shah Rukh Khan's upcoming cinematic venture, King, is gearing up to enter a theatrical environment defined by fierce competition and soaring benchmarks. While the superstar's previous action blockbusters like Pathaan and Jawan successfully redefined commercial milestones for the Hindi film industry, subsequent releases have continued to push the ceiling even higher.",
+          "The competitive landscape has shifted significantly, with blockbusters such as Dhurandhar 2 establishing unprecedented opening-day figures that outpace earlier records. At the same time, major productions from South Indian cinema continue to command the highest all-India debuts, leaving a distinct gap between leading Hindi releases and pan-Indian giants."
+        ]
+      },
+      {
+        "h": "The Directorial Leadership and Release Window",
+        "p": [
+          "Directed by filmmaker Siddharth Anand, King is officially scheduled to hit the big screen on December 24, 2026. This festive arrival positions the film squarely in a crowded holiday window, giving the actor a prime opportunity to challenge existing records.",
+          "Expectations surrounding the project are exceptionally high, fueled by its strategic positioning and the widespread commercial appeal of its lead star. The creative team faces the challenge of translating this massive anticipation into record-breaking box office turnout right from the first shows."
+        ]
+      },
+      {
+        "h": "Evaluating Pre-Sales Targets and Conversion Metrics",
+        "p": [
+          "Industry analysis based on historical advance-booking conversion rates suggests that King will need robust pre-sales figures to contend with current champions. Historical data covering major Indian releases indicates that films typically finish their opening day at roughly 1.87 to 2.35 times their initial advance collections, excluding block seats.",
+          "To mount a serious challenge against the opening figures of Dhurandhar 2, analysts estimate that King will require an estimated pre-sales target in the range of ₹52 crore to ₹66 crore. Reaching this milestone would provide the necessary momentum to test the uppermost limits of Bollywood's opening-day potential."
+        ]
+      },
+      {
+        "h": "Comparative Benchmarks Across the Industry",
+        "p": [
+          "The current hierarchy of Indian box office openings features formidable competitors across multiple languages. Dhurandhar 2 currently holds the title for the biggest Bollywood opening and Hindi-language opening with collections scaling near the ₹100 crore net mark.",
+          "Meanwhile, pan-Indian releases like Pushpa 2 have established staggering overall Indian and worldwide opening figures, driven by tremendous multi-language demand. For King to approach these greater heights, it will rely heavily on an extraordinary Hindi debut alongside substantial contributions from any dubbed versions."
+        ]
+      },
+      {
+        "h": "Massive Overseas Valuation and International Reach",
+        "p": [
+          "Beyond domestic expectations, King has already demonstrated immense commercial viability on the global stage. International distribution rights for the film have reportedly been acquired by Phars Films for a substantial sum of ₹175 crore.",
+          "This lucrative overseas deal underscores the immense global pull of Shah Rukh Khan, whose previous films have consistently shattered international box office records and established new benchmarks for Indian cinema abroad."
+        ]
+      },
+      {
+        "h": "An Aggressive Exhibition and Screen Strategy",
+        "p": [
+          "Distribution plans within the domestic market are equally ambitious, with domestic distributor Pen Marudhar pushing for an exceptionally wide theatrical footprint. Reports indicate that the studio is seeking more screen allocations than several major Hollywood holiday releases combined.",
+          "Securing this expansive exhibition network is crucial for accommodating the anticipated high demand during the Christmas season. If successful, this aggressive screen strategy will provide the operational capacity needed to sustain a record-breaking opening day."
+        ]
+      },
+      {
+        "h": "Shah Rukh Khan's Legacy of Box Office Milestones",
+        "p": [
+          "The upcoming release arrives on the heels of an illustrious career decorated with historic milestones. Pathaan previously made history as the first Bollywood film to cross ₹500 crore in India net, while Jawan subsequently pushed the threshold further by entering the ₹600 crore club.",
+          "Furthermore, Jawan achieved the distinction of recording the fastest pace to cross major worldwide milestones, cementing the actor's status as a dominant box office force capable of delivering multiple massive grossers within a single year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan's upcoming film King is aiming for major Bollywood opening day records ahead of its December 24, 2026 release. Backed by a ₹175 crore overseas deal and aggressive screen planning by distributor Pen Marudhar, the Siddharth Anand directorial needs an estimated ₹52–66 crore in advance bookings to challenge the benchmarks set by Dhurandhar 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan's King is scheduled to release on December 24, 2026.",
+      "The overseas theatrical rights for King were acquired by Phars Films for ₹175 crore.",
+      "King needs approximately ₹52-66 crore in advance bookings, excluding block seats, to challenge existing Bollywood opening records.",
+      "Dhurandhar 2 holds the record for the biggest Bollywood film opening at ₹102.55 crore India net.",
+      "Pathaan crossed ₹543.09 crore lifetime India net.",
+      "Jawan entered the ₹600 crore India net club with ₹640.25 crore."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Siddharth Anand"
+      ],
+      "titles": [
+        "King",
+        "Pathaan",
+        "Jawan",
+        "Dhurandhar 2",
+        "Pushpa 2",
+        "Coolie"
+      ]
+    },
+    "keywords": [
+      "King film release date",
+      "Shah Rukh Khan King box office",
+      "King advance booking target",
+      "Siddharth Anand King movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028528.jpg",
+        "caption": "Shah Rukh Khan's King Targets Massive Advance Bookings to Chase Bollywood Opening Records",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 15:47:34 +0000"
+  },
+  "1ondfen": {
+    "id": "1ondfen",
+    "type": "news",
+    "headline": "Vaaste Singer Dhvani Bhanushali Announces Engagement to Yash Bhanushali",
+    "dek": "Popular singer Dhvani Bhanushali has shared pictures of her engagement to Yash Bhanushali, posting glimpses of the celebration and her engagement ring on Instagram.",
+    "body": [
+      {
+        "h": "The Engagement Announcement",
+        "p": [
+          "Popular singer Dhvani Bhanushali has officially announced her engagement to Yash Bhanushali. The artist took to social media to share the happy news with her followers.",
+          "She posted four distinct photographs capturing moments from the celebration, giving fans an intimate look at the couple and her engagement ring."
+        ]
+      },
+      {
+        "h": "A Heartfelt Social Media Post",
+        "p": [
+          "Alongside the pictures uploaded to Instagram, the singer included a sweet caption expressing her joy about the milestone.",
+          "She wrote, Found me my cupcake for life. Said yessss, capturing the lighthearted and affectionate tone of the celebration."
+        ]
+      },
+      {
+        "h": "Glimpses From the Celebration",
+        "p": [
+          "The newly shared images depict the couple sharing warm and joyful moments together during the event.",
+          "One frame shows Dhvani wrapped in a warm hug with Yash, while another features him kissing her on the cheek as she holds a glass. A third picture highlights her diamond ring with a sunset framing the background."
+        ]
+      },
+      {
+        "h": "Fashion Choices for the Day",
+        "p": [
+          "For the special occasion, the singer opted for a casual yet stylish ensemble consisting of a brown tank top, a leather skirt, and matching footwear.",
+          "Meanwhile, Yash selected a white shirt layered with a colourful jacket, completed with denim jeans and matching shoes."
+        ]
+      },
+      {
+        "h": "A Look Back at Her Music Journey",
+        "p": [
+          "Dhvani began her professional music journey in 2018 and quickly rose to household fame after her track Vaaste crossed millions of views alongside chart-topping hits like Dilbar.",
+          "Her extensive discography also includes popular numbers such as Leja Re, Duniyaa from Luka Chuppi, and Nayan, earning her recognition as a prominent young pop star."
+        ]
+      },
+      {
+        "h": "Reflections on Pop and Playback",
+        "p": [
+          "In a prior discussion with India Today, the artist spoke candidly about balancing playback singing with her distinct inclination toward pop music.",
+          "She remarked that playback is exciting for matching voices to faces, but emphasized that she feels nobody can tell an artist's story better than themselves through original pop music."
+        ]
+      },
+      {
+        "h": "Recent Projects and Presence",
+        "p": [
+          "The singer maintains a massive digital presence, boasting over 7.1 million followers on her Instagram platform where she regularly connects with supporters.",
+          "On the professional front, she recently lent her vocal talents to the song Ban Piya from the 2024 feature film Suswagatam Khushamadeed."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Singer Dhvani Bhanushali has announced her engagement to Yash Bhanushali by sharing celebratory photographs and a look at her ring on Instagram. The artist reflected on her musical milestones and recent career projects alongside the personal announcement."
+        ]
+      }
+    ],
+    "facts": [
+      "Dhvani Bhanushali announced her engagement to Yash Bhanushali.",
+      "Dhvani Bhanushali started her music career in 2018.",
+      "Dhvani Bhanushali has over 7.1 million followers on Instagram.",
+      "Suswagatam Khushamadeed was released in the year 2024."
+    ],
+    "entities": {
+      "people": [
+        "Dhvani Bhanushali",
+        "Yash Bhanushali"
+      ],
+      "titles": [
+        "Vaaste",
+        "Dilbar",
+        "Leja Re",
+        "Duniyaa",
+        "Luka Chuppi",
+        "Nayan",
+        "Ban Piya",
+        "Suswagatam Khushamadeed"
+      ]
+    },
+    "keywords": [
+      "Dhvani Bhanushali engagement",
+      "Yash Bhanushali",
+      "Vaaste singer Dhvani Bhanushali",
+      "Suswagatam Khushamadeed Ban Piya"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135809525,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Vaaste Singer Dhvani Bhanushali Announces Engagement to Yash Bhanushali",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T21:40:37+05:30"
   }
 };
