@@ -132449,5 +132449,396 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-13T09:16:48+05:30"
+  },
+  "90k9wo": {
+    "id": "90k9wo",
+    "type": "news",
+    "headline": "Anirudh Ravichander and Kavya Maran Choose Self-Respect Marriage in Greece",
+    "dek": "Music composer Anirudh Ravichander and businesswoman Kavya Maran tied the knot in Greece, opting for a non-traditional self-respect marriage centered on equality and consent rather than religious rituals.",
+    "body": [
+      {
+        "h": "Greece Destination Wedding",
+        "p": [
+          "Music composer Anirudh Ravichander and Sunrisers Hyderabad co-owner Kavya Maran celebrated their wedding in Greece on November 11, 2026. Eschewing conventional Vedic rites and priests, the couple exchanged garlands and matching pendants in an intimate yet high-profile ceremony.",
+          "The festivities were preceded by engagement celebrations held on November 10. Following the ceremony, images and video clips surfaced across social media platforms, capturing moments such as Anirudh placing a chain around Kavya's neck."
+        ]
+      },
+      {
+        "h": "The Tradition of Self-Respect Marriages",
+        "p": [
+          "The couple's decision to undergo a self-respect marriage drew considerable public interest regarding the unique tradition. Rooted in the Self-Respect Movement established by social reformer Periyar EV Ramasamy in Tamil Nadu, this form of union rejects caste hierarchies, patriarchal norms, and the necessity of religious officiants.",
+          "Legal recognition for these unions was established in Tamil Nadu through a 1967 amendment to the Hindu Marriage Act under Section 7-A. The legal framework validates marriages formalized through the exchange of garlands, rings, or mutual declarations among witnesses, prioritizing individual dignity and consent above all else."
+        ]
+      },
+      {
+        "h": "Confirmation and Family Ties",
+        "p": [
+          "Dr T R B Rajaa, DMK's IT Wing Secretary, publicly confirmed the nature of the ceremony on social media. He detailed how family and friends gathered to bless the couple as they exchanged garlands and matching chains handed over by prominent figures.",
+          "The guest list highlighted notable family connections between the newlyweds and senior leaders. Actor Rajinikanth serves as Anirudh's maternal uncle, while former Tamil Nadu Chief Minister MK Stalin maintains familial ties to Kavya's father, Kalanithi Maran."
+        ]
+      },
+      {
+        "h": "Dating Speculation and Relationship Timeline",
+        "p": [
+          "Anirudh and Kavya have historically maintained a private personal life, offering few details about the progression of their relationship. Public curiosity intensified in 2025 after a travel vlogger's livestream captured the pair walking together on the streets of New York.",
+          "Although initial marriage rumors in mid-2025 were dismissed by Anirudh through a lighthearted social media post, speculation reignited in October 2026. This occurred after Kalanithi and Kavery Maran personally invited Telangana Chief Minister A Revanth Reddy to their daughter's upcoming wedding events."
+        ]
+      },
+      {
+        "h": "Star-Studded Guest List in Greece",
+        "p": [
+          "The destination wedding brought together notable personalities from the entertainment, political, and corporate sectors. Rajinikanth traveled to Greece alongside his wife Latha Rajinikanth and daughter Aishwarya Rajinikanth.",
+          "They were joined by former Tamil Nadu Chief Minister MK Stalin and his son, Deputy Chief Minister Udhayanidhi Stalin. Additional celebrations captured family members and figures such as producer AV Suresh and Dayanidhi Maran celebrating the union."
+        ]
+      },
+      {
+        "h": "Upcoming Chennai Reception",
+        "p": [
+          "Following the destination celebrations in Greece, the newlyweds are scheduled to host a grand wedding reception in Chennai on November 21, 2026. The date and venue details were confirmed after invitations were extended to political leaders.",
+          "The reception at the ITC Grand Chola is anticipated to draw a diverse gathering of prominent figures spanning the film industry, business sectors, politics, and cricket."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Anirudh Ravichander and businesswoman Kavya Maran married in Greece on November 11, 2026, choosing a self-respect marriage that prioritizes mutual consent over religious rituals. Attended by prominent figures including Rajinikanth and MK Stalin, the celebration will be followed by a reception in Chennai on November 21, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander and Kavya Maran got married in Greece on November 11, 2026.",
+      "Engagement celebrations were held on November 10, 2026.",
+      "The couple opted for a self-respect marriage rooted in the movement founded by Periyar EV Ramasamy.",
+      "Section 7-A of the Hindu Marriage Act legally recognizes self-respect marriages in Tamil Nadu since 1967.",
+      "A grand wedding reception is scheduled for November 21, 2026, at the ITC Grand Chola in Chennai."
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran",
+        "Periyar EV Ramasamy",
+        "Dr T R B Rajaa",
+        "MK Stalin",
+        "Rajinikanth",
+        "Kalanithi Maran",
+        "Kavery Maran",
+        "A Revanth Reddy",
+        "Latha Rajinikanth",
+        "Aishwarya Rajinikanth",
+        "Udhayanidhi Stalin",
+        "AV Suresh",
+        "Dayanidhi Maran"
+      ],
+      "titles": [
+        "Sunrisers Hyderabad",
+        "Sun Group",
+        "3",
+        "Jailer",
+        "Vikram",
+        "Leo",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "Anirudh Ravichander",
+      "Kavya Maran",
+      "self-respect marriage",
+      "Greece wedding",
+      "Anirudh Kavya wedding"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/anirudh-ravichander-kavya-maran-wedding-135623266-16x9_0.jpg?VersionId=kYoC0aCQQW43LknXDKGN3KkQWBL51eaE",
+        "caption": "Anirudh Ravichander and Kavya Maran Choose Self-Respect Marriage in Greece",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 11:02:08 +0530"
+  },
+  "wtmba2": {
+    "id": "wtmba2",
+    "type": "news",
+    "headline": "Blood Sacrifice On Netflix: Five Reasons To Watch The Swedish Crime Thriller",
+    "dek": "Explore the gripping Nordic noir drama Blood Sacrifice on Netflix, featuring an estranged father-son duo, a relentless serial killer, and an eerie Stockholm summer setting.",
+    "body": [
+      {
+        "h": "Introduction To Blood Sacrifice",
+        "p": [
+          "Blood Sacrifice is a Netflix Swedish crime drama that unfolds against a ticking clock, focusing on an intense serial killing plot. The narrative brings together an estranged ex-cop father and his detective son as they attempt to solve a complex mystery where a killer targets police patrol officers.",
+          "The murderer stages the crimes as ritualistic killings and uses emergency 112 calls to lure police officers into traps. This Nordic noir production blends crime, drama, and suspense into a tense viewing experience."
+        ]
+      },
+      {
+        "h": "A Compelling Father-Son Emotional Core",
+        "p": [
+          "At the center of the story is the strained relationship between detective Thomas Berg and his unwillingly enlisted ex-cop father, Alfred Berg. Their awkward chemistry and the clash between old-world ideals and modern procedural practices complicate the ongoing investigation.",
+          "A touching element of their dynamic involves Alfred's miniature model railway hobby, which includes miniature figures representing the two of them. In a poignant concluding moment, Alfred urges Thomas to escape the killer and become a better father than he was."
+        ]
+      },
+      {
+        "h": "A Race Against Time To Catch A Serial Killer",
+        "p": [
+          "The screenplay immediately establishes the premise in the opening scene, introducing characters matter-of-factly. Thomas and Alfred race against the clock, analyzing clues and evidence while parallel editing creates multiple perspectives to maintain tension.",
+          "The script seamlessly integrates personal struggles, internal police rivalries, and the psychological toll of the investigation into the overarching narrative."
+        ]
+      },
+      {
+        "h": "Exposing Police Corruption And Structural Failure",
+        "p": [
+          "Beyond a traditional thriller, the series exposes deep-seated corruption and structural rot within the law enforcement system. It highlights the stark contrast between ground officers and superiors working in comfortable corporate setups.",
+          "The murders of the officials tie back to a past procedural failure, featuring morally weary detectives battling personal demons and societal pressures."
+        ]
+      },
+      {
+        "h": "Brisk Pacing And Unexpected Twists",
+        "p": [
+          "The narrative unfolds across 5 episodes, delivering a tight and multilayered story with brisk pacing. Around the fourth episode, the pace temporarily drops as characters believe the killer has been caught.",
+          "The plot turns completely on its head when Alfred links the ritualistic murders to a painting, realizing the real culprit remains at large and reigniting a frenzied cat-and-mouse chase."
+        ]
+      },
+      {
+        "h": "Stockholm's Eerie Summer Setting",
+        "p": [
+          "Moving away from traditional snow-covered winter settings in Nordic thrillers, the series is set during the Scandinavian summer. The cinematography uses the bleak and eerie Swedish summer light to evoke isolation and gloom.",
+          "Stockholm's sparkling cityscape, intricate railway systems, roadways, and picturesque villas serve as a living, breathing backdrop that enhances the Nordic noir atmosphere."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Netflix Swedish crime drama Blood Sacrifice follows an estranged father-son detective duo as they race against time to stop a ritualistic serial killer targeting police officers. Across its five episodes, the series blends police corruption, high-stakes investigation, and an eerie Stockholm summer setting into a compelling Nordic noir experience."
+        ]
+      }
+    ],
+    "facts": [
+      "Blood Sacrifice is a Swedish crime drama streaming on Netflix.",
+      "The series consists of 5 episodes.",
+      "The main characters are detective Thomas Berg and his ex-cop father Alfred Berg.",
+      "Jakob Oftebro plays Thomas Berg and Peter Andersson plays Alfred Berg."
+    ],
+    "entities": {
+      "people": [
+        "Jakob Oftebro",
+        "Peter Andersson",
+        "Thomas Berg",
+        "Alfred Berg"
+      ],
+      "titles": [
+        "Blood Sacrifice"
+      ]
+    },
+    "keywords": [
+      "Blood Sacrifice Netflix",
+      "Blood Sacrifice Swedish crime thriller",
+      "Jakob Oftebro Blood Sacrifice",
+      "Peter Andersson Blood Sacrifice"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/blood-sacrifice-5-reasons-to-watch-netflix-gripping-crime-drama-01.jpg",
+        "caption": "Blood Sacrifice On Netflix: Five Reasons To Watch The Swedish Crime Thriller",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 05:21:23 +0000"
+  },
+  "fp7yel": {
+    "id": "fp7yel",
+    "type": "news",
+    "headline": "Yeh Rishta Kya Kehlata Hai Written Update for November 13, 2026: Krish Orchestrates Kabir's Kidduction as Armaan Falls Into Trouble",
+    "dek": "A detailed written update of the November 13, 2026 episode of Yeh Rishta Kya Kehlata Hai, featuring high family drama, wedding preparations, and a shocking kidnapping twist.",
+    "body": [
+      {
+        "h": "Armaan and Abhira Discuss Maira and Kabir",
+        "p": [
+          "The November 13, 2026 episode opens with Abhira questioning Armaan regarding his prior conversation with Kabir. Armaan reveals that he cautioned Kabir against constantly trailing Maira, asserting she needs personal space to progress in her life. Abhira counters that Kabir encountered the shopping venue purely by coincidence, though Armaan maintains he comprehends male behavior.",
+          "Abhira quickly steps forward to defend Maira, while Armaan contends that Maira should skip Tanya's wedding. Abhira disagrees, noting that isolating Maira will only worsen her struggle to get over Kabir. Moved by her empathy, Armaan playfully wishes he could whisk Abhira and Maira away to an isolated island."
+        ]
+      },
+      {
+        "h": "Concerns Over Krish's Absence",
+        "p": [
+          "Meanwhile, Sanjay and Kajal grow deeply anxious upon discovering that Krish is missing from the house. Maira suggests contacting Tanya to see if Krish reached her residence to create any trouble. Sanjay reacts with irritation to the suggestion, prompting Kajal to ask Maira to make the call herself.",
+          "Shortly after, Tanya arrives at the Poddar household. Although Sanjay questions the unexpected visit, Tanya explains Abhira invited her for hair and makeup arrangements. Sanjay directs Tanya and Maira to their rooms to rest before redirecting his frustration toward Kajal, whom he blames for Krish's erratic behavior."
+        ]
+      },
+      {
+        "h": "Wedding Preparations Amid Disappearances",
+        "p": [
+          "Preparations for Tanya's wedding move forward within the Poddar home. When Abhira checks with Manisha about Tanya's hair and styling, she discovers Tanya is missing once again. This disappearance, coupled with Krish still being unaccounted for, heightens the anxiety for both Armaan and Abhira.",
+          "Krish eventually returns home, expresses cynical views about family dynamics, and suddenly collapses into unconsciousness. Tanya also arrives back, explaining she had stepped out for quick market errands, while Kaveri orders the men to move Krish to his room so the wedding rituals can continue uninterrupted."
+        ]
+      },
+      {
+        "h": "Maira, Kabir, and Resolving the Past",
+        "p": [
+          "Maira prepares a simple look for Tanya's wedding and resolves to return Kabir's chain to officially close that chapter of her life. Concurrently, Kabir also refuses to dress up for the occasion, deciding to return Maira's chain to move on permanently.",
+          "Back at the Poddar house, Abhira, Armaan, and Kaveri assist Tanya in getting ready for her big day. Amid the celebrations, Kajal expresses heartbreak to Sanjay over not being able to attend Tanya's wedding despite considering her a daughter, while the Damani family gets Samar ready."
+        ]
+      },
+      {
+        "h": "Krish's Secret Trap and Kabir's Kidnapping",
+        "p": [
+          "In a surprising turn of events, Krish hatches a plot to trap Kabir by using Armaan's phone to send a text message requesting a meeting. Unaware of the message, Armaan remains completely oblivious to what is unfolding around him.",
+          "Krish successfully hires goons to kidnap Kabir, instructing them to monitor the captive closely without inflicting unnecessary harm. Krish then prepares to disburse the promised payment to the hired individuals."
+        ]
+      },
+      {
+        "h": "Fallout and Accusations at the Poddar House",
+        "p": [
+          "The kidnapping triggers severe complications when the Damani family suspects Armaan's involvement, though Maira bravely defends him against the allegations. When Armaan and Kabir eventually return home, Bhairvi aggressively demands that the authorities be notified.",
+          "Abhira firmly insists that Raghav cannot take action against an innocent Armaan. The confusion is ultimately cleared when Kabir speaks up, confirming that Armaan did not abduct him but instead saved him from the goons."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The November 13, 2026 episode of Yeh Rishta Kya Kehlata Hai centers on family tensions, wedding preparations, and a dramatic kidnapping plot orchestrated by Krish. After Armaan is falsely blamed for abducting Kabir, the misunderstanding is resolved when Kabir clears his name."
+        ]
+      }
+    ],
+    "facts": [
+      "Episode date is November 13, 2026",
+      "Krish gets Kabir kidnapped using Armaan's phone",
+      "Abhira is played by Samridhii Shukla",
+      "Armaan is played by Rohit Purohit",
+      "Kabir is rescued from goons and clears Armaan's name"
+    ],
+    "entities": {
+      "people": [
+        "Abhira",
+        "Armaan",
+        "Kabir",
+        "Maira",
+        "Krish",
+        "Sanjay",
+        "Kajal",
+        "Tanya",
+        "Manisha",
+        "Kaveri",
+        "Manoj",
+        "Samar",
+        "Bhairvi",
+        "Raghav",
+        "Samridhii Shukla",
+        "Rohit Purohit"
+      ],
+      "titles": [
+        "Yeh Rishta Kya Kehlata Hai"
+      ]
+    },
+    "keywords": [
+      "Yeh Rishta Kya Kehlata Hai",
+      "Samridhii Shukla Rohit Purohit",
+      "Yeh Rishta Kya Kehlata Hai November 13",
+      "Krish gets Kabir kidnapped"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/yehrishtaoct19epd1-93591794547289.jpg",
+        "caption": "Yeh Rishta Kya Kehlata Hai Written Update for November 13, 2026: Krish Orchestrates Kabir's Kidduction as Armaan Falls I",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 10:54:32 +0530"
+  },
+  "1yqklnv": {
+    "id": "1yqklnv",
+    "type": "news",
+    "headline": "BBC reveals first look at Line of Duty season 7 featuring returning AC-12 trio and new cast",
+    "dek": "The BBC has unveiled a first look at the upcoming seventh season of Line of Duty, showing Steve Arnott, Kate Fleming, and Ted Hastings reuniting to tackle a new case.",
+    "body": [
+      {
+        "h": "The Return of AC-12",
+        "p": [
+          "Fans of intense British crime dramas have plenty to celebrate as the BBC releases the very first promotional images for the seventh season of Line of Duty. Almost a year following the initial announcement that the beloved anti-corruption task force would return to root out more corrupt officials, audiences finally have a clear glimpse of the iconic trio back in action.",
+          "The newly published preview photos confirm the comebacks of core characters Steve Arnott, Kate Fleming, and Ted Hastings. These initial visual teasers have immediately generated massive excitement across fandoms, signaling that production is moving forward and that the iconic group is ready to resume tracking down wrongdoers within the system."
+        ]
+      },
+      {
+        "h": "Plot Details and New Restructuring",
+        "p": [
+          "Picking up after the dramatic events of the sixth season, the upcoming seventh installment introduces a major shake-up within the law enforcement hierarchy. Following the conclusion of previous storylines, Ted Hastings' legendary anti-corruption unit has officially been disbanded and reorganized into the Inspectorate of Professional Standards.",
+          "However, peace is short-lived when a highly decorated officer, Detective Inspector Dominic Gough, faces grave allegations of operating as a sexual predator. This high-profile accusation forces the central gang to reunite outside official boundaries, pulling them into a sprawling conspiracy that threatens to become their most perilous assignment to date."
+        ]
+      },
+      {
+        "h": "Familiar Faces Back on Screen",
+        "p": [
+          "The upcoming television event brings back the acclaimed lead actors who defined the show's previous years. Martin Compston, Vicky McClure, and Adrian Dunbar reprise their legendary roles as Arnott, Fleming, and Hastings respectively, ensuring strong continuity for longtime viewers.",
+          "Guiding the narrative once again is series creator and mastermind Jed Mercurio, who has penned the scripts for this seventh run. Mercurio's signature style of writing promises to deliver the same high-stakes tension and complex moral dilemmas that turned the program into a cultural phenomenon."
+        ]
+      },
+      {
+        "h": "Robert Carlyle Joins the Cast",
+        "p": [
+          "A major addition to the ensemble for season seven is BAFTA-winning actor Robert Carlyle. Known for his powerful screen presence, Carlyle steps into the role of Detective Constable Shaun Massie, a veteran marksman and Specialist Rifle Officer.",
+          "Described as a solitary and gruff figure who prefers keeping to himself, Constable Massie becomes entangled in the Inspectorate of Professional Standards' investigation when his commanding officer, the accused Inspector Gough, faces scrutiny for abusing his authority."
+        ]
+      },
+      {
+        "h": "Behind the Scenes Praise",
+        "p": [
+          "Both the lead actor and the creator have expressed mutual admiration regarding this high-profile casting choice. Robert Carlyle shared that he has been a long-time admirer of Jed Mercurio's writing and expressed delight at joining such a talented group of performers for the new episodes.",
+          "Jed Mercurio reciprocated the enthusiasm, noting that collaborating with Carlyle represents a career highlight. The creator praised the actor's mesmerising depth and power, predicting that viewers will remain captivated and guessing about Massie's true loyalties throughout the narrative."
+        ]
+      },
+      {
+        "h": "Anticipation and Future Outlook",
+        "p": [
+          "While the release of promotional images and cast details has substantially heightened public interest, the BBC has yet to confirm an exact premiere date for the seventh season. Followers of the police procedural must exercise additional patience before learning when the episodes will officially air.",
+          "Even without a locked-in schedule, the combination of returning favorites, a fresh high-stakes premise, and notable guest talent guarantees that the upcoming chapter will be one of the most anticipated television broadcasts of the year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The BBC has released first-look images for Line of Duty season 7, showing the reunion of characters Steve Arnott, Kate Fleming, and Ted Hastings. The new series features a restructured anti-corruption unit investigating Detective Inspector Dominic Gough, alongside new cast member Robert Carlyle as Detective Constable Shaun Massie."
+        ]
+      }
+    ],
+    "facts": [
+      "The BBC released the first look at Line of Duty season 7 on November 12, 2026.",
+      "Martin Compston, Vicky McClure, and Adrian Dunbar return as Steve Arnott, Kate Fleming, and Ted Hastings.",
+      "Robert Carlyle joins the cast as Detective Constable Shaun Massie.",
+      "Jed Mercurio is the series creator and writer.",
+      "Detective Inspector Dominic Gough is accused of being a sexual predator."
+    ],
+    "entities": {
+      "people": [
+        "Tom Percival",
+        "Steve Arnott",
+        "Ted Hastings",
+        "Kate Fleming",
+        "Dominic Gough",
+        "Martin Compston",
+        "Vicky McClure",
+        "Adrian Dunbar",
+        "Jed Mercurio",
+        "Robert Carlyle",
+        "Shaun Massie",
+        "Peter Marley",
+        "Steffan Hill"
+      ],
+      "titles": [
+        "Line of Duty",
+        "Line of Duty season 7",
+        "Trainspotting"
+      ]
+    },
+    "keywords": [
+      "Line of Duty season 7",
+      "BBC Line of Duty first look",
+      "Robert Carlyle Line of Duty",
+      "AC-12 Line of Duty cast"
+    ],
+    "images": [
+      {
+        "url": "https://metro.co.uk/wp-content/uploads/2025/04/SEI_247866969-1efe.jpg?quality=90&strip=all&w=500&resize=200,200&zoom=1",
+        "caption": "BBC reveals first look at Line of Duty season 7 featuring returning AC-12 trio and new cast",
+        "source": "Metro — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T05:52:22Z"
   }
 };
