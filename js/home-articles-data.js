@@ -42,6 +42,159 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 16:51:18 +0200"
   },
+  "zquk2o": {
+    "id": "zquk2o",
+    "type": "news",
+    "headline": "MTV Roadies 21 Episode 9 Brings Fresh Audition Drama and New Gang Rivalries",
+    "dek": "As MTV Roadies 21 continues its audition phase, the Roadies Rebirth season heats up with intense clashes between veteran gang leaders and newer personalities.",
+    "entities": {
+      "people": [
+        "Vishu",
+        "Abhishek Malhan",
+        "Baseer Ali",
+        "Abhishek Ranjit",
+        "Rannvijay Singha",
+        "Nikhil Chinapa",
+        "Neha Dhupia",
+        "Prince Narula",
+        "Bani J",
+        "Fukra Insaan"
+      ],
+      "titles": [
+        "MTV Roadies 21",
+        "Roadies Rebirth",
+        "MTV Roadies"
+      ]
+    },
+    "keywords": [
+      "MTV Roadies 21 Episode 9",
+      "Roadies Rebirth",
+      "Abhishek Malhan Nikhil Chinapa",
+      "Rannvijay Singha"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/mtvroadies21episode5dailymotion-49961794577308.jpg",
+        "caption": "MTV Roadies 21 Episode 9 Brings Fresh Audition Drama and New Gang Rivalries",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:20:09 +0530"
+  },
+  "ko0o7m": {
+    "id": "ko0o7m",
+    "type": "news",
+    "headline": "Chrisean Rock Strikes Adam22 During Wild N Out Live Event Over Parenting Remark",
+    "dek": "A live stage appearance at the Intuit Dome turned physical when Chrisean Rock confronted Adam22 from behind following a sharp jab regarding her child.",
+    "entities": {
+      "people": [
+        "Chrisean Rock",
+        "Adam22",
+        "Justina Valentine",
+        "Lena The Plug",
+        "Blueface"
+      ],
+      "titles": [
+        "Wild N' Out"
+      ]
+    },
+    "keywords": [
+      "Chrisean Rock Adam22 punch",
+      "Wild N Out fight Intuit Dome",
+      "Chrisean Rock Adam22 parenting joke",
+      "Lena The Plug Justina Valentine"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/35/16by9/2026/11/13/35656a515a0f4aa9a98f4bafe385d6de_xl.png",
+        "caption": "Chrisean Rock Strikes Adam22 During Wild N Out Live Event Over Parenting Remark",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-13T05:26:45-08:00"
+  },
+  "xwrv3l": {
+    "id": "xwrv3l",
+    "type": "news",
+    "headline": "Anupam Kher Explains Why Yash's Ravana Outshines Ranbir Kapoor's Ram in Ramayana",
+    "dek": "Actor Anupam Kher has weighed in on the character dynamics in Nitesh Tiwari's Ramayana, explaining why the villain appears larger-than-life in the first installment.",
+    "entities": {
+      "people": [
+        "Anupam Kher",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "Ramayana",
+        "Sholay",
+        "Karma"
+      ]
+    },
+    "keywords": [
+      "Anupam Kher Ramayana",
+      "Ramayana Part 1 release date",
+      "Nitesh Tiwari Ramayana cast",
+      "Yash Ravana Ramayana Ranbir Kapoor"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/ramayana_1794571122821_3j1Z_1794571122935_rkFU_a472b298-04b7-4275-ba6b-c8ea2009141a_MKrZ.jpg",
+        "caption": "Anupam Kher Explains Why Yash's Ravana Outshines Ranbir Kapoor's Ram in Ramayana",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 18:51:44 +0530"
+  },
+  "1607ojk": {
+    "id": "1607ojk",
+    "type": "news",
+    "headline": "Avatar: Seven Havens Transforms the Franchise With Genre Shifts in Season 1",
+    "dek": "The latest television entry in the Avatar universe shifts directions by introducing post-apocalyptic settings and mystery-box elements.",
+    "entities": {
+      "people": [
+        "Ben Sherlock",
+        "Aang",
+        "Korra",
+        "Pavi",
+        "Nisha",
+        "Jae",
+        "Saheli Khan",
+        "Ethan Spaulding"
+      ],
+      "titles": [
+        "Avatar: The Last Airbender",
+        "The Boys",
+        "Vought Rising",
+        "The Walking Dead",
+        "The Wire",
+        "Chernobyl",
+        "Six Feet Under",
+        "Avatar: Seven Havens",
+        "Lost",
+        "Mad Max",
+        "The Last Of Us",
+        "House Of The Dragon"
+      ]
+    },
+    "keywords": [
+      "Avatar Seven Havens",
+      "Pavi and Nisha Avatar",
+      "Avatar Seven Havens Paramount plus",
+      "Ethan Spaulding Avatar Seven Havens"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/pavi-with-her-cat-monkey-in-avatar-seven-havens.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Avatar: Seven Havens Transforms the Franchise With Genre Shifts in Season 1",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 13:00:19 GMT"
+  },
   "juqps4": {
     "id": "juqps4",
     "type": "news",
@@ -4610,163 +4763,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 09:00:12 GMT"
-  },
-  "znfl85": {
-    "id": "znfl85",
-    "type": "news",
-    "headline": "Shah Rukh Khan's Impromptu Dance To 'Tu Mil Jaaye' In Dubai Sets Internet Ablaze",
-    "dek": "A viral video capturing Shah Rukh Khan grooving to his upcoming actioner's track in Dubai has sent his followers into a frenzy.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Gauri Khan",
-        "Karan Johar",
-        "Deepika Padukone",
-        "Suhana Khan",
-        "Siddharth Anand",
-        "Rani Mukerji",
-        "Abhishek Bachchan",
-        "Anil Kapoor",
-        "Jaideep Ahlawat",
-        "Raghav Jutal"
-      ],
-      "titles": [
-        "King",
-        "Tu Mil Jaaye"
-      ]
-    },
-    "keywords": [
-      "Shah Rukh Khan Tu Mil Jaaye",
-      "King movie Shah Rukh Khan",
-      "Shah Rukh Khan Dubai event",
-      "King release date"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156496621,thumbsize-187827,width-1280,height-720,resizemode-75/156496621.jpg",
-        "caption": "Shah Rukh Khan's Impromptu Dance To 'Tu Mil Jaaye' In Dubai Sets Internet Ablaze",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-12T08:52:25Z"
-  },
-  "10r730s": {
-    "id": "10r730s",
-    "type": "news",
-    "headline": "ATEEZ Returns With 15th Mini Album GOLDEN HOUR : Part.6 And Title Track UP",
-    "dek": "Group reflects on the success of BAD, celebrates their eighth anniversary, and details the production of their latest release.",
-    "entities": {
-      "people": [
-        "Hongjoong",
-        "Yunho",
-        "Yeosang",
-        "Mingi",
-        "San",
-        "Wooyoung",
-        "Seonghwa",
-        "Jongho",
-        "S Nam"
-      ],
-      "titles": [
-        "GOLDEN HOUR : Part.6",
-        "UP",
-        "BAD",
-        "Hollow Victory",
-        "Imitation"
-      ]
-    },
-    "keywords": [
-      "ATEEZ GOLDEN HOUR Part 6",
-      "ATEEZ UP title track",
-      "ATEEZ comeback press conference",
-      "ATEEZ new mini album"
-    ],
-    "images": [
-      {
-        "url": "https://0.soompi.io/wp-content/uploads/2026/11/12154727/%EB%8B%A8%EC%B2%B43.jpg",
-        "caption": "ATEEZ Returns With 15th Mini Album GOLDEN HOUR : Part.6 And Title Track UP",
-        "source": "Soompi"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 08:31:35 +0000"
-  },
-  "13as7m8": {
-    "id": "13as7m8",
-    "type": "news",
-    "headline": "Avengers: Endgame: Encore Set for Disney+ Debut With New Doomsday Footage",
-    "dek": "Marvel Studios brings the expanded theatrical re-release of Avengers: Endgame to Disney+ alongside a promotional spot titled Countdown to Doomsday.",
-    "entities": {
-      "people": [
-        "Ojas Kulkarni",
-        "Thanos",
-        "Robert Downey Jr.",
-        "Anthony Russo",
-        "Joe Russo",
-        "Chris Hemsworth",
-        "Chris Evans",
-        "Tom Hiddleston",
-        "Paul Rudd",
-        "Anthony Mackie",
-        "Pedro Pascal",
-        "Florence Pugh",
-        "Sebastian Stan",
-        "Patrick Stewart",
-        "Ian McKellen"
-      ],
-      "titles": [
-        "Avengers Endgame Encore",
-        "Avengers Doomsday",
-        "Avengers Endgame",
-        "Avatar",
-        "Thunderbolts"
-      ]
-    },
-    "keywords": [
-      "Avengers Endgame Encore",
-      "Avengers Doomsday Disney Plus",
-      "Countdown to Doomsday",
-      "Avengers Doomsday release date"
-    ],
-    "images": [
-      {
-        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/08/7_1a5227.jpg?resize=1200,630",
-        "caption": "Avengers: Endgame: Encore Set for Disney+ Debut With New Doomsday Footage",
-        "source": "ComingSoon.net"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 08:22:57 +0000"
-  },
-  "nw96mr": {
-    "id": "nw96mr",
-    "type": "news",
-    "headline": "Dhinchak Pooja Announces Pregnancy Six Months After Marriage",
-    "dek": "Internet sensation Dhinchak Pooja has revealed that she is expecting her first child at the age of 32, just half a year after tying the knot with singer Yawan.",
-    "entities": {
-      "people": [
-        "Dhinchak Pooja",
-        "Yawan",
-        "Salman Khan"
-      ],
-      "titles": [
-        "Selfie Maine Le Li Aaj",
-        "Dilon Ka Shooter",
-        "Bigg Boss 11"
-      ]
-    },
-    "keywords": [
-      "Dhinchak Pooja",
-      "Dhinchak Pooja pregnant",
-      "Yawan singer",
-      "Dhinchak Pooja husband"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/photo_gallery/202611/6af4adc4eaf44-dhinchak-pooja-to-welcome-baby-boy-revealed-gender-110243961-16x9.jpg",
-        "caption": "Dhinchak Pooja Announces Pregnancy Six Months After Marriage",
-        "source": "Aaj Tak — Entertainment"
-      }
-    ],
-    "published": "2026-11-12T07:52:31Z"
   },
   "1643vxd": {
     "id": "1643vxd",

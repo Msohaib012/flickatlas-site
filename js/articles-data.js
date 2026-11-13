@@ -135693,5 +135693,386 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 11:34:52 GMT"
+  },
+  "zquk2o": {
+    "id": "zquk2o",
+    "type": "news",
+    "headline": "MTV Roadies 21 Episode 9 Brings Fresh Audition Drama and New Gang Rivalries",
+    "dek": "As MTV Roadies 21 continues its audition phase, the Roadies Rebirth season heats up with intense clashes between veteran gang leaders and newer personalities.",
+    "body": [
+      {
+        "h": "Audition Phase Continues",
+        "p": [
+          "The latest installment of MTV Roadies 21 brings viewers another intense block of hopeful participants facing the evaluation panel. Contestants continue to step forward in hopes of proving their mettle.",
+          "The assessment puts a heavy emphasis on personal confidence, robust physical readiness, and the capacity to keep a cool head during high-pressure situations."
+        ]
+      },
+      {
+        "h": "Roadies Rebirth Theme and Format",
+        "p": [
+          "Titled Roadies Rebirth, the current season of the long-running reality franchise is structured around an intriguing OGs versus NewGs premise. This setup generates direct competitive friction across the board.",
+          "A familiar face anchors the production as Rannvijay Singha returns to host the show, guiding the trajectory of the latest edition through its various twists."
+        ]
+      },
+      {
+        "h": "The Gang Leadership Lineup",
+        "p": [
+          "Six distinct leaders share control across two separate factions, turning the recruitment process into a strategic battleground. Every single leader searches for resilient recruits who can endure intense pressure.",
+          "The established OG team features seasoned figures like Nikhil Chinapa, Neha Dhupia, and Prince Narula. Meanwhile, the NewGs side comprises Abhishek Malhan, Bani J, and Baseer Ali."
+        ]
+      },
+      {
+        "h": "Clashes During Auditions",
+        "p": [
+          "Promo footage from the ongoing auditions highlights mounting tensions among the leadership panel itself. Differing opinions on how to handle hopefuls regularly spark verbal sparring matches.",
+          "Notably, a promotional clip showed Abhishek Malhan intervening while Nikhil Chinapa questioned a participant named Vishu, urging his fellow leader to let the candidate speak."
+        ]
+      },
+      {
+        "h": "Broadcast and Streaming Details",
+        "p": [
+          "Fans tracking the episodic release can tune into the broadcast scheduled for November 13 at 7 PM on MTV. The platform ensures wide accessibility for the audience.",
+          "In addition to the television broadcast, online streaming options remain available for viewers through JioHotstar to catch up on the drama."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "MTV Roadies 21 is currently airing its audition phase with Episode 9, bringing fresh drama and tension under the Roadies Rebirth theme. The season features a clash between OG leaders and NewGs mentors like Abhishek Malhan and Nikhil Chinapa."
+        ]
+      }
+    ],
+    "facts": [
+      "MTV Roadies 21 Episode 9 releases on November 13 at 7 PM",
+      "Rannvijay Singha hosts MTV Roadies 21",
+      "The OG team leaders are Nikhil Chinapa, Neha Dhupia, and Prince Narula",
+      "The NewGs team leaders are Abhishek Malhan, Bani J, and Baseer Ali"
+    ],
+    "entities": {
+      "people": [
+        "Vishu",
+        "Abhishek Malhan",
+        "Baseer Ali",
+        "Abhishek Ranjit",
+        "Rannvijay Singha",
+        "Nikhil Chinapa",
+        "Neha Dhupia",
+        "Prince Narula",
+        "Bani J",
+        "Fukra Insaan"
+      ],
+      "titles": [
+        "MTV Roadies 21",
+        "Roadies Rebirth",
+        "MTV Roadies"
+      ]
+    },
+    "keywords": [
+      "MTV Roadies 21 Episode 9",
+      "Roadies Rebirth",
+      "Abhishek Malhan Nikhil Chinapa",
+      "Rannvijay Singha"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/mtvroadies21episode5dailymotion-49961794577308.jpg",
+        "caption": "MTV Roadies 21 Episode 9 Brings Fresh Audition Drama and New Gang Rivalries",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:20:09 +0530"
+  },
+  "ko0o7m": {
+    "id": "ko0o7m",
+    "type": "news",
+    "headline": "Chrisean Rock Strikes Adam22 During Wild N Out Live Event Over Parenting Remark",
+    "dek": "A live stage appearance at the Intuit Dome turned physical when Chrisean Rock confronted Adam22 from behind following a sharp jab regarding her child.",
+    "body": [
+      {
+        "h": "The Confrontation on Stage",
+        "p": [
+          "A live recording of a Wild N Out show at the Intuit Dome in Los Angeles took an unexpected turn when personality Chrisean Rock physically confronted podcast host Adam22. While participating on opposing sides of the event, verbal remarks quickly escalated into a physical altercation on the stage.",
+          "With her face partially covered by a hoodie, Chrisean approached Adam from behind and delivered strikes to the back of his head before walking away while still engaged with her mobile phone."
+        ]
+      },
+      {
+        "h": "Origins of the Tension",
+        "p": [
+          "The flare-up followed a sequence of back-and-forth remarks between cast members and guests on the stage. During the comedic battle segment, Justina Valentine targeted Adam22 by criticizing his marriage to OnlyFans creator Lena The Plug.",
+          "When it was his turn to respond, Adam directed a comment toward Justina while also referencing Chrisean Rock's mothering abilities. Prior to the incident, Adam had publicly critiqued Chrisean's parenting style on multiple occasions, establishing ongoing friction between them."
+        ]
+      },
+      {
+        "h": "Connections to Blueface",
+        "p": [
+          "The event brought together several figures with interconnected histories in the celebrity spotlight. Blueface, who shares a son with Chrisean Rock, was serving as the captain of Adam's team during the production.",
+          "The dynamic on stage involved multiple public figures known for frequent social media controversies, high-profile relationships, and reality television appearances, creating an unpredictable atmosphere for the live audience."
+        ]
+      },
+      {
+        "h": "Aftermath and Injuries",
+        "p": [
+          "Following the altercation, Adam22 addressed his followers through a video upload where he displayed an iced jaw and claimed the strike left him feeling brutally attacked. He mentioned that the physical impact could interfere with his professional work moving forward.",
+          "Additionally, Adam stated that he was considering filing an official police report regarding the incident. He also noted that venue security asked him to step off the stage shortly afterward to prevent any further escalation."
+        ]
+      },
+      {
+        "h": "Reactions from Those Involved",
+        "p": [
+          "According to statements shared after the event, Adam alleged that Chrisean had been glaring at him prior to the punch. He also claimed that Chrisean directed intense stares at his wife, Lena The Plug, who had recently reconciled with Adam following a prior separation.",
+          "Lena was reportedly shaken by the sudden confrontation unfolding in front of her. Representatives for Chrisean Rock were contacted for comment regarding the altercation, though no official response had been provided at the time."
+        ]
+      },
+      {
+        "h": "Broader Significance in Celebrity Culture",
+        "p": [
+          "The clash highlights the blurring lines between digital media feuds and physical confrontations at live entertainment productions. Incidents involving internet personalities and reality stars frequently spill over from online commentary into public events.",
+          "As videos of the encounter circulated widely across social platforms, followers and media outlets closely analyzed the unfolding drama between the various personalities connected to the episode."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Chrisean Rock struck Adam22 in the back of the head at an L.A. Wild N Out show after he made a remark about her parenting during a comedic exchange. Adam subsequently discussed potential legal action and reported swelling from the physical encounter involving the boxer and reality figure."
+        ]
+      }
+    ],
+    "facts": [
+      "Chrisean Rock landed punches to the back of Adam22's head at a Wild N' Out show.",
+      "The event took place at the Intuit Dome in L.A.",
+      "Adam22 was part of the L.A. Team, playing against the Wild N' Out team including Justina Valentine.",
+      "Justina Valentine mocked Adam22's marriage to Lena The Plug.",
+      "Adam22 clapped back by referencing Chrisean Rock's parenting.",
+      "Chrisean Rock shares a son with her ex-fiancé Blueface.",
+      "Blueface was the captain of Adam's team.",
+      "Adam22 is considering filing a police report.",
+      "Lena The Plug recently reconciled with Adam after a separation."
+    ],
+    "entities": {
+      "people": [
+        "Chrisean Rock",
+        "Adam22",
+        "Justina Valentine",
+        "Lena The Plug",
+        "Blueface"
+      ],
+      "titles": [
+        "Wild N' Out"
+      ]
+    },
+    "keywords": [
+      "Chrisean Rock Adam22 punch",
+      "Wild N Out fight Intuit Dome",
+      "Chrisean Rock Adam22 parenting joke",
+      "Lena The Plug Justina Valentine"
+    ],
+    "images": [
+      {
+        "url": "https://imagez.tmz.com/image/35/16by9/2026/11/13/35656a515a0f4aa9a98f4bafe385d6de_xl.png",
+        "caption": "Chrisean Rock Strikes Adam22 During Wild N Out Live Event Over Parenting Remark",
+        "source": "TMZ"
+      }
+    ],
+    "published": "2026-11-13T05:26:45-08:00"
+  },
+  "1607ojk": {
+    "id": "1607ojk",
+    "type": "news",
+    "headline": "Avatar: Seven Havens Transforms the Franchise With Genre Shifts in Season 1",
+    "dek": "The latest television entry in the Avatar universe shifts directions by introducing post-apocalyptic settings and mystery-box elements.",
+    "body": [
+      {
+        "h": "Franchise Expansion and Spinoffs",
+        "p": [
+          "When popular television classics spawn sequels and spinoffs, viewers often expect diminishing returns that undermine the original conclusions. However, expanding a well-established franchise does not always result in a negative outcome. While some series endings struggle to maintain quality during spinoff creation, others manage to complement their predecessors rather than detract from them.",
+          "The original television show remains celebrated as a legendary martial arts fantasy epic. Alongside other acclaimed television milestones, it offered a balance of superpowered action and deep thematic storytelling that appealed to viewers of all ages."
+        ]
+      },
+      {
+        "h": "Setting the Stage in Seven Havens",
+        "p": [
+          "The latest television expansion takes the universe more than two hundred years past the tenure of Korra. Instead of resting on familiar formulas, the new series introduces an entirely fresh narrative framework.",
+          "The setting has undergone a radical transformation due to an apocalyptic event referred to as The Cataclysm. Only seven settlements have managed to survive the devastation, shifting the global landscape entirely."
+        ]
+      },
+      {
+        "h": "A Shift in Tone and Perception",
+        "p": [
+          "Because the Cataclysm is widely blamed on Korra, the role of the Avatar has completely flipped within society. Rather than being viewed as a cherished folk hero, the mystical figure is now treated as a harbinger of death.",
+          "This dramatic shift alters the foundational lore of the universe, casting a shadow over anyone who holds the title and forcing the new characters to navigate a hostile and distrustful world."
+        ]
+      },
+      {
+        "h": "Post-Apocalyptic Adventures and Mystery",
+        "p": [
+          "The series ventures into fresh territory by combining a Mad Max-style journey through harshlands with an unfolding mystery. This approach keeps audiences guessing as secrets of the past slowly come to light.",
+          "By utilizing a mystery-box storytelling format, the production moves away from standard narrative structures to explore uncharted creative ground for the overarching property."
+        ]
+      },
+      {
+        "h": "Dual Avatars and Coming-of-Age Themes",
+        "p": [
+          "For the first time in the history of the franchise, the responsibilities of the title are shared between two individuals. Long-lost twins Pavi and Nisha discover a psychic link that places the future of civilization directly onto their shoulders.",
+          "Much like earlier iterations examined youthful struggles through the lens of fantasy, the new series uses high-stakes pressure to mirror the authentic challenges of growing up."
+        ]
+      },
+      {
+        "h": "Retaining Core Values",
+        "p": [
+          "Despite taking place in a drastically altered era, the new chapter maintains the tenacious spirit of the original broadcasts. It continues to inspire optimism when facing overwhelming adversity.",
+          "The production respects its audience by tackling mature themes head-on, proving that complex allegories about youth and development remain relevant in modern serialized storytelling."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The television series Avatar: Seven Havens reinterprets its universe by introducing post-apocalyptic elements and mystery-box storytelling over two centuries after Korra. The narrative features twin protagonists sharing the Avatar mantle while navigating a world that blames their predecessor for a global catastrophe."
+        ]
+      }
+    ],
+    "facts": [
+      "Avatar: Seven Havens is set more than 200 years after Korra’s tenure as the Avatar.",
+      "The Cataclysm is a mysterious apocalyptic event that wiped out all but seven settlements.",
+      "Pavi and Nisha are long-lost twins who share a strange psychic connection.",
+      "Avatar: Seven Havens premiered on October 9, 2026, on Paramount+.",
+      "Ethan Spaulding serves as the showrunner for the series."
+    ],
+    "entities": {
+      "people": [
+        "Ben Sherlock",
+        "Aang",
+        "Korra",
+        "Pavi",
+        "Nisha",
+        "Jae",
+        "Saheli Khan",
+        "Ethan Spaulding"
+      ],
+      "titles": [
+        "Avatar: The Last Airbender",
+        "The Boys",
+        "Vought Rising",
+        "The Walking Dead",
+        "The Wire",
+        "Chernobyl",
+        "Six Feet Under",
+        "Avatar: Seven Havens",
+        "Lost",
+        "Mad Max",
+        "The Last Of Us",
+        "House Of The Dragon"
+      ]
+    },
+    "keywords": [
+      "Avatar Seven Havens",
+      "Pavi and Nisha Avatar",
+      "Avatar Seven Havens Paramount plus",
+      "Ethan Spaulding Avatar Seven Havens"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/pavi-with-her-cat-monkey-in-avatar-seven-havens.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Avatar: Seven Havens Transforms the Franchise With Genre Shifts in Season 1",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 13:00:19 GMT"
+  },
+  "xwrv3l": {
+    "id": "xwrv3l",
+    "type": "news",
+    "headline": "Anupam Kher Explains Why Yash's Ravana Outshines Ranbir Kapoor's Ram in Ramayana",
+    "dek": "Actor Anupam Kher has weighed in on the character dynamics in Nitesh Tiwari's Ramayana, explaining why the villain appears larger-than-life in the first installment.",
+    "body": [
+      {
+        "h": "Addressing Character Portrayals",
+        "p": [
+          "Veteran actor Anupam Kher recently discussed the distinct portrayals of Ranbir Kapoor's Lord Rama and Yash's Ravana in Nitesh Tiwari's ambitious cinematic project, Ramayana. Addressing observations from viewers who found the antagonist's sequences more engaging in the opening chapter, Kher offered a strategic rationale for how the characters were introduced.",
+          "Rather than viewing the choices as a misstep, the actor noted that the creative team deliberately elevated the villain to ensure the narrative arc across the planned two-part release carries maximum emotional resonance for audiences worldwide."
+        ]
+      },
+      {
+        "h": "The Strategy Behind the Villain",
+        "p": [
+          "In a conversation with The Hollywood Reporter India, Kher emphasized that director Nitesh Tiwari always intended to split the epic into two parts. Establishing a formidable antagonist early on was crucial for setting the stakes of the overarching conflict between righteousness and malevolence.",
+          "Drawing parallels to classic Hindi cinema tropes seen in films like Sholay and Karma, Kher pointed out that building an intimidating and powerful villain is a time-tested method. This deliberate buildup ensures that when the hero ultimately overcomes the adversary in the concluding chapter, the audience experiences a genuine sense of triumph."
+        ]
+      },
+      {
+        "h": "The Interdependence of Ram and Ravana",
+        "p": [
+          "Kher firmly rejected the notion that Ravana inherently steals the spotlight from the central hero, arguing instead that the antagonist's compelling nature stems directly from the character of Ram. While Ravana's presence is inherently dramatic and larger-than-life, Ram's depth unfolds gradually through upcoming sequences.",
+          "He cautioned that viewers might be too impatient to judge the complete narrative arc based on the first part alone. Ram's journey, which includes major confrontations and emotional moments, requires patience to fully appreciate."
+        ]
+      },
+      {
+        "h": "Humanity and Emotional Depth",
+        "p": [
+          "To illustrate Ram's emotional core, Kher pointed to specific poignant moments in the film, such as the interaction between Jatayu and Ram where the hero breaks down. It is precisely this display of vulnerability and humanity that moves audiences and grounds the epic tale.",
+          "The actor also defended the creative vision of producer Namit Malhotra and director Nitesh Tiwari, dismissing premature criticism from cynics who rush to judgment without understanding the full scope of the planned duology."
+        ]
+      },
+      {
+        "h": "Voicing Jatayu",
+        "p": [
+          "Beyond discussing the broader cinematic strategy, Kher shared insights into his own contribution to the project as the voice of Jatayu. Producer Namit Malhotra personally approached the actor for the voice role, leading to a memorable behind-the-scenes experience.",
+          "After being shown a nine-minute preview clip from the film, Kher was so deeply overwhelmed by the visual splendor that he postponed his scheduled recording session by a full day to properly prepare. He ultimately spent five to six hours in the studio perfecting a mere 10 to 12 lines of dialogue."
+        ]
+      },
+      {
+        "h": "Production Details and Timeline",
+        "p": [
+          "Ramayana is directed by Nitesh Tiwari and jointly produced by Namit Malhotra and Yash. The star-studded cast features Ranbir Kapoor as Lord Ram, Sai Pallavi as Sita, and Yash as Ravana, alongside Anupam Kher voicing Jatayu.",
+          "The first part of the cinematic adaptation premiered on November 5, 2026, while the second installment is slated for a 2028 release, continuing the epic mythological journey."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Anupam Kher defended the prominent portrayal of Yash's Ravana over Ranbir Kapoor's Ram in Nitesh Tiwari's Ramayana, explaining that establishing a powerful villain in Part 1 is essential for the emotional payoff of good defeating evil in Part 2. Kher also recounted his intense dubbing experience for the character Jatayu in the film, which released its first part on November 5, 2026."
+        ]
+      }
+    ],
+    "facts": [
+      "Ramayana Part 1 was released on November 5, 2026.",
+      "Ramayana Part 2 is expected to arrive in 2028.",
+      "Anupam Kher voices the character Jatayu.",
+      "Anupam Kher spent 5 to 6 hours dubbing 10-12 lines of dialogue.",
+      "The film is directed by Nitesh Tiwari.",
+      "The film is produced by Namit Malhotra and Yash.",
+      "Ranbir Kapoor stars as Lord Ram.",
+      "Sai Pallavi stars as Sita.",
+      "Yash stars as Ravana."
+    ],
+    "entities": {
+      "people": [
+        "Anupam Kher",
+        "Nitesh Tiwari",
+        "Namit Malhotra",
+        "Ranbir Kapoor",
+        "Yash",
+        "Sai Pallavi",
+        "Vibha Maru"
+      ],
+      "titles": [
+        "Ramayana",
+        "Sholay",
+        "Karma"
+      ]
+    },
+    "keywords": [
+      "Anupam Kher Ramayana",
+      "Ramayana Part 1 release date",
+      "Nitesh Tiwari Ramayana cast",
+      "Yash Ravana Ramayana Ranbir Kapoor"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/ramayana_1794571122821_3j1Z_1794571122935_rkFU_a472b298-04b7-4275-ba6b-c8ea2009141a_MKrZ.jpg",
+        "caption": "Anupam Kher Explains Why Yash's Ravana Outshines Ranbir Kapoor's Ram in Ramayana",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 18:51:44 +0530"
   }
 };
