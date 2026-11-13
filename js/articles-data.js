@@ -130209,5 +130209,399 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Thu, 12 Nov 2026 22:16:30 GMT"
+  },
+  "1vrcohz": {
+    "id": "1vrcohz",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend crosses Rs 1,000 Crore Worldwide in Eight Days",
+    "dek": "The mythological drama starring Ranbir Kapoor, Yash, and Sai Pallavi has crossed the Rs 1,000 crore worldwide gross threshold within its opening week, cementing its status as a massive box-office success.",
+    "body": [
+      {
+        "h": "Reaching the Milestone",
+        "p": [
+          "The mythological feature directed by Nitesh Tiwari has officially entered the prestigious Rs 1,000 crore worldwide gross club. Achieving this milestone within just eight days of its theatrical debut places the epic among the top-tier commercial earners in the history of Indian cinema.",
+          "The production now stands as the 11th Indian movie overall to cross this major financial threshold. It joins the ranks of other massive blockbusters such as Dangal, Baahubali 2, Pushpa 2, and Dhurandhar 2."
+        ]
+      },
+      {
+        "h": "Breakdown of Collections",
+        "p": [
+          "According to industry trackers, the global total for the film has reached Rs 1,033.55 crore. Domestic gross earnings within India account for Rs 675.05 crore of that figure, while international territories have added another Rs 358.50 crore.",
+          "When looking at domestic performance alone, the net collection in India has touched Rs 564.60 crore. This means the domestic market contributes approximately 65.3 percent of the worldwide gross, with overseas regions accounting for the remaining 34.7 percent."
+        ]
+      },
+      {
+        "h": "Day Eight Domestic Drop",
+        "p": [
+          "Despite its record-breaking trajectory, the feature witnessed a decline in its domestic numbers on Thursday, November 12. Across 24,042 shows in India, the movie brought in Rs 53.50 crore in net collections.",
+          "This eighth-day earning marks a 24.3 percent reduction compared to the previous day's collections. The corresponding domestic gross for the day was recorded at Rs 64 crore, with the single day contributing roughly 9.5 percent to the cumulative domestic net total."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance",
+        "p": [
+          "The Hindi version of the mythological drama continues to lead the domestic market by a wide margin. It accumulated Rs 437 crore in India net collections, which translates to 77.4 percent of the entire domestic total.",
+          "Regional versions also contributed steadily to the overall tally. Kannada collections stand at Rs 48.95 crore, Telugu reached Rs 38.05 crore, Tamil contributed Rs 22.15 crore, and the Malayalam version added Rs 18.45 crore to the board."
+        ]
+      },
+      {
+        "h": "Occupancy and Screening Metrics",
+        "p": [
+          "On its eighth theatrical day, the Hindi 3D version maintained an overall occupancy rate of 31.02 percent. Morning screenings opened at 15.46 percent, while afternoon numbers rose to 33.31 percent.",
+          "Evening and night shows saw further improvements, registering 39.46 percent and 35.85 percent occupancy respectively. Across all five language variants, individual audience engagement varied notably, with Malayalam drawing the highest occupancy percentage during its screenings."
+        ]
+      },
+      {
+        "h": "Historical Box Office Context",
+        "p": [
+          "The commercial journey of the Nitesh Tiwari directorial began with a strong opening day of Rs 64.85 crore net in India on November 5. Throughout its extended opening week, the film experienced fluctuating daily revenues, highlighted by a massive surge on its fifth day.",
+          "That fifth-day jump saw collections spike by 91.5 percent to reach Rs 107.50 crore net domestically. Such robust mid-week spikes played a pivotal role in pushing the feature swiftly past the Rs 1,000 crore worldwide barrier."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend has officially entered the Rs 1,000 crore club worldwide within eight days of release. Despite a recent domestic dip, the Ranbir Kapoor, Yash, and Sai Pallavi starrer remains one of the biggest box-office successes in Indian cinema."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor, Yash, and Sai Pallavi star in Ramayana: Rise of a Legend",
+      "Nitesh Tiwari directed the film",
+      "Worldwide gross reached Rs 1,033.55 crore within eight days",
+      "The film became the 11th Indian film to enter the Rs 1,000 crore club",
+      "Day 8 net collection in India was Rs 53.50 crore on November 12, 2026",
+      "Hindi version accounts for 77.4 percent of the domestic net collection"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nitesh Tiwari"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Dangal",
+        "Baahubali 2",
+        "Pushpa 2",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ranbir Kapoor Ramayana collection",
+      "Ramayana box office day 8",
+      "Ramayana 1000 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135785524,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Ramayana: Rise of a Legend crosses Rs 1,000 Crore Worldwide in Eight Days",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T06:08:13+05:30"
+  },
+  "1votdp1": {
+    "id": "1votdp1",
+    "type": "news",
+    "headline": "'Scene' Crosses Rs 200 Crore Worldwide on Day 7",
+    "dek": "Suriya and Naslen's action-thriller 'Scene', directed by Jithu Madhavan, reaches a major global milestone in its first week while eyeing notable regional records.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "The collaborative feature starring Suriya and Naslen has officially crossed the monumental threshold of Rs 200 crore in gross collections across the globe within its initial seven days in theaters. Helmed by director Jithu Madhavan, the project has enjoyed a steady and resilient theatrical run across both local and international markets.",
+          "The latest financial tallies from its seventh day in release pushed the cumulative worldwide gross to an impressive Rs 200.60 crore. Meanwhile, the domestic net earnings within India reached a solid Rs 111.55 crore, accompanied by a domestic gross total standing at Rs 129.60 crore."
+        ]
+      },
+      {
+        "h": "Language-Wise Performance on Thursday",
+        "p": [
+          "On its seventh day, the movie brought in a combined total of Rs 6.10 crore in net domestic revenue across its Tamil and Telugu language formats. The Tamil variant was the primary driver, pulling in Rs 4.50 crore from a widespread count of 3,643 individual screenings.",
+          "Concurrently, the Telugu version contributed Rs 1.60 crore to the daily tally through 1,419 shows. Across both variations, exhibitors mounted a combined total of 5,062 shows nationwide on Thursday, as tracked by industry platform Sacnilk."
+        ]
+      },
+      {
+        "h": "Week-One Trajectory and Ticket Sales",
+        "p": [
+          "Thursday's domestic net earnings reflected a decline of approximately 24.2 percent when contrasted with the previous day's figures, pointing toward a gradual stabilization following an exceptionally high opening weekend. The feature's peak single-day performance occurred on Sunday, during which it secured an impressive Rs 23.65 crore net domestically.",
+          "Audience turnout remained notable, with roughly 482,145 admissions recorded on Thursday alone. This single-day count elevated the cumulative ticket sales across the entire seven-day exhibition window to an astonishing 8,347,885 admissions."
+        ]
+      },
+      {
+        "h": "Domestic and Overseas Contributions",
+        "p": [
+          "International territories added Rs 4 crore to the ledger on Day 7, elevating the cumulative overseas gross earnings to Rs 71 crore. Overall, the domestic market accounts for roughly 64.6 percent of the worldwide gross, while international territories make up the remaining 35.4 percent.",
+          "Within the domestic sphere, the Tamil presentation continues to hold the lion's share of business, accumulating an India net total of Rs 91.05 crore, which translates to 81.6 percent of the overall domestic returns. The remaining 18.4 percent is attributed to the Telugu language version, which stands at Rs 20.50 crore."
+        ]
+      },
+      {
+        "h": "State-Wise Business Breakdown",
+        "p": [
+          "State-specific data highlights Tamil Nadu as the leading contributor to Thursday's domestic gross, bringing in Rs 3.15 crore. The Andhra Pradesh and Telangana region followed closely behind with a contribution of Rs 1.90 crore.",
+          "Additional regional inputs included Rs 1.25 crore from Kerala and Rs 65 lakh from Karnataka, while the remaining parts of India added Rs 15 lakh to complete the domestic gross calculation of Rs 129.60 crore."
+        ]
+      },
+      {
+        "h": "Chasing Regional Benchmarks",
+        "p": [
+          "Beyond its worldwide milestones, the production is rapidly approaching a historic box-office benchmark in Kerala. State tracking data indicated that the title had amassed a gross of Rs 22.45 crore in the region after six days of exhibition.",
+          "This left the film a mere Rs 47 lakh away from overtaking the lifetime Kerala gross of Mani Ratnam's acclaimed historical drama 'Ponniyin Selvan: Part 1'. Additionally, the venture is setting its sights on securing a spot among the top five highest-earning Tamil releases in the state as it enters its second weekend."
+        ]
+      },
+      {
+        "h": "Cast, Characters, and Future Targets",
+        "p": [
+          "In Jithu Madhavan's directorial venture, Suriya steps into the shoes of Inbaraj, also recognized by his moniker DSP. The protagonist is portrayed as an eccentric law enforcement officer forced to reopen an unsolved, mysterious case from his past alongside an unpredictable team.",
+          "Meanwhile, actor Naslen essays the antagonist role, creating high dramatic tension. As the feature transitions into its second weekend, it also eyes the box office footprint of Rajinikanth's 'Coolie' as its next major competitive target."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Suriya and Naslen's 'Scene' has crossed Rs 200 crore in worldwide gross collections during its first week in theaters under the direction of Jithu Madhavan. The film is currently closing in on the Kerala box-office record held by Mani Ratnam's 'Ponniyin Selvan: Part 1' as it moves into its second weekend."
+        ]
+      }
+    ],
+    "facts": [
+      "Suriya and Naslen's 'Scene' crossed Rs 200 cr worldwide in its first week.",
+      "Worldwide gross reached Rs 200.60 cr by day 7.",
+      "India net collection reached Rs 111.55 cr.",
+      "Domestic gross stands at Rs 129.60 cr.",
+      "Day 7 India earnings were Rs 6.10 cr across Tamil and Telugu versions.",
+      "Tamil version earned Rs 4.50 cr from 3,643 shows on Day 7.",
+      "Telugu version added Rs 1.60 cr through 1,419 shows on Day 7.",
+      "Total shows on Day 7 were 5,062.",
+      "Thursday India net collection declined by 24.2% compared to the previous day.",
+      "Highest single-day collection was on Sunday with Rs 23.65 cr net in India.",
+      "Estimated 482,145 tickets were sold on Thursday.",
+      "Total ticket sales across the seven-day run reached 8,347,885.",
+      "Overseas gross reached Rs 71 cr with Rs 4 cr contributed on Day 7.",
+      "Tamil version cumulative India net reached Rs 91.05 cr (81.6% of total).",
+      "Telugu version contribution stands at Rs 20.50 cr (18.4%).",
+      "Kerala gross after six days was Rs 22.45 cr.",
+      "The film was Rs 47 lakh short of 'Ponniyin Selvan: Part 1's lifetime Kerala collection.",
+      "Tamil Nadu contributed Rs 3.15 cr to Thursday's domestic gross.",
+      "APTG region contributed Rs 1.90 cr, Kerala added Rs 1.25 cr, Karnataka contributed Rs 65 lakh, and rest of India brought in Rs 15 lakh.",
+      "Suriya plays Inbaraj/DSP and Naslen plays the antagonist."
+    ],
+    "entities": {
+      "people": [
+        "Suriya",
+        "Naslen",
+        "Jithu Madhavan",
+        "Mani Ratnam",
+        "Rajinikanth"
+      ],
+      "titles": [
+        "Scene",
+        "Ponniyin Selvan: Part 1",
+        "Coolie"
+      ]
+    },
+    "keywords": [
+      "Scene film box office",
+      "Suriya Naslen Scene movie",
+      "Scene day 7 collection",
+      "Scene crosses 200 crore"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135785340,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Scene' Crosses Rs 200 Crore Worldwide on Day 7",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T05:50:12+05:30"
+  },
+  "rnmrid": {
+    "id": "rnmrid",
+    "type": "news",
+    "headline": "Song Hye Kyo and Gong Yoo Lead Netflix Series Tantara with Three-Part December Release",
+    "dek": "Netflix has revealed the official premiere schedule, teaser trailer, and character posters for the highly anticipated drama Tantara, starring top Korean actors.",
+    "body": [
+      {
+        "h": "Release Schedule and Streaming Plan",
+        "p": [
+          "Netflix has officially announced the rollout details for the upcoming original series Tantara, starring prominent South Korean actors Song Hye Kyo and Gong Yoo. The platform confirmed that the streaming run will be divided into three distinct parts spread across three consecutive weeks in December.",
+          "Part 1, encompassing episodes one through eight, is scheduled to premiere on December 11. This will be followed by Part 2, covering episodes nine through fifteen, on December 18, and finally Part 3, containing episodes sixteen through twenty-two, on December 25."
+        ]
+      },
+      {
+        "h": "Setting and Premise of the Show",
+        "p": [
+          "The narrative of Tantara transports viewers back to the Korean entertainment industry spanning from the 1960s through the 1980s. During this harsh historical period, widespread brutality and violence defined the landscape, serving as a gritty backdrop for ambitious individuals.",
+          "The plot centers on characters who possessed virtually nothing yet relentlessly pursued their ultimate ambitions of achieving dazzling success within the entertainment world, navigating the ruthless environment against all odds."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Reunions",
+        "p": [
+          "Tantara brings together a powerhouse creative team, notably reuniting acclaimed writer Noh Hee Kyung and director Lee Yoon Jung. For leading actress Song Hye Kyo, this project marks her eagerly awaited return to television approximately three years after her acclaimed performance in The Glory.",
+          "Alongside Song Hye Kyo and Gong Yoo, the star-studded ensemble cast features Seolhyun portraying Min Hee, Cha Seung Won as top star composer Seok Gil Yeo, as well as supporting appearances by Lee Ha Nui and Na Moon Hee."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Promotional Materials",
+        "p": [
+          "Netflix accompanied the release date announcement with a fresh batch of character posters and a teaser trailer, highlighting the distinct motivations of each lead. Min Ja declares her talent for spotting financial gain, while Dong Gu expresses fearless resolve shaped by a difficult upbringing.",
+          "Additional insights from the promotional material reveal complex relationships, including a turbulent love-hate dynamic between Min Ja and Min Hee, and Seok Gil Yeo asserting his hard-earned status in the industry despite a lack of formal education."
+        ]
+      },
+      {
+        "h": "Teaser Plot and Industry Leap",
+        "p": [
+          "The newly unveiled teaser trailer outlines the early struggles of childhood companions Min Ja and Dong Gu. Their journey takes a transformative turn when they encounter Min Hee, a young woman blessed with a remarkable natural talent for singing.",
+          "Together, this trio dives headfirst into the challenging record industry. The promotional campaign emphasizes this perilous endeavor with a fitting tagline capturing a reckless start, countless challenges, and the intense journey of entertainers."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has confirmed a three-part December release schedule for the upcoming drama Tantara, starring Song Hye Kyo and Gong Yoo. Set in the entertainment industry from the 1960s to the 1980s, the series features a notable cast including Seolhyun and Cha Seung Won, directed by Lee Yoon Jung and written by Noh Hee Kyung."
+        ]
+      }
+    ],
+    "facts": [
+      "Release date confirmed on November 13, 2026",
+      "Tantara will be released in three parts",
+      "Part 1 (episodes 1-8) releases on December 11",
+      "Part 2 (episodes 9-15) releases on December 18",
+      "Part 3 (episodes 16-22) releases on December 25",
+      "Set in the Korean entertainment industry of the 1960s to the 1980s",
+      "Written by Noh Hee Kyung and directed by Lee Yoon Jung",
+      "Song Hye Kyo's first drama in about three years since The Glory",
+      "The Glory won Song Hye Kyo the grand prize at the 2nd Blue Dragon Series Awards",
+      "Cast includes Song Hye Kyo as Min Ja, Gong Yoo as Dong Gu, Seolhyun as Min Hee, Cha Seung Won as Seok Gil Yeo, Lee Ha Nui, and Na Moon Hee"
+    ],
+    "entities": {
+      "people": [
+        "Song Hye Kyo",
+        "Gong Yoo",
+        "Noh Hee Kyung",
+        "Lee Yoon Jung",
+        "Seolhyun",
+        "Cha Seung Won",
+        "Lee Ha Nui",
+        "Na Moon Hee",
+        "Min Ja",
+        "Dong Gu",
+        "Min Hee",
+        "Seok Gil Yeo"
+      ],
+      "titles": [
+        "Tantara",
+        "The Glory"
+      ]
+    },
+    "keywords": [
+      "Tantara Netflix series",
+      "Song Hye Kyo Tantara",
+      "Gong Yoo Tantara release date",
+      "Tantara teaser trailer"
+    ],
+    "images": [
+      {
+        "url": "https://i.mydramalist.com/JjjRem_2d.jpg",
+        "caption": "Song Hye Kyo and Gong Yoo Lead Netflix Series Tantara with Three-Part December Release",
+        "source": "MyDramaList"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 00:31:42 +0000"
+  },
+  "igve98": {
+    "id": "igve98",
+    "type": "news",
+    "headline": "Avengers: Doomsday and the Marvel Comics Connection for Wanda Maximoff's Family",
+    "dek": "Exploring how Marvel Comics storylines like The Children's Crusade might influence Wanda Maximoff, Doctor Doom, and her sons in Avengers: Doomsday.",
+    "body": [
+      {
+        "h": "Wanda Maximoff's Tragic Journey",
+        "p": [
+          "For Wanda Maximoff, achieving a happy family life has consistently come with a steep price. Within the events of WandaVision, she constructed a peaceful existence alongside Vision and their twin boys, only to suffer the heartbreak of losing everything.",
+          "Subsequently, her desperate quest for her children in Doctor Strange in the Multiverse of Madness led her down an even darker path, seemingly concluding her narrative in tragedy before Marvel paved the way for her return."
+        ]
+      },
+      {
+        "h": "The VisionQuest Finale Setup",
+        "p": [
+          "The VisionQuest finale has introduced fresh narrative twists to the overarching universe. Billy and Tommy have successfully reunited with Vision following the series of events.",
+          "Additionally, a post-credits sequence delivers a major revelation, showing Doctor Doom awakening Wanda from beneath the debris of Mount Wundagore."
+        ]
+      },
+      {
+        "h": "The Children's Crusade Comic Parallel",
+        "p": [
+          "Examining Marvel's Avengers: The Children's Crusade comic books reveals a period where the Scarlet Witch lacks her memories and remains unaware of her powerful superhero identity. During this timeline, Wanda resides with Doctor Doom, and the pair make plans to marry.",
+          "Refusing to abandon his mother, Billy Maximoff tracks her down to Doom's domain. Although they reunite, Wanda fails to recognize Billy or the family history he shares with her, maintaining that she does not remember being the Scarlet Witch."
+        ]
+      },
+      {
+        "h": "Rescuing Wanda From Doctor Doom",
+        "p": [
+          "Billy realizes that his mother may be suffering from genuine amnesia, but he remains certain that she must be removed from Doctor Doom's influence. Naturally, Victor opposes this unexpected family intervention.",
+          "If the cinematic universe adapts Avengers: The Children's Crusade closely, this storyline could set the stage for Wanda's sons to ultimately rescue her from Doctor Doom."
+        ]
+      },
+      {
+        "h": "Restoring the Scarlet Witch's Memories",
+        "p": [
+          "Extracting Wanda from Doctor Doom represents only part of the challenge, as Billy and Tommy still need her to reclaim her true identity. To achieve this, the Young Avengers guide her through significant historical moments from her past to trigger her recollection.",
+          "Their journey eventually leads them to the remembered day when the Scarlet Witch revived Jack of Hearts from the dead, setting up a dangerous encounter when Jack of Hearts reappears."
+        ]
+      },
+      {
+        "h": "The Explosion That Restores the Past",
+        "p": [
+          "As Jack of Hearts appears once more, the surrounding group attempts to retreat to safety. However, Wanda approaches him directly despite Tommy trying to pull her away.",
+          "An unexpected explosion occurs involving Jack of Hearts, shocking everyone present and directly triggering the return of Wanda's long-lost memories."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The VisionQuest finale teases a dramatic continuation for Wanda Maximoff after a post-credits scene reveals Doctor Doom awakening her beneath Mount Wundagore. Drawing from Marvel's Avengers: The Children's Crusade comics, this narrative sets up a potential rescue mission by her sons Billy and Tommy to restore her memories and save her from Doom."
+        ]
+      }
+    ],
+    "facts": [
+      "Billy and Tommy reunited with Vision in the VisionQuest finale.",
+      "A post-credits scene shows Doctor Doom awakening Wanda beneath the ruins of Mount Wundagore.",
+      "In Avengers: The Children's Crusade comics, Wanda has amnesia and is living with Doctor Doom.",
+      "Billy Maximoff travels to find Wanda and realizes she does not remember being the Scarlet Witch."
+    ],
+    "entities": {
+      "people": [
+        "Wanda Maximoff",
+        "Vision",
+        "Billy",
+        "Tommy",
+        "Doctor Doom"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "WandaVision",
+        "Doctor Strange in the Multiverse of Madness",
+        "VisionQuest",
+        "Avengers: The Children's Crusade"
+      ]
+    },
+    "keywords": [
+      "Avengers: Doomsday",
+      "Wanda Maximoff",
+      "Doctor Doom",
+      "VisionQuest",
+      "Billy Maximoff"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/avengers-doomsday-will-wanda-get-her-family-back-exploring-the-marvel-comics-connection-001.jpg",
+        "caption": "Avengers: Doomsday and the Marvel Comics Connection for Wanda Maximoff's Family",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 00:39:10 +0000"
   }
 };

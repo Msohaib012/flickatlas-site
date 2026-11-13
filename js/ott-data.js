@@ -2,40 +2,6 @@
 window.FA_OTT = {
   "coming": [
     {
-      "country": "IN",
-      "date": "2026-11-13",
-      "date_kind": "digital",
-      "id": 1050981,
-      "providers": [
-        {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
-          "name": "Apple TV"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
-      "date": "2026-11-13",
-      "date_kind": "digital",
-      "id": 1780407,
-      "providers": [
-        {
-          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
-          "name": "Apple TV"
-        }
-      ],
-      "type": "movie"
-    },
-    {
-      "country": "IN",
-      "date": "2026-11-13",
-      "date_kind": "digital",
-      "id": 1389379,
-      "providers": [],
-      "type": "movie"
-    },
-    {
       "country": "AU",
       "date": "2026-11-14",
       "date_kind": "digital",
@@ -132,6 +98,64 @@ window.FA_OTT = {
     }
   ],
   "now": [
+    {
+      "country": "IN",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1050981,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1780407,
+      "providers": [
+        {
+          "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+          "name": "Apple TV"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-13",
+      "date_kind": "release",
+      "id": 1636756,
+      "providers": [
+        {
+          "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+          "name": "Zee5"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-13",
+      "date_kind": "release",
+      "id": 499371,
+      "providers": [
+        {
+          "logo_path": "/1r7E9yOISXYPFN6ZkqtRUeJV1vs.png",
+          "name": "Chaupal Amazon Channel"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "country": "IN",
+      "date": "2026-11-13",
+      "date_kind": "digital",
+      "id": 1389379,
+      "providers": [],
+      "type": "movie"
+    },
     {
       "country": "US",
       "date": "2026-11-12",
