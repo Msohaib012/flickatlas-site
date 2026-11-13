@@ -38,6 +38,111 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 14:31:40 +0200"
   },
+  "1mirm30": {
+    "id": "1mirm30",
+    "type": "news",
+    "headline": "Hasbro Announces The Legend Of Zelda: Heroes Of Hyrule Collectibles Line",
+    "dek": "Hasbro reveals new 6-inch-scale action figures for Princess Zelda, Link, and Ganondorf based on their Tears of the Kingdom appearances, slated for a Spring 2027 release.",
+    "entities": {
+      "people": [
+        "James Lynch",
+        "Link",
+        "Princess Zelda",
+        "Ganondorf"
+      ],
+      "titles": [
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends",
+        "Ocarina of Time Remake",
+        "Breath of the Wild",
+        "Tears of the Kingdom",
+        "The Legend of Zelda",
+        "Zelda II: The Adventure of Link",
+        "The Legend of Zelda: A Link to the Past",
+        "The Legend of Zelda: Link's Awakening",
+        "The Legend of Zelda: Ocarina of Time",
+        "The Legend of Zelda: Majora's Mask",
+        "The Legend of Zelda: Oracle of Seasons",
+        "The Legend of Zelda: A Link to the Past and Four Swords",
+        "The Legend of Zelda: The Wind Waker",
+        "The Legend of Zelda: Four Swords Adventures",
+        "The Legend of Zelda: The Minish Cap",
+        "The Legend of Zelda: Twilight Princess",
+        "The Legend of Zelda: Phantom Hourglass",
+        "The Legend of Zelda: Spirit Tracks",
+        "The Legend of Zelda: Skyward Sword",
+        "The Legend of Zelda: A Link Between Worlds",
+        "The Legend of Zelda: Tri Force Heroes",
+        "The Legend of Zelda: Breath of the Wild (2017)",
+        "The Legend of Zelda: Echoes of Wisdom",
+        "Hyrule Warriors",
+        "Hyrule Warriors Legends (3DS)",
+        "Cadence of Hyrule",
+        "Hyrule Warriors: Age of Calamity"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda",
+      "Heroes of Hyrule",
+      "Hasbro",
+      "Link",
+      "Tears of the Kingdom"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/the-legend-of-zelda-wilds-era-end-link-chin.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Hasbro Announces The Legend Of Zelda: Heroes Of Hyrule Collectibles Line",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 10:40:38 GMT"
+  },
+  "13wi8s": {
+    "id": "13wi8s",
+    "type": "news",
+    "headline": "Children of Blood and Bone Trailer Highlights Tems' Music and Fantasy Kingdom",
+    "dek": "The newly released trailer for Children of Blood and Bone showcases its magical world, rebellion, and a special track by Grammy winner Tems.",
+    "entities": {
+      "people": [
+        "Tems",
+        "Tomi Adeyemi",
+        "Zelie",
+        "King Saran",
+        "Gina Prince-Bythewood",
+        "Thuso Mbedu",
+        "Damson Idris",
+        "Amandla Stenberg",
+        "Tosin Cole",
+        "Cynthia Erivo",
+        "Lashana Lynch",
+        "Zackary Momoh",
+        "Richard Mofe-Damijo",
+        "Chiwetel Ejiofor",
+        "Regina King",
+        "Idris Elba",
+        "Viola Davis"
+      ],
+      "titles": [
+        "Children of Blood and Bone",
+        "African Love Story"
+      ]
+    },
+    "keywords": [
+      "Children of Blood and Bone trailer",
+      "Tems African Love Story",
+      "Gina Prince-Bythewood film",
+      "Tomi Adeyemi novel adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/children-of-blood-and-bone-trailer-13282150-16x9_0.jpeg?VersionId=rqX7rAKkkrOHQXgL.Hwis0Kf5y.YnQyn",
+        "caption": "Children of Blood and Bone Trailer Highlights Tems' Music and Fantasy Kingdom",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:02:40 +0530"
+  },
   "4nauf5": {
     "id": "4nauf5",
     "type": "news",
@@ -72,6 +177,42 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 12:31:15 +0200"
   },
+  "p50yvw": {
+    "id": "p50yvw",
+    "type": "news",
+    "headline": "VASSY Releases New Single Dirty Martini Following Historic Year",
+    "dek": "The Australian EDM star drops her latest cheeky track, reflecting on a blockbuster 2026 that included motherhood, festival debuts, and chart milestones.",
+    "entities": {
+      "people": [
+        "VASSY",
+        "BUST-R",
+        "Oscar Jamo",
+        "Tiësto",
+        "Mind Electric"
+      ],
+      "titles": [
+        "Dirty Martini",
+        "Day N Night",
+        "On Me",
+        "Secrets"
+      ]
+    },
+    "keywords": [
+      "VASSY Dirty Martini",
+      "VASSY singer",
+      "VASSY Day N Night",
+      "VASSY music",
+      "Oscar Jamo"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/vassy-2026-1800.jpg?w=1024",
+        "caption": "VASSY Releases New Single Dirty Martini Following Historic Year",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 09:53:34 +0000"
+  },
   "1wjp5av": {
     "id": "1wjp5av",
     "type": "news",
@@ -105,6 +246,34 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 09:49:46 +0000"
+  },
+  "1ke2zer": {
+    "id": "1ke2zer",
+    "type": "news",
+    "headline": "Diljit Dosanjh Confronts New Concert Rules in Ahmedabad Following Indore Scrutiny",
+    "dek": "The District Child Protection Officer in Ahmedabad has urged local authorities to limit certain tracks, stage visuals, and props during Diljit Dosanjh's upcoming live performance.",
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Dr Panditrao Dharenavar",
+        "Jiya Surana"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh restrictions Indore",
+      "Diljit Dosanjh Narendra Modi Stadium",
+      "Dr Panditrao Dharenavar complaint"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/diljit-dosanjh1794559869.jpg",
+        "caption": "Diljit Dosanjh Confronts New Concert Rules in Ahmedabad Following Indore Scrutiny",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-13T15:06:22+05:30"
   },
   "9uhmgb": {
     "id": "9uhmgb",
@@ -4544,168 +4713,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-12T11:28:10+05:30"
-  },
-  "opqf04": {
-    "id": "opqf04",
-    "type": "news",
-    "headline": "Salman Khan Starrer Maatrubhumi Trailer Faces Internet Backlash Over Alleged AI Visuals",
-    "dek": "The newly released promotional clip for the patriotic action drama has divided audiences on social media, with viewers pointing out questionable computer-generated graphics and a lengthy runtime.",
-    "entities": {
-      "people": [
-        "Salman Khan",
-        "Apoorva Lakhia",
-        "Chitrangada Singh"
-      ],
-      "titles": [
-        "Maatrubhumi",
-        "Battle of Galwan",
-        "Maatrubhumi: May War Rest in Peace"
-      ]
-    },
-    "keywords": [
-      "Salman Khan Maatrubhumi trailer",
-      "Maatrubhumi AI visuals criticism",
-      "Apoorva Lakhia Maatrubhumi movie",
-      "Maatrubhumi release date"
-    ],
-    "images": [
-      {
-        "url": "https://images.timesnownews.com/thumb/msid-156492775,thumbsize-533231,width-1280,height-720,resizemode-75/156492775.jpg",
-        "caption": "Salman Khan Starrer Maatrubhumi Trailer Faces Internet Backlash Over Alleged AI Visuals",
-        "source": "Times Now — Entertainment"
-      }
-    ],
-    "published": "2026-11-12T05:52:31Z"
-  },
-  "1uxsnbl": {
-    "id": "1uxsnbl",
-    "type": "news",
-    "headline": "Stray Kids Member Lee Know To Launch Solo Music Career",
-    "dek": "Lee Know is set to become the first member of the boy band Stray Kids to debut as a solo artist with an upcoming album early next year.",
-    "entities": {
-      "people": [
-        "Lee Know"
-      ],
-      "titles": [
-        "District 9",
-        "THIS THAT",
-        "Billboard 200"
-      ]
-    },
-    "keywords": [
-      "Lee Know",
-      "Stray Kids",
-      "Lee Know solo album",
-      "Stray Kids Lee Know solo debut"
-    ],
-    "images": [
-      {
-        "url": "https://image.koreaboo.com/2026/11/Stray-Kids-Lee-Know-FI.jpg?imop=Resize%2Cwidth%3D1230%3BConvert%2Cformat%3Djpeg&amp;Expires=1794517200&amp;KeyName=kb&amp;Signature=rJHL4ScYgcmRIG2SeTu-iw2Y5ms=",
-        "caption": "Stray Kids Member Lee Know To Launch Solo Music Career",
-        "source": "Koreaboo"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 05:46:00 +0000"
-  },
-  "hfx896": {
-    "id": "hfx896",
-    "type": "news",
-    "headline": "Guy Ritchie's King Arthur: Legend of the Sword Climbs the Netflix Top 10 Charts",
-    "dek": "The 2017 action-fantasy film starring Charlie Hunnam finds new life on streaming, securing a spot in the Top 10 popular movies on Netflix.",
-    "entities": {
-      "people": [
-        "Guy Ritchie",
-        "Charlie Hunnam",
-        "John Boorman",
-        "Katie McGrath",
-        "Eric Bana",
-        "Jude Law",
-        "Àstrid Bergès-Frisbey",
-        "Kamil Lemieszewski",
-        "Daniel Pemberton",
-        "Robert Downey Jr.",
-        "Jacqui Ainsley",
-        "William Smith",
-        "Michael John Petty",
-        "Russell Crowe",
-        "Henry Cavill",
-        "Quentin Tarantino"
-      ],
-      "titles": [
-        "King Arthur: Legend of the Sword",
-        "Excalibur",
-        "Merlin",
-        "Sherlock Holmes",
-        "The Devil's Left Hand",
-        "John Wick",
-        "The Good, the Bad and the Ugly",
-        "Highlander",
-        "How to Rob a Bank",
-        "In Waves",
-        "The Last Temptation of Becky",
-        "The Beast",
-        "Queen: Hungarian Rhapsody - Live in Budapest '86",
-        "The Transformers: The Movie",
-        "Akira"
-      ]
-    },
-    "keywords": [
-      "King Arthur Legend of the Sword Netflix",
-      "Guy Ritchie King Arthur film",
-      "Charlie Hunnam King Arthur",
-      "King Arthur Legend of the Sword streaming"
-    ],
-    "images": [
-      {
-        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2022/10/kingarthurlegendofthesword.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Guy Ritchie's King Arthur: Legend of the Sword Climbs the Netflix Top 10 Charts",
-        "source": "Collider"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 05:26:12 GMT"
-  },
-  "12i3mg6": {
-    "id": "12i3mg6",
-    "type": "news",
-    "headline": "Shah Rukh Khan Insisted on Age-Appropriate Presentation in 'King', Say Choreographers Shazia Samji and Piyush Bhagat",
-    "dek": "Choreographers Shazia Samji and Piyush Bhagat discuss crafting the song 'Tu Mil Jaaye' for the upcoming action thriller 'King', detailing Shah Rukh Khan's insistence on a style that suits his age and experience.",
-    "entities": {
-      "people": [
-        "Shah Rukh Khan",
-        "Shazia Samji",
-        "Piyush Bhagat",
-        "Ed Sheeran",
-        "Siddharth Anand",
-        "Deepika Padukone",
-        "Suhana Khan",
-        "Abhishek Bachchan",
-        "Abhay Verma",
-        "Rani Mukerji",
-        "Anil Kapoor",
-        "Jaideep Ahlawat",
-        "Jackie Shroff",
-        "Arshad Warsi",
-        "Raghav Juyal"
-      ],
-      "titles": [
-        "King",
-        "Tu Mil Jaaye"
-      ]
-    },
-    "keywords": [
-      "King film song",
-      "Shah Rukh Khan King choreography",
-      "Tu Mil Jaaye song King",
-      "Shazia Samji Piyush Bhagat King"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135756202,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Shah Rukh Khan Insisted on Age-Appropriate Presentation in 'King', Say Choreographers Shazia Samji and Piyush Bhagat",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-12T10:37:11+05:30"
   },
   "1643vxd": {
     "id": "1643vxd",

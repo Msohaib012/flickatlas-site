@@ -134395,5 +134395,416 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 08:49:31 +0000"
+  },
+  "13wi8s": {
+    "id": "13wi8s",
+    "type": "news",
+    "headline": "Children of Blood and Bone Trailer Highlights Tems' Music and Fantasy Kingdom",
+    "dek": "The newly released trailer for Children of Blood and Bone showcases its magical world, rebellion, and a special track by Grammy winner Tems.",
+    "body": [
+      {
+        "h": "The Arrival of the New Trailer",
+        "p": [
+          "A fresh promotional preview for Children of Blood and Bone has officially arrived, offering audiences an extended look into its sweeping fantasy realm. The footage highlights themes of rebellion, hidden magic, and a kingdom standing on the brink of absolute war.",
+          "Alongside the cinematic visuals, the preview introduces a brand-new musical composition titled African Love Story. Crafted by acclaimed Nigerian singer-songwriter and Grammy winner Tems, the song infuses distinct African melodies directly into the fabric of the film's fantasy landscape."
+        ]
+      },
+      {
+        "h": "Literary Roots and Plot Foundation",
+        "p": [
+          "The cinematic project draws its source material from the popular fantasy novel penned by Tomi Adeyemi. The narrative transports viewers to a fictional universe where magical forces have been systematically eradicated, leaving broken families and a suppressed populace in its wake.",
+          "At the center of this turmoil is Zelie, a courageous young woman striving to fight back against oppression. Following the devastating loss of her mother at the hands of the ruthless ruler King Saran, Zelie embarks on a perilous crusade to restore magic to her homeland."
+        ]
+      },
+      {
+        "h": "Journey and Unlikely Alliances",
+        "p": [
+          "Zelie does not embark on her dangerous quest alone, as she is accompanied by her brother throughout the challenging journey. Their mission takes an unexpected turn when they cross paths with the royal family, eventually joining forces with the very king's son and daughter.",
+          "This fragile alliance must navigate treacherous terrain to challenge King Saran's brutal dominion. Together, the group confronts formidable forces that have kept the kingdom under strict control, fighting not just for magic but for reclaimed hope and identity."
+        ]
+      },
+      {
+        "h": "Director and Star-Studded Cast",
+        "p": [
+          "The grand scale of the fantasy epic is helmed by director Gina Prince-Bythewood. Under her direction, Tomi Adeyemi's literary universe successfully transitions to the big screen with an ambitious scope and high production values.",
+          "An extensive ensemble cast anchors the production, featuring performances by Thuso Mbedu, Damson Idris, Amandla Stenberg, and Tosin Cole. Additional notable names rounding out the stellar lineup include Cynthia Erivo, Lashana Lynch, Zackary Momoh, and Richard Mofe-Damijo."
+        ]
+      },
+      {
+        "h": "Additional Ensemble Members",
+        "p": [
+          "The sprawling roster of talent continues with several more celebrated actors stepping into the fictional realm of Orsha. Chiwetel Ejiofor and Regina King lend their considerable presence to the unfolding cinematic rebellion.",
+          "Further elevating the project's star power are Hollywood heavyweights Idris Elba and Viola Davis. Their collective involvement underscores the epic scale and dramatic weight of the resistance story."
+        ]
+      },
+      {
+        "h": "Release Details in India",
+        "p": [
+          "Fans eagerly anticipating the adaptation will not have to wait much longer to experience the rebellion in theaters. Paramount Pictures has scheduled the official theatrical rollout for audiences across India.",
+          "The fantasy adventure is slated to hit cinema screens in the country early next year, specifically on January 15, 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The newly debuted trailer for Children of Blood and Bone showcases its fantasy kingdom of Orsha, magical rebellion, and a fresh track by Grammy winner Tems. Based on Tomi Adeyemi's novel and directed by Gina Prince-Bythewood, the film features an ensemble cast led by Thuso Mbedu, Viola Davis, and Idris Elba, with a theatrical release in India set for January 15, 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer features the song African Love Story by Tems.",
+      "Children of Blood and Bone is based on Tomi Adeyemi's novel.",
+      "The story is set in the fantasy kingdom of Orsha.",
+      "King Saran wipes out magic and Zelie's mother.",
+      "Gina Prince-Bythewood directs the film.",
+      "The cast includes Thuso Mbedu, Damson Idris, Amandla Stenberg, Tosin Cole, Cynthia Erivo, Lashana Lynch, Zackary Momoh, Richard Mofe-Damijo, Chiwetel Ejiofor, Regina King, Idris Elba, and Viola Davis.",
+      "Paramount Pictures is releasing the film in India on January 15, 2027."
+    ],
+    "entities": {
+      "people": [
+        "Tems",
+        "Tomi Adeyemi",
+        "Zelie",
+        "King Saran",
+        "Gina Prince-Bythewood",
+        "Thuso Mbedu",
+        "Damson Idris",
+        "Amandla Stenberg",
+        "Tosin Cole",
+        "Cynthia Erivo",
+        "Lashana Lynch",
+        "Zackary Momoh",
+        "Richard Mofe-Damijo",
+        "Chiwetel Ejiofor",
+        "Regina King",
+        "Idris Elba",
+        "Viola Davis"
+      ],
+      "titles": [
+        "Children of Blood and Bone",
+        "African Love Story"
+      ]
+    },
+    "keywords": [
+      "Children of Blood and Bone trailer",
+      "Tems African Love Story",
+      "Gina Prince-Bythewood film",
+      "Tomi Adeyemi novel adaptation"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/children-of-blood-and-bone-trailer-13282150-16x9_0.jpeg?VersionId=rqX7rAKkkrOHQXgL.Hwis0Kf5y.YnQyn",
+        "caption": "Children of Blood and Bone Trailer Highlights Tems' Music and Fantasy Kingdom",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:02:40 +0530"
+  },
+  "1mirm30": {
+    "id": "1mirm30",
+    "type": "news",
+    "headline": "Hasbro Announces The Legend Of Zelda: Heroes Of Hyrule Collectibles Line",
+    "dek": "Hasbro reveals new 6-inch-scale action figures for Princess Zelda, Link, and Ganondorf based on their Tears of the Kingdom appearances, slated for a Spring 2027 release.",
+    "body": [
+      {
+        "h": "Introduction to the Heroes of Hyrule Line",
+        "p": [
+          "Hasbro has officially announced a new wave of physical merchandise for fans of Nintendo's iconic franchise with The Legend of Zelda: Heroes of Hyrule collection.",
+          "These upcoming figures draw their aesthetic and character designs directly from the massively popular game The Legend of Zelda: Tears of the Kingdom."
+        ]
+      },
+      {
+        "h": "Anniversary and Franchise Context",
+        "p": [
+          "The franchise itself is celebrating forty years since its original debut as a pixelated adventure in the United States back in 1987.",
+          "Over the decades, the series has blended exploration, discovery, action, and puzzle-solving into an enduring staple of gaming culture."
+        ]
+      },
+      {
+        "h": "Figure Details for Link",
+        "p": [
+          "The Link figure stands at a 15-centimeter scale and features over twenty points of articulation alongside a fabric soft goods cape.",
+          "Collectors can pose the hero using a Hylian shield, an interchangeable Zonai power hand, and the iconic Master Sword."
+        ]
+      },
+      {
+        "h": "Princess Zelda and Ganondorf Features",
+        "p": [
+          "Princess Zelda matches Link's 15-centimeter scale and comes with the Decayed Master Sword and an interchangeable sword grip hand.",
+          "Meanwhile, the primary antagonist Ganondorf stands slightly taller at 19 centimeters and includes a Gloom Sword, a scabbard, and an interchangeable right hand."
+        ]
+      },
+      {
+        "h": "Pricing and Packaging Information",
+        "p": [
+          "Both the Link and Princess Zelda action figures are priced at $27.99 each.",
+          "Due to its larger size and stature, the Ganondorf figure commands a slightly higher price tag of $42.99, with all items utilizing window box packaging featuring game-inspired character art."
+        ]
+      },
+      {
+        "h": "Broader Series Outlook",
+        "p": [
+          "While fans enjoy recent releases like the Ocarina of Time Remake, the wider single-player series looks ahead to a potential future beyond the Breath of the Wild era.",
+          "Current rumors suggest that official news regarding the next major installment might arrive in the back half of 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Hasbro has revealed The Legend of Zelda: Heroes of Hyrule collection featuring action figures for Link, Princess Zelda, and Ganondorf scheduled for release in Spring 2027. The figures range in price and size while drawing inspiration directly from Tears of the Kingdom."
+        ]
+      }
+    ],
+    "facts": [
+      "The Legend of Zelda series originally debuted in the U.S. in 1987.",
+      "Hasbro announced The Heroes of Hyrule Legend of Zelda collectibles.",
+      "The figure designs are based on their appearances in Tears of the Kingdom.",
+      "Link and Zelda figures stand at around 15 cm, while Ganondorf stands at 19 cm.",
+      "Zelda and Link figures are priced at $27.99, while Ganondorf is priced at $42.99.",
+      "The Heroes of Hyrule figures are officially releasing in Spring 2027."
+    ],
+    "entities": {
+      "people": [
+        "James Lynch",
+        "Link",
+        "Princess Zelda",
+        "Ganondorf"
+      ],
+      "titles": [
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends",
+        "Ocarina of Time Remake",
+        "Breath of the Wild",
+        "Tears of the Kingdom",
+        "The Legend of Zelda",
+        "Zelda II: The Adventure of Link",
+        "The Legend of Zelda: A Link to the Past",
+        "The Legend of Zelda: Link's Awakening",
+        "The Legend of Zelda: Ocarina of Time",
+        "The Legend of Zelda: Majora's Mask",
+        "The Legend of Zelda: Oracle of Seasons",
+        "The Legend of Zelda: A Link to the Past and Four Swords",
+        "The Legend of Zelda: The Wind Waker",
+        "The Legend of Zelda: Four Swords Adventures",
+        "The Legend of Zelda: The Minish Cap",
+        "The Legend of Zelda: Twilight Princess",
+        "The Legend of Zelda: Phantom Hourglass",
+        "The Legend of Zelda: Spirit Tracks",
+        "The Legend of Zelda: Skyward Sword",
+        "The Legend of Zelda: A Link Between Worlds",
+        "The Legend of Zelda: Tri Force Heroes",
+        "The Legend of Zelda: Breath of the Wild (2017)",
+        "The Legend of Zelda: Echoes of Wisdom",
+        "Hyrule Warriors",
+        "Hyrule Warriors Legends (3DS)",
+        "Cadence of Hyrule",
+        "Hyrule Warriors: Age of Calamity"
+      ]
+    },
+    "keywords": [
+      "The Legend of Zelda",
+      "Heroes of Hyrule",
+      "Hasbro",
+      "Link",
+      "Tears of the Kingdom"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/the-legend-of-zelda-wilds-era-end-link-chin.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Hasbro Announces The Legend Of Zelda: Heroes Of Hyrule Collectibles Line",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 10:40:38 GMT"
+  },
+  "1ke2zer": {
+    "id": "1ke2zer",
+    "type": "news",
+    "headline": "Diljit Dosanjh Confronts New Concert Rules in Ahmedabad Following Indore Scrutiny",
+    "dek": "The District Child Protection Officer in Ahmedabad has urged local authorities to limit certain tracks, stage visuals, and props during Diljit Dosanjh's upcoming live performance.",
+    "body": [
+      {
+        "h": "Ahmedabad Concert Faces Child Safety Scrutiny",
+        "p": [
+          "Diljit Dosanjh is facing fresh regulatory pressure ahead of his scheduled live performance at the Narendra Modi Stadium. The District Child Protection Officer has formally approached the Police Commissioner to place restrictions on specific tracks and stage elements.",
+          "The intervention aims to address concerns regarding content that allegedly promotes alcohol consumption, drug use, and gun culture during the live event set for November 21."
+        ]
+      },
+      {
+        "h": "Setlist Restrictions and Track Objections",
+        "p": [
+          "The official letter, dated November 5, specifically asks law enforcement to exclude four tracks from the artist's performance list. The requested omissions include Patiala Pegg, 5 Taara Theeke, Jeeb Vicho Feem Labbiya, and Jatt Uthe Fire Karda Jithe Pabandi Hathiyara Di.",
+          "Authorities noted that songs glorifying intoxicants should be kept off the stage entirely, arguing against the performance of these numbers even if the lyrical content is altered for the live audience."
+        ]
+      },
+      {
+        "h": "Legal Precedents and Anti-Drug Campaigns",
+        "p": [
+          "The complaint draws direct inspiration from the Centre's Nasha Mukt Bharat Abhiyaan initiative. It also highlights a historical observation made by the Punjab and Haryana High Court on July 22, 2019, which advocated for limits on live performances featuring lyrics about liquor, drugs, and violence due to their impact on youth.",
+          "These legal references form the backbone of the argument that live concerts should maintain a child-friendly environment free from substance glorification."
+        ]
+      },
+      {
+        "h": "Child Safety and Stage Environment Concerns",
+        "p": [
+          "Beyond lyrical content, the District Child Protection Officer raised distinct safety issues regarding children attending the concert. The complaint formally requests that minors not be invited onto the stage during the performance.",
+          "Officials pointed out that sound levels surpassing 120 decibels and intense, rapidly flashing stage lights could pose physical risks, such as hearing damage or triggering seizures in susceptible attendees."
+        ]
+      },
+      {
+        "h": "Visual Restrictions on Firearms and Props",
+        "p": [
+          "The regulatory requests extend to the artist's wardrobe and stage props. Police have been urged to ensure that the singer does not wear crossed silver bullet belts, often referred to as bandoliers, or dummy metallic cartridges across his chest.",
+          "The complaint asserts that displaying such imagery normalizes gun culture and could potentially encourage violent behavioral tendencies among the gathered crowds."
+        ]
+      },
+      {
+        "h": "Broader Controversy and Prior Complaints",
+        "p": [
+          "This latest development follows a similar complaint filed by Chandigarh-based professor Dr Panditrao Dharenavar, who has consistently objected to the musical choices featured in the performer's live shows.",
+          "The scrutiny in Ahmedabad also arrives closely on the heels of similar restriction requests made ahead of the artist's November 15 concert in Indore."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ahmedabad authorities are reviewing requests to restrict specific tracks, stage props, and sound levels during Diljit Dosanjh's upcoming concert at Narendra Modi Stadium. Citing child safety and legal precedents regarding substance and gun glorification, the District Child Protection Officer has asked police to intervene following similar objections in Indore."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh is scheduled to perform at Narendra Modi Stadium on November 21.",
+      "The Ahmedabad District Child Protection Officer sent a letter to the Police Commissioner on November 5.",
+      "The requested tracks to be excluded are Patiala Pegg, 5 Taara Theeke, Jeeb Vicho Feem Labbiya, and Jatt Uthe Fire Karda Jithe Pabandi Hathiyara Di.",
+      "The complaint references the Punjab and Haryana High Court observation made on July 22, 2019.",
+      "Sound levels at the concert are noted as exceeding 120 decibels.",
+      "Similar restrictions were sought ahead of the November 15 concert in Indore."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Dr Panditrao Dharenavar",
+        "Jiya Surana"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh restrictions Indore",
+      "Diljit Dosanjh Narendra Modi Stadium",
+      "Dr Panditrao Dharenavar complaint"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/diljit-dosanjh1794559869.jpg",
+        "caption": "Diljit Dosanjh Confronts New Concert Rules in Ahmedabad Following Indore Scrutiny",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-13T15:06:22+05:30"
+  },
+  "p50yvw": {
+    "id": "p50yvw",
+    "type": "news",
+    "headline": "VASSY Releases New Single Dirty Martini Following Historic Year",
+    "dek": "The Australian EDM star drops her latest cheeky track, reflecting on a blockbuster 2026 that included motherhood, festival debuts, and chart milestones.",
+    "body": [
+      {
+        "h": "The Release of Dirty Martini",
+        "p": [
+          "Australian electronic dance music artist VASSY has officially delivered her newest single, titled \"Dirty Martini.\" Released via KMVMUSIC, the track arrived on Friday, November 13, bringing a fresh wave of energy to her growing catalog.",
+          "The track features production work from fellow Australian DJ Oscar Jamo. It incorporates a shuffling beat and inner-city vibes, leaning heavily into a playful, sassy, and provocative atmosphere."
+        ]
+      },
+      {
+        "h": "Exploring a Different Musical Side",
+        "p": [
+          "According to the artist, this latest release highlights a distinct facet of her musical personality. While some of her previous records leaned toward soulfulness, this new tune showcases a slick and cheeky persona designed strictly to get listeners dancing.",
+          "Operating as an independent artist has provided her with the creative freedom needed to experiment with unfamiliar sounds. This autonomy allows her to take calculated risks without feeling constrained by traditional industry numbers or expectations."
+        ]
+      },
+      {
+        "h": "A Historic Chart Achievement",
+        "p": [
+          "The new single follows a major milestone earlier in the year when her collaboration with fellow Australian artist BUST-R, titled \"Day N Night,\" surged to the top of the ARIA Club Chart.",
+          "That accomplishment cemented her status in music history by making her only the sixth female artist to lead the tally. The single maintained its stronghold at the summit for four consecutive weeks."
+        ]
+      },
+      {
+        "h": "Milestones and Motherhood in 2026",
+        "p": [
+          "The year 2026 has proven to be transformative on multiple fronts for the Darwin-born singer. Alongside her musical triumphs, she welcomed her first child, stepping into the demanding yet rewarding world of motherhood.",
+          "Balancing her artistic career with the responsibilities of being a new mother has introduced a beautiful chaos into her daily routine, reshaping her perspective on life and work."
+        ]
+      },
+      {
+        "h": "Festival Magic and Past Collaborations",
+        "p": [
+          "Adding to her eventful year, the performer made her official solo debut at Tomorrowland. She described the experience as pure magic and a full-circle moment, having performed there a decade prior alongside Tiësto for a massive crowd.",
+          "Earlier in the year, she also scored a U.K. chart hit with \"On Me,\" a neo-disco-inspired track created in collaboration with producer Mind Electric."
+        ]
+      },
+      {
+        "h": "An Established Legacy in Electronic Music",
+        "p": [
+          "The artist stands as a true pioneer within the global electronic dance music scene. Her career boasts upward of three billion streams, six No. 1 hits on Billboard's Dance Club Songs chart, and an APRA Billions Award.",
+          "In 2023, she made history by becoming both the first female and the first Australian recipient of the prestigious EDMA Icon Award."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Australian EDM star VASSY has released her new independent single \"Dirty Martini\" with production from Oscar Jamo. The track caps off a monumental 2026 that included becoming a mother, making her solo Tomorrowland debut, and achieving a historic four-week run at No. 1 on the ARIA Club Chart with BUST-R."
+        ]
+      }
+    ],
+    "facts": [
+      "VASSY released the single Dirty Martini on Friday, Nov. 13",
+      "Dirty Martini features production by Oscar Jamo",
+      "Dirty Martini is released via KMVMUSIC",
+      "The single Day N Night is a collaboration with BUST-R",
+      "Day N Night reached No. 1 on the ARIA Club Chart and stayed there for four consecutive weeks",
+      "VASSY became the sixth female artist to lead the ARIA Club Chart",
+      "VASSY welcomed a child in 2026",
+      "VASSY made her solo debut at Tomorrowland in 2026",
+      "VASSY previously performed at Tomorrowland a decade earlier alongside Tiësto",
+      "The track On Me was a U.K. chart hit created with producer Mind Electric",
+      "VASSY has upwards of 3 billion career streams",
+      "VASSY has six No. 1s on Billboard's Dance Club Songs chart",
+      "VASSY received an APRA Billions Award",
+      "VASSY received the EDMA Icon Award in 2023 as the first female and first Australian to win it",
+      "VASSY is a native of Darwin"
+    ],
+    "entities": {
+      "people": [
+        "VASSY",
+        "BUST-R",
+        "Oscar Jamo",
+        "Tiësto",
+        "Mind Electric"
+      ],
+      "titles": [
+        "Dirty Martini",
+        "Day N Night",
+        "On Me",
+        "Secrets"
+      ]
+    },
+    "keywords": [
+      "VASSY Dirty Martini",
+      "VASSY singer",
+      "VASSY Day N Night",
+      "VASSY music",
+      "Oscar Jamo"
+    ],
+    "images": [
+      {
+        "url": "https://www.billboard.com/wp-content/uploads/2026/11/vassy-2026-1800.jpg?w=1024",
+        "caption": "VASSY Releases New Single Dirty Martini Following Historic Year",
+        "source": "Billboard"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 09:53:34 +0000"
   }
 };

@@ -1,39 +1,39 @@
 {
   "connected": true,
-  "generated": "2026-11-13T10:06:12Z",
+  "generated": "2026-11-13T10:52:56Z",
   "realtime": {
-    "active_users": 0
+    "active_users": 1
   },
   "today": {
-    "users": 13,
-    "pageviews": 29,
-    "sessions": 13,
-    "avg_session_seconds": 18.8
+    "users": 16,
+    "pageviews": 40,
+    "sessions": 17,
+    "avg_session_seconds": 22.8
   },
   "last7": {
-    "users": 113,
-    "pageviews": 303,
-    "sessions": 154,
-    "avg_session_seconds": 75.7
+    "users": 115,
+    "pageviews": 314,
+    "sessions": 158,
+    "avg_session_seconds": 74.6
   },
   "top_pages": [
     {
       "path": "/",
       "title": "Bollywood, World Cinema & Box Office | FlickAtlas",
-      "views": 67,
-      "avg_time_seconds": 160.1
+      "views": 68,
+      "avg_time_seconds": 155.3
     },
     {
       "path": "/ott",
       "title": "OTT Releases: Now Available & Coming Soon | FlickAtlas",
-      "views": 23,
-      "avg_time_seconds": 40.4
+      "views": 24,
+      "avg_time_seconds": 38.3
     },
     {
       "path": "/box-office",
       "title": "Box Office Collections: Today, 7-Day & Totals | FlickAtlas",
-      "views": 16,
-      "avg_time_seconds": 14.0
+      "views": 17,
+      "avg_time_seconds": 13.2
     },
     {
       "path": "/search",
@@ -44,46 +44,46 @@
     {
       "path": "/movies",
       "title": "Bollywood, World & Pakistani Movies | FlickAtlas",
-      "views": 14,
-      "avg_time_seconds": 26.2
+      "views": 15,
+      "avg_time_seconds": 24.6
     },
     {
       "path": "/most-awaited",
       "title": "Upcoming Movies: Coming Soon Releases | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 7.7
+      "views": 14,
+      "avg_time_seconds": 7.3
     },
     {
       "path": "/upcoming",
       "title": "Upcoming Movies & TV Release Dates | FlickAtlas",
-      "views": 13,
-      "avg_time_seconds": 8.0
+      "views": 14,
+      "avg_time_seconds": 7.7
     },
     {
       "path": "/episode-guides",
       "title": "Pakistani Drama Episode Guides | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 14.4
+      "views": 13,
+      "avg_time_seconds": 14.9
     },
     {
       "path": "/news",
       "title": "Bollywood & Entertainment News | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 9.8
+      "views": 13,
+      "avg_time_seconds": 9.2
     },
     {
       "path": "/tv",
       "title": "TV Shows & Series: Cast, Seasons & Episodes | FlickAtlas",
-      "views": 12,
-      "avg_time_seconds": 6.7
+      "views": 13,
+      "avg_time_seconds": 8.5
     }
   ],
   "sources": [
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 135,
-      "users": 103
+      "sessions": 139,
+      "users": 105
     },
     {
       "source": "google",
@@ -123,7 +123,7 @@
     },
     {
       "country": "Pakistan",
-      "users": 8
+      "users": 9
     },
     {
       "country": "Argentina",
@@ -138,18 +138,18 @@
       "users": 5
     },
     {
-      "country": "Germany",
+      "country": "Colombia",
       "users": 4
     },
     {
-      "country": "Indonesia",
+      "country": "Germany",
       "users": 4
     }
   ],
   "devices": [
     {
       "device": "desktop",
-      "users": 105
+      "users": 107
     },
     {
       "device": "mobile",
