@@ -132067,5 +132067,387 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-13T07:46:45+05:30"
+  },
+  "j39knn": {
+    "id": "j39knn",
+    "type": "news",
+    "headline": "Mahesh Manjrekar Remembers Late Colleague Nana Patekar and Discusses Past Controversy",
+    "dek": "Actor-director Mahesh Manjrekar reflects on the sudden demise of veteran actor Nana Patekar, shares details of his final hours, and addresses the past Tanushree Dutta controversy in a recent interview.",
+    "body": [
+      {
+        "h": "Coping With a Sudden Loss",
+        "p": [
+          "Filmmaker and actor Mahesh Manjrekar is still struggling to process the sudden death of his longtime colleague and close friend, Nana Patekar. At the time of Patekar's passing, Manjrekar was away from India on work commitments, preventing him from seeing his friend one final time.",
+          "Reflecting on their unique bond, Manjrekar shared that the two frequently exchanged playful insults and banter. He expressed profound sorrow over the abruptness of the loss, noting that Patekar had no right to leave so suddenly without offering any warning signs of illness."
+        ]
+      },
+      {
+        "h": "Details of the Final Hours",
+        "p": [
+          "Shedding light on the events leading up to the tragedy, Manjrekar recounted the timeline of Patekar's final hours. The veteran actor reportedly began experiencing physical discomfort around 2:30 am but initially chose to update his family rather than seek immediate medical help.",
+          "Later, around 3:30 am, Patekar contacted his elder brother again to report persistent discomfort, mentioning he would alert him if things worsened. His brother subsequently arrived at the residence and urged him to visit a medical facility."
+        ]
+      },
+      {
+        "h": "Proximity to Medical Care",
+        "p": [
+          "Manjrekar voiced deep regret regarding how the situation unfolded, pointing out that one of Goa's premier hospitals was located just four minutes away from Patekar's home. Instead of heading to the hospital, Patekar initially brushed off the pain, suspecting it might simply be due to gas.",
+          "While discussing the symptoms and potential causes with his family, Patekar suffered a massive cardiac arrest. Manjrekar admitted to dwelling heavily on these distressing details and the what-ifs surrounding the delayed medical attention."
+        ]
+      },
+      {
+        "h": "Wishes for the Afterlife",
+        "p": [
+          "Overcome with emotion while discussing his late friend, Manjrekar spoke about the deep personal connection they shared over decades in the industry. He stated that if an afterlife exists, Patekar would be the very first person he would seek out after his own family members.",
+          "The filmmaker emphasized that the absence of his companion leaves a significant void in his life, one that is exacerbated by the inability to have been present during his final moments."
+        ]
+      },
+      {
+        "h": "Revisiting the Tanushree Dutta Controversy",
+        "p": [
+          "During the same interview, Manjrekar opened up about the past controversy involving Tanushree Dutta and Nana Patekar. He asserted that the episode had been brought back into the public eye unnecessarily and argued that the situation was blown out of proportion.",
+          "The filmmaker mentioned that he was well acquainted with the individuals present on the set on the day in question. According to him, close associates who were there at the time maintained that nothing untoward had actually occurred."
+        ]
+      },
+      {
+        "h": "Impact of Social Media and Public Opinion",
+        "p": [
+          "Manjrekar expressed frustration over the role of social media in amplifying old matters and fueling ungrounded opinions. He stated that Patekar had to endure considerable and unfair suffering as a direct result of the controversy.",
+          "Concluding his thoughts on the matter, the director noted that despite people having varied perspectives online, those closest to the actual working environment knew the accusations lacked substance."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Filmmaker Mahesh Manjrekar opened up about the sudden death of his close friend Nana Patekar, sharing regret over being out of the country and recounting the timeline of Patekar's final hours before a fatal cardiac arrest. He also addressed the past Tanushree Dutta controversy, asserting that the veteran actor suffered considerably for no valid reason."
+        ]
+      }
+    ],
+    "facts": [
+      "Mahesh Manjrekar spoke about Nana Patekar in a recent interview with News18 Marathi.",
+      "Nana Patekar experienced initial discomfort around 2:30 am and contacted his elder brother again around 3:30 am.",
+      "Patekar's residence in Goa was approximately four minutes away from one of the best local hospitals.",
+      "Patekar suffered a massive cardiac arrest while discussing his discomfort."
+    ],
+    "entities": {
+      "people": [
+        "Mahesh Manjrekar",
+        "Nana Patekar",
+        "Tanushree Dutta"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Mahesh Manjrekar Nana Patekar",
+      "Nana Patekar final hours",
+      "Tanushree Dutta controversy Nana Patekar",
+      "Mahesh Manjrekar interview News18 Marathi"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135788988,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Mahesh Manjrekar Remembers Late Colleague Nana Patekar and Discusses Past Controversy",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T09:41:13+05:30"
+  },
+  "jxr4j": {
+    "id": "jxr4j",
+    "type": "news",
+    "headline": "Rosalía Secures Historic Third Album of the Year Win at the Latin Grammys",
+    "dek": "The Spanish singer achieved a major milestone at the 27th Annual Latin GRAMMY Awards, taking home the top honor for her ambitious LP Lux.",
+    "body": [
+      {
+        "h": "A Historic Night at the MGM Grand Garden Arena",
+        "p": [
+          "The 27th Annual Latin GRAMMY Awards played host to a groundbreaking achievement as Spanish singer Rosalía captured the prestigious Album of the Year prize once again. Taking place on November 12, 2026, at the MGM Grand Garden Arena in Las Vegas, Nevada, the ceremony celebrated the absolute pinnacle of Latin music talent.",
+          "With this latest victory, Rosalía etched her name into the history books by becoming the first woman to ever win the night's highest honor as a lead artist three separate times. The emotional significance of the moment was palpable as she stepped forward to accept the accolade."
+        ]
+      },
+      {
+        "h": "An Emotional Acceptance and Special Presenter",
+        "p": [
+          "Walking onto the stage in tears, Rosalía was handed the trophy by Colombian rocker Juanes, a moment that added a deeply personal layer to her triumph. She reflected warmly on how Juanes had extended a helping hand to her during the earliest stages of her career.",
+          "Expressing her profound gratitude, the artist remarked on how powerful it felt to receive the prize from someone who had supported her long before her global superstardom. The moving exchange highlighted the tight-knit bonds within the Latin music community."
+        ]
+      },
+      {
+        "h": "The Artistic Vision Behind Lux",
+        "p": [
+          "Released in the fall of 2025, the award-winning album Lux showcased Rosalía operating at the height of her powers as a classically trained conservatory musician. The record stands out for its fearless fusion of opera, classical traditions, and lyrics delivered across fourteen distinct languages.",
+          "Tackling complex thematic elements such as theology, romantic love, and the multifaceted nature of womanhood, the project represented a daring leap into uncharted waters for the performer. She described the creative process during her speech as a vital exercise in speaking one's authentic truth."
+        ]
+      },
+      {
+        "h": "Translating the Album to the Live Stage",
+        "p": [
+          "The all-encompassing sonic and thematic energy of Lux did not stay confined to the recording studio. Rosalía successfully channeled the grandeur of the LP into her extensive world tour held throughout the year.",
+          "Concertgoers were treated to a unique spectacle that featured a full-scale orchestra, bringing the intricate arrangements and theatricality of the record to life in front of massive live audiences."
+        ]
+      },
+      {
+        "h": "Building a Legacy at the Latin Grammys",
+        "p": [
+          "Rosalía has cultivated a formidable relationship with the Latin Recording Academy ever since her breakout second album, El Mal Querer, established her as a major force. That 2019 release earned her a first career Album of the Year victory.",
+          "She followed that landmark success by securing her second trophy in the same category with the genre-defying 2022 project Motomami. Adding Lux to the mantle solidifies her status as a true darling of the awards."
+        ]
+      },
+      {
+        "h": "Stiff Competition and Multiple Nominations",
+        "p": [
+          "The road to victory was far from easy, as Rosalía faced a fiercely competitive field in the Album of the Year category. Her fellow nominees included acclaimed acts such as Jorge Drexler, Karol G, Carín León, Anitta, Mon Laferte, CA7RIEL Paco Amoroso, Silvana Estrada, Rawayana, and Milo J.",
+          "Furthermore, she stood out as one of the most-recognized figures heading into the evening. She was tied for a leading seven nominations alongside peers Karol G, CA7RIEL Paco Amoroso, and Jorge Drexler."
+        ]
+      },
+      {
+        "h": "A Tribute to Family Roots",
+        "p": [
+          "Concluding her acceptance speech, Rosalía directed heartfelt appreciation toward her mother for shaping the person she became. She joked about finding space in her mother's home for yet another heavy trophy.",
+          "Despite questioning whether another Grammy would physically fit inside the house, she promised to deliver the award personally, acknowledging that her mother always manages to make room for her achievements."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Rosalía made history at the 27th Annual Latin GRAMMY Awards on November 12, 2026, by winning Album of the Year for her 2025 LP Lux. This victory marks her third time capturing the ceremony's highest honor, making her the first woman to achieve the feat as a lead artist."
+        ]
+      }
+    ],
+    "facts": [
+      "Rosalía won Album of the Year for Lux at the 27th Annual Latin GRAMMY Awards on November 12, 2026.",
+      "The ceremony took place at the MGM Grand Garden Arena in Las Vegas, Nevada.",
+      "This is Rosalía's third Album of the Year win, making her the first woman to win the award as a lead artist three times.",
+      "Juanes presented the award to Rosalía.",
+      "Lux was released in the fall of 2025 and features 14 different languages.",
+      "Rosalía previously won Album of the Year in 2019 for El Mal Querer and in 2022 for Motomami.",
+      "Rosalía was tied for seven nominations at the event."
+    ],
+    "entities": {
+      "people": [
+        "Rosalía",
+        "Juanes",
+        "Jorge Drexler",
+        "Karol G",
+        "Carín León",
+        "Anitta",
+        "Mon Laferte",
+        "CA7RIEL Paco Amoroso",
+        "Silvana Estrada",
+        "Rawayana",
+        "Milo J"
+      ],
+      "titles": [
+        "LUX (Complete Works)",
+        "Lux",
+        "El Mal Querer",
+        "Motomami"
+      ]
+    },
+    "keywords": [
+      "Rosalia Latin Grammys",
+      "Lux Album of the Year",
+      "Rosalia Latin GRAMMY Awards 2026",
+      "Rosalía",
+      "Juanes"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/roalisa-aoty-lead.jpg?crop=0px%2C11px%2C1800px%2C1014px&#038;resize=1600%2C900",
+        "caption": "Rosalía Secures Historic Third Album of the Year Win at the Latin Grammys",
+        "source": "Rolling Stone Music"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 04:18:34 +0000"
+  },
+  "nogbnr": {
+    "id": "nogbnr",
+    "type": "news",
+    "headline": "Thalapathy Vijay's 2017 Action Hit 'Bairavaa' Set For A Grand Return To Theatres On January 1, 2027",
+    "dek": "Nearly a decade after its original theatrical run, the Tamil action entertainer starring Vijay and Keerthy Suresh is heading back to big screens across Tamil Nadu to ring in the New Year.",
+    "body": [
+      {
+        "h": "New Year Re-Release Announcement",
+        "p": [
+          "Fans of the prominent actor-turned-politician Thalapathy Vijay have received exciting news regarding the start of the upcoming year. The 2017 Tamil feature Bairavaa is officially scheduled to make a theatrical comeback with a grand re-release across the state of Tamil Nadu. This special screening event has been planned by the makers to give admirers a chance to celebrate the New Year alongside their favorite cinematic star on the big screen.",
+          "The decision brings back a commercial favorite nearly ten years after its initial premiere. Organizers anticipate that the return will pull in both nostalgic audiences who caught the original run and younger film enthusiasts who have grown up appreciating the actor's filmography over the intervening decade."
+        ]
+      },
+      {
+        "h": "Production And Distribution Details",
+        "p": [
+          "The upcoming New Year theatrical run is backed by established production houses and distribution networks. Originally financed by Vijaya Productions, the venture will be managed across theaters in Tamil Nadu through SIM Cine International.",
+          "The strategic scheduling aims to capitalize on holiday excitement, turning the screening into a festive gathering for followers of the lead star. Industry analysts note that re-releases of popular older titles have increasingly become a favored trend for engaging audiences."
+        ]
+      },
+      {
+        "h": "Cast And Creative Direction",
+        "p": [
+          "Helmed by director Bharathan, Bairavaa stands as his second creative partnership with Vijay following their earlier work on Azhagiya Tamil Magan. Bharathan is also widely recognized in the industry for contributing dialogue scripts to notable commercial hits such as Ghilli, Dhool, Veeram, and Madhurey.",
+          "The movie features Keerthy Suresh as the female lead alongside the principal star, while actor Jagapathi Babu takes on the role of the primary antagonist. The supporting ensemble features notable names including Daniel Balaji, Sathish, Thambi Ramaiah, and Mime Gopi, creating a robust framework for the commercial action drama."
+        ]
+      },
+      {
+        "h": "Musical Legacy And Popular Soundtracks",
+        "p": [
+          "A major pillar of the project's enduring popularity remains its soundtrack, composed entirely by Santhosh Narayanan. Several audio tracks achieved massive acclaim following the initial premiere and continue to resonate strongly with supporters.",
+          "Songs such as Pattaya Kelappu, Nilayo, Papa Papa, and Varlaam Varlaam Vaa Bairavaa turned into household favorites. Beyond the star's high-energy action choreography and dance sequences, these musical numbers maintain a lasting connection with listeners years after the premiere."
+        ]
+      },
+      {
+        "h": "Original Box Office Milestone And Reception",
+        "p": [
+          "The feature originally debuted in cinemas during the Pongal season on January 12, 2017. Upon its initial arrival, it performed strongly at the box office, reportedly crossing the significant Rs 100 crore milestone globally within its opening week alone.",
+          "Subsequent television broadcasts further expanded its reach, embedding the title in the memories of everyday viewers. The upcoming theatrical comeback on the first day of January in 2027 aims to bridge generations by reintroducing the fast-paced entertainer to modern audiences."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 2017 Tamil action film Bairavaa, starring Thalapathy Vijay and Keerthy Suresh, is officially returning to theatres across Tamil Nadu on January 1, 2027. Directed by Bharathan and featuring music by Santhosh Narayanan, the upcoming New Year re-release aims to delight both longtime admirers and new moviegoers nearly a decade after its initial box office run."
+        ]
+      }
+    ],
+    "facts": [
+      "Bairavaa originally released on January 12, 2017",
+      "The re-release is scheduled for January 1, 2027",
+      "The film was directed by Bharathan",
+      "Sanstosh Narayanan composed the music",
+      "Keerthy Suresh played the female lead",
+      "Jagapathi Babu played the antagonist"
+    ],
+    "entities": {
+      "people": [
+        "Vijay",
+        "Keerthy Suresh",
+        "Jagapathi Babu",
+        "Bharathan",
+        "Santhosh Narayanan",
+        "Daniel Balaji",
+        "Sathish",
+        "Thambi Ramaiah",
+        "Mime Gopi"
+      ],
+      "titles": [
+        "Bairavaa",
+        "Azhagiya Tamil Magan",
+        "Ghilli",
+        "Dhool",
+        "Veeram",
+        "Madhurey"
+      ]
+    },
+    "keywords": [
+      "Bairavaa re-release",
+      "Thalapathy Vijay Bairavaa",
+      "Bairavaa January 1 2027",
+      "Vijay Keerthy Suresh film"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135788169,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Thalapathy Vijay's 2017 Action Hit 'Bairavaa' Set For A Grand Return To Theatres On January 1, 2027",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T09:06:00+05:30"
+  },
+  "138xjlm": {
+    "id": "138xjlm",
+    "type": "news",
+    "headline": "Saurabh Sachdeva Praises Nitesh Tiwari's Direction in Ramayana: Rise of a Legend",
+    "dek": "Actor Saurabh Sachdeva reflects on portraying Maricha in Ramayana: Rise of a Legend, praising director Nitesh Tiwari's vision and discussing the challenges of the massive mythological production.",
+    "body": [
+      {
+        "h": "Joining the Epic Production",
+        "p": [
+          "Actor Saurabh Sachdeva has shared insights into his casting and experiences working on the high-profile mythological drama Ramayana: Rise of a Legend. He secured his role after auditioning with casting director Mukesh Chhabra, expressing immediate excitement upon learning he had been selected for the project.",
+          "The sheer scale of the production and the advanced technology utilized during filming instantly captured his curiosity. Sachdeva noted that no working actor would easily turn down the opportunity to be part of such a massive cinematic endeavor."
+        ]
+      },
+      {
+        "h": "The Vision of Director Nitesh Tiwari",
+        "p": [
+          "Navigating an epic with numerous historical and literary interpretations presented a creative challenge for the cast. During his preparation, Sachdeva explored multiple versions of the classic tale, realizing that his character, Maricha, could be portrayed in several distinct ways.",
+          "However, director Nitesh Tiwari established a clear and unified creative direction for the ensemble. Sachdeva described the filmmaker as a guiding North Star who ensured consistency and protected the project from narrative fragmentation."
+        ]
+      },
+      {
+        "h": "Demanding Roles for Lead Actors",
+        "p": [
+          "While supporting characters offered room for physical and behavioral experimentation, the central figures faced immense public scrutiny. Sachdeva pointed out that portraying Lord Rama and Goddess Sita was particularly burdensome due to deep-rooted audience perceptions.",
+          "In contrast, playing the shapeshifting catalyst Maricha allowed the actor greater flexibility to alter his voice, posture, and physical presentation without running against rigid audience expectations."
+        ]
+      },
+      {
+        "h": "Working Alongside Co-Star Yash",
+        "p": [
+          "Sharing screen space with prominent co-star Yash proved to be an inspiring experience for the actor. He commended Yash for his intense energy, unwavering discipline, and meticulous attention to detail on the set.",
+          "According to Sachdeva, Yash maintained a humble and respectful demeanor while striving to make every moment count, leaving a distinct and powerful impression through his performance."
+        ]
+      },
+      {
+        "h": "Physical Challenges on Set",
+        "p": [
+          "Bringing the mythological world to life required handling elaborate physical requirements, particularly heavy traditional costumes and ornaments. The production team utilized authentic materials to maintain visual fidelity, which added significant weight for the performers.",
+          "Because the intricate jewelry was stored in air-conditioned holding rooms, the cold metallic pieces created an unexpected physical hurdle whenever the cast put them on for shooting scenes."
+        ]
+      },
+      {
+        "h": "A Future Aspiration in Mythology",
+        "p": [
+          "Beyond his current involvement in the epic franchise, Sachdeva already has his sights set on another monumental classic. He has expressed a strong desire to portray the character Duryodhan in a potential screen adaptation of the Mahabharata.",
+          "He believes his professional training in specialized theatrical techniques like mask work and body movement provides him with the ideal foundation for developing a unique and striking physical vocabulary for the part."
+        ]
+      },
+      {
+        "h": "Box Office Milestone",
+        "p": [
+          "Amid ongoing discussions and varying audience reactions following its debut, the cinematic feature has achieved a massive commercial milestone. The film successfully crossed the Rs 1,000 crore threshold globally.",
+          "Accumulating Rs 1,033.55 crore within its first eight days in theaters, the movie officially cemented its status as the 11th Indian film to accomplish this elite box office feat."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Saurabh Sachdeva discussed his role as Maricha in Ramayana: Rise of a Legend, praising director Nitesh Tiwari's guidance and detailing the physical demands of the production alongside co-star Yash. Meanwhile, the film has crossed the Rs 1,000 crore worldwide milestone within eight days of its release."
+        ]
+      }
+    ],
+    "facts": [
+      "Saurabh Sachdeva plays Maricha in Ramayana: Rise of a Legend.",
+      "Mukesh Chhabra auditioned Saurabh Sachdeva for the role.",
+      "Ramayana: Rise of a Legend collected Rs 1,033.55 crore within eight days.",
+      "The film crossed the Rs 1,000 crore worldwide milestone, becoming the 11th Indian film to do so."
+    ],
+    "entities": {
+      "people": [
+        "Saurabh Sachdeva",
+        "Nitesh Tiwari",
+        "Mukesh Chhabra",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Ramayana",
+        "Mahabharata"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Saurabh Sachdeva",
+      "Nitesh Tiwari",
+      "Ramayana box office collection"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135788597,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Saurabh Sachdeva Praises Nitesh Tiwari's Direction in Ramayana: Rise of a Legend",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T09:16:48+05:30"
   }
 };
