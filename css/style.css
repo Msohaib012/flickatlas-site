@@ -2213,3 +2213,23 @@ a.card, a.fa-box-latest-card, a.release-card, a.editorial-card, a.eb-card, a.cat
 a.news-item, a.tl-row, a.ep-row, a.bo-row, a.bw-calendar-row, a.fa-box-card-head { transition: transform .13s ease, background-color .13s ease, border-color .13s ease; }
 a.card:active, a.fa-box-latest-card:active, a.release-card:active, a.editorial-card:active, a.eb-card:active, a.cat-tile:active, a.person-card:active, a.search-result:active, a.news-slide:active { transform: scale(.97); box-shadow: 0 1px 4px rgba(7,51,46,.14); }
 a.news-item:active, a.tl-row:active, a.ep-row:active, a.bo-row:active, a.bw-calendar-row:active, a.fa-box-card-head:active { transform: scale(.985); background: var(--soft); }
+
+/* Detail page: TMDB rating badge + Where to Watch (2026-11-14). New
+   classes only, Design C tokens. The hero-actions rules are scoped to
+   .detail-hero so the homepage hero buttons are untouched. */
+.rating-badge-wrap{display:flex;align-items:center;gap:16px;margin-top:20px;flex-wrap:wrap}
+.rating-badge{flex:none;width:88px;height:88px;border-radius:50%;background:var(--gold);color:#201600;display:flex;align-items:center;justify-content:center;font-size:2rem;font-weight:800;box-shadow:0 6px 18px rgba(245,158,11,.45)}
+.rating-badge-txt{color:#fff}
+.rating-badge-txt b{display:block;font-size:1.05rem}
+.rating-badge-txt span{font-size:.9rem;opacity:.92}
+.detail-hero .hero-actions{margin-top:20px}
+.detail-hero .hero-actions .btn{padding:12px 22px;border-radius:999px}
+.detail-hero .hero-actions .btn-ghost{background:rgba(255,255,255,.12);color:#fff;border:1px solid rgba(255,255,255,.45)}
+.detail-hero .hero-actions .btn-ghost:hover{background:rgba(255,255,255,.22);text-decoration:none}
+.wtw-groups{display:grid;gap:14px}
+.wtw-group h3{margin:0 0 8px;font-size:1rem}
+.wtw-providers{display:flex;flex-wrap:wrap;gap:10px}
+.wtw-provider{display:inline-flex;align-items:center;gap:9px;background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:8px 14px 8px 8px;font-weight:700;color:var(--teal-deep)}
+.wtw-provider img{width:34px;height:34px;border-radius:8px;object-fit:cover;background:#fff}
+.wtw-provider .wtw-kind{display:block;font-size:.72rem;font-weight:700;color:var(--muted)}
+.wtw-empty{color:var(--muted)}

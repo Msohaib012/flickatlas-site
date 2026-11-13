@@ -370,9 +370,12 @@ def reconcile_tracker_dramas(key, published, pt, out_dir):
                   f"(industry {entry.get('industry')!r})")
             continue
         try:
-            entry["providers"] = fetch_providers(tid, "tv", key)
+            _watch = fetch_watch_results(tid, "tv", key)
+            entry["providers"] = fetch_providers(tid, "tv", key, _watch)
+            entry["providers_wtw"] = fetch_providers_wtw(tid, "tv", key, _watch)
         except Exception:
             entry["providers"] = []
+            entry["providers_wtw"] = []
         published[str(tid)] = entry
         added.append(entry)
         print(f"  reconcile dramas: added {tid} ({entry['title']}, "
@@ -509,7 +512,26 @@ def fetch_typed(tid, media_type, key, pt):
     return pt.tmdb_get(path, key)
 
 
-def fetch_providers(tid, media_type, key):
+_NO_RESULTS = object()
+
+
+def fetch_watch_results(tid, media_type, key):
+    """Raw TMDB watch/providers `results` dict for one title
+    (best-effort) — one call shared by the flatrate (OTT) and
+    all-kinds (Where to Watch) lists, so a title costs one providers
+    request, not two. Returns None on any failure."""
+    try:
+        data = tmdb_get(f"/{media_type}/{tid}/watch/providers", key)
+    except Exception as e:
+        print(f"  providers {tid}: request failed ({e})",
+              file=sys.stderr)
+        return None
+    if not data:
+        return None
+    return data.get("results") or {}
+
+
+def fetch_providers(tid, media_type, key, results=_NO_RESULTS):
     """TMDB watch/providers for one title -> providers list (best-effort).
 
     GET /{movie|tv}/{id}/watch/providers. IN flatrate (streaming)
@@ -520,16 +542,14 @@ def fetch_providers(tid, media_type, key):
     (rent/buy are not streaming, and the OTT page is streaming-only).
     Returns [] when TMDB has no streaming provider for the title, or
     on any failure — never raises, so a providers failure can never
-    drop a title from the seeder run."""
-    try:
-        data = tmdb_get(f"/{media_type}/{tid}/watch/providers", key)
-    except Exception as e:
-        print(f"  providers {tid}: request failed ({e})",
-              file=sys.stderr)
+    drop a title from the seeder run. `results` may be passed in
+    (from fetch_watch_results) to share one fetch with
+    fetch_providers_wtw; None means the fetch already failed, so no
+    second fetch is attempted."""
+    if results is _NO_RESULTS:
+        results = fetch_watch_results(tid, media_type, key)
+    if not results:
         return []
-    if not data:
-        return []
-    results = data.get("results") or {}
     for region in ("IN", "US", "PK"):
         entry = results.get(region) or {}
         flatrate = entry.get("flatrate") or []
@@ -546,6 +566,40 @@ def fetch_providers(tid, media_type, key):
                 "region": region,
                 "type": "flatrate",
             })
+        if out:
+            return out
+    return []
+
+
+def fetch_providers_wtw(tid, media_type, key, results=_NO_RESULTS):
+    """Where-to-Watch providers for one title (best-effort).
+
+    Same endpoint as fetch_providers, but ALL kinds: flatrate (streaming)
+    + rent + buy, in that order, for the first region (IN, then US,
+    then PK) that has ANY provider. Each entry is
+    {name, logo_path, region, kind} with kind in flatrate/rent/buy.
+    Kept SEPARATE from `providers`: the OTT page is streaming-only and
+    depends on `providers` being flatrate-only — mixing rent/buy in
+    would show rental platforms as streaming platforms. Returns []
+    on any failure — never raises."""
+    if results is _NO_RESULTS:
+        results = fetch_watch_results(tid, media_type, key)
+    if not results:
+        return []
+    for region in ("IN", "US", "PK"):
+        entry = results.get(region) or {}
+        out = []
+        for kind in ("flatrate", "rent", "buy"):
+            for p in entry.get(kind) or []:
+                name = (p.get("provider_name") or "").strip()
+                if not name:
+                    continue
+                out.append({
+                    "name": name,
+                    "logo_path": p.get("logo_path") or "",
+                    "region": region,
+                    "kind": kind,
+                })
         if out:
             return out
     return []
@@ -961,13 +1015,18 @@ def main():
             skipped += 1
             continue
         # Providers enrichment (best-effort): TMDB watch/providers,
-        # IN first, US fallback. A failure never drops the title —
-        # it is written with providers [].
+        # IN first, US fallback. One fetch feeds both the flatrate-only
+        # `providers` (OTT) and the all-kinds `providers_wtw` (Where to
+        # Watch). A failure never drops the title — it is written with
+        # providers [].
         try:
-            entry["providers"] = fetch_providers(tid, found_media, key)
+            _watch = fetch_watch_results(tid, found_media, key)
+            entry["providers"] = fetch_providers(tid, found_media, key, _watch)
+            entry["providers_wtw"] = fetch_providers_wtw(tid, found_media, key, _watch)
         except Exception as e:
             print(f"  providers {tid}: enrichment failed ({e})")
             entry["providers"] = []
+            entry["providers_wtw"] = []
         prov = ", ".join(p.get("name")
                          for p in entry["providers"]) or "none"
         time.sleep(0.3)  # TMDB rate limit is 40 req / 10 s

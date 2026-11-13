@@ -119,18 +119,32 @@ def tmdb_get(path, key):
     return PT.tmdb_get(path, key)
 
 
-def fetch_providers(tid, kind, key):
-    """Flatrate provider names for IN, US, GB (in that priority order),
-    unique by name. Returns [] on any failure (best-effort)."""
+_NO_RESULTS = object()
+
+
+def fetch_watch_results(tid, kind, key):
+    """Raw TMDB watch/providers `results` dict (best-effort) — one call
+    shared by the flatrate (OTT) and all-kinds (Where to Watch) lists."""
     try:
         d = tmdb_get("/%s/%s/watch/providers" % (kind, tid), key)
     except Exception:
-        return []
+        return None
     if not isinstance(d, dict):
+        return None
+    return d.get("results") or {}
+
+
+def fetch_providers(tid, kind, key, results=_NO_RESULTS):
+    """Flatrate provider names for IN, US, GB (in that priority order),
+    unique by name. Returns [] on any failure (best-effort). `results`
+    may be passed in (from fetch_watch_results) to share one fetch
+    with fetch_providers_wtw; None means the fetch already failed."""
+    if results is _NO_RESULTS:
+        results = fetch_watch_results(tid, kind, key)
+    if not results:
         return []
     out = []
     seen = set()
-    results = d.get("results") or {}
     for region in PROVIDER_REGIONS:
         flat = (results.get(region) or {}).get("flatrate") or []
         for p in flat:
@@ -139,6 +153,32 @@ def fetch_providers(tid, kind, key):
                 seen.add(name)
                 out.append({"name": name})
     return out
+
+
+def fetch_providers_wtw(tid, kind, key, results=_NO_RESULTS):
+    """Where-to-Watch providers (best-effort): flatrate/rent/buy for the
+    first region (IN, then US, then GB) that has ANY provider. Each
+    entry is {name, logo_path, region, kind}. Kept separate from
+    `providers`: the OTT page is streaming-only and depends on
+    `providers` being flatrate-only."""
+    if results is _NO_RESULTS:
+        results = fetch_watch_results(tid, kind, key)
+    if not results:
+        return []
+    for region in PROVIDER_REGIONS:
+        entry = results.get(region) or {}
+        out = []
+        for kind_name in ("flatrate", "rent", "buy"):
+            for p in entry.get(kind_name) or []:
+                name = (p or {}).get("provider_name")
+                if not name:
+                    continue
+                out.append({"name": name,
+                            "logo_path": (p or {}).get("logo_path") or "",
+                            "region": region, "kind": kind_name})
+        if out:
+            return out
+    return []
 
 
 def fetch_credits(tid, kind, key):
@@ -224,13 +264,16 @@ def build_title(tid, key, today):
     ok, reason = quality_gate(details)
     if not ok:
         return None, None, None, reason
-    providers = fetch_providers(tid, kind, key)
+    _watch = fetch_watch_results(tid, kind, key)
+    providers = fetch_providers(tid, kind, key, _watch)
+    providers_wtw = fetch_providers_wtw(tid, kind, key, _watch)
     credits = fetch_credits(tid, kind, key)
     entry = PT.build_entry(details, kind, ["catalogue"], today)
     entry["source"] = "catalogue"
     entry["catalogue"] = True
     entry["catalogue_stage"] = 1
     entry["providers"] = providers
+    entry["providers_wtw"] = providers_wtw
     if isinstance(credits, dict):
         entry["cast"] = credits.get("cast") or []
         entry["director"] = credits.get("dir") or []

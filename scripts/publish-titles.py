@@ -269,7 +269,7 @@ def derive_industry(details):
 
 
 PRESERVED_OWNER_FIELDS = (
-    "providers", "ott_release_date", "ott_release_provider",
+    "providers", "providers_wtw", "ott_release_date", "ott_release_provider",
     "ott_release_source", "pakistan_theatrical_release_date",
     "pakistan_release_source",
 )

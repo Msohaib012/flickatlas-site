@@ -232,6 +232,44 @@
        hero/banner — day-wise collection is the priority on this page. */
     const daywiseSection = (daywiseHtml || "") + advanceHtml;
 
+    /* Where to Watch (2026-11-14): TMDB watch providers baked into the
+       published entry as pub.providers_wtw (flatrate/rent/buy, IN
+       first, US/PK fallback — scripts/title-seed.py +
+       scripts/refresh-metadata.py). Display only: provider names and
+       logos, never invented; no watch/download buttons, no external
+       links. Empty state is honest: a released film with no providers
+       is "in cinemas now"; an unreleased one has no platforms yet. */
+    const wtwHtml = (() => {
+      const all = Array.isArray(pub.providers_wtw) ? pub.providers_wtw.filter(p => p && p.name) : [];
+      /* The list is already region-homogeneous by construction (the
+         seeder/refresh/catalogue keep the first region with any
+         provider, IN first) — take that region, whatever it is. */
+      const region = all.length ? (all[0].region || "IN") : "";
+      const list = region ? all.filter(p => (p.region || "IN") === region) : [];
+      const groupHtml = [["flatrate", "Streaming"], ["rent", "Rent"], ["buy", "Buy"]].map(([kind, label]) => {
+        const items = list.filter(p => (p.kind || "flatrate") === kind);
+        if (!items.length) return "";
+        const chips = items.map(p => {
+          const logo = p.logo_path ? `<img src="${UI.img(p.logo_path, "w92")}" alt="${UI.esc(p.name)} logo" loading="lazy" decoding="async" onerror="this.remove()">` : "";
+          const kindLabel = kind === "flatrate" ? `<span class="wtw-kind">Subscription</span>` : "";
+          return `<span class="wtw-provider">${logo}<span>${UI.esc(p.name)}${kindLabel}</span></span>`;
+        }).join("");
+        return `<div class="wtw-group"><h3>${label}</h3><div class="wtw-providers">${chips}</div></div>`;
+      }).join("");
+      if (groupHtml) {
+        const regionNames = { IN: "India", US: "United States", PK: "Pakistan", GB: "United Kingdom" };
+        const regionNote = region !== "IN"
+          ? `<p class="prov-note">Streaming availability from TMDB watch providers (${regionNames[region] || region}). India availability has not been announced yet.</p>`
+          : `<p class="prov-note">Streaming availability from TMDB watch providers (India). Availability changes — always confirm on the platform.</p>`;
+        return `<div class="content-card" id="where-to-watch"><h2>Where to Watch</h2><div class="wtw-groups">${groupHtml}</div>${regionNote}</div>`;
+      }
+      const isReleased = pub.release_date && pub.release_date <= TMDB.today();
+      const empty = isReleased
+        ? "In cinemas now — no streaming platform has announced it yet."
+        : "Not released yet — no streaming platform has announced it yet.";
+      return `<div class="content-card" id="where-to-watch"><h2>Where to Watch</h2><p class="wtw-empty">${empty}</p></div>`;
+    })();
+
     const similar = similarPublished(pub);
     const related = relatedNews(pub);
 
@@ -320,6 +358,11 @@
           ${UI.publicationByline(pageDates) ? `<p class="detail-publication">${UI.publicationByline(pageDates)}</p>` : ""}
           <p class="detail-sub">${pub.tagline ? UI.esc(pub.tagline) : UI.esc([genres.join(", "), runtime, relDate].filter(Boolean).join(" · "))}</p>
           ${heroFacts.length ? `<div class="detail-facts">${heroFacts.join("")}</div>` : ""}
+          ${UI.rating(pub) ? `<div class="rating-badge-wrap"><div class="rating-badge">${UI.esc(String(UI.rating(pub)))}</div><div class="rating-badge-txt"><b>TMDB audience rating</b><span>Out of 10${pub.vote_count ? `, from ${Number(pub.vote_count).toLocaleString("en-US")} votes` : ""}</span></div></div>` : ""}
+          <div class="hero-actions">
+            ${trailerKey ? `<a class="btn btn-teal" href="#official-trailer">▶ Trailer</a>` : ""}
+            <a class="btn btn-ghost" href="#where-to-watch">Where to Watch</a>
+          </div>
         </div>
       </div>
     </section>
@@ -327,6 +370,8 @@
     ${daywiseSection}
 
     ${pub.overview ? `<div class="content-card" id="story-summary"><h2>Story</h2><p class="article-summary">${UI.esc(pub.overview)}</p></div>` : ""}
+
+    ${wtwHtml}
 
     ${reviewsHtml}
 

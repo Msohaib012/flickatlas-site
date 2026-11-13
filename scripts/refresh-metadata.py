@@ -182,16 +182,33 @@ def merge_entry(existing, fresh, media):
     return merged, changed
 
 
-def fetch_providers_safe(tid, media, key, ts):
-    """Providers list, or None when the request itself failed (so the
-    caller keeps the existing providers instead of blanking them)."""
+_NO_RESULTS = object()
+
+
+def fetch_watch_results_safe(tid, media, key, ts):
+    """Raw TMDB watch/providers `results` dict, or None when the request
+    itself failed (so the caller keeps the existing providers instead
+    of blanking them). One fetch shared by the flatrate (OTT) and
+    all-kinds (Where to Watch) lists."""
     try:
         data = ts.tmdb_get(f"/{media}/{tid}/watch/providers", key)
     except Exception:
         return None
     if not data:
         return None
-    results = data.get("results") or {}
+    return data.get("results") or {}
+
+
+def fetch_providers_safe(tid, media, key, ts, results=_NO_RESULTS):
+    """Providers list, or None when the request itself failed (so the
+    caller keeps the existing providers instead of blanking them).
+    `results` may be passed in (from fetch_watch_results_safe) to
+    share one fetch with fetch_providers_wtw_safe; None means the
+    fetch already failed, so no second fetch is attempted."""
+    if results is _NO_RESULTS:
+        results = fetch_watch_results_safe(tid, media, key, ts)
+    if results is None:
+        return None
     for region in ("IN", "US"):
         entry = results.get(region) or {}
         flatrate = entry.get("flatrate") or []
@@ -205,6 +222,34 @@ def fetch_providers_safe(tid, media, key, ts):
             out.append({"name": name,
                         "logo_path": p.get("logo_path") or "",
                         "region": region, "type": "flatrate"})
+        if out:
+            return out
+    return []
+
+
+def fetch_providers_wtw_safe(tid, media, key, ts, results=_NO_RESULTS):
+    """Where-to-Watch providers (flatrate/rent/buy, first region with
+    any provider: IN, then US, then PK — PK included so a Pakistani
+    drama's providers are not blanked by this refresh, unlike the
+    flatrate path which only checks IN/US), or None when the request
+    itself failed (caller keeps the existing list). Kept separate from
+    `providers`: the OTT page is streaming-only and depends on
+    `providers` being flatrate-only."""
+    if results is _NO_RESULTS:
+        results = fetch_watch_results_safe(tid, media, key, ts)
+    if results is None:
+        return None
+    for region in ("IN", "US", "PK"):
+        entry = results.get(region) or {}
+        out = []
+        for kind in ("flatrate", "rent", "buy"):
+            for p in entry.get(kind) or []:
+                name = (p.get("provider_name") or "").strip()
+                if not name:
+                    continue
+                out.append({"name": name,
+                            "logo_path": p.get("logo_path") or "",
+                            "region": region, "kind": kind})
         if out:
             return out
     return []
@@ -280,8 +325,14 @@ def main():
                                entry.get("published_at") or "")
         merged, changed = merge_entry(entry, fresh, media)
         # Providers (separate: a failed fetch must not blank them).
+        # One watch/providers fetch feeds both the flatrate-only list
+        # (OTT) and the all-kinds list (Where to Watch).
         try:
-            prov = fetch_providers_safe(tid, media, key, ts)
+            _watch = fetch_watch_results_safe(tid, media, key, ts)
+        except Exception:
+            _watch = None
+        try:
+            prov = fetch_providers_safe(tid, media, key, ts, _watch)
         except Exception:
             prov = None
         if prov is not None:
@@ -289,6 +340,16 @@ def main():
         if prov is not None and prov != entry.get("providers"):
             merged["providers"] = prov
             changed.append("providers")
+        # Where to Watch providers (separate field, same fetch: a failed
+        # fetch must not blank them; a successful empty response means
+        # genuinely no provider in any region).
+        try:
+            wtw = fetch_providers_wtw_safe(tid, media, key, ts, _watch)
+        except Exception:
+            wtw = None
+        if wtw is not None and wtw != entry.get("providers_wtw"):
+            merged["providers_wtw"] = wtw
+            changed.append("providers_wtw")
         # Committed title corrections (out/title-corrections.json)
         # win over TMDB: a corrected record (e.g. a postponed film
         # whose TMDB date is still the old one) must not be reverted

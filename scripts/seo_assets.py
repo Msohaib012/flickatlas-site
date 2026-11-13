@@ -548,6 +548,30 @@ def title_ssr(entry, dw, review, worldwide, credits=None):
         out.append("<ul>" + "".join("<li>%s</li>" % _esc(i) for i in items)
                    + "</ul>")
         substantive = True
+    # Where to Watch (2026-11-14): TMDB watch providers baked into the
+    # entry as providers_wtw (flatrate/rent/buy, first region with any
+    # provider). Plain provider names, no links — the same facts the
+    # detail page renders in its Where to Watch section. The TMDB
+    # rating is already in Key facts above.
+    wtw = entry.get("providers_wtw") or []
+    if isinstance(wtw, list):
+        wtw_by_kind = {}
+        for p in wtw:
+            if not isinstance(p, dict) or not plain_text(p.get("name")):
+                continue
+            kind = p.get("kind") or "flatrate"
+            wtw_by_kind.setdefault(kind, []).append(plain_text(p.get("name")))
+        wtw_lines = []
+        for kind, label in (("flatrate", "Streaming"), ("rent", "Rent"),
+                            ("buy", "Buy")):
+            names = wtw_by_kind.get(kind) or []
+            if names:
+                wtw_lines.append("%s: %s" % (label, ", ".join(names)))
+        if wtw_lines:
+            out.append("<h2>Where to Watch</h2>")
+            out.append("<ul>" + "".join("<li>%s</li>" % _esc(l) for l in wtw_lines)
+                       + "</ul>")
+            substantive = True
     rows = [r for r in (dw or []) if isinstance(r, dict)]
     if rows:
         total_in = sum(_number(r.get("collection")) for r in rows)

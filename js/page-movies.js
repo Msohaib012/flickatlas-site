@@ -111,6 +111,12 @@
     || (a.published_at || "").localeCompare(b.published_at || "");
   const byPopular = (a, b) => (b.vote_average || 0) - (a.vote_average || 0)
     || (b.vote_count || 0) - (a.vote_count || 0);
+  /* Top Rated credibility floor (2026-11-14, matches the homepage Top
+     Rated rail in js/page-index.js): without it the top of the list is
+     10.0/1-vote entries. The old gate (rating >= 7.5 AND vote_count
+     >= 300) matched nothing; 10 votes keeps 156 of 829 published
+     movies (64 Bollywood, 92 World). */
+  const TOP_RATED_MIN_VOTES = 10;
 
   /* Hub shows released movies AND TV series (future-dated titles live
      on /upcoming). YEARLY (user order 2026-10-27): the hub is organised
@@ -282,6 +288,7 @@
       /* "Top Rated" is a sort-by-rating view, not a gate: the old gate
          (rating >= 7.5 AND vote_count >= 300) could never match published
          titles (vote_count 2-3), so the filter always showed empty. */
+      if (f === "top" && (Number(x.vote_average) <= 0 || Number(x.vote_count) < TOP_RATED_MIN_VOTES)) return false;
       if (g && !(Array.isArray(x.genres) && x.genres.includes(g))) return false;
       return true;
     });

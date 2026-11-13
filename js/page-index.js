@@ -114,7 +114,7 @@
     /* OTT limit (2026-10-28, owner order): the homepage OTT rails show
        AT LEAST as many titles as the homepage movies rail (Spotlight,
        12 cards) — the old ott:7 cap bound the rails before the data did. */
-    const HOME_LIMITS = { soon: 20, calendar: 10, trending: 15, boxoffice: 8, news: 15, dramas: 14, ott: 20 };
+    const HOME_LIMITS = { soon: 20, calendar: 10, trending: 15, boxoffice: 8, news: 15, dramas: 14, ott: 20, topRated: 20 };
     /* Trending News desktop count (owner order 2026-11-02): the
        .editorial-grid is 3 columns at min-width:1000px (css/style.css),
        where HOME_LIMITS.news = 7 leaves the last row with two empty
@@ -462,6 +462,34 @@
        (/api/trends); the context pools are published titles only, and
        no TMDB lookup runs — enrichment is skipped. */
     const searchesHtml = `<section class="section" data-sec="trending-searches" id="homeTrendingSearches"><h2>Trending Searches</h2><p role="status">Loading trend feed…</p></section>`;
+
+    /* ---------- Top Rated (2026-11-14): published movies by TMDB
+       audience rating, vote_average desc then vote_count desc.
+       Credibility floor: vote_count >= 10 — without it the top of
+       the list is 10.0/1-vote entries. Measured 2026-11-14: the
+       literal TMDB /movie/top_rated top 20 intersects the published
+       catalogue in only 7 titles, all World Cinema (0 Indian), so a
+       TMDB-list rail would render empty in the default Bollywood
+       view; the published-catalogue ordering gives a full honest rail
+       in both views and matches the /movies?f=top See All exactly.
+       The TMDB-list version becomes viable once the staged catalogue
+       expansion lands (every TMDB title gets a page). ---------- */
+    const TOP_RATED_MIN_VOTES = 10;
+    const topRatedFor = (industry) => {
+      const ind = industry === "international" ? "world" : "bollywood";
+      return pubAll()
+        .filter(x => x && typeOf(x) === "movie" && x.poster_path
+          && UI.industryOf(x) === ind
+          && Number(x.vote_average) > 0 && Number(x.vote_count) >= TOP_RATED_MIN_VOTES)
+        .sort((a, b) => (Number(b.vote_average) || 0) - (Number(a.vote_average) || 0)
+          || (Number(b.vote_count) || 0) - (Number(a.vote_count) || 0)
+          || String(b.release_date || "").localeCompare(String(a.release_date || "")))
+        .slice(0, HOME_LIMITS.topRated);
+    };
+    const topRatedHtml = safeRail("top-rated", () => {
+      const items = topRatedFor("bollywood");
+      return items.length ? `<section class="section" data-sec="top-rated" id="homeTopRated"><div class="section-head"><h2>Top Rated</h2><a class="see-all" href="/movies?f=top">See All →</a></div>${homeFilterRow("toprated", false)}<div class="scroller" data-results>${items.map((x, i) => UI.posterCard(x, "movie", "", i + 1, undefined, true)).join("")}</div></section>` : "";
+    });
 
     /* ---------- Box Office homepage: verified worldwide reports first.
        India Net and Overseas stay separate on inner movie daywise pages;
@@ -1260,6 +1288,7 @@
       ${boHtml}
       ${ottHtml}
       ${trendingHtml}
+      ${topRatedHtml}
       ${upHtml}
       ${searchesHtml}
       ${newsHtml}
@@ -1274,7 +1303,7 @@
     // only (no live TMDB discover). Query only after a non-default tab
     // is chosen; the default Bollywood view is pre-rendered above.
     const industryLabel = i => i === "international" ? "World Cinema" : i === "pakistan" ? "Pakistan" : "Bollywood";
-    const homeStateKey = kind => ({ spotlight: "hs", soon: "hn", calendar: "hc", boxoffice: "hb", ott: "ho" }[kind]);
+    const homeStateKey = kind => ({ spotlight: "hs", soon: "hn", calendar: "hc", boxoffice: "hb", ott: "ho", toprated: "ht" }[kind]);
     document.querySelectorAll("[data-switcher]").forEach(group => {
       const section = group.closest("section"), kind = group.dataset.switcher, result = section.querySelector("[data-results]"), link = section.querySelector(".see-all"), stateKey = homeStateKey(kind);
       const activate = (industry, persist) => {
@@ -1334,6 +1363,16 @@
       };
       const render = () => {
         const industry = state.industry, type = state.type;
+        if (kind === "toprated") {
+          section.querySelector("h2").textContent = "Top Rated";
+          link.href = "/movies?f=top";
+          const result = section.querySelector("[data-results]");
+          const items = topRatedFor(industry);
+          if (result) result.innerHTML = items.length
+            ? items.map((x, i) => UI.posterCard(x, "movie", "", i + 1, undefined, true)).join("")
+            : '<p role="status">No matching titles found.</p>';
+          return;
+        }
         if (kind === "ott") {
           section.querySelector("h2").textContent = "OTT";
           link.href = `/ott?f=${industry}${typeParam(type)}`;
