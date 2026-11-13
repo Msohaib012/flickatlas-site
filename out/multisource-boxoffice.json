@@ -1760,15 +1760,17 @@
         "extras": {
           "occupancy": {
             "sources": {
-              "filmynewsnetwork": 20.6
+              "filmynewsnetwork": 20.6,
+              "overseas-backfill": 22.1
             },
-            "value": 20.6
+            "value": 21.4
           },
           "shows": {
             "sources": {
-              "filmynewsnetwork": 531
+              "filmynewsnetwork": 531,
+              "overseas-backfill": 548
             },
-            "value": 531
+            "value": 540
           },
           "tickets": {
             "sources": {
@@ -9432,6 +9434,35 @@
               "overseas-backfill": 5294
             },
             "value": 5294
+          }
+        },
+        "india": false
+      },
+      "7": {
+        "date": "2026-11-12",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 25.7
+            },
+            "value": 25.7
+          },
+          "overseas": {
+            "crore": 4.0,
+            "currency": "USD",
+            "date": "2026-11-12",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 4.0
+            },
+            "value": 422610
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 5062
+            },
+            "value": 5062
           }
         },
         "india": false
@@ -19848,6 +19879,35 @@
               "overseas-backfill": 24239
             },
             "value": 24239
+          }
+        },
+        "india": false
+      },
+      "8": {
+        "date": "2026-11-12",
+        "extras": {
+          "occupancy": {
+            "sources": {
+              "overseas-backfill": 33.9
+            },
+            "value": 33.9
+          },
+          "overseas": {
+            "crore": 25.0,
+            "currency": "USD",
+            "date": "2026-11-12",
+            "date_disagreed": false,
+            "scope": "overseas_gross",
+            "sources": {
+              "overseas-backfill": 25.0
+            },
+            "value": 2641310
+          },
+          "shows": {
+            "sources": {
+              "overseas-backfill": 24042
+            },
+            "value": 24042
           }
         },
         "india": false

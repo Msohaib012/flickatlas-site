@@ -130603,5 +130603,357 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 00:39:10 +0000"
+  },
+  "1xrodw7": {
+    "id": "1xrodw7",
+    "type": "news",
+    "headline": "How Joaquin Phoenix Almost Landed the Lead in Doctor Strange",
+    "dek": "Before Benedict Cumberbatch claimed the mantle of Marvel's Sorcerer Supreme, Academy Award winner Joaquin Phoenix was in deep talks to star in the 2016 film.",
+    "body": [
+      {
+        "h": "The Near Miss of Casting",
+        "p": [
+          "Before Benedict Cumberbatch became universally recognized as Marvel's Sorcerer Supreme, another acclaimed Hollywood star came remarkably close to wearing the red cloak. Joaquin Phoenix, an Oscar-winning performer, was heavily considered to headline the 2016 fantasy blockbuster.",
+          "Discussions between the studio and the actor advanced significantly, with Phoenix spending numerous hours in creative meetings with the film's director, Scott Derrickson, exploring the nuances of the complex comic book character."
+        ]
+      },
+      {
+        "h": "Director's Initial Vision",
+        "p": [
+          "When development on the project began, filmmaker Scott Derrickson actually harbored a different primary preference. His initial dream choice for the lead role was Benedict Cumberbatch, who at that time enjoyed widespread acclaim for his starring role in the television series Sherlock.",
+          "However, initial scheduling conflicts made it impossible for Cumberbatch to commit to the studio's rigid calendar, forcing the creative team to look elsewhere and ultimately bringing Phoenix into active consideration as a high-profile alternative."
+        ]
+      },
+      {
+        "h": "The Long-Term Contract Hurdle",
+        "p": [
+          "A major stumbling block in the negotiations stemmed from the studio's strict requirements regarding multi-picture commitments. Taking on a prominent superhero role meant signing on for extensive future appearances across multiple cinematic projects.",
+          "Phoenix possessed reservations about committing to such long-term obligations with Disney, as he preferred projects that did not tie him down to a multi-film franchise ecosystem over many years."
+        ]
+      },
+      {
+        "h": "Realizing the Creative Mismatch",
+        "p": [
+          "As discussions progressed, both the director and the actor began to recognize an underlying creative incompatibility. Derrickson later shared that his extensive conversations with Phoenix made it evident that the actor was simply not a natural fit for the cinematic universe.",
+          "Despite mutual professional respect, it became clear that Phoenix's distinct artistic approach did not align with the standardized structural demands of a major comic book franchise."
+        ]
+      },
+      {
+        "h": "Shifting the Schedule for Cumberbatch",
+        "p": [
+          "Rather than compromising with an actor who did not quite fit the studio's mould, Derrickson pursued an alternative solution. He successfully persuaded Marvel Studios and Disney to adjust their entire production timeline.",
+          "By shifting the shooting dates to accommodate Cumberbatch's calendar, the studio cleared the path for the original choice to finally secure the coveted role."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Joaquin Phoenix was once considered to star as the lead in the 2016 film Doctor Strange and spent hours discussing the project with director Scott Derrickson. The casting did not happen because Phoenix had concerns about long-term studio contracts, and the director ultimately shifted the filming schedule to accommodate Benedict Cumberbatch."
+        ]
+      }
+    ],
+    "facts": [
+      "Joaquin Phoenix was considered for Doctor Strange.",
+      "The Doctor Strange movie was released in 2016.",
+      "Scott Derrickson directed Doctor Strange.",
+      "Benedict Cumberbatch was initially known for Sherlock."
+    ],
+    "entities": {
+      "people": [
+        "Joaquin Phoenix",
+        "Benedict Cumberbatch",
+        "Scott Derrickson"
+      ],
+      "titles": [
+        "Doctor Strange",
+        "Sherlock"
+      ]
+    },
+    "keywords": [
+      "Joaquin Phoenix Doctor Strange",
+      "Benedict Cumberbatch Doctor Strange",
+      "Scott Derrickson Marvel",
+      "Doctor Strange 2016 casting"
+    ],
+    "images": [
+      {
+        "url": "https://www.koimoi.com/wp-content/new-galleries/2026/11/joaquin-phoenix-was-once-considered-for-doctor-strange-heres-why-it-didnt-happen-001.jpg",
+        "caption": "How Joaquin Phoenix Almost Landed the Lead in Doctor Strange",
+        "source": "Koimoi"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 23:14:13 +0000"
+  },
+  "11ysuby": {
+    "id": "11ysuby",
+    "type": "news",
+    "headline": "Alexander Skarsgård Fantasy Romance Feature Reaches Major Global Revenue Milestone",
+    "dek": "The fairy tale feature starring Alexander Skarsgård has achieved a notable financial milestone, tripling its production budget worldwide.",
+    "body": [
+      {
+        "h": "Global Box Office Milestone",
+        "p": [
+          "The cinematic project starring Alexander Skarsgård has officially crossed an impressive financial threshold in its theatrical run. The feature, which brings a fantastical fairy tale to life on the big screen, has managed to outperform initial commercial expectations by pulling in significant numbers worldwide.",
+          "Industry analysts have noted that the release continues to enjoy a steady and resilient performance, drawing audiences to cinemas weeks after its initial debut and cementing itself as a quiet success story in the current theatrical landscape."
+        ]
+      },
+      {
+        "h": "Budget and Profitability",
+        "p": [
+          "The film was produced on a modest budget, making its current financial achievements all the more remarkable for the studio involved. Having accumulated thirty million dollars globally, the feature has successfully tripled the initial ten million dollar investment required to bring it to production.",
+          "This substantial return highlights the growing appetite for distinct fantasy romance narratives that can punch above their weight class internationally without needing massive blockbuster spending."
+        ]
+      },
+      {
+        "h": "Distribution Success for Black Bear",
+        "p": [
+          "For Black Bear, the company that acquired the distribution rights for two and a half million dollars, this release stands as their most lucrative self-distributed domestic title to date.",
+          "The strategic acquisition has clearly paid off, as the domestic market embraced the project and kept it floating comfortably within the upper tiers of daily ticket sales charts."
+        ]
+      },
+      {
+        "h": "Domestic Rankings and Ticket Sales",
+        "p": [
+          "Mainstay presence in local theaters has kept the movie relevant among moviegoers looking for alternative cinematic choices. In recent daily tabulations, the picture secured the eighth position domestically by bringing in over half a million dollars from an approximate footprint of two thousand theater locations.",
+          "This consistent daily trickle follows an opening weekend that established a solid baseline of nearly six million dollars, proving that word-of-mouth has kept ticket counters active."
+        ]
+      },
+      {
+        "h": "Source Material and Creative Background",
+        "p": [
+          "The narrative foundation of the movie stems from the literary work titled The Wicker Husband, written by Ursula Wills. By adapting this whimsical yet unconventional short story, the filmmakers managed to craft a distinct aesthetic that relies heavily on elaborate costuming and atmospheric storytelling.",
+          "Alexander Skarsgård leads this imaginative project, donning intricate attire that sets the tone for a bonkers fairy tale experience unlike standard Hollywood fare."
+        ]
+      },
+      {
+        "h": "Cast Career Context",
+        "p": [
+          "Alexander Skarsgård has built a diverse portfolio over the years, famously breaking out as the vampire Eric Northman in the acclaimed television series True Blood. His career since has spanned various high-profile television and film endeavors.",
+          "In addition to his current cinematic milestone, recent casting announcements have confirmed his involvement in an upcoming project titled The Confessions, where he will share the screen with fellow actors Harry Melling, Maya Hawke, and Hunter Schafer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Alexander Skarsgård's fantasy romance feature has officially passed thirty million dollars globally, tripling its ten million dollar budget and becoming Black Bear's top-grossing self-distributed North American release. The film continues to maintain a spot in the domestic top ten following its initial weekend launch based on the Ursula Wills short story."
+        ]
+      }
+    ],
+    "facts": [
+      "Alexander Skarsgård stars in Wicker",
+      "Wicker is based on the short story The Wicker Husband by Ursula Wills",
+      "Global box office collection has reached $30 million",
+      "The production budget was $10 million",
+      "Black Bear purchased distribution rights for $2.5 million",
+      "Opening weekend earnings were $5.7 million",
+      "Recent daily returns reached $581,000 from over 2,000 locations",
+      "Alexander Skarsgård was previously known for playing Eric Northman in True Blood",
+      "Alexander Skarsgård will star in The Confessions alongside Harry Melling, Maya Hawke, and Hunter Schafer",
+      "Takashi Yamazaki directed Godzilla Minus Zero"
+    ],
+    "entities": {
+      "people": [
+        "Alexander Skarsgård",
+        "Ursula Wills",
+        "Harry Melling",
+        "Maya Hawke",
+        "Hunter Schafer",
+        "Takashi Yamazaki",
+        "Jake Hodges"
+      ],
+      "titles": [
+        "True Blood",
+        "The Confessions",
+        "Sunrise on the Reaping",
+        "Blade Runner 2099",
+        "Wicker",
+        "The Wicker Husband",
+        "Succession",
+        "Godzilla Minus Zero"
+      ]
+    },
+    "keywords": [
+      "Alexander Skarsgård Wicker",
+      "Wicker box office milestone",
+      "The Wicker Husband film",
+      "Alexander Skarsgård The Confessions"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/09/true-blood-alexander-skarsgard-eric-northman-1.jpeg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Alexander Skarsgård Fantasy Romance Feature Reaches Major Global Revenue Milestone",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 00:45:12 GMT"
+  },
+  "qiqjmm": {
+    "id": "qiqjmm",
+    "type": "news",
+    "headline": "Kevin Feige clarifies that Doctor Doom is not a variant of Tony Stark",
+    "dek": "Marvel Studios chief Kevin Feige addresses fan theories and confusion stemming from the Avengers: Endgame re-release post-credits scene featuring Robert Downey Jr.",
+    "body": [
+      {
+        "h": "The Core Clarification From Kevin Feige",
+        "p": [
+          "Marvel Studios head Kevin Feige has officially put to rest speculation regarding the true identity of the upcoming cinematic antagonist. Addressing widespread rumors, Feige explicitly stated that the villain is not an alternate reality version of the beloved founding Avenger.",
+          "Instead of serving as an alternate timeline shortcut to resurrect past heroes, the character remains strictly faithful to his comic book roots as the iconic ruler of Latveria."
+        ]
+      },
+      {
+        "h": "Origins of the Fan Confusion",
+        "p": [
+          "Audience speculation went into overdrive following a special post-credits sequence added to the theatrical re-release of a past Marvel blockbuster. In this extra footage, the actor previously known for portraying Iron Man is seen crafting what appears to be the signature metallic faceplate.",
+          "This visual tease prompted many viewers to question how the narrative could justify utilizing the exact same performer for both roles without establishing a direct familial or alternate-universe connection."
+        ]
+      },
+      {
+        "h": "External Theories and Comic Book Precedents",
+        "p": [
+          "Prominent entertainment publications previously floated the hypothesis that the villain might be an iteration of the armored hero originating from a different planet. However, printed source material has long established these two figures as completely independent entities.",
+          "In the 2008 publication Iron Man: Legacy of Doom, the characters engage in direct confrontation, providing a literary precedent for their separate identities within the source material."
+        ]
+      },
+      {
+        "h": "Addressing the Casting Dilemma",
+        "p": [
+          "Having the same performer play both roles naturally raises questions about how the upcoming motion picture will address the identical appearance. Analysts suggest that the solution may lie in the villain's signature characteristic from the printed pages.",
+          "Throughout decades of published stories, the iconic antagonist rarely removes his metallic headwear, potentially allowing the production team to minimize facial exposure on screen."
+        ]
+      },
+      {
+        "h": "Upcoming Release Schedule",
+        "p": [
+          "Fans eager to see how these narrative threads resolve will not have to wait much longer. The much-anticipated film is scheduled to premiere in cinemas across the United Kingdom before its wider international rollout.",
+          "Audiences in the UK can catch the release starting on December 16, while viewers in the US will see it land in theaters on December 18."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios chief Kevin Feige has confirmed that Doctor Doom is an entirely separate character from Tony Stark, dismissing theories sparked by a confusing post-credits scene in the Avengers: Endgame re-release. Despite the same actor playing both roles and a teaser showing him forging a mask, the upcoming film Avengers: Doomsday will feature Victor Von Doom independently when it releases in December."
+        ]
+      }
+    ],
+    "facts": [
+      "Kevin Feige confirmed Doctor Doom is not a variant of Tony Stark.",
+      "The post-credits scene appeared in the re-release of Avengers: Endgame.",
+      "Iron Man: Legacy of Doom was published in 2008.",
+      "Avengers: Doomsday releases in the UK on December 16.",
+      "Avengers: Doomsday releases in the US on December 18."
+    ],
+    "entities": {
+      "people": [
+        "Kevin Feige",
+        "Tony Stark",
+        "Robert Downey Jr.",
+        "Victor Von Doom"
+      ],
+      "titles": [
+        "Avengers: Endgame",
+        "Avengers: Doomsday",
+        "Iron Man: Legacy of Doom"
+      ]
+    },
+    "keywords": [
+      "Kevin Feige Doctor Doom",
+      "Avengers Doomsday Tony Stark",
+      "Doctor Doom variant Tony Stark",
+      "Robert Downey Jr Doctor Doom"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.mos.cms.futurecdn.net/ZSxQTASovYYVMBizNSSbQF-1920-80.jpg",
+        "caption": "Kevin Feige clarifies that Doctor Doom is not a variant of Tony Stark",
+        "source": "Total Film (GamesRadar)"
+      }
+    ],
+    "published": "Thu, 12 Nov 2026 22:47:03 +0000"
+  },
+  "1ht9wd4": {
+    "id": "1ht9wd4",
+    "type": "news",
+    "headline": "Shah Rukh Khan Reflects on Owning Mannat and Early Hardships",
+    "dek": "Superstar Shah Rukh Khan recently opened up about his journey to acquiring his iconic bungalow Mannat, recalling his early days of lacking a home after losing his parents at a young age.",
+    "body": [
+      {
+        "h": "The Value of a Personal Haven",
+        "p": [
+          "For global superstar Shah Rukh Khan, a residence is far more than just a physical structure to return to after a long day. Speaking at a recent event in Dubai, the actor explained that a home serves as a vital sanctuary where an individual can find peace, decompress, and gather the inner strength required to face a demanding world.",
+          "The actor emphasized that life is naturally filled with both triumphs and trials, bringing moments of profound joy alongside heavy disappointments. At the end of every testing day, however, returning to one's own private space provides the necessary opportunity to recharge and reconnect with oneself before stepping back out."
+        ]
+      },
+      {
+        "h": "Early Struggles and the Absence of a Home",
+        "p": [
+          "During his appearance at the waterfront tower launch, the acclaimed actor reflected on his formative years and the difficult challenges he faced. Having lost both his parents at a tender age, Shah Rukh experienced a period in his life where he did not possess a permanent home of his own.",
+          "He shared that this lack of a settled dwelling persisted for years until his marriage to Gauri Khan. This prolonged period without a fixed family home deeply influenced his appreciation for residential stability and the comforting feeling of belonging to a specific place."
+        ]
+      },
+      {
+        "h": "Reaching Beyond Financial Limits for Dream Homes",
+        "p": [
+          "Recalling the milestones of his marital life, the actor revealed that the first property he and Gauri purchased together stretched far beyond their actual financial capacity at the time. He noted that a similar financial stretch applied when they eventually acquired their famous landmark residence, Mannat.",
+          "Despite exceeding their budgetary limits during these purchases, the superstar expressed a firm belief that divine intervention aids those who genuinely strive for their aspirations. He encouraged fans to think big, maintain strong faith, and trust in themselves and higher powers when pursuing their ultimate goals."
+        ]
+      },
+      {
+        "h": "Current Renovations at the Iconic Bungalow",
+        "p": [
+          "While the famous sea-facing property remains a major symbol of his monumental success, the physical structure is currently undergoing significant expansion and renovation work. Originally acquired by the actor in the year 2001, the estate has continuously evolved over the decades.",
+          "The current construction project focuses on the annex portion of the bungalow, which previously featured approximately six stories. Builders are actively adding two additional floors to this section, with the entire renovation expected to reach completion by December."
+        ]
+      },
+      {
+        "h": "Upcoming Professional Ventures",
+        "p": [
+          "Beyond sharing personal reflections on his real estate journey, the prominent actor is currently gearing up for his highly anticipated upcoming cinematic release. Titled King, the movie is directed by Siddharth Anand and has generated substantial buzz among fans and industry watchers alike.",
+          "The upcoming feature boasts a star-studded cast featuring notable names such as Suhana Khan, Abhishek Bachchan, Deepika Padukone, and Anil कपूर. The film is officially scheduled to arrive in theaters on December 24, setting the stage for a major box-office arrival."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shah Rukh Khan recently shared emotional memories about his lack of a permanent home after losing his parents in his youth, leading up to the acquisition of his famous bungalow Mannat. During a public event in Dubai, he also discussed upcoming renovations to the property and his forthcoming film King, directed by Siddharth Anand."
+        ]
+      }
+    ],
+    "facts": [
+      "Shah Rukh Khan lost his parents at a young age.",
+      "Shah Rukh and Gauri purchased Mannat, which was beyond their budget.",
+      "Mannat was originally purchased in 2001.",
+      "Mannat's annex is adding 2 new floors, expected to be completed by December.",
+      "Shah Rukh Khan's upcoming film King is directed by Siddharth Anand.",
+      "King is scheduled to release on December 24."
+    ],
+    "entities": {
+      "people": [
+        "Shah Rukh Khan",
+        "Gauri Khan",
+        "Siddharth Anand",
+        "Suhana Khan",
+        "Abhishek Bachchan",
+        "Deepika Padukone",
+        "Anil Kapoor"
+      ],
+      "titles": [
+        "Mannat",
+        "King"
+      ]
+    },
+    "keywords": [
+      "Shah Rukh Khan Mannat",
+      "Shah Rukh Khan home Dubai",
+      "Shah Rukh Khan King movie",
+      "Siddharth Anand King release date"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6af5ea91000de-gauri-khan-shahrukh-khan-mannat-home-123423996-16x9.jpg",
+        "caption": "Shah Rukh Khan Reflects on Owning Mannat and Early Hardships",
+        "source": "Aaj Tak — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T01:24:02Z"
   }
 };
