@@ -135215,5 +135215,483 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 10:54:42 +0000"
+  },
+  "y4vkb5": {
+    "id": "y4vkb5",
+    "type": "news",
+    "headline": "Sathyavan Savithiri Trailer Unveiled: Keerthy Suresh and Mysskin Clash in Courtroom Drama",
+    "dek": "The makers of Sathyavan Savithiri have released the official trailer, showcasing a intense legal battle featuring Keerthy Suresh as a lawyer defending her husband against murder charges, opposite Mysskin as the opposing counsel.",
+    "body": [
+      {
+        "h": "Introduction to the Trailer Release",
+        "p": [
+          "The official trailer for the upcoming courtroom drama Sathyavan Savithiri has been officially released to the public by its makers. The promotional clip highlights an intense narrative that weaves together unexpected romance, marriage, and a high-stakes murder trial.",
+          "Viewers are given an early look at the dramatic legal confrontation that forms the core of the film, setting high expectations for the impending theatrical rollout scheduled for later in the month."
+        ]
+      },
+      {
+        "h": "Plot Premise and Character Arcs",
+        "p": [
+          "The story centers on Savithri, portrayed by Keerthy Suresh, who is introduced as a struggling lawyer. Her life shifts dramatically when she finds herself forced into an unconventional marriage, though she eventually grows to care for her husband.",
+          "Complications arise when her spouse is suddenly accused of murder. Bound by both duty and affection, Savithri steps into the courtroom to act as his defense attorney, merging her chaotic personal life directly with her professional obligations."
+        ]
+      },
+      {
+        "h": "The Lead Performances: Keerthy Suresh and Mysskin",
+        "p": [
+          "Keerthy Suresh takes on the titular role, anchoring both the romantic foundations and the dramatic legal sequences of the feature. Her character must navigate extreme emotional stakes while proving her mettle in a hostile courtroom.",
+          "Opposite her stands Mysskin, who plays the formidable opposing counsel named Markandeyan. Known for his multifaceted contributions to cinema as both a director and actor, Mysskin brings a commanding presence to his role as the primary legal adversary."
+        ]
+      },
+      {
+        "h": "Ensemble Cast and Supporting Roles",
+        "p": [
+          "Beyond the primary face-off between the two leads, the feature boasts a well-rounded supporting cast. Actors Charukesh, Bala Saravanan, and Shilpa Manjunath contribute to the broader narrative ensemble.",
+          "While the promotional trailer keeps its main focus tightly wound around the central murder trial and the husband-wife dynamic, these supporting artists add necessary depth to the overall cinematic canvas."
+        ]
+      },
+      {
+        "h": "Behind the Scenes and Crew",
+        "p": [
+          "Sathyavan Savithiri serves as the directorial debut for Praveen S Vijaay, who also penned the original script. The technical and creative framework is supported by composer Sam CS, who has provided the musical score.",
+          "The lyrical work is shared between Mohan Raja, Uma Devi, and the director himself. The crew further includes cinematographer Arul Vincent, editor Prasanna GK, and art directors Prem Karunthamalai and AM Anandharaj."
+        ]
+      },
+      {
+        "h": "Production Backing and Release Date",
+        "p": [
+          "The production duties are spearheaded by Vedikkaranpatti S Sakthivel, with S Vaishnavi Vivekchandar acting as the co-producer. Financial and logistical backing is provided by Drumsticks Productions and Z Studios.",
+          "Audiences won't have to wait much longer to see how the legal saga unfolds, as the film is officially scheduled to arrive in theatres on November 20."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The makers of Sathyavan Savithiri have released the official trailer for the upcoming courtroom drama, showcasing a dramatic clash between lead actors Keerthy Suresh and Mysskin. Directed by debutant Praveen S Vijaay, the film is set to hit theatres on November 20."
+        ]
+      }
+    ],
+    "facts": [
+      "The trailer of Sathyavan Savithiri was unveiled on November 13, 2026.",
+      "The film is scheduled to arrive in theatres on November 20.",
+      "Praveen S Vijaay is the writer and debut director of the film.",
+      "Keerthy Suresh plays the lawyer Savithri and Mysskin plays the opposing lawyer Markandeyan.",
+      "Sam CS composed the music for the film."
+    ],
+    "entities": {
+      "people": [
+        "Keerthy Suresh",
+        "Mysskin",
+        "Praveen S Vijaay",
+        "Charukesh",
+        "Bala Saravanan",
+        "Shilpa Manjunath",
+        "Sam CS",
+        "Mohan Raja",
+        "Uma Devi",
+        "Arul Vincent",
+        "Prasanna GK",
+        "Prem Karunthamalai",
+        "AM Anandharaj",
+        "Vedikkaranpatti S Sakthivel",
+        "S Vaishnavi Vivekchandar",
+        "Rohit Panikker"
+      ],
+      "titles": [
+        "Sathyavan Savithiri"
+      ]
+    },
+    "keywords": [
+      "Sathyavan Savithiri",
+      "Keerthy Suresh",
+      "Mysskin",
+      "Praveen S Vijaay",
+      "Sathyavan Savithiri trailer"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/mysskin1794561307.jpg",
+        "caption": "Sathyavan Savithiri Trailer Unveiled: Keerthy Suresh and Mysskin Clash in Courtroom Drama",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-13T14:45:36+05:30"
+  },
+  "ovanou": {
+    "id": "ovanou",
+    "type": "news",
+    "headline": "James Nelson-Joyce Stars in First Look at True Story Heist Drama The Man Who Stole Portugal",
+    "dek": "The production has officially wrapped, unveiling a stellar cast featuring Richard E Grant, Dominic West, and James Nelson-Joyce in a darkly comic period feature.",
+    "body": [
+      {
+        "h": "First Look and Production Wrap",
+        "p": [
+          "Excitement is building for a brand-new cinematic project as production officially wraps on the darkly comic period heist film titled The Man Who Stole Portugal. Alongside the completion announcement, the first batch of promotional images has been revealed to the public, showcasing the ambitious scope of the production.",
+          "The newly released photographs feature lead actor James Nelson-Joyce in character, capturing a pivotal moment during the grand opening sequence of his fictional establishment, the Bank of Angola and Metropole."
+        ]
+      },
+      {
+        "h": "Plot and Historical Inspiration",
+        "p": [
+          "The feature is rooted in one of the most astonishing financial frauds in recorded history, taking place against the backdrop of economic turmoil in 1920s Portugal. The narrative follows Alves Reis, an ambitious outsider who discovers the immense power of a forged qualification and a convincing bluff.",
+          "What begins simply as a desperate bid to escape poverty quickly escalates into a massive financial scheme. By secretly acquiring millions in genuine Bank of Portugal banknotes, Reis amasses a fortune capable of destabilising the entire national financial ecosystem."
+        ]
+      },
+      {
+        "h": "Cast and Character Dynamics",
+        "p": [
+          "James Nelson-Joyce takes on the central role of Alves Reis, portraying a man determined to secure a better life for his wife and family. Joining him is Emily Fairn as his wife Maria, while Joel Fry steps into the shoes of his friend and business partner Jose.",
+          "The ensemble is further rounded out by Herbert Nordrum portraying a flamboyant diplomat named Karel. Additionally, Richard E Grant features as Sir William Waterlow, the head of a British printing firm, and Dominic West appears as Carlos, a newspaper editor whose publication ultimately helps expose the grand deception."
+        ]
+      },
+      {
+        "h": "Extended Supporting Cast",
+        "p": [
+          "The production boasts an impressive roster of additional talent, featuring familiar faces from acclaimed television and film projects. Among the further additions to the cast are Kim Bodnia and Nia Towle.",
+          "With such a diverse group of performers rounding out the background of this massive historical fraud, the film promises strong character dynamics alongside its central dramatic tension."
+        ]
+      },
+      {
+        "h": "Behind the Camera",
+        "p": [
+          "The project is under the direction of filmmaker Thomas Napper, whose previous creative credits include feature films Jawbone and Widow Clicquot. Napper has also directed television episodes, notably helming four installments of The Wheel of Time.",
+          "Filming for the project took place across multiple international locations, with the production crew shooting scenes throughout the United Kingdom, Portugal, and South Africa before wrapping."
+        ]
+      },
+      {
+        "h": "Actor Insights and Motivations",
+        "p": [
+          "Discussing his attraction to the project, lead actor James Nelson-Joyce noted that he was immediately drawn to the complexity and elusiveness of his character. He related strongly to the figure's frustration at being consistently underestimated by those around him.",
+          "Nelson-Joyce also highlighted the psychological fascination of watching Reis convince himself that his actions were entirely justified, even as the stakes climbed to astronomical heights, leaving audiences questioning whether to cheer for him or urge him to stop."
+        ]
+      },
+      {
+        "h": "Significance and Release Status",
+        "p": [
+          "The narrative explores themes of public adoration, as Reis presents himself as a financial visionary providing loans to individuals rejected by established banks. However, underneath this veneer of philanthropy lies a catastrophic fraud of staggering proportions.",
+          "As of now, the studio has not confirmed an official release date for the feature, leaving eager fans waiting for future updates from the production team."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Production has concluded on The Man Who Stole Portugal, a darkly comic period heist drama starring James Nelson-Joyce as financial fraudster Alves Reis alongside Richard E Grant and Dominic West. Directed by Thomas Napper, the film chronicles a massive 1920s financial conspiracy shot across the UK, Portugal, and South Africa with no release date yet confirmed."
+        ]
+      }
+    ],
+    "facts": [
+      "The film wrapped production after shooting across the UK, Portugal, and South Africa.",
+      "James Nelson-Joyce stars as Alves Reis.",
+      "Richard E Grant plays Sir William Waterlow.",
+      "Dominic West plays Carlos.",
+      "Thomas Napper is the director of the film."
+    ],
+    "entities": {
+      "people": [
+        "James Nelson-Joyce",
+        "Richard E Grant",
+        "Dominic West",
+        "Peter Mountain",
+        "Patrick Cremona",
+        "Emily Fairn",
+        "Joel Fry",
+        "Herbert Nordrum",
+        "Kim Bodnia",
+        "Nia Towle",
+        "Thomas Napper",
+        "Alves Reis",
+        "Maria",
+        "Jose",
+        "Karel",
+        "Sir William Waterlow",
+        "Carlos",
+        "Sonny McCartney"
+      ],
+      "titles": [
+        "This City Is Ours",
+        "The Man Who Stole Portugal",
+        "A Thousand Blows",
+        "House of Guinness",
+        "Bank of Dave",
+        "Sense and Sensibility",
+        "Killing Eve",
+        "Persuasion",
+        "Jawbone",
+        "Widow Clicquot",
+        "The Wheel of Time",
+        "The Radio Times Podcast",
+        "High School Musical"
+      ]
+    },
+    "keywords": [
+      "The Man Who Stole Portugal",
+      "James Nelson-Joyce",
+      "Richard E Grant",
+      "Dominic West",
+      "Thomas Napper"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/TMWSPFirstLook-727f5dd.jpeg?resize=1200%2C630",
+        "caption": "James Nelson-Joyce Stars in First Look at True Story Heist Drama The Man Who Stole Portugal",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 11:16:09 GMT"
+  },
+  "juqps4": {
+    "id": "juqps4",
+    "type": "news",
+    "headline": "Major November movie releases heading to cinemas from Ramayana to Gunmaaster G9",
+    "dek": "Cinemagoers can look forward to a diverse slate of theatrical releases this November, ranging from mythological epics and high-octane action to comedy sequels and Disney animation.",
+    "body": [
+      {
+        "h": "November Theatrical Lineup Overview",
+        "p": [
+          "Cinema halls are gearing up for a packed month with eight distinct films arriving on the big screen throughout November. The slate features a wide variety of cinematic experiences, including grand mythological storytelling, pulse-pounding thrillers, classic literary adaptations with fresh twists, and family-oriented comedies.",
+          "Whether audiences are looking for large-scale visual spectacles or light-hearted entertainment, the upcoming schedule offers something for every type of moviegoer looking to update their watchlist."
+        ]
+      },
+      {
+        "h": "Ramayana: Part One Kicks Off the Month",
+        "p": [
+          "Opening the theatrical calendar on November 5 is Nitesh Tiwari’s highly anticipated retelling, Ramayana: Part One. The mythological epic stars Ranbir Kapoor as Rama, Sai Pallavi as Sita, and Yash as Ravana.",
+          "This initial installment follows Rama’s exile and the unfolding events that ultimately lead to the war with Ravana. The supporting cast includes Sunny Deol as Hanuman and Ravie Dubey as Lakshman, complemented by a notable musical collaboration between A.R. Rahman and Hans Zimmer."
+        ]
+      },
+      {
+        "h": "Thrillers and Heists: Ghost Soldier and How To Rob A Bank",
+        "p": [
+          "Mid-month brings two distinct thriller projects starting with Ghost Soldier on November 13. Directed by William Eubank, the film features Jim Caviezel as retired Special Forces operative Henry “Fitz” Fitzgerald, who is drawn back into action when a powerful corporation targets his hometown alongside cast members Olivia Thirlby, Beau Knapp, Garret Dillahunt, and Shea Whigham.",
+          "Later in the month on November 20, director David Leitch presents How To Rob A Bank. The movie follows a crew that broadcasts their heists live on social media, leading to chaotic public attention starring Nicholas Hoult, Zoë Kravitz, Anna Sawai, and Pete Davidson."
+        ]
+      },
+      {
+        "h": "Literary Twist in Ebenezer",
+        "p": [
+          "Also arriving on November 20 is Ebenezer, directed by Ti West. This project offers a reworked take on the classic Charles Dickens story featuring Johnny Depp as Scrooge.",
+          "The narrative explores Scrooge's eventful Christmas Eve crowded with visiting ghosts from his past, present, and future, supported by an ensemble cast that includes Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, and Ian McKellen."
+        ]
+      },
+      {
+        "h": "A Busy November 27 Box Office Clash",
+        "p": [
+          "The final week of the month on November 27 sees multiple prominent releases hitting cinemas simultaneously. Sooraj R Barjatya returns with the romantic family feature Yeh Prem Mol Liya, starring Ayushmann Khurrana as Prem and Sharvari opposite him, alongside Anupam Kher, Seema Pahwa, Supriya Pathak, and composer Himesh Reshammiya.",
+          "Sharing the same release date is the action feature Gunmaaster G9, directed by Aditya Datt and starring Emraan Hashmi alongside Genelia Deshmukh and Aparshakti Khurana. The creative team reunites following their previous work on Aashiq Banaya Aapne."
+        ]
+      },
+      {
+        "h": "Franchise Returns and Animated Fantasy",
+        "p": [
+          "Continuing the November 27 arrivals, Focker-In-Law brings back the long-running comedy franchise as its fourth film following Little Fockers from 2010. Written and directed by John Hamburg alongside story contributors Ilana Glazer and Austen Earl, original stars Robert De Niro, Ben Stiller, Owen Wilson, Blythe Danner, and Teri Polo return alongside franchise newcomers Ariana Grande, Skyler Gisondo, and Beanie Feldstein.",
+          "Closing out the month on the same date is Disney's animated supernatural fantasy Hexed. Directed by Fawn Veerasunthorn and Jason Hand, the voice cast features Hailee Steinfeld, Rashida Jones, Jodie Foster, Walton Goggins, Tracey Ullman, Stephen Fry, Henry Winkler, Dan Stevens, Brett Gelman, and Samson Kayo."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Eight films are scheduled for theatrical release throughout November, offering a diverse array of genres for audiences. The lineup ranges from mythological epics and action thrillers to family romances, comedy sequels, and animated fantasies.",
+          "Key dates across the month highlight major projects involving prominent filmmakers and star-studded casts hitting cinemas."
+        ]
+      }
+    ],
+    "facts": [
+      "Eight films are heading to theatres in November.",
+      "Ramayana: Part One releases on 5 November.",
+      "Ghost Soldier releases on 13 November.",
+      "How To Rob A Bank releases on 20 November.",
+      "Ebenezer releases on 20 November.",
+      "Yeh Prem Mol Liya releases on 27 November.",
+      "Gunmaaster G9 releases on 27 November.",
+      "Focker-In-Law releases on 27 November.",
+      "Hexed releases on 27 November."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Jim Caviezel",
+        "William Eubank",
+        "Olivia Thirlby",
+        "Beau Knapp",
+        "Garret Dillahunt",
+        "Shea Whigham",
+        "David Leitch",
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Anna Sawai",
+        "Pete Davidson",
+        "Ti West",
+        "Johnny Depp",
+        "Rupert Grint",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Ian McKellen",
+        "Sooraj R Barjatya",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Himesh Reshammiya",
+        "Anupam Kher",
+        "Seema Pahwa",
+        "Supriya Pathak",
+        "Emraan Hashmi",
+        "Aditya Datt",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "John Hamburg",
+        "Ilana Glazer",
+        "Austen Earl",
+        "Robert De Niro",
+        "Ben Stiller",
+        "Owen Wilson",
+        "Blythe Danner",
+        "Teri Polo",
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Beanie Feldstein",
+        "Fawn Veerasunthorn",
+        "Jason Hand",
+        "Jared Bush",
+        "Dana Ledoux Miller",
+        "Jon Robin Baitz",
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Walton Goggins",
+        "Tracey Ullman",
+        "Stephen Fry",
+        "Henry Winkler",
+        "Dan Stevens",
+        "Brett Gelman",
+        "Samson Kayo"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ghost Soldier",
+        "How To Rob A Bank",
+        "Ebenezer",
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne",
+        "Focker-In-Law",
+        "Little Fockers",
+        "Hexed"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Gunmaaster G9",
+      "Yeh Prem Mol Liya",
+      "Ghost Soldier",
+      "Focker-In-Law"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/10/5366-major-nov-releases.jpg",
+        "caption": "Major November movie releases heading to cinemas from Ramayana to Gunmaaster G9",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T12:51:31Z"
+  },
+  "6aq51m": {
+    "id": "6aq51m",
+    "type": "news",
+    "headline": "Steam Announces Four Major Games Completely Free To Play Until November 16",
+    "dek": "Valve offers a new selection of prominent PC titles during its latest Free Weekend Promotion, giving players unrestricted access until November 16.",
+    "body": [
+      {
+        "h": "The Steam Free Weekend Promotion",
+        "p": [
+          "Steam continues to maintain a massive presence in the personal computer digital marketplace by offering regular promotions and consumer-friendly events. Among these periodic highlights is the Free Weekend Promotion, which permits users to sample specific software titles without any initial financial commitment.",
+          "Participants can test out the chosen games throughout the weekend period, and any achievements or saved progression achieved during this window transfer over seamlessly if the user decides to purchase the full version later."
+        ]
+      },
+      {
+        "h": "Four Standout Titles Available Now",
+        "p": [
+          "The latest promotional lineup features four distinct and compelling releases spanning different genres, giving players plenty of variety depending on their individual gaming preferences.",
+          "The featured software package includes Company of Heroes 3, Deep Rock Galactic: Rogue Core, IL-2 Sturmovik: Battle of Stalingrad, and Cities: Skylines 2."
+        ]
+      },
+      {
+        "h": "City Management With Cities: Skylines 2",
+        "p": [
+          "Cities: Skylines 2 serves as the sprawling sequel to the well-received urban development simulator, offering deep mechanics for aspiring city planners.",
+          "Although the software encountered some difficulties during its initial launch phase, subsequent updates from the development team have vastly improved the overall experience, establishing it as a premier genre entry."
+        ]
+      },
+      {
+        "h": "Strategy and Historical Combat",
+        "p": [
+          "Company of Heroes 3 brings classic real-time strategic gameplay back to the forefront, placing participants directly into the North African and Italian theaters of World War II.",
+          "Another historical offering is IL-2 Sturmovik: Battle of Stalingrad, which shifts the focal point to Russia as an immersive combat flight simulator dedicated to one of the most critical military engagements of the Second World War."
+        ]
+      },
+      {
+        "h": "Roguelike Action in Deep Rock Galactic: Rogue Core",
+        "p": [
+          "Rounding out the selection is Deep Rock Galactic: Rogue Core, operating as an early access spin-off featuring subterranean dwarf characters and unpredictable environments.",
+          "The title utilizes procedurally generated caverns and random roguelike enhancements, providing potentially hundreds of hours of entertainment for dedicated participants."
+        ]
+      },
+      {
+        "h": "Promotion Timeline and Availability",
+        "p": [
+          "All four games are accessible on the Steam platform right now, allowing users to dive straight into the action without spending money upfront.",
+          "This special availability period concludes on Monday, November 16, after which users must purchase the respective software to continue playing."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Steam has launched a new Free Weekend Promotion offering four prominent PC games completely free of charge until November 16. The lineup features Cities: Skylines 2, Company of Heroes 3, IL-2 Sturmovik: Battle of Stalingrad, and Deep Rock Galactic: Rogue Core."
+        ]
+      }
+    ],
+    "facts": [
+      "Steam launched a Free Weekend Promotion featuring four games available for free until November 16.",
+      "The games included are Company of Heroes 3, Deep Rock Galactic: Rogue Core, IL-2 Sturmovik: Battle of Stalingrad, and Cities: Skylines 2.",
+      "Cities: Skylines 2 is a city management simulator sequel.",
+      "Company of Heroes 3 is a real-time strategy game set in World War II theatres.",
+      "IL-2 Sturmovik: Battle of Stalingrad is a combat flight simulator set during World War II.",
+      "Deep Rock Galactic: Rogue Core is an early access spin-off featuring procedurally-generated caves.",
+      "The promotion ends on Monday, November 16, after which the games must be purchased."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "Cities: Skylines 2",
+        "Company of Heroes 3",
+        "IL-2 Sturmovik: Battle of Stalingrad",
+        "Deep Rock Galactic: Rogue Core",
+        "Deep Rock Galactic",
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends"
+      ]
+    },
+    "keywords": [
+      "Cities: Skylines 2 Steam free weekend",
+      "Company of Heroes 3 free trial",
+      "Deep Rock Galactic Rogue Core Steam",
+      "IL-2 Sturmovik Battle of Stalingrad November 16",
+      "Steam free games November 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/steam-logo-on-horizon-style-background.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Steam Announces Four Major Games Completely Free To Play Until November 16",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 11:34:52 GMT"
   }
 };

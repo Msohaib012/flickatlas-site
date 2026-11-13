@@ -42,6 +42,106 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 16:51:18 +0200"
   },
+  "juqps4": {
+    "id": "juqps4",
+    "type": "news",
+    "headline": "Major November movie releases heading to cinemas from Ramayana to Gunmaaster G9",
+    "dek": "Cinemagoers can look forward to a diverse slate of theatrical releases this November, ranging from mythological epics and high-octane action to comedy sequels and Disney animation.",
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "A.R. Rahman",
+        "Hans Zimmer",
+        "Jim Caviezel",
+        "William Eubank",
+        "Olivia Thirlby",
+        "Beau Knapp",
+        "Garret Dillahunt",
+        "Shea Whigham",
+        "David Leitch",
+        "Nicholas Hoult",
+        "Zoë Kravitz",
+        "Anna Sawai",
+        "Pete Davidson",
+        "Ti West",
+        "Johnny Depp",
+        "Rupert Grint",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Ian McKellen",
+        "Sooraj R Barjatya",
+        "Ayushmann Khurrana",
+        "Sharvari",
+        "Himesh Reshammiya",
+        "Anupam Kher",
+        "Seema Pahwa",
+        "Supriya Pathak",
+        "Emraan Hashmi",
+        "Aditya Datt",
+        "Genelia Deshmukh",
+        "Aparshakti Khurana",
+        "John Hamburg",
+        "Ilana Glazer",
+        "Austen Earl",
+        "Robert De Niro",
+        "Ben Stiller",
+        "Owen Wilson",
+        "Blythe Danner",
+        "Teri Polo",
+        "Ariana Grande",
+        "Skyler Gisondo",
+        "Beanie Feldstein",
+        "Fawn Veerasunthorn",
+        "Jason Hand",
+        "Jared Bush",
+        "Dana Ledoux Miller",
+        "Jon Robin Baitz",
+        "Hailee Steinfeld",
+        "Rashida Jones",
+        "Jodie Foster",
+        "Walton Goggins",
+        "Tracey Ullman",
+        "Stephen Fry",
+        "Henry Winkler",
+        "Dan Stevens",
+        "Brett Gelman",
+        "Samson Kayo"
+      ],
+      "titles": [
+        "Ramayana: Part One",
+        "Ghost Soldier",
+        "How To Rob A Bank",
+        "Ebenezer",
+        "Yeh Prem Mol Liya",
+        "Gunmaaster G9",
+        "Aashiq Banaya Aapne",
+        "Focker-In-Law",
+        "Little Fockers",
+        "Hexed"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part One",
+      "Gunmaaster G9",
+      "Yeh Prem Mol Liya",
+      "Ghost Soldier",
+      "Focker-In-Law"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/10/5366-major-nov-releases.jpg",
+        "caption": "Major November movie releases heading to cinemas from Ramayana to Gunmaaster G9",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T12:51:31Z"
+  },
   "orb37e": {
     "id": "orb37e",
     "type": "news",
@@ -119,6 +219,98 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 11:39:00 +0000"
+  },
+  "6aq51m": {
+    "id": "6aq51m",
+    "type": "news",
+    "headline": "Steam Announces Four Major Games Completely Free To Play Until November 16",
+    "dek": "Valve offers a new selection of prominent PC titles during its latest Free Weekend Promotion, giving players unrestricted access until November 16.",
+    "entities": {
+      "people": [],
+      "titles": [
+        "Cities: Skylines 2",
+        "Company of Heroes 3",
+        "IL-2 Sturmovik: Battle of Stalingrad",
+        "Deep Rock Galactic: Rogue Core",
+        "Deep Rock Galactic",
+        "World of Warcraft",
+        "Destiny 2",
+        "League of Legends"
+      ]
+    },
+    "keywords": [
+      "Cities: Skylines 2 Steam free weekend",
+      "Company of Heroes 3 free trial",
+      "Deep Rock Galactic Rogue Core Steam",
+      "IL-2 Sturmovik Battle of Stalingrad November 16",
+      "Steam free games November 2026"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/steam-logo-on-horizon-style-background.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Steam Announces Four Major Games Completely Free To Play Until November 16",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 11:34:52 GMT"
+  },
+  "ovanou": {
+    "id": "ovanou",
+    "type": "news",
+    "headline": "James Nelson-Joyce Stars in First Look at True Story Heist Drama The Man Who Stole Portugal",
+    "dek": "The production has officially wrapped, unveiling a stellar cast featuring Richard E Grant, Dominic West, and James Nelson-Joyce in a darkly comic period feature.",
+    "entities": {
+      "people": [
+        "James Nelson-Joyce",
+        "Richard E Grant",
+        "Dominic West",
+        "Peter Mountain",
+        "Patrick Cremona",
+        "Emily Fairn",
+        "Joel Fry",
+        "Herbert Nordrum",
+        "Kim Bodnia",
+        "Nia Towle",
+        "Thomas Napper",
+        "Alves Reis",
+        "Maria",
+        "Jose",
+        "Karel",
+        "Sir William Waterlow",
+        "Carlos",
+        "Sonny McCartney"
+      ],
+      "titles": [
+        "This City Is Ours",
+        "The Man Who Stole Portugal",
+        "A Thousand Blows",
+        "House of Guinness",
+        "Bank of Dave",
+        "Sense and Sensibility",
+        "Killing Eve",
+        "Persuasion",
+        "Jawbone",
+        "Widow Clicquot",
+        "The Wheel of Time",
+        "The Radio Times Podcast",
+        "High School Musical"
+      ]
+    },
+    "keywords": [
+      "The Man Who Stole Portugal",
+      "James Nelson-Joyce",
+      "Richard E Grant",
+      "Dominic West",
+      "Thomas Napper"
+    ],
+    "images": [
+      {
+        "url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/11/TMWSPFirstLook-727f5dd.jpeg?resize=1200%2C630",
+        "caption": "James Nelson-Joyce Stars in First Look at True Story Heist Drama The Man Who Stole Portugal",
+        "source": "Radio Times"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 11:16:09 GMT"
   },
   "yk00fc": {
     "id": "yk00fc",
@@ -453,6 +645,50 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 15:01:41 +0530"
+  },
+  "y4vkb5": {
+    "id": "y4vkb5",
+    "type": "news",
+    "headline": "Sathyavan Savithiri Trailer Unveiled: Keerthy Suresh and Mysskin Clash in Courtroom Drama",
+    "dek": "The makers of Sathyavan Savithiri have released the official trailer, showcasing a intense legal battle featuring Keerthy Suresh as a lawyer defending her husband against murder charges, opposite Mysskin as the opposing counsel.",
+    "entities": {
+      "people": [
+        "Keerthy Suresh",
+        "Mysskin",
+        "Praveen S Vijaay",
+        "Charukesh",
+        "Bala Saravanan",
+        "Shilpa Manjunath",
+        "Sam CS",
+        "Mohan Raja",
+        "Uma Devi",
+        "Arul Vincent",
+        "Prasanna GK",
+        "Prem Karunthamalai",
+        "AM Anandharaj",
+        "Vedikkaranpatti S Sakthivel",
+        "S Vaishnavi Vivekchandar",
+        "Rohit Panikker"
+      ],
+      "titles": [
+        "Sathyavan Savithiri"
+      ]
+    },
+    "keywords": [
+      "Sathyavan Savithiri",
+      "Keerthy Suresh",
+      "Mysskin",
+      "Praveen S Vijaay",
+      "Sathyavan Savithiri trailer"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/mysskin1794561307.jpg",
+        "caption": "Sathyavan Savithiri Trailer Unveiled: Keerthy Suresh and Mysskin Clash in Courtroom Drama",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-13T14:45:36+05:30"
   },
   "1qiap49": {
     "id": "1qiap49",
@@ -4531,164 +4767,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-12T07:52:31Z"
-  },
-  "1flm0we": {
-    "id": "1flm0we",
-    "type": "news",
-    "headline": "Usher and Chris Brown Cancel December Concert Following Prior Tour Adjustments",
-    "dek": "The collaborative tour featuring Usher and Chris Brown faces further disruption as another major concert date is called off amid health concerns and legal proceedings.",
-    "entities": {
-      "people": [
-        "Usher",
-        "Chris Brown"
-      ],
-      "titles": []
-    },
-    "keywords": [
-      "Usher and Chris Brown",
-      "joint tour cancelled",
-      "December show Miami",
-      "Chris Brown UK court hearing"
-    ],
-    "images": [
-      {
-        "url": "https://static.toiimg.com/thumb/msid-135760516,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "caption": "Usher and Chris Brown Cancel December Concert Following Prior Tour Adjustments",
-        "source": "Times of India — Entertainment"
-      }
-    ],
-    "published": "2026-11-12T13:14:15+05:30"
-  },
-  "17dums3": {
-    "id": "17dums3",
-    "type": "news",
-    "headline": "Peacock Crime Thriller M.I.A. Serves As The Ultimate TV Companion Ahead Of GTA 6 Release",
-    "dek": "As players endure the final days of a historic 13-year wait for Grand Theft Auto VI, Peacock's crime series M.I.A. offers a strikingly similar underworld journey to pass the time.",
-    "entities": {
-      "people": [
-        "Sean Morrison",
-        "Shannon Gisela",
-        "Brittany Adebumola",
-        "Karen Campbell",
-        "Bill Dubuque",
-        "Alethea Jones",
-        "Benjamin Semanoff",
-        "Gwyneth Horder-Payton",
-        "John Dahl",
-        "Mairzee Almas"
-      ],
-      "titles": [
-        "Grand Theft Auto VI",
-        "M.I.A.",
-        "Ozark"
-      ]
-    },
-    "keywords": [
-      "Grand Theft Auto VI",
-      "M.I.A. Peacock series",
-      "Etta Tiger Jonze",
-      "Lucia Camino GTA 6"
-    ],
-    "images": [
-      {
-        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/shannon-gisela-s-etta-looking-worriedly-over-her-shoulder-while-in-a-car-in-m-i-a.jpg?w=1600&amp;h=900&amp;fit=crop",
-        "caption": "Peacock Crime Thriller M.I.A. Serves As The Ultimate TV Companion Ahead Of GTA 6 Release",
-        "source": "Screen Rant"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 07:30:18 GMT"
-  },
-  "1bnpesb": {
-    "id": "1bnpesb",
-    "type": "news",
-    "headline": "The Mummy 4 Confirms Another Major Legacy Return",
-    "dek": "Arnold Vosloo has officially announced his comeback as the iconic villain Imhotep in the upcoming fourth instalment of The Mummy franchise.",
-    "entities": {
-      "people": [
-        "Arnold Vosloo",
-        "Brendan Fraser",
-        "Rachel Weisz",
-        "Maria Bello",
-        "Kevin J O'Connor",
-        "Oded Fehr",
-        "John Hannah",
-        "Patricia Velásquez",
-        "Stephanie Chase"
-      ],
-      "titles": [
-        "The Mummy",
-        "The Mummy 4",
-        "The Mummy: Book of the Dead",
-        "The Mummy Returns",
-        "The Mummy: Tomb of the Dragon Emperor",
-        "Legends",
-        "Gavin & Stacey",
-        "Rivals",
-        "Coronation Street",
-        "Love Island",
-        "I'm a Celeb",
-        "Emmerdale",
-        "EastEnders",
-        "Hollyoaks",
-        "Sherwood",
-        "Celebrity Race Across The World"
-      ]
-    },
-    "keywords": [
-      "The Mummy 4",
-      "Arnold Vosloo Imhotep",
-      "Brendan Fraser The Mummy",
-      "The Mummy Book of the Dead"
-    ],
-    "images": [
-      {
-        "url": "https://hips.hearstapps.com/hmg-prod/images/rachel-weisz-john-hannah-brendan-fraser-the-mummy-690b18738a004.jpg?crop=1.00xw:0.725xh;0,0.112xh&amp;resize=1200:*",
-        "caption": "The Mummy 4 Confirms Another Major Legacy Return",
-        "source": "Digital Spy"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 07:00:00 +0000"
-  },
-  "ars78b": {
-    "id": "ars78b",
-    "type": "news",
-    "headline": "Ramayana crosses Rs 20 crore in Kerala box office within six days",
-    "dek": "Nitesh Tiwari's Ramayana: Part 1 becomes the first Bollywood film to cross the Rs 20-crore gross mark in Kerala, surpassing Dhurandhar 2.",
-    "entities": {
-      "people": [
-        "Nitesh Tiwari",
-        "Ranbir Kapoor",
-        "Yash",
-        "Sai Pallavi",
-        "Ravie Dubey",
-        "Sunny Deol",
-        "Aamir Khan",
-        "Suriya"
-      ],
-      "titles": [
-        "Ramayana: Rise of Legend",
-        "Ramayana: Part 1",
-        "Dhurandhar 2",
-        "Dhurandhar: The Revenge",
-        "PK",
-        "Dangal",
-        "Scene"
-      ]
-    },
-    "keywords": [
-      "Ramayana Kerala box office",
-      "Ramayana Part 1 box office",
-      "Ranbir Kapoor Ramayana collection",
-      "Ramayana beats Dhurandhar 2"
-    ],
-    "images": [
-      {
-        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-conquers-kerala-box-office-with-rs-20-crore-in-6-days--crushes-dhurandhar-2-124838531-16x9_0.jpg?VersionId=jpHfcraI5opqbw6CG1LBITEe1JMiNwAU",
-        "caption": "Ramayana crosses Rs 20 crore in Kerala box office within six days",
-        "source": "India Today — Movies"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 12:24:58 +0530"
   },
   "1643vxd": {
     "id": "1643vxd",
