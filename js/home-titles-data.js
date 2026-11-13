@@ -26845,5 +26845,531 @@ window.FA_PUBLISHED = {
     "providers": [],
     "release_date": "2026-11-13",
     "popularity": 1.8167
+  },
+  "254630": {
+    "id": 254630,
+    "type": "tv",
+    "title": "12 12 12",
+    "poster_path": "/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+    "backdrop_path": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+    "vote_average": 5.9,
+    "vote_count": 9,
+    "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US",
+      "GB",
+      "CA"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-13",
+    "status": "Returning Series",
+    "providers": [],
+    "first_air_date": "2026-11-12",
+    "popularity": 14.1474
+  },
+  "1505424": {
+    "id": 1505424,
+    "type": "movie",
+    "title": "Dead of Night",
+    "poster_path": "/uyaSdkCnGDWnb0YQP36s6WQe1J7.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A small town is terrorized by a series of brutal murders, as a determined sheriff, his daughter, and a desperate mayor race to uncover the truth behind the killings before the town descends into chaos.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-13",
+    "popularity": 1.7974
+  },
+  "338562": {
+    "id": 338562,
+    "type": "tv",
+    "title": "Alicia's Law",
+    "poster_path": "/7o9nY3GO97jyeVWdtWr12nR0Qpt.jpg",
+    "backdrop_path": "/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
+    "vote_average": 5.7,
+    "vote_count": 6,
+    "overview": "When her carefully built life comes undone, Alicia returns to practicing law and discovers that rebuilding her career also means redefining herself.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "MX"
+    ],
+    "production_countries": [
+      "MX",
+      "US"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-13",
+    "status": "Returning Series",
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "first_air_date": "2026-11-11",
+    "popularity": 22.9044
+  },
+  "1824458": {
+    "id": 1824458,
+    "type": "movie",
+    "title": "Talk Show Host",
+    "poster_path": "/47V8WbRE3c84HBs4T2GBnzALG4g.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A celebrity attends an unusual talk show, hosted by an idiosyncratic host.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.0388
+  },
+  "1560309": {
+    "id": 1560309,
+    "type": "movie",
+    "title": "All the Lovers in the Night",
+    "poster_path": "/87o8UVoGVzP9wsb2k9FJwz30Wbb.jpg",
+    "backdrop_path": "/yGj2WiJSrPRvmnZ5GqVEaWmqJ4p.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Freelance proofreader Fuyuko's carefully ordered life in solitude begins to transform after meeting Mitsutsuka, a quiet high school physics teacher.",
+    "industry": "world",
+    "original_language": "ja",
+    "origin_country": [
+      "JP"
+    ],
+    "production_countries": [
+      "JP"
+    ],
+    "spoken_languages": [
+      "ja"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-13",
+    "popularity": 1.7231
+  },
+  "1822380": {
+    "id": 1822380,
+    "type": "movie",
+    "title": "Somewhere Else",
+    "poster_path": "/2BiDVjCqFzxHtiWh8ihLKdYZkTR.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Two strangers occupy separate spaces, connected by a series of quiet, unexplained repetitions. Across a studio and a university campus, their movements, gestures and routines gradually begin to mirror one another. As the parallels between their lives become increasingly precise, the possibility of an encounter hangs in the air. For a moment, it seems their separate worlds might finally collide, but they never quite meet.  SOMEWHERE ELSE is a silent, experimental short film exploring coincidence, identity and the invisible connections between strangers. Through mirrored gestures, parallel spaces and a growing sense of anticipation, it plays with the tension between proximity and distance, and the unsettling possibility of being somewhere else entirely.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "GB"
+    ],
+    "production_countries": [
+      "GB"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.4345
+  },
+  "1747585": {
+    "id": 1747585,
+    "type": "movie",
+    "title": "La Gran Sangre: ojo x ojo",
+    "poster_path": "/23HthTIgBSXV2lYpXMHt6bvNwRt.jpg",
+    "backdrop_path": "/lEEkKMw7jSHRtVtFnAz5yU2Qb6k.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "Two decades later, Tony Blades, Mandril, and El Dragón are released from prison to confront a mafia controlling the Rímac district. In a Lima plagued by extortion and contract killings, the iconic vigilante group returns without a shred of mercy, ready to fight crime by their own rules.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "PE"
+    ],
+    "production_countries": [
+      "PE"
+    ],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 2.4132
+  },
+  "1820522": {
+    "id": 1820522,
+    "type": "movie",
+    "title": "Prism",
+    "poster_path": "/fI2JfHSiwAdOH4nAc4ODS5F6GGd.jpg",
+    "backdrop_path": "/hgmIt5NFpSwx0opyEPIT2u6CmFP.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A prisoner is trapped in an experimental hallucinatory chamber with nightmarish scenes.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.2218
+  },
+  "1125822": {
+    "id": 1125822,
+    "type": "movie",
+    "title": "Eternal Return",
+    "poster_path": "/aRPeGH99uVY3q5KUBbDbPKv8E0o.jpg",
+    "backdrop_path": "/1v5YyPDfLpAhcyaU7pWsOcM2MGY.jpg",
+    "vote_average": 10.0,
+    "vote_count": 1,
+    "overview": "Cass has come to a personal point of emotional invulnerability, until she meets Virgil, a cartographer. Along with his partner Malcolm, they attempt to travel back in time to awaken Cass to love again.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "GB",
+      "US"
+    ],
+    "spoken_languages": [
+      "en"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 1.8644
+  },
+  "1819685": {
+    "id": 1819685,
+    "type": "movie",
+    "title": "Pailin Gems",
+    "poster_path": "/spqFiBJQCKudzkQZPtqLs2xowtk.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Khmer movie",
+    "industry": "world",
+    "original_language": "km",
+    "origin_country": [
+      "KH"
+    ],
+    "production_countries": [
+      "KH"
+    ],
+    "spoken_languages": [
+      "km"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.3198
+  },
+  "1544126": {
+    "id": 1544126,
+    "type": "movie",
+    "title": "Il rumore delle cose nuove",
+    "poster_path": "/2Wq59OquoiAmgs1A86FfJcnzxfs.jpg",
+    "backdrop_path": "/ltkrt9Urr2xbBnxOEYHjPtbzBLu.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "A vividly interwoven tale of secrets and connections, Il rumore delle cose nuove centers on three families whose lives have quietly overlapped in the streets of Milan—unaware of each other—for years. Andrea, a photographer, and Andreina, a nurse, share a haunting truth: Andreina has given a part of herself to keep Andrea alive. Umberto finds solace in alleviating others’ pain at work, yet at home he inflicts suffering upon Alba, once hopeful, now dreamless. In another household, Ralph, who crafts sounds, and Viola, an actress who yearns to live as freely as she performs, are quietly struggling—alongside Mirko, a ten‑year‑old whose presence echoes loudly. As the story unfolds, their ordinary routines unravel under the weight of these “noisy” secrets—some seemingly trivial, others utterly unbearable. Chaos tumbles over the fragile bonds holding them together, forcing confrontations with truths they can no longer ignore.",
+    "industry": "world",
+    "original_language": "it",
+    "origin_country": [
+      "IT"
+    ],
+    "production_countries": [
+      "IT"
+    ],
+    "spoken_languages": [
+      "it"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 1.7945
+  },
+  "1816327": {
+    "id": 1816327,
+    "type": "movie",
+    "title": "Leaving Behind the Roots",
+    "poster_path": "/a1fbCOZ8NYTU58XlnetKJrbtv7a.jpg",
+    "backdrop_path": "/jJeVR9hpi9cFOeZTgcoZ4mkqJTC.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "",
+    "industry": "bollywood",
+    "original_language": "bn",
+    "origin_country": [
+      "BD"
+    ],
+    "production_countries": [
+      "BD"
+    ],
+    "spoken_languages": [
+      "bn"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Post Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.6543
+  },
+  "1613284": {
+    "id": 1613284,
+    "type": "movie",
+    "title": "The Age Of Goodbyes",
+    "poster_path": "/rfgEFNwAwqtjgm61zGmu5yhP9MQ.jpg",
+    "backdrop_path": "/rA5t6Ui2kOF7gZtjQ3xuZWYBjnM.jpg",
+    "vote_average": 9.0,
+    "vote_count": 1,
+    "overview": "Set in Malaysia, the film follows a young woman named Du Li An who falls in love with a man named Lin Sang in 1969 before he mysteriously disappears. Years later, after marrying a gangster and becoming stepmother to a teenage girl, Du Li An encounters a man who looks exactly like her vanished lover. The decade-spanning narrative blends elements of romance, mystery and coming-of-age storytelling.",
+    "industry": "world",
+    "original_language": "zh",
+    "origin_country": [
+      "MY",
+      "TW"
+    ],
+    "production_countries": [
+      "TW",
+      "MY"
+    ],
+    "spoken_languages": [
+      "cn",
+      "zh",
+      "ms",
+      "th",
+      "en"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 1.7294
+  },
+  "1816103": {
+    "id": 1816103,
+    "type": "movie",
+    "title": "We Are Cyclists",
+    "poster_path": "/66ORANDAwr7I3HFfqZTxMJ3OOhZ.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "The film traces the origin and growth of All Bodies on Bikes, challenging narrow, performance-driven definitions of cycling and expanding who gets to call themselves a cyclist. Rooted in joy, inclusion, and collective care, All Bodies on Bikes proves that these values aren’t radical: they’re essential.",
+    "industry": "world",
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      "US"
+    ],
+    "spoken_languages": [],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.1859
+  },
+  "1551036": {
+    "id": 1551036,
+    "type": "movie",
+    "title": "A Bowl of Chicken Noodles Before I Die",
+    "poster_path": "/wqfi1Cicqj1Y6sDxQYSaRihw6IJ.jpg",
+    "backdrop_path": "/rQD4rMpygqw3z9ZJMSkz6h6tSJ4.jpg",
+    "vote_average": 6.0,
+    "vote_count": 1,
+    "overview": "If today were your last day, what one small thing would you really want to do?  For Ale, the answer is simple: enjoy a bowl of his favorite chicken noodles before he truly gives up on life. But when his regular food cart is closed, that situation leads him into a series of unexpected encounters.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [],
+    "release_date": "2026-11-12",
+    "popularity": 1.6228
+  },
+  "1815463": {
+    "id": 1815463,
+    "type": "movie",
+    "title": "[2 - the son]",
+    "poster_path": "/6yAScFt4xp4VntBw222uTLubkEI.jpg",
+    "backdrop_path": "/bumO0YH2YhMad0V6E58KdcRyy2t.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Can we find freedom in our abandonment",
+    "industry": "world",
+    "original_language": "sv",
+    "origin_country": [
+      "SE"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "sv"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "festival",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.1312
+  },
+  "1058588": {
+    "id": 1058588,
+    "type": "movie",
+    "title": "The Invisible Guest",
+    "poster_path": "/z3ZQXbY05pfeDwbozfxdbj7yQjM.jpg",
+    "backdrop_path": "/thKVLeS5rgEJzT40FiYFBRl0r3t.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "Accused of murdering her lover, a young businesswoman hires a brilliant lawyer. With only three hours left, they must uncover what really happened.",
+    "industry": "world",
+    "original_language": "id",
+    "origin_country": [
+      "ID"
+    ],
+    "production_countries": [
+      "ID"
+    ],
+    "spoken_languages": [
+      "id"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "Released",
+    "providers": [
+      {
+        "name": "JioHotstar",
+        "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
+    "release_date": "2026-11-06",
+    "popularity": 1.7094
+  },
+  "1815404": {
+    "id": 1815404,
+    "type": "movie",
+    "title": "Tiba",
+    "poster_path": "/jhXJKt5kSU4FVb9ffuXjJhvIAvM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "This isn't quite a climbing story. It's a pause on the mountain, seen through the eyes of Tiba, a young Colombian climber whose voice already seems to know a path his feet have only begun to walk. The film follows the quiet bond between the boy and the walls he climbs, a place where he finds calm, discipline, and a freedom rare for someone his age. Up there, the height turns out to be the least of it.",
+    "industry": "world",
+    "original_language": "es",
+    "origin_country": [
+      "CO"
+    ],
+    "production_countries": [],
+    "spoken_languages": [
+      "es"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.1142
+  },
+  "1814885": {
+    "id": 1814885,
+    "type": "movie",
+    "title": "Secret Rivers of the Nakanai",
+    "poster_path": "/y7tNQ8zokogrk79CPXiUyKEK4tM.jpg",
+    "backdrop_path": null,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "overview": "In the village of Ruraï, in Papua New Guinea, people tell of a water hidden deep within the Nakanai Mountains so pure that anyone who drinks it is said to gain extraordinary powers. Immersed in the heart of a tropical rainforest, a team of cavers including the inimitable Cédric Lachat, set out to uncover this mysterious underground river system.",
+    "industry": "world",
+    "original_language": "fr",
+    "origin_country": [
+      "FR"
+    ],
+    "production_countries": [
+      "FR"
+    ],
+    "spoken_languages": [
+      "en",
+      "fr"
+    ],
+    "published_at": "2026-11-13",
+    "date_kind": "release",
+    "status": "In Production",
+    "providers": [],
+    "release_date": "2026-11-20",
+    "popularity": 0.3896
   }
 };

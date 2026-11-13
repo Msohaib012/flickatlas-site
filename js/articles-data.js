@@ -138457,5 +138457,397 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 17:16:47 GMT"
+  },
+  "948qv2": {
+    "id": "948qv2",
+    "type": "news",
+    "headline": "Kannada Star Yash Joins Elite Group With Multiple ₹1000 Crore Worldwide Grossers",
+    "dek": "Kannada superstar Yash has joined Shah Rukh Khan, Prabhas, and Ranveer Singh in the exclusive club of Indian actors with multiple ₹1000 crore worldwide grossers following the box office success of Ramayana.",
+    "body": [
+      {
+        "h": "Yash Reaches Milestone With Ramayana",
+        "p": [
+          "Kannada superstar Yash has achieved another major career milestone by entering the exclusive club of Indian actors with multiple worldwide grossers exceeding one thousand crores. This accomplishment comes on the heels of the box office performance of Ramayana, produced by Namit Malhotra and directed by Nitesh Tiwari.",
+          "The large-scale cinematic production crossed the significant monetary threshold on its eighth theatrical day. This milestone marks the second time the actor has crossed the four-digit worldwide gross mark, following the historic run of KGF Chapter 2."
+        ]
+      },
+      {
+        "h": "Comparing Career Trajectories",
+        "p": [
+          "The two films that secured Yash his status in this elite group represent very different phases of his professional journey. While KGF Chapter 2 cemented his position as a pan-Indian leading man through his depiction of Rocky Bhai, Ramayana features him in an ensemble capacity as Ravana alongside Ranbir Kapoor and Sai Pallavi.",
+          "His involvement in the Nitesh Tiwari directorial also highlights his expansion into massive cinematic productions outside the Kannada film industry. Furthermore, his presence in the cast helped drive strong reception in Karnataka, where the Kannada dubbed version emerged as the film's top South Indian language market."
+        ]
+      },
+      {
+        "h": "Exclusive Club Membership",
+        "p": [
+          "With this recent commercial success, Yash joins an elite roster of leading Indian actors who boast multiple ₹1000 crore worldwide grossers. The group currently includes Shah Rukh Khan, Prabhas, and Ranveer Singh.",
+          "Shah Rukh Khan reached the milestone with consecutive blockbusters in the same year, specifically Pathaan and Jawan. Prabhas secured his position through two Telugu productions, Baahubali 2 and Kalki 2898 AD, released years apart, while Ranveer Singh entered the group through the Dhurandhar franchise."
+        ]
+      },
+      {
+        "h": "Unique Journey Through Ensemble Cast",
+        "p": [
+          "Yash's path to this club differs from his peers because his latest four-digit grosser relies on a prominent ensemble role rather than a solo-led project. This demonstrates how prominent stars can successfully diversify their commercial portfolios through cross-industry collaborations.",
+          "Additionally, Ranbir Kapoor crossed the four-digit worldwide threshold for the first time with Ramayana, having previously come close with Animal. The achievement marks a significant career high for both principal actors involved in the project."
+        ]
+      },
+      {
+        "h": "Box Office Standing and Future Prospects",
+        "p": [
+          "As the film enters its second weekend, industry watchers and fans are closely monitoring its trajectory. Observers are eager to see how high the Nitesh Tiwari directorial can climb among the all-time highest-grossing Indian films.",
+          "The lifetime totals for completed films in the ₹1000 crore club contrast with Ramayana, whose figures reflect its earnings through its eighth day in theaters. The ongoing theatrical run continues to draw substantial audiences across multiple domestic and international regions."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Kannada superstar Yash has entered the elite group of Indian actors with multiple ₹1000 crore worldwide grossers following the success of Namit Malhotra's Ramayana on its eighth day. This achievement unites him with Shah Rukh Khan, Prabhas, and Ranveer Singh, marking his second film in the category after KGF Chapter 2."
+        ]
+      }
+    ],
+    "facts": [
+      "Yash joined Shah Rukh Khan, Prabhas, and Ranveer Singh in the multiple 1000 crore worldwide club on November 13, 2026.",
+      "Ramayana entered the 1000 crore club on its eighth theatrical day.",
+      "Shah Rukh Khan's Pathaan grossed 1055.00 Cr and Jawan grossed 1160.00 Cr.",
+      "Prabhas's Baahubali 2 grossed 1788.00 Cr and Kalki 2898 AD grossed 1042.25 Cr.",
+      "Ranveer Singh's Dhurandhar grossed 1307.35 Cr and Dhurandhar 2 grossed 1813.40 Cr.",
+      "Yash's KGF Chapter 2 grossed 1215.00 Cr and Ramayana grossed 1027.50 Cr through Day 8."
+    ],
+    "entities": {
+      "people": [
+        "Yash",
+        "Shah Rukh Khan",
+        "Prabhas",
+        "Ranveer Singh",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Aditya Dhar"
+      ],
+      "titles": [
+        "Ramayana",
+        "KGF Chapter 2",
+        "Pathaan",
+        "Jawan",
+        "Baahubali 2",
+        "Kalki 2898 AD",
+        "Dhurandhar",
+        "Dhurandhar 2",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana",
+      "Ramayana 1000 crore worldwide",
+      "Yash KGF Chapter 2",
+      "Indian actors 1000 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028532.jpg",
+        "caption": "Kannada Star Yash Joins Elite Group With Multiple ₹1000 Crore Worldwide Grossers",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:09:28 +0000"
+  },
+  "10yc05z": {
+    "id": "10yc05z",
+    "type": "news",
+    "headline": "Unraveling the Intrigue of Nocturne Episode 4: The Courier",
+    "dek": "A deep dive into the shocking developments, character motivations, and standout performances of the fourth episode of Apple TV's psychological thriller series.",
+    "body": [
+      {
+        "h": "Introduction to the Fourth Chapter",
+        "p": [
+          "The fourth episode of the Apple TV psychological thriller series dives deeper into a dark web of trauma, obsession, and psychological manipulation. Entitled The Courier, this chapter forces its central investigators to confront not only external threats but also the ghosts of their own pasts.",
+          "As the narrative progresses, the line between professional duty and dangerous personal fixation blurs completely. The characters find themselves walking a razor-thin edge where psychological survival is just as pressing as solving the ongoing criminal mystery."
+        ]
+      },
+      {
+        "h": "Deep Wounds and Personal Stakes",
+        "p": [
+          "The chilling cold open of the episode lays bare the heavy emotional baggage carried by the protagonists. It reveals the heartbreaking dissolution and suicide of Sam Mendel, partner to Jonah Lynn and father to Saga Bauer, following the tragic disappearance of Rebecca.",
+          "Both Saga and Jonah harbor an intense, lingering resentment toward the brilliant yet deeply disturbed serial killer Jurek Walter, whom they hold entirely responsible for the devastation of their lives. Despite these profound psychological scars, they choose to spearhead the hunt for Walter's elusive accomplice."
+        ]
+      },
+      {
+        "h": "Unconventional Investigative Tactics",
+        "p": [
+          "Coming out of retirement, Jonah Lynn takes charge of the investigation in a remarkably unorthodox move. Meanwhile, Saga Bauer takes an even more extreme path by going undercover as a patient inside a high-security mental institution.",
+          "Convinced of Jurek Walter's extraordinary capacity to infiltrate the minds of others, the pair operates under a dangerous assumption. They become so focused on the killer's psychological reach that they fail to consider whether he has already successfully penetrated their own mental defenses."
+        ]
+      },
+      {
+        "h": "Tracking the Mysterious Courier",
+        "p": [
+          "Major breakthroughs arrive when Jonah investigates the home of the missing nurse Sally Gifford, uncovering a hidden note inside her notebook. The message bears a coded instruction to release the abduction victim Michael, pointing the team toward a dead drop location.",
+          "To provoke a reaction, authorities issue bogus transfer orders, successfully tricking Nurse Karl into delivering a new message. Saga manages to identify Karl as a person of interest and cleverly flags him as the courier for surveillance teams."
+        ]
+      },
+      {
+        "h": "A Dangerous Pursuit and Sudden Trap",
+        "p": [
+          "Surveillance drones follow Karl's distinctive car, which blasts music while heading toward the drop site. However, the noisy drone inadvertently spooks the recipient, forcing Jonah into a frantic foot chase through a decaying, ruinous warehouse.",
+          "The operation quickly goes sideways when the accomplice ambushes Jonah, rendering him unconscious with chloroform. When Jonah finally wakes, he finds himself framed and wanted for questioning after a planted note accuses him of tampering with evidence."
+        ]
+      },
+      {
+        "h": "Saga's Descent Into the Restricted Unit",
+        "p": [
+          "Simultaneously, Saga executes the next phase of her plan by provoking a violent altercation with a male nurse who had been harassing her. Her calculated outburst results in her being heavily restrained and carted off to the restricted housing unit.",
+          "She ends up confined in the cell directly adjacent to Jurek Walter, creating a chilling atmosphere akin to classic horror cinema. While monitors watch in horror, this placement edges her dangerously close to the mastermind she seeks to break."
+        ]
+      },
+      {
+        "h": "Stellar Performances Elevate the Narrative",
+        "p": [
+          "Despite some mechanical leaps and questionable logic within the detective plotlines, the series continues to captivate viewers through its exceptional ensemble cast. The raw talent of actors Zazie Beetz, Stephen Graham, Rory Culkin, and Liev Schreiber breathes undeniable life into the material.",
+          "Their magnetic screen presence consistently covers up narrative shortcomings, proving that the true power of the series lies in its intense character dynamics rather than standard procedural tropes."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The fourth episode of Apple TV's Nocturne follows Jonah Lynn and Saga Bauer as they utilize high-risk undercover tactics and track a mysterious courier to close in on serial killer Jurek Walter's accomplice. Despite facing dangerous setups and ethical boundaries, the investigators push forward while anchored by powerful performances from the star-studded cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Sam Mendel is the partner of Jonah Lynn and father of Saga Bauer.",
+      "Rebecca is the missing wife of Sam Mendel.",
+      "Jurek Walter is the brilliant serial killer central to the plot.",
+      "Jonah Lynn comes out of retirement to lead the investigation.",
+      "Saga Bauer goes undercover as a patient in a mental institution.",
+      "Sally Gifford is the missing nurse whose notebook contains a coded message.",
+      "The hidden note features a message to release the abduction victim Michael.",
+      "Nurse Karl acts as the courier delivering notes for the killer.",
+      "Zazie Beetz, Stephen Graham, Rory Culkin, and Liev Schreiber star in the series."
+    ],
+    "entities": {
+      "people": [
+        "Saga Bauer",
+        "Jonah Lynn",
+        "Sam Mendel",
+        "Rebecca",
+        "Jurek Walter",
+        "Sally Gifford",
+        "Michael",
+        "Quinn",
+        "Karl",
+        "Nate",
+        "Flynn",
+        "Toydrum",
+        "Zazie Beetz",
+        "Stephen Graham",
+        "Rory Culkin",
+        "Liev Schreiber",
+        "Sean T. Collins"
+      ],
+      "titles": [
+        "Nocturne",
+        "The Courier"
+      ]
+    },
+    "keywords": [
+      "Nocturne episode 4",
+      "Jonah Lynn Saga Bauer",
+      "Jurek Walter Apple TV",
+      "Nocturne The Courier recap",
+      "Stephen Graham Zazie Beetz Nocturne"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/11/nocturne-104-2.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "Unraveling the Intrigue of Nocturne Episode 4: The Courier",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 12:30:00 -0500"
+  },
+  "g8zg1": {
+    "id": "g8zg1",
+    "type": "news",
+    "headline": "Spider-Man: Brand New Day Reportedly Set for December Theatrical Re-Release With 10 Minutes of Extra Footage",
+    "dek": "Tom Holland's latest Marvel Cinematic Universe outing is rumored to return to cinema screens on December 4, featuring ten minutes of unreleased scenes just ahead of Avengers: Doomsday.",
+    "body": [
+      {
+        "h": "The Return of Peter Parker",
+        "p": [
+          "Marvel Cinematic Universe fans may soon have another reason to head back to the local multiplex. Fresh reports indicate that Spider-Man: Brand New Day, starring Tom Holland in the title role, is preparing for a special theatrical re-release.",
+          "The superhero adventure originally debuted in cinemas on July 31, 2026. Directed by Destin Daniel Cretton, the film has continued to generate strong interest among comic book enthusiasts across the globe."
+        ]
+      },
+      {
+        "h": "What to Expect From the Additional Footage",
+        "p": [
+          "According to industry tracking sources, the upcoming re-release will include approximately 10 minutes of brand-new, unseen footage. This expanded cut aims to give audiences extra incentive to experience the blockbuster on the big screen once more.",
+          "While ticket-booking platforms briefly listed the special screenings before removing them, anticipation has already peaked among moviegoers hoping to catch the extended sequences."
+        ]
+      },
+      {
+        "h": "Timing Ahead of Avengers: Doomsday",
+        "p": [
+          "The rumored theatrical return is penciled in for December 4, 2026. This timing places the re-release just a couple of weeks prior to the arrival of the massive crossover event, Avengers: Doomsday.",
+          "With Avengers: Doomsday scheduled to land in theaters globally on December 18, 2026, and a day earlier on December 17 in India, the timing of the Spider-Man re-release aligns strategically with Marvel's broader cinematic rollout."
+        ]
+      },
+      {
+        "h": "Plot Background and Narrative Arc",
+        "p": [
+          "The storyline of Spider-Man: Brand New Day picks up in the aftermath of Doctor Strange's spell, which completely erased Peter Parker's existence from public memory. He continues defending New York City while remaining isolated from MJ and Ned.",
+          "Four years down the line, a sequence of coordinated attacks on Department of Damage Control facilities pulls Peter into a fresh investigation involving a mysterious element known as V-Max, alongside the emergence of strange, difficult-to-control abilities."
+        ]
+      },
+      {
+        "h": "Key Characters and Alliances",
+        "p": [
+          "During his pursuit of the truth behind the facility attacks, Peter crosses paths with Jean Grey, a young telepath dealing with a tragic link to the Department of Damage Control. Together, they navigate a dangerous conspiracy involving her powers and hidden government secrets.",
+          "Tom Holland is joined by a star-studded ensemble cast, featuring Zendaya, Sadie Sink, Jacob Batalon, Jon Bernthal, Florence Pugh, Marisa Tomei, and Mark Ruffalo in pivotal roles."
+        ]
+      },
+      {
+        "h": "Broader Cinematic Universe Expansion",
+        "p": [
+          "The Marvel Cinematic Universe continues to expand its sprawling narrative threads through these major theatrical milestones. Alongside the ongoing developments in the Spider-Man franchise, future projects like Avengers: Doomsday are building immense excitement.",
+          "Reports surrounding the upcoming ensemble film suggest major franchise returns, including Chris Evans coming back to the universe alongside Robert Downey Jr. stepping into the formidable role of Doctor Doom."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that Tom Holland's Spider-Man: Brand New Day will return to theaters on December 4 with ten minutes of additional footage. The re-release arrives shortly before the December premiere of Avengers: Doomsday."
+        ]
+      }
+    ],
+    "facts": [
+      "Spider-Man: Brand New Day was originally released in theaters on July 31, 2026.",
+      "The film is directed by Destin Daniel Cretton.",
+      "The rumored theatrical re-release date is December 4, 2026.",
+      "The extended cut will feature 10 minutes of additional footage.",
+      "Avengers: Doomsday is scheduled for release on December 18, 2026, and December 17, 2026, in India."
+    ],
+    "entities": {
+      "people": [
+        "Tom Holland",
+        "Destin Daniel Cretton",
+        "Zendaya",
+        "Sadie Sink",
+        "Jacob Batalon",
+        "Jon Bernthal",
+        "Florence Pugh",
+        "Marisa Tomei",
+        "Mark Ruffalo",
+        "Chris Evans",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Spider-Man Brand New Day re-release",
+      "Tom Holland Spider-Man film",
+      "Spider-Man Brand New Day December 4",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1923203832_spiderman-bnd-webp.webp",
+        "caption": "Spider-Man: Brand New Day Reportedly Set for December Theatrical Re-Release With 10 Minutes of Extra Footage",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:02:33 +0530"
+  },
+  "1o6ru6f": {
+    "id": "1o6ru6f",
+    "type": "news",
+    "headline": "Marvel Rivals Season 11 Trailer Showcases Nightcrawler And Teases Dracula",
+    "dek": "The latest trailer for Marvel Rivals Season 11 highlights the X-Men hero Nightcrawler facing severe Incursions and hints at the arrival of Dracula.",
+    "body": [
+      {
+        "h": "Introduction To Season 11",
+        "p": [
+          "A brand new promotional trailer for Marvel Rivals Season 11 has been released, bringing major excitement to the free-to-play hero shooter community. The update, titled Doomsday, is presently accessible across all supported platforms. The preview focuses heavily on impending chaos as cataclysmic events begin to unfold within the game world.",
+          "Players tuning into the latest preview are treated to intense visual sequences that mirror major comic book storylines. The focus centers on escalating dangers that threaten entire metropolitan areas, setting a high-stakes tone for the game's newest seasonal content drop."
+        ]
+      },
+      {
+        "h": "Nightcrawler's Desperate Mission",
+        "p": [
+          "The promotional video places a significant spotlight on the beloved X-Men mutant Nightcrawler. Within the clip, the agile hero attempts to rescue innocent civilians as catastrophic Incursions begin tearing the city apart. Despite his swift teleportation abilities, the hero struggles against the overwhelming scope of the disaster.",
+          "In one of the most dramatic moments of the trailer, Nightcrawler is struck by an airplane while witnessing total devastation around him. Alongside this heroic struggle, the character officially joins the game's growing roster specifically in the role of a Strategist."
+        ]
+      },
+      {
+        "h": "The Threat Of Incursions",
+        "p": [
+          "The narrative driving the Season 11 trailer revolves around the terrifying phenomenon of Incursions. The preview opens in a seemingly peaceful New York City before reality itself begins to break down. Worlds collide as New York and Nueva York merge violently.",
+          "This multiversal breakdown serves as a direct parallel to massive comic book events. It also draws immediate thematic inspiration from the upcoming cinematic blockbuster Avengers: Doomsday, which similarly deals with universes colliding."
+        ]
+      },
+      {
+        "h": "Teasing The Lord Of Darkness",
+        "p": [
+          "Toward the conclusion of the promotional video, a major surprise awaits fans. The classic Marvel supervillain Dracula is teased as an upcoming addition to the game. He is shown resting inside a hibernation chamber before opening glowing red eyes right before the screen cuts to black.",
+          "While the launch date for his official arrival was omitted from the trailer, developers have confirmed his status. Upon his eventual release, Dracula will officially become the 56th playable character introduced to the hero shooter since its original launch."
+        ]
+      },
+      {
+        "h": "Expanding Roster And Connections",
+        "p": [
+          "The addition of Dracula will place the Lord of Darkness alongside an already diverse lineup of familiar heroes and villains. The roster currently features heavy hitters such as Captain America, Spider-Man, Black Cat, Emma Frost, Gorr the God Butcher, Magneto, Hulk, and Iron Man.",
+          "Additionally, keen-eyed fans spotted two versions of Doctor Doom featured prominently on the promotional poster for the season. However, NetEase has not yet officially confirmed if Doctor Doom will also be joining the playable character lineup."
+        ]
+      },
+      {
+        "h": "Ties To The Cinematic Universe",
+        "p": [
+          "The overarching theme of the new video game update closely aligns with future Marvel Cinematic Universe projects. Avengers: Doomsday is slated to feature a massive multiversal conflict where Doctor Doom serves as the primary antagonist.",
+          "The film is expected to pit the villain against an expansive lineup of heroes, including the Avengers, the X-Men, and members of the Fantastic Four, mirroring the scale of destruction shown in the new game trailer."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Rivals Season 11 has launched its Doomsday update across all platforms, highlighted by a brand new trailer featuring Nightcrawler and a tease for the villain Dracula. The promotional clip showcases multiversal Incursions between New York and Nueva York while pointing toward themes similar to the upcoming film Avengers: Doomsday."
+        ]
+      }
+    ],
+    "facts": [
+      "Marvel Rivals Season 11 is titled Doomsday.",
+      "Nightcrawler joins the game roster as a Strategist.",
+      "Dracula is teased as the 56th playable character in the game.",
+      "The update is currently available across all supported platforms."
+    ],
+    "entities": {
+      "people": [
+        "Surya Singh"
+      ],
+      "titles": [
+        "Marvel Rivals",
+        "Avengers: Doomsday",
+        "Marvel Rivals Season 11"
+      ]
+    },
+    "keywords": [
+      "Marvel Rivals Season 11",
+      "Marvel Rivals Doomsday",
+      "Nightcrawler Marvel Rivals",
+      "Dracula Marvel Rivals",
+      "Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Marvels-New-Doomsday-Trailer-Highlights-Surprising-X-Men-Hero-Introduces-Huge-Villain.jpg?resize=1200,630",
+        "caption": "Marvel Rivals Season 11 Trailer Showcases Nightcrawler And Teases Dracula",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:55:44 +0000"
   }
 };

@@ -278,6 +278,18 @@ window.FA_OTT = {
     {
       "date": "2026-11-11",
       "date_kind": "release",
+      "id": 338562,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
+    },
+    {
+      "date": "2026-11-11",
+      "date_kind": "release",
       "id": 1664682,
       "providers": [
         {
@@ -769,6 +781,18 @@ window.FA_OTT = {
         {
           "logo_path": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
           "name": "Zee5"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-06",
+      "date_kind": "release",
+      "id": 1058588,
+      "providers": [
+        {
+          "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+          "name": "JioHotstar"
         }
       ],
       "type": "movie"

@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T21:00:12Z",
-    "run_id": "43305636272",
-    "status": "success",
-    "checked": {
-     "candidates": 349,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Leonardo DiCaprio Was Almost Denied The Role Until Sharon Stone Paid Her $1 Million Out Of Her Own Salary",
-      "Michael Jackson did not create the iconic Thriller dance, claims choreographer",
-      "After Leaving 90 Day Fiancé Andrei Castravet Gives Shocking Update On Relationship With Libby",
-      "Yes, Ramayana’s Ranbir Kapoor Went All In On His Rama Training (An Olympian Is Even Involved)",
-      "Karen Gillan Has Just One Question About The Jumanji Crop Top And Shorts As The Cast Says Goodbye",
-      "8 Psychological Thriller Movies That Are Perfect From Beginning to End",
-      "6 Upcoming Thriller Films, Ranked by Hype",
-      "10 Bad Movies With Great Premises",
-      "Godzilla Celebrates 70 Years With a Brand-New Release From Toho",
-      "'Desperate Housewives' Star Is Officially Reba McEntire's New Love Interest in 'Happy's Place' Season 3",
-      "Kylie Jenner Takes Aim at Former Chef in Explosive Miscarriage Lawsuit",
-      "Kris Jenner Fires Back Over Kim Kardashian’s Controversial Childhood Trauma Remarks",
-      "NBC’s Huge Chicago Fire, Med, & P.D. TV Show Crossover Event Gets Release Date, Plot Details",
-      "Sonic the Hedgehog Gets New Movie Available to Watch Now Ahead of Jim Carrey’s Dr. Eggman Return",
-      "Lanterns Season 2 Update Reveals When Decision on DCU Show’s Fate Will Be Made",
-      "Rose Byrne & Meghann Fahy’s New Peacock Thriller TV Show Streams Today",
-      "Patrick Stewart’s Wife Sunny Ozell Honors Their Nearly 20 Years of Love in Moving Tribute",
-      "Ben Affleck Called Out for Odd Sexuality Comment From Dogma Co-Star Alanis Morissette",
-      "The Hunger Games: Sunrise on the Reaping Gets a Theatrical Twist Some Fans Won’t Like",
-      "Justice League Hero Absent From DCU Is Big Part of DC’s Future Plans After James Gunn Exit"
-     ],
-     "updated": [],
-     "count": 295,
-     "detail": "312 stories, 0 duplicates removed, 37 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-12T21:51:03Z",
     "run_id": "43314189391",
     "status": "success",
@@ -936,31 +897,48 @@
      "detail": "429 stories, 1 duplicates removed, 17 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T22:52:18Z",
-    "run_id": "43323592079",
+    "run_at": "2026-11-13T18:51:05Z",
+    "run_id": "43486500610",
     "status": "success",
     "checked": {
-     "candidates": 13,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 415,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
-      "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
-      "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date"
+      "Resident Evil Worldwide Box Office: Zach Cregger’s Horror Hit Is Set To Beat The 3rd Highest-Grossing Captain America Movie Of All Time!",
+      "The Hunger Games: Sunrise On The Reaping Box Office: Lionsgate’s Most Expensive Film Ever – Here’s Its Massive Break-Even Target!",
+      "Spider Man Brand New Day: Tom Holland’s Film to Re-release on December 4 With 10 Minutes of Additional Footage; REPORT",
+      "Anirudh Ravichander skips out on work till January 2027? Composer likely to resume with Sandiyar teaser",
+      "Yash Joins Shah Rukh Khan, Prabhas and Ranveer Singh in Multiple 1000 Crore Worldwide Club",
+      "Scene box office collection day 8: Suriya and Jithu Madhavan's crime comedy dips after crossing  ₹100 crore mark",
+      "MGK And Dakota Johnson Were Spotted At 2 A.M. (And I Wish They’d Just Confirm The Rumors)",
+      "We Know Taylor Swift And Travis Kelce Said 'No Gifts' At Their Wedding (But They Did Ask Guests For Something)",
+      "Every Book in the Red Rising Trilogy, Ranked",
+      "'The Rings of Power's Ismael Cruz Córdova Reacts to Arondir's \"Emotional\" Season 3 Arc",
+      "‘Jay and Silent Bob’ Officially Return With a Major New Movie Update [Exclusive]",
+      "'SVU' Officially Goes on Break After Its 600th Episode",
+      "Hexed First Reactions for New Disney Movie Are Mostly Positive, But Not Everyone Loves It",
+      "Marvel’s New Doomsday Trailer Highlights Surprising X-Men Hero & Introduces Huge Villain",
+      "KPop Demon Hunters Officially Returns Next Year, Netflix Reveals Details & Gives Statement",
+      "New PS5 QSSR Feature Expands to More Games, Including Spider-Man 2",
+      "Jon Hamm Teams Up With Street Fighter Star for New Serial Killer Thriller Movie",
+      "General Hospital’s Antonio Sabàto Jr. Breaks Silence After Son’s Arrest in Fatal Crash Case",
+      "Adam Driver & Scarlett Johansson Take on the Mob in New Crime Thriller Movie in Theaters Today",
+      "James Bond Casting Update Offers Big Insight On When New 007 Actor Will Be Announced"
      ],
      "updated": [],
-     "count": 6,
-     "detail": "+3 articles, +0 box-office rows, 3 rows updated"
+     "count": 399,
+     "detail": "415 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1474,27 +1452,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-13T18:52:09Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Kannada Star Yash Joins Elite Group With Multiple ₹1000 Crore Worldwide Grossers",
+      "Unraveling the Intrigue of Nocturne Episode 4: The Courier",
+      "Spider-Man: Brand New Day Reportedly Set for December Theatrical Re-Release With 10 Minutes of Extra Footage",
+      "Marvel Rivals Season 11 Trailer Showcases Nightcrawler And Teases Dracula"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T22:52:23Z",
-    "run_id": "43323592079",
-    "status": "success",
-    "checked": {
-     "candidates": 314,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 301, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1908,31 +1891,27 @@
      "detail": "now 309, coming 10"
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-13T18:52:09Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": {
+     "candidates": 321,
+     "detail": "OTT now/coming titles from the published catalogue"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 0,
+     "detail": "now 311, coming 10"
+    },
+    "reason": "no-new-data"
    }
   ],
   "trending_weekly": [
-   {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-12T22:57:26Z",
-    "run_id": "43323592079",
-    "status": "success",
-    "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
-    },
-    "changed": {
-     "added": [
-      "1flm0we",
-      "t1we2z",
-      "19775sx",
-      "1wokr5w"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2369,27 +2348,31 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-13T18:56:05Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "13as7m8",
+      "12eqgd1",
+      "byayr3",
+      "poaizv"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T21:01:27Z",
-    "run_id": "43305636272",
-    "status": "success",
-    "checked": {
-     "candidates": 658,
-     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 644 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2803,19 +2786,27 @@
      "detail": "+0 new rows, 3 updated rows, 650 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T18:55:35Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": {
+     "candidates": 665,
+     "detail": "644 collected staging rows from readers; 226 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 650 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3045,31 +3036,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-12T22:57:26Z",
-    "run_id": "43323592079",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
-      "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
-      "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date"
-     ],
-     "updated": [],
-     "count": 3,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3593,19 +3572,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-13T18:56:05Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Kannada Star Yash Joins Elite Group With Multiple ₹1000 Crore Worldwide Grossers",
+      "Unraveling the Intrigue of Nocturne Episode 4: The Courier",
+      "Spider-Man: Brand New Day Reportedly Set for December Theatrical Re-Release With 10 Minutes of Extra Footage",
+      "Marvel Rivals Season 11 Trailer Showcases Nightcrawler And Teases Dracula"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3867,19 +3859,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4155,31 +4147,64 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "gemini_batch": [
+   },
    {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-12T21:01:26Z",
-    "run_id": "43305636272",
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T18:51:47Z",
+    "run_id": "43486500610",
     "status": "success",
     "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 295 still unprocessed; today by category: movies 18/6, tv_dramas 13/4, episodes 0/2, box_office 17/6, celebrities_events 12/5, upcoming_releases 5/4, ott_streaming 11/4, trailers 3/3, awards 4/2, music_ost 4/2, viral 2/2"
+     "candidates": 514,
+     "sources": {
+      "trending": 20,
+      "trending_tv": 20,
+      "now_playing": 40,
+      "upcoming": 40,
+      "bollywood": 40,
+      "hindi_recent_movies": 100,
+      "india_window": 40,
+      "world_window": 40,
+      "world_recent": 60,
+      "pk_dramas": 20,
+      "new_tv": 40,
+      "hindi_recent_tv": 36,
+      "pk_movies": 18
+     },
+     "picked": 20,
+     "skipped": 1,
+     "cap": 20,
+     "detail": "Hindi recent movies/TV date-ranked p1-5 + existing regional/trending sources retained"
     },
     "changed": {
      "added": [
-      "Kiara Advani Addresses Intimate Scenes in Toxic and Husband Sidharth Malhotra's Reaction",
-      "Latin Grammys 2026: Edgar Barrera Leads Nominations as Winners Announced",
-      "Kareena Kapoor Khan Faces Legal Notice Over Antique Pendant Featuring Quranic Verses",
-      "Pierce Brosnan Confirms MobLand Season 3 Episode Count and Production Plans"
+      "12 12 12 (254630)",
+      "Dead of Night (1505424)",
+      "Alicia's Law (338562)",
+      "Talk Show Host (1824458)",
+      "All the Lovers in the Night (1560309)",
+      "Somewhere Else (1822380)",
+      "La Gran Sangre: ojo x ojo (1747585)",
+      "Prism (1820522)",
+      "Eternal Return (1125822)",
+      "Pailin Gems (1819685)",
+      "Il rumore delle cose nuove (1544126)",
+      "Leaving Behind the Roots (1816327)",
+      "The Age Of Goodbyes (1613284)",
+      "We Are Cyclists (1816103)",
+      "A Bowl of Chicken Noodles Before I Die (1551036)",
+      "[2 - the son] (1815463)",
+      "The Invisible Guest (1058588)",
+      "Tiba (1815404)",
+      "Secret Rivers of the Nakanai (1814885)"
      ],
      "updated": [],
-     "count": 4
+     "count": 19
     },
     "reason": null
-   },
+   }
+  ],
+  "gemini_batch": [
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4679,19 +4704,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-13T18:52:09Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 399 still unprocessed; today by category: movies 18/6, tv_dramas 13/4, episodes 1/2, box_office 12/6, celebrities_events 13/5, upcoming_releases 6/4, ott_streaming 9/4, trailers 4/3, awards 2/2, music_ost 3/2, viral 3/2"
+    },
+    "changed": {
+     "added": [
+      "Kannada Star Yash Joins Elite Group With Multiple ₹1000 Crore Worldwide Grossers",
+      "Unraveling the Intrigue of Nocturne Episode 4: The Courier",
+      "Spider-Man: Brand New Day Reportedly Set for December Theatrical Re-Release With 10 Minutes of Extra Footage",
+      "Marvel Rivals Season 11 Trailer Showcases Nightcrawler And Teases Dracula"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5005,24 +5042,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-13T18:53:32Z",
+    "run_id": "43486500610",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 50,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 408,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5362,24 +5401,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 28,
+     "count": 392,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5724,19 +5763,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 18,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -5981,19 +6025,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "stats_pipeline",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 80,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_health": [
-   {
-    "step": "stats_health",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6228,19 +6277,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6521,19 +6570,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6774,19 +6823,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7016,19 +7065,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7281,30 +7330,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-11T23:51:57Z",
-    "run_id": "43122860668",
-    "status": "success",
-    "checked": {
-     "candidates": 532,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 519"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7791,19 +7829,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-13T18:52:33Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": {
+     "candidates": 546,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 16; attempt cooldown deferred: 530"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8038,19 +8087,24 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "advance_booking",
+    "category": "Box Office",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 54,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "home_boxoffice_worldwide": [
-   {
-    "step": "home_boxoffice_worldwide",
-    "category": "Box Office",
-    "run_at": "2026-11-12T21:01:37Z",
-    "run_id": "43305636272",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8295,8 +8349,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-13T18:56:47Z",
+    "run_id": "43486500610",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 5947,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-13T17:59:04Z"
+ "updated_at": "2026-11-13T18:56:47Z"
 }

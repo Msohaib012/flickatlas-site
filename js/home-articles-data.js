@@ -120,6 +120,37 @@ window.FA_HOME_ARTICLES = {
     ],
     "published": "Fri, 13 Nov 2026 20:24:41 +0200"
   },
+  "1o6ru6f": {
+    "id": "1o6ru6f",
+    "type": "news",
+    "headline": "Marvel Rivals Season 11 Trailer Showcases Nightcrawler And Teases Dracula",
+    "dek": "The latest trailer for Marvel Rivals Season 11 highlights the X-Men hero Nightcrawler facing severe Incursions and hints at the arrival of Dracula.",
+    "entities": {
+      "people": [
+        "Surya Singh"
+      ],
+      "titles": [
+        "Marvel Rivals",
+        "Avengers: Doomsday",
+        "Marvel Rivals Season 11"
+      ]
+    },
+    "keywords": [
+      "Marvel Rivals Season 11",
+      "Marvel Rivals Doomsday",
+      "Nightcrawler Marvel Rivals",
+      "Dracula Marvel Rivals",
+      "Avengers Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Marvels-New-Doomsday-Trailer-Highlights-Surprising-X-Men-Hero-Introduces-Huge-Villain.jpg?resize=1200,630",
+        "caption": "Marvel Rivals Season 11 Trailer Showcases Nightcrawler And Teases Dracula",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:55:44 +0000"
+  },
   "1sfaeky": {
     "id": "1sfaeky",
     "type": "news",
@@ -152,6 +183,52 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-13T23:17:43+05:30"
+  },
+  "10yc05z": {
+    "id": "10yc05z",
+    "type": "news",
+    "headline": "Unraveling the Intrigue of Nocturne Episode 4: The Courier",
+    "dek": "A deep dive into the shocking developments, character motivations, and standout performances of the fourth episode of Apple TV's psychological thriller series.",
+    "entities": {
+      "people": [
+        "Saga Bauer",
+        "Jonah Lynn",
+        "Sam Mendel",
+        "Rebecca",
+        "Jurek Walter",
+        "Sally Gifford",
+        "Michael",
+        "Quinn",
+        "Karl",
+        "Nate",
+        "Flynn",
+        "Toydrum",
+        "Zazie Beetz",
+        "Stephen Graham",
+        "Rory Culkin",
+        "Liev Schreiber",
+        "Sean T. Collins"
+      ],
+      "titles": [
+        "Nocturne",
+        "The Courier"
+      ]
+    },
+    "keywords": [
+      "Nocturne episode 4",
+      "Jonah Lynn Saga Bauer",
+      "Jurek Walter Apple TV",
+      "Nocturne The Courier recap",
+      "Stephen Graham Zazie Beetz Nocturne"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/11/nocturne-104-2.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "Unraveling the Intrigue of Nocturne Episode 4: The Courier",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 12:30:00 -0500"
   },
   "km9rcs": {
     "id": "km9rcs",
@@ -266,6 +343,50 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 17:16:47 GMT"
+  },
+  "948qv2": {
+    "id": "948qv2",
+    "type": "news",
+    "headline": "Kannada Star Yash Joins Elite Group With Multiple ₹1000 Crore Worldwide Grossers",
+    "dek": "Kannada superstar Yash has joined Shah Rukh Khan, Prabhas, and Ranveer Singh in the exclusive club of Indian actors with multiple ₹1000 crore worldwide grossers following the box office success of Ramayana.",
+    "entities": {
+      "people": [
+        "Yash",
+        "Shah Rukh Khan",
+        "Prabhas",
+        "Ranveer Singh",
+        "Namit Malhotra",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Aditya Dhar"
+      ],
+      "titles": [
+        "Ramayana",
+        "KGF Chapter 2",
+        "Pathaan",
+        "Jawan",
+        "Baahubali 2",
+        "Kalki 2898 AD",
+        "Dhurandhar",
+        "Dhurandhar 2",
+        "Animal"
+      ]
+    },
+    "keywords": [
+      "Yash Ramayana",
+      "Ramayana 1000 crore worldwide",
+      "Yash KGF Chapter 2",
+      "Indian actors 1000 crore club"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028532.jpg",
+        "caption": "Kannada Star Yash Joins Elite Group With Multiple ₹1000 Crore Worldwide Grossers",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 17:09:28 +0000"
   },
   "1iumf04": {
     "id": "1iumf04",
@@ -1091,6 +1212,45 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 19:20:09 +0530"
+  },
+  "g8zg1": {
+    "id": "g8zg1",
+    "type": "news",
+    "headline": "Spider-Man: Brand New Day Reportedly Set for December Theatrical Re-Release With 10 Minutes of Extra Footage",
+    "dek": "Tom Holland's latest Marvel Cinematic Universe outing is rumored to return to cinema screens on December 4, featuring ten minutes of unreleased scenes just ahead of Avengers: Doomsday.",
+    "entities": {
+      "people": [
+        "Tom Holland",
+        "Destin Daniel Cretton",
+        "Zendaya",
+        "Sadie Sink",
+        "Jacob Batalon",
+        "Jon Bernthal",
+        "Florence Pugh",
+        "Marisa Tomei",
+        "Mark Ruffalo",
+        "Chris Evans",
+        "Robert Downey Jr."
+      ],
+      "titles": [
+        "Spider-Man: Brand New Day",
+        "Avengers: Doomsday"
+      ]
+    },
+    "keywords": [
+      "Spider-Man Brand New Day re-release",
+      "Tom Holland Spider-Man film",
+      "Spider-Man Brand New Day December 4",
+      "Avengers Doomsday release date"
+    ],
+    "images": [
+      {
+        "url": "https://www.pinkvilla.com/images/2026-11/1923203832_spiderman-bnd-webp.webp",
+        "caption": "Spider-Man: Brand New Day Reportedly Set for December Theatrical Re-Release With 10 Minutes of Extra Footage",
+        "source": "Pinkvilla"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:02:33 +0530"
   },
   "ko0o7m": {
     "id": "ko0o7m",
@@ -4512,94 +4672,6 @@ window.FA_HOME_ARTICLES = {
       }
     ],
     "published": "2026-11-12T17:00:22Z"
-  },
-  "1of840n": {
-    "id": "1of840n",
-    "type": "news",
-    "headline": "Netflix Announces December 2026 Premiere for Colombian Period Drama The December Breeze",
-    "dek": "Francisca Estevez returns to Netflix in an ambitious adaptation of Marvel Moreno's landmark 1950s novel, backed by Dynamo production.",
-    "entities": {
-      "people": [
-        "Francisca Estevez",
-        "Marvel Moreno",
-        "Claudia Pedraza",
-        "Rafael Martínez",
-        "Rafael Noguera",
-        "Cecilia Percy",
-        "Marcela Peláez",
-        "Lony Welter",
-        "Angélica Guerra",
-        "Adriana Aparicio",
-        "Michel Ruben",
-        "Meteora Fontana",
-        "Melanie Dell’Olmo",
-        "Vincente Peña",
-        "Valentina Duque",
-        "Danielle Reyes",
-        "Manolo Alzamora",
-        "Florina Lemaitre",
-        "Paula Castaño",
-        "Flora Martinez",
-        "Jason Day"
-      ],
-      "titles": [
-        "The December Breeze",
-        "Eva Lasting",
-        "Los Billis",
-        "La Nieta Elegida"
-      ]
-    },
-    "keywords": [
-      "The December Breeze Netflix",
-      "Francisca Estevez The December Breeze",
-      "Marvel Moreno book adaptation",
-      "The December Breeze release date"
-    ],
-    "images": [
-      {
-        "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/11/the-december-breeze-colombian-netflix-series.jpg",
-        "caption": "Netflix Announces December 2026 Premiere for Colombian Period Drama The December Breeze",
-        "source": "What's on Netflix"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 16:39:57 +0000"
-  },
-  "32ae81": {
-    "id": "32ae81",
-    "type": "news",
-    "headline": "Ramayana Surpasses 1000 Crore Worldwide Box Office Milestone on Day 8",
-    "dek": "Namit Malhotra's epic production crosses the coveted four-digit gross threshold within its extended opening week, marking a major career milestone for actor Ranbir Kapoor.",
-    "entities": {
-      "people": [
-        "Namit Malhotra",
-        "Ranbir Kapoor",
-        "Sai Pallavi",
-        "Yash",
-        "Nitesh Tiwari"
-      ],
-      "titles": [
-        "Ramayana",
-        "Dangal",
-        "Baahubali 2",
-        "Pushpa 2",
-        "Dhurandhar 2",
-        "Animal"
-      ]
-    },
-    "keywords": [
-      "Ramayana box office",
-      "Ranbir Kapoor Ramayana 1000 crore",
-      "Ramayana worldwide collection",
-      "Nitesh Tiwari Ramayana film"
-    ],
-    "images": [
-      {
-        "url": "https://cdn.sacnilk.com/image/news300/1000028510.jpg",
-        "caption": "Ramayana Surpasses 1000 Crore Worldwide Box Office Milestone on Day 8",
-        "source": "Sacnilk"
-      }
-    ],
-    "published": "Thu, 12 Nov 2026 15:26:12 +0000"
   },
   "1mb5x36": {
     "id": "1mb5x36",
