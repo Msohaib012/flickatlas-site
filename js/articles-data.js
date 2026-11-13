@@ -134000,5 +134000,400 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 07:46:52 +0000"
+  },
+  "orb37e": {
+    "id": "orb37e",
+    "type": "news",
+    "headline": "Is Ashneer Grover Ready to Step Into Pitch To Get Rich Season 2?",
+    "dek": "Speculation mounts over former BharatPe co-founder Ashneer Grover potentially joining Karan Johar and Malaika Arora on the judging panel for the upcoming season of Pitch To Get Rich.",
+    "body": [
+      {
+        "h": "The Rumours Surrounding the New Panel",
+        "p": [
+          "Speculation has intensified across the entertainment sphere regarding the expansion of the judging panel for Pitch To Get Rich Season 2. Industry whispers suggest that former BharatPe co-founder and managing director Ashneer Grover may take on a prominent role as a judge for the reality series.",
+          "Should these circulating reports be officially confirmed, Grover's entry onto the panel would sit alongside established figures like Karan Johar and Malaika Arora, injecting a fresh layer of corporate gravity and strategic evaluation into the ongoing proceedings."
+        ]
+      },
+      {
+        "h": "Background on Grover's Reality TV Journey",
+        "p": [
+          "Ashneer Grover previously cemented himself as a widely discussed personality during his tenure on the inaugural season of Shark Tank India. His direct communication style, memorable observations, and uncompromising evaluations frequently circulated widely across digital platforms.",
+          "While some viewers resonated deeply with his candid nature, others perceived his commentary as overly stern. Following that prominent stint, he later appeared on another reality television project titled Rise and Fall, before this current association with a business-pitch format."
+        ]
+      },
+      {
+        "h": "Format and Dynamics of Pitch To Get Rich",
+        "p": [
+          "The underlying framework of the show centers on entrepreneurial aspirants defending their business strategies, negotiating financial valuations, and striving to secure backing for their respective ventures. Season 1 notably featured fourteen fashion and lifestyle founders navigating complex real-world challenges.",
+          "The arrival of a figure known for rigorous financial scrutiny would likely place participating founders under much tighter operational evaluations. Their long-term growth roadmaps and brand valuations would face intense interrogation from the expanded panel of experts."
+        ]
+      },
+      {
+        "h": "Expected Faces and Celebrity Guests",
+        "p": [
+          "Beyond the primary judging panel, the upcoming second season is anticipated to incorporate a variety of guest appearances spanning the entertainment industry, corporate sectors, and digital creator communities.",
+          "Names such as Akshay Kumar and Sanjay Nigam have been frequently linked to the unfolding production discussions alongside Malaika Arora and Karan Johar, pointing toward a collaborative and star-studded environment."
+        ]
+      },
+      {
+        "h": "Hints and Behind-the-Scenes Sightings",
+        "p": [
+          "Fueling the ongoing rumors even further, observational fans and media outlets noted Grover's appearance alongside Malaika Arora and Karan Johar in shared video footage originating from the production's wrap party.",
+          "Despite the visible association and extensive speculation building up online, network representatives and production teams have yet to issue a formal announcement confirming his official participation in the series."
+        ]
+      },
+      {
+        "h": "Broader Context and Separate Developments",
+        "p": [
+          "In a separate entertainment update intersecting with his public profile, discussions surrounding an intended biographical film about Ashneer Grover recently encountered a pivot when Aamir Khan stepped away from the project due to creative differences.",
+          "Consequently, individuals such as Rahul Mody and Shraddha Kapoor have reportedly initiated efforts to find a new lead actor to portray the prominent entrepreneur on the silver screen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Reports indicate that former BharatPe co-founder Ashneer Grover may join Karan Johar and Malaika Arora as a judge on Pitch To Get Rich Season 2, though official confirmation is still pending. The potential addition follows his earlier reality television appearances and points toward a high-stakes environment for participating lifestyle and fashion founders."
+        ]
+      }
+    ],
+    "facts": [
+      "Ashneer Grover is the former BharatPe co-founder and managing director.",
+      "Season 1 of Pitch To Get Rich featured 14 fashion and lifestyle founders.",
+      "Karan Johar and Malaika Arora are linked to Pitch To Get Rich Season 2.",
+      "Akshay Kumar and Sanjay Nigam are among the names linked to the season.",
+      "Aamir Khan opted out of an Ashneer Grover biopic due to creative differences."
+    ],
+    "entities": {
+      "people": [
+        "Ashneer Grover",
+        "Karan Johar",
+        "Malaika Arora",
+        "Akshay Kumar",
+        "Sanjay Nigam",
+        "Aamir Khan",
+        "Rahul Mody",
+        "Shraddha Kapoor"
+      ],
+      "titles": [
+        "Pitch To Get Rich",
+        "Pitch To Get Rich Season 2",
+        "Shark Tank India",
+        "Rise and Fall"
+      ]
+    },
+    "keywords": [
+      "Ashneer Grover Pitch To Get Rich",
+      "Pitch To Get Rich Season 2",
+      "Karan Johar Malaika Arora",
+      "Ashneer Grover reality show"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Ashneer-Grover-Pitch-To-get-Rich.jpeg",
+        "caption": "Is Ashneer Grover Ready to Step Into Pitch To Get Rich Season 2?",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 14:31:40 +0200"
+  },
+  "1wjp5av": {
+    "id": "1wjp5av",
+    "type": "news",
+    "headline": "Ryan Seacrest Stunned As Wheel of Fortune Contestant Secures Massive $138,000 Payout",
+    "dek": "Host Ryan Seacrest celebrated on stage after a dominant player named Luke solved a difficult bonus puzzle with minimal letters to claim a huge cash prize on Wheel of Fortune.",
+    "body": [
+      {
+        "h": "An Astonishing Bonus Round Victory",
+        "p": [
+          "A recent episode of Wheel of Fortune delivered an incredible high-stakes moment when a contestant named Luke managed to crack the final puzzle with very few letters on the board. Facing the Person category, Luke picked M, D, P, and O, leaving the studio audience and the host amazed as he successfully pieced together the solution BUSYBODY.",
+          "The remarkable solve transformed his already impressive game total of $38,749 into a much larger reward. When the envelope revealed an additional $100,000 prize, his final combined winnings shot up to $138,479."
+        ]
+      },
+      {
+        "h": "Host Ryan Seacrest Reacts With Pure Shock",
+        "p": [
+          "The unexpected solve left host Ryan Seacrest completely astonished by how quickly Luke figured out the puzzle despite the scarce clues. Seacrest ran over, patted him on the back, and shouted in disbelief that he had actually pulled it off.",
+          "The host later asked the victorious player how he managed to decode the phrase under such intense pressure. The celebratory moment highlighted the unpredictable thrill that continues to define the long-running game show."
+        ]
+      },
+      {
+        "h": "Building a Commanding Lead Early On",
+        "p": [
+          "Before reaching the dramatic finale, Luke had already established himself as the dominant force of the evening. He built his early momentum by correctly identifying a Famous Duo clue featuring Buzz Lightyear and Woody, which instantly padded his bank with $6,350.",
+          "His aggressive strategy kept his opponents struggling to catch up as he consistently rang in with correct answers and maintained control of the board throughout the main rounds of the game."
+        ]
+      },
+      {
+        "h": "Taking Big Risks on the Express Wedge",
+        "p": [
+          "One of the most daring moments of the night occurred when Luke took a massive gamble on the Express Wedge. The risky board space offered $1,000 for every correct consonant guessed, but carried the immediate penalty of wiping out all accumulated cash if a mistake was made.",
+          "The gamble paid off spectacularly when he correctly solved the phrase Stranger Things Have Happened. This bold move netted him $17,300 in cash alongside a vacation package valued at $7,099 that included trips to Germany, Austria, and Hungary."
+        ]
+      },
+      {
+        "h": "Stiff Competition From Fellow Contestants",
+        "p": [
+          "Luke's victory came after outperforming fellow contestants Ashley and Krista during an energetic episode that aired on November 5. Ashley put up a fight, finishing the night with a respectable total of $7,600.",
+          "Meanwhile, Krista accumulated $2,000 after experiencing mixed fortunes on the board. Krista had previously taken a major risk by landing on the mystery wedge, successfully uncovering a $10,000 prize before stumbling on a subsequent letter guess."
+        ]
+      },
+      {
+        "h": "Sealing the Victory",
+        "p": [
+          "As the main game drew to a close, Luke cemented his runaway victory by correctly solving the final puzzle, ringing endorsement. This last correct answer secured his spot in the bonus round.",
+          "His strong performance across multiple rounds ensured he walked away as the undisputed champion of the night, leaving his competitors far behind in the final standings."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Wheel of Fortune contestant Luke secured a dominant victory on the November 5 episode, culminating in a dramatic bonus round solve of the puzzle BUSYBODY. Host Ryan Seacrest expressed complete astonishment as Luke's total winnings jumped to a combined $138,479 after revealing a $100,000 prize."
+        ]
+      }
+    ],
+    "facts": [
+      "Luke won a total of $138,479 on Wheel of Fortune.",
+      "The bonus round puzzle was BUSYBODY in the Person category.",
+      "Ryan Seacrest hosts Wheel of Fortune.",
+      "The episode aired on November 5.",
+      "Ashley finished with $7,600 and Krista collected $2,000.",
+      "The vacation package won was worth $7,099 covering Germany, Austria and Hungary."
+    ],
+    "entities": {
+      "people": [
+        "Ryan Seacrest",
+        "Luke",
+        "Ashley",
+        "Krista",
+        "Buzz Lightyear",
+        "Woody"
+      ],
+      "titles": [
+        "Wheel of Fortune",
+        "Stranger Things Have Happened"
+      ]
+    },
+    "keywords": [
+      "Wheel of Fortune",
+      "Ryan Seacrest",
+      "Luke Wheel of Fortune",
+      "Wheel of Fortune 138000"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/edited-image-2026-11-13T151632.293.webp?resize=1200,630",
+        "caption": "Ryan Seacrest Stunned As Wheel of Fortune Contestant Secures Massive $138,000 Payout",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 09:49:46 +0000"
+  },
+  "9uhmgb": {
+    "id": "9uhmgb",
+    "type": "news",
+    "headline": "Ramayana Box Office Day 9: Ranbir Kapoor Starrer Crosses Major Milestones But Awaits Hit Status",
+    "dek": "Explore the box office trajectory of the mythological epic Ramayana, featuring Ranbir Kapoor, as it crosses significant domestic milestones while trade experts weigh in on its massive budget and breakeven targets.",
+    "body": [
+      {
+        "h": "The Return of Ranbir Kapoor in a Mythological Epic",
+        "p": [
+          "Actor Ranbir Kapoor has made a major comeback to the big screen following a three-year gap after his 2023 hit Animal. This time, he takes on the monumental role of Lord Ram in the high-profile mythological epic Ramayana, generating massive anticipation among audiences nationwide.",
+          "The film marks a significant cinematic venture, bringing together a vast ensemble cast and a grand retelling of traditional epics for modern moviegoers seeking large-scale visual storytelling."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew Assembly",
+        "p": [
+          "Alongside Ranbir Kapoor in the lead role, Ramayana features Sai Pallavi and Yash in pivotal parts, anchoring the dramatic weight of the narrative. The project also boasts a diverse supporting lineup including Ravi Dubey, Arun Govil, Lara Dutta, Rakul Preet Singh, Vivek Oberoi, Anupam Kher, Sheeba Chadha, and Adinath Kothare.",
+          "This extensive casting choice positioned the film as one of the most anticipated and financially ambitious releases in the history of Indian cinema, drawing heavy attention from critics and fans alike from its inception."
+        ]
+      },
+      {
+        "h": "Box Office Performance Through Day 8",
+        "p": [
+          "According to Sacnilk reports, Ramayana pulled in a notable Rs 53.5 crore on its eighth day, which fell on a second Thursday. This single-day total comprised Rs 43 crore from the Hindi version, Rs 3.25 crore in Kannada, Rs 2.8 crore in Malayalam, Rs 2.3 crore in Telugu, and Rs 2.15 crore in Tamil.",
+          "This pushed the cumulative domestic collection to Rs 564.6 crore. The breakdown included Rs 437 crore from Hindi screenings, Rs 48.95 crore in Kannada, Rs 38.05 crore in Telugu, Rs 22.15 crore in Tamil, and Rs 18.45 crore in Malayalam, setting notable day 8 benchmarks in the country."
+        ]
+      },
+      {
+        "h": "Comparisons With Dhurandhar 2",
+        "p": [
+          "Despite achieving high overall numbers and breaking records following the Diwali weekend, the film has faced continuous comparison with Dhurandhar 2 at the domestic box office.",
+          "While Ramayana secured the highest day 8 collection overall for the period, its Hindi version stood as the second highest day 8 collection behind Dhurandhar 2, which recorded Rs 43 crore on its corresponding day and maintained a higher overall earnings trajectory of Rs 674.17 crore across its first eight days."
+        ]
+      },
+      {
+        "h": "Trade Expert Analysis on Profitability and Budgets",
+        "p": [
+          "Film business expert Sumit Kadel provided clarity on why the high-earning movie has not yet earned a formal hit tag, noting that its performance remains below average relative to its immense financial scale.",
+          "Kadel highlighted that Ramayana was produced with an official budget of Rs 2000 crore. Consequently, the movie needs to generate approximately Rs 1100 crore solely from its Hindi version and reach around Rs 2800 crore worldwide, with a breakeven milestone pegged at Rs 2500 crore to be deemed a commercial success."
+        ]
+      },
+      {
+        "h": "Morning Trends and Day 9 Early Occupancy",
+        "p": [
+          "Moving into its ninth day, which marked the second Friday, the film opened on a softer note with a morning show occupancy rate of 13.54% across theaters.",
+          "Early figures for day 9 indicate earnings of Rs 9.75 crore in India, consisting of Rs 7.66 crore from the Hindi version, Rs 71 lakhs in Telugu, Rs 70 lakhs in Kannada, and Rs 68 lakhs in Tamil, bringing the overall domestic tally to Rs 574.35 crore."
+        ]
+      },
+      {
+        "h": "Outlook for the Coming Weeks",
+        "p": [
+          "Industry analysts are observing whether the epic can sustain its momentum and alter its box office trajectory in the days ahead, especially given that no major competing releases are scheduled to hit screens until the end of the month.",
+          "With a clear run ahead and steady holiday momentum behind it, the film's long-term legs will depend on sustained weekday occupancy across multiple regional markets."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's mythological epic Ramayana has crossed Rs 574 crore at the domestic box office by its ninth day, bolstered by strong festive momentum and widespread regional collections.",
+          "Despite entering the Rs 500 crore club and recording massive earnings, trade experts note that the film's monumental budget leaves it awaiting a true hit status as it targets higher breakeven milestones."
+        ]
+      }
+    ],
+    "facts": [
+      "Ranbir Kapoor plays Lord Ram in Ramayana.",
+      "The film's day 8 collection was Rs 53.5 crore.",
+      "The overall collection by day 8 reached Rs 564.6 crore.",
+      "The official budget of Ramayana is Rs 2000 crore.",
+      "The film's day 9 morning occupancy was 13.54%.",
+      "The overall collection by day 9 reached Rs 574.35 crore."
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Ravi Dubey",
+        "Arun Govil",
+        "Lara Dutta",
+        "Rakul Preet Singh",
+        "Vivek Oberoi",
+        "Anupam Kher",
+        "Sheeba Chadha",
+        "Adinath Kothare",
+        "Sumit Kadel",
+        "Ranpreet Kaur"
+      ],
+      "titles": [
+        "Ramayana",
+        "Animal",
+        "Dhurandhar 2"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office",
+      "Ranbir Kapoor Ramayana",
+      "Ramayana collection day 9",
+      "Sumit Kadel Ramayana hit or flop"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday8feature1-51351794561703.jpg",
+        "caption": "Ramayana Box Office Day 9: Ranbir Kapoor Starrer Crosses Major Milestones But Awaits Hit Status",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 15:01:41 +0530"
+  },
+  "mg978i": {
+    "id": "mg978i",
+    "type": "news",
+    "headline": "When Is Johnny Depp’s Ebenezer’s Digital Streaming Release Date?",
+    "dek": "Audiences are curious about when Johnny Depp's new film Ebenezer will arrive on digital platforms and Paramount+ following its theatrical release.",
+    "body": [
+      {
+        "h": "Theatrical Launch and Anticipation",
+        "p": [
+          "Audiences are already eager to learn when they can watch the new adaptation Ebenezer on digital platforms and streaming services. The movie opens in theaters in the United States, sparking widespread curiosity among fans.",
+          "Even though the theatrical run is underway, Paramount+ has not yet shared its official schedule for bringing the title to home viewing screens."
+        ]
+      },
+      {
+        "h": "Creative Team and Adaptation Style",
+        "p": [
+          "The project is directed by Ti West, with a screenplay penned by Nathaniel Halpern. The narrative draws inspiration from the classic holiday novella written by Charles Dickens.",
+          "This version blends black comedy with distinct gothic fantasy elements, offering a unique visual and tonal approach to the familiar seasonal tale."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast Lineup",
+        "p": [
+          "Johnny Depp takes on the iconic title role of Ebenezer Scrooge, leading a notable ensemble cast. Rupert Grint appears alongside him in the role of Bob Cratchit.",
+          "Ian McKellen portrays Jacob Marley, while Andrea Riseborough features as the Ghost of Christmas Past. Additional cast members include Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Robert Strange, and Charlie Murphy."
+        ]
+      },
+      {
+        "h": "Estimated Digital Release Window",
+        "p": [
+          "While an official date remains unannounced, industry patterns suggest the film could become available for purchase or rental within a thirty to forty-five day window.",
+          "This timeline points toward a possible debut on digital storefronts during December, though final plans will depend on studio strategies."
+        ]
+      },
+      {
+        "h": "Box Office and Critical Response Impact",
+        "p": [
+          "The exact timing for home viewing releases could be influenced by how well the movie performs at the box office. Strong earnings and favorable audience feedback often sway theatrical and home release schedules.",
+          "Meanwhile, critics have given the film a fifty-three percent approval rating on Rotten Tomatoes, which adds another factor to its ongoing theatrical run."
+        ]
+      },
+      {
+        "h": "Expected Paramount+ Streaming Arrival",
+        "p": [
+          "Following its potential digital launch, the feature is expected to land on streaming platforms roughly three months after its theatrical debut, with Paramount+ serving as its home.",
+          "This puts a tentative streaming arrival around February or March, though the platform has not yet confirmed these dates officially."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Johnny Depp stars in the new adaptation Ebenezer, which has arrived in United States theaters without an official digital or streaming release date from Paramount+. While estimates point to a December digital window and a February or March streaming debut on Paramount+, the final schedule remains unconfirmed.",
+          "Box office performance and critical reception, including a Rotten Tomatoes score, may influence the ultimate timing of these releases."
+        ]
+      }
+    ],
+    "facts": [
+      "Johnny Depp stars as Ebenezer Scrooge in Ebenezer",
+      "Rupert Grint plays Bob Cratchit",
+      "Ian McKellen portrays Jacob Marley",
+      "Andrea Riseborough plays the Ghost of Christmas Past",
+      "Ti West is the director",
+      "Nathaniel Halpern wrote the screenplay",
+      "The film holds a 53% score on Rotten Tomatoes"
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "Rupert Grint",
+        "Ian McKellen",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Daisy Ridley",
+        "Arthur Conti",
+        "Ellie Bamber",
+        "Robert Strange",
+        "Charlie Murphy",
+        "Ti West",
+        "Nathaniel Halpern",
+        "Charles Dickens"
+      ],
+      "titles": [
+        "Ebenezer"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp Ebenezer",
+      "Ebenezer streaming release date",
+      "Paramount+ Ebenezer movie",
+      "Ti West Ebenezer cast"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/11/Johnny-Depps-Ebenezer-Salary-Revealed-Its-Drastically-Lower-Than-Pirates-Heyday.jpg?resize=1200,630",
+        "caption": "When Is Johnny Depp’s Ebenezer’s Digital Streaming Release Date?",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 08:49:31 +0000"
   }
 };

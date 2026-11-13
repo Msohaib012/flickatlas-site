@@ -9,11 +9,11 @@
    "detail": "valid top 20 snapshot"
   },
   "sacnilk_boxoffice": {
-   "last_attempt_at": "2026-11-13T05:57:22Z",
-   "last_run": "2026-11-13T05:57:22Z",
+   "last_attempt_at": "2026-11-13T10:00:21Z",
+   "last_run": "2026-11-13T10:00:21Z",
    "last_status": "failed",
    "last_success": "2026-11-08T11:57:48Z",
-   "consecutive_failures": 30,
+   "consecutive_failures": 31,
    "detail": "reader timed out; last-good staging retained"
   },
   "fnn_boxoffice": {
@@ -25,11 +25,11 @@
    "detail": "validated 160 rows; 1 staging files changed"
   },
   "moviemint_boxoffice": {
-   "last_attempt_at": "2026-11-12T09:57:29Z",
-   "last_run": "2026-11-12T09:57:29Z",
+   "last_attempt_at": "2026-11-13T10:05:22Z",
+   "last_run": "2026-11-13T10:05:22Z",
    "last_status": "failed",
    "last_success": "2026-11-10T08:58:18Z",
-   "consecutive_failures": 2,
+   "consecutive_failures": 3,
    "detail": "reader timed out; last-good staging retained"
   },
   "ott_digital": {
@@ -73,5 +73,5 @@
    "detail": "reader timed out; last-good staging retained"
   }
  },
- "updated_at": "2026-11-13T08:41:24Z"
+ "updated_at": "2026-11-13T10:05:22Z"
 }
