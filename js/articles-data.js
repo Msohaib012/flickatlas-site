@@ -139246,5 +139246,373 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-13T04:00:22.922Z"
+  },
+  "ykslct": {
+    "id": "ykslct",
+    "type": "news",
+    "headline": "Diljit Dosanjh Faces Song Restrictions in Ahmedabad and Bomb Threats Before Indore Concert",
+    "dek": "Singing superstar Diljit Dosanjh has been urged by child protection authorities to drop four tracks from his Ahmedabad concert setlist, while separate bomb threats target multiple locations ahead of his performance in Indore.",
+    "body": [
+      {
+        "h": "Ahmedabad Concert Song Restrictions",
+        "p": [
+          "As part of his ongoing musical tour, superstar Diljit Dosanjh is scheduled to perform live in Ahmedabad on November 21, 2026. However, preparations for the musical night have encountered a hurdle as a child protection official formally approached local law enforcement.",
+          "The District Child Protection Officer lodged a formal request with the Police Commissioner to prohibit the performer from delivering four specific tracks during the live show. Authorities argue that these particular compositions touch upon themes of substance abuse, alcohol, and violence."
+        ]
+      },
+      {
+        "h": "Tracks Targeted by Authorities",
+        "p": [
+          "The official specifically requested that popular tracks such as Patiala Peg, 5 Taara Theke, Jeb Vicho Feem, and Jatt Fire Karda be completely omitted from the live performance. The directive emphasizes that these numbers should not be sung even if the artist chooses to modify the original lyrics.",
+          "Concerns raised by the child welfare department center around the potential influence of such lyrical content on younger audiences. Consequently, security and administrative bodies are weighing these measures ahead of the scheduled November date."
+        ]
+      },
+      {
+        "h": "Indore Performance Security Alerts",
+        "p": [
+          "Prior to the Ahmedabad event, the singer is slated to take the stage in Indore on November 15, 2026. This upcoming appearance has also run into security complications following alarming threats sent via electronic mail.",
+          "Anonymous messages written in both Punjabi and English were dispatched to several institutions and local administrative offices. The sudden threats have prompted immediate intervention from regional police and law enforcement authorities."
+        ]
+      },
+      {
+        "h": "Targets of the Electronic Threats",
+        "p": [
+          "The threatening communications specifically named three financial institutions, including Bandhan Bank, Bank of Baroda, and Punjab National Bank. Additionally, the Indore Mayor’s Secretariat was designated as a target in the correspondence.",
+          "The simultaneous dispatch of these messages to multiple prominent locations triggered an immediate security response across the city. Authorities moved quickly to secure the specified zones and launch a comprehensive probe."
+        ]
+      },
+      {
+        "h": "Bomb Disposal Squad Inspections",
+        "p": [
+          "Following the receipt of the alarming messages, a specialized Bomb Disposal Squad was deployed to the Indore Mayor’s Secretariat. Personnel conducted exhaustive physical inspections to ensure the safety of the premises.",
+          "Officials maintained a high level of vigilance during the sweep, evaluating all potential security risks. The swift deployment underscored the seriousness with which law enforcement treated the digital intimidation."
+        ]
+      },
+      {
+        "h": "Official Responses and Investigations",
+        "p": [
+          "Indore Mayor Pushyamitra Bhargav addressed the intimidation, stating that external attempts to disrupt municipal progress would fail. He affirmed that developmental activities and public events in the city would proceed unaffected by such tactics.",
+          "Police officer Rajesh Dandotiya confirmed that investigations are actively underway to track the digital footprints of the messages. Cyber teams are working to identify the origin of the email IDs used to transmit the threats."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh faces calls from a child protection officer to drop four tracks from his upcoming November 21 Ahmedabad concert over concerns regarding alcohol and violence. Meanwhile, security agencies in Indore are investigating threatening emails sent to banks and the Mayor's Secretariat ahead of his November 15 performance."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh's Ahmedabad concert is scheduled for November 21, 2026.",
+      "The District Child Protection Officer asked the Police Commissioner to ban four songs.",
+      "The restricted songs are Patiala Peg, 5 Taara Theke, Jeb Vicho Feem, and Jatt Fire Karda.",
+      "Diljit Dosanjh is set to perform in Indore on November 15, 2026.",
+      "Threatening emails were sent to Bandhan Bank, Bank of Baroda, Punjab National Bank, and the Indore Mayor's Secretariat.",
+      "Indore Mayor is Pushyamitra Bhargav.",
+      "Police officer Rajesh Dandotiya is involved in investigating the email sources."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Pushyamitra Bhargav",
+        "Rajesh Dandotiya"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Diljit Dosanjh Ahmedabad concert",
+      "Diljit Dosanjh Indore concert",
+      "Patiala Peg 5 Taara Theke",
+      "Indore Mayor Secretariat threat"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/10/30/4429-diljit-dosanjh-1.png",
+        "caption": "Diljit Dosanjh Faces Song Restrictions in Ahmedabad and Bomb Threats Before Indore Concert",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T20:15:42Z"
+  },
+  "vnq4tc": {
+    "id": "vnq4tc",
+    "type": "news",
+    "headline": "Marvel Reveals Striking All-White Costume Redesign For The Punisher",
+    "dek": "Frank Castle trades his traditional dark combat gear for a weather-adapted white tactical snowsuit in an upcoming dialogue-free issue of The Punisher.",
+    "body": [
+      {
+        "h": "The New Tactical Look",
+        "p": [
+          "Marvel has provided a first look at an eye-catching new visual direction for Frank Castle, showcasing a stark white costume redesign. Rather than dressing to establish a symbol or project inspiration, the vigilante selects his garments strictly for efficiency in urban warfare. His attire relies on heavy-duty Kevlar and reinforced combat gear designed to endure severe tactical situations.",
+          "The signature white skull across the chest serves a dual purpose as a psychological tool to strike fear into criminals and a tactical mechanism to draw incoming fire directly toward his armored torso instead of his vulnerable head."
+        ]
+      },
+      {
+        "h": "Practical Approach To Gear",
+        "p": [
+          "Because the character treats his wardrobe like a soldier preparing a kit instead of a superhero curating a brand, major visual updates are rare. Frank Castle typically modifies his dark clothing to suit the functional requirements of individual missions.",
+          "Over the years, adjustments have included reinforced bulletproof vests, high-contrast white gloves and boots for visibility, heavy leather trench coats to conceal artillery during bad weather, and extra utility belts to carry necessary field equipment."
+        ]
+      },
+      {
+        "h": "A Milestone Redesign",
+        "p": [
+          "Fifty-two years following his initial appearance in comic books, the vigilante receives one of his most prominent visual changes. This update arrives without depending on any technological or supernatural enhancements to his baseline abilities.",
+          "The upcoming iteration offers a fresh aesthetic while remaining firmly rooted in the character's traditional tactical origins rather than leaning into sci-fi upgrades."
+        ]
+      },
+      {
+        "h": "The Punisher #12 Details",
+        "p": [
+          "In the pages of The Punisher #12, written by Benjamin Percy with artwork by Declan Shalvey, the protagonist departs from his standard black combat gear. Instead, he steps into an all-white tactical snowsuit for a completely dialogue-free story titled \"White-Out\".",
+          "Ahead of the release, Marvel shared Declan Shalvey's variant cover showcasing the character walking through a snowy landscape, where his shadow casts the shape of the iconic skull emblem in an inverted color scheme."
+        ]
+      },
+      {
+        "h": "Blending Into Winter",
+        "p": [
+          "Instead of merging into the shadows of dark alleys in New York, the character now disappears into blinding snowstorms. The oversized black skull printed on the chest remains a menacing warning of impending violence against wrongdoers.",
+          "The aesthetic shift offers a clean visual contrast to his usual environment while maintaining the gritty tone associated with the franchise."
+        ]
+      },
+      {
+        "h": "Historical Costume Experiments",
+        "p": [
+          "Throughout publishing history, Marvel has occasionally pushed the character into experimental phases. Notable past variations include the \"Avenging Angel\" leather look, the stitched-together monster phase known as \"Franken-Castle\", and high-tech adaptations like stolen War Machine armor or the cosmic transformation into Cosmic Ghost Rider.",
+          "Frank Castle has also experimented with alternative logo colors in the past, most notably the crimson Thunderbolts emblem. The new \"White-Out\" attire avoids supernatural and futuristic enhancements in favor of a practical, weather-suited tactical design."
+        ]
+      },
+      {
+        "h": "Release Information",
+        "p": [
+          "Readers looking forward to the new storyline can expect the issue to arrive soon. The Punisher #12 is scheduled to be available on December 23 from Marvel Comics.",
+          "The project continues the character's long publication history originally created by Gerry Conway, John Romita Sr., and Ross Andru."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel has teased a major visual update for Frank Castle in The Punisher #12, written by Benjamin Percy and illustrated by Declan Shalvey. The upcoming dialogue-free issue features an all-white tactical snowsuit designed for winter camouflage rather than relying on supernatural or technological upgrades."
+        ]
+      }
+    ],
+    "facts": [
+      "The Punisher #12 is written by Benjamin Percy and features art by Declan Shalvey.",
+      "The issue is titled White-Out and is entirely dialogue-free.",
+      "The Punisher #12 is scheduled for release on December 23 from Marvel Comics.",
+      "The character was created by Gerry Conway, John Romita Sr., and Ross Andru.",
+      "Fifty-two years have passed since the character's first comic book appearance."
+    ],
+    "entities": {
+      "people": [
+        "Nicolas Ayala",
+        "Benjamin Percy",
+        "Declan Shalvey",
+        "Gerry Conway",
+        "John Romita Sr.",
+        "Ross Andru",
+        "Jack Lowden",
+        "Josh O’Connor",
+        "Callum Turner",
+        "Jon Bernthal"
+      ],
+      "titles": [
+        "The Punisher",
+        "The Punisher #12",
+        "The Ultimate Payback!",
+        "No Mercy",
+        "Spider-Man: Brand New Day",
+        "Hunger Games",
+        "Avengers"
+      ]
+    },
+    "keywords": [
+      "The Punisher",
+      "The Punisher 12",
+      "Benjamin Percy",
+      "Declan Shalvey",
+      "Frank Castle white costume"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/the-punisher-aims-his-guns-in-the-shadows.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Marvel Reveals Striking All-White Costume Redesign For The Punisher",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:48:04 GMT"
+  },
+  "jszw23": {
+    "id": "jszw23",
+    "type": "news",
+    "headline": "Fresh Snowfall Transforms Kashmir Higher Reaches Into Winter Wonderland",
+    "dek": "A fresh blanket of snow has turned major tourist destinations in Kashmir into picturesque landscapes, though dropping temperatures and blocked mountain highways present fresh challenges.",
+    "body": [
+      {
+        "h": "First Snowfall and Scenic Transformation",
+        "p": [
+          "Kashmir experienced its second consecutive day of fresh snowfall across higher elevation areas on Friday. Renowned tourist hubs like Gulmarg and Sonamarg transformed into breathtaking white landscapes, bringing excitement to visitors who arrived to witness the early winter spectacle.",
+          "The active Western Disturbance brought heavy precipitation to multiple high-altitude locations. While upper zones of Gulmarg such as Kongdoori and Apharwat turned completely white, Sonamarg celebrated its very first snowfall of the ongoing season."
+        ]
+      },
+      {
+        "h": "Snow Accumulation Across High-Altitude Passes",
+        "p": [
+          "Various mountain passes and remote valleys recorded significant snow accumulations over the course of the storm. Sadhna Top and Razdan Pass received over a foot of fresh snow, significantly altering the terrain.",
+          "Other vulnerable stretches also accumulated substantial layers. Sinthan Top recorded 8 to 10 inches of snow, Peer Ki Gali measured 5 to 8 inches, and Zojila Pass logged between 5 and 6 inches alongside Gurez and Machil."
+        ]
+      },
+      {
+        "h": "Tourist Reactions and Valley Weather",
+        "p": [
+          "Visitors present in the region capitalized on the picturesque conditions by capturing photographs, playing in the fresh powder, and enjoying the stunning vistas of snowy peaks.",
+          "Meanwhile, lower elevations including Srinagar endured moderate to heavy rainfall. This downpour caused daytime temperatures to plummet by 6 to 8 degrees Celsius, intensifying the autumn chill across the Valley."
+        ]
+      },
+      {
+        "h": "Highway Closures and Transport Disruptions",
+        "p": [
+          "The heavy accumulation of snow resulted in the immediate closure of critical transportation links connecting the region. The Srinagar-Leh National Highway was forced to shut down due to heavy snow at Zojila.",
+          "Additional crucial arteries faced similar disruptions. The Mughal Road was blocked off at Peer Ki Gali, and the Bandipora-Gurez road was closed entirely at Razdan Pass due to impassable conditions."
+        ]
+      },
+      {
+        "h": "Met Department Forecast and Advisory",
+        "p": [
+          "Meteorological officials anticipated that light to moderate rain in the lower plains and snow in upper reaches would persist at various spots. Brief spells of rain or snow remained possible through November 14 and November 15.",
+          "Forecasters predict that weather conditions will turn largely dry starting from November 16 through November 20. Government authorities strongly advised travellers and tourists planning trips to higher altitude zones to verify current weather and traffic advisories beforehand."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Fresh snowfall blanketed higher reaches of Kashmir for a second consecutive day on Friday, creating winter wonderland scenes in Gulmarg and Sonamarg while closing key highways including Zojila Pass and Mughal Road. Although tourists cheered the picturesque early winter weather, plunging temperatures and travel disruptions posed challenges for the region."
+        ]
+      }
+    ],
+    "facts": [
+      "Fresh snowfall occurred for the second consecutive day on Friday, November 13, 2026.",
+      "Sadhna Top and Razdan Pass received over a foot of snow.",
+      "Sinthan Top recorded 8-10 inches of snow.",
+      "Zojila Pass recorded 5-6 inches of snow.",
+      "Peer Ki Gali recorded 5-8 inches of snow.",
+      "Day temperatures in the Valley crashed by 6-8 degrees Celsius."
+    ],
+    "entities": {
+      "people": [],
+      "titles": []
+    },
+    "keywords": [
+      "Kashmir snowfall",
+      "Gulmarg snow tourist",
+      "Srinagar Leh highway closed",
+      "Kashmir weather November 2026"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/13/6568-mixcollage-13-nov-2026-05-51-pm-155.jpg",
+        "caption": "Fresh Snowfall Transforms Kashmir Higher Reaches Into Winter Wonderland",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T20:15:42Z"
+  },
+  "1ozif6h": {
+    "id": "1ozif6h",
+    "type": "news",
+    "headline": "Kevin Feige Explains Why the Original X-Men Are Returning for Avengers: Doomsday",
+    "dek": "Marvel Studios president Kevin Feige discusses the reasoning behind bringing back the classic 20th Century Fox X-Men cast for the upcoming crossover event.",
+    "body": [
+      {
+        "h": "The Crossover That Felt Right",
+        "p": [
+          "Marvel Studios head Kevin Feige has opened up about the major creative decision to feature legacy characters from 20th Century Fox's mutant franchise in the upcoming ensemble film. Following years of managing both outside superhero adaptations and the massive internal expansion of the Marvel Cinematic Universe, Feige noted that this massive cinematic crossover felt entirely natural.",
+          "Reflecting on past remarks made by franchise veterans like Hugh Jackman, the studio head acknowledged that combining these distinct superhero worlds once seemed impossible to many observers. Bringing everyone together served as a fun method to wrap up a quarter-century of filmmaking history."
+        ]
+      },
+      {
+        "h": "A Quarter Century of Marvel Legacy",
+        "p": [
+          "The timeline of modern comic book cinema stretches back to the debut of the initial mutant feature in the year 2000, which arrived prior to Sam Raimi's Spider-Man movies and nearly a decade before the creation of the shared cinematic universe. Feige originally served as an associate producer on that foundational 20th Century Fox project, holding a long-standing ambition to see those characters cross paths with Earth's mightiest heroes.",
+          "This upcoming installment represents a historic milestone, marking the very first instance where the title heroes will directly interact with both the Fantastic Four and the mutants within the boundaries of a single narrative."
+        ]
+      },
+      {
+        "h": "Laying the Groundwork",
+        "p": [
+          "The initial foundations for this massive collision of franchises were established through the release of a specific multiverse-spanning adventure in 2024. That project successfully integrated distinct focal characters directly into the ongoing continuity of the shared universe.",
+          "Building upon that momentum, the upcoming ensemble feature is set to welcome back several notable actors from the classic trilogy to reprise their legendary mutant roles."
+        ]
+      },
+      {
+        "h": "Returning Mutant Cast Members",
+        "p": [
+          "Audiences can look forward to seeing several veteran performers step back into their iconic superhero personas for the massive crossover event. Confirmed returning talent includes Patrick Stewart, Ian McKellen, James Marsden, Alan Cumming, and Rebecca Romijn.",
+          "In addition to the returning core group, Channing Tatum will also bring his distinct version of Gambit into the mix. This appearance will mark the card-throwing hero's first-ever on-screen interaction with the leading roster of mutants."
+        ]
+      },
+      {
+        "h": "Creative Contributions and Teasers",
+        "p": [
+          "Recent updates revealed that Hugh Jackman and Ryan Reynolds have secured formal writing credits on the upcoming film's screenplay. This development immediately sparked widespread fan speculation regarding potential appearances.",
+          "Following the announcement, Reynolds offered a characteristically humorous response that added further mystery and excitement to the ongoing speculation surrounding the project."
+        ]
+      },
+      {
+        "h": "Future Plans and Reboot Horizon",
+        "p": [
+          "The massive crossover event is officially scheduled to land in movie theaters on December 18, 2026. This cinematic milestone will pave the way for subsequent developments across the studio's overarching slate.",
+          "Following these monumental crossover events, Marvel Studios has already scheduled a brand-new reboot centered on the mutant team for release in 2028. That future project will introduce fresh and younger performers to take over the famous roles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Marvel Studios president Kevin Feige has explained that bringing back the original X-Men cast for Avengers: Doomsday fulfills a long-standing ambition and celebrates twenty-five years of cinematic history. The upcoming film, scheduled to release on December 18, 2026, will feature returning legacy actors alongside newer additions before a separate reboot arrives in 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Kevin Feige is the Marvel president.",
+      "The first X-Men film was released in 2000.",
+      "Avengers: Doomsday releases in theaters on December 18, 2026.",
+      "Marvel Studios will release a new X-Men reboot in 2028."
+    ],
+    "entities": {
+      "people": [
+        "Kevin Feige",
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Ian McKellen",
+        "James Marsden",
+        "Alan Cumming",
+        "Rebecca Romijn",
+        "Channing Tatum",
+        "Ryan Reynolds",
+        "Sam Raimi",
+        "Rahul Majumdar"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "X-Men",
+        "Spider-Man",
+        "Deadpool Wolverine",
+        "VisionQuest"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Kevin Feige X-Men",
+      "original X-Men return",
+      "Hugh Jackman Ryan Reynolds Doomsday"
+    ],
+    "images": [
+      {
+        "url": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/x-men.jpg?resize=1200,630",
+        "caption": "Kevin Feige Explains Why the Original X-Men Are Returning for Avengers: Doomsday",
+        "source": "ComingSoon.net"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 19:42:57 +0000"
   }
 };

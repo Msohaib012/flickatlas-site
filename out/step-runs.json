@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T22:51:48Z",
-    "run_id": "43323592079",
-    "status": "success",
-    "checked": {
-     "candidates": 351,
-     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Now That We Finally Know Adults Season 3 Is Happening, I Need To See 3 Things",
-      "One Thing About Hulu’s 12 Dates Of Christmas That Made No Sense To Me, And I Can't Stop Thinking About It",
-      "Should You Read Sunrise On The Reaping Ahead Of The New Hunger Games Movie? The Director And Star Weigh In",
-      "Why I Decided To Take My Son To See Godzilla Minus Zero, Despite The R Rating",
-      "Khloé Kardashian's Outdoor Holiday Decorations Are The Kind Of Extra That Needs To Be Seen",
-      "Why John Lennon Is Responsible for Wings’ Biggest Hit",
-      "HBO's 'Big Little Lies' Is Officially Returning, but Its Biggest Mistake Remains",
-      "We Officially Ranked Every James Bond Actor",
-      "Every DCU Movie and TV Show, Ranked",
-      "5 Most-Watched Movies To Stream This Weekend (Nov 13-15)",
-      "‘Calvin and Hobbes’ Has the Perfect Christmas Message for Anyone Who Hates the Holidays",
-      "Dakota Johnson’s Date-Night Dress With MGK Leaves Little to the Imagination",
-      "The Vampire Diaries’ Nathaniel Buzolic Makes Explosive Accusations Against ‘Coward’ Co-Star",
-      "Antonio Sabàto Jr. Breaks Silence After Son With Virginia Madsen Arrested in Fatal Hit-and-Run",
-      "Robert Downey Jr. Shares Avengers: Doomsday Video That Has Fans Thinking New Trailer Is Coming",
-      "Predator, Commando 2, & More Arnold Schwarzenegger Sequels Get Update Fans Will Love",
-      "Paramount+’s Hit Supernatural TV Show Reunites 2 Fan-Favorites for Season 4",
-      "Austin Powers 4 Gets Its Best Update Yet From Mike Myers",
-      "Arnold Schwarzenegger Defends His Republican Roots in Jimmy Kimmel Showdown",
-      "Nicholas Hoult Felt Insulted By Remake of One of His Biggest TV Shows, Here’s Why"
-     ],
-     "updated": [],
-     "count": 311,
-     "detail": "323 stories, 0 duplicates removed, 28 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-12T23:50:59Z",
     "run_id": "43332204232",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "365 stories, 0 duplicates removed, 150 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-13T00:52:24Z",
-    "run_id": "43340257727",
+    "run_at": "2026-11-13T20:15:16Z",
+    "run_id": "43499742914",
     "status": "success",
     "checked": {
-     "candidates": 16,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 372,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana: Rise of a Legend crosses Rs 1,000 Crore Worldwide in Eight Days",
-      "'Scene' Crosses Rs 200 Crore Worldwide on Day 7",
-      "Song Hye Kyo and Gong Yoo Lead Netflix Series Tantara with Three-Part December Release",
-      "Avengers: Doomsday and the Marvel Comics Connection for Wanda Maximoff's Family"
+      "Ramayana: Mahesh Babu's Son Gautam Blown Away By Ranbir-Yash's Film; Reveals Which Actor Stole The Show",
+      "O.M Trailer Out: Dhanush's Operation Mole against red sandalwood mafia looks intense, Mammootty & Sai Pallavi steal show",
+      "In 2025, when Brad Pitt sold Los Feliz home to Austin Butler after burglary",
+      "Commanders QB Sam Hartman is TV's next 'Bachelor'",
+      "I Love How Patrick Stewart Made Todd Stashwick Feel At Home On The Star Trek: Picard Season 3 Set",
+      "I Heard The Invite Had Oscar Buzz, But I Was Surprised About What Drew Me Into The Movie",
+      "Alan Ritchson Took A Break From Filming Season 5 Of Reacher To Hilariously Remind Us He Can Sing",
+      "HBO’s Forgotten 12-Episode Sci-Fi Thriller Is One of Television’s Most Unsettling",
+      "Star Wars’ Beloved Classics Just Made an Unexpected Comeback",
+      "Kevin Feige Reveals Why He Brought the Original X-Men Back for Avengers: Doomsday",
+      "Maika Monroe Replaced Margaret Qualley in Victorian Psycho, but the Script Didn’t Change",
+      "Wreck-It Ralph 3 Gets Strong Tease From Disney As Fans Beg for Another Sequel",
+      "Billy Evans Explains Why He’s Not Mad You Can See Everything Makes Him Look ‘Crazy’",
+      "Best Johnny Depp Movies Ranked Ahead of Ebenezer",
+      "Netflix's New \"Prison Break Meets Chernobyl\" 6-Part Thriller Arrives Next Month With Gritty First Trailer",
+      "22 Biggest ‘Lord of the Rings’ Easter Eggs & References In ‘The Rings of Power’ Season 3",
+      "13 Years Later, Fox Is Reviving One of Its Biggest Reality TV Competitions",
+      "'GTA 6' Players Need to Do One Important Thing Before Next Week's Massive Launch",
+      "6 Greatest Military Action TV Thrillers With 5+ Seasons",
+      "Marvel Drops First Look At Punisher's Epic New White Costume Redesign"
      ],
      "updated": [],
-     "count": 8,
-     "detail": "+4 articles, +1 box-office rows, 3 rows updated"
+     "count": 332,
+     "detail": "354 stories, 0 duplicates removed, 18 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1480,27 +1457,32 @@
      "detail": "+4 articles, +1 box-office rows, 17 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-13T20:15:42Z",
+    "run_id": "43499742914",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Faces Song Restrictions in Ahmedabad and Bomb Threats Before Indore Concert",
+      "Marvel Reveals Striking All-White Costume Redesign For The Punisher",
+      "Fresh Snowfall Transforms Kashmir Higher Reaches Into Winter Wonderland",
+      "Kevin Feige Explains Why the Original X-Men Are Returning for Avengers: Doomsday"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T23:51:00Z",
-    "run_id": "43332204232",
-    "status": "success",
-    "checked": {
-     "candidates": 314,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 301, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1914,26 +1896,27 @@
      "detail": "now 311, coming 10"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-13T00:55:10Z",
-    "run_id": "43340257727",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-13T20:15:42Z",
+    "run_id": "43499742914",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 321,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 311, coming 10"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2380,27 +2363,26 @@
      "count": 7
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T22:57:23Z",
-    "run_id": "43323592079",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-13T20:20:27Z",
+    "run_id": "43499742914",
     "status": "success",
     "checked": {
-     "candidates": 658,
-     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 644 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2814,19 +2796,27 @@
      "detail": "+0 new rows, 3 updated rows, 650 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T20:20:25Z",
+    "run_id": "43499742914",
+    "status": "success",
+    "checked": {
+     "candidates": 665,
+     "detail": "644 collected staging rows from readers; 226 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 6,
+     "detail": "+0 new rows, 6 updated rows, 647 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3063,32 +3053,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-13T00:55:09Z",
-    "run_id": "43340257727",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Song Hye Kyo and Gong Yoo Lead Netflix Series Tantara with Three-Part December Release",
-      "Avengers: Doomsday and the Marvel Comics Connection for Wanda Maximoff's Family",
-      "Ramayana: Rise of a Legend crosses Rs 1,000 Crore Worldwide in Eight Days",
-      "'Scene' Crosses Rs 200 Crore Worldwide on Day 7"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3617,19 +3594,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-13T20:20:26Z",
+    "run_id": "43499742914",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Faces Song Restrictions in Ahmedabad and Bomb Threats Before Indore Concert",
+      "Marvel Reveals Striking All-White Costume Redesign For The Punisher",
+      "Fresh Snowfall Transforms Kashmir Higher Reaches Into Winter Wonderland",
+      "Kevin Feige Explains Why the Original X-Men Are Returning for Avengers: Doomsday"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3898,19 +3888,19 @@
      "count": 0
     },
     "reason": "no-new-data"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4231,30 +4221,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-12T22:52:18Z",
-    "run_id": "43323592079",
-    "status": "success",
-    "checked": {
-     "candidates": 4,
-     "detail": "news queue items drafted this run; 311 still unprocessed; today by category: movies 18/6, tv_dramas 16/4, episodes 0/2, box_office 18/6, celebrities_events 14/5, upcoming_releases 6/4, ott_streaming 11/4, trailers 3/3, awards 4/2, music_ost 4/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Matt LeBlanc breaks social media silence following the passing of former co-star Stacy Keach",
-      "Salman Khan Wishes Shraddha Kapoor's Eetha Ahead of December 2026 Clash",
-      "Avatar: Seven Havens Season 2 Sets Official Paramount+ Release Date"
-     ],
-     "updated": [],
-     "count": 3
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4755,19 +4734,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-13T20:15:42Z",
+    "run_id": "43499742914",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 332 still unprocessed; today by category: movies 19/6, tv_dramas 14/4, episodes 2/2, box_office 13/6, celebrities_events 15/5, upcoming_releases 7/4, ott_streaming 9/4, trailers 4/3, awards 2/2, music_ost 3/2, viral 4/2"
+    },
+    "changed": {
+     "added": [
+      "Diljit Dosanjh Faces Song Restrictions in Ahmedabad and Bomb Threats Before Indore Concert",
+      "Marvel Reveals Striking All-White Costume Redesign For The Punisher",
+      "Fresh Snowfall Transforms Kashmir Higher Reaches Into Winter Wonderland",
+      "Kevin Feige Explains Why the Original X-Men Are Returning for Avengers: Doomsday"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5081,24 +5072,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-13T20:17:01Z",
+    "run_id": "43499742914",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 50,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 301,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5438,24 +5431,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 2,
+     "count": 368,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5800,19 +5793,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6062,19 +6060,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6309,19 +6307,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6602,19 +6600,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6855,19 +6853,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7097,19 +7095,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7362,32 +7360,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-12T01:51:50Z",
-    "run_id": "43137254770",
-    "status": "success",
-    "checked": {
-     "candidates": 540,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 21; attempt cooldown deferred: 519"
-    },
-    "changed": {
-     "added": [
-      "Scene (1402181)",
-      "Ranabaali (1389379)",
-      "Ramayana: Rise of a Legend (656908)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 15
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7872,19 +7857,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-13T20:15:57Z",
+    "run_id": "43499742914",
+    "status": "success",
+    "checked": {
+     "candidates": 546,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 533"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8124,19 +8120,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-12T22:57:35Z",
-    "run_id": "43323592079",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8386,8 +8382,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-13T20:20:39Z",
+    "run_id": "43499742914",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-13T20:04:06Z"
+ "updated_at": "2026-11-13T20:20:39Z"
 }
