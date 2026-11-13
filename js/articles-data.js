@@ -138849,5 +138849,402 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 17:55:44 +0000"
+  },
+  "1k1m0l": {
+    "id": "1k1m0l",
+    "type": "news",
+    "headline": "Ramayana: Part 1 Reaches Significant Milestone With Massive Worldwide Earnings",
+    "dek": "An in-depth look at the box office performance, regional collections, and theater occupancy rates for Ramayana: Part 1 as it continues its theatrical run.",
+    "body": [
+      {
+        "h": "Introduction to the Box Office Journey",
+        "p": [
+          "The theatrical run of Ramayana: Part 1 continues to draw substantial attention from moviegoers and industry trackers alike. As the feature film progresses through its early weeks in cinemas, comprehensive data regarding its daily ticket sales, regional earnings, and audience turnouts provide a clear picture of its commercial performance across multiple territories.",
+          "Trade analysts and box office observers have been closely monitoring the project's financial trajectory. With figures reflecting strong initial momentum and sustained interest through its first major stretch, the title has established a prominent position in current cinematic charts."
+        ]
+      },
+      {
+        "h": "Breaking Down the Opening Days and First Week",
+        "p": [
+          "The cinematic venture opened to staggering numbers on its first day, pulling in a massive ₹62.5 cr net across all languages. This initial haul was led strongly by the Hindi version at ₹45 cr, alongside contributions from Kannada at ₹7.5 cr, Telugu at ₹6 cr, Tamil at ₹2.5 cr, and Malayalam at ₹1.5 cr.",
+          "Following a steady second day with ₹48.75 cr and a surging third day reaching ₹70.75 cr, the feature maintained robust figures through the weekdays. By the end of its first week spanning eight days, the total net collection in India climbed to an estimated ₹564.75 cr, with the Hindi version alone accounting for ₹439.5 cr."
+        ]
+      },
+      {
+        "h": "Mid-Week Surges and Subsequent Collections",
+        "p": [
+          "A notable highlight of the theatrical run occurred on the fifth day, when collections experienced a dramatic peak, soaring to ₹111.25 cr net. The Hindi version drove this jump significantly with ₹92 cr, supported by steady regional numbers from Kannada, Telugu, Tamil, and Malayalam markets.",
+          "Although collections experienced natural adjustments in the days that followed, dropping to ₹95 cr on day six and ₹70.5 cr on day seven, the film sustained a healthy pace. Day eight brought in ₹51 cr, and day nine added another ₹46 cr net, bringing the cumulative nine-day total in India to an estimated ₹610.75 cr."
+        ]
+      },
+      {
+        "h": "Analyzing Hindi Version Theater Occupancy",
+        "p": [
+          "Audience turnout for the Hindi version varied across morning, afternoon, and night shows throughout the opening stretch. The opening day kicked off with an overall occupancy of 30.17%, peaking strongly during evening and night screenings at 45-50%.",
+          "The highest theater engagement was recorded on the fifth day, achieving a remarkable overall occupancy of 67.5%, with afternoon shows surging to an impressive 80%. While occupancy fluctuated on subsequent days, evening and night slots consistently maintained stronger viewer participation compared to morning shows."
+        ]
+      },
+      {
+        "h": "Domestic and International Totals",
+        "p": [
+          "Beyond net domestic earnings, the project's financial footprint extends widely across gross and international markets. The India gross collection stands at an estimated ₹720.7 cr based on current tracking reports.",
+          "On the global front, overseas earnings have contributed significantly to the overall tally, pulling in $37.6 million, which translates to approximately ₹354.5 crore. Combined with domestic figures, the worldwide collection for Ramayana: Part 1 has crossed the monumental threshold of ₹1075.2 cr."
+        ]
+      },
+      {
+        "h": "Context and Industry Significance",
+        "p": [
+          "The multi-language release strategy has played a crucial role in the film's widespread reach. By catering simultaneously to audiences across Hindi, Kannada, Telugu, Tamil, and Malayalam markets, the project successfully mobilized diverse regional viewer bases from its very first day.",
+          "Industry observers continue to evaluate these numbers against contemporary benchmarks. While figures remain subject to final producer verifications and ongoing market estimates, the current statistics firmly establish the release as a major commercial event of the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Part 1 has accumulated an estimated India net collection of ₹610.75 cr and a worldwide total of ₹1075.2 cr over its initial theatrical run. Industry reports highlight strong regional contributions and fluctuating theater occupancy rates across multiple language versions."
+        ]
+      }
+    ],
+    "facts": [
+      "The film earned ₹62.5 cr net on Day 1 across all languages.",
+      "Day 1 Hindi collection was ₹45 cr, Kannada was ₹7.5 cr, Telugu was ₹6 cr, Tamil was ₹2.5 cr, and Malayalam was ₹1.5 cr.",
+      "Day 2 collection was ₹48.75 cr.",
+      "Day 3 collection was ₹70.75 cr.",
+      "Day 4 collection was ₹55 cr.",
+      "Day 5 collection reached a peak of ₹111.25 cr.",
+      "Day 6 collection was ₹95 cr.",
+      "Day 7 collection was ₹70.5 cr.",
+      "Day 8 collection was ₹51 cr.",
+      "Week 1 (8 Days) total collection reached ₹564.75 cr.",
+      "Day 9 collection was ₹46 cr.",
+      "Total India Net after 9 days is ₹610.75 cr.",
+      "India Gross collection stands at ₹720.7 cr.",
+      "Overseas collection reached $37.6 million or ₹354.5 crore.",
+      "Worldwide collection reached ₹1075.2 cr."
+    ],
+    "entities": {
+      "titles": [
+        "Ramayana: Part 1"
+      ]
+    },
+    "keywords": [
+      "Ramayana Part 1 box office",
+      "Ramayana Day 9 collection",
+      "Ramayana box office collection",
+      "Ramayana Part 1 earnings"
+    ],
+    "images": [],
+    "published": "2026-11-14T00:23:25.923+05:30"
+  },
+  "qlr463": {
+    "id": "qlr463",
+    "type": "news",
+    "headline": "‘War’ Season 1 Episode 7 Recap: Unmasking Moles and Shifting Legal Battles",
+    "dek": "As the courtroom drama intensifies in Episode 7 of HBO's War, Johnny Warren's mole operations are exposed, triggering personal fallout and massive new financial strategies for Carla Duval.",
+    "body": [
+      {
+        "h": "The Unveiling of Johnny Warren",
+        "p": [
+          "Episode 7 of HBO's War opens directly following the tense conclusion of the previous chapter, focusing on Serena Byrne as she faces Johnny Warren. Johnny's transparently arrogant smirk immediately confirms his identity as the mole inside the firm, setting a high-stakes tone for the legal proceedings that follow.",
+          "As everyone gathers inside the courtroom, the judge designates the upcoming arguments as 'the juicy bit.' This pivotal session holds the weight of deciding the immediate trajectory of Carla and Morgan's union alongside the professional standings of Serena and Nick."
+        ]
+      },
+      {
+        "h": "Desperate Measures and Intercepted Documents",
+        "p": [
+          "Realizing his cover is blown outside the courtroom, Johnny hastily transmits the update to St. John Smallwood. Smallwood remains completely composed, reiterating the Cathcarts offer of honeypot proof in exchange for employment.",
+          "Prompted by this directive, Johnny attempts an end-around maneuver back at the firm by trying to sneak out a document tying Taylor Byrne to Flora Monroe. Molly and other alert staffers spot the suspicious activity, intercept the papers, and move quickly to thwart Johnny's next disruptive play."
+        ]
+      },
+      {
+        "h": "Cross-Examinations and Courtroom Stumbles",
+        "p": [
+          "Inside the hearing room, Budgie and Prudence Winfield aggressively target the founding narrative of Zephyr. Morgan's legal team attempts to highlight Carla's absence during the company's rapid rise to profitability, but Budgie pushes back effectively.",
+          "Budgie brings up the Normandy cottage, Morgan's public declarations of support while Carla faced severe social media backlash, and a specific poem. When Morgan fails to correctly name the poet or recite the key lines suggested by Carla, he ends the first day of the hearing in an embarrassing position."
+        ]
+      },
+      {
+        "h": "Personal Fallout and Confronting the Mole",
+        "p": [
+          "Recognizing the external threat to their case, Serena directs Nick to hunt down their elusive mole. Nick tracks Johnny to Flora and Mumsy's flat, where Flora quickly dismisses Johnny's deceptive overtures and demands to know what game he is playing.",
+          "Concurrently, Bella learns the full extent of Johnny's betrayal from Nick. Deeply angered by his self-serving actions and past dishonesty that previously derailed their life in New York City, Bella cuts ties and demands that Johnny clear out before she returns."
+        ]
+      },
+      {
+        "h": "Corporate Chess and High-Stakes Financial Offers",
+        "p": [
+          "Serena and Nick take their hard evidence directly to Cathcarts, confronting Smallwood and Beatrice with the confiscated burner phone. Knowing that fully exposing Johnny would drag Taylor Byrne's secret dealings with Flora Monroe into the light, Serena shifts the negotiation to a monetary figure to keep both firms protected.",
+          "Meanwhile, Carla travels in a chauffeured vehicle to meet Gillian Pope. The Zephyr CFO informs her about Michael Ancker's massive buyout offer, Morgan's stubborn rejection of it, and a potential strategy shift that could give Carla a path to majority ownership and force Morgan out."
+        ]
+      },
+      {
+        "h": "Shadows and Non-Player Characters",
+        "p": [
+          "In a moment of bitter irony, Carla attempts to call Johnny for a personal connection just as his girlfriend slams the door on him for good. Later, a brief face-to-face encounter between Carla and Morgan outside the courthouse in the rain highlights how sidelined they have become.",
+          "Both principals realize they have effectively been relegated to non-player characters in their own bitter divorce proceedings, entirely upstaged by the high-powered attorneys they hired to fight their battles."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Episode 7 of HBO's War exposes Johnny Warren as the internal mole, sending shockwaves through both the courtroom hearings and his personal relationships. While lawyers from rival firms negotiate behind closed doors to protect their reputations, Carla Duval receives a game-changing proposition that could shift her battle against Morgan into a quest for a billionaire majority stake."
+        ]
+      }
+    ],
+    "facts": [
+      "Johnny Warren is revealed as the mole.",
+      "St. John Smallwood represents Cathcarts.",
+      "Gillian Pope is the Zephyr CFO.",
+      "Angel Coulby plays Gillian Pope."
+    ],
+    "entities": {
+      "people": [
+        "Serena Byrne",
+        "Johnny Warren",
+        "Taylor Byrne",
+        "St. John Smallwood",
+        "Carla",
+        "Morgan",
+        "Nick",
+        "Molly",
+        "Saeed",
+        "Budgie",
+        "Prudence Winfield",
+        "Zephyr",
+        "Flora Monroe",
+        "Bella",
+        "Beatrice",
+        "Gillian Pope",
+        "Angel Coulby",
+        "Michael Ancker"
+      ],
+      "titles": [
+        "War"
+      ]
+    },
+    "keywords": [
+      "War HBO series",
+      "War Season 1 Episode 7",
+      "Johnny Warren War",
+      "Carla Duval War"
+    ],
+    "images": [
+      {
+        "url": "https://decider.com/wp-content/uploads/2026/11/war-107-2.jpg?quality=75&amp;strip=all&amp;w=680&amp;h=356&amp;crop=1",
+        "caption": "‘War’ Season 1 Episode 7 Recap: Unmasking Moles and Shifting Legal Battles",
+        "source": "Decider"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 14:00:00 -0500"
+  },
+  "hwne9b": {
+    "id": "hwne9b",
+    "type": "news",
+    "headline": "BTS Member V Surprises Fans By Donning Military Uniform Again For Reserve Training",
+    "dek": "Kim Taehyung, popularly known as V from BTS, recently shocked his fanbase by posting pictures in his military uniform a full year after his official discharge from active service.",
+    "body": [
+      {
+        "h": "The Surprising Social Media Post",
+        "p": [
+          "Followers of the globally renowned music group BTS experienced a major surprise when member V uploaded images to his social media profiles showcasing himself back in military attire. The post featured the pop star wearing the uniform adorned with Special Duty Team badges.",
+          "The sudden appearance of the singer in full military gear quickly drew widespread attention online. Fans took to digital platforms to share their thoughts and express their astonishment at seeing the artist dressed in uniform once more."
+        ]
+      },
+      {
+        "h": "Understanding South Korea's Reserve Forces",
+        "p": [
+          "Despite wearing the uniform, the artist is not re-enlisting for active military duty. The appearance is a result of South Korea's mandatory Reserve Force Training Program, commonly referred to as Yebigun.",
+          "Under guidelines from the Ministry of National Defense, individuals who finish active military service remain part of the reserve structure for a total duration of eight years. This ongoing obligation requires periodic participation based on specific service classifications."
+        ]
+      },
+      {
+        "h": "Breakdown of the Eight-Year Commitment",
+        "p": [
+          "The mandatory eight-year reserve period is divided into three distinct phases for eligible discharged servicemen. The initial four years involve mobilization reserve training.",
+          "Following the first phase, participants spend the next two years engaged in basic reserve training. The final two years conclude the obligation in reserve status without requiring further active training sessions."
+        ]
+      },
+      {
+        "h": "Background on BTS Military Enlistments",
+        "p": [
+          "The group officially announced a temporary pause in group activities back in 2022 to fulfill mandatory military service requirements. Jin became the first member to enlist in December of that year.",
+          "Subsequent enlistments followed with RM, V, Jimin, Jung Kook, and Suga joining the armed services through the following year. Jin and J-Hope were initially discharged to release solo projects, while the remaining members completed their service in mid-2025."
+        ]
+      },
+      {
+        "h": "Fan Reactions and Online Discourse",
+        "p": [
+          "The unexpected social media update generated considerable discussion among supporters across the internet. Many users highlighted the dedication required to balance musical careers with national service obligations.",
+          "Social media platforms buzzed with commentary regarding the singer's status as both a renowned global entertainer and an active participant in the country's reserve forces."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "BTS member V surprised fans by sharing photos of himself wearing a military uniform with Special Duty Team badges one year after his discharge. He is fulfilling South Korea's mandatory Reserve Force Training Program, which requires eligible individuals to remain in the military reserve structure for eight years following active service."
+        ]
+      }
+    ],
+    "facts": [
+      "BTS member V was seen wearing his military uniform a year after discharge in November 2026.",
+      "Kim Taehyung is also known as V.",
+      "BTS announced a pause to group activities in 2022.",
+      "Jin was the first member to be enlisted in December 2022.",
+      "The remaining members were discharged mid-year in 2025.",
+      "Discharged servicemen remain part of the military service reserve structure for a duration of eight years."
+    ],
+    "entities": {
+      "people": [
+        "V",
+        "Kim Taehyung",
+        "Jin",
+        "RM",
+        "Jimin",
+        "Jung Kook",
+        "Suga",
+        "J-Hope"
+      ],
+      "titles": [
+        "BTS"
+      ]
+    },
+    "keywords": [
+      "BTS member V military uniform",
+      "Kim Taehyung reserve forces training",
+      "BTS V military discharge",
+      "South Korea Yebigun program"
+    ],
+    "images": [
+      {
+        "url": "https://filmfare.wwmindia.com/content/2026/nov/vvvsooo1794559698.jpg",
+        "caption": "BTS Member V Surprises Fans By Donning Military Uniform Again For Reserve Training",
+        "source": "Filmfare"
+      }
+    ],
+    "published": "2026-11-13T14:47:10+05:30"
+  },
+  "16go9hk": {
+    "id": "16go9hk",
+    "type": "news",
+    "headline": "‘Cupertino’ Season 1, Episode 7 Explores Legal Battles Over AI Music Slop",
+    "dek": "In the latest episode of the courtroom drama, Michael Price takes on a challenging lawsuit involving an aging rapper and artificial intelligence knockoffs.",
+    "body": [
+      {
+        "h": "Tackling the Problem of AI Music Slop",
+        "p": [
+          "The latest installment of the courtroom drama series dives straight into the controversial world of artificial intelligence music generators. The story centers on an aging rap artist who discovers that his streaming numbers have plummeted. This sudden drop coincides with major streaming services hosting synthetic tracks that sound nearly identical to his classic material.",
+          "The musician seeks help from his old friend Michael Price at PSA after another lawyer drops the case. Dealing with this client proves complicated, as he frequently broadcasts his life online and makes inflammatory statements comparing entertainment executives to slaveholders."
+        ]
+      },
+      {
+        "h": "Facing Off Against Deep-Pocketed Opposition",
+        "p": [
+          "Taking on this legal battle means going up against formidable opponents with deep financial resources capable of draining the firm's coffers through constant delays and motions. Furthermore, the case pits Michael against his own estranged father, Bayard Diamond, who represents the opposing side.",
+          "The courtroom scenes provide plenty of intense theater as the father and son trade petty objections and needle one another, exasperating the presiding judge. Beyond the family friction, the trial forces observers to deeply examine questions about musical authorship and copyright."
+        ]
+      },
+      {
+        "h": "Examining Authenticity and Musical Origins",
+        "p": [
+          "The central debate of the trial questions what truly constitutes music and who actually does the labor of creating it. On one side stands the veteran rapper, who composes his tracks starting with a physical guitar he plays himself, despite his declining popularity and past personal controversies.",
+          "On the opposing side is the creator of the sound-alike track, who cannot play basic chords on an instrument yet generates audio using prompts. The legal arguments force the court to weigh traditional song creation against automated technology."
+        ]
+      },
+      {
+        "h": "Exposing Algorithmic Manipulation",
+        "p": [
+          "The breakthrough in the case comes when the legal team uncovers evidence that the streaming platform manipulated its internal algorithm. The system actively deprioritized legacy artists in favor of cheaper, algorithmically generated knockoffs that yielded higher profit margins.",
+          "The deception is fully exposed when the judge tests his own device and is automatically directed toward low-quality imitations. This discovery leads to a decisive, though somewhat abrupt, resolution in favor of the struggling legacy musician."
+        ]
+      },
+      {
+        "h": "Uncovering a Pig-Butchering Scam Subplot",
+        "p": [
+          "Running parallel to the courtroom drama is a subplot involving an online fraud operation based in Krakow. Olivia discovers that her older brother Jacob is falling victim to a sophisticated scam after attempting to help his online romantic interest through customs with banking details.",
+          "The situation threatens the family business, leading Olivia to team up with an associate to track down the scammers. They deploy a malware payload to infect the fraudsters' network, though the visual depiction of the hacking sequence feels somewhat overly theatrical."
+        ]
+      },
+      {
+        "h": "Personal Revelations and Backstories",
+        "p": [
+          "Viewers also learn deeper details regarding Michael's late sister Anna, who tragically died after jumping from a balcony due to overwhelming pressure from their demanding father. Her past admiration for the rapper serves as a personal motivation for Michael to take on the lawsuit.",
+          "Meanwhile, other members of the firm navigate their own professional and personal hurdles. One colleague steps into the courtroom for the first time while managing tense exchanges with opposing counsel, and personal relationships continue to develop outside of work hours."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The latest episode of the legal drama focuses on a lawsuit involving artificial intelligence music knockoffs and an aging rapper represented by Michael Price. Alongside this courtroom battle against his father and streaming platforms, a subplot follows a complex financial scam and personal revelations about the characters."
+        ]
+      }
+    ],
+    "facts": [
+      "Cliff Method Man Smith plays the rapper Yungwood",
+      "Amir Malaklou plays Purvis Beer",
+      "Danny Burstein plays the judge",
+      "The episode is Season 1 Episode 7 of Cupertino"
+    ],
+    "entities": {
+      "people": [
+        "Cliff Method Man Smith",
+        "Michael Price",
+        "Ry Vance",
+        "Bayard Diamond",
+        "Danny Burstein",
+        "Purvis Beer",
+        "Amir Malaklou",
+        "Jimmy Buffett",
+        "Jacob",
+        "Olivia",
+        "Josh Frank",
+        "Vik",
+        "Anna",
+        "Natalia",
+        "Christy",
+        "Bilge Ebiri",
+        "Jordan Firstman",
+        "Michael Ealy",
+        "Thea von Engelbrechten",
+        "Chris Brown",
+        "Usher",
+        "Trisha Paytas",
+        "Jessica Chastain",
+        "Sophie Okonedo",
+        "Matthew Barney",
+        "Pusha T"
+      ],
+      "titles": [
+        "Cupertino",
+        "Yungwood",
+        "Bass Booty",
+        "Booty Bass",
+        "Harper",
+        "A.J. & Buddy",
+        "Cinematrix",
+        "Dancing With the Stars",
+        "Ebenezer",
+        "The Bachelor",
+        "The Sound of Music",
+        "Batman: The Animated Series",
+        "How to Rob a Bank",
+        "Hotel Rwanda",
+        "Southern Charm",
+        "War"
+      ]
+    },
+    "keywords": [
+      "Cupertino Yungwood",
+      "Method Man Cupertino",
+      "Cupertino Episode 7 recap",
+      "Cupertino CBS AI music"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/158/a23/42ee592486fe41288cb936d761e34c853a-cupertino-ep6.1x.rsocial.w1200.jpg",
+        "caption": "‘Cupertino’ Season 1, Episode 7 Explores Legal Battles Over AI Music Slop",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-13T04:00:22.922Z"
   }
 };

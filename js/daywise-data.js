@@ -4413,10 +4413,15 @@ window.FA_DAYWISE = {
     {
       "date": "2026-11-12",
       "day": "Day 8",
-      "collection": 2113048,
+      "collection": 5388273,
       "overseas": 2641310,
       "shows": 24042,
       "occupancy": 33.9
+    },
+    {
+      "date": "2026-11-13",
+      "day": "Day 9",
+      "collection": 4860011
     }
   ],
   "1607833": [
