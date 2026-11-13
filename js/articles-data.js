@@ -101191,11 +101191,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Russell Brand sentence",
-      "Russell Brand rape case",
-      "Russell Brand guilty verdict",
-      "Laura Gallacher Russell Brand",
-      "Southwark Crown Court trial"
+      "Russell Brand sentenced ten and a half years",
+      "Russell Brand guilty verdict London court",
+      "Russell Brand rape and sexual assault sentence",
+      "Russell Brand November 5 2026 verdict"
     ],
     "images": [
       {
@@ -101419,10 +101418,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Jailer 2",
-      "Ranabaali",
-      "Daayra",
-      "The Lord of the Rings: Rings of Power"
+      "New OTT Releases November 9 To 13 2026",
+      "Rings Of Power Jailer 2 Ranabaali OTT streaming",
+      "Diwali week OTT releases Amazon Prime Netflix",
+      "Blind Game Rs 5 crore missing amount"
     ],
     "images": [
       {
@@ -101606,10 +101605,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office collection",
-      "Ranbir Kapoor Ramayana day 5",
-      "Ramayana first Monday collection",
-      "Ramayana vs Dhurandhar 2"
+      "Ramayana Box Office Collection Day 5 Ranbir Kapoor",
+      "Ramayana Nitesh Tiwari first Monday collection",
+      "Ranbir Kapoor Ramayana Rs 107.5cr",
+      "Ramayana highest first Monday Indian cinema"
     ],
     "images": [
       {
@@ -101705,10 +101704,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana film",
-      "Kumar Vishwas Ramayana",
-      "Ramayana studio BTS",
-      "AR Rahman Ramayana lyrics"
+      "Kumar Vishwas Ramayana AR Rahman Shreya Ghoshal",
+      "Kumar Vishwas Ramayana studio BTS",
+      "Nitesh Tiwari Ramayana lyricist Kumar Vishwas",
+      "Ramayana AR Rahman music behind the scenes"
     ],
     "images": [
       {
@@ -101795,10 +101794,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana: The Rise of a Legend",
-      "Ranbir Kapoor Ramayana",
-      "Mahesh Bhatt Ramayana",
-      "Ramayana box office collection"
+      "Mahesh Bhatt Ranbir Kapoor Ramayana The Rise of a Legend",
+      "Ramayana The Rise of a Legend Mahesh Bhatt reaction",
+      "Ranbir Kapoor Lord Rama Ramayana film",
+      "Soni Razdan Mahesh Bhatt Instagram story Ramayana"
     ],
     "images": [
       {
@@ -101893,10 +101892,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Sarah Michelle Gellar son Rocky Porsche",
-      "Freddie Prinze Jr son racing",
-      "Rocky Prinze driving Porsche",
-      "Sarah Michelle Gellar children Charlotte Rocky"
+      "Sarah Michelle Gellar Freddie Prinze Jr son Rocky",
+      "Rocky Prinze Porsche driving milestone",
+      "Rocky Prinze Instagram gray Porsche",
+      "Sarah Michelle Gellar son racing ambitions"
     ],
     "images": [
       {
@@ -102078,10 +102077,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana Rise of a Legend box office",
-      "Ramayana U_K Ireland box office",
-      "Godzilla Minus Zero box office",
-      "Ramayana first Indian film top UK box office"
+      "Ramayana Rise of a Legend UK Ireland box office",
+      "Ramayana first Indian film top UK box office",
+      "Ramayana Rise of a Legend debut collection",
+      "Sony mythological adventure Ramayana Box Office"
     ],
     "images": [
       {
@@ -102184,10 +102183,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Far Side",
-      "Gary Larson",
-      "The Far Side cow comics",
-      "best Far Side comic strips"
+      "Gary Larson The Far Side cow comics",
+      "The Far Side dark humor 1995",
+      "The Far Side cow tourist comic 1988",
+      "Gary Larson comic series The Far Side"
     ],
     "images": [
       {
@@ -102297,10 +102296,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Shaji Kumar cinematographer",
-      "Shaji Kumar Malayalam cinema",
-      "Shaji Kumar Dileep film",
-      "Shaji Kumar Pulimurugan"
+      "Shaji Kumar cinematographer passes away",
+      "Malayalam cinematographer Shaji Kumar death",
+      "Pulimurugan cinematographer Shaji Kumar",
+      "Shaji Kumar Alappuzha film shooting"
     ],
     "images": [
       {
@@ -102378,10 +102377,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Ramayana box office",
-      "Ramayana first Monday collection",
-      "Ranbir Kapoor Yash Ramayana",
-      "Pawan Kalyan Anna Lezhneva divorce"
+      "Ramayana Ranbir Kapoor Yash first Monday box office",
+      "Ramayana box office record 107.5 crore",
+      "Ramayana fifth day collection November 10 2026",
+      "Ranbir Kapoor Ramayana total collection"
     ],
     "images": [
       {
@@ -102498,10 +102497,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "The Voice Fall 2026",
-      "Kyle Davis The Voice",
-      "The Voice Top 13",
-      "The Voice season 30"
+      "The Voice Season 30 Top 13 singers",
+      "The Voice America saves oldest contestant",
+      "The Voice season 30 live rounds November 9",
+      "The Voice Cut Week eliminations"
     ],
     "images": [
       {
@@ -102595,10 +102594,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Nick Jonas Radhimaa",
-      "Sai Abhyankkar Tamil hit",
-      "Nick Jonas Diwali dance",
-      "Radhimaa song views"
+      "Nick Jonas dances to Radhimaa Diwali",
+      "Sai Abhyankkar Tamil hit Radhimaa",
+      "Nick Jonas Jonas Brothers Radhimaa Instagram",
+      "Sai Abhyankkar Radhimaa music"
     ],
     "images": [
       {
@@ -102692,10 +102691,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Twilight Midnight Sun Netflix",
-      "Twilight Midnight Sun animated series",
-      "Stephenie Meyer Midnight Sun",
-      "Sinead Daly Twilight"
+      "Twilight Midnight Sun animated series Netflix",
+      "Stephenie Meyer Twilight Midnight Sun adaptation",
+      "Twilight Midnight Sun two-season order",
+      "Netflix Twilight Midnight Sun adult animated series"
     ],
     "images": [],
     "published": "Tue, 10 Nov 2026 02:44:09 +0000"
@@ -109121,11 +109120,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Pawan Kalyan",
-      "Anna Konidela",
-      "Pawan Kalyan divorce",
-      "Anna Lezhneva",
-      "Teen Maar"
+      "Pawan Kalyan Anna Konidela separation",
+      "Pawan Kalyan Anna Lezhneva 13 years marriage",
+      "Andhra Pradesh Deputy Chief Minister separation",
+      "Pawan Kalyan separation announcement joint statement"
     ],
     "images": [
       {
@@ -109220,10 +109218,10 @@ window.FA_ARTICLES = {
       ]
     },
     "keywords": [
-      "Below Deck Knot So Innocent",
-      "Below Deck Season 13 Episode 5",
-      "Azul V crew drama",
-      "Matt and Kaylee Below Deck"
+      "Below Deck Season 13 Episode 5 Knot So Innocent",
+      "Azul V crew friction and romance",
+      "Matt IQ top seven percent Below Deck",
+      "Below Deck reality series workplace tension"
     ],
     "images": [
       {
@@ -131681,5 +131679,393 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 01:05:32 +0000"
+  },
+  "dqhaoz": {
+    "id": "dqhaoz",
+    "type": "news",
+    "headline": "Johnny Depp Returns to the Big Screen in Weekend Box Office Predictions",
+    "dek": "Trade trackers forecast a strong debut for Ebenezer alongside several new releases and returning holdovers for the weekend of November 13-15, 2026.",
+    "body": [
+      {
+        "h": "Introduction to the Weekend Predictions",
+        "p": [
+          "The weekend box office tracking for November 13 through November 15 centers entirely around a single compelling inquiry: can actor Johnny Depp successfully open a major motion picture once again? Industry projections point to Paramount's holiday feature taking the top spot, but a slate featuring multiple new pictures and persistent holdovers creates a surprisingly busy competitive frame.",
+          "Because these figures rely on trade tracking and public forecasts rather than official studio tallies, the final box office results remain subject to change until official tallies are released on Monday. Observers are watching closely to see how the market reacts to the new titles entering multiplexes nationwide."
+        ]
+      },
+      {
+        "h": "Ebenezer Leads New Releases",
+        "p": [
+          "Paramount's Ebenezer: A Christmas Carol features Johnny Depp in the role of Scrooge and is rolling out across more than 3,500 theaters. Professional trade trackers estimate an opening weekend haul between $20 million and $25 million, with some optimistic forecasts pushing predictions as high as $27 million.",
+          "A victory at the box office would mark Depp's first film to open at No. 1 since his appearance in 2018's Fantastic Beasts: The Crimes of Grindelwald. Industry analysts view this release as a crucial test of his post-2022 drawing power."
+        ]
+      },
+      {
+        "h": "How to Rob a Bank and Ghost Soldier",
+        "p": [
+          "Director David Leitch brings his newest heist feature, How to Rob a Bank, to approximately 2,700 theater locations this weekend. Public forecasts for this title are sparse, which often suggests the studio anticipates a modest opening, though Leitch's background in high-octane action gives the project room to outperform expectations if critical reception proves strong.",
+          "Meanwhile, the William Eubank-directed Ghost Soldier launched early with a Wednesday debut on November 11 across roughly 2,000 screens. Opting for a mid-week rollout often indicates a strategy to capture eager audiences before heavier weekend competition arrives rather than an expectation of capturing the overall box office crown."
+        ]
+      },
+      {
+        "h": "Top Holdovers to Watch",
+        "p": [
+          "Returning titles from previous weeks continue to draw audiences, led by Godzilla Minus Zero, which is projected to pull in between $12 million and $17 million during its second weekend in theaters. This strong hold should keep the monster feature comfortably positioned inside the top three spots despite the influx of new competition.",
+          "Other notable holdovers include The Cat in the Hat during its second weekend following a solid debut, and Drummer Boy maintaining impressive momentum. Additionally, the documentary You Can See Everything continues to pull in modest figures deep into its theatrical run, alongside Clayface rounding out the lower tier of the top five as its run gradually winds down."
+        ]
+      },
+      {
+        "h": "Significance of the Comeback Narrative",
+        "p": [
+          "The larger cultural conversation surrounding the weekend centers on whether Ebenezer can secure a clean first-place finish near the upper limit of its projected earnings. A strong performance would serve as a clear signal of a theatrical comeback for its lead actor, whereas a weaker finish or unexpected surges from holdovers like Godzilla Minus Zero could complicate that narrative.",
+          "Industry professionals and fans alike await the verified Monday figures to understand the true financial trajectory of these holiday releases. Until then, the forecasts provide a glimpse into audience appetites as the seasonal moviegoing period begins to heat up."
+        ]
+      },
+      {
+        "h": "Frequently Asked Questions",
+        "p": [
+          "Trade trackers project that Ebenezer will capture the No. 1 spot at the box office with an estimated opening between $20 million and $25 million. However, these are strictly predictions based on early tracking data rather than confirmed final results.",
+          "Alongside the Johnny Depp vehicle, How to Rob a Bank opens wide under the direction of David Leitch, while Ghost Soldier established an early presence by debuting two days ahead of schedule on Wednesday, November 11."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Industry trade trackers predict that Johnny Depp's Ebenezer will open at No. 1 at the box office with an estimated $20 million to $25 million. The weekend features additional wide releases including How to Rob a Bank and the early-debuting Ghost Soldier, alongside persistent holdovers like Godzilla Minus Zero."
+        ]
+      }
+    ],
+    "facts": [
+      "Ebenezer is projected to open at No. 1 with $20-25 million.",
+      "Paramount's Ebenezer: A Christmas Carol stars Johnny Depp as Scrooge.",
+      "Ebenezer opens in more than 3,500 theaters.",
+      "Johnny Depp's last No. 1 opening film was 2018's Fantastic Beasts: The Crimes of Grindelwald.",
+      "How to Rob a Bank is directed by David Leitch and opens in roughly 2,700 theaters.",
+      "Ghost Soldier is directed by William Eubank and opened Wednesday, November 11 in around 2,000 theaters.",
+      "Godzilla Minus Zero is projected to make $12-17 million in its second weekend.",
+      "The Cat in the Hat previously had a $20.5 million debut.",
+      "Drummer Boy had a $9.3 million opening."
+    ],
+    "entities": {
+      "people": [
+        "Johnny Depp",
+        "David Leitch",
+        "William Eubank",
+        "Faiza Farheen"
+      ],
+      "titles": [
+        "Ebenezer",
+        "Ebenezer: A Christmas Carol",
+        "Fantastic Beasts: The Crimes of Grindelwald",
+        "Bullet Train",
+        "Nobody",
+        "Ghost Soldier",
+        "Godzilla Minus Zero",
+        "The Cat in the Hat",
+        "Drummer Boy",
+        "You Can See Everything",
+        "Clayface"
+      ]
+    },
+    "keywords": [
+      "Johnny Depp Ebenezer",
+      "Ebenezer box office predictions",
+      "How to Rob a Bank movie",
+      "Ghost Soldier William Eubank"
+    ],
+    "images": [
+      {
+        "url": "https://showpulp.com/wp-content/uploads/2026/07/boxoffice-1024x473.jpg",
+        "caption": "Johnny Depp Returns to the Big Screen in Weekend Box Office Predictions",
+        "source": "ShowPulp"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 03:40:45 +0000"
+  },
+  "10iuxzv": {
+    "id": "10iuxzv",
+    "type": "news",
+    "headline": "Actor Kajal Aggarwal Reflects on Narrow Escape During Fatal Crane Collapse on Indian 2 Set",
+    "dek": "Kajal Aggarwal shares harrowing details from the 2020 tragedy on the sets of Kamal Haasan's Indian 2 in Chennai, crediting a mysterious intervention for saving her life.",
+    "body": [
+      {
+        "h": "The Terrifying Incident of February 2020",
+        "p": [
+          "In February 2020, a catastrophic accident struck the production of the Tamil film Indian 2 at EVP Film City located in Nazrathpet near Chennai. A heavy-duty, 100-foot crane deployed to arrange lighting gear suddenly gave way and collapsed directly onto a canopy.",
+          "The devastating mishap resulted in the tragic deaths of three crew members, including technicians and an assistant director. Additionally, nine other individuals sustained injuries during the unexpected calamity on set."
+        ]
+      },
+      {
+        "h": "Kajal Aggarwal Remembers the Chaos",
+        "p": [
+          "Actor Kajal Aggarwal recently reflected upon the terrifying night during an interview with Humans of Bombay. She recounted that the cast and crew were actively filming a large-scale action sequence during a night shoot when panic suddenly erupted.",
+          "While dressed in elaborate prosthetic makeup designed to portray an 80-year-old woman, Kajal joined the scrambling crowd fleeing the area. She admitted she initially had no clear understanding of the unfolding danger until she bumped into a console table."
+        ]
+      },
+      {
+        "h": "A Mysterious Hand Saved Her Life",
+        "p": [
+          "Confused by the sudden rush, Kajal decided to pause and look backward to assess the situation. At that precise moment, she witnessed the massive 100-foot structure plunging directly toward her location.",
+          "Paralyzed by fear and unable to process the danger, she recalled feeling an unseen force yank her away from the tent just as the crane crashed down right beside her. She later checked with her personal staff, but none of them had been close enough to pull her to safety."
+        ]
+      },
+      {
+        "h": "Aftermath and Relief Support",
+        "p": [
+          "The shocking near-fatal experience left the actor deeply shaken, and she noted that her family was similarly traumatized by the close brush with disaster. The incident itself drew widespread media attention across the country.",
+          "Following the tragedy, lead actor Kamal Haasan and the film's production banner stepped forward to provide financial relief. They announced compensation of ₹1 crore for each of the families who lost a loved one in the accident."
+        ]
+      },
+      {
+        "h": "Commercial and Critical Reception of Indian 2",
+        "p": [
+          "When the movie eventually completed production and hit theaters, it faced considerable criticism from reviewers. Many critics found the sequel inferior to the original film, pointing out issues with its extended runtime and a lack of emotional depth in the screenplay.",
+          "Despite mixed critical feedback and commercial underperformance relative to massive expectations, the movie managed a worldwide gross of ₹150 crore. By the conclusion of its theatrical run, it secured its place as the fifth-highest-grossing Tamil film of 2024."
+        ]
+      },
+      {
+        "h": "Cast Performances and Current Projects",
+        "p": [
+          "While the overall narrative received unfavorable remarks, certain aspects of the feature drew praise. Viewers and critics lauded the onscreen performances delivered by Kamal Haasan, Siddharth, and SJ Suryah.",
+          "Beyond this project, Kajal Aggarwal recently took on the role of Mandodari in Ramayana. Directed by Nitesh Tiwari, that epic features an ensemble cast including Ranbir Kapoor, Yash, Sai Pallavi, and Ravie Dubey, and grossed over ₹1,000 crore globally within eight days of release."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Actor Kajal Aggarwal opened up about surviving the 2020 crane collapse on the set of Indian 2 in Chennai, which claimed three lives and injured nine others. She credited an unseen intervention for pulling her away just before the 100-foot structure crashed beside her."
+        ]
+      }
+    ],
+    "facts": [
+      "The crane accident occurred in February 2020 at EVP Film City in Nazrathpet, near Chennai.",
+      "Three crew members were killed and nine others were injured in the incident.",
+      "Kamal Haasan and the production house announced financial assistance of ₹1 crore each for the families of the deceased crew members.",
+      "Indian 2 grossed ₹150 crore worldwide and became the fifth-highest-grossing Tamil film of 2024.",
+      "Kajal Aggarwal stars as Mandodari in Ramayana, directed by Nitesh Tiwari.",
+      "Ramayana crossed ₹1,000 crore worldwide in eight days."
+    ],
+    "entities": {
+      "people": [
+        "Kajal Aggarwal",
+        "Kamal Haasan",
+        "Siddharth",
+        "SJ Suryah",
+        "Nitesh Tiwari",
+        "Yash",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Indian 2",
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Kajal Aggarwal Indian 2",
+      "Indian 2 crane accident",
+      "Kamal Haasan Indian 2",
+      "Kajal Aggarwal crane crash"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/5dc98fb8-2ddc-410d-a452-85a3cfe1b632_1794538670268_P4OT_1794538688680_ZQec_008a53fe-3e4b-41e7-853d-e0c572dc47de_SH6h.jpg",
+        "caption": "Actor Kajal Aggarwal Reflects on Narrow Escape During Fatal Crane Collapse on Indian 2 Set",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 08:45:43 +0530"
+  },
+  "13xm3qx": {
+    "id": "13xm3qx",
+    "type": "news",
+    "headline": "Netflix Set to Release Documentary Examining Russell Brand's Rise and Fall",
+    "dek": "The streaming platform brings Olivia Isaacs' documentary detailing the investigation and legal trial of Russell Brand to audiences.",
+    "body": [
+      {
+        "h": "Netflix Announces New Documentary Release",
+        "p": [
+          "Streaming giant Netflix has scheduled the release of a new feature titled Russell Brand: Open Secret. The project is set to become available to subscribers on November 13.",
+          "Helmed by director Olivia Isaacs, the documentary focuses on tracing the trajectory of the comedian and actor's career, documenting his rapid rise to fame and subsequent dramatic decline following severe accusations."
+        ]
+      },
+      {
+        "h": "Inside the Investigative Framework",
+        "p": [
+          "Promotional materials for the film highlight that the documentary incorporates archival footage alongside exclusive commentary. These elements provide a look into the life of the subject and detail the investigative work conducted by U.K. media organizations.",
+          "Specifically, the film spotlights reporting efforts carried out by the Times and the Sunday Times, highlighting the contributions of journalists Rosamund Urwin and Charlotte Wace in uncovering the story."
+        ]
+      },
+      {
+        "h": "Teaser Insights and Criminal Charges",
+        "p": [
+          "A promotional teaser for the project characterizes the subject using terms like shapeshifter and grifter. It also notes that the investigative reporters initially did not anticipate that their findings would culminate in formal criminal charges.",
+          "The legal proceedings concluded in London on November 5, where a trial resulted in a guilty verdict for one count of rape and three counts of sexual assault. Conversely, the court found the defendant not guilty regarding two additional rape counts and one count of attempted indecent assault."
+        ]
+      },
+      {
+        "h": "Background of the Police Inquiry",
+        "p": [
+          "The underlying allegations spanned claims brought forward by six different women concerning incidents occurring between the years 1999 and 2009. Law enforcement launched a formal investigation into the entertainer in 2023.",
+          "That police inquiry was initiated after multiple individuals came forward publicly with accusations of abuse during a Channel 4 documentary broadcast and a corresponding Sunday Times investigation."
+        ]
+      },
+      {
+        "h": "Legal Timeline and Courtroom Confrontation",
+        "p": [
+          "Legal authorities initially filed five charges against the individual in April 2025, with two additional charges added later in December. Following the conclusion of the trial, a tense exchange occurred outside the courtroom involving defense attorney Ian Winter and journalist Rosamund Urwin.",
+          "Winter confronted Urwin over the outcome, leading to a verbal back-and-forth about the delivery of justice. Winter later confirmed that he referred himself to the Bar Standards Board following the incident."
+        ]
+      },
+      {
+        "h": "Sentencing Structure and Parole Eligibility",
+        "p": [
+          "The presiding judge handed down a total sentence of 10 years in prison. The majority of this prison term stems from the rape conviction, which carries a nine-year sentence.",
+          "The remaining convictions for sexual assault resulted in sentences of nine months, 18 months, and eight months to be served concurrently with each other, but consecutively to the primary rape sentence. The individual will become eligible for parole only after serving two-thirds of the total term, meaning a minimum of seven years behind bars."
+        ]
+      },
+      {
+        "h": "Ongoing Inquiries and Police Assessment",
+        "p": [
+          "Beyond the concluded trial, law enforcement agencies are continuing to evaluate additional information. The Metropolitan Police reported receiving further tips from multiple people during and after the court proceedings.",
+          "Detectives are currently reviewing these new details as part of their active enquiries, according to a spokesperson who spoke with the BBC."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix is launching the documentary Russell Brand: Open Secret, directed by Olivia Isaacs, to chronicle the rise and fall of the entertainer following his conviction on multiple counts of sexual offenses. The film highlights the investigative journalism behind the case that led to a 10-year prison sentence following a trial in London."
+        ]
+      }
+    ],
+    "facts": [
+      "Netflix is releasing Russell Brand: Open Secret on November 13.",
+      "The documentary is directed by Olivia Isaacs.",
+      "Russell Brand was found guilty of one count of rape and three counts of sexual assault on November 5.",
+      "Brand was sentenced to 10 years in prison.",
+      "Police began investigating Brand in 2023.",
+      "Prosecutors filed five charges in April 2025 and two more in December."
+    ],
+    "entities": {
+      "people": [
+        "Russell Brand",
+        "Olivia Isaacs",
+        "Rosamund Urwin",
+        "Charlotte Wace",
+        "Ian Winter"
+      ],
+      "titles": [
+        "Russell Brand: Open Secret"
+      ]
+    },
+    "keywords": [
+      "Russell Brand Open Secret",
+      "Russell Brand documentary Netflix",
+      "Olivia Isaacs Russell Brand",
+      "Russell Brand trial sentence"
+    ],
+    "images": [
+      {
+        "url": "https://www.rollingstone.com/wp-content/uploads/2026/11/russellbrandopensecretuniversal-base_na_03_zxx-1.jpg?w=1600&#038;h=900&#038;crop=1",
+        "caption": "Netflix Set to Release Documentary Examining Russell Brand's Rise and Fall",
+        "source": "Rolling Stone"
+      }
+    ],
+    "published": "2026-11-13T03:52:01Z"
+  },
+  "1ceqkh7": {
+    "id": "1ceqkh7",
+    "type": "news",
+    "headline": "Inside Anirudh Ravichander and Kavya Maran's Lavish Greece Wedding: Cost, Costumes, and Luxury Details",
+    "dek": "Music composer Anirudh Ravichander and Kavya Maran tied the knot in a magnificent ceremony at the Four Seasons Astir Palace Hotel in Greece, featuring high-profile travel arrangements and stunning designer outfits.",
+    "body": [
+      {
+        "h": "The Grand Ceremony in Greece",
+        "p": [
+          "The wedding of renowned music composer Anirudh Ravichander and Kavya Maran has quickly captured the public imagination, emerging as one of the most talked-about celebrity celebrations in recent times. Photographs from their destination wedding have circulated widely, drawing admiration from fans for the couple's distinctive fashion choices. While their traditional ceremonial attire won widespread praise, the sheer scale, luxury details, and overall expenses of the Greece celebration have taken the event to an entirely new level of opulence.",
+          "The nuptials took place at the exclusive Four Seasons Astir Palace Hotel in Greece. Organizing a destination wedding of this magnitude required meticulous logistical planning to ensure that every comfort was provided for the attending guests, ranging from high-end accommodation to specialized hospitality services."
+        ]
+      },
+      {
+        "h": "Exclusive Travel Arrangements",
+        "p": [
+          "Transporting key attendees from India to the Mediterranean destination was a massive undertaking. According to reports from News 18, approximately four private aircraft were chartered directly from Chennai to Greece to carry important guests to the venue.",
+          "These elite travel arrangements underline the high-profile nature of the guest list and the immense effort put into orchestrating a seamless experience for everyone involved in the celebrations."
+        ]
+      },
+      {
+        "h": "Staggering Financial Estimates",
+        "p": [
+          "While neither family has officially confirmed any figures, the overall wedding expenditure is widely estimated to have crossed the Rs 100 crore mark. Some industry estimates even suggest that the total cost could reach up to Rs 150 crore once the upcoming Chennai reception and other associated festivities are factored in.",
+          "Such figures place the union among the most lavish celebrity weddings in recent memory, reflecting the prominent status of both families and the extensive arrangements made for the multi-day event."
+        ]
+      },
+      {
+        "h": "Anirudh Ravichander's Wedding Attire",
+        "p": [
+          "For the main wedding ceremony, music director Anirudh Ravichander opted for an ensemble that artfully blended traditional Indian culture with contemporary fashion sensibilities. He selected an ivory and champagne color palette, wearing a classic shirt and veshti paired with a modern jacket.",
+          "The outfit was elevated by subtle embroidery work detailed along the collar, sleeves, and front panels, achieving a luxurious aesthetic without appearing overly flashy. He completed his groom look with minimalist jewelry, including chains, and stylish loafers."
+        ]
+      },
+      {
+        "h": "Kavya Maran's Bridal Look",
+        "p": [
+          "Kavya Maran looked breathtaking as a bride, donning a stunning pink lehenga adorned with intricate flower work and detailed stone embellishments. Her traditional bridal appearance was further enhanced by a carefully chosen set of diamond jewelry.",
+          "She wore a sparkling diamond necklace, matching diamond earrings, and elegant diamond bangles that perfectly complemented her vibrant lehenga and added a timeless sparkle to the ceremony."
+        ]
+      },
+      {
+        "h": "Fashionable Resort Wear Highlights",
+        "p": [
+          "Beyond their traditional wedding attire, the couple also stunned observers with their fashionable resort wear choices during the celebrations. Kavya caught everyone's attention in a champagne-shaded corset top detailed with silver and rose gold accents, paired with a multilayered mocha brown skirt.",
+          "Meanwhile, Anirudh sported an eye-catching ivory jacket featuring nature motifs, palm trees, and delicate sequin detailing, showcasing a relaxed yet luxurious vacation style that set them apart from standard bridal wear."
+        ]
+      },
+      {
+        "h": "Upcoming Chennai Reception",
+        "p": [
+          "The celebrations are far from over as the newlywed couple prepares to host a grand reception for friends, family, and colleagues who could not make the trip abroad. The high-profile reception is scheduled to take place in Chennai on November 21.",
+          "Anticipation is high for the upcoming Chennai event, which is expected to draw a multitude of notable figures from the entertainment and corporate sectors to celebrate the newlyweds."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Music composer Anirudh Ravichander and Kavya Maran married in a lavish ceremony at the Four Seasons Astir Palace Hotel in Greece, utilizing four chartered private aircraft to transport guests from Chennai. The estimated wedding expenditure is reported to have crossed Rs 100 crore, potentially reaching Rs 150 crore with upcoming events, though unconfirmed by the families.",
+          "The couple drew widespread attention for their designer outfits—including Anirudh's ivory-and-champagne ensemble and Kavya's pink diamond-adorned lehenga—ahead of their grand reception planned in Chennai on November 21."
+        ]
+      }
+    ],
+    "facts": [
+      "Anirudh Ravichander and Kavya Maran married in Greece at the Four Seasons Astir Palace Hotel.",
+      "About four private aircraft were chartered from Chennai to Greece for important guests.",
+      "The overall wedding expenditure is estimated to have crossed Rs 100 crore and could reach Rs 150 crore including the Chennai reception.",
+      "Anirudh wore an ivory and champagne shirt and veshti with a modern jacket.",
+      "Kavya wore a pink lehenga with flower and stone work, along with a diamond necklace, earrings, and bangles.",
+      "The wedding reception in Chennai is planned for November 21."
+    ],
+    "entities": {
+      "people": [
+        "Anirudh Ravichander",
+        "Kavya Maran"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Anirudh Ravichander wedding",
+      "Kavya Maran Greece wedding",
+      "Anirudh and Kavya Maran wedding cost",
+      "Anirudh Ravichander Kavya Maran outfits"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135786528,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "Inside Anirudh Ravichander and Kavya Maran's Lavish Greece Wedding: Cost, Costumes, and Luxury Details",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T07:46:45+05:30"
   }
 };
