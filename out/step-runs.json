@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T03:58:55Z",
-    "run_id": "43151693661",
-    "status": "success",
-    "checked": {
-     "candidates": 254,
-     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Sohail Khan’s post for parents Salim Khan and Salma Khan wins hearts",
-      "7 Hollywood stars who served in the military before becoming famous",
-      "Kiara Advani reveals bonding over motherhood with Alia Bhatt, Katrina Kaif during postpartum phase after Saraayah's birth",
-      "Inside Anirudh-Kavya's Greece wedding: Rajinikanth, Stalin share front-row spotlight",
-      "‘Harry Potter’ and ‘Stranger Things’ Stars Officially Join ‘Hereditary’ Director’s New Nightmare",
-      "The Biggest Sci-Fi Bomb of 2026 Officially Passes Final Box Office Milestone",
-      "The Institute Season 2 Interview with Simone Miller, Arlen So & Fionn Laird",
-      "ABC Flipped Abbott Elementary's Best Relationship On Its Head 4 Years Later",
-      "Arrival Timeline Explained: Making Sense Of The Movie's Twist",
-      "Every Game Of Thrones Character That Was Recast (& Why)",
-      "The Remarried Empress Interview with Shin Min-a, Ju Ji-hoon, Lee Jong-suk & Lee Se-young",
-      "DC Show’s Season 2 Antihero Casting Rumors Clarified By Showrunner",
-      "What Happens To Scarlet Witch’s Kids Billy And Tommy After VisionQuest",
-      "Dungeon Crawler Carl Drops Official New Epilogue, Here's Where To Read It",
-      "DC's Most Demanded Costume Of All Time Officially Returns Today",
-      "Movie Marketing Veteran Gerry Rich on Opening ‘Iron Man,’ Grappling With AI and Maintaining the Human Touch",
-      "Lionsgate Acquires Alma Har’el’s ‘Wet’ Starring Connor Storrie, Rebecca Ferguson, Odessa A’zion, Rosalía & Lukas Haas",
-      "Our Top 29 Holiday Gifts of 2026",
-      "‘Survivor 51’ Episode 8 recap: Jeff Probst ‘adds another layer of complexity’ with return of Double Duo twist",
-      "Chicago Fire - Over the Edge (15.06) - Rate the Episode!"
-     ],
-     "updated": [],
-     "count": 239,
-     "detail": "254 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-12T04:51:35Z",
     "run_id": "43157402137",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "306 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T03:59:28Z",
-    "run_id": "43151693661",
+    "run_at": "2026-11-13T02:01:25Z",
+    "run_id": "43348935851",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 285,
+     "detail": "RSS/Atom items across 137 sources; 7 source(s) errored"
     },
     "changed": {
      "added": [
-      "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
-      "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Khurana",
-      "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
-      "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood"
+      "Christina Applegate Once Ditched Brad Pitt The Worst Way Possible For A Rockstar",
+      "'How Libin and I started talking, nobody will believe it': Rimi",
+      "Sai recalls breaking down on 'Ramayana: Rise of a Legend' sets",
+      "Patrick Stewart’s widow, Sunny Ozell, remembers her late husband",
+      "Lisa Maxwell’s daughter Beau Jessup passes away",
+      "When Ranveer Singh revealed secret engagement to Deepika Padukone",
+      "'Bouma' BO day 1: Dileesh Pothan film opens at Rs 56 lakh worldwide",
+      "Duran Duran drummer Roger Taylor drops out of the band due to medical reasons",
+      "'Mookuthi Amman 2' BO day 7: Nayanthara's film records Rs 17.93 cr",
+      "K-pop and warrior suits: Asia hopefuls seek Eurovision glory",
+      "OM director Rajkumar Periasamy says Mammootty heard final script for more than 2 days before shoot began, arrived on set completely prepared",
+      "Sai Pallavi recalls crying on Ramayana sets after dialect coach touched her feet",
+      "Rapper Young L, star of Bay Area hip hop group The Pack, mourned by colleagues amid reported death",
+      "Ramayana enters Rs 1,000 crore club in 8 days, beats Animal and Pathaan in India",
+      "Who let Vasooli Bhai into Ramayana? Mukesh Tiwari's casting has internet laughing",
+      "Gerard Butler’s Action Streaming Hit Is Officially Being Removed From Netflix",
+      "‘The Expanse’ Officially Set For Major New Release This December",
+      "'The Mummy' Icon Officially Confirms Return in Brendan Fraser's Fourth Movie",
+      "After 470 Episodes, ABC’s Best Show Is a Surprising Streaming Hit on Apple TV",
+      "‘Outlander’ Star’s New Jane Austen Movie Officially Takes Over Apple TV"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 276,
+     "detail": "278 stories, 0 duplicates removed, 7 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1481,27 +1458,32 @@
      "detail": "+4 articles, +1 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-13T02:01:49Z",
+    "run_id": "43348935851",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend Crosses Rs 1,000 Crore Worldwide in Just Eight Days",
+      "Mike Myers Hints at Potential Involvement in the Upcoming Donkey Spinoff Movie",
+      "Viral Leak Alleges Elizabeth Olsen's Wanda Will Eliminate Anthony Mackie's Captain America in Avengers: Doomsday",
+      "Universal Announces The Mummy 4 With Brendan Fraser and New Directors"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T06:53:56Z",
-    "run_id": "43170957956",
-    "status": "success",
-    "checked": {
-     "candidates": 312,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 299, coming 13"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1915,26 +1897,27 @@
      "detail": "now 306, coming 10"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-12T04:11:00Z",
-    "run_id": "43151693661",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-13T02:07:28Z",
+    "run_id": "43348935851",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 318,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 308, coming 10"
     },
-    "reason": "no-new-data"
-   },
+    "reason": null
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2387,27 +2370,26 @@
      "count": 0
     },
     "reason": null
-   }
-  ],
-  "multisource_boxoffice": [
+   },
    {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T04:10:58Z",
-    "run_id": "43151693661",
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-13T02:12:30Z",
+    "run_id": "43348935851",
     "status": "success",
     "checked": {
-     "candidates": 658,
-     "detail": "639 collected staging rows from readers; 222 averaged across 2+ sources"
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 6,
-     "detail": "+3 new rows, 3 updated rows, 640 unchanged"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "multisource_boxoffice": [
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2821,19 +2803,27 @@
      "detail": "+0 new rows, 6 updated rows, 643 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T02:12:28Z",
+    "run_id": "43348935851",
+    "status": "success",
+    "checked": {
+     "candidates": 663,
+     "detail": "640 collected staging rows from readers; 226 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 646 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3070,32 +3060,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-12T04:10:59Z",
-    "run_id": "43151693661",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
-      "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Khurana",
-      "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
-      "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3627,19 +3604,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-13T02:12:29Z",
+    "run_id": "43348935851",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend Crosses Rs 1,000 Crore Worldwide in Just Eight Days",
+      "Mike Myers Hints at Potential Involvement in the Upcoming Donkey Spinoff Movie",
+      "Viral Leak Alleges Elizabeth Olsen's Wanda Will Eliminate Anthony Mackie's Captain America in Avengers: Doomsday",
+      "Universal Announces The Mummy 4 With Brendan Fraser and New Directors"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3905,19 +3895,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4239,31 +4229,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-12T03:59:28Z",
-    "run_id": "43151693661",
-    "status": "success",
-    "checked": {
-     "candidates": 5,
-     "detail": "news queue items drafted this run; 239 still unprocessed; today by category: movies 2/6, tv_dramas 2/4, episodes 0/2, box_office 5/6, celebrities_events 4/5, upcoming_releases 1/4, ott_streaming 2/4, trailers 2/3, awards 1/2, music_ost 0/2, viral 1/2"
-    },
-    "changed": {
-     "added": [
-      "Diljit Dosanjh Set To Make Grand Return To Coachella In 2027 Alongside Music Icons",
-      "Gunmaaster G9 Trailer Launch: Emraan Hashmi Returns in Action-Packed Avatar Alongside Genelia Deshmukh and Aparshakti Khurana",
-      "Ben Stiller, Robert De Niro, and Owen Wilson Reunite for the New York City Premiere of Focker-in-Law",
-      "Zendaya and Tom Holland: The Gen Z Power Couple of Hollywood"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4760,19 +4738,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-13T02:01:48Z",
+    "run_id": "43348935851",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 276 still unprocessed; today by category: movies 6/6, tv_dramas 0/4, episodes 0/2, box_office 4/6, celebrities_events 1/5, upcoming_releases 0/4, ott_streaming 1/4, trailers 0/3, awards 0/2, music_ost 0/2, viral 0/2"
+    },
+    "changed": {
+     "added": [
+      "Ramayana: Rise of a Legend Crosses Rs 1,000 Crore Worldwide in Just Eight Days",
+      "Mike Myers Hints at Potential Involvement in the Upcoming Donkey Spinoff Movie",
+      "Viral Leak Alleges Elizabeth Olsen's Wanda Will Eliminate Anthony Mackie's Captain America in Avengers: Doomsday",
+      "Universal Announces The Mummy 4 With Brendan Fraser and New Directors"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5086,24 +5076,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "success",
-    "checked": null,
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 405,
-     "detail": "lines changed in owned files; no per-item summary from script"
-    },
-    "reason": null
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5443,24 +5428,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 23,
+     "count": 369,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5805,19 +5790,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 15,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6067,19 +6057,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6314,19 +6304,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6611,22 +6601,22 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "providers_backfill",
-    "category": "OTT",
     "run_at": "2026-11-12T04:54:20Z",
     "run_id": "43157402137",
     "status": "skipped",
@@ -6853,22 +6843,33 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-13T02:07:27Z",
+    "run_id": "43348935851",
+    "status": "success",
+    "checked": {
+     "candidates": 680,
+     "processed": 680,
+     "succeeded": 680,
+     "failed": 0,
+     "already_have_providers": 213,
+     "detail": "missing-provider titles fetched first, then the --rotate stalest provider-carrying titles; processed counts only upstream requests; zero processed means unchanged check, not a new upstream fetch"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 680
+    },
+    "reason": null
    }
   ],
   "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
     "run_at": "2026-11-12T04:54:20Z",
     "run_id": "43157402137",
     "status": "success",
@@ -7095,22 +7096,22 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
     "run_at": "2026-11-12T04:54:20Z",
     "run_id": "43157402137",
     "status": "skipped",
@@ -7333,6 +7334,16 @@
     "category": "Trending News",
     "run_at": "2026-11-13T01:27:02Z",
     "run_id": "43344514966",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7853,16 +7864,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-12T04:54:20Z",
     "run_id": "43157402137",
     "status": "skipped",
@@ -8099,19 +8100,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-12T04:11:11Z",
-    "run_id": "43151693661",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8361,8 +8362,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-13T02:12:41Z",
+    "run_id": "43348935851",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-13T01:27:02Z"
+ "updated_at": "2026-11-13T02:12:41Z"
 }

@@ -232,7 +232,6 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-12",
       "date_kind": "digital",
       "id": 1234139,
@@ -240,9 +239,25 @@ window.FA_OTT = {
         {
           "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
           "name": "Amazon Prime Video"
+        },
+        {
+          "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+          "name": "Amazon Prime Video with Ads"
         }
       ],
       "type": "movie"
+    },
+    {
+      "date": "2026-11-11",
+      "date_kind": "release",
+      "id": 291507,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
+        }
+      ],
+      "type": "tv"
     },
     {
       "date": "2026-11-11",
@@ -252,6 +267,18 @@ window.FA_OTT = {
         {
           "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
           "name": "Netflix Standard with Ads"
+        }
+      ],
+      "type": "movie"
+    },
+    {
+      "date": "2026-11-11",
+      "date_kind": "release",
+      "id": 1559980,
+      "providers": [
+        {
+          "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+          "name": "Netflix"
         }
       ],
       "type": "movie"
@@ -824,11 +851,19 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "BR",
       "date": "2026-11-05",
       "date_kind": "digital",
       "id": 1570467,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+          "name": "Lionsgate Play Apple TV Channel"
+        },
+        {
+          "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+          "name": "Lionsgate Play Amazon Channel"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -856,11 +891,15 @@ window.FA_OTT = {
       "type": "movie"
     },
     {
-      "country": "IN",
       "date": "2026-11-05",
       "date_kind": "digital",
       "id": 1819380,
-      "providers": [],
+      "providers": [
+        {
+          "logo_path": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+          "name": "ManoramaMAX Amazon Channel"
+        }
+      ],
       "type": "movie"
     },
     {
@@ -1035,6 +1074,18 @@ window.FA_OTT = {
         {
           "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
           "name": "Philo"
+        },
+        {
+          "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+          "name": "Hallmark+ Amazon Channel"
+        },
+        {
+          "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+          "name": "Hallmark+ Apple TV channel"
+        },
+        {
+          "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
+          "name": "Hallmark TV Amazon Channel"
         }
       ],
       "type": "movie"
@@ -1362,8 +1413,12 @@ window.FA_OTT = {
           "name": "fuboTV"
         },
         {
-          "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
-          "name": "Philo"
+          "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+          "name": "Pure Flix"
+        },
+        {
+          "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
+          "name": "Great American Pure Flix Amazon Channel"
         }
       ],
       "type": "movie"

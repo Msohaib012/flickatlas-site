@@ -130955,5 +130955,374 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "2026-11-13T01:24:02Z"
+  },
+  "1jjdibe": {
+    "id": "1jjdibe",
+    "type": "news",
+    "headline": "Ramayana: Rise of a Legend Crosses Rs 1,000 Crore Worldwide in Just Eight Days",
+    "dek": "Nitesh Tiwari's mythological epic has sprinted past major box office milestones, surpassing the lifetime domestic hauls of Pathaan and Animal within its first week.",
+    "body": [
+      {
+        "h": "Global Milestone Achieved",
+        "p": [
+          "Director Nitesh Tiwari's latest cinematic venture has officially entered the elite Rs 1,000 crore club globally at the conclusion of its extended eight-day opening week. Ramayana: Rise of a Legend achieved this worldwide gross milestone by pulling in massive numbers both domestically and internationally, cementing its status as a monumental commercial success.",
+          "This rapid ascent makes the feature the 11th Indian film to breach the Rs 1,000 crore threshold globally. Furthermore, it stands as the third-fastest Indian film to reach this specific financial milestone."
+        ]
+      },
+      {
+        "h": "Beating Major Lifetime Hauls",
+        "p": [
+          "On the domestic front, the movie crossed Rs 560 crore nett in India by Thursday, November 12. In doing so, it successfully outpaced the complete theatrical run earnings of Shah Rukh Khan's Pathaan and Ranbir Kapoor's own previous career-best hit, Animal, in merely eight days.",
+          "Industry tracker Sacnilk reported that the feature collected Rs 53.50 crore nett across all languages on its eighth day alone, bringing its total domestic nett collection to an impressive Rs 564.60 crore."
+        ]
+      },
+      {
+        "h": "Breakdown of Collections",
+        "p": [
+          "The financial report indicates that India gross earnings reached Rs 675.05 crore, while overseas territories contributed an additional Rs 358.50 crore. This combination brings the total worldwide gross to a staggering Rs 1,033.55 crore at the end of its first week.",
+          "Regionally, the Hindi version drove the majority of the domestic tally with Rs 437 crore. It also received solid backing from other linguistic markets, including Kannada, Telugu, Tamil, and Malayalam."
+        ]
+      },
+      {
+        "h": "Record-Breaking Pace",
+        "p": [
+          "Reaching the Rs 1,000 crore mark in eight days positions Ramayana: Rise of a Legend right behind Pushpa 2: The Rule and Dhurandhar: The Revenge, which both achieved the feat in seven days. It has notably outpaced other notable blockbusters like Baahubali 2: The Conclusion, RRR, and Jawan.",
+          "The opening week benefited greatly from a historic Diwali holiday surge, which featured massive single-day nett collections on Monday and Tuesday following its Thursday, November 5 release."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The film features a prominent cast with Ranbir Kapoor portraying Lord Rama, Sai Pallavi as Goddess Sita, Ravie Dubey as Lakshman, and Yash taking on the role of Ravana. Behind the camera, the project is co-produced by Namit Malhotra and Yash.",
+          "Looking ahead, a sequel has already been scheduled to release on Diwali 2028. This upcoming installment will also feature Sunny Deol as Lord Hanuman, a character whose introduction was teased during the post-credits scene of the first film."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ramayana: Rise of a Legend crossed Rs 1,000 crore in worldwide gross in eight days, becoming the 11th Indian film to enter the club. The Nitesh Tiwari directorial surpassed the lifetime domestic nett hauls of Pathaan and Animal within the same timeframe, fueled by strong holiday surges and a prominent cast."
+        ]
+      }
+    ],
+    "facts": [
+      "Director Nitesh Tiwari's Ramayana: Rise of a Legend crossed Rs 1,000 crore in worldwide gross on its eighth theatrical day.",
+      "The film became the 11th Indian film to enter the Rs 1,000 crore club.",
+      "On Thursday, November 12, the film crossed Rs 560 crore nett in India, overtaking the lifetime box office hauls of Pathaan and Animal.",
+      "On Day 8, the film collected Rs 53.50 crore nett across all languages, taking its total domestic nett collection to Rs 564.60 crore.",
+      "Total India gross stands at Rs 675.05 crore and overseas territories contributed Rs 358.50 crore, bringing the worldwide gross to Rs 1,033.55 crore.",
+      "Pathaan collected Rs 544.28 crore and Animal collected Rs 556.36 crore in their full theatrical runs.",
+      "The film was released on Thursday, November 5, opening to Rs 64.85 crore nett.",
+      "The Hindi version contributed Rs 437 crore, Kannada contributed Rs 48.95 crore, Telugu contributed Rs 38.05 crore, Tamil contributed Rs 22.15 crore, and Malayalam contributed Rs 18.45 crore.",
+      "The cast includes Ranbir Kapoor as Lord Rama, Sai Pallavi as Goddess Sita, Ravie Dubey as Lakshman, and Yash as Ravana.",
+      "The film is co-produced by Namit Malhotra and Yash, with a sequel scheduled for Diwali 2028 featuring Sunny Deol as Lord Hanuman."
+    ],
+    "entities": {
+      "people": [
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Ravie Dubey",
+        "Yash",
+        "Shah Rukh Khan",
+        "Sandeep Reddy Vanga",
+        "Namit Malhotra",
+        "Sunny Deol"
+      ],
+      "titles": [
+        "Ramayana: Rise of a Legend",
+        "Animal",
+        "Pathaan",
+        "Pushpa 2: The Rule",
+        "Dhurandhar: The Revenge",
+        "Baahubali 2: The Conclusion",
+        "RRR",
+        "Jawan"
+      ]
+    },
+    "keywords": [
+      "Ramayana Rise of a Legend",
+      "Ramayana box office collection",
+      "Ranbir Kapoor Sai Pallavi Yash",
+      "Nitesh Tiwari Ramayana film"
+    ],
+    "images": [
+      {
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ramayana-enters-rs-1-000-crore-club-in-8-days--beats-animal-and-pathaan-in-india-134652738-16x9_0.png?VersionId=ZtBkklLtTWHulHwnfN0IDZcFWenS76jc",
+        "caption": "Ramayana: Rise of a Legend Crosses Rs 1,000 Crore Worldwide in Just Eight Days",
+        "source": "India Today — Movies"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 07:17:49 +0530"
+  },
+  "1sqfpam": {
+    "id": "1sqfpam",
+    "type": "news",
+    "headline": "Mike Myers Hints at Potential Involvement in the Upcoming Donkey Spinoff Movie",
+    "dek": "Actor Mike Myers has expressed enthusiasm about the upcoming Donkey spinoff movie, leaving the door open for a possible appearance despite the prequel's timeline.",
+    "body": [
+      {
+        "h": "Mike Myers Discusses the Shrek Franchise Future",
+        "p": [
+          "Actor Mike Myers has indicated that his journey with the iconic Shrek franchise may extend well beyond the upcoming fifth installment. Following his preparation to reprise his famous role as the title ogre in Shrek 5 next summer, Myers shared fresh insights during a recent discussion.",
+          "In an interview with The Hollywood Reporter, the actor spoke warmly about returning to the beloved character. He highlighted the strength of the films' writing, praised the creative team behind the scenes, and commended the enduring positive messages delivered by the series."
+        ]
+      },
+      {
+        "h": "Praise for Co-Stars and Donkey's Standalone Film",
+        "p": [
+          "During the interview, Myers made it clear that he remains deeply enthusiastic about being a part of the franchise's ongoing expansion. He specifically praised his fellow cast members Cameron Diaz and Eddie Murphy, celebrating their collaborative efforts.",
+          "The franchise is actively growing beyond the fifth film with the development of a standalone Donkey movie. Myers revealed his happiness for Murphy, calling Donkey one of his favorite characters and noting that he considers the spinoff long overdue."
+        ]
+      },
+      {
+        "h": "Potential Role in the Donkey Prequel",
+        "p": [
+          "The upcoming Donkey movie is structured as a prequel designed to explore the character's origin story. Because the narrative unfolds before Donkey ever crosses paths with Shrek, the probability of Myers having a major presence in the film remains relatively low.",
+          "Even so, the actor has not completely ruled out making an appearance. Myers stated that while he is uncertain of his direct involvement, he would gladly participate if given the opportunity."
+        ]
+      },
+      {
+        "h": "Support for Eddie Murphy's Performance",
+        "p": [
+          "Myers offered high praise for Eddie Murphy's comedic work throughout the franchise, describing his performance as that of a genius. The profound appreciation for his co-star's talent reinforces the strong bond shared by the main cast members over the years.",
+          "Demonstrating his ongoing support, Myers confirmed that he intends to be among the very first people in line to experience the film in theaters when it finally arrives."
+        ]
+      },
+      {
+        "h": "Upcoming Release Timeline for the Franchise",
+        "p": [
+          "Audiences can look forward to multiple projects arriving over the next few years. Shrek 5 is scheduled for release on June 30, 2027, bringing back Shrek, Donkey, and Princess Fiona for a brand new adventure.",
+          "Following that release, the standalone Donkey movie is slated to hit theaters on June 30, 2028, continuing the expansion of the beloved animated universe."
+        ]
+      },
+      {
+        "h": "Cast Details for Shrek 5",
+        "p": [
+          "The upcoming fifth film will introduce significant changes to the central family dynamic. The sequel is set to feature older versions of the three children belonging to Shrek and Fiona.",
+          "The younger generation of characters will be voiced by a newly announced cast, including Zendaya as Felicia, Skyler Gisondo as Farkle, and Marcello Hernández as Fergus."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Mike Myers has expressed interest in joining the upcoming Donkey spinoff movie, despite the film being a prequel that makes his involvement unlikely. Alongside his enthusiasm for Eddie Murphy's character, Myers continues his work on Shrek 5, which arrives in June 2027 ahead of the Donkey spinoff in June 2028."
+        ]
+      }
+    ],
+    "facts": [
+      "Mike Myers is set to reprise his role as Shrek in Shrek 5 next summer.",
+      "The upcoming Donkey movie is a prequel that explores the character's origin story.",
+      "The standalone Donkey movie is scheduled for release on June 30, 2028.",
+      "Shrek 5 is scheduled to release on June 30, 2027.",
+      "Shrek 5 will feature older versions of Shrek and Fiona's three children: Felicia, voiced by Zendaya; Farkle, voiced by Skyler Gisondo; and Fergus, voiced by Marcello Hernández.",
+      "Mike Myers gave an interview to The Hollywood Reporter discussing the franchise."
+    ],
+    "entities": {
+      "people": [
+        "Mike Myers",
+        "Cameron Diaz",
+        "Eddie Murphy",
+        "Zendaya",
+        "Skyler Gisondo",
+        "Marcello Hernández"
+      ],
+      "titles": [
+        "Shrek",
+        "Shrek 5"
+      ]
+    },
+    "keywords": [
+      "Mike Myers Shrek spinoff",
+      "Donkey movie prequel",
+      "Shrek 5 release date",
+      "Eddie Murphy Donkey movie"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/01/shrek.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Mike Myers Hints at Potential Involvement in the Upcoming Donkey Spinoff Movie",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:18:24 GMT"
+  },
+  "bbirbl": {
+    "id": "bbirbl",
+    "type": "news",
+    "headline": "Viral Leak Alleges Elizabeth Olsen's Wanda Will Eliminate Anthony Mackie's Captain America in Avengers: Doomsday",
+    "dek": "An unverified social media rumor has thrown MCU fans into a frenzy, claiming that the Scarlet Witch will turn on Sam Wilson in the upcoming crossover event.",
+    "body": [
+      {
+        "h": "The Viral Social Media Rumor",
+        "p": [
+          "A major rumor has taken social media platforms by storm, generating intense debate among devotees of the Marvel Cinematic Universe. The unverified claim suggests that Elizabeth Olsen's powerful character could target Anthony Mackie's heroic leader in an upcoming feature.",
+          "Such dramatic plot leaks always attract massive attention across online communities. Followers immediately began questioning whether these two beloved figures would actually engage in a fatal confrontation on the big screen."
+        ]
+      },
+      {
+        "h": "Lack of Credible Confirmation",
+        "p": [
+          "Despite the heavy traction the rumor gained online, no reliable sources have backed the alleged scenario. Industry insiders have noted that there is zero verified confirmation regarding the supposed demise of Sam Wilson.",
+          "Observers are heavily advising audiences to remain skeptical. Without official statements from studio executives or creators, these dramatic online claims should be treated purely as internet speculation."
+        ]
+      },
+      {
+        "h": "Wanda Maximoff's MCU Status",
+        "p": [
+          "The current status and future trajectory of Elizabeth Olsen within the superhero franchise remain subjects of ongoing speculation. Her character's fate was left hanging following the chaotic events of Doctor Strange in the Multiverse of Madness.",
+          "In addition to her cinematic past, reports indicate that Wanda has officially returned to VisionQuest. This television development keeps her relevant to the wider universe and opens doors for further narrative exploration."
+        ]
+      },
+      {
+        "h": "The Threat of Doctor Doom",
+        "p": [
+          "A significant driving force behind current fan theories involves the introduction of Doctor Doom. His grand ambitions for the multiverse are expected to completely shift existing dynamics within the cinematic universe.",
+          "The villain's interest in harnessing immense magical powers has led enthusiasts to wonder if he might manipulate the Scarlet Witch. Utilizing her incredible Chaos Magic could serve his overarching multi-world objectives."
+        ]
+      },
+      {
+        "h": "The Maximoff Family Connection",
+        "p": [
+          "Beyond individual character conflicts, the rumored storyline touches upon deeper emotional ties involving the broader cast. The potential return of Billy and Tommy alongside Vision could place the Maximoff family right at the heart of impending global threats.",
+          "While comic book history does feature interesting ties between these magical entities and Doctor Doom, how the feature film will adapt these elements remains entirely unconfirmed."
+        ]
+      },
+      {
+        "h": "Sam Wilson's Role and the Russo Brothers",
+        "p": [
+          "Anthony Mackie is set to reprise his leading part as Sam Wilson following his journey in Captain America: Brave New World. His character is positioned to hold a central place in the upcoming massive crossover event.",
+          "Helmed by the Russo Brothers, the much-anticipated movie is scheduled to hit theatres on December 18, 2026. The production brings together heroes from across the entire fictional universe for a monumental cinematic showdown."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "An unverified social media leak claiming that Elizabeth Olsen's Wanda Maximoff will kill Anthony Mackie's Captain America in Avengers: Doomsday has shocked MCU fans. While speculation swirls around Doctor Doom's plans and the character's magical abilities, the rumor remains completely unconfirmed by Marvel ahead of the film's December 18, 2026 theatrical release."
+        ]
+      }
+    ],
+    "facts": [
+      "Avengers: Doomsday is scheduled to arrive in theatres on December 18, 2026.",
+      "The film is directed by the Russo Brothers.",
+      "Elizabeth Olsen plays Wanda Maximoff / Scarlet Witch.",
+      "Anthony Mackie plays Sam Wilson / Captain America.",
+      "Wanda has officially returned to VisionQuest."
+    ],
+    "entities": {
+      "people": [
+        "Elizabeth Olsen",
+        "Anthony Mackie",
+        "Doctor Doom",
+        "Sam Wilson",
+        "Wanda Maximoff",
+        "Russo Brothers",
+        "Billy",
+        "Tommy",
+        "Vision"
+      ],
+      "titles": [
+        "Avengers: Doomsday",
+        "Doctor Strange in the Multiverse of Madness",
+        "VisionQuest",
+        "Captain America: Brave New World"
+      ]
+    },
+    "keywords": [
+      "Avengers Doomsday",
+      "Elizabeth Olsen Wanda",
+      "Anthony Mackie Captain America",
+      "Doctor Doom Marvel"
+    ],
+    "images": [
+      {
+        "url": "https://images.timesnownews.com/thumb/msid-156499097,thumbsize-205666,width-1280,height-720,resizemode-75/156499097.jpg",
+        "caption": "Viral Leak Alleges Elizabeth Olsen's Wanda Will Eliminate Anthony Mackie's Captain America in Avengers: Doomsday",
+        "source": "Times Now — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T02:01:49Z"
+  },
+  "nl3v2o": {
+    "id": "nl3v2o",
+    "type": "news",
+    "headline": "Universal Announces The Mummy 4 With Brendan Fraser and New Directors",
+    "dek": "Universal Pictures is officially moving forward with a fourth installment in The Mummy franchise, titled The Mummy: Book of the Dead, slated for a 2028 release.",
+    "body": [
+      {
+        "h": "The Return of a Beloved Action-Adventure Franchise",
+        "p": [
+          "Universal Pictures has officially confirmed that a fourth chapter in The Mummy franchise is in development. Fans of the classic action-adventure fantasy series have long awaited another sequel featuring the original characters.",
+          "The upcoming feature has been officially titled The Mummy: Book of the Dead and is scheduled to hit theaters in 2028. This upcoming release arrives nearly three decades after the original movie debuted on the big screen in 1999."
+        ]
+      },
+      {
+        "h": "Background of the Original Trilogy and Cultural Impact",
+        "p": [
+          "Directed by Stephen Sommers, the original Mummy saga held a distinct place within Universal's Monster franchise. The first film featured a celebrated ensemble cast including Brendan Fraser, Rachel Weisz, and John Hannah.",
+          "The movie achieved worldwide commercial success and has since evolved into a celebrated cult classic. Public interest in the franchise surged recently following Brendan Fraser's critically acclaimed and emotional performance in The Whale."
+        ]
+      },
+      {
+        "h": "New Creative Team Behind the Camera",
+        "p": [
+          "Universal has enlisted the horror filmmaking collective Radio Silence to direct the fourth installment. The directing team is widely known for their work on the 2024 horror feature Abigail.",
+          "The screenplay for the new movie has been penned by writer David Coggeshall, whose previous credits include writing Orphan: First Kill."
+        ]
+      },
+      {
+        "h": "Continuity and Ignoring the Third Entry",
+        "p": [
+          "The narrative of the upcoming fourth film will serve as a direct continuation of the first two movies. Specifically, it will pick up the storyline after the events of The Mummy and The Mummy Returns.",
+          "In a creative decision welcomed by many fans, the new sequel will completely disregard the 2008 release The Mummy: Tomb of the Dragon Emperor. That third installment was notably the lowest-grossing and most poorly reviewed film in the trilogy, and it notably lacked the presence of Rachel Weisz."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Universal Pictures has announced a fourth installment in The Mummy franchise titled The Mummy: Book of the Dead, scheduled for release in 2028. The film will be directed by Radio Silence and written by David Coggeshall, following the continuity of the first two films while ignoring the 2008 sequel."
+        ]
+      }
+    ],
+    "facts": [
+      "The Mummy: Book of the Dead is set for a 2028 release.",
+      "The original film was released in 1999.",
+      "The original movie was directed by Stephen Sommers.",
+      "The original cast included Brendan Fraser, Rachel Weisz, and John Hannah.",
+      "Radio Silence directed Abigail in 2024.",
+      "David Coggeshall wrote Orphan: First Kill.",
+      "The third film in the franchise was The Mummy: Tomb of the Dragon Emperor released in 2008."
+    ],
+    "entities": {
+      "people": [
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "John Hannah",
+        "Stephen Sommers",
+        "David Coggeshall"
+      ],
+      "titles": [
+        "The Mummy",
+        "The Mummy Returns",
+        "The Mummy: Tomb of the Dragon Emperor",
+        "The Whale",
+        "Abigail",
+        "Orphan: First Kill",
+        "The Mummy: Book of the Dead"
+      ]
+    },
+    "keywords": [
+      "The Mummy Book of the Dead",
+      "Brendan Fraser The Mummy 4",
+      "Radio Silence The Mummy",
+      "Universal Pictures The Mummy franchise"
+    ],
+    "images": [
+      {
+        "url": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/the-mummy-5.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Universal Announces The Mummy 4 With Brendan Fraser and New Directors",
+        "source": "Collider"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 01:15:12 GMT"
   }
 };

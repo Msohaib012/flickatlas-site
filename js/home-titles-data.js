@@ -1424,7 +1424,20 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-10-26",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Amazon Prime Video",
+        "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Amazon Prime Video with Ads",
+        "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-10-14"
   },
   "1772549": {
@@ -12761,8 +12774,14 @@ window.FA_PUBLISHED = {
         "type": "flatrate"
       },
       {
-        "name": "Philo",
-        "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "name": "Pure Flix",
+        "logo_path": "/qAccuffS0YOegynkbRchQeBrw7W.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Great American Pure Flix Amazon Channel",
+        "logo_path": "/jQJseCPOtpMj1f5WWhXSSMOEdwG.png",
         "region": "US",
         "type": "flatrate"
       }
@@ -13965,6 +13984,24 @@ window.FA_PUBLISHED = {
       {
         "name": "Philo",
         "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Amazon Channel",
+        "logo_path": "/yG1Q3YBp5xF2Xj6Meux51Dkg4jP.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark+ Apple TV channel",
+        "logo_path": "/fAUJbIgaArLzpf6eK2FMJV8zOQT.png",
+        "region": "US",
+        "type": "flatrate"
+      },
+      {
+        "name": "Hallmark TV Amazon Channel",
+        "logo_path": "/rfXfa1Cq2cxiO76jN3kflGeqJuT.png",
         "region": "US",
         "type": "flatrate"
       }
@@ -19111,7 +19148,20 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-06",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Lionsgate Play Apple TV Channel",
+        "logo_path": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+        "region": "IN",
+        "type": "flatrate"
+      },
+      {
+        "name": "Lionsgate Play Amazon Channel",
+        "logo_path": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-05",
     "popularity": 4.47
   },
@@ -22543,7 +22593,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-09",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "ManoramaMAX Amazon Channel",
+        "logo_path": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-05",
     "popularity": 2.124
   },
@@ -24601,7 +24658,14 @@ window.FA_PUBLISHED = {
     "published_at": "2026-11-11",
     "date_kind": "release",
     "status": "Released",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "release_date": "2026-11-11",
     "popularity": 3.0394
   },
@@ -25093,7 +25157,14 @@ window.FA_PUBLISHED = {
     ],
     "published_at": "2026-11-12",
     "status": "In Production",
-    "providers": [],
+    "providers": [
+      {
+        "name": "Netflix",
+        "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+        "region": "IN",
+        "type": "flatrate"
+      }
+    ],
     "first_air_date": "2026-11-11",
     "popularity": 63.1908
   },
