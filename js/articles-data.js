@@ -133224,5 +133224,377 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 11:44:48 +0530"
+  },
+  "lbqffk": {
+    "id": "lbqffk",
+    "type": "news",
+    "headline": "Diljit Dosanjh and Daddy Yankee Ignite the Latin Grammys 2026 Stage with Crossover Track Pokito",
+    "dek": "Punjabi singer Diljit Dosanjh and Puerto Rican reggaeton star Daddy Yankee brought their collaborative track Pokito to life at the Latin Grammys 2026, creating a major viral moment.",
+    "body": [
+      {
+        "h": "The Latin Grammys 2026 Performance",
+        "p": [
+          "Punjabi musical icon Diljit Dosanjh and Puerto Rican reggaeton artist Daddy Yankee recently delivered an electrifying live performance of their global crossover track Pokito at the Latin Grammys 2026.",
+          "The collaborative stage appearance drew loud cheers from the audience and quickly generated massive online attention after video footage circulated across social media platforms."
+        ]
+      },
+      {
+        "h": "Behind the Collaboration",
+        "p": [
+          "The track Pokito officially released on October 30, uniting two very different musical worlds through a blend of Punjabi vocals and reggaeton beats.",
+          "Speaking on the red carpet, Daddy Yankee noted that Punjabi music and reggaeton feel like cousins, emphasizing that the cross-cultural collaboration makes sense when different musical traditions collide."
+        ]
+      },
+      {
+        "h": "Social Media and Artist Reactions",
+        "p": [
+          "Following the event, Diljit took to Instagram to share a video clip of the performance, highlighting the milestone for Punjabi music on an international stage.",
+          "Fans flooded the comments section with enthusiastic praise, calling the collaboration the best crossover of the year and celebrating the fusion of rhythms."
+        ]
+      },
+      {
+        "h": "About the Track Pokito",
+        "p": [
+          "Pokito bridges distinct cultural styles by incorporating Diljit's signature Punjabi verses and bhangra elements alongside Daddy Yankee's urban Spanish vocals.",
+          "The song features the recurring Spanish phrase Poquito a poquito, meaning little by little, and is part of Daddy Yankee's fifteen-track album titled La Postal."
+        ]
+      },
+      {
+        "h": "Music Video and Visuals",
+        "p": [
+          "The official music video for the crossover track was directed by Stillz.",
+          "It showcases vibrant visuals that celebrate both Punjabi traditions and Latin urban culture through creative storytelling."
+        ]
+      },
+      {
+        "h": "Diljit Dosanjh's Upcoming Tour Schedule",
+        "p": [
+          "Alongside his international appearances, Diljit is continuing his live performances as part of his Aura India Tour.",
+          "His schedule includes upcoming stops in Indore on November 15, followed by Ahmedabad, Mumbai, Bengaluru, Lucknow, and a final conclusion in Chandigarh on December 6, alongside a planned return to Coachella in 2027."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Diljit Dosanjh and Daddy Yankee performed their Punjabi-Spanish crossover track Pokito at the Latin Grammys 2026, bringing two distinct musical cultures together on stage.",
+          "The collaboration has sparked widespread praise from fans online, adding to a busy schedule for Diljit as he continues his tour and music projects."
+        ]
+      }
+    ],
+    "facts": [
+      "Diljit Dosanjh and Daddy Yankee performed Pokito at the Latin Grammys 2026.",
+      "The song Pokito was released on October 30.",
+      "Pokito is featured on Daddy Yankee's 15-track album La Postal.",
+      "The music video for Pokito was directed by Stillz.",
+      "Diljit Dosanjh's Aura India Tour includes a performance in Indore on November 15 and concludes in Chandigarh on December 6."
+    ],
+    "entities": {
+      "people": [
+        "Diljit Dosanjh",
+        "Daddy Yankee",
+        "Stillz",
+        "Riya Sharma"
+      ],
+      "titles": [
+        "Pokito",
+        "La Postal"
+      ]
+    },
+    "keywords": [
+      "Diljit Dosanjh Latin Grammys 2026",
+      "Daddy Yankee Pokito song",
+      "Diljit Dosanjh Daddy Yankee collaboration",
+      "Pokito Punjabi Spanish track",
+      "Diljit Dosanjh Aura India Tour"
+    ],
+    "images": [
+      {
+        "url": "https://www.hindustantimes.com/ht-img/img/2026/11/13/1600x900/logo/Diljit_Daddy_Yankee_1794547806086_jTkR_1794547812079_j4rF_c7bec8ad-5bd6-482d-a4b6-ae91bbcb3e14_1qAS.jpg",
+        "caption": "Diljit Dosanjh and Daddy Yankee Ignite the Latin Grammys 2026 Stage with Crossover Track Pokito",
+        "source": "Hindustan Times — Entertainment"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 12:31:32 +0530"
+  },
+  "1j5ndae": {
+    "id": "1j5ndae",
+    "type": "news",
+    "headline": "Fallout: Maximus and Co-Stars Receive Premium Dark Horse Statues Scheduled for December 2026",
+    "dek": "Dark Horse partners with Amazon to release a brand-new trio of PVC collectibles featuring the protagonists of the hit Fallout television series.",
+    "body": [
+      {
+        "h": "New Collectibles Announced",
+        "p": [
+          "Fans of the hit streaming television adaptation can look forward to an upcoming lineup of merchandise inspired by the main cast. Dark Horse has collaborated with Amazon to design a definitive trio of collectibles representing the principal characters from the show.",
+          "This lineup gives enthusiasts the chance to own detailed physical representations of their favorite personalities from the wasteland. The rollout continues a wave of brand extensions surrounding the popular science fiction franchise."
+        ]
+      },
+      {
+        "h": "Statue Details and Design",
+        "p": [
+          "Every piece in the collection is crafted from PVC and features a custom base displaying the official series logo along with specific thematic details. The Maximus figure stands at 10 inches tall and depicts him in his signature Power Armor, complete with a swappable head option and a base featuring a fallen log and grass.",
+          "The remaining two figures are slightly more compact, standing at 7.5 inches tall including their respective bases. Lucy's statue is paired with a dead radroach on its base, while the Ghoul joins them to complete the core trio of heroes."
+        ]
+      },
+      {
+        "h": "Pricing and Purchasing Options",
+        "p": [
+          "Collectors can secure individual items directly through official retail channels, with pricing scaled based on the size and complexity of each sculpt. The Lucy and the Ghoul figures are each listed at $49.99.",
+          "The larger Maximus statue carries a slightly higher price tag of $54.99 due to its added height and armor details. Acquiring the entire set brings the total cost to roughly $155 before applicable promotions."
+        ]
+      },
+      {
+        "h": "Pre-Order Promotions",
+        "p": [
+          "To assist fans interested in buying the complete set, Dark Horse has introduced a special pre-order incentive. Customers who order all three statues together are eligible for a $15 discount.",
+          "The Lucy figure is currently available for purchase outright. Meanwhile, the remaining entries in the line are open for pre-order."
+        ]
+      },
+      {
+        "h": "Expected Shipping Windows",
+        "p": [
+          "Current logistical forecasts point toward late 2026 for the fulfillment of the pre-ordered merchandise. Both the Ghoul and Maximus items carry shipping estimates spanning from November to December 2026.",
+          "Industry observers suggest that a December delivery is the more likely outcome, perfectly timed for holiday gifting. As with most manufactured collectibles, these timelines remain subject to potential adjustments."
+        ]
+      },
+      {
+        "h": "Franchise Merchandise Expansion",
+        "p": [
+          "The introduction of these statues underscores the continued commercial momentum of the television adaptation. High-end merchandise allows viewers to connect more deeply with the universe portrayed on screen.",
+          "Dark Horse's latest venture joins a broad assortment of items inspired by the critically acclaimed streaming program. It provides yet another avenue for supporters to celebrate the series."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Dark Horse and Amazon are releasing a new trio of PVC statues featuring the main characters from the Fallout television series. The collectibles are scheduled to ship between November and December 2026, with pre-orders and promotional discounts currently available."
+        ]
+      }
+    ],
+    "facts": [
+      "The statues are produced by Dark Horse in partnership with Amazon.",
+      "The collection features Lucy, Maximus, and the Ghoul.",
+      "Maximus is 10 inches tall and features a swappable head.",
+      "Lucy and the Ghoul are both 7.5 inches tall.",
+      "Lucy and the Ghoul cost $49.99 each.",
+      "Maximus costs $54.99.",
+      "Buying all three statues costs roughly $155.",
+      "Dark Horse is offering $15 off for pre-ordering all three statues at once.",
+      "The Ghoul and Maximus statues have shipping estimates of November to December 2026."
+    ],
+    "entities": {
+      "people": [
+        "Walton Goggins"
+      ],
+      "titles": [
+        "Fallout"
+      ]
+    },
+    "keywords": [
+      "Fallout Maximus statue",
+      "Dark Horse Fallout collectibles",
+      "Fallout TV show figures",
+      "Amazon Fallout merchandise"
+    ],
+    "images": [
+      {
+        "url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/fallout-4-7680x4320-24489.jpg?w=1600&amp;h=900&amp;fit=crop",
+        "caption": "Fallout: Maximus and Co-Stars Receive Premium Dark Horse Statues Scheduled for December 2026",
+        "source": "Screen Rant"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 07:00:17 GMT"
+  },
+  "12lf8au": {
+    "id": "12lf8au",
+    "type": "news",
+    "headline": "'Itlu Arjuna' Twitter Review: Debutant Aniesh and Anaswara Rajan Lead Telugu Romantic-Action Thriller",
+    "dek": "The newly released Telugu feature 'Itlu Arjuna' has hit theatres, drawing early audience reactions on social media for its performances, musical score, and blend of genres.",
+    "body": [
+      {
+        "h": "The Arrival of 'Itlu Arjuna' in Theatres",
+        "p": [
+          "A fresh romantic-action thriller has officially landed in Telugu cinemas, introducing audiences to an unconventional love story featuring a brand-new lead pairing. Titled 'Itlu Arjuna', the film made its debut on November 13, prompting immediate reactions and reviews from early moviegoers on social media.",
+          "Helmed by director Mahesh Uppala, the feature weaves together romance, comedy, and crime elements. Its central protagonist finds himself thrust into a high-stakes scenario, setting the narrative tone for the commercial project."
+        ]
+      },
+      {
+        "h": "Plot and Character Dynamics",
+        "p": [
+          "The storyline centers on Arjun, portrayed by newcomer Aniesh, who lives with a speech impediment and works as a pickpocket. His life takes a sharp turn when he falls in love with Keerthy, his childhood friend played by Anaswara Rajan.",
+          "Things escalate rapidly for the couple when a stolen pendrive inadvertently drags Arjun deep into the perilous underworld ruled by a dangerous gangster, altering their reality entirely."
+        ]
+      },
+      {
+        "h": "Aniesh Makes His Lead Acting Debut",
+        "p": [
+          "Stepping into the role of a speech-impaired pickpocket, newcomer Aniesh has drawn considerable attention for taking on such a demanding character in his very first leading film role.",
+          "Early social media reviewers shared encouraging feedback regarding his entry into the industry, with some pointing out that his performance shines in several sequences and establishes a strong on-screen dynamic with his co-star."
+        ]
+      },
+      {
+        "h": "Anaswara Rajan and Vennela Kishore Shine",
+        "p": [
+          "Co-starring as Keerthy, Anaswara Rajan has earned notable praise for her cute and bubbly portrayal, with multiple viewers highlighting her expressive acting and comedic timing as standouts.",
+          "In addition to the romantic leads, veteran comedian Vennela Kishore has won favor among audiences for injecting humorous beats into the narrative, providing lighter moments amidst the criminal plot."
+        ]
+      },
+      {
+        "h": "S Thaman's Musical Impact",
+        "p": [
+          "Music director S Thaman has widely emerged as one of the primary pillars of the project according to initial audience responses, delivering a background score that received widespread acclaim.",
+          "Reviewers on platforms like X noted that Thaman's musical compositions and energetic backing tracks significantly elevated the cinematic experience and helped carry the film through its narrative beats."
+        ]
+      },
+      {
+        "h": "Mixed Critical Reception",
+        "p": [
+          "Despite the strong appreciation for individual performances and the soundtrack, the film has faced some reservations from viewers regarding its overall structure. Certain audience members classified it as an average romantic and criminal thriller.",
+          "These critical voices pointed out that the presence of familiar commercial formulas, conventional romantic tracks, and melodramatic sequences somewhat diminished the overall impact of the narrative."
+        ]
+      },
+      {
+        "h": "Production Background and Cast",
+        "p": [
+          "Behind the camera, 'Itlu Arjuna' is directed by Mahesh Uppala and features a supporting cast that includes Mukesh Rishi, Vennela Kishore, Brahmaji, and Raghu Babu.",
+          "The project is produced by Venky Kudumula, presented by Nagarjuna, and features original music composed by S Thaman."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Telugu romantic-action thriller 'Itlu Arjuna' premiered in theatres on November 13, showcasing the lead debut of Aniesh alongside Anaswara Rajan under Mahesh Uppala's direction. Early social media reactions highlight praise for the performances, comedy, and S Thaman's musical score, even as some viewers note its conventional formula."
+        ]
+      }
+    ],
+    "facts": [
+      "Itlu Arjuna released on November 13, 2026",
+      "Aniesh Reddy makes his debut as a lead actor in the film",
+      "Anaswara Rajan stars as Keerthy opposite Aniesh",
+      "Mahesh Uppala is the director of the film",
+      "Venky Kudumula is the producer of the film",
+      "Nagarjuna presents the film",
+      "S Thaman is the music director of the film",
+      "Vennela Kishore, Mukesh Rishi, Brahmaji, and Raghu Babu are part of the supporting cast"
+    ],
+    "entities": {
+      "people": [
+        "Aniesh",
+        "Anaswara Rajan",
+        "Mahesh Uppala",
+        "S Thaman",
+        "Vennela Kishore",
+        "Venky Kudumula",
+        "Nagarjuna",
+        "Mukesh Rishi",
+        "Brahmaji",
+        "Raghu Babu"
+      ],
+      "titles": [
+        "Itlu Arjuna"
+      ]
+    },
+    "keywords": [
+      "Itlu Arjuna film",
+      "Aniesh Anaswara Rajan Itlu Arjuna",
+      "Itlu Arjuna Twitter review",
+      "Mahesh Uppala Itlu Arjuna",
+      "Thaman Itlu Arjuna music"
+    ],
+    "images": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-135793314,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "caption": "'Itlu Arjuna' Twitter Review: Debutant Aniesh and Anaswara Rajan Lead Telugu Romantic-Action Thriller",
+        "source": "Times of India — Entertainment"
+      }
+    ],
+    "published": "2026-11-13T12:25:28+05:30"
+  },
+  "2rkbkw": {
+    "id": "2rkbkw",
+    "type": "news",
+    "headline": "Shilpa Shetty to Host Relationship Reality Show 'Pyaar Ka Pressure Cooker'",
+    "dek": "Bollywood star Shilpa Shetty is returning to television to front JioHotstar and Colors' new unscripted project focused on undefined relationships and parental reality checks.",
+    "body": [
+      {
+        "h": "Introduction to the New Reality Format",
+        "p": [
+          "Bollywood icon Shilpa Shetty has signed on to anchor an upcoming unscripted series titled 'Pyaar Ka Pressure Cooker'. The project is being developed as a collaborative venture between streaming platform JioHotstar and Hindi-language broadcast network Colors.",
+          "Industry executives from JioStar are positioning the project as India's premier relationship clarity show. It aims to tackle modern romantic dynamics by forcing participants to confront issues they have traditionally avoided."
+        ]
+      },
+      {
+        "h": "Premise and Core Mechanics",
+        "p": [
+          "The show gathers a diverse group of participants whose romantic arrangements have stalled or lack proper definitions. These range from individuals in very early, label-free situationships to long-term partners who have hesitated to take the next formal step.",
+          "Contenders will reside together in a shared house, facing difficult conversations about their futures. A central element of the format involves bringing in the participants' parents to deliver direct assessments and unfiltered feedback."
+        ]
+      },
+      {
+        "h": "Catchphrases and Kitchen Metaphors",
+        "p": [
+          "Taking inspiration from a common kitchen utensil, the series features a distinctive branding strategy. A signature sound cue modeled after a kitchen appliance whistle, referred to as the Clarity Ki Seeti, sounds whenever a contestant finally speaks the truth.",
+          "The overarching ultimatum of the program is summarized by its primary catchphrase, 'Jodo Ya Todo'. Translated from Hindi, the phrase challenges pairings to either commit and solidify their bond or permanently sever ties."
+        ]
+      },
+      {
+        "h": "Host Perspective on Modern Romance",
+        "p": [
+          "Shilpa Shetty expressed enthusiasm for the project, noting that contemporary dating terminology includes complex concepts like situationships, breadcrumbing, and benching. She pointed out that somewhere along the line, absolute clarity became scarce in romance.",
+          "The host also highlighted the unique structure of the show, emphasizing the novel inclusion of parents delivering evaluations. She believes the format will resonate strongly with both couples navigating these dilemmas and older generations observing from home."
+        ]
+      },
+      {
+        "h": "Executive Vision and Target Audience",
+        "p": [
+          "Alok Jain, who oversees Hindi and English entertainment across streaming, television, and studios at JioStar, shared insights into the programming strategy. He noted that young Indian demographics occupy a central place in the company's creative vision.",
+          "Jain emphasized that relationships remain among the most discussed topics for contemporary youth, though they seldom receive honest dialogue, especially with older family members. The new series attempts to bridge that gap with humor and emotional depth."
+        ]
+      },
+      {
+        "h": "Casting and Participation Details",
+        "p": [
+          "Production teams are currently accepting applications for the upcoming series. Interested couples can submit their personal stories through a dedicated web portal established for the program.",
+          "Additionally, the application platform allows parents to directly nominate their sons or daughters if they believe their offspring remain stuck in unresolved romantic situations."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Shilpa Shetty will host the new relationship clarity reality series 'Pyaar Ka Pressure Cooker' for JioHotstar and Colors. The show brings couples in undefined partnerships together under one roof alongside their parents to force definitive decisions about their romantic futures."
+        ]
+      }
+    ],
+    "facts": [
+      "Shilpa Shetty will host 'Pyaar Ka Pressure Cooker'.",
+      "The show will air on JioHotstar and Colors.",
+      "The project is billed as India's first relationship clarity show.",
+      "Alok Jain is the head of Hindi and English entertainment across streaming, TV and studios at JioStar.",
+      "The show's defining call is 'Jodo Ya Todo'."
+    ],
+    "entities": {
+      "people": [
+        "Shilpa Shetty",
+        "Alok Jain",
+        "Naman Ramachandran"
+      ],
+      "titles": [
+        "Pyaar Ka Pressure Cooker"
+      ]
+    },
+    "keywords": [
+      "Shilpa Shetty",
+      "Pyaar Ka Pressure Cooker",
+      "JioHotstar",
+      "Colors TV"
+    ],
+    "images": [
+      {
+        "url": "https://variety.com/wp-content/uploads/2026/11/Shilpa-Shetty-Pyar-Ka-Pressure-Cooker.jpg?w=1000&#038;h=563&#038;crop=1",
+        "caption": "Shilpa Shetty to Host Relationship Reality Show 'Pyaar Ka Pressure Cooker'",
+        "source": "Variety"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 07:01:16 +0000"
   }
 };
