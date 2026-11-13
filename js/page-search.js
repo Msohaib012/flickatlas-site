@@ -1,15 +1,20 @@
-/* FlickAtlas — grouped search over PUBLISHED content only.
+/* FlickAtlas — grouped search over PUBLISHED content first, with a live
+   TMDB fallback when the local search finds nothing (stage 1a,
+   2026-11-14).
    Rewritten 2026-10-25 (published-only rebuild, §3): search reads
    window.FA_PUBLISHED titles (title/overview) and window.FA_ARTICLES
-   headlines — never the live TMDB catalogue. TMDB.searchMulti is gone
-   entirely. People come from cast data baked into published entries,
-   if any; with no cast data the people group is omitted rather than
-   calling TMDB. Episode posts ARE searchable — they live in FA_ARTICLES
-   (headlines like "Bano Episode 13 — Watch on Geo TV") and appear under
-   the News group. All matching is local and instant — no pagination,
-   no loading states. Results carry a .fa-select in-page dropdown
-   (All / Movies / TV / People / News) that shows only one result
-   group at a time — never a native <select> popup. */
+   headlines — never the live TMDB catalogue. People come from cast
+   data baked into published entries, if any; with no cast data the
+   people group is omitted rather than calling TMDB. Episode posts ARE
+   searchable — they live in FA_ARTICLES (headlines like "Bano Episode
+   13 — Watch on Geo TV") and appear under the News group. All
+   matching is local and instant — no pagination, no loading states.
+   The ONE exception is the TMDB fallback below: it runs only when
+   the local search finds NOTHING at all, for this query only, and a
+   TMDB failure leaves the normal no-results state. Results carry a
+   .fa-select in-page dropdown (All / Movies / TV / People / News)
+   that shows only one result group at a time — never a native
+   <select> popup. */
 (function () {
   UI.mountChrome("");
   const main = document.getElementById("app");
@@ -204,14 +209,55 @@
       <div class="filter-select" role="group" aria-labelledby="searchSelectLabel"><span class="filter-select-label" id="searchSelectLabel">Show</span><div class="fa-select"><button type="button" class="fa-select-trigger" id="searchTrigger" role="combobox" aria-haspopup="listbox" aria-expanded="false" aria-controls="searchOptions" aria-labelledby="searchSelectLabel searchValue"><span class="fa-select-value" id="searchValue"></span><span class="fa-select-chevron" aria-hidden="true"></span></button><div class="fa-select-menu" id="searchOptions" role="listbox" aria-labelledby="searchSelectLabel" hidden></div></div></div>
     </div></div><div id="searchGroups"></div>`;
   const groupsHost = results.querySelector("#searchGroups");
+
+  /* TMDB fallback (stage 1a, 2026-11-14): when the local search over
+     FA_PUBLISHED + FA_ARTICLES finds nothing at all, ONE live TMDB
+     multi-search runs for this query and its movie/tv results render
+     as a "More results from TMDB" section. Clicking a result goes to
+     the detail page, which renders from its catalogue chunk if the
+     title is catalogued, else the existing "not published" state.
+     Cached per query so filter changes re-render without a second
+     call; fail-open — a TMDB failure (or an empty TMDB answer) leaves
+     the normal no-results state. */
+  let tmdbFallback = null; // { done, rows: [{ media_type, id, title/name, poster_path, release_date/first_air_date, vote_average }] }
+  function tmdbSectionHtml() {
+    if (!tmdbFallback || !tmdbFallback.done || !tmdbFallback.rows.length) return "";
+    const rows = show === "all" ? tmdbFallback.rows
+      : show === "movie" ? tmdbFallback.rows.filter(r => r.media_type === "movie")
+      : show === "tv" ? tmdbFallback.rows.filter(r => r.media_type === "tv")
+      : [];
+    if (!rows.length) return "";
+    const cards = rows.map(r => {
+      const isMovie = r.media_type === "movie";
+      const title = r.title || r.name || "Untitled";
+      const href = `/${isMovie ? "movie" : "show"}?id=${encodeURIComponent(r.id)}`;
+      const image = r.poster_path || "";
+      const date = r.release_date || r.first_air_date || "";
+      const info = (Number.isFinite(r.vote_average) && r.vote_average > 0 ? `TMDB rating ${r.vote_average.toFixed(1)}/10` : "");
+      const imgSrc = image ? UI.img(image, "w92") : "";
+      const imgHtml = imgSrc ? `<img src="${UI.esc(imgSrc)}" alt="" loading="lazy" onerror="this.remove()">` : "";
+      return `<a class="search-result" href="${UI.esc(href)}">${imgHtml}<span><small>${date ? UI.esc(UI.fmtDate(date)) : "Date unavailable"}</small><b>${UI.esc(title)}</b><small>${UI.esc(info)}</small></span></a>`;
+    }).join("");
+    return `<section class="search-group" aria-labelledby="search-tmdb"><h2 id="search-tmdb">More results from TMDB <small>(${rows.length} match${rows.length === 1 ? "" : "es"})</small></h2><p class="search-date-note">These titles come from TMDB, not from FlickAtlas's published catalogue — opening one shows its detail page if it has been catalogued, otherwise the usual not-published state.</p><div class="search-results">${cards}</div></section>`;
+  }
   function renderResults() {
     const shown = show === "all" ? categories : categories.filter(([key]) => key === show);
-    groupsHost.innerHTML = `<nav class="search-category-nav" aria-label="Jump to search category">${shown.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>${shown.map(c => section(c[0])).join("")}`;
+    groupsHost.innerHTML = `<nav class="search-category-nav" aria-label="Jump to search category">${shown.map(([key, label]) => `<a href="#search-${key}">${label}</a>`).join(" · ")}</nav><p class="search-date-note">Newest dated results first among loaded matches. Undated records follow dated results. Counts describe loaded matches, not all records.</p>${shown.map(c => section(c[0])).join("")}${tmdbSectionHtml()}`;
   }
   UI.mountFaSelect(results.querySelector("#searchFilterHost .filter-select"),
     [{ value: "all", label: "All results" }, ...categories.map(([key, label]) => ({ value: key, label }))],
     show, (v) => { show = v; renderResults(); });
   renderResults();
+  /* Kick off the TMDB fallback once, only when the local search found
+     nothing at all for a non-empty query. */
+  if (q && categories.every(([key]) => !(groups[key] || []).length)) {
+    tmdbFallback = { done: false, rows: [] };
+    TMDB.searchMulti(q, 1).then((data) => {
+      const rows = ((data && data.results) || []).filter(r => r && (r.media_type === "movie" || r.media_type === "tv") && (r.title || r.name)).slice(0, 20);
+      tmdbFallback = { done: true, rows };
+      renderResults();
+    }).catch(() => { tmdbFallback = { done: true, rows: [] }; renderResults(); });
+  }
 })();
 
 

@@ -429,7 +429,9 @@ lastmods = {
                         for row in rows]),
 }
 expected_sitemap, url_count = seo.build_sitemap(lastmods)
-actual_sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8")
+# Stage 1a (2026-11-14): build_sitemap() is now the MAIN sitemap;
+# sitemap.xml is the index (main + per-bucket catalogue sitemaps).
+actual_sitemap = (ROOT / "sitemap-main.xml").read_text(encoding="utf-8")
 assert actual_sitemap == expected_sitemap, "checked-in sitemap is not data-synchronized"
 xml_root = ET.fromstring(actual_sitemap)
 ns = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}

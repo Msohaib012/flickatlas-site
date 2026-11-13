@@ -10,10 +10,19 @@ sorted keys, no timestamps — the files only change when the DATA
 changes, so the hourly run does not force a spurious commit.
 
 Outputs:
-  sitemap.xml      — one urlset: all listing pages + every movie/show
+  sitemap.xml      — a sitemap INDEX (stage 1a, 2026-11-14): it lists
+                     sitemap-main.xml + one sitemap-cat-<bb>.xml per
+                     non-empty catalogue bucket. Crawlers follow the
+                     index; robots.txt still points at sitemap.xml.
+  sitemap-main.xml — one urlset: all listing pages + every movie/show
                      detail URL + every news article URL + every
                      day-wise box-office URLs through theatrical Day 30;
                      later records remain available only in aggregate totals.
+  sitemap-cat-<bb>.xml — one urlset per non-empty catalogue bucket
+                     (js/seo/<bb>.json), listing /movie?id= and
+                     /show?id= URLs with lastmod = catalogue-add date
+                     from out/catalogue-state.json; written only when
+                     the bucket changed.
   robots.txt       — explicit OAI-SearchBot allow plus wildcard Allow /
                      (except private /api/ paths), with public feeds allowed.
   js/seo-meta.json — compact per-URL meta map the Cloudflare Worker
@@ -1360,6 +1369,95 @@ def build_sitemap(lastmods):
     return "\n".join(out) + "\n", len(urls)
 
 
+# --- Catalogue sitemaps (stage 1a, 2026-11-14) ---------------------------
+# sitemap.xml is now an INDEX: it lists sitemap-main.xml (everything
+# build_sitemap() emits — static pages, published titles, articles,
+# day-wise pages) plus one sitemap-cat-<bb>.xml per non-empty catalogue
+# bucket under js/seo/. robots.txt still points at sitemap.xml, so it
+# needs no change. build_sitemap() itself is untouched: two offline
+# tests (test_sitewide_seo_metadata, test_daywise_30day_policy) call
+# it directly and assert on its urlset output; the sitewide test now
+# compares it against the checked-in sitemap-main.xml instead of
+# sitemap.xml.
+def list_seo_buckets():
+    """Sorted two-digit bucket names with a non-empty js/seo/<bb>.json."""
+    seo_dir = os.path.join(ROOT, "js", "seo")
+    buckets = []
+    if not os.path.isdir(seo_dir):
+        return buckets
+    for name in sorted(os.listdir(seo_dir)):
+        if not name.endswith(".json"):
+            continue
+        bb = name[:-len(".json")]
+        if len(bb) == 2 and bb.isdigit() and os.path.getsize(os.path.join(seo_dir, name)) > 0:
+            buckets.append(bb)
+    return buckets
+
+
+def build_sitemap_cat(bucket, state=None):
+    """One bucket's sitemap: /movie?id= and /show?id= URLs for the
+    titles in js/seo/<bb>.json. lastmod is the catalogue-add date from
+    out/catalogue-state.json (state["added"][tid]) — never today.
+    Returns (xml, count, max_lastmod); ("", 0, "") when the bucket has
+    no titles or its chunk is missing/unreadable."""
+    state = state or {}
+    added = state.get("added") or {}
+    path = os.path.join(ROOT, "js", "seo", "%s.json" % bucket)
+    try:
+        with open(path, encoding="utf-8") as f:
+            chunk = json.load(f)
+    except (OSError, ValueError):
+        return "", 0, ""
+    entries = (chunk or {}).get("titles") or {}
+    urls = []
+    for key in sorted(entries, key=lambda k: int(str(k).split(":", 1)[-1])):
+        kind, _, tid = str(key).partition(":")
+        page = "show" if kind == "tv" else "movie"
+        lm = added.get(tid) or added.get(str(key)) or ""
+        urls.append(("%s/%s?id=%s" % (BASE, page, tid), lm))
+    if not urls:
+        return "", 0, ""
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, lm in urls:
+        lastmod = "<lastmod>%s</lastmod>" % xml_esc(lm) if lm else ""
+        out.append("  <url><loc>%s</loc>%s</url>" % (xml_esc(loc), lastmod))
+    out.append("</urlset>")
+    max_lm = max((lm for _loc, lm in urls if lm), default="")
+    return "\n".join(out) + "\n", len(urls), max_lm
+
+
+def build_sitemap_index(main_lastmod, bucket_lastmods):
+    """The sitemap index: sitemap-main.xml + one entry per non-empty
+    bucket sitemap. bucket_lastmods maps bucket -> max catalogue-add
+    date (or "" when unknown). With no buckets the index lists only
+    sitemap-main.xml."""
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    main_lm = "<lastmod>%s</lastmod>" % xml_esc(main_lastmod) if main_lastmod else ""
+    out.append("  <sitemap><loc>%s/sitemap-main.xml</loc>%s</sitemap>" % (BASE, main_lm))
+    for bb in sorted(bucket_lastmods):
+        lm = bucket_lastmods[bb]
+        lastmod = "<lastmod>%s</lastmod>" % xml_esc(lm) if lm else ""
+        out.append("  <sitemap><loc>%s/sitemap-cat-%s.xml</loc>%s</sitemap>" % (BASE, bb, lastmod))
+    out.append("</sitemapindex>")
+    return "\n".join(out) + "\n"
+
+
+def _write_if_changed(path, text):
+    """Write text only when it differs from the file on disk (bucket
+    sitemaps: avoids touching ~100 files every hourly run)."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            if f.read() == text:
+                return False
+    except OSError:
+        pass
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+    return True
+
+
 def build_robots():
     """Allow search crawlers while keeping non-public API paths excluded."""
     # OAI-SearchBot is explicitly allowed for ChatGPT Search discovery. Its
@@ -1500,8 +1598,29 @@ def main():
         f.write("\n")
 
     sitemap, n_urls = build_sitemap(lastmods)
-    with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
+    with open(os.path.join(ROOT, "sitemap-main.xml"), "w", encoding="utf-8") as f:
         f.write(sitemap)
+    # Catalogue buckets (stage 1a): one sitemap per non-empty
+    # js/seo/<bb>.json, written only when the bucket changed;
+    # sitemap.xml becomes the index listing main + buckets.
+    state = {}
+    try:
+        with open(os.path.join(ROOT, "out", "catalogue-state.json"),
+                  encoding="utf-8") as f:
+            state = json.load(f)
+    except (OSError, ValueError):
+        state = {}
+    bucket_lastmods = {}
+    n_cat_total = 0
+    for bb in list_seo_buckets():
+        xml, n_cat, max_lm = build_sitemap_cat(bb, state)
+        if not xml:
+            continue
+        _write_if_changed(os.path.join(ROOT, "sitemap-cat-%s.xml" % bb), xml)
+        bucket_lastmods[bb] = max_lm
+        n_cat_total += n_cat
+    with open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8") as f:
+        f.write(build_sitemap_index(lastmods["max"], bucket_lastmods))
     with open(os.path.join(ROOT, "robots.txt"), "w", encoding="utf-8") as f:
         f.write(build_robots())
     with open(os.path.join(ROOT, "llms-full.txt"), "w", encoding="utf-8") as f:
@@ -1513,8 +1632,10 @@ def main():
               sum(1 for v in PUBLISHED.values() if v.get("type") == "movie"),
               sum(1 for v in PUBLISHED.values() if v.get("type") == "tv"),
               len(ARTICLES), len(DAYWISE)))
-    print("seo_assets: seo-meta.json %d entries, sitemap.xml %d urls, "
-          "robots.txt -> %s" % (len(meta), n_urls, BASE))
+    print("seo_assets: seo-meta.json %d entries, sitemap-main.xml %d urls, "
+          "sitemap.xml index (%d buckets, %d catalogue urls), "
+          "robots.txt -> %s" % (len(meta), n_urls,
+                                len(bucket_lastmods), n_cat_total, BASE))
     return 0
 
 

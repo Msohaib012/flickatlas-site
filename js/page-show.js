@@ -1,16 +1,20 @@
 /* FlickAtlas — TV show detail page (?id=<tmdb tv id>): published
-   titles only. Rewritten 2026-10-25 (published-only rebuild, §4);
+   titles, plus catalogue titles from per-bucket chunks (stage 1a,
+   2026-11-14). Rewritten 2026-10-25 (published-only rebuild, §4);
    rich detail fields added in consolidation (spec §1a): genres,
    creators, episode runtime, tagline, certification and spoken
    languages all render FROM THE BAKED-IN published entry — never a
    live TMDB.details call. The id is looked
-   the id is looked up in window.FA_PUBLISHED; hero/story/facts/
+   up in window.FA_PUBLISHED; hero/story/facts/
    trailer/day-wise/similar all render from the baked-in published
    entry. Cast comes from the TMDB credits endpoint for this one
-   title only (a single-title record, not a catalogue). A title that
-   isn't published renders a plain state — the page NEVER fetches the
-   title live from TMDB to fill itself. No watch/download buttons, no
-   external links except the YouTube trailer embed.
+   title only (a single-title record, not a catalogue) — except
+   catalogue entries, whose cast + director are baked into their chunk
+   entry, so no live credits fetch runs for them. A title that is
+   neither published nor catalogued renders a plain state — the page
+   NEVER fetches the title live from TMDB to fill itself (a chunk
+   fetch is a static file fetch, not a TMDB call). No watch/download
+   buttons, no external links except the YouTube trailer embed.
    Pakistani dramas have NO seasons (seasons are an OTT thing): for a
    Pakistani drama the Seasons table is replaced by an Episodes list
    (the YouTube episode posts for that drama, each linking to its own
@@ -100,11 +104,23 @@
     return out.slice(0, 4);
   };
 
-  /* --- Published lookup: nothing renders unless this title was chosen
-     and published. No live TMDB fetch fills this page. A published
-     movie id lands here by mistake — point at its real page instead
-     of claiming it was never published. --- */
-  const pub = (window.FA_PUBLISHED || {})[String(id)] || null;
+  /* --- Published lookup, then the catalogue (stage 1a, 2026-11-14):
+     titles the builder has catalogued live in per-bucket chunks
+     js/cat/<bb>.json (bb = tmdb id % 100). A chunk fetch is a static
+     file fetch, NOT a live TMDB call. A published movie id lands here
+     by mistake — point at its real page instead of claiming it was
+     never published. --- */
+  const fetchCatalogueEntry = async (tid) => {
+    try {
+      const bb = String(Number(tid) % 100).padStart(2, "0");
+      const res = await fetch("/js/cat/" + bb + ".json");
+      if (!res.ok) return null;
+      const chunk = await res.json();
+      return (chunk && chunk.titles && chunk.titles[String(tid)]) || null;
+    } catch (_) { return null; }
+  };
+  let pub = (window.FA_PUBLISHED || {})[String(id)] || null;
+  if (!pub) pub = await fetchCatalogueEntry(id);
   if (pub && pub.type === "movie") {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("This title is a movie — it lives on its own movie page.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/movie?id=${encodeURIComponent(id)}">Open Movie Page →</a></p></div>`;
@@ -148,17 +164,39 @@
     const runtime = epRun.length ? UI.fmtRuntime(epRun[0]) : "";
     const spoken = (pub.spoken_languages || []).map(c => langName(c)).filter(Boolean);
 
-    /* Cast + crew: the credits endpoint for this one published title
-       only (single-title record, not a catalogue). Best effort — the
-       page renders without cast if it fails. */
+    /* Cast + crew: catalogue entries carry cast/director baked in
+       (pub.cast = top 10 {n, c}, pub.director = names) — no live
+       credits fetch runs for them. Published titles still use the
+       credits endpoint for this one title only (single-title record,
+       not a catalogue). Best effort — the page renders without cast
+       if it fails. */
     let credits = null;
-    try { credits = await TMDB.api(`/tv/${id}/credits`); } catch (_) { credits = null; }
+    if (Array.isArray(pub.cast) && pub.cast.length) {
+      /* Catalogue entry: synthesize the credits shape from the baked
+         cast/director. No TMDB person ids are stored, so cast/crew
+         render as plain text (see castCard/crewLink below) — never a
+         /person?id=undefined dead link. */
+      credits = {
+        cast: pub.cast.map(c => ({ id: null, name: (c && c.n) || "", character: (c && c.c) || "", profile_path: null })),
+        crew: (Array.isArray(pub.director) ? pub.director : []).map(d => ({ id: null, name: d || "", job: "Director" })),
+      };
+    } else {
+      try { credits = await TMDB.api(`/tv/${id}/credits`); } catch (_) { credits = null; }
+    }
     /* Cast: top 12 + the rest behind Show More (same as the movie page).
        The show page used to cap at 12 with no way to see the rest. */
     const castAll = ((credits && credits.cast) || []).filter(c => c && c.name);
     const cast = castAll.slice(0, 12);
     const castRest = castAll.slice(12, 30);
     const crew = ((credits && credits.crew) || []).filter(c => c && c.name);
+
+    /* Catalogue entries carry no TMDB person ids — their names render
+       as plain text, never a /person?id=undefined dead link. */
+    const crewLink = (p) => (pub.catalogue || !p.id) ? UI.esc(p.name) : `<a href="/person?id=${p.id}">${UI.esc(p.name)}</a>`;
+    const personInitials = (name) => String(name || "?").split(/\s+/).filter(Boolean).slice(0, 2).map(w => w[0]).join("").toUpperCase() || "?";
+    const castCard = (c, sub) => pub.catalogue
+      ? `<span class="person-card"><span class="person-photo"><span class="noimg round"><span>${UI.esc(personInitials(c.name))}</span></span></span><span class="person-name">${UI.esc(c.name || "")}</span>${sub ? `<span class="person-sub">${UI.esc(sub)}</span>` : ""}</span>`
+      : UI.personCard(c, sub);
 
     /* Official trailer: baked into the published entry (official
        YouTube trailer only). Absent when none exists — no section. */
@@ -384,15 +422,15 @@
         </tr>`).join("")}</tbody></table></div></div>` : "")}
 
     ${cast.length ? `<div class="content-card"><h2>Top Cast</h2>
-      <div class="cast-grid">${cast.map(c => UI.personCard(c, c.character || "")).join("")}</div>
-      ${castRest.length ? `<div class="cast-grid more-wrap" id="castMore">${castRest.map(c => UI.personCard(c, c.character || "")).join("")}</div>
+      <div class="cast-grid">${cast.map(c => castCard(c, c.character || "")).join("")}</div>
+      ${castRest.length ? `<div class="cast-grid more-wrap" id="castMore">${castRest.map(c => castCard(c, c.character || "")).join("")}</div>
       <button type="button" class="btn more-btn" data-target="castMore" data-more="Show More Cast" data-less="Show Less" onclick="UI.toggleMore(this)">Show More Cast</button>` : ""}
       </div>` : ""}
 
     ${(createdBy.length || crewGroups.length) ? `<div class="content-card"><h2>Creators &amp; Crew</h2>
       <div class="crew-groups">${createdBy.length ? `<div class="crew-group"><h4>Created by</h4>
         <ul>${createdBy.map(n => `<li>${UI.esc(n)}</li>`).join("")}</ul></div>` : ""}${crewGroups.map(([label, people]) => `<div class="crew-group"><h4>${UI.esc(label)}</h4>
-        <ul>${people.map(p => `<li><a href="/person?id=${p.id}">${UI.esc(p.name)}</a><span class="crew-job">${UI.esc(p.job || "")}</span></li>`).join("")}</ul></div>`).join("")}</div></div>` : ""}
+        <ul>${people.map(p => `<li>${crewLink(p)}<span class="crew-job">${UI.esc(p.job || "")}</span></li>`).join("")}</ul></div>`).join("")}</div></div>` : ""}
 
     ${trailerKey ? `<div class="content-card" id="official-trailer"><h2>Official Trailer</h2>
       <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/${trailerKey}" title="Official trailer: ${UI.esc(trailerName || name)}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>` : ""}

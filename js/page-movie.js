@@ -1,4 +1,5 @@
-/* FlickAtlas — Movie detail page (?id=<tmdb_id>): published titles only.
+/* FlickAtlas — Movie detail page (?id=<tmdb_id>): published titles, plus
+   catalogue titles from per-bucket chunks (stage 1a, 2026-11-14).
    Rewritten 2026-10-25 (published-only rebuild, §4); rich detail fields
    added in consolidation (spec §1a): budget/revenue/verdict, genres,
    runtime, tagline, certification, status, spoken languages and
@@ -7,9 +8,12 @@
    up in window.FA_PUBLISHED; hero/story/facts/trailer/day-wise/similar
    all render from the baked-in published entry. Cast comes from the
    TMDB credits endpoint for this one title only (a single-title
-   record, not a catalogue). A title that isn't published renders a
-   plain state — the page NEVER fetches the title live from TMDB to
-   fill itself. Money always goes through UI.fmtMoney* (USD data,
+   record, not a catalogue) — except catalogue entries, whose cast +
+   director are baked into their chunk entry, so no live credits fetch
+   runs for them. A title that is neither published nor catalogued
+   renders a plain state — the page NEVER fetches the title live from
+   TMDB to fill itself (a chunk fetch is a static file fetch, not a
+   TMDB call). Money always goes through UI.fmtMoney* (USD data,
    auto-converts on currency change); no watch/download buttons, no
    external links except the YouTube trailer embed. */
 (async function () {
@@ -101,11 +105,23 @@
     return out.slice(0, 4);
   };
 
-  /* --- Published lookup: nothing renders unless this title was chosen
-     and published. No live TMDB fetch fills this page. A published TV
-     id lands here by mistake — point at its real page instead of
-     claiming it was never published. --- */
-  const pub = (window.FA_PUBLISHED || {})[String(id)] || null;
+  /* --- Published lookup, then the catalogue (stage 1a, 2026-11-14):
+     titles the builder has catalogued live in per-bucket chunks
+     js/cat/<bb>.json (bb = tmdb id % 100). A chunk fetch is a static
+     file fetch, NOT a live TMDB call. A published TV id lands here by
+     mistake — point at its real page instead of claiming it was never
+     published. --- */
+  const fetchCatalogueEntry = async (tid) => {
+    try {
+      const bb = String(Number(tid) % 100).padStart(2, "0");
+      const res = await fetch("/js/cat/" + bb + ".json");
+      if (!res.ok) return null;
+      const chunk = await res.json();
+      return (chunk && chunk.titles && chunk.titles[String(tid)]) || null;
+    } catch (_) { return null; }
+  };
+  let pub = (window.FA_PUBLISHED || {})[String(id)] || null;
+  if (!pub) pub = await fetchCatalogueEntry(id);
   if (pub && pub.type === "tv") {
     main.innerHTML = `<div class="wrap">${UI.stateMsg("This title is a TV show — it lives on its own show page.", false)}
       <p style="text-align:center"><a class="btn btn-teal" href="/show?id=${encodeURIComponent(id)}">Open Show Page →</a></p></div>`;
@@ -149,26 +165,46 @@
     const prodCountries = countryNames(
       (pub.production_countries && pub.production_countries.length ? pub.production_countries : countries));
 
-    /* Cast + crew: the credits endpoint for this one published title
-       only (single-title record, not a catalogue). Best effort — the
-       page renders without cast if it fails. */
+    /* Cast + crew: catalogue entries carry cast/director baked in
+       (pub.cast = top 10 {n, c}, pub.director = names) — no live
+       credits fetch runs for them. Published titles still use the
+       credits endpoint for this one title only (single-title record,
+       not a catalogue). Best effort — the page renders without cast
+       if it fails. */
     /* Cast + crew: the credits endpoint for this one published title.
        Raced against an 8s timeout (user-visible bug 2026-10-26): TMDB.api
        has NO timeout, so a stalled credits fetch hung the whole page on
        its loading skeleton forever. The page must render without cast
        if the fetch fails OR hangs — never wait forever. */
     let credits = null;
-    try {
-      credits = await Promise.race([
-        TMDB.api(`/movie/${id}/credits`),
-        new Promise((_, rej) => setTimeout(() => rej(new Error("credits timeout")), 8000))
-      ]);
-    } catch (_) { credits = null; }
+    if (Array.isArray(pub.cast) && pub.cast.length) {
+      /* Catalogue entry: synthesize the credits shape from the baked
+         cast/director. No TMDB person ids are stored, so cast/crew
+         render as plain text (see castCard/crewLink below) — never a
+         /person?id=undefined dead link. */
+      credits = {
+        cast: pub.cast.map(c => ({ id: null, name: (c && c.n) || "", character: (c && c.c) || "", profile_path: null })),
+        crew: (Array.isArray(pub.director) ? pub.director : []).map(d => ({ id: null, name: d || "", job: "Director" })),
+      };
+    } else {
+      try {
+        credits = await Promise.race([
+          TMDB.api(`/movie/${id}/credits`),
+          new Promise((_, rej) => setTimeout(() => rej(new Error("credits timeout")), 8000))
+        ]);
+      } catch (_) { credits = null; }
+    }
     const cast = ((credits && credits.cast) || []).filter(c => c && c.name);
     const crew = ((credits && credits.crew) || []).filter(c => c && c.name);
     const directors = [...new Map(crew.filter(c => c.job === "Director").map(c => [c.id, c])).values()];
     const writers = [...new Map(crew.filter(c => ["Writer", "Screenplay", "Story", "Author"].includes(c.job)).map(c => [c.id, c])).values()];
-    const crewLink = (p) => `<a href="/person?id=${p.id}">${UI.esc(p.name)}</a>`;
+    /* Catalogue entries carry no TMDB person ids — their names render
+       as plain text, never a /person?id=undefined dead link. */
+    const crewLink = (p) => (pub.catalogue || !p.id) ? UI.esc(p.name) : `<a href="/person?id=${p.id}">${UI.esc(p.name)}</a>`;
+    const personInitials = (name) => String(name || "?").split(/\s+/).filter(Boolean).slice(0, 2).map(w => w[0]).join("").toUpperCase() || "?";
+    const castCard = (c, sub) => pub.catalogue
+      ? `<span class="person-card"><span class="person-photo"><span class="noimg round"><span>${UI.esc(personInitials(c.name))}</span></span></span><span class="person-name">${UI.esc(c.name || "")}</span>${sub ? `<span class="person-sub">${UI.esc(sub)}</span>` : ""}</span>`
+      : UI.personCard(c, sub);
 
     /* Crew groups: key crew jobs from the one title's credits
        (deduped, capped at 6 per group — same pattern as the show
@@ -389,8 +425,8 @@
       <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/${trailerKey}" title="Official trailer — ${UI.esc(trailerName || title)}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div></div>` : ""}
 
     ${castTop.length ? `<div class="content-card"><h2>Top Cast</h2>
-      <div class="cast-grid">${castTop.map(c => UI.personCard(c, c.character || "")).join("")}</div>
-      ${castRest.length ? `<div class="cast-grid more-wrap" id="castMore">${castRest.map(c => UI.personCard(c, c.character || "")).join("")}</div>
+      <div class="cast-grid">${castTop.map(c => castCard(c, c.character || "")).join("")}</div>
+      ${castRest.length ? `<div class="cast-grid more-wrap" id="castMore">${castRest.map(c => castCard(c, c.character || "")).join("")}</div>
       <button type="button" class="btn more-btn" data-target="castMore" data-more="Show More Cast" data-less="Show Less" onclick="UI.toggleMore(this)">Show More Cast</button>` : ""}
       </div>` : ""}
 

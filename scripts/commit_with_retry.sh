@@ -71,6 +71,15 @@ stage_all() {
     [ -f "$f" ] && git add "$f"
   done
   [ -e out/categories ] && git add out/categories || true
+  # Catalogue expansion (stage 1a, 2026-11-14): per-bucket chunks +
+  # state + sitemap files. Without these lines the commit step fails
+  # at `git pull --rebase` ("unstaged changes") — same failure class
+  # as the phase-2 out/credits.json miss (run 43497753667).
+  [ -f out/catalogue-state.json ] && git add out/catalogue-state.json || true
+  [ -d js/cat ] && git add js/cat || true
+  [ -d js/seo ] && git add js/seo || true
+  [ -f sitemap-main.xml ] && git add sitemap-main.xml || true
+  git add sitemap-cat-*.xml 2>/dev/null || true
   git add -A -- '*.html'
 }
 

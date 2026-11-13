@@ -1,0 +1,87 @@
+# ======================================================================
+# Catalogue build — staged data-page expansion (stage 1a, 2026-11-14).
+# Separate from the hourly pipeline ON PURPOSE: one build run takes
+# ~45 min for 800 titles and must never stall the news/box-office
+# cycle (hourly job timeout is 50 min). The builder
+# (scripts/catalogue_build.py) writes per-bucket chunks js/cat/<bb>.json
+# + js/seo/<bb>.json, out/catalogue-state.json and out/credits.json.
+# It NEVER writes the hourly pipeline's files (js/seo-meta.json,
+# js/published-titles.js, sitemap-main.xml — those belong to the hourly
+# run's seo_assets step, which also generates the sitemap index +
+# per-bucket sitemaps from the chunks).
+#
+# NO DEPLOY STEP HERE: the hourly pipeline deploys unconditionally
+# every hour (since 12fb0d96), so committed chunks go live within the
+# hour. Two workflows deploying concurrently would race; the hourly
+# one owns deploys.
+#
+# Concurrency: SAME group as the hourly pipeline
+# (flickatlas-site-writes, cancel-in-progress: false) — runs serialize
+# instead of racing on main.
+#
+# STAGING NOTE (2026-11-14): scripts/commit_with_retry.sh stage_all()
+# stages the catalogue paths (js/cat, js/seo, sitemap-main.xml,
+# sitemap-cat-*.xml, out/catalogue-state.json) — landed in the same
+# commit as this workflow, so the commit step works from the first run.
+# (Earlier draft warned this was a blocker; it is resolved.)
+#
+# Schedule 6x/day (:10 past every 4th hour). Stage 1a = movies
+# vote >= 300, split into bands (300-499 / 500-999 / >=1000) because a
+# single discover query exceeds TMDB's 500-page window. The `query`
+# input lets later bands run without editing this file.
+# ======================================================================
+name: Catalogue build
+
+on:
+  schedule:
+    - cron: '10 0,4,8,12,16,20 * * *'
+  workflow_dispatch:
+    inputs:
+      query:
+        description: 'Discover query (no api_key), e.g. sort_by=vote_count.desc&vote_count.gte=300&vote_count.lte=499'
+        required: false
+        default: 'sort_by=vote_count.desc&vote_count.gte=300&vote_count.lte=499'
+      limit:
+        description: 'Max titles to build this run'
+        required: false
+        default: '800'
+
+concurrency:
+  group: flickatlas-site-writes
+  cancel-in-progress: false
+
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # --- Catalogue build (never fatal) --------------------------------
+      # 800 titles/run at ~3.4 s/title (3 TMDB calls each + 0.3 s sleep)
+      # is ~45 min. A TMDB outage must not fail the workflow: the
+      # builder is resumable via out/catalogue-state.json, so the next
+      # run continues where this one stopped.
+      - name: Build catalogue chunks
+        id: build
+        continue-on-error: true
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 scripts/catalogue_build.py --pool discover --media movie --query "${{ inputs.query || 'sort_by=vote_count.desc&vote_count.gte=300&vote_count.lte=499' }}" --limit ${{ inputs.limit || 800 }} --max-pages 500
+
+      # --- Commit if changed ---------------------------------------------
+      # Reuses the hourly pipeline's commit-with-retry (same rebase
+      # discipline: a mid-run push never drops the run's work). See the
+      # BLOCKER note at the top of this file — stage_all() must stage
+      # the catalogue paths before the first run.
+      - name: Commit if changed
+        id: commit
+        if: always()
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: bash scripts/commit_with_retry.sh

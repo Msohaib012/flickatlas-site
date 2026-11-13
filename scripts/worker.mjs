@@ -247,7 +247,11 @@ async function tmdbExists(kind, id) {
   try {
     const cache = caches.default;
     const cached = await cache.match(tmdbUrl);
-    if (cached) return cached.status === 200;
+    /* The cached verdict lives in the BODY ("1" exists / "0" missing):
+       cache.put() stores status 200 for BOTH verdicts, so testing
+       cached.status here always returned true and a cached 404 verdict
+       served the 200 shell for an hour (soft-404 flap, 2026-11-14). */
+    if (cached) return (await cached.text()) === "1";
     const r = await fetch(tmdbUrl, { headers: { "Accept": "application/json" } });
     if (r.ok || r.status === 404) {
       await cache.put(tmdbUrl, new Response(r.ok ? "1" : "0",
