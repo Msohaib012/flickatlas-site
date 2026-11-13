@@ -1,20 +1,20 @@
 {
   "connected": true,
-  "generated": "2026-11-13T14:55:20Z",
+  "generated": "2026-11-13T16:04:00Z",
   "realtime": {
-    "active_users": 1
+    "active_users": 0
   },
   "today": {
-    "users": 40,
-    "pageviews": 65,
-    "sessions": 42,
-    "avg_session_seconds": 12.2
+    "users": 46,
+    "pageviews": 70,
+    "sessions": 48,
+    "avg_session_seconds": 11.0
   },
   "last7": {
-    "users": 139,
-    "pageviews": 339,
-    "sessions": 183,
-    "avg_session_seconds": 65.1
+    "users": 145,
+    "pageviews": 344,
+    "sessions": 189,
+    "avg_session_seconds": 63.2
   },
   "top_pages": [
     {
@@ -82,8 +82,8 @@
     {
       "source": "(direct)",
       "medium": "(none)",
-      "sessions": 164,
-      "users": 129
+      "sessions": 169,
+      "users": 134
     },
     {
       "source": "google",
@@ -92,16 +92,16 @@
       "users": 5
     },
     {
+      "source": "(not set)",
+      "medium": "(not set)",
+      "sessions": 6,
+      "users": 6
+    },
+    {
       "source": "search.google.com",
       "medium": "referral",
       "sessions": 6,
       "users": 1
-    },
-    {
-      "source": "(not set)",
-      "medium": "(not set)",
-      "sessions": 5,
-      "users": 5
     }
   ],
   "countries": [
@@ -111,7 +111,7 @@
     },
     {
       "country": "Brazil",
-      "users": 21
+      "users": 23
     },
     {
       "country": "Singapore",
@@ -119,7 +119,7 @@
     },
     {
       "country": "Hong Kong",
-      "users": 15
+      "users": 18
     },
     {
       "country": "Pakistan",
@@ -149,7 +149,7 @@
   "devices": [
     {
       "device": "desktop",
-      "users": 131
+      "users": 137
     },
     {
       "device": "mobile",

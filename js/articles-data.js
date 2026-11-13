@@ -136480,5 +136480,586 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 19:35:27 +0530"
+  },
+  "1mjwnap": {
+    "id": "1mjwnap",
+    "type": "news",
+    "headline": "Izzat Episode 55 — Watch Online on ARY Digital",
+    "dek": "Izzat episode 55 aired on 2026-11-13 — watch the full episode on ARY Digital.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Izzat Episode 55 aired on 2026-11-13 on ARY Digital. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=7UOShlc2vvw"
+        ]
+      }
+    ],
+    "facts": [
+      "Izzat Episode 55 aired on 2026-11-13.",
+      "Channel: ARY Digital.",
+      "Watch the full episode: https://www.youtube.com/watch?v=7UOShlc2vvw",
+      "YouTube views: 3,519."
+    ],
+    "entities": {
+      "titles": [
+        "Izzat"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/7UOShlc2vvw/hqdefault.jpg",
+        "caption": "Izzat Episode 55",
+        "source": "ARY Digital"
+      }
+    ],
+    "published": "2026-11-13T15:00:38Z"
+  },
+  "i994z9": {
+    "id": "i994z9",
+    "type": "news",
+    "headline": "Khushi Episode 62 — Watch Online on HUM TV",
+    "dek": "Khushi episode 62 aired on 2026-11-13 — watch the full episode on HUM TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Khushi Episode 62 aired on 2026-11-13 on HUM TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=EDv94RxGqeU"
+        ]
+      }
+    ],
+    "facts": [
+      "Khushi Episode 62 aired on 2026-11-13.",
+      "Channel: HUM TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=EDv94RxGqeU",
+      "YouTube views: 171,961."
+    ],
+    "entities": {
+      "titles": [
+        "Khushi"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/EDv94RxGqeU/hqdefault.jpg",
+        "caption": "Khushi Episode 62",
+        "source": "HUM TV"
+      }
+    ],
+    "published": "2026-11-13T15:00:35Z"
+  },
+  "109nlpi": {
+    "id": "109nlpi",
+    "type": "news",
+    "headline": "Uswah Episode 51 — Watch Online on Geo TV",
+    "dek": "Uswah episode 51 aired on 2026-11-13 — watch the full episode on Geo TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Uswah Episode 51 aired on 2026-11-13 on Geo TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=J_9LiddZcTg"
+        ]
+      }
+    ],
+    "facts": [
+      "Uswah Episode 51 aired on 2026-11-13.",
+      "Channel: Geo TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=J_9LiddZcTg",
+      "YouTube views: 583,308."
+    ],
+    "entities": {
+      "titles": [
+        "Uswah"
+      ],
+      "people": []
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/J_9LiddZcTg/hqdefault.jpg",
+        "caption": "Uswah Episode 51",
+        "source": "Geo TV"
+      }
+    ],
+    "published": "2026-11-13T15:00:16Z"
+  },
+  "1ke19st": {
+    "id": "1ke19st",
+    "type": "news",
+    "headline": "Dastoor Episode 84 — Watch Online on Green TV",
+    "dek": "Dastoor episode 84 aired on 2026-11-13 — watch the full episode on Green TV.",
+    "body": [
+      {
+        "h": "Episode Details",
+        "p": [
+          "Dastoor Episode 84 aired on 2026-11-13 on Green TV. The full episode is available on the channel's official YouTube page.",
+          "Watch the full episode here: https://www.youtube.com/watch?v=J30AgzvwYRU"
+        ]
+      },
+      {
+        "h": "About Dastoor",
+        "p": [
+          "Dastoor is a heartfelt family drama filled with love, sacrifice, family conflicts, secrets, and emotional twists. Follow the journey of a mother and her daughters as they face difficult choices, broken relationships, and unexpected turns of fate a story of love, pain, forgiveness, and second chances."
+        ]
+      }
+    ],
+    "facts": [
+      "Dastoor Episode 84 aired on 2026-11-13.",
+      "Channel: Green TV.",
+      "Watch the full episode: https://www.youtube.com/watch?v=J30AgzvwYRU",
+      "YouTube views: 78,507.",
+      "TMDB: Dastoor (id 329481)."
+    ],
+    "entities": {
+      "titles": [
+        "Dastoor"
+      ],
+      "people": [
+        "Hibba Aziz",
+        "Danial Afzal Khan",
+        "Areej Mohyudin",
+        "Faraz Farooqui",
+        "Azra Mohyeddin"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://i.ytimg.com/vi/J30AgzvwYRU/hqdefault.jpg",
+        "caption": "Dastoor Episode 84",
+        "source": "Green TV"
+      }
+    ],
+    "published": "2026-11-13T14:45:17Z"
+  },
+  "8hl26d": {
+    "id": "8hl26d",
+    "type": "news",
+    "headline": "Ramayana Day 9 Worldwide Collection Prediction: Ranbir Kapoor Starrer Eyes 1075 Crore Mark Amid Dip",
+    "dek": "Nitesh Tiwari's mythological epic Ramayana continues its phenomenal theatrical run, aiming to cross the massive 1075 crore milestone worldwide by its ninth day despite a recent overseas collection dip.",
+    "body": [
+      {
+        "h": "Phenomenal Box Office Momentum",
+        "p": [
+          "The mythological epic Ramayana has emerged as a monumental box office phenomenon, thrilling lead star Ranbir Kapoor and his extensive fanbase alike. Directed by Nitesh Tiwari, the high-profile feature has captured massive attention and dominated cinema discussions globally ever since its theatrical debut.",
+          "Jointly produced by Yash and Namit Malhotra, the grand venture was mounted on a staggering budget estimated between Rs 1700 and 2000 crore. Despite opening to mixed reviews concerning its screenplay, visual effects, and casting choices, the movie successfully completed a phenomenal first week at the box office."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The ambitious film boasts a massive ensemble cast featuring several prominent names from Indian cinema. Alongside Ranbir Kapoor, the movie stars Yash, Sai Pallavi, Sunny Deol, Ravie Dubey, Rakul Preet Singh, Arun Govil, and Lara Dutta.",
+          "The combination of these celebrated actors under Nitesh Tiwari's direction has generated enormous curiosity, drawing diverse audiences to theaters to witness this modern retelling of the classic tale."
+        ]
+      },
+      {
+        "h": "Second Week Trends and Overseas Figures",
+        "p": [
+          "As the feature entered its second week, box office numbers began showing a slight downward trend, particularly in international territories. According to reports from Sacnilk, the film brought in Rs 20 crore on its eighth day, which corresponds to the second Thursday of its run.",
+          "This latest single-day boost brought the cumulative overseas earnings to an impressive Rs 353.5 crore. Concurrently, the total worldwide collection reached Rs 1028.55 crore after completing eight full days in cinemas."
+        ]
+      },
+      {
+        "h": "Ninth Day Worldwide Projections",
+        "p": [
+          "Market analysts anticipate that the overseas numbers will experience a continuous dip, with estimated international collections ranging between Rs 17 and 20 crore for the ninth day. This projected international increment is expected to push overseas totals close to the Rs 375 crore mark.",
+          "On the global front, the cumulative worldwide collection is projected to inch remarkably close to Rs 1075 crore by the end of its ninth day in theaters, reinforcing its status as a major commercial player."
+        ]
+      },
+      {
+        "h": "Critical Praise from Industry Icons",
+        "p": [
+          "Amidst the ongoing box office milestones, the film has also garnered notable appreciation from veteran industry figures. Prominent actress Hema Malini shared a glowing review after viewing the latest cinematic version of the epic tale.",
+          "She noted that she went into the screening with minimal expectations given the familiarity of the storyline, but walked away pleasantly surprised by the breathtaking special effects and apt casting choices that successfully transported viewers back in time."
+        ]
+      },
+      {
+        "h": "Technical Innovation and Audience Engagement",
+        "p": [
+          "Hema Malini specifically highlighted the integration of cutting-edge technical innovations as a defining element of the production. She remarked that these modern advancements made all the difference in creating a completely unique and immersive experience for Indian audiences.",
+          "The audience response inside the theater reflected a deep engagement with the narrative, as viewers found themselves actively participating in the unfolding events of the legendary story."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Ranbir Kapoor's Ramayana continues its historic global box office journey, targeting a worldwide collection of nearly 1075 crore by its ninth day despite a minor dip in international markets. Backed by strong overseas earnings and praise from industry veterans like Hema Malini, the high-budget mythological epic remains a dominant force in theaters."
+        ]
+      }
+    ],
+    "facts": [
+      "Story published on November 13, 2026",
+      "Ramayana made a collection of Rs 20cr on day 8",
+      "Overall overseas collection reached Rs 353.5cr after 8 days",
+      "Worldwide collection reached Rs 1028.55cr after 8 days",
+      "Estimated budget of Rs 1700-2000cr",
+      "Projected overseas collection of Rs 17-20cr on day 9",
+      "Projected total overseas collection close to Rs 375cr",
+      "Projected total worldwide collection close to Rs 1075cr after 9 days"
+    ],
+    "entities": {
+      "people": [
+        "Ranbir Kapoor",
+        "Nitesh Tiwari",
+        "Yash",
+        "Sai Pallavi",
+        "Sunny Deol",
+        "Ravie Dubey",
+        "Rakul Preet Singh",
+        "Arun Govil",
+        "Lara Dutta",
+        "Namit Malhotra",
+        "Hema Malini"
+      ],
+      "titles": [
+        "Ramayana"
+      ]
+    },
+    "keywords": [
+      "Ramayana box office collection",
+      "Ranbir Kapoor Ramayana movie",
+      "Ramayana day 9 collection prediction",
+      "Ramayana worldwide collection 1075cr"
+    ],
+    "images": [
+      {
+        "url": "https://images.filmibeat.com/img/2026/11/ramayanaday9wwfeature-14231794584766.jpg",
+        "caption": "Ramayana Day 9 Worldwide Collection Prediction: Ranbir Kapoor Starrer Eyes 1075 Crore Mark Amid Dip",
+        "source": "FilmiBeat"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 21:19:12 +0530"
+  },
+  "3trd2g": {
+    "id": "3trd2g",
+    "type": "news",
+    "headline": "Friday The 13th Franchise Headed Back To Cinemas For Thirteenth Chapter With Steve Miner Directing",
+    "dek": "Jason Voorhees is officially returning to the big screen next year for a brand new cinematic installment.",
+    "body": [
+      {
+        "h": "The Return Of A Horror Icon",
+        "p": [
+          "Horror enthusiasts have spent nearly twenty years waiting for this exact announcement, and the monumental day has finally arrived. The legendary hockey-masked killer is officially making his long-awaited return to movie theaters.",
+          "This upcoming feature marks the thirteenth installment in the enduring slasher series, promising to deliver fresh chills to longtime followers of the cinematic universe."
+        ]
+      },
+      {
+        "h": "A Legacy Director Takes The Reins",
+        "p": [
+          "Bringing a strong sense of franchise heritage to the project, veteran filmmaker Steve Miner has signed on to direct the upcoming feature. Miner is no stranger to the woods of Camp Crystal Lake, having previously helmed both 'Friday The 13th Part II' and 'Friday The 13th Part III'.",
+          "His return behind the camera is expected to inject a heavy dose of classic atmospheric tension into the thirteenth chapter, reassuring purists who cherish the earlier entries."
+        ]
+      },
+      {
+        "h": "Behind The Scenes And Creative Team",
+        "p": [
+          "While Steve Miner manages directorial duties, the narrative has been crafted from a screenplay written by David Fliegel. The production brings together a collaborative team of creative forces dedicated to doing the property justice.",
+          "Production duties for the upcoming film are spearheaded by the Barsamian family via Horror, Inc., alongside CatchLight Studios, ensuring that the legacy of the antagonist is carefully guarded throughout development."
+        ]
+      },
+      {
+        "h": "Theatrical Distribution Plans",
+        "p": [
+          "Audiences won't have to wait indefinitely to experience the frights on the silver screen, as distribution plans are already firmly in place. Cineverse has secured the rights to handle the feature's official North American theatrical release.",
+          "This partnership guarantees that the slasher icon will receive a proper nationwide rollout, allowing crowds to experience the communal terror of a theatrical horror opening next year."
+        ]
+      },
+      {
+        "h": "Franchise Context And Timing",
+        "p": [
+          "The announcement of a brand new theatrical entry arrives amid various ongoing expansions within the wider intellectual property landscape. Fans have recently seen attempts to explore the lore across different formats.",
+          "This momentum highlights the enduring cultural footprint of the overarching property, proving that interest in the masked killer remains exceptionally high across generations of horror devotees."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The Friday The 13th franchise is returning to theaters next year for its thirteenth installment with director Steve Miner at the helm. The film features a script by David Fliegel, production from Horror, Inc. and CatchLight Studios, and a North American theatrical release managed by Cineverse."
+        ]
+      }
+    ],
+    "facts": [
+      "Friday The 13th returns to theaters next year for its thirteenth installment",
+      "Steve Miner is directing the new film",
+      "Steve Miner previously directed Friday The 13th Part II and Friday The 13th Part III",
+      "David Fliegel wrote the script",
+      "The Barsamian family via Horror, Inc. and CatchLight Studios are producing",
+      "Cineverse is handling the North American theatrical release"
+    ],
+    "entities": {
+      "people": [
+        "Steve Miner",
+        "David Fliegel",
+        "Jason Voorhees"
+      ],
+      "titles": [
+        "Friday The 13th",
+        "Friday The 13th Part II",
+        "Friday The 13th Part III"
+      ]
+    },
+    "keywords": [
+      "Friday The 13th movie",
+      "Steve Miner Friday The 13th",
+      "Jason Voorhees thirteenth film",
+      "Friday The 13th 2027"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.theplaylist.net/wp-content/uploads/2022/11/02160430/CRYSTAL-LAKE_SERIES_HAS-ACCESS-TO-MOVIES_.jpg",
+        "caption": "Friday The 13th Franchise Headed Back To Cinemas For Thirteenth Chapter With Steve Miner Directing",
+        "source": "The Playlist"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 15:12:25 +0000"
+  },
+  "ilmynd": {
+    "id": "ilmynd",
+    "type": "news",
+    "headline": "57th International Film Festival of India 2026 Announces Grand Lineup in Goa",
+    "dek": "The 57th International Film Festival of India reveals a massive selection featuring Dhurandhar, Ramayana, The Kerala Story 2, and international showcases in Goa.",
+    "body": [
+      {
+        "h": "Festival Dates and Global Scale",
+        "p": [
+          "The 57th International Film Festival of India is scheduled to take place in Goa from November 20 to November 28, 2026, operating under the unifying theme 'Stories Without Borders'.",
+          "Demonstrating an expanding worldwide reach, the event has gathered over 1,900 submissions originating from 137 countries while showcasing more than 150 international titles from 86 countries."
+        ]
+      },
+      {
+        "h": "Curtain Raiser and Dignitaries",
+        "p": [
+          "The Curtain Raiser Press Conference occurred at the Taj Cidade de Goa Horizon on November 13, 2026, inaugurated by Goa Chief Minister Dr Pramod Sawant.",
+          "Key officials and committee chairs attending the launch included M Delilah M. Lobo, Chanchal Kumar, Krishna Kumar, Ashutosh Gowariker, Prabhat, Madhur Bhandarkar, Himanshu Shekhar Khatua, Deepak Mandekar, Dheeraj Singh, and Smita Vats Sharma."
+        ]
+      },
+      {
+        "h": "Opening and Mid-Fest Highlights",
+        "p": [
+          "The festival opener will be Fatherland, directed by Paweł Pawlikowski, which tracks Nobel laureate Thomas Mann and his daughter Erika across post-war divided Germany in 1949.",
+          "Meanwhile, I Matter, directed by Alina Șerban, has been chosen as the Mid-Fest Film for the 2026 edition."
+        ]
+      },
+      {
+        "h": "Global Focus: Spain and Russia",
+        "p": [
+          "Spain serves as the Country of Honour at the 57th IFFI, bringing four specific Spanish films including works directed by Jaime Lorente and Pedro Almodóvar.",
+          "Russia takes the role of Partner Country, presenting a special showcase of four contemporary Russian titles to encourage artistic and cultural dialogue."
+        ]
+      },
+      {
+        "h": "New Segments and BRICS Cinema",
+        "p": [
+          "The 2026 edition introduces two brand new segments titled Animation and Films About Films to broaden creative offerings and emphasize the foundational craft of moviemaking.",
+          "Additionally, a dedicated BRICS cinema showcase features the epic Ramayana as its opening film alongside contributions from all 11 member nations."
+        ]
+      },
+      {
+        "h": "Indian Panorama and International Competition",
+        "p": [
+          "The Indian Panorama will open with the Hindi feature Dhurandhar and the Ladakhi non-feature Becoming, presenting 76 films spanning 18 different languages.",
+          "The Kerala Story 2: Goes Beyond has secured a prestigious spot in the International Competition category alongside a vast array of global contenders."
+        ]
+      },
+      {
+        "h": "Centenary Tributes and Closing Details",
+        "p": [
+          "Special centenary celebrations will honor legendary figures of Indian cinema, including filmmakers Shakti Samanta and Raj Khosla, actors Uttam Kumar, Suryakant Mandhare, Prem Nazir, and Raj Kumar, and music composers O P Nayyar and Ravi.",
+          "The event concludes with the screening of the Singaporean closing film We Are All Strangers, directed by Anthony Chen."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The 57th International Film Festival of India in Goa has announced its comprehensive 2026 schedule featuring major international and domestic screenings. Key highlights include Dhurandhar opening the Indian Panorama, Ramayana launching the BRICS segment, and The Kerala Story 2 entering the International Competition."
+        ]
+      }
+    ],
+    "facts": [
+      "The 57th International Film Festival of India takes place from 20 to 28 November 2026.",
+      "The festival is held in Goa.",
+      "The Curtain Raiser Press Conference took place on November 13, 2026, at Taj Cidade de Goa Horizon.",
+      "Dhurandhar and Becoming open the Indian Panorama section.",
+      "Ramayana opens the BRICS segment.",
+      "The Kerala Story 2 enters the International Competition."
+    ],
+    "entities": {
+      "people": [
+        "Pramod Sawant",
+        "Paweł Pawlikowski",
+        "Thomas Mann",
+        "Erika Mann",
+        "Alina Șerban",
+        "Jaime Lorente",
+        "Pedro Almodóvar",
+        "Jaime Machia",
+        "Anastasia Kuzina",
+        "Sidney Lumet",
+        "Nana Patekar",
+        "Shakti Samanta",
+        "Raj Khosla",
+        "Uttam Kumar",
+        "Suryakant Mandhare",
+        "Prem Nazir",
+        "Raj Kumar",
+        "O P Nayyar",
+        "Ravi",
+        "Anthony Chen",
+        "M Delilah M. Lobo",
+        "Chanchal Kumar",
+        "Krishna Kumar",
+        "Ashutosh Gowariker",
+        "Prabhat",
+        "Madhur Bhandarkar",
+        "Himanshu Shekhar Khatua",
+        "Deepak Mandekar",
+        "Dheeraj Singh",
+        "Smita Vats Sharma"
+      ],
+      "titles": [
+        "Dhurandhar",
+        "Ramayana",
+        "The Kerala Story 2: Goes Beyond",
+        "Fatherland",
+        "I Matter",
+        "The Bad Son",
+        "Trinidad",
+        "Bitter Christmas",
+        "Perseguendo a Michael",
+        "Four",
+        "New Home",
+        "Bo Bo",
+        "Sidney Lumet's Birthday",
+        "Kantara: A Legend Chapter – 1",
+        "The Great Grand Superhero - Aliens Ka Aagman",
+        "Ohh My Dog",
+        "Krishnavataram Part 1: The Heart",
+        "Hanuman Ansh",
+        "Natsamrat",
+        "Becoming",
+        "We Are All Strangers"
+      ]
+    },
+    "keywords": [
+      "57th International Film Festival of India",
+      "Dhurandhar",
+      "Ramayana",
+      "The Kerala Story 2",
+      "IFFI Goa 2026"
+    ],
+    "images": [
+      {
+        "url": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/11/IFFI-Goa-Dhurandhar.jpeg",
+        "caption": "57th International Film Festival of India 2026 Announces Grand Lineup in Goa",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 20:37:23 +0200"
+  },
+  "os7pj2": {
+    "id": "os7pj2",
+    "type": "news",
+    "headline": "Producer Dil Raju Confirms February 2027 Theatrical Window for Akshay Kumar Starrer Mauja Hi Mauja",
+    "dek": "The much-awaited comedy drama featuring Akshay Kumar, Vidya Balan, and Raashii Khanna has locked in a February release slot for next year.",
+    "body": [
+      {
+        "h": "The Official Announcement",
+        "p": [
+          "Producer Dil Raju has officially addressed the release schedule for the upcoming Bollywood comedy drama Mauja Hi Mauja. During a media interaction at a success gathering, the prominent film figure confirmed that the project is officially set to hit cinema halls in February of next year.",
+          "The confirmation clears up mounting speculation surrounding the project's theatrical arrival. Industry observers and fans had previously heard multiple projected launch windows before this definitive statement by the banner's leadership."
+        ]
+      },
+      {
+        "h": "Shifting Premiere Timelines",
+        "p": [
+          "Before settling on the upcoming February timeframe, the makers evaluated a couple of alternative holiday windows for the feature. Production planners had initially pencilled in a December date, and later gave brief consideration to a late November launch.",
+          "Ultimately, the studio decided to hold the title until early next year. This adjustment allows the distribution and marketing teams to align their promotional rollout for maximum theatrical impact."
+        ]
+      },
+      {
+        "h": "Star-Studded Cast and Crew",
+        "p": [
+          "The upcoming comedy features a prominent leading ensemble. Akshay Kumar anchors the cast alongside acclaimed performers Vidya Balan and Raashii Khanna, who have shared glimpses from behind the scenes as filming wrapped up.",
+          "Behind the camera, the film is guided by director Anees Bazmee. The production responsibilities are handled by Dil Raju under his Sri Venkateswara Creations banner, in collaboration with Cape of Good Films."
+        ]
+      },
+      {
+        "h": "Distribution Partners and Scale",
+        "p": [
+          "Commercial groundwork for the title has seen significant backing from major industry players. Earlier reports confirmed that PVR INOX Pictures Limited secured the all-India distribution rights for a substantial financial figure.",
+          "The heavy investment reflects strong market confidence in the collaborative effort. The backing from prominent distribution networks points toward a wide, robust rollout across domestic screens."
+        ]
+      },
+      {
+        "h": "Broader Slate from Sri Venkateswara Creations",
+        "p": [
+          "In addition to his Bollywood ventures, producer Dil Raju has been actively involved with major pan-Indian projects. He serves as the distributor for the grand festive release Ramayana across the regions of Andhra Pradesh and Telangana.",
+          "While speaking to regional media representatives, the producer highlighted his company's growing footprint in the Hindi film industry. He noted that managing multiple high-profile features simultaneously establishes his banner as a major production force working alongside top Bollywood superstars."
+        ]
+      },
+      {
+        "h": "Upcoming Sister Project Featuring Salman Khan",
+        "p": [
+          "Alongside the Akshay Kumar project, Dil Raju's production slate includes another major Hindi feature starring Salman Khan. Titled Monster, this separate film is currently in its final stages of completion and is slated for an Eid release in March.",
+          "Monster is directed by Vamshi Paidipally and presents the lead actor in a rugged, macho persona. The supporting cast for that venture includes Nayanthara and Muzammil Ibrahim, with presentation credits going to Dil Raju and production managed by Shirish, Kuldeep Rathore, and Rafi Kazi."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Dil Raju has confirmed that the Akshay Kumar comedy drama Mauja Hi Mauja will release in cinemas in February. The film, which also stars Vidya Balan and Raashii Khanna under the direction of Anees Bazmee, shifts from its earlier tentative late-year schedules to secure a fresh theatrical window for next year."
+        ]
+      }
+    ],
+    "facts": [
+      "Mauja Hi Mauja will be released in cinemas in February 2027",
+      "Dil Raju is the producer of Mauja Hi Mauja",
+      "Akshay Kumar stars in Mauja Hi Mauja",
+      "Vidya Balan stars in Mauja Hi Mauja",
+      "Raashii Khanna stars in Mauja Hi Mauja",
+      "Anees Bazmee is the director of Mauja Hi Mauja",
+      "PVR INOX Pictures Limited acquired the all-India distribution rights for Rs. 60 crores",
+      "Sri Venkateswara Creations and Cape of Good Films are the production banners for Mauja Hi Mauja",
+      "Monster stars Salman Khan, Nayanthara, and Muzammil Ibrahim",
+      "Monster is directed by Vamshi Paidipally and will release in March during Eid"
+    ],
+    "entities": {
+      "people": [
+        "Dil Raju",
+        "Akshay Kumar",
+        "Vidya Balan",
+        "Raashii Khanna",
+        "Anees Bazmee",
+        "Salman Khan",
+        "Nayanthara",
+        "Muzammil Ibrahim",
+        "Vamshi Paidipally",
+        "Shirish",
+        "Kuldeep Rathore",
+        "Rafi Kazi",
+        "Ranbir Kapoor"
+      ],
+      "titles": [
+        "Mauja Hi Mauja",
+        "Ramayana",
+        "Monster"
+      ]
+    },
+    "keywords": [
+      "Akshay Kumar Mauja Hi Mauja",
+      "Dil Raju Mauja Hi Mauja release",
+      "Anees Bazmee film",
+      "Vidya Balan Raashii Khanna movie"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Akshay-main.jpeg",
+        "caption": "Producer Dil Raju Confirms February 2027 Theatrical Window for Akshay Kumar Starrer Mauja Hi Mauja",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 20:24:41 +0200"
   }
 };
