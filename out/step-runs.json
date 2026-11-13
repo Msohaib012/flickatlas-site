@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T13:51:35Z",
-    "run_id": "43231161443",
-    "status": "success",
-    "checked": {
-     "candidates": 339,
-     "detail": "RSS/Atom items across 137 sources; 5 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Babil Khan opens up about trolling over his emotional side: 'Finally, I don't care'",
-      "Sekhar Master escapes unhurt after lorry hits car in Telangana accident",
-      "Vivian Dsena backs Mahhi Vij, Jay Bhanushali after daughter Tara is dragged into Bigg Boss 20, recalls facing similar incident from his stint on show",
-      "Scene director Jithu Madhavan dispels rumours of a sequel to Suriya-starrer as it crosses  ₹200 crore worldwide",
-      "Yeh Prem Mol Liya: Internet calls Himesh Reshammiya's Chhath song festive, soulful",
-      "Ramayana VS Dhurandhar: The Revenge Box Office: Ranveer Singh’s Actioner Stays Ahead Of Ranbir Kapoor’s Epic As Week 1 Ends",
-      "I Don’t Know How I Feel About ‘The Rachel’ Making A Comeback, But Jennifer Aniston Has Thoughts",
-      "One Thing Nathan Fielder Found Interesting About Elizabeth Holmes That Wasn't In You Can See Everything",
-      "Captain Kirk Hits the Ice as Star Trek Star Officially Joins Netflix’s New Hockey Romance",
-      "The 10 Most Uplifting Romance Movies of All Time, Ranked",
-      "Sylvester Stallone Officially Wants a Former Spider-Man To Join Taylor Sheridan’s ‘Tulsa King’",
-      "Will Gorilla Grodd Show Get Canceled After James Gunn’s Exit? Skyler Gisondo Answers",
-      "VisionQuest Fans Can’t Stop Comparing Ultron & Kingpin After That Brutal Kill",
-      "2 Seasons of Kat Dennings & Tim Allen Sitcom Are Finally Headed To Netflix",
-      "\"The Raid Meets Birdman\" in New Non-Stop 80-Minute Action Thriller Hitting Streaming Next Month",
-      "Denzel Washington's New Netflix Heist Thriller Officially Confirms Surprising Rating",
-      "Mike Myers Addresses Future of His Biggest Franchise Ahead of Long-Awaited Comeback",
-      "The 'Scrubs' Revival Is Officially Fixing One of the Original Series' Biggest Mistakes",
-      "6 Masterpiece World War II Movies Praised by Veterans",
-      "Michael B. Jordan’s New Remake Of 58-Year-Old Thriller Officially Unveiled"
-     ],
-     "updated": [],
-     "count": 315,
-     "detail": "319 stories, 0 duplicates removed, 20 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-12T14:51:45Z",
     "run_id": "43241385258",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "328 stories, 0 duplicates removed, 7 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-12T15:30:29Z",
-    "run_id": "43245872974",
+    "run_at": "2026-11-13T11:51:46Z",
+    "run_id": "43420257420",
     "status": "success",
     "checked": {
-     "candidates": 14,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 346,
+     "detail": "RSS/Atom items across 137 sources; 3 source(s) errored"
     },
     "changed": {
      "added": [
-      "Salman Khan Wishes Success to Shraddha Kapoor's Eetha Ahead of Their December 4 Box Office Clash",
-      "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
-      "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
-      "Ravie Dubey Celebrates Ramayana Crossing ₹1,000 Crore with Behind-the-Scenes Photos"
+      "Dhindora Season 2 trailer out: Bhuvan Bam-led series to premiere on November 20; Sanjeeda Sheikh joins cast, Anup Soni, Udit Narayan and Orry make cameo appearances",
+      "Josh Actor Sharad Kapoor Looks Unrecognisable; Emotional Video Of Him Parting Ways With 4 Pet Dogs Goes Viral",
+      "Lambodhara 2.0 X Review: What Audiences Are Saying About Anil Shetty And Kunal Kapoor's Sci-Fi Thriller",
+      "Doctor X Mafia In White Episode 11 Release Time Today: When, Where Will New Ep Premiere Online? What To Expect",
+      "Box Office: Yash Makes History As The First Actor To Deliver Three 100 Crore Grossers In Karnataka!",
+      "Box Office: Suriya Registers New Record With Three 200 Crore Grossers Worldwide In A Single Year",
+      "Disco Box Office Day 7: Opening Week Total Falls 50% Short Of Antony Varghese’s Kattalan’s Day 1",
+      "Ramayana Opening Week Kerala Box Office: Ranbir Kapoor, Sai Pallavi and Yash starrer wrecks havoc, smashes Rs 28 crore in 8 days",
+      "Top First 8 Days of All Time at Hindi Box Office: Ranbir Kapoor and Yash starrer takes 2nd spot, Who's ruling at No. 1?",
+      "Mom to be Samantha Ruth Prabhu flaunts her baby bump in a pink bohemian look; WATCH",
+      "Ramayana Vs Dhurandhar The Revenge Box Office Comparison: Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
+      "Itllu Arjuna Twitter Review: 9 Tweets to read before watching Anaswara Rajan and Sai Aniesh’s romantic action drama",
+      "Scene Opening Week Worldwide Box Office Collections: Suriya starrer storms Rs 196 crore globally in 7 days",
+      "Ramayana Part One Box Office: Ranbir Kapoor and Yash starrer becomes eleventh Indian film and fastest ever to cross Rs. 1000 Cr worldwide",
+      "Ranabaali Review: Vijay Deverakonda’s intensity as warrior gets undone by subpar writing and execution",
+      "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer posts Rs. 550 Cr extended first week in India",
+      "Producer Dil Raju Confirms Akshay Kumar's Comedy With Anees Bazmee for February and Salman Khan's Monster for Eid 2027 Release",
+      "Namrata Shirodkar shares pictures from Mahesh Babu’s nephew pre-wedding celebrations",
+      "'Ramayana' box office: RK's film becomes record breaker in Vietnam, Thailand, Cambodia, Nepal",
+      "Mom-to-be Samantha Ruth Prabhu spotted outside Mumbai salon"
      ],
      "updated": [],
-     "count": 7,
-     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+     "count": 337,
+     "detail": "340 stories, 0 duplicates removed, 6 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1471,27 +1448,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-13T11:52:39Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": {
+     "candidates": 15,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "Dil Raju Sets Theatrical Windows for Akshay Kumar and Salman Khan Starrers",
+      "Caramel Week Brings Tears and Goodbyes to The Great British Baking Show Season 17",
+      "Dhindora Season 2 Trailer Released Ahead of November 20 Premiere on Netflix",
+      "Director Jithu Madhavan Admits Fear After Major Plot Twist Leak Ahead of Suriya's 'Scene' Release"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-12T17:00:43Z",
-    "run_id": "43263036558",
-    "status": "success",
-    "checked": {
-     "candidates": 312,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 299, coming 13"
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1905,26 +1887,27 @@
      "detail": "now 309, coming 10"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-12T15:30:32Z",
-    "run_id": "43245872974",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-13T11:52:39Z",
+    "run_id": "43420257420",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 319,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 309, coming 10"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2369,27 +2352,35 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-13T11:56:03Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "1xjsev2",
+      "zvbk02",
+      "13as7m8",
+      "17dums3",
+      "1j870fn",
+      "leqqw7",
+      "1fxsx58",
+      "1osbnod"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T13:57:41Z",
-    "run_id": "43231161443",
-    "status": "success",
-    "checked": {
-     "candidates": 658,
-     "detail": "640 collected staging rows from readers; 224 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 644 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2803,19 +2794,27 @@
      "detail": "+0 new rows, 3 updated rows, 650 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T11:56:00Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": {
+     "candidates": 665,
+     "detail": "644 collected staging rows from readers; 226 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 650 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3052,37 +3051,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-12T15:30:31Z",
-    "run_id": "43245872974",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Taylor Sheridan's Yellowstone Spin-off Marshals Returns After Short Hiatus",
-      "Daayra OTT Release: Kareena Kapoor and Prithviraj Sukumaran Film Heads to Netflix",
-      "Ravie Dubey Celebrates Ramayana Crossing ₹1,000 Crore with Behind-the-Scenes Photos",
-      "Khushi Episode 61 — Watch Online on HUM TV",
-      "Uswah Episode 50 — Watch Online on Geo TV",
-      "Izzat Episode 54 — Watch Online on ARY Digital",
-      "Dastoor Episode 83 — Watch Online on Green TV",
-      "Salman Khan Wishes Success to Shraddha Kapoor's Eetha Ahead of Their December 4 Box Office Clash",
-      "Karoshi Unveils Its First Dystopian Action Trailer"
-     ],
-     "updated": [],
-     "count": 9,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3599,26 +3580,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-13T11:56:02Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "Dil Raju Sets Theatrical Windows for Akshay Kumar and Salman Khan Starrers",
+      "Dhindora Season 2 Trailer Released Ahead of November 20 Premiere on Netflix",
+      "Director Jithu Madhavan Admits Fear After Major Plot Twist Leak Ahead of Suriya's 'Scene' Release",
+      "Caramel Week Brings Tears and Goodbyes to The Great British Baking Show Season 17"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-12T13:54:39Z",
-    "run_id": "43231161443",
-    "status": "success",
-    "checked": {
-     "candidates": 18,
-     "detail": "YouTube episodes on the 4 official PK channels (+ intl 1M+ views); 8 new detected; 1 summary failure(s): Khushi Ep 60"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "no-new-data"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3877,19 +3864,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4211,31 +4198,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-12T13:57:40Z",
-    "run_id": "43231161443",
-    "status": "success",
-    "checked": {
-     "candidates": 6,
-     "detail": "news queue items drafted this run; 315 still unprocessed; today by category: movies 10/6, tv_dramas 9/4, episodes 0/2, box_office 12/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 7/4, trailers 3/3, awards 3/2, music_ost 4/2, viral 2/2"
-    },
-    "changed": {
-     "added": [
-      "Christopher Nolan's 'The Odyssey' Eyes Historic Oscar Run",
-      "The Chosen Season 6 Release Schedule Revealed: Why the Finale Is Heading to Theaters",
-      "Internet Responds Positively to Himesh Reshammiya's Chhath Song From Yeh Prem Mol Liya",
-      "Thessaloniki Industry Awards Honor 'The Crossroad' and 'They Bloom at Dawn'"
-     ],
-     "updated": [],
-     "count": 4
-    },
-    "reason": null
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4732,19 +4707,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-13T11:52:38Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": {
+     "candidates": 4,
+     "detail": "news queue items drafted this run; 337 still unprocessed; today by category: movies 13/6, tv_dramas 7/4, episodes 1/2, box_office 7/6, celebrities_events 7/5, upcoming_releases 3/4, ott_streaming 6/4, trailers 2/3, awards 2/2, music_ost 2/2, viral 2/2"
+    },
+    "changed": {
+     "added": [
+      "Dil Raju Sets Theatrical Windows for Akshay Kumar and Salman Khan Starrers",
+      "Caramel Week Brings Tears and Goodbyes to The Great British Baking Show Season 17",
+      "Dhindora Season 2 Trailer Released Ahead of November 20 Premiere on Netflix",
+      "Director Jithu Madhavan Admits Fear After Major Plot Twist Leak Ahead of Suriya's 'Scene' Release"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5058,24 +5045,26 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "publish": [
+   },
    {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-13T11:54:06Z",
+    "run_id": "43420257420",
     "status": "success",
-    "checked": null,
+    "checked": {
+     "candidates": 49,
+     "detail": "published movies with missing overseas day figures; Tavily searches: 48"
+    },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 455,
-     "detail": "lines changed in owned files; no per-item summary from script"
+     "count": 0
     },
-    "reason": null
-   },
+    "reason": "no-new-data"
+   }
+  ],
+  "publish": [
    {
     "step": "publish",
     "category": "Trending News",
@@ -5415,24 +5404,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 15,
+     "count": 409,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5777,19 +5766,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 2,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6034,19 +6028,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6281,19 +6275,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6574,19 +6568,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6827,19 +6821,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7069,19 +7063,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": null,
+    "changed": null,
+    "reason": "no-new-data"
    }
   ],
   "keywords_refresh": [
-   {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7334,30 +7328,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "overseas_sweep": [
-   {
-    "step": "overseas_sweep",
-    "category": "Box Office",
-    "run_at": "2026-11-11T16:12:51Z",
-    "run_id": "43055176560",
-    "status": "success",
-    "checked": {
-     "candidates": 532,
-     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 519"
-    },
-    "changed": {
-     "added": [
-      "Ranabaali (1389379)",
-      "418 (1606527)",
-      "Nayyi Navelli (1654581)"
-     ],
-     "updated": [],
-     "count": 13
-    },
-    "reason": null
-   },
    {
     "step": "overseas_sweep",
     "category": "Box Office",
@@ -7844,19 +7827,30 @@
      "count": 13
     },
     "reason": null
+   },
+   {
+    "step": "overseas_sweep",
+    "category": "Box Office",
+    "run_at": "2026-11-13T11:52:55Z",
+    "run_id": "43420257420",
+    "status": "success",
+    "checked": {
+     "candidates": 546,
+     "detail": "completed day-wise rows missing overseas; quicknews pages fetched: 13; attempt cooldown deferred: 533"
+    },
+    "changed": {
+     "added": [
+      "Ranabaali (1389379)",
+      "418 (1606527)",
+      "Nayyi Navelli (1654581)"
+     ],
+     "updated": [],
+     "count": 13
+    },
+    "reason": null
    }
   ],
   "advance_booking": [
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "advance_booking",
     "category": "Box Office",
@@ -8096,19 +8090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-12T13:57:55Z",
-    "run_id": "43231161443",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8353,8 +8347,18 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-13T11:56:11Z",
+    "run_id": "43420257420",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ]
  },
- "updated_at": "2026-11-13T10:52:56Z"
+ "updated_at": "2026-11-13T11:56:11Z"
 }

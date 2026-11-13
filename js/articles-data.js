@@ -134806,5 +134806,414 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Fri, 13 Nov 2026 09:53:34 +0000"
+  },
+  "8m1djq": {
+    "id": "8m1djq",
+    "type": "news",
+    "headline": "Dil Raju Sets Theatrical Windows for Akshay Kumar and Salman Khan Starrers",
+    "dek": "Renowned producer Dil Raju has provided official timelines for two major Bollywood projects under Sri Venkateswara Creations, confirming releases for Akshay Kumar's upcoming comedy and Salman Khan's action spectacle Monster.",
+    "body": [
+      {
+        "h": "Producer Expands Hindi Portfolio",
+        "p": [
+          "Producer Dil Raju is further cementing his presence in the Hindi film industry through Sri Venkateswara Creations. Having previously backed Jersey, the blockbuster Telugu filmmaker is now steering two major Bollywood projects that feature some of the biggest names in the entertainment business.",
+          "The studio's latest strategy focuses on balancing different commercial genres. By pairing established stars with seasoned directors, the banner aims to capture widespread audiences across domestic and national markets."
+        ]
+      },
+      {
+        "h": "Akshay Kumar and Anees Bazmee Reunite",
+        "p": [
+          "The upcoming comedy venture, which reportedly carries the title Mauja Hi Mauja, is officially slated to hit theatres in February 2027. This project brings together actor Akshay Kumar and filmmaker Anees Bazmee once again, following their previous hit partnerships on Welcome and Singh Is Kinng.",
+          "Alongside the lead actor, the comedy features Vidya Balan and Raashii Khanna in significant roles. Although initial plans pointed toward a December 2026 debut, the release schedule was revised, and filming has already wrapped up."
+        ]
+      },
+      {
+        "h": "Production Updates for the Comedy",
+        "p": [
+          "With principal photography finished, the creative team is shifting focus toward the promotional rollout. While the exact day of arrival and the final title confirmation remain pending, anticipation continues to build around this humorous reunion.",
+          "Mauja Hi Mauja stands as a pivotal milestone for Sri Venkateswara Creations as it builds a diverse slate in Hindi cinema, leveraging proven comedic formulas to attract moviegoers."
+        ]
+      },
+      {
+        "h": "Salman Khan's Monster Targets Eid 2027",
+        "p": [
+          "In addition to the comedy lineup, Salman Khan's action entertainer Monster is locked in for an Eid festive release in March 2027. The project presents a pan-Indian spectacle designed to draw large crowds nationwide during the holiday window.",
+          "The film pairs Salman Khan with leading lady Nayanthara, blending high-octane sequences with broad commercial appeal. It highlights a concerted effort to deliver scale and grandeur to national audiences."
+        ]
+      },
+      {
+        "h": "Cross-Industry Collaboration on Monster",
+        "p": [
+          "Monster is being helmed by Telugu director Vamshi Paidipally, marking his very first cinematic partnership with Salman Khan. This collaboration bridges the creative talents of the Hindi and Telugu film industries into a single cohesive production.",
+          "According to statements from Dil Raju during prior interviews, a substantial portion of the filming has already been completed, demonstrating steady progress toward the scheduled theatrical premiere."
+        ]
+      },
+      {
+        "h": "Contrasting Commercial Strategies",
+        "p": [
+          "The simultaneous management of these two distinct titles reflects a multifaceted approach by the production house. The Akshay Kumar starrer relies on the comfort of a tried-and-true comedy pairing to engage family audiences.",
+          "Conversely, the Salman Khan venture positions itself as a large-scale action event. Together, these contrasting genres underline the producer's overarching ambition to solidify his foothold in the Bollywood market."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Producer Dil Raju has confirmed updated theatrical release windows for two prominent Bollywood projects backed by Sri Venkateswara Creations. Akshay Kumar and Anees Bazmee's comedy is scheduled for February 2027, while Salman Khan's action film Monster is set for an Eid release in March 2027."
+        ]
+      }
+    ],
+    "facts": [
+      "Dil Raju confirmed release timelines for two Bollywood productions under Sri Venkateswara Creations on November 13, 2026.",
+      "Akshay Kumar and Anees Bazmee's comedy, reportedly titled Mauja Hi Mauja, is scheduled for February 2027.",
+      "Salman Khan's action film Monster is targeted for Eid in March 2027.",
+      "Vidya Balan and Raashii Khanna star alongside Akshay Kumar, while Nayanthara stars alongside Salman Khan.",
+      "Monster is directed by Vamshi Paidipally."
+    ],
+    "entities": {
+      "people": [
+        "Dil Raju",
+        "Akshay Kumar",
+        "Anees Bazmee",
+        "Salman Khan",
+        "Vidya Balan",
+        "Raashii Khanna",
+        "Vamshi Paidipally",
+        "Nayanthara"
+      ],
+      "titles": [
+        "Monster",
+        "Mauja Hi Mauja",
+        "Welcome",
+        "Singh Is Kinng",
+        "Jersey"
+      ]
+    },
+    "keywords": [
+      "Dil Raju Bollywood films",
+      "Akshay Kumar Anees Bazmee comedy",
+      "Salman Khan Monster Eid 2027",
+      "Mauja Hi Mauja release date",
+      "Vamshi Paidipally Monster movie"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.sacnilk.com/image/news300/1000028522.jpg",
+        "caption": "Dil Raju Sets Theatrical Windows for Akshay Kumar and Salman Khan Starrers",
+        "source": "Sacnilk"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 11:39:00 +0000"
+  },
+  "1qiap49": {
+    "id": "1qiap49",
+    "type": "news",
+    "headline": "Caramel Week Brings Tears and Goodbyes to The Great British Baking Show Season 17",
+    "dek": "Episode 8 of Season 17 puts the remaining bakers through a punishing gauntlet of caramel creations, resulting in dramatic collapses and a heartbreaking elimination.",
+    "body": [
+      {
+        "h": "The Challenge of Treacle Tarts",
+        "p": [
+          "Caramel Week on Season 17 of The Great British Baking Show began with a traditionally heavy British challenge: crafting a treacle tart. The twist required bakers to make their own golden syrup from scratch rather than relying on store-bought alternatives, sparking debate over whether the task leaned too far into tedious processes.",
+          "Despite the demanding nature of the syrup-making step, several contestants excelled. Tom impressed the judges with a peanut butter and jelly inspired version, while Mo offered an apple crumble variation and Moyin delivered a sticky toffee pudding tart that earned high praise from Paul Hollywood."
+        ]
+      },
+      {
+        "h": "Soggy Bottoms and Mutual Support",
+        "p": [
+          "While some bakers thrived, others encountered classic baking pitfalls. Connie faced structural difficulties with her orange and almond bake, struggling with a soggy bottom and a casing that refused to release from the tin.",
+          "Amidst the high-pressure environment, touching displays of camaraderie emerged in the tent. Moyin rushed to assist Connie with her stubborn tart, highlighting a deeply supportive bond between the contestants that resonated throughout the episode."
+        ]
+      },
+      {
+        "h": "The Millionaire's Shortbread Technical",
+        "p": [
+          "For the technical challenge, the bakers tackled millionaire's shortbread, a beloved British staple combining shortbread with thick layers of caramel and chocolate. Competitors faced a severe time crunch that prevented the caramel from properly setting before the chocolate coating was applied.",
+          "The resulting submissions were largely messy, featuring underbaked shortbread and overly runny caramel. Mo ranked at the bottom of the technical, followed by Connie, Gabe, Moyin, and Tom, who managed to deliver a decent result."
+        ]
+      },
+      {
+        "h": "Conquered by Nougatine in the Showstopper",
+        "p": [
+          "The final showstopper challenge demanded an ambitious Hungarian dessert known as Grillázstorta, which required constructing an intricate structure out of nougatine with a praline-based cake hidden inside. Working with nougatine proved to be a grueling task that pushed several bakers to their limits.",
+          "Connie took on a hazelnut cake dedicated to her husband, but spent too much time perfecting the nougatine exterior. Although the interior cake received praise from the judges, her structural box fell apart upon presentation, sealing her fate in the competition."
+        ]
+      },
+      {
+        "h": "Moyin Claims the Crown",
+        "p": [
+          "At the other end of the spectrum, Moyin delivered an exceptional showstopper inspired by a song from his grandmother. His creation featured an immaculate opera cake encased inside a majestic nougatine crown adorned with blue sapphires.",
+          "The judges were thoroughly impressed by the presentation and flavor profile. True to predictions that circulated earlier in the episode, Moyin secured the Star Baker title for his stellar performance."
+        ]
+      },
+      {
+        "h": "A Heartfelt Farewell",
+        "p": [
+          "The elimination of Connie brought an emotional wave over the tent, drawing tears from both participants and viewers alike. Paul Hollywood offered a rare moment of comfort by advising her to take a breather by the water during her stressful showstopper attempt.",
+          "As Connie packed up her station and bid farewell to the crew and fellow bakers, her warm spirit left a lasting impression. Her exit left remaining contestants with just two episodes left in the season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Caramel Week on Season 17 of The Great British Baking Show tested contestants with homemade golden syrup tarts, messy millionaire's shortbread, and complex nougatine showstoppers. Moyin triumphed as Star Baker with his crown-themed opera cake, while Connie was eliminated following structural difficulties with her final bake."
+        ]
+      }
+    ],
+    "facts": [
+      "Season 17 Episode 8 of The Great British Baking Show featured Caramel Week",
+      "Moyin won Star Baker for the episode",
+      "Connie was eliminated from the competition",
+      "Gabe used a black sesame nougatine for his showstopper",
+      "Tom made a pub out of nougatine for the final challenge"
+    ],
+    "entities": {
+      "people": [
+        "Paul Hollywood",
+        "Nigella",
+        "Mo",
+        "Tom",
+        "Moyin",
+        "Gabe",
+        "Connie",
+        "Mary Berry",
+        "Myke"
+      ],
+      "titles": [
+        "The Great British Baking Show",
+        "Bake Off: The Professionals"
+      ]
+    },
+    "keywords": [
+      "The Great British Baking Show",
+      "Caramel Week",
+      "Moyin",
+      "Connie",
+      "Paul Hollywood"
+    ],
+    "images": [
+      {
+        "url": "https://pyxis.nymag.com/v1/imgs/194/80f/c93c47a2f0d6073dc7176ecce50ef6dbbb-gbb-ep8.1x.rsocial.w1200.jpg",
+        "caption": "Caramel Week Brings Tears and Goodbyes to The Great British Baking Show Season 17",
+        "source": "Vulture"
+      }
+    ],
+    "published": "2026-11-13T09:00:52.367Z"
+  },
+  "17k3olp": {
+    "id": "17k3olp",
+    "type": "news",
+    "headline": "Dhindora Season 2 Trailer Released Ahead of November 20 Premiere on Netflix",
+    "dek": "Bhuvan Bam returns with the second season of his popular digital series, featuring new cast additions and exciting cameos.",
+    "body": [
+      {
+        "h": "The Return of the BB Ki Vines Universe",
+        "p": [
+          "Streaming giant Netflix has officially revealed the trailer for the much-anticipated second season of the hit comedy series Dhindora. Creator and lead star Bhuvan Bam steps back into his iconic multiple roles, bringing familiar internet favorites back to the screen.",
+          "Fans can look forward to seeing the return of beloved characters such as Titu Mama, Babloo ji, Janki, Sameer, and Bancho. The upcoming season promises to scale up the humor and chaotic energy that originally defined the breakout digital universe."
+        ]
+      },
+      {
+        "h": "Plot Details and Financial Troubles",
+        "p": [
+          "The narrative picks up as the lovable yet chaotic Titu Mama finds himself dealing with a steep financial setback involving an eleven crore rupee loss. In typical fashion, his attempts to rectify the situation and repair his strained dynamic with his in-laws only generate further complications.",
+          "Creator Bhuvan Bam noted that Titu Mama has a unique talent for stumbling into predicaments he never asked for. This time, managing family relations pushes the comedy and confusion to entirely new heights."
+        ]
+      },
+      {
+        "h": "New Faces and Special Cameos",
+        "p": [
+          "A major highlight of the upcoming season is the introduction of actor Sanjeeda Sheikh, who joins the primary cast as Kavita Mami. Described as Titu Mama's wife, her character is uniquely equipped to see right through his elaborate explanations.",
+          "Beyond the primary cast additions, viewers will also spot several prominent personalities making special cameo appearances. The guest roster features notable figures including Anup Soni, Udit Narayan, and Orry."
+        ]
+      },
+      {
+        "h": "Creative Vision and Directorial Debut",
+        "p": [
+          "Sneha Shetty Kohli takes the helm for the second outing, marking her directorial debut with the project. She expressed enthusiasm about injecting fresh scale, vibrancy, and energy into an already established world.",
+          "The production incorporates wild elements like bizarre action sequences and colorful song-and-dance numbers. The director focused on balancing these fresh cinematic scales while staying entirely true to the core humor of the original digital series."
+        ]
+      },
+      {
+        "h": "Writing and Production Team",
+        "p": [
+          "The writing room for the second season brings together a collaborative team of multiple creative minds. The script was penned by Bhuvan Bam alongside Abbas Dalal, Hussain Dalal, Chetan Dange, Gopal Dutt, Shubham Dubey, and Anant Dubey.",
+          "On the production front, the project is backed by Rohit Raj and Bhuvan Bam. Their partnership aims to elevate the production quality significantly compared to earlier independent digital releases."
+        ]
+      },
+      {
+        "h": "Platform Expansion and Release Date",
+        "p": [
+          "The second installment is slated to premiere globally on Netflix on November 20. Moving the project to a major streaming platform allows the creators to reach a much broader audience while preserving the original flavor of the digital franchise.",
+          "With promotional trailers now live, anticipation among followers of the comedy universe continues to climb rapidly. The upcoming release date marks a major milestone for independent creators transitioning into mainstream streaming services."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Netflix has released the trailer for Dhindora Season 2, starring Bhuvan Bam in multiple roles, with a premiere scheduled for November 20. The new season follows Titu Mama dealing with financial losses and family complications alongside new cast member Sanjeeda Sheikh and various celebrity cameos."
+        ]
+      }
+    ],
+    "facts": [
+      "Dhindora Season 2 premieres on November 20",
+      "Bhuvan Bam plays Titu Mama, Babloo ji, Janki, Sameer, and Bancho",
+      "Sanjeeda Sheikh joins the cast as Kavita Mami",
+      "Cameo appearances include Anup Soni, Udit Narayan, and Orry",
+      "Titu Mama deals with an Rs 11 crores loss in the plot",
+      "Sneha Shetty Kohli is the director",
+      "Writers include Bhuvan Bam, Abbas Dalal, Hussain Dalal, Chetan Dange, Gopal Dutt, Shubham Dubey, and Anant Dubey",
+      "Producers are Rohit Raj and Bhuvan Bam",
+      "The series releases on Netflix"
+    ],
+    "entities": {
+      "people": [
+        "Bhuvan Bam",
+        "Sanjeeda Sheikh",
+        "Anup Soni",
+        "Udit Narayan",
+        "Orry",
+        "Sneha Shetty Kohli",
+        "Abbas Dalal",
+        "Hussain Dalal",
+        "Chetan Dange",
+        "Gopal Dutt",
+        "Shubham Dubey",
+        "Anant Dubey",
+        "Rohit Raj"
+      ],
+      "titles": [
+        "Dhindora",
+        "BB Ki Vines"
+      ]
+    },
+    "keywords": [
+      "Dhindora Season 2",
+      "Bhuvan Bam",
+      "Sanjeeda Sheikh",
+      "Netflix",
+      "Titu Mama"
+    ],
+    "images": [
+      {
+        "url": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/11/Dhindora-Season-2-release-date-Trailer.jpeg",
+        "caption": "Dhindora Season 2 Trailer Released Ahead of November 20 Premiere on Netflix",
+        "source": "Bollywood Hungama"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 16:51:18 +0200"
+  },
+  "yk00fc": {
+    "id": "yk00fc",
+    "type": "news",
+    "headline": "Director Jithu Madhavan Admits Fear After Major Plot Twist Leak Ahead of Suriya's 'Scene' Release",
+    "dek": "Filmmaker Jithu Madhavan confirms that the core secret about Suriya's blind character in the Tamil hit 'Scene' leaked during post-production before the first look was even unveiled, leaving him deeply worried about its theatrical impact.",
+    "body": [
+      {
+        "h": "The Surprising Confession from the Director",
+        "p": [
+          "Director Jithu Madhavan recently opened up about a major behind-the-scenes obstacle during the making of his Tamil directorial debut, 'Scene'. The filmmaker revealed that a critical plot element concerning the protagonist's vision was accidentally leaked long before the movie reached cinemas.",
+          "Rather than originating from clever fan speculation on social media, the information escaped from within the production cycle during the final finishing stages. This unexpected breach happened prior to the official unveiling of the film's first look and title."
+        ]
+      },
+      {
+        "h": "Anxiety During the Post-Production Phase",
+        "p": [
+          "Madhavan admitted that realizing the secret had slipped out caused him considerable panic. Because the entire first half of the narrative relies on keeping the audience in suspense until the interval, losing that element of surprise was a terrifying prospect for a director launching his first project in Tamil cinema with a major star.",
+          "While the production crew maintained strict confidentiality throughout the actual filming process, the leak occurred later when the project passed through various hands in post-production. The director noted that the situation was entirely outside of his direct control, forcing him to worry about how spectators would react once the twist became common knowledge."
+        ]
+      },
+      {
+        "h": "The Confusing Denial from the Writing Team",
+        "p": [
+          "Before the movie hit the big screen, the widespread rumors prompted dialogue writer Dravid Selvam to actively dispute the claims. In an interview, Selvam gave a direct negative response when asked if the lead actor was portraying a visually impaired individual, urging fans to disregard the circulating gossip.",
+          "This public pushback created a peculiar dynamic where the creative team attempted to safeguard the narrative surprise even though the authentic details had already leaked. In retrospect, the denial is seen as an effort to protect the viewing experience despite the truth having already escaped."
+        ]
+      },
+      {
+        "h": "Character Dynamics and Narrative Significance",
+        "p": [
+          "The story centers on DSP Inbaraj, a sidelined former senior officer who gathers an eccentric group of individuals to handle an investigation. The character's gradual loss of sight is integrated into the plot through both dramatic developments and comedic moments.",
+          "The ensemble cast features Suriya in the lead role alongside Naslen as the antagonist and Nazriya Nazim as a house help, marking her return to Tamil cinema after a twelve-year absence. Additional cast members include Anandraj, Lal, and debutant internet personality Raj Priyan, with a musical score composed by Sushin Shyam."
+        ]
+      },
+      {
+        "h": "Box Office Triumph Despite the Early Breach",
+        "p": [
+          "Despite the director's initial fears that the plot leak would hinder ticket sales, the theatrical results proved exceptionally strong. The feature debuted during the festive Diwali window, holding its own against other major holiday releases and pulling in massive audiences across Tamil Nadu and Kerala.",
+          "Trade reports indicated impressive figures during the opening run, contributing to Suriya's third massive box office success of the year. With production costs already covered through non-theatrical agreements prior to premiere, the theatrical earnings represented pure profit for the makers."
+        ]
+      },
+      {
+        "h": "Reflections on Modern Filmmaking Secrecy",
+        "p": [
+          "Madhavan's candid comments shed light on the fragility of plot security in contemporary cinema, where digital workflows and multiple editing suites make absolute secrecy nearly impossible. Even when active filming concludes without incident, post-production remains a vulnerable window for sensitive details to emerge.",
+          "Although the spoiler circulated widely online prior to premiere, it ultimately failed to diminish the overall enthusiasm of ticket buyers or critics. The film continues its successful theatrical run, cementing its place as a major highlight of the festive season."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Director Jithu Madhavan confirmed that a major plot twist regarding Suriya playing a blind character in 'Scene' leaked during post-production before the first look was released. Despite the director's initial fear and a prior denial from the writing team, the film achieved major box office success following its Diwali release."
+        ]
+      }
+    ],
+    "facts": [
+      "Jithu Madhavan directed the film 'Scene'.",
+      "Suriya stars as DSP Inbaraj in 'Scene'.",
+      "The film released in theatres on November 6, 2026.",
+      "The first look and title of 'Scene' were officially revealed on September 9, 2026.",
+      "By Day 5, the film collected a net of Rs 12.85 crore in India across 5,324 shows.",
+      "The worldwide gross reached Rs 174.40 crore in five days.",
+      "Nazriya Nazim returned to Tamil cinema after 12 years with this film."
+    ],
+    "entities": {
+      "people": [
+        "Jithu Madhavan",
+        "Suriya",
+        "Dravid Selvam",
+        "Naslen",
+        "Nazriya Nazim",
+        "Anandraj",
+        "Lal",
+        "Raj Priyan",
+        "Sushin Shyam",
+        "Jyotika",
+        "Nitesh Tiwari",
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash",
+        "Nayanthara"
+      ],
+      "titles": [
+        "Scene",
+        "Romancham",
+        "Aavesham",
+        "Cinema Vikatan",
+        "Vishwanath and Sons",
+        "Karuppu",
+        "Ramayana: Part 1",
+        "Mookuthi Amman 2",
+        "Thirumanam Enum Nikkah",
+        "Blind Detective",
+        "Pyre",
+        "Maharani Season 5",
+        "Koffee With Karan",
+        "Bigg Boss 20"
+      ]
+    },
+    "keywords": [
+      "Scene film",
+      "Jithu Madhavan Scene",
+      "Suriya blind character Scene",
+      "Scene box office 2026"
+    ],
+    "images": [
+      {
+        "url": "https://vviptimes.com/wp-content/uploads/2026/11/image-2026-11-06T141949.040.webp",
+        "caption": "Director Jithu Madhavan Admits Fear After Major Plot Twist Leak Ahead of Suriya's 'Scene' Release",
+        "source": "VVIP Times"
+      }
+    ],
+    "published": "Fri, 13 Nov 2026 10:54:42 +0000"
   }
 };
