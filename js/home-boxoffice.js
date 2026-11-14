@@ -612,6 +612,28 @@
       const bucket = kind === "bollywood" ? "bollywood" : kind === "world" ? "world" : "";
       if (!bucket) continue;
       if (x.release_date < (bucket === "world" ? worldCutoff : cutoff)) continue;
+      // World figures guard (2026-11-14, owner goal: homepage shows the
+      // MAIN movies — recent + well-known + popular — with figures, never
+      // an empty Total). A World title is eligible only when a verified
+      // worldwide total exists for it (snapshot Mojo total, or the
+      // FA_WORLDWIDE total). TMDB revenue alone does NOT qualify — it is
+      // stale/unverified and never renders as a World Total. The Python
+      // collector still considers figure-less titles as candidates (so a
+      // new popular title gets its Mojo total within one 3h cycle); this
+      // filter is display-only. When the snapshot is empty (API down),
+      // the guard is skipped so the tab never goes blank from a fetch
+      // failure. Bollywood keeps its daywise fallback (no guard).
+      if (bucket === "world") {
+        const reps = snapshot && snapshot.reports && typeof snapshot.reports === "object" ? snapshot.reports : {};
+        const hasAnyReport = Object.keys(reps).length > 0;
+        if (hasAnyReport) {
+          const rep = reps[String(x.id)] || {};
+          const hasVerified = rep.cumulative_total && Number(rep.cumulative_total.amount) > 0;
+          const ww = worldwide && worldwide[String(x.id)];
+          const hasWorldwide = ww && Number(ww.total_usd) > 0;
+          if (!hasVerified && !hasWorldwide) continue;
+        }
+      }
       pools[bucket].push({ item: x, id: String(x.id) });
     }
     for (const bucket of ["bollywood", "world"]) {
