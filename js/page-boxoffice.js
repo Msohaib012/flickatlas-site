@@ -75,11 +75,12 @@
   const hasRows = (x) => { const r = dw[String(x.id)]; return Array.isArray(r) && r.length > 0; };
   const picks = Object.values(window.FA_PUBLISHED || {})
     .filter(x => x && x.type === "movie" && x.poster_path && x.release_date && x.release_date <= today && x.date_kind !== "festival" && (hasRows(x) || UI.isFresh(x)) && !UI.isStreamingOnly(x))
-    /* Sort (2026-10-28 fix): release date DESC, then published_at DESC, then
-       recorded total DESC (India-Net rows, else the worldwide fallback total) —
-       same order as the homepage Box Office section, so the five 23 Oct 2026
-       releases no longer sit in arbitrary catalogue order. */
-    .sort((a, b) => (b.release_date || "").localeCompare(a.release_date || "") || (b.published_at || "").localeCompare(a.published_at || "") || (boTotalOf(b) - boTotalOf(a)))
+    /* Sort (2026-10-28 fix, 2026-11-14 figures-first): titles WITH a
+       figure (India-Net rows or a worldwide total) come first, so the
+       top of the page is never a wall of "Not reported" from today's
+       fresh-but-untracked releases; inside each group, release date
+       DESC, then published_at DESC, then recorded total DESC. */
+    .sort((a, b) => ((boTotalOf(b) > 0 ? 1 : 0) - (boTotalOf(a) > 0 ? 1 : 0)) || (b.release_date || "").localeCompare(a.release_date || "") || (b.published_at || "").localeCompare(a.published_at || "") || (boTotalOf(b) - boTotalOf(a)))
     .filter(x => inFilter(x))
     .map(entry => ({ entry, rows: dw[String(entry.id)] || [] }));
 

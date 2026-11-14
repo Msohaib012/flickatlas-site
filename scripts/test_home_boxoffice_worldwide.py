@@ -516,8 +516,8 @@ class WorldwideEvidenceTests(unittest.TestCase):
         self.assertIn("CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}", hourly,
                       "the KV write reuses the token the deploy step already receives")
         schedule = (ROOT / "scripts/pipeline_schedule.py").read_text()
-        self.assertIn("'home_boxoffice_worldwide': policy((0, 6, 12, 18), 6", schedule,
-                      "figures refresh every 6h; selections re-derive on every gated run")
+        self.assertIn("'home_boxoffice_worldwide': policy((0, 3, 6, 9, 12, 15, 18, 21), 3", schedule,
+                      "figures refresh every 3h; selections re-derive on every gated run")
         self.assertIn("'run_home_worldwide': 'home_boxoffice_worldwide'", schedule)
 
     def test_namespace_id_matches_cloudflare_worker_deploy_binding(self):
