@@ -517,7 +517,28 @@
     // fallback covers is still "uncovered" for the collector's worldwide
     // research and keeps being re-queried on schedule.
     const verified = resolveVerifiedMetric(entry, rows, explicitTotal, report, windowKey, todayIST);
-    if (verified) return verified;
+    if (verified) {
+      // STALE-TOTAL GUARD (2026-11-14): a verified cumulative total frozen
+      // before the latest tracked daywise date is older than the tracked
+      // collection itself, so it can read SMALLER than the fresh 2-day /
+      // 7-day figures on the same card (Total < 7 Days — live on
+      // Ramayana 2026-11-14: paired total $47.5M as of 2026-11-08 vs
+      // tracked 7-day $76.4M through 2026-11-13). When fresher tracked
+      // rows exist and their cumulative sum is not smaller than the stale
+      // total, show the tracked total instead — the windows then nest
+      // (Total >= 7 Days >= 2 Days) by construction, and the total stays
+      // a same-currency USD sum of the same daywise rows. World titles
+      // never fall back to tracked rows (their daywise is India-only),
+      // so the guard applies to the Bollywood bucket only. If no tracked
+      // total resolves, or it is older or smaller, the verified total
+      // stands.
+      if (windowKey === "cumulative_total" && bucket !== "world"
+          && verified.currency === "USD" && typeof verified.as_of === "string") {
+        const tracked = trackedMetric(rows, windowKey, todayIST);
+        if (tracked && tracked.as_of > verified.as_of && tracked.amount >= verified.amount) return tracked;
+      }
+      return verified;
+    }
     if (bucket === "world") return null;
     return trackedMetric(rows, windowKey, todayIST);
   }
