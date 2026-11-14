@@ -1394,10 +1394,12 @@ def list_seo_buckets():
     return buckets
 
 
-def build_sitemap_cat(bucket, state=None):
+def build_sitemap_cat(bucket, state=None, published=None):
     """One bucket's sitemap: /movie?id= and /show?id= URLs for the
     titles in js/seo/<bb>.json. lastmod is the catalogue-add date from
     out/catalogue-state.json (state["added"][tid]) — never today.
+    Titles in `published` (kind:id keys) are skipped: they live in
+    sitemap-main.xml and must never also appear here (same URL twice).
     Returns (xml, count, max_lastmod); ("", 0, "") when the bucket has
     no titles or its chunk is missing/unreadable."""
     state = state or {}
@@ -1411,6 +1413,8 @@ def build_sitemap_cat(bucket, state=None):
     entries = (chunk or {}).get("titles") or {}
     urls = []
     for key in sorted(entries, key=lambda k: int(str(k).split(":", 1)[-1])):
+        if published and str(key) in published:
+            continue
         kind, _, tid = str(key).partition(":")
         page = "show" if kind == "tv" else "movie"
         lm = added.get(tid) or added.get(str(key)) or ""
@@ -1610,10 +1614,16 @@ def main():
             state = json.load(f)
     except (OSError, ValueError):
         state = {}
+    # Published titles live in sitemap-main.xml; they must never also
+    # appear in a catalogue sitemap (the same URL twice). The builder
+    # drops published titles from the catalogue, and this is the
+    # backstop for any stale entry still sitting in a chunk.
+    published_keys = {"%s:%s" % ((v or {}).get("type") or "movie", k)
+                      for k, v in PUBLISHED.items()}
     bucket_lastmods = {}
     n_cat_total = 0
     for bb in list_seo_buckets():
-        xml, n_cat, max_lm = build_sitemap_cat(bb, state)
+        xml, n_cat, max_lm = build_sitemap_cat(bb, state, published_keys)
         if not xml:
             continue
         _write_if_changed(os.path.join(ROOT, "sitemap-cat-%s.xml" % bb), xml)

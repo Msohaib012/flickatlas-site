@@ -373,17 +373,37 @@ def load_state():
     return {"pools": {}, "added": {}, "skipped": {}, "updated": ""}
 
 
-def migrate_cat_chunks():
+def load_published_keys():
+    """kind:id keys of every published title (FA_PUBLISHED). A published
+    title must never also live in the catalogue — its URL would appear
+    in both sitemap-main.xml and a sitemap-cat-<bb>.xml, and the posting
+    system (recent movies/TV) already owns it. Fail-open: an unreadable
+    published file yields an empty set (old behaviour)."""
+    try:
+        pub = PT.read_js_map(os.path.join(ROOT, "js", "published-titles.js"),
+                             "FA_PUBLISHED")
+    except Exception:
+        return set()
+    out = set()
+    for tid, entry in (pub or {}).items():
+        kind = (entry or {}).get("type") or "movie"
+        out.add("%s:%s" % (kind, tid))
+    return out
+
+
+def migrate_cat_chunks(published=None):
     """Rewrite existing js/cat chunks from stage-1a bare-id keys to
     kind:id keys. The kind comes from each entry's own "type" field
     (build_entry always sets it). A bare entry whose prefixed key
     already exists is dropped, never overwriting the newer entry.
-    Runs over ALL buckets so the migration completes in one run,
-    whether or not the pool touches a bucket. Returns
-    (buckets_rewritten, entries_renamed)."""
+    Entries whose kind:id is in `published` are dropped too: a title
+    the posting system published since it was catalogued belongs to
+    the posting system now, not the catalogue. Runs over ALL buckets
+    so the migration completes in one run, whether or not the pool
+    touches a bucket. Returns (buckets_rewritten, entries_renamed)."""
     if not os.path.isdir(CAT_DIR):
         return 0, 0
-    rewritten, renamed = 0, 0
+    rewritten, renamed, dropped_pub = 0, 0, 0
     for name in sorted(os.listdir(CAT_DIR)):
         if not name.endswith(".json"):
             continue
@@ -395,11 +415,18 @@ def migrate_cat_chunks():
         for key, entry in titles.items():
             key = str(key)
             if ":" in key:
+                if published and key in published:
+                    changed = True
+                    dropped_pub += 1
+                    continue
                 new_titles[key] = entry
                 continue
             changed = True
             kind = (entry or {}).get("type") or "movie"
             new_key = chunk_key(kind, key)
+            if published and new_key in published:
+                dropped_pub += 1
+                continue
             if new_key not in new_titles:
                 new_titles[new_key] = entry
                 renamed += 1
@@ -409,7 +436,39 @@ def migrate_cat_chunks():
             bucket = name[:-len(".json")]
             if write_if_changed(path, dump_chunk(bucket, new_titles)):
                 rewritten += 1
+    if dropped_pub:
+        log("catalogue_build: dropped %d published titles from cat chunks"
+            % dropped_pub)
     return rewritten, renamed
+
+
+def drop_published_from_seo_chunks(published):
+    """Drop published titles from js/seo/<bb>.json. The seo chunks are
+    keyed kind:id already, so this is a membership filter — no type
+    resolution needed. Without it a stale catalogue meta would win
+    over the published seo-meta.json entry in the Worker's chunk-first
+    lookup. Returns (buckets_rewritten, dropped)."""
+    if not os.path.isdir(SEO_DIR):
+        return 0, 0
+    rewritten, dropped = 0, 0
+    for name in sorted(os.listdir(SEO_DIR)):
+        if not name.endswith(".json"):
+            continue
+        path = os.path.join(SEO_DIR, name)
+        titles = read_chunk(path)
+        if not titles:
+            continue
+        new_titles = {k: v for k, v in titles.items()
+                      if str(k) not in published}
+        if len(new_titles) != len(titles):
+            dropped += len(titles) - len(new_titles)
+            bucket = name[:-len(".json")]
+            if write_if_changed(path, dump_chunk(bucket, new_titles)):
+                rewritten += 1
+    if dropped:
+        log("catalogue_build: dropped %d published titles from seo chunks"
+            % dropped)
+    return rewritten, dropped
 
 
 def migrate_state_keys(state):
@@ -469,19 +528,38 @@ def main():
         return 2
     today = time.strftime("%Y-%m-%d", time.gmtime())
     state = load_state()
+    # Published titles belong to the posting system, never the
+    # catalogue: the same URL must not appear in both sitemap-main.xml
+    # and a sitemap-cat-<bb>.xml. The published set is the filter for
+    # the pool below and the cleanup of already-catalogued titles.
+    published = load_published_keys()
+    if published:
+        log("catalogue_build: %d published titles excluded from catalogue"
+            % len(published))
     # Stage-1a wrote bare-id keys; TV needs kind:id keys (a movie+TV
     # pair sharing a numeric id overwrote each other in js/cat).
     # Migrate chunks first (state resolution reads them), then state.
     # Skipped on --dry-run: a dry run must not change anything.
     if not args.dry_run:
-        n_buckets, n_renamed = migrate_cat_chunks()
+        n_buckets, n_renamed = migrate_cat_chunks(published)
         if n_renamed:
             log("catalogue_build: migrated %d cat entries in %d buckets to "
                 "kind:id keys" % (n_renamed, n_buckets))
+        if published:
+            drop_published_from_seo_chunks(published)
         n_state, n_dropped = migrate_state_keys(state)
         if n_state or n_dropped:
             log("catalogue_build: migrated %d state keys, dropped %d "
                 "unresolvable" % (n_state, n_dropped))
+        if published:
+            for section in ("added", "skipped"):
+                sec = state.get(section) or {}
+                gone = [k for k in sec if k in published]
+                for k in gone:
+                    del sec[k]
+                if gone:
+                    log("catalogue_build: dropped %d published keys from "
+                        "state[%s]" % (len(gone), section))
     done = set(state.get("added", {}).keys())
     pool_name = "%s:%s:%s" % (args.pool, args.media, args.query or "-")
 
@@ -494,6 +572,12 @@ def main():
             return 2
         ids = pool_discover(key, args.media, args.query, args.limit,
                             args.max_pages, done)
+    if published:
+        before = len(ids)
+        ids = [(t, k) for (t, k) in ids if chunk_key(k, t) not in published]
+        if len(ids) != before:
+            log("catalogue_build: skipped %d published ids from pool"
+                % (before - len(ids)))
     log("catalogue_build: pool %s -> %d fresh ids" % (pool_name, len(ids)))
     if args.dry_run:
         for tid, kind in ids:
