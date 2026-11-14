@@ -149197,5 +149197,383 @@ window.FA_ARTICLES = {
       }
     ],
     "published": "Sat, 14 Nov 2026 20:06:12 +0000"
+  },
+  "1bhelu8": {
+    "id": "1bhelu8",
+    "type": "news",
+    "headline": "EPF Scheme 2026: Exploring How Provident Fund Rules Might Shift During a National Crisis",
+    "dek": "A closer look at how the EPF Scheme 2026 outlines potential reductions or deferrals in employer and employee contributions during large-scale emergencies like pandemics and disasters.",
+    "body": [
+      {
+        "h": "Understanding the EPF Scheme 2026 Emergency Provisions",
+        "p": [
+          "Major crises such as a pandemic, endemic, or widespread national disaster can strike at any moment, leaving individuals in urgent need of accessible cash. To help people navigate these difficult financial phases, the EPF Scheme 2026 includes specific guidelines designed to offer relief. Under this framework, authorities hold the power to ease the financial strain on workers.",
+          "Specifically, the Central Government may choose to reduce or completely defer the standard contributions made by either the employer, the employee, or both. This administrative flexibility is intended to inject greater liquidity into households when emergency expenses mount up."
+        ]
+      },
+      {
+        "h": "How Government Intervention Works",
+        "p": [
+          "It is essential to understand that these modifications do not happen automatically whenever a difficult situation arises. Standard deductions continue to apply as usual unless the government explicitly invokes the special provision and issues a formal notification.",
+          "Furthermore, the relief measures do not necessarily have to apply nationwide. The administration retains the authority to limit the application of these modified rules to specific geographic areas depending on where the crisis is most severe."
+        ]
+      },
+      {
+        "h": "Standard Contributions Versus Crisis Adjustments",
+        "p": [
+          "Normally, the standard EPF framework requires an employer to contribute 12 percent of applicable wages toward the Provident Fund, with a matching contribution expected from the employee. For certain specific establishments designated by the Central Government, a reduced rate of 10 percent applies.",
+          "When a national disaster, endemic, or pandemic strikes, the government can intervene to alter these fixed percentages. The duration of this adjustment is capped at a maximum of three months, and the exact method of relief depends entirely on how the authorities choose to structure the order."
+        ]
+      },
+      {
+        "h": "Reduction Versus Deferral of Contributions",
+        "p": [
+          "The relief measures can take two distinct forms: a reduction or a deferral. If the government orders a reduction, the required monthly contribution drops, which directly leaves a larger take-home salary in the worker's hands during the crisis.",
+          "On the other hand, a deferral does not permanently cut the contribution amount. Instead, the payment obligation is simply postponed to a later date under official instructions, pushing the financial requirement down the road."
+        ]
+      },
+      {
+        "h": "Practical Impact on Monthly Take-Home Pay",
+        "p": [
+          "To illustrate how a reduction affects finances, consider a scenario where an employee's monthly PF contribution is normally Rs 5,000, and a government order lowers it to Rs 3,000. This adjustment immediately adds Rs 2,000 to the worker's in-hand monthly salary.",
+          "If this particular relief measure remains active for the full permitted duration of three months, the individual accumulates an extra Rs 6,000 in liquid cash over that period to help manage emergency expenses."
+        ]
+      },
+      {
+        "h": "The Long-Term Drawback on Retirement Savings",
+        "p": [
+          "While higher take-home pay provides immediate relief during an emergency, it comes with a significant long-term disadvantage. Any reduction in monthly contributions directly diminishes the final retirement corpus since less money is being funneled into the EPF balance.",
+          "Additionally, workers lose out on the interest and compounding growth that the un-contributed money would have generated throughout the entire lifecycle of the EPF account."
+        ]
+      },
+      {
+        "h": "Historical Precedents and What Workers Should Check",
+        "p": [
+          "A similar adjustment was previously implemented during the Covid-19 pandemic in 2020, when the Central Government lowered the PF contribution rate from 12 percent to 10 percent for select establishments between May and July.",
+          "Because of this, workers must patiently wait for official government notifications during any crisis. Employees need to carefully verify who is covered, whether contributions are being reduced or deferred, whose share is affected, the exact amount altered, and how long the relief will last."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "The EPF Scheme 2026 includes provisions allowing the Central Government to reduce or defer employer and employee Provident Fund contributions for up to three months during a national crisis, pandemic, or endemic. While this temporary measure boosts in-hand liquidity and monthly take-home pay, it ultimately impacts long-term retirement savings and compound interest accumulation. Workers must wait for official notifications and review specific guidelines regarding duration, coverage, and adjustment rates before expecting any changes to standard deductions."
+        ]
+      }
+    ],
+    "facts": [
+      "The EPF Scheme 2026 features rules regarding PF adjustments during national crises.",
+      "The Central Government can reduce or defer employer and employee contributions for up to three months.",
+      "Standard employer and employee contributions are typically 12 percent of applicable wages.",
+      "A 10 percent contribution rate applies to specific establishments as specified by the Central Government.",
+      "During the 2020 Covid-19 pandemic, the government reduced the PF contribution rate from 12 percent to 10 percent for certain establishments from May to July."
+    ],
+    "entities": {
+      "people": [],
+      "titles": [
+        "EPF Scheme, 2026"
+      ]
+    },
+    "keywords": [
+      "EPF Scheme 2026",
+      "Provident Fund crisis rules",
+      "EPF contribution reduction",
+      "EPFO crisis guidelines"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/14/6613-epf-scheme-2026.png",
+        "caption": "EPF Scheme 2026: Exploring How Provident Fund Rules Might Shift During a National Crisis",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T21:40:19Z"
+  },
+  "1n8mo22": {
+    "id": "1n8mo22",
+    "type": "news",
+    "headline": "OTT Releases This Week Bring Major Indian Movies and Shows to Netflix, Prime Video, and JioHotstar",
+    "dek": "A comprehensive look at the major Indian films and streaming series arriving on digital platforms between November 9 and November 15, featuring star-studded casts and high-profile sequels.",
+    "body": [
+      {
+        "h": "Introduction to This Week's Major OTT Lineup",
+        "p": [
+          "The digital streaming calendar for the week of November 9 to 15 is packed with high-profile releases across major platforms including Netflix, Amazon Prime Video, and JioHotstar.",
+          "Audiences seeking fresh Indian cinema and episodic content have access to five prominent titles spanning action blockbusters, crime thrillers, comedies, period dramas, and mystery series."
+        ]
+      },
+      {
+        "h": "Jailer 2 Arrives on Amazon Prime Video",
+        "p": [
+          "Following a massive theatrical run that grossed over Rs 800 crore globally and crowned it the highest-grossing Tamil film in history, Jailer 2 made its digital premiere on Amazon Prime Video on November 12.",
+          "Directed by Nelson Dilipkumar, the action entertainer features Rajinikanth reprising his role as Tiger Muthuvel Pandian alongside an ensemble cast boasting SJ Suryah, Vidya Balan, Mithun Chakraborty, Mohanlal, and Hrithik Roshan."
+        ]
+      },
+      {
+        "h": "Kareena Kapoor Khan and Prithviraj Sukumaran Lead Daayra on Netflix",
+        "p": [
+          "Netflix added a compelling new crime thriller to its library with the release of Daayra on November 13, directed by veteran filmmaker Meghna Gulzar.",
+          "The narrative centres on a controversial police encounter, featuring Kareena Kapoor Khan as DCP Ajooni Kohli and Prithviraj Sukumaran as DCP Raman Kumar."
+        ]
+      },
+      {
+        "h": "Kunal Kemmu Directs and Stars in Vibe on Prime Video",
+        "p": [
+          "Amazon Prime Video welcomed Vibe on November 13, an action comedy written, directed by, and starring Kunal Kemmu.",
+          "The film features a vibrant supporting cast including Preity Zinta, Sparsh Shrivastava, and Vanshika Dhir."
+        ]
+      },
+      {
+        "h": "Ranabaali Transitions to Netflix Following Theatrical Run",
+        "p": [
+          "Directed by Rahul Sankrityan, the period action drama Ranabaali arrived on Netflix on November 13 following an underperforming stint at the box office.",
+          "Set against the backdrop of pre-Independence India, the project stars the popular pairing of Vijay Deverakonda and Rashmika Mandanna."
+        ]
+      },
+      {
+        "h": "Student of the Year: After Dark Premieres on JioHotstar",
+        "p": [
+          "Expanding into episodic mystery content, JioHotstar launched Student of the Year: After Dark on November 13.",
+          "The series stars Shanaya Kapoor in a dual role as she investigates her twin sister's mysterious death by going undercover at St. Teresa's school."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Major digital platforms rolled out five significant Indian films and series between November 9 and November 15, headlined by blockbusters like Jailer 2 and thrillers like Daayra.",
+          "These streaming debuts offer audiences diverse entertainment choices ranging from high-octane action and period drama to suspenseful mystery series."
+        ]
+      }
+    ],
+    "facts": [
+      "Jailer 2 grossed over Rs 800 crore at the worldwide box office.",
+      "Jailer 2 began streaming on Prime Video on November 12, 2026.",
+      "Daayra started streaming on Netflix on November 13, 2026.",
+      "Vibe arrived on Amazon Prime Video on November 13, 2026.",
+      "Ranabaali started streaming on Netflix on November 13, 2026.",
+      "Student of the Year: After Dark premiered on JioHotstar on November 13, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Rajinikanth",
+        "Tiger Muthuvel Pandian",
+        "Nelson Dilipkumar",
+        "SJ Suryah",
+        "Vidya Balan",
+        "Mithun Chakraborty",
+        "Mohanlal",
+        "Hrithik Roshan",
+        "Meghna Gulzar",
+        "Kareena Kapoor Khan",
+        "Ajooni Kohli",
+        "Prithviraj Sukumaran",
+        "Raman Kumar",
+        "Kunal Kemmu",
+        "Preity Zinta",
+        "Sparsh Shrivastava",
+        "Vanshika Dhir",
+        "Rahul Sankrityan",
+        "Vijay Deverakonda",
+        "Rashmika Mandanna",
+        "Shanaya Kapoor"
+      ],
+      "titles": [
+        "Jailer 2",
+        "Daayra",
+        "Vibe",
+        "Ranabaali",
+        "Student of the Year: After Dark"
+      ]
+    },
+    "keywords": [
+      "Jailer 2 OTT release",
+      "Daayra Netflix movie",
+      "Vibe Prime Video Kunal Kemmu",
+      "Ranabaali Vijay Deverakonda",
+      "Student of the Year After Dark"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2026/11/14/2761984-ott-final.jpg",
+        "caption": "OTT Releases This Week Bring Major Indian Movies and Shows to Netflix, Prime Video, and JioHotstar",
+        "source": "DNA India — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T21:40:19Z"
+  },
+  "1wiguz": {
+    "id": "1wiguz",
+    "type": "news",
+    "headline": "Janet Jackson Debuts Remarkable Weight Loss in Custom Purple Suit at the Latin Grammys",
+    "dek": "The legendary music icon turned heads at the 27th Annual Latin Grammy Awards in Las Vegas, showing off her stunning transformation and presenting a major award.",
+    "body": [
+      {
+        "h": "Stunning Appearance at the Latin Grammys",
+        "p": [
+          "Janet Jackson made a striking red carpet appearance at the 27th Annual Latin Grammy Awards held in Las Vegas. The legendary performer caught the attention of photographers and fans alike as she stepped out looking trim and confident in an oversized custom purple Luar suit featuring a cinched waistline.",
+          "Her appearance at the prestigious music ceremony marked a rare public outing for the star, who has been steadily maintaining a noticeable physical transformation over recent years. As she posed for cameras, observers couldn't help but marvel at her ageless energy and radiant presence on the carpet."
+        ]
+      },
+      {
+        "h": "Honoring Daddy Yankee and Meeting Rosalia",
+        "p": [
+          "Beyond her red carpet debut, the singer had an active role inside the venue as a presenter. She took to the stage to present the coveted Person of the Year Award to reggaeton superstar Daddy Yankee during the festivities.",
+          "Daddy Yankee later took to social media to express his gratitude, thanking Jackson for her kind words and noting how much her presence meant to him. Jackson also crossed paths with Spanish singer Rosalia, who secured the Album of the Year accolade for the third time in her career, later sharing warm congratulatory messages online."
+        ]
+      },
+      {
+        "h": "A Steady Weight Loss Journey",
+        "p": [
+          "The iconic entertainer has undergone an inspiring physical transformation over the last few years, shedding an estimated 60 pounds. Her confident stride at the Latin Grammys reflects years of personal dedication to her health and well-being.",
+          "Social media users reacted enthusiastically to her ageless look, flooding platforms with supportive comments praising her enduring elegance. Fans labeled her a queen and expressed awe at how effortlessly she commands the spotlight."
+        ]
+      },
+      {
+        "h": "Overcoming Past Body Image Struggles",
+        "p": [
+          "Jackson's current confidence stands in stark contrast to the severe body image battles she endured during her youth. In previous interviews, the singer admitted that she felt deeply unattractive as a teenager and struggled with intense emotional pain regarding her physical appearance.",
+          "Those early insecurities were further exacerbated by harsh taunts from her brothers during childhood, including her late brother Michael Jackson, who used cruel nicknames. The singer has previously shared that the psychological toll was so heavy it left her struggling to cope with her own self-image."
+        ]
+      },
+      {
+        "h": "Upcoming Performances and Legacy",
+        "p": [
+          "Looking ahead, the legendary artist is preparing to bring her talents back to the live stage this December. She is scheduled to headline a special one-off concert titled Control 40 at Florida's Amerant Bank Arena, commemorating four decades since the launch of her breakthrough album Control.",
+          "This upcoming Florida engagement follows a brief four-date arena tour held earlier in the year in Japan. Meanwhile, her enduring musical legacy continues to find new audiences, with older tracks like her 2001 single Someone To Call My Lover experiencing a viral resurgence on TikTok last year."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Janet Jackson stunned attendees at the Latin Grammys in Las Vegas by showcasing her recent weight loss in a custom purple suit while presenting an award to Daddy Yankee. The music icon continues to command attention as she prepares for her upcoming Control 40 anniversary concert in December."
+        ]
+      }
+    ],
+    "facts": [
+      "Janet Jackson is 60 years old.",
+      "The 27th Annual Latin Grammy Awards took place in Las Vegas.",
+      "Janet Jackson has lost around 60lbs in recent years.",
+      "Janet Jackson's breakthrough album Control is celebrating its 40th anniversary.",
+      "Her last studio album was Unbreakable, released in 2015."
+    ],
+    "entities": {
+      "people": [
+        "Janet Jackson",
+        "Daddy Yankee",
+        "Rosalia",
+        "Michael Jackson"
+      ],
+      "titles": [
+        "Control",
+        "Someone To Call My Lover",
+        "Unbreakable"
+      ]
+    },
+    "keywords": [
+      "Janet Jackson Latin Grammys",
+      "Janet Jackson weight loss",
+      "Janet Jackson purple suit",
+      "Janet Jackson Control 40 concert"
+    ],
+    "images": [],
+    "published": "2026-11-14T21:40:19Z"
+  },
+  "3sj8f4": {
+    "id": "3sj8f4",
+    "type": "news",
+    "headline": "Harshal Patel Set to Join Gujarat Titans in Rs 4 Crore Trade Ahead of IPL 2027",
+    "dek": "Two-time Purple Cap winner Harshal Patel is reportedly moving from Sunrisers Hyderabad to Gujarat Titans in an all-cash trade ahead of the upcoming IPL season.",
+    "body": [
+      {
+        "h": "The Proposed All-Cash Trade",
+        "p": [
+          "Reports indicate that cricketer Harshal Patel is preparing to switch franchises before the 2027 Indian Premier League season. The proposed transaction involves an all-cash transfer from Sunrisers Hyderabad to Gujarat Titans valued at Rs 4 crore.",
+          "This upcoming movement means the fast bowler will be acquired by his new team for precisely half of the financial investment that Sunrisers Hyderabad put down to secure his services during the 2025 mega auction."
+        ]
+      },
+      {
+        "h": "Auction History and Previous Valuation",
+        "p": [
+          "During the 2025 mega auction, Sunrisers Hyderabad purchased the experienced pacer for Rs 8 crore. While he initially delivered solid numbers for the franchise, management has now agreed to let him go for a reduced valuation.",
+          "Gujarat Titans had previously attempted to acquire the bowler during both the 2024 and 2025 player auctions, though those earlier efforts were ultimately unsuccessful."
+        ]
+      },
+      {
+        "h": "Performance and Recent Form",
+        "p": [
+          "The pacer has established a strong reputation in the tournament, having claimed the prestigious Purple Cap twice. He first achieved the feat with Royal Challengers Bengaluru in 2021 by taking 32 wickets, and repeated the accomplishment in 2024 while playing for Punjab Kings by collecting 24 wickets.",
+          "Following his move to Sunrisers Hyderabad, he took 16 wickets across 13 matches during his first season with an economy rate of 9.80. However, his output declined in 2026, where he played five matches without taking a wicket and recorded an economy rate of 10.82."
+        ]
+      },
+      {
+        "h": "Fit Within Gujarat Titans",
+        "p": [
+          "Should the transaction be finalized, Gujarat Titans will become the fifth different IPL franchise that the veteran player has represented since making his debut in the league back in 2012.",
+          "His arrival is expected to bolster a fast-bowling lineup that already features notable names such as Kagiso Rabada, Mohammed Siraj, Prasidh Krishna, and Jason Holder."
+        ]
+      },
+      {
+        "h": "Wider Franchise Movements",
+        "p": [
+          "Sunrisers Hyderabad has demonstrated active participation in the current trade window leading up to the 2027 competition. The organization previously brought in T Natarajan from Delhi Capitals.",
+          "Additionally, they completed a four-player swap with Chennai Super Kings that brought Khaleel Ahmed and Nathan Ellis to their roster, while sending Liam Livingstone and Jack Edwards the other way."
+        ]
+      },
+      {
+        "h": "Upcoming Deadlines",
+        "p": [
+          "All participating franchises are working to finalize their roster decisions ahead of the official retention deadline set for November 17.",
+          "Teams are preparing their retained player lists and finalizing squad compositions in anticipation of the upcoming mini auction."
+        ]
+      },
+      {
+        "h": "News Overview",
+        "p": [
+          "Harshal Patel is reportedly moving from Sunrisers Hyderabad to Gujarat Titans in an all-cash trade worth Rs 4 crore ahead of IPL 2027. The deal values the two-time Purple Cap winner at half the price he commanded at the 2025 mega auction as franchises finalize their squads before the November 17 retention deadline."
+        ]
+      }
+    ],
+    "facts": [
+      "Harshal Patel is set to move from Sunrisers Hyderabad to Gujarat Titans in an all-cash trade worth Rs 4 crore ahead of IPL 2027.",
+      "Sunrisers Hyderabad originally bought Harshal Patel for Rs 8 crore at the 2025 mega auction.",
+      "Harshal Patel won the IPL Purple Cap in 2021 with Royal Challengers Bengaluru with 32 wickets.",
+      "Harshal Patel won the IPL Purple Cap in 2024 with Punjab Kings with 24 wickets.",
+      "Harshal Patel took 16 wickets in 13 matches in his first season with Sunrisers Hyderabad at an economy rate of 9.80.",
+      "Harshal Patel featured in 5 matches without taking a wicket in IPL 2026 at an economy rate of 10.82.",
+      "Harshal Patel made his IPL debut in 2012.",
+      "Gujarat Titans' pace attack includes Kagiso Rabada, Mohammed Siraj, Prasidh Krishna, and Jason Holder.",
+      "Sunrisers Hyderabad acquired T Natarajan from Delhi Capitals.",
+      "Sunrisers Hyderabad completed a four-player trade with Chennai Super Kings bringing in Khaleel Ahmed and Nathan Ellis, while Liam Livingstone and Jack Edwards moved to CSK.",
+      "The IPL 2027 retention deadline is November 17, 2026."
+    ],
+    "entities": {
+      "people": [
+        "Harshal Patel",
+        "Riya Mishra",
+        "Kagiso Rabada",
+        "Mohammed Siraj",
+        "Prasidh Krishna",
+        "Jason Holder",
+        "T Natarajan",
+        "Khaleel Ahmed",
+        "Nathan Ellis",
+        "Liam Livingstone",
+        "Jack Edwards"
+      ],
+      "titles": []
+    },
+    "keywords": [
+      "Harshal Patel Gujarat Titans",
+      "IPL 2027 Harshal Patel trade",
+      "Sunrisers Hyderabad Gujarat Titans trade",
+      "Harshal Patel Rs 4 crore trade"
+    ],
+    "images": [
+      {
+        "url": "https://cdn-english.zeenews.com/sites/default/files/2026/11/14/6618-untitled-design-2026-11-14t182046663.jpg",
+        "caption": "Harshal Patel Set to Join Gujarat Titans in Rs 4 Crore Trade Ahead of IPL 2027",
+        "source": "Zee News — Entertainment"
+      }
+    ],
+    "published": "2026-11-14T21:40:19Z"
   }
 };

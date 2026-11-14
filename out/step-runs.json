@@ -4,45 +4,6 @@
    {
     "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-13T22:47:34Z",
-    "run_id": "43522052403",
-    "status": "success",
-    "checked": {
-     "candidates": 380,
-     "detail": "RSS/Atom items across 137 sources; 1 source(s) errored"
-    },
-    "changed": {
-     "added": [
-      "Student of the Year: After Dark X Review: Is Shanaya's Thriller Series Worth Watching? Check Tweets",
-      "Scene Box Office Day 8 (Early Update): Suriya's Film Slows Down Ahead Of 2nd Weekend; To Inch Close To 120cr",
-      "O.M Trailer X Reactions: Read 11 tweets to know netizens found Dhanush, Sai Pallavi and Mammootty's action drama",
-      "Avril Lavigne welcomes first child; keeps partner's identity under wraps",
-      "I Just Found Out Tom Holland Asked To Tailor His Odyssey Skirt Shorter For A Hilarious Reason",
-      "NCIS: NY Is Off To A Great Start, But There Are Two Subplots That I NEED To Be Resolved Quickly",
-      "Do You Think It's Unfair When DWTS Casts Actors With Dance Training? What The Internet Is Saying",
-      "Club Kid Ending: Why The Movie Doesn't Show That Reunion (Even If We Wanted To See It)",
-      "7 Sci-Fi Masterpieces Goodreads Readers Love More Than ‘Dune’",
-      "Marvel Officially Debuts New Avengers Movie on Disney+ Today",
-      "DC Fans Officially Fight Back and Demand James Gunn’s Return",
-      "5 Near-Perfect Fantasy Books, Recommended by Brandon Sanderson",
-      "‘The Rings of Power’ Officially Confirms the Moment Fans Have Waited 3 Seasons to See",
-      "3 Best Sci-Fi Books To Read This Weekend (November 14-15)",
-      "6 Thriller Miniseries That Are 10/10, No Notes",
-      "Lanterns DCU Star Aaron Pierre Gets New Die Hard-Like Action Movie From Beloved Director",
-      "Lily-Rose Depp Stuns in Hugh Hefner Playboy Movie Set Photos, Euphoria Star Joins Cast",
-      "Jimmy Kimmel Delivers Blunt Response to Donald Trump’s ‘Honorable Man’ Remark About NVIDIA CEO",
-      "Kiefer Sutherland Strongly Denies Uber Driver’s Assault Allegations Following Arrest & Lawsuit",
-      "Star Wars Just Broke a Record Nobody Thought Was Possible & It’s All Thanks to Darth Vader"
-     ],
-     "updated": [],
-     "count": 380,
-     "detail": "380 stories, 0 duplicates removed, 0 dropped"
-    },
-    "reason": null
-   },
-   {
-    "step": "fetch",
-    "category": "Trending News",
     "run_at": "2026-11-13T23:52:04Z",
     "run_id": "43530067697",
     "status": "success",
@@ -936,32 +897,48 @@
      "detail": "255 stories, 0 duplicates removed, 17 dropped"
     },
     "reason": null
-   }
-  ],
-  "apply_auto": [
+   },
    {
-    "step": "apply_auto",
+    "step": "fetch",
     "category": "Trending News",
-    "run_at": "2026-11-14T01:50:53Z",
-    "run_id": "43542836887",
+    "run_at": "2026-11-14T21:39:34Z",
+    "run_id": "43643924439",
     "status": "success",
     "checked": {
-     "candidates": 16,
-     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+     "candidates": 245,
+     "detail": "RSS/Atom items across 137 sources; 0 source(s) errored"
     },
     "changed": {
      "added": [
-      "Ramayana Hits Rs 1110 Crore Worldwide on Day 9",
-      "Nationwide FAA Ground Stop Lifted After Airspace Shutdown",
-      "Drishyam 3: The Conclusion Box Office Collection Day 43: Ajay Devgn, Tabu Film Nears Rs 589 Cr Worldwide",
-      "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster"
+      "I Love Suzanne Collins' Big Shoutout To Woody Harrelson For Making The New Hunger Games Possible",
+      "10 Movies To Watch if You Loved ‘You Can See Everything’",
+      "'Alien' Meets 'Interstellar' in Netflix's 20-Episode Sci-Fi Series Made for Your Next Binge",
+      "10 Fantasy Books That Hooked Me from the Opening Chapter",
+      "‘Percy Jackson’ Officially Returns Next Week With Its Darkest Adventure Yet",
+      "Forget 'Interstellar,' Cillian Murphy's Underrated Sci-Fi Gem Is a One-Night Must-Watch",
+      "Forget ‘Black Widow,’ Jennifer Lawrence’s Best Spy Movie Is a Masterpiece From Start to Finish",
+      "David Tennant's Near-Perfect 3-Part Crime Thriller Is Officially Being Cut From Streaming",
+      "Jonathan Nolan's 103-Episode Cyberpunk Series Feels Like a Documentary & It's Ripe For a Reboot",
+      "Fallout 4: Command Override Officially Released",
+      "Charlie Sheen Highly Encourages Two & Half Men Reunion In His New Series",
+      "All 6 Seasons Of Peaky Blinders, Ranked",
+      "Brandon Sanderson’s Teases Upcoming Book Change Because Of Dungeon Crawler Carl",
+      "10 Most Iconic Primes in Transformers History",
+      "The Mummy 4: Imhotep May Destroy Brendan Fraser’s Happy Ending",
+      "The Rings Of Power Season 3 Rewrites The Reason Sauron Creates The One Ring",
+      "Animal Crossing Meets World Of Warcraft In 9/10 Life Sim You Can Play Now",
+      "Hoobastank, Simple Plan and More Bands Performed Mid-Flight During Nationwide Air Travel Ground Stop",
+      "How Jodie Foster Took Her First Disney Voice Role In ‘Hexed’ And Lent Her Smile To Her Character – Contenders L.A.",
+      "Making ‘I Play Rocky’ Felt Like A Throwback To 1976 For The Creators – Contenders L.A."
      ],
      "updated": [],
-     "count": 9,
-     "detail": "+4 articles, +1 box-office rows, 4 rows updated"
+     "count": 234,
+     "detail": "245 stories, 0 duplicates removed, 0 dropped"
     },
     "reason": null
-   },
+   }
+  ],
+  "apply_auto": [
    {
     "step": "apply_auto",
     "category": "Trending News",
@@ -1474,27 +1451,32 @@
      "detail": "+4 articles, +0 box-office rows, 3 rows updated"
     },
     "reason": null
+   },
+   {
+    "step": "apply_auto",
+    "category": "Trending News",
+    "run_at": "2026-11-14T21:40:20Z",
+    "run_id": "43643924439",
+    "status": "success",
+    "checked": {
+     "candidates": 14,
+     "detail": "draft articles + box-office rows from out/gemini-batch.json"
+    },
+    "changed": {
+     "added": [
+      "EPF Scheme 2026: Exploring How Provident Fund Rules Might Shift During a National Crisis",
+      "OTT Releases This Week Bring Major Indian Movies and Shows to Netflix, Prime Video, and JioHotstar",
+      "Janet Jackson Debuts Remarkable Weight Loss in Custom Purple Suit at the Latin Grammys",
+      "Harshal Patel Set to Join Gujarat Titans in Rs 4 Crore Trade Ahead of IPL 2027"
+     ],
+     "updated": [],
+     "count": 7,
+     "detail": "+4 articles, +0 box-office rows, 3 rows updated"
+    },
+    "reason": null
    }
   ],
   "ott": [
-   {
-    "step": "ott",
-    "category": "OTT",
-    "run_at": "2026-11-14T00:51:37Z",
-    "run_id": "43536827519",
-    "status": "success",
-    "checked": {
-     "candidates": 321,
-     "detail": "OTT now/coming titles from the published catalogue"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0,
-     "detail": "now 312, coming 9"
-    },
-    "reason": null
-   },
    {
     "step": "ott",
     "category": "OTT",
@@ -1908,26 +1890,27 @@
      "detail": "now 323, coming 10"
     },
     "reason": "no-new-data"
-   }
-  ],
-  "trending_weekly": [
+   },
    {
-    "step": "trending_weekly",
-    "category": "Trending Topics",
-    "run_at": "2026-11-14T00:54:05Z",
-    "run_id": "43536827519",
+    "step": "ott",
+    "category": "OTT",
+    "run_at": "2026-11-14T21:40:20Z",
+    "run_id": "43643924439",
     "status": "success",
     "checked": {
-     "candidates": 100,
-     "detail": "cached Google RSS trend/article intersection"
+     "candidates": 333,
+     "detail": "OTT now/coming titles from the published catalogue"
     },
     "changed": {
      "added": [],
      "updated": [],
-     "count": 0
+     "count": 0,
+     "detail": "now 323, coming 10"
     },
     "reason": "no-new-data"
-   },
+   }
+  ],
+  "trending_weekly": [
    {
     "step": "trending_weekly",
     "category": "Trending Topics",
@@ -2383,27 +2366,35 @@
      "count": 8
     },
     "reason": null
+   },
+   {
+    "step": "trending_weekly",
+    "category": "Trending Topics",
+    "run_at": "2026-11-14T21:41:06Z",
+    "run_id": "43643924439",
+    "status": "success",
+    "checked": {
+     "candidates": 100,
+     "detail": "cached Google RSS trend/article intersection"
+    },
+    "changed": {
+     "added": [
+      "fannnz",
+      "ybqa1w",
+      "p1mudb",
+      "1s36fg0",
+      "rbayka",
+      "1ml6m6z",
+      "1y1xd9x",
+      "hrks3o"
+     ],
+     "updated": [],
+     "count": 8
+    },
+    "reason": null
    }
   ],
   "multisource_boxoffice": [
-   {
-    "step": "multisource_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-13T22:47:36Z",
-    "run_id": "43522052403",
-    "status": "success",
-    "checked": {
-     "candidates": 665,
-     "detail": "644 collected staging rows from readers; 226 averaged across 2+ sources"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 3,
-     "detail": "+0 new rows, 3 updated rows, 650 unchanged"
-    },
-    "reason": null
-   },
    {
     "step": "multisource_boxoffice",
     "category": "Box Office",
@@ -2809,19 +2800,27 @@
      "detail": "+0 new rows, 3 updated rows, 657 unchanged"
     },
     "reason": null
+   },
+   {
+    "step": "multisource_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-14T21:40:27Z",
+    "run_id": "43643924439",
+    "status": "success",
+    "checked": {
+     "candidates": 674,
+     "detail": "649 collected staging rows from readers; 228 averaged across 2+ sources"
+    },
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3,
+     "detail": "+0 new rows, 3 updated rows, 657 unchanged"
+    },
+    "reason": null
    }
   ],
   "gemini_reviews": [
-   {
-    "step": "gemini_reviews",
-    "category": "Reviews",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "gemini_reviews",
     "category": "Reviews",
@@ -3058,32 +3057,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "gemini_reviews",
+    "category": "Reviews",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "convert_news": [
-   {
-    "step": "convert_news",
-    "category": "Trending News",
-    "run_at": "2026-11-14T01:59:16Z",
-    "run_id": "43542836887",
-    "status": "success",
-    "checked": {
-     "candidates": 600,
-     "detail": "feed entries from out/queue.json"
-    },
-    "changed": {
-     "added": [
-      "Ramayana Hits Rs 1110 Crore Worldwide on Day 9",
-      "Nationwide FAA Ground Stop Lifted After Airspace Shutdown",
-      "Sony Targets Historic Oscar Push for Tom Holland's $2 Billion Blockbuster",
-      "Drishyam 3: The Conclusion Box Office Collection Day 43: Ajay Devgn, Tabu Film Nears Rs 589 Cr Worldwide"
-     ],
-     "updated": [],
-     "count": 4,
-     "detail": "api-news.json 600 items, api-trends.json 12 items"
-    },
-    "reason": null
-   },
    {
     "step": "convert_news",
     "category": "Trending News",
@@ -3596,19 +3582,32 @@
      "detail": "api-news.json 600 items, api-trends.json 12 items"
     },
     "reason": null
+   },
+   {
+    "step": "convert_news",
+    "category": "Trending News",
+    "run_at": "2026-11-14T21:41:06Z",
+    "run_id": "43643924439",
+    "status": "success",
+    "checked": {
+     "candidates": 600,
+     "detail": "feed entries from out/queue.json"
+    },
+    "changed": {
+     "added": [
+      "EPF Scheme 2026: Exploring How Provident Fund Rules Might Shift During a National Crisis",
+      "OTT Releases This Week Bring Major Indian Movies and Shows to Netflix, Prime Video, and JioHotstar",
+      "Janet Jackson Debuts Remarkable Weight Loss in Custom Purple Suit at the Latin Grammys",
+      "Harshal Patel Set to Join Gujarat Titans in Rs 4 Crore Trade Ahead of IPL 2027"
+     ],
+     "updated": [],
+     "count": 4,
+     "detail": "api-news.json 600 items, api-trends.json 12 items"
+    },
+    "reason": null
    }
   ],
   "episode_guides": [
-   {
-    "step": "episode_guides",
-    "category": "Drama Episodes",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "episode_guides",
     "category": "Drama Episodes",
@@ -3870,19 +3869,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "title_seed": [
+   },
    {
-    "step": "title_seed",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "step": "episode_guides",
+    "category": "Drama Episodes",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "title_seed": [
    {
     "step": "title_seed",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -4204,26 +4203,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "title_seed",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "gemini_batch": [
-   {
-    "step": "gemini_batch",
-    "category": "Trending News",
-    "run_at": "2026-11-13T22:47:35Z",
-    "run_id": "43522052403",
-    "status": "success",
-    "checked": {
-     "candidates": 0,
-     "detail": "daily cap 96/96 reached; batch skipped"
-    },
-    "changed": {
-     "added": [],
-     "updated": [],
-     "count": 0
-    },
-    "reason": "cap"
-   },
    {
     "step": "gemini_batch",
     "category": "Trending News",
@@ -4723,19 +4715,31 @@
      "count": 4
     },
     "reason": null
+   },
+   {
+    "step": "gemini_batch",
+    "category": "Trending News",
+    "run_at": "2026-11-14T21:40:19Z",
+    "run_id": "43643924439",
+    "status": "success",
+    "checked": {
+     "candidates": 5,
+     "detail": "news queue items drafted this run; 234 still unprocessed; today by category: movies 13/6, tv_dramas 9/4, episodes 2/2, box_office 15/6, celebrities_events 23/5, upcoming_releases 5/4, ott_streaming 9/4, trailers 3/3, awards 4/2, music_ost 5/2, viral 7/2"
+    },
+    "changed": {
+     "added": [
+      "EPF Scheme 2026: Exploring How Provident Fund Rules Might Shift During a National Crisis",
+      "OTT Releases This Week Bring Major Indian Movies and Shows to Netflix, Prime Video, and JioHotstar",
+      "Janet Jackson Debuts Remarkable Weight Loss in Custom Purple Suit at the Latin Grammys",
+      "Harshal Patel Set to Join Gujarat Titans in Rs 4 Crore Trade Ahead of IPL 2027"
+     ],
+     "updated": [],
+     "count": 4
+    },
+    "reason": null
    }
   ],
   "overseas_ai": [
-   {
-    "step": "overseas_ai",
-    "category": "Box Office",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "overseas_ai",
     "category": "Box Office",
@@ -5049,19 +5053,19 @@
      "count": 0
     },
     "reason": "no-new-data"
+   },
+   {
+    "step": "overseas_ai",
+    "category": "Box Office",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
    }
   ],
   "publish": [
-   {
-    "step": "publish",
-    "category": "Trending News",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
-    "status": "success",
-    "checked": null,
-    "changed": null,
-    "reason": "no-new-data"
-   },
    {
     "step": "publish",
     "category": "Trending News",
@@ -5401,24 +5405,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   }
-  ],
-  "stats_traffic": [
+   },
    {
-    "step": "stats_traffic",
-    "category": "Stats / Health",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "step": "publish",
+    "category": "Trending News",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "success",
     "checked": null,
     "changed": {
      "added": [],
      "updated": [],
-     "count": 35,
+     "count": 378,
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
-   },
+   }
+  ],
+  "stats_traffic": [
    {
     "step": "stats_traffic",
     "category": "Stats / Health",
@@ -5753,19 +5757,24 @@
      "detail": "lines changed in owned files; no per-item summary from script"
     },
     "reason": null
+   },
+   {
+    "step": "stats_traffic",
+    "category": "Stats / Health",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 7,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ],
   "stats_pipeline": [
-   {
-    "step": "stats_pipeline",
-    "category": "Stats / Health",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
    {
     "step": "stats_pipeline",
     "category": "Stats / Health",
@@ -6015,19 +6024,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "stats_health": [
+   },
    {
-    "step": "stats_health",
+    "step": "stats_pipeline",
     "category": "Stats / Health",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "stats_health": [
    {
     "step": "stats_health",
     "category": "Stats / Health",
@@ -6262,19 +6271,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "metadata_refresh": [
+   },
    {
-    "step": "metadata_refresh",
-    "category": "Spotlight / Coming Soon / Most Awaited",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "step": "stats_health",
+    "category": "Stats / Health",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "metadata_refresh": [
    {
     "step": "metadata_refresh",
     "category": "Spotlight / Coming Soon / Most Awaited",
@@ -6561,19 +6570,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "providers_backfill": [
+   },
    {
-    "step": "providers_backfill",
-    "category": "OTT",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "step": "metadata_refresh",
+    "category": "Spotlight / Coming Soon / Most Awaited",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "providers_backfill": [
    {
     "step": "providers_backfill",
     "category": "OTT",
@@ -6814,19 +6823,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "tavily_boxoffice": [
+   },
    {
-    "step": "tavily_boxoffice",
-    "category": "Box Office",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "step": "providers_backfill",
+    "category": "OTT",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "tavily_boxoffice": [
    {
     "step": "tavily_boxoffice",
     "category": "Box Office",
@@ -7056,19 +7065,19 @@
     "checked": null,
     "changed": null,
     "reason": "no-new-data"
-   }
-  ],
-  "keywords_refresh": [
+   },
    {
-    "step": "keywords_refresh",
-    "category": "Trending News",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "step": "tavily_boxoffice",
+    "category": "Box Office",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "keywords_refresh": [
    {
     "step": "keywords_refresh",
     "category": "Trending News",
@@ -7317,6 +7326,16 @@
     "category": "Trending News",
     "run_at": "2026-11-14T21:05:46Z",
     "run_id": "43639615930",
+    "status": "skipped",
+    "checked": null,
+    "changed": null,
+    "reason": "gate"
+   },
+   {
+    "step": "keywords_refresh",
+    "category": "Trending News",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
@@ -7835,16 +7854,6 @@
    {
     "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
-    "status": "skipped",
-    "checked": null,
-    "changed": null,
-    "reason": "gate"
-   },
-   {
-    "step": "advance_booking",
-    "category": "Box Office",
     "run_at": "2026-11-13T23:55:58Z",
     "run_id": "43530067697",
     "status": "skipped",
@@ -8081,19 +8090,19 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
-   }
-  ],
-  "home_boxoffice_worldwide": [
+   },
    {
-    "step": "home_boxoffice_worldwide",
+    "step": "advance_booking",
     "category": "Box Office",
-    "run_at": "2026-11-13T22:47:47Z",
-    "run_id": "43522052403",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
     "status": "skipped",
     "checked": null,
     "changed": null,
     "reason": "gate"
-   },
+   }
+  ],
+  "home_boxoffice_worldwide": [
    {
     "step": "home_boxoffice_worldwide",
     "category": "Box Office",
@@ -8358,8 +8367,23 @@
     "checked": null,
     "changed": null,
     "reason": "gate"
+   },
+   {
+    "step": "home_boxoffice_worldwide",
+    "category": "Box Office",
+    "run_at": "2026-11-14T21:41:18Z",
+    "run_id": "43643924439",
+    "status": "success",
+    "checked": null,
+    "changed": {
+     "added": [],
+     "updated": [],
+     "count": 3548,
+     "detail": "lines changed in owned files; no per-item summary from script"
+    },
+    "reason": null
    }
   ]
  },
- "updated_at": "2026-11-14T21:05:46Z"
+ "updated_at": "2026-11-14T21:41:18Z"
 }
